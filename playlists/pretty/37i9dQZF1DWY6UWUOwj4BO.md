@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,206 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,236 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 4 | [The Ballet Girl \(Adagio\)](https://open.spotify.com/track/0dsqEnxjtvkUan8zePPjLT) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 2](https://open.spotify.com/album/3LGjHu7cfkesscGwoUP5gV) | 2:56 |
 | 5 | [I Don't Wanna Wait \- Acoustic](https://open.spotify.com/track/3kZ2KSpxRmbdiAL7IOjawQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait \- Acoustic](https://open.spotify.com/album/3ICGn2SlvLwgYDN8i7bWR0) | 2:32 |
 | 6 | [Gimme Love \- Sofiane Pamart Remix](https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Gimme Love \(Sofiane Pamart Remix\)](https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI) | 2:42 |
-| 7 | [Roots \- Acoustic Version](https://open.spotify.com/track/3zu10Jghv3lbREOr5cBD43) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots \- Acoustic Version](https://open.spotify.com/album/5vxVuYhWPvINiBHwTmLKmx) | 2:48 |
+| 7 | [Roots \- Acoustic Version](https://open.spotify.com/track/3zu10Jghv3lbREOr5cBD43) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots \(Acoustic Version\)](https://open.spotify.com/album/5vxVuYhWPvINiBHwTmLKmx) | 2:48 |
 | 8 | [TEXAS HOLD 'EM \- Acoustic Version](https://open.spotify.com/track/1LRHlYrMb8Bn3poC5lixyV) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [TEXAS HOLD 'EM \(Acoustic Version\)](https://open.spotify.com/album/69DFowWwyCZmU9rD4uJZvB) | 3:10 |
 | 9 | [Ceux qu'on était \- Version acoustique](https://open.spotify.com/track/03Nu6igh7gtptMbgJrcdrk) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/4JdvSrnVF0r39NGMm1Xree) | 3:20 |
 | 10 | [Is It Love \- Orchestral Version](https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love \(Orchestral Version\)](https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT) | 4:09 |

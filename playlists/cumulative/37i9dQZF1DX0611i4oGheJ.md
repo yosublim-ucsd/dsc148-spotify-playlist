@@ -384,6 +384,6 @@
 | [You Say](https://open.spotify.com/track/2Rd6MWkSlWiZdmdBYAOQgP) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Dori Freeman](https://open.spotify.com/album/1fNeNleD7ljfyW9IDnymut) | 2:54 | 2021-10-22 | 2022-05-02 |
 | [You Sigh](https://open.spotify.com/track/2Gsare6GuBE2Ph3zJanNKl) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs) | 2:58 | 2022-05-27 | 2023-06-16 |
 | [You Sigh](https://open.spotify.com/track/38vsMOGABG97FQGRN2Yc4z) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 2:58 | 2023-05-19 | 2024-04-19 |
-| [Your Garden \- Reimagined](https://open.spotify.com/track/03rQ7EPH4B8FDj873S4uVO) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH), [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Your Garden \- Reimagined](https://open.spotify.com/album/5SrLUP0ppsI5NaoiZ9rB6c) | 3:26 | 2024-07-05 |  |
+| [Your Garden \- Reimagined](https://open.spotify.com/track/03rQ7EPH4B8FDj873S4uVO) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH), [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Your Garden \(Reimagined\)](https://open.spotify.com/album/5SrLUP0ppsI5NaoiZ9rB6c) | 3:26 | 2024-07-05 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

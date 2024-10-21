@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Lambrini Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,394 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,466 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 33 | [The Library](https://open.spotify.com/track/65G7sxhSzSth52mEdegn9s) | [The Barbarians of California](https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO) | [And Now I'm Just Gnashing My Teeth](https://open.spotify.com/album/6YLHjXokWtPT8ADt6F9bn4) | 3:14 |
 | 34 | [invitation](https://open.spotify.com/track/4ezj31ZoVud9okr6X7lCra) | [Neumatic Parlo](https://open.spotify.com/artist/77osebGi21LV8GCNEzMYoO) | [play it as it lays](https://open.spotify.com/album/2GnKJzWwLufAYnZNmySa08) | 3:09 |
 | 35 | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/track/3IN7iNZ2dZvxK60BvbTSN7) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/album/2UukzlfOmjhvwOvBs8z4c9) | 3:04 |
-| 36 | [Without Msg I Am Nothing \- 2024 Remaster](https://open.spotify.com/track/6mvrGntqZdIqPrOFJu5xRg) | [Mclusky](https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE) | [The Difference Between Me and You Is That I'm Not On Fire \- 2024 Remaster](https://open.spotify.com/album/5fiD9eDvMtmB6a2YTNEF8T) | 2:56 |
+| 36 | [Without Msg I Am Nothing \- 2024 Remaster](https://open.spotify.com/track/6mvrGntqZdIqPrOFJu5xRg) | [Mclusky](https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE) | [The Difference Between Me and You Is That I'm Not On Fire \(2024 Remaster\)](https://open.spotify.com/album/5fiD9eDvMtmB6a2YTNEF8T) | 2:56 |
 | 37 | [Sufre Kabrón](https://open.spotify.com/track/6UOhEb5hNZNkoUPMesa2GJ) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Sufre Kabrón](https://open.spotify.com/album/1ITlttocLRA2QA4ZCT7fqP) | 2:39 |
 | 38 | [Delusional](https://open.spotify.com/track/7d8RNQtTsLsPk0ya4TjnwS) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Delusional](https://open.spotify.com/album/5XFcseNU3UZrTfuKBaZ8lE) | 2:29 |
 | 39 | [Gossip](https://open.spotify.com/track/7CrDzSEaTaZ4WjizyXSNoI) | [Binmen](https://open.spotify.com/artist/1IFtNFMII2PUtt6ixvftRb) | [Gossip](https://open.spotify.com/album/1Z69kdTL473xwnEe8Qa4dm) | 2:45 |

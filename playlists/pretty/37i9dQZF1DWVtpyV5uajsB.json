@@ -1,15 +1,47 @@
 {
   "description": "Listen to the soundtracks of Family By Choice. (\uc870\ub9bd\uc2dd \uac00\uc871\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
-  "num_followers": 95,
+  "num_followers": 135,
   "original_name": "\uc870\ub9bd\uc2dd \uac00\uc871 (Family By Choice)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw8uJwAAAADF/NiPJH39SjZM96xSr4Tg",
+  "snapshot_id": "ZxWvDAAAAABv3yZlvpvb1PUPqUZvptoN",
   "tracks": [
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/0fN94YJdwIdnyL4X5Y0Wk9"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 235178,
+      "name": "Us in Those Days",
+      "url": "https://open.spotify.com/track/5Kz2NMX6k4K0vNWaPbbp1Y"
+    },
+    {
+      "added_at": "2024-10-21 01:31:56",
+      "album": {
+        "name": "Family by Choice Audio Liners",
+        "url": "https://open.spotify.com/album/2AF7oPt7mYFNCNOrn462CB"
+      },
+      "artists": [
+        {
+          "name": "Family by Choice",
+          "url": "https://open.spotify.com/artist/6ie4KDy332c7PKEYZp5FsF"
+        }
+      ],
+      "duration_ms": 37750,
+      "name": "Curated by Hwang In Youp",
+      "url": "https://open.spotify.com/track/6FLY9tXZv2pLJdw4vkp0nW"
+    },
+    {
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "That's okay",
         "url": "https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf"
@@ -25,7 +57,7 @@
       "url": "https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "NEXT EPISODE",
         "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/4t2FIqZJORKZGSKg30SShr"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "SEOULITE",
         "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "Chapter 3",
         "url": "https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn"
@@ -77,7 +109,7 @@
       "url": "https://open.spotify.com/track/2APM0MB4txhD5Oir3Ahae2"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "Walking Together",
         "url": "https://open.spotify.com/album/286U6R2fhZmWXDKCRkHbZn"
@@ -93,7 +125,23 @@
       "url": "https://open.spotify.com/track/143MWj1w7d5G5Hpn2bYyqv"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
+      "album": {
+        "name": "Family by Choice Audio Liners",
+        "url": "https://open.spotify.com/album/2AF7oPt7mYFNCNOrn462CB"
+      },
+      "artists": [
+        {
+          "name": "Family by Choice",
+          "url": "https://open.spotify.com/artist/6ie4KDy332c7PKEYZp5FsF"
+        }
+      ],
+      "duration_ms": 43000,
+      "name": "Curated by Jung Chae Yeon",
+      "url": "https://open.spotify.com/track/6OdUoHMyjvBlRXocluAXC1"
+    },
+    {
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "YOLO",
         "url": "https://open.spotify.com/album/6iJzdFBjkKgszQ4GMNzZer"
@@ -109,7 +157,7 @@
       "url": "https://open.spotify.com/track/6JaBTAsn2xx1zk54jcNpvq"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "No.1 - The 2nd Album",
         "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
@@ -125,7 +173,7 @@
       "url": "https://open.spotify.com/track/3TizzRfLv29Iv3wUgCSQ77"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "Oldskool",
         "url": "https://open.spotify.com/album/54VKoIUDgO7V5h3H2Ff2i2"
@@ -141,7 +189,7 @@
       "url": "https://open.spotify.com/track/2Q7kTdM2rHHJiP8ikFw12o"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "Ditto",
         "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
@@ -157,7 +205,7 @@
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "Jang Hye Ri (I`ll Give You My Love/Ballad of Memories)",
         "url": "https://open.spotify.com/album/1AQQJeXi1amL9Dc2ElNM98"
@@ -177,7 +225,23 @@
       "url": "https://open.spotify.com/track/3WfKOD01gbnqV6WwjtifXf"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
+      "album": {
+        "name": "Family by Choice Audio Liners",
+        "url": "https://open.spotify.com/album/2AF7oPt7mYFNCNOrn462CB"
+      },
+      "artists": [
+        {
+          "name": "Family by Choice",
+          "url": "https://open.spotify.com/artist/6ie4KDy332c7PKEYZp5FsF"
+        }
+      ],
+      "duration_ms": 37750,
+      "name": "Curated by Bae Hyeon Seong",
+      "url": "https://open.spotify.com/track/30a4CeCW62yESEM2aCkrlG"
+    },
+    {
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "Very Good",
         "url": "https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww"
@@ -193,7 +257,7 @@
       "url": "https://open.spotify.com/track/1YfVQeKmnq3xwz7U3pPYZs"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "Resurrection - The 3rd Album",
         "url": "https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4"
@@ -209,7 +273,7 @@
       "url": "https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "Celebrity",
         "url": "https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g"
@@ -225,7 +289,7 @@
       "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
@@ -241,7 +305,7 @@
       "url": "https://open.spotify.com/track/4gMPlHHAjOQnUrhsuqHivn"
     },
     {
-      "added_at": "2024-10-16 03:08:23",
+      "added_at": "2024-10-21 01:31:56",
       "album": {
         "name": "Linger On",
         "url": "https://open.spotify.com/album/4pGKlXNo6TKQame8hMFZI7"
@@ -255,6 +319,22 @@
       "duration_ms": 229867,
       "name": "Linger On",
       "url": "https://open.spotify.com/track/7e256LLur2qADLXIJbsMEK"
+    },
+    {
+      "added_at": "2024-10-21 01:31:56",
+      "album": {
+        "name": "Family by Choice (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/0fN94YJdwIdnyL4X5Y0Wk9"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "duration_ms": 235178,
+      "name": "Us in Those Days - Instrumental",
+      "url": "https://open.spotify.com/track/2HiR51CAg8MATaPWBt7w2b"
     }
   ],
   "unique_name": "\uc870\ub9bd\uc2dd \uac00\uc871 (Family By Choice)",

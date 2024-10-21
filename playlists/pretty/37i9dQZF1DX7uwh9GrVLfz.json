@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: OCHA\u221eME",
-  "num_followers": 123678,
+  "num_followers": 123702,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "REALIFE",
-        "url": "https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA"
-      },
-      "artists": [
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "RIVER",
-      "url": "https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
         "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
       },
@@ -347,22 +331,6 @@
       "duration_ms": 234627,
       "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
       "url": "https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
-        "name": "\u307d",
-        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
-      },
-      "artists": [
-        {
-          "name": "B-DASH",
-          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "\u3061\u3087",
-      "url": "https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -387,18 +355,18 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "\u3042\u306e\u65e5\u3001\u3042\u306e\u5834\u6240/\u7729\u5149",
-        "url": "https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c"
+        "name": "REALIFE",
+        "url": "https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA"
       },
       "artists": [
         {
-          "name": "WANIMA",
-          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
         }
       ],
-      "duration_ms": 214500,
-      "name": "\u7729\u5149",
-      "url": "https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp"
+      "duration_ms": 261360,
+      "name": "RIVER",
+      "url": "https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -419,7 +387,39 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "Straight Up",
+        "name": "\u3042\u306e\u65e5\u3001\u3042\u306e\u5834\u6240/\u7729\u5149",
+        "url": "https://open.spotify.com/album/1VSTDVmonKezz5ZiBtc66c"
+      },
+      "artists": [
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "\u7729\u5149",
+      "url": "https://open.spotify.com/track/0Imzg052WsTbxUNDMnZhmp"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "\u307d",
+        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
+      },
+      "artists": [
+        {
+          "name": "B-DASH",
+          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "\u3061\u3087",
+      "url": "https://open.spotify.com/track/49pPQ1kOFA3gWhojvc1VEA"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "Straight Up (feat. Kj)",
         "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
       },
       "artists": [
@@ -433,7 +433,7 @@
         }
       ],
       "duration_ms": 252300,
-      "name": "Straight Up",
+      "name": "Straight Up (feat. Kj)",
       "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
     },
     {
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "GOD SAVE THE \u308f\u30fc\u308b\u3069",
-        "url": "https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3"
-      },
-      "artists": [
-        {
-          "name": "GING NANG BOYZ",
-          "url": "https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m"
-        }
-      ],
-      "duration_ms": 290600,
-      "name": "Maji\u3067Koi\u3059\u308b5\u79d2\u524d",
-      "url": "https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "\u30d9\u30b9\u30c8 \u30aa\u30d6 \u30b4\u30fc!\u30b4\u30fc!",
         "url": "https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 153866,
       "name": "Love song",
       "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "GOD SAVE THE \u308f\u30fc\u308b\u3069",
+        "url": "https://open.spotify.com/album/4evwWu8G2UQvNEo8U1sxF3"
+      },
+      "artists": [
+        {
+          "name": "GING NANG BOYZ",
+          "url": "https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m"
+        }
+      ],
+      "duration_ms": 290600,
+      "name": "Maji\u3067Koi\u3059\u308b5\u79d2\u524d",
+      "url": "https://open.spotify.com/track/77lXKVqKTfVJEnq6Q4O95e"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "TRACK~Single Collection&More",
-        "url": "https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca"
-      },
-      "artists": [
-        {
-          "name": "Snail Ramp",
-          "url": "https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx"
-        }
-      ],
-      "duration_ms": 217266,
-      "name": "MIND YOUR STEP!",
-      "url": "https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "Indian Burn",
         "url": "https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 174985,
       "name": "These Magic Words",
       "url": "https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "TRACK~Single Collection&More",
+        "url": "https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca"
+      },
+      "artists": [
+        {
+          "name": "Snail Ramp",
+          "url": "https://open.spotify.com/artist/1FXeQKrufIqfjNAPPV4bfx"
+        }
+      ],
+      "duration_ms": 217266,
+      "name": "MIND YOUR STEP!",
+      "url": "https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
+        "name": "\u30e1\u30b8\u30e3\u30fc\u30c7\u30d3\u30e5\u30fc\u3068\u3044\u3046\u30dc\u30b1",
+        "url": "https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ"
+      },
+      "artists": [
+        {
+          "name": "suxingcyu",
+          "url": "https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "\u30af\u30e9\u30fc\u30af\u535a\u58eb\u3068\u50d5",
+      "url": "https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
         "name": "Harvest",
         "url": "https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ"
       },
@@ -935,6 +951,38 @@
       "duration_ms": 101306,
       "name": "Every",
       "url": "https://open.spotify.com/track/5gzlFI9vHINA48pTJD7PeA"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "duration_ms": 236839,
+      "name": "\u30bf\u30a4\u30e0\u30bb\u30fc\u30eb\u9003\u3057\u3066\u304f\u308c - 2024 ver.",
+      "url": "https://open.spotify.com/track/4LN4Rw0oulmSrl8F62mtcU"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "GRIP",
+        "url": "https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM"
+      },
+      "artists": [
+        {
+          "name": "Husking Bee",
+          "url": "https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy"
+        }
+      ],
+      "duration_ms": 133133,
+      "name": "WALK",
+      "url": "https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -955,34 +1003,18 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "\u30e1\u30b8\u30e3\u30fc\u30c7\u30d3\u30e5\u30fc\u3068\u3044\u3046\u30dc\u30b1",
-        "url": "https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ"
+        "name": "\u307d",
+        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
       },
       "artists": [
         {
-          "name": "suxingcyu",
-          "url": "https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP"
+          "name": "B-DASH",
+          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
         }
       ],
-      "duration_ms": 138000,
-      "name": "\u30af\u30e9\u30fc\u30af\u535a\u58eb\u3068\u50d5",
-      "url": "https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
-        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
-        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "duration_ms": 236839,
-      "name": "\u30bf\u30a4\u30e0\u30bb\u30fc\u30eb\u9003\u3057\u3066\u304f\u308c - 2024 ver.",
-      "url": "https://open.spotify.com/track/4LN4Rw0oulmSrl8F62mtcU"
+      "duration_ms": 200840,
+      "name": "\u611b\u3059\u308bPOW",
+      "url": "https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1019,38 +1051,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "\u307d",
-        "url": "https://open.spotify.com/album/4Ug3HlCExkmj08eGUifjbY"
-      },
-      "artists": [
-        {
-          "name": "B-DASH",
-          "url": "https://open.spotify.com/artist/1ZUagrWzR2kve94ptFLdSz"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "\u611b\u3059\u308bPOW",
-      "url": "https://open.spotify.com/track/319lAdDWeZxW4YH3nFECUo"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
-        "name": "GRIP",
-        "url": "https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM"
-      },
-      "artists": [
-        {
-          "name": "Husking Bee",
-          "url": "https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy"
-        }
-      ],
-      "duration_ms": 133133,
-      "name": "WALK",
-      "url": "https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "\u68b5\u5504 -bonbai-",
-        "url": "https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx"
-      },
-      "artists": [
-        {
-          "name": "BRAHMAN",
-          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "\u4eca\u591c",
-      "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
         "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 142023,
       "name": "22",
       "url": "https://open.spotify.com/track/54v2yRvHP4rdKNZLtyBbbQ"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "\u68b5\u5504 -bonbai-",
+        "url": "https://open.spotify.com/album/15iY1BT28NYAxP1I6TTkXx"
+      },
+      "artists": [
+        {
+          "name": "BRAHMAN",
+          "url": "https://open.spotify.com/artist/65ZxfiilUIYWNEpDjrHaM5"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "\u4eca\u591c",
+      "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
+        "name": "77 Days",
+        "url": "https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib"
+      },
+      "artists": [
+        {
+          "name": "KEMURI",
+          "url": "https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp"
+        }
+      ],
+      "duration_ms": 143266,
+      "name": "Ohichyo",
+      "url": "https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
         "name": "GRAVITY",
         "url": "https://open.spotify.com/album/7AotoltMCQTbLyVq73371i"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 220200,
       "name": "HOTARU NO HIKARI",
       "url": "https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
-        "name": "77 Days",
-        "url": "https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib"
-      },
-      "artists": [
-        {
-          "name": "KEMURI",
-          "url": "https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp"
-        }
-      ],
-      "duration_ms": 143266,
-      "name": "Ohichyo",
-      "url": "https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "\u5929\u4f7f\u306b\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044",
-        "url": "https://open.spotify.com/album/7IpuaGkwY82D6R0uQgZAJo"
-      },
-      "artists": [
-        {
-          "name": "PK shampoo",
-          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
-        }
-      ],
-      "duration_ms": 172053,
-      "name": "\u5929\u4f7f\u306b\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044",
-      "url": "https://open.spotify.com/track/4i8VGvlJnZJrw7y5TBfMoT"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "\u6c38\u9060\u885d\u52d5",
         "url": "https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 136360,
       "name": "\u7981\u65ad\u75c7\u72b6",
       "url": "https://open.spotify.com/track/0Vfgnv75toBF6micnr8Du6"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "\u5929\u4f7f\u306b\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/7IpuaGkwY82D6R0uQgZAJo"
+      },
+      "artists": [
+        {
+          "name": "PK shampoo",
+          "url": "https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ"
+        }
+      ],
+      "duration_ms": 172053,
+      "name": "\u5929\u4f7f\u306b\u306a\u308b\u304b\u3082\u3057\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/4i8VGvlJnZJrw7y5TBfMoT"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "Goo Goo Goo",
-        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
-      },
-      "artists": [
-        {
-          "name": "PAN",
-          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
-      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "\u8f1d\u304f\u3082\u306e\u5929\u3088\u308a\u5815\u3061",
         "url": "https://open.spotify.com/album/77Ll0Q93NYrFRA6lsF5UpK"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 144653,
       "name": "\u3072\u3068\u3064\u306e\u66f2\u304c\u3067\u304d\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/5WzC0LHb2Ebb6Jz0v56D8y"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "Goo Goo Goo",
+        "url": "https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE"
+      },
+      "artists": [
+        {
+          "name": "PAN",
+          "url": "https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T"
+        }
+      ],
+      "duration_ms": 192453,
+      "name": "\"Let it die -Subete wa isutori game-\" (Let it die -All is musical chairs-)",
+      "url": "https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
+        "name": "ENTH",
+        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
+      },
+      "artists": [
+        {
+          "name": "ENTH",
+          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "SCUM DOGS FART",
+      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
         "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
@@ -1487,6 +1503,22 @@
       "duration_ms": 164313,
       "name": "HAPPY BIRTHDAY",
       "url": "https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "Seeding",
+        "url": "https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns"
+      },
+      "artists": [
+        {
+          "name": "BACK LIFT",
+          "url": "https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1507,38 +1539,6 @@
       "duration_ms": 268826,
       "name": "Sink Like a Stone - feat.Hiro(from MY FIRST STORY)",
       "url": "https://open.spotify.com/track/38dZp5FWfEdtMrZ9chM6f1"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
-        "name": "ENTH",
-        "url": "https://open.spotify.com/album/0NvEsQvg5KriD3nXI5fpQQ"
-      },
-      "artists": [
-        {
-          "name": "ENTH",
-          "url": "https://open.spotify.com/artist/6PmcG3GSDpsgO9yqAyaXBz"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "SCUM DOGS FART",
-      "url": "https://open.spotify.com/track/5hI3SUAIID43IEcoIICOfN"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
-        "name": "Seeding",
-        "url": "https://open.spotify.com/album/1RtRvUfTvz2JxVqqi4k6Ns"
-      },
-      "artists": [
-        {
-          "name": "BACK LIFT",
-          "url": "https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/2z4GICCEgREmuhDxd8z2Mn"
     },
     {
       "added_at": "2024-10-15 15:00:00",

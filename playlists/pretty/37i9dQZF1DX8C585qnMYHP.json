@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Mabe Fratti on cover. Artwork by Thami Nabil",
-  "num_followers": 174662,
+  "num_followers": 174734,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "United Kingdom Of Anxiety",
-        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 196982,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
-    },
-    {
       "added_at": "2024-08-07 03:33:24",
       "album": {
         "name": "Do Something!",
@@ -635,6 +619,22 @@
       "duration_ms": 131660,
       "name": "Do Something!",
       "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "United Kingdom Of Anxiety",
+        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 196982,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
     },
     {
       "added_at": "2024-10-02 18:17:59",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Vou Ficar Neste Quadrado",
+        "url": "https://open.spotify.com/album/2PhGH5fdz5o8r0eyhVr9KT"
+      },
+      "artists": [
+        {
+          "name": "Ana Lua Caiano",
+          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
+        }
+      ],
+      "duration_ms": 159026,
+      "name": "Vou Ficar Neste Quadrado",
+      "url": "https://open.spotify.com/track/6B8LVrElkXeTdIJooLtMTP"
+    },
+    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Hailu",
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "Vou Ficar Neste Quadrado",
-        "url": "https://open.spotify.com/album/2PhGH5fdz5o8r0eyhVr9KT"
-      },
-      "artists": [
-        {
-          "name": "Ana Lua Caiano",
-          "url": "https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF"
-        }
-      ],
-      "duration_ms": 159026,
-      "name": "Vou Ficar Neste Quadrado",
-      "url": "https://open.spotify.com/track/6B8LVrElkXeTdIJooLtMTP"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
         "name": "Moon in Gemini",
         "url": "https://open.spotify.com/album/6kDMzjTu5l7kpNcWE1h5mz"
       },
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Plays Stewart Copeland",
-        "url": "https://open.spotify.com/album/0jNrPsoL9SCu7oBffUJuzm"
-      },
-      "artists": [
-        {
-          "name": "Elbtonal Percussion",
-          "url": "https://open.spotify.com/artist/4jU6qaM5xefdW9O12GXX7L"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "The Mud Lions",
-      "url": "https://open.spotify.com/track/69mRQWc56zEKt1YLQZLANw"
-    },
-    {
       "added_at": "2024-03-20 13:59:17",
       "album": {
         "name": "L4TA",
@@ -1343,6 +1327,22 @@
       "duration_ms": 68110,
       "name": "wearywatergod",
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Plays Stewart Copeland",
+        "url": "https://open.spotify.com/album/0jNrPsoL9SCu7oBffUJuzm"
+      },
+      "artists": [
+        {
+          "name": "Elbtonal Percussion",
+          "url": "https://open.spotify.com/artist/4jU6qaM5xefdW9O12GXX7L"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "The Mud Lions",
+      "url": "https://open.spotify.com/track/69mRQWc56zEKt1YLQZLANw"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1597,6 +1597,22 @@
       "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
     },
     {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Panamanian Nights",
+        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
+      },
+      "artists": [
+        {
+          "name": "SONSO",
+          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Afro American",
+      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
+    },
+    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "Magia Lumen",
@@ -1615,22 +1631,6 @@
       "duration_ms": 303000,
       "name": "Fight For",
       "url": "https://open.spotify.com/track/676csBHpEkLxunlWpYtAT3"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Panamanian Nights",
-        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
-      },
-      "artists": [
-        {
-          "name": "SONSO",
-          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Afro American",
-      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
     },
     {
       "added_at": "2024-09-18 04:00:00",

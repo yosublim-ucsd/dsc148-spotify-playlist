@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Paulo Cesar Baruk
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,502 likes - 51 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,520 likes - 51 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 30 | [Ainda Tem Lugar \- Ao Vivo](https://open.spotify.com/track/3fRQ0zWzxJ65qdYD8Y3M2D) | [Larissa Pires](https://open.spotify.com/artist/5kubUHpl6KW4BvklLZa3nP) | [Ainda Tem Lugar \(Ao Vivo\)](https://open.spotify.com/album/0DIqCKsC1vXdufAZ9XD2G0) | 7:08 |
 | 31 | [Pelo Sangue de Jesus \(Legado\)](https://open.spotify.com/track/05Q2xMP0ezGYW9W3jgpkZf) | [Álvaro Tito](https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT) | [Pelo Sangue de Jesus \(Legado\)](https://open.spotify.com/album/1VIFpxozqLCmE8KWvkPzo4) | 3:24 |
 | 32 | [Só Um Garoto](https://open.spotify.com/track/0DIxoZJxWUubCQZOAgUYBp) | [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP), [Mc Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc), [Dbruine](https://open.spotify.com/artist/0QpkguUWxW0hiUbsGUcYJA) | [Só Um Garoto](https://open.spotify.com/album/1eRlrTjewlebq3Wht4nUXs) | 3:31 |
-| 33 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/7kaB95BAAXXiW1JfO9qwvi) | [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Tua Presença \- Ao Vivo](https://open.spotify.com/album/0Uhov3MmQJ4Yjm56nIQnTI) | 5:12 |
+| 33 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/7kaB95BAAXXiW1JfO9qwvi) | [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e), [Sérgio Saas](https://open.spotify.com/artist/65rKTjpApvYG1JCzXGfFLH) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0Uhov3MmQJ4Yjm56nIQnTI) | 5:12 |
 | 34 | [Acalma Minha Alma](https://open.spotify.com/track/6k5Dl3GTS1IuAfNN6Ad6UO) | [Amanda Ferrari](https://open.spotify.com/artist/75wI9bTpjKQgKTBfYNzs4W) | [Acalma Minha Alma](https://open.spotify.com/album/0qH4nZizg6wDmHdbwFw7d2) | 3:41 |
 | 35 | [Mãe do Novo Homem](https://open.spotify.com/track/1nbrHBwXl9LyBtxWC5MMev) | [Polyana Demori](https://open.spotify.com/artist/3dE83ofJj1x0vLryYtF7Tb), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Mãe do Novo Homem](https://open.spotify.com/album/1l3H8zSobR0MG9AWs3jRV0) | 5:47 |
 | 36 | [Wave](https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0) | [EMIDÊ](https://open.spotify.com/artist/0nLvcz7CwG1lYeFbXVHLKQ), [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Wave](https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX) | 2:38 |

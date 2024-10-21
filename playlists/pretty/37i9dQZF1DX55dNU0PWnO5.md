@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,170 likes - 200 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,209 likes - 200 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [EEEEEE](https://open.spotify.com/track/4cwZccylplyt4Q5dJP5HBR) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [EEEEEE](https://open.spotify.com/album/2dk4jep9MfQytEnNhepL2k) | 2:21 |
 | 2 | [Integers Ain't](https://open.spotify.com/track/4uDmxKAGTvpBZ61NTFwmgi) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8) | [GOLDILOX](https://open.spotify.com/album/4IPHs5pOr57kUsD1nHBoSU) | 2:05 |
-| 3 | [Homesick \- Marble Sun Remix](https://open.spotify.com/track/0iMcKjVSpKZc9UWS6l7JJZ) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Marble Sun](https://open.spotify.com/artist/59LnVNZ53Em2V1GvHKuo9f) | [Homesick \- Marble Sun Remix](https://open.spotify.com/album/5ybFXsD5KEXOH3Oh1OcdCz) | 5:17 |
+| 3 | [Homesick \- Marble Sun Remix](https://open.spotify.com/track/0iMcKjVSpKZc9UWS6l7JJZ) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Marble Sun](https://open.spotify.com/artist/59LnVNZ53Em2V1GvHKuo9f) | [Homesick \(Marble Sun Remix\)](https://open.spotify.com/album/5ybFXsD5KEXOH3Oh1OcdCz) | 5:17 |
 | 4 | [No\-One \(K\)new](https://open.spotify.com/track/54haHgocgHPec2TrAdjRmA) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Soft Serve \(Saxually Active Vol\. 2\)](https://open.spotify.com/album/2sv1Ftc2iiBM52DJwvLYZt) | 2:53 |
 | 5 | [Eating Stars](https://open.spotify.com/track/7euExgLs6Biwgay4LgXmAd) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg) | [Eating Stars](https://open.spotify.com/album/4HWYpLapCz4IrxJqq3wvgW) | 2:55 |
 | 6 | [NASCIMENTO](https://open.spotify.com/track/1wBy8fYNbGi2Wbt2lVOEES) | [Gianni´s Humble](https://open.spotify.com/artist/0IPxHQWLOiFdARIMSBtLZr), [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9), [Levi Hayes](https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu) | [NASCIMENTO](https://open.spotify.com/album/1zd0CYmphAvKcdJv31hYje) | 3:35 |

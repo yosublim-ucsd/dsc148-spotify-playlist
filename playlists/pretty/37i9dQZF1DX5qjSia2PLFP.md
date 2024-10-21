@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next in their regions and beyond\. Cover: <a href="spotify:artist:1IppGzPqPv70sKbraW5Q2L">Baby Kia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,287 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,355 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: LNY TNZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,543 likes - 115 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,591 likes - 115 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 41 | [Party All The Time](https://open.spotify.com/track/7MxyjShs8F5zq2iiiIwdQ1) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Party All The Time](https://open.spotify.com/album/4eejWz2lmDQFjwEcI5SFhN) | 2:44 |
 | 42 | [Favourite Song](https://open.spotify.com/track/5jt7ngF0zlquhwOMqvUv8I) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Favourite Song](https://open.spotify.com/album/7zY6hCEcLzK3WDmYTBVNhX) | 3:30 |
 | 43 | [The Chant \(feat\. Savage\) \- Anderex Remix](https://open.spotify.com/track/0R5b077FeKtfxsRffHsPrJ) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz), [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [The Chant \(feat\. Savage\) \- Anderex Remix](https://open.spotify.com/album/2JpP9DHtV1Zje3IX5qOdkz) | 2:33 |
-| 44 | [Global Revolution \- Hard Destiny Remix](https://open.spotify.com/track/2GXXFU0YOSKU4xWLVUxi5Q) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Hard Destiny](https://open.spotify.com/artist/5vsJTnaUdtxGhZjwdS6htR) | [Global Revolution \- Hard Destiny Remix](https://open.spotify.com/album/6LKcolPM3bBXgJj4mqpC1v) | 2:31 |
+| 44 | [Global Revolution \- Hard Destiny Remix](https://open.spotify.com/track/2GXXFU0YOSKU4xWLVUxi5Q) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC), [Hard Destiny](https://open.spotify.com/artist/5vsJTnaUdtxGhZjwdS6htR) | [Global Revolution \(Hard Destiny Remix\)](https://open.spotify.com/album/6LKcolPM3bBXgJj4mqpC1v) | 2:31 |
 | 45 | [My Beautiful Fantasy \(Kronos Remix\)](https://open.spotify.com/track/2F3dGroX2eQehPdb8qoM10) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT), [B\-Front](https://open.spotify.com/artist/6Xhhpra0X0hpvC3yZaQ0Du), [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD) | [My Beautiful Fantasy \(Kronos Remix\)](https://open.spotify.com/album/7ujAlt20GGG7lZM8rzGYd9) | 3:27 |
 | 46 | [2 GENERATIONS](https://open.spotify.com/track/2UUYVL7dpLBNbEuQVCXtby) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Coldax](https://open.spotify.com/artist/3tvxgwBiEJppR8l3pGgAeZ) | [2 GENERATIONS](https://open.spotify.com/album/1yykrgioktaxLTyMASqoBj) | 2:31 |
 | 47 | [Another World](https://open.spotify.com/track/5AjJk4nV07BeLxXFuxwPd9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Another World](https://open.spotify.com/album/5K3DstlwjgebkL7sJyghKJ) | 3:56 |

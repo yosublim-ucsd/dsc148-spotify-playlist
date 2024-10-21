@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно з Машею Кондратенко.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,986 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,985 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 25 | [Хто, якщо не ми?](https://open.spotify.com/track/7pgOD5ysrQTcEf91gyNpJk) | [Ann Kovtun](https://open.spotify.com/artist/6JdwWVgnkKfh2MSRkwSxAU) | [Хто, якщо не ми?](https://open.spotify.com/album/1Z8C20tvgXQIYbxRtCYp9J) | 2:38 |
 | 26 | [УРАГАН](https://open.spotify.com/track/2QYY2mkJBSOAh5xcrJdYEQ) | [ТУЧА](https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ) | [УРАГАН](https://open.spotify.com/album/5PHuxS4hMyh0b6uS9KSwDQ) | 2:25 |
 | 27 | [Упаду, піднімусь](https://open.spotify.com/track/3sXZjXonAY8mbkZXYcxkkk) | [STASYA](https://open.spotify.com/artist/2Sa39S5jaI9IcrCqHl89fc) | [Упаду, піднімусь](https://open.spotify.com/album/2rzMgvvCWZKTocM8kseLDI) | 1:52 |
-| 28 | [сам на сам \(плач\)](https://open.spotify.com/track/6tCHSQcFK9z6IaQGWhvKHF) | [ANSTAY](https://open.spotify.com/artist/5yboLXHGIuGToCssTrvzz9) | [сам на сам \- Плач](https://open.spotify.com/album/1ZHqE5NWExewnwai4spLR4) | 3:16 |
+| 28 | [сам на сам \(плач\)](https://open.spotify.com/track/6tCHSQcFK9z6IaQGWhvKHF) | [ANSTAY](https://open.spotify.com/artist/5yboLXHGIuGToCssTrvzz9) | [сам на сам \(Плач\)](https://open.spotify.com/album/1ZHqE5NWExewnwai4spLR4) | 3:16 |
 | 29 | [Впізнаю](https://open.spotify.com/track/3KDkVbEmnyGf8tozAg6LFJ) | [haterappers](https://open.spotify.com/artist/1bHckzPqm3JIv1lnt7PD5N) | [Впізнаю](https://open.spotify.com/album/1iuwd1UMDuk9mhqgNgPfAW) | 3:13 |
 | 30 | [Це вже було](https://open.spotify.com/track/3VlJZ8Hyor7hyIadBc9ND2) | [MI MI MARII](https://open.spotify.com/artist/6aN5cHWXYoQiFAUajQXfPt) | [Це вже було](https://open.spotify.com/album/07m7KGbgDe6vUgZghQDeyz) | 2:36 |
 | 31 | [Чужі імена](https://open.spotify.com/track/2JeTHVvuXWZH5zyoESh1HW) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Чужі імена](https://open.spotify.com/album/3EF5dlhEEhxY7TJCnrCbSR) | 2:32 |

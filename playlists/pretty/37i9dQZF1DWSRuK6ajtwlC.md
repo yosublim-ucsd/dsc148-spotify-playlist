@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 
 > A levantar polvadera con lo mejor de la música de sax\. La Pocima Norteña en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,221 likes - 87 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,392 likes - 87 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRuK6ajtwlC.md) - [plain]
 | 35 | [Y Me Da Vergüenza](https://open.spotify.com/track/4WuV8hZ2gAmRfFJwbzvpVk) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Esperándote](https://open.spotify.com/album/0uDSz61JSsXI1XgH3Wok0m) | 2:49 |
 | 36 | [Qué Agonía](https://open.spotify.com/track/3mQHv0VeDIJUJ4YgPh12XT) | [Estilo Al Norte](https://open.spotify.com/artist/4a8CXjoDXfsk6okDkq2uUW) | [Qué Agonía](https://open.spotify.com/album/138YIGzaZfyGVySA21vgaK) | 2:34 |
 | 37 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 |
-| 38 | [La Muchacha de los Ojos Tristes \- Live](https://open.spotify.com/track/26aLTCvTeexLZ4nT8HizNF) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Retoños del Rio en el Estudio \- Live](https://open.spotify.com/album/2Loe9QaOmbTb9f4GGDtkDQ) | 3:52 |
+| 38 | [La Muchacha de los Ojos Tristes \- Live](https://open.spotify.com/track/26aLTCvTeexLZ4nT8HizNF) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Retoños del Rio en el Estudio \(Live\)](https://open.spotify.com/album/2Loe9QaOmbTb9f4GGDtkDQ) | 3:52 |
 | 39 | [Vámonos a Marte](https://open.spotify.com/track/6938ta8fOtvfFr54WCAy2C) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Vámonos a Marte](https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9) | 3:11 |
 | 40 | [Con Ese Corazón](https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [En Las Buenas Y En Las Malas](https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ) | 3:12 |
 | 41 | [Tonto Mi Corazon \(En Vivo Estudio\)](https://open.spotify.com/track/7m9XI9m7NVmo6ifF8U3bxS) | [Los Avila](https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo) | [Tonto Mi Corazon \(En Vivo Estudio\)](https://open.spotify.com/album/6lSibFBrplfh8WNAJeWHHB) | 4:11 |

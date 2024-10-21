@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,561 likes - 81 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,566 likes - 81 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 75 | [i&i&i](https://open.spotify.com/track/1XjvcMVgiaEhbf8bwSjtfI) | [Thiiird Place](https://open.spotify.com/artist/1p9jWKYjBCIfRSlaO7Ogxk) | [i&i&i](https://open.spotify.com/album/2cfbFrBCbM1CbxbR8l2J5j) | 4:05 |
 | 76 | [Deep](https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Below Dawn](https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw) | 4:10 |
 | 77 | [Drop](https://open.spotify.com/track/38oaHVHRigBAtRYjff1jmW) | [Quentin Angus](https://open.spotify.com/artist/48kGFsC1XcGRawye4S2Edt), [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX), [Moto Fukushima](https://open.spotify.com/artist/52Q3P0RtSosRmVUxWSe9dF), [Dusan Kranjc](https://open.spotify.com/artist/2KvtLYJby6dm6I3tyCCDL3) | [Dusan](https://open.spotify.com/album/58swlpZEcoOhRqXyc5ldHf) | 3:47 |
-| 78 | [Vibes, Mood, Tension, Motivation](https://open.spotify.com/track/1ZpDXYpUm9TICUTJf7SYmw) | [Haiiro De Rossi](https://open.spotify.com/artist/7BKPOigBtNtPmk7w3ZuCw0), [crime6](https://open.spotify.com/artist/5dPU8ySqwPrtb6BrhPmUZp) | [Vibes, Mood, Tension, Motivation](https://open.spotify.com/album/5nmsU2HKeqSXqNnBye2Akn) | 4:01 |
+| 78 | [Vibes, Mood, Tension, Motivation \(feat\. crime6\)](https://open.spotify.com/track/1ZpDXYpUm9TICUTJf7SYmw) | [Haiiro De Rossi](https://open.spotify.com/artist/7BKPOigBtNtPmk7w3ZuCw0), [crime6](https://open.spotify.com/artist/5dPU8ySqwPrtb6BrhPmUZp) | [Vibes, Mood, Tension, Motivation \(feat\. crime6\)](https://open.spotify.com/album/5nmsU2HKeqSXqNnBye2Akn) | 4:01 |
 | 79 | [Kissing Booth feat\. edbl & Tilly Valentine](https://open.spotify.com/track/5BQzjZCF41jwSoZUDB74dw) | [M\-Swift](https://open.spotify.com/artist/7dCttz7xrkybpvjhBr82n4), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Kissing Booth feat\. edbl & Tilly Valentine](https://open.spotify.com/album/5lpMbruWkd3p3YAXjZJSjh) | 2:53 |
 | 80 | [Silent Dancer](https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 5](https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN) | 4:10 |
 | 81 | [early](https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 3:56 |

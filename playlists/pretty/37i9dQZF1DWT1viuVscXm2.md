@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > y de la buena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,341 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,807 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 7 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 |
 | 8 | [Adiós Amor](https://open.spotify.com/track/367069JY6QWPaCJM21OVBC) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/14am71BKAcj6UvGOIXoo6e) | 4:19 |
 | 9 | [BORRACHO Y LOCO](https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [BORRACHO Y LOCO](https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT) | 3:52 |
-| 10 | [Entre el Odio y el Amor \- En Vivo](https://open.spotify.com/track/2mtnkDLX2mXp2xlj2LoaHg) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Entre el Odio y el Amor \- En Vivo](https://open.spotify.com/album/6yFojGZCajlfOlFzK1ya5J) | 3:53 |
+| 10 | [Entre el Odio y el Amor \- En Vivo](https://open.spotify.com/track/2mtnkDLX2mXp2xlj2LoaHg) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Entre el Odio y el Amor \(En Vivo\)](https://open.spotify.com/album/6yFojGZCajlfOlFzK1ya5J) | 3:53 |
 | 11 | [Volver A Empezar \(Versión Los Angeles Azules\)](https://open.spotify.com/track/7Hxvt9N6Y7MHU5W88Q74xn) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Volver A Empezar \(Versión Los Angeles Azules\)](https://open.spotify.com/album/480rZUweOEA6vcsuL2zAJn) | 2:36 |
 | 12 | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/track/5AkLEnorFvb7WIJOGqKYVT) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/album/2nEAqrVGMybdrkN3gP9NGF) | 2:44 |
 | 13 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 |

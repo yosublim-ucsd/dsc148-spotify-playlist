@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Shreya Ghoshal & Sunidhi Chauhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,358 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,419 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 16 | [Gypsy 2](https://open.spotify.com/track/1FV3PDNMhj7xxYjfye1a5B) | [G.D\. Kaur](https://open.spotify.com/artist/1JASStJXixMu8BtchqHp2s), [Dinesh Golan](https://open.spotify.com/artist/06oJwi4lIO6n5wvhrXSOwS), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Gypsy 2](https://open.spotify.com/album/5E5mezsretE9vId6RmoFqB) | 2:44 |
 | 17 | [Bas Kaafi Hai](https://open.spotify.com/track/2yxRnMJTgBDTUf3qVX7Yu1) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Manoj Yadav](https://open.spotify.com/artist/0qSfAhYhb7KWEuiLuooBaE) | [Bas Kaafi Hai](https://open.spotify.com/album/0KH4Y7pf9Udh0KIP2ymRGf) | 4:57 |
 | 18 | [Tere Bina](https://open.spotify.com/track/4A0Q9fhvruuV8206704qVq) | [REV Shergill](https://open.spotify.com/artist/6hbczy8v83L9ZWsP8BGjiU), [Vision](https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI) | [Tere Bina](https://open.spotify.com/album/233YJ6P0ZQiXQj7Tig4ng6) | 3:41 |
-| 19 | [Sapna Bani Hai Har Khushi](https://open.spotify.com/track/7HyME4aNZ8e1S1y2o2vQ30) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Akshay Vairagi](https://open.spotify.com/artist/7L3uC1DOPeLK4TC4AQQ5pz) | [Sapna Bani Hai Har Khushi](https://open.spotify.com/album/04Ux6V4uYxw4z2VYHWtpyw) | 4:43 |
+| 19 | [Sapna Bani Hai Har Khushi](https://open.spotify.com/track/7HyME4aNZ8e1S1y2o2vQ30) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Sapna Bani Hai Har Khushi](https://open.spotify.com/album/04Ux6V4uYxw4z2VYHWtpyw) | 4:43 |
 | 20 | [Jaanu Na](https://open.spotify.com/track/2jTCSkWe0JDsvUTX3Q3nw8) | [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Jaanu Na](https://open.spotify.com/album/0zp4tgD5m03Qh4WGk0pAj2) | 3:29 |
 | 21 | [Yeh Dil Deewana](https://open.spotify.com/track/6eR7b8DDNSVsG8UyDdzXQf) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Yeh Dil Deewana](https://open.spotify.com/album/1rsWKClUnlmKIR1CYD1WUu) | 3:29 |
 | 22 | [Bawla \(feat\. Khan Brothers\)](https://open.spotify.com/track/7BDc3JaNDJ1thbk6n9Yiht) | [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Sushant Divgikar](https://open.spotify.com/artist/7a2NKzIrcY9uEhQQbpSpv8), [Parth Parekh](https://open.spotify.com/artist/33jblYy5ECptw7tLCvzjOb), [Khan Brothers](https://open.spotify.com/artist/1gZM30maJ0CY5elIh3xsl4) | [Bawla \(feat\. Khan Brothers\)](https://open.spotify.com/album/5yLvAO5Y43yQUUF1jFnNqh) | 3:00 |

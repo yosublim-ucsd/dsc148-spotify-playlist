@@ -4,7 +4,7 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-142 songs - 10 hr 44 min
+143 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Mboa](https://open.spotify.com/track/2RCNYsMZoiX14c3TNCGw46) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:53 | 2022-01-04 | 2022-10-14 |
 | [Mboa'Su](https://open.spotify.com/track/7eTdBZfn6na3YwbG2Hjdnx) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Mboa'Su \(kamer feelin\)](https://open.spotify.com/album/3qFfN7MgFmCKzEbCKuuYEb) | 4:27 | 2023-04-29 | 2023-07-12 |
 | [Mimbo](https://open.spotify.com/track/6OTdmZJPR1gGCGVwjl3nrd) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 4:36 | 2021-12-28 | 2022-07-28 |
+| [Monkey Beat](https://open.spotify.com/track/6kwVRmLm8vdgd5sXMFLTt7) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:42 | 2024-10-21 |  |
 | [Mouvement Ewondo](https://open.spotify.com/track/0mcH1StoiW1ww6CbrfCnoW) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 7:52 | 2022-01-01 | 2022-10-11 |
 | [Moving Waves](https://open.spotify.com/track/1UCP7iid4Ur5bb8QlMRnPw) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 4:03 | 2024-01-18 | 2024-05-03 |
 | [Musica](https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Lorenzo 2015 CC.](https://open.spotify.com/album/00FW0vTXN3EWyC68GJNN4X) | 4:34 | 2021-12-29 | 2024-07-16 |
@@ -126,7 +127,7 @@
 | [Simm' Tutt'Uno](https://open.spotify.com/track/57fT5UTogxchiaQvjubZnh) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Bottari di Portico](https://open.spotify.com/artist/4eNK0Rn3bc2mUhIhLtLFmy) | [Simm' Tutt'Uno \(feat\. Jovanotti, Manu Dibango & Bottari Di Portico\)](https://open.spotify.com/album/1M4apnNZGhzyfTTrDADfIV) | 3:08 | 2022-09-20 |  |
 | [Son de la Loma](https://open.spotify.com/track/0ud408pilz1RQQDVfITFZr) | [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Cubafrica](https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q) | 4:19 | 2022-05-18 | 2022-07-04 |
 | [Son de la Loma](https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 4:19 | 2021-12-29 |  |
-| [Soul Fiesta](https://open.spotify.com/track/3MhErr2oHiTPfbxG8Ya9s1) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:08 | 2022-02-05 |  |
+| [Soul Fiesta](https://open.spotify.com/track/3MhErr2oHiTPfbxG8Ya9s1) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:08 | 2022-02-05 | 2024-10-21 |
 | [Soul Machine](https://open.spotify.com/track/0MP07TNfHYY4YGGHl31AVq) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 3:00 | 2021-12-28 | 2024-02-25 |
 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 | 2021-12-28 |  |
 | [Soul Saxes Meeting](https://open.spotify.com/track/2a4pTooehkmiD7hQ5DeyC5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 2:58 | 2022-07-22 | 2023-12-14 |

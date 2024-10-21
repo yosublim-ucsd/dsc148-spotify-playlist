@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oNeMtDTdrkrRRcFxrpg3w">Emmavie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-62 songs - 3 hr 33 min
+63 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Distraction](https://open.spotify.com/track/5xKbIjbQTUZGJjvCIfOz82) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [DT Soul](https://open.spotify.com/artist/5IwMgOViwcRQHz0D00hk8i) | [Honeymoon](https://open.spotify.com/album/6R0n0ocKsjOlz4LwKz2gCr) | 4:26 | 2024-01-29 |  |
 | [Don't Care](https://open.spotify.com/track/2k7ZxF2oGnsTncXgEG7xBP) | [Lylo Gold](https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Don't Care](https://open.spotify.com/album/5wkTmpI8c8mFMhkWgaopY3) | 3:54 | 2024-01-29 |  |
 | [Don’t Let It Get Away](https://open.spotify.com/track/6GkxPIwgNWdH6P22pfweC5) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:56 | 2024-01-29 |  |
-| [Dough](https://open.spotify.com/track/683WNpHgqToxbMf68lxxdk) | [NANG](https://open.spotify.com/artist/2f735jaHxcgTKYu0kgWfA9), [Emmavie](https://open.spotify.com/artist/69y3KWvDvlFSv7IPmnjhqY) | [Ralph Hardy Presents: Growing Pains](https://open.spotify.com/album/6WYBxfZ982VeFEV9x5sdav) | 3:57 | 2024-01-29 |  |
+| [Dough](https://open.spotify.com/track/1u5Zxm3k7E45oQCaWZO5Qj) | [NANG](https://open.spotify.com/artist/2f735jaHxcgTKYu0kgWfA9), [Emmavie](https://open.spotify.com/artist/69y3KWvDvlFSv7IPmnjhqY) | [Ralph Hardy Presents: Growing Pains](https://open.spotify.com/album/48baKeoFTdf4uXppxVVQ9H) | 3:57 | 2024-10-20 |  |
+| [Dough](https://open.spotify.com/track/683WNpHgqToxbMf68lxxdk) | [NANG](https://open.spotify.com/artist/2f735jaHxcgTKYu0kgWfA9), [Emmavie](https://open.spotify.com/artist/69y3KWvDvlFSv7IPmnjhqY) | [Ralph Hardy Presents: Growing Pains](https://open.spotify.com/album/6WYBxfZ982VeFEV9x5sdav) | 3:57 | 2024-01-29 | 2024-10-21 |
 | [Easily, I Forget](https://open.spotify.com/track/5rERYuoG0D2vsgxwB5gsZ4) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 2:45 | 2024-01-29 |  |
 | [Energy](https://open.spotify.com/track/22fL1yAQqWOlRZPWVtY25S) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Epoch](https://open.spotify.com/album/3X60lqs7cdHZf4Tk5Vfn53) | 3:07 | 2024-01-29 |  |
 | [Fairy Tale](https://open.spotify.com/track/0Yo4J5h1OKwE4dh7vYk5wN) | [Solqlap Budapest](https://open.spotify.com/artist/0EMYi5xYP5DMimBJ9WC8Qk), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Fairy Tale](https://open.spotify.com/album/63kkPYotO00oybHNMr1Lqy) | 4:19 | 2024-01-29 |  |

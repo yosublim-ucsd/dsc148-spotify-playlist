@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: FAST BOY, Sophie Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,499 likes - 79 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,527 likes - 79 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 60 | [Celebrate](https://open.spotify.com/track/67BQGSouTl01SuJGOJgc5R) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Celebrate](https://open.spotify.com/album/1f6xOwZ7ih7wHt5eF9Do89) | 2:53 |
 | 61 | [Buttons](https://open.spotify.com/track/0gVhruxc9xFNKg3oPRfp4q) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [Buttons](https://open.spotify.com/album/4OTYRF22MjXBnzxOMxjMp3) | 2:30 |
 | 62 | [Rain Your Love On Me](https://open.spotify.com/track/6HBG9Rgmxb6mC8sREQjbwq) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko) | [Rain Your Love On Me](https://open.spotify.com/album/77kKQryU5fOfG1Fnn0ZaeL) | 2:37 |
-| 63 | [Allein Allein \- BENNETT Remix](https://open.spotify.com/track/5723WxYvjt6hq36IXjbG5K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [FREY](https://open.spotify.com/artist/5F96KjVVl5nnGRkXs8E8Za) | [Allein Allein \- BENNETT Remix](https://open.spotify.com/album/5eh0BKSWuZL0h4Jt68HvKu) | 2:25 |
+| 63 | [Allein Allein \- BENNETT Remix](https://open.spotify.com/track/5723WxYvjt6hq36IXjbG5K) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [FREY](https://open.spotify.com/artist/5F96KjVVl5nnGRkXs8E8Za) | [Allein Allein \(BENNETT Remix\)](https://open.spotify.com/album/5eh0BKSWuZL0h4Jt68HvKu) | 2:25 |
 | 64 | [Upside Down](https://open.spotify.com/track/7coiex9SkNkD0yvyZPwoKQ) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Bad Nonno](https://open.spotify.com/artist/1QDt44k077TE9rFciokBSU) | [Upside Down](https://open.spotify.com/album/3TZ5bDPYrtEONUeP5pv3wS) | 2:52 |
 | 65 | [Angel](https://open.spotify.com/track/4rw616UMBTUoEPOxBTvu8U) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Angel](https://open.spotify.com/album/6Lhoz2Bw8AN0gpbxXITiJA) | 2:41 |
 | 66 | [Flood](https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [Flood](https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6) | 4:32 |

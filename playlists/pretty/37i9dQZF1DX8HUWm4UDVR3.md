@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Satine
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,147 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,149 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 44 | [21](https://open.spotify.com/track/63UVH4oV3GfD0yy3N1hxY8) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Remède](https://open.spotify.com/album/72VmknY0m1lZLO4JWylzUI) | 2:48 |
 | 45 | [Ange](https://open.spotify.com/track/1axbD73aCHMmio2zbQOaRN) | [Geoffrey](https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK) | [Ange](https://open.spotify.com/album/7E1zfjwFcZOTW31kS5jgYE) | 2:49 |
 | 46 | [Encore](https://open.spotify.com/track/5IdqgPeVVFwjqlQyTaT52z) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [adrénaline](https://open.spotify.com/album/3HqL2VcIr2wVY0ifn3mEE4) | 4:02 |
-| 47 | [Soleil \- Rouge](https://open.spotify.com/track/2RAxX7vRZweXfEss35YTya) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Taxi 404](https://open.spotify.com/artist/0k1rMwxE4WYQWR0bInEY0c) | [Soleil \- Rouge](https://open.spotify.com/album/5u1eIgnQxqCaQIWuq1PbNC) | 3:10 |
+| 47 | [Soleil \- Rouge](https://open.spotify.com/track/2RAxX7vRZweXfEss35YTya) | [Vernis Rouge](https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC), [Taxi 404](https://open.spotify.com/artist/0k1rMwxE4WYQWR0bInEY0c) | [Soleil \(Rouge\)](https://open.spotify.com/album/5u1eIgnQxqCaQIWuq1PbNC) | 3:10 |
 | 48 | [Avant la fin de l'été](https://open.spotify.com/track/1ZyraWusX0DqD6sW3tBI4d) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Avant la fin de l'été](https://open.spotify.com/album/5IUukxrkXQzps5JU7AOqP0) | 3:18 |
 | 49 | [Elle](https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Elle](https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi) | 3:27 |
 | 50 | [Mélancolie](https://open.spotify.com/track/3Ndb2yAdF5B5mLocz7iIyf) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Mélancolie](https://open.spotify.com/album/1Md5rUEu50jUGKPatnGv1I) | 3:41 |

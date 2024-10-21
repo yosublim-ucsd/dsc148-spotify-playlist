@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,062,037 likes - 133 songs - 5 hr 38 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,061,862 likes - 133 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 17 | [don't look down.](https://open.spotify.com/track/32SK4brxaUwkuj8TwmFhzO) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [don't look down.](https://open.spotify.com/album/0DgpY5tYymA5qbAf7mQj3o) | 1:58 |
 | 18 | [NX PULSE](https://open.spotify.com/track/6uKDuFi2mCdyze3m25h8xi) | [netwxrld](https://open.spotify.com/artist/2tKVZ6keSMT7TOgodqk4A5) | [SLOW BURN](https://open.spotify.com/album/1xVDnRK9Ij4AcHQSZ0AtZ6) | 1:26 |
 | 19 | [ATIVIDADE DE FORÇA](https://open.spotify.com/track/6vjDb26rsA40gQMTPUBU3Z) | [TENZOO](https://open.spotify.com/artist/4MT1nqv9uda3Z6d8ycM3xl), [SKYVER](https://open.spotify.com/artist/28vzuYcNCFrd0CaN9ZZVod), [MC Luana SP](https://open.spotify.com/artist/3yiG6mZEIkR6tCVm27zR8M) | [ATIVIDADE DE FORÇA](https://open.spotify.com/album/48NFM5uW0cLJzDqjGBHwQ3) | 1:33 |
-| 20 | [lost my way\. \- slowed](https://open.spotify.com/track/76wm3Mxgh8k7vxV5ALGpdn) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [lost my way\. \- slowed](https://open.spotify.com/album/69JN5K4mtf6b9wQO94bRkh) | 2:34 |
+| 20 | [lost my way\. \- slowed](https://open.spotify.com/track/76wm3Mxgh8k7vxV5ALGpdn) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [lost my way\. \(slowed\)](https://open.spotify.com/album/69JN5K4mtf6b9wQO94bRkh) | 2:34 |
 | 21 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 |
 | 22 | [Heavy Metal](https://open.spotify.com/track/5dCLy5hI2WBVJBNDrxS5hM) | [Dream Quest](https://open.spotify.com/artist/7ECgCKfFgaquWAbCQGtCzu) | [Nightmare and the Dream, Pt\. 1](https://open.spotify.com/album/0bY8OSKEJqfCmPb9josFsN) | 4:12 |
 | 23 | [Freaks](https://open.spotify.com/track/7ewNJrUgS5C0nxAK1KB3fY) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM) | [Freaks](https://open.spotify.com/album/2cIfNaP93DbfWhcilRi3js) | 2:40 |

@@ -4,7 +4,7 @@
 
 > 
 
-1,792 songs - 4 day 0 hr 11 min
+1,793 songs - 4 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,6 +770,7 @@
 | [Hyena](https://open.spotify.com/track/7BAjDuGkdlx4U0QkMApNZ1) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [Hyena](https://open.spotify.com/album/4b2WABe3g8eaUyO450fp5Z) | 3:32 | 2023-10-19 |  |
 | [HYPER](https://open.spotify.com/track/4GbecipoI4oyDE148vjkde) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [HYPER](https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg) | 3:26 | 2023-06-09 |  |
 | [Hypnotize](https://open.spotify.com/track/5HYZotlXy7fN0Pey2ORkww) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Hypnotize](https://open.spotify.com/album/3PZJPUfgs3H0Z2j6jp1XQR) | 2:17 | 2024-10-19 |  |
+| [I CAN TAKE YOU THERE](https://open.spotify.com/track/4uYkxNpJGBcNr5jc4SEw6x) | [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [I CAN TAKE YOU THERE](https://open.spotify.com/album/4BnE4qdmD1Z9Dx2a7COyUj) | 1:34 | 2024-10-20 |  |
 | [I Can't Believe It](https://open.spotify.com/track/2DResotZIBdRApCGHVt9rx) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [ICONS](https://open.spotify.com/album/238RrEHfu6nESSaOgw46xc) | 3:24 | 2023-04-16 |  |
 | [I Can't Call You Mine](https://open.spotify.com/track/1j7GJmfnxV8MNeml1hGrfn) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [I Can't Call You Mine](https://open.spotify.com/album/2zhDAlLGThfPeNfSvc0ZTg) | 2:58 | 2024-04-01 |  |
 | [I COULD BE THE ONE \(TECHNO SPED UP\)](https://open.spotify.com/track/5wRrUDhC0FamuVFWejGgs8) | [TECHNO N TEQUILLA](https://open.spotify.com/artist/3nZ3AabGubephVrPTp8rRz) | [I COULD BE THE ONE \(TECHNO\)](https://open.spotify.com/album/1oYeOxPHyGzUHluYVBlRpI) | 2:00 | 2024-03-29 |  |

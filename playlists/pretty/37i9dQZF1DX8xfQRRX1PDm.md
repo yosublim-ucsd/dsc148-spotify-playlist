@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,296 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,994 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 72 | [Naina \(From "Crew"\)](https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Naina \(From "Crew"\)](https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm) | 3:00 |
 | 73 | [O Saki Saki](https://open.spotify.com/track/1K8zYNuDywMknSJuNGoWy0) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Batla House](https://open.spotify.com/album/5GUbtvq6lcq1nTQEHq2BKe) | 3:11 |
 | 74 | [Sher Khul Gaye](https://open.spotify.com/track/5EqAFRGd2E93JZfzOspD6m) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Fighter](https://open.spotify.com/album/5p1147cCqxrWBDZAtaDR54) | 3:00 |
-| 75 | [Chamma Chamma](https://open.spotify.com/track/00NksXMaWtsTARuoZmt0GJ) | [Neha Kakkar](https://open.spotify.com/artist/1xhSZgJOFzhEyd1Zn0nTSq), [Romy](https://open.spotify.com/artist/23SOvueHCnImFcoym7pqEd), [Arun](https://open.spotify.com/artist/7gWRtSKGQ95UXoYMnOn83L), [Ikka](https://open.spotify.com/artist/2YqdhX6ZdyIM5a5GtnUIlQ) | [Fraud Saiyaan \- Original Motion Picture Soundtrack](https://open.spotify.com/album/74YnleSJc8taZEOtTJX5vp) | 3:16 |
+| 75 | [Chamma Chamma](https://open.spotify.com/track/00NksXMaWtsTARuoZmt0GJ) | [Neha Kakkar](https://open.spotify.com/artist/1xhSZgJOFzhEyd1Zn0nTSq), [Romy](https://open.spotify.com/artist/23SOvueHCnImFcoym7pqEd), [Arun](https://open.spotify.com/artist/7gWRtSKGQ95UXoYMnOn83L), [Ikka](https://open.spotify.com/artist/2YqdhX6ZdyIM5a5GtnUIlQ) | [Fraud Saiyaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74YnleSJc8taZEOtTJX5vp) | 3:16 |
 
 Snapshot ID: `Zw+1TgAAAADUbFTcVIDqfOMuP7+ZA1se`

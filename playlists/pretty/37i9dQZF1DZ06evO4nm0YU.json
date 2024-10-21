@@ -1,12 +1,12 @@
 {
-  "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 161174,
+  "description": "This Is H\u00e9ctor Lavoe. Los temas esenciales, todos en una lista.",
+  "num_followers": 161245,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGlAAAAAAChljdCkQaeB4g7235idt25",
+  "snapshot_id": "ZxL2gAAAAABAfCV62dZ4U3d4YGVUaBfh",
   "tracks": [
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strikes Back",
-        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Ella Minti\u00f3",
-      "url": "https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revent\u00f3",
         "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 213360,
       "name": "\u00bfDe Qu\u00e9 Tama\u00f1o Es Tu Amor?",
       "url": "https://open.spotify.com/track/2NKQK1RldKnR5P6tiCfWxH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strikes Back",
+        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Ella Minti\u00f3",
+      "url": "https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ"
     },
     {
       "added_at": null,

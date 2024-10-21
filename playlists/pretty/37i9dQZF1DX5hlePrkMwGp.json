@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the romantic side of Ani",
-  "num_followers": 140783,
+  "num_followers": 141242,
   "original_name": "Romantic Anirudh",
   "owner": {
     "name": "Spotify",
@@ -827,30 +827,6 @@
     {
       "added_at": "2021-08-02 09:30:31",
       "album": {
-        "name": "Vivegam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Pradeep Kumar",
-          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
-        },
-        {
-          "name": "Shashaa Tirupati",
-          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
-        }
-      ],
-      "duration_ms": 256195,
-      "name": "Kadhalaada",
-      "url": "https://open.spotify.com/track/4zvwpmnKudoMEVpl0h2JKE"
-    },
-    {
-      "added_at": "2021-08-02 09:30:31",
-      "album": {
         "name": "Velaikkaran (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WkCzwLSjWxVm2NU9t6aCM"
       },
@@ -871,6 +847,30 @@
       "duration_ms": 222482,
       "name": "Idhayane",
       "url": "https://open.spotify.com/track/0If3UxapVCA0NUKgpJkpaj"
+    },
+    {
+      "added_at": "2021-08-02 09:30:31",
+      "album": {
+        "name": "Vivegam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        }
+      ],
+      "duration_ms": 256195,
+      "name": "Kadhalaada",
+      "url": "https://open.spotify.com/track/4zvwpmnKudoMEVpl0h2JKE"
     },
     {
       "added_at": "2021-08-02 09:30:31",

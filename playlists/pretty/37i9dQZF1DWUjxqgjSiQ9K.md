@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4B4YYJ0BAYBK86yxqQV7mu">Funky</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,802 likes - 100 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,906 likes - 100 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 9 | [Poco a Poco](https://open.spotify.com/track/1OMnykDpR1iqD7WycHrVWT) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Poco a Poco](https://open.spotify.com/album/7exSbIs48xc2PVLOKSBwrF) | 3:01 |
 | 10 | [Agarra La Bendición](https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh) | [Banda Punto de Encuentro](https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Agarra La Bendición](https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ) | 3:11 |
 | 11 | [Nada Sin Ti](https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Buenas Noticias](https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F) | 3:05 |
-| 12 | [El Rio de Dios \- En Vivo](https://open.spotify.com/track/63f6pE2mzuZr8EcP6DiNES) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7) | [El Rio de Dios \- En Vivo](https://open.spotify.com/album/7aI9t8Y8g0BAYbr3rpM1rM) | 5:19 |
+| 12 | [El Rio de Dios \- En Vivo](https://open.spotify.com/track/63f6pE2mzuZr8EcP6DiNES) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7) | [El Rio de Dios \(En Vivo\)](https://open.spotify.com/album/7aI9t8Y8g0BAYbr3rpM1rM) | 5:19 |
 | 13 | [No Temeré \- Live](https://open.spotify.com/track/5ZDGRUdNLtAUTrTo1qpLh2) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [No Temeré \- Live](https://open.spotify.com/album/1C3gdmpXC041HIplt9g0cR) | 4:21 |
 | 14 | [Mi Tesoro](https://open.spotify.com/track/5JXj9Sm3DdLUS87a7dMAtg) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Daniela Barrientos](https://open.spotify.com/artist/3fF7bK7ymM5vUeyG3XP0Lv) | [Mi Tesoro](https://open.spotify.com/album/225RI4sJvEZmyydyuTUXNu) | 14:35 |
 | 15 | [Rey Humilde](https://open.spotify.com/track/3ULVA6vNGfNFpiClkiQFGh) | [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Cristo El Rey](https://open.spotify.com/album/3Aq3nfNuDuhahFO1klXOQc) | 9:03 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 32 | [Por Si Vinieras](https://open.spotify.com/track/2TnzARiEVGQmKYgkVwsn1y) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Por Si Vinieras](https://open.spotify.com/album/7hgCBoxt14OG0VhvAXtPnX) | 3:47 |
 | 33 | [Dios Está Aquí](https://open.spotify.com/track/3mGgd2UDopueiXxzPCxpgk) | [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Dios Está Aquí](https://open.spotify.com/album/1OFQfEHJLwhEHggesoYvoD) | 3:47 |
 | 34 | [Me Basta Tu Palabra \(Versión Londres\)](https://open.spotify.com/track/0TPSYJfZjbx9sCi2ELIoZA) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Reino Unido](https://open.spotify.com/album/5fpPG8Nwp26gXMF2RtiTSI) | 13:36 |
-| 35 | [El Gozo de Dios \- Live](https://open.spotify.com/track/51x4s8bI0X4JTa6Ti2pylu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [El Gozo de Dios \- Live](https://open.spotify.com/album/48ZyIvLbT85ZZ3M8f6WdmA) | 5:29 |
+| 35 | [El Gozo de Dios \- Live](https://open.spotify.com/track/51x4s8bI0X4JTa6Ti2pylu) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [El Gozo de Dios \(Live\)](https://open.spotify.com/album/48ZyIvLbT85ZZ3M8f6WdmA) | 5:29 |
 | 36 | [Cuando Menos Lo Esperaba](https://open.spotify.com/track/75SVjErJ0DhoWsLEwGZQE9) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV), [Paola Pablo](https://open.spotify.com/artist/4OgKEU8REaur4PyaUb7Guu) | [Cuando Menos Lo Esperaba](https://open.spotify.com/album/45akeedz6IneSqE2kOs5I2) | 2:53 |
 | 37 | [Sigue Orando \(Don't Stop Praying\)](https://open.spotify.com/track/6t9lLCkgPTSEtT5jnOBJax) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sigue Orando \(Don't Stop Praying\)](https://open.spotify.com/album/5RudolYe3u7YMRDM3ZqHpp) | 3:53 |
 | 38 | [Canta Mi Alma](https://open.spotify.com/track/5CMg6LmZClRr9tzFZCKdSl) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Canta Mi Alma](https://open.spotify.com/album/7cU3j49De3ndopojnJxA8P) | 3:04 |

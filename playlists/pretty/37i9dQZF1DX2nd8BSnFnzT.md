@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Zimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,821 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,797 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 18 | [Fora de Controle \- Acústico](https://open.spotify.com/track/158xy5kYAXVHLSHJEOm3Bj) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Fora de Controle \(Acústico\)](https://open.spotify.com/album/2TUwLAo4r0VEmcs4SjTSvm) | 3:19 |
 | 19 | [Não te quero mais \(Marte\)](https://open.spotify.com/track/2F7JJHOoEX23uSpyClSoH3) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Não te quero mais \(Marte\)](https://open.spotify.com/album/6A1jGleeIH2RtjqU1k3hGX) | 3:22 |
 | 20 | [Mais uma vez](https://open.spotify.com/track/79VJmKsxklamRPSDusWmms) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico \(Deluxe\)](https://open.spotify.com/album/0mHk0k9Nh9hKhrVB9trJQa) | 3:50 |
-| 21 | [Paga Pra Ver \(Álbum De Peito Aberto\)](https://open.spotify.com/track/1kQNlfkwvn4inbbcaO6ttq) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU) | [Paga Pra Ver \- Álbum De Peito Aberto](https://open.spotify.com/album/5ph3QWd7UkCPj5yQ1SaOtl) | 2:11 |
+| 21 | [Paga Pra Ver \(Álbum De Peito Aberto\)](https://open.spotify.com/track/1kQNlfkwvn4inbbcaO6ttq) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU) | [Paga Pra Ver \(Álbum De Peito Aberto\)](https://open.spotify.com/album/5ph3QWd7UkCPj5yQ1SaOtl) | 2:11 |
 | 22 | [Teu Sangue](https://open.spotify.com/track/2Qh8h9ulpgaoBpKslweA75) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Hecto](https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9) | [Teu Sangue](https://open.spotify.com/album/5Z1N7u5zetgCctRkRqwSPW) | 3:16 |
 | 23 | [Casa em Chamas](https://open.spotify.com/track/7tDN8rGr36XbwKdiQrwstq) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Casa em Chamas](https://open.spotify.com/album/7BOKJpTRHKgNfxZ22tWuTg) | 4:11 |
 | 24 | [O Verso](https://open.spotify.com/track/1mSQL3MqWKAMLioKgzlt4T) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [O Verso](https://open.spotify.com/album/22y2h1DtG2jmYXD9LFQI2C) | 3:30 |

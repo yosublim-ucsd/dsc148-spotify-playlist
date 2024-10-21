@@ -1,6 +1,6 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 569541,
+  "num_followers": 569701,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Souvlaki",
+        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "duration_ms": 230986,
+      "name": "Alison",
+      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "Delaware",
         "url": "https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Souvlaki",
-        "url": "https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z"
-      },
-      "artists": [
-        {
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Alison",
-      "url": "https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Misery Is a Butterfly",
         "url": "https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK"
       },
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
+        "name": "Glider",
+        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "Off Your Face",
+      "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
         "name": "She Hangs Brightly",
         "url": "https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA"
       },
@@ -215,6 +231,22 @@
       "duration_ms": 384400,
       "name": "She Hangs Brightly",
       "url": "https://open.spotify.com/track/0PwKkV9wQCpbCxJmYEkcsd"
+    },
+    {
+      "added_at": "2024-10-15 03:40:28",
+      "album": {
+        "name": "Eyedazzler",
+        "url": "https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls"
+      },
+      "artists": [
+        {
+          "name": "Alison's Halo",
+          "url": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg"
+        }
+      ],
+      "duration_ms": 312537,
+      "name": "Dozen",
+      "url": "https://open.spotify.com/track/6aQOvoDj701Yw8DB0sghPv"
     },
     {
       "added_at": "2022-02-18 20:00:47",
@@ -235,54 +267,6 @@
       "duration_ms": 231226,
       "name": "Time Baby III",
       "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
-    },
-    {
-      "added_at": "2024-10-15 03:40:28",
-      "album": {
-        "name": "Eyedazzler",
-        "url": "https://open.spotify.com/album/0FN1w00CzlN3HMdkmqiWls"
-      },
-      "artists": [
-        {
-          "name": "Alison's Halo",
-          "url": "https://open.spotify.com/artist/1xD4rzgPGOwrc7RHZywzKg"
-        }
-      ],
-      "duration_ms": 312537,
-      "name": "Dozen",
-      "url": "https://open.spotify.com/track/6aQOvoDj701Yw8DB0sghPv"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Melody's Echo Chamber",
-        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Some Time Alone, Alone",
-      "url": "https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Glider",
-        "url": "https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 255426,
-      "name": "Off Your Face",
-      "url": "https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -315,6 +299,22 @@
       "duration_ms": 361213,
       "name": "Crazy for You",
       "url": "https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Melody's Echo Chamber",
+        "url": "https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Some Time Alone, Alone",
+      "url": "https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -383,18 +383,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr"
+        "name": "Faded Seaside Glamour",
+        "url": "https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG"
       },
       "artists": [
         {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+          "name": "Delays",
+          "url": "https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ"
         }
       ],
-      "duration_ms": 170333,
-      "name": "Breathe in, Breathe Out",
-      "url": "https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB"
+      "duration_ms": 208333,
+      "name": "Nearer Than Heaven",
+      "url": "https://open.spotify.com/track/1jVlXUiM48CQaQup6899a8"
     },
     {
       "added_at": "2024-01-03 19:15:52",
@@ -431,18 +431,34 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Faded Seaside Glamour",
-        "url": "https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
       },
       "artists": [
         {
-          "name": "Delays",
-          "url": "https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ"
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
         }
       ],
-      "duration_ms": 208333,
-      "name": "Nearer Than Heaven",
-      "url": "https://open.spotify.com/track/1jVlXUiM48CQaQup6899a8"
+      "duration_ms": 314706,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "Breathe in, Breathe Out",
+      "url": "https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB"
     },
     {
       "added_at": "2022-08-09 00:28:42",
@@ -459,22 +475,6 @@
       "duration_ms": 323613,
       "name": "When Will You Come Home",
       "url": "https://open.spotify.com/track/2m4pMnVi3e9HuSwSci6dg8"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Sub Versions",
-        "url": "https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z"
-      },
-      "artists": [
-        {
-          "name": "YACHT",
-          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
-        }
-      ],
-      "duration_ms": 130063,
-      "name": "Avril 14th",
-      "url": "https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ"
     },
     {
       "added_at": "2024-08-30 20:59:52",
@@ -511,18 +511,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE"
+        "name": "Sub Versions",
+        "url": "https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z"
       },
       "artists": [
         {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
+          "name": "YACHT",
+          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
         }
       ],
-      "duration_ms": 314706,
-      "name": "Pearl",
-      "url": "https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA"
+      "duration_ms": 130063,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -543,18 +543,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Gala",
-        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
+        "name": "Faded Seaside Glamour",
+        "url": "https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG"
       },
       "artists": [
         {
-          "name": "Lush",
-          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+          "name": "Delays",
+          "url": "https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ"
         }
       ],
-      "duration_ms": 191360,
-      "name": "Sunbathing",
-      "url": "https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM"
+      "duration_ms": 238146,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -575,18 +575,34 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Faded Seaside Glamour",
-        "url": "https://open.spotify.com/album/5PJzOx3aaOjoAlMkV1kVEG"
+        "name": "Whirlpool (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
       },
       "artists": [
         {
-          "name": "Delays",
-          "url": "https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ"
+          "name": "Chapterhouse",
+          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
         }
       ],
-      "duration_ms": 238146,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/3SV1oU3wJOMuYli6dOH9zH"
+      "duration_ms": 290800,
+      "name": "Pearl - Edit",
+      "url": "https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Gala",
+        "url": "https://open.spotify.com/album/1UBjGsLtSkSMHlBkCc2OI4"
+      },
+      "artists": [
+        {
+          "name": "Lush",
+          "url": "https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "Sunbathing",
+      "url": "https://open.spotify.com/track/0Mx4zIk3PqzD8Fne4KSssM"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -603,6 +619,22 @@
       "duration_ms": 282333,
       "name": "Into The Ether",
       "url": "https://open.spotify.com/track/0MllKGT9TEHf7AH0BJhEVj"
+    },
+    {
+      "added_at": "2021-10-01 17:04:55",
+      "album": {
+        "name": "You See Colours",
+        "url": "https://open.spotify.com/album/59IUhrmTXNj8c6TQzp2tdz"
+      },
+      "artists": [
+        {
+          "name": "Delays",
+          "url": "https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ"
+        }
+      ],
+      "duration_ms": 292173,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/0oPezGTOPITKdmLN4Z77v3"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -635,22 +667,6 @@
       "duration_ms": 231613,
       "name": "Shining Road",
       "url": "https://open.spotify.com/track/1XeQKXz0WF8Opaz0mzQczK"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Whirlpool (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp"
-      },
-      "artists": [
-        {
-          "name": "Chapterhouse",
-          "url": "https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ"
-        }
-      ],
-      "duration_ms": 290800,
-      "name": "Pearl - Edit",
-      "url": "https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -701,38 +717,6 @@
       "url": "https://open.spotify.com/track/7Bqj7aZeBOwtrgx6JXC7IG"
     },
     {
-      "added_at": "2021-10-01 17:04:55",
-      "album": {
-        "name": "You See Colours",
-        "url": "https://open.spotify.com/album/59IUhrmTXNj8c6TQzp2tdz"
-      },
-      "artists": [
-        {
-          "name": "Delays",
-          "url": "https://open.spotify.com/artist/0NAPmlw3oOKJ3BD7qcjLdQ"
-        }
-      ],
-      "duration_ms": 292173,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/0oPezGTOPITKdmLN4Z77v3"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
-        "name": "Shimmering, Warm and Bright",
-        "url": "https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn"
-      },
-      "artists": [
-        {
-          "name": "bel canto",
-          "url": "https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Shimmering, Warm & Bright",
-      "url": "https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n"
-    },
-    {
       "added_at": "2021-10-01 10:38:06",
       "album": {
         "name": "Way Beyond Blue",
@@ -763,6 +747,22 @@
       "duration_ms": 284200,
       "name": "Aladdin's Story",
       "url": "https://open.spotify.com/track/7iJJBAXSeuu9ymCdiPPscE"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Shimmering, Warm and Bright",
+        "url": "https://open.spotify.com/album/6d2yDqhmiZi054fXscl4Sn"
+      },
+      "artists": [
+        {
+          "name": "bel canto",
+          "url": "https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Shimmering, Warm & Bright",
+      "url": "https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n"
     },
     {
       "added_at": "2021-10-01 10:38:06",

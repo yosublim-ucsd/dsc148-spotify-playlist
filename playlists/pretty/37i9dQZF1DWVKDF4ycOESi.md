@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Tananai in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,890 likes - 97 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,940 likes - 97 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 76 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 |
 | 77 | [Jazz ain't shit \- Edit](https://open.spotify.com/track/0Y1sezrijnwdBWhHOwaDuy) | [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [North of Loreto](https://open.spotify.com/artist/6FZ6p42HnE0rs0GRRmXuLo) | [Jazz ain't shit](https://open.spotify.com/album/121Wp33HxQEFjTM0oMbXG0) | 2:32 |
 | 78 | [Palese](https://open.spotify.com/track/583SPaNcabl4iL3Wl7iyQP) | [Refo](https://open.spotify.com/artist/03mwxB2gQpaYZNRm5nNjIU) | [Palese](https://open.spotify.com/album/7wYRgS3vgEIvuvCfhhNyfa) | 2:32 |
-| 79 | [Spazio](https://open.spotify.com/track/3fGeysu1uiOsVJiIquAS8e) | [Coma](https://open.spotify.com/artist/2K6TBg4VeFmf4oXv9TxjOf), [Alice](https://open.spotify.com/artist/5kOyFRpv7YL38N5SemyS8B) | [Lova](https://open.spotify.com/album/4GEvFSRH5JBbLFS3yydXaP) | 3:12 |
+| 79 | [Spazio](https://open.spotify.com/track/3fGeysu1uiOsVJiIquAS8e) | [Coma](https://open.spotify.com/artist/2K6TBg4VeFmf4oXv9TxjOf), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk) | [Lova](https://open.spotify.com/album/4GEvFSRH5JBbLFS3yydXaP) | 3:12 |
 | 80 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
 | 81 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 82 | [CHIRAQ](https://open.spotify.com/track/2EzyaQKpKNfzdaAAdcydIv) | [Young Slash](https://open.spotify.com/artist/7ajcXCqrSRoMtviBDVIjqn), [100 Blaze](https://open.spotify.com/artist/0JxUh8qDlG3xflSV9Of500) | [CHIRAQ](https://open.spotify.com/album/4ex8sq1cBWJeOGohaX1MY6) | 3:31 |

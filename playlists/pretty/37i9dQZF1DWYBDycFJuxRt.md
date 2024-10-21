@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Vaundy \*👉 <a href="https://spice.eplus.jp/articles/332714?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,247 likes - 89 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,266 likes - 89 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 33 | [TEENAGE PROBLEM](https://open.spotify.com/track/4xtehTMpzN76ZQ6lhGtAYZ) | [Issei Uno Fifth](https://open.spotify.com/artist/3ChsBdunsttUJkFhSKRhfq), [HYESUNG](https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM) | [TEENAGE PROBLEM](https://open.spotify.com/album/3jgatOz77Gi2dKuG8GFDQF) | 3:20 |
 | 34 | [Both Ways](https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party \(Extended\)](https://open.spotify.com/album/51ojViy1d9Siz28EF08d49) | 3:17 |
 | 35 | [Defense](https://open.spotify.com/track/7MarkM3buE9DyaEZ59b7vy) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Cindy Lee](https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA) | [Defense](https://open.spotify.com/album/5gWXFTEpeIaxjXo97WTy27) | 4:35 |
-| 36 | [BURN](https://open.spotify.com/track/6TDsO7nMPinpsidMGdFKEX) | [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [BURN](https://open.spotify.com/album/2LqejZMocKOwTzxbwUaG0L) | 3:33 |
+| 36 | [BURN \(feat\. FKD\)](https://open.spotify.com/track/6TDsO7nMPinpsidMGdFKEX) | [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [BURN \(feat\. FKD\)](https://open.spotify.com/album/2LqejZMocKOwTzxbwUaG0L) | 3:33 |
 | 37 | [WMDA\(Where My Drums At\)](https://open.spotify.com/track/6hCA90pz9C51RIAYym2TUU) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [WMDA\(Where My Drums At\)](https://open.spotify.com/album/4xO4KJtY0omMRln1R7AjCE) | 3:20 |
 | 38 | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [PHOENIX \(Movie Ver.\)](https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU) | 2:31 |
 | 39 | [Hitorigoto](https://open.spotify.com/track/3VUziNPUyBYtj6rZN9bxbz) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Hitorigoto](https://open.spotify.com/album/2pbaKB8j5nJJvv5SKACQMc) | 2:27 |

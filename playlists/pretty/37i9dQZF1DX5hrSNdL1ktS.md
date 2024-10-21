@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 El Chacal Más Caro en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,077 likes - 69 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,542 likes - 69 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 20 | [Gupi](https://open.spotify.com/track/7b4FKTowuVfhatZ0hDsh01) | [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Dj Chekesito](https://open.spotify.com/artist/4S0i7CxFJybFWyCsB0vwil) | [Gupi](https://open.spotify.com/album/3yRq74uxKgfgA2AHITbU1T) | 2:34 |
 | 21 | [Ñero Session 14](https://open.spotify.com/track/5uSmW3S5zdibzfXPQlJ4Vo) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR) | [Ñero Session 14](https://open.spotify.com/album/6vQdcJhjawIJHuIiKpgEP8) | 2:41 |
 | 22 | [PUTOTA](https://open.spotify.com/track/303DyIUZDXGMOG7wf3ORjS) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [PUTOTA](https://open.spotify.com/album/30IRWSCYfH0xhG3Hl0WOUh) | 3:02 |
-| 23 | [Tu Mirada \- Remix](https://open.spotify.com/track/7xwV8Jcc1wcVnlF764Qvrh) | [Lirika Urbana sobrevivientes](https://open.spotify.com/artist/0sZ6XSR3slFaUU5QAXpVyr), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm), [Flow Nasty](https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr) | [Tu Mirada \- Remix](https://open.spotify.com/album/2CEyBTHDZGKiYBxKRIeHMd) | 3:13 |
+| 23 | [Tu Mirada \- Remix](https://open.spotify.com/track/7xwV8Jcc1wcVnlF764Qvrh) | [Lirika Urbana sobrevivientes](https://open.spotify.com/artist/0sZ6XSR3slFaUU5QAXpVyr), [Oviña](https://open.spotify.com/artist/3cJuFQQKreRtCtbQZ83Sam), [Alan Dazmel](https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm), [Flow Nasty](https://open.spotify.com/artist/4ycU4IDmFd9OO39ej6yfWk), [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr) | [Tu Mirada \(Remix\)](https://open.spotify.com/album/2CEyBTHDZGKiYBxKRIeHMd) | 3:13 |
 | 24 | [Musika Bellakona](https://open.spotify.com/track/0xzmquQRefAWG6u7bHaKf8) | [Daniel Martinez](https://open.spotify.com/artist/0rtjia73NEeeTl4McsHU34), [Chino El Gorila](https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6), [Brand Randall](https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL) | [Musika Bellakona](https://open.spotify.com/album/13I6eZ9URkIFIkVyPp1NzN) | 2:53 |
 | 25 | [SE TE NOTA \(feat\. Peso Pluma\)](https://open.spotify.com/track/1iIrqtbY2aogEHhQkmrV7w) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:10 |
 | 26 | [Can Am](https://open.spotify.com/track/7MK6edE9MWa7OVPFy0tbcM) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 2:44 |

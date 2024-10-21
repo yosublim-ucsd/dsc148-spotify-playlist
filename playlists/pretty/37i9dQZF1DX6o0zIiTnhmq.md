@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,173 likes - 50 songs - 14 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,231 likes - 50 songs - 14 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 9 | [Ganesh Stuti](https://open.spotify.com/track/30s5J8ytFaCovIy0rrNPZO) | [Ankita Bramhe](https://open.spotify.com/artist/1FKFRFij4L7rPTm8J4HPkj) | [Ganesh Bhakti Sangrah](https://open.spotify.com/album/0nL4UuEp3jT8dL68IXuWEs) | 2:34 |
 | 10 | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn) | [Om Voices](https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK) | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF) | 6:20 |
 | 11 | [Aham Brahmasmi](https://open.spotify.com/track/3xVv0QfLmeJt8EkSCUim4M) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:41 |
-| 12 | [Om Maha Ganapataye Namaha \- 108 Times](https://open.spotify.com/track/601N1MaBovxBQCnPq0hF6H) | [Arundhati Chowdhury](https://open.spotify.com/artist/0PA4l7NRdQLiczQbDTfhZJ), [Hriddhi Chakraborty](https://open.spotify.com/artist/4fDyg9wclrHKmjFNpse1gk), [Aviman Paul](https://open.spotify.com/artist/6jrridHwDgmQ0Zd8Se8YQR) | [Om Maha Ganapataye Namaha \- 108 Times](https://open.spotify.com/album/4cywXI9R6vx64NvIByh9AE) | 23:15 |
+| 12 | [Om Maha Ganapataye Namaha \- 108 Times](https://open.spotify.com/track/601N1MaBovxBQCnPq0hF6H) | [Arundhati Chowdhury](https://open.spotify.com/artist/0PA4l7NRdQLiczQbDTfhZJ), [Hriddhi Chakraborty](https://open.spotify.com/artist/4fDyg9wclrHKmjFNpse1gk), [Aviman Paul](https://open.spotify.com/artist/6jrridHwDgmQ0Zd8Se8YQR) | [Om Maha Ganapataye Namaha \(108 Times\)](https://open.spotify.com/album/4cywXI9R6vx64NvIByh9AE) | 23:15 |
 | 13 | [Shree Ganapati Atharvashirsha](https://open.spotify.com/track/28PQnEmoE39ZfjgQqttPDR) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM) | [Ganesha Symphonic Chants Experience](https://open.spotify.com/album/7pBI5ObmHmMbFi537wORHH) | 6:28 |
 | 14 | [Shloka](https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Durga](https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg) | 4:09 |
 | 15 | [Shri Ram Jai Ram \(21 Chant\)](https://open.spotify.com/track/3k4uDqn0ll7m65127JfsD6) | [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Nishant Upadhyay](https://open.spotify.com/artist/6X5A6Nc7hVXf7V88rG7OpB), [Vivek Nayi](https://open.spotify.com/artist/5NmAnk2izH1vPZyUfTUqcR), [Margiv Trivedi](https://open.spotify.com/artist/3tu0DiS7GT1F7k8G3Ktltm), [Isha Nair](https://open.spotify.com/artist/1nLpmgdc1clXUHhNj2C3hG), [Deepaali Vyas](https://open.spotify.com/artist/5aLZJEZZgTBVB9UBiBZ6g2), [Bansari Maisuriya](https://open.spotify.com/artist/6p93w7A249t5ZWqohyXEMl) | [Shri Ram Jai Ram \(21 Chant\)](https://open.spotify.com/album/74xEYLqBS3lUUoWRy5MJcn) | 13:27 |

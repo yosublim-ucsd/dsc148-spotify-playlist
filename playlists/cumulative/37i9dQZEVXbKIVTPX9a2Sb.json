@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1556,6 +1556,28 @@
       "duration_ms": 144000,
       "name": "Ape Song",
       "url": "https://open.spotify.com/track/7HGH1kLRr6niK7GCdleGxY"
+    },
+    {
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "album": {
@@ -6338,7 +6360,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 190400,
       "name": "CO BYSTE D\u011aLALI",
       "url": "https://open.spotify.com/track/344j6iuGF7bnupmBMNWmEP"
@@ -8552,7 +8574,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 156923,
       "name": "DOUBLE",
       "url": "https://open.spotify.com/track/6uqxYHD6zRHDpEe3GMMqjF"
@@ -10288,7 +10310,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 152000,
       "name": "feRRa",
       "url": "https://open.spotify.com/track/2FNg2tQvzrTJdM42BVtYYF"
@@ -13624,7 +13646,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 214000,
       "name": "HOLA",
       "url": "https://open.spotify.com/track/57J8K2tsZE698St8RtJAq5"
@@ -14364,7 +14386,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -19306,7 +19328,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 138701,
       "name": "LOVE M\u00c1M V BATOHU",
       "url": "https://open.spotify.com/track/6VaW5gHEfRjCXwix86L3gH"
@@ -22058,7 +22080,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 216825,
       "name": "M\u00e1m \u0165a r\u00e1d",
       "url": "https://open.spotify.com/track/4MjqKyPzValK8cxETj6mJe"
@@ -22142,7 +22164,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 157444,
       "name": "M\u016fj Shit",
       "url": "https://open.spotify.com/track/3lGNTdyDNDw48crDOu2PN7"
@@ -26036,7 +26058,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -26524,6 +26546,28 @@
       "duration_ms": 252520,
       "name": "Podme bratia do Betlehema",
       "url": "https://open.spotify.com/track/33rWjlS98fiXLIqHu0EKQU"
+    },
+    {
+      "album": {
+        "name": "Pohoda",
+        "url": "https://open.spotify.com/album/72zoPQsUW0tMmCRKRmpcUr"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1m Sebou",
+          "url": "https://open.spotify.com/artist/0kgzsELkTqlBM4FAnOwra5"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Pohoda",
+      "url": "https://open.spotify.com/track/5tfa7hEqzKc7dsSVfYIM13"
     },
     {
       "album": {
@@ -28898,7 +28942,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -30908,7 +30952,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 137142,
       "name": "SLEDUJ TO BRUDA",
       "url": "https://open.spotify.com/track/47BFuiRjp5JXI7XZmXVcpT"
@@ -34396,7 +34440,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -39328,7 +39372,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 143046,
       "name": "ZE TMY",
       "url": "https://open.spotify.com/track/0RnKHFU91OI03igwRNYTnV"

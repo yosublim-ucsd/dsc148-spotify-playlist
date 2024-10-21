@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,607,202 likes - 150 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,607,335 likes - 150 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 75 | [fml](https://open.spotify.com/track/0r8WywH5D8rL7mxhMyHzN1) | [Unodavid](https://open.spotify.com/artist/3mpOt39mUD754Q7aZ725KH) | [fml](https://open.spotify.com/album/0on4W1TsvgcYzaxwKQRxi5) | 2:43 |
 | 76 | [hope you feel the same](https://open.spotify.com/track/2AYehN2rpEkGi7vMSfP8Rn) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [GAULTIER](https://open.spotify.com/album/3gAJr7IDHRv8qZvCDhQiaH) | 2:10 |
 | 77 | [Penance](https://open.spotify.com/track/4jJsIHgePHhMHSa6J6P9ZB) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [Penance](https://open.spotify.com/album/3NWoWLDEQQaBNlAiYU1IEr) | 3:18 |
-| 78 | [No Good](https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance \- 5 Year Anniversary Edition](https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR) | 4:12 |
+| 78 | [No Good](https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR) | 4:12 |
 | 79 | [Hate Me!](https://open.spotify.com/track/6jmf4OxSGzdgthZruXtcqu) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 2:34 |
 | 80 | [4AM](https://open.spotify.com/track/2O2kaMSTwJqeKaE44YNthA) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [XFOREVER](https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n) | 2:45 |
 | 81 | [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/track/2gfssLSjUEqJnrGyHMWemS) | [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Feel Alive \(feat\. Lil Tracy\)](https://open.spotify.com/album/767SOFGVixK5ZGpKVPZhgn) | 2:44 |

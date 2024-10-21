@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Bnnyhunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,966 likes - 82 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,998 likes - 82 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 2 | [Make Money \(feat\. Mereba\)](https://open.spotify.com/track/3boX0zz8RxicdCuPK8TVdb) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Make Money \(feat\. Mereba\)](https://open.spotify.com/album/3u56W9N5UzKF7ZWVfwHLui) | 3:51 |
 | 3 | [Bring It Back](https://open.spotify.com/track/2Sv6CK2NjQR1zaieWkO6cq) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Bring It Back](https://open.spotify.com/album/3MuKzBvMDz5sFALpKA22CE) | 3:13 |
 | 4 | [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 |
-| 5 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \- Deluxe](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
+| 5 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
 | 6 | [Butterfly Effect](https://open.spotify.com/track/4W4Tn8xO2C3quM8zNpJbdm) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Playing Around](https://open.spotify.com/album/5AfHVG8kDpmfAhfEo7dA98) | 3:17 |
 | 7 | [Bloom](https://open.spotify.com/track/45jDy30AdgovP88gjPPdmB) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Bloom](https://open.spotify.com/album/1SIcq11Bdm5HE1S7JlORXe) | 4:35 |
 | 8 | [BYMYSIDE](https://open.spotify.com/track/4chcjrwWpdHsToYAM1xVmG) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [BYMYSIDE](https://open.spotify.com/album/6fFeUfOJ46lM4ATs84hlFn) | 2:57 |

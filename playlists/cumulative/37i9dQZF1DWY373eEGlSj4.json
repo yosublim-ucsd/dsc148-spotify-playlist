@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "album": {
         "name": "The Best: Loggins & Messina Sittin' In Again",
         "url": "https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf"
       },
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 280360,
       "name": "Telephone Line",
       "url": "https://open.spotify.com/track/3SPcBPzvbmWLl8NU5efx4W"

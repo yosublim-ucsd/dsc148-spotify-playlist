@@ -1703,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Maisayaw",
+        "url": "https://open.spotify.com/album/3zV6zqnsQGi5G6ta0ljo38"
+      },
+      "artists": [
+        {
+          "name": "Frank Ely",
+          "url": "https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Maisayaw",
+      "url": "https://open.spotify.com/track/69mFymncpfkrFYUbfvJseI"
+    },
+    {
+      "album": {
         "name": "MU",
         "url": "https://open.spotify.com/album/4bGMCLUG61Fveyy16lxbIM"
       },

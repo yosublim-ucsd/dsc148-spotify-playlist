@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 100153,
+  "num_followers": 100196,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGlAAAAAADThYsRJwuSo9B37+FcWmXm",
+  "snapshot_id": "ZxL2gAAAAAAmPXCKf/uh1lUrqsWJltGX",
   "tracks": [
     {
       "added_at": null,
@@ -732,15 +732,15 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 211106,
-      "name": "Gimme a D",
-      "url": "https://open.spotify.com/track/74bY6zZfIDJxz5OhQzZU7D"
+      "duration_ms": 196840,
+      "name": "Mutiny",
+      "url": "https://open.spotify.com/track/3qAS5KRBZazwa1ShCtqxW1"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Killing with a Smile",
-        "url": "https://open.spotify.com/album/6BSLK8OMPCTbUldpzsYnml"
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 196840,
-      "name": "Mutiny",
-      "url": "https://open.spotify.com/track/3qAS5KRBZazwa1ShCtqxW1"
+      "duration_ms": 211100,
+      "name": "Gimme AD",
+      "url": "https://open.spotify.com/track/6aiL3ftGl86lXUWkYuN05E"
     }
   ],
   "unique_name": "This Is Parkway Drive",

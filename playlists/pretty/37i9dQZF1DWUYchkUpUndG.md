@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=\-lolQYq2SCWKitn0rvoHCA>EJ Newton</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,448 likes - 90 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,492 likes - 90 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 69 | [This Kind of God](https://open.spotify.com/track/5DWxdGIP5WwbUAiq7TjzqD) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [This Kind of God](https://open.spotify.com/album/6cFUF3NAeIWdhhoevY7wAH) | 3:55 |
 | 70 | [No Be For Here](https://open.spotify.com/track/50vMRrsA12Lc3rTAH3bnqu) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [Hiro Lyon](https://open.spotify.com/artist/2KoUu8kPi8vuUcSc6MatNX) | [No Be For Here](https://open.spotify.com/album/39oUkH0zVHILpAwZOsXvlc) | 3:38 |
 | 71 | [Reflections \(Solo Version\)](https://open.spotify.com/track/1bwP8t93GjXdtZIP3P4nku) | [Jephthah Idahosa Aigbe](https://open.spotify.com/artist/6K4xWHvtn0F3eM6dnZGQeg) | [Reflections \(Solo Version\)](https://open.spotify.com/album/3LXDaAXdjlvybyhN8KLR9D) | 3:33 |
-| 72 | [Glory Days! \- Special Version](https://open.spotify.com/track/2MWzWjqbvDqGwe1nGUeaz2) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Glory Days! \- Special Version](https://open.spotify.com/album/3bAUV7ihfuNxmoiTayLGpj) | 2:45 |
+| 72 | [Glory Days! \- Special Version](https://open.spotify.com/track/2MWzWjqbvDqGwe1nGUeaz2) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Glory Days! \(Special Version\)](https://open.spotify.com/album/3bAUV7ihfuNxmoiTayLGpj) | 2:45 |
 | 73 | [EAZY BABY \- UNVL' 24](https://open.spotify.com/track/0g8v4CkCqnS1xFq4hpiS74) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [EAZY BABY \(UNVL' 24\)](https://open.spotify.com/album/76zrlgzv9vwpnwFvczpyR8) | 2:26 |
 | 74 | [Grace Doings](https://open.spotify.com/track/5pZAZ34rKz8oi3nm8as4Wa) | [El Nora](https://open.spotify.com/artist/3d4mwvKwIlXRqCVK2WMdyS), [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6) | [Grace Doings](https://open.spotify.com/album/3yVnhJmFZMTBt8yKzo2dyg) | 2:05 |
 | 75 | [Ababisa](https://open.spotify.com/track/69NPk2Fh9C1p3JiAHyT3ly) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Ababisa](https://open.spotify.com/album/0l6KiVdpWVnI5ghivfKzOc) | 1:48 |

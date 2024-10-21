@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Once Mekel
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,726 likes - 154 songs - 10 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,810 likes - 154 songs - 10 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hilang Naluri](https://open.spotify.com/track/0RuptiEGaVC3ehZNUZxKYu) | [Once Mekel](https://open.spotify.com/artist/57rIw0vk3eEuJlVblR4CrE) | [Once](https://open.spotify.com/album/6681ZUPUgHIFoTQjgZ7blI) | 4:07 |
-| 2 | [Cinta Sejati \- Remastered 2024](https://open.spotify.com/track/3rsTUQcZbCWlH2CSGP4s48) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Sejati \- Remastered 2024](https://open.spotify.com/album/5MX0MzRa7G6inW4qBA0UUt) | 5:01 |
+| 2 | [Cinta Sejati \- Remastered 2024](https://open.spotify.com/track/3rsTUQcZbCWlH2CSGP4s48) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Sejati \(Remastered 2024\)](https://open.spotify.com/album/5MX0MzRa7G6inW4qBA0UUt) | 5:01 |
 | 3 | [Seandainya](https://open.spotify.com/track/1FZQpbWv9WIi7xn2rguVDy) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/43XE7IVshsrjvuTvcLA5Hz) | 4:23 |
 | 4 | [Rahasia Hati](https://open.spotify.com/track/06WVk918Orq8g4HpIi5f50) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/1Bz3ZhNWrWrV0MOALDvMCF) | 4:10 |
 | 5 | [Percaya Padaku](https://open.spotify.com/track/4rHCqrJt6PJmR899XpDQNQ) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [1000 Kisah Satu Hati](https://open.spotify.com/album/7b0PfthjmXQJ0rRX3mYQrA) | 3:48 |

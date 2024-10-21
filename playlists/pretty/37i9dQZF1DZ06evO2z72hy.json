@@ -1,12 +1,12 @@
 {
   "description": "This Is Gondwana. Los temas esenciales, todos en una lista.",
-  "num_followers": 84015,
+  "num_followers": 84033,
   "original_name": "This Is Gondwana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGlAAAAAAC6eErnmroLx5bcKRf0BEkc",
+  "snapshot_id": "ZxL2gAAAAAAsx4EQQ3YBWodmXMEY5Tjd",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crece",
-        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 278159,
-      "name": "Fight",
-      "url": "https://open.spotify.com/track/7uGKVP3MSeWevLYFI0FOvI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resiliente",
         "url": "https://open.spotify.com/album/1x6C4CFPw4B4w9KUguHQGo"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 258252,
       "name": "K-In",
       "url": "https://open.spotify.com/track/33ZodQe3KOlVo1RCTznvVd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 278159,
+      "name": "Fight",
+      "url": "https://open.spotify.com/track/7uGKVP3MSeWevLYFI0FOvI"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crece",
+        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 247999,
+      "name": "Nada Cambio",
+      "url": "https://open.spotify.com/track/7I8uaDNQuJWQbguh7JPWvm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T\u00f3tem",
         "url": "https://open.spotify.com/album/6WzjJdvITFIyMhQ8Y8ZTys"
       },
@@ -651,54 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crece",
-        "url": "https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 247999,
-      "name": "Nada Cambio",
-      "url": "https://open.spotify.com/track/7I8uaDNQuJWQbguh7JPWvm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
-        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Para Quien Avanza",
-      "url": "https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 194749,
-      "name": "Susurro",
-      "url": "https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terc3ra Llamada",
         "url": "https://open.spotify.com/album/1Z9CbGMQmKWqsfkcF64VOG"
       },
@@ -719,6 +687,38 @@
       "duration_ms": 155996,
       "name": "Quiero acercarme a ti",
       "url": "https://open.spotify.com/track/5Uyd0HavtHIMTPsDDN82yC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 194749,
+      "name": "Susurro",
+      "url": "https://open.spotify.com/track/2TxZ8JAypBhn7GWyzwX4hR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
+        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "Para Quien Avanza",
+      "url": "https://open.spotify.com/track/318Xr1GlYpmDpGeHw89tNO"
     },
     {
       "added_at": null,

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1VmDYs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1VmDYs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1VmDYs)
 
-### [This Is ウィーザー](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VmDYs)
+### [This Is Weezer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VmDYs)
 
-> This is ウィーザー。アーティストの代表曲をひとつのプレイリストに。
+> This is Weezer\. The essential tracks, all in one playlist.
 
 65 songs - 3 hr 35 min
 

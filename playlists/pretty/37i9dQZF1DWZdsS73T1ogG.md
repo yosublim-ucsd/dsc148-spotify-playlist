@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: iZaak & Hades66
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,862 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,868 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 64 | [Can Am](https://open.spotify.com/track/7MK6edE9MWa7OVPFy0tbcM) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 2:44 |
 | 65 | [Una Diabla \(feat\. Justin Quiles\)](https://open.spotify.com/track/7vk9IZVcVAYsl9zfZvbQ29) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Una Diabla \(feat\. Justin Quiles\)](https://open.spotify.com/album/5klBFusntoOrBLhg5Ipk86) | 2:41 |
 | 66 | [MI AMIGA ES UNA P](https://open.spotify.com/track/0LNinQsLU8ushZQhaefl7P) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [UNDERWATER](https://open.spotify.com/album/6Q6k7LvauK7jFZNe3hnRqB) | 2:42 |
-| 67 | [Cosa Nostra \- Remix](https://open.spotify.com/track/6K6oUY5DHF58XqiRTc9gOR) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [Cosa Nostra \- Remix](https://open.spotify.com/album/026YF5X0gj39tbYkZ6RNI7) | 4:40 |
+| 67 | [Cosa Nostra \- Remix](https://open.spotify.com/track/6K6oUY5DHF58XqiRTc9gOR) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i) | [Cosa Nostra \(Remix\)](https://open.spotify.com/album/026YF5X0gj39tbYkZ6RNI7) | 4:40 |
 | 68 | [SERIO CON ESE Q](https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [SERIO CON ESE Q](https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf) | 4:07 |
 | 69 | [Amnesia](https://open.spotify.com/track/4ejHT9h9MEGps6qM6YGoeE) | [Ninjaa CH](https://open.spotify.com/artist/2vL3sN3yOvGX1mCpUXbCgz), [Cheztom](https://open.spotify.com/artist/5DJQ2mf4W5JFyjLt4KdEQn) | [Amnesia](https://open.spotify.com/album/1OLzRgZvWjDAUBNONR8WC1) | 2:37 |
 | 70 | [LUNA](https://open.spotify.com/track/46PJdzPGEb06XT7BCYPyHI) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [LUNA](https://open.spotify.com/album/5GePbEJD29vrg2Fi2TeSuN) | 2:44 |

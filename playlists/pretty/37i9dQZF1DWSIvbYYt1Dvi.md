@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > se ver a luanna do 44 na dela, ctz q tá tramando AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,129 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,080 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Meu Problema](https://open.spotify.com/track/7x9ZGBLZKTPplZIApLJ3Rz) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:16 |
 | 2 | [MUITO BRABO](https://open.spotify.com/track/3QNjS73flaaTBKyxk7E0kL) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [MUITO BRABO](https://open.spotify.com/album/6H7CjzXl7ILsfMqs9pyik6) | 3:39 |
-| 3 | [A Dança \- Ao Vivo](https://open.spotify.com/track/5YNGlqsKGstyaJilHELAGo) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Funk Superação \- Ao Vivo](https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt) | 4:04 |
+| 3 | [A Dança \- Ao Vivo](https://open.spotify.com/track/5YNGlqsKGstyaJilHELAGo) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Funk Superação \(Ao Vivo\)](https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt) | 4:04 |
 | 4 | [BOOMBAP PERFEITO](https://open.spotify.com/track/5OrfScVAsdqEgo4Og8ebrv) | [Aldeia Records](https://open.spotify.com/artist/5q9yc7RScObCN016xvstXM), [Grafiteh](https://open.spotify.com/artist/1mZKPF3NjGsiwsnGi9zE4r), [Bxrgez](https://open.spotify.com/artist/1JpJY4VOgwfE5xLtqzOJVD) | [BOOMBAP PERFEITO](https://open.spotify.com/album/5BLeGawegQZ8zquNP8hpiu) | 2:48 |
 | 5 | [La Noche](https://open.spotify.com/track/0IEVEtKQ4kRgZehxyfUrKS) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [OPROPRIO](https://open.spotify.com/album/0b2iLDXb2gs0jRk4Vj7jlR) | 3:21 |
 | 6 | [Ficar Rico Esse Ano](https://open.spotify.com/track/44JWBoBnEGNMC8w95HQ1AR) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ficar Rico Esse Ano](https://open.spotify.com/album/5BTjYmN3eXdGV1uHKgeARb) | 2:57 |

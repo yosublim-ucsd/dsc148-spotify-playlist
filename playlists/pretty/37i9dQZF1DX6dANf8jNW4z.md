@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Ainoa Buitrago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,152 likes - 59 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,155 likes - 59 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 13 | [Libre](https://open.spotify.com/track/4H4BiO70PQV6Ph9tEwFv3Q) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Libre](https://open.spotify.com/album/6QoqdjRgevQ3tOLAedkk83) | 2:39 |
 | 14 | [solo un nombre](https://open.spotify.com/track/4WOLdudWcyjYUuRYGYd8uY) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [solo un nombre](https://open.spotify.com/album/4G9SYkkeCeO0jXTQxDOxFz) | 2:48 |
 | 15 | [Nosotros](https://open.spotify.com/track/1yeRSd0UBU8TE0QzOklAwv) | [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [Nosotros](https://open.spotify.com/album/2UT7tAsxbBpFGK4UfmFHR8) | 2:42 |
-| 16 | [el borde del mundo \- Canción Original de la película “El 47”](https://open.spotify.com/track/6a6oU1HNcSTsOyzWZLcwL7) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [el borde del mundo \- Canción Original de la película “El 47”](https://open.spotify.com/album/6gEWPynIqmCBGiQWCL5FC7) | 4:07 |
+| 16 | [el borde del mundo \- Canción Original de la película “El 47”](https://open.spotify.com/track/6a6oU1HNcSTsOyzWZLcwL7) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [el borde del mundo \(Canción Original de la película “El 47”\)](https://open.spotify.com/album/6gEWPynIqmCBGiQWCL5FC7) | 4:07 |
 | 17 | [Me iría contigo](https://open.spotify.com/track/60lshuY1w3XPv2Q6kvs96z) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb) | [Me iría contigo](https://open.spotify.com/album/0NUq5usKMXLfkcKvae1wCu) | 3:25 |
 | 18 | [Y A Ti Nadie Te Quiere](https://open.spotify.com/track/0t0ZLnInHjZFjdoK0J6Et4) | [Conchita](https://open.spotify.com/artist/0TPv1jIhKn4d0boGDxy4LI), [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR), [Julia Medina](https://open.spotify.com/artist/2W9Bqi3EV1GXFkCOvE3oSE) | [Y A Ti Nadie Te Quiere](https://open.spotify.com/album/768g9IDZZWYTRBEiQBv4Br) | 3:13 |
 | 19 | [Pastores](https://open.spotify.com/track/60ks4Mzs16IM7mlbtB7y8H) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Pastores](https://open.spotify.com/album/4OFeXqdVRgjOkOFd6rGHYQ) | 2:21 |

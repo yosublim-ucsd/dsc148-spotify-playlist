@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă  la volum maxim vocile feminine din România\.  Cover: Alexandra Stan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,845 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,844 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 8 | [Apă și Pământ](https://open.spotify.com/track/0BW2Gto1cME7HTmn6NlPjW) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Apă și Pământ](https://open.spotify.com/album/6gtAXlAUBM9gt9uLECMfqG) | 2:40 |
 | 9 | [De mă lași](https://open.spotify.com/track/2EWDzxXpPn5EiGOyAbPZry) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [Albwho](https://open.spotify.com/artist/1gKMA54tfPeStFBKsNl2t2) | [De mă lași](https://open.spotify.com/album/6LJDT2bwtbVjp3R5qht6ct) | 2:26 |
 | 10 | [Somebody Else But Me](https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Somebody Else But Me](https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH) | 3:30 |
-| 11 | [No Plan \- Yo](https://open.spotify.com/track/426EQYakBJ0OxDqpODtBiB) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [No Plan \- Yo](https://open.spotify.com/album/6ohx9fQRjPxDphtPwgGyob) | 2:55 |
+| 11 | [No Plan \- Yo](https://open.spotify.com/track/426EQYakBJ0OxDqpODtBiB) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [No Plan \(Yo\)](https://open.spotify.com/album/6ohx9fQRjPxDphtPwgGyob) | 2:55 |
 | 12 | [Să curgă șampania](https://open.spotify.com/track/7AOQGl6KHXylqTqrvszSie) | [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Să curgă șampania](https://open.spotify.com/album/5qbuhRXNNuH1QdBNiyGX4k) | 2:58 |
 | 13 | [Pentru Inimi Frante](https://open.spotify.com/track/2Vte9P5aMap0rBZrB47stv) | [Lora](https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq) | [Pentru Inimi Frante](https://open.spotify.com/album/2N97K2JsZf9HKCh4Mnup5V) | 3:07 |
 | 14 | [Cenușăreaso](https://open.spotify.com/track/63vAGBl8LbaEjMhAvZysFo) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Cenușăreaso](https://open.spotify.com/album/7wvwQYMqixR49p8UVsi6ij) | 3:09 |

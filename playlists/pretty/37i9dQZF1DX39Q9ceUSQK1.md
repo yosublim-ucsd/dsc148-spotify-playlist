@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe indie, rock en alternative\. Cover: Marble Sounds
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,823 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,821 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 22 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 23 | [Painkiller](https://open.spotify.com/track/1FmgTAoC16gigHr2mx1cmC) | [JEN](https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY) | [Painkiller](https://open.spotify.com/album/45D55zXNlh80oV6hRXc8LP) | 2:26 |
 | 24 | [Schmetterling](https://open.spotify.com/track/1FdKU2jBVHNlsY5SdT5v9N) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Farfalla / Schmetterling](https://open.spotify.com/album/0oJoLsoo91hJ2EhgFqz2Et) | 4:17 |
-| 25 | [Wonderful Nothing \- Edit](https://open.spotify.com/track/11GTpqJD4ycsqCfw8KIJt9) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Wonderful Nothing \- Edit](https://open.spotify.com/album/3xp7iu6cHPxtlsAJEIZ3KM) | 3:16 |
+| 25 | [Wonderful Nothing \- Edit](https://open.spotify.com/track/11GTpqJD4ycsqCfw8KIJt9) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Wonderful Nothing \(Edit\)](https://open.spotify.com/album/3xp7iu6cHPxtlsAJEIZ3KM) | 3:16 |
 | 26 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
 | 27 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 |
 | 28 | [All Night Long](https://open.spotify.com/track/3djx2SmLRLeOrJD4SxZ6L1) | [Gumbo Kings](https://open.spotify.com/artist/1j0vpirnPJTpjYHRAInw3n) | [All Night Long](https://open.spotify.com/album/1A9dgS86bekxLdSxSX9637) | 3:44 |

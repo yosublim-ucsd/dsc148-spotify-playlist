@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Spookily bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,415 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,459 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 4 | [24 Hours](https://open.spotify.com/track/1TOCHZ067TBQ3ugU4Amfrc) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [24 Hours](https://open.spotify.com/album/6kGcGRZQTm4489JAluNqxk) | 3:58 |
 | 5 | [Spooky \(Duke Skellington Remix\)](https://open.spotify.com/track/6XSKfR48lYGFOaaBWEMWOb) | [Kumiho](https://open.spotify.com/artist/4t0HSuBBnJfGBkQe4cAaCm), [Duke Skellington](https://open.spotify.com/artist/6L0Fw5vMpxxtYcjzxr9Wtk) | [Nine Tails: Retold](https://open.spotify.com/album/1LzVHIVmnN1pEXRN1SpVC8) | 3:47 |
 | 6 | [Ghost Ships Curse \- Spooky Swing Mix](https://open.spotify.com/track/3hnljcDnmt10xbC9ebbRAo) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Dacha Dynamics](https://open.spotify.com/artist/4E4tte9mbYJcGe65kGqeWv) | [Ghost Ships Curse \(Spooky Swing Mix\)](https://open.spotify.com/album/6iMSJSyl0X8XhUWLgVejqU) | 3:08 |
-| 7 | [God of Swing \- Electro Swing Radio Mix](https://open.spotify.com/track/53BE1WhBBeOngbYNjnF2GR) | [Swing Sonix](https://open.spotify.com/artist/73nuKeY2fd6Vd3j5jooqMk) | [God of Swing \- Electro Swing Radio Mix](https://open.spotify.com/album/3WxL5soKvavcU6HbD95cKf) | 2:55 |
+| 7 | [God of Swing \- Electro Swing Radio Mix](https://open.spotify.com/track/53BE1WhBBeOngbYNjnF2GR) | [Swing Sonix](https://open.spotify.com/artist/73nuKeY2fd6Vd3j5jooqMk) | [God of Swing \(Electro Swing Radio Mix\)](https://open.spotify.com/album/3WxL5soKvavcU6HbD95cKf) | 2:55 |
 | 8 | [Trick or Treat](https://open.spotify.com/track/04T5Bc9852IO2LA0cla7Xg) | [Madam Misfit](https://open.spotify.com/artist/42rQYQExEIwKEsPwkREvIM), [Victor and the Bully](https://open.spotify.com/artist/5ajT35SkbTc7KuPydYYiDq) | [Trick or Treat](https://open.spotify.com/album/5S7lVI05P5Vkr6SM6CnXBB) | 3:40 |
 | 9 | [Dancing with the Devil](https://open.spotify.com/track/5v6M7RkUUoqoqhSg47WDzN) | [Elle & The Pocket Belles](https://open.spotify.com/artist/0MbDNDhsDB35CyvApzybJt) | [Dancing with the Devil](https://open.spotify.com/album/23015bEcBD0AGhSVINfp1e) | 3:46 |
 | 10 | [Spooky, Scary Skeletons \- Dave Wave Electro Swing Remix](https://open.spotify.com/track/5svYQUDKtooGa5zpwOKdBE) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d), [Dave Wave](https://open.spotify.com/artist/20R8jDiuElQYtL2W1uPoAe) | [Spooky Scary Skeletons \(Dave Wave Electro Swing Remix\)](https://open.spotify.com/album/04KzhMcxMuPVmUskWbIH3I) | 4:03 |

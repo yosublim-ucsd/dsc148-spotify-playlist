@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: TOMOO
 
-2,687 songs - 7 day 4 hr 19 min
+2,689 songs - 7 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1128,6 +1128,7 @@
 | [Season](https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M) | 3:28 | 2023-04-18 | 2023-04-20 |
 | [Season](https://open.spotify.com/track/59ZJXXQ0VeLtBK5EfW0KLJ) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:28 | 2023-05-11 | 2023-11-17 |
 | [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-18 | 2023-05-13 |
+| [season of you](https://open.spotify.com/track/20HLR6jrdHeRIiRI89J812) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [season of you](https://open.spotify.com/album/6EnyuIfo8bt0i7WnzoY4ro) | 3:30 | 2024-10-15 |  |
 | [SECM \(Sausage Egg & Cheese Muffin\)](https://open.spotify.com/track/3Aup2ONzQh3oG2jvrpaOtX) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [Snowdome](https://open.spotify.com/album/37SUGkacnP6YHLqUivxrGY) | 2:12 | 2022-12-22 | 2023-01-04 |
 | [Secret Call](https://open.spotify.com/track/4ONUSYsmgFh29tArgq9pGg) | [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [Secret Call](https://open.spotify.com/album/4Ybc6aVyMtS69aCRIveZsn) | 3:34 | 2023-08-31 | 2023-09-06 |
 | [Secret Love \- Band ver.](https://open.spotify.com/track/4zlerKi4ecdtvwNRTYn5DP) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [Secret Love \(Band ver.\)](https://open.spotify.com/album/3lKCbvXc2T0yb4qyPHocZU) | 3:16 | 2022-12-15 | 2022-12-21 |
@@ -1567,8 +1568,9 @@
 | [あの笑み \(feat\. ano\)](https://open.spotify.com/track/3ZV2Ikfk9eGJbPZLqLjgQy) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [あの笑み \(feat\. ano\)](https://open.spotify.com/album/1QuHCYOQRcHOfCROj1FrkV) | 4:50 | 2022-06-21 | 2022-06-29 |
 | [あやふや](https://open.spotify.com/track/1UvCeSlHieprSfrjlREJdS) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [あやふや](https://open.spotify.com/album/5fDfPVGJ6uv8AwIV1F3jCU) | 3:40 | 2024-02-06 | 2024-05-12 |
 | [ありがとうさよなら](https://open.spotify.com/track/6vTPnDeVmVmY2EtdLc8oVV) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [ありがとうさよなら](https://open.spotify.com/album/4xLbLXEWLW3uHwqOZTCbDw) | 2:45 | 2022-05-31 | 2022-07-05 |
-| [あれが恋だったのかな](https://open.spotify.com/track/23eX2EUwE7EhiLWoPl1Pdv) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [あれが恋だったのかな](https://open.spotify.com/album/7uFU9Y8c0jKNXuqjOLzMT3) | 2:32 | 2024-07-16 |  |
+| [あれが恋だったのかな](https://open.spotify.com/track/23eX2EUwE7EhiLWoPl1Pdv) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [あれが恋だったのかな](https://open.spotify.com/album/7uFU9Y8c0jKNXuqjOLzMT3) | 2:32 | 2024-07-16 | 2024-10-21 |
 | [あわいに](https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [あわいに](https://open.spotify.com/album/5SCavhtaz95mQ9mdaMDSRi) | 3:21 | 2024-04-16 | 2024-07-27 |
+| [あんたなんて。](https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [あんたなんて。](https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2) | 4:01 | 2024-10-15 |  |
 | [あゝ無情](https://open.spotify.com/track/0WKL3HPjCBQYnJXCqPEV6M) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [なごり雪 / あゝ無情](https://open.spotify.com/album/72OOgv2wF8kPDEhcStM718) | 4:08 | 2023-10-10 | 2023-11-01 |
 | [いいじゃん](https://open.spotify.com/track/7hKALgOCxMAHD9XkU5rt08) | [井手綾香](https://open.spotify.com/artist/2fNTb2FBI4pvPWSxazrNBV) | [いいじゃん](https://open.spotify.com/album/7AqKS4Zd6YRpuTDumR75HN) | 3:04 | 2023-05-04 | 2023-05-06 |
 | [いけない](https://open.spotify.com/track/4r90XRT74vCHams9LxZBaW) | [Kaede](https://open.spotify.com/artist/0KZ83Y1bF24W54rmvP2qxr) | [いけない](https://open.spotify.com/album/6ijZiPgas24NAko4hHKdPW) | 4:03 | 2024-09-17 | 2024-10-09 |
@@ -1864,7 +1866,7 @@
 | [スウィートインスピレーション \- feat\. 仮谷せいら](https://open.spotify.com/track/7sLGRcKrp4km7tCeQUgaWJ) | [アンニュイ・ホリデイ](https://open.spotify.com/artist/4bvnpQWFoBrNWySwtF8b3b), [Seira Kariya](https://open.spotify.com/artist/0iJ6VIGJffJ0vCLJHc3xqO) | [スウィートインスピレーション \(feat\. 仮谷せいら\)](https://open.spotify.com/album/0fpUZbFCy7eyvKQcycy8Uf) | 4:59 | 2022-11-15 | 2022-11-23 |
 | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/track/7zc7YIxrfTzXSXTe6oQKwH) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [スウィート・ソウル・レヴュー \(duet with Rainych, feat\. evening cinema\)](https://open.spotify.com/album/3spkvo7ENdH913rigIMaKI) | 4:34 | 2022-05-31 | 2022-07-26 |
 | [スカフィンのうた](https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [スカフィンのうた](https://open.spotify.com/album/3EmJjo9wN19HWDyoFMSgp1) | 2:30 | 2023-07-11 | 2023-08-30 |
-| [スキ](https://open.spotify.com/track/0ZhxVhQ3EMRIFxczoTfkn0) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [スキ](https://open.spotify.com/album/05g4o9ussnbfEksPXfL4am) | 2:52 | 2022-07-26 |  |
+| [スキ](https://open.spotify.com/track/0ZhxVhQ3EMRIFxczoTfkn0) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [スキ](https://open.spotify.com/album/05g4o9ussnbfEksPXfL4am) | 2:52 | 2022-07-26 | 2024-10-21 |
 | [スキズキ](https://open.spotify.com/track/6xfIPEgTFG4loc8FMtj7ni) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [スキズキ](https://open.spotify.com/album/1ApXKlS23NagTkV0mlTEh8) | 3:11 | 2024-04-09 | 2024-04-17 |
 | [スキップサイダー](https://open.spotify.com/track/6WIKr2Sbh0jXcz87IWq6MN) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [スキップサイダー](https://open.spotify.com/album/1stUKtFIj0O9AAgU6M5Bwe) | 2:51 | 2022-07-05 | 2022-07-08 |
 | [スクラップ&ビルド](https://open.spotify.com/track/2fGDZG4NlGUzYMz4mnPEcH) | [ELAIZA](https://open.spotify.com/artist/45dMXQSIdhCQd5RUqDSpka) | [スクラップ&ビルド](https://open.spotify.com/album/2Jp1AwgVfh7MFdGJGkShry) | 3:45 | 2023-10-10 | 2023-10-18 |

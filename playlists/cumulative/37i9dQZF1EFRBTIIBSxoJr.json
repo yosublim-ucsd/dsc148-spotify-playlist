@@ -718,7 +718,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 185973,
       "name": "Freedom (feat. Jussie Smollett)",
       "url": "https://open.spotify.com/track/3K21eqPSN8Fb4SxEnKfEOo"
@@ -1980,6 +1980,24 @@
       "duration_ms": 206440,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/6Zu27PkzMSe2oL9kgCXyk3"
+    },
+    {
+      "album": {
+        "name": "Still in Love (Acoustic)",
+        "url": "https://open.spotify.com/album/68kr3m1lQzS0MlXXpVIeYW"
+      },
+      "artists": [
+        {
+          "name": "The Inner Voices",
+          "url": "https://open.spotify.com/artist/6YNzFZMSy9yCYyXtS3JQQF"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254058,
+      "name": "Still in Love (Acoustic)",
+      "url": "https://open.spotify.com/track/1FOX7NEDh37v5xNXyESzsK"
     },
     {
       "album": {

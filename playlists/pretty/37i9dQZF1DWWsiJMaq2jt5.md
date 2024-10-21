@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:4E8L0A5xtDhcMaeBO7p0eg">Bovska</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,070 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,067 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 30 | [Tak jak ja](https://open.spotify.com/track/06nFUiyRnJxVd8bpNzhjjg) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Wracam do siebie](https://open.spotify.com/album/2CJQYiGHnWGY4C3ceu4z6a) | 2:58 |
 | 31 | [przypadkiem](https://open.spotify.com/track/4qnzc5iJp1NI23WG0iroCQ) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [przypadkiem](https://open.spotify.com/album/7cPkz7ex0tIwfxls5NaPK0) | 3:03 |
 | 32 | [apetyt na niepewność](https://open.spotify.com/track/3z0cF0eSum8zZbcQRuNbFb) | [Magdalena Fidecka](https://open.spotify.com/artist/58DE6xR8NPumBbjyzcipJL) | [apetyt na niepewność](https://open.spotify.com/album/1QKexfVYKrTwJmSu85XR2O) | 3:35 |
-| 33 | [Kurtyny – projekt Ogrody Śródmieście \- Borys Sawaszkiewicz Remix](https://open.spotify.com/track/7t2KUfnjInubq1Lbi6Zl1Q) | [Marika](https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR), [Borys Sawaszkiewicz](https://open.spotify.com/artist/3MMSIxBkJDsk9d8Wdy4n6e), [DJ Eprom](https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80) | [Kurtyny – projekt Ogrody Śródmieście \- Borys Sawaszkiewicz Remix](https://open.spotify.com/album/7e7UhNxFsvLcZHVdcY0ZOY) | 3:20 |
+| 33 | [Kurtyny – projekt Ogrody Śródmieście \- Borys Sawaszkiewicz Remix](https://open.spotify.com/track/7t2KUfnjInubq1Lbi6Zl1Q) | [Marika](https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR), [Borys Sawaszkiewicz](https://open.spotify.com/artist/3MMSIxBkJDsk9d8Wdy4n6e), [DJ Eprom](https://open.spotify.com/artist/3Hmg6jjXn5TzGRwrsjGn80) | [Kurtyny – projekt Ogrody Śródmieście \(Borys Sawaszkiewicz Remix\)](https://open.spotify.com/album/7e7UhNxFsvLcZHVdcY0ZOY) | 3:20 |
 | 34 | [Melodie](https://open.spotify.com/track/3hKm4KQaWvnjysnPNSerxD) | [afekty](https://open.spotify.com/artist/3SpESiiNwNfFPpEmsTiXoH), [Helena Pyłka](https://open.spotify.com/artist/1jimlac7RknSbFMRoxUw9e), [Basia Siciarek](https://open.spotify.com/artist/6WcYkSf44ojtwFJ4jENIOh) | [Melodie](https://open.spotify.com/album/13aOlXTI39OKlpVZdtJuuO) | 2:21 |
 | 35 | [Deszczowy lipiec](https://open.spotify.com/track/6xpMN7YjQ5I53StXJJK7PI) | [Zuzanna Malisz](https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A) | [Deszczowy lipiec](https://open.spotify.com/album/5VgL0uIeNvxt9BY33a0vsu) | 2:59 |
 | 36 | [Aż Będziesz Wiedzieć](https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Tylko Lepiej EP](https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC) | 2:27 |

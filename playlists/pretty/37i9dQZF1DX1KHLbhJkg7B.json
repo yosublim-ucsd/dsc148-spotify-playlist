@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Kane Brown",
-  "num_followers": 118573,
+  "num_followers": 118610,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-10-18 05:00:00",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/63ON47KtoeS8yMqZElye5n"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 218923,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/2dUG4qvDpJ32vuwE1qvsMz"
-    },
-    {
-      "added_at": "2024-10-18 05:00:00",
-      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2024-10-18 05:00:00",
       "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/63ON47KtoeS8yMqZElye5n"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 218923,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/2dUG4qvDpJ32vuwE1qvsMz"
+    },
+    {
+      "added_at": "2024-10-18 05:00:00",
+      "album": {
         "name": "Jersey Giant",
         "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-10-18 05:00:00",
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
-    },
-    {
-      "added_at": "2024-10-18 05:00:00",
-      "album": {
         "name": "Birds of a Feather",
         "url": "https://open.spotify.com/album/2ILaN6SG0ywXax10v25OfC"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 116048,
       "name": "Birds of a Feather",
       "url": "https://open.spotify.com/track/5DbUJZXMeYjAsGQ2dCfSaX"
+    },
+    {
+      "added_at": "2024-10-18 05:00:00",
+      "album": {
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
     },
     {
       "added_at": "2024-10-18 05:00:00",
@@ -775,22 +775,18 @@
     {
       "added_at": "2024-10-18 05:00:00",
       "album": {
-        "name": "Seven Bridges Road",
-        "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
+        "name": "Good Luck Babe",
+        "url": "https://open.spotify.com/album/2w14JvLGCXNzR8dQ2MC1Eo"
       },
       "artists": [
         {
-          "name": "The Wilder Blue",
-          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
         }
       ],
-      "duration_ms": 190174,
-      "name": "Seven Bridges Road",
-      "url": "https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"
+      "duration_ms": 193868,
+      "name": "Good Luck Babe",
+      "url": "https://open.spotify.com/track/0axqxD4estjwwqDuQ3DYZr"
     },
     {
       "added_at": "2024-10-18 05:00:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2024-10-18 05:00:00",
       "album": {
-        "name": "Good Luck Babe",
-        "url": "https://open.spotify.com/album/2w14JvLGCXNzR8dQ2MC1Eo"
+        "name": "Seven Bridges Road",
+        "url": "https://open.spotify.com/album/6GXkpobqUCBNcak0es2wJ7"
       },
       "artists": [
         {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+          "name": "The Wilder Blue",
+          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 193868,
-      "name": "Good Luck Babe",
-      "url": "https://open.spotify.com/track/0axqxD4estjwwqDuQ3DYZr"
+      "duration_ms": 190174,
+      "name": "Seven Bridges Road",
+      "url": "https://open.spotify.com/track/24T44qdZXhaFn92pW2OHWh"
     },
     {
       "added_at": "2024-10-18 05:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-10-18 05:00:00",
       "album": {
-        "name": "Have You Ever Seen The Rain",
-        "url": "https://open.spotify.com/album/09HJ1H3SPXjlWqiZziB879"
-      },
-      "artists": [
-        {
-          "name": "Callista Clark",
-          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
-        }
-      ],
-      "duration_ms": 176339,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/76LyXt6aLIIcRAlt0HdXwz"
-    },
-    {
-      "added_at": "2024-10-18 05:00:00",
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 269306,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
+    },
+    {
+      "added_at": "2024-10-18 05:00:00",
+      "album": {
+        "name": "Have You Ever Seen The Rain",
+        "url": "https://open.spotify.com/album/09HJ1H3SPXjlWqiZziB879"
+      },
+      "artists": [
+        {
+          "name": "Callista Clark",
+          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
+        }
+      ],
+      "duration_ms": 176339,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/76LyXt6aLIIcRAlt0HdXwz"
     },
     {
       "added_at": "2024-10-18 05:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-10-18 05:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2024-10-18 05:00:00",
-      "album": {
         "name": "Something Borrowed, Something New: A Tribute to John Anderson",
         "url": "https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 278000,
       "name": "Seminole Wind",
       "url": "https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79"
+    },
+    {
+      "added_at": "2024-10-18 05:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2024-10-18 05:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-10-18 05:00:00",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
-      },
-      "artists": [
-        {
-          "name": "Sam Donald",
-          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
-        }
-      ],
-      "duration_ms": 312666,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
-    },
-    {
-      "added_at": "2024-10-18 05:00:00",
-      "album": {
         "name": "Lord, I Hope This Day Is Good",
         "url": "https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 169317,
       "name": "Lord, I Hope This Day Is Good",
       "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
+    },
+    {
+      "added_at": "2024-10-18 05:00:00",
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
+      },
+      "artists": [
+        {
+          "name": "Sam Donald",
+          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
+        }
+      ],
+      "duration_ms": 312666,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
     },
     {
       "added_at": "2024-10-18 05:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-10-18 05:00:00",
       "album": {
-        "name": "Stop Draggin' My Heart Around",
-        "url": "https://open.spotify.com/album/7FdqXRWzRjtH0ZyUK6FS34"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 258165,
-      "name": "Stop Draggin' My Heart Around",
-      "url": "https://open.spotify.com/track/5XeIgn1dQwDZPhhkPIfaap"
-    },
-    {
-      "added_at": "2024-10-18 05:00:00",
-      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
       },
@@ -1667,22 +1651,18 @@
     {
       "added_at": "2024-10-18 05:00:00",
       "album": {
-        "name": "Refugee",
-        "url": "https://open.spotify.com/album/7snxpZlyi8B7T6dEi3zw1k"
+        "name": "Stop Draggin' My Heart Around",
+        "url": "https://open.spotify.com/album/7FdqXRWzRjtH0ZyUK6FS34"
       },
       "artists": [
         {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 230630,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/607QAv6xaTMW1tkjgx59JE"
+      "duration_ms": 258165,
+      "name": "Stop Draggin' My Heart Around",
+      "url": "https://open.spotify.com/track/5XeIgn1dQwDZPhhkPIfaap"
     },
     {
       "added_at": "2024-10-18 05:00:00",
@@ -1699,6 +1679,26 @@
       "duration_ms": 301146,
       "name": "I Want to Know What Love Is",
       "url": "https://open.spotify.com/track/3qTOcH165UGRRH49LMHc8H"
+    },
+    {
+      "added_at": "2024-10-18 05:00:00",
+      "album": {
+        "name": "Refugee",
+        "url": "https://open.spotify.com/album/7snxpZlyi8B7T6dEi3zw1k"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 230630,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/607QAv6xaTMW1tkjgx59JE"
     },
     {
       "added_at": "2024-10-18 05:00:00",

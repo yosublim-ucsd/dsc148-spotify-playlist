@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Theo Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,288 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,301 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 46 | [Momentu’](https://open.spotify.com/track/52kDCWnqVOwnU9weX3Khj7) | [PETRA](https://open.spotify.com/artist/1LDfQtGPCUSccCi58TsM2t), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Momentu’](https://open.spotify.com/album/5dSKoJTuGSFsrVBv9U6Ov0) | 3:00 |
 | 47 | [Între noi nu e gata](https://open.spotify.com/track/632eYdJlwLj2FJdTaQ90Gm) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Între noi nu e gata](https://open.spotify.com/album/4Qy8QGV7YmUQ8fuifu3wNl) | 2:07 |
 | 48 | [Scena vieții](https://open.spotify.com/track/76NVHK5VDIAyzqoQ5PlHRk) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG), [Pavel Stratan](https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF) | [Scena vieții](https://open.spotify.com/album/1XV1IN3uTrgbYY0BwibwiH) | 2:51 |
-| 49 | [No Plan \- Yo](https://open.spotify.com/track/426EQYakBJ0OxDqpODtBiB) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [No Plan \- Yo](https://open.spotify.com/album/6ohx9fQRjPxDphtPwgGyob) | 2:55 |
+| 49 | [No Plan \- Yo](https://open.spotify.com/track/426EQYakBJ0OxDqpODtBiB) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [No Plan \(Yo\)](https://open.spotify.com/album/6ohx9fQRjPxDphtPwgGyob) | 2:55 |
 | 50 | [Somebody Else But Me](https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Somebody Else But Me](https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH) | 3:30 |
 
 Snapshot ID: `ZxF60AAAAADz4Y4AMatJ5Ke+FFqUzdjw`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is Los Cafres. The essential tracks, all in one playlist.",
+  "description": "This Is Los Cafres. Los temas esenciales, todos en una lista.",
   "name": "This Is Los Cafres",
   "tracks": [
     {
@@ -874,7 +874,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 300135,
       "name": "Muia",
       "url": "https://open.spotify.com/track/5ZGZUjb5imCbUbm9a0Dkir"
@@ -1400,6 +1400,24 @@
       "duration_ms": 288386,
       "name": "Tu Meta",
       "url": "https://open.spotify.com/track/1tDqJHfDFQzlkc4lsOsjME"
+    },
+    {
+      "album": {
+        "name": "Hoy \u2013 3d\u00e9cadas, Vol. 1",
+        "url": "https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288386,
+      "name": "Tu Meta",
+      "url": "https://open.spotify.com/track/7sU2dcP1FPM70V9TwGgjQL"
     },
     {
       "album": {

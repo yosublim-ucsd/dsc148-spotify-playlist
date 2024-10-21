@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-10 03:09:32",
       "album": {
-        "name": "KING & ASHLEY",
-        "url": "https://open.spotify.com/album/5ddFAELd3H8dmTnGfeA6nT"
-      },
-      "artists": [
-        {
-          "name": "MY FIRST STORY",
-          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "KING & ASHLEY",
-      "url": "https://open.spotify.com/track/46J5qTlMBFAaZCIvXk3loa"
-    },
-    {
-      "added_at": "2024-07-10 03:09:32",
-      "album": {
         "name": "HIDE YOUR FACE",
         "url": "https://open.spotify.com/album/3KHW7BoWav0uQ51ryewFFz"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 182506,
       "name": "DICE",
       "url": "https://open.spotify.com/track/6LTdHM863k5AiwRCMzOSLN"
+    },
+    {
+      "added_at": "2024-07-10 03:09:32",
+      "album": {
+        "name": "KING & ASHLEY",
+        "url": "https://open.spotify.com/album/5ddFAELd3H8dmTnGfeA6nT"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "duration_ms": 203786,
+      "name": "KING & ASHLEY",
+      "url": "https://open.spotify.com/track/46J5qTlMBFAaZCIvXk3loa"
     },
     {
       "added_at": "2024-07-10 03:09:32",

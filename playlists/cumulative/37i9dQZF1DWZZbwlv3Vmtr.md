@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-976 songs - 1 day 13 hr 49 min
+977 songs - 1 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Evolving](https://open.spotify.com/track/37hLVHigPp4MXxcVXuCYNS) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Evolving](https://open.spotify.com/album/65z7ihFuafei3XHk0jwcPq) | 1:55 | 2022-11-11 | 2023-09-22 |
 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 | 2022-04-15 |  |
 | [Exomoon](https://open.spotify.com/track/4FLT1TsEUpJeme07ITfMkn) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Exomoon](https://open.spotify.com/album/2OzIqe33YRwCqjuS3rmjK3) | 2:14 | 2022-08-12 | 2023-07-20 |
+| [Expected Events](https://open.spotify.com/track/7e2CntkyYlYKlTufrSOCGl) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Expected Events](https://open.spotify.com/album/0Pa7yL0dq62qlO7Y54mShy) | 2:36 | 2024-10-16 |  |
 | [Extra Dip](https://open.spotify.com/track/5Cq4kRHvTc718cDAL2pYnC) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Neon Clouds](https://open.spotify.com/album/4jyODUlcuHPFMewe3HpJmz) | 2:26 | 2022-05-13 | 2023-11-17 |
 | [Faces](https://open.spotify.com/track/4h3r8c7TlNLZGFMytXoqa6) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Faces](https://open.spotify.com/album/2nYufpokQ8JM2sOLucVs8K) | 1:53 | 2023-12-22 |  |
 | [Fade](https://open.spotify.com/track/5AOVlBVKca5uYJ18Q29U6D) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Fade](https://open.spotify.com/album/6IFb5yjI69X7igE69Gm2dY) | 3:05 | 2022-10-14 |  |
@@ -666,7 +667,7 @@
 | [Reflections](https://open.spotify.com/track/21tkja4bPHLqIcgAXiYBFX) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/1mFTcuG5UC5wwPSZvV4ytW) | 2:20 | 2022-11-11 | 2022-11-24 |
 | [Reflections](https://open.spotify.com/track/2zgbN6Db0WvF2pyVuSisnt) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:20 | 2022-11-11 | 2023-10-06 |
 | [Regular Guy](https://open.spotify.com/track/0Qxfx9Sxa0TVy3p0j0lPha) | [Sir Peanut](https://open.spotify.com/artist/3HpvKoWXmM1S2eB4tKBtRF) | [Regular Guy](https://open.spotify.com/album/756SsPw88dp4o0LVN8L6ru) | 3:34 | 2022-04-15 | 2022-09-17 |
-| [Reincarnated Owl](https://open.spotify.com/track/6uj7771hHXo9ub148zgj0c) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [Reincarnated Owl](https://open.spotify.com/album/5raw94hhzoBLq0iDaJj7D0) | 2:32 | 2022-04-15 |  |
+| [Reincarnated Owl](https://open.spotify.com/track/6uj7771hHXo9ub148zgj0c) | [Palmyra Flo](https://open.spotify.com/artist/6z6Pcqh3ygPBybhLXSiaxl) | [Reincarnated Owl](https://open.spotify.com/album/5raw94hhzoBLq0iDaJj7D0) | 2:32 | 2022-04-15 | 2024-10-21 |
 | [Relevance](https://open.spotify.com/track/5xntfyh1ivokbbC3cV7268) | [Zifon](https://open.spotify.com/artist/6Ys1Of9xkkOSwsxgEMtcFU) | [Alleviate](https://open.spotify.com/album/0sfx4STbwzhN1tyfCsUuL2) | 1:46 | 2022-04-15 | 2022-05-14 |
 | [Relief](https://open.spotify.com/track/1A0kkBkOz7kMyyaYegwysl) | [Midnight Sleep](https://open.spotify.com/artist/6FGYiM51juEWqEWi53MDYS) | [Relief](https://open.spotify.com/album/1JVTYybTxlKDYFs7VcxN8b) | 2:36 | 2022-04-15 | 2023-10-13 |
 | [Renegades](https://open.spotify.com/track/2aW6bhzUQ53imrld5G8VKY) | [Sleepy Tigers](https://open.spotify.com/artist/1DK5TN3sWOFCRHTQYODjpH) | [Renegades](https://open.spotify.com/album/7gbhY8Cdb3HLvTsoT5EgPc) | 2:58 | 2022-04-15 | 2022-07-08 |

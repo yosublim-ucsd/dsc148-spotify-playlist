@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-198 songs - 10 hr 46 min
+199 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,9 +97,10 @@
 | [Mais um Som de Amor](https://open.spotify.com/track/74vWxQDutYLap7sNfZlaux) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [Bella Mattar](https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3) | [Mais um Som de Amor](https://open.spotify.com/album/6s8zmjO54RlZqp76NmViiy) | 3:34 | 2023-03-10 | 2024-04-19 |
 | [Mais Um Voo](https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mais Um Voo](https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U) | 3:14 | 2023-10-13 | 2024-10-05 |
 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 | 2021-11-12 | 2024-07-27 |
+| [Manga](https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Asopø](https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl) | 3:15 | 2024-10-18 |  |
 | [Manual Da Bandida](https://open.spotify.com/track/1Lgdi8yfpK2RTMHuJxHcAA) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [s1ckb0y](https://open.spotify.com/artist/3DNpz3cyHHzNzPurLiPZH3), [Dom'Ví](https://open.spotify.com/artist/1DqgCN78k7Xnev1x7eJfGc) | [Manual Da Bandida](https://open.spotify.com/album/0swcWOMq4T7XaYKomCCZQC) | 3:06 | 2024-09-20 | 2024-10-05 |
 | [Mapa Astral](https://open.spotify.com/track/29FiIrTO3Q8Hr88G35M6F7) | [DoisZ](https://open.spotify.com/artist/6HqoIxGapi53LEfRJMuNz6), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d) | [Mapa Astral](https://open.spotify.com/album/6BtIr9CAnLk5ZVe3f7MnZF) | 3:13 | 2021-11-12 |  |
-| [Mar Azul](https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt) | [CP no Beat](https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW), [SÓ AS BRABA](https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe) | [Mar Azul](https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli) | 1:45 | 2024-03-01 |  |
+| [Mar Azul](https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt) | [CP no Beat](https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW), [SÓ AS BRABA](https://open.spotify.com/artist/3mUgHC1dCS7II8t9E07jXe) | [Mar Azul](https://open.spotify.com/album/49UNyzh4KstprJWNGiDwli) | 1:45 | 2024-03-01 | 2024-10-21 |
 | [Marquinha](https://open.spotify.com/track/4killZKEjakHnPgOPKzHL1) | [Yan Silvestre](https://open.spotify.com/artist/6pm78bdVnxw8tyRluvJlhZ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Marquinha](https://open.spotify.com/album/2v8M0Lrx542HX0W11xEeVp) | 2:00 | 2023-01-13 | 2023-04-09 |
 | [Marshmallow](https://open.spotify.com/track/6Vgcv9xcSMztBg3Z3Z77kG) | [RAMON](https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl), [Tchello](https://open.spotify.com/artist/7m7zHLfw3T0SAZxYVRrE5h) | [Marshmallow](https://open.spotify.com/album/24O2Emosddo9pRVxZcAwAT) | 2:22 | 2022-06-03 | 2022-08-13 |
 | [Marília Mendonça](https://open.spotify.com/track/1CBjYXLotHrkiykMbI7EaU) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Marília Mendonça](https://open.spotify.com/album/46SOz1ZyHOohm8ADANNKGs) | 1:53 | 2021-11-12 | 2023-02-04 |

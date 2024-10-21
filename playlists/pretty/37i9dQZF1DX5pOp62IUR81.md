@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Go inside the music from the Marvel worlds that you love!
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,130 likes - 192 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,139 likes - 192 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 | 19 | [Warlock vs\. Guardians](https://open.spotify.com/track/2uWqBOqipiINkyuhbMD6IW) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 3:47 |
 | 20 | [Domo! Domo!](https://open.spotify.com/track/1voF8ZnnbMqRxndiVPs9P6) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 3:48 |
 | 21 | [Did That Look Cool?](https://open.spotify.com/track/2cUIII8NsSGtBBxaadhoj5) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:44 |
-| 22 | [Agatha All Along \(Dave Audé Remix\) \- From "Agatha All Along"](https://open.spotify.com/track/2Wq6zNBpswt49Lf7jaGBaj) | [Kristen Anderson\-Lopez](https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD), [Robert Lopez](https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Agatha All Along \(Dave Audé Remix\) \- From "Agatha All Along"](https://open.spotify.com/album/6gwEKT8OGv6zOv9Kl5X3ZF) | 2:01 |
+| 22 | [Agatha All Along \(Dave Audé Remix\) \- From "Agatha All Along"](https://open.spotify.com/track/2Wq6zNBpswt49Lf7jaGBaj) | [Kristen Anderson\-Lopez](https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD), [Robert Lopez](https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Agatha All Along \(Dave Audé Remix\) \[From "Agatha All Along"\]](https://open.spotify.com/album/6gwEKT8OGv6zOv9Kl5X3ZF) | 2:01 |
 | 23 | [They Want It, But No](https://open.spotify.com/track/1rHGit66Qhs5JL3FjaNYsW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:37 |
 | 24 | [La Vida](https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:37 |
 | 25 | [Coming Back For You](https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:56 |

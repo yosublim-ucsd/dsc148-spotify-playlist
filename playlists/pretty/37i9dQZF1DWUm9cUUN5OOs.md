@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm9cUUN5OOs.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Michaela Coel
 
-[Spotify](https://open.spotify.com/user/spotify) - 382 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 389 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm9cUUN5OOs.md) - [plain]
 | 35 | [Havin Motion](https://open.spotify.com/track/6ktJEYxq66OFAslUew1Vck) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer Den Ever](https://open.spotify.com/album/5XOuzRTrs00lsfbH1zXrIn) | 2:39 |
 | 36 | [ON THE RADAR CONCRETE CYPHER \(feat\. Lil Yachty, Camo!, KARRAHBOOO, Dc2trill, Draft Day\)](https://open.spotify.com/track/55VwJauY4a1oV5VbNLJo2p) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L) | [It's Us Vol\. 1](https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm) | 5:48 |
 | 37 | [Breaking the Habit](https://open.spotify.com/track/2NieHu1SopLwluQhOmVPow) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:16 |
-| 38 | [Made For Me \- Yumbs’ Amapiano Remix](https://open.spotify.com/track/3liiv1wmlYn2b7rnHRU2db) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Made For Me \- Yumbs’ Amapiano Remix](https://open.spotify.com/album/5sC5FW8CpLEE4H5GPPXp42) | 4:05 |
+| 38 | [Made For Me \- Yumbs’ Amapiano Remix](https://open.spotify.com/track/3liiv1wmlYn2b7rnHRU2db) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH) | [Made For Me \(Yumbs’ Amapiano Remix\)](https://open.spotify.com/album/5sC5FW8CpLEE4H5GPPXp42) | 4:05 |
 | 39 | [Hot For You \- MisterButler Remix](https://open.spotify.com/track/2NuLUWoIWuQD1vTWQIx93D) | [MisterButler](https://open.spotify.com/artist/6keb12B5U3SLtC5ANDSqOE) | [Hot For You \(MisterButler Remix\)](https://open.spotify.com/album/2qzWIm0TqNT13WDt9vtNzO) | 4:20 |
 | 40 | [Bring It Home](https://open.spotify.com/track/0f6cD1YOIFaaEQTdf7IyJP) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [Peace of Mind](https://open.spotify.com/album/24t3V6mkYCkvO8LSu5L6kH) | 3:02 |
 | 41 | [Peech Boys \(Dont Make Me Wait\) \- MisterButler Mix](https://open.spotify.com/track/6XteADc34Nzq675euj2E0g) | [MisterButler](https://open.spotify.com/artist/6keb12B5U3SLtC5ANDSqOE) | [Peech Boys \(Dont Make Me Wait\) \[MisterButler Mix\]](https://open.spotify.com/album/2E91exYqcvDfn9TwO2Ijr8) | 3:42 |

@@ -17284,7 +17284,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 137142,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/2MR7gvjhbeUGBWaNhBDnGI"
@@ -24412,6 +24412,32 @@
       "duration_ms": 172968,
       "name": "Flickering Lights",
       "url": "https://open.spotify.com/track/2DR0SF7IY37qj9GJKmoIjx"
+    },
+    {
+      "album": {
+        "name": "Flight Mode",
+        "url": "https://open.spotify.com/album/0KdqykQwXXulRhpTnbYfTf"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "DAISI",
+          "url": "https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i"
+        },
+        {
+          "name": "Daoti",
+          "url": "https://open.spotify.com/artist/0XLvC5dprQ3rL0W0xIIaBn"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120750,
+      "name": "Flight Mode",
+      "url": "https://open.spotify.com/track/6lCDLZdjpc4pDOFGLRrAa8"
     },
     {
       "album": {

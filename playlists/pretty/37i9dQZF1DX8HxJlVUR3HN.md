@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : Bryan's Magic Tears
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,117 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,112 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 8 | [On The Run](https://open.spotify.com/track/7iCvPzM4RuJPOyLvQVQJMu) | [KO KO MO](https://open.spotify.com/artist/37njHbDvYnaoRWbRwVTdaZ) | [On The Run](https://open.spotify.com/album/4EkgeceK40dnTFPjD6h5M7) | 3:48 |
 | 9 | [Hole](https://open.spotify.com/track/3PoIPfMHUqAzXm33jdWXXn) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Backyard](https://open.spotify.com/album/1MqbbfL6asJCkcHZHUF71Q) | 4:33 |
 | 10 | [Le Détail \- Radio Edit](https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH) | 2:38 |
-| 11 | [Samedi soir](https://open.spotify.com/track/0n46jeZvXG4wJ0gxtGJrrc) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [11:11 \- Extended Version](https://open.spotify.com/album/0FJXUxO8ywrNtSCfdS1Ts3) | 2:42 |
+| 11 | [Samedi soir](https://open.spotify.com/track/0n46jeZvXG4wJ0gxtGJrrc) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [11:11 \(Extended Version\)](https://open.spotify.com/album/0FJXUxO8ywrNtSCfdS1Ts3) | 2:42 |
 | 12 | [Home](https://open.spotify.com/track/2TiQcJOPiAIR9xP7DT7mOF) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Home](https://open.spotify.com/album/73WEPw6ukdqjcaLmXd5Huc) | 5:54 |
 | 13 | [In Decline](https://open.spotify.com/track/2q9Hu0rH1V9lpO2ul5I792) | [Clavicule](https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI) | [In Decline](https://open.spotify.com/album/3zb4ZBJwpCazWkUwGZFkHJ) | 3:22 |
 | 14 | [The Unseen](https://open.spotify.com/track/3PSXA2skQ9RCiNXkVti9Z4) | [Klone](https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT) | [The Unseen](https://open.spotify.com/album/04wGxo9T2edvKFUshLp49T) | 5:45 |

@@ -31007,6 +31007,28 @@
     },
     {
       "album": {
+        "name": "Anything",
+        "url": "https://open.spotify.com/album/6QrSFrfbdUYm3jKgZcecGQ"
+      },
+      "artists": [
+        {
+          "name": "ellee ven",
+          "url": "https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x"
+        },
+        {
+          "name": "Prod\u00e9je",
+          "url": "https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "I Can Be Anything",
+      "url": "https://open.spotify.com/track/5UsH0oaGy5SVDQ0EwFTHrB"
+    },
+    {
+      "album": {
         "name": "I Can Make It Easy for You",
         "url": "https://open.spotify.com/album/3fttXzgWx5KnMK3TbXO8NT"
       },
@@ -64906,6 +64928,24 @@
     {
       "album": {
         "name": "Talk About It",
+        "url": "https://open.spotify.com/album/5tvxEEt8n6Z5K43B6L0GBp"
+      },
+      "artists": [
+        {
+          "name": "ADINAH VINE",
+          "url": "https://open.spotify.com/artist/3l52uxa2NAkAIvqC1Qjke2"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142916,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5kDScRmwuoaj80H0xKUZ5S"
+    },
+    {
+      "album": {
+        "name": "Talk About It",
         "url": "https://open.spotify.com/album/5dIYPDaQpW7Iu1rZA9QoXK"
       },
       "artists": [
@@ -75742,7 +75782,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 129600,
       "name": "WORST THING",
       "url": "https://open.spotify.com/track/5bzAPG8jGfPLN77q49FvMQ"

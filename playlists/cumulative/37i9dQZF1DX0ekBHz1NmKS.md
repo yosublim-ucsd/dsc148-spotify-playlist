@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,660 songs - 3 day 14 hr 8 min
+1,661 songs - 3 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Du har fel](https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Du har fel](https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH) | 2:44 | 2023-08-17 | 2024-01-10 |
 | [Du kommer dra](https://open.spotify.com/track/2B1lM51YSusA3I5OUpD8yN) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tills alla glömt oss](https://open.spotify.com/album/4d0B1xECMoQLXQwt10W2pa) | 2:59 | 2021-12-16 | 2022-01-14 |
 | [Du känner inte längre mig](https://open.spotify.com/track/6bTM9i2Vn8cUhAH7xjosvt) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Med sång / Utan sång](https://open.spotify.com/album/6x55E0WgcjaUdEfY9SKiRT) | 2:51 | 2024-04-26 | 2024-05-24 |
+| [Du lever bara en gång](https://open.spotify.com/track/4XeAYorvujNce5c46bMCHw) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Du lever bara en gång](https://open.spotify.com/album/3uTHyiH9oRSibuPZeryfjp) | 3:04 | 2024-10-17 |  |
 | [Du o jag](https://open.spotify.com/track/5Lv5ww3OcOC0LsBOKXwIDi) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [Du o jag](https://open.spotify.com/album/5EdGs49xFWQvc6IPtHIQQg) | 2:39 | 2024-04-25 | 2024-05-24 |
 | [Du och jag](https://open.spotify.com/track/4R9CJGuvKVUUfzGonJ1kwn) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Du och jag](https://open.spotify.com/album/7uUHgi1apzLum8U3ZWdtt7) | 2:59 | 2024-02-24 | 2024-03-17 |
 | [Du sa \(det kanske var fult\)](https://open.spotify.com/track/2FOYQ8TV3xcH8FBZlnSbww) | [Vibefabriken](https://open.spotify.com/artist/4OoB00ctLYR2VL8FdseAVW) | [Du sa \(det kanske var fult\)](https://open.spotify.com/album/7cLCVo7ZkZ0TQc5XGaYmux) | 2:42 | 2022-02-26 | 2022-04-01 |
@@ -819,7 +820,7 @@
 | [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 | 2023-09-25 |
 | [Last Forever](https://open.spotify.com/track/3k7fKbbxx0FPxknUdUfOpp) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf), [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Last Forever](https://open.spotify.com/album/08Q5zl0Pi1083nDP01RMna) | 3:11 | 2024-09-12 |  |
 | [Last Night on Earth](https://open.spotify.com/track/0TCttoUHi6b3o6U9Hy4ZlD) | [Josefine Ridell](https://open.spotify.com/artist/0AAjLPnvriz6ZX3huVVko8) | [Last Night on Earth](https://open.spotify.com/album/7KOfqqznoVvU8Hr2Qaoez1) | 2:53 | 2024-05-09 | 2024-06-07 |
-| [Late Night Talk](https://open.spotify.com/track/2ZOtJOvPN2Xas5KAPP3GSv) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Late Night Talk](https://open.spotify.com/album/2j4ORwSrhlyne4RCRrN8oM) | 2:15 | 2024-09-26 |  |
+| [Late Night Talk](https://open.spotify.com/track/2ZOtJOvPN2Xas5KAPP3GSv) | [Vilhelm Nordvall](https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA) | [Late Night Talk](https://open.spotify.com/album/2j4ORwSrhlyne4RCRrN8oM) | 2:15 | 2024-09-26 | 2024-10-21 |
 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-09 | 2023-07-28 |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-06-02 | 2023-10-06 |
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |

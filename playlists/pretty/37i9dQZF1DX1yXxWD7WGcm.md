@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 
 > Les classiques du zouk\. Photo : Slaï
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,707 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,761 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1yXxWD7WGcm.md) - [plain]
 | 8 | [Besoin d'amour](https://open.spotify.com/track/3WKj7OCct7oIiK4Nn8OL1u) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Gadji Celi](https://open.spotify.com/artist/4wano3p9ICDVCTllzj2qcc) | [A la recherche du bonheur](https://open.spotify.com/album/6FMHdHjTxMFO9TgKNyPpZv) | 4:07 |
 | 9 | [Lovinjitis \(Remix\)](https://open.spotify.com/track/2CsaAimiEwtki5Q5rZPimf) | [Wizboyy](https://open.spotify.com/artist/6eTEMo2irgozfqcK4dEUeE), [Wiz Ofuasia](https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn), [Teeyah](https://open.spotify.com/artist/11N8QdhYGEkvG1WBEhNZ3O) | [Change Over](https://open.spotify.com/album/3BS0hRi3CN2SK3fcD07B65) | 4:38 |
 | 10 | [Se Pa Pou dat](https://open.spotify.com/track/4tLvQ6fvnsWB6BGusXS03n) | [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Se Pa Pou Dat](https://open.spotify.com/album/0WT8Un2CLXF7CeALLeIOSn) | 5:41 |
-| 11 | [An lov](https://open.spotify.com/track/2lGCmmPc0uzMY2vNkhsfBt) | [Tanya St\-Val](https://open.spotify.com/artist/5hDeXMaDDHIXSxtxOQhLSn) | [Tanyamania \- Deluxe edition](https://open.spotify.com/album/4vPEcpp7y1qnKZfmR6vGH7) | 3:52 |
+| 11 | [An lov](https://open.spotify.com/track/2lGCmmPc0uzMY2vNkhsfBt) | [Tanya St\-Val](https://open.spotify.com/artist/5hDeXMaDDHIXSxtxOQhLSn) | [Tanyamania \(Deluxe edition\)](https://open.spotify.com/album/4vPEcpp7y1qnKZfmR6vGH7) | 3:52 |
 | 12 | [Cette nuit](https://open.spotify.com/track/4EvgN59rOoSrFqXvpOdxee) | [Ridge](https://open.spotify.com/artist/5XhpW13SNw4TDaiz747BIC), [Joyce](https://open.spotify.com/artist/2UvslHPApvKvZFjEtCjIHA) | [Allianstars, Vol\. 2](https://open.spotify.com/album/6u1wHjLN0Y5yYUAlrDB0nz) | 4:14 |
 | 13 | [Okay](https://open.spotify.com/track/2Aylt5JHKRCkLZUMyw5hH9) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw), [Black Kent](https://open.spotify.com/artist/0cGAKlRsOPxXPZijGW9ZuN) | [Secrets de femme](https://open.spotify.com/album/7wEVvy6oaP4B0nNwlCzfF4) | 3:36 |
 | 14 | [Zouk\-la Sé Sel Médikaman Nou Ni](https://open.spotify.com/track/6v5Z0a4b3DmjIKA4htP8vl) | [Kassav'](https://open.spotify.com/artist/3y21aFfQQ1Y9dALQLIJ4vj) | [Best Of](https://open.spotify.com/album/3mlUD8bQ1KTXi4yP1l3HoV) | 5:25 |

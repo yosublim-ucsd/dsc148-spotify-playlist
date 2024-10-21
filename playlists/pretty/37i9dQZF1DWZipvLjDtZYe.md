@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！©Pokémon/Nintendo/CR/GF<br/>©CFM <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,777 likes - 73 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,745 likes - 73 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [World is Ours](https://open.spotify.com/track/0OP6Dathz06t8zRCmf5Knv) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [World is Ours](https://open.spotify.com/album/43V9AkPqhqEv3lrOEdja9s) | 3:32 |
+| 1 | [World is Ours \(feat\. 初音ミク\)](https://open.spotify.com/track/0OP6Dathz06t8zRCmf5Knv) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [World is Ours \(feat\. 初音ミク\)](https://open.spotify.com/album/43V9AkPqhqEv3lrOEdja9s) | 3:32 |
 | 2 | [Glorious Day \(feat\. 初音ミク\)](https://open.spotify.com/track/1axqW3tCZ2nBbDBCY4moZn) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Glorious Day](https://open.spotify.com/album/6Ovp9dcCxs7SHtVVkm2nzL) | 3:22 |
 | 3 | [メロメロイド \(feat\. 初音ミク\)](https://open.spotify.com/track/4yug2vxP12JjgRDOURtvNY) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [メロメロイド](https://open.spotify.com/album/3i0647Ek3aN0vP4WEFgRYA) | 3:03 |
 | 4 | [エスパーエスパー \(feat\. 初音ミク\)](https://open.spotify.com/track/1bObfXWv3fLv3K2psR3zUD) | [ナユタン星人](https://open.spotify.com/artist/2svnjD7GnFxQt6GOoJrewU), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [エスパーエスパー](https://open.spotify.com/album/6vrcNlEUSfB9epOrPiNYlt) | 2:56 |

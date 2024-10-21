@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26fqHHBiApq.md) - [plain]
 
 > Fresh takes\- from new revisions and iconic covers to unexpected versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 471 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26fqHHBiApq.md) - [plain]
 | 13 | [I Heard That Lonesome Whistle](https://open.spotify.com/track/5Z91QygW4RKbzFS7ocTFmc) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [The Greatest Hits Collection](https://open.spotify.com/album/2tOzB0bcKNRnHbIXI03Pi0) | 2:24 |
 | 14 | [I'm So Lonesome I Could Cry \(feat\. Old Crow Medicine Show\)](https://open.spotify.com/track/6nbvA8lHRHnBB4yFlEjWNf) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Copy That](https://open.spotify.com/album/2hWqaMLhAvTQRD85eNO10H) | 3:56 |
 | 15 | [Honky Tonk Blues](https://open.spotify.com/track/4aaO5JtfIuvvL5JOBEXW9v) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [There's a Little Bit of Hank In Me](https://open.spotify.com/album/7KpkTslgZ7zPWSQ1rb6Nga) | 1:59 |
-| 16 | [You Win Again](https://open.spotify.com/track/4YPF5mxTXI5layiJPmYjV4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Basement Tapes Complete: The Bootleg Series, Vol\. 11 \- Deluxe Edition](https://open.spotify.com/album/5a8SaZSkhxar6eYgd5u3o9) | 2:43 |
+| 16 | [You Win Again](https://open.spotify.com/track/4YPF5mxTXI5layiJPmYjV4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Basement Tapes Complete: The Bootleg Series, Vol\. 11 \(Deluxe Edition\)](https://open.spotify.com/album/5a8SaZSkhxar6eYgd5u3o9) | 2:43 |
 | 17 | [Your Cheatin' Heart](https://open.spotify.com/track/0VlRf78uT5yo1nMpM19ltb) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 2:22 |
 | 18 | [Cold, Cold Heart](https://open.spotify.com/track/0g3UtxwVInt2hIppaKf0uy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Unforgettable \- A Tribute To Dinah Washington](https://open.spotify.com/album/3pgRHGUrHsx8AbzX6IQJ9o) | 4:33 |
 | 19 | [While I'm Still Here](https://open.spotify.com/track/0OcnyOjzoLPg3HZ4BMGHXA) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Hesitation Marks \(Deluxe Edition\)](https://open.spotify.com/album/7tw6BEEH5F23aj2BDWJYTP) | 4:02 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26fqHHBiApq.md) - [plain]
 | 87 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/0A3YvB4Go1S8kJnLiQEWPs) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Jambalaya \(On The Bayou\)](https://open.spotify.com/album/1IFtPm18hbZdeWlixctYCj) | 3:00 |
 | 88 | [Cold Cold Heart](https://open.spotify.com/track/11CPy2MgLdHA3GXzMZJD65) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moving On Skiffle](https://open.spotify.com/album/5xRbTR4SyCaoyzBMIntehg) | 3:26 |
 | 89 | [I Saw The Light \- How Sweet The Sound Album Version](https://open.spotify.com/track/0VeL11H0QqLFJdAxtDAiSm) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [How Sweet The Sound](https://open.spotify.com/album/0qxoaPomwHe8Z6xEbA1WdT) | 2:52 |
-| 90 | [Honky Tonk Blues](https://open.spotify.com/track/7AQMCmzirLh21jaoqgrpdR) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Sports \- 30th Anniversary Edition](https://open.spotify.com/album/7tupdIXanhc5g9n6EsjMW5) | 3:20 |
+| 90 | [Honky Tonk Blues](https://open.spotify.com/track/7AQMCmzirLh21jaoqgrpdR) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Sports \(30th Anniversary Edition\)](https://open.spotify.com/album/7tupdIXanhc5g9n6EsjMW5) | 3:20 |
 | 91 | [When God Comes And Gathers His Jewels](https://open.spotify.com/track/7aoZeGvBqDVHRypJEZiES3) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [What A Friend We Have In Jesus](https://open.spotify.com/album/7BlhqXxFdVq6PvjJ8Scg9t) | 2:58 |
 | 92 | [Men with Broken Hearts](https://open.spotify.com/track/0Cwn4gSs8aLwWwcCFn4tH8) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA) | [Confessions of a Broken Man](https://open.spotify.com/album/1l4k4EBIhupdWKB07gLvgf) | 2:41 |
 | 93 | [Why Don't You Love Me Like You Used To Do?](https://open.spotify.com/track/2z4gH2o4Lwa3l78xY56K3d) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Long Lost Suitcase](https://open.spotify.com/album/7k1rf31Ga1AzbniaALIQlg) | 1:49 |

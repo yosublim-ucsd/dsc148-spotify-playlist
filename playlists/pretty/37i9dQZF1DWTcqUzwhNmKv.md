@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Fit For An Autopsy on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,722 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,830 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 31 | [TOMBSTONE](https://open.spotify.com/track/0LPgP3UyQQaQqwl2RjfksM) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [STIGMA](https://open.spotify.com/album/7tZHRFl7eypO0M1RzBwMfk) | 2:58 |
 | 32 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 |
 | 33 | [Necessary Evil](https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Necessary Evil](https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV) | 2:56 |
-| 34 | [Continuum \- Feat\. Niklas Karlsson](https://open.spotify.com/track/1e9YEwhvmlAxhdDj7hcLIx) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH), [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY), [Niklas Karlsson](https://open.spotify.com/artist/5dYTF0kETzMSgmsEtUOxu8) | [Continuum \- Feat\. Niklas Karlsson](https://open.spotify.com/album/0fxlCEzDuoJrNGG5eFPniw) | 4:17 |
+| 34 | [Continuum \- Feat\. Niklas Karlsson](https://open.spotify.com/track/1e9YEwhvmlAxhdDj7hcLIx) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH), [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY), [Niklas Karlsson](https://open.spotify.com/artist/5dYTF0kETzMSgmsEtUOxu8) | [Continuum \(Feat\. Niklas Karlsson\)](https://open.spotify.com/album/0fxlCEzDuoJrNGG5eFPniw) | 4:17 |
 | 35 | [Don’t Look Away](https://open.spotify.com/track/13TI2bhTRld8pgk9xM8wm9) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Don't Look Away](https://open.spotify.com/album/4waOzgfNIF4sBAkKX9NzrJ) | 3:13 |
 | 36 | [Ghost Inside The Shell](https://open.spotify.com/track/49HsFAhcWNTjQx2eBkd7bo) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Ghost Inside The Shell](https://open.spotify.com/album/6xqFGXKtI20ESDGkWtjWeB) | 3:48 |
 | 37 | [Cancelled](https://open.spotify.com/track/6zMBklADPUiVev8tFrMHIy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Cancelled](https://open.spotify.com/album/5O2RCRX6fCXmynOWl5gFSK) | 4:47 |

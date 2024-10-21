@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-226 songs - 12 hr 57 min
+227 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Det bästa av allt](https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Somliga av oss](https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD) | 3:26 | 2024-10-17 |  |
 | [Det löser sig med blåbärspaj \- Från "Svenska revyn"](https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm) | [Henrik Dorsin](https://open.spotify.com/artist/26ELugcMgfqnLLFQHlhrSd), [Per “Putte” Ekdahls orkester](https://open.spotify.com/artist/4OFi5n5FmjB8GhTTaAdjMg) | [Det löser sig med blåbärspaj \(Från "Svenska revyn"\)](https://open.spotify.com/album/3LguV8haPBBtIQmzdhG9ws) | 4:57 | 2024-08-15 | 2024-09-20 |
 | [Det Är Nog Kärlek Ändå](https://open.spotify.com/track/5gI30X0kenwXKCYywp7k3l) | [Jimmy Nordstrand](https://open.spotify.com/artist/2luFZL6C83ib0rPuLYdpdX) | [Det Är Nog Kärlek Ändå](https://open.spotify.com/album/2geXaBfZiPoLcnV8WxMDQ4) | 3:11 | 2024-08-15 | 2024-09-08 |
-| [Din parfym](https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Din parfym](https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ) | 2:41 | 2024-09-12 |  |
+| [Din parfym](https://open.spotify.com/track/2Q5XfAVYprDIHLCsCwZGBi) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Din parfym](https://open.spotify.com/album/5KaD632xFUKm3yER78OgjZ) | 2:41 | 2024-09-12 | 2024-10-21 |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-06-27 | 2024-08-09 |
 | [DNA](https://open.spotify.com/track/7K0wD27Wui57iJGEVoKCkF) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl), [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [DNA](https://open.spotify.com/album/5Eia9IVqXdnCdYlH4bYIqy) | 3:10 | 2024-06-27 | 2024-08-16 |
 | [Doftade Dior](https://open.spotify.com/track/0S00zJNQYnZKBN9tSBOrsG) | [Max Niclasson](https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ) | [Doftade Dior](https://open.spotify.com/album/54mXPlUvmsoz3XgcpJFUxA) | 3:55 | 2024-06-27 | 2024-08-23 |
@@ -229,6 +229,7 @@
 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 | 2024-08-22 |  |
 | [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 | 2024-09-26 |  |
 | [WILDSIDE](https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [WILDSIDE](https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV) | 2:47 | 2024-06-27 |  |
+| [Will You Run Away With Me](https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [Så mycket bättre 2024 – Tolkningarna](https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa) | 3:33 | 2024-10-17 |  |
 | [Winning Streak](https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:14 | 2024-10-10 |  |
 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 | 2024-06-27 |  |
 | [You](https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX) | [Sofi Bonde](https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6) | [You](https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9) | 3:44 | 2024-08-22 | 2024-10-13 |

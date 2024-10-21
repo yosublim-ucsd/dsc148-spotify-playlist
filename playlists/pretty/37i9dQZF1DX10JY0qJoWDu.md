@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,324 likes - 123 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,344 likes - 123 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 98 | [Rockin' Around the Christmas Tree](https://open.spotify.com/track/2FNkFvL3pHNJWECPpYZcnP) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Rockin' Holiday](https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA) | 1:47 |
 | 99 | [Scrooge](https://open.spotify.com/track/5qzKbcG0u62q0e8FYyny4s) | [The Muppet Cast](https://open.spotify.com/artist/0xbgjlBWqSP2hP54ZgjLEW) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 2:27 |
 | 100 | [The Nutcracker Suite](https://open.spotify.com/track/2h1rdZtP5pieiZgAeEUF7O) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [The Nutcracker and the Four Realms \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1LxSK2MQB44rHy5iATbMXY) | 3:59 |
-| 101 | [Red Christmas \- From "Descendants: The Rise of Red"](https://open.spotify.com/track/6PB4cjXAxH1YxXHzug7i7L) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Red Christmas \- From "Descendants: The Rise of Red"](https://open.spotify.com/album/3E9QzmjoJlNmwUNPt3aaDC) | 2:43 |
+| 101 | [Red Christmas \- From "Descendants: The Rise of Red"](https://open.spotify.com/track/6PB4cjXAxH1YxXHzug7i7L) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Red Christmas \(From "Descendants: The Rise of Red"\)](https://open.spotify.com/album/3E9QzmjoJlNmwUNPt3aaDC) | 2:43 |
 | 102 | [Ariel's Christmas Island](https://open.spotify.com/track/0aCVcGoCbdnfFowNu6IzvU) | [Ariel](https://open.spotify.com/artist/1RJ9qwSsCfnOcTXBSqotNk), [Sebastian](https://open.spotify.com/artist/3SDQzHnLxVFNK6hvg9Lrks) | [Princess Christmas](https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY) | 2:53 |
 | 103 | [Celebrate \(It's Christmas\)](https://open.spotify.com/track/12blByfqH50AD5VZnRZukS) | [Forever in Your Mind](https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE) | [Disney Channel Holiday Hits](https://open.spotify.com/album/0mbCOOXGsz6SLRTopXAUF9) | 3:10 |
 | 104 | [It's All About Heart](https://open.spotify.com/track/21AStETk1yF31eVA7QR8Fz) | [Kermit](https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw), [Gonzo](https://open.spotify.com/artist/5HYbLJiXakWkswW7XNfVAC), [Fozzie](https://open.spotify.com/artist/7l1UtP9HDcanyFwHs3abSw), [Pepe](https://open.spotify.com/artist/79LIIdGsfWO6Ckiuejy2Ba), [Rizzo](https://open.spotify.com/artist/1vROEVubfEqo8fgOqQ9Pn6) | [A Muppets Christmas: Letters to Santa](https://open.spotify.com/album/7ioIJ7nA0LziUkEEPy6fci) | 1:43 |

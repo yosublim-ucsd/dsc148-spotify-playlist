@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-548 songs - 22 hr 40 min
+549 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Memory Lane](https://open.spotify.com/track/32HXeN3APFZcwKh3Jr5pOe) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Memory Lane](https://open.spotify.com/album/3MLmOVmSbplDhK4UbO0eEH) | 2:51 | 2023-08-03 | 2023-08-05 |
 | [Memory Lane](https://open.spotify.com/track/6xE6rNGc0PdfmgPt5Du6bE) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Summer End's Girl](https://open.spotify.com/album/0Vkgfeiiph9HmEr2wVxPc6) | 2:51 | 2023-08-17 | 2023-12-23 |
 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 | 2019-05-26\* |  |
+| [michi](https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [michi](https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP) | 2:38 | 2024-10-18 |  |
 | [Midas Era](https://open.spotify.com/track/3REVoefyjqwG5Ihs9T9J2x) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The SP1200 Project: A Re\-Awakening](https://open.spotify.com/album/61pswtqA5qcrpmtWbb4LPc) | 2:49 | 2019-05-26\* | 2020-01-14 |
 | [MidStation](https://open.spotify.com/track/6KEOX0H9NMSK7qLH7a64Nc) | [the.lazyb](https://open.spotify.com/artist/4KtU6swIBacJ3KHFMJliOD) | [Immerse](https://open.spotify.com/album/282HB39K4wb7LWyUw7H0H9) | 1:56 | 2019-06-14 | 2019-08-31 |
 | [Milk Shake](https://open.spotify.com/track/3ikZg22Ra1bBshNgzkj647) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Milk Shake](https://open.spotify.com/album/5NZvMImcg4lJ5Vq04ZanIU) | 2:20 | 2022-07-21 | 2022-07-28 |
@@ -497,7 +498,7 @@
 | [Thrift](https://open.spotify.com/track/546ckHBwR7rkFAt0O0innA) | [Lunchmoney](https://open.spotify.com/artist/7JD72qpbmGSp9M0uCLOa3D) | [Thrift](https://open.spotify.com/album/2KydSw7npUyOFJOvgewf44) | 1:22 | 2019-05-26\* | 2021-05-28 |
 | [Tica](https://open.spotify.com/track/0TbP8PMzDHZjf5ocW37yto) | [Yokomeshi](https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8) | [Tica](https://open.spotify.com/album/5jqy8FPbh0CqaprCgCUcMD) | 2:03 | 2020-07-11 | 2021-12-21 |
 | [Time](https://open.spotify.com/track/0wEANUkFdVqV9CkO8vZyjL) | [Inmune Beats](https://open.spotify.com/artist/2QDJbuxkHXoDuwYcC1CBQz), [Summit One](https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42) | [Paradise EP](https://open.spotify.com/album/2zQxEMyfW9qxqGaykkYeSP) | 3:44 | 2020-08-30 | 2021-10-26 |
-| [Time Goes by](https://open.spotify.com/track/6dWrxCIZ0sIs4dJPC9jRNR) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Time Goes by](https://open.spotify.com/album/4zaWiFt9HasPkIXAjieEuo) | 1:53 | 2024-09-27 |  |
+| [Time Goes by](https://open.spotify.com/track/6dWrxCIZ0sIs4dJPC9jRNR) | [sophisticated silence](https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH) | [Time Goes by](https://open.spotify.com/album/4zaWiFt9HasPkIXAjieEuo) | 1:53 | 2024-09-27 | 2024-10-21 |
 | [Tiny Grains of Guilt](https://open.spotify.com/track/1Z1bRmfWuEvdyUoE5EcRbJ) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Tiny Grains of Guilt](https://open.spotify.com/album/4qeXkFfco3khEnrmb0LXXP) | 2:04 | 2021-07-22 | 2023-03-20 |
 | [To Be Yours Again](https://open.spotify.com/track/7HKSKQwNv76Bj5mEbOWEau) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [To Be Yours Again](https://open.spotify.com/album/0BdEgweItRwACUH7ILdKSt) | 1:42 | 2020-01-14 | 2021-08-27 |
 | [Tokyo spriff](https://open.spotify.com/track/2azwjU9pUQ0CMvt2PWfz9f) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Tokyo spriff](https://open.spotify.com/album/41KuDs15zdwIW7c5nqkfwO) | 2:47 | 2022-07-14 | 2022-07-29 |

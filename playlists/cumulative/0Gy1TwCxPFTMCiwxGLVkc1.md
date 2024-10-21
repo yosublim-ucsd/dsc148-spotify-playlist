@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [12345 Once I Caught A Ghost Hi\-Five!](https://open.spotify.com/track/1p3wAJAZwu6VODkm2knq6f) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween with CoComelon \(Vol\. 2\)](https://open.spotify.com/album/3e3KANpgO8gRuBg7PnpXEB) | 1:53 | 2023-10-11 |  |
+| [12345 Once I Caught A Ghost Hi\-Five!](https://open.spotify.com/track/1p3wAJAZwu6VODkm2knq6f) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween with CoComelon, Vol\. 2](https://open.spotify.com/album/3e3KANpgO8gRuBg7PnpXEB) | 1:53 | 2023-10-11 |  |
 | [A Little More](https://open.spotify.com/track/3iQyxNq8TnhYimIMrKbEwa) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [A Little More](https://open.spotify.com/album/6jx4akSZu1hcJVADH1JUZd) | 3:06 | 2022-11-07 | 2023-06-20 |
 | [ABC Song](https://open.spotify.com/track/29H35COf0rsqC5JHCCkRhp) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC) | [Blue's Clues & You Nursery Rhymes Vol\. 2](https://open.spotify.com/album/24G6yniJsLLHSoYQvE2BmU) | 3:10 | 2022-10-25 | 2023-06-12 |
 | [Alice's Wonderland Bakery Main Title Theme](https://open.spotify.com/track/2iwANQOVJrBrlceepJCf4G) | [Alice's Wonderland Bakery \- Cast](https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Alice's Wonderland Bakery](https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI) | 1:00 | 2022-10-25 | 2023-07-10 |

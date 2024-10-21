@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,728 likes - 462 songs - 1 day 0 hr 48 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,727 likes - 462 songs - 1 day 0 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 | 14 | [Spite](https://open.spotify.com/track/1yMkrQypE7sGZrd2ZlSmRA) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [God Said No](https://open.spotify.com/album/0bIXnppwOEeFqEUV0vqJJn) | 2:39 |
 | 15 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 16 | [IN BETWEEN](https://open.spotify.com/track/4FwpZcJsV3k7sYaHQy23Sm) | [VICTORIA](https://open.spotify.com/artist/21rgoGGMOSvl9RD6zeuOnq) | [IN BETWEEN](https://open.spotify.com/album/3IybAkBmUEub2ypoh0vW94) | 4:19 |
-| 17 | [Follow \- Edit](https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Follow \- Edit](https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy) | 2:37 |
+| 17 | [Follow \- Edit](https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Follow \(Edit\)](https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy) | 2:37 |
 | 18 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 |
 | 19 | [Saint](https://open.spotify.com/track/3wtGbwOllRwGYUFplSyJzA) | [BOBI ANDONOV](https://open.spotify.com/artist/5EXfqUleFQVrNrQIDpuAxy) | [SAINT](https://open.spotify.com/album/7G2hn1s5kC1sxlQcXEXAUy) | 3:08 |
 | 20 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 |

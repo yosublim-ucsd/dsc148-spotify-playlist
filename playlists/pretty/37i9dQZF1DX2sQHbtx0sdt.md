@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Jordan Adetunji & Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,828 likes - 101 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,019 likes - 101 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 43 | [CANZONE D'ODIO \(feat\. Lil Baby\)](https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:42 |
 | 44 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 |
 | 45 | [Rain](https://open.spotify.com/track/5LBikzSkad9yQ6RH87Gdrm) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Rain](https://open.spotify.com/album/0QPLgUQ70nkJTsgCWAfDVO) | 3:03 |
-| 46 | [Body \(feat\. Nemzzz\) \- UK Remix](https://open.spotify.com/track/0J0NdLdtshiKqIFSdB2Ipf) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Body \(feat\. Nemzzz\) \- UK Remix](https://open.spotify.com/album/61snpNX6muUxWFyf5kw3nW) | 2:48 |
+| 46 | [Body \(feat\. Nemzzz\) \- UK Remix](https://open.spotify.com/track/0J0NdLdtshiKqIFSdB2Ipf) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Body \(feat\. Nemzzz\) \[UK Remix\]](https://open.spotify.com/album/61snpNX6muUxWFyf5kw3nW) | 2:48 |
 | 47 | [Spirit Lead Me](https://open.spotify.com/track/0R95NiHcBCtR3TspfmauOv) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Circle of Life](https://open.spotify.com/album/5rpuUYlJs7QuyER1ZZ75WO) | 2:04 |
 | 48 | [HEAVY](https://open.spotify.com/track/2WQ3sWVxEYNLaBfeZBZi8Z) | [Polak GBP](https://open.spotify.com/artist/0VhXzgetfPr18StkVk6Wvx), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [HEAVY](https://open.spotify.com/album/1V55mzeA0IA2yFDGx0PhyO) | 2:31 |
 | 49 | [Pipe Down !](https://open.spotify.com/track/5mK5089hAjRdJ7REMlrIPy) | [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Pipe Down !](https://open.spotify.com/album/0Z7yWbadrqN8CAxMQnDD16) | 3:00 |

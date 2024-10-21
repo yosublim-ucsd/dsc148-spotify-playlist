@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. BEX
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,016 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,009 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 18 | [Ant In The Afterbirth \(feat\. Loathe\)](https://open.spotify.com/track/3vnKDiO4TOYH4xsLZwV01D) | [NOWHERE2RUN](https://open.spotify.com/artist/3ARwlqMR3e96RXdxpAhx4s), [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Ant In The Afterbirth \(feat\. Loathe\)](https://open.spotify.com/album/1JrG5deJUS6MhKH0C2PE3E) | 3:42 |
 | 19 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 |
 | 20 | [Come On Outside](https://open.spotify.com/track/6My4sJdcXQoTY4ThZdDLZh) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Come On Outside](https://open.spotify.com/album/7nUn7PGh1RKgBbE59TGrT1) | 2:58 |
-| 21 | [Paint The Town Blue \- from the series Arcane League of Legends](https://open.spotify.com/track/2c0cYM1BbZRLprDJUCsH6Q) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \- from the series Arcane League of Legends](https://open.spotify.com/album/1Khhjk3sDULsnEGLUVwRwU) | 1:54 |
+| 21 | [Paint The Town Blue \- from the series Arcane League of Legends](https://open.spotify.com/track/2c0cYM1BbZRLprDJUCsH6Q) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1Khhjk3sDULsnEGLUVwRwU) | 1:54 |
 | 22 | [REPTILIAN](https://open.spotify.com/track/5e5qV3j9X8Ed13JC9OFO0s) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [REPTILIAN](https://open.spotify.com/album/542STUXz3gaRxZyZaKoEzK) | 2:27 |
 | 23 | [SORRY I'M LATE](https://open.spotify.com/track/2zjBoQPdXMjgnVfnS8V9zx) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [SORRY I'M LATE](https://open.spotify.com/album/4ZxHPDJDDns4uIcYx9Q5us) | 3:15 |
 | 24 | [Live & Direct](https://open.spotify.com/track/1AFB8RNDYOavAYKqAQoZFR) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [Live & Direct](https://open.spotify.com/album/6cyktdv1fqQlrqwS6X0os1) | 1:47 |

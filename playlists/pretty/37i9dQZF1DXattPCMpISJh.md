@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,854 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,892 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 19 | [Survive \[Feat\. Walk Off The Earth\]](https://open.spotify.com/track/2qVZY6UtkkwV3wi2r2cocx) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Duality](https://open.spotify.com/album/124LdmYiB3SM7x2EefHBoa) | 3:17 |
 | 20 | [Lately](https://open.spotify.com/track/1vnMD8Nk8FN44hJDya1cuP) | [Revel Day](https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw) | [Lately](https://open.spotify.com/album/3b7R0UvZGomnzGfTWevliY) | 3:32 |
 | 21 | [I Am](https://open.spotify.com/track/6MVk4SW25q1CNENQE1RHyv) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [I Am](https://open.spotify.com/album/06AscAzNNnjwtxfzXgrElI) | 2:03 |
-| 22 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\) \- Extended Version](https://open.spotify.com/track/0wKCTce0iM4zvsI91qlp3X) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\) \- Extended Version](https://open.spotify.com/album/6q3RTRma8OfHW8PAFYUKqS) | 7:11 |
+| 22 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\) \- Extended Version](https://open.spotify.com/track/0wKCTce0iM4zvsI91qlp3X) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\) \[Extended Version\]](https://open.spotify.com/album/6q3RTRma8OfHW8PAFYUKqS) | 7:11 |
 | 23 | [Know Me](https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Know Me](https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1) | 3:27 |
 | 24 | [Legs \(Keep Dancing\)](https://open.spotify.com/track/4iOVmWFd2HgtWa9yPxvCai) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Legs \(Keep Dancing\)](https://open.spotify.com/album/7pgYs9PShCZbJdIUDmoQvc) | 3:07 |
 | 25 | [This Is It](https://open.spotify.com/track/7du1tQzWcxRcQB3EkBSnIf) | [Sparkee](https://open.spotify.com/artist/0DgTGEWTk0pHJ3SB0tDzzf), [Liinks](https://open.spotify.com/artist/3tTrvuZL6yAhHb1x2iWlBY) | [This Is It](https://open.spotify.com/album/09tgG3vgsCzVclnVioRwbB) | 2:23 |

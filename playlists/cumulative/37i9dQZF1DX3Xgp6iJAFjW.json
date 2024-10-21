@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 323466,
       "name": "A Beber To' el Mundo",
       "url": "https://open.spotify.com/track/5omSkTlNd7p7g7rSa7HqQL"
@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 284480,
       "name": "Aguinaldo Navide\u00f1o",
       "url": "https://open.spotify.com/track/7v1iZfK6g60yDZQZFo4aDG"
@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 300893,
       "name": "El Burrito de Belen",
       "url": "https://open.spotify.com/track/2qAmDGh1zscmI2VHWngoFq"
@@ -2704,6 +2704,24 @@
       "duration_ms": 305031,
       "name": "Navidad",
       "url": "https://open.spotify.com/track/5nMYeNiglE4xYo8se1HejN"
+    },
+    {
+      "album": {
+        "name": "Navidad en Merengue (Versi\u00f3n Editada)",
+        "url": "https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231600,
+      "name": "Navidad , Navidad",
+      "url": "https://open.spotify.com/track/6HbzRvIncheZaMjHVaZOge"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,721 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,713 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 37 | [Morando Em Seu Olhar \- Ao Vivo](https://open.spotify.com/track/0KmgdWt81BfhdbPkGhAvHL) | [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Morando Em Seu Olhar \(Ao Vivo\)](https://open.spotify.com/album/08EIVDq1j4xJAiN9PQTdbC) | 2:56 |
 | 38 | [Calendário](https://open.spotify.com/track/3TOaLk9jOsbBomJezd24Vu) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Calendário](https://open.spotify.com/album/6TCXRADv2Xs1ZFhur41Kfc) | 3:21 |
 | 39 | [Patricinha Do Olho Azul / Corpo Nú \- Ao Vivo](https://open.spotify.com/track/3qojJfMa2p3TAs4IB4x5Ym) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Tardezinha Bis \(Ao Vivo\)](https://open.spotify.com/album/0PGS3Oa79boNay0QSOhLDx) | 4:59 |
-| 40 | [Conheço Teu Fogo \- Ao Vivo](https://open.spotify.com/track/0D5Nnj1NdSiF69ZOssTRJP) | [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Conheço Teu Fogo \- Ao Vivo](https://open.spotify.com/album/5lS6K5Pm03fHdep33HRbxj) | 3:37 |
+| 40 | [Conheço Teu Fogo \- Ao Vivo](https://open.spotify.com/track/0D5Nnj1NdSiF69ZOssTRJP) | [Grupo Clareou](https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Conheço Teu Fogo \(Ao Vivo\)](https://open.spotify.com/album/5lS6K5Pm03fHdep33HRbxj) | 3:37 |
 | 41 | [Um Amor Tão Belo](https://open.spotify.com/track/0kpejilTkM3rbLjkzOuSrC) | [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Um Amor Tão Belo](https://open.spotify.com/album/7p1wauSXNX2VxZ1fXTEM23) | 3:55 |
 | 42 | [Reciprocidade \- Ao Vivo](https://open.spotify.com/track/06mBE4RrsBuOscuuJynoYl) | [Grupo Revelação](https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw) | [Revela Samba Beach 2 \- Lado B \(Ao Vivo\)](https://open.spotify.com/album/1J2pbHIh9TXBACDLpgt442) | 3:08 |
 | 43 | [Dois Errados](https://open.spotify.com/track/71OqsQK6fPZbBGGZ2hb3pn) | [Ley](https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP), [Paloma](https://open.spotify.com/artist/0y88HGhK5hvixmVZWtliIu) | [Dois Errados](https://open.spotify.com/album/1kBByh4m8IYSRDWZBYuJys) | 3:23 |

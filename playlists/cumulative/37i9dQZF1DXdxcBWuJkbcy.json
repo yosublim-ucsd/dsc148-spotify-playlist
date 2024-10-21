@@ -10185,7 +10185,7 @@
     },
     {
       "album": {
-        "name": "Makeba - Ian Asher Remix",
+        "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
       "artists": [
@@ -10898,7 +10898,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 174337,
       "name": "Murder On The Dancefloor - David Guetta Remix",
       "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
@@ -13368,7 +13368,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 234461,
       "name": "Receipts (feat. Gunna)",
       "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
@@ -15739,7 +15739,7 @@
     },
     {
       "album": {
-        "name": "Strobe - Layton Giordani Remix",
+        "name": "Strobe (Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/2lA6LPtr9O0HwNLDYEzzjm"
       },
       "artists": [

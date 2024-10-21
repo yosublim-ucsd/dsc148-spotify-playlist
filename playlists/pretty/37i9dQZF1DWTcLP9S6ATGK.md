@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Nagita Slavina, Raffi Ahmad
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,931 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,960 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 45 | [Manusia Paling Menyebalkan](https://open.spotify.com/track/3xqrjVYB6lRmewHX9ePnIr) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Manusia Paling Menyebalkan](https://open.spotify.com/album/4HwBlvQNOVmYPontLGdwCz) | 3:09 |
 | 46 | [Nasib Suami Di Akhir Bulan](https://open.spotify.com/track/02oUCOLqEaUAiMlsFhMtQi) | [Five Minutes](https://open.spotify.com/artist/1jpcciDZSo632cA34WIfTX) | [Nasib Suami Di Akhir Bulan](https://open.spotify.com/album/6FHTCzGVQD0QyVvywYoXjn) | 3:49 |
 | 47 | [Bukan Karena Tak Cinta](https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Karena Tak Cinta](https://open.spotify.com/album/1txZB0N3UvCesSy5mdyq3x) | 4:18 |
-| 48 | [Maafkan Aku Mencintai Kekasihmu \- Remastered 2024](https://open.spotify.com/track/1xLyR2daAgkNdbp20i7QGO) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Maafkan Aku Mencintai Kekasihmu \- Remastered 2024](https://open.spotify.com/album/2mCwIvgMECPeh2JK5T0ZPa) | 4:55 |
+| 48 | [Maafkan Aku Mencintai Kekasihmu \- Remastered 2024](https://open.spotify.com/track/1xLyR2daAgkNdbp20i7QGO) | [Rebecca Reijman](https://open.spotify.com/artist/00YCDATV4WgHubyf5nyniL) | [Maafkan Aku Mencintai Kekasihmu \(Remastered 2024\)](https://open.spotify.com/album/2mCwIvgMECPeh2JK5T0ZPa) | 4:55 |
 | 49 | [Tak Pernah Sendiri](https://open.spotify.com/track/0fL3GBgfFcfQ18iyJmTX1o) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Tak Pernah Sendiri](https://open.spotify.com/album/7j9qy88hw4ZKfQVJFwy0RX) | 4:01 |
 | 50 | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/track/3jki54XTyng7uExnmnniCW) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/album/5CNvbiMvaOaHmaQf2mNvOi) | 3:58 |
 | 51 | [Abangku](https://open.spotify.com/track/58w5cBvrboUzlt5Ui4Wqj8) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Abangku](https://open.spotify.com/album/4QxhzrKRjmqdTCFrvO7773) | 3:29 |

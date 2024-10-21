@@ -1,6 +1,6 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 13525,
+  "num_followers": 13626,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
-      },
-      "artists": [
-        {
-          "name": "TEMPOREX",
-          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Nice Boys",
-      "url": "https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "JERK!",
         "url": "https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc"
       },
@@ -227,18 +211,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Temptation Stairway (Waltz Variation)",
-        "url": "https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME"
+        "name": "Care",
+        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
       },
       "artists": [
         {
-          "name": "Metaroom",
-          "url": "https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d"
+          "name": "TEMPOREX",
+          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
         }
       ],
-      "duration_ms": 106909,
-      "name": "Temptation Stairway (Waltz Variation)",
-      "url": "https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR"
+      "duration_ms": 180800,
+      "name": "Nice Boys",
+      "url": "https://open.spotify.com/track/6uuBSo3wXnosEWVXRzZDTf"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -259,6 +243,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "Temptation Stairway (Waltz Variation)",
+        "url": "https://open.spotify.com/album/3jEWqAIIlHymIW7oVbRCME"
+      },
+      "artists": [
+        {
+          "name": "Metaroom",
+          "url": "https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d"
+        }
+      ],
+      "duration_ms": 106909,
+      "name": "Temptation Stairway (Waltz Variation)",
+      "url": "https://open.spotify.com/track/0mlA1Y5ei8TNk4Fd1h4CJR"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "lain",
         "url": "https://open.spotify.com/album/46hmpGRHhtVWAlc5HmvfCC"
       },
@@ -271,22 +271,6 @@
       "duration_ms": 226234,
       "name": "lain",
       "url": "https://open.spotify.com/track/0miB2Y7zYt8DMx8biwooN2"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
-      },
-      "artists": [
-        {
-          "name": "TEMPOREX",
-          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
-        }
-      ],
-      "duration_ms": 67894,
-      "name": "Hi",
-      "url": "https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -319,6 +303,22 @@
       "duration_ms": 86428,
       "name": "Implanted Memories",
       "url": "https://open.spotify.com/track/7BPvdT4CMMC2Q4tw1Y4CQs"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G"
+      },
+      "artists": [
+        {
+          "name": "TEMPOREX",
+          "url": "https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt"
+        }
+      ],
+      "duration_ms": 67894,
+      "name": "Hi",
+      "url": "https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -435,38 +435,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Missed Kiss",
-        "url": "https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8"
-      },
-      "artists": [
-        {
-          "name": "Digigurl",
-          "url": "https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z"
-        }
-      ],
-      "duration_ms": 202135,
-      "name": "Missed Kiss",
-      "url": "https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/2FeYIfCmI3kGAJt1SAdTpV"
-      },
-      "artists": [
-        {
-          "name": "Mayo.",
-          "url": "https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX"
-        }
-      ],
-      "duration_ms": 77588,
-      "name": "Reduplicate",
-      "url": "https://open.spotify.com/track/64PKCSw5Jg7grMo9MnlFoO"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Between Two Worlds",
         "url": "https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP"
       },
@@ -495,6 +463,38 @@
       "duration_ms": 163047,
       "name": "icosa",
       "url": "https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/2FeYIfCmI3kGAJt1SAdTpV"
+      },
+      "artists": [
+        {
+          "name": "Mayo.",
+          "url": "https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX"
+        }
+      ],
+      "duration_ms": 77588,
+      "name": "Reduplicate",
+      "url": "https://open.spotify.com/track/64PKCSw5Jg7grMo9MnlFoO"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Missed Kiss",
+        "url": "https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8"
+      },
+      "artists": [
+        {
+          "name": "Digigurl",
+          "url": "https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z"
+        }
+      ],
+      "duration_ms": 202135,
+      "name": "Missed Kiss",
+      "url": "https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "Pink Origins",
+        "url": "https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H"
+      },
+      "artists": [
+        {
+          "name": "Metaroom",
+          "url": "https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d"
+        }
+      ],
+      "duration_ms": 137513,
+      "name": "Pink Origins",
+      "url": "https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "Do you love me?",
         "url": "https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Laptop !!",
-        "url": "https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx"
-      },
-      "artists": [
-        {
-          "name": "dreamcache",
-          "url": "https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN"
-        }
-      ],
-      "duration_ms": 111900,
-      "name": "Laptop !!",
-      "url": "https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR"
       },
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Pink Origins",
-        "url": "https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H"
+        "name": "Laptop !!",
+        "url": "https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx"
       },
       "artists": [
         {
-          "name": "Metaroom",
-          "url": "https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d"
+          "name": "dreamcache",
+          "url": "https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN"
         }
       ],
-      "duration_ms": 137513,
-      "name": "Pink Origins",
-      "url": "https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7"
+      "duration_ms": 111900,
+      "name": "Laptop !!",
+      "url": "https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA"
     },
     {
       "added_at": "2023-07-18 20:06:10",

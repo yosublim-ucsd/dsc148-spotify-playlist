@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Joema Lauriano
 
-185 songs - 11 hr 44 min
+186 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Lumayo](https://open.spotify.com/track/6EaSUjAd1Zi2jK6PMqWKEz) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Make Believe](https://open.spotify.com/album/0eVAbAiekijNEO7xTvGn23) | 2:55 | 2024-10-04 |  |
 | [Mad](https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6) | [aunt robert](https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9) | [Mad](https://open.spotify.com/album/7xr4n4xmcaLFEhlc76fjn4) | 2:34 | 2024-08-09 |  |
 | [Mahal Na Yata Kita](https://open.spotify.com/track/0lE7yCSaySzXOAYESodkJQ) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Mahal Na Yata Kita](https://open.spotify.com/album/33Y14HJbItjGY1UifH9dHj) | 3:07 | 2024-07-19 |  |
+| [Maisayaw](https://open.spotify.com/track/69mFymncpfkrFYUbfvJseI) | [Frank Ely](https://open.spotify.com/artist/4wKXUX1hMeAmlAVOi7cfG0) | [Maisayaw](https://open.spotify.com/album/3zV6zqnsQGi5G6ta0ljo38) | 3:08 | 2024-10-21 |  |
 | [Malabong Ugnayan \(feat\. jikamarie\)](https://open.spotify.com/track/4jkS21cAiVFz9rpWfW50g0) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [MU](https://open.spotify.com/album/4bGMCLUG61Fveyy16lxbIM) | 3:22 | 2024-07-02 | 2024-07-27 |
 | [Maling Panahon](https://open.spotify.com/track/1YPIUdTByuxklKaTiNlVaN) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Maling Panahon](https://open.spotify.com/album/31RWGvdfCCcJvI2VTHeivZ) | 3:27 | 2024-07-02 | 2024-07-09 |
 | [Malumanay](https://open.spotify.com/track/48ZbwHX2QkhwlIUrQwJTyc) | [Tatin DC](https://open.spotify.com/artist/4yFub2mOdJ4oHxbxrs4HuY) | [Malumanay](https://open.spotify.com/album/2zS1abWhx2bLvSIbTyuEVc) | 4:11 | 2024-07-02 | 2024-08-31 |

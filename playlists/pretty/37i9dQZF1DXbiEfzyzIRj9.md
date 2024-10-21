@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Qrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,266 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,268 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 91 | [flex fm \(freddit\)](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [flex fm \(freddit\)](https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT) | 4:06 |
 | 92 | [DAY AND NIGHT](https://open.spotify.com/track/70okSTcCa41Nf0hOADlFsT) | [Jacotanu](https://open.spotify.com/artist/0eWrRwbeLfOkcmIYwbA09T), [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD) | [DAY AND NIGHT](https://open.spotify.com/album/44zpTKNrVSUKKG12XX3gpC) | 3:40 |
 | 93 | [Do This Shit](https://open.spotify.com/track/1kopOp5Tnsico6JFqSzjr6) | [Seimei](https://open.spotify.com/artist/7zZ9WviThpO5AVYmigIf3V) | [Do This Shit](https://open.spotify.com/album/7eGf9SdXLUIHqnIMyHEngK) | 5:39 |
-| 94 | [TYPICAL!](https://open.spotify.com/track/4mOCLJjpD6Q2otZbjQZob6) | [TOWA TEI](https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD), [Takkyu Ishino](https://open.spotify.com/artist/1Y1eAeGo4bz5wP1CfRGn6c) | [TYPICAL!](https://open.spotify.com/album/0r2o1cdpkQb4SERIdgJ7zk) | 2:57 |
+| 94 | [TYPICAL! \(feat\. TAKKYU ISHINO\)](https://open.spotify.com/track/4mOCLJjpD6Q2otZbjQZob6) | [TOWA TEI](https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD), [Takkyu Ishino](https://open.spotify.com/artist/1Y1eAeGo4bz5wP1CfRGn6c) | [TYPICAL! \(feat\. TAKKYU ISHINO\)](https://open.spotify.com/album/0r2o1cdpkQb4SERIdgJ7zk) | 2:57 |
 | 95 | [KANEDA \[金田\] \(Remixed by 久保田麻琴\)](https://open.spotify.com/track/1C3MMuybGUcpDXckoKY5rx) | [芸能山城組](https://open.spotify.com/artist/6BUWT5v73giW6phUFLTcbx), [Makoto Kubota](https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA) | [AKIRA REMIX](https://open.spotify.com/album/0P6kw8h85JdUNyI7Xfcc1B) | 3:22 |
 | 96 | [Boli Boli \- Radio Edit](https://open.spotify.com/track/5rsSheOe55xazhGy1Qpa3K) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI), [La Raf](https://open.spotify.com/artist/372CBPn0cmX7MqOtKG68yF) | [Boli Boli \- Radio Edit](https://open.spotify.com/album/1ElDcEk0ZWzxEDbEPIXbWZ) | 3:50 |
 | 97 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |

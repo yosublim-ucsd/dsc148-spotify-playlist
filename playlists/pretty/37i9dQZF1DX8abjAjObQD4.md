@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 
 > Your favorite folk songs, live\. Cover: John Prine
 
-[Spotify](https://open.spotify.com/user/spotify) - 957 likes - 66 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 959 likes - 66 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 | 8 | [Heartbeats \- Live](https://open.spotify.com/track/7jddYTraXSN0GPxFxDmnb5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [The String Theory](https://open.spotify.com/artist/6gT9lfBqZ1R9BrSEuB09E1) | [Live In Europe](https://open.spotify.com/album/6lEMowwswvl955V51sNm88) | 2:55 |
 | 9 | [By and By \- Live](https://open.spotify.com/track/2CRRodIXF6xBPgIw8TmvV8) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Live from Newport Music Hall](https://open.spotify.com/album/3L3MtBSFX6iv3SoshnfG9a) | 4:59 |
 | 10 | [Scarborough Fair / Canticle \- Live at Carnegie Hall, New York, NY \- November 1969](https://open.spotify.com/track/5Jyvfm1u1mXxlnu2CDXfKF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:54 |
-| 11 | [Going, Going, Gone \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Complete Budokan 1978 \- Live](https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni) | 4:03 |
+| 11 | [Going, Going, Gone \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Complete Budokan 1978 \(Live\)](https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni) | 4:03 |
 | 12 | [Hallelujah \- Live at Sin\-é, New York, NY \- July/August 1993](https://open.spotify.com/track/6BZFeMHjTzzNLwJGirNDzJ) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Live At Sin\-é \(Legacy Edition\)](https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc) | 9:15 |
 | 13 | [Suzanne \- Live](https://open.spotify.com/track/05LwDzXo5aeWXbwSsPk3yv) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Who by Fire \- Live Tribute to Leonard Cohen](https://open.spotify.com/album/4QtoNIqTWR3e5NVb833Bj2) | 3:40 |
 | 14 | [When You Come Back Down \- Live](https://open.spotify.com/track/4nwtwf7aPwGf14INPJTKNP) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Live from the Fox Theater](https://open.spotify.com/album/7lq39QANQUHMNp0DVNqscQ) | 5:03 |

@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216588,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI"
+    },
+    {
+      "album": {
         "name": "Verbathim",
         "url": "https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N"
       },
@@ -1495,7 +1513,7 @@
     },
     {
       "album": {
-        "name": "You Know I Know - Expanded Edition",
+        "name": "You Know I Know (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Z6lqEBbZq9Rbf7aYRxAZP"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Pakistani indie tracks on the rise\. Like this? More fresh discoveries in <a href="https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v?si=e68b04cda53a4431">Fresh Finds PK</a>\. Cover \- Hassan & Roshaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,873 likes - 74 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,876 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 60 | [PRETA KALPA](https://open.spotify.com/track/3lbCPrvlJKCuDdk3URi7mh) | [SarpDansh](https://open.spotify.com/artist/2EnfibPipqcjvyRiNrbHTN), [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP) | [PRETA KALPA](https://open.spotify.com/album/5kQuqzhclheXys1Wki3v1S) | 3:12 |
 | 61 | [Paas](https://open.spotify.com/track/6LsiuwPCC74qGJUZIUf9QE) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Paas](https://open.spotify.com/album/6usu2sjJEGElDflwGTikkb) | 2:40 |
 | 62 | [Faasley](https://open.spotify.com/track/30K7OCqhAQWUM3xdIbb0Sy) | [Essa Barlas](https://open.spotify.com/artist/2Nk96lbrQs5R0OsqeBsxfZ) | [Faasley](https://open.spotify.com/album/5WUkYLdVUFljRP9ReHHprm) | 3:38 |
-| 63 | [Raazi \- blal's version](https://open.spotify.com/track/3qi3UHlhrdWFOEjqirvCl6) | [blal bloch](https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Raazi \- blal's version](https://open.spotify.com/album/6MF9ecBm6ewsaYeG7UWmdM) | 2:38 |
+| 63 | [Raazi \- blal's version](https://open.spotify.com/track/3qi3UHlhrdWFOEjqirvCl6) | [blal bloch](https://open.spotify.com/artist/2PKXVvqPC7pNaLWnDbr1RF), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Raazi \(blal's version\)](https://open.spotify.com/album/6MF9ecBm6ewsaYeG7UWmdM) | 2:38 |
 | 64 | [Heeriye](https://open.spotify.com/track/6YKX4QTIbJV4y4I0lFg1uO) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [HYDR x Freebird Music](https://open.spotify.com/album/0Wtq1AFEaUeWM3awbFXePg) | 2:36 |
 | 65 | [kaash](https://open.spotify.com/track/2FO9i1iQw067Kxn6WDhd6t) | [RAAMIS](https://open.spotify.com/artist/004cRPgBOiWUUsu3mXXd1W), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [her](https://open.spotify.com/album/0pye3GvMuudhjVYIvtq16Y) | 2:55 |
 | 66 | [Call Me](https://open.spotify.com/track/6lnIBwS5NBujoEmG3IGRUn) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [RONAQ](https://open.spotify.com/album/0uwwWuB9MjGUF3R60CMnjr) | 3:03 |

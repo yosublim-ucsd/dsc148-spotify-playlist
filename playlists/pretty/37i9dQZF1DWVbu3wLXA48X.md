@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,647 likes - 95 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,648 likes - 95 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 |
 | 2 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 |
 | 3 | [Gaslight](https://open.spotify.com/track/1CKHCNHKs6NT4Of7H8RZ0N) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Gaslight](https://open.spotify.com/album/1Dp1BGSJPV8iIJJMyOFb5J) | 3:21 |
-| 4 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:57 |
+| 4 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 5 | [Eleven \- Alternate Version](https://open.spotify.com/track/1pwhINWGuysBs8IsI2LtuO) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4), [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Eleven \(Alternate Version\)](https://open.spotify.com/album/7BcI6gwjYOy3yFVTfAndmS) | 3:27 |
 | 6 | [Defense](https://open.spotify.com/track/7MarkM3buE9DyaEZ59b7vy) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Cindy Lee](https://open.spotify.com/artist/0TZExq5Dma8hecEIAKwQYA) | [Defense](https://open.spotify.com/album/5gWXFTEpeIaxjXo97WTy27) | 4:35 |
 | 7 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:10 |
-| 8 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \- Deluxe](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
+| 8 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
 | 9 | [Baby](https://open.spotify.com/track/6L3rzNHhoBAt2yERmplzuU) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Baby](https://open.spotify.com/album/2GWUAh0pqsE3N7EwMMDEj2) | 4:17 |
 | 10 | [A Thousand Years](https://open.spotify.com/track/0VgDXkaNfs91oTrEsQl7nK) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [A Thousand Years](https://open.spotify.com/album/3BGuXThsGr0XvIFWPVRkhD) | 3:32 |
 | 11 | [Fridge](https://open.spotify.com/track/07f6FVyaBREnqrpYvAf3A3) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Fridge](https://open.spotify.com/album/156WbTOOVi5e5oRV9Y7fhe) | 3:05 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 77 | [From Your Own Eyes](https://open.spotify.com/track/6rvZKw1KpY27HXMEpM8Ph6) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [From Your Own Eyes](https://open.spotify.com/album/3CIqrvlPi7B5XiKb22kqwy) | 1:45 |
 | 78 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 |
 | 79 | [Ready To Go Home \- Edit](https://open.spotify.com/track/68TghJcxcoPps8uJ0FbrKF) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Ready To Go Home](https://open.spotify.com/album/3zOewbMHTAbd2CsC2V3Fvk) | 3:27 |
-| 80 | [Story of Love \- Bonus Track](https://open.spotify.com/track/4I2tsiTax25cnOfHpx1pAN) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright \- 10th Anniversary Edition](https://open.spotify.com/album/5snh5Wr3oJDtHMpx3kf2LJ) | 2:34 |
+| 80 | [Story of Love \- Bonus Track](https://open.spotify.com/track/4I2tsiTax25cnOfHpx1pAN) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Too Bright \(10th Anniversary Edition\)](https://open.spotify.com/album/5snh5Wr3oJDtHMpx3kf2LJ) | 2:34 |
 | 81 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 |
 | 82 | [Moth To The Flame](https://open.spotify.com/track/68j8pmIJVodrP1Po29IdJj) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [City Lights](https://open.spotify.com/album/2mc8z8p5BSchhpD6wBcpEw) | 4:43 |
 | 83 | [Please Me \(feat\. The Linda Lindas\)](https://open.spotify.com/track/5HOW9LvWH095wmQx56uvlt) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Please Me \(feat\. The Linda Lindas\)](https://open.spotify.com/album/4ruaMV2ZaAaclRFXcNJrke) | 1:35 |

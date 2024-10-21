@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Kiki Rockwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,571 likes - 169 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,573 likes - 169 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 2 | [FFS](https://open.spotify.com/track/4bfWDJBebYt4IttaK1pk3m) | [Lucian Rice](https://open.spotify.com/artist/2xxHXXg3zOxOsdb3cODhgs) | [right now, forever](https://open.spotify.com/album/0hxvUFor8krta7TpudUW1U) | 3:24 |
 | 3 | [No God](https://open.spotify.com/track/4xGdSzhHX2RBazPCOHezeI) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [No God](https://open.spotify.com/album/3U3C86jnUyvNbqbML8o2uC) | 2:44 |
 | 4 | [A Thousand Years](https://open.spotify.com/track/3X12z8V9io3F2cptQZtLKK) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [A Thousand Years](https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv) | 3:32 |
-| 5 | [Follow \- Edit](https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Follow \- Edit](https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy) | 2:37 |
+| 5 | [Follow \- Edit](https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Follow \(Edit\)](https://open.spotify.com/album/5UT1bolboHeifFrzuqeLBy) | 2:37 |
 | 6 | [Shouldn’t Leave It Like That](https://open.spotify.com/track/3h1ezpaRGhg0gvol24o1Qq) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Last Of The Lonely Gods](https://open.spotify.com/album/7vFlnnryjfOq4ktTOOc12f) | 3:29 |
 | 7 | [Older](https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE](https://open.spotify.com/album/3ibzGjl8ndao9xMTtMEPf9) | 2:56 |
 | 8 | [Too Busy](https://open.spotify.com/track/0SPLtdmnEr2h0lL6C5uaBO) | [deadforest](https://open.spotify.com/artist/01BarUU13qIXPB0YlpVJgb) | [Too Busy](https://open.spotify.com/album/0jA7TBoL1ctiW0t9m92YjY) | 2:15 |

@@ -1555,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Ap\u00e1ly",
         "url": "https://open.spotify.com/album/1Mh4B5kMXU35AexkEjOlSX"
       },
@@ -2758,7 +2780,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 131076,
       "name": "BIGBET",
       "url": "https://open.spotify.com/track/48G9zGujLTc59ntYMoPEQI"
@@ -3380,7 +3402,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 144905,
       "name": "BURBERRY SHADES",
       "url": "https://open.spotify.com/track/3EoLxMMW10EaEwU9cqPHua"
@@ -5984,7 +6006,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 75000,
       "name": "E E VOSS",
       "url": "https://open.spotify.com/track/5zpTWx7hLIqHMjWpS1wx5O"
@@ -6966,7 +6988,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
@@ -12650,7 +12672,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 114392,
       "name": "Loca",
       "url": "https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri"
@@ -12704,7 +12726,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -12780,7 +12802,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "lost tiki",
       "url": "https://open.spotify.com/track/1VPU7SKdABCb3gNCNjMFIZ"
@@ -15638,7 +15660,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 158325,
       "name": "No Woman No Cry",
       "url": "https://open.spotify.com/track/7BHYrsEYySLRs6PcZvvFEm"
@@ -17744,7 +17766,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 305161,
       "name": "PR\u00c9MIUM VIP GANG EXTRA POSSE EXKLUZ\u00cdV",
       "url": "https://open.spotify.com/track/3kGn7euZy2g0Km0Bjxv9at"
@@ -21508,7 +21530,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 153043,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/7yYEa7PXPClwgkffygu4B4"
@@ -22118,7 +22140,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 129600,
       "name": "TIHANY",
       "url": "https://open.spotify.com/track/31ItxZRpxou5JQ8qeJfRy6"

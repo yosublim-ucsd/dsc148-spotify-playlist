@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,274 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,321 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 42 | [Arriadin por Tu \- Ao Vivo](https://open.spotify.com/track/1R4g4jxHARgfesI2g9H59g) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Ser Tão Eu \- Parte 3 \(Ao Vivo\)](https://open.spotify.com/album/22bVPTAJLywADdmwbyA60a) | 2:41 |
 | 43 | [SE ARREPENDIMENTO MATASSE \- Ao Vivo](https://open.spotify.com/track/5pmQRsVD9qPoF4VXoITPUC) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN AO VIVO NA LUA \- NOVA](https://open.spotify.com/album/0SXQI9rQAxolmySULiXLi0) | 2:52 |
 | 44 | [Sombra Desconhecida \- Ao Vivo](https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Sombra Desconhecida \(Ao Vivo\)](https://open.spotify.com/album/7j9FmFWjSSuqJe5XAtz0WG) | 2:40 |
-| 45 | [Aham \- Ao Vivo](https://open.spotify.com/track/3Bkw2nrO4vXwql6BBDH5pq) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Questão de Tempo \- Ao Vivo / Parte 2](https://open.spotify.com/album/4tcd8Asdup9cwhIpLAxcbx) | 2:29 |
+| 45 | [Aham \- Ao Vivo](https://open.spotify.com/track/3Bkw2nrO4vXwql6BBDH5pq) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Questão de Tempo \(Ao Vivo / Parte 2\)](https://open.spotify.com/album/4tcd8Asdup9cwhIpLAxcbx) | 2:29 |
 | 46 | [Lapada Dela \- Ao Vivo](https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Confia \(Ao Vivo\)](https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w) | 2:39 |
 | 47 | [afrodite](https://open.spotify.com/track/7ARsJNRK0SD0asnybQo2oi) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Vinho](https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9) | 3:21 |
 | 48 | [Imagina esse Cenário](https://open.spotify.com/track/2fjqfFUq64thFsqfKN01kS) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 2:35 |
 | 49 | [Sabe que os mlk é drake, não é bigode não](https://open.spotify.com/track/2qgt9GiXVhFIXTA3OdHDUG) | [2T.](https://open.spotify.com/artist/1Q8WSMv0yYl2ae0AO4k6qc) | [Sabe que os mlk é drake, não é bigode não](https://open.spotify.com/album/4buDvRwoTFedRtSbCgZwMB) | 3:00 |
 | 50 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
 
-Snapshot ID: `LqcgoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LqhvyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

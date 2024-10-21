@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Danilo Kuiters
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,667 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,675 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 30 | [Wat Maakt Het Uit](https://open.spotify.com/track/5Cm7n1Bxa7rhzuLLNHRt6K) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Wat Maakt Het Uit](https://open.spotify.com/album/0KfUyIG4rn8eRdQr5Oh5hm) | 2:52 |
 | 31 | [Geld Maakt Niet Gelukkig](https://open.spotify.com/track/5goNWoaojSwBrmXHZuXlv2) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Geld Maakt Niet Gelukkig](https://open.spotify.com/album/50Aag4UQT0FrhXDk4H1fps) | 2:37 |
 | 32 | [Zou Jij Mij Doen?!](https://open.spotify.com/track/43oq1u2ymYMSAlNF7h4zy1) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Zou Jij Mij Doen?!](https://open.spotify.com/album/6AMIJvQID6bAxFp3vMFHR0) | 3:00 |
-| 33 | [Ga Als Je Wilt \- 2024](https://open.spotify.com/track/40UqMDhrBlpFLbQEBkMuBS) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Ga Als Je Wilt \- 2024](https://open.spotify.com/album/5MWJJ1lNhQ2NfL7PvUougL) | 3:36 |
+| 33 | [Ga Als Je Wilt \- 2024](https://open.spotify.com/track/40UqMDhrBlpFLbQEBkMuBS) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Ga Als Je Wilt \(2024\)](https://open.spotify.com/album/5MWJJ1lNhQ2NfL7PvUougL) | 3:36 |
 | 34 | [Hoe Heet Je](https://open.spotify.com/track/0iWZVj23pIypIYVEVwczGi) | [Sam Vanvelthoven](https://open.spotify.com/artist/2Mze1uCoA2mhf5yGoCBO64) | [Hoe Heet Je](https://open.spotify.com/album/1WpqIFIywitTybloFfBw8C) | 2:58 |
 | 35 | [Laat Ze Maar Praten](https://open.spotify.com/track/2YKa8tyRrpSsO0vnWyopqU) | [Jordi Weijer](https://open.spotify.com/artist/3OpenpcWxQGgQueK6hpVej) | [Laat Ze Maar Praten](https://open.spotify.com/album/39QWNVu8LiS9Jriw4vDiJJ) | 2:27 |
 | 36 | [Koning van het plein](https://open.spotify.com/track/3RdTVF7yjt6wFkylc1uRlo) | [Edo Barends](https://open.spotify.com/artist/7AnNU4xr4GSDqjrf9sl534), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Koning van het plein](https://open.spotify.com/album/3AehYYdSmF4xZ8PDRWbS0N) | 3:24 |

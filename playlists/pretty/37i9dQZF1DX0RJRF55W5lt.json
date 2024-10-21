@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: DJ EZ at Drumsheds",
-  "num_followers": 568919,
+  "num_followers": 569027,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Wookie (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
-      },
-      "artists": [
-        {
-          "name": "Wookie",
-          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
-        },
-        {
-          "name": "Lain",
-          "url": "https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B"
-        }
-      ],
-      "duration_ms": 300500,
-      "name": "Battle",
-      "url": "https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "Execute",
         "url": "https://open.spotify.com/album/6FZCuZTkHljeaz5kli8WC8"
       },
@@ -511,26 +491,22 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Freak Like Me",
-        "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
+        "name": "Wookie (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk"
       },
       "artists": [
         {
-          "name": "Dub Conspiracy",
-          "url": "https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r"
+          "name": "Wookie",
+          "url": "https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv"
         },
         {
-          "name": "Tru Faith",
-          "url": "https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9"
-        },
-        {
-          "name": "Dome",
-          "url": "https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe"
+          "name": "Lain",
+          "url": "https://open.spotify.com/artist/4hq76gdVn9hwIfTks4IG9B"
         }
       ],
-      "duration_ms": 292533,
-      "name": "Freak Like Me - Dome's Peak Freak Remix",
-      "url": "https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2"
+      "duration_ms": 300500,
+      "name": "Battle",
+      "url": "https://open.spotify.com/track/1Y8R1CKdai0oycCf6K0sjh"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -555,6 +531,30 @@
       "duration_ms": 332746,
       "name": "Masterblaster 2000 - Oracles Remix",
       "url": "https://open.spotify.com/track/79QD38Dz9HaIHqQM9t7Wth"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Freak Like Me",
+        "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
+      },
+      "artists": [
+        {
+          "name": "Dub Conspiracy",
+          "url": "https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r"
+        },
+        {
+          "name": "Tru Faith",
+          "url": "https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9"
+        },
+        {
+          "name": "Dome",
+          "url": "https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe"
+        }
+      ],
+      "duration_ms": 292533,
+      "name": "Freak Like Me - Dome's Peak Freak Remix",
+      "url": "https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
+        "name": "Sincere (Deluxe)",
+        "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
+      },
+      "artists": [
+        {
+          "name": "MJ Cole",
+          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
+        },
+        {
+          "name": "Elisabeth Troy",
+          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
+        }
+      ],
+      "duration_ms": 309520,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
         "name": "Pick Me Up",
         "url": "https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 439746,
       "name": "Let Yourself Go - Capitol Mix",
       "url": "https://open.spotify.com/track/67arHtJfnuyN5LuxqqFT9A"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
-        "name": "Sincere (Deluxe)",
-        "url": "https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw"
-      },
-      "artists": [
-        {
-          "name": "MJ Cole",
-          "url": "https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl"
-        },
-        {
-          "name": "Elisabeth Troy",
-          "url": "https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT"
-        }
-      ],
-      "duration_ms": 309520,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Club Asylum Sampler, Vol. 1",
-        "url": "https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq"
-      },
-      "artists": [
-        {
-          "name": "Club Asylum",
-          "url": "https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH"
-        }
-      ],
-      "duration_ms": 314148,
-      "name": "Club Lonely",
-      "url": "https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt"
-    },
-    {
-      "added_at": "2024-10-06 08:09:55",
-      "album": {
         "name": "House Tracks for the Dancefloor, Vol. One",
         "url": "https://open.spotify.com/album/4NONAXdztl5tL39YurSOj9"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2024-10-06 08:09:55",
       "album": {
-        "name": "Flava On Wax EP",
-        "url": "https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S"
+        "name": "Club Asylum Sampler, Vol. 1",
+        "url": "https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq"
       },
       "artists": [
         {
-          "name": "R.I.P Productions",
-          "url": "https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB"
+          "name": "Club Asylum",
+          "url": "https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH"
         }
       ],
-      "duration_ms": 437715,
-      "name": "Happy to Be Deep",
-      "url": "https://open.spotify.com/track/4lj7TqR5hgkvJosxlHSAvi"
+      "duration_ms": 314148,
+      "name": "Club Lonely",
+      "url": "https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt"
     },
     {
       "added_at": "2024-10-06 08:09:55",
@@ -1375,6 +1359,26 @@
       "duration_ms": 543466,
       "name": "Spin Spin Sugar - Armand's Dark Garage Mix",
       "url": "https://open.spotify.com/track/2nGICSgZtRkfvuvDgmVVVz"
+    },
+    {
+      "added_at": "2024-10-06 08:09:55",
+      "album": {
+        "name": "Raw Talent: 3 Years In The Makin' (2007-2010)",
+        "url": "https://open.spotify.com/album/6GvInLag1pb1mhCn11p5iw"
+      },
+      "artists": [
+        {
+          "name": "Colour Girl",
+          "url": "https://open.spotify.com/artist/3KZJwlDEn12LcMe7y1uPlH"
+        },
+        {
+          "name": "Y Tribe",
+          "url": "https://open.spotify.com/artist/2oJ21FASyQQIfQEcl4G8Nj"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Joyrider - Y Tribe's Underground Remix",
+      "url": "https://open.spotify.com/track/01GLLCecGsPfuPmFHDqMCu"
     }
   ],
   "unique_name": "UK Garage Classics",

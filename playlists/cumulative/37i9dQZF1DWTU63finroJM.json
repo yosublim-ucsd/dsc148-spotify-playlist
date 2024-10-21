@@ -3235,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "Bisou sur la bouche",
+        "url": "https://open.spotify.com/album/7CWstAlJm1Xnhtt6GVWNzz"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165613,
+      "name": "Bisou sur la bouche",
+      "url": "https://open.spotify.com/track/7fRoybXpkYQ7NNBjuhtEaV"
+    },
+    {
+      "album": {
         "name": "Bistrot",
         "url": "https://open.spotify.com/album/67PCJjaYPG1cUjD9KXpQVm"
       },
@@ -11732,7 +11750,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 153750,
       "name": "hyperstar",
       "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"

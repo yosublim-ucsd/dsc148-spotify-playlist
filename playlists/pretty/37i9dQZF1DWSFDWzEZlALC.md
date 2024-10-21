@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Lena&Linus
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,439 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,568 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 58 | [36°C](https://open.spotify.com/track/5IpyN23pbujzW3eMzIfPcL) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [36°C](https://open.spotify.com/album/640HnQfReS1Y3DBts3jPAh) | 2:21 |
 | 59 | [10 Sekunden](https://open.spotify.com/track/277uZsTtRCyTXlGyTGXjlR) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [10 Sekunden](https://open.spotify.com/album/2BaiALCu9Pfil1oIPodxHy) | 2:54 |
 | 60 | [Verlierer](https://open.spotify.com/track/2UbMm8S5eqHwn27aUkPhAW) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Verlierer](https://open.spotify.com/album/71dS6MrDtwujmBnL9uBBoe) | 2:27 |
-| 61 | [War schön mit euch \(feat\. Haller\)](https://open.spotify.com/track/6YcW4D35MXsKnqAVF2EyO1) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Das Ende Der Welt \- Deluxe](https://open.spotify.com/album/2gbVLhIERSGH9tkeJybUpA) | 3:10 |
+| 61 | [War schön mit euch \(feat\. Haller\)](https://open.spotify.com/track/6YcW4D35MXsKnqAVF2EyO1) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Das Ende Der Welt \(Deluxe\)](https://open.spotify.com/album/2gbVLhIERSGH9tkeJybUpA) | 3:10 |
 | 62 | [Blaue Schilder](https://open.spotify.com/track/19CoaxctorzsIV6YuP3Vf0) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Blaue Schilder](https://open.spotify.com/album/354ra1V864BaudsQ0xMmG0) | 3:03 |
 | 63 | [Ach Du Liebe Zeit](https://open.spotify.com/track/6Knu3Uggcb1nTDPkKiXFaM) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Ach Du Liebe Zeit](https://open.spotify.com/album/166W07TT8Wb8twJnnA4HyP) | 2:24 |
 | 64 | [pokémon](https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen ep](https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK) | 2:52 |

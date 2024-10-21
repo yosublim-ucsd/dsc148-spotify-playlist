@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is Saweetie. De essenti\u00eble nummers, allemaal in \u00e9\u00e9n playlist.",
-  "name": "This is Saweetie",
+  "description": "This is Saweetie\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is Saweetie",
   "tracks": [
     {
       "album": {
@@ -503,7 +503,7 @@
     },
     {
       "album": {
-        "name": "Between Us - The Mixers Edition",
+        "name": "Between Us (The Mixers Edition)",
         "url": "https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz"
       },
       "artists": [
@@ -1114,6 +1114,28 @@
       "duration_ms": 152973,
       "name": "Is It The Way - Instrumental",
       "url": "https://open.spotify.com/track/6fqSqPLgogFGTJEqQsk8Ee"
+    },
+    {
+      "album": {
+        "name": "Is It The Way (Sped Up/Slowed Down)",
+        "url": "https://open.spotify.com/album/1ilG8YrYagdujd6WmEGkPv"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Sped Up Songs + Nightcore",
+          "url": "https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137680,
+      "name": "Is It The Way - Sped Up",
+      "url": "https://open.spotify.com/track/2C3poNHUTTQVKpR8R1yNr7"
     },
     {
       "album": {

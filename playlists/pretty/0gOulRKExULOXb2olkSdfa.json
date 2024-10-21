@@ -6,7 +6,7 @@
     "name": "Noah",
     "url": "https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w"
   },
-  "snapshot_id": "AAAAIOM7rxz0laGmO3btozCMYlKKYPtV",
+  "snapshot_id": "AAAAITpOhx9jbQ/RBUwHWMfciUapP4tJ",
   "tracks": [
     {
       "added_at": "2021-10-07 06:32:38",
@@ -267,7 +267,7 @@
     {
       "added_at": "2021-11-02 18:24:28",
       "album": {
-        "name": "The Heart Goes to Heaven, The Head Goes to Hell",
+        "name": "The Heart Goes to Heaven, the Head Goes to Hell",
         "url": "https://open.spotify.com/album/19nAM8YpXFtHaAT9ZfTha4"
       },
       "artists": [
@@ -395,6 +395,26 @@
       "duration_ms": 179867,
       "name": "Play Date",
       "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
+    },
+    {
+      "added_at": "2024-10-20 07:39:29",
+      "album": {
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "IDGAF (with blackbear)",
+      "url": "https://open.spotify.com/track/4ZUpTMKPYFTfJqamWFU9Zv"
     }
   ],
   "unique_name": "im not gay but this doesnt help",

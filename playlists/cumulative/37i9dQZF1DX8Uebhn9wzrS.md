@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,113 songs - 3 day 8 hr 31 min
+2,115 songs - 3 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Belle](https://open.spotify.com/track/0MEOsyD7omIzdF4NRx0e1A) | [Lewis Harris](https://open.spotify.com/artist/7DKw2ggDruU4BrX1SFXvFS) | [Belle](https://open.spotify.com/album/2gstV10wAA8ERmTD3I5XjW) | 2:18 | 2022-04-22 | 2022-11-12 |
 | [beneath your feet](https://open.spotify.com/track/2liw1mIxDdw1d0D6tkFsXG) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [beneath your feet / balcony falls](https://open.spotify.com/album/6kMAkZyLnbPHnxvtOY7kG0) | 2:03 | 2022-12-16 |  |
 | [benice](https://open.spotify.com/track/0n5px9dEnPHgNMEJk8F2MH) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [benice](https://open.spotify.com/album/0orBbi62RzgLybgEdzxZm8) | 2:22 | 2024-07-05 |  |
-| [Benidorm](https://open.spotify.com/track/667LRsRYxwLCOJB2DDoUOC) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Benidorm](https://open.spotify.com/album/6eCQmiuecEe2joDErnh7VW) | 2:11 | 2023-03-08 |  |
+| [Benidorm](https://open.spotify.com/track/667LRsRYxwLCOJB2DDoUOC) | [Florida Frank](https://open.spotify.com/artist/1XPs2qSUuafYCiqiCf6V3z) | [Benidorm](https://open.spotify.com/album/6eCQmiuecEe2joDErnh7VW) | 2:11 | 2023-03-08 | 2024-10-21 |
 | [Berries](https://open.spotify.com/track/3Ys5czkLkIeLDp7Ni2dmEm) | [hppn](https://open.spotify.com/artist/3x4ooPisTx63b4o62EHl8f) | [Berries](https://open.spotify.com/album/2T0LQAEmkqf9vhbuAKgYZm) | 1:02 | 2023-08-17 |  |
 | [Best to Find a Way](https://open.spotify.com/track/3aCZnIRPp0mq6ertaImb76) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Best to Find a Way](https://open.spotify.com/album/53ZcAa769XSaEC3Mcspr1W) | 1:43 | 2022-10-07 | 2023-01-13 |
 | [Better Life](https://open.spotify.com/track/32jgxWTiEcXChtfT4BdFyK) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [Better Life](https://open.spotify.com/album/43SGwBqaSpuOA5D9stfmLy) | 2:40 | 2022-04-15 | 2022-09-23 |
@@ -944,6 +944,7 @@
 | [Kazemachi](https://open.spotify.com/track/1vdwv5M0KqausGOtY1haBA) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG) | [Kazemachi](https://open.spotify.com/album/78ndGlppDmdIgWNDjA9tKr) | 2:01 | 2022-11-11 | 2023-09-16 |
 | [Keep It Calm](https://open.spotify.com/track/7Lk97jmCy6NLGoMOCliR25) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [Keep It Calm](https://open.spotify.com/album/0sSxZTHWKC6Cx8llgdP8zN) | 2:12 | 2024-09-06 | 2024-10-19 |
 | [Keep This Up \- Lo\-Fi](https://open.spotify.com/track/402DiXncs9aahnqrxurdg3) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg), [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3) | [Keep This up / High Regard / Empty Space \(Lo\-Fi\)](https://open.spotify.com/album/03YkledkBTxa5CC2NaqWhO) | 2:28 | 2022-04-15 | 2022-07-15 |
+| [keeping up appearances](https://open.spotify.com/track/0NLSPdAfVk8ArLAH0XqTWJ) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [keeping up appearances](https://open.spotify.com/album/6UMpw0PMtV73MOhsU5ohJ6) | 2:08 | 2024-10-18 |  |
 | [Keeps Me Wondering Why](https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Keeps Me Wondering Why](https://open.spotify.com/album/0nHwQFKQri8077vTVZrwHR) | 1:57 | 2023-02-06 |  |
 | [Ketanji](https://open.spotify.com/track/09I6fKxNZhPbvCxx4bmvCC) | [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh) | [Ketanji](https://open.spotify.com/album/5yQ0XpUlcwx8FyuEUTa6UN) | 2:42 | 2022-10-28 | 2023-01-20 |
 | [Key Moments](https://open.spotify.com/track/2oUl0kFSgm7x7zw9l1AdFA) | [Lo Roads](https://open.spotify.com/artist/3y47oXW2VlBFdRzhtNAXz2) | [Wonder](https://open.spotify.com/album/2ihvIaMmU9hc74O0R7SKSC) | 2:29 | 2022-04-15 | 2022-09-17 |
@@ -1648,6 +1649,7 @@
 | [Skyrisers](https://open.spotify.com/track/6l4OburkdTyyFVKAQ885mt) | [K\-Town Rollers](https://open.spotify.com/artist/4bzyVkMeEJtUOYFjMpSJd9) | [Skyrisers](https://open.spotify.com/album/6XbT7i6Nqj9RHounBHXHJ2) | 1:53 | 2022-11-18 | 2024-10-20 |
 | [Slay](https://open.spotify.com/track/6Rt2oplsgLFOyU4okO7zkJ) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Slay](https://open.spotify.com/album/0NEtzD2Zmrepd0H8lzn9Z3) | 2:21 | 2022-12-16 |  |
 | [sleep palace](https://open.spotify.com/track/4bDnBDaDdc9k3Hr1TNc7zP) | [Ramen Police](https://open.spotify.com/artist/0knrIAATZf0t428Hx8qmS9) | [sleep palace](https://open.spotify.com/album/1vXsP7xiL2Je9NuPFkn9Wa) | 3:06 | 2022-04-15 | 2022-07-01 |
+| [sleep tight](https://open.spotify.com/track/6K18f74xVdKOulHIO7iKqx) | [seeya](https://open.spotify.com/artist/4hAs0JKg5MGRdpdwzurMR9) | [sleep tight](https://open.spotify.com/album/6ZRMc50tIWcf7VWZlyKp9L) | 2:44 | 2024-10-18 |  |
 | [Sleeping Dragon](https://open.spotify.com/track/4S5Y7hfLeBV4JeNCSVesCJ) | [Ecobel](https://open.spotify.com/artist/4a2u0lWLCECK322dq8CJn1) | [Sleeping Dragon](https://open.spotify.com/album/1TEacGrU5KkL9IsA6Dbpi8) | 2:39 | 2022-12-02 | 2023-03-25 |
 | [Sleepwalking](https://open.spotify.com/track/4kh3haCMUw8labM1PRRJYb) | [FLU JIVERS](https://open.spotify.com/artist/2aLOsT7lgMGFs22JeXolng), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Sleepwalking](https://open.spotify.com/album/23t8Dd1yV098PZsgel640c) | 2:15 | 2024-10-04 | 2024-10-14 |
 | [Sleepy + Hungry](https://open.spotify.com/track/6ZhiAKKnfB9UVCkG5BSG08) | [Hood Banger](https://open.spotify.com/artist/7Gh2ugpqKKRBuyz6TU54e2) | [PEACE](https://open.spotify.com/album/3JBEOeDCFn4VswlfoIAILD) | 2:51 | 2022-09-02 | 2022-12-24 |
@@ -2084,7 +2086,7 @@
 | [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2023-10-13 |  |
 | [with you, at tumbledown](https://open.spotify.com/track/7IkViMZVcNjssk4VciHupJ) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [with you, at tumbledown](https://open.spotify.com/album/6ypKD7fpDXGDhYfYoQjlYw) | 2:57 | 2024-02-02 |  |
 | [With your eyes!](https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [With your eyes!](https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI) | 2:29 | 2023-11-17 |  |
-| [Woke](https://open.spotify.com/track/5EGp4crErFOKGNAr7bGtU6) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Woke](https://open.spotify.com/album/23iKhQwfBkYI5FOwrnMjar) | 1:42 | 2022-10-01 |  |
+| [Woke](https://open.spotify.com/track/5EGp4crErFOKGNAr7bGtU6) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Woke](https://open.spotify.com/album/23iKhQwfBkYI5FOwrnMjar) | 1:42 | 2022-10-01 | 2024-10-21 |
 | [wombat](https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [wombat](https://open.spotify.com/album/7111PKKgdMHNA21d8Y7VKA) | 2:53 | 2022-09-23 |  |
 | [Wonderful Times](https://open.spotify.com/track/2G00hkPjXrG0EUktsv7Pbc) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Wonderful Times](https://open.spotify.com/album/6QxZonwGmPwndaqt0khNDB) | 1:27 | 2022-04-15 | 2022-05-27 |
 | [Wondering 5](https://open.spotify.com/track/0z3W9J8aMBsAtNRfRDrGyY) | [Azera](https://open.spotify.com/artist/3muI7swfmpO7OmPROPjkdA) | [Ukulele](https://open.spotify.com/album/31seuRl1i2CyFkByfIFGex) | 1:55 | 2022-04-15 | 2022-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=hsb5g5ZaS96PhuAcn2Y47g">Nasty C</a>, <a href="https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR?si=fDmwHpAiRvWBC\-ueta\-cbQ">KindlyNxsh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,297 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,338 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

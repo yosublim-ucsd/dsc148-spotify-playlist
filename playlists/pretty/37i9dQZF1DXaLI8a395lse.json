@@ -1,6 +1,6 @@
 {
   "description": "Britpop, trip-hop, grunge and more from the other side of the 90s. Cover: The Cranberries",
-  "num_followers": 1317871,
+  "num_followers": 1318220,
   "original_name": "Alternative 90s",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,22 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Automatic For The People",
-        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "name": "Elizabeth Fraser",
+          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
         }
       ],
-      "duration_ms": 314173,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
+      "duration_ms": 330773,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -367,6 +371,22 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 314173,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 252266,
       "name": "Sour Times",
       "url": "https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "name": "Elizabeth Fraser",
-          "url": "https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
+        "name": "The Great Escape (Special Edition)",
+        "url": "https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 236960,
+      "name": "Country House - 2012 Remaster",
+      "url": "https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 199666,
       "name": "Sure Shot",
       "url": "https://open.spotify.com/track/21REQ1bCUWphT2QK3bLWYQ"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
-        "name": "The Great Escape (Special Edition)",
-        "url": "https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Country House - 2012 Remaster",
-      "url": "https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Elastica",
-        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
-      },
-      "artists": [
-        {
-          "name": "Elastica",
-          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
-        }
-      ],
-      "duration_ms": 140480,
-      "name": "Connection",
-      "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 461946,
       "name": "Tender",
       "url": "https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "Elastica",
+        "url": "https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ"
+      },
+      "artists": [
+        {
+          "name": "Elastica",
+          "url": "https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx"
+        }
+      ],
+      "duration_ms": 140480,
+      "name": "Connection",
+      "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Heaven or Las Vegas",
-        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Iceblink Luck",
-      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 236360,
       "name": "Let Forever Be",
       "url": "https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Iceblink Luck",
+      "url": "https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4KapcT8hGnauYnTSmxAkKh"
-      },
-      "artists": [
-        {
-          "name": "Happy Mondays",
-          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
-        }
-      ],
-      "duration_ms": 239493,
-      "name": "Kinky Afro",
-      "url": "https://open.spotify.com/track/2ItPID4dgSL1t1ZbZCrg5S"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
         "name": "All Change",
         "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 231733,
       "name": "Walkaway",
       "url": "https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4KapcT8hGnauYnTSmxAkKh"
+      },
+      "artists": [
+        {
+          "name": "Happy Mondays",
+          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
+        }
+      ],
+      "duration_ms": 239493,
+      "name": "Kinky Afro",
+      "url": "https://open.spotify.com/track/2ItPID4dgSL1t1ZbZCrg5S"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
+        "name": "Everything Must Go 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "A Design for Life - Remastered",
+      "url": "https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
         "name": "Superunknown",
         "url": "https://open.spotify.com/album/1xHWwGSoF1DNE4hqgBRkJX"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 257586,
       "name": "Needle In The Hay",
       "url": "https://open.spotify.com/track/1bFPKxP56XWDXJOwo3Kvfp"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
-        "name": "Everything Must Go 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "A Design for Life - Remastered",
-      "url": "https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
+        "name": "loveless",
+        "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 319160,
+      "name": "sometimes",
+      "url": "https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
         "name": "Maxinquaye (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "loveless",
-        "url": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb"
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
       },
       "artists": [
         {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 319160,
-      "name": "sometimes",
-      "url": "https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ"
+      "duration_ms": 140626,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -1047,22 +1063,6 @@
       "duration_ms": 312293,
       "name": "Unfinished Sympathy - Remastered 2006",
       "url": "https://open.spotify.com/track/10CiC7n8xCJJpbNcBpHsXc"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 140626,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
+        "name": "Gran Turismo",
+        "url": "https://open.spotify.com/album/4gNjfAA5axfUEBbHJoAKBO"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Erase / Rewind",
+      "url": "https://open.spotify.com/track/2oHmRO0X4gW4VlCJRcZzez"
+    },
+    {
+      "added_at": "2024-03-18 22:29:53",
+      "album": {
         "name": "Wake Up!",
         "url": "https://open.spotify.com/album/4Jw9nbFQEGEfB3RCwHqRNU"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 259666,
       "name": "Lucky You",
       "url": "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
-    },
-    {
-      "added_at": "2024-03-18 22:29:53",
-      "album": {
-        "name": "Gran Turismo",
-        "url": "https://open.spotify.com/album/4gNjfAA5axfUEBbHJoAKBO"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Erase / Rewind",
-      "url": "https://open.spotify.com/track/2oHmRO0X4gW4VlCJRcZzez"
     },
     {
       "added_at": "2024-03-18 22:29:53",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2024-03-18 22:29:53",
       "album": {
-        "name": "Dog Man Star (Remastered)",
-        "url": "https://open.spotify.com/album/1LgpJjBJIRQhkJ01oZR3Cn"
+        "name": "A Northern Soul (2016 Remastered / Deluxe)",
+        "url": "https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR"
       },
       "artists": [
         {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
         }
       ],
-      "duration_ms": 290293,
-      "name": "The Wild Ones (Remastered)",
-      "url": "https://open.spotify.com/track/10hLkl5k0NjO7QAJvoVzIy"
+      "duration_ms": 326093,
+      "name": "History - Remastered 2016",
+      "url": "https://open.spotify.com/track/52p8lRbIrKYjzwDMXgBVFO"
     }
   ],
   "unique_name": "Alternative 90s",

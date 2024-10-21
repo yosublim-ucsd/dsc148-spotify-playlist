@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Kesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,498 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,528 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 33 | [Red & Green](https://open.spotify.com/track/0OA9nGUWhcTXFjq70repQ0) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Red & Green](https://open.spotify.com/album/75zm0ijlN6oBLmd1i6l6F4) | 3:59 |
 | 34 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3040AHnjXSrUCJzmO0yhJz) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Kevin Dias](https://open.spotify.com/artist/3UBr7nFzZBhdtfghEZiOrp) | [Emily in Paris Season 4 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/79BnehvOChmwJkg3fbXNry) | 2:52 |
 | 35 | [Another Season Alone](https://open.spotify.com/track/68KuCs163Mp4z6O3CD7TrY) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Another Season Alone](https://open.spotify.com/album/4h3gqt64QYaWexOPgsufP8) | 3:12 |
-| 36 | [Red Christmas \- From "Descendants: The Rise of Red"](https://open.spotify.com/track/6PB4cjXAxH1YxXHzug7i7L) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Red Christmas \- From "Descendants: The Rise of Red"](https://open.spotify.com/album/3E9QzmjoJlNmwUNPt3aaDC) | 2:43 |
+| 36 | [Red Christmas \- From "Descendants: The Rise of Red"](https://open.spotify.com/track/6PB4cjXAxH1YxXHzug7i7L) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Red Christmas \(From "Descendants: The Rise of Red"\)](https://open.spotify.com/album/3E9QzmjoJlNmwUNPt3aaDC) | 2:43 |
 | 37 | [Silent Night](https://open.spotify.com/track/6ADnHfEQ3Bc9HqdFMlkFZM) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI) | 1:42 |
 | 38 | [Angels \(Glory To God\)](https://open.spotify.com/track/2Z10kVEtDJwjJsdJmKRxNi) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Angels \(Glory To God\)](https://open.spotify.com/album/2GYpoWJkp7M5q87410tEbb) | 3:43 |
 | 39 | [It's Christmas](https://open.spotify.com/track/205rj1MyclvbP8T2ppLhBx) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Joy To The World // It's Christmas](https://open.spotify.com/album/2Cvwzmfbf8VnhhXLvdsNT2) | 4:55 |

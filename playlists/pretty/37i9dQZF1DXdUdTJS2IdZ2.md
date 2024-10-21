@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: LAYYI
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,846 likes - 118 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,849 likes - 118 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 102 | [wanted you](https://open.spotify.com/track/3PPnxfNm0KIcP0vmTHklLi) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [wanted you](https://open.spotify.com/album/0ckTkTRmAJ2RTka6bybDGW) | 2:44 |
 | 103 | [海龜湯 \(極短篇影集《都市懼集》片尾曲\)](https://open.spotify.com/track/7cIuxCYNjnSAwEYzOXvuCM) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [海龜湯](https://open.spotify.com/album/4xOOatH9FMjWDAEYVoHZGU) | 3:30 |
 | 104 | [kembali](https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:12 |
-| 105 | [SAVADIII \(SG EDITION\) \- AK VALLY & Thambi Natta Remix](https://open.spotify.com/track/5fMb3hekUehr6GHWdo7F6b) | [JANGGO](https://open.spotify.com/artist/2jrF96ZZdfAKEnMOnIraxn), [AK VALLY](https://open.spotify.com/artist/7BQk3607za9yehaAKvNqRr), [Thambi Natta](https://open.spotify.com/artist/5fQTI3d5juxXlwfnWckJPH) | [SAVADIII \(SG EDITION\) \- AK VALLY & Thambi Natta Remix](https://open.spotify.com/album/7BJ3qVIFkTTAjau38JszQ3) | 3:05 |
+| 105 | [SAVADIII \(SG EDITION\) \- AK VALLY & Thambi Natta Remix](https://open.spotify.com/track/5fMb3hekUehr6GHWdo7F6b) | [JANGGO](https://open.spotify.com/artist/2jrF96ZZdfAKEnMOnIraxn), [AK VALLY](https://open.spotify.com/artist/7BQk3607za9yehaAKvNqRr), [Thambi Natta](https://open.spotify.com/artist/5fQTI3d5juxXlwfnWckJPH) | [SAVADIII \(SG EDITION\) \[AK VALLY & Thambi Natta Remix\]](https://open.spotify.com/album/7BJ3qVIFkTTAjau38JszQ3) | 3:05 |
 | 106 | [V\-01C3 \(Japanese Version\)](https://open.spotify.com/track/7DpUYuBLuuHqHFdAFiw1Ur) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [V\-01C3 \(Alternate Universe\)](https://open.spotify.com/album/3O2zSzoSnvzoSHIcegkS8Q) | 2:32 |
 | 107 | [kiss u there](https://open.spotify.com/track/7AkDyHuvur7ARUmH4bWfTS) | [Joy Alexis](https://open.spotify.com/artist/3RJBI40xC4OmwA0ZG026Bb) | [kiss u there](https://open.spotify.com/album/76AWwrWk7GU3zdlvxyDTIJ) | 2:56 |
 | 108 | [籽](https://open.spotify.com/track/5DS4Qmok9t8lYsbmDz4HQ3) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [籽](https://open.spotify.com/album/1UMDa5i5ASP7LxeFw4JvtW) | 3:45 |

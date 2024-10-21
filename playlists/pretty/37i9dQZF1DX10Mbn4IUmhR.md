@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The joy of Global and SA Pop\. Cover: <a href="https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ?si=vjWW04piRXa5FJ9uoYV2iA">SaxbyTwins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,380 likes - 52 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,379 likes - 52 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 38 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
 | 39 | [Emotions](https://open.spotify.com/track/3yao4TW2iXsnVuamiie54q) | [Ananya](https://open.spotify.com/artist/2Q32KkhT2YnVgCpAvrnhen) | [Emotions](https://open.spotify.com/album/7GdksUc0zywEeh2IXG2EL3) | 2:44 |
 | 40 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
-| 41 | [Over You \- with kidprod](https://open.spotify.com/track/5EaiFDJtBnLQOnseRadv3y) | [Helena Bowiee](https://open.spotify.com/artist/7hOo6y89ZTGJFpgknBgvPY), [kidprod](https://open.spotify.com/artist/1qWerMLMHQqUo3KzT1py3R) | [Over You \- with kidprod](https://open.spotify.com/album/1tDUKKQVX0n7aYfuKNr2uS) | 2:57 |
+| 41 | [Over You \- with kidprod](https://open.spotify.com/track/5EaiFDJtBnLQOnseRadv3y) | [Helena Bowiee](https://open.spotify.com/artist/7hOo6y89ZTGJFpgknBgvPY), [kidprod](https://open.spotify.com/artist/1qWerMLMHQqUo3KzT1py3R) | [Over You \(with kidprod\)](https://open.spotify.com/album/1tDUKKQVX0n7aYfuKNr2uS) | 2:57 |
 | 42 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 43 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
 | 44 | [Finding Your Way](https://open.spotify.com/track/71tTyEP5OGWkFb31uVO2Tb) | [SONIQUE](https://open.spotify.com/artist/4aEmFQl0nUAtz6Rb0QreCB) | [Finding Your Way](https://open.spotify.com/album/4XpGeTb0iZTkdNShIQi7kE) | 3:48 |

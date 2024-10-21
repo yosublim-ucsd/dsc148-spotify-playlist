@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z?si=VcgCrDWERjmZOzQot\_HNbA>Solly Moholo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,401 likes - 100 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,535 likes - 100 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

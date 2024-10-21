@@ -1,6 +1,6 @@
 {
   "description": "Complex rhythms and mesmerizing loops. Cover: Stegosauro",
-  "num_followers": 185861,
+  "num_followers": 185922,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "If It Hadn't Ended Then, It Would've Ended Now (2023)",
-        "url": "https://open.spotify.com/album/4Ft3QViqXzQtEi7pScuGg3"
-      },
-      "artists": [
-        {
-          "name": "The Year End",
-          "url": "https://open.spotify.com/artist/3TAbCYRVx4d1HX3BNfK4KR"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "If It Hadn't Ended Then, It Would've Ended Now - 2023",
-      "url": "https://open.spotify.com/track/6VRllAKog8Hlnv4IG7iW1x"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 173106,
       "name": "Los Bajos Fondos",
       "url": "https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "If It Hadn't Ended Then, It Would've Ended Now (2023)",
+        "url": "https://open.spotify.com/album/4Ft3QViqXzQtEi7pScuGg3"
+      },
+      "artists": [
+        {
+          "name": "The Year End",
+          "url": "https://open.spotify.com/artist/3TAbCYRVx4d1HX3BNfK4KR"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "If It Hadn't Ended Then, It Would've Ended Now - 2023",
+      "url": "https://open.spotify.com/track/6VRllAKog8Hlnv4IG7iW1x"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Yum !!",
         "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 302869,
       "name": "Jazztas",
       "url": "https://open.spotify.com/track/6Zgvox4B5noLH83xf0ZiUC"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Asbestos Weak Hood",
-        "url": "https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1"
-      },
-      "artists": [
-        {
-          "name": "Narrow / Arrow",
-          "url": "https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE"
-        }
-      ],
-      "duration_ms": 182750,
-      "name": "Ruth Leslie (Cigregrets Pt. 1)",
-      "url": "https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Puentes",
         "url": "https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 226173,
       "name": "Crucemos los Puentes...",
       "url": "https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Asbestos Weak Hood",
+        "url": "https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1"
+      },
+      "artists": [
+        {
+          "name": "Narrow / Arrow",
+          "url": "https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "Ruth Leslie (Cigregrets Pt. 1)",
+      "url": "https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Psych!",
-        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
-      },
-      "artists": [
-        {
-          "name": "Shaolin",
-          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
-        }
-      ],
-      "duration_ms": 276551,
-      "name": "Aquabus",
-      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 245290,
       "name": "Habanero",
       "url": "https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Psych!",
+        "url": "https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD"
+      },
+      "artists": [
+        {
+          "name": "Shaolin",
+          "url": "https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E"
+        }
+      ],
+      "duration_ms": 276551,
+      "name": "Aquabus",
+      "url": "https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Kiev",
-        "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
-      },
-      "artists": [
-        {
-          "name": "The Polar Dream",
-          "url": "https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp"
-        }
-      ],
-      "duration_ms": 303516,
-      "name": "Caballos (Horses)",
-      "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Coordenadas",
         "url": "https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 209971,
       "name": "Andes",
       "url": "https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Kiev",
+        "url": "https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt"
+      },
+      "artists": [
+        {
+          "name": "The Polar Dream",
+          "url": "https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp"
+        }
+      ],
+      "duration_ms": 303516,
+      "name": "Caballos (Horses)",
+      "url": "https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
+        "name": "Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
+      },
+      "artists": [
+        {
+          "name": "FRDZ",
+          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
+        }
+      ],
+      "duration_ms": 141306,
+      "name": "Ausente",
+      "url": "https://open.spotify.com/track/5mZbQmUlpLaq5ZFSsGcVE6"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
         "name": "Ten Billion People",
         "url": "https://open.spotify.com/album/6KkbUhO6mLJSldvbSSK5h8"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 217826,
       "name": "Shiva",
       "url": "https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw"
-      },
-      "artists": [
-        {
-          "name": "FRDZ",
-          "url": "https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t"
-        }
-      ],
-      "duration_ms": 141306,
-      "name": "Ausente",
-      "url": "https://open.spotify.com/track/5mZbQmUlpLaq5ZFSsGcVE6"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1511,6 +1511,22 @@
       "duration_ms": 385360,
       "name": "Teratology",
       "url": "https://open.spotify.com/track/7e27JuhzIHIN2p2C6PpGU1"
+    },
+    {
+      "added_at": "2024-09-20 00:01:00",
+      "album": {
+        "name": "Caballeros del Albedr\u00edo",
+        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 138400,
+      "name": "El Hombre P\u00e1nico",
+      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
     },
     {
       "added_at": "2024-09-20 00:01:00",
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Caballeros del Albedr\u00edo",
-        "url": "https://open.spotify.com/album/0BdAM5a8EHS92VtY6Qa4nz"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 138400,
-      "name": "El Hombre P\u00e1nico",
-      "url": "https://open.spotify.com/track/0Wilr5Nh89RR5zhrd5UHXM"
-    },
-    {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
         "name": "Abajo la tarea",
         "url": "https://open.spotify.com/album/5bKVoIF91dAbfAXig1HVnc"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Medium Bastard",
-        "url": "https://open.spotify.com/album/6HppO1aQwoT69S9StRzBns"
+        "name": "Fontana Bella",
+        "url": "https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc"
       },
       "artists": [
         {
-          "name": "You Slut!",
-          "url": "https://open.spotify.com/artist/57FhnNHVDTmK7wsrNAq84o"
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
         }
       ],
-      "duration_ms": 182920,
-      "name": "Fifzteen",
-      "url": "https://open.spotify.com/track/0rhPij0wU67nYjY94HJiJa"
+      "duration_ms": 284413,
+      "name": "Voces iluminadas por sonrientes",
+      "url": "https://open.spotify.com/track/1O1fDYgOOTKbMV1eeRCPk8"
     }
   ],
   "unique_name": "Math Rock",

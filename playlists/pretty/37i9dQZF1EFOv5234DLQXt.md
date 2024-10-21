@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,691 likes - 115 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,691 likes - 112 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,16 +112,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOv5234DLQXt.md) - [plain]
 | 102 | [Alma](https://open.spotify.com/track/4FiMp3twUOLFDsykcuo91B) | [Errantes](https://open.spotify.com/artist/7jNF4TviolIjLzbtFakbP3) | [Eclipse](https://open.spotify.com/album/2sn37txsdMSRHxgqyHp5pS) | 3:16 |
 | 103 | [Primavera 0](https://open.spotify.com/track/0WlNHBQcIVDZHOJJn7BHOG) | [La Nueva Ley](https://open.spotify.com/artist/1fPW3fydAPZMV2d9KVYuBc) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 2:09 |
 | 104 | [Nuestra Fe](https://open.spotify.com/track/4F2Po6tDXcT6ejGUB8dpuX) | [Ultrageno](https://open.spotify.com/artist/6qKcI08g7hZPQjduSjbKW7) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 2:57 |
-| 105 | [Ecos](https://open.spotify.com/track/1N4qe1XiNVPZy9GHONsL0r) | [Mono Zen](https://open.spotify.com/artist/2yYgYmwntCDXtbdhIRyDtE) | [Gustavo Stereo](https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV) | 5:15 |
-| 106 | [No Existes](https://open.spotify.com/track/1b0ukKuDnUYd8Bwu4NyJh3) | [Timmy O'Tool](https://open.spotify.com/artist/1xqWCLWfpLPFtASqT4xNmc) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 2:57 |
-| 107 | [Raiz](https://open.spotify.com/track/405X09dZAt6d4bATowZk65) | [Indra T\. Syoji](https://open.spotify.com/artist/1hwDcwT1qdHdajBSpy1uyi) | [Gustavo Stereo](https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV) | 4:31 |
-| 108 | [Verbo Carne](https://open.spotify.com/track/79Bue5GL12T9LhtrEqctzu) | [Galzandorj](https://open.spotify.com/artist/0HeB1kD4ozOjYvbLFuGUz1) | [Gustavo Stereo](https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV) | 4:53 |
-| 109 | [Convoy \(Cover\)](https://open.spotify.com/track/0KdHqF8l0XyDU4b6jb93l8) | [Malabares](https://open.spotify.com/artist/73IbUkj1P6fbxKRWWZdtRe) | [Esperando Algún Domingo Que Nos Calme](https://open.spotify.com/album/62KGWVge47U7DcusxyuUCu) | 2:53 |
-| 110 | [Toma la Ruta](https://open.spotify.com/track/7zdJCzMxeQotCBI2HkB0PP) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 5:05 |
-| 111 | [Lo Que Sangra \(La Cupula\) \[Made Popular By Soda Stereo\] \[Karaoke Version\]](https://open.spotify.com/track/2lHEeVNLhNvbPrhUfPvkWt) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Rock Hits 2](https://open.spotify.com/album/3CzO83NnQvH7AdBrJQ3pue) | 4:30 |
-| 112 | [Camaleon \(Made Popular By Soda Stereo\) \[Karaoke Version\]](https://open.spotify.com/track/768Pi3D4szxbs5cRwADHqR) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Rock Hits 1](https://open.spotify.com/album/04GN3VL8wlFoUHD5MRmdLD) | 4:25 |
-| 113 | [Uno Entre Mil](https://open.spotify.com/track/6acGFk7EsZFCzgziXulVFM) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 3:53 |
-| 114 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
-| 115 | [Ameba](https://open.spotify.com/track/3ECr0mjuB8aN7IIlRIRlsA) | [BLACK NOUGAT](https://open.spotify.com/artist/5LkcF1aQUBHs2rJp07DBlC) | [Some Argie Rock](https://open.spotify.com/album/18NMhBWcnzfTXyNrg12Yju) | 4:27 |
+| 105 | [No Existes](https://open.spotify.com/track/1b0ukKuDnUYd8Bwu4NyJh3) | [Timmy O'Tool](https://open.spotify.com/artist/1xqWCLWfpLPFtASqT4xNmc) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 2:57 |
+| 106 | [Convoy \(Cover\)](https://open.spotify.com/track/0KdHqF8l0XyDU4b6jb93l8) | [Malabares](https://open.spotify.com/artist/73IbUkj1P6fbxKRWWZdtRe) | [Esperando Algún Domingo Que Nos Calme](https://open.spotify.com/album/62KGWVge47U7DcusxyuUCu) | 2:53 |
+| 107 | [Toma la Ruta](https://open.spotify.com/track/7zdJCzMxeQotCBI2HkB0PP) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 5:05 |
+| 108 | [Lo Que Sangra \(La Cupula\) \[Made Popular By Soda Stereo\] \[Karaoke Version\]](https://open.spotify.com/track/2lHEeVNLhNvbPrhUfPvkWt) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Rock Hits 2](https://open.spotify.com/album/3CzO83NnQvH7AdBrJQ3pue) | 4:30 |
+| 109 | [Camaleon \(Made Popular By Soda Stereo\) \[Karaoke Version\]](https://open.spotify.com/track/768Pi3D4szxbs5cRwADHqR) | [Party Tyme Karaoke](https://open.spotify.com/artist/3JoDcjZtpq0ccldFgYmeAB) | [Party Tyme Karaoke \- Latin Rock Hits 1](https://open.spotify.com/album/04GN3VL8wlFoUHD5MRmdLD) | 4:25 |
+| 110 | [Uno Entre Mil](https://open.spotify.com/track/6acGFk7EsZFCzgziXulVFM) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 3:53 |
+| 111 | [Caravana](https://open.spotify.com/track/7xlM9YL6XDJpMhFdgRxftR) | [Relapso](https://open.spotify.com/artist/2TqxIOZGT5ir3F58WmCl4Z) | [Relapso](https://open.spotify.com/album/4i7xuNkPEWqlcBx31IKjq1) | 4:18 |
+| 112 | [Ameba](https://open.spotify.com/track/3ECr0mjuB8aN7IIlRIRlsA) | [BLACK NOUGAT](https://open.spotify.com/artist/5LkcF1aQUBHs2rJp07DBlC) | [Some Argie Rock](https://open.spotify.com/album/18NMhBWcnzfTXyNrg12Yju) | 4:27 |
 
-Snapshot ID: `AbfOyAAAAADCl0bKqkP89tqVs06MEi8O`
+Snapshot ID: `AbfUaAAAAABwstQR5/di+S2XokIzcpVs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Dean Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,878 likes - 91 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,928 likes - 91 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 51 | [SAVIOR](https://open.spotify.com/track/4qUlp9rJtbi9gBZa2Ie3Xx) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [SAVIOR](https://open.spotify.com/album/5LGgXesk13CEHDW2uBuEJh) | 2:48 |
 | 52 | [B Somebody](https://open.spotify.com/track/3X74B55XKoP8mEPmyZlBvW) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [B Somebody](https://open.spotify.com/album/7xmebVjjWoxe8SydTu49PF) | 2:52 |
 | 53 | [Science](https://open.spotify.com/track/3EnSk5tzmZn4DDLjidGylq) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Science](https://open.spotify.com/album/3mEOr6rAmAzLRAQNCUqhLE) | 3:55 |
-| 54 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:57 |
+| 54 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 55 | [Smoke](https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Smoke](https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf) | 3:03 |
 | 56 | [Different Dreams](https://open.spotify.com/track/48YqA2znPD02vKyWHxRFTP) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Different Dreams](https://open.spotify.com/album/3oY4wpZLHeAS61Zku5nFha) | 2:56 |
 | 57 | [Call You Mine](https://open.spotify.com/track/71JJBvDh1CnqEpupd4DKIV) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Call You Mine](https://open.spotify.com/album/7CFp2qe0xlpcqqIBg6y0Bd) | 2:38 |

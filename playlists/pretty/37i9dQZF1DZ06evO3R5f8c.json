@@ -1,12 +1,12 @@
 {
-  "description": "This Is Black Coffee. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
-  "num_followers": 151331,
+  "description": "This is Black Coffee. The essential tracks, all in one playlist.",
+  "num_followers": 151422,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGlAAAAAABSdRTJDj73qRMPL2WVxmJG",
+  "snapshot_id": "ZxL2gAAAAAA/dFLDqw1urbK/vqBQGmOC",
   "tracks": [
     {
       "added_at": null,
@@ -152,13 +152,17 @@
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/38HQUXPU9vnrA8TbkUtTIQ"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 268886,
-      "name": "Ready For You (feat. Celeste)",
-      "url": "https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI"
+      "duration_ms": 199768,
+      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
     },
     {
       "added_at": null,
@@ -228,17 +232,13 @@
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/38HQUXPU9vnrA8TbkUtTIQ"
         }
       ],
-      "duration_ms": 199768,
-      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
-      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
+      "duration_ms": 268886,
+      "name": "Ready For You (feat. Celeste)",
+      "url": "https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI"
     },
     {
       "added_at": null,

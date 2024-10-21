@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,026 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,022 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 26 | [It Happens Either Way](https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [It Happens Either Way](https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3) | 3:32 |
 | 27 | [ich weiß, dass du das weißt](https://open.spotify.com/track/4Lz4wDl7cNPpoTexcV15tL) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [ich weiß, dass du das weißt](https://open.spotify.com/album/0YABVXhXX56gkRfYqxzmZp) | 2:35 |
 | 28 | [Der Moment archiviert](https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Der Moment archiviert](https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1) | 2:36 |
-| 29 | [l.o.v.e.](https://open.spotify.com/track/0gqjiN4uy0hjfZy4WvZNia) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [l.o.v.e.](https://open.spotify.com/album/6VguxmxAC2heOkIl9euhhp) | 3:05 |
-| 30 | [Feel zu spät](https://open.spotify.com/track/1ZX6OhzVKjYe51XRnBe3yu) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Feel zu spät](https://open.spotify.com/album/7gnkgzRsyk0XaQGOcfmmn4) | 3:07 |
+| 29 | [Feel zu spät](https://open.spotify.com/track/1ZX6OhzVKjYe51XRnBe3yu) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Feel zu spät](https://open.spotify.com/album/7gnkgzRsyk0XaQGOcfmmn4) | 3:07 |
+| 30 | [l.o.v.e.](https://open.spotify.com/track/0gqjiN4uy0hjfZy4WvZNia) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [l.o.v.e.](https://open.spotify.com/album/6VguxmxAC2heOkIl9euhhp) | 3:05 |
 | 31 | [zu nice](https://open.spotify.com/track/4f6F4iyK1ch99R9Ev5A5Ap) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [zu nice](https://open.spotify.com/album/1ekxM56u9lniNHX0DlSmgL) | 2:42 |
 | 32 | [Was hab ich nur getan?](https://open.spotify.com/track/1WyGuO8jJI4TmAp2ERorb5) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ), [Nicola Rost](https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg) | [Was hab ich nur getan?](https://open.spotify.com/album/1icJ1tybkmg30fkU1v1qOA) | 2:52 |
 | 33 | [Hardcore Workout Queen](https://open.spotify.com/track/7K01ebFNRoaVAogSU8gPiM) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hardcore Workout Queen](https://open.spotify.com/album/68pRFIG5YFIYuMkDmApgg1) | 4:54 |

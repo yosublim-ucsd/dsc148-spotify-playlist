@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 167062,
+  "num_followers": 167111,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,26 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "A Lovely Night",
+      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Whiplash (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 179760,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/3WKnfkgwrARwElktHSU5Ik"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "La La Land (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        },
-        {
-          "name": "Emma Stone",
-          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "A Lovely Night",
-      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Blade Runner (Music From The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "One More Kiss, Dear",
-      "url": "https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Whiplash (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 199466,
       "name": "Overture - From \"Whiplash\"",
       "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "One More Kiss, Dear",
+      "url": "https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -375,6 +375,26 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "The Jungle Book - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm"
+      },
+      "artists": [
+        {
+          "name": "Bill Murray",
+          "url": "https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1"
+        },
+        {
+          "name": "Kermit Ruffins",
+          "url": "https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "The Bare Necessities",
+      "url": "https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Anatomy of a Murder",
         "url": "https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK"
       },
@@ -391,7 +411,7 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Moonstruck - Original Motion Picture Soundtrack",
+        "name": "Moonstruck (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
       },
       "artists": [
@@ -415,26 +435,6 @@
       "duration_ms": 267640,
       "name": "Musetta's Waltz",
       "url": "https://open.spotify.com/track/1FvMURFQ8Ca7A5sdRVuMir"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "The Jungle Book - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm"
-      },
-      "artists": [
-        {
-          "name": "Bill Murray",
-          "url": "https://open.spotify.com/artist/3wkZ8WTrs7WcfE13voUCK1"
-        },
-        {
-          "name": "Kermit Ruffins",
-          "url": "https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "The Bare Necessities",
-      "url": "https://open.spotify.com/track/6fIKi0kU1gZwyNGMlE4Zl6"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "La Dolce Vita / La Bella Malinconica",
+      "url": "https://open.spotify.com/track/3GRGACEHWI4cYbJvoIp5gD"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Taxi Driver",
         "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 282200,
       "name": "A Reluctant Hero / Betsy / End Credits",
       "url": "https://open.spotify.com/track/1bbqHoPIr5qHUBcTq6i3NZ"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
-      },
-      "artists": [
-        {
-          "name": "Nino Rota",
-          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "La Dolce Vita / La Bella Malinconica",
-      "url": "https://open.spotify.com/track/3GRGACEHWI4cYbJvoIp5gD"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/3G9pKQL2daAyy4BJDz5nAw"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "The Big Kahuna (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0a9i86wh0eV8cj0IlfW4hf"
       },
@@ -679,6 +663,38 @@
       "duration_ms": 158533,
       "name": "Charade",
       "url": "https://open.spotify.com/track/5Jl8bMn0bt7rG1ugDZUvqA"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
+      },
+      "artists": [
+        {
+          "name": "Bernard Herrmann",
+          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
+        }
+      ],
+      "duration_ms": 101466,
+      "name": "Thank God for the Rain",
+      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/3G9pKQL2daAyy4BJDz5nAw"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -715,6 +731,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Bigger Than Us",
+      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Daily Battles (From Motherless Brooklyn: Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6EqM2rlOCixg83ma0o4uDB"
       },
@@ -747,22 +779,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP"
-      },
-      "artists": [
-        {
-          "name": "Bernard Herrmann",
-          "url": "https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9"
-        }
-      ],
-      "duration_ms": 101466,
-      "name": "Thank God for the Rain",
-      "url": "https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Music From Peter Gunn",
         "url": "https://open.spotify.com/album/6MC1PGnqkoY5tpnCiANpg2"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 107034,
       "name": "The Thrombey Family Theme",
       "url": "https://open.spotify.com/track/0Enx3TsvhCkP3Ip1XU6PoO"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 111266,
-      "name": "Bigger Than Us",
-      "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -851,38 +851,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 180677,
-      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 4 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/5dHLPt7OofZXs8hG1tJjyC"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Bossa Nova (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2SJvJ5VhlstKHuNhhizy3B"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 323426,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/2mtyh0yAPdSm79JJwpB2KW"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -899,6 +867,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 180677,
+      "name": "Nuit sur les Champs-\u00c9lys\u00e9es - Take 4 - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/5dHLPt7OofZXs8hG1tJjyC"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "You've Got Mail",
         "url": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 181200,
       "name": "You Made Me Love You",
       "url": "https://open.spotify.com/track/3BnNBpWgZfbQ3TyuioWAku"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Bossa Nova (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2SJvJ5VhlstKHuNhhizy3B"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 323426,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/2mtyh0yAPdSm79JJwpB2KW"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1003,7 +1003,7 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Moonstruck - Original Motion Picture Soundtrack",
+        "name": "Moonstruck (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
       },
       "artists": [
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        }
+      ],
+      "duration_ms": 344226,
+      "name": "Blues / La Dolce Vita Dei Nobili",
+      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
         "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 197333,
       "name": "It Had To Be You",
       "url": "https://open.spotify.com/track/1LKN5pN5RyB9NCdE7ANvMN"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
-      },
-      "artists": [
-        {
-          "name": "Nino Rota",
-          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
-        }
-      ],
-      "duration_ms": 344226,
-      "name": "Blues / La Dolce Vita Dei Nobili",
-      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Who Framed Roger Rabbit",
-        "url": "https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD"
-      },
-      "artists": [
-        {
-          "name": "Alan Silvestri",
-          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
-        }
-      ],
-      "duration_ms": 322826,
-      "name": "Eddie's Theme",
-      "url": "https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "You've Got Mail",
         "url": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 364613,
       "name": "Fair Weather",
       "url": "https://open.spotify.com/track/2RRtTdnhPHrpFgHW60IoMl"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Who Framed Roger Rabbit",
+        "url": "https://open.spotify.com/album/5LImaGrhreK6vtqqbZmdiD"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "duration_ms": 322826,
+      "name": "Eddie's Theme",
+      "url": "https://open.spotify.com/track/37vJYapqRfu9eRfAymsPhH"
     },
     {
       "added_at": "2024-06-14 07:09:21",

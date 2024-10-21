@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Morat
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,472 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,486 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cp1suxagma.md) - [plain]
 | 3 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 |
 | 4 | [Summer En París](https://open.spotify.com/track/3uunvMbxsCZmzgHmOJJe4Y) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Summer En París](https://open.spotify.com/album/3qLo8V07kEVNmjuklblbk5) | 3:05 |
 | 5 | [Los Domingos](https://open.spotify.com/track/40Ne4Y9gf5fdZyy7WDZhQu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Los Domingos](https://open.spotify.com/album/0evo6xjBKMBkUJ9yUQx1EZ) | 3:34 |
-| 6 | [ERES \- Lado B](https://open.spotify.com/track/2mVYNz95eZ5MPrAZWLfEvT) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [ERES \- Lado B](https://open.spotify.com/album/5U16JEDoxaUgEgWbMTy682) | 2:57 |
+| 6 | [ERES \- Lado B](https://open.spotify.com/track/2mVYNz95eZ5MPrAZWLfEvT) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [ERES \(Lado B\)](https://open.spotify.com/album/5U16JEDoxaUgEgWbMTy682) | 2:57 |
 | 7 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
 | 8 | [Tus Mejores Días](https://open.spotify.com/track/5lommDP2j9oFKKEaaoLzc1) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Tus Mejores Días](https://open.spotify.com/album/5elwCEtmwG7h8A8DqwuLEq) | 3:21 |
 | 9 | [Solo Tuyo \- Versión Acústica](https://open.spotify.com/track/7HkP1m0ldONAhutDx1teju) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Solo Tuyo](https://open.spotify.com/album/3YUrhJt9OHldgoQsCJMrLD) | 3:14 |

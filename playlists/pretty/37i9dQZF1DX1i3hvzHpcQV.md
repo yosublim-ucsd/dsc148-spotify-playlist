@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Vettaiyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 896,677 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 897,268 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Manasilaayo \(From "Vettaiyan"\)](https://open.spotify.com/track/7KB0zREYCrQU3refE5x0M3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Yugendran Vasudevan](https://open.spotify.com/artist/3UVLcqHc3pOMsWiZv2MeIZ) | [Manasilaayo \- From "Vettaiyan"](https://open.spotify.com/album/1EWbkJ8zew7sXQnCbKI0Xz) | 3:55 |
+| 1 | [Manasilaayo \(From "Vettaiyan"\)](https://open.spotify.com/track/7KB0zREYCrQU3refE5x0M3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Malaysia Vasudevan](https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW), [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Yugendran Vasudevan](https://open.spotify.com/artist/3UVLcqHc3pOMsWiZv2MeIZ) | [Manasilaayo \(From "Vettaiyan"\)](https://open.spotify.com/album/1EWbkJ8zew7sXQnCbKI0Xz) | 3:55 |
 | 2 | [Water Packet \(From "Raayan"\)](https://open.spotify.com/track/1hHrBEkN0JIaeFPegy4Xak) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Gana Kadhar](https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh) | [Water Packet \(From "Raayan"\)](https://open.spotify.com/album/7JFHHTttxtJtGG9S2lAfob) | 4:06 |
 | 3 | [Aasa Kooda \- From "Think Indie"](https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sai Smriti](https://open.spotify.com/artist/139FRgoVcJ82jogPttiWcc) | [Aasa Kooda \(From "Think Indie"\)](https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5) | 3:35 |
 | 4 | [Matta](https://open.spotify.com/track/2hBFfxMw0RtEI5KsCJ7knh) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI), [Velu](https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4), [Sam](https://open.spotify.com/artist/5LTCGDYmszZxu2ybzDfb05), [Narayanan Ravishankar](https://open.spotify.com/artist/2eJunkotmRUe8mLJmqW8HD) | [The Greatest Of All Time](https://open.spotify.com/album/7qziZGdxIycvh71Oqjkpqo) | 3:32 |

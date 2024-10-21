@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,072,174 likes - 107 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,072,166 likes - 107 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 13 | [My Beautiful Girl](https://open.spotify.com/track/3tuzP0VTRq1be7QrbSmBMe) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [My Beautiful Girl](https://open.spotify.com/album/0tasLYViIeiNn7GfozOJ71) | 2:13 |
 | 14 | [Dust](https://open.spotify.com/track/6hEzCqKXYhxSUQy29whWrV) | [Caroline Says](https://open.spotify.com/artist/10U1DbsjhgAqUMcouK267Q) | [Dust](https://open.spotify.com/album/7xRv3n9tbW9meJ00lMwQlq) | 1:51 |
 | 15 | [Midnight Oil](https://open.spotify.com/track/7kxHjAiIYCM3vU8BA9a6Qe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Scarlet Lamb](https://open.spotify.com/album/5usTfd8cfuQttU2w3Eh0q3) | 3:26 |
-| 16 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \- Deluxe](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
+| 16 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 |
 | 17 | [A Thousand Years](https://open.spotify.com/track/0VgDXkaNfs91oTrEsQl7nK) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [A Thousand Years](https://open.spotify.com/album/3BGuXThsGr0XvIFWPVRkhD) | 3:32 |
 | 18 | [Bug](https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:02 |
 | 19 | [Common Loon](https://open.spotify.com/track/47p4foGvTX0taO97ZsJWZz) | [Xiu Xiu](https://open.spotify.com/artist/5JLqvjW3Nyom2OsRUyFsS9) | [13" Frank Beltrame Italian Stiletto with Bison Horn Grips](https://open.spotify.com/album/26lGRXjjQ6nET30Z5CAaGt) | 3:31 |

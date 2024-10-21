@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1346162,
+  "num_followers": 1346245,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Jace Everett",
         "url": "https://open.spotify.com/album/2bxVJbSsv2ldVqjnX58DtE"
       },
@@ -255,6 +239,42 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "No Good",
+        "url": "https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        },
+        {
+          "name": "Vinyl on HBO",
+          "url": "https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
       },
@@ -291,26 +311,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "No Good",
-        "url": "https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        },
-        {
-          "name": "Vinyl on HBO",
-          "url": "https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "The Dull Drums - EP",
         "url": "https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf"
       },
@@ -323,22 +323,6 @@
       "duration_ms": 176146,
       "name": "Glitter & Gold",
       "url": "https://open.spotify.com/track/1aJtyIMev4kW8IMUxOjn1Y"
-    },
-    {
-      "added_at": "2024-08-23 15:42:05",
-      "album": {
-        "name": "Unreal Unearth: Unaired",
-        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 178196,
-      "name": "Empire Now",
-      "url": "https://open.spotify.com/track/6WIctLx62k1gJALmLe7rXj"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -421,6 +405,22 @@
       "url": "https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn"
     },
     {
+      "added_at": "2024-08-23 15:42:05",
+      "album": {
+        "name": "Unreal Unearth: Unaired",
+        "url": "https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 178196,
+      "name": "Empire Now",
+      "url": "https://open.spotify.com/track/6WIctLx62k1gJALmLe7rXj"
+    },
+    {
       "added_at": "2024-08-23 15:39:31",
       "album": {
         "name": "Avalanche",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Hawk",
-        "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
-      },
-      "artists": [
-        {
-          "name": "Isobel Campbell",
-          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
-        },
-        {
-          "name": "Mark Lanegan",
-          "url": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "Snake Song",
-      "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/3zxPi455ceNpbN55gBMSIu"
       },
@@ -495,18 +475,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Nina Cried Power - EP",
-        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+        "name": "Hawk",
+        "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Isobel Campbell",
+          "url": "https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq"
+        },
+        {
+          "name": "Mark Lanegan",
+          "url": "https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ"
         }
       ],
-      "duration_ms": 259253,
-      "name": "NFWMB",
-      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
+      "duration_ms": 168066,
+      "name": "Snake Song",
+      "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -575,6 +559,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Nina Cried Power - EP",
+        "url": "https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 259253,
+      "name": "NFWMB",
+      "url": "https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Troublemaker",
         "url": "https://open.spotify.com/album/4K2P5H65cGZMz9bFLPwCVd"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 212016,
       "name": "Troublemaker",
       "url": "https://open.spotify.com/track/1XDLcR3ykWZx7p0UmMoLKp"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "Be",
-      "url": "https://open.spotify.com/track/7hfi4ZTfV7akmGINh6qYCF"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -663,6 +647,38 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Wicked Ones",
+        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 172516,
+      "name": "Wicked Ones",
+      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "Be",
+      "url": "https://open.spotify.com/track/7hfi4ZTfV7akmGINh6qYCF"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Want",
         "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Wicked Ones",
-        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
+        "name": "Back in '06",
+        "url": "https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+          "name": "The Parlor Mob",
+          "url": "https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV"
         }
       ],
-      "duration_ms": 172516,
-      "name": "Wicked Ones",
-      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
+      "duration_ms": 191413,
+      "name": "Carnival of Crows '06",
+      "url": "https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -723,22 +739,6 @@
       "duration_ms": 273866,
       "name": "Smoke Rising",
       "url": "https://open.spotify.com/track/54d6U1U3Y74mDmJJECZNNQ"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Back in '06",
-        "url": "https://open.spotify.com/album/4U313heRCOXknbLrnl0nb3"
-      },
-      "artists": [
-        {
-          "name": "The Parlor Mob",
-          "url": "https://open.spotify.com/artist/1U4d20oJAq9aLa2mhDGwVV"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Carnival of Crows '06",
-      "url": "https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z"
     },
     {
       "added_at": "2024-08-23 15:39:31",

@@ -1,6 +1,6 @@
 {
   "description": "CADU entra na zona. ",
-  "num_followers": 181660,
+  "num_followers": 181689,
   "original_name": "Na Zona",
   "owner": {
     "name": "Spotify",
@@ -947,7 +947,7 @@
     {
       "added_at": "2024-10-17 23:00:00",
       "album": {
-        "name": "Priceless",
+        "name": "Priceless (feat. Kibow, Julinho KSD & Yuran)",
         "url": "https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb"
       },
       "artists": [
@@ -958,10 +958,26 @@
         {
           "name": "Ivandro",
           "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Trista",
+          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
+        },
+        {
+          "name": "Kibow",
+          "url": "https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Yuran",
+          "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
         }
       ],
       "duration_ms": 212727,
-      "name": "Priceless",
+      "name": "Priceless (feat. Kibow, Julinho KSD & Yuran)",
       "url": "https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2"
     },
     {
@@ -1146,10 +1162,26 @@
         {
           "name": "Instinto 26",
           "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
+        },
+        {
+          "name": "Yuran",
+          "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
+        },
+        {
+          "name": "Trista",
+          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
+        },
+        {
+          "name": "Kibow",
+          "url": "https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M"
+        },
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
         }
       ],
       "duration_ms": 209708,
-      "name": "Loko Loko",
+      "name": "Loko Loko (feat. Kibow & Julinho KSD)",
       "url": "https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0"
     },
     {

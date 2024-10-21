@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1JctQodQRj.md) - [plain]
 
 > Let the daily stresses of the world melt away with this peaceful playlist, filled with the warm, comforting melodies of JS Bach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,215 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,271 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \- Pt\. 2](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
+| 1 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
 | 2 | [Violin Partita No\. 3 in E Major, BWV 1006: V\. Menuet II](https://open.spotify.com/track/5XwEXS9wgCLdspmaZQqPqg) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Hilary Hahn](https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX) | [Bach: Violin Partitas Nos\. 2, 3 & Violin Sonata No\. 3](https://open.spotify.com/album/312y2VY337Eazy3R3jRNOt) | 3:03 |
 | 3 | [Erbarm dich mein, o Herre Gott, BWV 721 \(Arr\. Thomas\)](https://open.spotify.com/track/34tSvebFYkq07xLMjuO8Y9) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Fred Thomas](https://open.spotify.com/artist/3lK5x1jZZM2Y8HzdZl4aCB), [Aisha Orazbayeva](https://open.spotify.com/artist/2GIvybDvsKlPHyGEaoBOhh), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9) | [J.S\. Bach: Three Or One \- Transcriptions by Fred Thomas](https://open.spotify.com/album/20Ct6OadhE0tt0zuePXyKi) | 4:46 |
 | 4 | [Herr Jesu Christ, mein's Lebens Licht, Chorale Setting for 4 Voices, BWV 335 \(Arr\. by Chad Lawson for Piano\)](https://open.spotify.com/track/5u8ZJK0O0mFp6ae2zcFElR) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Bach Interpreted: Piano Variations on Bach Chorales \(Deluxe Release\)](https://open.spotify.com/album/0oJH6uwQefBj2x8JSw0ddP) | 2:54 |

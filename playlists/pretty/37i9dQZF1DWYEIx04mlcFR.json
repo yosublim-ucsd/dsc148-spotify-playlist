@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Manu Beker en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79372,
+  "num_followers": 79365,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -235,7 +235,7 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "Desvelado - Cover",
+        "name": "Desvelado (Cover)",
         "url": "https://open.spotify.com/album/5gfUfRHdKkaXXYemTlpzea"
       },
       "artists": [
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "BAD INTENCIONES",
-        "url": "https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "BAD INTENCIONES",
-      "url": "https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX"
-    },
-    {
-      "added_at": "2024-10-18 21:26:24",
-      "album": {
         "name": "quiero estar contigo",
         "url": "https://open.spotify.com/album/7rnkMAuBAjIrYp9wPJJeVD"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 179500,
       "name": "Complicada",
       "url": "https://open.spotify.com/track/0KZD8Lryg3KbpuJhdWk8bP"
+    },
+    {
+      "added_at": "2024-10-18 21:26:24",
+      "album": {
+        "name": "BAD INTENCIONES",
+        "url": "https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "BAD INTENCIONES",
+      "url": "https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX"
     },
     {
       "added_at": "2024-10-18 21:26:24",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "Antisocial",
-        "url": "https://open.spotify.com/album/0ojvLswWgJky4lzYB15dIk"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 139506,
-      "name": "Antisocial",
-      "url": "https://open.spotify.com/track/6tyPRxb4pktVdBPvGuroQW"
-    },
-    {
-      "added_at": "2024-10-18 21:26:24",
-      "album": {
         "name": "Fugazi",
         "url": "https://open.spotify.com/album/48WEloiqTGL9HOCNatbtw0"
       },
@@ -499,34 +483,18 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "ANGELA",
-        "url": "https://open.spotify.com/album/0kr1BUqZHJgDEW0PwFeklE"
+        "name": "El Crush",
+        "url": "https://open.spotify.com/album/0AXvsimNkl1hQ7OFr2FSxm"
       },
       "artists": [
         {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+          "name": "Alan Navarro",
+          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
         }
       ],
-      "duration_ms": 159529,
-      "name": "ACELERA2!",
-      "url": "https://open.spotify.com/track/4qqteHNjI8NlXColeoIm8x"
-    },
-    {
-      "added_at": "2024-10-18 21:26:24",
-      "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
+      "duration_ms": 148986,
+      "name": "El Crush",
+      "url": "https://open.spotify.com/track/5dzakAiRvtFpCx5NtWVb10"
     },
     {
       "added_at": "2024-10-18 21:26:24",
@@ -563,34 +531,50 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "El Crush",
-        "url": "https://open.spotify.com/album/0AXvsimNkl1hQ7OFr2FSxm"
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
       },
       "artists": [
         {
-          "name": "Alan Navarro",
-          "url": "https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH"
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 148986,
-      "name": "El Crush",
-      "url": "https://open.spotify.com/track/5dzakAiRvtFpCx5NtWVb10"
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "entre las piernas",
-        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
+        "name": "Antisocial",
+        "url": "https://open.spotify.com/album/0ojvLswWgJky4lzYB15dIk"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
         }
       ],
-      "duration_ms": 211454,
-      "name": "entre las piernas",
-      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
+      "duration_ms": 139506,
+      "name": "Antisocial",
+      "url": "https://open.spotify.com/track/6tyPRxb4pktVdBPvGuroQW"
+    },
+    {
+      "added_at": "2024-10-18 21:26:24",
+      "album": {
+        "name": "ANGELA",
+        "url": "https://open.spotify.com/album/0kr1BUqZHJgDEW0PwFeklE"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 159529,
+      "name": "ACELERA2!",
+      "url": "https://open.spotify.com/track/4qqteHNjI8NlXColeoIm8x"
     },
     {
       "added_at": "2024-10-18 21:26:24",
@@ -607,6 +591,22 @@
       "duration_ms": 184200,
       "name": "M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b"
+    },
+    {
+      "added_at": "2024-10-18 21:26:24",
+      "album": {
+        "name": "entre las piernas",
+        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 211454,
+      "name": "entre las piernas",
+      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
     },
     {
       "added_at": "2024-10-18 21:26:24",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "feliz a\u00f1o nuevo",
-        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "Oscar Plaza",
-          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
-        }
-      ],
-      "duration_ms": 163451,
-      "name": "feliz a\u00f1o nuevo",
-      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
-    },
-    {
-      "added_at": "2024-10-18 21:26:24",
-      "album": {
         "name": "Club 614",
         "url": "https://open.spotify.com/album/6bUyVi8PXGQQObGzCmcPX2"
       },
@@ -879,18 +859,22 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "\u00daltimo Intento",
-        "url": "https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d"
+        "name": "feliz a\u00f1o nuevo",
+        "url": "https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG"
       },
       "artists": [
         {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "Oscar Plaza",
+          "url": "https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U"
         }
       ],
-      "duration_ms": 174915,
-      "name": "\u00daltimo Intento",
-      "url": "https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt"
+      "duration_ms": 163451,
+      "name": "feliz a\u00f1o nuevo",
+      "url": "https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW"
     },
     {
       "added_at": "2024-10-18 21:26:24",
@@ -907,6 +891,62 @@
       "duration_ms": 170016,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7luTItMWT5N84eLmo9une9"
+    },
+    {
+      "added_at": "2024-10-18 21:26:24",
+      "album": {
+        "name": "\u00daltimo Intento",
+        "url": "https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "\u00daltimo Intento",
+      "url": "https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt"
+    },
+    {
+      "added_at": "2024-10-18 21:26:24",
+      "album": {
+        "name": "Lovesong",
+        "url": "https://open.spotify.com/album/6jZ3MV1NhGpf66dOtvTxJl"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "duration_ms": 155482,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/4zwd1ebXhAFsv06XZSmzHQ"
+    },
+    {
+      "added_at": "2024-10-18 21:26:24",
+      "album": {
+        "name": "odio esta casa (cuando te vas)",
+        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 194048,
+      "name": "odio esta casa (cuando te vas)",
+      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
     },
     {
       "added_at": "2024-10-18 21:26:24",
@@ -943,22 +983,6 @@
       "duration_ms": 221610,
       "name": "Noche Estrellada",
       "url": "https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG"
-    },
-    {
-      "added_at": "2024-10-18 21:26:24",
-      "album": {
-        "name": "odio esta casa (cuando te vas)",
-        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 194048,
-      "name": "odio esta casa (cuando te vas)",
-      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
     },
     {
       "added_at": "2024-10-18 21:26:24",
@@ -1023,30 +1047,6 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "Lovesong",
-        "url": "https://open.spotify.com/album/6jZ3MV1NhGpf66dOtvTxJl"
-      },
-      "artists": [
-        {
-          "name": "Malcriada",
-          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
-        },
-        {
-          "name": "Mathilde Sobrino",
-          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
-        },
-        {
-          "name": "Pepe Pecas",
-          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
-        }
-      ],
-      "duration_ms": 155482,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/4zwd1ebXhAFsv06XZSmzHQ"
-    },
-    {
-      "added_at": "2024-10-18 21:26:24",
-      "album": {
         "name": "Lunastasia 777",
         "url": "https://open.spotify.com/album/5mXcm7wpsBjMl4z6zvCLUY"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "1 veranito sad",
-        "url": "https://open.spotify.com/album/3921Wy45yiIeIHlMQmRcBQ"
-      },
-      "artists": [
-        {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
-        }
-      ],
-      "duration_ms": 168253,
-      "name": "1 veranito sad",
-      "url": "https://open.spotify.com/track/7f1hUoR7BI2yQQiRPOclHk"
-    },
-    {
-      "added_at": "2024-10-18 21:26:24",
-      "album": {
         "name": "AHORA O NUNCA",
         "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
@@ -1115,22 +1099,18 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "Pausa",
-        "url": "https://open.spotify.com/album/4j1zcBZbsfmuHeyUA5BxJN"
+        "name": "1 veranito sad",
+        "url": "https://open.spotify.com/album/3921Wy45yiIeIHlMQmRcBQ"
       },
       "artists": [
         {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        },
-        {
-          "name": "ANASOF",
-          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3ins7Wpq5xVFJi8wZdBAFI"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Pausa",
-      "url": "https://open.spotify.com/track/3LqB7Pppg3lZwwo7IoBh5Q"
+      "duration_ms": 168253,
+      "name": "1 veranito sad",
+      "url": "https://open.spotify.com/track/7f1hUoR7BI2yQQiRPOclHk"
     },
     {
       "added_at": "2024-10-18 21:26:24",
@@ -1171,6 +1151,26 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/4j1zcBZbsfmuHeyUA5BxJN"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/3LqB7Pppg3lZwwo7IoBh5Q"
+    },
+    {
+      "added_at": "2024-10-18 21:26:24",
+      "album": {
         "name": "odiarte",
         "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-10-18 21:26:24",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/69DwSn0YEE9YNqeszr0j6g"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/1TDuF3wpQ9pvQ6gwGV9GUc"
-    },
-    {
-      "added_at": "2024-10-18 21:26:24",
-      "album": {
         "name": "sobrenatural",
         "url": "https://open.spotify.com/album/2U5tY9lX0tBVmQz0VdZXJE"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 157440,
       "name": "sobrenatural",
       "url": "https://open.spotify.com/track/4zGXFMFwRCQfdBCtme3TuP"
+    },
+    {
+      "added_at": "2024-10-18 21:26:24",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/69DwSn0YEE9YNqeszr0j6g"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/1TDuF3wpQ9pvQ6gwGV9GUc"
     },
     {
       "added_at": "2024-10-18 21:26:24",

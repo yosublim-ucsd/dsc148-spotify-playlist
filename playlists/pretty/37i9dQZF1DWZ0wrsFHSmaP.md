@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Jada Weazel
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,798 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,799 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 22 | [Land Back Era](https://open.spotify.com/track/7EdGwVcsgAijq5wcqZcU5e) | [ALETHEA](https://open.spotify.com/artist/51wPGOkikIJ7WY1U2DTbIp) | [Meet Your Maker \- The Era's Soundtrack](https://open.spotify.com/album/4COEsyDYzZ424xGETOS8lv) | 3:59 |
 | 23 | [Say It Loud](https://open.spotify.com/track/2lTtBmOvcltVtyzVgnrC6B) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Say It Loud](https://open.spotify.com/album/721bCwCtkwVeSwtWQO6qJJ) | 3:33 |
 | 24 | [All Life Connected](https://open.spotify.com/track/3qjOG3w4tkaoszfA1OslOj) | [Boorook](https://open.spotify.com/artist/5EUMJiwAoKYtXZRHVfgdUA) | [All Life Connected](https://open.spotify.com/album/1d4L7wsXPCCB5ZPeaffBHp) | 3:48 |
-| 25 | [Gabalandhurra \- Catalunya Version](https://open.spotify.com/track/5EFcnh0kyGHZCKCZLLSc3f) | [Ngulmiya](https://open.spotify.com/artist/33RGbkZKz62Yb6Rv1wGvQT), [Pau Figueres](https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy) | [Gabalandhurra \- Catalunya Version](https://open.spotify.com/album/4EuFVdzmL0MqRqsj4Tuyxw) | 4:07 |
+| 25 | [Gabalandhurra \- Catalunya Version](https://open.spotify.com/track/5EFcnh0kyGHZCKCZLLSc3f) | [Ngulmiya](https://open.spotify.com/artist/33RGbkZKz62Yb6Rv1wGvQT), [Pau Figueres](https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy) | [Gabalandhurra \(Catalunya Version\)](https://open.spotify.com/album/4EuFVdzmL0MqRqsj4Tuyxw) | 4:07 |
 | 26 | [All On My Own](https://open.spotify.com/track/3tyCNG9tNfbyrw6oBwoPjh) | [Billy Woodley](https://open.spotify.com/artist/0OunGjtgTVTYfGYCeHg9WG) | [All On My Own](https://open.spotify.com/album/01pxZDw8t5XCQxbNQU0Hdj) | 4:04 |
 | 27 | [Sweet Sugar](https://open.spotify.com/track/4UJBWQkhmwaOr1onYEHi6K) | [Joey Leigh Wagtail](https://open.spotify.com/artist/03j44LiVdyeW7iEgW4WWGg) | [Sweet Sugar](https://open.spotify.com/album/3CqQ2EYaeRAW1ocoY9oj3v) | 3:48 |
 | 28 | [Garra](https://open.spotify.com/track/5MXN5HjcH3KuHBPiadR7cy) | [Drmngnow](https://open.spotify.com/artist/18IB1ryPcOlseJCtYmthDg) | [Garra](https://open.spotify.com/album/1aATsSxZzBiDX0GXGVjp80) | 3:13 |

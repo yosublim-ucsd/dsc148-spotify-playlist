@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWeYUYSWpwS.md) - [plain]
 
 > Relaxing, comforting classical music to soothe your dog and reduce separation anxiety.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,283 likes - 107 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,336 likes - 107 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \- Pt\. 2](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
+| 1 | [Prelude in G Major](https://open.spotify.com/track/70FROKEHubzMxSstCgaZZl) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Bach Reworks \(Pt\. 2\)](https://open.spotify.com/album/6u7xGWk6antcgjlmnSzqqZ) | 3:54 |
 | 2 | [Wiegenlied, Op\. 49, No\. 4](https://open.spotify.com/track/4Z9cXGgviHafSAd7KzxABm) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Pavel Gililov](https://open.spotify.com/artist/5D9mKDCGUc4MzgkPq2EikW) | [Mischa Maisky \- Meditation](https://open.spotify.com/album/6MnhHhGdHENPayDBTNFAI5) | 2:28 |
 | 3 | [Orchestral Suite No\. 3 in D Major, BWV 1068: Air \(Arr\. Alexander Siloti\)](https://open.spotify.com/track/2yJp6vppbtc0LyqUGVmwee) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Alessio Bax](https://open.spotify.com/artist/5XQSLo7FpTb3FJ69O7y2ur) | [Lullabies for Mila](https://open.spotify.com/album/7DfeNcn4aBR5eimaq9imOx) | 5:32 |
 | 4 | [Saint\-Saëns / Transcr\. Vidal: Le carnaval des animaux: XIII\. Le cygne](https://open.spotify.com/track/40IvETLq2Y1Su1Z0GWumRF) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Douglas Boyd](https://open.spotify.com/artist/652Q4y5ewFDuXGqcmFPo2E), [Orchestre de chambre de Paris](https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I) | [Intuition](https://open.spotify.com/album/77NahN2GH3Z5Ss4VAhL6MW) | 3:28 |

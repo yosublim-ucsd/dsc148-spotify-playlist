@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/44XJR1i3Vl2B3acOEYwinE.md) - [plain]
 
 > You know you love them...\. Get ready to sing like no one is listening to scores of timeless pop and rock power ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083 likes - 79 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,082 likes - 79 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,6 +86,6 @@ pretty - [cumulative](/playlists/cumulative/44XJR1i3Vl2B3acOEYwinE.md) - [plain]
 | 76 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 |
 | 77 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 |
 | 78 | [With Arms Wide Open](https://open.spotify.com/track/7q36HE7sjosbeD8AHoOjRL) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Greatest Hits](https://open.spotify.com/album/2yn8yrBA513RFE8l07RhMA) | 4:36 |
-| 79 | [Far Away](https://open.spotify.com/track/0G53JYumT2vVxRGOtROlXk) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons \- Special Edition](https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke) | 3:58 |
+| 79 | [Far Away](https://open.spotify.com/track/0G53JYumT2vVxRGOtROlXk) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons \(Special Edition\)](https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke) | 3:58 |
 
 Snapshot ID: `AAAAfU/uPrGeJwXG0f6ok5QC6POHpfb2`

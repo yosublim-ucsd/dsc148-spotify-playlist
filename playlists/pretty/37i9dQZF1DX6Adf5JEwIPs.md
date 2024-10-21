@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Julio Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,429 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,486 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 12 | [MALANDRO](https://open.spotify.com/track/625kRIntCrK8tp6hKOL5SX) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [MALANDRO](https://open.spotify.com/album/5IquDCkbxbOkvQrZWWMZ8b) | 2:52 |
 | 13 | [Dile](https://open.spotify.com/track/4lYju18PBVedudk8rKKmG7) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Dile](https://open.spotify.com/album/5yd2sHYLoNmwbItKGBoMjl) | 3:18 |
 | 14 | [El Buck](https://open.spotify.com/track/7xSJMtMJx4Sbifjj7qSgQU) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [El Buck](https://open.spotify.com/album/6J7ESQzAAucuKIi6ILRr8C) | 2:43 |
-| 15 | [Con Toda La Fe](https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Con Toda La Fe](https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx) | 2:28 |
+| 15 | [Con Toda La Fe](https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Con Toda La Fe](https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx) | 2:24 |
 | 16 | [BRILLAS \- En Vivo](https://open.spotify.com/track/2BIlg0zPrZomjdWumvQAF7) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [BRILLAS \(En Vivo\)](https://open.spotify.com/album/0ap7NgeSGBZ3VsexZGJQHo) | 3:17 |
 | 17 | [FANTASÍA](https://open.spotify.com/track/0ceE8KXX725EJoaBLwBc45) | [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [FANTASÍA](https://open.spotify.com/album/54jgriQIm5mKJ6cDqijeTC) | 3:04 |
 | 18 | [FOUR SEASONS](https://open.spotify.com/track/7sUBWK8gBJj7mQGLqTDmHq) | [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [FOUR SEASONS](https://open.spotify.com/album/6h1TR8z3M8v3ihORujpnUq) | 3:15 |

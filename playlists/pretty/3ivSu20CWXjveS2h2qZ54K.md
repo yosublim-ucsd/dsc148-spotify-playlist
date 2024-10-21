@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,606 likes - 89 songs - 4 hr 52 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,609 likes - 89 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 54 | [Vila](https://open.spotify.com/track/5tbelWWlnDhI5ODgm3ld3r) | [Nile Fee](https://open.spotify.com/artist/6WkZQmn4zWHJQeOfg9FzG1), [LECOCQ](https://open.spotify.com/artist/1NvSNQaybQB7W6AfbhPvwy) | [Vila](https://open.spotify.com/album/47kXNreevcvmUuP5H1o2tv) | 3:12 |
 | 55 | [Waxwing](https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Waxwing](https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h) | 3:35 |
 | 56 | [First Rodeo](https://open.spotify.com/track/42fu93ICEK8n1oJeu3syXk) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [First Rodeo](https://open.spotify.com/album/2NLbOG58Y3CDWXemojJEfj) | 3:43 |
-| 57 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:57 |
+| 57 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 58 | [FANZINE](https://open.spotify.com/track/2nsh52iLz95IhDoq1BUupl) | [Antílopez](https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK) | [FANZINE](https://open.spotify.com/album/7ke6TyqA8BI2gauyWGqZUf) | 3:06 |
 | 59 | [Sick \(feat\. 4batz\)](https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Sick \(feat\. 4batz\)](https://open.spotify.com/album/1Ck8Mdp83P8zUoqAlFpVzz) | 3:40 |
 | 60 | [JPN](https://open.spotify.com/track/7a66e0TSXh1fKpSCLDQvUa) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SAYONARA: FINALES ALTERNOS](https://open.spotify.com/album/33vdYyXRkC7kkenWARFMHu) | 4:46 |

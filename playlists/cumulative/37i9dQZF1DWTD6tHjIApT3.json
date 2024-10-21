@@ -21389,6 +21389,24 @@
     },
     {
       "album": {
+        "name": "season of you",
+        "url": "https://open.spotify.com/album/6EnyuIfo8bt0i7WnzoY4ro"
+      },
+      "artists": [
+        {
+          "name": "shimamo",
+          "url": "https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210421,
+      "name": "season of you",
+      "url": "https://open.spotify.com/track/20HLR6jrdHeRIiRI89J812"
+    },
+    {
+      "album": {
         "name": "Snowdome",
         "url": "https://open.spotify.com/album/37SUGkacnP6YHLqUivxrGY"
       },
@@ -29782,7 +29800,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 152200,
       "name": "\u3042\u308c\u304c\u604b\u3060\u3063\u305f\u306e\u304b\u306a",
       "url": "https://open.spotify.com/track/23eX2EUwE7EhiLWoPl1Pdv"
@@ -29804,6 +29822,24 @@
       "duration_ms": 201471,
       "name": "\u3042\u308f\u3044\u306b",
       "url": "https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
+        "url": "https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "date_added": "2024-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241630,
+      "name": "\u3042\u3093\u305f\u306a\u3093\u3066\u3002",
+      "url": "https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry"
     },
     {
       "album": {
@@ -35380,7 +35416,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 172959,
       "name": "\u30b9\u30ad",
       "url": "https://open.spotify.com/track/0ZhxVhQ3EMRIFxczoTfkn0"

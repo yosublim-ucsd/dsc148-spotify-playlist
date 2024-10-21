@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: muque
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,503 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,501 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 8 | [ダークヒーロー](https://open.spotify.com/track/3EbDj2sj5dlfPWQKLNOPWs) | [majiko](https://open.spotify.com/artist/6HX4Jrnb0WhEv9goeGoh6p) | [ダークヒーロー](https://open.spotify.com/album/6yfP9AHuIm44VdgpI5Bxhw) | 3:36 |
 | 9 | [AO](https://open.spotify.com/track/5xn6yGZgnNn2EhP6QVJ0bl) | [Nirgilis](https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT) | [なるほど THE ニルギリス](https://open.spotify.com/album/4INCv7WDOmMHEMeVmKZJgT) | 3:31 |
 | 10 | [Shadow](https://open.spotify.com/track/0vVZoAjGceLDFaYMfsNwsc) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [FOCUS](https://open.spotify.com/album/5mY2DtMPWLkxk9CoQlIfvs) | 3:37 |
-| 11 | [悪夢のような](https://open.spotify.com/track/0lMEXXXZ0ITNG0tRv57doq) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような \- NightTime Version](https://open.spotify.com/album/2ZLrpmJUMdbZZmmZpVY3hl) | 4:19 |
+| 11 | [悪夢のような](https://open.spotify.com/track/0lMEXXXZ0ITNG0tRv57doq) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような \(NightTime Version\)](https://open.spotify.com/album/2ZLrpmJUMdbZZmmZpVY3hl) | 4:19 |
 | 12 | [かけ足族](https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [かけ足族](https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn) | 3:44 |
 | 13 | [Golden Velvet](https://open.spotify.com/track/0HV71iTmGYkM986cZA4g3e) | [YOUR ADVISORY BOARD](https://open.spotify.com/artist/31anohzaOkr2LPxBoOOUD0) | [Golden Velvet](https://open.spotify.com/album/2MuTjshQpcXTPsOnAXjCph) | 5:32 |
 | 14 | [Too busy work](https://open.spotify.com/track/1OHsNCfi14qQpt4B9IPxEY) | [oops cool](https://open.spotify.com/artist/5epXDj2q72gFFwYCejPVPE) | [Too busy work](https://open.spotify.com/album/3h2CGevquC3dntTZrefUMG) | 3:16 |

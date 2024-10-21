@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,446 likes - 713 songs - 1 day 23 hr 45 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,446 likes - 714 songs - 1 day 23 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -378,12 +378,12 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 368 | [Welcome To The Occupation](https://open.spotify.com/track/0lWmYkUT12Nv9AD8EiKGPt) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 2:48 |
 | 369 | [Perihelion](https://open.spotify.com/track/6Mxqj3ClyindysAxYqqrrg) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Infest The Rats' Nest](https://open.spotify.com/album/5Bz2LxOp0wz7ov0T9WiRmc) | 3:11 |
 | 370 | [Heresy](https://open.spotify.com/track/0xVErSyw96YDLsjtNNpZJf) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 3:54 |
-| 371 | [Stand \- Remastered 2013](https://open.spotify.com/track/1xZugBFMDSnCBTNrreWET0) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \- 25th Anniversary Deluxe Edition](https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K) | 3:12 |
+| 371 | [Stand \- Remastered 2013](https://open.spotify.com/track/1xZugBFMDSnCBTNrreWET0) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K) | 3:12 |
 | 372 | [Rock 'n' Roll with Me \- 2016 Remaster](https://open.spotify.com/track/0VLd3BXsGTXDzg5oVfpmr8) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:02 |
 | 373 | [Mudmen](https://open.spotify.com/track/5F7YHcQPCRUNfUehsjgAu1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Obscured by Clouds](https://open.spotify.com/album/00BBpx0gG4KfQtxSJBPKUZ) | 4:17 |
 | 374 | [Note to Self](https://open.spotify.com/track/4jaEiBXMjgpAtsFM2zBYEB) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Timeline](https://open.spotify.com/album/5ufzqDK2p7Te64hQBAu35t) | 2:20 |
 | 375 | [Guess I'm Doing Fine](https://open.spotify.com/track/6Pxqd7tcXE0t4mfK7PGDra) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 4:49 |
-| 376 | [World Leader Pretend \- Remastered 2013](https://open.spotify.com/track/7KBiPgHgfy5t1wo2alQvF6) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \- 25th Anniversary Deluxe Edition](https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K) | 4:19 |
+| 376 | [World Leader Pretend \- Remastered 2013](https://open.spotify.com/track/7KBiPgHgfy5t1wo2alQvF6) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4eoeIPvcO9RCp1u5hcui7K) | 4:19 |
 | 377 | [Nowhere Man \- Remastered 2009](https://open.spotify.com/track/5SUlhldQJtOhUr2GzH5RI7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:43 |
 | 378 | [Foot on Necks](https://open.spotify.com/track/0HPriQ6JuXyYirXccQeRpp) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:11 |
 | 379 | [Ugo](https://open.spotify.com/track/2Klw2Z7Fa4vKddr9DDEWVe) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/1zNtymrXxzRczamzRJPZdE) | 5:58 |
@@ -564,7 +564,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 554 | [The Background World](https://open.spotify.com/track/0gh07SoJO8xxnQFUllJoP3) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Add Violence](https://open.spotify.com/album/28DJ00Yr5oOhH0uOUgTQwc) | 11:44 |
 | 555 | [Winter Wonderland](https://open.spotify.com/track/75PYgrVsttQ4MAX2fakeoo) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza), [Todd Rundgren](https://open.spotify.com/artist/0Lpr5wXzWLtDWm1SjNbpPb), [Artimus Pyle](https://open.spotify.com/artist/0qnXsEV5IiXnBghfS4bdtV) | [Shatner Claus](https://open.spotify.com/album/3qIFrZLHvYdd2jZcJaeRwd) | 2:05 |
 | 556 | [The Ballad of Billy the Kid](https://open.spotify.com/track/31RKj9kULWI2lM4tYSvAmb) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) | 5:40 |
-| 557 | [Get Up \- Remastered](https://open.spotify.com/track/4XFYYi6pd05OhYkkDiEmZv) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \- Remastered](https://open.spotify.com/album/7rfKAiPs9ToZP9zEJDBqBH) | 2:41 |
+| 557 | [Get Up \- Remastered](https://open.spotify.com/track/4XFYYi6pd05OhYkkDiEmZv) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(Remastered\)](https://open.spotify.com/album/7rfKAiPs9ToZP9zEJDBqBH) | 2:41 |
 | 558 | [Copy of a](https://open.spotify.com/track/5ECySGXI4N8MCv6jf7HU9n) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Hesitation Marks \(Deluxe Version\)](https://open.spotify.com/album/7GwKmNXAFgODzJOwaEVyji) | 5:22 |
 | 559 | [M.E.](https://open.spotify.com/track/3OiBc6E43P6Y5LoqNbbMKf) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt) | 5:37 |
 | 560 | [Over and Out](https://open.spotify.com/track/1J8CqSsS6ErrveimQyCvZa) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Bad Witch](https://open.spotify.com/album/0Q2o6ioxIOlKPvRdG1K5da) | 7:49 |
@@ -721,5 +721,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 711 | [The Apple](https://open.spotify.com/track/3a3QwM981j7Sd58qFm8Rrc) | [The Mayflies USA](https://open.spotify.com/artist/2NEBqZaq6kThQTNs0W0zbs) | [Summertown](https://open.spotify.com/album/48SGmT7QVCrXeoVxDcLznm) | 3:13 |
 | 712 | [Meanwhile, Rick James...](https://open.spotify.com/track/5cWsKKp8brqei2F5vXrYoG) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:57 |
 | 713 | [Keep It Warm](https://open.spotify.com/track/0LoMT7TGL2p2n1TFx1cNRT) | [Flo & Eddie](https://open.spotify.com/artist/5lcsLQAbcbmTZ7DXy2dYbK) | [Moving Targets](https://open.spotify.com/album/0xmvxx47wDa2W8SRKpHtYV) | 4:16 |
+| 714 | [Wristwatch](https://open.spotify.com/track/4j2DQgFAyVuKOBFpq4vEPR) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 3:42 |
 
-Snapshot ID: `AAAGvSahnTtnI30uWhKiQSg+XUR2Zycv`
+Snapshot ID: `AAAGvmvEdM/3frF69Vf6LZ3NYptaeKWl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,200 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,261 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 23 | [Mustang Sally \(feat\. Jeff Beck\)](https://open.spotify.com/track/22W96oGvTk4kvL9oHnIxok) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Can't Quit The Blues](https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst) | 4:39 |
 | 24 | [I Can't Quit You Baby \- 1990 Remaster](https://open.spotify.com/track/62QInSlXQI11BR9ycVWjd6) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 4:42 |
 | 25 | [Catfish Blues](https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:47 |
-| 26 | [Still Got The Blues](https://open.spotify.com/track/7nMl2aiwjNz4TIFoAkOrtG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Old Sock \- Track By Track](https://open.spotify.com/album/0BeaxNPhOKKwwSBF5nMT1J) | 5:54 |
+| 26 | [Still Got The Blues](https://open.spotify.com/track/7nMl2aiwjNz4TIFoAkOrtG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Old Sock \(Track By Track\)](https://open.spotify.com/album/0BeaxNPhOKKwwSBF5nMT1J) | 5:54 |
 | 27 | [Sweet Home Chicago \- Studio](https://open.spotify.com/track/0znXZlsMDXLiTeK1IoG0XD) | [Peter Green Splinter Group](https://open.spotify.com/artist/77aUDqXRIvkDNxARfYwoHC) | [The Robert Johnson Songbook](https://open.spotify.com/album/4RZdbilpZLCecJHtEkdJgX) | 4:14 |
 | 28 | [I Ain't Superstitious \- 2005 Remaster](https://open.spotify.com/track/7n7k2SsZKMUUQms4ZxTk34) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/1rRm5wc5lBtycx5xlY3848) | 5:02 |
 | 29 | [Lost Cause](https://open.spotify.com/track/0nZ4lF8FhUPo94DLLluXIO) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj) | [Lost Cause](https://open.spotify.com/album/5BX6vHqeZHBpEHykTlKwEc) | 3:51 |

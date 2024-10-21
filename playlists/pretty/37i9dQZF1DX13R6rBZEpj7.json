@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 228917,
+  "num_followers": 229012,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Phantasm",
-        "url": "https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 269655,
-      "name": "Phantasm",
-      "url": "https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "We Multiply",
         "url": "https://open.spotify.com/album/3WxoCgsKhjoRRIgaTfctaO"
       },
@@ -359,26 +339,38 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Style",
-        "url": "https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf"
+        "name": "Phantasm",
+        "url": "https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx"
       },
       "artists": [
         {
-          "name": "Taiki Nulight",
-          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
         },
         {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
         }
       ],
-      "duration_ms": 123981,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t"
+      "duration_ms": 269655,
+      "name": "Phantasm",
+      "url": "https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Y'all Ready For Dis",
+        "url": "https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Y'all Ready For Dis",
+      "url": "https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -403,18 +395,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Y'all Ready For Dis",
-        "url": "https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv"
+        "name": "Style",
+        "url": "https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf"
       },
       "artists": [
         {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Y'all Ready For Dis",
-      "url": "https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom"
+      "duration_ms": 123981,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Sweet Lies",
+        "url": "https://open.spotify.com/album/4NxrjpgGvtfcaOD3VemSZn"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 254130,
+      "name": "Sweet Lies",
+      "url": "https://open.spotify.com/track/7w0xjGyIdNRqI0z2pSDjYG"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Friday Nights (efan Remix)",
         "url": "https://open.spotify.com/album/3crZRPg9EgEueTnlC7J4T6"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 206571,
       "name": "Friday Nights (efan Remix)",
       "url": "https://open.spotify.com/track/2zuctrzqpqagXbMBKnooij"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Sweet Lies",
-        "url": "https://open.spotify.com/album/4NxrjpgGvtfcaOD3VemSZn"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 254130,
-      "name": "Sweet Lies",
-      "url": "https://open.spotify.com/track/7w0xjGyIdNRqI0z2pSDjYG"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Easy for them",
-        "url": "https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS"
-      },
-      "artists": [
-        {
-          "name": "Rohaan",
-          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Easy for them",
-      "url": "https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "P.S Remix (2023)",
         "url": "https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 204000,
       "name": "P.S 2023 (Bassline Remix)",
       "url": "https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Easy for them",
+        "url": "https://open.spotify.com/album/7sE9VcKFbYgVa5jG8pdAUS"
+      },
+      "artists": [
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Easy for them",
+      "url": "https://open.spotify.com/track/1BVtpveXrAKmxQ3AZ8a1cf"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -695,6 +695,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Sick Of The Chatter",
+        "url": "https://open.spotify.com/album/7j7zHWt0MsgnXnGkr90rRp"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "JayaHadADream",
+          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Sick Of The Chatter",
+      "url": "https://open.spotify.com/track/44XDzqSWbBfKHs8WKhwVm0"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Kumonga",
         "url": "https://open.spotify.com/album/3HwFH9OrfxZekWw76FvXZl"
       },
@@ -755,26 +775,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Sick Of The Chatter",
-        "url": "https://open.spotify.com/album/7j7zHWt0MsgnXnGkr90rRp"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "JayaHadADream",
-          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Sick Of The Chatter",
-      "url": "https://open.spotify.com/track/44XDzqSWbBfKHs8WKhwVm0"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943"
       },
@@ -791,6 +791,26 @@
       "duration_ms": 123241,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -875,26 +895,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 181714,
       "name": "Party Starter (feat. Slick Don)",
       "url": "https://open.spotify.com/track/0zclfRkV2b65rgHJyL80sf"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1003,6 +987,22 @@
       "duration_ms": 205454,
       "name": "Rude Boyz",
       "url": "https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1147,6 +1147,42 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 182192,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "T Dub",
+        "url": "https://open.spotify.com/album/6MVB8CY1iqWLrbBFHx5Rr9"
+      },
+      "artists": [
+        {
+          "name": "Luca T",
+          "url": "https://open.spotify.com/artist/0RRwxv2lR9DqgXw11rDZUY"
+        }
+      ],
+      "duration_ms": 177313,
+      "name": "T Dub",
+      "url": "https://open.spotify.com/track/5ir1kBOB9NY3q99Y3gMHAb"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Silly",
         "url": "https://open.spotify.com/album/0rxlHAZm41qpK7GgCirEy4"
       },
@@ -1183,42 +1219,6 @@
       "duration_ms": 176000,
       "name": "Songs Of Praise - Radio Edit",
       "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "T Dub",
-        "url": "https://open.spotify.com/album/6MVB8CY1iqWLrbBFHx5Rr9"
-      },
-      "artists": [
-        {
-          "name": "Luca T",
-          "url": "https://open.spotify.com/artist/0RRwxv2lR9DqgXw11rDZUY"
-        }
-      ],
-      "duration_ms": 177313,
-      "name": "T Dub",
-      "url": "https://open.spotify.com/track/5ir1kBOB9NY3q99Y3gMHAb"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Boom",
-        "url": "https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA"
-      },
-      "artists": [
-        {
-          "name": "NuBass",
-          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 182192,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Alla Dem Bad",
+        "url": "https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3"
+      },
+      "artists": [
+        {
+          "name": "J69",
+          "url": "https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh"
+        },
+        {
+          "name": "Miss Baas",
+          "url": "https://open.spotify.com/artist/6Q8qDODQwBDwTvqoP2G3xU"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Alla Dem Bad",
+      "url": "https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
       },
@@ -1363,30 +1383,6 @@
       "duration_ms": 166153,
       "name": "Pure",
       "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "This Sound",
-        "url": "https://open.spotify.com/album/3tvCBG7axwQrj57zrurbws"
-      },
-      "artists": [
-        {
-          "name": "My Nu Leng",
-          "url": "https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        },
-        {
-          "name": "Kaya",
-          "url": "https://open.spotify.com/artist/2ZQgZayNg80uKN5pjwv30k"
-        }
-      ],
-      "duration_ms": 257390,
-      "name": "This Sound",
-      "url": "https://open.spotify.com/track/5sQoVIKIgJnPkjZoq42AhX"
     }
   ],
   "unique_name": "Bassline Bangers",

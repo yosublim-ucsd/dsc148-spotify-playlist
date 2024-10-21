@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 178288,
       "name": "Ancient Lake",
       "url": "https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO"
@@ -4802,6 +4802,24 @@
       "duration_ms": 252000,
       "name": "Tired Eyes",
       "url": "https://open.spotify.com/track/41RcpktSrVWYmI8XaNZA07"
+    },
+    {
+      "album": {
+        "name": "To Unwind",
+        "url": "https://open.spotify.com/album/2bGAKzje194VHkf6iR0l0t"
+      },
+      "artists": [
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "date_added": "2024-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "To Unwind",
+      "url": "https://open.spotify.com/track/7ov7MmCvTeQsHyDscGKTKD"
     },
     {
       "album": {

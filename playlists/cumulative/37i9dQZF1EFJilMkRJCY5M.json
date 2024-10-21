@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "Rooted",
+        "url": "https://open.spotify.com/album/3tjdOyyLWIQeX6S79YjWbL"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191633,
+      "name": "Rooted",
+      "url": "https://open.spotify.com/track/73PQ1kdahi6WKkL8z39QQH"
+    },
+    {
+      "album": {
         "name": "Wild Thing",
         "url": "https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI"
       },

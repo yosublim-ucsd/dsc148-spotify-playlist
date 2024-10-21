@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Safia Nolin
 
-2,899 songs - 6 day 10 hr 14 min
+2,900 songs - 6 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2027,7 +2027,7 @@
 | [Personne pour écouter](https://open.spotify.com/track/5x7unXijaVCzrVhdcPFjuJ) | [Thaïs](https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh) | [Personne pour écouter](https://open.spotify.com/album/46IG5QSRdDVkVdYxoBaOG1) | 3:37 | 2024-08-30 | 2024-09-07 |
 | [Petit canari](https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Petit canari](https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s) | 2:44 | 2024-05-03 | 2024-05-11 |
 | [Petit chaton](https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Petit chaton](https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5) | 2:24 | 2024-09-20 |  |
-| [Petit cœur](https://open.spotify.com/track/175mo2fCK8Rb5xU8tdU2f9) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [333](https://open.spotify.com/album/53F10zJymQahtTvgUIyPHu) | 3:47 | 2024-10-11 |  |
+| [Petit cœur](https://open.spotify.com/track/175mo2fCK8Rb5xU8tdU2f9) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO), [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [333](https://open.spotify.com/album/53F10zJymQahtTvgUIyPHu) | 3:47 | 2024-10-11 | 2024-10-21 |
 | [Petit petit moi](https://open.spotify.com/track/4KxQ0626SWAkykLREg5PCs) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Petit petit moi](https://open.spotify.com/album/3rcIrd96WiQ2STnMwEhDdg) | 2:24 | 2023-02-03 | 2023-02-18 |
 | [Petites heures](https://open.spotify.com/track/49FSeXLZnx9akQ9kZPhfzF) | [Gary BlaBla](https://open.spotify.com/artist/6OC28VPoFwIJ7dGXAGYeVs), [Rocco Leretz](https://open.spotify.com/artist/1IS88DyPyQKe8cK3Ju9mVi) | [Petites heures](https://open.spotify.com/album/0ZVfWr4jxMCF2tOyaTmMsu) | 2:28 | 2022-09-16 | 2022-09-24 |
 | [Petits fruits](https://open.spotify.com/track/0Mi7LNiJufQgLAsFVdAutO) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petits fruits](https://open.spotify.com/album/6dkVo1RV2glwz55CfGT4qP) | 2:12 | 2022-02-25 | 2022-03-12 |
@@ -2676,6 +2676,7 @@
 | [Tu sais ce qu'il me faut](https://open.spotify.com/track/4vYFzqzaBpdYKL1AuDJNhQ) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Redcar les adorables étoiles \(prologue\)](https://open.spotify.com/album/5Zq3w5bDJpN8Kl7zCMFpRw) | 4:45 | 2022-11-11 | 2022-11-26 |
 | [Tu t'en criss](https://open.spotify.com/track/1EUgmnxJMSIZMTn3chZiv5) | [Juli Ann](https://open.spotify.com/artist/3RD0jr1KIt7IDADZoczPJe) | [Tu t'en criss](https://open.spotify.com/album/4ZQd6nHi9BSPGadTRjRld7) | 3:13 | 2021-12-31 | 2022-01-15 |
 | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR) | 2:52 | 2023-10-13 | 2023-10-21 |
+| [Tu vas me quitter encore longtemps ?](https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Tu vas me quitter encore longtemps ?](https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR) | 3:51 | 2024-10-18 |  |
 | [Tudo Bem](https://open.spotify.com/track/0XJlv1XivNfzllwGK5MksT) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Tudo Bem](https://open.spotify.com/album/2XeTDIRMPxKUTscqoNZG93) | 3:33 | 2022-06-24 | 2022-07-09 |
 | [Tuer le temp$](https://open.spotify.com/track/7l93wPLfuHddPM3ogHjDW9) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Tuer le temp$](https://open.spotify.com/album/1NdRJotl1nuTfmlFaax2Ee) | 2:27 | 2023-02-24 | 2023-03-11 |
 | [tunnel](https://open.spotify.com/track/43tIV7UcEW6XrvhtRBJGd6) | [blesse](https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge) | [tunnel](https://open.spotify.com/album/6kMXx28hPek2EZx81pRSQz) | 4:01 | 2024-04-12 | 2024-04-19 |

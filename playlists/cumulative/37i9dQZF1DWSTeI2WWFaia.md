@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Cordae
 
-693 songs - 1 day 13 hr 3 min
+694 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 More Commandments \(feat\. Diddy\)](https://open.spotify.com/track/3aXFgq1C1bwPCFQOgGPuPA) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Tana Talk 4](https://open.spotify.com/album/4FZ2ilW8I4HxVz0gWEYzX2) | 3:58 | 2022-03-11 | 2022-07-24 |
 | [100 Bands](https://open.spotify.com/track/13IZ2zkmlh9madvIjcyBqk) | [070 Phi](https://open.spotify.com/artist/7MlqHsqltfPsL4hzFEt3j6), [Irie Child](https://open.spotify.com/artist/3v7QlnRyy5ktMLokwRbv0x) | [100 Bands](https://open.spotify.com/album/7ifZDjP7NVDfqpyf8dqoUA) | 4:08 | 2021-09-03 | 2022-01-20 |
 | [180 \(Remix\) \(feat\. Kemba\)](https://open.spotify.com/track/1oF1tFOdqoM6I2Y4crbGRU) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kemba](https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM) | [180 \(Remix\) \(feat\. Kemba\)](https://open.spotify.com/album/31L28flQSMiHW7fwtlTkBh) | 3:16 | 2021-09-03 | 2022-05-10 |
+| [1st Of April](https://open.spotify.com/track/2X6r29vCzhuSp9SBkXJLbp) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [V Don](https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq) | [STABBED & SHOT 2](https://open.spotify.com/album/5TQOBBsanvWHldiUnPSy54) | 1:57 | 2024-10-18 |  |
 | [200 Pies \(feat\. 2 Chainz\)](https://open.spotify.com/track/7FoLi3HouGfytmOekWmglN) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [La Maquina](https://open.spotify.com/album/35C2QYq4OgkEXETksStyzz) | 4:25 | 2021-09-03 | 2022-03-18 |
 | [247](https://open.spotify.com/track/3AUy81OKKb762umTKDmB4H) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [247](https://open.spotify.com/album/4n16eZFW04vSD5xlRwvr3z) | 2:43 | 2022-10-21 | 2023-04-01 |
 | [29 \(Freestyle\)](https://open.spotify.com/track/6jvyOxDcBPyvdCbBqSvb9F) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [29 \(Freestyle\)](https://open.spotify.com/album/5ks4uQKdCxJ34x8HF4Bxrf) | 2:22 | 2022-07-08 | 2023-04-02 |
@@ -104,7 +105,7 @@
 | [Bruuuh \(with Denzel Curry\) \- Remix](https://open.spotify.com/track/5LghBGmNUUwI2BvX2boIdK) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Bruuuh \(with Denzel Curry\) \[Remix\]](https://open.spotify.com/album/2VBF1VUAfb250CHkaReyAz) | 3:26 | 2021-09-03 | 2022-10-01 |
 | [BUCKET](https://open.spotify.com/track/4BvKJxXLY9pJPMvh14ixhw) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [HERBERT](https://open.spotify.com/album/1hNzs6WR8UbUsAkyr4jXEO) | 3:05 | 2022-12-16 | 2023-03-05 |
 | [Buckle Up Freestyle](https://open.spotify.com/track/65qEh62xjgsKVyWH5SbUUG) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CHOMP 2.5 \(EP\)](https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13) | 2:01 | 2023-05-12 | 2023-08-08 |
-| [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 | 2024-03-29 |  |
+| [Buddy A Fool](https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Don't Forget To Breathe](https://open.spotify.com/album/4bL9AVepWWKbg11Th0kGj0) | 2:34 | 2024-03-29 | 2024-10-21 |
 | [Buffalo Freestyle \(feat\. Drake\)](https://open.spotify.com/track/6sd45lml04PdPBeXbduJzn) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Buffalo Butch, Vol\. 1](https://open.spotify.com/album/6MM5ngsgBgSK4oKU5cNTY4) | 3:10 | 2024-08-23 | 2024-08-31 |
 | [Buried Alive](https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Buried Alive](https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94) | 2:02 | 2024-05-03 |  |
 | [Burning Bush](https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP), [Kenny Mason](https://open.spotify.com/artist/5NFQr1KZQS9V6SDSrmU0q3) | [Burning Bush](https://open.spotify.com/album/5YKN83sKhEwwVxCt8UX9kB) | 3:31 | 2021-09-03 | 2022-03-18 |

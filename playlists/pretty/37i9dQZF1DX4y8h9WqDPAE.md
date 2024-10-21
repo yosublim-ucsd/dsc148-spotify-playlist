@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Nao
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,746,271 likes - 186 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,746,255 likes - 186 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 67 | [MUTT \(feat\. Freddie Gibbs\) \[Remix\]](https://open.spotify.com/track/1mw23Ltn9rCSEmgzz8O2pC) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [MUTT \(REMIX\)](https://open.spotify.com/album/4um7HKmzdzkIvStKG6gc6h) | 4:17 |
 | 68 | [Good 2 You \(feat\. Ciara\)](https://open.spotify.com/track/1ryTZYgEkgaDcxPG3pucHw) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:09 |
 | 69 | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/album/4bJap4XE07xCRaCRc6z6Ws) | 2:43 |
-| 70 | [After Hours \- Cater 2 U Mix](https://open.spotify.com/track/6rrYNfGHPUhFoGF2aCuO4L) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours \- Cater 2 U Mix](https://open.spotify.com/album/46QpFhP3TcBugzNkZjxUUz) | 3:51 |
+| 70 | [After Hours \- Cater 2 U Mix](https://open.spotify.com/track/6rrYNfGHPUhFoGF2aCuO4L) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours \(Cater 2 U Mix\)](https://open.spotify.com/album/46QpFhP3TcBugzNkZjxUUz) | 3:51 |
 | 71 | [Breathing \(feat\. Fabolous\)](https://open.spotify.com/track/5C1hdPaaK43VDJ95Apfanq) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Breathing \(feat\. Fabolous\)](https://open.spotify.com/album/0Wdv6Af4UhOXGriWRd26Kr) | 3:28 |
 | 72 | [UNHHH](https://open.spotify.com/track/7GMUOZVVsXs0si8sJ9QXQP) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Please Hold](https://open.spotify.com/album/3yTyKaDM9gEzPuSgTCWTmq) | 2:14 |
 | 73 | [On Sum](https://open.spotify.com/track/4VqhoxedyPnVv0lnNoP9q6) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [On Sum](https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY) | 3:19 |

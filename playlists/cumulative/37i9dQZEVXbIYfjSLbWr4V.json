@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 107539,
       "name": "FUNK DO BOUNCE (Slowed)",
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 86557,
       "name": "Her loss",
       "url": "https://open.spotify.com/track/785GgCAABPnVr3qaGTbhFU"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 113333,
       "name": "HUYOMAYO",
       "url": "https://open.spotify.com/track/5ipqcv3jd2qGyVSd6HGgZF"
@@ -1868,6 +1868,24 @@
       "duration_ms": 141869,
       "name": "maybe",
       "url": "https://open.spotify.com/track/5DEx6lvmwvnaL0J1ehB6vZ"
+    },
+    {
+      "album": {
+        "name": "Mi Amore",
+        "url": "https://open.spotify.com/album/0MlHa2tu4sASMoG3kKdIy5"
+      },
+      "artists": [
+        {
+          "name": "Nelly Mes",
+          "url": "https://open.spotify.com/artist/0a8Qup0AjngCL5KeD65zsN"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118064,
+      "name": "Mi Amore",
+      "url": "https://open.spotify.com/track/08L98bQJD2pCbDTDR5NPhO"
     },
     {
       "album": {
@@ -2502,7 +2520,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -4166,7 +4184,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 174842,
       "name": "\u0414\u043e\u043c \u041f\u0435\u0440\u0438\u043d\u044c\u043e\u043d",
       "url": "https://open.spotify.com/track/0i8YObgqnjZYoYJOQbwLHq"

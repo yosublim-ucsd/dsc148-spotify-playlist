@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/0pHFNRP8qkYhal0q0Irp6D.md) - [plain]
 | 49 | [Got To Give It Up \(Part 1\)](https://open.spotify.com/track/0uc01kOSyZ0uvjSZIzkAO0) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Disco Gold](https://open.spotify.com/album/2wFzaVmHfeDG8yNaAs7lYr) | 4:07 |
 | 50 | [Soul Makossa](https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anthology](https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa) | 4:24 |
 | 51 | [Pull Up To The Bumper](https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [20th Century Masters: The Millennium Collection: Best Of Grace Jones](https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e) | 4:42 |
-| 52 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \- Rerecorded](https://open.spotify.com/album/0EvxRMIJySiL1ges38c753) | 4:10 |
+| 52 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Rerecorded\)](https://open.spotify.com/album/0EvxRMIJySiL1ges38c753) | 4:10 |
 | 53 | [Dancing Queen](https://open.spotify.com/track/2rgqPSIRAfaO2MGo9smdSX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [ABBA Gold](https://open.spotify.com/album/2rp5riHULWgrXPsDtsp1ir) | 3:51 |
 
 Snapshot ID: `AAAAUHblCShamAFMFeRAbhaqfNGsfscE`

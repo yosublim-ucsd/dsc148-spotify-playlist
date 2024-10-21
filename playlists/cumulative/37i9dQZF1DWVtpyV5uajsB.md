@@ -4,13 +4,16 @@
 
 > Listen to the soundtracks of Family By Choice\. \(조립식 가족의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-15 songs - 55 min 22 sec
+20 songs - 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Be the Light](https://open.spotify.com/track/1YfVQeKmnq3xwz7U3pPYZs) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [Very Good](https://open.spotify.com/album/5AujjoJ3gAth9YnrIXa7Ww) | 3:25 | 2024-10-16 |  |
 | [BREATHE](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | 4:48 | 2024-10-16 |  |
 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 | 2024-10-16 |  |
+| [Curated by Bae Hyeon Seong](https://open.spotify.com/track/30a4CeCW62yESEM2aCkrlG) | [Family by Choice](https://open.spotify.com/artist/6ie4KDy332c7PKEYZp5FsF) | [Family by Choice Audio Liners](https://open.spotify.com/album/2AF7oPt7mYFNCNOrn462CB) | 0:37 | 2024-10-21 |  |
+| [Curated by Hwang In Youp](https://open.spotify.com/track/6FLY9tXZv2pLJdw4vkp0nW) | [Family by Choice](https://open.spotify.com/artist/6ie4KDy332c7PKEYZp5FsF) | [Family by Choice Audio Liners](https://open.spotify.com/album/2AF7oPt7mYFNCNOrn462CB) | 0:37 | 2024-10-21 |  |
+| [Curated by Jung Chae Yeon](https://open.spotify.com/track/6OdUoHMyjvBlRXocluAXC1) | [Family by Choice](https://open.spotify.com/artist/6ie4KDy332c7PKEYZp5FsF) | [Family by Choice Audio Liners](https://open.spotify.com/album/2AF7oPt7mYFNCNOrn462CB) | 0:43 | 2024-10-21 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2024-10-16 |  |
 | [Hope](https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Resurrection \- The 3rd Album](https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4) | 4:20 | 2024-10-16 |  |
 | [I'll Give You My Love](https://open.spotify.com/track/3WfKOD01gbnqV6WwjtifXf) | [Jang Hye Ri](https://open.spotify.com/artist/5zmpoGs5nzBeRGJ9bs6zri), [장혜리](https://open.spotify.com/artist/7z1y2NeRvBLO2XMVfwcZTb) | [Jang Hye Ri \(I\`ll Give You My Love/Ballad of Memories\)](https://open.spotify.com/album/1AQQJeXi1amL9Dc2ElNM98) | 4:09 | 2024-10-16 |  |
@@ -20,6 +23,8 @@
 | [Oldskool](https://open.spotify.com/track/2Q7kTdM2rHHJiP8ikFw12o) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Oldskool](https://open.spotify.com/album/54VKoIUDgO7V5h3H2Ff2i2) | 2:41 | 2024-10-16 |  |
 | [That's okay](https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [That's okay](https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf) | 3:41 | 2024-10-16 |  |
 | [To My Youth](https://open.spotify.com/track/4gMPlHHAjOQnUrhsuqHivn) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:42 | 2024-10-16 |  |
+| [Us in Those Days](https://open.spotify.com/track/5Kz2NMX6k4K0vNWaPbbp1Y) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Family by Choice \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0fN94YJdwIdnyL4X5Y0Wk9) | 3:55 | 2024-10-21 |  |
+| [Us in Those Days \- Instrumental](https://open.spotify.com/track/2HiR51CAg8MATaPWBt7w2b) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Family by Choice \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/0fN94YJdwIdnyL4X5Y0Wk9) | 3:55 | 2024-10-21 |  |
 | [Walking With](https://open.spotify.com/track/143MWj1w7d5G5Hpn2bYyqv) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Walking Together](https://open.spotify.com/album/286U6R2fhZmWXDKCRkHbZn) | 4:25 | 2024-10-16 |  |
 | [Will you go out with me](https://open.spotify.com/track/6JaBTAsn2xx1zk54jcNpvq) | [DIA](https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8) | [YOLO](https://open.spotify.com/album/6iJzdFBjkKgszQ4GMNzZer) | 3:13 | 2024-10-16 |  |
 | [촛불하나](https://open.spotify.com/track/2APM0MB4txhD5Oir3Ahae2) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 3](https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn) | 3:31 | 2024-10-16 |  |

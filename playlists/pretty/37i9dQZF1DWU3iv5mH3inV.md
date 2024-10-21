@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo\. Foto: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,414 likes - 65 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,471 likes - 65 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 17 | [Ma Buena](https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Ma Buena](https://open.spotify.com/album/5TBoLfHDZneDC1MqavM5s6) | 2:32 |
 | 18 | [PA' QUE BAILES](https://open.spotify.com/track/2t6MAiKwBnsXV6os21BBet) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [NEW AIR'S](https://open.spotify.com/album/3HUCThS7hjZsAsWhDdhGeU) | 1:48 |
 | 19 | [Perrona](https://open.spotify.com/track/497KoMouB3DpY2KDwG6EYs) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [GMBeats Degranalo](https://open.spotify.com/artist/3mz31fCuwqJDQoKGN3sbnT) | [Perrona](https://open.spotify.com/album/4dE12Atx3NhHZw4AY6y7ev) | 2:36 |
-| 20 | [Atencion \- Remix](https://open.spotify.com/track/46VWSg0ZyMgrHNdCsGOECx) | [Bluemoney](https://open.spotify.com/artist/5pL4JCQ5E6AxnT10xuaojk), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Atencion \- Remix](https://open.spotify.com/album/20mxOzmnEsbP7CqDsWhML1) | 2:24 |
+| 20 | [Atencion \- Remix](https://open.spotify.com/track/46VWSg0ZyMgrHNdCsGOECx) | [Bluemoney](https://open.spotify.com/artist/5pL4JCQ5E6AxnT10xuaojk), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ), [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi) | [Atencion \(Remix\)](https://open.spotify.com/album/20mxOzmnEsbP7CqDsWhML1) | 2:24 |
 | 21 | [Ta Uki Uki](https://open.spotify.com/track/7mhFkunAUwxrD3OxDVekhR) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Arlene MC](https://open.spotify.com/artist/0NKPXJIczNSqh5iILn8LET), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd) | [Ta Uki Uki](https://open.spotify.com/album/164fSVYh6oJFahbl4CmivH) | 1:56 |
 | 22 | [Envenenao](https://open.spotify.com/track/57WxIK1nE2SL9t2edmCNRB) | [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Envenenao](https://open.spotify.com/album/3ww7KDDQ1lQQyuvNGHszNY) | 2:05 |
 | 23 | [RULAY](https://open.spotify.com/track/7AynIkGpqhpEMPywgDpK0b) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk) | [RULAY](https://open.spotify.com/album/0U1HCSdPX4IQTGh8kWRjBH) | 3:28 |

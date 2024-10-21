@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Oct 01:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Oct 01:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAMUrYxQlwcq2CXMOs/BK2cnFyQzUUw",
+  "snapshot_id": "AAAMVpRFpW3HJmSap9dcztkpy0w8nNYJ",
   "tracks": [
+    {
+      "added_at": "2024-10-21 01:02:25",
+      "album": {
+        "name": "STAIN",
+        "url": "https://open.spotify.com/album/21s1sgABHOj3jXw6u2ZJDT"
+      },
+      "artists": [
+        {
+          "name": "Zaia",
+          "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "STAIN",
+      "url": "https://open.spotify.com/track/6ZRqtq3f28RgIF07prVxQi"
+    },
+    {
+      "added_at": "2024-10-20 19:02:22",
+      "album": {
+        "name": "with\u2205",
+        "url": "https://open.spotify.com/album/5AYQETXcbpP9fi1IB62cTD"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30dc\u5b50\u3055\u3093",
+          "url": "https://open.spotify.com/artist/1JSf6ODLyqPpYQAHN7S1Th"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "with\u2205",
+      "url": "https://open.spotify.com/track/7CElEfgE2QKVCzgZHR59CA"
+    },
     {
       "added_at": "2024-10-20 01:02:25",
       "album": {
@@ -611,22 +643,6 @@
     {
       "added_at": "2024-10-18 04:03:13",
       "album": {
-        "name": "Freedom Of The Night",
-        "url": "https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Freedom Of The Night",
-      "url": "https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu"
-    },
-    {
-      "added_at": "2024-10-18 04:03:13",
-      "album": {
         "name": "Most Beautiful Design",
         "url": "https://open.spotify.com/album/0eaTNeeKhIEHA1SQ0nJjby"
       },
@@ -647,6 +663,22 @@
       "duration_ms": 219346,
       "name": "Most Beautiful Design (feat. London On Da Track & Future)",
       "url": "https://open.spotify.com/track/4trOnPnDeFU0jU8qa5i9xX"
+    },
+    {
+      "added_at": "2024-10-18 04:03:13",
+      "album": {
+        "name": "Freedom Of The Night",
+        "url": "https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Freedom Of The Night",
+      "url": "https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu"
     },
     {
       "added_at": "2024-10-18 13:02:25",
@@ -768,7 +800,7 @@
           "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
         }
       ],
-      "duration_ms": 177818,
+      "duration_ms": 179370,
       "name": "ROCKMAN",
       "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
     },
@@ -835,46 +867,6 @@
       "duration_ms": 171433,
       "name": "TRUST!",
       "url": "https://open.spotify.com/track/0bxWdk5xYFcV7cm0tj6Q0R"
-    },
-    {
-      "added_at": "2024-10-18 07:02:46",
-      "album": {
-        "name": "Escape From Planet Monday",
-        "url": "https://open.spotify.com/album/6jCSQjMDY7imZ95OUQNdeD"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        },
-        {
-          "name": "LUSU",
-          "url": "https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s"
-        },
-        {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 194571,
-      "name": "Escape From Planet Monday",
-      "url": "https://open.spotify.com/track/2IqFYZ4Vocia7PmzEZh67r"
-    },
-    {
-      "added_at": "2024-10-18 07:02:46",
-      "album": {
-        "name": "Save Us",
-        "url": "https://open.spotify.com/album/4Bu1lKK7gpHfQJcTQnqXCc"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Save Us",
-      "url": "https://open.spotify.com/track/5oM4P7PDvNQgJZYTni9b3B"
     }
   ],
   "unique_name": "New Singles Now",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0gOulRKExULOXb2olkSdfa.md) - [plain]
 
 > feel good jams
 
-[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 1 like - 23 songs - 1 hr 8 min
+[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 1 like - 24 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/0gOulRKExULOXb2olkSdfa.md) - [plain]
 | 13 | [Sociopath](https://open.spotify.com/track/0xx5CXMss5CFv2GPkg97aC) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Bryce Fox](https://open.spotify.com/artist/6g878dtAhjegRHVe5X0ALf) | [Sociopath](https://open.spotify.com/album/1ULTtkDHtkueGlH7isNkAl) | 3:24 |
 | 14 | [Ghost](https://open.spotify.com/track/30uCmqegKQnH5AbOE51gPD) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Ghost](https://open.spotify.com/album/3h1NpsC8ScXsPHHzJZLH7m) | 2:49 |
 | 15 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 |
-| 16 | [Charlie's Inferno](https://open.spotify.com/track/1ONC00cKNdFgKiATMtcxEc) | [That Handsome Devil](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT) | [The Heart Goes to Heaven, The Head Goes to Hell](https://open.spotify.com/album/19nAM8YpXFtHaAT9ZfTha4) | 3:44 |
+| 16 | [Charlie's Inferno](https://open.spotify.com/track/1ONC00cKNdFgKiATMtcxEc) | [That Handsome Devil](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT) | [The Heart Goes to Heaven, the Head Goes to Hell](https://open.spotify.com/album/19nAM8YpXFtHaAT9ZfTha4) | 3:44 |
 | 17 | [Alright](https://open.spotify.com/track/00Crfvu3dp6IBtAE6CzSVT) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Happy Songs 2010](https://open.spotify.com/album/3rHwqq6ssBUCrqOulc980p) | 3:02 |
 | 18 | [Strange Love](https://open.spotify.com/track/51kzBRf8LFVFybAs7n71y4) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/54YxdzALRQHJYWPrgCHmo1) | 2:31 |
 | 19 | [Die Happy](https://open.spotify.com/track/3sZSnOUL2kskr3gpyXCEWk) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Die Happy](https://open.spotify.com/album/4CuNmnvTXi3R5cDqgf5poF) | 3:06 |
@@ -31,5 +31,6 @@ pretty - [cumulative](/playlists/cumulative/0gOulRKExULOXb2olkSdfa.md) - [plain]
 | 21 | [HVY MTL DRMR](https://open.spotify.com/track/2SGbwxlRzSFjUgsQJyqB8o) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn) | 2:52 |
 | 22 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 |
 | 23 | [Play Date](https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 2:59 |
+| 24 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/4ZUpTMKPYFTfJqamWFU9Zv) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:20 |
 
-Snapshot ID: `AAAAIOM7rxz0laGmO3btozCMYlKKYPtV`
+Snapshot ID: `AAAAITpOhx9jbQ/RBUwHWMfciUapP4tJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Gli astri nascenti del pop italiano 🔮 Cover: Olly e Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,803 likes - 91 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,805 likes - 91 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 15 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 |
 | 16 | [Sott'acqua](https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx) | [FRENÈSYA](https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW), [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [Sott'acqua](https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF) | 3:11 |
 | 17 | [Le Ore](https://open.spotify.com/track/3Tsoph6eDqtW1E5NKk4b8B) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Le Ore / Poesia](https://open.spotify.com/album/4AIqAnYJti6as9GV7Pn32p) | 3:41 |
-| 18 | [Spazio](https://open.spotify.com/track/3fGeysu1uiOsVJiIquAS8e) | [Coma](https://open.spotify.com/artist/2K6TBg4VeFmf4oXv9TxjOf), [Alice](https://open.spotify.com/artist/5kOyFRpv7YL38N5SemyS8B) | [Lova](https://open.spotify.com/album/4GEvFSRH5JBbLFS3yydXaP) | 3:12 |
+| 18 | [Spazio](https://open.spotify.com/track/3fGeysu1uiOsVJiIquAS8e) | [Coma](https://open.spotify.com/artist/2K6TBg4VeFmf4oXv9TxjOf), [Alice](https://open.spotify.com/artist/2secXZJFel5sboofeiGQyk) | [Lova](https://open.spotify.com/album/4GEvFSRH5JBbLFS3yydXaP) | 3:12 |
 | 19 | [Tram 83](https://open.spotify.com/track/7CjcnGl6OypX57bxgnOAFr) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Tram 83](https://open.spotify.com/album/3qltLSjCXhJuO4OWVFEqcd) | 2:23 |
 | 20 | [8 PM](https://open.spotify.com/track/6dcZGdXWWGyrfxq8MLqXIX) | [jiojio](https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp) | [8 PM](https://open.spotify.com/album/4WENYnSEuWaTQD3ulS5U8V) | 3:14 |
 | 21 | [Le nuvole diranno di no](https://open.spotify.com/track/1uOdICZkkDtv25M51NQyDu) | [Kikì](https://open.spotify.com/artist/0JaXfkiX5jqxlEeCbTvQEn) | [Le nuvole diranno di no](https://open.spotify.com/album/3Hht0eAXpOz2Jl0VLPheKj) | 2:19 |

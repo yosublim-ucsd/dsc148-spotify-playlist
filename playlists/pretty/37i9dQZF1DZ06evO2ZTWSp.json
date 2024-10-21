@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 487802,
+  "num_followers": 487786,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGlAAAAAAB8YMU5h4ZYONHVTnoagWlF",
+  "snapshot_id": "ZxL2gAAAAACfR+Blq0dwE0HzGGofEprj",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Sessions (Live at SXSW 2014)",
-        "url": "https://open.spotify.com/album/36YdveJJhT49E0blTQODsS"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 316510,
-      "name": "A Change Is Gonna Come (feat. Lizzo) - Live at SXSW 2013",
-      "url": "https://open.spotify.com/track/2z6qRBkf6jjWUuzLA9CXO0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth Hurts (DaBaby Remix)",
         "url": "https://open.spotify.com/album/5Z1L2QX1aTvFy3a6lmmHlE"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 197610,
       "name": "Truth Hurts (DaBaby Remix)",
       "url": "https://open.spotify.com/track/01jBJGEa9Ex9W2IjkIzuY6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Sessions (Live at SXSW 2014)",
+        "url": "https://open.spotify.com/album/36YdveJJhT49E0blTQODsS"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 316510,
+      "name": "A Change Is Gonna Come (feat. Lizzo) - Live at SXSW 2013",
+      "url": "https://open.spotify.com/track/2z6qRBkf6jjWUuzLA9CXO0"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nu Collection: Hip-Hop (Urban & Modern Beats)",
+        "url": "https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 229918,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pink Panther",
         "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 159715,
       "name": "Pink Panther",
       "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nu Collection: Hip-Hop (Urban & Modern Beats)",
-        "url": "https://open.spotify.com/album/65XHw9qRihPjtVcNlK13aV"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 229918,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/1K1fIC6UYSQbN9BlW1RWAC"
     },
     {
       "added_at": null,

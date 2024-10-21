@@ -9258,7 +9258,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 156923,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
@@ -29100,7 +29100,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 212600,
       "name": "Pikkukaupungin Kuumin Kissa",
       "url": "https://open.spotify.com/track/10tacfDhlu9hUsqQFo2Hye"
@@ -36818,7 +36818,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 197027,
       "name": "Taulut (feat. Costi)",
       "url": "https://open.spotify.com/track/6ts28afrgkAWqSAbhkN01U"
@@ -39084,6 +39084,24 @@
       "duration_ms": 168360,
       "name": "T\u00e4ss\u00e4 on kaikki",
       "url": "https://open.spotify.com/track/1C3tE6tQRqImcZzWp9u3OQ"
+    },
+    {
+      "album": {
+        "name": "T\u00e4ss\u00e4 talossa (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+        "url": "https://open.spotify.com/album/0SjCPyKz0kmzFmQiKVLTEF"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221997,
+      "name": "T\u00e4ss\u00e4 talossa (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
+      "url": "https://open.spotify.com/track/5pVeRXVETICXpLObQ6gPZ7"
     },
     {
       "album": {

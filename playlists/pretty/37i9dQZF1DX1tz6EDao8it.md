@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,484 likes - 129 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,728 likes - 129 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 43 | [Tara's Theme \(From "Gone with the Wind" 1939\)](https://open.spotify.com/track/2snz7Wi9ImuxwqHlcBNFrB) | [Max Steiner](https://open.spotify.com/artist/3llWEEOW2xNfiKsXXWjrwl), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [Cinema Serenade II \- "The Golden Age"](https://open.spotify.com/album/2IZ2iUEtTifqUkwx5oCeFy) | 3:32 |
 | 44 | [Armstrong Cabin](https://open.spotify.com/track/0UJEym12sdx3m5UlY2HYfp) | [Justin Hurwitz](https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj) | [First Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NFpOHIv0hJa9of0IQsgKw) | 1:15 |
 | 45 | [Main Title](https://open.spotify.com/track/4Rhue1CTPr3n1P3Zs0jPwU) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [Alien](https://open.spotify.com/album/2ubcKYeOHGJ5UHHNBAuaKb) | 4:12 |
-| 46 | [Logos / The Matrix Main Title](https://open.spotify.com/track/1FwhTB4R0lOWII5tc6cl9P) | [Don Davis](https://open.spotify.com/artist/3eCpCUtYdBCM1twAb4mk8I) | [The Matrix \- The Complete Score](https://open.spotify.com/album/6D2bGAKmIYtMQtL14c4vAb) | 0:53 |
+| 46 | [Logos / The Matrix Main Title](https://open.spotify.com/track/1FwhTB4R0lOWII5tc6cl9P) | [Don Davis](https://open.spotify.com/artist/3eCpCUtYdBCM1twAb4mk8I) | [The Matrix \(The Complete Score\)](https://open.spotify.com/album/6D2bGAKmIYtMQtL14c4vAb) | 0:53 |
 | 47 | [La leçon particulière \- Bande originale du film "La leçon particulière"](https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn), [Christian Gaubert](https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT) | [Mayerling](https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz) | 1:45 |
 | 48 | [Hymn To The Fallen \- From "Saving Private Ryan" Soundtrack](https://open.spotify.com/track/71zPpqRMdkEUCl7cPQIBrV) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Saving Private Ryan](https://open.spotify.com/album/60Ymcp3amHOWlPfPnNeNSI) | 6:10 |
 | 49 | [Main Title \(I Had A Farm In Africa\)](https://open.spotify.com/track/2CVcuBnF52i0gPba28XWgx) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [Out Of Africa \(Music From The Motion Picture Soundtrack\)](https://open.spotify.com/album/1o8Ou3UVA5ob0cXPuml17u) | 3:12 |

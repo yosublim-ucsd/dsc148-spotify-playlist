@@ -1,12 +1,12 @@
 {
   "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 764144,
+  "num_followers": 764215,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGlAAAAAABp3TtjDGqbz3iYy9jSPZI0",
+  "snapshot_id": "ZxL2gAAAAADhdix4nIQZutTzv4C1js07",
   "tracks": [
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "rearviewmirror (greatest hits 1991-2003)",
-        "url": "https://open.spotify.com/album/1G1R5dY01DSyti3NaWnOp3"
+        "name": "Backspacer",
+        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 223560,
-      "name": "Man of the Hour",
-      "url": "https://open.spotify.com/track/6WcIDvzwZDqarmaHDy3DoR"
+      "duration_ms": 177400,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backspacer",
-        "url": "https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN"
+        "name": "rearviewmirror (greatest hits 1991-2003)",
+        "url": "https://open.spotify.com/album/1G1R5dY01DSyti3NaWnOp3"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
         }
       ],
-      "duration_ms": 177400,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/0PkOdIbNj8L3e0p1JGIfLO"
+      "duration_ms": 223560,
+      "name": "Man of the Hour",
+      "url": "https://open.spotify.com/track/6WcIDvzwZDqarmaHDy3DoR"
     },
     {
       "added_at": null,

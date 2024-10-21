@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: Gin Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,341 likes - 391 songs - 23 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,345 likes - 391 songs - 23 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 21 | [其實你是我這人物的監製](https://open.spotify.com/track/5n5nazOFuKDzHtEVrWJ7iG) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [其實你是我這人物的監製](https://open.spotify.com/album/2FxbO9j3v7V6kxJmSakRLy) | 4:21 |
 | 22 | [女一](https://open.spotify.com/track/36uFp4Tu85AHSVi6HsqdH9) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [女一](https://open.spotify.com/album/1b39BRMJrjWrENOq4GXcPd) | 3:08 |
 | 23 | [You are so cool](https://open.spotify.com/track/4LwnEq7QgBuskLjTZOhCeN) | [THAIMAY](https://open.spotify.com/artist/74gW37tnBQlQyfXeFog8eC) | [You are so cool](https://open.spotify.com/album/4VK0Xxn8kfPHbuSylIv92P) | 2:33 |
-| 24 | [在一起 \- 劇集《企業強人》片尾曲](https://open.spotify.com/track/0amgqlDzvmEecNiTLY1WRG) | [Vivian Koo](https://open.spotify.com/artist/0TfSuWQ4dWP8Kay5nK17WW) | [在一起 \- 劇集《企業強人》片尾曲](https://open.spotify.com/album/5RHO7NydhLDSx2b1Bi2JU1) | 3:34 |
+| 24 | [在一起 \- 劇集《企業強人》片尾曲](https://open.spotify.com/track/0amgqlDzvmEecNiTLY1WRG) | [Vivian Koo](https://open.spotify.com/artist/0TfSuWQ4dWP8Kay5nK17WW) | [在一起 \(劇集《企業強人》片尾曲\)](https://open.spotify.com/album/5RHO7NydhLDSx2b1Bi2JU1) | 3:34 |
 | 25 | [引我笑](https://open.spotify.com/track/5NV6UYomi1d0o02vPEi0nm) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [引我笑](https://open.spotify.com/album/6a8DC52Ao3RD86JQM0RU9M) | 3:17 |
 | 26 | [一個人行街](https://open.spotify.com/track/2KzcB6TDErJlVTrVnqSBb6) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [自游生物](https://open.spotify.com/album/3KaebcGpZuDfN7WGVqXGFy) | 3:17 |
 | 27 | [外星人接我回去](https://open.spotify.com/track/6GeBNMn9w7i6O6fJnrUt1d) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [外星人接我回去](https://open.spotify.com/album/7m6KVg6aPZIU7Bs0xOtUcN) | 3:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,040 likes - 75 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,107 likes - 75 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 24 | [Anything but Sleep](https://open.spotify.com/track/1K5qcv3a6Y0CSVQLryTlU1) | [Marjana Semkina](https://open.spotify.com/artist/4SgKhFmVKw8lbiXf4hloKt), [Jim Grey](https://open.spotify.com/artist/0QdAari7tW2MfXnUZpiKzc) | [SIRIN](https://open.spotify.com/album/2JLIw5bGZ1dT0YX1KRranV) | 4:24 |
 | 25 | [Picture Perfect](https://open.spotify.com/track/7ftAV0BluUCWNRAP8o9um9) | [Coliah](https://open.spotify.com/artist/0IuJmtLkQJDC3Q4NjqDQqN) | [Picture Perfect](https://open.spotify.com/album/0F4XuURxfUG5yUwtdjuewY) | 4:15 |
 | 26 | [This Red Sky](https://open.spotify.com/track/5UzbnYlSq3H4XsC9KUqpV8) | [Coma Rossi](https://open.spotify.com/artist/5IxE24msVbzRsG6cDxg7KA) | [Void](https://open.spotify.com/album/6oLjcbgkrpJjZmPeJwOkZc) | 8:51 |
-| 27 | [Never Right \- HORSKH Remix](https://open.spotify.com/track/1ZP53sI0x9wUJUhQ24ZnYy) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4), [HORSKH](https://open.spotify.com/artist/64HwzpdqXwxwkAWV5VEXIw) | [Never Right \- HORSKH Remix](https://open.spotify.com/album/2cItFtfqRr7dpucljXwTHM) | 2:43 |
+| 27 | [Never Right \- HORSKH Remix](https://open.spotify.com/track/1ZP53sI0x9wUJUhQ24ZnYy) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4), [HORSKH](https://open.spotify.com/artist/64HwzpdqXwxwkAWV5VEXIw) | [Never Right \(HORSKH Remix\)](https://open.spotify.com/album/2cItFtfqRr7dpucljXwTHM) | 2:43 |
 | 28 | [Blast of Silence](https://open.spotify.com/track/2EhBaUmjUCkULpO8aDBdSA) | [O.R.k.](https://open.spotify.com/artist/5rkJj1VYae5gFozDas6Dsg) | [Blast Of Silence](https://open.spotify.com/album/6AVzZ6OQndJasW4JCZfzrC) | 4:15 |
 | 29 | [Synaesthesia](https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr) | [Weather Systems](https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq) | [Synaesthesia](https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU) | 9:11 |
 | 30 | [All the Rage](https://open.spotify.com/track/3zpcjUIikRrHP3uz6E2tNf) | [Neal Morse](https://open.spotify.com/artist/5N30GOA778sBmLm7FdB5Bq) | [All the Rage](https://open.spotify.com/album/05RRKpehX1NxHo2ncDSEtm) | 5:34 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 68 | [Entangled](https://open.spotify.com/track/5FCpN8T0ibPP5aSIFfHRcp) | [Soul Extract](https://open.spotify.com/artist/1cEPAqNFhmARDe0HgKOD3h) | [Chasms](https://open.spotify.com/album/37bq1IJGX3gp77Dq8cx9zD) | 4:07 |
 | 69 | [The Stargate \[Tablet I\]](https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [The Stargate](https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP) | 8:20 |
 | 70 | [Awakening](https://open.spotify.com/track/1SsCjS2hxhTY0ebE5XAKYu) | [Airbag](https://open.spotify.com/artist/0gTqi1zdqD9s6islG2wLKC) | [The Century of the Self](https://open.spotify.com/album/2fm83K2Z3EwR9dnPy1iiTw) | 6:44 |
-| 71 | [Rei Theme \- From "Hokuto No Ken"](https://open.spotify.com/track/0dQxrhzwpQ1qMUNJFDYCYb) | [Gabriele Motta](https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ) | [Rei Theme \- From "Hokuto No Ken"](https://open.spotify.com/album/21KQyztdCREZ59ZW7qPUpw) | 1:15 |
+| 71 | [Rei Theme \- From "Hokuto No Ken"](https://open.spotify.com/track/0dQxrhzwpQ1qMUNJFDYCYb) | [Gabriele Motta](https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ) | [Rei Theme \(From "Hokuto No Ken"\)](https://open.spotify.com/album/21KQyztdCREZ59ZW7qPUpw) | 1:15 |
 | 72 | [The Piper's Call](https://open.spotify.com/track/4gS6q6RhJfM2QBr8g1U8Mu) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Luck and Strange](https://open.spotify.com/album/5ds8DFWVozMIxRP3qr5Vii) | 5:15 |
 | 73 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 |
 | 74 | [Untouchable Part 3](https://open.spotify.com/track/6s9852tBFBI3DgKB0Wo12y) | [Weather Systems](https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq) | [Ocean Without A Shore](https://open.spotify.com/album/4cFRMe9xsqQ47SmaSDklKb) | 5:55 |

@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 212020,
       "name": "Ahamprehma",
       "url": "https://open.spotify.com/track/5VJMbEWm0WBa9Sx9jvSReZ"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 158095,
       "name": "Believe In The Music",
       "url": "https://open.spotify.com/track/5Vwz4Sg0wQ78MaaoQYzbOA"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 164307,
       "name": "Bellakeo",
       "url": "https://open.spotify.com/track/0i2h5bvXf7j4Agf5WX7www"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 151384,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/6jSp2mezTWMDY6RZnbjZo5"
@@ -2450,7 +2450,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 209733,
       "name": "Fractures",
       "url": "https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9"
@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 202500,
       "name": "Gasolina Flow - Radio Edit",
       "url": "https://open.spotify.com/track/6pCL68zckPDmwbvcBO0ZQ2"
@@ -3620,7 +3620,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 236254,
       "name": "Kickin",
       "url": "https://open.spotify.com/track/3eOvuzq1P0Sn4HNZI8vw21"
@@ -6252,7 +6252,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 191612,
       "name": "Sunrise Demon",
       "url": "https://open.spotify.com/track/0mwTV1ZQYexuc7IesFfS9c"
@@ -6336,7 +6336,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 183398,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/6y410lrKkBp9GEBcaeXrKq"
@@ -6609,6 +6609,28 @@
     },
     {
       "album": {
+        "name": "The Alchemist (Burko Remix)",
+        "url": "https://open.spotify.com/album/4qg8OSVeEfLYi8q51HqMEj"
+      },
+      "artists": [
+        {
+          "name": "KARM\u00c5",
+          "url": "https://open.spotify.com/artist/68wToUbLTGUo7CdzSll22h"
+        },
+        {
+          "name": "Burko",
+          "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248503,
+      "name": "The Alchemist - Burko Remix",
+      "url": "https://open.spotify.com/track/7C4qEi8RjY9GkGT72BLYPD"
+    },
+    {
+      "album": {
         "name": "The Chillin",
         "url": "https://open.spotify.com/album/3EBd2NbygikDDzcv1dZoYX"
       },
@@ -6638,7 +6660,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 201600,
       "name": "The Climb",
       "url": "https://open.spotify.com/track/7GSjImVncKoQdfSaRuJA5O"
@@ -6940,7 +6962,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 138095,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/3CT0Cb1X3dnBUJ4N4VAOZS"

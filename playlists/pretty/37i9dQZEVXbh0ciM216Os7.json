@@ -6,23 +6,23 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAxVsw/odNJW3jTaLtmrDbr",
+  "snapshot_id": "AAAAAAAAAABioKO5MLPTaReRPziKpfz0",
   "tracks": [
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Warm Beers",
-        "url": "https://open.spotify.com/album/00L7SMZVEF6kj8QyLIe82E"
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/1Aa7IJ0XzdyMISGbORyIHO"
       },
       "artists": [
         {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
         }
       ],
-      "duration_ms": 216067,
-      "name": "Warm Beers",
-      "url": "https://open.spotify.com/track/3sbdqZVzWv5amY4iQXqo8Y"
+      "duration_ms": 172800,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/5UHCmvbQn8UoM6Zsv8LKyc"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -67,22 +67,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "If You Can Count",
-      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Frankenstein",
         "url": "https://open.spotify.com/album/3EmpiBiVuoGvd2WI0lD4ZY"
       },
@@ -103,18 +87,46 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/1Aa7IJ0XzdyMISGbORyIHO"
+        "name": "A-1 LAVA",
+        "url": "https://open.spotify.com/album/5Farm7FFFdcOn5dGCm5apo"
       },
       "artists": [
         {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+          "name": "Blacklovefresh",
+          "url": "https://open.spotify.com/artist/70ygKaX8FRoaJ4He1VOddf"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/5UHCmvbQn8UoM6Zsv8LKyc"
+      "duration_ms": 207621,
+      "name": "A-1 LAVA",
+      "url": "https://open.spotify.com/track/2pV8qo0XORuBS1PXTUuvpn"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "SI NO ES CONTIGO (REMIX)",
+        "url": "https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "SI NO ES CONTIGO - REMIX",
+      "url": "https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -167,22 +179,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "A-1 LAVA",
-        "url": "https://open.spotify.com/album/5Farm7FFFdcOn5dGCm5apo"
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
       },
       "artists": [
         {
-          "name": "Blacklovefresh",
-          "url": "https://open.spotify.com/artist/70ygKaX8FRoaJ4He1VOddf"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
         }
       ],
-      "duration_ms": 207621,
-      "name": "A-1 LAVA",
-      "url": "https://open.spotify.com/track/2pV8qo0XORuBS1PXTUuvpn"
+      "duration_ms": 204733,
+      "name": "If You Can Count",
+      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -203,26 +211,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "SI NO ES CONTIGO (REMIX)",
-        "url": "https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj"
+        "name": "Warm Beers",
+        "url": "https://open.spotify.com/album/00L7SMZVEF6kj8QyLIe82E"
       },
       "artists": [
         {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],
-      "duration_ms": 254500,
-      "name": "SI NO ES CONTIGO - REMIX",
-      "url": "https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw"
+      "duration_ms": 216067,
+      "name": "Warm Beers",
+      "url": "https://open.spotify.com/track/3sbdqZVzWv5amY4iQXqo8Y"
     },
     {
       "added_at": "2024-10-18 04:00:00",

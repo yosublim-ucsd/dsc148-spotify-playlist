@@ -354,6 +354,28 @@
     {
       "album": {
         "name": "Ralph Hardy Presents: Growing Pains",
+        "url": "https://open.spotify.com/album/48baKeoFTdf4uXppxVVQ9H"
+      },
+      "artists": [
+        {
+          "name": "NANG",
+          "url": "https://open.spotify.com/artist/2f735jaHxcgTKYu0kgWfA9"
+        },
+        {
+          "name": "Emmavie",
+          "url": "https://open.spotify.com/artist/69y3KWvDvlFSv7IPmnjhqY"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237338,
+      "name": "Dough",
+      "url": "https://open.spotify.com/track/1u5Zxm3k7E45oQCaWZO5Qj"
+    },
+    {
+      "album": {
+        "name": "Ralph Hardy Presents: Growing Pains",
         "url": "https://open.spotify.com/album/6WYBxfZ982VeFEV9x5sdav"
       },
       "artists": [
@@ -368,7 +390,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 237338,
       "name": "Dough",
       "url": "https://open.spotify.com/track/683WNpHgqToxbMf68lxxdk"

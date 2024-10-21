@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover: FOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,723 likes - 89 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,762 likes - 89 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 53 | [Jogodo](https://open.spotify.com/track/5I0j0gw2TMhjcii9EW2VOH) | [Jaypizzle](https://open.spotify.com/artist/7m2YS3Z0kOYnllpJBaR792), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Volumes](https://open.spotify.com/album/2HLWeCMgXmKvrZNRbJj9iD) | 2:35 |
 | 54 | [365](https://open.spotify.com/track/04E8u3YScYYjwOoMzTm19T) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [KAUTION](https://open.spotify.com/album/5pCpOoJ3fVv0FkPfaIl8SW) | 2:11 |
 | 55 | [ON MY MIND \- OMM](https://open.spotify.com/track/6TqQQ3h7HPmg7piQ7D6rbM) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k), [Ojahbee](https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY) | [OFA \(Oxlade From Africa\)](https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5) | 3:06 |
-| 56 | [Mentali](https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT) | [Mentali](https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH) | 2:30 |
+| 56 | [Mentali](https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Mentali](https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH) | 2:30 |
 | 57 | [Hardest Babe](https://open.spotify.com/track/645fiSovmhWhotSv00WcHT) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Hardest Babe](https://open.spotify.com/album/4ads4crCwlT9BU7Jvgfdoo) | 2:06 |
 | 58 | [Shout](https://open.spotify.com/track/7lpPd7U9zYc6gDnP8k3rhL) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Shout](https://open.spotify.com/album/3dGRqq7EliVcR2rMERd78H) | 2:24 |
 | 59 | [FOCUS](https://open.spotify.com/track/2c79pT6zVLY2FFHgcRtmD9) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Clouds](https://open.spotify.com/album/1NX6VIh1TwDjzXOUc1pyPB) | 2:09 |

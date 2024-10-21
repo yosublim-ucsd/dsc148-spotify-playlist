@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA at Drumsheds ",
-  "num_followers": 63944,
+  "num_followers": 63970,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-14 12:37:48",
       "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 215327,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
-    },
-    {
-      "added_at": "2024-10-14 12:37:48",
-      "album": {
         "name": "Behemoth",
         "url": "https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2024-10-14 12:37:48",
       "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 215327,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
+    },
+    {
+      "added_at": "2024-10-14 12:37:48",
+      "album": {
         "name": "Bass",
         "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 125567,
       "name": "Bass",
       "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
+    },
+    {
+      "added_at": "2024-10-14 12:37:48",
+      "album": {
+        "name": "Ghosting Your Love",
+        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 199728,
+      "name": "Ghosting Your Love",
+      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
     },
     {
       "added_at": "2024-10-14 12:37:48",
@@ -967,38 +983,6 @@
     {
       "added_at": "2024-10-14 12:37:48",
       "album": {
-        "name": "Ghosting Your Love",
-        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 199728,
-      "name": "Ghosting Your Love",
-      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
-    },
-    {
-      "added_at": "2024-10-14 12:37:48",
-      "album": {
-        "name": "bailejungle",
-        "url": "https://open.spotify.com/album/3AHlB9soIbmWf533WDG1eW"
-      },
-      "artists": [
-        {
-          "name": "Urbandawn",
-          "url": "https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX"
-        }
-      ],
-      "duration_ms": 163449,
-      "name": "bailejungle",
-      "url": "https://open.spotify.com/track/4wkeHElj4wfEb8WSUah3xz"
-    },
-    {
-      "added_at": "2024-10-14 12:37:48",
-      "album": {
         "name": "Robocop",
         "url": "https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 181714,
       "name": "Robocop",
       "url": "https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO"
+    },
+    {
+      "added_at": "2024-10-14 12:37:48",
+      "album": {
+        "name": "bailejungle",
+        "url": "https://open.spotify.com/album/3AHlB9soIbmWf533WDG1eW"
+      },
+      "artists": [
+        {
+          "name": "Urbandawn",
+          "url": "https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX"
+        }
+      ],
+      "duration_ms": 163449,
+      "name": "bailejungle",
+      "url": "https://open.spotify.com/track/4wkeHElj4wfEb8WSUah3xz"
     },
     {
       "added_at": "2024-10-14 12:37:48",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2024-10-14 12:37:48",
       "album": {
-        "name": "Relapse EP",
-        "url": "https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV"
+        "name": "OH SHIT",
+        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
       },
       "artists": [
         {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Dreps",
+          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
         }
       ],
-      "duration_ms": 268285,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv"
+      "duration_ms": 133714,
+      "name": "OH SHIT",
+      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
     }
   ],
   "unique_name": "Jump Up!",

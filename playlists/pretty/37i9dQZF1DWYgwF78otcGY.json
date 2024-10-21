@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29759,
+  "num_followers": 29756,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Euphoria - Single Version",
-      "url": "https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
         "name": "If I Were Sorry",
         "url": "https://open.spotify.com/album/7e5vrZ4iPy74CmBgbIpQKX"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 184060,
       "name": "If I Were Sorry",
       "url": "https://open.spotify.com/track/6oDkCmfVcSd9NXAKk1b4Ll"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
         "name": "Bra vibrationer",
         "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 184733,
       "name": "Cara mia",
       "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
+        "name": "H\u00f6gt \u00f6ver havet",
+        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
+      },
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "H\u00f6gt \u00f6ver havet",
+      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
         "name": "Kizunguzungu",
         "url": "https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 179893,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
-        "name": "H\u00f6gt \u00f6ver havet",
-        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "H\u00f6gt \u00f6ver havet",
-      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
+        "name": "Mera mera mera",
+        "url": "https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw"
+      },
+      "artists": [
+        {
+          "name": "EMIL HENROHN",
+          "url": "https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH"
+        }
+      ],
+      "duration_ms": 178168,
+      "name": "Mera mera mera",
+      "url": "https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
         "name": "Det blir vad du g\u00f6r det till",
         "url": "https://open.spotify.com/album/0ZZPKcI9MClojLecRZguDs"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Mera mera mera",
-        "url": "https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw"
+        "name": "Disco Defenders",
+        "url": "https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww"
       },
       "artists": [
         {
-          "name": "EMIL HENROHN",
-          "url": "https://open.spotify.com/artist/6EukzZB91A7PNphXSLEgZH"
+          "name": "Alcazar",
+          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
         }
       ],
-      "duration_ms": 178168,
-      "name": "Mera mera mera",
-      "url": "https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP"
+      "duration_ms": 181680,
+      "name": "Blame It On The Disco",
+      "url": "https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -727,22 +743,6 @@
       "duration_ms": 176578,
       "name": "90-talet",
       "url": "https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
-        "name": "Disco Defenders",
-        "url": "https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww"
-      },
-      "artists": [
-        {
-          "name": "Alcazar",
-          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Blame It On The Disco",
-      "url": "https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Ashes To Ashes",
-        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
-      },
-      "artists": [
-        {
-          "name": "Anna Bergendahl",
-          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
-        }
-      ],
-      "duration_ms": 180883,
-      "name": "Ashes To Ashes",
-      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
         "name": "Live Forever - The Album (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
+        "name": "Ashes To Ashes",
+        "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
       },
       "artists": [
         {
-          "name": "Mendez",
-          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
+          "name": "Anna Bergendahl",
+          "url": "https://open.spotify.com/artist/2QLxag7UehMTlparZcbQn9"
         }
       ],
-      "duration_ms": 185239,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
+      "duration_ms": 180883,
+      "name": "Ashes To Ashes",
+      "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -859,6 +843,22 @@
       "duration_ms": 181586,
       "name": "Min k\u00e4rlek",
       "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
+      },
+      "artists": [
+        {
+          "name": "Mendez",
+          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
+        }
+      ],
+      "duration_ms": 185239,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
     }
   ],
   "unique_name": "Mellofest! ",

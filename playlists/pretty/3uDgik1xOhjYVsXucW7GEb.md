@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/3uDgik1xOhjYVsXucW7GEb.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pills N Potions](https://open.spotify.com/track/2bkyTJ4bAnc8a5ly3dg9DX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \- Deluxe](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 4:28 |
+| 1 | [Pills N Potions](https://open.spotify.com/track/2bkyTJ4bAnc8a5ly3dg9DX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 4:28 |
 | 2 | [Rolex](https://open.spotify.com/track/201dKRH0XwjABPCvsyWwXw) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Reclassified](https://open.spotify.com/album/3Q7SysxADH9iI1Z85Xvfv8) | 3:23 |
 | 3 | [Take A Bow](https://open.spotify.com/track/3goSVuTt3fDYDP6kRnFwuL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:49 |
 | 4 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |

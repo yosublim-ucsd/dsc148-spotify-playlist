@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Antonin Padilla, La Cuatiza
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,316 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,362 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 52 | [Nunca La Olvidé](https://open.spotify.com/track/7MIuqMdI4Tr2a1kvVxVZXz) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Entre Cuerdas y Botellas, Vol\. 1](https://open.spotify.com/album/0fUFcB85n5NrEh6WHQ1H3p) | 2:19 |
 | 53 | [Pido El Favor](https://open.spotify.com/track/5h6IU9XD9DZYfUdRkcz4Ty) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Pido El Favor](https://open.spotify.com/album/3eM4OJVix2lLDXWRIy85wx) | 3:20 |
 | 54 | [Mercedes](https://open.spotify.com/track/2nScdE9zhFz3oPYb7AW5GT) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Mercedes](https://open.spotify.com/album/6TI3ORjQjDwmnxpEm4V2oX) | 2:13 |
-| 55 | [Se Cansó \- En Vivo](https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Se Cansó \- En Vivo](https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM) | 3:14 |
+| 55 | [Se Cansó \- En Vivo](https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Se Cansó \(En Vivo\)](https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM) | 3:14 |
 | 56 | [F\*%K U Baby](https://open.spotify.com/track/0vZmz50wDnBhILCE1eHNyB) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [F\*%K U Baby](https://open.spotify.com/album/6Kozw1RDnshSWyZaaAZagg) | 2:33 |
 | 57 | [GPI 2](https://open.spotify.com/track/7EHqrUI6cBxhCabAk6i5uJ) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [GPI 2](https://open.spotify.com/album/1g43ZhEo694o5QrrAobO1h) | 3:09 |
 | 58 | [Notredame](https://open.spotify.com/track/6MMtGsp4X3kDjfb1oG4WHr) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Notredame](https://open.spotify.com/album/3mtyNz21MzxkG0PfR1bI9T) | 2:49 |

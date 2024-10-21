@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-989 songs - 2 day 23 hr 6 min
+990 songs - 2 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,7 +606,7 @@
 | [One More Hour](https://open.spotify.com/track/1sWnKhSzwYXkdS9ri2HwPE) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [One More Hour](https://open.spotify.com/album/0sp3BCsO6JxuD7JkWl8HAH) | 5:37 | 2024-06-14 |  |
 | [One Step Forward](https://open.spotify.com/track/0rIzxXL4cQzPBFtF2NsOSI) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust in Me \- EP](https://open.spotify.com/album/0f8vVaVqgqyVnzeB4m67R0) | 3:19 | 2019-06-19\* | 2022-04-21 |
 | [One Step Forward](https://open.spotify.com/track/5Xo1kp4UljShBuvV5PZfLj) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Trust In Me](https://open.spotify.com/album/1PXbhHNw3nz8hhYXyICbpA) | 3:19 | 2022-09-09 | 2024-04-19 |
-| [Oneness \- Ouhana Remix](https://open.spotify.com/track/4iqNvncs9sSJ89exI8t2rC) | [Belau](https://open.spotify.com/artist/3P6lDrnBON2Q48dZHQO0ya), [Ouhana](https://open.spotify.com/artist/3tVHTq8WIDFyayynQFPKo1) | [Apriori \- Deluxe Edition](https://open.spotify.com/album/6uwNoWtWAp4OHHRNSCrfaq) | 3:57 | 2024-10-07 |  |
+| [Oneness \- Ouhana Remix](https://open.spotify.com/track/4iqNvncs9sSJ89exI8t2rC) | [Belau](https://open.spotify.com/artist/3P6lDrnBON2Q48dZHQO0ya), [Ouhana](https://open.spotify.com/artist/3tVHTq8WIDFyayynQFPKo1) | [Apriori \(Deluxe Edition\)](https://open.spotify.com/album/6uwNoWtWAp4OHHRNSCrfaq) | 3:57 | 2024-10-07 |  |
 | [Only In My Dreams](https://open.spotify.com/track/3ob0c8nlB7C6HdfEQLhdV4) | [Notaker](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En) | [PATH.FINDER](https://open.spotify.com/album/5wUNp46OQcNgYbjXSNYjYy) | 4:42 | 2019-06-19\* | 2020-10-22 |
 | [Open](https://open.spotify.com/track/2rExrHfNjFgSuAZnrcuCqL) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF), [Sam Brookes](https://open.spotify.com/artist/2QfiISy54lQqFOiZV5f1Zh) | [Café del Mar ChillWave 3](https://open.spotify.com/album/1DdsNCQ32Zoc8RtYB3sdPq) | 4:24 | 2019-06-19 | 2020-10-22 |
 | [Open Doors](https://open.spotify.com/track/7q42RrxgVbwqHrFUIj6w4E) | [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [Inhibited LP](https://open.spotify.com/album/0WXEIsq4MYVxkK7Ap3YIfM) | 3:23 | 2020-08-26 | 2022-04-20 |
@@ -951,6 +951,7 @@
 | [Warm Blue](https://open.spotify.com/track/1GdkGsln9i2RYro5gTAht7) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 2:46 | 2019-06-19\* | 2020-10-22 |
 | [Warming Up](https://open.spotify.com/track/1PpS40SKQ4u9KTTAv1KXSE) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Warming Up](https://open.spotify.com/album/1FywCzskbD9gfasRPHut3A) | 3:36 | 2021-02-26 | 2022-04-20 |
 | [Warming Up](https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information \(Redacted\)](https://open.spotify.com/album/12gAB26MYzHb34WYOxjM3W) | 3:36 | 2022-09-09 | 2024-04-19 |
+| [Warrior In A Garden](https://open.spotify.com/track/0skfkbeLcUriEysR0loZ7D) | [Arli Liberman](https://open.spotify.com/artist/3gVNQN1b6HpdFzMbo2jE5k) | [Stylebender \(Original Score\)](https://open.spotify.com/album/3llgM3f8f4jNNn3W4URe0f) | 2:40 | 2024-10-11 |  |
 | [Water Garden](https://open.spotify.com/track/5XI8zR1T3ASCaZTe0M6RXe) | [Super Duper](https://open.spotify.com/artist/5zFMLXUnqxwdgTpLCX9LDj) | [Water Garden](https://open.spotify.com/album/5jKT5HC6OXxPT06dbMnR46) | 3:23 | 2019-06-19\* | 2020-08-26 |
 | [Watercolors](https://open.spotify.com/track/22AC6x9rnv84nmW3HkQEPj) | [Bituke](https://open.spotify.com/artist/3VCEbWGFkgN6oLTMvkhl2M) | [Watercolors](https://open.spotify.com/album/4a8JZGRm9rFdUXwO1HdsK3) | 2:50 | 2019-06-19\* | 2020-08-26 |
 | [Wave Propagation](https://open.spotify.com/track/34p5mFJ2yMJJBewufyvq4s) | [10th Letter](https://open.spotify.com/artist/157BopKUKZXtvl8CFdUok2) | [Prism Scale](https://open.spotify.com/album/4FHp17Yu5qXZ5yOnDCmYZt) | 2:47 | 2020-08-26 | 2021-03-06 |
@@ -990,7 +991,7 @@
 | [Yellow Bird](https://open.spotify.com/track/1r5J8bYOWq1Dal5jMQ06WX) | [Pretty Lights](https://open.spotify.com/artist/4iVhFmG8YCCEHANGeUUS9q) | [A Color Map of the Sun \(Deluxe Version\)](https://open.spotify.com/album/4LcmZzFiH4gmNk8meb66iO) | 5:39 | 2019-06-24 | 2020-08-26 |
 | [Yip, Yip, Yip](https://open.spotify.com/track/0Jdoa0h7JwqZIxuRbddFAD) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [Yip, Yip, Yip](https://open.spotify.com/album/0rk3qC18ghOoB7M4ge5kyO) | 2:03 | 2024-02-12 | 2024-05-09 |
 | [You Left Me](https://open.spotify.com/track/18IYGcquutjcLam5wN7HRq) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love Exposure](https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX) | 3:21 | 2021-01-11 |  |
-| [Yu](https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Yu](https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm) | 2:40 | 2024-05-24 |  |
+| [Yu](https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Yu](https://open.spotify.com/album/0iwiwHyXryr3N8zjHzJdRm) | 2:40 | 2024-05-24 | 2024-10-21 |
 | [Yūrei](https://open.spotify.com/track/0WGzvQMqARePYxra8qZgOr) | [Parris](https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt) | [Polychrome Swim](https://open.spotify.com/album/5BdjVQkPnr10XILcaiVwhi) | 3:58 | 2020-11-13 | 2022-04-16 |
 | [zero hour contract](https://open.spotify.com/track/0OfvPrxmGF63QBUjnXyzU3) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [emo\_ecstasy\_everything](https://open.spotify.com/album/5Z7spMFDZwAAQsNhS16gV8) | 4:12 | 2020-10-28 | 2022-06-22 |
 | [zin2 test5](https://open.spotify.com/track/6OGlcUOK8B9Nfy8v5LHsYQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f / in a room7 F760](https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2) | 2:39 | 2023-07-28 | 2023-10-14 |

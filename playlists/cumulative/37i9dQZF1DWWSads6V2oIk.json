@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Forest Crickets at Sunset",
+        "url": "https://open.spotify.com/album/4RcdjQKEwOcwtKpaKPp4Jn"
+      },
+      "artists": [
+        {
+          "name": "Recording Nature",
+          "url": "https://open.spotify.com/artist/2x6v7aNgZjdgT9zyua8iCz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276267,
+      "name": "Crickets at Night",
+      "url": "https://open.spotify.com/track/3qnD3t26zyroCTZKq1KtUD"
+    },
+    {
+      "album": {
         "name": "Highway Birds",
         "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
       },
@@ -614,7 +632,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 151576,
       "name": "Ghosts of the Woods",
       "url": "https://open.spotify.com/track/2Z3NZCHCW05TxANQYPyuYj"

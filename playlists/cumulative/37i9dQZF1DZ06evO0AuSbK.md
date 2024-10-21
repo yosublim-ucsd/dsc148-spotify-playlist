@@ -2,7 +2,7 @@
 
 ### [This Is Limp Bizkit](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AuSbK)
 
-> This is Limp Bizkit\. The essential tracks, all in one playlist.
+> This Is Limp Bizkit\. Los temas esenciales, todos en una lista.
 
 51 songs - 3 hr 23 min
 

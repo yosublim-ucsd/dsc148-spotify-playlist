@@ -2326,7 +2326,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 213846,
       "name": "Allo",
       "url": "https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5"
@@ -9706,6 +9706,32 @@
       "duration_ms": 213607,
       "name": "EDO POU M'AFISES",
       "url": "https://open.spotify.com/track/7FeFn3Logx1WPueRdk26Rj"
+    },
+    {
+      "album": {
+        "name": "Eforia",
+        "url": "https://open.spotify.com/album/4QXbIx0AstIuqtFKCqRhje"
+      },
+      "artists": [
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136111,
+      "name": "Eforia",
+      "url": "https://open.spotify.com/track/5x2xRWcmjgkDkvShlGKkuR"
     },
     {
       "album": {
@@ -24194,7 +24220,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -30450,7 +30476,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 233009,
       "name": "Romanzo Criminale",
       "url": "https://open.spotify.com/track/3nwkz9CX6H0Qie8ehtmyON"

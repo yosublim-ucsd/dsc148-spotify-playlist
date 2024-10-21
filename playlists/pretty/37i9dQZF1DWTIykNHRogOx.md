@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Le meilleur de la chanson française actuelle\. Photo : Clou
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,846 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,852 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 13 | [Romance](https://open.spotify.com/track/0cgQ3ayZhU7YVGYPzKn077) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Tout pour moi](https://open.spotify.com/album/76RWA8RdhYOHnqDTgRptOl) | 3:10 |
 | 14 | [Le Grand Sommeil](https://open.spotify.com/track/3fFofuxaZdLFQRTeb89EAh) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Le Grand Sommeil](https://open.spotify.com/album/2N32MmbrOLyIExbQ5U1gnR) | 3:04 |
 | 15 | [ils en savent quoi ?](https://open.spotify.com/track/3pQiYMXNgoSAwwFo0P2P7D) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [ils en savent quoi ?](https://open.spotify.com/album/6YEiKcIjfQaWBRxoaFBJTO) | 3:18 |
-| 16 | [La louve](https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOXX \- Nouvelle édition](https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1) | 3:43 |
+| 16 | [La louve](https://open.spotify.com/track/7ib2PxnOEbqOc1GQYFSoBD) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOXX \(Nouvelle édition\)](https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1) | 3:43 |
 | 17 | [Exister](https://open.spotify.com/track/4LdgaYjFuTjx4BpiLqa865) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Exister](https://open.spotify.com/album/2pJpWWUKSoPgXQ5F8UTCy8) | 3:19 |
 | 18 | [La Rua Madureira](https://open.spotify.com/track/0JodGC4N6E7adLUi3nYf1I) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Piano Voix](https://open.spotify.com/album/1gqh4vUbdIetgdpWqnaq67) | 3:28 |
 | 19 | [J'sais pas](https://open.spotify.com/track/4BO0vhy2s9i19uxS12wVMM) | [Thomas Caruso Aragona](https://open.spotify.com/artist/2S9pqAQyIrYPBupHZC6l09) | [J'sais pas](https://open.spotify.com/album/2zBtXq26fYwHQagQjdPgxh) | 3:31 |

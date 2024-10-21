@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 115263,
       "name": "Agresiv",
       "url": "https://open.spotify.com/track/2lQCIU7pzDTvs16TT1bHAo"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 163404,
       "name": "AROMA EI",
       "url": "https://open.spotify.com/track/3Qg3SxpBpWNMMeSNaadWu2"
@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 127500,
       "name": "BIG BEN - From \"Buzz House\" The Movie",
       "url": "https://open.spotify.com/track/5ILeSLokrX2kWZH4NtAe4c"
@@ -4418,7 +4418,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 167516,
       "name": "Boo Hoo",
       "url": "https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83"
@@ -12472,7 +12472,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 170187,
       "name": "GEEK TIM\u00cb",
       "url": "https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz"
@@ -12742,7 +12742,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -18424,7 +18424,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -22030,7 +22030,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 163723,
       "name": "NOPTILE ALBASTRE - Master Edition",
       "url": "https://open.spotify.com/track/7zOSW5YiUFBXIvrKs4RInV"
@@ -30132,7 +30132,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 104751,
       "name": "STFU",
       "url": "https://open.spotify.com/track/05oIDnL2jfeUxYiDIIqFP6"
@@ -30364,7 +30364,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 168181,
       "name": "Suflet de bagabont",
       "url": "https://open.spotify.com/track/3kpSXS8wxkK9EDZjBWzN3c"
@@ -34760,6 +34760,24 @@
       "duration_ms": 182045,
       "name": "Vorbeste lumea",
       "url": "https://open.spotify.com/track/6ATqZFNmkf3njuq6zH9XaF"
+    },
+    {
+      "album": {
+        "name": "Vreau",
+        "url": "https://open.spotify.com/album/5PgnQECEOZpuU2aytDXsn2"
+      },
+      "artists": [
+        {
+          "name": "Sami G",
+          "url": "https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr"
+        }
+      ],
+      "date_added": "2024-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Vreau",
+      "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover:  Kaleb J
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,109 likes - 101 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,116 likes - 101 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

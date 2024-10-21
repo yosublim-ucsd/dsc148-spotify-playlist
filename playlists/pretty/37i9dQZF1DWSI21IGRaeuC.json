@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 40928,
+  "num_followers": 40951,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Its Time to Move",
+        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 162125,
+      "name": "Its Time to Move",
+      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Stolen Dub",
         "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 192000,
       "name": "Still Pushin' - Radio Edit",
       "url": "https://open.spotify.com/track/3OBUo6PrzYAxkudyLNryFV"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Its Time to Move",
-        "url": "https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 162125,
-      "name": "Its Time to Move",
-      "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Running from the Noise (Edit)",
-        "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Running from the Noise - Edit",
-      "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Unfair",
         "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
       },
@@ -1235,22 +1215,6 @@
       "duration_ms": 247566,
       "name": "Unfair",
       "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Work It EP",
-        "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 194887,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1271,6 +1235,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Running from the Noise (Edit)",
+        "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Life on Planets",
+          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Running from the Noise - Edit",
+      "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Rave Culture",
         "url": "https://open.spotify.com/album/1IM6gMFOAjeklNpPOR3yHX"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 381818,
       "name": "Rave Culture",
       "url": "https://open.spotify.com/track/54bX2wKc8t8eRZnJbGPp0g"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Work It EP",
+        "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "I Like It",
+        "url": "https://open.spotify.com/album/6ywoB9hVatWArPteOqzH1a"
+      },
+      "artists": [
+        {
+          "name": "Kieran Morgan",
+          "url": "https://open.spotify.com/artist/6ndGFDGDB4O4YyLCqDisot"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/4l7tyaNeztF51PePtqyezc"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Playing With Foc...",
         "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 390000,
       "name": "Playing With Foc...",
       "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "I Like It",
-        "url": "https://open.spotify.com/album/6ywoB9hVatWArPteOqzH1a"
-      },
-      "artists": [
-        {
-          "name": "Kieran Morgan",
-          "url": "https://open.spotify.com/artist/6ndGFDGDB4O4YyLCqDisot"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/4l7tyaNeztF51PePtqyezc"
     },
     {
       "added_at": "2024-10-18 04:00:00",

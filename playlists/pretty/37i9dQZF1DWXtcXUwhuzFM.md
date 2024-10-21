@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. 🦋 Kannessa Pihlaja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,438 likes - 118 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,441 likes - 118 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 44 | [Harajuku](https://open.spotify.com/track/74B6EGe870VjQbXf1dFKAS) | [$auli](https://open.spotify.com/artist/1c8ko0XPXmns7XKIR78iNI) | [777](https://open.spotify.com/album/015gtkgIfa7IL1N49eeIJj) | 2:42 |
 | 45 | [Bruce Wayne](https://open.spotify.com/track/3AyUhZkvbQ8ZBSq3hbWrhp) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Bruce Wayne](https://open.spotify.com/album/6FyOAKp8oyrpe5wchMf9Jr) | 2:11 |
 | 46 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 |
-| 47 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:57 |
+| 47 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 48 | [Comforting Words](https://open.spotify.com/track/0NdqH9pRamStXKHA5c1d19) | [Vera Alice](https://open.spotify.com/artist/2Sy9Jj8PJ1idfhEuNZehCQ) | [Comforting Words](https://open.spotify.com/album/4xuywNsazPh2wMGh3Hg9nZ) | 3:36 |
 | 49 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 |
 | 50 | [Charcoal Sky](https://open.spotify.com/track/27jSe7UHUukUsQJkEHGPtG) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Shining](https://open.spotify.com/album/1Bk8bpwSWIXDRCJpzEQyPH) | 4:48 |

@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,066 songs - 9 day 12 hr 25 min
+4,068 songs - 9 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1635,6 +1635,7 @@
 | [I Breakdown](https://open.spotify.com/track/36k0MzsuLWlQchd6MHlmWY) | [Veda](https://open.spotify.com/artist/19kItlJC4xbvwxqEjrwMZr), [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [I Breakdown](https://open.spotify.com/album/5EYo35pMkpGpFG0upy3RAX) | 4:01 | 2024-10-13 |  |
 | [I Burn a Little](https://open.spotify.com/track/7dSSmkrsTYOFEfk4CSJGGo) | [Pri](https://open.spotify.com/artist/66PARtZr2CSygE5OZ4T3CP), [Padre Tóxico](https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ) | [I Burn a Little](https://open.spotify.com/album/7gk1eny8yrQxJDlE8vWH6D) | 3:06 | 2022-02-18 | 2022-03-07 |
 | [I Came to Slay](https://open.spotify.com/track/4p9pPnJGi0LjyfHMM2DL5P) | [Olivia Thai](https://open.spotify.com/artist/1HtyYQkdkuViivGvneQxRq) | [I Came to Slay](https://open.spotify.com/album/0hi9HskOm9yay3MZ8C6ATm) | 3:53 | 2020-06-25 | 2020-07-13 |
+| [I Can Be Anything](https://open.spotify.com/track/5UsH0oaGy5SVDQ0EwFTHrB) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Anything](https://open.spotify.com/album/6QrSFrfbdUYm3jKgZcecGQ) | 3:16 | 2024-10-20 |  |
 | [I Can Make It Easy for You](https://open.spotify.com/track/7I32My4zxI38mQLvrXtN2b) | [haan](https://open.spotify.com/artist/16yrEIlF7nitGwGDKKQNk0) | [I Can Make It Easy for You](https://open.spotify.com/album/3fttXzgWx5KnMK3TbXO8NT) | 3:40 | 2021-12-17 | 2022-01-01 |
 | [I Can Tell](https://open.spotify.com/track/27uspwFPzIxqpODQgujVaj) | [Dorian Duta](https://open.spotify.com/artist/4GUv5tQjyoIGgz2TGzyO2C) | [I Can Tell](https://open.spotify.com/album/0ZBYfH6tevVSrWrsbMpIVa) | 2:33 | 2023-02-17 | 2023-03-18 |
 | [I Can't Fall Asleep](https://open.spotify.com/track/3tmRAkXXaNBmTRtC840pm4) | [Leena](https://open.spotify.com/artist/2HDCzXNBGpUWHK80bszC2O) | [I Can't Fall Asleep](https://open.spotify.com/album/3DxECJI2qLBi65Bc3MfUJg) | 3:28 | 2019-11-30 | 2019-12-11 |
@@ -3416,6 +3417,7 @@
 | [Tako Tsubo](https://open.spotify.com/track/3UkRzl6NoPVV44DTDQuWiX) | [SYLVANO](https://open.spotify.com/artist/4dE0APO4S5W1VLeYCKMuO4) | [Tako Tsubo](https://open.spotify.com/album/1lYJ2YaeSI3WtlZCfYIV3v) | 2:55 | 2024-10-18 |  |
 | [Talk](https://open.spotify.com/track/4CpVqZC1zlCjadqXFX6ZZj) | [H3LLO](https://open.spotify.com/artist/5pyl7zkTB8AdYXiUDSrLS8), [Apollo Mighty](https://open.spotify.com/artist/07whlQD2TtG2iBLzKEtsaq) | [Talk](https://open.spotify.com/album/3odjsmeS9v86fOfvpkesBC) | 2:14 | 2020-02-15 | 2020-02-24 |
 | [Talk](https://open.spotify.com/track/3RsZiNeholao7yWTx0t9Bt) | [Medii](https://open.spotify.com/artist/4tCRRxANqaE3qGSGLz0y3Q) | [Talk](https://open.spotify.com/album/4woIpCK5jFRyJgLzyR6l3B) | 3:18 | 2021-02-26 | 2021-06-06 |
+| [Talk About It](https://open.spotify.com/track/5kDScRmwuoaj80H0xKUZ5S) | [ADINAH VINE](https://open.spotify.com/artist/3l52uxa2NAkAIvqC1Qjke2) | [Talk About It](https://open.spotify.com/album/5tvxEEt8n6Z5K43B6L0GBp) | 2:22 | 2024-10-20 |  |
 | [Talk About It](https://open.spotify.com/track/2mMbYe7kd4YnTDnwP28Ght) | [Miyamoto](https://open.spotify.com/artist/5CF46SR2u5iy00KXQRZqYt) | [Talk About It](https://open.spotify.com/album/5dIYPDaQpW7Iu1rZA9QoXK) | 3:02 | 2021-12-31 | 2022-01-15 |
 | [Talk To Me](https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Talk To Me](https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3) | 3:18 | 2024-03-24 | 2024-08-13 |
 | [TALK2ME! \(feat\. pH\-1\)](https://open.spotify.com/track/0MZuE8BLzdXKMFj6aAGi9a) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [FAVORITE & TALK2ME!](https://open.spotify.com/album/6IRbzW5EOpn5uX3bhSejiV) | 3:25 | 2022-07-11 | 2022-07-27 |
@@ -3983,7 +3985,7 @@
 | [World's Fair](https://open.spotify.com/track/2YpNs6fjBu8AGF06RGYsb5) | [Old Tom & the Lookouts](https://open.spotify.com/artist/4eVxPcjBhNSezlZi06MAhm) | [World's Fair](https://open.spotify.com/album/2h6BXkeCA2CGi6z2wXZyn4) | 3:04 | 2024-02-21 | 2024-03-04 |
 | [Worn Out](https://open.spotify.com/track/6bEjgG6e17x8Qk8YSmGCaB) | [TooTired](https://open.spotify.com/artist/2iSCcGd78M7ZdKlw0tNmna) | [Worn Out](https://open.spotify.com/album/6xfQvs2NWpwEtbYf4LU0Fh) | 2:50 | 2024-02-10 | 2024-02-18 |
 | [Worst Drug](https://open.spotify.com/track/3HzXKoJdMY6YLVL7IEtGfV) | [Hamza Hawsawi](https://open.spotify.com/artist/2ZfxDAzauSIxjmFaQLsoLu) | [Worst Drug](https://open.spotify.com/album/3NGXR0QYyl6urGr0YrNP9d) | 3:03 | 2024-09-02 | 2024-09-14 |
-| [WORST THING](https://open.spotify.com/track/5bzAPG8jGfPLN77q49FvMQ) | [Veldor](https://open.spotify.com/artist/0HeG2fU31u2dMh2K82WqLc) | [WORST THING](https://open.spotify.com/album/4qApsma8HyCAnJ27LbSuIM) | 2:09 | 2024-10-08 |  |
+| [WORST THING](https://open.spotify.com/track/5bzAPG8jGfPLN77q49FvMQ) | [Veldor](https://open.spotify.com/artist/0HeG2fU31u2dMh2K82WqLc) | [WORST THING](https://open.spotify.com/album/4qApsma8HyCAnJ27LbSuIM) | 2:09 | 2024-10-08 | 2024-10-21 |
 | [Worth It](https://open.spotify.com/track/5WUimXXg0VCx2HhhRk5hnX) | [The Fantasy Exchange](https://open.spotify.com/artist/6tLYl2lVuJWyAoglaNd9eL), [Nick Hagelin](https://open.spotify.com/artist/4uzUAkAnJ15k3cBrI8Op9W), [tilde](https://open.spotify.com/artist/2cSdQ45t0UV2O2y527yKox), [Kell](https://open.spotify.com/artist/1IjifYOYo6VDWn4St9OM29) | [Worth It](https://open.spotify.com/album/3xncuNtIfCjGqQTfZLzKEZ) | 3:35 | 2022-09-21 | 2022-10-09 |
 | [Worth Your While](https://open.spotify.com/track/2zFeKB60ea6mnQMu7qImv9) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [Worth Your While](https://open.spotify.com/album/7gU4XM3CXcvvgGLjwvPrAe) | 3:18 | 2023-04-20 | 2023-05-09 |
 | [Worthy](https://open.spotify.com/track/2osmujeHiS4OlPSOnHR5Hp) | [Rina Chanel](https://open.spotify.com/artist/3Vxlbac46VEnaZ360knkHu) | [Worthy](https://open.spotify.com/album/5kIKa0G1CyhSMAECu1uwiI) | 4:50 | 2020-12-09 | 2021-01-02 |

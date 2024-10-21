@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,577 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,588 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 10 | [Akame](https://open.spotify.com/track/3uEOPyMyEmkeNLiXj3MlkS) | [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0), [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi), [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q) | [Akame](https://open.spotify.com/album/2wV6jmX8o9rlNmfBhu7KYT) | 3:45 |
 | 11 | [CHENGAAIMAAR](https://open.spotify.com/track/5lty7EPSLJaiFX24QQbbYa) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [CHENGAAIMAAR](https://open.spotify.com/album/67ggQcHgJFnBxxOIioaMvz) | 3:01 |
 | 12 | [Hymns Of Shiva](https://open.spotify.com/track/2wgJFX3Ox5CRoT7uhcOYfQ) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Hymns Of Shiva](https://open.spotify.com/album/18ln7n5xBhxkxBUSye5TeE) | 5:49 |
-| 13 | [Embran \- Live](https://open.spotify.com/track/3GvKXNTlMlVUI8eCh7clLW) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Embran \- Live](https://open.spotify.com/album/2wlYJLa7aHN6e6jsnIjL82) | 3:48 |
+| 13 | [Embran \- Live](https://open.spotify.com/track/3GvKXNTlMlVUI8eCh7clLW) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Embran \(Live\)](https://open.spotify.com/album/2wlYJLa7aHN6e6jsnIjL82) | 3:48 |
 | 14 | [Laare](https://open.spotify.com/track/6wNkbLcCCtoYEsAxmXC3yt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Laare](https://open.spotify.com/album/4oMcRv0ujnIqp0AevqBlxT) | 3:10 |
 | 15 | [LOVESICK](https://open.spotify.com/track/2FJd24vjgpvd3C0WK4ZwAA) | [Dev](https://open.spotify.com/artist/6QRkI9RqfSzE0VAjqAvB2T) | [KALEIDOSCOPE](https://open.spotify.com/album/4BDnFfBd0mqYdWcpyIBYZQ) | 5:13 |
 | 16 | [Nizhalaay](https://open.spotify.com/track/556HeEIoL40Dp6ciUcZ2Pf) | [Dins George](https://open.spotify.com/artist/6l460ivmL177cdAsVzQz1Q) | [Nizhalaay](https://open.spotify.com/album/5IopDVaCsbGr5PinWfdq9D) | 4:40 |

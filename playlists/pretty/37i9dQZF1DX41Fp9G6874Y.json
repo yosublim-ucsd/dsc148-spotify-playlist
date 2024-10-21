@@ -1,6 +1,6 @@
 {
   "description": "Las m\u00e1s fresas de la era del rocanrol para bailar \"de cachetito\".",
-  "num_followers": 119729,
+  "num_followers": 119745,
   "original_name": "Romance Rocanrol",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "Mexican Garage Rock '66",
+        "url": "https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY"
+      },
+      "artists": [
+        {
+          "name": "Los Apson",
+          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Fu\u00e9 en un Caf\u00e9",
+      "url": "https://open.spotify.com/track/7a5Ws4rKozachCeIsOvEeI"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "Los \u00c9xitos en Espa\u00f1ol y Franc\u00e9s",
         "url": "https://open.spotify.com/album/6wjhvF4EuYuZFcs5PpKzRn"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 205546,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Mexican Garage Rock '66",
-        "url": "https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY"
-      },
-      "artists": [
-        {
-          "name": "Los Apson",
-          "url": "https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Fu\u00e9 en un Caf\u00e9",
-      "url": "https://open.spotify.com/track/7a5Ws4rKozachCeIsOvEeI"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -251,38 +251,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Julissa",
-        "url": "https://open.spotify.com/album/7wBzHAioCNkDX1bUz7aVnj"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT"
-        }
-      ],
-      "duration_ms": 157226,
-      "name": "La Favorita del Profesor (Teacher's Pet)",
-      "url": "https://open.spotify.com/track/24nhRNpFhLfWU8z7gYQHCK"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Los Cinco Latinos",
-        "url": "https://open.spotify.com/album/6z2IMZNqVkOPnRfYkyFJRY"
-      },
-      "artists": [
-        {
-          "name": "Los Cinco Latinos",
-          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "Quiereme Siempre (Love Me Forever)",
-      "url": "https://open.spotify.com/track/3beXSl75AZaBHxVxDRGZ63"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "Los Originales Vol. 3",
         "url": "https://open.spotify.com/album/1i5fKBsRxVF91lFwXChHjS"
       },
@@ -315,18 +283,34 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Glamour (Remastered 2015)",
-        "url": "https://open.spotify.com/album/7wwVcBOt4BExqwusSQJcfe"
+        "name": "Julissa",
+        "url": "https://open.spotify.com/album/7wBzHAioCNkDX1bUz7aVnj"
       },
       "artists": [
         {
-          "name": "Monna Bell",
-          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT"
         }
       ],
-      "duration_ms": 157800,
-      "name": "Cu\u00e1ndo, cu\u00e1ndo, cu\u00e1ndo (Swing) - Remastered 2015",
-      "url": "https://open.spotify.com/track/4SPrqvpEt9s9610XNN1UDW"
+      "duration_ms": 157226,
+      "name": "La Favorita del Profesor (Teacher's Pet)",
+      "url": "https://open.spotify.com/track/24nhRNpFhLfWU8z7gYQHCK"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Los Cinco Latinos",
+        "url": "https://open.spotify.com/album/6z2IMZNqVkOPnRfYkyFJRY"
+      },
+      "artists": [
+        {
+          "name": "Los Cinco Latinos",
+          "url": "https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "Quiereme Siempre (Love Me Forever)",
+      "url": "https://open.spotify.com/track/3beXSl75AZaBHxVxDRGZ63"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -347,6 +331,22 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "Sonidos del Ayer",
+        "url": "https://open.spotify.com/album/19Szoai9lxpAXnT8V3L7Kp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Dynamo",
+          "url": "https://open.spotify.com/artist/3zqSxs9gF0Hr0wzwXGswlg"
+        }
+      ],
+      "duration_ms": 151946,
+      "name": "Colina Azul",
+      "url": "https://open.spotify.com/track/5MA2Oc7KhWjIe5bGKWX8Up"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "Enrique Guzm\u00e1n, Sus Mejores \u00c9xitos",
         "url": "https://open.spotify.com/album/1E04iUTZ9thsU9SdBX7UQw"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 136960,
       "name": "Adi\u00f3s Mundo Cruel",
       "url": "https://open.spotify.com/track/4GV6b8JkbtEwOsndEw3478"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Glamour (Remastered 2015)",
+        "url": "https://open.spotify.com/album/7wwVcBOt4BExqwusSQJcfe"
+      },
+      "artists": [
+        {
+          "name": "Monna Bell",
+          "url": "https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Cu\u00e1ndo, cu\u00e1ndo, cu\u00e1ndo (Swing) - Remastered 2015",
+      "url": "https://open.spotify.com/track/4SPrqvpEt9s9610XNN1UDW"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -393,22 +409,6 @@
       "url": "https://open.spotify.com/track/0xNCTTus9zvrOWV1eRlX50"
     },
     {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Sonidos del Ayer",
-        "url": "https://open.spotify.com/album/19Szoai9lxpAXnT8V3L7Kp"
-      },
-      "artists": [
-        {
-          "name": "Johnny Dynamo",
-          "url": "https://open.spotify.com/artist/3zqSxs9gF0Hr0wzwXGswlg"
-        }
-      ],
-      "duration_ms": 151946,
-      "name": "Colina Azul",
-      "url": "https://open.spotify.com/track/5MA2Oc7KhWjIe5bGKWX8Up"
-    },
-    {
       "added_at": "2022-03-30 15:46:23",
       "album": {
         "name": "Grandes Exitos, Vol.2",
@@ -423,6 +423,22 @@
       "duration_ms": 131800,
       "name": "Pity Pity",
       "url": "https://open.spotify.com/track/4WRMkSZDRD0MA7rEl9XchA"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "La Gran \u00c9poca del Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7w3LuOtR5MyP9kMGIhyl2o"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT"
+        }
+      ],
+      "duration_ms": 118440,
+      "name": "Ruedas (Wheels)",
+      "url": "https://open.spotify.com/track/4goZAArvHcmAzRHDIIq5Yn"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -443,18 +459,18 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "La Gran \u00c9poca del Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7w3LuOtR5MyP9kMGIhyl2o"
+        "name": "Las Numero 1 De Angelica Maria",
+        "url": "https://open.spotify.com/album/6jPn7YfPq82g8pllPp7YLW"
       },
       "artists": [
         {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT"
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
         }
       ],
-      "duration_ms": 118440,
-      "name": "Ruedas (Wheels)",
-      "url": "https://open.spotify.com/track/4goZAArvHcmAzRHDIIq5Yn"
+      "duration_ms": 181533,
+      "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
+      "url": "https://open.spotify.com/track/3qTNqW7hrlVkFHmmgwHEK8"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -487,22 +503,6 @@
       "duration_ms": 141773,
       "name": "D\u00edmelo T\u00fa",
       "url": "https://open.spotify.com/track/3VT0jt1qyl5XTzRHraac14"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Las Numero 1 De Angelica Maria",
-        "url": "https://open.spotify.com/album/6jPn7YfPq82g8pllPp7YLW"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
-      "url": "https://open.spotify.com/track/3qTNqW7hrlVkFHmmgwHEK8"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -559,6 +559,22 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "Julissa",
+        "url": "https://open.spotify.com/album/7wBzHAioCNkDX1bUz7aVnj"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT"
+        }
+      ],
+      "duration_ms": 137293,
+      "name": "Memo (Billy [Fox])",
+      "url": "https://open.spotify.com/track/34KjPPuaw69J4zbNMy97kU"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj"
       },
@@ -607,18 +623,34 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Julissa",
-        "url": "https://open.spotify.com/album/7wBzHAioCNkDX1bUz7aVnj"
+        "name": "Exitos-Manolo Mu\u00f1oz Vol. 2",
+        "url": "https://open.spotify.com/album/2Zf54YitI4ufzKEdAsoRub"
       },
       "artists": [
         {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 137293,
-      "name": "Memo (Billy [Fox])",
-      "url": "https://open.spotify.com/track/34KjPPuaw69J4zbNMy97kU"
+      "duration_ms": 132783,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/0Taukc6CLtyopx12TCcCg3"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
+        "name": "Exitos Del Rock And Roll Versiones Originales",
+        "url": "https://open.spotify.com/album/5SMzlIUJCbjWZ7V50m0hbC"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 147771,
+      "name": "Edi, Edi",
+      "url": "https://open.spotify.com/track/6npqz4qMY80tCUFN7y1MCz"
     },
     {
       "added_at": "2018-12-05 03:36:52",
@@ -675,38 +707,6 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
-        "name": "Exitos-Manolo Mu\u00f1oz Vol. 2",
-        "url": "https://open.spotify.com/album/2Zf54YitI4ufzKEdAsoRub"
-      },
-      "artists": [
-        {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
-        }
-      ],
-      "duration_ms": 132783,
-      "name": "Angelito",
-      "url": "https://open.spotify.com/track/0Taukc6CLtyopx12TCcCg3"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Exitos Del Rock And Roll Versiones Originales",
-        "url": "https://open.spotify.com/album/5SMzlIUJCbjWZ7V50m0hbC"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 147771,
-      "name": "Edi, Edi",
-      "url": "https://open.spotify.com/track/6npqz4qMY80tCUFN7y1MCz"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
         "name": "30 grandes \u00e9xitos",
         "url": "https://open.spotify.com/album/4MnSIuWTVnmv8hEZDgI5eG"
       },
@@ -755,6 +755,22 @@
     {
       "added_at": "2018-12-05 03:36:52",
       "album": {
+        "name": "Los 4 Grandes Del Rock",
+        "url": "https://open.spotify.com/album/2Vouqy8Wsq7TdosXjyk4rY"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "duration_ms": 149199,
+      "name": "Johnny El Enojon",
+      "url": "https://open.spotify.com/track/3pELo1Xs6RiSpCcF34orjx"
+    },
+    {
+      "added_at": "2018-12-05 03:36:52",
+      "album": {
         "name": "Los Exitos De Manolo Mu\u00f1oz",
         "url": "https://open.spotify.com/album/0wWQ7fKyg7OHZG6hru4Jkd"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 174114,
       "name": "Ay Preciosa",
       "url": "https://open.spotify.com/track/39Y7DxRsz6GkPAMnWQQOD9"
-    },
-    {
-      "added_at": "2018-12-05 03:36:52",
-      "album": {
-        "name": "Los 4 Grandes Del Rock",
-        "url": "https://open.spotify.com/album/2Vouqy8Wsq7TdosXjyk4rY"
-      },
-      "artists": [
-        {
-          "name": "Angelica Maria",
-          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
-        }
-      ],
-      "duration_ms": 149199,
-      "name": "Johnny El Enojon",
-      "url": "https://open.spotify.com/track/3pELo1Xs6RiSpCcF34orjx"
     },
     {
       "added_at": "2018-12-05 03:36:52",

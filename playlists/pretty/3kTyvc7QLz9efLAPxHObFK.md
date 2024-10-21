@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,788 songs - 3 day 23 hr 56 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,789 songs - 3 day 23 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1796,5 +1796,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1786 | [MOONSHIP](https://open.spotify.com/track/4e2zgTkDGP1LBncHnjBK1n) | [DJ SHARPNEL](https://open.spotify.com/artist/0qZjgKADg863aWQZxRppgK) | [MOONSHIP](https://open.spotify.com/album/5kMPjxMg7pIJTHnWF4FAyl) | 5:59 |
 | 1787 | [I Wanna \- RAV3ART Remix](https://open.spotify.com/track/2Zhh9cjbHF23rk9Zg5Cc9U) | [Aleq Baker](https://open.spotify.com/artist/1HQZlUBZe9IiDRmtToCjKY), [RAV3ART](https://open.spotify.com/artist/5HmYVmjJ20MH8rYysXCsOf) | [I Wanna \(RAV3ART Remix\)](https://open.spotify.com/album/5xur9iS50tfWbjtC2ZShWl) | 2:27 |
 | 1788 | [Hercules](https://open.spotify.com/track/5snNv32doCTxKCYp3O0lPK) | [Gram](https://open.spotify.com/artist/3WtLwZYH0N8mqSaUjEW1kF) | [Hercules](https://open.spotify.com/album/7eJzbG3L4Jlb0hjVGajoL1) | 3:15 |
+| 1789 | [I CAN TAKE YOU THERE](https://open.spotify.com/track/4uYkxNpJGBcNr5jc4SEw6x) | [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [I CAN TAKE YOU THERE](https://open.spotify.com/album/4BnE4qdmD1Z9Dx2a7COyUj) | 1:34 |
 
-Snapshot ID: `AAAHL7PWDvvM6i2MkPGNlPBPLv1I9+FF`
+Snapshot ID: `AAAHMN/1Zn+viuDPqTz0M0/NvprD1cJf`

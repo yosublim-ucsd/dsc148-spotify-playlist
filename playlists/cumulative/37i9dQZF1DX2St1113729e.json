@@ -6409,6 +6409,32 @@
     },
     {
       "album": {
+        "name": "Perra Alfa - Neukrapsio Remix",
+        "url": "https://open.spotify.com/album/3BhYJxBc3dW7OJz4IcRqvt"
+      },
+      "artists": [
+        {
+          "name": "Yumeaki",
+          "url": "https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN"
+        },
+        {
+          "name": "IIIDKID",
+          "url": "https://open.spotify.com/artist/3lkeutAyoEO2wB762t7rn9"
+        },
+        {
+          "name": "Neukrapsio",
+          "url": "https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171764,
+      "name": "Perra Alfa - Neukrapsio Remix",
+      "url": "https://open.spotify.com/track/4PFM0ds7hIRea4bsKqEgWw"
+    },
+    {
+      "album": {
         "name": "PIENSONTI",
         "url": "https://open.spotify.com/album/3ZJH2y7S0zHlpMbH3tx77A"
       },
@@ -6598,7 +6624,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 116742,
       "name": "PRST1",
       "url": "https://open.spotify.com/track/3I3535V3GtAK1XQ5VQOUR8"

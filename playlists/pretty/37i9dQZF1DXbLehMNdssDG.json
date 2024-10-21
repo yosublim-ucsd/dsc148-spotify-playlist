@@ -1,6 +1,6 @@
 {
   "description": "Affirmations and meditation music for a mindful start of the day. ",
-  "num_followers": 22327,
+  "num_followers": 22379,
   "original_name": "Affirmations",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-08-28 14:29:46",
       "album": {
+        "name": "Spiritual Echoes",
+        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
+      },
+      "artists": [
+        {
+          "name": "Bernie Longo",
+          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Spiritual Echoes",
+      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
+    },
+    {
+      "added_at": "2024-08-28 14:29:46",
+      "album": {
         "name": "528 Hz Ethereal Wavelengths",
         "url": "https://open.spotify.com/album/41RMfX1OGZLfG820A7Wvz6"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 152000,
       "name": "Morning \u2018I am\u2019 Affirmations",
       "url": "https://open.spotify.com/track/5djRWx3GupMvfbbBRJORjn"
-    },
-    {
-      "added_at": "2024-08-28 14:29:46",
-      "album": {
-        "name": "Spiritual Echoes",
-        "url": "https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu"
-      },
-      "artists": [
-        {
-          "name": "Bernie Longo",
-          "url": "https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Spiritual Echoes",
-      "url": "https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc"
     },
     {
       "added_at": "2024-08-28 14:29:46",

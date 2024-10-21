@@ -409,7 +409,7 @@
     },
     {
       "album": {
-        "name": "Funk Supera\u00e7\u00e3o - Ao Vivo",
+        "name": "Funk Supera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KvTPBd1l052Tnk3RxU6tt"
       },
       "artists": [
@@ -3230,12 +3230,12 @@
           "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
         },
         {
-          "name": "SART\u00d8R",
-          "url": "https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4"
-        },
-        {
           "name": "ConeCrewDiretoria",
           "url": "https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T"
+        },
+        {
+          "name": "SART\u00d8R",
+          "url": "https://open.spotify.com/artist/5eYrkPg5M0I9uZQXbhTho4"
         }
       ],
       "date_added": "2024-10-11",

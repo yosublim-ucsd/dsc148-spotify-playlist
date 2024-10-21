@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHJY6ZqPPz.md) - [plain]
 
 > All about aespa: meeting another self and experiencing the new world
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,737 likes - 67 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,905 likes - 67 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHJY6ZqPPz.md) - [plain]
 | 3 | [Bored! \- NINGNING Solo](https://open.spotify.com/track/44qlcokPO2RjD8791ohJFR) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:51 |
 | 4 | [Spark \- WINTER Solo](https://open.spotify.com/track/2xoA126GEgFhrYzRaTH7E4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 3:21 |
 | 5 | [Supernova \- KENZIE RE:WORKS](https://open.spotify.com/track/0n9tJMt5qtXOoPVlaNPvIM) | [KENZIE](https://open.spotify.com/artist/0ZZtYIiyXvgRAKrTh6mCOd), [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [RE:WORKS](https://open.spotify.com/album/6HqiFsktBxto6ushwmDOUj) | 3:32 |
-| 6 | [We Go \- English Version](https://open.spotify.com/track/20kWpXaYo8igmrdwwy8OSE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [We Go \- English Version](https://open.spotify.com/album/6HmUGM55FYKtA0jm3lgyFW) | 3:09 |
+| 6 | [We Go \- English Version](https://open.spotify.com/track/20kWpXaYo8igmrdwwy8OSE) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [We Go \(English Version\)](https://open.spotify.com/album/6HmUGM55FYKtA0jm3lgyFW) | 3:09 |
 | 7 | [Supernova \- Grimes Remix](https://open.spotify.com/track/21HriDvqeoSKkZxbM5mVTw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6) | 3:47 |
 | 8 | [Armageddon \- Flava D Remix](https://open.spotify.com/track/6ZSUXDASDxfude4QKF7fqp) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6) | 4:07 |
 | 9 | [Armageddon \- 2Spade Remix](https://open.spotify.com/track/6yeafctTvo9al34RfVpT3e) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/6uWbkjA7Osh3VNnnGeyfl6) | 3:08 |

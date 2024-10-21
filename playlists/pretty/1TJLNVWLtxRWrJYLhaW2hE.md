@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 
 > Good Trouble official playlist \~ featuring songs from each episode.
 
-[Freeform](https://open.spotify.com/user/abcfamily) - 9,812 likes - 664 songs - 1 day 15 hr 37 min
+[Freeform](https://open.spotify.com/user/abcfamily) - 9,814 likes - 664 songs - 1 day 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,10 +153,10 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 | 143 | [My Man \- Edit](https://open.spotify.com/track/1tizyMv5WQhwx8meZDrAKW) | [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc), [Nicki B The Vagabond](https://open.spotify.com/artist/1B76LVvwgQLQ6HTCm0HcrV) | [My Man](https://open.spotify.com/album/7ciCglnjKQ2Y9ezScRAKem) | 2:46 |
 | 144 | [Five Two](https://open.spotify.com/track/3nI8CrzfiHzWOPjkCWnuQF) | [Jacquie](https://open.spotify.com/artist/0SuQEAJ7EMAipBdrAYO4XS) | [Five Two](https://open.spotify.com/album/67a6VEQuYIol0CzjEz2FHK) | 2:12 |
 | 145 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
-| 146 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \- 20th Anniversary Deluxe Edition/Remastered](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
+| 146 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
 | 147 | [Let's Talk About Sex](https://open.spotify.com/track/6hTBP6QLwJdxbKyLlLXrGo) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Blacks' Magic](https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR) | 3:33 |
 | 148 | [All Star](https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Astro Lounge](https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P) | 3:20 |
-| 149 | [Queer](https://open.spotify.com/track/3Huutm0fMOv8gJlARLGENG) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \- 20th Anniversary Deluxe Edition/Remastered](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:36 |
+| 149 | [Queer](https://open.spotify.com/track/3Huutm0fMOv8gJlARLGENG) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:36 |
 | 150 | [From the Bottom of My Broken Heart](https://open.spotify.com/track/70XtWbcVZcpaOddJftMcVi) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 5:12 |
 | 151 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 |
 | 152 | [How Bizarre](https://open.spotify.com/track/0wJyFu6JHwUoKQN5X3uzVe) | [OMC](https://open.spotify.com/artist/4vdt8TD56jjQfmxFCmhubX) | [How Bizarre](https://open.spotify.com/album/3JSCkR1qkv6A0s8MkT49EU) | 3:44 |
@@ -258,7 +258,7 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 | 248 | [New Light](https://open.spotify.com/track/3sRaH8nTIT311NlYxzTc5w) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [New Light](https://open.spotify.com/album/6wdGpbYe7Hk1cjTcbPM7p0) | 3:33 |
 | 249 | [2hrs](https://open.spotify.com/track/0dGe86ljF6Xi19IxYc7aBn) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [2hrs](https://open.spotify.com/album/0iORCx2m4WsvkXWEGH7LS6) | 1:04 |
 | 250 | [Everyday Masterpiece](https://open.spotify.com/track/3zk0Zw4clUH1F7SVjNhUDs) | [Dead Toms](https://open.spotify.com/artist/0FRAhh83SPAUTeFHaNaT3H) | [Everyday Masterpiece](https://open.spotify.com/album/1qOOxjU21ClXYkqibWS5eS) | 2:41 |
-| 251 | [show me how](https://open.spotify.com/track/2Hcya6oZoqqZxKknUu0GsL) | [neek](https://open.spotify.com/artist/2SMBWRC5ACqTXfhAxkJBjk), [Tasha The Amazon](https://open.spotify.com/artist/7J5HSblBjH8zvu96ovocNM) | [everybody's lonely \- mixtape](https://open.spotify.com/album/7C5ATlfd4NNwBKPe09EYms) | 3:51 |
+| 251 | [show me how](https://open.spotify.com/track/2Hcya6oZoqqZxKknUu0GsL) | [neek](https://open.spotify.com/artist/2SMBWRC5ACqTXfhAxkJBjk), [Tasha The Amazon](https://open.spotify.com/artist/7J5HSblBjH8zvu96ovocNM) | [everybody's lonely \(mixtape\)](https://open.spotify.com/album/7C5ATlfd4NNwBKPe09EYms) | 3:51 |
 | 252 | [Before](https://open.spotify.com/track/5sbPtxfi8nDV4wAXY0rpGT) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adeline](https://open.spotify.com/album/3EN4k6PfwBdFbXZAOKGceJ) | 4:25 |
 | 253 | [All That \(feat\. Channel Tres\)](https://open.spotify.com/track/1rDRBVSqKgs3K9HiX5OTrL) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [All That \(feat\. Channel Tres\)](https://open.spotify.com/album/7dKKcOsUPcTrzlQYmG2Hq3) | 3:05 |
 | 254 | [Moi moi](https://open.spotify.com/track/1tw5U9cTqnX8ogrWUbRSQ0) | [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC), [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Un homme](https://open.spotify.com/album/4BZHE3vr1vxR5ppeVeeLHJ) | 5:09 |

@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 313625,
+  "num_followers": 313628,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,30 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Arit",
+          "url": "https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS"
+        }
+      ],
+      "duration_ms": 219334,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
+    },
+    {
+      "added_at": "2024-10-11 21:13:28",
+      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/3kcHfsXEUlgTQUFimmhkVm"
       },
@@ -183,30 +207,6 @@
       "duration_ms": 184841,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3KGCF68zDut37Ug3fzWgVU"
-    },
-    {
-      "added_at": "2024-10-11 21:13:28",
-      "album": {
-        "name": "Lingerie",
-        "url": "https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Urs\u00e3o",
-          "url": "https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66"
-        }
-      ],
-      "duration_ms": 209654,
-      "name": "Lingerie",
-      "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"
     },
     {
       "added_at": "2024-10-11 21:13:28",
@@ -247,30 +247,6 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Arit",
-          "url": "https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS"
-        }
-      ],
-      "duration_ms": 219334,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF"
-    },
-    {
-      "added_at": "2024-10-11 21:13:28",
-      "album": {
         "name": "Bluesman",
         "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
       },
@@ -287,6 +263,30 @@
       "duration_ms": 237898,
       "name": "Flamingos",
       "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
+    },
+    {
+      "added_at": "2024-10-11 21:13:28",
+      "album": {
+        "name": "Lingerie",
+        "url": "https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Urs\u00e3o",
+          "url": "https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66"
+        }
+      ],
+      "duration_ms": 209654,
+      "name": "Lingerie",
+      "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"
     },
     {
       "added_at": "2024-10-11 21:13:28",
@@ -319,30 +319,6 @@
       "duration_ms": 288000,
       "name": "Me Negaram Amor",
       "url": "https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD"
-    },
-    {
-      "added_at": "2024-10-11 21:13:28",
-      "album": {
-        "name": "P\u00farpura",
-        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Tibery",
-          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "P\u00farpura",
-      "url": "https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT"
     },
     {
       "added_at": "2024-10-11 21:13:28",
@@ -467,6 +443,30 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
+        "name": "P\u00farpura",
+        "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "P\u00farpura",
+      "url": "https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT"
+    },
+    {
+      "added_at": "2024-10-11 21:13:28",
+      "album": {
         "name": "Voc\u00ea Tem",
         "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 164583,
       "name": "Voc\u00ea Tem",
       "url": "https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn"
-    },
-    {
-      "added_at": "2024-10-11 21:13:28",
-      "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
     },
     {
       "added_at": "2024-10-11 21:13:28",
@@ -647,6 +631,22 @@
       "duration_ms": 185139,
       "name": "Tenho Voc\u00ea",
       "url": "https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj"
+    },
+    {
+      "added_at": "2024-10-11 21:13:28",
+      "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
     },
     {
       "added_at": "2024-10-11 21:13:28",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
-        "name": "VemK",
-        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 185099,
-      "name": "Meia Noite",
-      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
-    },
-    {
-      "added_at": "2024-10-11 21:13:28",
-      "album": {
         "name": "Noite de Ver\u00e3o",
         "url": "https://open.spotify.com/album/1kfuU47zWJR5lNm0XdCYxd"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
+        "name": "VemK",
+        "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 185099,
+      "name": "Meia Noite",
+      "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
+    },
+    {
+      "added_at": "2024-10-11 21:13:28",
+      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-10-11 21:13:28",
       "album": {
-        "name": "STR!PP3R",
-        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "STR!PP3R",
-      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
-    },
-    {
-      "added_at": "2024-10-11 21:13:28",
-      "album": {
         "name": "Sexflix",
         "url": "https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 175384,
       "name": "Sexflix",
       "url": "https://open.spotify.com/track/7iEDBUCkwn7ScwZ8A3oS5B"
+    },
+    {
+      "added_at": "2024-10-11 21:13:28",
+      "album": {
+        "name": "STR!PP3R",
+        "url": "https://open.spotify.com/album/1ARkUdBdavmnmTj9o7Uco9"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 187050,
+      "name": "STR!PP3R",
+      "url": "https://open.spotify.com/track/4CzyL4wYnc0ZwltZElLCNj"
     },
     {
       "added_at": "2024-10-11 21:13:28",

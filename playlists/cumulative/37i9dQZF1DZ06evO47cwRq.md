@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO47cwRq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO47cwRq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO47cwRq)
 
-### [This Is Linkin Park](https://open.spotify.com/playlist/37i9dQZF1DZ06evO47cwRq)
+### [This Is リンキン・パーク](https://open.spotify.com/playlist/37i9dQZF1DZ06evO47cwRq)
 
-> This is Linkin Park\. The essential tracks, all in one playlist.
+> This is リンキン・パーク。アーティストの代表曲をひとつのプレイリストに。
 
 71 songs - 4 hr 9 min
 

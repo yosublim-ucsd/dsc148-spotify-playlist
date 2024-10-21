@@ -2,7 +2,7 @@
 
 ### [This Is Liam Payne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3bDOaf)
 
-> This Is Liam Payne\. Los temas esenciales, todos en una lista.
+> This is Liam Payne\. Todos os maiores hits em uma só playlist.
 
 16 songs - 51 min 18 sec
 

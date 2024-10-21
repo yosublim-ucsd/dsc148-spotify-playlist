@@ -220,7 +220,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-21",
       "duration_ms": 186191,
       "name": "Accidentally (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
@@ -2760,6 +2760,28 @@
       "duration_ms": 140176,
       "name": "Drip - Remix",
       "url": "https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP"
+    },
+    {
+      "album": {
+        "name": "DSC",
+        "url": "https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        },
+        {
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156256,
+      "name": "DSC",
+      "url": "https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd"
     },
     {
       "album": {

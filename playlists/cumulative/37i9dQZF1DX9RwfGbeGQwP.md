@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,486 songs - 2 day 7 hr 56 min
+1,487 songs - 2 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Blackjack](https://open.spotify.com/track/1e0tOvl9ZaWyxGgGWEA4Md) | [Tabi](https://open.spotify.com/artist/5BE83iQiIHIQZwcHZYCZMK) | [Foggy Nights](https://open.spotify.com/album/3ECaZHFTwm4PVXlIjUN8Nc) | 3:33 | 2022-05-13 | 2022-11-26 |
 | [bleep](https://open.spotify.com/track/0VutyxcmjtC8Bs0QLcyIhb) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [bleep](https://open.spotify.com/album/2MnmOWac8GbeCedTkbGldw) | 2:07 | 2022-09-02 |  |
 | [bloom](https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bloom](https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK) | 2:13 | 2023-02-24 |  |
-| [Bloom](https://open.spotify.com/track/1Ysrlbv0pgJGzTJs2rKHRa) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Bloom](https://open.spotify.com/album/1hGnTXCqPpHFhw80OVFmqd) | 2:09 | 2024-09-13 |  |
+| [Bloom](https://open.spotify.com/track/1Ysrlbv0pgJGzTJs2rKHRa) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Bloom](https://open.spotify.com/album/1hGnTXCqPpHFhw80OVFmqd) | 2:09 | 2024-09-13 | 2024-10-21 |
 | [Blooming Magic](https://open.spotify.com/track/3uGGmGE2SGxmSHkRbF5EYb) | [Maria Flippo](https://open.spotify.com/artist/4xoGvyrl4NWTtyaSrWi0py) | [Blooming Magic](https://open.spotify.com/album/4bg9lNm1hXxFdTy8xxwtbJ) | 2:07 | 2022-09-16 | 2024-09-07 |
 | [blossom bliss](https://open.spotify.com/track/6rTcq4gZhytJ0IC1JJfCdE) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [blossom bliss](https://open.spotify.com/album/4pUT8Gv5FBOgN9IPSkF4RT) | 2:24 | 2022-08-19 | 2023-01-13 |
 | [Blue](https://open.spotify.com/track/498MKKUZWsgfqIB0u5rCTl) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Blue](https://open.spotify.com/album/7f9ozd5SzTQ5fQ25kAgNWJ) | 2:12 | 2022-07-22 | 2022-11-12 |
@@ -433,6 +433,7 @@
 | [Flying Away](https://open.spotify.com/track/7zckDVftCAoW2NeuEp9Qvc) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Flying Away](https://open.spotify.com/album/6HybhwMgx3nwXFk5qEoNhG) | 1:39 | 2023-03-16 |  |
 | [Flying Dreams](https://open.spotify.com/track/62bePphA3RaOww3GuDtq6c) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Flying Dreams](https://open.spotify.com/album/0HPhtKf6LJOgEpuGro9czt) | 2:37 | 2022-12-16 | 2023-10-06 |
 | [Foemeo](https://open.spotify.com/track/6yRz4gpq370pGg5hKTp91X) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Foemeo](https://open.spotify.com/album/0H5rVwDQTq53oKuwSAMvoc) | 2:15 | 2022-01-27 | 2022-07-08 |
+| [fogata](https://open.spotify.com/track/3WYeJ4DRymjJ9y2XjVui3C) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [fogata](https://open.spotify.com/album/7uIzkfXliaEnoB3BqLvRih) | 2:09 | 2024-10-18 |  |
 | [Foggy Fields](https://open.spotify.com/track/1mjpBiNzn3VsNmrQqk3pGP) | [Lo Aesthetic](https://open.spotify.com/artist/5UDgSTMnpm0hXy8800z1WU) | [Foggy Fields](https://open.spotify.com/album/2AxLq4LhRyjPRuSzalp68C) | 2:31 | 2024-09-13 | 2024-10-18 |
 | [Foil](https://open.spotify.com/track/22Ao5rxOyEjgzPlZu21AZa) | [Robot Age](https://open.spotify.com/artist/2dgnYCGuIIFM5PTOTxYs5H) | [Foil](https://open.spotify.com/album/4oDsFrfSMfYn6rspURihaa) | 2:02 | 2024-07-12 |  |
 | [Fold It Twice](https://open.spotify.com/track/45yyYYto4MqFmWPsuwCQLa) | [Yuri Yuri](https://open.spotify.com/artist/3SyyUOPWd82oHTfDnSmMDD) | [Fold It Twice](https://open.spotify.com/album/1aLWcR8oiWnvLD8UoieLQC) | 2:09 | 2023-10-20 | 2023-10-27 |

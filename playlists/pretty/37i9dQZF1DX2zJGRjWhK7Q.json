@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 205595,
+  "num_followers": 205665,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "La Salsa",
+        "url": "https://open.spotify.com/album/3xAW3AUVOVmrWFse5Oo25G"
+      },
+      "artists": [
+        {
+          "name": "Wayne Gorbea",
+          "url": "https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD"
+        }
+      ],
+      "duration_ms": 290037,
+      "name": "Estamos en Salsa",
+      "url": "https://open.spotify.com/track/4WkSEWIBJGXYQvPPgFdK64"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Fuego En El 23",
         "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
       },
@@ -255,6 +271,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Hector Lavoe El Cantante -The Originals",
+        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 327360,
+      "name": "El Dia De Suerte",
+      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Cuba",
         "url": "https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP"
       },
@@ -267,6 +299,26 @@
       "duration_ms": 161471,
       "name": "Yerberito Moderno",
       "url": "https://open.spotify.com/track/3IguFq76qBArN1TUBmA8dV"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Aqui Esta el Reencuentro",
+        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 290456,
+      "name": "Vagabundo",
+      "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -303,22 +355,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Hector Lavoe El Cantante -The Originals",
-        "url": "https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 327360,
-      "name": "El Dia De Suerte",
-      "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "Ponte Duro The Fania All Stars Story",
         "url": "https://open.spotify.com/album/4934XFQ9ZYdoK3R42MEwcv"
       },
@@ -347,26 +383,6 @@
       "duration_ms": 426746,
       "name": "Vamonos Pal Monte",
       "url": "https://open.spotify.com/track/5HUQRpjXwRKcXGqxTaO7ld"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Aqui Esta el Reencuentro",
-        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        },
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 290456,
-      "name": "Vagabundo",
-      "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -535,6 +551,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 328880,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Jala Jala Y Boogaloo",
         "url": "https://open.spotify.com/album/4UnQVmkl3uH5mEBeAvQbjH"
       },
@@ -547,22 +579,6 @@
       "duration_ms": 307146,
       "name": "Richie's Jala Jala",
       "url": "https://open.spotify.com/track/4Mk7napJbsKzRAs38jy0oK"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "With A Little Help From My Friend",
-        "url": "https://open.spotify.com/album/0XmKZ22TgWZ2c1X7dxWPAw"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        }
-      ],
-      "duration_ms": 282213,
-      "name": "Salome",
-      "url": "https://open.spotify.com/track/2DHrS1przbyBmf6Pf22v8R"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -587,18 +603,18 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/2Y2Kj57DPjmxAVgDRhLxrx"
+        "name": "With A Little Help From My Friend",
+        "url": "https://open.spotify.com/album/0XmKZ22TgWZ2c1X7dxWPAw"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 328880,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/5K9yjxT0XGQbmD5GzjmqYz"
+      "duration_ms": 282213,
+      "name": "Salome",
+      "url": "https://open.spotify.com/track/2DHrS1przbyBmf6Pf22v8R"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -639,6 +655,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 626826,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/1uRXl9FJPkommfTTqXkhRo"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Psychedelic Goes Latin",
         "url": "https://open.spotify.com/album/4p88woLM8wg52uaMXCWc8j"
       },
@@ -651,6 +683,26 @@
       "duration_ms": 190186,
       "name": "Mala Suerte",
       "url": "https://open.spotify.com/track/0K3LgduOVcSi9Z75bcbihT"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Asalto Navide\u00f1o Deluxe Edition",
+        "url": "https://open.spotify.com/album/5anrfHL63mx1v31grZcTbo"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Popurri Navide\u00f1o / Estrellas De Oriente (De Tierras Lejanas) / Noche De Paz / La Virgen Maria / La Tierra Mia",
+      "url": "https://open.spotify.com/track/7nmQRUWNptOVlHlxDAYMWE"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -707,42 +759,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 626826,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/1uRXl9FJPkommfTTqXkhRo"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Asalto Navide\u00f1o Deluxe Edition",
-        "url": "https://open.spotify.com/album/5anrfHL63mx1v31grZcTbo"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Popurri Navide\u00f1o / Estrellas De Oriente (De Tierras Lejanas) / Noche De Paz / La Virgen Maria / La Tierra Mia",
-      "url": "https://open.spotify.com/track/7nmQRUWNptOVlHlxDAYMWE"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "The Greatest Salsa Ever",
         "url": "https://open.spotify.com/album/4tYWoynGUNW2Hsz1Q2jC9Q"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 336506,
       "name": "El Nazareno",
       "url": "https://open.spotify.com/track/062vOe8esScYEDw4cPvBxs"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "La Salsa",
-        "url": "https://open.spotify.com/album/3xAW3AUVOVmrWFse5Oo25G"
-      },
-      "artists": [
-        {
-          "name": "Wayne Gorbea",
-          "url": "https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD"
-        }
-      ],
-      "duration_ms": 290037,
-      "name": "Estamos en Salsa",
-      "url": "https://open.spotify.com/track/4WkSEWIBJGXYQvPPgFdK64"
     },
     {
       "added_at": "2024-09-24 20:30:16",
