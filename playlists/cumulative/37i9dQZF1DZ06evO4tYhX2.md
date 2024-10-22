@@ -2,7 +2,7 @@
 
 ### [This Is Miel San Marcos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tYhX2)
 
-> This Is Miel San Marcos\. Los temas esenciales, todos en una lista.
+> This is Miel San Marcos\. The essential tracks, all in one playlist.
 
 98 songs - 8 hr 35 min
 
@@ -86,7 +86,7 @@
 | [Sigue Orando \(Don't Stop Praying\)](https://open.spotify.com/track/6t9lLCkgPTSEtT5jnOBJax) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sigue Orando \(Don't Stop Praying\)](https://open.spotify.com/album/5RudolYe3u7YMRDM3ZqHpp) | 3:53 | 2024-07-14 |  |
 | [Sobre La Roca \(con Miel San Marcos\)](https://open.spotify.com/track/4B131o1HkP5WvJDnJQrCTK) | [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sobre La Roca](https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR) | 3:36 | 2022-10-12 | 2023-11-11 |
 | [Su Poder](https://open.spotify.com/track/4ggL9CpFu2bIr4nxpIoQpz) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Su Poder](https://open.spotify.com/album/3CTS3cRwUso9FkNqxY4pEV) | 5:02 | 2022-09-14 |  |
-| [Sé Fuerte \- Live Set](https://open.spotify.com/track/4vl7en9sudHqIn4lrWSBKi) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sé Fuerte \- Live Set](https://open.spotify.com/album/2L7vIznTCaHBH2CgwGwdAy) | 5:37 | 2024-09-07 |  |
+| [Sé Fuerte \- Live Set](https://open.spotify.com/track/4vl7en9sudHqIn4lrWSBKi) | [Sarai Rivera](https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Sé Fuerte \(Live Set\)](https://open.spotify.com/album/2L7vIznTCaHBH2CgwGwdAy) | 5:37 | 2024-09-07 |  |
 | [Te Amo](https://open.spotify.com/track/0C79r2bJrD7oq3ZobIELGT) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Te Amo](https://open.spotify.com/album/3ILQ5f78tCMVsX5cJia5RL) | 5:31 | 2024-04-19 | 2024-09-07 |
 | [Te Amo](https://open.spotify.com/track/4b8RrQABoHbJWHCddCeAGp) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [ROMPE EL CIELO](https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq) | 5:52 | 2022-09-14 | 2022-10-11 |
 | [Temprano Yo Te Buscaré / Yo Te Busco](https://open.spotify.com/track/197MVjLeXOx40bfsRy9mMw) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Temprano Yo Te Buscaré / Yo Te Busco](https://open.spotify.com/album/5fmeSELeEd0jAndRiYNGWS) | 4:31 | 2024-10-13 |  |

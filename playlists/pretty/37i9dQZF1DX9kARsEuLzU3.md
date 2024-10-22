@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 
 > Your queens are here Pink Panda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,377 likes - 142 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,381 likes - 142 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kARsEuLzU3.md) - [plain]
 | 66 | [First Farewell](https://open.spotify.com/track/5RZtRudxchBXLcGtcKprNm) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92), [Kwak Jin Eon](https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd) | [The Space](https://open.spotify.com/album/0h0LqI48dvBmdVGf5YNrwO) | 4:04 |
 | 67 | [It's OK](https://open.spotify.com/track/6cpzseqApd3y7uJG3v9XlJ) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Dream](https://open.spotify.com/album/6yAv7kteFYScPyxWpVhqaK) | 3:10 |
 | 68 | [Home](https://open.spotify.com/track/0rc3HN4Srvw7w4XrjN1Yuc) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Dream](https://open.spotify.com/album/6yAv7kteFYScPyxWpVhqaK) | 3:23 |
-| 69 | [I Pray 4 You](https://open.spotify.com/track/7kmk3A9Qt3hQH1uJjDkAX4) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [School 2017, Pt\. 6 \- Original Television Soundtrack](https://open.spotify.com/album/3AJIBqG99Uq1Lgg08EAEl6) | 3:50 |
+| 69 | [I Pray 4 You](https://open.spotify.com/track/7kmk3A9Qt3hQH1uJjDkAX4) | [Apink BnN](https://open.spotify.com/artist/74FhUVHWfjvC4NVw5MmyX6) | [School 2017, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/3AJIBqG99Uq1Lgg08EAEl6) | 3:50 |
 | 70 | [Love Is](https://open.spotify.com/track/4nqvLovrhwFrQKgRNnFwgK) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Dream](https://open.spotify.com/album/6yAv7kteFYScPyxWpVhqaK) | 3:54 |
 | 71 | [Heaven](https://open.spotify.com/track/1qpKZu2wqQcYyBaSjkAuux) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Dear](https://open.spotify.com/album/6ZRDq9uKXQ9G0DmYfmSIjF) | 3:26 |
 | 72 | [Let's Eat Together \(feat.YOON BOMI of Apink\)](https://open.spotify.com/track/6dy31xfy9MkOV8eMYT0QFk) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2), [YOON BOMI](https://open.spotify.com/artist/41OOBawIDbmcvVkjD4M2P7) | [Let's Eat Together](https://open.spotify.com/album/5e0GEbTh4INJ2LdLdbfZZa) | 2:56 |

@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 334528,
+  "num_followers": 334915,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Blood of the Saints",
-        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "We Drink Your Blood",
-      "url": "https://open.spotify.com/track/3pWvRhml43vlUrGYlIzLM6"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Halloween Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 175333,
       "name": "Halloween Theme - Main Title",
       "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Blood of the Saints",
+        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "We Drink Your Blood",
+      "url": "https://open.spotify.com/track/3pWvRhml43vlUrGYlIzLM6"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Opus Eponymous",
-        "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 268746,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
         "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 313453,
       "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
       "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 268746,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/787iiwJUZgZLZzRIZWzNeK"
-      },
-      "artists": [
-        {
-          "name": "The Black Dahlia Murder",
-          "url": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
-        }
-      ],
-      "duration_ms": 280973,
-      "name": "A Shrine to Madness",
-      "url": "https://open.spotify.com/track/0VEk1PEMmFPb0dwoAK30sk"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Billion Dollar Babies (Deluxe Reissue)",
         "url": "https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 307226,
       "name": "I Love the Dead",
       "url": "https://open.spotify.com/track/1nwkxjOS104dWwNgrhYkEo"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/787iiwJUZgZLZzRIZWzNeK"
+      },
+      "artists": [
+        {
+          "name": "The Black Dahlia Murder",
+          "url": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
+        }
+      ],
+      "duration_ms": 280973,
+      "name": "A Shrine to Madness",
+      "url": "https://open.spotify.com/track/0VEk1PEMmFPb0dwoAK30sk"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/0v6vbvtlFL78oEd3KrT0jp"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 274853,
-      "name": "Hellraiser",
-      "url": "https://open.spotify.com/track/2N7LcpJoYo7WWTueTW9KyX"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Every Day Is Halloween",
         "url": "https://open.spotify.com/album/7k9I081UZQ52AxclQ6ZjQE"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 384733,
       "name": "Every Day Is Halloween",
       "url": "https://open.spotify.com/track/6Zqj7C6uaIXFF5B8XxzWTO"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/0v6vbvtlFL78oEd3KrT0jp"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 274853,
+      "name": "Hellraiser",
+      "url": "https://open.spotify.com/track/2N7LcpJoYo7WWTueTW9KyX"
     },
     {
       "added_at": "2024-10-11 19:37:59",

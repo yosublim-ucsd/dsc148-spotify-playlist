@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nXUs2Fdn6S.md) - [plain]
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,075 likes - 62 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,082 likes - 62 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Laung Gawacha](https://open.spotify.com/track/79JMjG6tj2zvCDEukCSgcx) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Bass Rani](https://open.spotify.com/album/0NgHu77V7xVb30uxtUud2J) | 3:33 |
 | 2 | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/track/4SlCYFaUQ8GRuwdpgniaGF) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/album/5EyIytU4jYrTCuf8Xy49M3) | 3:18 |
 | 3 | [Sathi](https://open.spotify.com/track/2XBSkMQueeB4p24omMj7m7) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Sathi](https://open.spotify.com/album/5SVJr4rIkhquC1Wqv0olmM) | 3:36 |
-| 4 | [Kesariya Balam \- Folktronica Remix](https://open.spotify.com/track/482zJTCsps0aNuSlIqGAB4) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Kesariya Balam \- Folktronica Remix](https://open.spotify.com/album/1zljyAoQx0tk02UW95NOm4) | 2:23 |
+| 4 | [Kesariya Balam \- Folktronica Remix](https://open.spotify.com/track/482zJTCsps0aNuSlIqGAB4) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Kesariya Balam \(Folktronica Remix\)](https://open.spotify.com/album/1zljyAoQx0tk02UW95NOm4) | 2:23 |
 | 5 | [Ghar Aao Na \(Techno Mix\)](https://open.spotify.com/track/4Cz7oBICpLdh5LTdpbGLz0) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [DJ Nyk](https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF) | [Ghar Aao Na \(Techno Mix\)](https://open.spotify.com/album/71OwS0R4npYcuUX9YEXQ5b) | 4:17 |
 | 6 | [Mera Dil](https://open.spotify.com/track/4CgB8kj1mrBOkeGnTTw28m) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj), [Adnan Ahmad](https://open.spotify.com/artist/7qFEucMhWHhPO9LftYsTcO) | [Mera Dil](https://open.spotify.com/album/3TPaXFvYWPk2F9WqGiGM0c) | 3:15 |
 | 7 | [Bin Bataye](https://open.spotify.com/track/3FG79ZhBtwQoy4sVkXVIhE) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Ragasuram](https://open.spotify.com/artist/5TOAOQvO0N5gjNZMse9P60), [Saurabh Tripathi](https://open.spotify.com/artist/2kOWriOsQOgsIeuRshJf36) | [Bin Bataye](https://open.spotify.com/album/0SEa6MorRu0A4XC9jJlt1G) | 2:41 |

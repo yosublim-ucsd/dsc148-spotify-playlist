@@ -6,8 +6,52 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABioKO5MLPTaReRPziKpfz0",
+  "snapshot_id": "AAAAAAAAAAB82brKJ+DOF0Cj6lGIlpwE",
   "tracks": [
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "SI NO ES CONTIGO (REMIX)",
+        "url": "https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "SI NO ES CONTIGO - REMIX",
+      "url": "https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/3EmpiBiVuoGvd2WI0lD4ZY"
+      },
+      "artists": [
+        {
+          "name": "Qveen Herby",
+          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
+        },
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 146957,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/0PL8Noq0tGCl4NJPjwSvTR"
+    },
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
@@ -23,6 +67,58 @@
       "duration_ms": 172800,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5UHCmvbQn8UoM6Zsv8LKyc"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "A-1 LAVA",
+        "url": "https://open.spotify.com/album/5Farm7FFFdcOn5dGCm5apo"
+      },
+      "artists": [
+        {
+          "name": "Blacklovefresh",
+          "url": "https://open.spotify.com/artist/70ygKaX8FRoaJ4He1VOddf"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 207621,
+      "name": "A-1 LAVA",
+      "url": "https://open.spotify.com/track/2pV8qo0XORuBS1PXTUuvpn"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Don't Be Lyin'",
+        "url": "https://open.spotify.com/album/44yAm0UdQ38riMFkUTuwZc"
+      },
+      "artists": [
+        {
+          "name": "DILEVA",
+          "url": "https://open.spotify.com/artist/40cuZxVk269dwVkywnnFIo"
+        },
+        {
+          "name": "S3V4",
+          "url": "https://open.spotify.com/artist/7xv3eAqAetyC5dK2O8dYYV"
+        },
+        {
+          "name": "4YD",
+          "url": "https://open.spotify.com/artist/35jDRnxHJGSSxcFSkmkB8T"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "duration_ms": 270420,
+      "name": "Don't Be Lyin'",
+      "url": "https://open.spotify.com/track/40MoTneg8HQD3X7ChiHlHg"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -67,102 +163,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/3EmpiBiVuoGvd2WI0lD4ZY"
-      },
-      "artists": [
-        {
-          "name": "Qveen Herby",
-          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
-        },
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 146957,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/0PL8Noq0tGCl4NJPjwSvTR"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "A-1 LAVA",
-        "url": "https://open.spotify.com/album/5Farm7FFFdcOn5dGCm5apo"
-      },
-      "artists": [
-        {
-          "name": "Blacklovefresh",
-          "url": "https://open.spotify.com/artist/70ygKaX8FRoaJ4He1VOddf"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 207621,
-      "name": "A-1 LAVA",
-      "url": "https://open.spotify.com/track/2pV8qo0XORuBS1PXTUuvpn"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "SI NO ES CONTIGO (REMIX)",
-        "url": "https://open.spotify.com/album/6ilRhpB01gqO1lI9OtGmGj"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "SI NO ES CONTIGO - REMIX",
-      "url": "https://open.spotify.com/track/4MAv7MqIlcaTBHGiUXIWiw"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Don't Be Lyin'",
-        "url": "https://open.spotify.com/album/44yAm0UdQ38riMFkUTuwZc"
-      },
-      "artists": [
-        {
-          "name": "DILEVA",
-          "url": "https://open.spotify.com/artist/40cuZxVk269dwVkywnnFIo"
-        },
-        {
-          "name": "S3V4",
-          "url": "https://open.spotify.com/artist/7xv3eAqAetyC5dK2O8dYYV"
-        },
-        {
-          "name": "4YD",
-          "url": "https://open.spotify.com/artist/35jDRnxHJGSSxcFSkmkB8T"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 270420,
-      "name": "Don't Be Lyin'",
-      "url": "https://open.spotify.com/track/40MoTneg8HQD3X7ChiHlHg"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "King Illusion",
         "url": "https://open.spotify.com/album/3cuVbtM9fc7vmcS0BC7toy"
       },
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "If You Can Count",
-      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Smoke",
         "url": "https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 183193,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "If You Can Count",
+      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "falling or flying (Deluxe)",
-        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 282055,
-      "name": "Little Things - Floating Points Remix",
-      "url": "https://open.spotify.com/track/7iDFxX1qXsuMZ4AWq6DK6R"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Recurring (Live At King's Place)",
         "url": "https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 320826,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 282055,
+      "name": "Little Things - Floating Points Remix",
+      "url": "https://open.spotify.com/track/7iDFxX1qXsuMZ4AWq6DK6R"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 293253,
-      "name": "Secret Love - 2024 Remastered Version",
-      "url": "https://open.spotify.com/track/7dNgdXHOcPKoufpvPkDaxS"
+      "duration_ms": 336173,
+      "name": "All Blues - 2024 Remastered Version",
+      "url": "https://open.spotify.com/track/5iqHqoIJHDP6mTBg1yd1Bw"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

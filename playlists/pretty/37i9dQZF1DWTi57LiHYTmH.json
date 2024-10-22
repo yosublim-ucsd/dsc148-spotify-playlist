@@ -1,6 +1,6 @@
 {
   "description": "A calm and cosy classical soundtrack to all activities. ",
-  "num_followers": 81442,
+  "num_followers": 81616,
   "original_name": "Classical in the Background",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,26 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 293146,
+      "name": "Liebestraum No. 3 in A-Flat Major, S. 541 / 3",
+      "url": "https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
         "name": "This is the Day: Music on Royal Occasions",
         "url": "https://open.spotify.com/album/1EbxP2aC9lpKRDk5lhcO5Y"
       },
@@ -371,26 +391,6 @@
       "duration_ms": 93840,
       "name": "Henry V: Henry V: Touch her soft lips and part",
       "url": "https://open.spotify.com/track/5WEmDvDiRpE7p3y8SMMAPJ"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 293146,
-      "name": "Liebestraum No. 3 in A-Flat Major, S. 541 / 3",
-      "url": "https://open.spotify.com/track/2u9VGZmVz7Rm01SfDgzcfA"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -579,6 +579,26 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
+        "name": "Debussy: Bruy\u00e8res (Home Session)",
+        "url": "https://open.spotify.com/album/4BXFAXaREZ96i733A132um"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 216061,
+      "name": "Pr\u00e9ludes / Book 2, L. 123: 5. Bruy\u00e8res - Home Session",
+      "url": "https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
         "name": "Schubert",
         "url": "https://open.spotify.com/album/073hIhdGDDOfOXDiYvO0kC"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 442172,
       "name": "St\u00e4ndchen, S. 560 (Trans. from Schwanengesang No. 4, D. 957)",
       "url": "https://open.spotify.com/track/4b59u2E74KcDuyHCRBkf5v"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
-        "name": "Debussy: Bruy\u00e8res (Home Session)",
-        "url": "https://open.spotify.com/album/4BXFAXaREZ96i733A132um"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 216061,
-      "name": "Pr\u00e9ludes / Book 2, L. 123: 5. Bruy\u00e8res - Home Session",
-      "url": "https://open.spotify.com/track/2eSVQH8lwcrUBs7dpEj7p7"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
-        "name": "Ravel: Complete Works for Solo Piano",
-        "url": "https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 346586,
-      "name": "Ravel: Pavane pour une infante d\u00e9funte, M. 19",
-      "url": "https://open.spotify.com/track/3MRQn2RYo2VLYMoStnLRxu"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
         "name": "Rachmaninoff: Pr\u00e9ludes; \u00c9tudes-Tableaux; Moments musicaux",
         "url": "https://open.spotify.com/album/5952RUol8Nl7Ihk1zcaUb4"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 181693,
       "name": "12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",
       "url": "https://open.spotify.com/track/4ObQ0m7VUtrgdEwpFeCKua"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
+        "name": "Ravel: Complete Works for Solo Piano",
+        "url": "https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 346586,
+      "name": "Ravel: Pavane pour une infante d\u00e9funte, M. 19",
+      "url": "https://open.spotify.com/track/3MRQn2RYo2VLYMoStnLRxu"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -1215,8 +1215,8 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
-        "name": "Hummel - Weber - Mendelssohn",
-        "url": "https://open.spotify.com/album/3wGZgzMRdcYtItW45U51OR"
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/4pMOwsoOofoDRzAUSkuQXr"
       },
       "artists": [
         {
@@ -1224,21 +1224,13 @@
           "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Matthias Kirschnereit",
-          "url": "https://open.spotify.com/artist/48puMugH2PJXYjqzkRYlFd"
-        },
-        {
-          "name": "Michael Sanderling",
-          "url": "https://open.spotify.com/artist/1kLhJK7xiowRJJwf28NKhZ"
-        },
-        {
-          "name": "Frankfurt Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
         }
       ],
-      "duration_ms": 150321,
-      "name": "Capriccio brillant, Op. 22: Andante",
-      "url": "https://open.spotify.com/track/05W1GduItsqueo7fja8e6i"
+      "duration_ms": 118160,
+      "name": "Lieder ohne Worte, Op. 19: No. 6 in G Minor (Andante sostenuto) \"Venetian Gondola Song\", MWV U78",
+      "url": "https://open.spotify.com/track/24lh2z8T2suwGctBInqDkk"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -1283,26 +1275,6 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
-        "name": "Satie: Complete Piano Works, Vol. 2/2",
-        "url": "https://open.spotify.com/album/2tmqRnqJGhdHtv5WbEQdex"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Cristina Ariagno",
-          "url": "https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18"
-        }
-      ],
-      "duration_ms": 77266,
-      "name": "Enfantillages pittoresques: II. Berceuse",
-      "url": "https://open.spotify.com/track/0L5WGmfuDp4JgbOnv3eqOg"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
         "name": "Khachaturian: 7 Recitatives & Fugues & Children's Albums Nos. 1 & 2",
         "url": "https://open.spotify.com/album/3umvKIjsD484pa9pCyPK2x"
       },
@@ -1319,6 +1291,26 @@
       "duration_ms": 96240,
       "name": "Children's Album No. 1 \"Pictures of Childhood\": No. 1, Andantino",
       "url": "https://open.spotify.com/track/1xky6QliZ0gPbdnatVdb4Q"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
+        "name": "Satie: Complete Piano Works, Vol. 2/2",
+        "url": "https://open.spotify.com/album/2tmqRnqJGhdHtv5WbEQdex"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Cristina Ariagno",
+          "url": "https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18"
+        }
+      ],
+      "duration_ms": 77266,
+      "name": "Enfantillages pittoresques: II. Berceuse",
+      "url": "https://open.spotify.com/track/0L5WGmfuDp4JgbOnv3eqOg"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -1383,8 +1375,8 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
-        "name": "Mendelssohn",
-        "url": "https://open.spotify.com/album/4pMOwsoOofoDRzAUSkuQXr"
+        "name": "Hummel - Weber - Mendelssohn",
+        "url": "https://open.spotify.com/album/3wGZgzMRdcYtItW45U51OR"
       },
       "artists": [
         {
@@ -1392,13 +1384,21 @@
           "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Jan Lisiecki",
-          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+          "name": "Matthias Kirschnereit",
+          "url": "https://open.spotify.com/artist/48puMugH2PJXYjqzkRYlFd"
+        },
+        {
+          "name": "Michael Sanderling",
+          "url": "https://open.spotify.com/artist/1kLhJK7xiowRJJwf28NKhZ"
+        },
+        {
+          "name": "Frankfurt Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XoXD9qLXeOBK6CtR2bbZQ"
         }
       ],
-      "duration_ms": 118160,
-      "name": "Lieder ohne Worte, Op. 19: No. 6 in G Minor (Andante sostenuto) \"Venetian Gondola Song\", MWV U78",
-      "url": "https://open.spotify.com/track/24lh2z8T2suwGctBInqDkk"
+      "duration_ms": 150321,
+      "name": "Capriccio brillant, Op. 22: Andante",
+      "url": "https://open.spotify.com/track/05W1GduItsqueo7fja8e6i"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
-        "name": "Mendelssohn, Felix: Songs Without Words, Vol. 1",
-        "url": "https://open.spotify.com/album/4oPL5qL3uEurG2nu1MsVwT"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "P\u00e9ter Nagy",
-          "url": "https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM"
-        }
-      ],
-      "duration_ms": 282813,
-      "name": "Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30, No. 1",
-      "url": "https://open.spotify.com/track/00CXUMREit80f2McJsjcIz"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
         "name": "Oswald: Works for Piano",
         "url": "https://open.spotify.com/album/3L6dCD5Zjnu99BUFunWjvd"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 165693,
       "name": "En nacelle",
       "url": "https://open.spotify.com/track/35otBCRXC8HdmRqndFStL0"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
+        "name": "Mendelssohn, Felix: Songs Without Words, Vol. 1",
+        "url": "https://open.spotify.com/album/4oPL5qL3uEurG2nu1MsVwT"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "P\u00e9ter Nagy",
+          "url": "https://open.spotify.com/artist/4Hv8naKkLxWrfxkRMPz5bM"
+        }
+      ],
+      "duration_ms": 282813,
+      "name": "Lieder ohne Worte (Songs without Words), Book 2, Op. 30: No. 7 in E-Flat Major, Op. 30, No. 1",
+      "url": "https://open.spotify.com/track/00CXUMREit80f2McJsjcIz"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -2059,6 +2059,22 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
+        "name": "Inedito (Unpublished)",
+        "url": "https://open.spotify.com/album/74Q0uOTdCZMZ07P5Im7582"
+      },
+      "artists": [
+        {
+          "name": "Lazar Berman",
+          "url": "https://open.spotify.com/artist/2XKXuLdjmigGQx286z07ZZ"
+        }
+      ],
+      "duration_ms": 63840,
+      "name": "Chaconne in sol maggiore : Variazione 9",
+      "url": "https://open.spotify.com/track/4NSH5KlrNzdH9OBtgsBFpL"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
         "name": "River Flows in You",
         "url": "https://open.spotify.com/album/0qm31sUHZyO7i2SJg7bojq"
       },
@@ -2079,22 +2095,6 @@
       "duration_ms": 180866,
       "name": "River Flows in You",
       "url": "https://open.spotify.com/track/2xCtrN9PYxH6WIOUj06jM6"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
-        "name": "Inedito (Unpublished)",
-        "url": "https://open.spotify.com/album/74Q0uOTdCZMZ07P5Im7582"
-      },
-      "artists": [
-        {
-          "name": "Lazar Berman",
-          "url": "https://open.spotify.com/artist/2XKXuLdjmigGQx286z07ZZ"
-        }
-      ],
-      "duration_ms": 63840,
-      "name": "Chaconne in sol maggiore : Variazione 9",
-      "url": "https://open.spotify.com/track/4NSH5KlrNzdH9OBtgsBFpL"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -2271,26 +2271,6 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
-        "name": "Chopin: The Nocturnes",
-        "url": "https://open.spotify.com/album/3E18eNdHxIZ5ri5H8dzbAD"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Nelson Freire",
-          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
-        }
-      ],
-      "duration_ms": 334053,
-      "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
-      "url": "https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
         "name": "Field: Complete Nocturnes",
         "url": "https://open.spotify.com/album/0I3BvDSNoPQnI8Fsr60Cub"
       },
@@ -2307,6 +2287,26 @@
       "duration_ms": 221731,
       "name": "Nocturne No. 1 in E Flat Major, H.24",
       "url": "https://open.spotify.com/track/4h4py9AzEuUGBTJZO4ifnm"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
+        "name": "Chopin: The Nocturnes",
+        "url": "https://open.spotify.com/album/3E18eNdHxIZ5ri5H8dzbAD"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "duration_ms": 334053,
+      "name": "Nocturne No. 1 in B flat minor, Op. 9 No. 1",
+      "url": "https://open.spotify.com/track/7vIJwiFD2FKiulXzCDMvc4"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -2607,26 +2607,6 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
-        "name": "Scriabin: Preludes, Vol. 1",
-        "url": "https://open.spotify.com/album/2Ql5IIdZIiGFsNNy0O87ZA"
-      },
-      "artists": [
-        {
-          "name": "Alexander Scriabin",
-          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
-        },
-        {
-          "name": "Evgeny Zarafiants",
-          "url": "https://open.spotify.com/artist/1mlJpazSMM0qkokoS6SNRN"
-        }
-      ],
-      "duration_ms": 62506,
-      "name": "24 Preludes, Op. 11: No. 1 in C Major",
-      "url": "https://open.spotify.com/track/5VUqbQ8Z5NXEITbmFhAhbk"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
         "name": "Flute and Harp",
         "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
       },
@@ -2651,62 +2631,22 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
-        "name": "Bizet: Jeux d'enfants / Faur\u00e9: Dolly Suite / Ravel: Ma m\u00e8re l'Oye",
-        "url": "https://open.spotify.com/album/4MY2auDpOcI2jc9TT01HWE"
+        "name": "Scriabin: Preludes, Vol. 1",
+        "url": "https://open.spotify.com/album/2Ql5IIdZIiGFsNNy0O87ZA"
       },
       "artists": [
         {
-          "name": "Georges Bizet",
-          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
         },
         {
-          "name": "Katia Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
-        },
-        {
-          "name": "Marielle Lab\u00e8que",
-          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+          "name": "Evgeny Zarafiants",
+          "url": "https://open.spotify.com/artist/1mlJpazSMM0qkokoS6SNRN"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Jeux d'enfants, Op. 22: No. 3, La poup\u00e9e",
-      "url": "https://open.spotify.com/track/68TzUzHwdu2SpvWwJ0zANX"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
-        "name": "Debussy: Pr\u00e9ludes Books 1 & 2",
-        "url": "https://open.spotify.com/album/4dp6Wc8yveqpMTi6EHxyCE"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Jean-Rodolphe Kars",
-          "url": "https://open.spotify.com/artist/5PXgZoCjPcqAsZk1ESRudj"
-        }
-      ],
-      "duration_ms": 150440,
-      "name": "Pr\u00e9ludes / Book 1, L. 117: 8. La fille aux cheveux de lin",
-      "url": "https://open.spotify.com/track/1S7KLOhkzdJ4ycKKZCZIWK"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
-        "name": "December 32nd",
-        "url": "https://open.spotify.com/album/7uxO2W10ECHsn6xUW5CFxy"
-      },
-      "artists": [
-        {
-          "name": "Julius Asal",
-          "url": "https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE"
-        }
-      ],
-      "duration_ms": 278891,
-      "name": "December 32nd - Piano Solo Version",
-      "url": "https://open.spotify.com/track/4OuqXdLeZpQJYlruSsSOHb"
+      "duration_ms": 62506,
+      "name": "24 Preludes, Op. 11: No. 1 in C Major",
+      "url": "https://open.spotify.com/track/5VUqbQ8Z5NXEITbmFhAhbk"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -2735,6 +2675,66 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
+        "name": "Debussy: Pr\u00e9ludes Books 1 & 2",
+        "url": "https://open.spotify.com/album/4dp6Wc8yveqpMTi6EHxyCE"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Jean-Rodolphe Kars",
+          "url": "https://open.spotify.com/artist/5PXgZoCjPcqAsZk1ESRudj"
+        }
+      ],
+      "duration_ms": 150440,
+      "name": "Pr\u00e9ludes / Book 1, L. 117: 8. La fille aux cheveux de lin",
+      "url": "https://open.spotify.com/track/1S7KLOhkzdJ4ycKKZCZIWK"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
+        "name": "Bizet: Jeux d'enfants / Faur\u00e9: Dolly Suite / Ravel: Ma m\u00e8re l'Oye",
+        "url": "https://open.spotify.com/album/4MY2auDpOcI2jc9TT01HWE"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        },
+        {
+          "name": "Marielle Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Jeux d'enfants, Op. 22: No. 3, La poup\u00e9e",
+      "url": "https://open.spotify.com/track/68TzUzHwdu2SpvWwJ0zANX"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
+        "name": "December 32nd",
+        "url": "https://open.spotify.com/album/7uxO2W10ECHsn6xUW5CFxy"
+      },
+      "artists": [
+        {
+          "name": "Julius Asal",
+          "url": "https://open.spotify.com/artist/5Tp2SqEkbc2n6anNqNw5dE"
+        }
+      ],
+      "duration_ms": 278891,
+      "name": "December 32nd - Piano Solo Version",
+      "url": "https://open.spotify.com/track/4OuqXdLeZpQJYlruSsSOHb"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
         "name": "Handel Variations",
         "url": "https://open.spotify.com/album/21lcyOutL6OClPcldmOP3Q"
       },
@@ -2755,26 +2755,6 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
-        "name": "Gershwin: Piano Works",
-        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Song Book: The Man I Love. Slow and in singing style",
-      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
         "name": "Valentina Lisitsa Plays Philip Glass",
         "url": "https://open.spotify.com/album/1DJldMHQQA7Fglm9dhMg8t"
       },
@@ -2791,6 +2771,26 @@
       "duration_ms": 160453,
       "name": "The Truman Show: Truman Sleeps - Short Version",
       "url": "https://open.spotify.com/track/29S6PLRccSCyKozzwIik0J"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Song Book: The Man I Love. Slow and in singing style",
+      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -2827,8 +2827,8 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
-        "name": "Schumann : Piano works",
-        "url": "https://open.spotify.com/album/6jBpmfj61Fb3gOmpGTcMlv"
+        "name": "Schumann: Carnaval, Op.9, 12. Chopin",
+        "url": "https://open.spotify.com/album/6ezCZHbpHReYh0u4jd9jcd"
       },
       "artists": [
         {
@@ -2836,13 +2836,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Piotr Anderszewski",
-          "url": "https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9"
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
         }
       ],
-      "duration_ms": 125466,
-      "name": "Schumann: 6 Studien in kanonischer Form, Op. 56: No. 1, Nicht schnell",
-      "url": "https://open.spotify.com/track/1q5ayzgYUD1uL2kI389fV4"
+      "duration_ms": 90413,
+      "name": "Carnaval, Op. 9: XII. Chopin",
+      "url": "https://open.spotify.com/track/0XNjIYSeBccSL0jGgOfHQ5"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -3115,6 +3115,22 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
+        "name": "Piano Book (Encore Edition)",
+        "url": "https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 335360,
+      "name": "Limu, limu, lima (Arr. Schindler for Piano)",
+      "url": "https://open.spotify.com/track/1I2SqiCMYzNpf3iz2cGbgm"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
         "name": "Born in the 1600s: Vivaldi",
         "url": "https://open.spotify.com/album/1sw3vQbpQFMl536wB1pO2F"
       },
@@ -3139,22 +3155,6 @@
       "duration_ms": 309466,
       "name": "Concerto for Lute, 2 Violins and Continuo in D major, RV 93: 2. Largo (Arr. for Guitar)",
       "url": "https://open.spotify.com/track/5GnRdw3oNKF8Mz6gdEcQLK"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
-        "name": "Piano Book (Encore Edition)",
-        "url": "https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI"
-      },
-      "artists": [
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 335360,
-      "name": "Limu, limu, lima (Arr. Schindler for Piano)",
-      "url": "https://open.spotify.com/track/1I2SqiCMYzNpf3iz2cGbgm"
     },
     {
       "added_at": "2024-10-04 10:37:19",
@@ -3663,7 +3663,7 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
-        "name": "Scriabin \u2013 Scarlatti: Singles - Pt. 2",
+        "name": "Scriabin \u2013 Scarlatti: Singles (Pt. 2)",
         "url": "https://open.spotify.com/album/78Irtx4lUQzFMKQp2Bu1LI"
       },
       "artists": [
@@ -3747,6 +3747,26 @@
     {
       "added_at": "2024-10-04 10:37:19",
       "album": {
+        "name": "Piano Poems",
+        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
+      },
+      "artists": [
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        },
+        {
+          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
+        }
+      ],
+      "duration_ms": 171397,
+      "name": "Being",
+      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
+    },
+    {
+      "added_at": "2024-10-04 10:37:19",
+      "album": {
         "name": "Brahms & Busoni Violin Concertos",
         "url": "https://open.spotify.com/album/192CqdyyKrnFuO8U3E0nYZ"
       },
@@ -3771,26 +3791,6 @@
       "duration_ms": 521000,
       "name": "Concerto in D Major, Op. 77: II. Adagio",
       "url": "https://open.spotify.com/track/0HVX7Itc5H4CnOZP8683Km"
-    },
-    {
-      "added_at": "2024-10-04 10:37:19",
-      "album": {
-        "name": "Piano Poems",
-        "url": "https://open.spotify.com/album/0P9VZ9lR4nwcwEDh1NgJTc"
-      },
-      "artists": [
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        },
-        {
-          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
-        }
-      ],
-      "duration_ms": 171397,
-      "name": "Being",
-      "url": "https://open.spotify.com/track/0lsFPRlqL6UCTUKERiFxWJ"
     }
   ],
   "unique_name": "Classical in the Background",

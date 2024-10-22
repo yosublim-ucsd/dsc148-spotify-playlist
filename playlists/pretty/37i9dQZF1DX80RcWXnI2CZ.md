@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80RcWXnI2CZ.md) - [plain]
 
 > Always close at hand when a friend is in need, this character brings light, positivity, and an often underestimated strength.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,870 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,943 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80RcWXnI2CZ.md) - [plain]
 | 7 | [Weekender Girl](https://open.spotify.com/track/1ezXW6syS9nqHhh6f2WJQf) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:31 |
 | 8 | [Omae Wa Mou](https://open.spotify.com/track/3czTBcZWn9VP9sKrnLXi8D) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [Omae Wa Mou](https://open.spotify.com/album/32pkaIIjtHTzIS9Snl7eEp) | 1:53 |
 | 9 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 |
-| 10 | [Poppippo](https://open.spotify.com/track/2JFOvMEbJSRQvjuFvAZv2L) | [LamazeP](https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e) | [Exit Trance Presents Umauma Dekiru Trance Wo Tsukuttemita 7 Shiharai Wa Makasero \- Baribari Standard Edition](https://open.spotify.com/album/5eaPwQbdgi1ZWg3alVifSh) | 3:28 |
+| 10 | [Poppippo](https://open.spotify.com/track/2JFOvMEbJSRQvjuFvAZv2L) | [LamazeP](https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e) | [Exit Trance Presents Umauma Dekiru Trance Wo Tsukuttemita 7 Shiharai Wa Makasero \(Baribari Standard Edition\)](https://open.spotify.com/album/5eaPwQbdgi1ZWg3alVifSh) | 3:28 |
 | 11 | [Hellokittybalahcurrihellokitty美味しい](https://open.spotify.com/track/51IEjUEnT7n3cgIXynxNTN) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2) | [Hellokittybalahcurrihellokitty美味しい](https://open.spotify.com/album/4aonD1CFMOjR9Ni6F7MjxP) | 3:47 |
 | 12 | [Caramelldansen](https://open.spotify.com/track/7MwwPyZJ7UKFROj2oVnH6R) | [Caramella Girls](https://open.spotify.com/artist/73r19TWxqEnnFf6O1u1e92) | [Supergott \(Speedy Mixes\)](https://open.spotify.com/album/5zvb76rGpvP8oDE2n3tytx) | 2:55 |
 | 13 | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/track/0j4bOgJynZ2Bp6nOydmcan) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [where’d u go? o\(╥\_╥\)o .。\*゚+](https://open.spotify.com/album/1MFYXg6npaLvWvDidgtzqo) | 2:29 |

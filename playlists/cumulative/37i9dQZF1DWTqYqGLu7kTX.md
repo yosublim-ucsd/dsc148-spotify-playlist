@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-206 songs - 10 hr 22 min
+207 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ambarsaria](https://open.spotify.com/track/6eCA1w1FBvYeMcFTD6BWzl) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:32 | 2024-07-26 |  |
 | [Amli Anthem](https://open.spotify.com/track/7x4jPB2jvTeIXms30ak5W8) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [Amli Anthem](https://open.spotify.com/album/0eNWBBmMsMT3jgf6bj0MSU) | 1:50 | 2023-03-18 | 2024-01-25 |
 | [Ammo \(feat\. Sultaan\)](https://open.spotify.com/track/7fN0FOUaOWN722v8EJMzQ4) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [ALPHA](https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f) | 3:22 | 2024-10-10 |  |
+| [Area 46](https://open.spotify.com/track/4FvpUiLWxotcm9h3vYcbgV) | [Rav Aulakh](https://open.spotify.com/artist/41mbGEbwlzaCzy3sDVuFoj), [Sangar](https://open.spotify.com/artist/5wjEpEmoBwVZXueIJgk31C) | [Area 46](https://open.spotify.com/album/7ldJuCRt6KtKkyGSOewFuH) | 2:51 | 2024-10-21 |  |
 | [ARMED](https://open.spotify.com/track/2exH5Jiafijol1Y5toP5xL) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:04 | 2023-12-18 | 2024-03-27 |
 | [Arrogant](https://open.spotify.com/track/2jt9VV6QGn0tbwkrr26OO6) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Arrogant](https://open.spotify.com/album/71G8NXRzRio8JvT8og5zcL) | 1:42 | 2023-03-18 |  |
 | [ASK 'EM](https://open.spotify.com/track/3FHWjZ1USMyJY3laGeaNKU) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [2003](https://open.spotify.com/album/3xaN6DbmCjuDsBclF2xSaF) | 2:24 | 2024-08-23 | 2024-09-07 |
@@ -172,7 +173,7 @@
 | [Route 66](https://open.spotify.com/track/0c4JEW8BzPQR28UjisvEMf) | [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Irman](https://open.spotify.com/artist/6PekRKJMJZzbPCcFhjUyH1) | [If the Sun Had a Dark Side](https://open.spotify.com/album/4jAKk2fxLBXxHnaXs6oLwx) | 2:31 | 2024-10-18 |  |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-03-18 |  |
 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 | 2024-02-02 |  |
-| [Saheli](https://open.spotify.com/track/7xQXcHasNrkqnIwKFx2HxK) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Saheli](https://open.spotify.com/album/6qpWZwYAGKU3fX3gK1DqUY) | 2:56 | 2024-09-24 |  |
+| [Saheli](https://open.spotify.com/track/7xQXcHasNrkqnIwKFx2HxK) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Saheli](https://open.spotify.com/album/6qpWZwYAGKU3fX3gK1DqUY) | 2:56 | 2024-09-24 | 2024-10-22 |
 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 | 2023-03-18 |  |
 | [Sarpanchi](https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf) | [Harry Dhaliwal](https://open.spotify.com/artist/3c5CALgW92Nq4E6EytQHgK), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [Anwar Rai](https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV) | [Hype](https://open.spotify.com/album/3ohv56IXMl2Riq8wc2Rtsz) | 2:11 | 2024-10-01 |  |
 | [Satisfy](https://open.spotify.com/track/2SazZ5d4m9G5IWu5xdMjZf) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS) | [Satisfy](https://open.spotify.com/album/6RYfEZXGozNip5vEpP0Llp) | 4:40 | 2023-03-18 | 2023-04-24 |

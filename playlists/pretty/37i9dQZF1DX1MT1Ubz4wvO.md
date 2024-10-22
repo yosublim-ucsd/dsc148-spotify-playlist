@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con RENEE  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,152 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,154 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 14 | [¿Dónde Estás?](https://open.spotify.com/track/3J1LchQHZ160AXRsAt6okN) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Arde en mí](https://open.spotify.com/album/1UANShIp1j6vR3FaA7Ok58) | 3:38 |
 | 15 | [Lo hecho está](https://open.spotify.com/track/3svJWRUaEuvfbRIMw9cNwr) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [WIPLASH](https://open.spotify.com/album/4p5UD2hEyjQ2GGuHbSKTDf) | 2:14 |
 | 16 | [Calle En El Cielo](https://open.spotify.com/track/5OzacFSmfvLUzd3bcLxdHy) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Calle En El Cielo](https://open.spotify.com/album/18kXCaZTQf6DsREJvRia2f) | 4:27 |
-| 17 | [esta canción se va a acabar \- sesión noviembre/en vivo](https://open.spotify.com/track/0qleksnLYAcFUathYfnEC3) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [lo que me dejaste \- sesión noviembre/en vivo](https://open.spotify.com/album/7GlAaBTgydhevQBXS9HlRz) | 2:58 |
+| 17 | [esta canción se va a acabar \- sesión noviembre/en vivo](https://open.spotify.com/track/0qleksnLYAcFUathYfnEC3) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [lo que me dejaste \(sesión noviembre/en vivo\)](https://open.spotify.com/album/7GlAaBTgydhevQBXS9HlRz) | 2:58 |
 | 18 | [Spanishfornication \(España te f@lla\)](https://open.spotify.com/track/55VUVKaGsNFC390zBfa1I1) | [Def Con Dos](https://open.spotify.com/artist/1O4hqQz2nV0jrlF9VEFBNK) | [Cuarto Asalto](https://open.spotify.com/album/16hLZ13P5IgbMOdODi1qZb) | 2:27 |
 | 19 | [SOY UN PERRO](https://open.spotify.com/track/35Ls1OuREdhnniJBmOROve) | [pobre lucca](https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA), [Talla](https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K) | [EL CAMINO DEL DELULU](https://open.spotify.com/album/4B1pgdPZ7pCvEJaiL4Be7E) | 1:54 |
 | 20 | [VI EL FUTURO](https://open.spotify.com/track/1b8vJRDY5eRYgFLt3qbczp) | [Instincktt](https://open.spotify.com/artist/1bn5p3aILJ2eL5LKuwDGBf) | [VI EL FUTURO](https://open.spotify.com/album/0qAmZuenYj9YiVfC3JhXWM) | 3:50 |

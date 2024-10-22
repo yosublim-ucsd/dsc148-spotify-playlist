@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 22430,
+  "num_followers": 22438,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAACME6SPGaDud51npIQYJeg3",
+  "snapshot_id": "ZxRIAAAAAADCrvxh4NgVO+qSKuo8opZk",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 218130,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/42InL799NohWvvJBYexpxf"
+      "duration_ms": 201008,
+      "name": "Returning To You",
+      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 201008,
-      "name": "Returning To You",
-      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
+      "duration_ms": 218130,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/42InL799NohWvvJBYexpxf"
     },
     {
       "added_at": null,

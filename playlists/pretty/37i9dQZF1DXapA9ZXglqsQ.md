@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,856 likes - 64 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,864 likes - 64 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 51 | [The End of the World for Vocalists and Orchestra: II\. Grace of the St\. Paul \- Live at JOE HISAISHI & WORLD DREAM ORCHESTRA 2015](https://open.spotify.com/track/41aWoKdlIsIvGK6xSyporJ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [The End of the World](https://open.spotify.com/album/3fjsOIWZVmmSwVaiQpW2Bi) | 8:56 |
 | 52 | [FOR YOU \- 『水の旅人\-侍 Kids』より](https://open.spotify.com/track/1bho2IWBI9PP2csaUiHGH1) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [WORKS・I](https://open.spotify.com/album/6HmZwqLsuQm2cuPVXDpDid) | 4:15 |
 | 53 | [小さいおうち \- Live In Tokyo / 2014](https://open.spotify.com/track/7FT3l1tlTPC8GH0bHTjMCE) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [Works IV \-Dream of W.D.O.\- \(Live\)](https://open.spotify.com/album/1cSkgyLPIH59jTs8MjPQR4) | 5:37 |
-| 54 | [Le Petit Poucet \- Live](https://open.spotify.com/track/6RsHrrL6k8UsDJs33FCknQ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [Spirited Away Suite \- Live](https://open.spotify.com/album/31wx778ZATX2OI6mH6ghJJ) | 4:25 |
+| 54 | [Le Petit Poucet \- Live](https://open.spotify.com/track/6RsHrrL6k8UsDJs33FCknQ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [Spirited Away Suite \(Live\)](https://open.spotify.com/album/31wx778ZATX2OI6mH6ghJJ) | 4:25 |
 | 55 | [TWO OF US](https://open.spotify.com/track/008RKiNmjW5Lb6Ocumq6MA) | [久石 譲 アンサンブル](https://open.spotify.com/artist/6mOCYCpXBAmulHN4kMfQaa) | [Shoot The Violist\[ヴィオリストを撃て\]](https://open.spotify.com/album/6tV65ufkt6zqjVKDAvyAnY) | 4:58 |
 | 56 | [Kindness](https://open.spotify.com/track/3iREQC4iWn8DBZ70suGEZO) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [菊次郎の夏 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4lizcoUr7yhsaM79lOtgs9) | 1:57 |
 | 57 | [MKWAJU 1981\-2009](https://open.spotify.com/track/6W7CmoNq6mBrW6xRfn5YxQ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [ミニマリズム](https://open.spotify.com/album/4o2DXsb3rM4PWU2DtWLVhL) | 4:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,174 likes - 90 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,175 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 37 | [Old Memories](https://open.spotify.com/track/5IzWICVgQOiXbxmwwEZ28m) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Old Memories](https://open.spotify.com/album/7ijX9leG6yfbPEFj3w6vs5) | 2:30 |
 | 38 | [Louise](https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Louise](https://open.spotify.com/album/5CLyBOcXURBbil1fDOZ7W9) | 2:41 |
 | 39 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 |
-| 40 | [Fakta: Fucked Up](https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Fakta: Fucked Up](https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ) | 3:59 |
-| 41 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 |
+| 40 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 |
+| 41 | [Fakta: Fucked Up](https://open.spotify.com/track/7Jk9NlMb2fThaDOYRC52kC) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Fakta: Fucked Up](https://open.spotify.com/album/3N3rwYkqqBRkzMmo6uqShJ) | 3:59 |
 | 42 | [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 |
 | 43 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 |
 | 44 | [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 67 | [Passa dig](https://open.spotify.com/track/76b06CthcZg1vJMW9gFh4l) | [NOVELLEN](https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r) | [Passa dig](https://open.spotify.com/album/6wq2cHGIj7NuUMQNB6ZjiG) | 2:28 |
 | 68 | [Out of My Mind](https://open.spotify.com/track/6UrTdjYSWXSlquuD1P58h8) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Out of My Mind](https://open.spotify.com/album/1xStOYlPRK1SRoPIDtN75f) | 3:37 |
 | 69 | [Dansa runt problemen](https://open.spotify.com/track/3MmOZtP6u0Hr4RlF0hL7hF) | [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Dansa runt problemen](https://open.spotify.com/album/7hMW3RWKWBygBcFzupjqf8) | 2:50 |
-| 70 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 |
-| 71 | [På väg](https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ) | [PYK](https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm) | [På väg](https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG) | 3:09 |
-| 72 | [Sakerna som kan ta slut](https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Mina vänner växer upp](https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY) | 3:13 |
+| 70 | [På väg](https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ) | [PYK](https://open.spotify.com/artist/317eF06yGGhg5YgcNxDqvm) | [På väg](https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG) | 3:09 |
+| 71 | [Sakerna som kan ta slut](https://open.spotify.com/track/5WKazohHMcqQKyxV4oSGC0) | [Karakou](https://open.spotify.com/artist/4eLoWgIQ8bNC5mXpFgewSq) | [Mina vänner växer upp](https://open.spotify.com/album/6c011GTxshOq4U7ygQOqaY) | 3:13 |
+| 72 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 |
 | 73 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 |
 | 74 | [Fancy](https://open.spotify.com/track/7snkms1XxrZzmac3dFbks6) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Fancy](https://open.spotify.com/album/6V42SnghxJXBlmwNfAPdfv) | 2:12 |
 | 75 | [Cardio](https://open.spotify.com/track/6TQI3pWL9dK9zCcBjG471I) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Cardio](https://open.spotify.com/album/3c4iD4OaMDUcsJumwh7QbC) | 3:08 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 87 | [Sprit & Blondiner](https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Sprit & Blondiner](https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK) | 3:23 |
 | 88 | [En Första Dans](https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [En Första Dans](https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R) | 2:10 |
 | 89 | [STILL](https://open.spotify.com/track/6wZRlFQJZ4gnV96844cfhq) | [REX WARREN](https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU) | [STILL](https://open.spotify.com/album/3T0BYTGn6qxqWJvZ5sodL3) | 2:02 |
-| 90 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 |
+| 90 | [HALLÅ \(finns det någon här som hör mig?\)](https://open.spotify.com/track/5hOnEGZYlR9DzBNndF9gke) | [Henning Bourghardt](https://open.spotify.com/artist/4ZWqMmReiisFGAdek6qYpP) | [HALLÅ \(finns det någon här som hör mig?\)](https://open.spotify.com/album/5HKd0f7dQO7dEMZ5a0i5cE) | 2:30 |
 
 Snapshot ID: `ZwhOYAAAAABikksld2kfgLsrb6M9UT8N`

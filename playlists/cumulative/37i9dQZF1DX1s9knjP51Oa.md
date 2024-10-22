@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-807 songs - 1 day 10 hr 39 min
+808 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2021-12-13 | 2022-10-25 |
 | [Slowdive](https://open.spotify.com/track/2zqiro2tpHZkYVrtdMQAVn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Slowdive](https://open.spotify.com/album/3kZgD5YMFeOpGlF39LD9VM) | 2:50 | 2024-07-22 |  |
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2022-03-17 | 2024-01-03 |
+| [Small Steps](https://open.spotify.com/track/1hdv5ClhtXr3ObgFCSjNVw) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Small Steps](https://open.spotify.com/album/1rRyxVqesdCGq4KQhDxytO) | 2:10 | 2024-10-21 |  |
 | [So No Regrets](https://open.spotify.com/track/4SnS6XcwucVNuXw44juFEY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [So No Regrets](https://open.spotify.com/album/1MaXPoxg7JrhcLwHX76Shn) | 2:14 | 2021-12-13 | 2022-07-22 |
 | [So Ro Lilleman](https://open.spotify.com/track/27vBoR2y5SuRtV2YgvgtS0) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [So Ro Lilleman](https://open.spotify.com/album/5a3noPVZow8nIbmZETSgNY) | 1:34 | 2023-04-17 | 2023-07-19 |
 | [Soft Sunrays](https://open.spotify.com/track/0fXkY4lEHbkyWfDmN4KdOp) | [Peter J\. Malmsjö](https://open.spotify.com/artist/3SqescE77B2HKIjgyF9c0x) | [Soft Sunrays](https://open.spotify.com/album/3mdV0E9SbexYG03haMWL4r) | 5:45 | 2022-12-21 | 2023-02-01 |

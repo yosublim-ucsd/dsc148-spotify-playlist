@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 46390,
+  "num_followers": 46400,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAADx24WCY609VJiPguUjN5Ct",
+  "snapshot_id": "ZxRIAAAAAABf1kzXJkZIwHZBVxihVURz",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "A Box Full of Sharp Objects",
+      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You\u2019re So Ugly When You Cry (feat. Bert of The Used)",
         "url": "https://open.spotify.com/album/6TdEPkWbJ28xMnrhhnXv7u"
       },
@@ -227,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
       "artists": [
         {
@@ -236,9 +268,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 176373,
-      "name": "A Box Full of Sharp Objects",
-      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/6gKlgCnExEWpuHJg0FP3Bq"
     },
     {
       "added_at": null,
@@ -252,25 +284,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 217946,
-      "name": "Take It Away",
-      "url": "https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/6gKlgCnExEWpuHJg0FP3Bq"
+      "duration_ms": 190813,
+      "name": "Let It Bleed",
+      "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw"
     },
     {
       "added_at": null,
@@ -307,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Let It Bleed",
-      "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 172146,
       "name": "People Are Vomit",
       "url": "https://open.spotify.com/track/2FYcaOeXzUuCVrhbn4amXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "Listening",
+      "url": "https://open.spotify.com/track/528rajP3OyhornDwrsQrt4"
     },
     {
       "added_at": null,
@@ -375,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Listening",
-      "url": "https://open.spotify.com/track/528rajP3OyhornDwrsQrt4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artwork (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 197866,
       "name": "Blood on My Hands",
       "url": "https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "I'm a Fake",
+      "url": "https://open.spotify.com/track/5li1sKlA0UhTk2rY0JIVUv"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "I'm a Fake",
-      "url": "https://open.spotify.com/track/5li1sKlA0UhTk2rY0JIVUv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dearly Departed (feat. robbietheused)",
         "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 183044,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 176786,
       "name": "Hospital",
       "url": "https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 183044,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 170484,
-      "name": "Depression Personified",
-      "url": "https://open.spotify.com/track/7gwY1pfRxbXJzFgi40DUz0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartwork",
         "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 167920,
       "name": "Paradise Lost, a poem by John Milton",
       "url": "https://open.spotify.com/track/0brRAViWRg60fyrCynTPxl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 170484,
+      "name": "Depression Personified",
+      "url": "https://open.spotify.com/track/7gwY1pfRxbXJzFgi40DUz0"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartwork (Deluxe)",
-        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 184286,
-      "name": "River Stay",
-      "url": "https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV"
+      "duration_ms": 120640,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 120640,
-      "name": "Choke Me",
-      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
+      "duration_ms": 184286,
+      "name": "River Stay",
+      "url": "https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV"
     },
     {
       "added_at": null,

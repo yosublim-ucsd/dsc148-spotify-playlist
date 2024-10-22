@@ -2381,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "Lightly",
+        "url": "https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2"
+      },
+      "artists": [
+        {
+          "name": "Mika Chastain",
+          "url": "https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127099,
+      "name": "Lightly",
+      "url": "https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN"
+    },
+    {
+      "album": {
         "name": "Littoral",
         "url": "https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC"
       },

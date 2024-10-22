@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 71700,
+  "num_followers": 71703,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAAC+ghRYnPyfCJkGM0ZWBh6q",
+  "snapshot_id": "ZxRIAAAAAABRoIZZkrVQyxL5uO1Qs4+j",
   "tracks": [
     {
       "added_at": null,
@@ -278,15 +278,11 @@
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        },
-        {
-          "name": "SHUNTO",
-          "url": "https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH"
         }
       ],
-      "duration_ms": 219733,
-      "name": "ENCORE AGAIN",
-      "url": "https://open.spotify.com/track/4JwwYSJnbvuqRKrZLEnkA8"
+      "duration_ms": 260079,
+      "name": "VICTOSPIN",
+      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
     },
     {
       "added_at": null,
@@ -354,11 +350,15 @@
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        },
+        {
+          "name": "SHUNTO",
+          "url": "https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH"
         }
       ],
-      "duration_ms": 260079,
-      "name": "VICTOSPIN",
-      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
+      "duration_ms": 219733,
+      "name": "ENCORE AGAIN",
+      "url": "https://open.spotify.com/track/4JwwYSJnbvuqRKrZLEnkA8"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PHOENIX (Movie Ver.)",
+        "url": "https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "PHOENIX (Movie Ver.)",
+      "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ENIGMASIS",
         "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 139211,
       "name": "MEMORIES of the End",
       "url": "https://open.spotify.com/track/2Ph8GBGglY86MJGnW9t4I0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PHOENIX (Movie Ver.)",
-        "url": "https://open.spotify.com/album/4Uowp9w1zM73UB8TaE5QWU"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "PHOENIX (Movie Ver.)",
-      "url": "https://open.spotify.com/track/1lh9rvhJYUPFrGtGcJI8Ar"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSER",
-        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+        "name": "AwakEVE",
+        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 312746,
-      "name": "AFTER LIFE",
-      "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
+      "duration_ms": 354853,
+      "name": "\u7f8e\u5f71\u610f\u5fd7",
+      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AwakEVE",
-        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 354853,
-      "name": "\u7f8e\u5f71\u610f\u5fd7",
-      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
+      "duration_ms": 312746,
+      "name": "AFTER LIFE",
+      "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neo SOUND BEST",
-        "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "\u30b7\u30e3\u30ab\u30d3\u30fc\u30c1\u301cLaka Laka La\u301c",
-      "url": "https://open.spotify.com/track/3cJOvrRzZqaXP7TSzP0SSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 183693,
       "name": "\u3048\u304f\u307c",
       "url": "https://open.spotify.com/track/1SjtklLoo3b72GS939fLTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neo SOUND BEST",
+        "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "\u30b7\u30e3\u30ab\u30d3\u30fc\u30c1\u301cLaka Laka La\u301c",
+      "url": "https://open.spotify.com/track/3cJOvrRzZqaXP7TSzP0SSp"
     },
     {
       "added_at": null,

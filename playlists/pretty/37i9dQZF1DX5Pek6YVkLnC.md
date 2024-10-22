@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: De La Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,591 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,632 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 19 | [Tu No Eres Bichota](https://open.spotify.com/track/32H6u913fFeyIqChSYuu9E) | [J\-King y Maximan](https://open.spotify.com/artist/6UBb8ZUUyarsyod6snflAR) | [Tu No Eres Bichota](https://open.spotify.com/album/3XvDobHWSbJd2bbTmGIGnq) | 2:27 |
 | 20 | [Cloudy Freestyle](https://open.spotify.com/track/6uz1BQZfLIoNvnN3efNh75) | [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs), [Viejo Culprit](https://open.spotify.com/artist/2jd2NEleHxCoN4CzvcEjIw) | [Cloudy Freestyle](https://open.spotify.com/album/7LluAu1qm8R6YgxdFKNnR1) | 2:49 |
 | 21 | [Fruta Prohibida](https://open.spotify.com/track/6ZYkCg8Fnx67gScqu85FGq) | [Los Rarxs](https://open.spotify.com/artist/2beQ1TGXLrS93qlmzzbXMR) | [Fruta Prohibida](https://open.spotify.com/album/4d8ZpfWLDpcEcPGZzsEr5Y) | 2:18 |
-| 22 | [Cada Dia \- Reimagined](https://open.spotify.com/track/2qkGV7ge1ZbOeMAWHfhrg0) | [Almas Band](https://open.spotify.com/artist/4SfatfmG6iq3aBk69x8D47) | [Cada Dia \- Reimagined](https://open.spotify.com/album/6u6de7nCTvl2seO2e2SvpW) | 4:34 |
+| 22 | [Cada Dia \- Reimagined](https://open.spotify.com/track/2qkGV7ge1ZbOeMAWHfhrg0) | [Almas Band](https://open.spotify.com/artist/4SfatfmG6iq3aBk69x8D47) | [Cada Dia \(Reimagined\)](https://open.spotify.com/album/6u6de7nCTvl2seO2e2SvpW) | 4:34 |
 | 23 | [La Furia De Mi Pueblo](https://open.spotify.com/track/4pjJ5fV3yeRVWkHE5Zq4wT) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [La Furia De Mi Pueblo](https://open.spotify.com/album/5zbYrRgt5RVhu6Ngo1Tjzu) | 5:47 |
 | 24 | [Yo sé](https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Yo sé](https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv) | 2:09 |
 | 25 | [Bien K](https://open.spotify.com/track/3VenN5aaFVnpZg73t9duGk) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [CHEN](https://open.spotify.com/artist/2mzrEvfWPMGbmcNbnoux1C), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [El Plug D3](https://open.spotify.com/album/7H8RB2cNz0dynPXgESG6hw) | 3:43 |

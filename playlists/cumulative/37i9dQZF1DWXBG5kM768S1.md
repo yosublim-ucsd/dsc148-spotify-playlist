@@ -4,7 +4,7 @@
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-244 songs - 15 hr 35 min
+245 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 | 2024-09-19 |  |
 | [På vei](https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 4:39 | 2022-11-10 | 2024-04-19 |
 | [Redd](https://open.spotify.com/track/2ZikOJpA45bvLutp9TPUnQ) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Redd](https://open.spotify.com/album/72gvnfqRiyzp7kafOsxF1w) | 4:25 | 2023-05-25 | 2023-10-13 |
+| [Ringdans](https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ringdans](https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A) | 3:32 | 2024-10-17 |  |
 | [Ro meg over](https://open.spotify.com/track/74Jg2dNT28i04fhRLTTVme) | [Emilie Christensen](https://open.spotify.com/artist/02zP4DIcyXykWkXkZiVmXR) | [Ro meg over](https://open.spotify.com/album/0DPsXK4U8VLQzI18mUVrUV) | 3:46 | 2023-05-25 | 2024-02-16 |
 | [Rosa](https://open.spotify.com/track/2HH7OhawJ597WvubvFqMVC) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Brev](https://open.spotify.com/album/75F4PjMBMWgvp2hLhMQSM1) | 3:21 | 2022-07-14 | 2022-08-19 |
 | [Rosa](https://open.spotify.com/track/5TiMZq3QvG2fldTFmxy1S4) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk) | [Rosa](https://open.spotify.com/album/5e7B4Rq4GNGljS9urNEfpj) | 3:21 | 2021-12-16 | 2022-07-29 |
@@ -191,7 +192,7 @@
 | [Ryktet Forteller](https://open.spotify.com/track/4axzeEnJdc01LFopSSa686) | [Gitarkameratene](https://open.spotify.com/artist/6eaBTqHxAaeyCvAgBsqVs9) | [Typisk Norsk](https://open.spotify.com/album/3jJRA4yW5Kq85AsvDqb3pb) | 3:42 | 2022-01-20 | 2022-07-28 |
 | [Sangen om de glemte](https://open.spotify.com/track/4UfaAnu4XTEA0ZOqtJD5is) | [Vegar Dahl](https://open.spotify.com/artist/1gFiOO92niZKa5qjuLEDBr), [Ole Paus](https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB) | [Sangen om de glemte](https://open.spotify.com/album/3akUg2kUHMihEIYsxS3tsG) | 3:38 | 2021-12-16 | 2022-07-28 |
 | [Sangen om Gleden](https://open.spotify.com/track/1WSX7bzVuGMbHnDwAKAWHx) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Sangen om Gleden](https://open.spotify.com/album/3paMl15llkBy8nme7nOd7C) | 5:23 | 2023-08-31 | 2023-10-18 |
-| [Savner deg](https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Savner deg](https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7) | 3:01 | 2024-01-18 |  |
+| [Savner deg](https://open.spotify.com/track/0c6jUUUPSRPhXrmPsvsBJt) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Savner deg](https://open.spotify.com/album/46EIkYVs24rJ0xG04KA9z7) | 3:01 | 2024-01-18 | 2024-10-22 |
 | [ser igjennom meg](https://open.spotify.com/track/5X2OYhTRceUGFfJAlNtFK1) | [Humle](https://open.spotify.com/artist/4Z8YvGSKlWwcKLm1Pem5X2) | [ser igjennom meg](https://open.spotify.com/album/5OpU2OlAlt5IIx2iGMZ9el) | 4:22 | 2022-03-23 | 2022-04-18 |
 | [Siste reis](https://open.spotify.com/track/3zEYZy5WKMCAiQ1A19KAm0) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Stemmer i gresset](https://open.spotify.com/album/4pShZqbj6GLGA1WOJN1z8p) | 5:00 | 2022-03-03 | 2022-11-01 |
 | [Siste sang](https://open.spotify.com/track/6mqXYaO9snfrzfshOmDrCa) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Siste sang](https://open.spotify.com/album/1sAGxcIDIvcWVfHgq2UD6S) | 3:30 | 2023-02-09 | 2024-01-19 |

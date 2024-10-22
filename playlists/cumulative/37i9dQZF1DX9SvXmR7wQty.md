@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Safia Nolin
 
-2,900 songs - 6 day 10 hr 18 min
+2,901 songs - 6 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2183,7 +2183,7 @@
 | [Quelque chose de beau](https://open.spotify.com/track/2SAAhzhAr2zntNxLIvD0wf) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD) | [Quelque chose de beau](https://open.spotify.com/album/2vlQb0SMJmwhSTDsRUKD18) | 3:28 | 2022-04-08 | 2022-04-23 |
 | [Quelque part](https://open.spotify.com/track/0UHRWEgyy2q6VrF97datxO) | [Annie Villeneuve](https://open.spotify.com/artist/4UIM7xyslKU8ufDGXcRDpa) | [Quelque part](https://open.spotify.com/album/1vfVX1lxSPPWOyNFtJE0qe) | 2:39 | 2024-09-20 | 2024-09-28 |
 | [Qui d'Autre](https://open.spotify.com/track/6JHjDxkAutkDhDqmlr9UQ8) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi) | [Qui d'Autre](https://open.spotify.com/album/5bjxVILh3K7NQIaBAjChoY) | 2:38 | 2024-03-01 | 2024-03-09 |
-| [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 | 2024-10-04 |  |
+| [Qui j'étais](https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [La Pieva](https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi) | 2:48 | 2024-10-04 | 2024-10-22 |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-02-10 | 2023-02-25 |
 | [Quiconque meurt, meurt à douleur](https://open.spotify.com/track/7uZM6lu93fsaaIKOMRXagN) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/2sSEaDk3kB9uT2rK2ya1S2) | 2:02 | 2021-12-31 | 2022-01-15 |
 | [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 | 2024-05-10 | 2024-07-06 |
@@ -2762,6 +2762,7 @@
 | [Vie de rêve](https://open.spotify.com/track/1T9wQxPkIqijtOQmU737A7) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Vie de rêve](https://open.spotify.com/album/1mQDSm2LcWAjK2ch9C8sHB) | 3:32 | 2022-02-11 | 2022-02-26 |
 | [Vie en rose](https://open.spotify.com/track/3LAzaKCNXAbzOME6c3QBW1) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Nicolas Gémus](https://open.spotify.com/album/1lYKiooDdSrR6j1W0HkIyf) | 4:04 | 2022-05-06 | 2022-05-20 |
 | [Vie en vidéo](https://open.spotify.com/track/2FMbZsDr3O8RySdvq8oUVc) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Vie en vidéo](https://open.spotify.com/album/4PbzRNvmaFCsTKrwscNWgC) | 3:02 | 2023-04-14 | 2023-04-22 |
+| [Vie Viano \(\#STATION 1\)](https://open.spotify.com/track/1Rl3EOVuCPL0K6mYbPDlfa) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Vie Viano \(\#STATION 1\)](https://open.spotify.com/album/1KvqB3fVRasWGX3Rpseggc) | 1:42 | 2024-10-18 |  |
 | [Viendras\-tu avec moi](https://open.spotify.com/track/3HN56jrEsXWYRw1YiLILxr) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Viendras\-tu avec moi](https://open.spotify.com/album/3W4rIYGqhgDkvEfnndhhSy) | 3:13 | 2022-06-17 | 2022-07-09 |
 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 | 2023-03-17 | 2023-04-01 |
 | [Viens t'assoir près de moi \(si tu m'aimes\)](https://open.spotify.com/track/70tPWEaOFkB32DK2a7TBVy) | [René Turgeon](https://open.spotify.com/artist/1ZPDG5M9OggpLm2Wh3pVDv) | [Mélodies Country](https://open.spotify.com/album/6O5utfbNRsuHbUQVd6lgaN) | 2:41 | 2022-06-10 | 2022-06-18 |

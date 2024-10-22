@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 41193,
+  "num_followers": 41218,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAAA46Lqb7WJQ0aftkDK9lVcX",
+  "snapshot_id": "ZxRIAAAAAADz57B0+LYVpjaHeQ79via8",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "I've Got Joy",
-      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 320110,
       "name": "Waging War",
       "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "I've Got Joy",
+      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
     },
     {
       "added_at": null,
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 300973,
-      "name": "Thirst For You",
-      "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
+      "duration_ms": 69200,
+      "name": "Hallelujah To The King - Intro",
+      "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 69200,
-      "name": "Hallelujah To The King - Intro",
-      "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
+      "duration_ms": 300973,
+      "name": "Thirst For You",
+      "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 260200,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs Of Emotional Healing",
         "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 260200,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Billy Graham Music Homecoming (Vol. 2 / Live)",
         "url": "https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8"
       },
@@ -807,22 +807,6 @@
       "duration_ms": 65426,
       "name": "I Don't Know Why - Live",
       "url": "https://open.spotify.com/track/2l8cNakFazSIBJC49ztGpR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "Looking Back At You",
-      "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
     },
     {
       "added_at": null,
@@ -855,6 +839,22 @@
       "duration_ms": 297760,
       "name": "We Welcome You (Holy Father)",
       "url": "https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "Looking Back At You",
+      "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
     }
   ],
   "unique_name": "This Is CeCe Winans",

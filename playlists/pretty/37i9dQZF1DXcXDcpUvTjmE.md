@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,081 likes - 68 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,103 likes - 68 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 26 | [Scary Good \- From "Vampirina"](https://open.spotify.com/track/5pzBPsAvmrAkchXgMonnk8) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music Halloween Party](https://open.spotify.com/album/3awlLv7HZZb7ybbuunC8r9) | 1:05 |
 | 27 | [Exploration \(Coraline\) \[feat\. Julia K\]](https://open.spotify.com/track/24AX9XecMUvVKzQjir6Xpl) | [Amy Turk](https://open.spotify.com/artist/69EWJ8UVSlytt27VsEsQAw), [Julia K](https://open.spotify.com/artist/6loVeBatIksL5ZkGD1i4So) | [Exploration \(Coraline\) \[feat\. Julia K\]](https://open.spotify.com/album/6F97IrZ8PASCkKyzJD3TAj) | 2:02 |
 | 28 | [Listos Ya](https://open.spotify.com/track/3bO3rmXC6Phq5sDO68DzE0) | [Carlos Petrel](https://open.spotify.com/artist/6GRpQSfSpLhn3eOQJupFTf), [Rosanelda Aguirre](https://open.spotify.com/artist/6kz1gH0PaYV0zvTsph9l5U), [Jesús Barrero](https://open.spotify.com/artist/54CJwyIvWPWGYULtfow9tW) | [El Rey León \(Edición Especial\)](https://open.spotify.com/album/6IIvkElgulAfbEy4H9edjw) | 3:38 |
-| 29 | [Ghostbusters](https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \- 2016](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 4:05 |
+| 29 | [Ghostbusters](https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \[2016\]](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 4:05 |
 | 30 | [El Vampiro Manolo](https://open.spotify.com/track/4j9Sjsj04Vkwfy3GazKtMb) | [Billy Boom Band](https://open.spotify.com/artist/1ScDhsYvIByaTyeOMfPQNE) | [Sueña Despierto](https://open.spotify.com/album/56G9wuuD9UH9hH9KuFB2tb) | 4:27 |
 | 31 | [Hauntleyween \- From "Vampirina"](https://open.spotify.com/track/60Nl4HhnIWzY8F9KjglRhN) | [Cast \- Vampirina](https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w) | [Disney Junior Music Halloween Party](https://open.spotify.com/album/3awlLv7HZZb7ybbuunC8r9) | 1:00 |
 | 32 | [Arwrarwrirwrarwro \- Bombi](https://open.spotify.com/track/52sBVHcmAvQ2ng79ZImC1q) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/3lhrBqbQbfPx4aMfP0pbkK) | 2:29 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 59 | [Para Morirse](https://open.spotify.com/track/5lTAefrvpq8BoY1dOowcxh) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [El Rey León](https://open.spotify.com/album/4UOhexwPupfdEPxQeysY81) | 4:18 |
 | 60 | [Remains of the Day](https://open.spotify.com/track/6dw3oQI0NhwYxMiNfVRIHA) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Tim Burton's Corpse Bride Original Motion Picture Soundtrack \(U.S\. Release\)](https://open.spotify.com/album/7EB12gs5cyRcj9TsdZwYEd) | 3:26 |
 | 61 | [The Worst Pies in London](https://open.spotify.com/track/1Qg27064zgcyaB78AgwZ4i) | [Helena Bonham Carter](https://open.spotify.com/artist/7gX22Ua3mEH2KXTCpIfoOP) | [Sweeney Todd, The Demon Barber of Fleet Street, The Motion Picture Soundtrack](https://open.spotify.com/album/0CgTKS2HmWc3JeI9Fit2vX) | 2:23 |
-| 62 | [Wolves \- From "Frozen"/Score](https://open.spotify.com/track/2tlB0mLu0YuibC1ZHaWMsT) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen: El Reino del Hielo \- Banda Sonora Original](https://open.spotify.com/album/5KGKfs835hj9SZyqnmzfhn) | 1:44 |
+| 62 | [Wolves \- From "Frozen"/Score](https://open.spotify.com/track/2tlB0mLu0YuibC1ZHaWMsT) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen: El Reino del Hielo \(Banda Sonora Original\)](https://open.spotify.com/album/5KGKfs835hj9SZyqnmzfhn) | 1:44 |
 | 63 | [Lost](https://open.spotify.com/track/37pzyVZ1zYrbg23odtBPGS) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo Original Soundtrack](https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk) | 1:01 |
 | 64 | [Making Monsters \- From "Frankenweenie"/Score](https://open.spotify.com/track/3dKkBk9eZQcqY3jLXFSxqe) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Frankenweenie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0dmu8w9avy1mol3wXyL4zg) | 6:43 |
 | 65 | [Loompa Land](https://open.spotify.com/track/2i7LrMlHO0kXplm9itb6t6) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Charlie and the Chocolate Factory \- Original Soundtrack](https://open.spotify.com/album/3LN9ywkQLlUugtVjAs9g0a) | 1:42 |

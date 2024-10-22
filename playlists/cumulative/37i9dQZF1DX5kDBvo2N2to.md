@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-186 songs - 10 hr 49 min
+187 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Go Fast Go Slow](https://open.spotify.com/track/3oZrkb4jSbqgCnHpe7x6Bz) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Go Fast Go Slow](https://open.spotify.com/album/4guZazBU1hvkD6Cyr6rVcG) | 3:39 | 2024-06-28 | 2024-08-30 |
 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2c121Da4d1kLut5aqRgzpK) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS) | 3:17 | 2024-09-19 |  |
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-10 |  |
+| [HALLÅ \(finns det någon här som hör mig?\)](https://open.spotify.com/track/5hOnEGZYlR9DzBNndF9gke) | [Henning Bourghardt](https://open.spotify.com/artist/4ZWqMmReiisFGAdek6qYpP) | [HALLÅ \(finns det någon här som hör mig?\)](https://open.spotify.com/album/5HKd0f7dQO7dEMZ5a0i5cE) | 2:30 | 2024-10-10 |  |
 | [Havet](https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD) | [Marcus Berggren](https://open.spotify.com/artist/55QSEvnXelKZ8cCjQfcYFv) | [Havet](https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo) | 4:22 | 2024-08-15 | 2024-10-17 |
 | [Hayaku](https://open.spotify.com/track/4RAKxRPufWs8zWDsjslNBP) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd), [Elz](https://open.spotify.com/artist/7wIGeHEPQNYmDGIOuoJ8fY) | [Hayaku](https://open.spotify.com/album/2LczPni9Kre7g5291eA0gN) | 3:47 | 2024-06-28 | 2024-08-30 |
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-06-28 |  |
@@ -124,7 +125,7 @@
 | [Missing You](https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Missing You](https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW) | 2:44 | 2024-09-13 |  |
 | [Molnen](https://open.spotify.com/track/1Kc332mhHsU8KnNVJ5Ytzv) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Speglarna mot solen](https://open.spotify.com/album/0oP2n65EIgQX7gEsd6b24U) | 3:33 | 2024-09-19 | 2024-10-13 |
 | [Moonlight, Are You Listening Now?](https://open.spotify.com/track/3gF4L7lzTpjINl1NPj2z6g) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Moonlight, Are You Listening Now?](https://open.spotify.com/album/3h2ezfDowgqaCdaZQDs2Zi) | 3:04 | 2024-06-28 | 2024-08-09 |
-| [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-28 |  |
+| [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-28 | 2024-10-22 |
 | [My Hands In The Water](https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [My Hands In The Water](https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj) | 4:36 | 2024-06-28 | 2024-08-23 |
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-06-28 | 2024-09-20 |
 | [NOSTALGI](https://open.spotify.com/track/4TqpAtvf3o2bQp255k4V8n) | [Ella Rammelt](https://open.spotify.com/artist/5Q16MIBSMECMqeKAHKw9qE) | [NOSTALGI](https://open.spotify.com/album/4yLwv3kbaczSeyrbdXin8U) | 2:26 | 2024-06-28 | 2024-08-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,447 likes - 64 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,472 likes - 64 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 10 | [Tomorrow](https://open.spotify.com/track/6qsC0eTGIDIjPduhKTtCM4) | [RP](https://open.spotify.com/artist/7c9BsV6rPkZhQpGXBOeZXx) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/6huSnMJ9Uue1GuxpZkV3PV) | 4:34 |
 | 11 | [01 Curated by Choi Hyun Wook](https://open.spotify.com/track/7mELfCS8kSNYXGyLLiDFoK) | [Twinkling Watermelon](https://open.spotify.com/artist/5Vn9LZQHgwunoJ7p9j0gIV) | [Twinkling Watermelon audio liners](https://open.spotify.com/album/3Rhj36RvT5vqeMN3gqDDcf) | 0:18 |
 | 12 | [It's My Life](https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 3:44 |
-| 13 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \- Deluxe Edition 2011 Remaster](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 4:49 |
+| 13 | [I Was Born To Love You \- 2011 Remaster](https://open.spotify.com/track/7DtdhIJlSSOaAFNk4JdXCb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Made In Heaven \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/274tWwrhGJy0IFeMENjWi7) | 4:49 |
 | 14 | [Back To Me](https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Back To Me / Alive](https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo) | 3:44 |
 | 15 | [Holiday](https://open.spotify.com/track/5vfjUAhefN7IjHbTvVCT4Z) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Holiday](https://open.spotify.com/album/1SPzhFzjXrz9OXLP2rKg1C) | 3:53 |
 | 16 | [Shoot Me](https://open.spotify.com/track/3krRfDqZgrYwOPU99wowFh) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/4qXw72y0QXAulViYGjWaNA) | 2:55 |

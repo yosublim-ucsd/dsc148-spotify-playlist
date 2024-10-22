@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The best voices in R&B\. Cover: Shae Universe
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,785 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,856 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 13 | [Options](https://open.spotify.com/track/1ZWBlhBmJqgLLMDIT31vdV) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U) | [Options](https://open.spotify.com/album/3fVaM3KjD3OasMuqIaWhsQ) | 2:41 |
 | 14 | [Lost The Meaning](https://open.spotify.com/track/0AJJW4gxuxDki9ld3UtA1x) | [Cairo](https://open.spotify.com/artist/5LWNwtr2tqdczvrqd68kzF) | [Double Love](https://open.spotify.com/album/3VdixbSw3C1N3iX3YKTWxO) | 3:29 |
 | 15 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
-| 16 | [Downtown \- Mahogany Edit](https://open.spotify.com/track/6DkxgtFTXjRmeOqhXcyTbU) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Downtown \- Mahogany Edit](https://open.spotify.com/album/14A7BCJ6TEqIcDqexCujQt) | 2:57 |
+| 16 | [Downtown \- Mahogany Edit](https://open.spotify.com/track/6DkxgtFTXjRmeOqhXcyTbU) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Downtown \(Mahogany Edit\)](https://open.spotify.com/album/14A7BCJ6TEqIcDqexCujQt) | 2:57 |
 | 17 | [Broken](https://open.spotify.com/track/2oiYwCA2XB26ISvhKxWLU1) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Broken](https://open.spotify.com/album/1PrFwjRBnqMeOdhabi0y0C) | 3:08 |
 | 18 | [Nasty/\(En\)amor](https://open.spotify.com/track/3trv8IFOS4zNFJXNccN26g) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [Nasty/\(En\)amor](https://open.spotify.com/album/3hFgBZYx0BGaVy1M8UgYVj) | 2:51 |
 | 19 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |

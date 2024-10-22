@@ -1,15 +1,15 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVhEq8aJ7AYV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVhEq8aJ7AYV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVhEq8aJ7AYV)
 
-### [Surf y Rockabilly ](https://open.spotify.com/playlist/37i9dQZF1DWVhEq8aJ7AYV)
+### [Garage, Surf y Rockabilly ](https://open.spotify.com/playlist/37i9dQZF1DWVhEq8aJ7AYV)
 
 > Enmascarados, Pin\-Up Girls, Engrasados y Surfers en un mismo lugar
 
-248 songs - 12 hr 23 min
+249 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!Pum\-!Pum, Bang\-Bang!](https://open.spotify.com/track/5UDoPAgMsSQ4giy3sl2ssa) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos Escuchese Bien Fuerte](https://open.spotify.com/album/21T3aN8NPYUBqZnqNHnIna) | 3:52 | 2021-09-03 | 2022-07-26 |
-| [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \- Los Cogelones Remix](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 | 2022-03-11 |  |
+| [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 | 2022-03-11 |  |
 | [96 Lagrimas](https://open.spotify.com/track/00KMOWuq9s94Nbv3PXKRUB) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:27 | 2021-09-03 | 2024-05-13 |
 | [Abuela Zombie](https://open.spotify.com/track/0hFQrpJHkfTbXwG7frxlaj) | [Yucatán A GoGo](https://open.spotify.com/artist/7CzeS5wP7C4qjijGUTIAHh) | [Canciones Basura](https://open.spotify.com/album/2iUEXQDCElKqNqiqgezasO) | 2:51 | 2021-09-03 |  |
 | [Acapulco Golden](https://open.spotify.com/track/0GipqaZSPznaEikzGgygwb) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 2:27 | 2021-09-03 | 2022-08-20 |
@@ -90,7 +90,7 @@
 | [Frenesick](https://open.spotify.com/track/2Nj3Nav85I3sBSnJG0ff8A) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 2:25 | 2021-09-03 | 2024-04-19 |
 | [Fuera Ropa](https://open.spotify.com/track/0DeOs4UCe0TzOKMkheHMlU) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Surf Extremo](https://open.spotify.com/album/6czwZmHzgAKNBeiypypGVK) | 2:19 | 2021-09-03 |  |
 | [Fuera Ropa: XX Años](https://open.spotify.com/track/1Q5WdqThl9eOa7yfOiMEKY) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Fuera Ropa: XX Años](https://open.spotify.com/album/2JzJfKk0jtO5JRmyRM4VRk) | 2:06 | 2021-09-03 | 2022-07-20 |
-| [Garaje o Muerte](https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:03 | 2021-09-03 |  |
+| [Garaje o Muerte](https://open.spotify.com/track/75sSpuGTbgRBNqrUXeiVRQ) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 2:03 | 2021-09-03 | 2024-10-22 |
 | [Ghoulman Confidential](https://open.spotify.com/track/6yHvZlTgv3CjF3NQBe0lyK) | [The Fleshtones](https://open.spotify.com/artist/3a9cSOmXeX3S8Tosfy9Dwv) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3D6VjAipDxmTrWtlqfEmlI) | 2:31 | 2021-09-03 | 2022-07-24 |
 | [Giulia Mon Amour](https://open.spotify.com/track/6Bs5fu60hcUsJw9TwOZtV4) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Traditori Di Tutti \(Deluxe Edition\)](https://open.spotify.com/album/2u0cEPDOm45kocGJuNCTFs) | 3:37 | 2022-04-09 | 2022-07-01 |
 | [Gloria](https://open.spotify.com/track/6HwDrDj6wqgw5zsMQJp1cR) | [Los Magnificos](https://open.spotify.com/artist/1Nru8JRh3JqTMkAnIox4RB) | [Los Magníficos](https://open.spotify.com/album/0HlEemp9yRnQraEb94ssUq) | 3:23 | 2021-09-03 | 2022-07-22 |
@@ -165,6 +165,7 @@
 | [Nina](https://open.spotify.com/track/6gQYk680D0HbLMnSJEMaEe) | [Wau y Los Arrrghs!!!](https://open.spotify.com/artist/6E5KbVutTSwdQMVtCDUVlh) | [Canten en Espanol](https://open.spotify.com/album/4fP6yefBsMCraBXac208kD) | 1:57 | 2021-09-03 | 2022-07-29 |
 | [Ninf a Go Go](https://open.spotify.com/track/4JmGX2A5kRZgTTy9ZOhSLg) | [Thalasses](https://open.spotify.com/artist/27rXbt1Abog2vOpuBGUVKi) | [Ninf a Go Go](https://open.spotify.com/album/48PJjcWimMJfYuOaOha5Sl) | 1:42 | 2021-09-03 | 2022-07-28 |
 | [Nondum Me Amat](https://open.spotify.com/track/7eqAfyOfnjUFzTl1e0V4r9) | [Sys Malakian](https://open.spotify.com/artist/38HkiEfzlG45wSNIjjvyEk) | [Drifting With the Tide](https://open.spotify.com/album/4bytLC19pLgecnMd89bBfj) | 2:37 | 2021-09-03 | 2022-07-16 |
+| [Ojos De Araña](https://open.spotify.com/track/6E8nd5q7M7JP380DeXO8Mh) | [Los K’comxtles](https://open.spotify.com/artist/73CTe8KuKRZkoFdbyDyauj) | [Ojos De Araña](https://open.spotify.com/album/4oODMitt0jMrUWuzoFOEmV) | 2:29 | 2024-10-21 |  |
 | [Oleka](https://open.spotify.com/track/34nFpgw6nXA671xsmYpBAY) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Oleka](https://open.spotify.com/album/02b1Y1XnXhQbXzFXLRDyaG) | 2:43 | 2021-09-03 | 2022-07-10 |
 | [Olvidemos el Romance .\. Cojamos Ya!](https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Perfume de Violetas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03663WodvoLxswAm8iHB4r) | 2:15 | 2021-09-03 |  |
 | [Overdrawn At Cortes Bank](https://open.spotify.com/track/0jxywL4Hg5cyX9ehgTUWBD) | [The Torquays](https://open.spotify.com/artist/3Db0GCUUmVYk4Y5l34aN3m) | [Somewhere In California](https://open.spotify.com/album/4sFbu1hw27FWvNQyKCwx5M) | 2:37 | 2023-07-28 | 2024-10-21 |

@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Powers Pleasant
 
-1,107 songs - 2 day 4 hr 27 min
+1,108 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,7 +628,7 @@
 | [Mezzanine](https://open.spotify.com/track/1niVzOUmUJsI1DYhOqFksf) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Mezzanine](https://open.spotify.com/album/702Y4Igv7kducBKrGlkhjx) | 3:22 | 2024-03-29 | 2024-04-13 |
 | [Middle School](https://open.spotify.com/track/2d4UOvvcPXJNeOUEi61vLN) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Middle School](https://open.spotify.com/album/1APaIiDsD9NbwjgJQW646O) | 2:28 | 2021-09-03 | 2022-07-14 |
 | [Midnight Sun](https://open.spotify.com/track/6VruexMGmO8zonX9LIU4cK) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Midnight Sun](https://open.spotify.com/album/0CHvMh24eRmthzRALhsDR4) | 2:04 | 2023-07-21 | 2023-09-30 |
-| [MiKeToMIIn \(feat\. TiaCorine\)](https://open.spotify.com/track/6SsIAuQlXHnOsnodnDUsmZ) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [In Silly We Trust](https://open.spotify.com/album/1BuAXWfCXHeQVRDYiUDCUg) | 3:04 | 2024-10-18 |  |
+| [MiKeToMlIn \(feat\. TiaCorine\)](https://open.spotify.com/track/6SsIAuQlXHnOsnodnDUsmZ) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [In Silly We Trust](https://open.spotify.com/album/1BuAXWfCXHeQVRDYiUDCUg) | 3:04 | 2024-10-18 |  |
 | [Mikolton \(Dat's My Dawg\)](https://open.spotify.com/track/0IFd582e0VaFDvrzcAnAEU) | [Dear Silas](https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O) | [601 DEGREEZ](https://open.spotify.com/album/7tVFEAcU6vIaSYrLWXYLbP) | 2:58 | 2024-04-12 |  |
 | [Millions \- Jumbo Sounds Mix](https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Millions \(Jumbo Sounds Mix\)](https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ) | 2:38 | 2023-03-31 | 2023-07-22 |
 | [Minute \(feat\. eamon mo\)](https://open.spotify.com/track/322kZCpEipYL2smYseMXce) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J), [eamon mo](https://open.spotify.com/artist/3WbO3Mn34R017Hrq4WVXw2) | [Bad As I Wanna Be](https://open.spotify.com/album/6ss5K7Z1VPQqzkt2tBVISg) | 3:06 | 2024-07-19 | 2024-08-03 |
@@ -697,6 +697,7 @@
 | [no sense](https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [no sense](https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li) | 2:50 | 2021-09-03 | 2022-02-26 |
 | [NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO! NO!](https://open.spotify.com/track/3rEV55xgPvHCegchp8qTUD) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 5:05 | 2023-07-14 | 2023-10-07 |
 | [NOHO \(feat\. ICECOLDBISHOP\)](https://open.spotify.com/track/0BkyTpyhncIxJMmYPZZOcV) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Fuck Your Expectations PT\. 1](https://open.spotify.com/album/5M25d4hSmTEN9WM1EtAsfv) | 3:02 | 2021-09-03 | 2022-07-27 |
+| [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 | 2024-10-21 |  |
 | [None of Your Business \(from Despicable Me 4\)](https://open.spotify.com/track/6aOaD4kexUZLvOltxQY4ph) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [None of Your Business \(from Despicable Me 4\)](https://open.spotify.com/album/08wn61NK0hH5nfHv0cUzE1) | 2:35 | 2024-06-28 | 2024-07-13 |
 | [Not One of Dem](https://open.spotify.com/track/6YaqOWXEVjjsGmT00UEb2y) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Not One of Dem](https://open.spotify.com/album/2lXLpWHnaECoCGM4PrpZck) | 2:09 | 2022-01-21 | 2022-02-05 |
 | [Nothing's Changed](https://open.spotify.com/track/3rjZ7w1ZCfCsHSRUAe6z3Q) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp), [Luke Titus](https://open.spotify.com/artist/1halAwBS8LmLaAPaztqZp2), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Nothing's Changed](https://open.spotify.com/album/4jW8tj4GeD08qgifbyLsNB) | 2:01 | 2022-03-25 | 2022-07-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7guZiIqh3BbulKdXnS7vIb.md) - [plain]
 
 > Hit the road with over 5 hours of classics from The Rolling Stones and many more! Cover: The Tragically Hip
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 7,861 likes - 91 songs - 6 hr 18 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 7,862 likes - 91 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/7guZiIqh3BbulKdXnS7vIb.md) - [plain]
 | 28 | [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 |
 | 29 | [Caught Up In You](https://open.spotify.com/track/3jYRpwbctfqB77uU7T7K3U) | [38 Special](https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi) | [Special Forces](https://open.spotify.com/album/4vWxauP6oFowwSQeBnFwRW) | 4:39 |
 | 30 | [Runnin' Down A Dream](https://open.spotify.com/track/3noZh3GynRLHd9QxtbmAyX) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 4:23 |
-| 31 | [Breakthru \- Remastered 2011](https://open.spotify.com/track/7kWFbgUpy1UvEQVhJA7GsK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Platinum Collection \- Greatest Hits I II & III \- 2011 Remaster](https://open.spotify.com/album/60Yx1xATvlWpAMzsBMMTSE) | 4:09 |
+| 31 | [Breakthru \- Remastered 2011](https://open.spotify.com/track/7kWFbgUpy1UvEQVhJA7GsK) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Platinum Collection \(Greatest Hits I II & III \- 2011 Remaster\)](https://open.spotify.com/album/60Yx1xATvlWpAMzsBMMTSE) | 4:09 |
 | 32 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 |
 | 33 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 |
 | 34 | [Layla](https://open.spotify.com/track/7ulkhAxc7qtCxlJA8ZMXBm) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Time Pieces: The Best Of Eric Clapton](https://open.spotify.com/album/2n3MURMCAOof2Lwgu6KGLp) | 7:06 |

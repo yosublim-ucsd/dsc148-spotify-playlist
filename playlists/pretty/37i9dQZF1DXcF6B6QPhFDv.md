@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies\. Cover: Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,565,840 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,565,623 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 71 | [La fiesta](https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [La fiesta](https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw) | 2:38 |
 | 72 | [Thought You Were Waving](https://open.spotify.com/track/6kPUaajgvBhYzPaOZvJu40) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Thought You Were Waving](https://open.spotify.com/album/1mE2RqG2uYU5AllM8m2LMv) | 3:02 |
 | 73 | [Under My Skin](https://open.spotify.com/track/2YL1nqQAZbiJFey1mwVCXu) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Under My Skin](https://open.spotify.com/album/1eKbAWza2LQkWIe2PBBjyG) | 3:32 |
-| 74 | [Love Raider \- Spotify Singles](https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Love Raider \- Spotify Singles](https://open.spotify.com/album/17rgakkY1FM9LQrpmO7GzK) | 2:58 |
+| 74 | [Love Raider \- Spotify Singles](https://open.spotify.com/track/5qs18YUcpxybNfonNNjodk) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Love Raider \(Spotify Singles\)](https://open.spotify.com/album/17rgakkY1FM9LQrpmO7GzK) | 2:58 |
 | 75 | [flower boy \- Spotify Singles](https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [flower boy \- Spotify Singles](https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq) | 2:54 |
 
 Snapshot ID: `ZxHdQAAAAAB56kCFEw2SyWPt3XeKeqaN`

@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Ach Du Liebe Zeit",
+        "url": "https://open.spotify.com/album/166W07TT8Wb8twJnnA4HyP"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144385,
+      "name": "Ach Du Liebe Zeit",
+      "url": "https://open.spotify.com/track/6Knu3Uggcb1nTDPkKiXFaM"
+    },
+    {
+      "album": {
         "name": "Achilles",
         "url": "https://open.spotify.com/album/4Xlm7Jhpp9bkWQ8Hd1Thp8"
       },
@@ -3052,6 +3070,28 @@
       "duration_ms": 151829,
       "name": "Call Me Yours",
       "url": "https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN"
+    },
+    {
+      "album": {
+        "name": "California Gold",
+        "url": "https://open.spotify.com/album/5pQs8l0kyftlASrbXp0KU3"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
+      "url": "https://open.spotify.com/track/7CLZA5K0fklYClw6NUqxhM"
     },
     {
       "album": {
@@ -6004,7 +6044,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 200666,
       "name": "F\u00fchlst du gar nichts? (feat. Nina Chuba)",
       "url": "https://open.spotify.com/track/4WvqHkM4217e14FE9InM59"
@@ -16990,7 +17030,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 190400,
       "name": "Time To Say Goodbye",
       "url": "https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L"
@@ -18148,7 +18188,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
@@ -18170,7 +18210,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/4RcvW85krnaZmDpA9lD5qq"

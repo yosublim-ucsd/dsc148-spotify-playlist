@@ -2,7 +2,7 @@
 
 ### [This Is Celia Cruz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rwPYs)
 
-> This Is Celia Cruz\. Los temas esenciales, todos en una lista.
+> This is Celia Cruz\. The essential tracks, all in one playlist.
 
 128 songs - 7 hr 59 min
 

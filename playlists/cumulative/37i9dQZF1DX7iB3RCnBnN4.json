@@ -53,7 +53,7 @@
     },
     {
       "album": {
-        "name": "Luv Is Rage 2 - Deluxe",
+        "name": "Luv Is Rage 2 (Deluxe)",
         "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
       },
       "artists": [
@@ -1323,7 +1323,7 @@
     },
     {
       "album": {
-        "name": "SremmLife 2 - Deluxe",
+        "name": "SremmLife 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd"
       },
       "artists": [
@@ -2309,6 +2309,28 @@
     },
     {
       "album": {
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195586,
+      "name": "CLASSY 101",
+      "url": "https://open.spotify.com/track/1hZsWUnLbqRw09jLAMQSsb"
+    },
+    {
+      "album": {
         "name": "A Rush of Blood to the Head",
         "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
@@ -2975,7 +2997,7 @@
     },
     {
       "album": {
-        "name": "Unapologetic - Deluxe",
+        "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
       "artists": [
@@ -5364,7 +5386,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 295493,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4sPmO7WMQUAf45kwMOtONw"
@@ -7163,7 +7185,7 @@
     },
     {
       "album": {
-        "name": "Settle - Deluxe",
+        "name": "Settle (Deluxe)",
         "url": "https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs"
       },
       "artists": [
@@ -11069,7 +11091,7 @@
     },
     {
       "album": {
-        "name": "In A Tidal Wave Of Mystery - Deluxe Edition",
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
       "artists": [
@@ -12331,7 +12353,7 @@
     },
     {
       "album": {
-        "name": "Unapologetic - Deluxe",
+        "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
       "artists": [
@@ -15671,7 +15693,7 @@
     },
     {
       "album": {
-        "name": "AV\u012aCI - 01",
+        "name": "AV\u012aCI (01)",
         "url": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS"
       },
       "artists": [

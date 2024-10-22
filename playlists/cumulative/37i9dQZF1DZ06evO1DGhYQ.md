@@ -2,7 +2,7 @@
 
 ### [This Is ALI](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DGhYQ)
 
-> This is ALI\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is ALI\. The essential tracks, all in one playlist.
 
 59 songs - 3 hr 48 min
 

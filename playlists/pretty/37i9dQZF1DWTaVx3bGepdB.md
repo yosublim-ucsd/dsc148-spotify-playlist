@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTaVx3bGepdB.md) - [plain]
 
 > Prepare for the upcoming Seoul concert by listening to 2NE1's best songs! \(2NE1의 베스트 곡들을 들으며 다가오는 서울 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,501 likes - 23 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,579 likes - 23 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Bird sounds in the background
 
-127 songs - 7 hr 3 min
+128 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Afternoon Forest Birds for Calm and Peaceful](https://open.spotify.com/track/60KDOdj9i2A1v3ABF7rcGL) | [Sounds of Nature Relaxation](https://open.spotify.com/artist/3OcK6BciYu6g7tSvrX5BKO) | [Relaxing Sounds of Nature and Ambient Healing for Mediation, Relaxation, Sound Therapy and Deep Sleep](https://open.spotify.com/album/4R2OiwIzrKNnd6jgBBce1t) | 5:00 | 2021-12-08 | 2022-07-05 |
 | [Afternoon in the Forest](https://open.spotify.com/track/2bs9W4do8NBFvROkpmuOy8) | [Bird Song Lullabies](https://open.spotify.com/artist/0mcx3IzuoYgdmR0H7ateRv) | [Singing Birds](https://open.spotify.com/album/2L4PbW0puVu5cJKXiFET9l) | 3:58 | 2021-12-08 |  |
 | [Afternoon in the Marsh with Whippoorwills and Frogs for Serenity and Yoga Meditation](https://open.spotify.com/track/3kwnHeGAbWGiGjuFXoZbWd) | [Sounds of Nature Relaxation](https://open.spotify.com/artist/3OcK6BciYu6g7tSvrX5BKO) | [Relaxing Sounds of Nature and Ambient Healing for Mediation, Relaxation, Sound Therapy and Deep Sleep](https://open.spotify.com/album/4R2OiwIzrKNnd6jgBBce1t) | 6:00 | 2021-12-08 | 2022-07-05 |
-| [Afternoon Light](https://open.spotify.com/track/5fyJbNtzv7LAeKWntGGyeg) | [Experience Nature](https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax) | [Insect Bird By The Day](https://open.spotify.com/album/6T6lScQergcNtXtUlqirdA) | 2:00 | 2022-03-21 |  |
+| [Afternoon Light](https://open.spotify.com/track/5fyJbNtzv7LAeKWntGGyeg) | [Experience Nature](https://open.spotify.com/artist/5cyMbzcbIkbyMlkJ4cy1ax) | [Insect Bird By The Day](https://open.spotify.com/album/6T6lScQergcNtXtUlqirdA) | 2:00 | 2022-03-21 | 2024-10-22 |
 | [Beaks](https://open.spotify.com/track/3alz6iZZ5bFW6X4zhtxnhx) | [Forest Sounds](https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx) | [Lost in the Forest](https://open.spotify.com/album/2U41ZL7Coe10QMDh8B8M2I) | 3:45 | 2021-12-08 |  |
 | [Beautiful Birds Above the Canopy](https://open.spotify.com/track/7zD9VBtet53ChaxtMpNGG7) | [Calm Bird Sounds](https://open.spotify.com/artist/1caNzGLMvuMlK2lODyKyxV) | [Calm Bird Lunch](https://open.spotify.com/album/0kq3VBW2O4MKDK6g0OXdZf) | 1:19 | 2021-12-08 |  |
 | [Beautiful Day](https://open.spotify.com/track/7C7yPNA7a8jRvVjYIDZqmT) | [Actors of Nature](https://open.spotify.com/artist/3t3dn9tmCuNnwHQnjG8CeS) | [The Cuckoo by the Lagoon](https://open.spotify.com/album/0o1Cd2emLdUawm6Ya2CUM5) | 1:42 | 2021-12-08 |  |
@@ -49,6 +49,7 @@
 | [Birds Near Icy Stream](https://open.spotify.com/track/2DDZOmWgLnKyuBMotHjAC4) | [Super Natural](https://open.spotify.com/artist/01bfsddtGYcZOQLOB4ZVlU) | [Winter Streams](https://open.spotify.com/album/5wE2T4cHSDg8xDgUOf9kb6) | 2:15 | 2021-12-08 | 2022-07-05 |
 | [Birds Of Fern Valley \- Seamless](https://open.spotify.com/track/4dyxi3hwcorIIswprEjCPg) | [Luvbyrds](https://open.spotify.com/artist/4Jej21yNK07VQxiJ30bllw) | [Idyllwild Placid](https://open.spotify.com/album/3yEc4L6FBMR21lAlDZo5BG) | 2:36 | 2022-03-21 | 2022-07-05 |
 | [Birds Of Sonoma](https://open.spotify.com/track/3jl9eaLHME02Bt84BkXaXU) | [Organic Nature Sounds](https://open.spotify.com/artist/0FjF4Knsp7DEVujXASJBdO) | [Peaceful Wildlife](https://open.spotify.com/album/0x1729ILqSXzbNEIpHmWjq) | 3:42 | 2021-12-08 | 2022-07-05 |
+| [Birds of Spring](https://open.spotify.com/track/69H7jdNnRPmik90SG9U8Ee) | [Peaceful Birds](https://open.spotify.com/artist/772Y6DzYn0qwzVkbGe5qcK) | [Beautiful Spring Birds](https://open.spotify.com/album/1TmnpMigOjg2thZUiwDld8) | 2:02 | 2024-08-23 |  |
 | [Birds on the Trees](https://open.spotify.com/track/6ch7RYczmgPI83KO4D3Icq) | [Birds In The Forest](https://open.spotify.com/artist/3Zo4WNsztJ80TsvnvjarTU), [Sounds of Nature Zone](https://open.spotify.com/artist/00q2xMmecN41NpqjvO0z8R), [Nature Sounds Reserve](https://open.spotify.com/artist/4468t4IVuB1IH8wBUnePR4) | [Birds in the Forest: Natural Birds Voices](https://open.spotify.com/album/05DBlew7RGX0waWkarybnL) | 2:40 | 2021-12-08 | 2022-11-22 |
 | [Birds Singin' In The Rain](https://open.spotify.com/track/0aX8eoqvYKDzaxD6zVffNc) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part 1](https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK) | 3:16 | 2021-12-08 | 2022-02-19 |
 | [Birdsong in the Spring Sunshine](https://open.spotify.com/track/27bJQg13LMOE0J52ZhKoso) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Nature Sounds: Total Relaxation](https://open.spotify.com/album/1i9EbDW7l9X23ZJm25sLQg) | 9:59 | 2021-12-08 | 2022-07-05 |

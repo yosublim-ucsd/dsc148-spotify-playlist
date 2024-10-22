@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 47612,
+  "num_followers": 47613,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAACBYXP4GzlN7W0Q3xo7l35H",
+  "snapshot_id": "ZxRIAAAAAAAROkSslc7ql5Dr31+/EgPE",
   "tracks": [
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 163506,
-      "name": "Dominoes Fall",
-      "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
+      "duration_ms": 96680,
+      "name": "You Want It, You Got It",
+      "url": "https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj"
     },
     {
       "added_at": null,
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 96680,
-      "name": "You Want It, You Got It",
-      "url": "https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj"
+      "duration_ms": 163506,
+      "name": "Dominoes Fall",
+      "url": "https://open.spotify.com/track/6MVkVxTYySDiaL2jAQsZqa"
     }
   ],
   "unique_name": "This Is Rancid",

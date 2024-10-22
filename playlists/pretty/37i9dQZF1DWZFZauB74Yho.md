@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Billy Strings
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,694 likes - 147 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,726 likes - 147 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 33 | [Rag Mama Rag](https://open.spotify.com/track/6jIXbMura1pfTnTsyCfDFS) | [Hogslop String Band](https://open.spotify.com/artist/4BATXGCjpDls0URO3Pt1kO) | [Rag Mama Rag](https://open.spotify.com/album/30F9hYbHnYFvRj5ZB6xjpw) | 2:50 |
 | 34 | [Walls](https://open.spotify.com/track/0qebJlwvkPNyAxYR52zNgs) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Walls](https://open.spotify.com/album/6rmY0t5TkTCJ6MqjN4Sc12) | 6:23 |
 | 35 | [Out of Control Raging Fire](https://open.spotify.com/track/6FMmdFTRAW45fJR8sWtQOw) | [Greg Blake](https://open.spotify.com/artist/4f2gzMqgQ6EWMt5Zl29igY), [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Out of Control Raging Fire](https://open.spotify.com/album/3E0GQO4BhDTrvNlHM7C83i) | 3:34 |
-| 36 | [Richest Man Alive \- Live AF Version](https://open.spotify.com/track/62ZjiB03JIgFizq44VF5j6) | [Clayton Nile Young](https://open.spotify.com/artist/1Pjj9uWZiJXloNcHIJzsNm), [Western AF](https://open.spotify.com/artist/38BGLBLY0VY8en79K3ecmK) | [Clayton Nile Young Live AF Session \- Live AF Version](https://open.spotify.com/album/5oOt5kqd9waKLHbnJKQmZT) | 3:05 |
+| 36 | [Richest Man Alive \- Live AF Version](https://open.spotify.com/track/62ZjiB03JIgFizq44VF5j6) | [Clayton Nile Young](https://open.spotify.com/artist/1Pjj9uWZiJXloNcHIJzsNm), [Western AF](https://open.spotify.com/artist/38BGLBLY0VY8en79K3ecmK) | [Clayton Nile Young Live AF Session \(Live AF Version\)](https://open.spotify.com/album/5oOt5kqd9waKLHbnJKQmZT) | 3:05 |
 | 37 | [If You Dare](https://open.spotify.com/track/5y5itGivdrqVfe0RoZi4rM) | [Brenna MacMillan](https://open.spotify.com/artist/4AFECWlZxQj0hZXvKdOi3x), [Peter Rowan](https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm) | [If You Dare](https://open.spotify.com/album/0mZRkrbHALccpsZJ3fNxQD) | 3:07 |
 | 38 | [Hey Mama](https://open.spotify.com/track/6HriPzZvnKWnC1OiNGCASp) | [Mountain Grass Unit](https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl) | [Hey Mama](https://open.spotify.com/album/6jbjeX1ZiZnfrzid52Mnfx) | 4:25 |
 | 39 | [Tennessee Hound Dog](https://open.spotify.com/track/3CqcTeCtBPLazFandOSy9b) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [20](https://open.spotify.com/album/5LueE7fMbNPIDVMDOftBzC) | 2:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > errar é humano persistir no erro é gotoso d+ \#MeuSpotify com Simone Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,327 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,331 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 39 | [Aguenta Coração](https://open.spotify.com/track/6YopFDuDAvaCxB3zLkqJz2) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Lição de Casa](https://open.spotify.com/album/4xiNFbGgeAdSAPVxOco0DW) | 4:16 |
 | 40 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
 | 41 | [Não Me Bloqueia Não \- Ao Vivo](https://open.spotify.com/track/2WEhFQZBJqgY3MBTxK9r10) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP2\)](https://open.spotify.com/album/6US9lRwfVusq2LUYasR9m2) | 2:49 |
-| 42 | [Ranking Dos Inesquecíveis \- Ao Vivo](https://open.spotify.com/track/5ruEsU10uMI0IdPDrTVpje) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Ranking Dos Inesquecíveis \- Ao Vivo](https://open.spotify.com/album/6TSV1rcQEjB4cUIXiG2eeJ) | 2:36 |
+| 42 | [Ranking Dos Inesquecíveis \- Ao Vivo](https://open.spotify.com/track/5ruEsU10uMI0IdPDrTVpje) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Ranking Dos Inesquecíveis \(Ao Vivo\)](https://open.spotify.com/album/6TSV1rcQEjB4cUIXiG2eeJ) | 2:36 |
 | 43 | [Fim da Noite \- Ao Vivo](https://open.spotify.com/track/6rKwnVo6wuXk0egEls9kSD) | [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Jb&V 21 In Concert, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2QBGxpW0DghBTheXIT5ozx) | 3:29 |
 | 44 | [Término Covarde \- Ao Vivo](https://open.spotify.com/track/6UTDw6w0OfuXloBWKul6ak) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Hits do Guilherme & Benuto 2024](https://open.spotify.com/album/5pMV8W9kENo8MV5h8lxbBq) | 2:33 |
 | 45 | [A Maior Saudade \- Ao Vivo](https://open.spotify.com/track/6zuC0CfAYHOZVjqsTot5Sf) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/34C5pWtJWvLUfKoIZTNrug) | 3:10 |

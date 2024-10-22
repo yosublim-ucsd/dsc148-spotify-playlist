@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 293277,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi"
@@ -1832,7 +1832,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 259678,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/62FrtiVepyS9UGfcTPhu7W"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 198826,
       "name": "Autumn Promises",
       "url": "https://open.spotify.com/track/5kVaJiItTvUFR9jy5lgNQo"
@@ -2376,6 +2376,24 @@
       "duration_ms": 229884,
       "name": "Blue in Green",
       "url": "https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX"
+    },
+    {
+      "album": {
+        "name": "Blue Iris",
+        "url": "https://open.spotify.com/album/79Jpoj0MP3V1TAjrnC7zDf"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281849,
+      "name": "Blue Iris",
+      "url": "https://open.spotify.com/track/2pessfeAZVIZRbL8n7kcCe"
     },
     {
       "album": {
@@ -3038,7 +3056,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 220431,
       "name": "Casual",
       "url": "https://open.spotify.com/track/0l38zb1uYJy2XlSblloL17"
@@ -3758,7 +3776,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 222844,
       "name": "Could It Be You",
       "url": "https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6"
@@ -4732,7 +4750,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 178822,
       "name": "Emerald Dreamscape",
       "url": "https://open.spotify.com/track/6y3A2C5g4NtmSTGPA1dn6c"
@@ -7396,7 +7414,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 230050,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP"
@@ -8512,7 +8530,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 213678,
       "name": "It's Complicated",
       "url": "https://open.spotify.com/track/1BLlTzQGwfRBUPakc5EruZ"
@@ -11039,6 +11057,24 @@
     },
     {
       "album": {
+        "name": "Midtown Reflections",
+        "url": "https://open.spotify.com/album/5jBdJkSZJLz7a9rC4cV8Lg"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns & Dotter",
+          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196165,
+      "name": "Midtown Reflections",
+      "url": "https://open.spotify.com/track/3dki4IphVNqa52qQ34bXNX"
+    },
+    {
+      "album": {
         "name": "Mirror Images",
         "url": "https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg"
       },
@@ -12803,6 +12839,24 @@
     },
     {
       "album": {
+        "name": "One More Promise",
+        "url": "https://open.spotify.com/album/3OIAR8zXKT7x7wrNitZyan"
+      },
+      "artists": [
+        {
+          "name": "Two steps in the street",
+          "url": "https://open.spotify.com/artist/6BG94mKYRcBXUoB1id2LdN"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172479,
+      "name": "One More Promise",
+      "url": "https://open.spotify.com/track/3qBfwvNVNvn1wblk4aQSeD"
+    },
+    {
+      "album": {
         "name": "One of your little friends",
         "url": "https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n"
       },
@@ -12944,6 +12998,24 @@
       "duration_ms": 192009,
       "name": "Out of a misty dream",
       "url": "https://open.spotify.com/track/487y37ICkH10Ve0u0kvia1"
+    },
+    {
+      "album": {
+        "name": "Out Of Nowhere",
+        "url": "https://open.spotify.com/album/1Pda3ApoPc1jIsftQXhYg4"
+      },
+      "artists": [
+        {
+          "name": "Mayfare Trio",
+          "url": "https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/6jpA5MMr6k4dE6TxAT9STe"
     },
     {
       "album": {
@@ -14564,7 +14636,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 418725,
       "name": "Smile in Your Eyes",
       "url": "https://open.spotify.com/track/6Ok5ubn2agXdrd8UrFfrrR"
@@ -16134,6 +16206,24 @@
       "duration_ms": 211712,
       "name": "The Arch",
       "url": "https://open.spotify.com/track/48nronuTEKEYv3uZK4d21X"
+    },
+    {
+      "album": {
+        "name": "The Arrival",
+        "url": "https://open.spotify.com/album/6RLWWIcnnCMb0eVgqJnqet"
+      },
+      "artists": [
+        {
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152232,
+      "name": "The Arrival",
+      "url": "https://open.spotify.com/track/3unmzUP3YvH7hBQ5Sx9TfU"
     },
     {
       "album": {
@@ -19616,7 +19706,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 171121,
       "name": "You're the Music",
       "url": "https://open.spotify.com/track/1YEBU45EYoOesd577sWQY8"

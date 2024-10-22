@@ -19529,7 +19529,7 @@
     },
     {
       "album": {
-        "name": "Goodbye to the Valley Low - Side B",
+        "name": "Goodbye to the Valley Low (Side B)",
         "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
       },
       "artists": [
@@ -34238,6 +34238,28 @@
       "duration_ms": 167623,
       "name": "silence,",
       "url": "https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5"
+    },
+    {
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261379,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
     },
     {
       "album": {

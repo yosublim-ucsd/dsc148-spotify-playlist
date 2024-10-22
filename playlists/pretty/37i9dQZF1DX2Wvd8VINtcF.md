@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearls of an oyster\. Cover: Yaeger
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,788 likes - 104 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,586 likes - 104 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 75 | [Midnight Shining](https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Midnight Shining](https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP) | 3:32 |
 | 76 | [Ego](https://open.spotify.com/track/4m1lfvUr5fPaZm4eMVPMk0) | [Kennedy Ryon](https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH) | [Ego](https://open.spotify.com/album/0DprEFla4IOVy7uRjm7oRI) | 3:22 |
 | 77 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
-| 78 | [Stolen \- Namasenda Remix](https://open.spotify.com/track/6fIPNpjZu5qdOTmnGJArBS) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Stolen \- Namasenda Remix](https://open.spotify.com/album/79Pj72NQYB8OgWgJ8LzSTe) | 2:48 |
+| 78 | [Stolen \- Namasenda Remix](https://open.spotify.com/track/6fIPNpjZu5qdOTmnGJArBS) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Stolen \(Namasenda Remix\)](https://open.spotify.com/album/79Pj72NQYB8OgWgJ8LzSTe) | 2:48 |
 | 79 | [Substitutes](https://open.spotify.com/track/50XIfH5abQ2grHdYPSBbNZ) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [Substitutes](https://open.spotify.com/album/2Dy1ozlSgiziytqZKfgWij) | 3:29 |
 | 80 | [fear less](https://open.spotify.com/track/4IHblO52meh2jwqES1BA7X) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:34 |
 | 81 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 |

@@ -2,7 +2,7 @@
 
 ### [This Is Lauren Daigle](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lcXXq)
 
-> This is Lauren Daigle。アーティストの代表曲をひとつのプレイリストに。
+> This is Lauren Daigle\. The essential tracks, all in one playlist.
 
 76 songs - 5 hr 5 min
 

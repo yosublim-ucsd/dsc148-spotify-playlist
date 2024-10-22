@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:6e8OTLDQpaz1Tl2GEaxsNj">Matthew West</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,753 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,839 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 32 | [Good News](https://open.spotify.com/track/3N5WhBan3fyW2LnT8UXUBZ) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Good News](https://open.spotify.com/album/6GSRhKsu8GzEe0OvecCwMa) | 2:59 |
 | 33 | [Look What God Can Do](https://open.spotify.com/track/41MkqhPWSISUcJaNIGnSG0) | [Rhett Walker](https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP) | [Days That We Dreamed Of](https://open.spotify.com/album/4xXy7tarzpboQsgsMitTfv) | 2:55 |
 | 34 | [No Survivors \- Live](https://open.spotify.com/track/5axxu8LBfLa7MTjJURV3cM) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Deeper Waters \(Extended Edition\)](https://open.spotify.com/album/49c23AAJwHP8ApCbl1gnnd) | 2:50 |
-| 35 | [Underwater \- Southern Tracks Session](https://open.spotify.com/track/3LKNZSBXH8QkEZQOK5JCe9) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Time \- 25th Anniversary Edition](https://open.spotify.com/album/2fFzxgN5NNGAebftudkmEh) | 5:33 |
+| 35 | [Underwater \- Southern Tracks Session](https://open.spotify.com/track/3LKNZSBXH8QkEZQOK5JCe9) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Time \(25th Anniversary Edition\)](https://open.spotify.com/album/2fFzxgN5NNGAebftudkmEh) | 5:33 |
 | 36 | [Believe On Jesus \(feat\. Zane Black\)](https://open.spotify.com/track/2PmOVuewThUgyTg7CpjIbA) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Zane Black](https://open.spotify.com/artist/6820zXrv14B4wUqKiGWHTy) | [Jesus Music Deluxe](https://open.spotify.com/album/22269npvtP1J11HLRYouyG) | 4:10 |
 | 37 | [EMPTY THREATS](https://open.spotify.com/track/4EJYP92P930plei6Y6oJ7g) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [EMPTY THREATS](https://open.spotify.com/album/6EcqysNWlAXs2OqPrXnXvJ) | 2:51 |
 | 38 | [ONE OF A KIND](https://open.spotify.com/track/0JgVTB2jPyfLXZxEBdMPeO) | [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [SuperHuman](https://open.spotify.com/album/2amlX7JcF29WbwXko61GCC) | 4:33 |

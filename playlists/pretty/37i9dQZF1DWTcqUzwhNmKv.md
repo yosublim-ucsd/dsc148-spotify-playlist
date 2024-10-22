@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Fit For An Autopsy on top of today's best Metal playlist.
+> Make Them Suffer on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,830 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,930 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Rogue](https://open.spotify.com/track/7BBSSVDxCwfZKbb8a1IlTB) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Rogue](https://open.spotify.com/album/218JtIGiHXx4XepIaL7Ns7) | 3:12 |
 | 75 | [Infested](https://open.spotify.com/track/1cEnkOGW4qXk7QIm2bAq8W) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Infested](https://open.spotify.com/album/0kjUWh9d41E0oZbberxxqV) | 3:58 |
 
-Snapshot ID: `ZxHdQAAAAAAg1Ctk/Ocvu+7wU7U1yw+1`
+Snapshot ID: `ZxaIwgAAAAAyhjoi/B0zpx1mYSQBq3iG`

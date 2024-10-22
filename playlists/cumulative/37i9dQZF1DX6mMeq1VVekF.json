@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: D7",
+  "description": "No tags, no labels - just free form. Cover: BINA. ",
   "name": "Free Form",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 157000,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/4zrUf784IvoBhlKhbX1Gar"
@@ -596,6 +596,32 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
+        "name": "ALL THE GIRLS",
+        "url": "https://open.spotify.com/album/2WHnp1HHVNtnPBRRy24oTa"
+      },
+      "artists": [
+        {
+          "name": "\u00a3MONZO",
+          "url": "https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv"
+        },
+        {
+          "name": "Lamsi",
+          "url": "https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ"
+        },
+        {
+          "name": "INFAMOUSIZAK",
+          "url": "https://open.spotify.com/artist/6yHCZvDqNVBqV5v0w7a3W1"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109411,
+      "name": "ALL THE GIRLS",
+      "url": "https://open.spotify.com/track/43pMdjwekH6xVSwSO9MmJT"
     },
     {
       "album": {
@@ -668,6 +694,24 @@
       "duration_ms": 610311,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3WSRFKYZ9PmoFsfHb3vE3V"
+    },
+    {
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA"
+      },
+      "artists": [
+        {
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg"
     },
     {
       "album": {
@@ -3205,6 +3249,28 @@
     },
     {
       "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/4hATb85jEAQV5zs1dPVDAg"
+      },
+      "artists": [
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        },
+        {
+          "name": "Sam Wise",
+          "url": "https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189781,
+      "name": "How Far",
+      "url": "https://open.spotify.com/track/0brMxO7UrJkplRm1JhHhw8"
+    },
+    {
+      "album": {
         "name": "Humble Beginnings",
         "url": "https://open.spotify.com/album/1etpjdPvjCEei6PxQlb2EO"
       },
@@ -3790,7 +3856,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 196603,
       "name": "Landmine!",
       "url": "https://open.spotify.com/track/4YOtWmWn8sKqBNLnWnxquF"
@@ -3986,6 +4052,28 @@
       "duration_ms": 217925,
       "name": "Love is a Lottery",
       "url": "https://open.spotify.com/track/2vYBVOigtDiRXbH6TOg6sx"
+    },
+    {
+      "album": {
+        "name": "In Silly We Trust",
+        "url": "https://open.spotify.com/album/1BuAXWfCXHeQVRDYiUDCUg"
+      },
+      "artists": [
+        {
+          "name": "TisaKorean",
+          "url": "https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182337,
+      "name": "lOvE LeTtEr (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/6uff47vGupqiJHswiEiIW3"
     },
     {
       "album": {
@@ -4683,6 +4771,32 @@
     },
     {
       "album": {
+        "name": "my way (w/ Rico Nasty & Kanii)",
+        "url": "https://open.spotify.com/album/4CmTdaHt5vFyOQQjjmcruR"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177782,
+      "name": "my way (w/ Rico Nasty & Kanii)",
+      "url": "https://open.spotify.com/track/0MIJyhl23TYo8HBVcLxx0Y"
+    },
+    {
+      "album": {
         "name": "Nah It Ain't The Same",
         "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
       },
@@ -5120,7 +5234,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 171607,
       "name": "Off Guard",
       "url": "https://open.spotify.com/track/5pVJ0zf2yqFYr0UbvhQDen"
@@ -5716,10 +5830,28 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 216925,
       "name": "POUND & DOLLA (feat. Killa P)",
       "url": "https://open.spotify.com/track/41PQHezyHzUsiBaDWPXW0h"
+    },
+    {
+      "album": {
+        "name": "Chaos Is Her Name",
+        "url": "https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220285,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV"
     },
     {
       "album": {
@@ -6078,7 +6210,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 169250,
       "name": "Rom-Com",
       "url": "https://open.spotify.com/track/4uRe7zABh9s3iQF8AhvBGg"
@@ -6424,7 +6556,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 170684,
       "name": "SHINE IN",
       "url": "https://open.spotify.com/track/6Fwf2T6bVCKNs9D7HnrQOQ"
@@ -6486,6 +6618,32 @@
       "duration_ms": 193295,
       "name": "Slangn KK",
       "url": "https://open.spotify.com/track/59W0iGCityApGKS1DlWcxo"
+    },
+    {
+      "album": {
+        "name": "Chaos Is Her Name",
+        "url": "https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        },
+        {
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
+        },
+        {
+          "name": "Leonie Biney",
+          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253012,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj"
     },
     {
       "album": {
@@ -8044,7 +8202,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 120409,
       "name": "Won!",
       "url": "https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt"

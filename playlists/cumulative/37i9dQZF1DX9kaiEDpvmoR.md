@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-227 songs - 13 hr 1 min
+228 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,11 +127,12 @@
 | [Lucy Rider](https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Lucy Rider](https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve) | 3:17 | 2024-06-27 | 2024-08-09 |
 | [Längs den långa vägen hem](https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Längs den långa vägen hem](https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP) | 3:51 | 2024-06-27 | 2024-08-23 |
 | [Manic Pixie Dream Girl](https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Manic Pixie Dream Girl](https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr) | 2:43 | 2024-06-27 | 2024-10-01 |
+| [Marching To This Drum](https://open.spotify.com/track/1SsGj5OQosI2XmHprVKX9g) | [Dregen](https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA) | [Marching To This Drum](https://open.spotify.com/album/17WzdroK4ry4ps6jOwlcV7) | 3:00 | 2024-10-17 |  |
 | [maybe](https://open.spotify.com/track/4ShOcNoqu7krh5pIZ3ndhu) | [Daniel Norberg](https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy) | [maybe](https://open.spotify.com/album/1bTSHZcHV7clIxfgsHEVip) | 3:33 | 2024-10-10 |  |
 | [Maybe Now](https://open.spotify.com/track/2OpxNvfJwxFpEzNI3DCyD1) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Maybe Now](https://open.spotify.com/album/7eIArT5FbDbGALQ6qIgAqv) | 3:20 | 2024-09-26 |  |
 | [Melody Rules](https://open.spotify.com/track/1p6LSddhiya9yb8JUijvTd) | [Nicolai Dunger](https://open.spotify.com/artist/1XUJ4bS7sEaPb29R4LzY18) | [Melody Rules](https://open.spotify.com/album/1yhxNGgEcDnwMERY4hDfNz) | 4:49 | 2024-06-27 | 2024-09-11 |
 | [Midsommar](https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Midsommar](https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q) | 2:49 | 2024-06-27 | 2024-08-23 |
-| [Midsommardansen](https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Midsommardansen](https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W) | 2:04 | 2024-06-27 |  |
+| [Midsommardansen](https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Midsommardansen](https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W) | 2:04 | 2024-06-27 | 2024-10-22 |
 | [Midsummer Day](https://open.spotify.com/track/1ui8U7xoaD0T6i8CxC6GIz) | [Max Niclasson](https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ), [Lila Arora Niclasson](https://open.spotify.com/artist/1Ba7x99Wc4Kr5H48wKop8w) | [Midsummer Day](https://open.spotify.com/album/7qGzOgLpi9w3PBorpCKFbD) | 2:36 | 2024-06-27 | 2024-09-06 |
 | [Min Elsa](https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB) | [Klara Tuva](https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk) | [Min Elsa](https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC) | 2:52 | 2024-08-15 | 2024-09-27 |
 | [Mordbrand](https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Mordbrand](https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D) | 3:38 | 2024-06-27 | 2024-10-11 |

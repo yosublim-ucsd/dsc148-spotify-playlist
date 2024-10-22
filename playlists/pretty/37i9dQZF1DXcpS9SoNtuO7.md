@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,189 likes - 83 songs - 16 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,191 likes - 83 songs - 16 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 64 | [Professionalism](https://open.spotify.com/track/7K3oYLroJb1bK9qW2YiK4j) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh) | [Professionalism](https://open.spotify.com/album/7FXCeryLiLzxMIRVrFNIt1) | 4:52 |
 | 65 | [Shouted Serenade](https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Shouted Serenade](https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB) | 3:53 |
 | 66 | [ホホエミノオト](https://open.spotify.com/track/2uhdqZMXkpcyNRTFxwhxIe) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [ホホエミノオト](https://open.spotify.com/album/1vpm8ZmlrelreGQKIpL1i1) | 4:10 |
-| 67 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 |
+| 67 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 |
 | 68 | [GA\-TAN GO\-TON](https://open.spotify.com/track/17MUmPvSmiN674qFgg06sY) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [GA\-TAN GO\-TON](https://open.spotify.com/album/0R84I1QSf79BnuhvmYmLb2) | 4:21 |
 | 69 | [So Precious](https://open.spotify.com/track/3NV9kuNM08gHRKTAcONpN9) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/3sBJZi1DW4c8OsTzdZjdnw) | 3:29 |
 | 70 | [\#52 ラブライブ！「蓮ノ空」がスゴいことになっている!?／新・音楽メディア「リスパレ！」始動！](https://open.spotify.com/episode/0kNckNv4266Fdeg0aJAacH) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 40:19 |

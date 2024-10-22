@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,867 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,869 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 9 | [Angel Music](https://open.spotify.com/track/2d6d1sO8MWqcu30XMuttqa) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Angel Music](https://open.spotify.com/album/45fRDsRB4DDyOmSOGU2x3X) | 2:07 |
 | 10 | [FIYA FIYA!](https://open.spotify.com/track/5opGQYkDivuOyf11N7BdoV) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [FIYA FIYA!](https://open.spotify.com/album/3Yi4Ub8FpsOgZBkDyhw7Hf) | 1:56 |
 | 11 | [Spit](https://open.spotify.com/track/2avR02odSSywf3NTMLXrbZ) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [Spit](https://open.spotify.com/album/69sM4KiEGA4ZNiBiMu1C3i) | 2:36 |
-| 12 | [E Tu \- KARAN! Remix](https://open.spotify.com/track/1zCGNLrqcxmalxBu8y6cYS) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt), [KARAN!](https://open.spotify.com/artist/6yP4wtuCtanniMox38L6NE) | [E Tu \- KARAN! Remix](https://open.spotify.com/album/34u1dJXxvTzfUXLGZI9ixf) | 4:00 |
+| 12 | [E Tu \- KARAN! Remix](https://open.spotify.com/track/1zCGNLrqcxmalxBu8y6cYS) | [Lady Shaka](https://open.spotify.com/artist/4WnBM4rBsGkzUiruvnjqWt), [KARAN!](https://open.spotify.com/artist/6yP4wtuCtanniMox38L6NE) | [E Tu \(KARAN! Remix\)](https://open.spotify.com/album/34u1dJXxvTzfUXLGZI9ixf) | 4:00 |
 | 13 | [Junction 3](https://open.spotify.com/track/14c0weTcZPO5laR3ft2B0z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Junction 3](https://open.spotify.com/album/3orD0F22WOT0CmmEpCDRg3) | 2:38 |
 | 14 | [High](https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [High](https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI) | 3:16 |
 | 15 | [Naija Babes](https://open.spotify.com/track/1DCUYnbWTep8rmCcSywMQw) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Naija Babes](https://open.spotify.com/album/7ntOCkGQmsuftndPLRGx26) | 2:18 |

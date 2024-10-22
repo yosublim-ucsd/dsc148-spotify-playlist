@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,907 likes - 91 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,035 likes - 91 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 67 | [Phoenix](https://open.spotify.com/track/6XyixzvvqR4wQUm3x2679w) | [Gentle Game Lullabies](https://open.spotify.com/artist/4aPCPBj93DhSbX1JD6xtk1) | [Gentle Gaming: League of Legends for Piano](https://open.spotify.com/album/2Mtb18jzHX36PQ7FTugoZ4) | 3:25 |
 | 68 | [Into The Sea](https://open.spotify.com/track/6gywoZQXz6atqEGt7hponB) | [Stuart Earl](https://open.spotify.com/artist/54T53xiM58rmjU9dbA2Lu8) | [Persuasion \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv) | 1:39 |
 | 69 | [As Far As We Can Go](https://open.spotify.com/track/0k6LVqdvrIy35mLBmxcYly) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 4:40 |
-| 70 | [Inner Peace](https://open.spotify.com/track/2zJp4auB9hCfO2HycXveZY) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Kung Fu Panda 2 \- Music From The Motion Picture](https://open.spotify.com/album/78Cgst6GCkXDVnyzNfUGBT) | 2:25 |
+| 70 | [Inner Peace](https://open.spotify.com/track/2zJp4auB9hCfO2HycXveZY) | [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Kung Fu Panda 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/78Cgst6GCkXDVnyzNfUGBT) | 2:25 |
 | 71 | [Dr\. Ford](https://open.spotify.com/track/1pm8TqG9dNIcMGTQNzjYh9) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Westworld: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/43pttVYo7IjBvive3uebVF) | 5:30 |
 | 72 | [The Last Dinner](https://open.spotify.com/track/3JHiWZFos4wuk8TzKslK8h) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Despite the Falling Snow \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ur6MeJuL3o7YqnLPRzolr) | 1:50 |
 | 73 | [Mandy Love Theme](https://open.spotify.com/track/0sTXvRbRyjFCoUbRo7CJ6S) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Mandy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60f6ypxsKLEemkp4216Ood) | 4:38 |

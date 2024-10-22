@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,115 songs - 3 day 8 hr 36 min
+2,118 songs - 3 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Blurred Lines](https://open.spotify.com/track/4ChwSognLjwFYUYgPWQf5y) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Blurred Lines](https://open.spotify.com/album/1Klbnb8SzP8L26IwtqCvns) | 2:16 | 2023-02-06 | 2023-09-29 |
 | [blurry memories](https://open.spotify.com/track/6UAZXEfwTveHZrXzUP2i1Z) | [kobicha](https://open.spotify.com/artist/4nJ6L5ADQdv6cZHXcvsRNd) | [blurry memories](https://open.spotify.com/album/7fhgwh0DxomoCbHVMcLYIZ) | 2:18 | 2022-09-02 | 2023-03-09 |
 | [Blush](https://open.spotify.com/track/6smVZWU1IXU6HCGR5DN61g) | [Kyoto Dreams](https://open.spotify.com/artist/4iEdyYO8Va1fewpUAi6Mt2) | [Blush](https://open.spotify.com/album/6jWdLsVGwOaMVZlU5WIQ3V) | 2:37 | 2022-04-15 | 2022-07-08 |
-| [Blvck Kat](https://open.spotify.com/track/0Iu9uuTyFis6muasxFY7cV) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Blvck Kat](https://open.spotify.com/album/2sWYPBDHAKJNm8XxsZkLU9) | 3:16 | 2022-12-02 |  |
+| [Blvck Kat](https://open.spotify.com/track/0Iu9uuTyFis6muasxFY7cV) | [lowerkaze](https://open.spotify.com/artist/7HjuawVefxsnyB9JVrJQcA) | [Blvck Kat](https://open.spotify.com/album/2sWYPBDHAKJNm8XxsZkLU9) | 3:16 | 2022-12-02 | 2024-10-22 |
 | [Boat In The Water](https://open.spotify.com/track/3HnK4jipVHwmYjskVtxp8c) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Boat In The Water](https://open.spotify.com/album/41OlZWdyIBOPqMJeyawECU) | 2:29 | 2022-06-24 | 2022-11-19 |
 | [boba latte](https://open.spotify.com/track/72l63X3sUTBpm08b807lZ6) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [boba latte](https://open.spotify.com/album/1ToGvu8Pzb6LcPdz2Oqaui) | 1:41 | 2024-08-16 |  |
 | [Bolivia](https://open.spotify.com/track/0rCMCvrYA4LKXFKdUSyseQ) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Bolivia](https://open.spotify.com/album/0sAapPHnSeEDZBDIP6diAg) | 2:36 | 2022-05-13 | 2022-11-12 |
@@ -469,6 +469,7 @@
 | [dice](https://open.spotify.com/track/5s2QLYYGX8sNyxPfEaqOZ5) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [dice](https://open.spotify.com/album/2oRp58qXZya0hiR7f6wkTQ) | 2:30 | 2024-02-09 | 2024-08-17 |
 | [Dig!](https://open.spotify.com/track/05K5nIFNQD6BR44OMUgd3T) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Dig!](https://open.spotify.com/album/0tEPrGue8WNEnMTcGopVvd) | 2:01 | 2024-04-26 | 2024-05-26 |
 | [Dijon Lofi](https://open.spotify.com/track/0QBLLWPxhUficWtZlpGGgS) | [Printeme](https://open.spotify.com/artist/2YvnVXbia5SDheNBnFoVLE) | [Magnifique](https://open.spotify.com/album/0DpMbQvYK92kNNFkfZ8Bqo) | 1:37 | 2022-04-15 | 2023-08-18 |
+| [dima](https://open.spotify.com/track/0mQdsjZxwdFvOKknwlBPZo) | [Brenky](https://open.spotify.com/artist/3U6rNiL0weudbwLofMicVq) | [dima](https://open.spotify.com/album/49MCsjxXnMGRS8YlvJyyv4) | 1:47 | 2024-10-18 |  |
 | [Dinner is Ready](https://open.spotify.com/track/0QIlgmnJBsd6zkH9u7MEcX) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Lodge Records](https://open.spotify.com/artist/1zH6nlehuJvatlTMmKok98) | [Dinner is Ready](https://open.spotify.com/album/3kPBeasLZztiyyCPZ9l9wO) | 2:27 | 2022-04-15 | 2022-07-08 |
 | [Dinner Party](https://open.spotify.com/track/77McLs2DwfzeDTKGKMgwyX) | [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Dinner Party](https://open.spotify.com/album/0I1HKkQIUSw2xpC8VBSOv2) | 2:03 | 2023-04-20 | 2023-09-14 |
 | [Dior](https://open.spotify.com/track/03ti2TYuPWiLEL938aYMT1) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n) | [Dior](https://open.spotify.com/album/6xYgnNl0whxscT24K4boU4) | 2:35 | 2022-11-11 | 2023-02-07 |
@@ -577,6 +578,7 @@
 | [Everything you need](https://open.spotify.com/track/77DrQhfJtki3fUcMd7oQgB) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Everything you need](https://open.spotify.com/album/1WCLmsAFHVG2UaKQlYMu8N) | 2:22 | 2023-10-27 |  |
 | [Exhale](https://open.spotify.com/track/4pQUl96NzlzIgt9gJSN1Qg) | [Mike Oliver](https://open.spotify.com/artist/19K0OLGUGXU9PGvbJ2aAHn) | [Exhale](https://open.spotify.com/album/4ZDOyfZij7YmgVhV2qucI6) | 2:16 | 2022-12-09 |  |
 | [Exklusive Mermaid](https://open.spotify.com/track/6YDbQEkfLBzaTKtY9zSmDp) | [Hurricana Life](https://open.spotify.com/artist/0Kcx1vBedIEV2q1zAbzeyk) | [Exklusive Mermaid](https://open.spotify.com/album/1RgNgfXKEUaV4cxCcYHUvy) | 1:43 | 2022-04-15 | 2023-08-18 |
+| [Expected Events](https://open.spotify.com/track/7e2CntkyYlYKlTufrSOCGl) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Expected Events](https://open.spotify.com/album/0Pa7yL0dq62qlO7Y54mShy) | 2:36 | 2024-10-18 |  |
 | [Expensive](https://open.spotify.com/track/3IkWkgQIxh3Oe4RKH6SY8r) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Rush Hour](https://open.spotify.com/album/03zUkj89Tq0J7n7MFUWphs) | 2:01 | 2024-07-26 |  |
 | [Exploring Time](https://open.spotify.com/track/3384bG1DpYYZnQanvYS2rQ) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Exploring Time](https://open.spotify.com/album/3eF8x8rc3UvZJ5WRe9AdNk) | 1:44 | 2022-12-16 |  |
 | [Express](https://open.spotify.com/track/7cXXT2CGdsxkm02CB7FZvS) | [B.O Mitz](https://open.spotify.com/artist/2N2Pm6RaNByrYBzEcguka9) | [Express](https://open.spotify.com/album/5L5DfFkoNnQhIiBOgNfTBA) | 2:26 | 2023-07-13 | 2024-10-02 |
@@ -732,6 +734,7 @@
 | [Giant Emoji](https://open.spotify.com/track/2bbujVEjRsJFvKnzlzhbpQ) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [In Due Time](https://open.spotify.com/album/13sb8AYLDP6VK75wwvpPEm) | 3:18 | 2022-04-15 | 2022-05-27 |
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2022-04-15 | 2022-12-17 |
 | [give it a whirl](https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [give it a whirl](https://open.spotify.com/album/2rOg9WuVoeNoZhvFLewXv3) | 2:09 | 2022-10-28 | 2024-10-14 |
+| [Give Me a Slice](https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ) | [Amai Beats](https://open.spotify.com/artist/0NtUCeUWjMMexOZfBoWnOp) | [Give Me a Slice](https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD) | 2:26 | 2024-10-18 |  |
 | [Glad There's You](https://open.spotify.com/track/5Fj4UPQQOD09Vs1mge4yzs) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Glad There's You](https://open.spotify.com/album/4ohIQlFEFXHdY3LLrt1lAK) | 2:03 | 2022-08-05 | 2022-12-03 |
 | [Glamping](https://open.spotify.com/track/3rO1WUrPm16U5GvAD61S0T) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Glamping](https://open.spotify.com/album/5l2zmmit5qkdeOZFHStBzl) | 2:15 | 2024-05-31 | 2024-06-27 |
 | [Glass Walls](https://open.spotify.com/track/4pBuxxACkmrNGuqtKr2OcS) | [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF) | [Glass Walls](https://open.spotify.com/album/1PIImq3VEynt2xVPOUETkW) | 2:16 | 2022-11-25 | 2023-09-16 |
@@ -1081,7 +1084,7 @@
 | [Lovespell](https://open.spotify.com/track/3gV5lV1Y5P93ZqHQAz72TZ) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [Lovespell](https://open.spotify.com/album/0rjaM4lvJKHzsf5D3owH7D) | 2:30 | 2022-07-29 | 2022-10-08 |
 | [Low Battery](https://open.spotify.com/track/1D4S66ipaVqV9du7elf89y) | [jeppa.](https://open.spotify.com/artist/681AWCGizczn0qJnaPgC69) | [Low Battery](https://open.spotify.com/album/4AYCDaIFCSdHmXUz6fkoxS) | 1:56 | 2024-10-11 |  |
 | [Lowride River](https://open.spotify.com/track/2SqIwESq04iFODwdyzVYoy) | [Tigerpalm\*Bay](https://open.spotify.com/artist/17AFp9vXzeK7mwKhcFFB5J) | [Lowride River](https://open.spotify.com/album/2joB6WYW30agKgPmd8NYSl) | 3:24 | 2022-04-15 | 2022-11-12 |
-| [lucid air](https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [lucid air](https://open.spotify.com/album/5zQ8bKhgfXeMeCoP4PL7gH) | 2:12 | 2023-03-01 |  |
+| [lucid air](https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [lucid air](https://open.spotify.com/album/5zQ8bKhgfXeMeCoP4PL7gH) | 2:12 | 2023-03-01 | 2024-10-22 |
 | [lullabi](https://open.spotify.com/track/3o4CP6tTnBcQMIEsCS9rME) | [dozeoff](https://open.spotify.com/artist/1DDkZGlHuj5FFsrieyvsHW) | [lullabi / midnight](https://open.spotify.com/album/0pDSPrCWW6uHGBcfm9G3zS) | 2:54 | 2024-07-12 |  |
 | [Lullaby](https://open.spotify.com/track/3vr0v9Vn5ELEYbwzKdKyTX) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Lullaby](https://open.spotify.com/album/3cSq1BpCyixnSAxS2PRcYp) | 2:05 | 2023-12-22 |  |
 | [lullaby sayonara](https://open.spotify.com/track/5gmGU21qJOnyhfLaVFLsc8) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [lullaby sayonara](https://open.spotify.com/album/7aEVz9aLIagUCYVZnR4L4C) | 2:11 | 2023-12-15 | 2024-06-22 |
@@ -1122,7 +1125,7 @@
 | [Marry U](https://open.spotify.com/track/4ocgsMhlAL6GfXDDom2NnS) | [Geórgia Neve](https://open.spotify.com/artist/7oR5FuTIzTDDGzh8c4bEsT) | [Marry U](https://open.spotify.com/album/4pG9IOY1zvKu62w7Jf13TP) | 2:18 | 2022-04-15 | 2022-05-13 |
 | [marzipan shuffle](https://open.spotify.com/track/5wdv54IxFDvxTjln9p9P17) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [marzipan shuffle](https://open.spotify.com/album/0uBNw4DJM0MPKqwg8EcYCF) | 2:36 | 2024-03-01 |  |
 | [maseru](https://open.spotify.com/track/1OqjCvgq2huHFm5YuL6A8G) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [maseru](https://open.spotify.com/album/15h3ZjC8ZpBiDyWuJGap7f) | 1:53 | 2022-04-15 | 2023-03-02 |
-| [maste](https://open.spotify.com/track/7kEJ5KwJka2XcM38oiUdhR) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [maste](https://open.spotify.com/album/2rTQMlBm7ePEy7YYNIj1eo) | 3:18 | 2023-09-08 |  |
+| [maste](https://open.spotify.com/track/7kEJ5KwJka2XcM38oiUdhR) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [maste](https://open.spotify.com/album/2rTQMlBm7ePEy7YYNIj1eo) | 3:18 | 2023-09-08 | 2024-10-22 |
 | [Master of None](https://open.spotify.com/track/4X66WhMeDS5gJlXTOpGN56) | [Dusty Kadinsky](https://open.spotify.com/artist/6DhRdG6ckA1u7hxnZzF2VL) | [Master of None](https://open.spotify.com/album/3PxDRlvRqy6wq6tmzoy0rQ) | 2:05 | 2023-12-15 |  |
 | [Matcha](https://open.spotify.com/track/7M9vscwYkaJkTInBY2y6jv) | [Yawuh](https://open.spotify.com/artist/5dFzAFmO3MGNTFcAApR6UR), [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Matcha](https://open.spotify.com/album/2BqsfiOuHmaRdp10PIpT5q) | 2:23 | 2024-05-31 |  |
 | [matcha latte](https://open.spotify.com/track/2GjPR5XcxmzIBkzGen3BMO) | [Class Klown](https://open.spotify.com/artist/6PUoOVrUeJn9d65VoXghgd) | [matcha latte](https://open.spotify.com/album/3rfSyh5x2FO3eqyoC4tohR) | 3:25 | 2023-11-17 |  |

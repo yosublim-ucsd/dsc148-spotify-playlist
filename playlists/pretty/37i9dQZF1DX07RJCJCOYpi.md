@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: 2DEEP
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,941,916 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,941,837 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 3 | [Fiesta En La Ciudad \(feat\. KRZ & Diana Landa\)](https://open.spotify.com/track/1Gu7K4GKdUdfkVewxeKHhl) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Fux Beat](https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1), [KRZ](https://open.spotify.com/artist/4zXYopQxFWB8DCsjm6nOM8), [Diana Landa](https://open.spotify.com/artist/38eUnGsqHpaZ2nXaLjF36s) | [Fiesta En La Ciudad \(feat\. KRZ & Diana Landa\)](https://open.spotify.com/album/4iem4izhogumCHM1HWwhjG) | 3:33 |
 | 4 | [El Ratón \(Jay Fase Remix\)](https://open.spotify.com/track/3vkmRV8jk6OxcDWiyFBHug) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Jay Fase](https://open.spotify.com/artist/3P544g8HVln9cZfy9dHdTd), [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [El Ratón \(Jay Fase Remix\)](https://open.spotify.com/album/3muZg2JpmuzGPr0Smtsg2k) | 6:07 |
 | 5 | [Como La Flor](https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Como La Flor](https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB) | 2:54 |
-| 6 | [Orion \- Sistek Remix](https://open.spotify.com/track/7v0mEMXTjjyUyfI2bQlDkI) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Orion \- Sistek Remix](https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA) | 4:41 |
+| 6 | [Orion \- Sistek Remix](https://open.spotify.com/track/7v0mEMXTjjyUyfI2bQlDkI) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Orion \(Sistek Remix\)](https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA) | 4:41 |
 | 7 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 |
 | 8 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 |
 | 9 | [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 |

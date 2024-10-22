@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Zimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,797 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,789 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 3 | [VIA DUPLA](https://open.spotify.com/track/1dRZRio5j7ETsizX0CMDqM) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [SÍNDRØME](https://open.spotify.com/album/2qkhEKZ53vhwuA2bZSZU04) | 3:03 |
 | 4 | [PROFETA](https://open.spotify.com/track/14FSBrBaMvj1sAuj2by7l7) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [PROFETA](https://open.spotify.com/album/4WBelVPknSU4mxK9exJqIR) | 2:41 |
 | 5 | [PERPÉTUO](https://open.spotify.com/track/2OIkwlfcRxzsAAX6CbIyYx) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [PERPÉTUO](https://open.spotify.com/album/1jq6ILT0x3Rrx9gHpUGplW) | 4:17 |
-| 6 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Malandragem \- Ao Vivo](https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne) | 3:51 |
+| 6 | [Malandragem \- Ao Vivo](https://open.spotify.com/track/2AnFF6VJTemksxNOuqrtV4) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Malandragem \(Ao Vivo\)](https://open.spotify.com/album/4nOyvI1MmLYEFmh31m95Ne) | 3:51 |
 | 7 | [O Amor e Seus Desvios](https://open.spotify.com/track/4fWTQvYX7P8BMzxSzoeflt) | [Arnaldo Brandão](https://open.spotify.com/artist/31tPxXZRs26Tcw8o4xYclY), [Leoni](https://open.spotify.com/artist/30zCgFx32RHel1qUOr7xuL) | [O Amor e Seus Desvios](https://open.spotify.com/album/5BOZQ5yA2m68q17URVlI65) | 3:54 |
 | 8 | [Ligação \- Ao Vivo](https://open.spotify.com/track/5d9D5hm2xXvgnyUVNMvXLK) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Ligação \(Ao Vivo\)](https://open.spotify.com/album/2FDKOWcytcGKosuqBzqAMq) | 4:32 |
 | 9 | [QUANDO VOCÊ VEM](https://open.spotify.com/track/4Lkp0oRReZbhWMHE9WpglU) | [RANCORE](https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM) | [QUANDO VOCÊ VEM](https://open.spotify.com/album/2KqTK4RL12QjgBKNevDA6l) | 2:38 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 64 | [Toca Raul](https://open.spotify.com/track/5J0ewKoDHCVbmJxS9ZkHwK) | [Ventania](https://open.spotify.com/artist/0TRaSC8tccqoIVYYBPcI5b) | [Toca Raul](https://open.spotify.com/album/7682GyJz64HsNN8T3Va1bU) | 2:48 |
 | 65 | [Mercador das Almas \- Ao Vivo](https://open.spotify.com/track/6tIH2jWM5ty5xxJDVsWcPj) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Roque Marciano \(Ao Vivo\)](https://open.spotify.com/album/3wfEBgPs5sbkqQonQH2ce4) | 3:22 |
 | 66 | [PRECISO DELA](https://open.spotify.com/track/61xqF9J7cidCByb0Li6OZF) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [PRECISO DELA](https://open.spotify.com/album/51U8maeYa6UPqkoIievl5W) | 2:23 |
-| 67 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7), [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x) | [A Cera \- Acústico](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
+| 67 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7), [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x) | [A Cera \(Acústico\)](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
 | 68 | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB) | 2:11 |
 | 69 | [um novo jeito de se machucar](https://open.spotify.com/track/4m1BQmWdyQNN1OE1pvc94u) | [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v), [Emmercia](https://open.spotify.com/artist/4FT9Hgt2E3s0KXJOSuAiVy) | [um novo jeito de se machucar](https://open.spotify.com/album/3mxHuaFOhavMHtgfUwZG8F) | 3:09 |
 | 70 | [Fátima Bernardes Experiência](https://open.spotify.com/track/16WKRMVfYCq9gHMPrXLcQt) | [Rogério Skylab](https://open.spotify.com/artist/7nz8OOo3qPb9jvUp4WiTe8) | [Fátima Bernardes Experiência](https://open.spotify.com/album/7LsGmCQ8BEk7UB398pa7fS) | 4:51 |

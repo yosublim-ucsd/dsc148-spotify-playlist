@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Plebes del Rancho de Ariel Camacho. Los temas esenciales, todos en una lista.",
-  "num_followers": 156956,
+  "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
+  "num_followers": 156983,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAABFMCKHQKwepNJsU8D+yNIh",
+  "snapshot_id": "ZxRIAAAAAAAbPMJ/eM4Epv+fqUqf12Sq",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Niveles",
-        "url": "https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb"
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm"
       },
       "artists": [
         {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        },
-        {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "P Chonch",
-          "url": "https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w"
         }
       ],
-      "duration_ms": 252285,
-      "name": "Hay Niveles",
-      "url": "https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF"
+      "duration_ms": 161054,
+      "name": "Mi Soledad",
+      "url": "https://open.spotify.com/track/02EkhOrPz6K4axWJkJe7fK"
     },
     {
       "added_at": null,
@@ -307,18 +299,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naci\u00f3 Pa' Leyenda",
-        "url": "https://open.spotify.com/album/6IIt2GBTW8esWRoKW6INOm"
+        "name": "Hay Niveles",
+        "url": "https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb"
       },
       "artists": [
         {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        },
+        {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "P Chonch",
+          "url": "https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w"
         }
       ],
-      "duration_ms": 161054,
-      "name": "Mi Soledad",
-      "url": "https://open.spotify.com/track/02EkhOrPz6K4axWJkJe7fK"
+      "duration_ms": 252285,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF"
     },
     {
       "added_at": null,

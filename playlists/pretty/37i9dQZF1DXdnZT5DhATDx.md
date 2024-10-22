@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnZT5DhATDx.md) - [plain]
 
 > What is dead may never die\. Listen to the most memorable and pinnacle tracks from all eight seasons of Game of Thrones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,595 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,602 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Main Title](https://open.spotify.com/track/2q6fxAvSpqXR4jx9Ne7RGz) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \- Music From The HBO Series](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:46 |
-| 2 | [Goodbye Brother](https://open.spotify.com/track/5n44Y1e8exufbm9mmAvopf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \- Music From The HBO Series](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 3:07 |
-| 3 | [King Of The North](https://open.spotify.com/track/27tYMG6SdydZhJMYjIUpR1) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \- Music From The HBO Series](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:28 |
-| 4 | [Finale](https://open.spotify.com/track/3Z0QYWxOndrwwtiUyybjSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \- Music From The HBO Series](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 2:31 |
+| 1 | [Main Title](https://open.spotify.com/track/2q6fxAvSpqXR4jx9Ne7RGz) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:46 |
+| 2 | [Goodbye Brother](https://open.spotify.com/track/5n44Y1e8exufbm9mmAvopf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 3:07 |
+| 3 | [King Of The North](https://open.spotify.com/track/27tYMG6SdydZhJMYjIUpR1) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 1:28 |
+| 4 | [Finale](https://open.spotify.com/track/3Z0QYWxOndrwwtiUyybjSl) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones \(Music From The HBO Series\)](https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ) | 2:31 |
 | 5 | [Valar Morghulis \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/49xSKuTCVjDyFYWZD2p6r9) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 3:00 |
 | 6 | [Winterfell \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/6NTKYkRWHOMZz4O8N3NMZS) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 2:43 |
 | 7 | [Mother Of Dragons \- From The "Game Of Thrones: Season 2" Soundtrack](https://open.spotify.com/track/4E7bdPSJTPdAMg0H2CUoqf) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 2 \(Music From The HBO Series\)](https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2) | 2:35 |

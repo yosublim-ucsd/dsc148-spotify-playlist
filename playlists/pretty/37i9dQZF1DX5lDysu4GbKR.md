@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Teddy Swims
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,510 likes - 91 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,568 likes - 91 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [beautiful war \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7nT6RNdexQaPonsiV4pWNH) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 2:02 |
 | 2 | [Open Letter](https://open.spotify.com/track/4vQxLMA2txL72AtvIbzDIe) | [CHOSZN](https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK) | [Open Letter](https://open.spotify.com/album/5NYltlomghvbHnKUlSQFkn) | 2:58 |
-| 3 | [The Most \- Acoustic](https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [The Most \- Acoustic](https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm) | 2:59 |
+| 3 | [The Most \- Acoustic](https://open.spotify.com/track/63NSw9j4bMYEK14ZP73eJE) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [The Most \(Acoustic\)](https://open.spotify.com/album/21zZ6mfGTJcb92Pmvw3UXm) | 2:59 |
 | 4 | [Outside The Gate](https://open.spotify.com/track/3fBZXCguP12EXiR2BPcBww) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Outside The Gate](https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz) | 3:26 |
 | 5 | [Check \- Acoustic](https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check \(Acoustic\)](https://open.spotify.com/album/0V9CTdJq5vJak95mYxUpZr) | 3:02 |
 | 6 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 65 | [Wish I Didn't Miss You \- Mahogany Sessions](https://open.spotify.com/track/3K2r8STZHwfN0GhCSNaQuR) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Wish I Didn’t Miss You \(Mahogany Sessions\)](https://open.spotify.com/album/2yR7Hmf7LZ9UicoySKuGMv) | 3:55 |
 | 66 | [Feet Don't Fail Me Now \- Live Acoustic Version](https://open.spotify.com/track/5h9DWBKM0eXCsKIemi0nyM) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now \(Live Acoustic Version\)](https://open.spotify.com/album/4JGBm9QfSWxAZvO5wgotj8) | 3:26 |
 | 67 | [In Your Head](https://open.spotify.com/track/7CJ1Q5T9InemrShfg1mHAY) | [Shan Ako](https://open.spotify.com/artist/6e8tjWVoHdVq00RY4VetKL), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [God's Best](https://open.spotify.com/album/6qazaJgI2kR9ClXu0MsFAi) | 3:21 |
-| 68 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \- Acoustic](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
+| 68 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 |
 | 69 | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/track/6RT5ir7all6RgZEAupLNlO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Bad Life \(feat\. Kali Uchis\)](https://open.spotify.com/album/5MBSSSfF904m3GaUapgRIs) | 3:17 |
 | 70 | [Run Away \(Acoustic\)](https://open.spotify.com/track/76qFHkFLDTtjD4k52SFrfA) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Run Away \(Acoustic\)](https://open.spotify.com/album/4Ldv9EEgRkugkJq2eB7Q2k) | 3:32 |
 | 71 | [Painted Blue](https://open.spotify.com/track/4acYmlGd0jWWotNeLJ9hVT) | [Joshua Thew](https://open.spotify.com/artist/3BAw5djzZW90BLlWnzf9yv) | [Painted Blue](https://open.spotify.com/album/4G2IuCo9rNQTu6iT9Jl068) | 2:48 |

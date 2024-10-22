@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1990s.",
-  "num_followers": 84637,
+  "num_followers": 84641,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -395,7 +395,7 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Jagged Little Pill - 2015 Remaster",
+        "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
@@ -639,7 +639,7 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Jagged Little Pill - 2015 Remaster",
+        "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
@@ -863,7 +863,7 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Jagged Little Pill - 2015 Remaster",
+        "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Doubleback",
-      "url": "https://open.spotify.com/track/57JtOe7GSDOWbIB71EOCNj"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Get A Grip",
         "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 380893,
       "name": "Livin' On The Edge",
       "url": "https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Doubleback",
+      "url": "https://open.spotify.com/track/57JtOe7GSDOWbIB71EOCNj"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 184000,
       "name": "Scooby Snacks",
       "url": "https://open.spotify.com/track/0AwxXvGoYpioYfJeafgvTD"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO"
     },
     {
       "added_at": "2024-07-12 14:58:14",

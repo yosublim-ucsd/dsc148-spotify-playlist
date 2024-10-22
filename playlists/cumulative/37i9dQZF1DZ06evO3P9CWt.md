@@ -4,7 +4,7 @@
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 14 min
+89 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pede Pra Eu Ficar \(Listen To Your Heart\)](https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW) | 3:12 | 2024-01-18 | 2024-04-22 |
 | [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7hPSlGAChIcqAbBXFgbcdq) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 2:30 | 2023-10-10 |  |
 | [Planeta de Cores \(Ascolta Il Tuo Cuore\)](https://open.spotify.com/track/6lgZ27oRTmLlTbY8YjzI1q) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX), [Forrozão Tropykalia](https://open.spotify.com/artist/01ST5jiTLQjTKBJZPXJhK5) | [Planeta de Cores \(Ascolta Il Tuo Cuore\)](https://open.spotify.com/album/2g2ZPqBZJQpLEmaNZtOpcW) | 3:37 | 2024-09-06 |  |
-| [Pra Te Esquecer](https://open.spotify.com/track/2XYjDjZLnRVLumfEmVh2K4) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 3:26 | 2024-04-12 |  |
+| [Pra Te Esquecer](https://open.spotify.com/track/2XYjDjZLnRVLumfEmVh2K4) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 3:26 | 2024-04-12 | 2024-10-22 |
+| [Pra Te Esquecer](https://open.spotify.com/track/7sGsBlUZt8P9LcLnZWh3am) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/6azBEVsWyRCxu27zpPXFC0) | 3:26 | 2024-10-22 |  |
 | [Problema Seu](https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:42 | 2023-10-10 |  |
 | [Quem Manda em Mim](https://open.spotify.com/track/2WcQ7cDxFB7o8wWXapqdwE) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Quem Manda em Mim](https://open.spotify.com/album/6jShiR4qHve7n8kWdfi9tJ) | 3:12 | 2024-07-14 |  |
 | [Rajadão](https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 | 2023-10-10 |  |

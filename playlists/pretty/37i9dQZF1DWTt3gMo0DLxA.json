@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Devara",
-  "num_followers": 191677,
+  "num_followers": 192512,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu2DewAAAAAMIGGdQ5fkAm81/gEW+q0x",
+  "snapshot_id": "ZxX1sgAAAAAHhadYBZvt1MSJ65NcwfWS",
   "tracks": [
     {
       "added_at": "2024-08-05 12:07:26",
@@ -57,6 +57,26 @@
       "url": "https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb"
     },
     {
+      "added_at": "2024-10-21 06:33:22",
+      "album": {
+        "name": "Manasunna Maaraju",
+        "url": "https://open.spotify.com/album/1HdqYSGcMPtxGvGW40JPuQ"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
+        }
+      ],
+      "duration_ms": 316743,
+      "name": "Nenugaali Gopuram",
+      "url": "https://open.spotify.com/track/03nqAoFAEn7Q1XmABl87zw"
+    },
+    {
       "added_at": "2024-04-18 09:25:53",
       "album": {
         "name": "Om Bheem Bush",
@@ -79,6 +99,30 @@
       "duration_ms": 211670,
       "name": "Anuvanuvuu",
       "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
+    },
+    {
+      "added_at": "2024-10-21 06:33:22",
+      "album": {
+        "name": "Devara Part 1 [TELUGU]",
+        "url": "https://open.spotify.com/album/7ixEMlvfmqKqb7yJjB7Chk"
+      },
+      "artists": [
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 174088,
+      "name": "Ayudha Pooja [TELUGU]",
+      "url": "https://open.spotify.com/track/5Pqv6e52EWyqxeNyFYqDni"
     },
     {
       "added_at": "2023-12-11 04:38:53",
@@ -169,26 +213,6 @@
       "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
     },
     {
-      "added_at": "2024-08-23 08:38:21",
-      "album": {
-        "name": "Indra",
-        "url": "https://open.spotify.com/album/6DCevkH61bKK4qIxQV50eB"
-      },
-      "artists": [
-        {
-          "name": "S. P. Balasubrahmanyam",
-          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
-        },
-        {
-          "name": "Mallikarjun",
-          "url": "https://open.spotify.com/artist/40Ce6P4AGMq3NXCDXVSZaa"
-        }
-      ],
-      "duration_ms": 351557,
-      "name": "Ghallu Ghallu",
-      "url": "https://open.spotify.com/track/4Bb4Vgzp1kAebqI7KnDFPn"
-    },
-    {
       "added_at": "2023-08-30 10:44:11",
       "album": {
         "name": "Bommarillu",
@@ -203,6 +227,26 @@
       "duration_ms": 243265,
       "name": "Apudo Ipudo",
       "url": "https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj"
+    },
+    {
+      "added_at": "2024-10-21 06:33:22",
+      "album": {
+        "name": "Lankeswarudu",
+        "url": "https://open.spotify.com/album/04HjCi0b4iquPCXhNAb117"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "duration_ms": 356009,
+      "name": "Padaharella Vayasu",
+      "url": "https://open.spotify.com/track/7wltO5dmURDawoJonX4msC"
     },
     {
       "added_at": "2024-06-16 12:40:05",
@@ -277,54 +321,6 @@
       "url": "https://open.spotify.com/track/2WtOJI2Pwk88RAZPeTgMp0"
     },
     {
-      "added_at": "2024-07-23 09:08:34",
-      "album": {
-        "name": "SteppaMaar (From \"Double ISMART\")(Telugu)",
-        "url": "https://open.spotify.com/album/0eJwR4VRUiGRuU7wjG3QfD"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Sahithi Chaganti",
-          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
-        },
-        {
-          "name": "Bhaskarabhatla",
-          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
-        }
-      ],
-      "duration_ms": 232602,
-      "name": "SteppaMaar (From \"Double ISMART\")(Telugu)",
-      "url": "https://open.spotify.com/track/7vLR2TSzHEVUNlKm5dcYpo"
-    },
-    {
-      "added_at": "2024-08-23 08:38:21",
-      "album": {
-        "name": "Indra",
-        "url": "https://open.spotify.com/album/6DCevkH61bKK4qIxQV50eB"
-      },
-      "artists": [
-        {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        },
-        {
-          "name": "Mahalakshmi Iyer",
-          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
-        }
-      ],
-      "duration_ms": 320282,
-      "name": "Dai Dai Dhamma",
-      "url": "https://open.spotify.com/track/02VVOQId2O83I5hLJ1GFmH"
-    },
-    {
       "added_at": "2024-07-30 09:22:06",
       "album": {
         "name": "Ullaasam (From \"Saripodhaa Sanivaaram\")",
@@ -347,26 +343,6 @@
       "duration_ms": 282000,
       "name": "Ullaasam (From \"Saripodhaa Sanivaaram\")",
       "url": "https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c"
-    },
-    {
-      "added_at": "2024-05-19 15:23:15",
-      "album": {
-        "name": "Fear Song (From \"Devara Part 1\") [Telugu]",
-        "url": "https://open.spotify.com/album/1OO05SXoc1JTyvGbxi75Pm"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
-        }
-      ],
-      "duration_ms": 195064,
-      "name": "Fear Song (From \"Devara Part 1\") [Telugu]",
-      "url": "https://open.spotify.com/track/6b2WJDzGt5X8dYfpkWtvXW"
     },
     {
       "added_at": "2024-09-20 14:15:23",
@@ -403,6 +379,30 @@
       "duration_ms": 119052,
       "name": "Hungry Cheetah (From \"They Call Him OG\")",
       "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
+    },
+    {
+      "added_at": "2024-10-21 06:33:22",
+      "album": {
+        "name": "Raa Macha Macha (From \"Game Changer\") (Telugu)",
+        "url": "https://open.spotify.com/album/6pljUGFM7d4Gq99fn6jrgb"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        }
+      ],
+      "duration_ms": 272771,
+      "name": "Raa Macha Macha (From \"Game Changer\") (Telugu)",
+      "url": "https://open.spotify.com/track/2B8lRjTNqqaJ8M4YytDUO9"
     },
     {
       "added_at": "2024-02-19 04:32:52",

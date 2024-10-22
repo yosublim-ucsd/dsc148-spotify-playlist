@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,022 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,058 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 37 | [In the Mood](https://open.spotify.com/track/0tIJQNaGHFGhcZGEHJHc9l) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [In the Mood](https://open.spotify.com/album/0dJHNU5d3Jdr2JXeuqenx5) | 4:12 |
 | 38 | [Heaven is Magnetic](https://open.spotify.com/track/0ZbayZ31moMGhRl3BLW0s6) | [Ella Eliza](https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ) | [Heaven is Magnetic](https://open.spotify.com/album/2VAuT1hLRuyV9qRgMUByxx) | 2:50 |
 | 39 | [Set Me Free](https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Set Me Free](https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U) | 7:06 |
-| 40 | [Heavens Will Fall \- JOPLYN Remix](https://open.spotify.com/track/6UpWIK4IUttKIaeeTqUiuD) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Heavens Will Fall \- JOPLYN Remix](https://open.spotify.com/album/7gk025jTyBruevpYUTukVw) | 5:48 |
+| 40 | [Heavens Will Fall \- JOPLYN Remix](https://open.spotify.com/track/6UpWIK4IUttKIaeeTqUiuD) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Heavens Will Fall \(JOPLYN Remix\)](https://open.spotify.com/album/7gk025jTyBruevpYUTukVw) | 5:48 |
 | 41 | [abused](https://open.spotify.com/track/04eAwj1S7LBrImIZVnl2yq) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [abused](https://open.spotify.com/album/0FPHvkFMpuMpVfaNlxadU9) | 3:08 |
 | 42 | [Hot Family](https://open.spotify.com/track/0nMcIvLqvZUm5DHnCxmK9A) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Botanical Garden](https://open.spotify.com/album/2po5bjsbRdLRxQ13H14eGt) | 3:39 |
 | 43 | [My Melody](https://open.spotify.com/track/6abYvlEKi1JLymoapJLnuT) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [My Melody](https://open.spotify.com/album/6BK5VZGzz4rk6bkMzIWNau) | 2:46 |

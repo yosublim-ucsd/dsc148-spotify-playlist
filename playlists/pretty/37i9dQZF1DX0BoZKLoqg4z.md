@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BoZKLoqg4z.md) - [plain]
 
 > Les talents préférés de vos enfants, découverts à la télé!
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,028 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,040 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BoZKLoqg4z.md) - [plain]
 | 14 | [Ce mur qui nous sépare \- de la série TV "Miraculous"](https://open.spotify.com/track/2YF9TdhTuz5NsV3PHAguYN) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg), [Lenni Kim](https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ) | [Ce mur qui nous sépare \(de la série TV "Miraculous"\)](https://open.spotify.com/album/7ih29Ga5PuH0avOjbVnN3c) | 4:02 |
 | 15 | [Héros](https://open.spotify.com/track/6Z7ZDpJB6FEWRFJwYMLZWN) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Héros](https://open.spotify.com/album/51ptXg91XTsGv8hkLzovO8) | 2:22 |
 | 16 | [Summer Summer](https://open.spotify.com/track/4pKg6d1ygOGHJ7DiGz0cgB) | [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Summer Summer](https://open.spotify.com/album/0BrQFKNupSCyVWqd3CouY7) | 2:20 |
-| 17 | [Qui dit mieux ?](https://open.spotify.com/track/0GvZFuvOSzCRn6X0463HIn) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Ma voie \- Edition Collector](https://open.spotify.com/album/0Pvh8RvoASsQlhd3YI0ivh) | 2:54 |
+| 17 | [Qui dit mieux ?](https://open.spotify.com/track/0GvZFuvOSzCRn6X0463HIn) | [Angelina](https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8) | [Ma voie \(Edition Collector\)](https://open.spotify.com/album/0Pvh8RvoASsQlhd3YI0ivh) | 2:54 |
 | 18 | [La tribu de Dana](https://open.spotify.com/track/7dtqGkkWFUOOPHuERA772V) | [Evan et Marco](https://open.spotify.com/artist/0qgw5KQPb3ZkCuuAbCfP0I) | [Evan et Marco](https://open.spotify.com/album/3evknzIth3rOhAR5BNzJHR) | 3:39 |
 | 19 | [Fais pas ci, Fais pas ça](https://open.spotify.com/track/1v2Ul6sHLEZeVFfeYBaJ6Q) | [Les Petites Canailles](https://open.spotify.com/artist/6voz31jmwRIKeVeFaz3EyW) | [Chantent Salut Les Copains](https://open.spotify.com/album/36P3kv9uCTQxBnOlFeD3XI) | 1:49 |
 | 20 | [Week\-end](https://open.spotify.com/track/2i7s2AJ0viF0YOAhsQbIic) | [Sydney](https://open.spotify.com/artist/2OpjJkMJYIDzJbx9ZpjZ8E) | [Week\-end](https://open.spotify.com/album/2RlnpnkpO6Ck2vgPvDYzIl) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,481 likes - 115 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,549 likes - 115 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 13 | [Rose Bay](https://open.spotify.com/track/3fXvaNpYYG1S1pla7P71oF) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rose Bay](https://open.spotify.com/album/6EgPZYM69ojeuJdZaHPOJQ) | 4:19 |
 | 14 | [And I Alone](https://open.spotify.com/track/3cISlJElRfvRzINv5DOcVC) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [And I Alone](https://open.spotify.com/album/2Eyga05AJcKX51SOjUCUfV) | 2:55 |
 | 15 | [Brotin](https://open.spotify.com/track/1ByjUtjfHISyPBH1m4uhvT) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Brotin](https://open.spotify.com/album/1z8AVAZZ8MwD6Q3gBL2IEH) | 3:15 |
-| 16 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \- Piano Version](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
+| 16 | [Through The Blue \- Piano Version](https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Through The Blue \(Piano Version\)](https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx) | 3:45 |
 | 17 | [Nocturne](https://open.spotify.com/track/3T6Soe6AKNkeE5PfOlV6Uv) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09), [David Chalmin](https://open.spotify.com/artist/7JLeeI3o762IePxWjgs6MT) | [Dessner: Nocturne](https://open.spotify.com/album/5XMhyMS1tKETQKTxYfkhqW) | 3:01 |
 | 18 | [amour \(piano\)](https://open.spotify.com/track/2F0XzNxOXO6uzMyIYlC0EG) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [amour \(piano\)](https://open.spotify.com/album/4phqumUbfsuVx9ZWjne9TP) | 5:05 |
 | 19 | [Rolling Like A Ball](https://open.spotify.com/track/2TlV8LZW3ED4RjGc0crBLN) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Rolling Like A Ball](https://open.spotify.com/album/3CVBACggrB4U3sSOLjgGjs) | 4:17 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 35 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 |
 | 36 | [Water Variations and Theme: Variation II](https://open.spotify.com/track/26SHCfkRzsns4BVbpbr0Av) | [Oliver Davis](https://open.spotify.com/artist/3BRizPspINkIYljgzP1x6J), [Beth & Flo](https://open.spotify.com/artist/6vHrGcot7nJR1zRBBK2Io7) | [Oliver Davis: Blue](https://open.spotify.com/album/2GNj9tUmqEH2EK1vTmRM99) | 2:19 |
 | 37 | [Love Came](https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Love Came](https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm) | 2:15 |
-| 38 | [La Recherche \- Piano Solo Version](https://open.spotify.com/track/2SVVpg9cb44cBFRewo9Cn5) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [La Recherche \- Piano Solo Version](https://open.spotify.com/album/3f22ZwmFXLpwfEpvfnAus9) | 2:13 |
+| 38 | [La Recherche \- Piano Solo Version](https://open.spotify.com/track/2SVVpg9cb44cBFRewo9Cn5) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [La Recherche \(Piano Solo Version\)](https://open.spotify.com/album/3f22ZwmFXLpwfEpvfnAus9) | 2:13 |
 | 39 | [Emi](https://open.spotify.com/track/13kpVy1mmtoxyGs7TSQS1F) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Emi](https://open.spotify.com/album/5oVfx9FpogQzFa3UKJsMMM) | 2:29 |
 | 40 | [Lumières](https://open.spotify.com/track/5a25wA4ObPtHPqxa5FQWtm) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Lumières](https://open.spotify.com/album/5HXlQ7GvXy7iORgnYJIi8o) | 3:48 |
 | 41 | [A Faint Qualm for the Future](https://open.spotify.com/track/3d17chntySsgXtt8Z3MYBF) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Faint Qualm for the Future](https://open.spotify.com/album/6eTvBtQolExQPxDkqKUtZv) | 2:41 |

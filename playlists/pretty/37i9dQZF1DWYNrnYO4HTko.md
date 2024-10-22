@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,147 likes - 92 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 50 | [I Can't Turn You Loose](https://open.spotify.com/track/1ILvOL3iautGoH27ZC7PAy) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Dance To The Music](https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX) | 3:33 |
 | 51 | [I Can't Turn You Loose](https://open.spotify.com/track/1ksynD4Vga9YDEUpvp1tAO) | [Wayne Cochran](https://open.spotify.com/artist/5Im68TDDcrgUf5i05UnXrl) | [C.C\. & Company \- Soundtrack](https://open.spotify.com/album/1wz7JoUdmRWEBs5yUsDftZ) | 3:59 |
 | 52 | [I Can't Turn You Loose](https://open.spotify.com/track/6fmpeMEiK7M38rL9MSOFF5) | [The Chambers Brothers](https://open.spotify.com/artist/0OwaxYpG77PWKSLtj1QzG8) | [A New Time \- A New Day](https://open.spotify.com/album/43d24W4xf0thw054t8RQzY) | 4:55 |
-| 53 | [Sweet Soul Music](https://open.spotify.com/track/0j4y8UyEKIkQK4DRT25zi4) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \- Expanded Edition](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 3:04 |
+| 53 | [Sweet Soul Music](https://open.spotify.com/track/0j4y8UyEKIkQK4DRT25zi4) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 3:04 |
 | 54 | [Can't Turn You Loose \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/4AZjmuuFDK17mJ4eAl4EwT) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin: The Woodstock Experience](https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4) | 4:25 |
 | 55 | [Sweet Soul Music](https://open.spotify.com/track/18b7KtY3MqOOZEXTYXJoqy) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Here Comes the Duke](https://open.spotify.com/album/4EQo8dsclTJxQtcoMk4aEq) | 1:57 |
 | 56 | [Sweet Soul Music](https://open.spotify.com/track/1NkBAvUj4EITElG8hO1mRC) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Feeling You! The 60's](https://open.spotify.com/album/6xsN1W274ooUQ1RFJuLH9Z) | 2:11 |

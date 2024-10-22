@@ -1,6 +1,6 @@
 {
   "description": "Uplifting scores and soundtracks to make your heart happy.",
-  "num_followers": 209481,
+  "num_followers": 209542,
   "original_name": "Feel Good Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -354,6 +354,26 @@
         {
           "name": "Michael Kamen",
           "url": "https://open.spotify.com/artist/68bqsIINo5RFICYwbkChbb"
+        },
+        {
+          "name": "Maire Brennan",
+          "url": "https://open.spotify.com/artist/6JIbdXrERgmH6Hn8mmjfUR"
+        },
+        {
+          "name": "Zoe Kamen",
+          "url": "https://open.spotify.com/artist/4JQ2TOL0JxvCd9yCQgYGhb"
+        },
+        {
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+        },
+        {
+          "name": "Dave Lee",
+          "url": "https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f"
+        },
+        {
+          "name": "Julie Andrews",
+          "url": "https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO"
         }
       ],
       "duration_ms": 144893,
@@ -431,7 +451,7 @@
     {
       "added_at": "2024-05-23 14:53:31",
       "album": {
-        "name": "Frozen - Original Motion Picture Soundtrack",
+        "name": "Frozen (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP"
       },
       "artists": [

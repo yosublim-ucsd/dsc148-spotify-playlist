@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G9wwzwWL2k.md) - [plain]
 
 > Lend a little drama to the occasion with this collection of truly epic classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,305 likes - 54 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,488 likes - 54 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-239 songs - 15 hr 59 min
+240 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Katturumbu](https://open.spotify.com/track/2jjzkXKzLB0iqq6YHXxeOD) | [Sangeeth](https://open.spotify.com/artist/3eLmrMxtn3oTcqng8BNoPZ) | [Katturumbu](https://open.spotify.com/album/0AVeHvPxaAuhDVprmsL4J8) | 4:56 | 2023-10-10 |  |
 | [Kunji Penne](https://open.spotify.com/track/1hA3nNa0T0J49ZE4vYgLKV) | [E3Y](https://open.spotify.com/artist/1kfF1kkbyruQ6Abd540tNL) | [Kunji Penne](https://open.spotify.com/album/2iN9DI5qa6cylJKIUmDhAy) | 1:54 | 2024-07-04 |  |
 | [Kunnolam anenikishtam](https://open.spotify.com/track/3Q41RloLb0lCjh52gLIKeZ) | [Prem Krishnan](https://open.spotify.com/artist/6iFo1ZetMJsCWzE25uoEOJ) | [Kunnolam anenikishtam](https://open.spotify.com/album/4RuQccxjGRPk54B0KZ06EC) | 3:45 | 2023-07-18 | 2023-07-28 |
+| [La](https://open.spotify.com/track/7foXuC1skz2laRHRCWumCA) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX) | [La](https://open.spotify.com/album/1YrVcFs6J5uegJtRMYY0vS) | 3:56 | 2024-10-21 |  |
 | [Laare](https://open.spotify.com/track/6wNkbLcCCtoYEsAxmXC3yt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Laare](https://open.spotify.com/album/4oMcRv0ujnIqp0AevqBlxT) | 3:10 | 2024-09-03 |  |
 | [Lathiri Poothiri](https://open.spotify.com/track/2hGsJ2HbSJo2Bu9UEHmCqL) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Lathiri Poothiri](https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz) | 2:14 | 2022-09-06 | 2023-07-28 |
 | [Life Is Adipoli](https://open.spotify.com/track/1RmS3bsRhBJ6WdCb35AxYO) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Sajan CR](https://open.spotify.com/artist/7BLGlfpsC12N56HAhcI6ni), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Life Is Adipoli](https://open.spotify.com/album/19NF3iqqpzCUwkSfKXTK6y) | 4:02 | 2024-06-28 |  |
@@ -164,7 +165,7 @@
 | [Njan Evide](https://open.spotify.com/track/3fMfhQZIu7uF7Z54VI5ODF) | [Anurag Vinod](https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy), [m.cnan](https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A), [Sinsiha](https://open.spotify.com/artist/2CYKtGApU77sXioXyfd96E) | [Njan Evide](https://open.spotify.com/album/2qiFRk2E8KfCW4Hb7XCp4v) | 3:37 | 2023-11-23 | 2024-02-09 |
 | [Oblivion](https://open.spotify.com/track/2JXMEXKqT4cnGI1ICepo8C) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Ashwin Renju](https://open.spotify.com/artist/6gX6JbltHfNOeMAK89YFkc) | [Oblivion](https://open.spotify.com/album/4Cqq8afOI5McMl7hQCKYy5) | 4:23 | 2022-09-23 | 2023-07-28 |
 | [Om Shanti](https://open.spotify.com/track/6uVwy5xIpRsro059KF2NrK) | [Amrutam Gamay](https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5), [Amritha Suressh](https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk), [Abhirami Suresh](https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5) | [Om Shanti](https://open.spotify.com/album/0Ll3yLHA6mB9hQZOH7SpmD) | 4:51 | 2024-06-07 | 2024-08-13 |
-| [Ookku \- From "Think Indie"](https://open.spotify.com/track/0yDl4lv4HdqyVwyf6gEDBf) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Ookku \- From "Think Indie"](https://open.spotify.com/album/7uQ5Jb3a7h0lQSXJDmngI8) | 3:03 | 2024-08-22 |  |
+| [Ookku \- From "Think Indie"](https://open.spotify.com/track/0yDl4lv4HdqyVwyf6gEDBf) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Ookku \(From "Think Indie"\)](https://open.spotify.com/album/7uQ5Jb3a7h0lQSXJDmngI8) | 3:03 | 2024-08-22 |  |
 | [Oombalum Kanjiyum](https://open.spotify.com/track/5VmM4mDYJQ0Y0lEWWDEMXr) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Oombalum Kanjiyum \- From "Think Indie"](https://open.spotify.com/album/2mPXGVd0rEORx5W7GfTRcm) | 4:08 | 2023-10-03 |  |
 | [Oorakkudukku](https://open.spotify.com/track/6OPImTghaIDMXtdqDz99yL) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Oorakkudukku](https://open.spotify.com/album/3tFnGHwmww7ORL8nIQJddU) | 2:33 | 2023-05-26 | 2023-07-28 |
 | [Oru Cringe Paattu](https://open.spotify.com/track/3JK51mWe4OqFYYtGCoHQ47) | [Aswin Vijay](https://open.spotify.com/artist/0zMErY9KjDWU5yc9OxX8k9) | [Oru Cringe Paattu](https://open.spotify.com/album/2bdXMLyeBEYM8CfadPCtfo) | 3:35 | 2024-09-30 |  |
@@ -239,7 +240,7 @@
 | [Vaanil Nila](https://open.spotify.com/track/2RaJo1HIKjyMjxZYJ2HdME) | [Anusree Deepak](https://open.spotify.com/artist/25iCaIN4jpNT7K37yeSTPa) | [Vaanil Nila](https://open.spotify.com/album/1dnXlWoQzKtze8d9Uj6zcJ) | 3:56 | 2024-03-28 | 2024-07-23 |
 | [Vaarkadal](https://open.spotify.com/track/457AZM8fq9yR2yRfRRrD9N) | [The Non Violinist Project](https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Vaarkadal](https://open.spotify.com/album/2TYy2MAcm8czR5fXD1Ayxp) | 4:25 | 2023-10-10 |  |
 | [Varav](https://open.spotify.com/track/6qYS47MJQ9ulzvSSkJRGUX) | [Marthyan](https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T), [$obin](https://open.spotify.com/artist/3GrYRWOQlcY1qs48diMppb) | [Varav](https://open.spotify.com/album/7upuJEyMJJzQAtvJGirH1r) | 3:07 | 2023-05-26 | 2023-07-28 |
-| [Vettam](https://open.spotify.com/track/11CrYElJH7l26yy5Tb5Ihy) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Vettam](https://open.spotify.com/album/3wfiH7VqV5yXoU6eZLWZEy) | 3:32 | 2023-10-10 |  |
+| [Vettam](https://open.spotify.com/track/11CrYElJH7l26yy5Tb5Ihy) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Vettam](https://open.spotify.com/album/3wfiH7VqV5yXoU6eZLWZEy) | 3:32 | 2023-10-10 | 2024-10-22 |
 | [Vettam Reprised](https://open.spotify.com/track/1VKqe5jwgqdmFLkxxTdx4x) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Vettam Reprised](https://open.spotify.com/album/1YowHOWsfSiRVrgWFI05n4) | 3:11 | 2023-12-10 | 2024-06-19 |
 | [Veyil](https://open.spotify.com/track/2JgpqEHj0uO7s45Fg7womt) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Veyil](https://open.spotify.com/album/5WyjHb4OPKvSBJje60DtZU) | 3:05 | 2023-08-03 | 2024-06-25 |
 | [When Nature Calls](https://open.spotify.com/track/4VI98l8ORvSMPjIrROndfc) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ) | [When Nature Calls](https://open.spotify.com/album/1MraQsbPfSly4llApBNHae) | 5:12 | 2023-08-03 | 2024-10-01 |

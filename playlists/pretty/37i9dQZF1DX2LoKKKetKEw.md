@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Guest curated this week by: <a href="spotify:artist:79MTG7HPurBgQ0ilwJ4AgM">Moses Bliss</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,530 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,618 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 54 | [4 U](https://open.spotify.com/track/3VZgoY5YNcYqVwZ11YPd7b) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [4 U](https://open.spotify.com/album/4oH8gUilfwyHx48xdKVMK0) | 2:27 |
 | 55 | [Spiritual Energy](https://open.spotify.com/track/5wd1xIFVrAJ6wvZhebqfaT) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Mastapeace Beats](https://open.spotify.com/artist/6jfcSjE052jzhggOXwN0Px) | [Spiritual Energy](https://open.spotify.com/album/721CIYJgTdFZs9DuWzJDRd) | 3:20 |
 | 56 | [Not Gonna Worry](https://open.spotify.com/track/6f8SSijW14hvnfbI66s8Id) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY) | [Not Gonna Worry](https://open.spotify.com/album/0HmblulqcxTTRsFVXE8oLA) | 3:25 |
-| 57 | [Sweet \- Remix](https://open.spotify.com/track/26mpBVaglCZ1CZ7flEgQIY) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Sweet \- Remix](https://open.spotify.com/album/3MHm7jR2DyqSBy1WbcfB0n) | 3:07 |
+| 57 | [Sweet \- Remix](https://open.spotify.com/track/26mpBVaglCZ1CZ7flEgQIY) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Sweet \(Remix\)](https://open.spotify.com/album/3MHm7jR2DyqSBy1WbcfB0n) | 3:07 |
 | 58 | [All of My Worship](https://open.spotify.com/track/7yiYEIVckitSlalK5LKchp) | [Afrobeats Worship](https://open.spotify.com/artist/1zP3vvPUniQz6k3bKXI49n), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [All of My Worship](https://open.spotify.com/album/4v4rJu3XcdUprfdG49O5kK) | 3:28 |
 | 59 | [Darling Jesus](https://open.spotify.com/track/7umCBlz9pHwRn8TGyhGXKN) | [Dr\. Ossom](https://open.spotify.com/artist/0TV9CRHK0mIwaqUNLDDg2W), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Darling Jesus](https://open.spotify.com/album/5Xeh4clJo0rM9WHRb7CGXy) | 2:53 |
 | 60 | [MOST HIGH \- Remix](https://open.spotify.com/track/5NKU7nB9Jtav3OflHPzEuD) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [MOST HIGH \(Remix\)](https://open.spotify.com/album/38UvNlpaWQ5g9waGHUMIKF) | 2:50 |

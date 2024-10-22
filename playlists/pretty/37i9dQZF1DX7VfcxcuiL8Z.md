@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Ocean Alley
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,990 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,001 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 17 | [Living A Lie](https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Living A Lie](https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg) | 4:33 |
 | 18 | [Big Dreams](https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL) | 3:11 |
 | 19 | [Something Good](https://open.spotify.com/track/1VDZnlKsZX8Ufekz9BQDCo) | [The Superjesus](https://open.spotify.com/artist/7o9kdTx6RmO12iAVVsNehd) | [Something Good](https://open.spotify.com/album/5huMS2fO8b4GpvCBAMX7co) | 3:29 |
-| 20 | [Cigarettes & Alcohol \- Sawmills Outtake](https://open.spotify.com/track/4DKcLZMapJwbOtLLz3Obcw) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \- 30th Anniversary](https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA) | 5:06 |
+| 20 | [Cigarettes & Alcohol \- Sawmills Outtake](https://open.spotify.com/track/4DKcLZMapJwbOtLLz3Obcw) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(30th Anniversary\)](https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA) | 5:06 |
 | 21 | [Guided Tour](https://open.spotify.com/track/5libQaNWi39sL1255ivVwK) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Guided Tour](https://open.spotify.com/album/2EPW5FoYv2KNrlR58Shsnl) | 4:25 |
 | 22 | [Wish You Were Here](https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View XXIII](https://open.spotify.com/album/7klngx9L0dt47tEgiNFY0Z) | 3:32 |
 | 23 | [My Drummer's Girlfriend](https://open.spotify.com/track/2lMrk3IrLeWRV9UT3DlWDp) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [My Drummer's Girlfriend](https://open.spotify.com/album/3rG6pR0MB2apLo4EqYufqj) | 2:37 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 27 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 |
 | 28 | [Wildflowers](https://open.spotify.com/track/6KAk8ufRJc4ZqGRkIRfCM5) | [Jim Nothing](https://open.spotify.com/artist/4eb7qCBJliHYY0oYgFFdYR) | [Wildflowers](https://open.spotify.com/album/2aPcmHmXm8VOirMVurtynw) | 2:52 |
 | 29 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 |
-| 30 | [Wake Me Up When September Ends \- Demo](https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- 20th Anniversary \- Becoming Who We Are](https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx) | 4:59 |
+| 30 | [Wake Me Up When September Ends \- Demo](https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary \- Becoming Who We Are\)](https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx) | 4:59 |
 | 31 | [That's How I'm Feeling](https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [No Name](https://open.spotify.com/album/4j6OkbZmVIqJYDLJbiWHbX) | 3:11 |
 | 32 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
 | 33 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 |

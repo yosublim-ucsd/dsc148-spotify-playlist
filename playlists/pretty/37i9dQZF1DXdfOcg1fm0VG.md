@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,394 likes - 137 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,514 likes - 137 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 16 | [The Lost Crown \(Prince of Persia\)](https://open.spotify.com/track/116jZYVgxrFurFTmo6pDgv) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Joznez](https://open.spotify.com/artist/03u3O2Nv2hOb00DRFYEISs), [Kataem](https://open.spotify.com/artist/4v5vKGibNG5JeqTPAhnqil) | [The Lost Crown \(Original Music for Prince of Persia\)](https://open.spotify.com/album/4LNnzY4srbB8ytC7Tb3PFS) | 3:19 |
 | 17 | [Emmett's Theme](https://open.spotify.com/track/21e8VPZa4lRxAt2Ra772f9) | [Christopher Lennertz](https://open.spotify.com/artist/2TQwXfupr6fAEV5AgNqIO5) | [Starhawk \(Original Video Game Soundtrack\)](https://open.spotify.com/album/1J9tC37IDPGMaZTKqd7VXO) | 2:08 |
 | 18 | [Elden Ring](https://open.spotify.com/track/2iiJOgkKOCyb7ZPeqUNpud) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 1:38 |
-| 19 | [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \- Original Video Game Soundtrack](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 |
+| 19 | [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 |
 | 20 | [The Fallen Brother](https://open.spotify.com/track/1Y0LhaqOcaUFxF3VBGD9Qy) | [Gerard Marino](https://open.spotify.com/artist/7xZsnJ0ry5xKWJg0AjP9rC) | [God of War: Ghost of Sparta \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5yN2kJh22LtZVn55wVMH7h) | 1:16 |
 | 21 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [TATRAN](https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 |
 | 22 | [Geralt Of Rivia](https://open.spotify.com/track/0Pfdg72l2kQsh4sQHMRSbv) | [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/5GAHLnlyZGLpOSdYI1tQ3R) | 2:21 |

@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92040,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/06eDgkoyyc0FWsvaYBk6oh"
+    },
+    {
+      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },

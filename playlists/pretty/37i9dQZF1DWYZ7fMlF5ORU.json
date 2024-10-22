@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 164372,
+  "num_followers": 164406,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2024-10-16 04:01:47",
       "album": {
-        "name": "Reden\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0HMjmYSxV6TbLGrxOKXNvA"
-      },
-      "artists": [
-        {
-          "name": "Samuel Mizrahy",
-          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        }
-      ],
-      "duration_ms": 247746,
-      "name": "Mais Que Vencedor",
-      "url": "https://open.spotify.com/track/4SXBM1ozlACNvNSGS4iFlL"
-    },
-    {
-      "added_at": "2024-10-16 04:01:47",
-      "album": {
         "name": "Luz - Parte 2",
         "url": "https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 298787,
       "name": "Ele vem (feat. Coral Black To Black)",
       "url": "https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey"
+    },
+    {
+      "added_at": "2024-10-16 04:01:47",
+      "album": {
+        "name": "Reden\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0HMjmYSxV6TbLGrxOKXNvA"
+      },
+      "artists": [
+        {
+          "name": "Samuel Mizrahy",
+          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 247746,
+      "name": "Mais Que Vencedor",
+      "url": "https://open.spotify.com/track/4SXBM1ozlACNvNSGS4iFlL"
     },
     {
       "added_at": "2024-10-16 04:01:47",

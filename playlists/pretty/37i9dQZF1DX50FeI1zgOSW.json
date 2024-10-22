@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall",
-  "num_followers": 13263,
+  "num_followers": 13271,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxOjBAAAAAA9Vca8Cm3TF1+7myNCTg14",
+  "snapshot_id": "ZxX2ngAAAAAE6XlAM7fuWk88tadWfDXA",
   "tracks": [
     {
       "added_at": "2024-08-23 05:09:28",
@@ -149,6 +149,22 @@
       "url": "https://open.spotify.com/track/4OpEEHX7cOWneBcvhQxVD5"
     },
     {
+      "added_at": "2024-10-18 04:57:06",
+      "album": {
+        "name": "Inidhai",
+        "url": "https://open.spotify.com/album/7BqfCxTAUt9Dnowv2za6pC"
+      },
+      "artists": [
+        {
+          "name": "Sandhya Chari",
+          "url": "https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Inidhai",
+      "url": "https://open.spotify.com/track/0uYwGSjdw4xpIVMppngaOM"
+    },
+    {
       "added_at": "2024-09-19 11:35:34",
       "album": {
         "name": "Thodarum Intha Payanam",
@@ -223,7 +239,7 @@
     {
       "added_at": "2024-09-19 11:30:22",
       "album": {
-        "name": "Morattu School - From \"Think Indie\"",
+        "name": "Morattu School (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/3YZA8jwPh9YHz8d6ycrIUz"
       },
       "artists": [
@@ -255,22 +271,6 @@
       "duration_ms": 212000,
       "name": "Morattu School - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/1IPTaRV1I8lAY5QoduIE4K"
-    },
-    {
-      "added_at": "2024-10-18 04:57:06",
-      "album": {
-        "name": "Inidhai",
-        "url": "https://open.spotify.com/album/7BqfCxTAUt9Dnowv2za6pC"
-      },
-      "artists": [
-        {
-          "name": "Sandhya Chari",
-          "url": "https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Inidhai",
-      "url": "https://open.spotify.com/track/0uYwGSjdw4xpIVMppngaOM"
     },
     {
       "added_at": "2024-10-04 05:12:27",
@@ -481,7 +481,7 @@
         },
         {
           "name": "Nalini Vittobane",
-          "url": "https://open.spotify.com/artist/2pjoz2hSTb0TtHh9xbnyAN"
+          "url": "https://open.spotify.com/artist/5imil4usnuFDZ320XNEHt3"
         },
         {
           "name": "ADY KRIZ",

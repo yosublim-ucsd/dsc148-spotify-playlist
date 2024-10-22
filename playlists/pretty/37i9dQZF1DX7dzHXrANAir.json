@@ -1,6 +1,6 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Lara Somogyi.",
-  "num_followers": 113650,
+  "num_followers": 113694,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/2wz27a9CrwZf9Kgu6PgWq2"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 124451,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/297ZF3Zp0VFLY21qZ4bQ6W"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "Un r\u00eave blanc",
         "url": "https://open.spotify.com/album/5FMdaxHAacLY86UUx0ZsgU"
       },
@@ -215,7 +199,23 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "La Recherche - Piano Solo Version",
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2wz27a9CrwZf9Kgu6PgWq2"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 124451,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/297ZF3Zp0VFLY21qZ4bQ6W"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "La Recherche (Piano Solo Version)",
         "url": "https://open.spotify.com/album/3f22ZwmFXLpwfEpvfnAus9"
       },
       "artists": [
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 280625,
-      "name": "Who Tends a Garden",
-      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "On Giacometti",
         "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 353200,
       "name": "Time",
       "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 280625,
+      "name": "Who Tends a Garden",
+      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -671,6 +671,66 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
+        "name": "Abu Simbel (Hania Rani Invalides Version)",
+        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 339082,
+      "name": "Abu Simbel - Hania Rani Invalides Version",
+      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "Post-Svalbard",
+        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Robert Lippok",
+          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
+        }
+      ],
+      "duration_ms": 270874,
+      "name": "Season Shifting - Robert Lippok Rework",
+      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "Reimagined. Volume 2, Chapter 3",
+        "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        },
+        {
+          "name": "Mercan Dede",
+          "url": "https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY"
+        }
+      ],
+      "duration_ms": 423047,
+      "name": "Nuvole Bianche - Reimagined by Mercan Dede",
+      "url": "https://open.spotify.com/track/2aqhXN3IEdTOoNP9wWCPsQ"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
         "name": "Next Winter",
         "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
       },
@@ -699,66 +759,6 @@
       "duration_ms": 197346,
       "name": "Moving Slowly",
       "url": "https://open.spotify.com/track/596oi0xDA9ZQIHTLJr1Zg6"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
-        "name": "Abu Simbel (Hania Rani Invalides Version)",
-        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 339082,
-      "name": "Abu Simbel - Hania Rani Invalides Version",
-      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
-        "name": "Reimagined. Volume 2, Chapter 3",
-        "url": "https://open.spotify.com/album/6iyXg5JupzZxpAeyNXkOdw"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        },
-        {
-          "name": "Mercan Dede",
-          "url": "https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY"
-        }
-      ],
-      "duration_ms": 423047,
-      "name": "Nuvole Bianche - Reimagined by Mercan Dede",
-      "url": "https://open.spotify.com/track/2aqhXN3IEdTOoNP9wWCPsQ"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
-        "name": "Post-Svalbard",
-        "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        },
-        {
-          "name": "Robert Lippok",
-          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
-        }
-      ],
-      "duration_ms": 270874,
-      "name": "Season Shifting - Robert Lippok Rework",
-      "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "hundred00",
-        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 289210,
-      "name": "hundred00",
-      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "Unfold (XXIM:EXPO #2)",
         "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 323855,
       "name": "Circle 23 - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/6Rk40KBJsfnmmQbg3R35VY"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "hundred00",
+        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -991,34 +991,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Elv",
-        "url": "https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu"
-      },
-      "artists": [
-        {
-          "name": "ABBOTT",
-          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
-        },
-        {
-          "name": "Canea Quartett",
-          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
-        },
-        {
-          "name": "Ruben Jeyasundaram",
-          "url": "https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2"
-        },
-        {
-          "name": "Vocaal Ensemble Cordier",
-          "url": "https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "Drang",
-      "url": "https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "Sound Visions",
         "url": "https://open.spotify.com/album/5KAesCstHxKn5TA4qQL6HB"
       },
@@ -1063,22 +1035,26 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Canto Ostinato",
-        "url": "https://open.spotify.com/album/6nRzGIFEUCxf19vdEdZEZ5"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu"
       },
       "artists": [
         {
-          "name": "Simeon ten Holt",
-          "url": "https://open.spotify.com/artist/0aU7GVdY5SUzQ0dBObFK57"
+          "name": "ABBOTT",
+          "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
         },
         {
-          "name": "Erik Hall",
-          "url": "https://open.spotify.com/artist/32XidxH0N45E1SLV6AhJwB"
+          "name": "Vocaal Ensemble Cordier",
+          "url": "https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr"
+        },
+        {
+          "name": "Ruben Jeyasundaram",
+          "url": "https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2"
         }
       ],
-      "duration_ms": 776394,
-      "name": "Sections 1-16",
-      "url": "https://open.spotify.com/track/7uBH8LGTreuwZZ7fr8K6N0"
+      "duration_ms": 199106,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -1179,6 +1155,26 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
+        "name": "Canto Ostinato",
+        "url": "https://open.spotify.com/album/6nRzGIFEUCxf19vdEdZEZ5"
+      },
+      "artists": [
+        {
+          "name": "Simeon ten Holt",
+          "url": "https://open.spotify.com/artist/0aU7GVdY5SUzQ0dBObFK57"
+        },
+        {
+          "name": "Erik Hall",
+          "url": "https://open.spotify.com/artist/32XidxH0N45E1SLV6AhJwB"
+        }
+      ],
+      "duration_ms": 776394,
+      "name": "Sections 1-16",
+      "url": "https://open.spotify.com/track/7uBH8LGTreuwZZ7fr8K6N0"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
         "name": "Retour",
         "url": "https://open.spotify.com/album/5BNb3OCOvRL3LBuNi4KuM8"
       },
@@ -1219,8 +1215,8 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu"
+        "name": "Elv",
+        "url": "https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu"
       },
       "artists": [
         {
@@ -1228,17 +1224,21 @@
           "url": "https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt"
         },
         {
-          "name": "Vocaal Ensemble Cordier",
-          "url": "https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr"
+          "name": "Canea Quartett",
+          "url": "https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe"
         },
         {
           "name": "Ruben Jeyasundaram",
           "url": "https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2"
+        },
+        {
+          "name": "Vocaal Ensemble Cordier",
+          "url": "https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr"
         }
       ],
-      "duration_ms": 199106,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R"
+      "duration_ms": 161933,
+      "name": "Drang",
+      "url": "https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Mia",
-        "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
-      },
-      "artists": [
-        {
-          "name": "Wide Eyed",
-          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
-        }
-      ],
-      "duration_ms": 208307,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "We Could Stay",
         "url": "https://open.spotify.com/album/1H2N1aTT8g9zwzD3Nqui0w"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 217194,
       "name": "We Could Stay",
       "url": "https://open.spotify.com/track/1EBTOlVfjhxt5jipMekMZQ"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "Mia",
+        "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
+      },
+      "artists": [
+        {
+          "name": "Wide Eyed",
+          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
+        }
+      ],
+      "duration_ms": 208307,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
-        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
-      },
-      "artists": [
-        {
-          "name": "Laura Masotto",
-          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
-        },
-        {
-          "name": "Matteo Zanferrari",
-          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
-        }
-      ],
-      "duration_ms": 243431,
-      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
-      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "In Memory Of A Honey Bee",
         "url": "https://open.spotify.com/album/0UxXgN6snQJUtGzO4my3cP"
       },
@@ -1547,6 +1527,26 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
+        "name": "Sh\u00e9h\u00e9razade (Laura Masotto Rework)",
+        "url": "https://open.spotify.com/album/5JK04NWnzGsY9ramCSdo7q"
+      },
+      "artists": [
+        {
+          "name": "Laura Masotto",
+          "url": "https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd"
+        },
+        {
+          "name": "Matteo Zanferrari",
+          "url": "https://open.spotify.com/artist/4274KaaJqeDNB7io0Re3qj"
+        }
+      ],
+      "duration_ms": 243431,
+      "name": "Sh\u00e9h\u00e9razade - Laura Masotto Rework",
+      "url": "https://open.spotify.com/track/4ZKoLAjGLLLwKFBADGh2SO"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
         "name": "Thaw",
         "url": "https://open.spotify.com/album/1iM5rggZglIiV4ISx0HBG7"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 214000,
       "name": "Thaw",
       "url": "https://open.spotify.com/track/63FVStUF6Dk6UGjkjmOsLU"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "4nine",
+        "url": "https://open.spotify.com/album/1yQ94KpsFxIgr1AbbNsmLl"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "4nine",
+      "url": "https://open.spotify.com/track/6Vv6v5zjW5rAiSlpEVQxjy"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -1583,22 +1599,6 @@
       "duration_ms": 182212,
       "name": "Gabriel - Tom Player Strings Version",
       "url": "https://open.spotify.com/track/5wPWz3tdfiW2ZDRHEFpgjN"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
-        "name": "4nine",
-        "url": "https://open.spotify.com/album/1yQ94KpsFxIgr1AbbNsmLl"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "4nine",
-      "url": "https://open.spotify.com/track/6Vv6v5zjW5rAiSlpEVQxjy"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "The Wind (Deluxe)",
-        "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Scoring Berlin",
-          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
-        }
-      ],
-      "duration_ms": 133335,
-      "name": "Nos - C.B. Rework",
-      "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "Classical Garden",
         "url": "https://open.spotify.com/album/5hSeTmPGplQl7AvLjPzEqS"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 215760,
       "name": "Gnossienne N\u00b03 (Variation)",
       "url": "https://open.spotify.com/track/4CFmGRGcMY9OP4XESg8CqM"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "The Wind (Deluxe)",
+        "url": "https://open.spotify.com/album/0o9rSszHt4kikYbAPtlokj"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Scoring Berlin",
+          "url": "https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke"
+        }
+      ],
+      "duration_ms": 133335,
+      "name": "Nos - C.B. Rework",
+      "url": "https://open.spotify.com/track/1zVbL4ZCLbEE8fmVl881Gj"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "instead",
-        "url": "https://open.spotify.com/album/3yquYFDUSDni0ZADpSkKyi"
-      },
-      "artists": [
-        {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
-        }
-      ],
-      "duration_ms": 211448,
-      "name": "instead",
-      "url": "https://open.spotify.com/track/3GTPunixb7sqIF3D20TrvQ"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "Pelikan (Aukai Rework)",
         "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 332633,
       "name": "Pelikan - Aukai Rework",
       "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "instead",
+        "url": "https://open.spotify.com/album/3yquYFDUSDni0ZADpSkKyi"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 211448,
+      "name": "instead",
+      "url": "https://open.spotify.com/track/3GTPunixb7sqIF3D20TrvQ"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -2055,6 +2055,30 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
+        "name": "Philip Glass: Etude No.2 Reworked",
+        "url": "https://open.spotify.com/album/4tUm9dqxJp0E77i2IU1rLL"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "AVR",
+          "url": "https://open.spotify.com/artist/3NHrUfg7qWM2H9UBwsr1bm"
+        },
+        {
+          "name": "Anna von Raison",
+          "url": "https://open.spotify.com/artist/2w099EQyT3f7SjtVfVLQX2"
+        }
+      ],
+      "duration_ms": 196875,
+      "name": "Etude No.2 Reworked",
+      "url": "https://open.spotify.com/track/4etZiHNHhhCxDPXMxo3d8A"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
         "name": "Variations",
         "url": "https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i"
       },
@@ -2091,30 +2115,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Philip Glass: Etude No.2 Reworked",
-        "url": "https://open.spotify.com/album/4tUm9dqxJp0E77i2IU1rLL"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "AVR",
-          "url": "https://open.spotify.com/artist/3NHrUfg7qWM2H9UBwsr1bm"
-        },
-        {
-          "name": "Anna von Raison",
-          "url": "https://open.spotify.com/artist/2w099EQyT3f7SjtVfVLQX2"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Etude No.2 Reworked",
-      "url": "https://open.spotify.com/track/4etZiHNHhhCxDPXMxo3d8A"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "Higher Ground",
         "url": "https://open.spotify.com/album/5QwPCN1Fn7WGvOUcjIsNlW"
       },
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
-      },
-      "artists": [
-        {
-          "name": "Mazoulew",
-          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Overture",
-      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "autre part",
         "url": "https://open.spotify.com/album/440SAo37XdbZL1gJpfOkit"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 190320,
       "name": "autre part",
       "url": "https://open.spotify.com/track/77Lhltr0ekivd0ZXDK9ESe"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/5cgLX8KMJaNvS6WQaMXHwY"
+      },
+      "artists": [
+        {
+          "name": "Mazoulew",
+          "url": "https://open.spotify.com/artist/2FXIGKBu3oLpuZkXq6bMgj"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Overture",
+      "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -2203,26 +2203,6 @@
       "duration_ms": 299428,
       "name": "knowledge",
       "url": "https://open.spotify.com/track/7g6zQwLazU2mBXhlXjPerU"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
-        "name": "False Sunset (Todd & Klein Rework)",
-        "url": "https://open.spotify.com/album/0g51tMtR6ktoyXnqTdSaqU"
-      },
-      "artists": [
-        {
-          "name": "Infralyd",
-          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
-        },
-        {
-          "name": "Todd & Klein",
-          "url": "https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz"
-        }
-      ],
-      "duration_ms": 187850,
-      "name": "False Sunset - Todd & Klein Rework",
-      "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -2315,6 +2295,26 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
+        "name": "False Sunset (Todd & Klein Rework)",
+        "url": "https://open.spotify.com/album/0g51tMtR6ktoyXnqTdSaqU"
+      },
+      "artists": [
+        {
+          "name": "Infralyd",
+          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
+        },
+        {
+          "name": "Todd & Klein",
+          "url": "https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz"
+        }
+      ],
+      "duration_ms": 187850,
+      "name": "False Sunset - Todd & Klein Rework",
+      "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/6aO1gdFx6L1opPvrrhuZKq"
       },
@@ -2327,6 +2327,26 @@
       "duration_ms": 251760,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/6CDj1eXhLas8xCY3M0ISOf"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "Notturno",
+        "url": "https://open.spotify.com/album/4jSkTWLz7MKophq1YSdPH1"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        },
+        {
+          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
+        }
+      ],
+      "duration_ms": 240810,
+      "name": "Notturno",
+      "url": "https://open.spotify.com/track/2jNfLVjnFpP9x1WdOfHErx"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -2371,22 +2391,18 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Notturno",
-        "url": "https://open.spotify.com/album/4jSkTWLz7MKophq1YSdPH1"
+        "name": "Ensemb7e",
+        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
       },
       "artists": [
         {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        },
-        {
-          "name": "\u00c1lfhei\u00f0ur Erla Gu\u00f0mundsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/7k9LWvLE4FnLTaxDM3LSUS"
+          "name": "Chapelier Fou",
+          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
         }
       ],
-      "duration_ms": 240810,
-      "name": "Notturno",
-      "url": "https://open.spotify.com/track/2jNfLVjnFpP9x1WdOfHErx"
+      "duration_ms": 318280,
+      "name": "Super Hexacordum - Ensemb7e Version",
+      "url": "https://open.spotify.com/track/6aL3anr4gLkHiPi9TM1PpJ"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -2403,22 +2419,6 @@
       "duration_ms": 151695,
       "name": "Wave",
       "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
-        "name": "Ensemb7e",
-        "url": "https://open.spotify.com/album/5WkgVPR0NRawFcM7avRhSU"
-      },
-      "artists": [
-        {
-          "name": "Chapelier Fou",
-          "url": "https://open.spotify.com/artist/60GLWP7xFH3OoN5XGpLBsd"
-        }
-      ],
-      "duration_ms": 318280,
-      "name": "Super Hexacordum - Ensemb7e Version",
-      "url": "https://open.spotify.com/track/6aL3anr4gLkHiPi9TM1PpJ"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -2443,26 +2443,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Where Do You Get Your Dreams From?",
-        "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
-      },
-      "artists": [
-        {
-          "name": "Sven Laux",
-          "url": "https://open.spotify.com/artist/1uOymh5ziYDMdP8NRtGk5q"
-        },
-        {
-          "name": "Logic Moon",
-          "url": "https://open.spotify.com/artist/3cqJW0hZR5efv5YWJKVMw8"
-        }
-      ],
-      "duration_ms": 405333,
-      "name": "Where Do You Get Your Dreams From?",
-      "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "Piano Day At the Rails (Live)",
         "url": "https://open.spotify.com/album/0ChXtnHr9x5MGZMDQAgOTH"
       },
@@ -2483,6 +2463,26 @@
       "duration_ms": 408480,
       "name": "Off the Rails - Live",
       "url": "https://open.spotify.com/track/0dHOX3Qq8d02ghAwaLu2lr"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "Where Do You Get Your Dreams From?",
+        "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
+      },
+      "artists": [
+        {
+          "name": "Sven Laux",
+          "url": "https://open.spotify.com/artist/1uOymh5ziYDMdP8NRtGk5q"
+        },
+        {
+          "name": "Logic Moon",
+          "url": "https://open.spotify.com/artist/3cqJW0hZR5efv5YWJKVMw8"
+        }
+      ],
+      "duration_ms": 405333,
+      "name": "Where Do You Get Your Dreams From?",
+      "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -2591,26 +2591,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Wandering II (Ed Carlsen Rework)",
-        "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        },
-        {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
-        }
-      ],
-      "duration_ms": 190754,
-      "name": "Wandering II - Ed Carlsen Rework",
-      "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/2PkwLM9JNzXPVwQxyizrZC"
       },
@@ -2627,6 +2607,26 @@
       "duration_ms": 234293,
       "name": "Reconnaissance Without End",
       "url": "https://open.spotify.com/track/7JIFJgMkEHvrasSXjoHBie"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "Wandering II (Ed Carlsen Rework)",
+        "url": "https://open.spotify.com/album/6LP0Q2lBETzwXzGTZyS9Ga"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        },
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+        }
+      ],
+      "duration_ms": 190754,
+      "name": "Wandering II - Ed Carlsen Rework",
+      "url": "https://open.spotify.com/track/23waihwNlV6zZsnwU3kXRW"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -2663,22 +2663,6 @@
       "duration_ms": 348400,
       "name": "Icaro - Remix",
       "url": "https://open.spotify.com/track/0XgTdKdvDqkfSIfGnBADNw"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
-        "name": "Entanglement",
-        "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
-      },
-      "artists": [
-        {
-          "name": "Rooydad",
-          "url": "https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Everything in Life is Vibration",
-      "url": "https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -2723,6 +2707,22 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
+        "name": "Entanglement",
+        "url": "https://open.spotify.com/album/1XA7cC70YV0SJQF75XvG8Q"
+      },
+      "artists": [
+        {
+          "name": "Rooydad",
+          "url": "https://open.spotify.com/artist/5XH1l6ObtoOBT3fZiRhNsF"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Everything in Life is Vibration",
+      "url": "https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
         "name": "Redivider",
         "url": "https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi"
       },
@@ -2759,42 +2759,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/0NqSd0skPzDkg79dGFCWP0"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        },
-        {
-          "name": "Ethan Haman",
-          "url": "https://open.spotify.com/artist/5qAcdITOuOW160RolyW8zr"
-        }
-      ],
-      "duration_ms": 499877,
-      "name": "Ending",
-      "url": "https://open.spotify.com/track/0knhlnjvPGxVpekHxWa8xD"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
-        "name": "to be found",
-        "url": "https://open.spotify.com/album/22kF6tbCqOGFwIT3ju5R6P"
-      },
-      "artists": [
-        {
-          "name": "Marius Nitzbon",
-          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "to be found",
-      "url": "https://open.spotify.com/track/4NgYCbbHYDpTRBcoxx9heK"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "The Misanthropes",
         "url": "https://open.spotify.com/album/77OEx1HTPgOzj8ikx9RZB0"
       },
@@ -2815,18 +2779,42 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Beautifully Lost Mind",
-        "url": "https://open.spotify.com/album/6cJ8PbiC1cNSV3RXFPKd52"
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/0NqSd0skPzDkg79dGFCWP0"
       },
       "artists": [
         {
-          "name": "John Hayes",
-          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        },
+        {
+          "name": "Ethan Haman",
+          "url": "https://open.spotify.com/artist/5qAcdITOuOW160RolyW8zr"
         }
       ],
-      "duration_ms": 175530,
-      "name": "Beautifully Lost Mind",
-      "url": "https://open.spotify.com/track/2afflyT076IFG1lyLWb9T6"
+      "duration_ms": 499877,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/0knhlnjvPGxVpekHxWa8xD"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Dale",
+          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
+        },
+        {
+          "name": "Joby Burgess",
+          "url": "https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2"
+        }
+      ],
+      "duration_ms": 428453,
+      "name": "Can't Sleep",
+      "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -2863,38 +2851,34 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Can't Sleep",
-        "url": "https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk"
+        "name": "Beautifully Lost Mind",
+        "url": "https://open.spotify.com/album/6cJ8PbiC1cNSV3RXFPKd52"
       },
       "artists": [
         {
-          "name": "Rebecca Dale",
-          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
-        },
-        {
-          "name": "Joby Burgess",
-          "url": "https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2"
+          "name": "John Hayes",
+          "url": "https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt"
         }
       ],
-      "duration_ms": 428453,
-      "name": "Can't Sleep",
-      "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
+      "duration_ms": 175530,
+      "name": "Beautifully Lost Mind",
+      "url": "https://open.spotify.com/track/2afflyT076IFG1lyLWb9T6"
     },
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Back to Loneliness",
-        "url": "https://open.spotify.com/album/14D0JjhFskg1DYYTE7yYQs"
+        "name": "to be found",
+        "url": "https://open.spotify.com/album/22kF6tbCqOGFwIT3ju5R6P"
       },
       "artists": [
         {
-          "name": "Tom Kinsella",
-          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
+          "name": "Marius Nitzbon",
+          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
         }
       ],
-      "duration_ms": 257152,
-      "name": "Back to Loneliness",
-      "url": "https://open.spotify.com/track/3EINacsRkPAISGv1a77VYV"
+      "duration_ms": 169750,
+      "name": "to be found",
+      "url": "https://open.spotify.com/track/4NgYCbbHYDpTRBcoxx9heK"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -2931,6 +2915,22 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
+        "name": "Back to Loneliness",
+        "url": "https://open.spotify.com/album/14D0JjhFskg1DYYTE7yYQs"
+      },
+      "artists": [
+        {
+          "name": "Tom Kinsella",
+          "url": "https://open.spotify.com/artist/3zmBYWcupp9ux1zvBDub8K"
+        }
+      ],
+      "duration_ms": 257152,
+      "name": "Back to Loneliness",
+      "url": "https://open.spotify.com/track/3EINacsRkPAISGv1a77VYV"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
         "name": "Oath",
         "url": "https://open.spotify.com/album/1vPCZ1h5SyB5DicmVcM7x3"
       },
@@ -2943,6 +2943,38 @@
       "duration_ms": 276033,
       "name": "Oath",
       "url": "https://open.spotify.com/track/5GHx3rKnPSrZLgHREGTW49"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "Step Step Step",
+        "url": "https://open.spotify.com/album/55h9YjJXPitJJOXPUSQy9p"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Aisha Burns",
+          "url": "https://open.spotify.com/artist/1AZoAl5rMnZWGNPGr88krQ"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Sam Gendel",
+          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
+        },
+        {
+          "name": "Jason Treuting",
+          "url": "https://open.spotify.com/artist/3vo9pILdfmYRxSiC21bMnT"
+        }
+      ],
+      "duration_ms": 241390,
+      "name": "Step Step Step",
+      "url": "https://open.spotify.com/track/0IVVjhVDmwhH0utEnVetFl"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -3015,34 +3047,18 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Step Step Step",
-        "url": "https://open.spotify.com/album/55h9YjJXPitJJOXPUSQy9p"
+        "name": "Critical Spirit (Live)",
+        "url": "https://open.spotify.com/album/39Mnio6xUJ9bmEacmj6SfS"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Aisha Burns",
-          "url": "https://open.spotify.com/artist/1AZoAl5rMnZWGNPGr88krQ"
-        },
-        {
-          "name": "Clarice Jensen",
-          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
-        },
-        {
-          "name": "Sam Gendel",
-          "url": "https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk"
-        },
-        {
-          "name": "Jason Treuting",
-          "url": "https://open.spotify.com/artist/3vo9pILdfmYRxSiC21bMnT"
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
         }
       ],
-      "duration_ms": 241390,
-      "name": "Step Step Step",
-      "url": "https://open.spotify.com/track/0IVVjhVDmwhH0utEnVetFl"
+      "duration_ms": 669726,
+      "name": "Critical Spirit - Live",
+      "url": "https://open.spotify.com/track/0hlFgnsQV1zPdCD9agrSc2"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -3063,22 +3079,6 @@
       "duration_ms": 291533,
       "name": "The Shadow Play",
       "url": "https://open.spotify.com/track/7bltf9bQDNCR8BWjqoJLnA"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
-        "name": "Critical Spirit (Live)",
-        "url": "https://open.spotify.com/album/39Mnio6xUJ9bmEacmj6SfS"
-      },
-      "artists": [
-        {
-          "name": "Luke Howard",
-          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
-        }
-      ],
-      "duration_ms": 669726,
-      "name": "Critical Spirit - Live",
-      "url": "https://open.spotify.com/track/0hlFgnsQV1zPdCD9agrSc2"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -3115,22 +3115,6 @@
     {
       "added_at": "2024-10-16 14:45:32",
       "album": {
-        "name": "Ticker Tape",
-        "url": "https://open.spotify.com/album/5jWx1AKkcTHSsbVZ4NAmvM"
-      },
-      "artists": [
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
-        }
-      ],
-      "duration_ms": 219185,
-      "name": "Ticker Tape",
-      "url": "https://open.spotify.com/track/0BcxviWZErROJx4uD0GN7w"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
         "name": "Grains of Gold",
         "url": "https://open.spotify.com/album/0Vecaj0BC8QYqMGhQLnDGF"
       },
@@ -3143,26 +3127,6 @@
       "duration_ms": 197360,
       "name": "Grains of Gold",
       "url": "https://open.spotify.com/track/5v7pQPsysLm14B8S8FjkZL"
-    },
-    {
-      "added_at": "2024-10-16 14:45:32",
-      "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M"
-      },
-      "artists": [
-        {
-          "name": "Pascal Schumacher",
-          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
-        },
-        {
-          "name": "Echo Collective",
-          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
-        }
-      ],
-      "duration_ms": 266785,
-      "name": "Charles Duke",
-      "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
     },
     {
       "added_at": "2024-10-16 14:45:32",
@@ -3187,6 +3151,42 @@
       "duration_ms": 403777,
       "name": "Double Sky",
       "url": "https://open.spotify.com/track/1Bs8JK94zPJ7UgJ16clWmx"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "Ticker Tape",
+        "url": "https://open.spotify.com/album/5jWx1AKkcTHSsbVZ4NAmvM"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 219185,
+      "name": "Ticker Tape",
+      "url": "https://open.spotify.com/track/0BcxviWZErROJx4uD0GN7w"
+    },
+    {
+      "added_at": "2024-10-16 14:45:32",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M"
+      },
+      "artists": [
+        {
+          "name": "Pascal Schumacher",
+          "url": "https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M"
+        },
+        {
+          "name": "Echo Collective",
+          "url": "https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S"
+        }
+      ],
+      "duration_ms": 266785,
+      "name": "Charles Duke",
+      "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
     }
   ],
   "unique_name": "Classical X",

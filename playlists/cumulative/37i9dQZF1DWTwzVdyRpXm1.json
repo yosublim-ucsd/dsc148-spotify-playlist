@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Best of South Asian Music. Cover: Anuv Jain",
+  "description": "Best of South Asian Music. Cover: Darshan Raval",
   "name": "Desi Hits",
   "tracks": [
     {
@@ -319,6 +319,36 @@
     },
     {
       "album": {
+        "name": "Stree 2",
+        "url": "https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228620,
+      "name": "Aaj Ki Raat",
+      "url": "https://open.spotify.com/track/1ICTQe3gvyPrLDdY44HKUK"
+    },
+    {
+      "album": {
         "name": "Aaj Ki Raat (From \"Stree 2\")",
         "url": "https://open.spotify.com/album/3UFJUJXBdfDRd2qRZ9ijyn"
       },
@@ -446,6 +476,40 @@
       "duration_ms": 289974,
       "name": "Aayi Aayi",
       "url": "https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK"
+    },
+    {
+      "album": {
+        "name": "Stree 2",
+        "url": "https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Pawan Singh",
+          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
+        },
+        {
+          "name": "Simran Choudhary",
+          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178780,
+      "name": "Aayi Nai",
+      "url": "https://open.spotify.com/track/7BdVecQ6n11Qn6m5L9WDBW"
     },
     {
       "album": {
@@ -1290,6 +1354,48 @@
       "duration_ms": 211666,
       "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET"
+    },
+    {
+      "album": {
+        "name": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
+        "url": "https://open.spotify.com/album/7A0AEPu9sqHZpSIDI1zLEM"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+        },
+        {
+          "name": "Dhrruv Yogi",
+          "url": "https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230080,
+      "name": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af"
     },
     {
       "album": {
@@ -2268,7 +2374,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 279107,
       "name": "Deva Deva (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/0IGXY47K2ha3AHfX57wY1O"
@@ -3120,7 +3226,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 217250,
       "name": "Gul",
       "url": "https://open.spotify.com/track/6ivemTXTn27PwVjtd0oqDs"
@@ -3568,7 +3674,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 198035,
       "name": "Jaanam (From \"Bad Newz\")",
       "url": "https://open.spotify.com/track/7bzR0C8NhnBA79iTXUCJ7o"
@@ -3744,7 +3850,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 208164,
       "name": "Jhoome Jo Pathaan",
       "url": "https://open.spotify.com/track/6FAYpZ4jve8vpvTwUvjK6H"
@@ -3932,7 +4038,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 311186,
       "name": "Kalank - Duet",
       "url": "https://open.spotify.com/track/4cAPxxUgQXiuJu3QRBGMGr"
@@ -4057,6 +4163,32 @@
     },
     {
       "album": {
+        "name": "Stree 2",
+        "url": "https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244583,
+      "name": "Khoobsurat",
+      "url": "https://open.spotify.com/track/1besAjT4S4E0TbBPulgqs2"
+    },
+    {
+      "album": {
         "name": "Khoobsurat (From \"Stree 2\")",
         "url": "https://open.spotify.com/album/6YuaX9U59YS0P7Jcel6BA6"
       },
@@ -4142,6 +4274,24 @@
       "duration_ms": 213344,
       "name": "Kinni Kinni",
       "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
+    },
+    {
+      "album": {
+        "name": "Out of Control",
+        "url": "https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241201,
+      "name": "Kinni Soni",
+      "url": "https://open.spotify.com/track/3PBOmHjLtrPcc6GU3jWu0v"
     },
     {
       "album": {
@@ -5673,6 +5823,24 @@
     },
     {
       "album": {
+        "name": "Out of Control",
+        "url": "https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "O Beliya",
+      "url": "https://open.spotify.com/track/2mdwuBtT1alepau9g6GwnC"
+    },
+    {
+      "album": {
         "name": "Dunki",
         "url": "https://open.spotify.com/album/6mOSDGo8ZREISAbaiTMW5J"
       },
@@ -6438,7 +6606,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 291462,
       "name": "Rait Zara Si (From \"Atrangi Re\")",
       "url": "https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi"
@@ -7781,6 +7949,24 @@
     },
     {
       "album": {
+        "name": "Tere Bina Na Guzara E",
+        "url": "https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV"
+      },
+      "artists": [
+        {
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Tere Bina Na Guzara E",
+      "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
+    },
+    {
+      "album": {
         "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
       },
@@ -8202,7 +8388,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 277500,
       "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/00ake6KfnzbZ2MaRLGqsyX"

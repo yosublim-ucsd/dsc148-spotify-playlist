@@ -1,12 +1,12 @@
 {
-  "description": "This Is H\u00e9ctor Lavoe. Los temas esenciales, todos en una lista.",
-  "num_followers": 161245,
+  "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
+  "num_followers": 161320,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAABAfCV62dZ4U3d4YGVUaBfh",
+  "snapshot_id": "ZxRIAAAAAABn9kBNFFyzsbblL5Y9+P+n",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 333480,
+      "name": "Hacha Y Machete",
+      "url": "https://open.spotify.com/track/4CJhWQrtCkppHhOtAZBjik"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Gran Fuga",
         "url": "https://open.spotify.com/album/5fY6IgtUM14tFh6iHwbT6l"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 263773,
       "name": "Abuelita",
       "url": "https://open.spotify.com/track/2N5H8pIB12voccA8FPEHZ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 333480,
-      "name": "Hacha Y Machete",
-      "url": "https://open.spotify.com/track/4CJhWQrtCkppHhOtAZBjik"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 275880,
-      "name": "Para\u00edso De Dulzura",
-      "url": "https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m"
+      "duration_ms": 402120,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/0sIS4B5SgYURmXGvYOZYKH"
     },
     {
       "added_at": null,
@@ -887,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 402120,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/0sIS4B5SgYURmXGvYOZYKH"
+      "duration_ms": 275880,
+      "name": "Para\u00edso De Dulzura",
+      "url": "https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m"
     },
     {
       "added_at": null,

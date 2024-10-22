@@ -2979,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "LYFESTYLE",
+        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174837,
+      "name": "B\u00cb QUIET (FEAT. KODAK BLACK)",
+      "url": "https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN"
+    },
+    {
+      "album": {
         "name": "Cake",
         "url": "https://open.spotify.com/album/7o28g2oX6BEE3dYWLttWyP"
       },

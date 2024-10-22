@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Bon Iver
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,648 likes - 95 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,645 likes - 95 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 59 | [Daniel](https://open.spotify.com/track/5kQFPEKaoZ6M1Ptnt2xlB8) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [Daniel](https://open.spotify.com/album/5T3BU6YIJtgaxo3sfrEYyD) | 3:53 |
 | 60 | [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 |
 | 61 | [Plant](https://open.spotify.com/track/6w1rQ82vsGF8zX9eock33Y) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Things We Have In Common](https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn) | 3:49 |
-| 62 | [Nothing ever stops me](https://open.spotify.com/track/6QzUlsc7K5iyY9lCEjUKOx) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD), [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Nothing ever stops me](https://open.spotify.com/album/6DTxwbv5viHypd3xU2wFNM) | 4:00 |
+| 62 | [Nothing ever stops me](https://open.spotify.com/track/6QzUlsc7K5iyY9lCEjUKOx) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD), [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Nothing ever stops me](https://open.spotify.com/album/6DTxwbv5viHypd3xU2wFNM) | 4:01 |
 | 63 | [Triangular Girl](https://open.spotify.com/track/0wUV3p2vihCeZhlUOromu7) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Triangular Girl](https://open.spotify.com/album/42AITX2Dsvv0A5Dv2Of2YU) | 3:31 |
 | 64 | [Samson](https://open.spotify.com/track/1qHSSAms5lVbBez5u0rjuQ) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Samson](https://open.spotify.com/album/5mSvgcJ3tYJDX3XxER0DRP) | 3:53 |
 | 65 | [Mountain out of a Molehill](https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Mountain out of a Molehill](https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j) | 3:25 |

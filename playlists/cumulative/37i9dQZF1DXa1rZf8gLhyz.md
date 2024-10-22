@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-592 songs - 1 day 6 hr 11 min
+594 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Floor 21](https://open.spotify.com/track/75rkXMCUU80CIjpgWADrdz) | [Joel Owen](https://open.spotify.com/artist/0ESPKqwnmULAnGy14BSiZJ) | [Floor 21](https://open.spotify.com/album/7uknfb6brZhOzIBaqEb4IS) | 2:05 | 2024-06-04 |  |
 | [Flowers in the Morning](https://open.spotify.com/track/7ASptgkRQrTgsQ8jrtoovk) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Flowers in the Morning](https://open.spotify.com/album/0tHJZJcfoSTqBZyec9bOOX) | 3:11 | 2024-01-05 |  |
 | [Flowers In Your Hair](https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Flowers In Your Hair](https://open.spotify.com/album/4QpiWdylsl910WJGVIBRku) | 2:24 | 2022-01-04 | 2024-09-04 |
+| [Flowers on the Table](https://open.spotify.com/track/6vf2tR31jh8qeQw0UwrllP) | [Morgan Meir](https://open.spotify.com/artist/7HdYC7Q87kENtjqLlTf6x9) | [Flowers on the Table](https://open.spotify.com/album/69J0xb5YVoHlM4LcS4CdUy) | 3:17 | 2024-10-21 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Fly Me To The Moon](https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2) | 2:31 | 2022-12-01 |  |
 | [For All We Know](https://open.spotify.com/track/46YHnrTI0ZmXBOclUDsbI3) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:14 | 2023-01-05 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/1Awk77fTG0Vf17KlekKECz) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [For Heaven's Sake](https://open.spotify.com/album/1QBGjJQnNFwrGxdyUuFsml) | 4:32 | 2021-12-07 | 2022-05-10 |
@@ -203,7 +204,7 @@
 | [Havent You Heard](https://open.spotify.com/track/5kCSDNccCehHIwki5T9lz3) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [Havent You Heard](https://open.spotify.com/album/1ffyAQynFHs2uCD4C6HY0t) | 2:46 | 2024-04-17 |  |
 | [Hear This Lullaby](https://open.spotify.com/track/4jNPUwtMdOi6uLqJvi4Tgl) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [Hear This Lullaby](https://open.spotify.com/album/1gPekjVyQYquvIe7uElfHp) | 2:29 | 2023-09-22 |  |
 | [Heartbreak Avenue](https://open.spotify.com/track/0ibXzDN3MG91YTyGUXJJSQ) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/2R2mL8rm0iWK58lNSuVufc) | 1:48 | 2023-04-20 | 2023-08-19 |
-| [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-23 |  |
+| [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-23 | 2024-10-22 |
 | [Henry Street](https://open.spotify.com/track/2JIH2zpgozNspbN2vVva9G) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Henry Street](https://open.spotify.com/album/2zjI2uq9viHy7dx1m9VBez) | 2:22 | 2023-03-02 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/08zG2Lrqlfp3ldWVzEbnjc) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Here's That Rainy Day](https://open.spotify.com/album/2BLTJotFjrXROaxkzPgqnh) | 4:19 | 2021-12-07 | 2022-12-02 |
 | [Here's That Rainy Day](https://open.spotify.com/track/6RSuiDuF8X8eNjXVFttxyT) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:20 | 2023-01-05 | 2024-10-09 |
@@ -408,7 +409,7 @@
 | [Playing Tricks](https://open.spotify.com/track/3wGDvlsozgULdVgDAyQhLK) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [Playing Tricks](https://open.spotify.com/album/0r6lJQlPlhHZQSG62M7eeD) | 2:58 | 2024-02-02 |  |
 | [Please, Stay](https://open.spotify.com/track/3kQAAjIpIMUtjEYkTiAX32) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Please, Stay](https://open.spotify.com/album/0jqSdbaSayvCUnm8irFAtv) | 2:30 | 2023-06-01 |  |
 | [Polka Dots And Moonbeams](https://open.spotify.com/track/6LP9BZW28pX0k7jimKZHwI) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [Polka Dots And Moonbeams](https://open.spotify.com/album/40pHngJ4KeyHmdnvr7GV21) | 3:45 | 2021-12-07 | 2022-09-15 |
-| [Polka Dots And Moonbeams](https://open.spotify.com/track/57vftsu5BB8muXDvzrMi0X) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Polka Dots And Moonbeams](https://open.spotify.com/album/5Zx45mRq599ivk5YMI55Gx) | 3:49 | 2023-03-30 |  |
+| [Polka Dots And Moonbeams](https://open.spotify.com/track/57vftsu5BB8muXDvzrMi0X) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Polka Dots And Moonbeams](https://open.spotify.com/album/5Zx45mRq599ivk5YMI55Gx) | 3:49 | 2023-03-30 | 2024-10-22 |
 | [Poor Butterfly](https://open.spotify.com/track/2k2f9UhPGsOToc03hreM1X) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [My Blue Heaven](https://open.spotify.com/album/0gdVpIK1SWCHzpFSaO34Bf) | 2:21 | 2023-06-08 |  |
 | [prelude to a kiss](https://open.spotify.com/track/4ulfmGNJizIr9ct2kj5bVE) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [prelude to a kiss](https://open.spotify.com/album/218dJkcubcykiRq5fUVovq) | 4:21 | 2021-12-07 | 2023-08-11 |
 | [Quebec](https://open.spotify.com/track/0JQjizdC8uucjdx8IogkZ3) | [Lucas Collins](https://open.spotify.com/artist/5DeLqcvjVG6JigTmkRrMHl) | [Quebec](https://open.spotify.com/album/7AfHXBL9mXhwptOXSXw0yz) | 2:50 | 2024-07-22 |  |
@@ -441,6 +442,7 @@
 | [September in the Rain](https://open.spotify.com/track/7u21y9GiZwaBvqtOeNqh3t) | [Francesca Marr](https://open.spotify.com/artist/1eq350rdehuYyP5bQCAoEd) | [Peace](https://open.spotify.com/album/6KUjUDDb3AEXXFPeXyzy6b) | 3:22 | 2021-12-07 | 2024-10-02 |
 | [September Song](https://open.spotify.com/track/0I4fzEcHoiQTuvWw928Z6C) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [September Song](https://open.spotify.com/album/6JnRwXgYca3ywxqOmhuR1B) | 3:17 | 2023-01-12 |  |
 | [Serevine](https://open.spotify.com/track/1U7fnO16fpCkir1Z8RDdt3) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Serevine](https://open.spotify.com/album/3tQ1FcoKMbTXPZkOmbkvIJ) | 2:05 | 2024-10-01 |  |
+| [Shades of Green](https://open.spotify.com/track/32eMU6GfkTm4O54vp4kvQG) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [Shades of Green](https://open.spotify.com/album/1E1JwoW26xtIsvqaXawu4T) | 3:04 | 2024-10-21 |  |
 | [She's Funny That Way](https://open.spotify.com/track/0ntMtObu5NMlzV17NSvhPg) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [She's Funny That Way](https://open.spotify.com/album/5yYAlWUjZX4PR2gHMaPyh6) | 2:23 | 2023-08-24 |  |
 | [Si nous vivons](https://open.spotify.com/track/5vtgdFd6HsxfCZaVfGElRP) | [Sholiha](https://open.spotify.com/artist/03bXfVH9PnjzravJ7UJpD4) | [Si nous vivons](https://open.spotify.com/album/1OFhNarYwv2I2Yig4xcwLT) | 3:56 | 2021-12-07 | 2023-05-12 |
 | [Silent Call](https://open.spotify.com/track/5rhov9NtT0zwqbLp7mcdba) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [Silent Call](https://open.spotify.com/album/0xLTLcBS1IsAcdxwfaaMbC) | 2:42 | 2024-02-09 |  |

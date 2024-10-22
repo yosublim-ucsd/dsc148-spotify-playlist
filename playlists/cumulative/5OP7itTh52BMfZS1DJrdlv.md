@@ -4,7 +4,7 @@
 
 > Celebrate the holiday season with 100 of the biggest Christmas songs in 2024 and beyond! Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul! 🎁 🎄
 
-114 songs - 5 hr 58 min
+115 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Lonely This Christmas](https://open.spotify.com/track/1pVbEGfj945M4TrRPWUPSm) | [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:33 | 2023-12-09 |  |
 | [Mary's Boy Child](https://open.spotify.com/track/2D0ACOH09uEKBAvImNSzsP) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:21 | 2023-12-09 | 2023-12-16 |
 | [mele malikimaka](https://open.spotify.com/track/16JQocflwZHEVZzI7i8fRo) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [Christmas Songs and Holiday Music](https://open.spotify.com/album/3UO62uREBii6wm3R3kX3vk) | 1:35 | 2023-12-09 |  |
-| [Merry Christmas](https://open.spotify.com/track/5PudLgyFZMHvtcI9qTs9Uf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:28 | 2023-12-09 |  |
+| [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2024-10-21 |  |
+| [Merry Christmas](https://open.spotify.com/track/5PudLgyFZMHvtcI9qTs9Uf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:28 | 2023-12-09 | 2024-10-22 |
 | [Merry Christmas Baby](https://open.spotify.com/track/1cOxg22X8lIVuB4MdF7v3j) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:35 | 2023-12-09 |  |
 | [Merry Christmas Darling](https://open.spotify.com/track/0sgg1TbWuzUTopDgB1ieS3) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:20 | 2023-12-09 |  |
 | [Merry Christmas Everyone \- 2005 \- Remaster](https://open.spotify.com/track/08m7d6eBPCzKVLdYzTDbNN) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Christmas Hits](https://open.spotify.com/album/1vu7E88Du7iTQHf9bW4bSn) | 3:40 | 2023-12-09 | 2023-12-20 |

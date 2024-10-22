@@ -2335,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "Vicious Pink (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0JkPB8WbjORO4cWnOkpOH0"
+      },
+      "artists": [
+        {
+          "name": "Vicious Pink",
+          "url": "https://open.spotify.com/artist/5De1ZtOD9ZUyckEjIKFXAi"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439026,
+      "name": "Cccan't You See - French Extended Mix",
+      "url": "https://open.spotify.com/track/6SJI5QVIGt4wdxzH6KKABw"
+    },
+    {
+      "album": {
         "name": "Istanbul 70: Psych, Disco, Folk Edits by Baris K - Vol. I",
         "url": "https://open.spotify.com/album/0pXdfQZDaBvjUtfpjo0dC0"
       },

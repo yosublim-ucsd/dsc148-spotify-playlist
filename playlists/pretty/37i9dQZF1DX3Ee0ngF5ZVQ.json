@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jenna Paulette",
-  "num_followers": 411005,
+  "num_followers": 411006,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Three Drinks Behind",
-        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Three Drinks Behind",
-      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Angels & Heathens",
         "url": "https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9"
       },
@@ -731,18 +715,34 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Start at the End",
-        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
+        "name": "Three Drinks Behind",
+        "url": "https://open.spotify.com/album/6BJw2pnVl1tV4xt4QAW82W"
       },
       "artists": [
         {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 208573,
-      "name": "Start at the End",
-      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
+      "duration_ms": 219026,
+      "name": "Three Drinks Behind",
+      "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "A Cat in the Rain",
+        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Chipping Mill",
+      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "A Cat in the Rain",
-        "url": "https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8"
+        "name": "Start at the End",
+        "url": "https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
         }
       ],
-      "duration_ms": 200930,
-      "name": "Chipping Mill",
-      "url": "https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID"
+      "duration_ms": 208573,
+      "name": "Start at the End",
+      "url": "https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Whole Lotta Lubbock",
-        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
+        "name": "Fast Horse",
+        "url": "https://open.spotify.com/album/5rzJOOitdymAh0vjArSSUz"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Blake Wood",
+          "url": "https://open.spotify.com/artist/5gTcKzwENiELKcVV9cFNox"
         }
       ],
-      "duration_ms": 192651,
-      "name": "Whole Lotta Lubbock",
-      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
+      "duration_ms": 181053,
+      "name": "Fast Horse",
+      "url": "https://open.spotify.com/track/4YljDe3g4jed583mu2XyaJ"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Fast Horse",
-        "url": "https://open.spotify.com/album/5rzJOOitdymAh0vjArSSUz"
+        "name": "Whole Lotta Lubbock",
+        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
       },
       "artists": [
         {
-          "name": "Blake Wood",
-          "url": "https://open.spotify.com/artist/5gTcKzwENiELKcVV9cFNox"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 181053,
-      "name": "Fast Horse",
-      "url": "https://open.spotify.com/track/4YljDe3g4jed583mu2XyaJ"
+      "duration_ms": 192651,
+      "name": "Whole Lotta Lubbock",
+      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
     },
     {
       "added_at": "2024-10-18 04:00:00",

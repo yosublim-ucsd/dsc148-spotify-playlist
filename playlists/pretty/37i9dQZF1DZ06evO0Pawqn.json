@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Tiranos Del Norte. Los temas esenciales, todos en una lista.",
-  "num_followers": 9465,
+  "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
+  "num_followers": 9468,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAAAqh67YD3ri/LuSRxgg2sq7",
+  "snapshot_id": "ZxRIAAAAAAA6CsZnb/nGwYukkb47SCbB",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 200150,
-      "name": "Para la Reina",
-      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos (En Vivo)",
         "url": "https://open.spotify.com/album/7pEcnufaP1g1YEEXHUEQM0"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 146920,
       "name": "Mares de Licor - En Vivo",
       "url": "https://open.spotify.com/track/0TEVzhoz8bTA6vhOLM7c2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 200150,
+      "name": "Para la Reina",
+      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
     },
     {
       "added_at": null,

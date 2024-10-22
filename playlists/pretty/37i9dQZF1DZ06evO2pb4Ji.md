@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,014 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,034 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 51 | [Against All Odds](https://open.spotify.com/track/2KLkZQEiZ8oEF4rsCEeOtr) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Jasmine Clarke](https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc) | [Against All Odds](https://open.spotify.com/album/1T8UBRTh7qPmhuBoAPiMtP) | 3:02 |
 | 52 | [Vi, the Piltover Enforcer \(Here Comes Vi\) \(From League of Legends: Season 2\)](https://open.spotify.com/track/7slAKPvgzuKgaTTQgrxWUd) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [The Music of League of Legends: Season 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/5tbKnlrYfWLOS2oDNVRG1I) | 2:41 |
 
-Snapshot ID: `ZxL2gAAAAACF76AtthV1DmE1tnRTMCZt`
+Snapshot ID: `ZxRIAAAAAAAHOhXx0IAVtRr5lh2mMPFB`

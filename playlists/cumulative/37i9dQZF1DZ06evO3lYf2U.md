@@ -2,7 +2,7 @@
 
 ### [This Is Central Cee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lYf2U)
 
-> This Is Central Cee\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Central Cee\. The essential tracks, all in one playlist.
 
 68 songs - 3 hr 31 min
 

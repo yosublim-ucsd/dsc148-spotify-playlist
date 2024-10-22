@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Lena&Linus
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,568 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,695 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Es regnet Sterne](https://open.spotify.com/track/0949DNBvJzGgDT8mtIGo9F) | [Lena&Linus](https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh), [Tim Tautorat](https://open.spotify.com/artist/04F7sUgAvncSBIiZZ1B1Re) | [Es regnet Sterne](https://open.spotify.com/album/0jvUUTyk06MvWg2txQmZgL) | 2:03 |
-| 2 | [3 buchstaben](https://open.spotify.com/track/7nH2cvTPsZWW7kJiCjCGxg) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Dominik Hartz](https://open.spotify.com/album/4MN9icGkGIMtEK216IfsBd) | 2:28 |
+| 2 | [Rosaroter Tee](https://open.spotify.com/track/4UKQ8zZQ92nTdxQpz6VrPv) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Rosaroter Tee](https://open.spotify.com/album/2iCOuFbNKkYnBxo3qY32r9) | 2:43 |
 | 3 | [Kaum Vertrauen](https://open.spotify.com/track/39n7eOnGuMHT5rHcB6XfSx) | [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [100Angst](https://open.spotify.com/album/1mzl3m2lukHd4BnDBK3b6b) | 3:47 |
-| 4 | [Zitter Nicht](https://open.spotify.com/track/0c5dQYCKXpwfwLcjsfbv48) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Zitter Nicht](https://open.spotify.com/album/2t3CQSGbWLzpSZIKMY43w0) | 2:53 |
-| 5 | [mein herz setzt aus\_v2](https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [harddrive2024](https://open.spotify.com/album/5Yf0rI6XnpwDrTAQQtnCCS) | 1:43 |
-| 6 | [Rosarote Brille](https://open.spotify.com/track/4xGLfAGlNJVvpC1X1lCWAf) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Rosarote Brille](https://open.spotify.com/album/6JcRxfywMvls60m7s9CXfb) | 3:52 |
-| 7 | [wir haben's überlebt](https://open.spotify.com/track/4N2xigWIV1NWcMe6HRdalt) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [wir haben's überlebt](https://open.spotify.com/album/7tUlb7DaDpS3PJT7t8X5DY) | 2:20 |
-| 8 | [Rosaroter Tee](https://open.spotify.com/track/4UKQ8zZQ92nTdxQpz6VrPv) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Rosaroter Tee](https://open.spotify.com/album/2iCOuFbNKkYnBxo3qY32r9) | 2:43 |
-| 9 | [liebe das](https://open.spotify.com/track/2fiGJgDY0OamG8wX0WaMnO) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [liebe das](https://open.spotify.com/album/65Y5EIAFfPvFIjHJy9CgIX) | 3:08 |
+| 4 | [Rosarote Brille](https://open.spotify.com/track/4xGLfAGlNJVvpC1X1lCWAf) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Rosarote Brille](https://open.spotify.com/album/6JcRxfywMvls60m7s9CXfb) | 3:52 |
+| 5 | [Zitter Nicht](https://open.spotify.com/track/0c5dQYCKXpwfwLcjsfbv48) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Zitter Nicht](https://open.spotify.com/album/2t3CQSGbWLzpSZIKMY43w0) | 2:53 |
+| 6 | [liebe das](https://open.spotify.com/track/2fiGJgDY0OamG8wX0WaMnO) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [liebe das](https://open.spotify.com/album/65Y5EIAFfPvFIjHJy9CgIX) | 3:08 |
+| 7 | [mein herz setzt aus\_v2](https://open.spotify.com/track/1yWQ5ur5gMQDZ5DivVnYeR) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [harddrive2024](https://open.spotify.com/album/5Yf0rI6XnpwDrTAQQtnCCS) | 1:43 |
+| 8 | [3 buchstaben](https://open.spotify.com/track/7nH2cvTPsZWW7kJiCjCGxg) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Dominik Hartz](https://open.spotify.com/album/4MN9icGkGIMtEK216IfsBd) | 2:28 |
+| 9 | [wir haben's überlebt](https://open.spotify.com/track/4N2xigWIV1NWcMe6HRdalt) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [wir haben's überlebt](https://open.spotify.com/album/7tUlb7DaDpS3PJT7t8X5DY) | 2:20 |
 | 10 | [zwischendrin verliebt](https://open.spotify.com/track/4cfEKx32p9CV07CfHWXXdT) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [zwischendrin verliebt](https://open.spotify.com/album/6nX8JYjiIt34TspNoUbczf) | 2:46 |
 | 11 | [ein Stück meiner Angst](https://open.spotify.com/track/7KaVLknQCWw0WlQTZLvcsn) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Unter meiner Haut, Pt\. II](https://open.spotify.com/album/3VXbvdgh1zPoVdRCMAagb3) | 2:10 |
 | 12 | [Da wo ich bin](https://open.spotify.com/track/2b0xpAXTDVmuT62dMpd06A) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Da wo ich bin](https://open.spotify.com/album/6B99ec0yFkuZynpFDRJ9zq) | 3:38 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 79 | [Zu viel / nicht genug](https://open.spotify.com/track/6ASKJH0Uam97httStG9YA5) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Zu viel / nicht genug](https://open.spotify.com/album/1s6GBzqf70afPLxYl0Leh2) | 2:36 |
 | 80 | [Alles wieder gut](https://open.spotify.com/track/3Mcn1p3V3mn6ei20gqRYzy) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/4205ekpRnekrI9dgDS3n4I) | 3:39 |
 
-Snapshot ID: `ZxI2HwAAAAA42pAl4k3RCSkc4I4f3ymv`
+Snapshot ID: `ZxZa6wAAAAC9noBcKfVPpTLGnyFhIX1/`

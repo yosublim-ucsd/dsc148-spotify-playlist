@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et?si=l\_E1EUSFQy6mw967zlio3Q"> Disclosure</a>'s favourite tracks\. Updated regularly\. Curated by Disclosure\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,589 likes - 36 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,598 likes - 36 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxYU7AgD3d7.md) - [plain]
 | 8 | [Sósia](https://open.spotify.com/track/7lSEldgwOg3nYjQm4SBSy1) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Sósia](https://open.spotify.com/album/1gjbbdW2LlKpZiT4uEZJuQ) | 3:37 |
 | 9 | [TAKA \- Caribou Remix](https://open.spotify.com/track/5vo0Cu8muNor0U1UM3AHVS) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [TAKA \(Caribou Remix\)](https://open.spotify.com/album/7Ez3fr9wboQAP5XDFKrDC5) | 3:57 |
 | 10 | [Close My Eyes](https://open.spotify.com/track/2GE2aAkkxmqZ54fu1tPiKG) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [Close My Eyes](https://open.spotify.com/album/47bXbkPmHSXxw2jv22cxBr) | 2:56 |
-| 11 | [Joy \- Romeo Louisa Remix](https://open.spotify.com/track/3sKCtBjPQgry2v1hKxWt0H) | [ZAV](https://open.spotify.com/artist/7JMxIns27HNPNaITjgOnzz), [Romeo Louisa](https://open.spotify.com/artist/6goz1NVwiidLsj9fronpBg) | [Joy \- Romeo Louisa Remix](https://open.spotify.com/album/2TxzRitLftnkHFpiC3QxYk) | 6:34 |
+| 11 | [Joy \- Romeo Louisa Remix](https://open.spotify.com/track/3sKCtBjPQgry2v1hKxWt0H) | [ZAV](https://open.spotify.com/artist/7JMxIns27HNPNaITjgOnzz), [Romeo Louisa](https://open.spotify.com/artist/6goz1NVwiidLsj9fronpBg) | [Joy \(Romeo Louisa Remix\)](https://open.spotify.com/album/2TxzRitLftnkHFpiC3QxYk) | 6:34 |
 | 12 | [So Derobe](https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [The Shrew Would Have Cushioned The Blow / So Derobe](https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B) | 6:10 |
 | 13 | [Happy Hippie Hifi](https://open.spotify.com/track/5GXbpn0CnZoLhRCuW4jJSu) | [X\_1](https://open.spotify.com/artist/15GI2y1ah2AK2mJkhdEqPg) | [À l'Ouest](https://open.spotify.com/album/0VvCFm9a37m3MTWtlaiS95) | 5:34 |
 | 14 | [Used To Do](https://open.spotify.com/track/71KzW0f2cFZC08F6QDPqAC) | [TØVEO](https://open.spotify.com/artist/7Js2jqajKjjsYbYdbVb7V6) | [Used To Do](https://open.spotify.com/album/1P5vYYQzsNG3ebeh6aOSEf) | 3:52 |

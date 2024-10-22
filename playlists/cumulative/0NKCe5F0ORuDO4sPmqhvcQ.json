@@ -6885,6 +6885,24 @@
     },
     {
       "album": {
+        "name": "DESIRE / LOOK@ME",
+        "url": "https://open.spotify.com/album/52r1SK4TQpxM9xbeGfeghU"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "LOOK@ME",
+      "url": "https://open.spotify.com/track/6a2qrecn3aKW8cy3sg8jMc"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v"
       },
@@ -10954,6 +10972,24 @@
       "duration_ms": 206043,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/1L6uwcEQ8YCP0ri17FoaBu"
+    },
+    {
+      "album": {
+        "name": "CHALLENGER (DELUXE)",
+        "url": "https://open.spotify.com/album/7G26mMpRGNpk0j8lpxXejl"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "SURFACING",
+      "url": "https://open.spotify.com/track/5xFgju1KjoNX3UACChHNJM"
     },
     {
       "album": {

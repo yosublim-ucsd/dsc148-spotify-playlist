@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 321154,
+  "num_followers": 321148,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "A Feeling",
-        "url": "https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe"
-      },
-      "artists": [
-        {
-          "name": "Hyzteria",
-          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 158809,
-      "name": "A Feeling",
-      "url": "https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "I Just Can't Get Enough 2024",
         "url": "https://open.spotify.com/album/2LMGCtC018PamOvkrB1IHA"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 200338,
       "name": "I Just Can't Get Enough 2024",
       "url": "https://open.spotify.com/track/5ysryf5WrO4iDe6hm6Cu8x"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "A Feeling",
+        "url": "https://open.spotify.com/album/3o6MpU8QYLyU9qT4FVBeZe"
+      },
+      "artists": [
+        {
+          "name": "Hyzteria",
+          "url": "https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd"
+        },
+        {
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
+        }
+      ],
+      "duration_ms": 158809,
+      "name": "A Feeling",
+      "url": "https://open.spotify.com/track/1nvRhgoRUx7cVqu2mTRDCu"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
+        "name": "Every Morning",
+        "url": "https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF"
+      },
+      "artists": [
+        {
+          "name": "Edd",
+          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
         "name": "ibiza2024",
         "url": "https://open.spotify.com/album/3XuLHIwHVAHvNQW3QSsLAx"
       },
@@ -1655,18 +1671,18 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Every Morning",
-        "url": "https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF"
+        "name": "Push That",
+        "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
       },
       "artists": [
         {
-          "name": "Edd",
-          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
+          "name": "Stoley",
+          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
         }
       ],
-      "duration_ms": 223384,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb"
+      "duration_ms": 205278,
+      "name": "Push That",
+      "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1687,22 +1703,6 @@
       "duration_ms": 210000,
       "name": "The Miracle Makers - Edit",
       "url": "https://open.spotify.com/track/0sqnuQkjkWjHjC5j7bgPo1"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
-        "name": "Push That",
-        "url": "https://open.spotify.com/album/1yCMePPdB5S7c8MKTudZZH"
-      },
-      "artists": [
-        {
-          "name": "Stoley",
-          "url": "https://open.spotify.com/artist/3zhrErhSD05oqdDKVs8UVR"
-        }
-      ],
-      "duration_ms": 205278,
-      "name": "Push That",
-      "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Earth Move Edit",
-        "url": "https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O"
-      },
-      "artists": [
-        {
-          "name": "Daire",
-          "url": "https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH"
-        }
-      ],
-      "duration_ms": 162043,
-      "name": "Earth Move Edit",
-      "url": "https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Tokyo",
         "url": "https://open.spotify.com/album/6P3ClrdsEcLsgkg7In975b"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 145565,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/3lCIcU6bHi5Yya1Ey5npdJ"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Earth Move Edit",
+        "url": "https://open.spotify.com/album/0P83Z68LJURLvfQHEDZU9O"
+      },
+      "artists": [
+        {
+          "name": "Daire",
+          "url": "https://open.spotify.com/artist/7uTwNY9jO55jBLlvEWrbkH"
+        }
+      ],
+      "duration_ms": 162043,
+      "name": "Earth Move Edit",
+      "url": "https://open.spotify.com/track/1QnpwwY1lbfEmwcHtSmtM6"
     },
     {
       "added_at": "2024-09-19 23:00:00",

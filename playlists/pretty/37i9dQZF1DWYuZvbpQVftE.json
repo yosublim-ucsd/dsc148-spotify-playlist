@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 30325,
+  "num_followers": 30360,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "The Latin Side Of Vince Guaraldi",
-        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Star Song",
-      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Chet is Back",
         "url": "https://open.spotify.com/album/7BsY0CO8mqyXnLf4KiB5AM"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 235133,
       "name": "Chetty's Lullaby",
       "url": "https://open.spotify.com/track/3CfVHLrRxTLDqGZA25w5Eh"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "The Latin Side Of Vince Guaraldi",
+        "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
+        "name": "Jazz Impressions Of Eurasia",
+        "url": "https://open.spotify.com/album/6r0rjJgC6VTKGn6gQv9VMs"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 411866,
+      "name": "Brandenburg Gate",
+      "url": "https://open.spotify.com/track/2hHMogPlvtE3i1TnUI5lmP"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 210213,
       "name": "Stand Still",
       "url": "https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "Jazz Impressions Of Eurasia",
-        "url": "https://open.spotify.com/album/6r0rjJgC6VTKGn6gQv9VMs"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 411866,
-      "name": "Brandenburg Gate",
-      "url": "https://open.spotify.com/track/2hHMogPlvtE3i1TnUI5lmP"
     },
     {
       "added_at": "2024-09-03 09:42:20",

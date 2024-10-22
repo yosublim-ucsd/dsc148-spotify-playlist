@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover:  FLEUR
 
-742 songs - 1 day 11 hr 45 min
+743 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Contigo](https://open.spotify.com/track/6r3AQNLSSqiSJQtRctbMSC) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Contigo](https://open.spotify.com/album/1fGfhBbKIxQ9MyMgFhZ9MF) | 2:54 | 2024-06-13 | 2024-06-17 |
 | [Cosmo](https://open.spotify.com/track/5afCDDxbZtG7iERMyuQVSa) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Cosmo](https://open.spotify.com/album/7xl5IiIPrmWSLBk3NCO9zt) | 2:19 | 2024-08-29 | 2024-10-11 |
 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 | 2023-11-16 | 2024-02-16 |
-| [Dag 100](https://open.spotify.com/track/0i3PSbgwPqoVlTOCHqFGeI) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Dag 100](https://open.spotify.com/album/4yZHNgq8Ob0FYhAxYjVPcX) | 2:36 | 2024-09-19 |  |
+| [Dag 100](https://open.spotify.com/track/0i3PSbgwPqoVlTOCHqFGeI) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Dag 100](https://open.spotify.com/album/4yZHNgq8Ob0FYhAxYjVPcX) | 2:36 | 2024-09-19 | 2024-10-22 |
+| [Dag 100 \- Remix](https://open.spotify.com/track/30XTmN6MdunHaidQLpLQ5k) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9), [Mees](https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI) | [Dag 100 \(Remix\)](https://open.spotify.com/album/6Y575niXqme5DkNfnyvdox) | 2:36 | 2024-10-21 |  |
 | [Dakkie Open](https://open.spotify.com/track/0AdtOEkY2yw0r4dU5nasSd) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Dakkie Open](https://open.spotify.com/album/4fdBY1p8awy4SvM1O9pbtB) | 3:14 | 2023-08-31 | 2023-10-13 |
 | [Dangerous](https://open.spotify.com/track/1CYCk63BLjz4sGA8coNU6u) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Dangerous](https://open.spotify.com/album/4gHZ6Z0tf7LVAwSt1SffdA) | 2:50 | 2024-01-11 | 2024-04-12 |
 | [Dans Alleen](https://open.spotify.com/track/4CKTU5XTIZkte54otjUUHl) | [Femme](https://open.spotify.com/artist/4xHoGYm3KcnoF0xBnUdk3z), [JAPS](https://open.spotify.com/artist/35yw9wvihj0hYFXfhRPZqc) | [Dans Alleen](https://open.spotify.com/album/5ItDnWqkTGUzyyGHFvpsnm) | 2:34 | 2024-02-22 | 2024-05-10 |

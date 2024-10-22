@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 
 > Unwind to some chilled and cozy acoustic Afropop jams
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,684 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,767 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5Sv12eISGT.md) - [plain]
 | 30 | [Scatter \(Acoustic\)](https://open.spotify.com/track/4O8EkIP1esg2G2QNbg8IFk) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Scatter \(Acoustic\)](https://open.spotify.com/album/2b6VV3uwFG2LBD7LwKEXqQ) | 3:06 |
 | 31 | [Pounds & Dollars \- Acoustic](https://open.spotify.com/track/4ef8LKtDwxS6HlCQenuUoR) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Pounds & Dollars \(Live\)](https://open.spotify.com/album/4y7GWjEodnSJhhsEvGeN9N) | 2:41 |
 | 32 | [Love Song \(Acoustic\)](https://open.spotify.com/track/4zrBLtNTCb5uja4KZGHBDt) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Happiness](https://open.spotify.com/album/5BVFDRZkkG8R3hgRdu5o3n) | 4:22 |
-| 33 | [A la croix \- Acoustique](https://open.spotify.com/track/1d5SiNWly8gJzCdZmf3eME) | [Choisie Basolua](https://open.spotify.com/artist/4c36LZgvN8Y5zqS8Pu4cA0) | [TEA \- Acoustique](https://open.spotify.com/album/3Jb1GBE6d5Cv4FjA4MIAV5) | 3:11 |
+| 33 | [A la croix \- Acoustique](https://open.spotify.com/track/1d5SiNWly8gJzCdZmf3eME) | [Choisie Basolua](https://open.spotify.com/artist/4c36LZgvN8Y5zqS8Pu4cA0) | [TEA \(Acoustique\)](https://open.spotify.com/album/3Jb1GBE6d5Cv4FjA4MIAV5) | 3:11 |
 | 34 | [Love Riddim \- Acoustic](https://open.spotify.com/track/0AfMCPjNR3eNmgvSQUFkFz) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Unplugged Sessions](https://open.spotify.com/album/77ja6H1LpEba345VgBT9DO) | 3:10 |
 | 35 | [nobody knows](https://open.spotify.com/track/1Bnm5dUpWfYNqeeqFlhEl1) | [malosh](https://open.spotify.com/artist/5Cg5h5rAVMPxZyc4TWNNDu) | [nobody knows](https://open.spotify.com/album/3tur9lSjtET194Kd5AZOfe) | 3:14 |
 | 36 | [Deserve \- Acoustic](https://open.spotify.com/track/3TAXKzopgG2RjZTshSDqLT) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Deserve \(Acoustic\)](https://open.spotify.com/album/5jy6d1Ird3zZGs5lgx48W5) | 2:57 |

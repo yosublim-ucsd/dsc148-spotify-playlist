@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Your Tech House therapy session for the dance floor \| Check out Bassline Therapy Radio on SoundCloud
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,001 likes - 70 songs - 3 hr 40 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,000 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 48 | [Everybody's Got to Learn Sometime](https://open.spotify.com/track/50ixUxOy4WLhdcUITYOyXo) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1) | [Everybody's Got to Learn Sometime](https://open.spotify.com/album/5233HXvjmNEuh5bwyOkzlt) | 3:13 |
 | 49 | [Disco Demon](https://open.spotify.com/track/70gCqv6JDkxEiqd0DzsLmv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Basura Boyz](https://open.spotify.com/artist/6uXRjtdaIEcmHTFil7N6Ux) | [Disco Demon](https://open.spotify.com/album/4gI8M9Uu9UbXCt7CT6bknP) | 2:35 |
 | 50 | [High](https://open.spotify.com/track/5mKFwrsNBhaRjvefLd1azY) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Vinter](https://open.spotify.com/artist/7kxIJLoHe2W8GFXSN17KWz) | [High](https://open.spotify.com/album/1KXGij9oegXwEbsx8jnXe8) | 3:00 |
-| 51 | [It Started In Chicago \- DONT BLINK Remix](https://open.spotify.com/track/7vWsAn1ebtMaolNfBLGXzx) | [Mixed Methods](https://open.spotify.com/artist/0P8W0L8S8BxbDw24mMFm1e), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [It Started In Chicago \- DONT BLINK Remix](https://open.spotify.com/album/2UpbJe13zGQQa1aFaYK8X4) | 3:35 |
+| 51 | [It Started In Chicago \- DONT BLINK Remix](https://open.spotify.com/track/7vWsAn1ebtMaolNfBLGXzx) | [Mixed Methods](https://open.spotify.com/artist/0P8W0L8S8BxbDw24mMFm1e), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [It Started In Chicago \(DONT BLINK Remix\)](https://open.spotify.com/album/2UpbJe13zGQQa1aFaYK8X4) | 3:35 |
 | 52 | [Shapeshifter](https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7) | [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Shapeshifter](https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM) | 3:10 |
 | 53 | [CMON](https://open.spotify.com/track/2CnyTL4x1DekvdJpZiOl7x) | [Joanna Magik](https://open.spotify.com/artist/29NQLXRVfQnoCPkYqs0Zoh) | [CMON](https://open.spotify.com/album/5nWCpLYRcxL33U40bb4aha) | 2:58 |
 | 54 | [DADDY KEEPS CALLING](https://open.spotify.com/track/1iue9j6pHYFdk8pR0ekLJS) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [DADDY KEEPS CALLING](https://open.spotify.com/album/3yceYuyQpneDvuHnkTR41C) | 2:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 69 | [212](https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [212](https://open.spotify.com/album/4J5YT80bIX48JsmtlKnhIB) | 2:18 |
 | 70 | [Turn Up](https://open.spotify.com/track/6FtzDS0fUVG0TJQY59jHy0) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Orient](https://open.spotify.com/artist/5J9PVF5TuLRuTujc8w5EXJ) | [Give Me EP](https://open.spotify.com/album/7d27tyYSvvLK7WXkAT6r5D) | 3:58 |
 
-Snapshot ID: `AAAZz8rvbfrOXQjybmIFSU93d2QgJNzw`
+Snapshot ID: `AAAZ0JlXoDFQXxM/MKhYhKEJ7pJ9K8Xt`

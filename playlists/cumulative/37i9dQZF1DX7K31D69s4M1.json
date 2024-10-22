@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 136000,
       "name": "a silent conversation",
       "url": "https://open.spotify.com/track/0P57HvwLXbtPnXUJ2viiOh"
@@ -2008,7 +2008,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 156784,
       "name": "Anywhere Else",
       "url": "https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 213400,
       "name": "Catch The Night In Marble - Hideyuki Hashimoto Rework",
       "url": "https://open.spotify.com/track/0ZcIrPjwN6XIjx3O5Ga90P"
@@ -5488,7 +5488,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 176250,
       "name": "Danse tout la nuit",
       "url": "https://open.spotify.com/track/3ja48XMPsI7C2TxHxS0UZQ"
@@ -14263,6 +14263,24 @@
     },
     {
       "album": {
+        "name": "Lightly",
+        "url": "https://open.spotify.com/album/1oCJH1dhSedRzZJUnWs4l2"
+      },
+      "artists": [
+        {
+          "name": "Mika Chastain",
+          "url": "https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127099,
+      "name": "Lightly",
+      "url": "https://open.spotify.com/track/3azv8GfmcsSNoqYQPed4wN"
+    },
+    {
+      "album": {
         "name": "Lijepo",
         "url": "https://open.spotify.com/album/11iMwmHlFoBBC90a6VK6Eq"
       },
@@ -15754,7 +15772,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 138673,
       "name": "mathilde",
       "url": "https://open.spotify.com/track/5iZp32nOmq9h1vIMVtjkAR"
@@ -20090,7 +20108,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 133000,
       "name": "petite valse",
       "url": "https://open.spotify.com/track/5TZ5OgfQaJGchkQtHDhMhs"
@@ -22258,7 +22276,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 149077,
       "name": "R\u00e9bus",
       "url": "https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6"
@@ -26864,7 +26882,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 129071,
       "name": "The Slow Down",
       "url": "https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G"
@@ -28704,7 +28722,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 138094,
       "name": "Up toward the sky",
       "url": "https://open.spotify.com/track/3Ukfmye33J4RSs0lOJFbFH"
@@ -30112,6 +30130,24 @@
       "duration_ms": 148625,
       "name": "Where The Clouds Go",
       "url": "https://open.spotify.com/track/1HNMaNRnCVbX3ZtW92QsyZ"
+    },
+    {
+      "album": {
+        "name": "Where We Belong",
+        "url": "https://open.spotify.com/album/1vw4pJwpVUdwqYH9m3mDqx"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183828,
+      "name": "Where We Belong",
+      "url": "https://open.spotify.com/track/7imtufjk7dfVd1dBpXxhT7"
     },
     {
       "album": {

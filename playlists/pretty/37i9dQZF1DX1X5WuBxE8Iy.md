@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X5WuBxE8Iy.md) - [plain]
 
 > Las mejores canciones de Princesas de Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,077 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,215 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X5WuBxE8Iy.md) - [plain]
 | 15 | [Saber volver](https://open.spotify.com/track/1W3Ec5DR3MTumKVz0W8ahL) | [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0), [Opetaia Foa'i](https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 2:22 |
 | 16 | [Colores en el Viento](https://open.spotify.com/track/7AsZ5WyFcF0vGRdkPl0F87) | [Susana Zavaleta](https://open.spotify.com/artist/5XOuR06r1s83I1YgX0BWDE) | [Pocahontas \(Banda Sonora Original en Español\)](https://open.spotify.com/album/1g8v8yll56NuzDysJYsxpS) | 3:33 |
 | 17 | [Un Mundo Ideal](https://open.spotify.com/track/3abaJIO6xhd6hFWgqqXXmZ) | [Analy](https://open.spotify.com/artist/4aSk2OaHOTGndh1DfTg42F), [Demian Bichir](https://open.spotify.com/artist/64QY3QAj4yJWXcpWuw9fMo) | [Aladdín \(Edición Especial/Banda Sonora Original en Español\)](https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk) | 2:40 |
-| 18 | [Mucho Más Allá](https://open.spotify.com/track/6UWaMec3jc3ESl5hfSaejU) | [Carmen Sarahi](https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \- Banda Sonora Original en Español/Edición Deluxe](https://open.spotify.com/album/1ltVI90usp38HOd7QmSSD2) | 3:14 |
+| 18 | [Mucho Más Allá](https://open.spotify.com/track/6UWaMec3jc3ESl5hfSaejU) | [Carmen Sarahi](https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Banda Sonora Original en Español/Edición Deluxe\)](https://open.spotify.com/album/1ltVI90usp38HOd7QmSSD2) | 3:14 |
 | 19 | [Llegaré](https://open.spotify.com/track/74pJGDsreytr8eTgaG2nGW) | [Paula Arias Esquivel](https://open.spotify.com/artist/5pESGTW9dtycz6kSk8cOmS) | [La Princesa y el sapo \(Banda Sonora Original en Español\)](https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe) | 2:26 |
 | 20 | [La Bella Y La Bestia](https://open.spotify.com/track/0kXW9pLeOQpzRlSLhdglM3) | [Norma Herrera](https://open.spotify.com/artist/0qm5UaAJIQeGpBekAa3ApA) | [La Bella y la Bestia](https://open.spotify.com/album/1gvcOpncxT71bZSKllfOvF) | 2:46 |
 | 21 | [Brillo](https://open.spotify.com/track/4RnN3TNgEKObmmrBbbTw9w) | [Dan Osorio](https://open.spotify.com/artist/0bQBooej9K9x0aJL6HM2QK) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 3:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Gli astri nascenti del pop italiano 🔮 Cover: Olly e Angelina Mango
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,805 likes - 91 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,811 likes - 91 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 39 | [Piazza Samba](https://open.spotify.com/track/4mxoVyaAfwUaGEmWaxk3WV) | [Yaraki](https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX) | [Piazza Samba](https://open.spotify.com/album/7hA7jB2SxONB4m4x9wj9K9) | 2:35 |
 | 40 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 |
 | 41 | [Passi da me](https://open.spotify.com/track/3Rg3LFsloXZFEhaksSlwJd) | [Claire](https://open.spotify.com/artist/0OsJZC3xowxZQkqTLEQknf) | [Passi da me](https://open.spotify.com/album/3qjZidZDnFMargdwXPeNkc) | 3:29 |
-| 42 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
+| 42 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
 | 43 | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/track/73L86FIIQk4iQBARHArhaA) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [B\-CROMA](https://open.spotify.com/artist/34woewpITSXZtVzNi9tAPS) | [Ghiaccio \(feat\. chiello\)](https://open.spotify.com/album/0D6bgRc96ZW45n5qTmZjZq) | 3:35 |
 | 44 | [kids never sleep](https://open.spotify.com/track/1W13VTyEXLviqjj2bMDJDd) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [kids never sleep](https://open.spotify.com/album/3Hux8afYu6wKMBFx1ZgHh0) | 3:15 |
 | 45 | [Perdonarci](https://open.spotify.com/track/03BBcJYJLyobrUtAA3p50I) | [Bianelle](https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g) | [Perdonarci](https://open.spotify.com/album/1fi0JDT6VMXOkJ0w6pHJCb) | 2:38 |

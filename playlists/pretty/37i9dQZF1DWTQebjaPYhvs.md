@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,659 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,900 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 89 | [Where Do Ya Want It\_](https://open.spotify.com/track/3vNkxik5j3ZhlNl7OxdiSW) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Whitey Morgan & The 78's](https://open.spotify.com/album/2KxxeQ7BWmAoR2fsVSmgPQ) | 2:45 |
 | 90 | [Gasoline](https://open.spotify.com/track/7GPTK0ueaymxm8UUvYyP2l) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Gasoline](https://open.spotify.com/album/4DtfJUBNYhBvh9ahqIsKsd) | 3:59 |
 | 91 | [Sleeping Dogs](https://open.spotify.com/track/0BPpBlrPuiFEzkQAAOAdez) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [The Whippoorwill](https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi) | 3:22 |
-| 92 | [Party Like You](https://open.spotify.com/track/30tNJbzSwy4FGyOJu4cD86) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Bury Me In My Boots \- Big Machine Radio Release Special](https://open.spotify.com/album/3UpMLqTSQhzYPunjM1oFYW) | 3:07 |
+| 92 | [Party Like You](https://open.spotify.com/track/30tNJbzSwy4FGyOJu4cD86) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Bury Me In My Boots \(Big Machine Radio Release Special\)](https://open.spotify.com/album/3UpMLqTSQhzYPunjM1oFYW) | 3:07 |
 | 93 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 |
 | 94 | [Dark Thoughts Ride](https://open.spotify.com/track/3lJgfrGHujVhRmU28KwQNa) | [Kevin Costner & Modern West](https://open.spotify.com/artist/3UKhW4CbRv9wZvfT5oodNH) | [Tales from Yellowstone](https://open.spotify.com/album/5vnnXCMIdQFJ2818PxJAt5) | 1:47 |
 | 95 | [Mamma Song](https://open.spotify.com/track/0v1U24PRkaqgPRq96mDE8k) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/1tzRfpfSIo3RWhCMCZnO19) | 4:19 |
@@ -187,7 +187,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 177 | [Shame Hurts the Most](https://open.spotify.com/track/7GvTrCLWBBDoE1cIhJxRVl) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 3:50 |
 | 178 | [All Choked Up Again](https://open.spotify.com/track/38wl30PS8GaNmwLblsQerL) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Junky Star](https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x) | 6:11 |
 | 179 | [Morning](https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Steady Now](https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY) | 4:22 |
-| 180 | [Claudia's Theme \- Version Eight](https://open.spotify.com/track/42KZ8Ico4auwb8jSijJtI1) | [Lennie Niehaus](https://open.spotify.com/artist/574GaJ6fESbIpMNPvL61Af), [Clint Eastwood](https://open.spotify.com/artist/5NfaORyb548xmt85LGHYFV) | [Unforgiven \- Original Motion Picture Soundtrack](https://open.spotify.com/album/6ae3Z1g2G35RSOFkHL3SBt) | 5:41 |
+| 180 | [Claudia's Theme \- Version Eight](https://open.spotify.com/track/42KZ8Ico4auwb8jSijJtI1) | [Lennie Niehaus](https://open.spotify.com/artist/574GaJ6fESbIpMNPvL61Af), [Clint Eastwood](https://open.spotify.com/artist/5NfaORyb548xmt85LGHYFV) | [Unforgiven \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ae3Z1g2G35RSOFkHL3SBt) | 5:41 |
 | 181 | [Burying Secrets](https://open.spotify.com/track/125nLemIP1mkNCUqigwUIP) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 3:23 |
 | 182 | [Forgiveness Don't Grow on Trees](https://open.spotify.com/track/63tNcmWrewtu8CFGwb0BmK) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Forgiveness Don't Grow on Trees](https://open.spotify.com/album/0x0K0Ct16p0HfYhJ0AxHJp) | 4:13 |
 | 183 | [Little Drummer Boy \- 2004 Remaster](https://open.spotify.com/track/5jsRxwEiaUZlvATkajITkU) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 4:01 |

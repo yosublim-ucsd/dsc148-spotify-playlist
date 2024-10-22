@@ -5371,6 +5371,24 @@
     },
     {
       "album": {
+        "name": "Endless Rain",
+        "url": "https://open.spotify.com/album/37G9jNIbXIQd96MhK2IqXp"
+      },
+      "artists": [
+        {
+          "name": "One True Pairing",
+          "url": "https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262500,
+      "name": "Endless Rain",
+      "url": "https://open.spotify.com/track/5xUMXs2MsIKGg9VwHBgyV0"
+    },
+    {
+      "album": {
         "name": "& the Charm",
         "url": "https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu"
       },
@@ -6558,6 +6576,28 @@
       "duration_ms": 302578,
       "name": "Funny",
       "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
+    },
+    {
+      "album": {
+        "name": "Galactic Romance (Kiva Kiva Versio)",
+        "url": "https://open.spotify.com/album/6UuQd9fdXpv3AeMRDo2P7i"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Eino Kalevi",
+          "url": "https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3"
+        },
+        {
+          "name": "Vezurro",
+          "url": "https://open.spotify.com/artist/02oufFxx8iLwRveBzq1vaE"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315373,
+      "name": "Galactic Romance - Kiva Kiva Versio",
+      "url": "https://open.spotify.com/track/27BDYTZ3MSkVkxaKShmzoQ"
     },
     {
       "album": {

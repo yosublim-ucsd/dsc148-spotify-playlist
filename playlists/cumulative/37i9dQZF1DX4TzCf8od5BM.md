@@ -2,7 +2,7 @@
 
 ### [Disney Junior Music](https://open.spotify.com/playlist/37i9dQZF1DX4TzCf8od5BM)
 
-> Sing\-along with your favorite songs from Disney Junior shows including new music from Ariel.
+> Sing\-along to your favorite songs from Disney Jr\. shows including music from SuperKitties.
 
 214 songs - 5 hr 33 min
 

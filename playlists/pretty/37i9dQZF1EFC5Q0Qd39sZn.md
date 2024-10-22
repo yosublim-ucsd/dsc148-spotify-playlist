@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,305 likes - 567 songs - 1 day 15 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,310 likes - 567 songs - 1 day 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 27 | [Don't Turn Around](https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:50 |
 | 28 | [I Could Not Ask for More](https://open.spotify.com/track/14J3PO0VnhtcRa31r7Aj1L) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Messenger](https://open.spotify.com/album/4DBeYVhZZiPNvpco55j8KW) | 4:33 |
 | 29 | [You Haven't Seen the Last of Me](https://open.spotify.com/track/0YJ1lyjvpA0H2srpim3y9U) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Closer to the Truth \(Super Deluxe Edition\)](https://open.spotify.com/album/4tXGGRLZGSU9RwbemiixAz) | 3:32 |
-| 30 | [Spanish Guitar](https://open.spotify.com/track/1ieouFxB2A3JjKEt1OoEiB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:49 |
-| 31 | [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 |
-| 32 | [Blame It on the Rain](https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Blame It On The Rain \(Sped Up\)](https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp) | 4:08 |
+| 30 | [Blame It on the Rain](https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Blame It On The Rain \(Sped Up\)](https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp) | 4:08 |
+| 31 | [Spanish Guitar](https://open.spotify.com/track/1ieouFxB2A3JjKEt1OoEiB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:49 |
+| 32 | [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 |
 | 33 | [How Can We Be Lovers](https://open.spotify.com/track/0ZUjPkZKjzRi6bgIuJovfY) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:55 |
 | 34 | [I'll Never Get Over You Getting Over Me \- 7" Version](https://open.spotify.com/track/5jPgOjFotU05FAgA8Y9IFL) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Exposé](https://open.spotify.com/album/4O0YlGNpMCAPXsWOiivJJd) | 3:50 |
 | 35 | [Look Away \- 2009 Remaster](https://open.spotify.com/track/2dEVFDQ9Z9Gyl73yhoKl65) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 19 \(Expanded Edition\)](https://open.spotify.com/album/1Z9Rlkd9LAYTZcU2TU7BZY) | 4:02 |
@@ -357,8 +357,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 347 | [The Day I Stop Loving You](https://open.spotify.com/track/38uNbRy3dodbNYx78I0Tuu) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:02 |
 | 348 | [All Your Attention](https://open.spotify.com/track/1oczBMCfGBDQeutRuSsgVO) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/4M8n7ibST6xGVllpqormRp) | 3:46 |
 | 349 | [Never Gonna Break My Heart Again](https://open.spotify.com/track/7BEg23J2vdnoAbQ46styWQ) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [Deborah Cox \(Expanded\)](https://open.spotify.com/album/2SM60rNc5lbJXIxe7Ru4Xd) | 4:10 |
-| 350 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
-| 351 | [There For Me](https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 4:14 |
+| 350 | [There For Me](https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 4:14 |
+| 351 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
 | 352 | [Couldn't Say Goodbye](https://open.spotify.com/track/0YSXgWm3oTCWIo7RSUg17X) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Carrying a Torch](https://open.spotify.com/album/0mtNKWJ7tZkESd0k36ei5c) | 3:50 |
 | 353 | [Ordinary Day](https://open.spotify.com/track/0SAOnCMebI87Oy3xUBHaGS) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [Ordinary Day](https://open.spotify.com/album/4Th3TOP5u65gHpVl8GLnJU) | 3:27 |
 | 354 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 |
@@ -576,4 +576,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 566 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 | 567 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 
-Snapshot ID: `AbfUSgAAAABKJ1O2vPL1CHhcKoi/jocl`
+Snapshot ID: `AbfZ6gAAAABRFLe9+0sYrBYqDnotoTXW`

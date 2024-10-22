@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-257 songs - 16 hr 47 min
+258 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [sigh](https://open.spotify.com/track/2fJ38mbJNnRtHwfQ1cgyjy) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 3:44 | 2022-05-11 | 2022-07-28 |
 | [Someday](https://open.spotify.com/track/5W3SrNE55U2N5kg2ygA1lx) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/685mm3HkTIAFJYRSpGJul8) | 4:18 | 2022-07-08 | 2024-04-19 |
 | [Someday](https://open.spotify.com/track/37ftzk7n72Ptu9GCaGJvjV) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/3X76n6xJw1e18AUp96SFa2) | 4:18 | 2022-05-11 | 2022-07-21 |
-| [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2024-02-21 |  |
+| [something](https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [something](https://open.spotify.com/album/1r0uVhqU6StuTuErudEs7s) | 3:38 | 2024-02-21 | 2024-10-22 |
 | [Something Like That](https://open.spotify.com/track/4hS3Ojb0MQUcLbud06tclD) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Something Like That](https://open.spotify.com/album/2De8ePlJ94yLK21qEIAmRg) | 4:19 | 2022-06-13 | 2022-06-28 |
 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 | 2023-10-16 |  |
 | [Starlight](https://open.spotify.com/track/60qrOUUJdPwH7ofxPMRZ11) | [We Young](https://open.spotify.com/artist/2KWA8WGIcCPLNX6HnPMnS4) | [Starlight](https://open.spotify.com/album/0D0h30fTGAWlzKwxPfY2PX) | 3:43 | 2022-05-11 | 2022-06-02 |
@@ -228,6 +228,7 @@
 | [The Wave](https://open.spotify.com/track/3hIuJmjKWDwfYdMxVwNaFQ) | [Woohwa](https://open.spotify.com/artist/61x5EzMf1pIdgTZ2trJ0de) | [WORSE : Amstelpark vol.4](https://open.spotify.com/album/0DlQRuV72empclT5uRjXMQ) | 3:30 | 2022-05-11 | 2022-06-03 |
 | [The Work Of Erasing You](https://open.spotify.com/track/13XmTLlsQvX8glN5sM2gfL) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The Work Of Erasing You](https://open.spotify.com/album/7w6PcIh2p6O2zPaymwCuXI) | 3:37 | 2023-03-29 | 2023-04-03 |
 | [This Love](https://open.spotify.com/track/1mh5s6XJ3RLJBRPErACsHW) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Descendants Of The Sun Pt.3 \(Original Television Soundtrack\)](https://open.spotify.com/album/3NnCgQwNBmXdppDt9PSpmu) | 3:45 | 2022-05-11 | 2024-08-11 |
+| [today was the day I wasn't loved by anyone](https://open.spotify.com/track/0Qxu0E9xrGC34Fouim1vdO) | [jungumul](https://open.spotify.com/artist/2UBgP3zLVbeYiHs8b5aLDb) | [today was the day I wasn't loved by anyone](https://open.spotify.com/album/4HQA1L58DfEhKQ2VKcVa6W) | 3:31 | 2024-09-02 |  |
 | [True Song](https://open.spotify.com/track/7hm4BYnceCuxlioLaKGiyW) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [True Song](https://open.spotify.com/album/6u0ZVFTvWEWfgvV3LySMgJ) | 4:30 | 2022-05-11 |  |
 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 | 2022-05-11 | 2022-07-28 |
 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 | 2022-10-04 |  |

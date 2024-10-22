@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Gracie Abrams",
-  "num_followers": 69974,
+  "num_followers": 69980,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live 2012",
-        "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "Viva La Vida - Live",
-      "url": "https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "BLACKPINK 2021 'THE SHOW' LIVE",
         "url": "https://open.spotify.com/album/3l1V6pEtFQLpbfAyfrSWhW"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 165993,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/7yAy2gL2rtatS56jzkakhr"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Live 2012",
+        "url": "https://open.spotify.com/album/2OkEsqGTfu8PWRrNHzfr0m"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "Viva La Vida - Live",
+      "url": "https://open.spotify.com/track/5ZV67iTfNpW3ueMCELLiSX"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -543,7 +543,7 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Serious Hits...Live! - 2019 Remaster",
+        "name": "Serious Hits...Live! (2019 Remaster)",
         "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
       },
       "artists": [
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "ATTENTION: MILEY LIVE",
-        "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
+        "name": "Best Song Ever (From THIS IS US)",
+        "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 234657,
-      "name": "Nothing Breaks Like a Heart - Live",
-      "url": "https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW"
+      "duration_ms": 267066,
+      "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
+      "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -683,6 +683,22 @@
       "duration_ms": 213026,
       "name": "ME! - Live From Paris",
       "url": "https://open.spotify.com/track/5fOV54t6mMYv3H9CsnvU81"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "ATTENTION: MILEY LIVE",
+        "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 234657,
+      "name": "Nothing Breaks Like a Heart - Live",
+      "url": "https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -731,22 +747,6 @@
       "duration_ms": 590120,
       "name": "Hung Up - Live",
       "url": "https://open.spotify.com/track/3ZjFsZkqkLlbzncALtnQLf"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Best Song Ever (From THIS IS US)",
-        "url": "https://open.spotify.com/album/7slbkjkfIPufuEa858735n"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Kiss You - Live Version From The Motion Picture \"One Direction: This Is Us\"",
-      "url": "https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
-        "name": "Live Friday The 13th",
-        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 379013,
-      "name": "She Will Be Loved - Live",
-      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 304973,
       "name": "For the First Time - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Live Friday The 13th",
+        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 379013,
+      "name": "She Will Be Loved - Live",
+      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-10-18 19:54:54",
       "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 262533,
+      "name": "Maps - Live In Manchester",
+      "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
         "name": "Before You Go EP",
         "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 256740,
       "name": "Treat You Better - Live",
       "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 262533,
-      "name": "Maps - Live In Manchester",
-      "url": "https://open.spotify.com/track/69UCc4p7AVm3FHUo6vKuYJ"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1279,22 +1279,6 @@
       "duration_ms": 256866,
       "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
       "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
-    },
-    {
-      "added_at": "2024-10-18 19:54:54",
-      "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 396565,
-      "name": "Stitches - Live",
-      "url": "https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj"
     },
     {
       "added_at": "2024-10-18 19:54:54",
@@ -1375,6 +1359,22 @@
       "duration_ms": 441666,
       "name": "Crazy - Live",
       "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
+    },
+    {
+      "added_at": "2024-10-18 19:54:54",
+      "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 396565,
+      "name": "Stitches - Live",
+      "url": "https://open.spotify.com/track/3ENMtKf4uiXt0XnUzr4FIj"
     },
     {
       "added_at": "2024-10-18 19:54:54",

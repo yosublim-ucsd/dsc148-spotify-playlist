@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Nabila Taqiyyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,309 likes - 111 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,354 likes - 111 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,13 +102,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 92 | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/track/3jki54XTyng7uExnmnniCW) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/album/5CNvbiMvaOaHmaQf2mNvOi) | 3:58 |
 | 93 | [Durasi](https://open.spotify.com/track/0OuVSjnPMcTjwIZUcrT6r4) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Kapal Udara](https://open.spotify.com/artist/5CvDGL6DI3YjfUujUZZa8f) | [Durasi](https://open.spotify.com/album/0iGH07DqyKm8emcyCj6FZ4) | 5:33 |
 | 94 | [LOVE ME LIKE YOU](https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [LOVE ME LIKE YOU](https://open.spotify.com/album/0kjnm700HNnAVp3S7TK2n8) | 3:02 |
-| 95 | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 |
+| 95 | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \(From "Laura Movie"\)](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 |
 | 96 | [Maling](https://open.spotify.com/track/4jzbofXDxLM1PLiLtdYoXf) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [dua lagu sebelum album dua](https://open.spotify.com/album/0HV5jxg6IaVu5MzVt92VvI) | 3:45 |
 | 97 | [Gemercik Asmara](https://open.spotify.com/track/3wA8KBsBcCkAAF9ZDZLkKQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Gemercik Asmara](https://open.spotify.com/album/2ORVC4aitj1kM2XqkDXnH8) | 3:51 |
 | 98 | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Tak Ada Waktu Tepat Untuk Berita Buruk](https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J) | 3:53 |
 | 99 | [Best Lesson](https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson Learned](https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8) | 4:25 |
 | 100 | [Eksplorasi](https://open.spotify.com/track/2WXmgTLLUbl13plXDLzSxQ) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Eksplorasi](https://open.spotify.com/album/1LfGaqBK7M3X0n7TyzRycI) | 3:01 |
-| 101 | [Lost Stars \- From "Laura Movie"](https://open.spotify.com/track/4KcG3ogn7rTXJzkErtyNKf) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Lost Stars \- From "Laura Movie"](https://open.spotify.com/album/7wB3zaQzNR5nXUynJqXLAL) | 4:39 |
+| 101 | [Lost Stars \- From "Laura Movie"](https://open.spotify.com/track/4KcG3ogn7rTXJzkErtyNKf) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Lost Stars \(From "Laura Movie"\)](https://open.spotify.com/album/7wB3zaQzNR5nXUynJqXLAL) | 4:39 |
 | 102 | [Burning Room](https://open.spotify.com/track/5bHhl4whMW8AiKojst05Z8) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Burning Room](https://open.spotify.com/album/3p7A55YRoa176Cc3MhBNpG) | 3:17 |
 | 103 | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/track/62PDVJCNyBicBG8SNjmqIA) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/album/2SO4bvyRmnNgOQbikwP8nl) | 3:26 |
 | 104 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 |

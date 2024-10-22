@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=\-lolQYq2SCWKitn0rvoHCA>EJ Newton</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,492 likes - 90 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,503 likes - 90 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 82 | [Praise Medley \(He Saved Me\) \[Live\]](https://open.spotify.com/track/4bszyWt6cCzflRHKsgBEir) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [Praise Medley \(He Saved Me\) \[Live\]](https://open.spotify.com/album/3CkcM31serWHyxPxFkUFz7) | 7:00 |
 | 83 | [Cover Me My Lord \- Instrumental Version](https://open.spotify.com/track/41TeLPXhbi5sDGflsH3rPI) | [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0), [ProfkayG](https://open.spotify.com/artist/1zgNCLCgzh2KoCMCbraX6O) | [Of The Gospel, House and AmaPiano, Vol\. 4: The Instrumentals](https://open.spotify.com/album/1NJfsED2jXjLSnpR8DFmxC) | 4:37 |
 | 84 | [Wait](https://open.spotify.com/track/0ZyGkZhsD22GreUxZpKk32) | [Emmanuel Itodo](https://open.spotify.com/artist/30sPdcPijVwu2HqvlzpnF9) | [Wait](https://open.spotify.com/album/6Q89xKqSNJwERqF4XA4Ary) | 5:52 |
-| 85 | [Only Hope \- Wonderful Project version](https://open.spotify.com/track/7AP9MkDjeQwflLYHEkjbP0) | [Castle Realm](https://open.spotify.com/artist/1A0ZygyRs9FUJnBY38HB6M) | [Only Hope \- Wonderful Project version](https://open.spotify.com/album/1iZz1X7kxNJawxCEUGLeFT) | 4:36 |
+| 85 | [Only Hope \- Wonderful Project version](https://open.spotify.com/track/7AP9MkDjeQwflLYHEkjbP0) | [Castle Realm](https://open.spotify.com/artist/1A0ZygyRs9FUJnBY38HB6M) | [Only Hope \(Wonderful Project version\)](https://open.spotify.com/album/1iZz1X7kxNJawxCEUGLeFT) | 4:36 |
 | 86 | [I Am Not Alone](https://open.spotify.com/track/6QZ3BwLFc0zWC1ob08v7tX) | [Tanner Wareham](https://open.spotify.com/artist/0PjEfAc4kotv7fU7OiNj9L), [Celia Wright](https://open.spotify.com/artist/0WdSGrvud2Hz4kEvIBJwOI) | [Soul Reflections](https://open.spotify.com/album/5CnPGhUGjHNbOcKFM79pTX) | 2:06 |
 | 87 | [God's Revelation](https://open.spotify.com/track/6AYzQdNjbuirpuGfUpzOHu) | [GSense](https://open.spotify.com/artist/7qgUUzBFjqC1i985gr2yz2) | [Alpha & Omega](https://open.spotify.com/album/1hp3PYdr8CXfQyAE1LD7f3) | 3:40 |
 | 88 | [Covenant Keeping God](https://open.spotify.com/track/5gzG5fb34R2ygk0Nafm2Qw) | [Joseph Godwin](https://open.spotify.com/artist/1DLhXAdXfertIv47pfKSHO) | [Covenant Keeping God](https://open.spotify.com/album/0M0h3nEvF06F4lwotFDzSY) | 3:39 |

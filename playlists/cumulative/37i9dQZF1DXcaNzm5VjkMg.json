@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "Aku Takdirmu",
+        "url": "https://open.spotify.com/album/6syB0IkH8vdpQBUQAnY25C"
+      },
+      "artists": [
+        {
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245086,
+      "name": "Aku Takdirmu",
+      "url": "https://open.spotify.com/track/7yDYXmJ8NAoYeVolXv9E5K"
+    },
+    {
+      "album": {
         "name": "Sheila On 7",
         "url": "https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7"
       },
@@ -2119,7 +2137,7 @@
     },
     {
       "album": {
-        "name": "Sekarang Esok Selamanya - From \"Laura Movie\"",
+        "name": "Sekarang Esok Selamanya (From \"Laura Movie\")",
         "url": "https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV"
       },
       "artists": [

@@ -1,15 +1,31 @@
 {
   "description": "\ud55c\uad6d\uc758 \uc7ac\ub2a5\uc788\ub294 \uc5ec\uc131 \uc544\ud2f0\uc2a4\ud2b8\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Listen Korea\u2019s talented female artists!) (Cover: ILLIT(\uc544\uc77c\ub9bf))",
-  "num_followers": 9454,
+  "num_followers": 9452,
   "original_name": "EQUAL Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvwWvgAAAADi+M6mDqkbUJosgqpIZYqs",
+  "snapshot_id": "ZxYnmQAAAABp+kawXv6bOnys40pxEjuS",
   "tracks": [
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
+      "album": {
+        "name": "I'LL LIKE YOU",
+        "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 176854,
+      "name": "Cherish (My Love)",
+      "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
+    },
+    {
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -25,23 +41,91 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 168104,
-      "name": "Midnight Fiction",
-      "url": "https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo"
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
+      "album": {
+        "name": "SYNK : PARALLEL LINE - Special Digital Single",
+        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "UP - KARINA Solo",
+      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
+    },
+    {
+      "added_at": "2024-10-21 10:06:17",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "added_at": "2024-10-21 10:06:17",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
+      "added_at": "2024-10-21 10:06:17",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "Get Loud",
+      "url": "https://open.spotify.com/track/7zi7dD55ORKCGEjDNwSa1n"
+    },
+    {
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Sticky",
         "url": "https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5"
@@ -57,55 +141,7 @@
       "url": "https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
-      "album": {
-        "name": "Midas Touch",
-        "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 162880,
-      "name": "Midas Touch",
-      "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
-    },
-    {
-      "added_at": "2024-10-01 15:35:26",
-      "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 178880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
-    },
-    {
-      "added_at": "2024-10-01 15:35:26",
-      "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
-    },
-    {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "How Sweet",
         "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
@@ -121,7 +157,7 @@
       "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "How Sweet",
         "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
@@ -137,7 +173,7 @@
       "url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "SCENEDROME",
         "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
@@ -153,7 +189,7 @@
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "SCENEDROME",
         "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
@@ -169,7 +205,7 @@
       "url": "https://open.spotify.com/track/7FzDMnwPhj6qdTT2PRaSYi"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "<Dall>",
         "url": "https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS"
@@ -185,7 +221,7 @@
       "url": "https://open.spotify.com/track/1iGNZerzZHm2GLu7k1OS3J"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "<Dall>",
         "url": "https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS"
@@ -201,7 +237,7 @@
       "url": "https://open.spotify.com/track/5biKl8Y9OosyY60PkACO1A"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "<ASSEMBLE24>",
         "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
@@ -217,7 +253,7 @@
       "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "<ASSEMBLE24>",
         "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
@@ -233,7 +269,7 @@
       "url": "https://open.spotify.com/track/0JPHdF3YB7CUo719qOmmwq"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Kep1going On",
         "url": "https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez"
@@ -249,7 +285,7 @@
       "url": "https://open.spotify.com/track/0k2JbfyqtVhiLqGgNuwQGX"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Kep1going On",
         "url": "https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez"
@@ -265,7 +301,7 @@
       "url": "https://open.spotify.com/track/0ICgVDEplakH6MI7ZNj1wG"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "COLOURS",
         "url": "https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm"
@@ -281,7 +317,7 @@
       "url": "https://open.spotify.com/track/6F5nwlaYT0TZatOHVMaBcZ"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "COLOURS",
         "url": "https://open.spotify.com/album/5Q1cKPuB4vPk8bIdfZH7Fm"
@@ -297,7 +333,7 @@
       "url": "https://open.spotify.com/track/3kHF06mERCHSLIq1AuSNdZ"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Fancy - Spotify Singles",
         "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
@@ -313,7 +349,7 @@
       "url": "https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "STAYDOM",
         "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "I-LAND2 : N/a - 1:1 POSITION BATTLE",
         "url": "https://open.spotify.com/album/7zjYgWfGErSNv1Zs2IGDGl"
@@ -345,7 +381,7 @@
       "url": "https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "I-LAND2 : N/a Signal Song (Applicants Version)",
         "url": "https://open.spotify.com/album/34esSejdtngmSozv4mZCUR"
@@ -361,7 +397,7 @@
       "url": "https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Bam Yang Gang",
         "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
@@ -377,7 +413,7 @@
       "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Mom's diary (Come travel with me, Mom? X BIBI) (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6D6N4Xzl6loh0KnPvF21it"
@@ -393,7 +429,7 @@
       "url": "https://open.spotify.com/track/3vt0EWPcaHJLmL51S3pjyT"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "LOOP",
         "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
@@ -409,7 +445,7 @@
       "url": "https://open.spotify.com/track/5Z3woeK4H1sTvLXnJAwaNI"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "LOOP",
         "url": "https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto"
@@ -429,7 +465,7 @@
       "url": "https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Attitude",
         "url": "https://open.spotify.com/album/10BUVVtnO0rZlbQBPJTrfj"
@@ -445,7 +481,7 @@
       "url": "https://open.spotify.com/track/4AYpLGpfO28geKxxxZ3ztu"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Attitude",
         "url": "https://open.spotify.com/album/10BUVVtnO0rZlbQBPJTrfj"
@@ -465,7 +501,7 @@
       "url": "https://open.spotify.com/track/1IsdrmsH4bxaE9VLjmUGf6"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "OVERSTEP",
         "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
@@ -481,7 +517,7 @@
       "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "OVERSTEP",
         "url": "https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ"
@@ -497,7 +533,7 @@
       "url": "https://open.spotify.com/track/7MGHY91IHRqbhm6w4tPhYp"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "I will be your spring",
         "url": "https://open.spotify.com/album/448LNgZWvCBdYxcaj3aECP"
@@ -513,7 +549,7 @@
       "url": "https://open.spotify.com/track/0J5YAnzuPSIypuQ7U4JqEH"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Plus n Minus",
         "url": "https://open.spotify.com/album/2ZJoZrfVVAKpt798ti3Qdc"
@@ -529,7 +565,7 @@
       "url": "https://open.spotify.com/track/0usiwkXqoWNX3yqGFfRBAu"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "1st Digital Single Album [PINKVERSE : Call Devil]",
         "url": "https://open.spotify.com/album/7GYxSS8H9pa6HPyUbcLcg6"
@@ -545,7 +581,7 @@
       "url": "https://open.spotify.com/track/49HACInfUGArUdinfesNCh"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "1st Digital Single Album [PINKVERSE : Call Devil]",
         "url": "https://open.spotify.com/album/7GYxSS8H9pa6HPyUbcLcg6"
@@ -561,7 +597,7 @@
       "url": "https://open.spotify.com/track/4MyxYIPy3tRUb370LCPvj1"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Fake Happy",
         "url": "https://open.spotify.com/album/3Yrgk8MqQG9YCUls0iSLHv"
@@ -577,7 +613,7 @@
       "url": "https://open.spotify.com/track/7z45AkgscpK9Vh5WyfF3iP"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Fake Happy",
         "url": "https://open.spotify.com/album/3Yrgk8MqQG9YCUls0iSLHv"
@@ -593,39 +629,7 @@
       "url": "https://open.spotify.com/track/3OC8JPoAhFyFt1o5VpP8MI"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
-      "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/7GvvvIC6U744OedOjuEIc2"
-      },
-      "artists": [
-        {
-          "name": "SOOJIN",
-          "url": "https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8"
-        }
-      ],
-      "duration_ms": 160920,
-      "name": "MONA LISA",
-      "url": "https://open.spotify.com/track/6Y4Nd3eqBtpR5t0w45OF6g"
-    },
-    {
-      "added_at": "2024-10-01 15:35:26",
-      "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/7GvvvIC6U744OedOjuEIc2"
-      },
-      "artists": [
-        {
-          "name": "SOOJIN",
-          "url": "https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8"
-        }
-      ],
-      "duration_ms": 136080,
-      "name": "RIZZ ME UP",
-      "url": "https://open.spotify.com/track/61zHiYlx921I8q8331Tlen"
-    },
-    {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "1st Mini Album 'MANITO'",
         "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
@@ -641,7 +645,7 @@
       "url": "https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "1st Mini Album 'MANITO'",
         "url": "https://open.spotify.com/album/58749dw7F011CU9lRmX0MO"
@@ -657,7 +661,7 @@
       "url": "https://open.spotify.com/track/3FoJ70aZmejxNw4rJQSmgo"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "XXL EP",
         "url": "https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl"
@@ -673,7 +677,7 @@
       "url": "https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "XXL EP",
         "url": "https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl"
@@ -689,7 +693,7 @@
       "url": "https://open.spotify.com/track/5hXwyTo7Ovh73ztJOsArsx"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
@@ -705,7 +709,7 @@
       "url": "https://open.spotify.com/track/5E7MmixrLwGiOvEkAybNpr"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw"
@@ -721,7 +725,7 @@
       "url": "https://open.spotify.com/track/4hREsUXQWtGHj6abwZnswK"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/7sp7Hn3y126PbO4s1RQwRb"
@@ -741,7 +745,7 @@
       "url": "https://open.spotify.com/track/4mcD6ATEodghiUStUKib5B"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "FLOWER",
         "url": "https://open.spotify.com/album/4PkvOK0vWqNxNxJlSXBRnk"
@@ -757,7 +761,7 @@
       "url": "https://open.spotify.com/track/34uUrBhqDqQs28Ac4fumRJ"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Orange Juice (feat. Yein)",
         "url": "https://open.spotify.com/album/78RZdUmBN2E3pUpLBHcUto"
@@ -777,7 +781,7 @@
       "url": "https://open.spotify.com/track/4NoKE4uoMbXUgKuCcfvuqv"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "RYU SU JEONG 1st Mini Album [Tiger Eyes]",
         "url": "https://open.spotify.com/album/4HHW42BPxobSoqn8P5sUGE"
@@ -793,7 +797,7 @@
       "url": "https://open.spotify.com/track/1boEZE7JfhFGU8ZhJOmoWF"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "2 Minutes",
         "url": "https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz"
@@ -809,7 +813,7 @@
       "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
     },
     {
-      "added_at": "2024-10-01 15:35:26",
+      "added_at": "2024-10-21 10:06:17",
       "album": {
         "name": "Foggy",
         "url": "https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN"

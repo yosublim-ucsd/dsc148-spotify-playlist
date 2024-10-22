@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  Joy Oladokun
 
-2,492 songs - 6 day 6 hr 33 min
+2,493 songs - 6 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1050,7 +1050,7 @@
 | [I'm Not Dyin' \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/6gClmJ0dRPWaBRuxDVj4K8) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I'm Not Dyin' \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/2Q1nWyzwV4uRZN3OaNWX0Q) | 3:22 | 2024-10-04 |  |
 | [I'm Not My Season \- Solstice Version](https://open.spotify.com/track/76IsL65w9IrYTMGzdTcE6A) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [A Very Lonely Solstice](https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h) | 3:10 | 2021-12-10 | 2022-02-26 |
 | [I'm Not Ok](https://open.spotify.com/track/7JyUaVuryNwyfNiHY0pJTb) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [I'm Not Ok](https://open.spotify.com/album/0U0cGZvvBNCFYD3zkqcKjh) | 3:15 | 2021-12-31 | 2022-03-12 |
-| [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \- Side B](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 | 2024-10-04 |  |
+| [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 | 2024-10-04 |  |
 | [I'm Only Human](https://open.spotify.com/track/5IeGnZ2mau02rC8jG1ODU1) | [Michaela Anne](https://open.spotify.com/artist/2k8aGdvE3NAchqmiplJANn) | [I'm Only Human](https://open.spotify.com/album/3DNr72MN82EeRwDdYs8gs9) | 2:55 | 2022-04-22 | 2022-04-29 |
 | [I'm over being cool](https://open.spotify.com/track/2ZC4pgEdVCpvTOWWllvGaH) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [I'm over being cool](https://open.spotify.com/album/6XiX9yAnsrBxdEaw6O7RQS) | 3:30 | 2023-03-24 | 2023-05-06 |
 | [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 | 2022-09-09 | 2022-11-12 |
@@ -1840,6 +1840,7 @@
 | [Sierra Vista](https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sierra Vista](https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr) | 2:35 | 2024-03-15 | 2024-05-11 |
 | [Signal Sender](https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Signal Sender](https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy) | 3:20 | 2023-07-28 | 2023-09-30 |
 | [silence,](https://open.spotify.com/track/6gIXFyfeHXanwtC5w6Ooz5) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [silence,](https://open.spotify.com/album/251r2PWSCJrFdZDmgxUuA1) | 2:47 | 2023-02-24 | 2023-05-13 |
+| [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 | 2024-10-21 |  |
 | [Silver Beaches](https://open.spotify.com/track/0tRVzLVwLYZmEEwyMz24xE) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Silver Beaches](https://open.spotify.com/album/1jcFUqJv7RmntukEnP7kM3) | 5:51 | 2023-08-11 | 2023-10-07 |
 | [silver girl](https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [dope girl chronicles](https://open.spotify.com/album/26jwaa61sFHBjzpUm87NVH) | 3:25 | 2023-12-01 | 2024-02-17 |
 | [Silver Sunset](https://open.spotify.com/track/4MZZeqFKY3iJyMUthwr7aC) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Silver Sunset](https://open.spotify.com/album/5VwQv3rvZpM62Y0k6EIXn2) | 3:59 | 2023-05-26 | 2023-06-24 |

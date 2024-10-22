@@ -5999,7 +5999,7 @@
     },
     {
       "album": {
-        "name": "Fr\u00eda - Dutch Remix",
+        "name": "Fr\u00eda (Dutch Remix)",
         "url": "https://open.spotify.com/album/2UDSKRSFMkjg1oNH04bsF1"
       },
       "artists": [
@@ -14501,6 +14501,28 @@
     },
     {
       "album": {
+        "name": "Tarantino",
+        "url": "https://open.spotify.com/album/2WtUQ2qrQ7Bm5H36sjIOyb"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        },
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149547,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/2lnWSGiS0ptlY9wAAZrmla"
+    },
+    {
+      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -14807,7 +14829,7 @@
     },
     {
       "album": {
-        "name": "Tengo Un Plan - Remix",
+        "name": "Tengo Un Plan (Remix)",
         "url": "https://open.spotify.com/album/13CfzKNWzSAkJj6nsFadsQ"
       },
       "artists": [

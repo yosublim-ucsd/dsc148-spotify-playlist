@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Hua Chen \(陳華\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,264 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,271 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 47 | [Tiramisu \(feat\. BRADD\)](https://open.spotify.com/track/6r3WwbBueAgeJfBTUERMpS) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [June's MENU](https://open.spotify.com/album/7qQyA6FeouGYqFfnHdV4QX) | 4:04 |
 | 48 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
 | 49 | [理查](https://open.spotify.com/track/6lMz5CHf0ziuvCpMklEZ4C) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [理查](https://open.spotify.com/album/35PWIGMOPkA2U5fRZZUPva) | 4:17 |
-| 50 | [You know how](https://open.spotify.com/track/6KpedOLJFQcp2n9evsr6Q3) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [You know how](https://open.spotify.com/album/5FA5O1J70GbufGPfG9kwRa) | 3:30 |
+| 50 | [You know how](https://open.spotify.com/track/6KpedOLJFQcp2n9evsr6Q3) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [You know how](https://open.spotify.com/album/5FA5O1J70GbufGPfG9kwRa) | 3:32 |
 | 51 | [COCOCO](https://open.spotify.com/track/2WlGO3iwa43XA7K7ZCbibC) | [GENBLUE 幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [1st Single Album COCOCO](https://open.spotify.com/album/4mX1yBYGkgFh15keJF9VLz) | 2:38 |
 | 52 | [Staying up All Night](https://open.spotify.com/track/6V6T7ObBtnC07VQh4BX8Cr) | [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb), [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Staying up All Night](https://open.spotify.com/album/6bMmhb1GtaxLT3YLBknocB) | 3:22 |
 | 53 | [Silent Choir](https://open.spotify.com/track/2cB4qOucH67drKz1W5U4Dk) | [Elin Lee](https://open.spotify.com/artist/4SwNIde9PXmYXhcBJjPjFx), [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Silent Choir](https://open.spotify.com/album/2UAIWUD7MNBn6WW5G3tTmE) | 3:09 |

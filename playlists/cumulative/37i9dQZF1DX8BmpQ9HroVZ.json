@@ -151,6 +151,28 @@
     },
     {
       "album": {
+        "name": "Four You",
+        "url": "https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214024,
+      "name": "52 Bars",
+      "url": "https://open.spotify.com/track/6rFckZb1cuJYzsZiGHgqks"
+    },
+    {
+      "album": {
         "name": "6 Maheenay",
         "url": "https://open.spotify.com/album/5eRdEYyiB5zyE16BiYGgjs"
       },
@@ -318,7 +340,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 215510,
       "name": "Aasa Kooda - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/0MTdYgTZ25sLCO6kVnDoje"
@@ -348,6 +370,40 @@
       "duration_ms": 289974,
       "name": "Aayi Aayi",
       "url": "https://open.spotify.com/track/6eeinYVA4kc7ZkN7irTmzK"
+    },
+    {
+      "album": {
+        "name": "Aayi Nai (From \"Stree 2\")",
+        "url": "https://open.spotify.com/album/7tCxLHdbch1AEkuv2EbLQc"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Pawan Singh",
+          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
+        },
+        {
+          "name": "Simran Choudhary",
+          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178780,
+      "name": "Aayi Nai (From \"Stree 2\")",
+      "url": "https://open.spotify.com/track/1mQUEvGR7Sbt2OCz2gFrdx"
     },
     {
       "album": {
@@ -422,10 +478,36 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 214750,
       "name": "Admirin' You (feat. Preston Pablo)",
       "url": "https://open.spotify.com/track/6ygiy70ujkNOYXM1tQuMNe"
+    },
+    {
+      "album": {
+        "name": "Afsanay",
+        "url": "https://open.spotify.com/album/4BSWdn9sd5vbeQpKbZ2MMr"
+      },
+      "artists": [
+        {
+          "name": "Young Stunners",
+          "url": "https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343118,
+      "name": "Afsanay",
+      "url": "https://open.spotify.com/track/05sqcYfU2wMlKwPVJ0rotq"
     },
     {
       "album": {
@@ -576,7 +658,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-13",
+      "date_removed": null,
       "duration_ms": 212750,
       "name": "Alag Aasmaan",
       "url": "https://open.spotify.com/track/3bQsp4Vr9Rg4fNCx6HPOgX"
@@ -612,7 +694,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 187332,
       "name": "ANTIDOTE",
       "url": "https://open.spotify.com/track/7KmCQLSSde0UX5OqCgvGN9"
@@ -674,7 +756,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 261702,
       "name": "Apna Bana Le",
       "url": "https://open.spotify.com/track/1hA697u7e1jX2XM8sWA6Uy"
@@ -1213,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "THE SHAMS",
+          "url": "https://open.spotify.com/artist/0Vepfi0XJ1hdBOu5WlMlXn"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178143,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7r8DFPBOkohRGX6Taq93Kv"
+    },
+    {
+      "album": {
         "name": "G.O.A.T.",
         "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
       },
@@ -1268,7 +1372,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 175686,
       "name": "California Love",
       "url": "https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg"
@@ -1970,7 +2074,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 209388,
       "name": "Do Pall",
       "url": "https://open.spotify.com/track/6dPCsJmys61wAVJIfsRPXi"
@@ -2044,7 +2148,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-23",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Downers At Dusk",
       "url": "https://open.spotify.com/track/5qolX8ncpZ8R6TfKbvTzbA"
@@ -2172,7 +2276,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -2198,7 +2302,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 176232,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV"
@@ -2454,7 +2558,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 223636,
       "name": "G.O.A.T.",
       "url": "https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS"
@@ -2692,7 +2796,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 260173,
       "name": "Gumaan",
       "url": "https://open.spotify.com/track/6cdiviyVL3tFYE1eDcmUzL"
@@ -2834,7 +2938,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
@@ -3044,7 +3148,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 175556,
       "name": "IDK HOW",
       "url": "https://open.spotify.com/track/5ouREJYZCYqwF0p7VeUtfH"
@@ -3598,7 +3702,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 209032,
       "name": "Kamlee",
       "url": "https://open.spotify.com/track/3W81Nm3KNOYUPaDHrwMzWz"
@@ -4884,7 +4988,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 196897,
       "name": "MVP",
       "url": "https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk"
@@ -5280,7 +5384,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 233453,
       "name": "O Maahi",
       "url": "https://open.spotify.com/track/6bmmHeCvZI92pRiTHxEdTC"
@@ -5346,6 +5450,24 @@
       "duration_ms": 128098,
       "name": "Old Money",
       "url": "https://open.spotify.com/track/5xlYVZxEwriP6hetG7QJw7"
+    },
+    {
+      "album": {
+        "name": "On Top",
+        "url": "https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "On Top",
+      "url": "https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw"
     },
     {
       "album": {
@@ -5878,6 +6000,32 @@
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
+        "name": "REGRETS / PROMISES",
+        "url": "https://open.spotify.com/album/3OYSPm7fN0pnMxwkw7pEhw"
+      },
+      "artists": [
+        {
+          "name": "Jevin Gill",
+          "url": "https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "REGRETS",
+      "url": "https://open.spotify.com/track/4bd507BxqB2MBHzVqMGdVV"
     },
     {
       "album": {
@@ -7537,6 +7685,28 @@
     },
     {
       "album": {
+        "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+        "url": "https://open.spotify.com/album/3I8PdIhk6pNm8Kv0HiF14V"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284779,
+      "name": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+      "url": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
+    },
+    {
+      "album": {
         "name": "Jab We Met",
         "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
       },
@@ -7552,7 +7722,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 321225,
       "name": "Tum Se Hi",
       "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
@@ -7990,7 +8160,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-10",
+      "date_removed": null,
       "duration_ms": 175999,
       "name": "White Brown Black",
       "url": "https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0"

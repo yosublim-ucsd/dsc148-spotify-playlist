@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Karly B en portada.",
-  "num_followers": 110388,
+  "num_followers": 110409,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-10-04 18:00:00",
       "album": {
-        "name": "A\u00fan As\u00ed Te Vas",
-        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
+        "name": "Ese Que Se Fue",
+        "url": "https://open.spotify.com/album/45LFRWcT9sYCxge5srVwcf"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
         }
       ],
-      "duration_ms": 196960,
-      "name": "A\u00fan As\u00ed Te Vas",
-      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
+      "duration_ms": 142831,
+      "name": "Ese Que Se Fue",
+      "url": "https://open.spotify.com/track/1m5gWZ8Yz4kSAC3wAiG3KI"
     },
     {
       "added_at": "2024-10-04 18:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-10-04 18:00:00",
       "album": {
-        "name": "Ese Que Se Fue",
-        "url": "https://open.spotify.com/album/45LFRWcT9sYCxge5srVwcf"
+        "name": "A\u00fan As\u00ed Te Vas",
+        "url": "https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 142831,
-      "name": "Ese Que Se Fue",
-      "url": "https://open.spotify.com/track/1m5gWZ8Yz4kSAC3wAiG3KI"
+      "duration_ms": 196960,
+      "name": "A\u00fan As\u00ed Te Vas",
+      "url": "https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP"
     },
     {
       "added_at": "2024-10-04 18:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-10-04 18:00:00",
       "album": {
-        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
+        "name": "La L\u00e1mpara",
+        "url": "https://open.spotify.com/album/7a58EnNl6f0AgPPApX8KgK"
       },
       "artists": [
         {
-          "name": "Priscila y Sus Balas De Plata",
-          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
         }
       ],
-      "duration_ms": 529000,
-      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
+      "duration_ms": 220243,
+      "name": "La L\u00e1mpara",
+      "url": "https://open.spotify.com/track/467gjKqJjBGHSiKquWQr9c"
     },
     {
       "added_at": "2024-10-04 18:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-10-04 18:00:00",
       "album": {
+        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
+      },
+      "artists": [
+        {
+          "name": "Priscila y Sus Balas De Plata",
+          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+        }
+      ],
+      "duration_ms": 529000,
+      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
+    },
+    {
+      "added_at": "2024-10-04 18:00:00",
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/2qrc0YH2PfVbdSQpwEWxl9"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 163200,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/56kcxvEbwLaKpR6btCuE8q"
-    },
-    {
-      "added_at": "2024-10-04 18:00:00",
-      "album": {
-        "name": "La L\u00e1mpara",
-        "url": "https://open.spotify.com/album/7a58EnNl6f0AgPPApX8KgK"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "La L\u00e1mpara",
-      "url": "https://open.spotify.com/track/467gjKqJjBGHSiKquWQr9c"
     },
     {
       "added_at": "2024-10-04 18:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-10-04 18:00:00",
       "album": {
+        "name": "No Te Fui Suficiente",
+        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 278666,
+      "name": "No Te Fui Suficiente",
+      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
+    },
+    {
+      "added_at": "2024-10-04 18:00:00",
+      "album": {
         "name": "Libro Abierto (En Vivo)",
         "url": "https://open.spotify.com/album/3PRLiYQLtdK5k4FXeRyMsL"
       },
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2024-10-04 18:00:00",
       "album": {
-        "name": "No Te Fui Suficiente",
-        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 278666,
-      "name": "No Te Fui Suficiente",
-      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
-    },
-    {
-      "added_at": "2024-10-04 18:00:00",
-      "album": {
         "name": "En Vivo: Irene del Rosario",
         "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
       },
@@ -1643,6 +1643,22 @@
       "duration_ms": 214414,
       "name": "No Puedo Olvidarlo",
       "url": "https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P"
+    },
+    {
+      "added_at": "2024-10-04 18:00:00",
+      "album": {
+        "name": "Mujeres al Tiro",
+        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 145962,
+      "name": "Mujeres al Tiro",
+      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
     },
     {
       "added_at": "2024-10-04 18:00:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 234026,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w"
-    },
-    {
-      "added_at": "2024-10-04 18:00:00",
-      "album": {
-        "name": "Mujeres al Tiro",
-        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 145962,
-      "name": "Mujeres al Tiro",
-      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
     },
     {
       "added_at": "2024-10-04 18:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Hugo & Guilherme, Maiara & Maraisa e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,385,647 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,385,895 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 46 | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 |
 | 47 | [Sombra Desconhecida \- Ao Vivo](https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Sombra Desconhecida \(Ao Vivo\)](https://open.spotify.com/album/7j9FmFWjSSuqJe5XAtz0WG) | 2:40 |
 | 48 | [Ritmada Interestelar](https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA) | [DJ DUARTE](https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY), [DJ Kayo Original](https://open.spotify.com/artist/3XbTjpdGElxdiHzbCGn8G7), [MC Rondom](https://open.spotify.com/artist/2QfGTGoOWDlLmRxUvHllCc), [Prime Funk](https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x) | [Ritmada Interestelar](https://open.spotify.com/album/4yGwZSJLoBPCKQNn5zMjWR) | 3:12 |
-| 49 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \- Ao Vivo](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 |
+| 49 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 |
 | 50 | [Foi Intenso \- Ao Vivo](https://open.spotify.com/track/3w392XWJ5bXzjcCR2Dmvqn) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Foi Intenso \(Ao Vivo\)](https://open.spotify.com/album/4zj7umsrvAbaEIxj9h2eS9) | 2:12 |
 
 Snapshot ID: `ZxFWyAAAAADZW4jbzEzO0h5DEIfs3JYd`

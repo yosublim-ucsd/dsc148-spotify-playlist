@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,313 likes - 70 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,332 likes - 70 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 18 | [Glory \(feat\. Dwan Hill\) \- Live](https://open.spotify.com/track/3F2vnQf1OxBuQouJGx4DSY) | [Cross Point Music](https://open.spotify.com/artist/7J5NYM9bwpfxk3hiwQH27P), [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ) | [Glory](https://open.spotify.com/album/44qbLLOs5PWPB9RDor8DAu) | 4:26 |
 | 19 | [Same God](https://open.spotify.com/track/2RAmhNshLM4ZRzO3qgXs0X) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Same God](https://open.spotify.com/album/3mMRLr86OZaCuZBVcZ8GyU) | 4:03 |
 | 20 | [Hands Of The Healer \- Live](https://open.spotify.com/track/7M3xzmIhe55g7lFjmV4Zja) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Hands Of The Healer \(Live\)](https://open.spotify.com/album/4fKlvixbyi2sWBqaiJvGCf) | 4:32 |
-| 21 | [Let It Flow \- Live](https://open.spotify.com/track/6EP33vME23wA0pX2ZeG7mH) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Always A Good Time \- Live](https://open.spotify.com/album/7rN4VE06iIyRYZRknPF0N8) | 4:00 |
+| 21 | [Let It Flow \- Live](https://open.spotify.com/track/6EP33vME23wA0pX2ZeG7mH) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb) | [Always A Good Time \(Live\)](https://open.spotify.com/album/7rN4VE06iIyRYZRknPF0N8) | 4:00 |
 | 22 | [To The Lamb](https://open.spotify.com/track/5IILKBAHeBrZyyrdYq8FwA) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Life is Hard\. God is Good.](https://open.spotify.com/album/0dIAW7Y1RNPAZz4Ndk6edp) | 5:30 |
 | 23 | [Carried](https://open.spotify.com/track/38W4csHLFPvdw4HTQCXTI1) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Charmed](https://open.spotify.com/album/3zfFEn0p5vxMcLDqZVYGcc) | 2:17 |
 | 24 | [It is Done \- Live](https://open.spotify.com/track/737zghobTBR0SauNxmcXrt) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Marya Adé](https://open.spotify.com/artist/0ng9uodX69rzP8nm6VnuLJ) | [It is Done \(Live\)](https://open.spotify.com/album/5JykxP8EoWW9A9LhaUmLkG) | 5:55 |

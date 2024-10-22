@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Invasores De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 172206,
+  "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
+  "num_followers": 172235,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAADCaGizgUJxDmCvTaz8cjlq",
+  "snapshot_id": "ZxRIAAAAAADLZt8EqCs9qIoJaP0b6542",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta El Final",
-        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Moneda Sin Valor",
-      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 188533,
       "name": "Rafael Caro Quintero",
       "url": "https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta El Final",
+        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Moneda Sin Valor",
+      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 187466,
-      "name": "Coraz\u00f3n De Oro",
-      "url": "https://open.spotify.com/track/3hEDujdXlHpKEv8pW7SxBz"
+      "duration_ms": 196306,
+      "name": "Me Refiero A T\u00ed",
+      "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Me Refiero A T\u00ed",
-      "url": "https://open.spotify.com/track/5bbF1SdFGSqK7hKNAunuyc"
+      "duration_ms": 187466,
+      "name": "Coraz\u00f3n De Oro",
+      "url": "https://open.spotify.com/track/3hEDujdXlHpKEv8pW7SxBz"
     },
     {
       "added_at": null,
@@ -651,42 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jate Llevar",
-        "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        },
-        {
-          "name": "Oscar Iv\u00e1n Trev\u00edno",
-          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "En El \u00daltimo Rinc\u00f3n",
-      "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Gracias Porque Volviste",
-      "url": "https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nomas por Orgullo",
         "url": "https://open.spotify.com/album/2ce57OZsfbjALZY7tRbnfk"
       },
@@ -707,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Gracias Porque Volviste",
+      "url": "https://open.spotify.com/track/37nblWr0bJ6aIO548pKHqg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 140333,
       "name": "Te Sorprend\u00ed Llorando",
       "url": "https://open.spotify.com/track/4rqLedkzIcDNbSo8bnRGZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e9jate Llevar",
+        "url": "https://open.spotify.com/album/6OCVGmvD74MNcDpClL0uXT"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        },
+        {
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "En El \u00daltimo Rinc\u00f3n",
+      "url": "https://open.spotify.com/track/5JMWkaL8u03EbqsKS3mL14"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Reproches Del Viento",
-      "url": "https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 158893,
       "name": "La Vieja Banca",
       "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Reproches Del Viento",
+      "url": "https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO"
     },
     {
       "added_at": null,

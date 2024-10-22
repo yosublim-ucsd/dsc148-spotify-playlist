@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Lovely, acoustic pop\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,263 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,302 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 70 | [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 |
 | 71 | [Nicer \- Acoustic](https://open.spotify.com/track/5MfFCOVMkXkDC9NWklqPZ9) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Nicer \(Acoustic\)](https://open.spotify.com/album/78SoTgcb3GmcIqa46vl28P) | 2:47 |
 | 72 | [Heaven \(Acoustic\)](https://open.spotify.com/track/0B4MTjEdRDso17Oy9iugE7) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Heaven \(Acoustic\)](https://open.spotify.com/album/0Ju0PhEN0Z43pCKc7ah1HN) | 3:12 |
-| 73 | [All That Really Matters \- Stripped Version](https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters \- Stripped Version](https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM) | 3:18 |
+| 73 | [All That Really Matters \- Stripped Version](https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters \(Stripped Version\)](https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM) | 3:18 |
 | 74 | [State Of Grace \(Acoustic Version\) \(Taylor's Version\)](https://open.spotify.com/track/5jAIouBES8LWMiriuNq170) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 5:21 |
 | 75 | [Kiss Me \- Guitar](https://open.spotify.com/track/3Sf2bgJlNZQwkv3VpoT3Zp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Kiss Me \(Guitar\)](https://open.spotify.com/album/64YI1ILJJXcVpgJfJcLbPL) | 3:38 |
 | 76 | [Head on Fire \- Acoustic Version](https://open.spotify.com/track/7m0gn93nr1GEQ2fqbhgxSF) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire \(Acoustic Version\)](https://open.spotify.com/album/4XXBWeAI6h6Ymh0zlBHNCb) | 3:17 |

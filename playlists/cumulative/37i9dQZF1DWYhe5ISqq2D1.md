@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: 安部勇磨
 
-252 songs - 16 hr 0 min
+253 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [あのね](https://open.spotify.com/track/2mUJj7zCnQYzM9vz3sIXAP) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [あのね](https://open.spotify.com/album/51IrCOKFFNz3tgimqoyBCm) | 6:49 | 2024-07-02 | 2024-07-10 |
 | [あのね](https://open.spotify.com/track/4PtcFeoWZcKt8pDmKrhk3w) | [HoSoVoSo](https://open.spotify.com/artist/7iIrHfIBAARkPX2T9nQg9g) | [春を待つ僕ら5](https://open.spotify.com/album/6YH6PBrvmnoktIYQQcZMtB) | 3:00 | 2024-09-24 | 2024-10-02 |
 | [あわいに](https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [あわいに](https://open.spotify.com/album/5SCavhtaz95mQ9mdaMDSRi) | 3:21 | 2024-07-02 | 2024-08-10 |
+| [あんたなんて。](https://open.spotify.com/track/51rMlcKYFXxO59shnOGkry) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [あんたなんて。](https://open.spotify.com/album/0cjnybDEENedpxhPFWvvo2) | 4:01 | 2024-10-15 |  |
 | [おぼろげ](https://open.spotify.com/track/4ApkPCqOx1qQBp4l3p1c1p) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [おぼろげ](https://open.spotify.com/album/1Yksmlxl2WLZzmEGBnb2fs) | 4:40 | 2024-07-16 | 2024-07-27 |
 | [かえりみち](https://open.spotify.com/track/2rF7Tk0fx5zWx5TDKFfRx4) | [ちたへんりー](https://open.spotify.com/artist/6xSuKSmaiLEgoRt2tHeL1R) | [かえりみち](https://open.spotify.com/album/7IJ0P9CWWmbDpuh3PcpFMj) | 2:32 | 2024-07-30 | 2024-08-07 |
 | [かけ足族](https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [かけ足族](https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn) | 3:44 | 2024-09-24 |  |
@@ -126,7 +127,7 @@
 | [ずうっといっしょ！](https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ずうっといっしょ！](https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4) | 3:04 | 2024-07-02 |  |
 | [その先にあるもの](https://open.spotify.com/track/3diIhEJH6LDglJQxw0AKtt) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [その先にあるもの](https://open.spotify.com/album/1yiEQXiDt7TUpEMEoC96Sk) | 3:51 | 2024-07-09 | 2024-07-17 |
 | [だけ](https://open.spotify.com/track/21SLsjKBgjLTZn8o5svyLE) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [432](https://open.spotify.com/album/7sNNWjEeyJkfuK0Y7pa4qR) | 3:20 | 2024-07-30 | 2024-08-07 |
-| [でも、](https://open.spotify.com/track/1eiflYv62PGfglEC0Dc9rH) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [愛℃](https://open.spotify.com/album/5d9Z5IN5TO2Z8PI5i6VfGS) | 2:59 | 2024-07-02 |  |
+| [でも、](https://open.spotify.com/track/1eiflYv62PGfglEC0Dc9rH) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [愛℃](https://open.spotify.com/album/5d9Z5IN5TO2Z8PI5i6VfGS) | 2:59 | 2024-07-02 | 2024-10-22 |
 | [ねえ、ちゃんと聞いてる？](https://open.spotify.com/track/3r9U0eU5kDPzOz6iW6Rga0) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [ねえ、ちゃんと聞いてる？](https://open.spotify.com/album/1sXKBqs1PS1ArgzcE0Y3kM) | 4:02 | 2024-08-13 | 2024-10-09 |
 | [はじめての気持ち](https://open.spotify.com/track/2rtsAFgv7XpFdqiZKRNnQg) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [はじめての気持ち](https://open.spotify.com/album/2G8a31nz9dZjsdUnQ5nLLQ) | 3:51 | 2024-07-26 | 2024-07-31 |
 | [ひとみ](https://open.spotify.com/track/6mtXTKoMyna05KMXivyyqy) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [ひとみ](https://open.spotify.com/album/6re9xEtwNApBhotTyMPPyZ) | 4:25 | 2024-07-02 | 2024-07-27 |

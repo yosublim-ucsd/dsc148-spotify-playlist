@@ -1,12 +1,12 @@
 {
   "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover:  Joy Oladokun",
-  "num_followers": 811688,
+  "num_followers": 811778,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAADJCqNQwrlMgcxSVZdSfOdb",
+  "snapshot_id": "ZxZrhwAAAACK9bpC2cFkn8261+uy9oOe",
   "tracks": [
     {
       "added_at": "2024-10-18 04:00:00",
@@ -139,6 +139,26 @@
       "duration_ms": 203373,
       "name": "Don\u2019t Let Me Down Again",
       "url": "https://open.spotify.com/track/1fuQki4HKxBZfoR6NGD0DQ"
+    },
+    {
+      "added_at": "2024-10-21 14:56:07",
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "November Ultra",
+          "url": "https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr"
+        }
+      ],
+      "duration_ms": 261379,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -687,7 +707,7 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Goodbye to the Valley Low - Side B",
+        "name": "Goodbye to the Valley Low (Side B)",
         "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
       },
       "artists": [

@@ -1,12 +1,12 @@
 {
   "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 22989,
+  "num_followers": 22994,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAADJ7SEj2aHvLhyMsdgjtCNM",
+  "snapshot_id": "ZxRIAAAAAACO44metz2FYPz4BnF7G8D/",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Orar e Adorar 5: Ainda \u00e9 Tempo",
-        "url": "https://open.spotify.com/album/2EporWTpdlfym5M0bUye72"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 375800,
-      "name": "O Consolo para o Inconsol\u00e1vel",
-      "url": "https://open.spotify.com/track/7kFqu2POQO8DOCaLPNqox0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantarei para Sempre",
         "url": "https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 339125,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/735gPtlF2NEUlufXHAy2aD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Orar e Adorar 5: Ainda \u00e9 Tempo",
+        "url": "https://open.spotify.com/album/2EporWTpdlfym5M0bUye72"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 375800,
+      "name": "O Consolo para o Inconsol\u00e1vel",
+      "url": "https://open.spotify.com/track/7kFqu2POQO8DOCaLPNqox0"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cantarei para Sempre",
+        "url": "https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 350109,
+      "name": "Autor da Minha F\u00e9",
+      "url": "https://open.spotify.com/track/2RL6SclWQSRIX34Su8S5eR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cantarei para Sempre",
-        "url": "https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 350109,
-      "name": "Autor da Minha F\u00e9",
-      "url": "https://open.spotify.com/track/2RL6SclWQSRIX34Su8S5eR"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 407626,
-      "name": "Vale a Pena ser Profeta - Ao Vivo",
-      "url": "https://open.spotify.com/track/6LQi4D7s0TKaM9L9LHcI3C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Orar e Adorar 4 - 24h por Dia",
         "url": "https://open.spotify.com/album/1gP3FjsU4I5ebZsHmdC9rA"
       },
@@ -683,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
       },
       "artists": [
         {
@@ -692,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 301986,
-      "name": "Eu Dependo de Deus",
-      "url": "https://open.spotify.com/track/59FRWW5q8A8zeWo5TDfHSb"
+      "duration_ms": 407626,
+      "name": "Vale a Pena ser Profeta - Ao Vivo",
+      "url": "https://open.spotify.com/track/6LQi4D7s0TKaM9L9LHcI3C"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 372800,
       "name": "Tempo de Cura",
       "url": "https://open.spotify.com/track/5gjX2f8PACqq8dqUXwOdMI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "Eu Dependo de Deus",
+      "url": "https://open.spotify.com/track/59FRWW5q8A8zeWo5TDfHSb"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "O Perd\u00e3o",
-      "url": "https://open.spotify.com/track/0pd77nLXCJsbyH2pLtDjmH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imenso Amor",
         "url": "https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 203235,
       "name": "Imenso Amor",
       "url": "https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "O Perd\u00e3o",
+      "url": "https://open.spotify.com/track/0pd77nLXCJsbyH2pLtDjmH"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/5PmmggoakMGj00jQPJbOVz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 348893,
       "name": "S\u00f3 o Senhor \u00e9 Deus",
       "url": "https://open.spotify.com/track/0iIpBvZapfG7Cq3DNDBW3S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/5PmmggoakMGj00jQPJbOVz"
     },
     {
       "added_at": null,

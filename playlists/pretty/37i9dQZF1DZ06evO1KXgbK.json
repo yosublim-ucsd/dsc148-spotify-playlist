@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 249247,
+  "num_followers": 249266,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAACzJVbczjIH6GdO1daxaIUs",
+  "snapshot_id": "ZxRIAAAAAAAf//BhP0umabkZn/RS56vU",
   "tracks": [
     {
       "added_at": null,
@@ -939,6 +939,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Til The Last Shot's Fired",
+        "url": "https://open.spotify.com/album/3ybLXSEklZLwDu1njY0B9s"
+      },
+      "artists": [
+        {
+          "name": "Scotty Hasting",
+          "url": "https://open.spotify.com/artist/3OMqr8AGspLxIcHEwPCOl7"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 258289,
+      "name": "Til The Last Shot's Fired",
+      "url": "https://open.spotify.com/track/3KpsdItsqmk2G4ZZ64jJdv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Dolly Parton",
         "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
       },
@@ -1011,30 +1035,6 @@
       "duration_ms": 180959,
       "name": "Bets On Us",
       "url": "https://open.spotify.com/track/0QniqyO4C5JdxALPM4rulH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Til The Last Shot's Fired",
-        "url": "https://open.spotify.com/album/3ybLXSEklZLwDu1njY0B9s"
-      },
-      "artists": [
-        {
-          "name": "Scotty Hasting",
-          "url": "https://open.spotify.com/artist/3OMqr8AGspLxIcHEwPCOl7"
-        },
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 258289,
-      "name": "Til The Last Shot's Fired",
-      "url": "https://open.spotify.com/track/3KpsdItsqmk2G4ZZ64jJdv"
     }
   ],
   "unique_name": "This Is Dolly Parton",

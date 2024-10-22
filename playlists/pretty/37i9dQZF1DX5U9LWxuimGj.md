@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Kat Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,581 likes - 63 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,598 likes - 63 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 39 | [Cowboy Cumbia \(Bilingual\)](https://open.spotify.com/track/3j9R13BrWuygVOgOeIu2qe) | [Javier Molina](https://open.spotify.com/artist/2vSsnnmsA8tgIKAR13k8ZO) | [Cowboy Cumbia \(20th Anniversary Edition\)](https://open.spotify.com/album/6PJa8XuD1rafZnJR5PnFRq) | 4:22 |
 | 40 | [Mal Necesario](https://open.spotify.com/track/0UQdOHYfDl4OY9waK0gFfu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mal Necesario](https://open.spotify.com/album/146b6Xmk2VYXUwg8QsJxT1) | 2:52 |
 | 41 | [Texas Swing \(with Squeezebox Bandits & Jessica Roadcap\)](https://open.spotify.com/track/2yfzrPr0hBXLNFSbSBftj4) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Squeezebox Bandits](https://open.spotify.com/artist/4a02tpn91oE3Yj912u4Dp2), [Jessica Roadcap](https://open.spotify.com/artist/7wCLGdBWLxknkk0klqSs1t) | [Triston Marez](https://open.spotify.com/album/0MLWqiGjmaYa46WL2Rv56N) | 4:39 |
-| 42 | [God Blessed Texas \- Dios Bendijo Tejas](https://open.spotify.com/track/4k8tSZNNYWAaKJf6yAW8Cr) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p), [Sunny Sauceda](https://open.spotify.com/artist/1UFXT6Zf12IsTUnNPRbmUg), [Rico Gonzalez](https://open.spotify.com/artist/3j5zo7b5Y9LJ8wNchavXIi) | [God Blessed Texas \- Dios Bendijo Tejas](https://open.spotify.com/album/4hgTfYHTpkBr4Go7yc8xzo) | 3:29 |
+| 42 | [God Blessed Texas \- Dios Bendijo Tejas](https://open.spotify.com/track/4k8tSZNNYWAaKJf6yAW8Cr) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p), [Sunny Sauceda](https://open.spotify.com/artist/1UFXT6Zf12IsTUnNPRbmUg), [Rico Gonzalez](https://open.spotify.com/artist/3j5zo7b5Y9LJ8wNchavXIi) | [God Blessed Texas \(Dios Bendijo Tejas\)](https://open.spotify.com/album/4hgTfYHTpkBr4Go7yc8xzo) | 3:29 |
 | 43 | [Vaquero Arrepentido](https://open.spotify.com/track/4WOwOPyNHnJKNPQNdGsRtZ) | [8 Segundos](https://open.spotify.com/artist/5f5Wlazt9jmI75fK5nPpd6) | [Vaquero Arrepentido](https://open.spotify.com/album/60l7sli9oBPRzNGCh1rXJI) | 3:31 |
 | 44 | [Down Here](https://open.spotify.com/track/4BChEw9qEJjOmPIE9CU65e) | [Louie TheSinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Down Here](https://open.spotify.com/album/6UWvFvtdmemHeFzWuBUlOW) | 2:24 |
 | 45 | [Morenita](https://open.spotify.com/track/7sIpHft18Pg6GsvOsYTGd0) | [Teo & Diego](https://open.spotify.com/artist/299l7hHRNKCmeRGmGiSCjQ) | [Morenita](https://open.spotify.com/album/5jm5YRpf876zq3wb9v8VKN) | 3:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,779 likes - 78 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,996 likes - 78 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HpYqrfrj7c.md) - [plain]
 | 39 | [All Gravy](https://open.spotify.com/track/3WhcV5uXlgRDcloiQYBO6t) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [All Gravy](https://open.spotify.com/album/0ePasntyblT6jkgAz8HcAP) | 2:28 |
 | 40 | [Sunny Side](https://open.spotify.com/track/50IYpgJ4swioyNFfti9M6l) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [Sunny Side](https://open.spotify.com/album/3qhjESGg47HWA4vcRdS8TZ) | 1:58 |
 | 41 | [Underground's My Style](https://open.spotify.com/track/42DrAJAjvZC67PySigm4ef) | [Beatmaschine](https://open.spotify.com/artist/7FkNW1kgO9K9yRopIGNnsi) | [Basement Boom](https://open.spotify.com/album/5hrt23hzfo8qFMJxpJOXdy) | 3:26 |
-| 42 | [Bullshit \- Instrumental](https://open.spotify.com/track/7foxmWRpEa1fiYGz7JbAKH) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \- Deluxe Edition](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 4:19 |
+| 42 | [Bullshit \- Instrumental](https://open.spotify.com/track/7foxmWRpEa1fiYGz7JbAKH) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Labcabincalifornia \(Deluxe Edition\)](https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g) | 4:19 |
 | 43 | [Loose 90](https://open.spotify.com/track/5PzKdQgLZQcDgEGY8RxDbb) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Singles Eight](https://open.spotify.com/album/0uNQfrzNbhWEtIdcpM5Qrb) | 2:12 |
 | 44 | [Naturally \(Instrumental\)](https://open.spotify.com/track/2BGjr2M2pUdJ8GCAeS1A4A) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [In and of Itself \(Instrumental\)](https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn) | 2:42 |
 | 45 | [On the Fritz](https://open.spotify.com/track/7KSe5EwXawbxoMSYqs4pF7) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Amalfi](https://open.spotify.com/album/5M2w39JfqEM0yIbsXShpnd) | 2:21 |

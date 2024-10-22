@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19670,
+  "num_followers": 19678,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -787,18 +787,30 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Tangos Famosos Cantados",
-        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
+        "name": "Buenos Aires",
+        "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
       },
       "artists": [
         {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+          "name": "Delfina Cheb",
+          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
+        },
+        {
+          "name": "Horacio Avilano",
+          "url": "https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E"
+        },
+        {
+          "name": "Hern\u00e1n Fredes",
+          "url": "https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj"
+        },
+        {
+          "name": "Hern\u00e1n Mastromarini",
+          "url": "https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY"
         }
       ],
-      "duration_ms": 198693,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
+      "duration_ms": 210613,
+      "name": "Cafet\u00edn de Buenos Aires",
+      "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -839,30 +851,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Buenos Aires",
-        "url": "https://open.spotify.com/album/3QnnowQDhMZJiQUZaknba7"
+        "name": "Tangos Famosos Cantados",
+        "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
       },
       "artists": [
         {
-          "name": "Delfina Cheb",
-          "url": "https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq"
-        },
-        {
-          "name": "Horacio Avilano",
-          "url": "https://open.spotify.com/artist/1OVVbwW8JjRpAvlGmMqO8E"
-        },
-        {
-          "name": "Hern\u00e1n Fredes",
-          "url": "https://open.spotify.com/artist/4nAqi6nuYVAAKCtplFZdWj"
-        },
-        {
-          "name": "Hern\u00e1n Mastromarini",
-          "url": "https://open.spotify.com/artist/3I1iCHvPAEoqbxj7oCKVvY"
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
         }
       ],
-      "duration_ms": 210613,
-      "name": "Cafet\u00edn de Buenos Aires",
-      "url": "https://open.spotify.com/track/6igePX7ujLa9bohLAXO34X"
+      "duration_ms": 198693,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"
     },
     {
       "added_at": "2024-08-02 17:18:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > <a href="http://bluegiant.jp/">BLUE GIANT MOMENTUM</a>とSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,599 likes - 30 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,621 likes - 30 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 18 | [Sister Sadie](https://open.spotify.com/track/3R5K5Alv1Db3WRRAE3lr42) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Blowin' The Blues Away](https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc) | 6:19 |
 | 19 | [Blues March](https://open.spotify.com/track/3OyJe2L52BHpACsMjOKLFg) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Moanin' \(Expanded Edition\)](https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC) | 6:13 |
 | 20 | [The Three Trumpeteers](https://open.spotify.com/track/4hwbmQjymEOZfHxyuPnVXB) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 5:26 |
-| 21 | [Trumpet Blues](https://open.spotify.com/track/0yI1oHBHCKkWw6LeAY78nO) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Roy And Diz \- Expanded Edition](https://open.spotify.com/album/6hdkQFF1LmdBM8KLiObbzh) | 7:56 |
+| 21 | [Trumpet Blues](https://open.spotify.com/track/0yI1oHBHCKkWw6LeAY78nO) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Roy And Diz \(Expanded Edition\)](https://open.spotify.com/album/6hdkQFF1LmdBM8KLiObbzh) | 7:56 |
 | 22 | [Soul Surge \- Remastered 2004/Rudy Van Gelder Edition](https://open.spotify.com/track/0Sk4HSy7b9EulgZp4g2ffq) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Blue Spirits \(Expanded Edition\)](https://open.spotify.com/album/4P8MSAZWs5WOG97gAtLxHk) | 10:24 |
 | 23 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 |
 | 24 | [September In The Rain](https://open.spotify.com/track/3Q9DWh2JBcNLcCaLoVoF2x) | [Roy Hargrove Big Band](https://open.spotify.com/artist/0W8QO3RssbbFeIiBTgrgQ6) | [Emergence](https://open.spotify.com/album/5Iq3buZTi3mnS6NE2AtNkZ) | 6:58 |

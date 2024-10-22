@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/2B64RN7KJte5x6iXgg02tv.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Goddess](https://open.spotify.com/track/6P2NcII68B40d0FoQGkrvD) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \- Deluxe](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:02 |
+| 1 | [Goddess](https://open.spotify.com/track/6P2NcII68B40d0FoQGkrvD) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 4:02 |
 | 2 | [Slacks](https://open.spotify.com/track/01qIefOW1UdSDS1mHoSZ3x) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Slacks](https://open.spotify.com/album/7dj1YwKeoOGrhvgQU87qWh) | 3:26 |
 | 3 | [Small Things](https://open.spotify.com/track/5RySo0AAUR0reTHSCvb6HC) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 5:43 |
 | 4 | [Premonitions](https://open.spotify.com/track/0rMiSraASuCvJNRpEPvdeg) | [Vaults](https://open.spotify.com/artist/0TytASn0kOZkCpjYTrXsBt) | [Premonitions](https://open.spotify.com/album/1QN7qP9VcNQP8vlY8TG3Ym) | 3:35 |

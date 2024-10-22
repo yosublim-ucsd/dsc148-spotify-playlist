@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: David Guetta x Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,759 likes - 83 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,773 likes - 83 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 69 | [Everybody Else](https://open.spotify.com/track/53SAL2QQRiKo5pdY9fTZFz) | [Newmode](https://open.spotify.com/artist/3v1ZN24fzav4YCwT0mYFQc) | [Chill Executive Officer \(CEO\), Vol\. 33 \[Selected by Maykel Piron\]](https://open.spotify.com/album/4FsporRoDDvNkuv1jbMfTV) | 3:32 |
 | 70 | [Only At 4 AM](https://open.spotify.com/track/2sYl9Wemi9VGIQ9rhGDc7d) | [MarshallYU](https://open.spotify.com/artist/68wVN92QinmN9C7c07BzXq), [Uncle Ciao](https://open.spotify.com/artist/7EOdI3hqzSbiq00OHH3JX4) | [Only At 4 AM](https://open.spotify.com/album/7lmJhc0eIMvfMG4NF0zc5b) | 2:08 |
 | 71 | [Angel Eyes](https://open.spotify.com/track/76kG0pG0SKCCH5EFznj28W) | [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG) | [Angel Eyes](https://open.spotify.com/album/1L48CGpEReGzLH9cygHRRK) | 2:18 |
-| 72 | [Victory \- Radio Edit](https://open.spotify.com/track/5GmxNtTQ4d26bFMyS2JE01) | [Dj Rauny](https://open.spotify.com/artist/7LJRrgtabND9jsKdQ8dDmf) | [Victory \- Radio Edit](https://open.spotify.com/album/2jlFp1aSC247mroA1HL7hI) | 2:52 |
+| 72 | [Victory \- Radio Edit](https://open.spotify.com/track/5GmxNtTQ4d26bFMyS2JE01) | [Dj Rauny](https://open.spotify.com/artist/7LJRrgtabND9jsKdQ8dDmf) | [Victory \(Radio Edit\)](https://open.spotify.com/album/2jlFp1aSC247mroA1HL7hI) | 2:52 |
 | 73 | [For Me](https://open.spotify.com/track/0PJCvbrQc5Dbccq5pcQ2D3) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [RVPTR](https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4), [Spagbo](https://open.spotify.com/artist/2EZUOnMtEkQv06k5fkbKTJ) | [For Me](https://open.spotify.com/album/2FKuqDXToXRBfy2vfJJoks) | 2:30 |
 | 74 | [W'ont U Stay](https://open.spotify.com/track/73ojOtSJDnqCwFd3wjig6L) | [Fajar Asia Music](https://open.spotify.com/artist/0bgabIUeEo96lIKMUQGqYm), [Jay Stefan](https://open.spotify.com/artist/0F0XNSUF0ZXV5cVmTkbs6X) | [W'ont U Stay](https://open.spotify.com/album/7sVJyn3TWMEaWwvcdZovKM) | 3:42 |
 | 75 | [Don't You Know You're Loved](https://open.spotify.com/track/0yTQYnln8qFOjfSZqHTGFT) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Robin Vane](https://open.spotify.com/artist/4staIXcWEmr34cRhsDp8nW) | [Don't You Know You're Loved](https://open.spotify.com/album/0rgStpdqClisDaF7IsTLmH) | 3:11 |

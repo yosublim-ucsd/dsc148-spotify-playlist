@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-242 songs - 10 hr 47 min
+243 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Halloween](https://open.spotify.com/track/4CSaUDwbyd7xExCTQKnLqg) | [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY), [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8) | [Kids Trap Halloween](https://open.spotify.com/album/1SvE2Pv0JQMItbr34MS0La) | 1:44 | 2021-09-10 | 2024-09-21 |
 | [Halloween](https://open.spotify.com/track/4jn1EEJFB6R5tjBPFRSNOK) | [Press Play Picture House](https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS) | [Halloween](https://open.spotify.com/album/1JJvFooOJDfSifLeLlocSN) | 2:27 | 2021-09-10 | 2024-09-21 |
 | [Halloween at School](https://open.spotify.com/track/5PqCCOKBN8JVtF2tqoHD8N) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 3:30 | 2022-10-11 | 2024-10-09 |
-| [Halloween Boogie Dance](https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:05 | 2022-10-11 |  |
+| [Halloween Boogie Dance](https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:05 | 2022-10-11 | 2024-10-22 |
 | [Halloween Costume Party](https://open.spotify.com/track/1kZUhs9oLt95tLfsT4NE9h) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs 2](https://open.spotify.com/album/3W0o5NCvcvvQtYAvor3KDS) | 1:50 | 2021-08-30 |  |
 | [Halloween Costume Party](https://open.spotify.com/track/3swsatQ81Gp6ZNv7vDWIwU) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Hogi Halloween Sing Along](https://open.spotify.com/album/29VITVgfijNrLfpNHmZwzT) | 2:59 | 2024-10-11 |  |
 | [Halloween Dance](https://open.spotify.com/track/3o57ENGvRezgIaKidBNynE) | [Susie Tallman](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) | [Halloween Pre\-School & Kindergarten Songs](https://open.spotify.com/album/3Z93uUSg7uDYIPc0huYRoR) | 2:25 | 2024-10-04 | 2024-10-19 |
@@ -218,6 +218,7 @@
 | [Toodly Doodly Boo](https://open.spotify.com/track/2UeUAHIyYNa5tPJSqLxtzO) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Toodly Doodly Boo](https://open.spotify.com/album/3ugTiT5GGB23CRaDhZwuUd) | 3:29 | 2024-10-04 |  |
 | [Trick or Treat](https://open.spotify.com/track/0UK7D7Bo1HoecPSS899i4I) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi Essentials](https://open.spotify.com/album/0nQmUSkS86JEi9B3aJiioI) | 2:59 | 2021-09-10 | 2024-04-19 |
 | [Trick or Treat](https://open.spotify.com/track/73qnmF0SLhNOTpyU6NUGsn) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Blippi & Friends Halloween](https://open.spotify.com/album/54l6QDK8Tz9a5dbPV3wmuV) | 2:59 | 2021-09-10 | 2024-10-05 |
+| [Trick Or Treat 2](https://open.spotify.com/track/0bWXTLZqfTwHOjCdKWduJn) | [Uncle Apple](https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M) | [Trick Or Treat 2](https://open.spotify.com/album/2kFL7J6yhmYXod4j1tRdqt) | 3:15 | 2024-10-18 |  |
 | [Trick or Treat Song](https://open.spotify.com/track/6adE2NIEXvLmIntPc4Rnce) | [The Singing Walrus](https://open.spotify.com/artist/3L5oCwlVHuB94ltjdUbQMi) | [Halloween Song Collection, Vol\. 1](https://open.spotify.com/album/7frT4iiTOzaILQjsJRIJGw) | 2:36 | 2021-09-10 | 2023-10-03 |
 | [Trick or Treating](https://open.spotify.com/track/2SOaGHay97PK2gBrFsVirj) | [Maple Leaf Learning](https://open.spotify.com/artist/7jze83chqHoyro7onnZBx9) | [Spooky Spooky: Halloween Songs for Kids](https://open.spotify.com/album/6Vz0zRCj3cPc11lkzkhLBi) | 2:12 | 2021-08-30 | 2024-10-06 |
 | [Tricked](https://open.spotify.com/track/7FiaO4Ne6CsR5TMZ1L47GT) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Mega Music Countdown \(Soundtrack\)](https://open.spotify.com/album/6ea3zT249IDx7ODPVF8cFL) | 2:02 | 2023-10-02 |  |

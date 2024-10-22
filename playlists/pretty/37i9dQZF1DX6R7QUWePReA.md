@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 
 > Timeless heart\-warming classics from 1940\- 1970 for the holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,315,848 likes - 68 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,315,970 likes - 68 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6R7QUWePReA.md) - [plain]
 | 51 | [Joy To The World](https://open.spotify.com/track/5jjsm4Jjq8xjDaue3rW9Go) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Christmas With Nat, Dean And Bing](https://open.spotify.com/album/5nn0oYdYM0JOQjSdGDUh5Z) | 1:25 |
 | 52 | [Mistletoe And Holly](https://open.spotify.com/track/53cumdNGYE6NFmGL0zHvx7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Christmas](https://open.spotify.com/album/7sFXxK0BjK01NAN5JyAd8I) | 2:17 |
 | 53 | [Pretty Paper](https://open.spotify.com/track/1dXcUx5gQ8rkHctSsRnZuH) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Essential Roy Orbison](https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n) | 2:44 |
-| 54 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/19NdiithlwC8EfytiHVk7a) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \- Expanded Edition](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:32 |
+| 54 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/19NdiithlwC8EfytiHVk7a) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 3:32 |
 | 55 | [Silent Night](https://open.spotify.com/track/0i7lZhEMEheehKyCtBJIIL) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Christmas Portrait \(Special Edition\)](https://open.spotify.com/album/1EiBrlQW6W6H1mZI4N7Ne4) | 3:21 |
 | 56 | [Adeste Fideles](https://open.spotify.com/track/04DYwFIKeq2Bkn9aqSI9PC) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 3:10 |
 | 57 | [Here We Come a\-Caroling / We Wish You a Merry Christmas](https://open.spotify.com/track/1Kcy7qSbf6un30zIkxGVew) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [A Perry Como Christmas](https://open.spotify.com/album/6kwOEj6diw9tUSbhgIVeBP) | 1:38 |

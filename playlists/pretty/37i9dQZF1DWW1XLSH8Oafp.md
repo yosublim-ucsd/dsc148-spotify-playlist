@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Snakehips, Absolutely
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,167 likes - 160 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,116 likes - 160 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 3 | [Shades](https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Shades](https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS) | 2:31 |
 | 4 | [Half Alive](https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Half Alive](https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY) | 3:32 |
 | 5 | [Highlight \- jigitz Remix](https://open.spotify.com/track/0S2M1qkve0r09dvQw4WmbE) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [Highlight \(jigitz Remix\)](https://open.spotify.com/album/1P0suDsFOBQ5UVZHvWvrdj) | 4:06 |
-| 6 | [Stolen \- Namasenda Remix](https://open.spotify.com/track/6fIPNpjZu5qdOTmnGJArBS) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Stolen \- Namasenda Remix](https://open.spotify.com/album/79Pj72NQYB8OgWgJ8LzSTe) | 2:48 |
+| 6 | [Stolen \- Namasenda Remix](https://open.spotify.com/track/6fIPNpjZu5qdOTmnGJArBS) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Stolen \(Namasenda Remix\)](https://open.spotify.com/album/79Pj72NQYB8OgWgJ8LzSTe) | 2:48 |
 | 7 | [When You're Up I'm Down](https://open.spotify.com/track/6LAaHqiKWlGJz1DWL60AXI) | [Love,Shaun](https://open.spotify.com/artist/4qvKSBd9PKGZQ7cmWdOllu) | [Good Times](https://open.spotify.com/album/47KnE5LgFbToT7mWVyvGIO) | 2:55 |
 | 8 | [Cyclone](https://open.spotify.com/track/2fT4QsF8AWnQIsseRXkLMl) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Cyclone](https://open.spotify.com/album/5raddefOVNlawnMf7t3Pzk) | 2:49 |
 | 9 | [Anya ♡](https://open.spotify.com/track/6NO1U3U9CbPBBL3vVimXF6) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [Anya ♡](https://open.spotify.com/album/7bHfTwpvu3Hj7BP5Y5KaiU) | 2:26 |

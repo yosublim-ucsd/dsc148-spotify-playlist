@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover:Mishaal Tamer
 
-353 songs - 19 hr 22 min
+354 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Stay With Me](https://open.spotify.com/track/2AvO9mnoHTP8HYWlhdr5lZ) | [Faydee](https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g) | [Stay With Me](https://open.spotify.com/album/5o6vVz0YWB9d6ywjttH6XZ) | 2:59 | 2021-12-16 | 2022-12-08 |
 | [Stories](https://open.spotify.com/track/6EnWKtxRzUIeXTQLhCYI2X) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [Stories](https://open.spotify.com/album/4xVlft0ERbRUNHT4ahNheZ) | 2:58 | 2022-08-02 | 2022-12-08 |
 | [Streets](https://open.spotify.com/track/0HrYRWreDtgwG420WzvS6w) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Streets](https://open.spotify.com/album/5dffWaAYExvHrnLOAgtDUb) | 3:53 | 2023-01-12 | 2023-03-15 |
+| [Strong Enough](https://open.spotify.com/track/6HBSPmhSQfD2ftLDcQnoye) | [kiiko](https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy) | [Strong Enough](https://open.spotify.com/album/3dYM0BYJAqAFdlyWoGrKXM) | 3:08 | 2024-10-21 |  |
 | [Styla Jamaiki](https://open.spotify.com/track/1ontuN6ddlysEYXzoYkLID) | [ARXP Cartel](https://open.spotify.com/artist/62rWseD8dlUp2w77shBrD1), [Eslam Jawaad](https://open.spotify.com/artist/3y7vb47gzj692Slqa8cKbv), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Styla Jamaiki](https://open.spotify.com/album/601BizZRIf2pr5QsnR6gDA) | 4:05 | 2022-06-23 | 2023-03-15 |
 | [SUMMER GLOW \(feat\. NBL\)](https://open.spotify.com/track/3uiOGSMGTj2QPjBoJEqq3J) | [AZIZ.wav](https://open.spotify.com/artist/31hBwYTq1BDVU9Yr1eD3aQ), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D) | [SUMMER GLOW \(feat\. NBL\)](https://open.spotify.com/album/1FRtoshJo9OLt6TMrVooQj) | 3:53 | 2024-09-13 |  |
 | [Summer Rain](https://open.spotify.com/track/4MOUAKzdy6wa2AJHuuxIi8) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Summer Rain](https://open.spotify.com/album/6I3925ZMh8gJ4rSTovgSDp) | 3:20 | 2021-12-16 | 2022-11-20 |

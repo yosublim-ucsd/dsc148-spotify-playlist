@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 572430,
+  "num_followers": 572602,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -531,7 +531,7 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Al\u00e9m do Imposs\u00edvel / Pedro - Ao Vivo",
+        "name": "Al\u00e9m do Imposs\u00edvel / Pedro (Ao Vivo)",
         "url": "https://open.spotify.com/album/5uTw6KtalyBvjtWpTmipc0"
       },
       "artists": [
@@ -583,7 +583,7 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve - Ao Vivo",
+        "name": "Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve (Ao Vivo)",
         "url": "https://open.spotify.com/album/5iVinoFUTYOa4XxG98xxOA"
       },
       "artists": [
@@ -667,7 +667,7 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Quando o C\u00e9u Invade a Terra / Fogo Que Consome - Ao Vivo",
+        "name": "Quando o C\u00e9u Invade a Terra / Fogo Que Consome (Ao Vivo)",
         "url": "https://open.spotify.com/album/63YHw72apN2b7cQ67H520u"
       },
       "artists": [
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
+        "name": "Te Quero Mais do Que Tudo",
+        "url": "https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Evang\u00e9lica de Maring\u00e1",
+          "url": "https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA"
+        }
+      ],
+      "duration_ms": 386773,
+      "name": "Descansarei",
+      "url": "https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3"
+    },
+    {
+      "added_at": "2024-09-20 03:01:00",
+      "album": {
         "name": "Compromisso",
         "url": "https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 287506,
       "name": "No Sil\u00eancio",
       "url": "https://open.spotify.com/track/1pgHsf1WqOR7aCiqL3XYO7"
-    },
-    {
-      "added_at": "2024-09-20 03:01:00",
-      "album": {
-        "name": "Os Sonhos de Deus - Recebe a Cura - Adora\u00e7\u00e3o Prof\u00e9tica 1",
-        "url": "https://open.spotify.com/album/1yBo6HD5kUtj5CRz6v0Ovs"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 365826,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/5r35WP3ehhwgC2ctzUsFHS"
     },
     {
       "added_at": "2024-09-20 03:01:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2024-09-20 03:01:00",
       "album": {
-        "name": "Te Quero Mais do Que Tudo",
-        "url": "https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj"
+        "name": "Os Sonhos de Deus - Recebe a Cura - Adora\u00e7\u00e3o Prof\u00e9tica 1",
+        "url": "https://open.spotify.com/album/1yBo6HD5kUtj5CRz6v0Ovs"
       },
       "artists": [
         {
-          "name": "Comunidade Evang\u00e9lica de Maring\u00e1",
-          "url": "https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA"
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 386773,
-      "name": "Descansarei",
-      "url": "https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3"
+      "duration_ms": 365826,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/5r35WP3ehhwgC2ctzUsFHS"
     },
     {
       "added_at": "2024-09-20 03:01:00",

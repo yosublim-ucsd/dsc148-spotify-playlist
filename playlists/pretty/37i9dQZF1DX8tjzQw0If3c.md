@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Unearthing trailblazers\. Cover: Josh Makazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,774 likes - 84 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,773 likes - 84 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 | 19 | [Hadirlah Cahaya](https://open.spotify.com/track/6vQMYsi0YFiR8G0GVxPOa6) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:08 |
 | 20 | [Ya Hayati](https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Ya Hayati](https://open.spotify.com/album/0ZfkgUy4g9y5E4pekNGyNE) | 3:29 |
 | 21 | [Pentas Sandiwara](https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Pentas Sandiwara](https://open.spotify.com/album/1IjSlt19qg8tzbhyBtbdkR) | 4:04 |
-| 22 | [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \- From "X\-Change"](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 |
+| 22 | [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \(From "X\-Change"\)](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 |
 | 23 | [In Love With A Stranger \(Remake\)](https://open.spotify.com/track/1UDSrM6Aok7nFeFal7EBpa) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [In Love With A Stranger \(Remake\)](https://open.spotify.com/album/3XuN7gq843sayU9PbM7ROv) | 2:43 |
 | 24 | [BUSSDOWN](https://open.spotify.com/track/1ysZrTXCyxKWherTLuYZDr) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [JOEK](https://open.spotify.com/artist/7uGX423vQ21F0GrjCI7fvu) | [BUSSDOWN](https://open.spotify.com/album/12nyRS91N6oD8DgXuRg50H) | 2:42 |
 | 25 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 |

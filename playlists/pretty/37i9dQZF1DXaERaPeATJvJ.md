@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Tigapagi
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,998 likes - 119 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,000 likes - 119 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Erika](https://open.spotify.com/track/3iLdld7OiCgNcBf7jSC2HH) | [Tigapagi](https://open.spotify.com/artist/0S8tTc2LntsnsJtkDUToKp), [Ida Ayu Made Paramita Saraswati](https://open.spotify.com/artist/5wVXlPJ9zRthPcy1TSgUVo) | [Roekmana's Repertoire \(Remastered\)](https://open.spotify.com/album/115rswXhVTkKcQ9DFFfgii) | 4:56 |
-| 2 | [Desire \- Remastered 2006](https://open.spotify.com/track/09W7rB2LtPqaAjZ4caPRNT) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Desire \- Remastered 2006](https://open.spotify.com/album/2fdzGZ4azyny9eXwKBZe23) | 4:03 |
+| 2 | [Desire \- Remastered 2006](https://open.spotify.com/track/09W7rB2LtPqaAjZ4caPRNT) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Desire \(Remastered 2006\)](https://open.spotify.com/album/2fdzGZ4azyny9eXwKBZe23) | 4:03 |
 | 3 | [Menangisi Akhir Pekan](https://open.spotify.com/track/5IqEcSpcNQ8Mb3XEe1s2iw) | [Jenny](https://open.spotify.com/artist/0iUrBcDmfc4PL0bsbLDqcq) | [Manifesto](https://open.spotify.com/album/1i6B1vIx6lgv9R7xQhs6l0) | 4:30 |
 | 4 | [Mighty Love](https://open.spotify.com/track/4JvSk0QTgPWrZLki45fraa) | [Zeke And The Popo](https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j) | [Space in the Headlines](https://open.spotify.com/album/64asUZz3O4s8S7HK3Se1kW) | 3:40 |
 | 5 | [Putih](https://open.spotify.com/track/7HW7C1NSXomYmZRVYv7m0a) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Sinestesia](https://open.spotify.com/album/1PHrTyrvzRNkM3ni9D1ja0) | 9:46 |

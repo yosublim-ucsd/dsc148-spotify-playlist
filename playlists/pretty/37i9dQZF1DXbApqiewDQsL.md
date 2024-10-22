@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > Fresh new music by independent artists and labels, featuring Edgar Alejandro\. Updates every Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,148 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,159 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 36 | [Placas de Sinaloa](https://open.spotify.com/track/6vHDKDSUO5RediqId3pMhm) | [Segunda Generacion](https://open.spotify.com/artist/3yV4XvqkbtSACqTZcp6uux) | [Placas de Sinaloa](https://open.spotify.com/album/1kwSCCnu3rMAGhWsMfSyGl) | 2:45 |
 | 37 | [TINTEADO](https://open.spotify.com/track/4pkZkvLb6EoqQvpY8mM381) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [TINTEADO](https://open.spotify.com/album/4SgwY7r4w9JtPePdCjB5zn) | 2:21 |
 | 38 | [COCO LABIAL](https://open.spotify.com/track/4CiD6WRELwKblaPV2Pl3cO) | [Mando Exclusivo](https://open.spotify.com/artist/16GWmOhbfnUn6NmBrg9j3l) | [El Comienzo](https://open.spotify.com/album/68cxeMZsMbvCSUZZpjhTWB) | 2:26 |
-| 39 | [La Parranda \- En Vivo](https://open.spotify.com/track/7rYMjpB0FJGw5Fl6jMZpWm) | [Neto Becerra](https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ), [Grupo Sekta](https://open.spotify.com/artist/3pVczEvmnAbdKsaalbgy4j) | [Tequileando en Chicago \- En Vivo](https://open.spotify.com/album/6dbpafxg6UrMJITr64xdV0) | 2:49 |
+| 39 | [La Parranda \- En Vivo](https://open.spotify.com/track/7rYMjpB0FJGw5Fl6jMZpWm) | [Neto Becerra](https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ), [Grupo Sekta](https://open.spotify.com/artist/3pVczEvmnAbdKsaalbgy4j) | [Tequileando en Chicago \(En Vivo\)](https://open.spotify.com/album/6dbpafxg6UrMJITr64xdV0) | 2:49 |
 | 40 | [Moon](https://open.spotify.com/track/5Wp4HNq9irJe6NVL3dWuuD) | [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3) | [Moon](https://open.spotify.com/album/2d1DgPb4ii56HIjAMGq0cA) | 3:13 |
 | 41 | [Beliconas](https://open.spotify.com/track/71jVCWrWErZhrvVywvVLgM) | [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc) | [Beliconas](https://open.spotify.com/album/03dOg3kjLlQ5ftioBZ7KmD) | 2:41 |
 | 42 | [Miedo](https://open.spotify.com/track/1ttyQDwjNVzxAaH27aE2AD) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Miedo](https://open.spotify.com/album/70ARhx6oOzZ3nac3CTx0Lz) | 3:36 |

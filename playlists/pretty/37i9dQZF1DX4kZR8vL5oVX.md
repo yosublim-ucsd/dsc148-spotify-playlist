@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec Yseult \(du titre \#1 au \#14\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,363 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,372 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 37 | [Pyromanes](https://open.spotify.com/track/4U6SsSNef5oAGA0eMfvMDR) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [OCEANO NOX](https://open.spotify.com/album/5QBhx8xa2BVC8vDtklwVPl) | 3:05 |
 | 38 | [la pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [la pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 |
 | 39 | [Fleurs Fanées](https://open.spotify.com/track/49T0ep6z8zQG1m4iJfQPx3) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [Fleurs Fanées](https://open.spotify.com/album/0PUmXgFRh9hyIIG9cuBxPA) | 3:28 |
-| 40 | [Stalker](https://open.spotify.com/track/18LJA309PjDoViodm94Us1) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA \- Réédition](https://open.spotify.com/album/77womOdnf0Ttqnv7VeEDQn) | 2:51 |
+| 40 | [Stalker](https://open.spotify.com/track/18LJA309PjDoViodm94Us1) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA \(Réédition\)](https://open.spotify.com/album/77womOdnf0Ttqnv7VeEDQn) | 2:51 |
 | 41 | [Décibels](https://open.spotify.com/track/5CuTvuJxQEIwI9JS8LiI3k) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Décibels](https://open.spotify.com/album/3gnD4Xi42JDhk4vk6A1VxD) | 3:06 |
 | 42 | [Paqueta](https://open.spotify.com/track/1EXYDolm4Q74aoGv2qcjxZ) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Paqueta](https://open.spotify.com/album/7z0iznP5UOTtityREHUvX0) | 2:40 |
 | 43 | [More Love](https://open.spotify.com/track/2u61bnDMLxqboFAZLin2XL) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [More Love](https://open.spotify.com/album/20hbGMg4Xyaa9sJ0HC3lSH) | 2:40 |

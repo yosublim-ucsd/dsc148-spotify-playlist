@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Giuse The Lizia sulla cover della playlist con il meglio dell’indie italiano!
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,576 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,592 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 36 | [Lily](https://open.spotify.com/track/0GhVyHeFbIj8v2s5SjAV3V) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1), [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp) | [Lily](https://open.spotify.com/album/3BzZ4rNEMK02aMd9OmumJN) | 1:55 |
 | 37 | [Suona](https://open.spotify.com/track/5TvUHRaL7vEowTJdlf7uLQ) | [Motta](https://open.spotify.com/artist/1gRsYpSd9fR8x92ppdlCg3) | [Suona! Vol.1](https://open.spotify.com/album/6R1f97fvkL6rjEG87EFHFV) | 4:31 |
 | 38 | [Loneliness](https://open.spotify.com/track/0HJd4ynGL3mn0p2o6WE9DI) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 2:39 |
-| 39 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
+| 39 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
 | 40 | [Tutti i Miei Piani](https://open.spotify.com/track/1ygdH0oCaLBxNuLWstQYEP) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS) | [Tutti i miei piani](https://open.spotify.com/album/1lNLJNWSiVbL7wEJ1XQn5p) | 3:03 |
 | 41 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 |
 | 42 | [Trentasette denti](https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb) | [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa) | [TUFFO](https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS) | 3:34 |

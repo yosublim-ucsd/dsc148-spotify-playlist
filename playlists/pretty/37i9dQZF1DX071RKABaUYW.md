@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Tiberius b
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,010 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,008 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 | 20 | [Charlie's Comet](https://open.spotify.com/track/2Y7Z6kTzPQFwStThi451lf) | [Mandrake Handshake](https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn) | [Charlie's Comet](https://open.spotify.com/album/5Rfey08LMXUVIPlXr3r6HH) | 4:02 |
 | 21 | [Can't Change My Mind](https://open.spotify.com/track/0Imm8xaeUrNH8YHqQtqAKZ) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Can't Change My Mind](https://open.spotify.com/album/4K9nJFIXM8dyi6V48yDDY0) | 2:33 |
 | 22 | [Bend](https://open.spotify.com/track/2MMglKkdydxQaDp09cCwNU) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Bend](https://open.spotify.com/album/6SDXtm2m1G4Jd47z7sIKa5) | 3:05 |
-| 23 | [當娜喜歡寄生蟲 \- donna likes parasites](https://open.spotify.com/track/6fZYusbSpQGo5oYnnUR3PD) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [nothing or something to die for \- Cantonese tasting menu](https://open.spotify.com/album/40AlsOdaVPYFkVdmtC4Bjg) | 3:59 |
+| 23 | [當娜喜歡寄生蟲 \- donna likes parasites](https://open.spotify.com/track/6fZYusbSpQGo5oYnnUR3PD) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [nothing or something to die for \(Cantonese tasting menu\)](https://open.spotify.com/album/40AlsOdaVPYFkVdmtC4Bjg) | 3:59 |
 | 24 | [Chicago Town](https://open.spotify.com/track/4HWoSEMc2gaaNBuAN47r8H) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Chicago Town](https://open.spotify.com/album/1s7bTGiLQ3Rk37FD7Zicqf) | 3:27 |
 | 25 | [Reckless](https://open.spotify.com/track/4CP0pVsMhxvnRz7hs17SGz) | [Kassie Krut](https://open.spotify.com/artist/7GblQfA1PogV6RMgys9a7X) | [Reckless](https://open.spotify.com/album/5RMW3S2ZP6ndIYaZJfxZ2o) | 3:48 |
 | 26 | [The Go Down](https://open.spotify.com/track/4r1IIs9keKHVRO7KSlnxCh) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [The Go Down](https://open.spotify.com/album/439ekKZJmgH7sWLk6Ze4JH) | 2:10 |

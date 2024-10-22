@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 
 > Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,975 likes - 109 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,623 likes - 109 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 | 72 | [More Than a Mystery](https://open.spotify.com/track/2PzmEjCvjYSuGePnch0Yue) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6) | [ZOMBIES: Addison's Moonstone Mystery](https://open.spotify.com/album/4yowQ8Wed8f51r7ahFIqgs) | 3:20 |
 | 73 | [Agatha All Along](https://open.spotify.com/track/0kHsXoIt6dONEdkgKgyjoK) | [Kristen Anderson\-Lopez](https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD), [Robert Lopez](https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB), [Kathryn Hahn](https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb), [Eric Bradley](https://open.spotify.com/artist/1Yv2bYY94u2nm7OHwrEIcQ), [Greg Whipple](https://open.spotify.com/artist/1wNMHuKUcnVHROrQKTD0nP), [Jasper Randall](https://open.spotify.com/artist/4SRa1GAIUaHyIewJTmBs03), [Gerald White](https://open.spotify.com/artist/4H1hvfjLlg0hcxj8lwDOt9) | [WandaVision: Episode 7 \(Original Soundtrack\)](https://open.spotify.com/album/5ALs5g5Hfd0EaLLzA2Cgza) | 1:02 |
 | 74 | [Jack's Lament](https://open.spotify.com/track/7l8IONINqjkW00eRK9ZTXl) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Nightmare Revisited](https://open.spotify.com/album/4Usx75m9IrKX0GBL8y6XZr) | 3:14 |
-| 75 | [Trust in Me](https://open.spotify.com/track/6UtpOAQMPOYVDHBhj0o0CF) | [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa) | [The Jungle Book \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 2:54 |
+| 75 | [Trust in Me](https://open.spotify.com/track/6UtpOAQMPOYVDHBhj0o0CF) | [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa) | [The Jungle Book \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm) | 2:54 |
 | 76 | [Ghostly Music Box](https://open.spotify.com/track/3niMSmtgEHq56eUJEwpMmM) | [Music Box \- Haunted Mansion](https://open.spotify.com/artist/3bEfY72ayIXr3hSQnrTRpJ) | [The Haunted Mansion](https://open.spotify.com/album/0D0ewaLXve7NBibkwrrdIA) | 2:06 |
 | 77 | [Shake Your Bones](https://open.spotify.com/track/3JK1TFuy5wVNLVI4aO0K7v) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Halloween Songs & Sounds](https://open.spotify.com/album/6qFkmKtc6jJso1Bc3UIGDo) | 2:42 |
 | 78 | [Prince Ali \(Reprise\)](https://open.spotify.com/track/5BEItY9of9nR4zj51JO0jU) | [Jonathan Freeman](https://open.spotify.com/artist/2970T0VJFpIWMA2aZi6Lpi), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29EiOQJnxWlX5nVOWQpu3u) | 1:07 |

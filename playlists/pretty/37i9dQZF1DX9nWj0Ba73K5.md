@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: In memory of Kris Kristofferson
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,716 likes - 185 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,748 likes - 185 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:30 |
 | 2 | [boy.](https://open.spotify.com/track/0aG4Vxn98aDXy39w9emrki) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 3:17 |
-| 3 | [Blue Ain't Your Color \- Acoustic](https://open.spotify.com/track/0xYjW9K0zy87OxVB2GR3Qs) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Blue Ain't Your Color \- Acoustic](https://open.spotify.com/album/25x9aHFfLKCJUUapXdy7je) | 4:00 |
+| 3 | [Blue Ain't Your Color \- Acoustic](https://open.spotify.com/track/0xYjW9K0zy87OxVB2GR3Qs) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Blue Ain't Your Color \(Acoustic\)](https://open.spotify.com/album/25x9aHFfLKCJUUapXdy7je) | 4:00 |
 | 4 | [The Tunnel](https://open.spotify.com/track/3sSyvsyG3chmMvsWgPqV6J) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [The Tunnel](https://open.spotify.com/album/44v9jy2Eu3R3lBXecU6iFo) | 4:52 |
 | 5 | [Smokin' and Drinkin' \(feat\. Natalie Hemby\)](https://open.spotify.com/track/2bFcHKnxNL5nojlysWlcvl) | [Shane McAnally](https://open.spotify.com/artist/0DxKYZItTwmdZYicUhm05C), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Original Songwriter Demos](https://open.spotify.com/album/4pntx2ihrs8TnmGP1QmDSA) | 4:06 |
 | 6 | [Whiskey Colored Crayon](https://open.spotify.com/track/3lhNhhXTaZ4MctV8turR8r) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:26 |

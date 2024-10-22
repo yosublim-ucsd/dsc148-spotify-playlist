@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764 likes - 131 songs - 14 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 765 likes - 131 songs - 14 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 66 | [God Don't Make Mistakes \(feat\. Dante Bowe, Montell Fish & Mav City Gospel Choir\)](https://open.spotify.com/track/7Gm5qTbZOdsCDdRohqoFVB) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Jubilee: Juneteenth Edition](https://open.spotify.com/album/6wjcKFIUSu5mz1CcN7CcZH) | 3:50 |
 | 67 | [Nothing / Something \- Live](https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nothing/Something \(Live\)](https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl) | 5:21 |
 | 68 | [It's Okay](https://open.spotify.com/track/6vjCST4h9U7gIThVSZtCYD) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Feelings](https://open.spotify.com/album/6e9VWN39GEDn8hcIO7gJj4) | 4:38 |
-| 69 | [Don't Talk About It](https://open.spotify.com/track/7vJYLQayN6JRggpGDkFc4r) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Jesse Cline](https://open.spotify.com/artist/34dwOJpG3qpSQ9RfSsA6yF) | [Don't Talk About It](https://open.spotify.com/album/1kLt8paA5RdnQFrHocPPw7) | 3:38 |
-| 70 | [Not Just Stories \(feat\. Aaron Moses\)](https://open.spotify.com/track/17Nk8D3lbtnUZ5qVFRDntv) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 8:40 |
+| 69 | [Not Just Stories \(feat\. Aaron Moses\)](https://open.spotify.com/track/17Nk8D3lbtnUZ5qVFRDntv) | [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3), [Aaron Moses](https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7) | [Not Just Stories](https://open.spotify.com/album/1fpsdfEyu0qiyGGGWWyGfO) | 8:40 |
+| 70 | [Don't Talk About It](https://open.spotify.com/track/7vJYLQayN6JRggpGDkFc4r) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Jesse Cline](https://open.spotify.com/artist/34dwOJpG3qpSQ9RfSsA6yF) | [Don't Talk About It](https://open.spotify.com/album/1kLt8paA5RdnQFrHocPPw7) | 3:38 |
 | 71 | [He Reigns \(Spontaneous\) \[Live\]](https://open.spotify.com/track/4sW3tZYfDe4oqBKh8ao6w4) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:26 |
 | 72 | [circles](https://open.spotify.com/track/1J4G6pMK5dUAzDvCEu7oAR) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:49 |
 | 73 | [Outro \[Remember\] \(feat\. Dante Bowe & Eniola Abioye\)](https://open.spotify.com/track/30gX2RmXyHKsfRsdB2fKSX) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [You Hold It All Together](https://open.spotify.com/album/7uZioCeVgBz0I6mTC3mL26) | 4:49 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 130 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 131 | [Champion/Gratitude \- Live](https://open.spotify.com/track/4L7EfoJTqBiGJlHde4zncx) | [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/1geSpbhN3fFFhDCkkq385b) | 10:46 |
 
-Snapshot ID: `AbfUaAAAAACl8TuolwGPDsvWmjRWqrEM`
+Snapshot ID: `AbfZzAAAAAC02QibJbI6PtrtTCiQRwme`

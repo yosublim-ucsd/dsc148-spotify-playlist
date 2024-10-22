@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 37370,
+  "num_followers": 37376,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Riccardo Del Turco",
+        "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Del Turco",
+          "url": "https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Luglio",
+      "url": "https://open.spotify.com/track/083VTM4yXnNrspPRcVadTm"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Gruppo Italiano",
         "url": "https://open.spotify.com/album/4qGJn9ggCnF2YMh3q7pVfD"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 236813,
       "name": "Nell'aria",
       "url": "https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Riccardo Del Turco",
-        "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
-      },
-      "artists": [
-        {
-          "name": "Riccardo Del Turco",
-          "url": "https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "Luglio",
-      "url": "https://open.spotify.com/track/083VTM4yXnNrspPRcVadTm"
     },
     {
       "added_at": "2024-08-02 00:01:00",

@@ -4,7 +4,7 @@
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-632 songs - 1 day 13 hr 38 min
+634 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [All Your Love](https://open.spotify.com/track/5yeAueY8i94ZgDhYrrtqAy) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [All Your Love](https://open.spotify.com/album/1ue4TwX3fJ4SoaD9BuXaID) | 2:44 | 2024-03-08 |  |
 | [Amnesia](https://open.spotify.com/track/1louoVYSYYP4FwOBz2KlxR) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Amnesia](https://open.spotify.com/album/5nJI9LH0cyPEMVqxfc1m07) | 4:47 | 2022-05-31 | 2022-09-07 |
 | [Angel Falls](https://open.spotify.com/track/18mq8tGDlx1wF16w1YZxTf) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Angel Falls](https://open.spotify.com/album/4p1xPxPef4pe0cyAqJa20l) | 3:46 | 2024-05-10 |  |
-| [Another Day](https://open.spotify.com/track/516dXS5QwzvlvP3zS63dnS) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Another Day](https://open.spotify.com/album/2mCmt4mpUId90aVmNJY7zt) | 4:47 | 2024-05-23 |  |
+| [Another Day](https://open.spotify.com/track/516dXS5QwzvlvP3zS63dnS) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Another Day](https://open.spotify.com/album/2mCmt4mpUId90aVmNJY7zt) | 4:47 | 2024-05-23 | 2024-10-22 |
 | [Another Fairytale](https://open.spotify.com/track/6q49DPa2Q5D8ZNi6Hz62uJ) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Another Fairytale](https://open.spotify.com/album/5uCV7xBcsS9iJXd6UPKUr6) | 2:33 | 2024-04-10 |  |
 | [Answer Me](https://open.spotify.com/track/2fTGteXpvwsNG8K83YyhRb) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [A Promise](https://open.spotify.com/album/1XgXxxdonnIbTNWF4SZ5nz) | 5:53 | 2023-09-08 | 2024-07-13 |
 | [Apple Crumble](https://open.spotify.com/track/0hopRI3X9IUDYDM5jp3U3P) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Last Goodbye](https://open.spotify.com/album/5w2EjSu6wKnsZppJAJhnpF) | 2:53 | 2022-05-17 |  |
@@ -69,7 +69,7 @@
 | [Banks of Noon](https://open.spotify.com/track/2HriYFonV6QkhctkB8DMxY) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Banks of Noon](https://open.spotify.com/album/7EOxOqItUbFeCrlC4xxgfR) | 3:35 | 2022-12-08 |  |
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2022-11-24 | 2024-06-25 |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-14 | 2024-08-13 |
-| [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-02 |  |
+| [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-02-02 | 2024-10-22 |
 | [Beginning of Something](https://open.spotify.com/track/6EHME1dvYCYL1pJxOnNfv7) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Beginning of Something](https://open.spotify.com/album/4EkwCZta27L1fKf4DWny0v) | 3:41 | 2024-09-27 |  |
 | [Behind The Counter](https://open.spotify.com/track/1OxWXhGSkz9VSGVhLXveg8) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Behind The Counter](https://open.spotify.com/album/6wSUxKY1QteYSmVIk0X9C6) | 3:22 | 2023-06-08 | 2024-08-07 |
 | [Beloved Dance](https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Beloved Dance](https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1) | 3:03 | 2024-01-12 | 2024-08-20 |
@@ -82,6 +82,7 @@
 | [Blue Room](https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Blue Room](https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7) | 2:38 | 2022-09-29 | 2024-05-11 |
 | [Blues for a Lost Love](https://open.spotify.com/track/5ZofcIkLEHUrLQh3TeTlji) | [Reed Stricklers](https://open.spotify.com/artist/3YymwcoMkoY21jce0PLBaC) | [Blues for a Lost Love](https://open.spotify.com/album/1FhT1PEEuKf3ARcIujXGOL) | 2:46 | 2023-04-13 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-16 |  |
+| [Buddies](https://open.spotify.com/track/2IVgmaenG1aoYw7AAH2Igd) | [Tree Nomads](https://open.spotify.com/artist/5Yx5pz9BopNSoHRwZ0VBkF) | [Buddies](https://open.spotify.com/album/0MI9Kf14IXzNJalQt6nCQF) | 3:34 | 2024-10-21 |  |
 | [But Beautiful](https://open.spotify.com/track/544ppWBvwxnRrUW5xEeFib) | [Noah Haidu](https://open.spotify.com/artist/3RxXFxN0EPStw5Lzp8PgeB) | [Slowly: Song For Keith Jarrett](https://open.spotify.com/album/3ao4V8JWq7202kLaRI8cF5) | 9:51 | 2022-05-17 | 2022-09-15 |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2022-05-17 | 2023-12-14 |
 | [Café Conversations](https://open.spotify.com/track/31QE8TMPJ85lWDq9qnmn14) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Café Conversations](https://open.spotify.com/album/2muK6k9bOIkTLkQXfXJ4TR) | 3:44 | 2023-08-17 | 2024-08-07 |
@@ -115,7 +116,7 @@
 | [Cool Breeze](https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Cool Breeze](https://open.spotify.com/album/2onbyBVdickYJ8OAZfqJPa) | 4:13 | 2023-08-17 | 2024-10-08 |
 | [Copenhagen](https://open.spotify.com/track/0VVVbPZGjOrOAsc2NCj1kC) | [Black Door Band](https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni) | [Copenhagen](https://open.spotify.com/album/2rk2djcLVkyWKIcD3CZ7QW) | 4:01 | 2024-08-26 |  |
 | [Could It Be You](https://open.spotify.com/track/0g27tgo8UmdZBECgdglKi6) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Could It Be You](https://open.spotify.com/album/4KBJDdFu6PY1z0pOHWv9WT) | 3:42 | 2022-10-27 | 2023-12-22 |
-| [Country house](https://open.spotify.com/track/3UZL035zZvEx7DbZbwB1ti) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Country house](https://open.spotify.com/album/2Ukym7x4DKIMAXCHVLqkfU) | 2:55 | 2023-12-08 |  |
+| [Country house](https://open.spotify.com/track/3UZL035zZvEx7DbZbwB1ti) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Country house](https://open.spotify.com/album/2Ukym7x4DKIMAXCHVLqkfU) | 2:55 | 2023-12-08 | 2024-10-22 |
 | [Crystal City](https://open.spotify.com/track/4QyN9jRW7fg9JDr3qFpz62) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 2:58 | 2022-10-13 | 2024-10-08 |
 | [Cycles](https://open.spotify.com/track/3GaxNr64IWzj9FUhheY28E) | [Evelyn Parker](https://open.spotify.com/artist/1LMCJSyREKfmg3OJqh5uGc) | [Cycles](https://open.spotify.com/album/7eP8ZPsn9f3GnR61fsIVji) | 3:40 | 2023-03-23 | 2023-04-14 |
 | [Dance with the Language](https://open.spotify.com/track/4ViiFmHiLO7DWTQTZvq2rm) | [Leonardo Mendonça](https://open.spotify.com/artist/0zt6SqlvpnZ7LNMWj8ee4e) | [Dance with the Language](https://open.spotify.com/album/7AWvkoX1lhQXD3SZSq1uMt) | 2:58 | 2024-08-19 |  |
@@ -504,7 +505,7 @@
 | [Tales of the Urban Night](https://open.spotify.com/track/42SXZOzFwDj2d0Lj6dIZW2) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Tales of the Urban Night](https://open.spotify.com/album/0Lq4ADg6oshOAymc9qbvkU) | 3:55 | 2024-03-08 |  |
 | [Tap on my Door](https://open.spotify.com/track/4ezJCCD1FWm2VcCH8HM3zA) | [Motor City Trio](https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs) | [Tap on my Door](https://open.spotify.com/album/4pjKtKKOOKoi6ug0Mjqxi7) | 3:34 | 2022-10-27 |  |
 | [Tenderly](https://open.spotify.com/track/5dnf9JbsZFMsiXzQuZ22Tz) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Tenderly](https://open.spotify.com/album/6JZ4EsGq0Bd5SgbD6pVxeR) | 3:16 | 2024-05-10 |  |
-| [That's All](https://open.spotify.com/track/59mVrBgcjofN5aU96PPOqj) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [That's All](https://open.spotify.com/album/1NG2MHtqLO0f4BAZGSOFN7) | 3:02 | 2024-04-10 |  |
+| [That's All](https://open.spotify.com/track/59mVrBgcjofN5aU96PPOqj) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [That's All](https://open.spotify.com/album/1NG2MHtqLO0f4BAZGSOFN7) | 3:02 | 2024-04-10 | 2024-10-22 |
 | [That´s All](https://open.spotify.com/track/3rQfFOipumOd794SsD9xAn) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [That´s All](https://open.spotify.com/album/07jtuEoMDVUHQLvXs3IoFN) | 3:16 | 2022-08-29 | 2024-07-02 |
 | [That’s gotta be it](https://open.spotify.com/track/0FazSNhRZ6WLccyfjtKFZB) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [That’s gotta be it](https://open.spotify.com/album/3PeEeMedpzBi6ab7lCqCJG) | 3:18 | 2023-03-23 |  |
 | [The April Skies](https://open.spotify.com/track/7MTAzNGDR2oen6dmPKxI3C) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [The April Skies](https://open.spotify.com/album/4g98w5zi81287g6iuPt3bJ) | 3:33 | 2023-01-05 | 2024-08-13 |
@@ -513,6 +514,7 @@
 | [The Bar Next Door](https://open.spotify.com/track/61b4hjXWxJs9jCYMIntPpX) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [The Bar Next Door](https://open.spotify.com/album/48hsPpL6duMwyOtuYJLtXm) | 5:31 | 2024-04-23 | 2024-07-13 |
 | [The Beat Of A Different Drum](https://open.spotify.com/track/67ljrdF7u8X2xbj4zgkPDQ) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [The Beat Of A Different Drum](https://open.spotify.com/album/1NSbnYV7dQaSqSeodWJHxA) | 3:23 | 2023-05-11 | 2023-10-06 |
 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 | 2022-05-17 |  |
+| [The Cage](https://open.spotify.com/track/0nshd6vK1OcwIeUFyniwes) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [The Cage](https://open.spotify.com/album/2N5dwzmK0uyhR9gTAFIZJk) | 4:59 | 2024-10-21 |  |
 | [The Day that I Felt](https://open.spotify.com/track/7IVkAhHfWNsc7HUxKddN1x) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:18 | 2023-02-02 | 2024-05-24 |
 | [The Days Of Wine And Roses](https://open.spotify.com/track/4perVeAQ5hn68NDRx6nzey) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [The Days Of Wine And Roses](https://open.spotify.com/album/2k7HeS16u7cqaUJei7VuAf) | 3:05 | 2023-02-09 |  |
 | [The expensive kind](https://open.spotify.com/track/2C6K8sN1UkCUQxq8tQNT8d) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [The expensive kind](https://open.spotify.com/album/49uuv7SiOwTc1IhFFJ5AFW) | 2:52 | 2024-07-01 |  |

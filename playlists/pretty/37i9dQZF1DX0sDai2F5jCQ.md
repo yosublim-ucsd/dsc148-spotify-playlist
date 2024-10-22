@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,008 likes - 79 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,056 likes - 79 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 41 | [MEDUSA PACKS](https://open.spotify.com/track/3ixPGDV9rbEBKrUhGAFCY4) | [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [THE WARLOCK AND THE GORILLA](https://open.spotify.com/album/73tUZvr1SKfltx3RgZxXVf) | 3:07 |
 | 42 | [Miss Independent](https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z) | 3:05 |
 | 43 | [IDK](https://open.spotify.com/track/3cVfWXfcy72lJslIdfKXyR) | [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [IDK](https://open.spotify.com/album/2Y0DM8tj6FtYo0jzkcQlPh) | 2:54 |
-| 44 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/1uDYxzeUCAEPfZq6eV18cm) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Y2K! \- Bonus](https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK) | 1:58 |
+| 44 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/1uDYxzeUCAEPfZq6eV18cm) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Y2K! \(Bonus\)](https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK) | 1:58 |
 | 45 | [The Largest](https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [The Largest](https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144) | 2:12 |
 | 46 | [Maybach Wallet](https://open.spotify.com/track/086OIQVqSMKZRIE28P7ds9) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Maybach Wallet](https://open.spotify.com/album/1ERLcIsPGfZpS3v4zOFFJ3) | 2:33 |
 | 47 | [You Won't](https://open.spotify.com/track/7nzeonrsnd8GkQno8qDr8u) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [You Won't](https://open.spotify.com/album/3CYZumdsP2LpbBdQVdyUHh) | 3:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > Aquí viven los hits más grandes en La Isla del Encanto\. Myke Towers en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,072 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,119 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 47 | [Baby Demon](https://open.spotify.com/track/1PGXHcJVqYWVMVkMLIDGZV) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Baby Demon](https://open.spotify.com/album/0yMErHqzYaX4PyCAz4640l) | 5:11 |
 | 48 | [no soy 2.0](https://open.spotify.com/track/6QDP2lBtdNx3MtwCSO8gTB) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF) | [no soy 2.0](https://open.spotify.com/album/7kJFDsA9D2mivO1ut2TqNq) | 4:20 |
 | 49 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 |
-| 50 | [VVS Switch \(feat\. Luar La L & CDobleta\) \- Remix](https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [VVS Switch \(feat\. Luar La L & CDobleta\) \- Remix](https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb) | 9:15 |
+| 50 | [VVS Switch \(feat\. Luar La L & CDobleta\) \- Remix](https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [VVS Switch \(feat\. Luar La L & CDobleta\) \[Remix\]](https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb) | 9:15 |
 
 Snapshot ID: `ZxKqtgAAAADW1+ZOqa3hNmQ4Ff5Qbu1D`

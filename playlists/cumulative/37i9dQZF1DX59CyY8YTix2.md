@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Aooo
 
-1,751 songs - 4 day 12 hr 49 min
+1,752 songs - 4 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1329,7 +1329,7 @@
 | [今日の歌](https://open.spotify.com/track/53h744IVUMFPmYW38sdxUr) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [今日の歌](https://open.spotify.com/album/42NaaOoNPj8UAuhlNfLS0w) | 3:54 | 2022-06-02 | 2022-07-17 |
 | [今晩の喧嘩](https://open.spotify.com/track/5BJNsJTrmjn21Y3K0eTxfK) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [今晩の喧嘩](https://open.spotify.com/album/3yjTA6CkYo5kvlZCvIIdDb) | 3:41 | 2024-04-09 | 2024-10-09 |
 | [仏だけ徒歩](https://open.spotify.com/track/7MEMAyebsx7YiRYN4EOlpQ) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [仏だけ徒歩](https://open.spotify.com/album/4bs0xtr8DorVBNUHeQ2Kvp) | 3:33 | 2022-06-02 | 2022-07-12 |
-| [仕事](https://open.spotify.com/track/4wcemwAdipLH6EzEskGXIC) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [仕事](https://open.spotify.com/album/5akDksBg6qMRNGzfZikEUc) | 4:15 | 2024-09-10 |  |
+| [仕事](https://open.spotify.com/track/4wcemwAdipLH6EzEskGXIC) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [仕事](https://open.spotify.com/album/5akDksBg6qMRNGzfZikEUc) | 4:15 | 2024-09-10 | 2024-10-22 |
 | [会いたくなって、飛んだバイト](https://open.spotify.com/track/5zY4faVL5mefzyO4HSBHoc) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [会いたくなって、飛んだバイト](https://open.spotify.com/album/4lx6wgb1j0KwJSlbWn6yEg) | 3:36 | 2023-08-15 | 2023-08-23 |
 | [会いに来て](https://open.spotify.com/track/068tBNbcqxk7WGleGTlKCm) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [星屑ドライブ \- ep](https://open.spotify.com/album/3xYJlfLMWIPVlaa4We5XkB) | 4:12 | 2022-06-07 | 2022-07-07 |
 | [会えないのに](https://open.spotify.com/track/6LTMjAkawUQOBGRlj22r0R) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 8](https://open.spotify.com/album/629Tqastk0qbtWCp8IAYCO) | 5:07 | 2024-04-09 | 2024-10-09 |
@@ -1507,6 +1507,7 @@
 | [日曜前夜](https://open.spotify.com/track/2JLH9fAXsIK3APJMs9Nizh) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [日曜前夜](https://open.spotify.com/album/4aVcSbbEmsjUlDeCAD8y5N) | 4:24 | 2023-06-13 | 2023-06-15 |
 | [日曜日](https://open.spotify.com/track/2yvjnFNORLgGDeASYEtPVX) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [Amoeba](https://open.spotify.com/album/0GYLGVxaB0GpFYGf1CxYCa) | 3:37 | 2022-05-31 | 2022-07-29 |
 | [日曜日をちょうだい](https://open.spotify.com/track/7rMgKCnSP8CVWyB8k60nWb) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [日曜日をちょうだい](https://open.spotify.com/album/6qrbs18MkM96DZfERFYzOs) | 4:38 | 2022-07-14 | 2022-07-20 |
+| [明るい葬式](https://open.spotify.com/track/6BBKSAhUwEyPc3M4IlcKBv) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [明るい葬式](https://open.spotify.com/album/0lyQYuoZecfVrVx9SRYYqi) | 4:07 | 2024-10-15 |  |
 | [明日になれば](https://open.spotify.com/track/53ssYIfvnjmFXShUCKv7ae) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [明日になれば](https://open.spotify.com/album/1dAc4Q0xFep877nAzD6oE4) | 4:10 | 2022-06-16 | 2022-07-09 |
 | [明日には振り向いてよ](https://open.spotify.com/track/0naHfononc9Vyfudm4LIFj) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [明日には振り向いてよ](https://open.spotify.com/album/5aDHbkNhsnb00OwJFh3PZp) | 3:09 | 2022-07-05 | 2022-08-24 |
 | [明日も \- ACOUSTIC ver.](https://open.spotify.com/track/2nbexm76qC5yhsDZv2c9Mg) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ACOUSTIC SHISHAMO](https://open.spotify.com/album/6ANqd2133JhgbdoR3yB8O0) | 6:07 | 2023-11-07 | 2023-11-22 |

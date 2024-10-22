@@ -10,8 +10,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 |---|---|---|---|---|
 | 1 | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/track/2lTjq0awAyliTkJoq29sDR) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/album/2QhpPNOEetQcsy6U3Q6hTw) | 2:36 |
 | 2 | [Har Hørt Dig](https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Har Hørt Dig](https://open.spotify.com/album/3gbegKHxsPWWgVtej2tTQw) | 2:13 |
-| 3 | [Originalé](https://open.spotify.com/track/7a8QNbrbohDxhdtp0jnJHQ) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Originalé](https://open.spotify.com/album/1liy58f0TzhZyDYcyDnIxT) | 2:17 |
-| 4 | [Mhhh \(feat\. MAS & Artigeardit\)](https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [TIDEN GÅR](https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN) | 3:03 |
+| 3 | [Mhhh \(feat\. MAS & Artigeardit\)](https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu) | [Josef](https://open.spotify.com/artist/3NpkkvYFWSFAazQIF7NYbB), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [TIDEN GÅR](https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN) | 3:03 |
+| 4 | [Originalé](https://open.spotify.com/track/7a8QNbrbohDxhdtp0jnJHQ) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Originalé](https://open.spotify.com/album/1liy58f0TzhZyDYcyDnIxT) | 2:17 |
 | 5 | [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 |
 | 6 | [PASSES & PLEJES](https://open.spotify.com/track/0TmC1L3dxMPv9B2CNrSSWr) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BABA BUSINESS 3 \(DELUXE\)](https://open.spotify.com/album/1jsKNmpMXAq6jIVLeqgTt8) | 2:20 |
 | 7 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 69 | [Skrue Løs](https://open.spotify.com/track/7ARkCctaMpssbrBp8J4w8C) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Skrue Løs](https://open.spotify.com/album/6dPL421VFL9pfJOgk3BXjm) | 2:04 |
 | 70 | [BENZ](https://open.spotify.com/track/0VfA42lvkgmpCE73fFxKjE) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [BENZ](https://open.spotify.com/album/4yU3IEVdrCYGldYLiUIxqq) | 2:20 |
 
-Snapshot ID: `ZxGI4AAAAABwFfmsgUx56Vq6IhorDsDH`
+Snapshot ID: `ZxYRpAAAAACImP325sKb32G2+fyswIRx`

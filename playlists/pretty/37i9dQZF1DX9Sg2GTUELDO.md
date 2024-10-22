@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: Gin Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,345 likes - 391 songs - 23 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,350 likes - 391 songs - 23 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 36 | [解咒說明書](https://open.spotify.com/track/7LJbnO4dGlntR0BuzI7mTV) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [解咒說明書](https://open.spotify.com/album/7hCvLsp8Tky2C61PEdJlMT) | 3:36 |
 | 37 | [外星少女失語症](https://open.spotify.com/track/1b3RrSZo4YlfMld5CwwFez) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [外星少女失語症](https://open.spotify.com/album/2pBDOiVOij3gFzBGsE1IkS) | 3:03 |
 | 38 | [一人之下](https://open.spotify.com/track/5lLE94LzoxV3jhu5FIeLsx) | [J.Arie](https://open.spotify.com/artist/1XtqhbH2mw54S87c4d4v2v) | [一人之下](https://open.spotify.com/album/1JdM7k7tnI7zHsQTcO2FrF) | 4:34 |
-| 39 | [劇集《愛．回家之開心速遞》主題曲](https://open.spotify.com/track/3IfwYUHvlMJatwYieaX35a) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [這個家 \- 劇集《愛．回家之開心速遞》主題曲](https://open.spotify.com/album/2jBOH57frK2GkNmTzWvaHU) | 3:00 |
+| 39 | [劇集《愛．回家之開心速遞》主題曲](https://open.spotify.com/track/3IfwYUHvlMJatwYieaX35a) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [這個家 \(劇集《愛．回家之開心速遞》主題曲\)](https://open.spotify.com/album/2jBOH57frK2GkNmTzWvaHU) | 3:00 |
 | 40 | [DiDiDiva](https://open.spotify.com/track/782efJyJ61Ul7caPXTgCFm) | [阿正](https://open.spotify.com/artist/0rCBTMt7H9EnjzeT2IeSBh) | [DiDiDiva](https://open.spotify.com/album/7LguJrPMX4ynOYHRZK6X4Z) | 3:25 |
 | 41 | [公審法院](https://open.spotify.com/track/6ckM8jlHCubm0ad3DOz8hS) | [趙展彤 VAL](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG), [Chloe Wong 黃筠兒](https://open.spotify.com/artist/2JLMtU26DC66HgEAq6TQY8), [Kilby Chan 超酸](https://open.spotify.com/artist/7MqXSsZ53ZvfcplaVcP43C) | [公審法院](https://open.spotify.com/album/66j7GnlvlEecqqpAKFHmny) | 3:38 |
 | 42 | [神愛世人](https://open.spotify.com/track/69mgDd4R5jAsa8b8oxZqzF) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [神愛世人](https://open.spotify.com/album/21vSGEeZ3YYGavCLhK2fEA) | 3:43 |
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 128 | [謝謝你陪我那麼久](https://open.spotify.com/track/2fmSgHQ7bmeczwdGYmrLnJ) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [謝謝你陪我那麼久](https://open.spotify.com/album/5EFhYXBvXzTBLZ2aoH4t0q) | 3:25 |
 | 129 | [吸引之力](https://open.spotify.com/track/4l9cckN8dKOeBBuaL28dFA) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [吸引之力](https://open.spotify.com/album/3rxgdggzUqoYA9zCmRtg3d) | 3:38 |
 | 130 | [美男子圖鑑](https://open.spotify.com/track/5mhWe9oy3xHB52Qhf86DVt) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [美男子圖鑑](https://open.spotify.com/album/3aHapX83gJwZznhrxKC2rM) | 2:55 |
-| 131 | [夜風中 \- 電視劇《繁花》歌曲](https://open.spotify.com/track/0lvs3h7idaLPhnG1eslC75) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [夜風中 \- 電視劇《繁花》歌曲](https://open.spotify.com/album/0VuHTFO8gQFu81ggO0yuVP) | 3:40 |
+| 131 | [夜風中 \- 電視劇《繁花》歌曲](https://open.spotify.com/track/0lvs3h7idaLPhnG1eslC75) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [夜風中 \(電視劇《繁花》歌曲\)](https://open.spotify.com/album/0VuHTFO8gQFu81ggO0yuVP) | 3:40 |
 | 132 | [撞到正](https://open.spotify.com/track/6yBpBsHVcuKsmTlZbZWwA6) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [撞到正](https://open.spotify.com/album/01qVQADXDRGtK3Pw5wms68) | 3:37 |
 | 133 | [灰燼](https://open.spotify.com/track/6FegPNbxnNF8j9SgKBI107) | [Kayee Tam](https://open.spotify.com/artist/7xinmBXv4DpvMvitZt2maL) | [灰燼](https://open.spotify.com/album/0mxgFfOwmOL122cwdqe9dh) | 4:10 |
 | 134 | [單戀勿語](https://open.spotify.com/track/3WakD4Ojp9Bf3X7XFtZPXR) | [陳伊霖](https://open.spotify.com/artist/0iTxACKxpEMbeaGPFiTdtY) | [單戀勿語](https://open.spotify.com/album/3odN6kFs21z0mx68QhCoP6) | 3:23 |

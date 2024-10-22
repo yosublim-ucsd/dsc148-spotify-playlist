@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa David Guetta ja Ava Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,629 likes - 84 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,633 likes - 84 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lainasydän](https://open.spotify.com/track/0taCC3ocM3n9k6SQwofsTA) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Lainasydän](https://open.spotify.com/album/1TmaqVzm3YoCZiTHaca06U) | 2:51 |
-| 2 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 |
-| 3 | [Ylpee](https://open.spotify.com/track/0YiG81JSChnCxKCk5CoRD1) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ylpee](https://open.spotify.com/album/2XWl2i4w4RDGOCAe8bEU4o) | 3:09 |
-| 4 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 |
-| 5 | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/track/3OdKGNIndt3A6pfaF7BLAi) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Kojo](https://open.spotify.com/artist/6nUCZ9ZvQHA7Fhw0kweIG0), [Shabu](https://open.spotify.com/artist/3fL5w79svx1GI19mElGLns) | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/album/1KpsLP9rTo2iXkJF10kjb3) | 3:07 |
-| 6 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
-| 7 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
+| 1 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
+| 2 | [Lainasydän](https://open.spotify.com/track/0taCC3ocM3n9k6SQwofsTA) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Lainasydän](https://open.spotify.com/album/1TmaqVzm3YoCZiTHaca06U) | 2:51 |
+| 3 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 |
+| 4 | [Ylpee](https://open.spotify.com/track/0YiG81JSChnCxKCk5CoRD1) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ylpee](https://open.spotify.com/album/2XWl2i4w4RDGOCAe8bEU4o) | 3:09 |
+| 5 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 |
+| 6 | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/track/3OdKGNIndt3A6pfaF7BLAi) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Kojo](https://open.spotify.com/artist/6nUCZ9ZvQHA7Fhw0kweIG0), [Shabu](https://open.spotify.com/artist/3fL5w79svx1GI19mElGLns) | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/album/1KpsLP9rTo2iXkJF10kjb3) | 3:07 |
+| 7 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
 | 8 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
-| 9 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 |
-| 10 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
-| 11 | [Sattuu jos sattuu](https://open.spotify.com/track/7HmxW2TPFTLQGG0dUyVOGQ) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Sattuu jos sattuu](https://open.spotify.com/album/1yOxVBtoABmOIuGDQ0uUlr) | 2:25 |
-| 12 | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/track/4IM8WcV6lgjQeBbOA4JaDl) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/album/5BwWhNeYf1w9Kol1PbnDeL) | 3:33 |
-| 13 | [Täydellinen ex](https://open.spotify.com/track/1ea8KlPlxVuMTMIDKrere6) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Täydellinen ex](https://open.spotify.com/album/6oaZNJngmT5OxKl752Sfpt) | 3:04 |
-| 14 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 |
-| 15 | [Encore](https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Encore](https://open.spotify.com/album/7cMAENdfa3iVtcbfhJo6aQ) | 3:22 |
+| 9 | [Encore](https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Encore](https://open.spotify.com/album/7cMAENdfa3iVtcbfhJo6aQ) | 3:22 |
+| 10 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 |
+| 11 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
+| 12 | [Sattuu jos sattuu](https://open.spotify.com/track/7HmxW2TPFTLQGG0dUyVOGQ) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Sattuu jos sattuu](https://open.spotify.com/album/1yOxVBtoABmOIuGDQ0uUlr) | 2:25 |
+| 13 | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/track/4IM8WcV6lgjQeBbOA4JaDl) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/album/5BwWhNeYf1w9Kol1PbnDeL) | 3:33 |
+| 14 | [Täydellinen ex](https://open.spotify.com/track/1ea8KlPlxVuMTMIDKrere6) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Täydellinen ex](https://open.spotify.com/album/6oaZNJngmT5OxKl752Sfpt) | 3:04 |
+| 15 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 |
 | 16 | [Sex = Money](https://open.spotify.com/track/628gpiZGfGTFt6shikJclc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Sex = Money](https://open.spotify.com/album/2ZcQdeB6HuLYtcnR4o00x4) | 2:53 |
 | 17 | [Iskelmää](https://open.spotify.com/track/0dqtnUAiNVHoffw7FUGi6D) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [Iskelmää](https://open.spotify.com/album/2LXiIuRUeyfAcjZnZcrcDF) | 2:16 |
 | 18 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 83 | [Momentti \(feat\. Costi\)](https://open.spotify.com/track/2x4DoxpcqEUsfmEIKMd5hP) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Momentti \(feat\. Costi\)](https://open.spotify.com/album/38LoMU82Rqtj2TjjtGEnNW) | 3:13 |
 | 84 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 |
 
-Snapshot ID: `ZxF7DAAAAABMGMdiiPYbSw+sy70grhKz`
+Snapshot ID: `ZxXxLAAAAABVgga6Oes3yzRPEQxoACfn`

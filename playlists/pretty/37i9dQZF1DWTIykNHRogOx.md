@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Le meilleur de la chanson française actuelle\. Photo : Clou
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,852 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,867 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 24 | [Ma jeunesse](https://open.spotify.com/track/4V35BujGypFe8OzBwmSsbS) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Ma jeunesse](https://open.spotify.com/album/2RCuQSryCXllyUPREA6DzR) | 3:00 |
 | 25 | [Se dire au revoir \(feat\. Voyou\)](https://open.spotify.com/track/0K2Tkq8bm65Yscij0WtBcX) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Se dire au revoir \(feat\. Voyou\)](https://open.spotify.com/album/4VGzc4Y6rxaDIDEeeaPXcH) | 3:25 |
 | 26 | [Tu danses](https://open.spotify.com/track/7gJewKyWLZAGy6HkpG9rSu) | [Olivia Ruiz](https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj) | [La Réplique](https://open.spotify.com/album/5qvcGUrVESxTiDyHpstjYL) | 2:57 |
-| 27 | [Le cœur qui bat](https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Le cœur qui bat \- Bande originale du film](https://open.spotify.com/album/7j0OvOhnQSQVsI0JcWMKxz) | 2:38 |
+| 27 | [Le cœur qui bat](https://open.spotify.com/track/2b98MOoFGhCdeYX4guZcmC) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Le cœur qui bat \(Bande originale du film\)](https://open.spotify.com/album/7j0OvOhnQSQVsI0JcWMKxz) | 2:38 |
 | 28 | [Nu](https://open.spotify.com/track/3OIphEv3puN6zaWG4ms5n0) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Nu](https://open.spotify.com/album/5y3lwreP0Z0WItPNC2zOyi) | 2:26 |
 | 29 | [Les rois du désespoir](https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Les rois du désespoir](https://open.spotify.com/album/7eCOVuXXXrZdxSLZeEAn8s) | 2:48 |
 | 30 | [Marcher droit](https://open.spotify.com/track/5QcbSS53QWUHTiKDYBHuHM) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Marcher droit](https://open.spotify.com/album/1HwrjAGvdyfIvl3RCRBEfp) | 4:01 |

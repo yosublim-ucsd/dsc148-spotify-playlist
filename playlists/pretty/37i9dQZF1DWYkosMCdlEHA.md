@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,980 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,989 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 51 | [Burnin' & Lootin' \- Live At Music Hall, Boston / 1978](https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Easy Skanking In Boston '78](https://open.spotify.com/album/3DZmcdIS8JlZwYFhbN9Pbc) | 5:35 |
 | 52 | [Estar Com Você \- Acústico](https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy) | [Helio Bentes](https://open.spotify.com/artist/0BIwZsx9BET2BstY2DRa9x), [Emmano](https://open.spotify.com/artist/4kexQ10G1LH3GVukrGooaq) | [Acústico Helio Bentes](https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh) | 2:56 |
 | 53 | [Reggae de Barão \- Acústico](https://open.spotify.com/track/1eZq0aDtVF4JOe1OMXCQKo) | [Da Vula Band](https://open.spotify.com/artist/4foXml2ME1mqHJ6i8DDhdA) | [Flow and Slow \(Acústico\)](https://open.spotify.com/album/5Rb8yyhD4wFRbzGJxK2UOM) | 3:42 |
-| 54 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7), [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x) | [A Cera \- Acústico](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
+| 54 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7), [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x) | [A Cera \(Acústico\)](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
 | 55 | [A Verdade](https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu) | [Acustico Reggae](https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh) | [Na Cidade](https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt) | 3:19 |
 | 56 | [Odisséia Na Babilônia \- Ao Vivo](https://open.spotify.com/track/0cUr7yd1UjtyPYwybL4fDi) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 4:12 |
 | 57 | [É Bonito de Ver](https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt) | [Madayati](https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K) | [É Bonito de Ver](https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3) | 3:21 |
 | 58 | [Os Sonhos](https://open.spotify.com/track/2m2NLJeOK1b2KrCibBCCom) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW) | [Os Sonhos](https://open.spotify.com/album/5yLvVlsbb83QpNZKhai85L) | 2:54 |
 | 59 | [Quero Ser Feliz Também \- Ao Vivo](https://open.spotify.com/track/5qLTGDTTIHxxIU835qJWfT) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro](https://open.spotify.com/album/14iEAaKYHYBx8jMEtzKmSX) | 3:34 |
 | 60 | [Pra Voar / Posso Ser \- Acústico](https://open.spotify.com/track/4ZSnJiFUbRVaNZNElILf8X) | [Viegas](https://open.spotify.com/artist/6rTzxjnhz5roe983OC25he) | [Pra Voar / Posso Ser \(Acústico\)](https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV) | 4:21 |
-| 61 | [Rosa Flor \(Acústica\)](https://open.spotify.com/track/1QuomA8d44uGvbSz9Vgmy7) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Rosa Flor \(Acústica\)](https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S) | 3:19 |
-| 62 | [Lunar \(Acústico\)](https://open.spotify.com/track/2lPrHZNBWAWPpoWuakumNP) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lunar \(Acústico\)](https://open.spotify.com/album/6JxiS92qZJ409A1qe7O9cW) | 4:00 |
-| 63 | [Pra Falar de Amor](https://open.spotify.com/track/2wYebg7tdJDu77sPEcJrjp) | [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Pra Falar de Amor](https://open.spotify.com/album/1Glos4COakkGhj7ODxy9Wf) | 3:29 |
+| 61 | [Pra Falar de Amor](https://open.spotify.com/track/2wYebg7tdJDu77sPEcJrjp) | [Onze:20](https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk) | [Pra Falar de Amor](https://open.spotify.com/album/1Glos4COakkGhj7ODxy9Wf) | 3:29 |
+| 62 | [Rosa Flor \(Acústica\)](https://open.spotify.com/track/1QuomA8d44uGvbSz9Vgmy7) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Rosa Flor \(Acústica\)](https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S) | 3:19 |
+| 63 | [Lunar \(Acústico\)](https://open.spotify.com/track/2lPrHZNBWAWPpoWuakumNP) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Lunar \(Acústico\)](https://open.spotify.com/album/6JxiS92qZJ409A1qe7O9cW) | 4:00 |
 | 64 | [Rasta no Topo \- Ao Vivo](https://open.spotify.com/track/6LRSZXqMl7VjYqDfJdyEB2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque Vivo \(Ao Vivo\)](https://open.spotify.com/album/6bc00G612a4Ru1u6gs4cPx) | 4:01 |
 | 65 | [Tranquila \- Versão Acústica](https://open.spotify.com/track/0I70H9PTeywaND8P80R5fP) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Tranquila \(Versão Acústica\)](https://open.spotify.com/album/4cMpYRT2XAgI8eiLpQUr42) | 2:48 |
 | 66 | [No Mar \- Ao Vivo](https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts \- Natiruts Acústico ao Vivo no Rio de Janeiro](https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb) | 3:29 |

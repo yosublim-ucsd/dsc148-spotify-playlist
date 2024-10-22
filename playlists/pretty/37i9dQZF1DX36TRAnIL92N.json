@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 359063,
+  "num_followers": 359359,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -47,7 +47,7 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
         "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
       "artists": [
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "When I Rock (A.D.H.S. Remix)",
         "url": "https://open.spotify.com/album/3AUUUXLVRCj3nHbGHPT0ic"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 259130,
       "name": "When I Rock - A.D.H.S. Remix",
       "url": "https://open.spotify.com/track/2RZUzI8KssitQ4SYPr1xUd"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
       "added_at": "2024-10-04 04:00:00",

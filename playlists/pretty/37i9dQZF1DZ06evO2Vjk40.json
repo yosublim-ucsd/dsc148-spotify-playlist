@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 644040,
+  "num_followers": 644211,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAAC3Zzi3BzIp6mL7jeVW1KO9",
+  "snapshot_id": "ZxRIAAAAAACqYQDkuVX119QSeX2+n4bo",
   "tracks": [
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 180720,
-      "name": "Them Stems",
-      "url": "https://open.spotify.com/track/6vcFHirl6xkhzNLgZZH6QN"
+      "duration_ms": 231333,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN"
     },
     {
       "added_at": null,
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN"
+      "duration_ms": 180720,
+      "name": "Them Stems",
+      "url": "https://open.spotify.com/track/6vcFHirl6xkhzNLgZZH6QN"
     },
     {
       "added_at": null,

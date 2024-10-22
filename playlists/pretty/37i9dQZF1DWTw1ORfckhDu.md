@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Turisti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,536 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,559 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 |
-| 2 | [Ei tänää](https://open.spotify.com/track/2HoMv4IByvh1vpWzlWgm16) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [NEVERSELLOUT](https://open.spotify.com/album/0bMpFBfJWWVb3t8vIw2h44) | 2:03 |
-| 3 | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/track/3OdKGNIndt3A6pfaF7BLAi) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Kojo](https://open.spotify.com/artist/6nUCZ9ZvQHA7Fhw0kweIG0), [Shabu](https://open.spotify.com/artist/3fL5w79svx1GI19mElGLns) | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/album/1KpsLP9rTo2iXkJF10kjb3) | 3:07 |
-| 4 | [BOSSMAN](https://open.spotify.com/track/5ZdTneUDYgjrg4ZoYb3loz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [BOSSMAN](https://open.spotify.com/album/32ogCbvq2ZnLv3FPBEbF8T) | 2:35 |
-| 5 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 |
-| 6 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 |
+| 2 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 |
+| 3 | [BOSSMAN](https://open.spotify.com/track/5ZdTneUDYgjrg4ZoYb3loz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [BOSSMAN](https://open.spotify.com/album/32ogCbvq2ZnLv3FPBEbF8T) | 2:35 |
+| 4 | [Ei tänää](https://open.spotify.com/track/2HoMv4IByvh1vpWzlWgm16) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [NEVERSELLOUT](https://open.spotify.com/album/0bMpFBfJWWVb3t8vIw2h44) | 2:03 |
+| 5 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 |
+| 6 | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/track/3OdKGNIndt3A6pfaF7BLAi) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Kojo](https://open.spotify.com/artist/6nUCZ9ZvQHA7Fhw0kweIG0), [Shabu](https://open.spotify.com/artist/3fL5w79svx1GI19mElGLns) | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/album/1KpsLP9rTo2iXkJF10kjb3) | 3:07 |
 | 7 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
 | 8 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
-| 9 | [jeesus](https://open.spotify.com/track/5BqTedQR0QEN7UkyvEKNeS) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [thank you for all the support](https://open.spotify.com/album/0Lul2mtI4sUKfAEFXWJMSd) | 2:07 |
-| 10 | [Kokonainen](https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Kokonainen](https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk) | 2:39 |
-| 11 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 |
+| 9 | [Toista sua](https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Toista sua](https://open.spotify.com/album/39isGUjAreup0WQjnI3Syd) | 2:49 |
+| 10 | [jeesus](https://open.spotify.com/track/5BqTedQR0QEN7UkyvEKNeS) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [thank you for all the support](https://open.spotify.com/album/0Lul2mtI4sUKfAEFXWJMSd) | 2:07 |
+| 11 | [Kokonainen](https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Kokonainen](https://open.spotify.com/album/50lul7y5PIQ46XQJmcHvwk) | 2:39 |
 | 12 | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/track/4IM8WcV6lgjQeBbOA4JaDl) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Riittämätön \(feat\. Tomi Saario\)](https://open.spotify.com/album/5BwWhNeYf1w9Kol1PbnDeL) | 3:33 |
 | 13 | [Ikuinen elokuu](https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Ikuinen elokuu](https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ) | 3:54 |
 | 14 | [Makaveli](https://open.spotify.com/track/7IJgJoEffBKC2h4RBhejm3) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Makaveli](https://open.spotify.com/album/7kJfXEZquDpzjNcmN5MX33) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/track/44eTdna1amOqea7SQm2HoJ) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [Mensa](https://open.spotify.com/artist/65OgVQYELTQ8RwaqBKPCJQ) | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/album/6wg0amkHdWPQ4utpiUyAD6) | 1:34 |
 | 50 | [Viikatemies](https://open.spotify.com/track/1Q8gl1pAKc5OuIysCqFick) | [James\-J](https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1), [Joa](https://open.spotify.com/artist/18dUO93In2TxH227yE4D8I) | [Viikatemies](https://open.spotify.com/album/0mFRPbN0x8rhTALoifI4MJ) | 2:27 |
 
-Snapshot ID: `ZxPBXQAAAABvhLFIsvEr68XsxSAk+gGL`
+Snapshot ID: `ZxXvxwAAAADIH5i071zDRrpFmvCQIcqD`

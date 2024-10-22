@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30ab\u30fc\u30c7\u30a3\u30fbB\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 675721,
-  "original_name": "This Is \u30ab\u30fc\u30c7\u30a3\u30fbB",
+  "description": "This is Cardi B. The essential tracks, all in one playlist.",
+  "num_followers": 675738,
+  "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAADCrVa6yPYImkxb682hPYM/",
+  "snapshot_id": "ZxRIAAAAAAB4+jRGBAKcZiHZqhPJLhfQ",
   "tracks": [
     {
       "added_at": null,
@@ -1043,30 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Father Of Asahd",
-        "url": "https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 202625,
-      "name": "Wish Wish (feat. Cardi B & 21 Savage)",
-      "url": "https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Famous Cryp (Reloaded)",
         "url": "https://open.spotify.com/album/1bLGOKqe1vcQtUv6q5Mz0h"
       },
@@ -1087,8 +1063,32 @@
       "duration_ms": 297546,
       "name": "Thotiana (Remix)",
       "url": "https://open.spotify.com/track/6JhP3KShSV3PlniSWYHYAl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Father Of Asahd",
+        "url": "https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 202625,
+      "name": "Wish Wish (feat. Cardi B & 21 Savage)",
+      "url": "https://open.spotify.com/track/1Hd2XLitkt1PYCWSbfF5qV"
     }
   ],
-  "unique_name": "This Is \u30ab\u30fc\u30c7\u30a3\u30fbB",
+  "unique_name": "This Is Cardi B",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2xmY3T"
 }

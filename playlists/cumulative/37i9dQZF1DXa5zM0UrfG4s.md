@@ -4,7 +4,7 @@
 
 > ble det en hvit sommer?
 
-377 songs - 17 hr 14 min
+378 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Borde gå hem](https://open.spotify.com/track/2alWkiKWlHYmsgdvNoiO7l) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Borde gå hem](https://open.spotify.com/album/11jT6POseAnA12U1ZHdJd2) | 2:36 | 2023-02-16 | 2024-02-09 |
 | [Borde gå hem](https://open.spotify.com/track/3gUiM93ojFPguligTylTwk) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Borde gå hem](https://open.spotify.com/album/69EATUW5p3jmER1XKvF4nJ) | 2:36 | 2022-10-15 | 2023-02-17 |
 | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn) | 2:46 | 2022-06-30 |  |
-| [Bygda](https://open.spotify.com/track/5lx7a4TppA4OLmJhcNd6hz) | [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Bygda](https://open.spotify.com/album/6c88OcxwLQ74dib50EEtw5) | 2:46 | 2021-12-16 |  |
+| [Bygda](https://open.spotify.com/track/5lx7a4TppA4OLmJhcNd6hz) | [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Bygda](https://open.spotify.com/album/6c88OcxwLQ74dib50EEtw5) | 2:46 | 2021-12-16 | 2024-10-22 |
 | [Bygda Vår](https://open.spotify.com/track/7yhjOBAgtIExnt9uRRmgiO) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygda Vår](https://open.spotify.com/album/62WlPC9vdBQV8zjE4HdiJP) | 4:06 | 2023-09-13 | 2023-09-22 |
 | [Bygda vår](https://open.spotify.com/track/7GkeilYNSQTNQnyX9YGibA) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Bygda vår](https://open.spotify.com/album/0LLyHCTAT1jgF0cnOioJJk) | 2:41 | 2023-09-13 | 2024-08-18 |
 | [Bygdas Rebell](https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL) | [Bygdas Rebell](https://open.spotify.com/album/6YXW2dsokchMdhS7N7uvov) | 3:41 | 2023-06-15 |  |
@@ -156,6 +156,7 @@
 | [Hardanger](https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4) | [Gunslingers](https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX) | [Hardanger](https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt) | 3:56 | 2021-12-16 |  |
 | [Harry stil](https://open.spotify.com/track/6L7T73Brx5RTlkOnY32Ysn) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Harry stil](https://open.spotify.com/album/5bIJ1KAErZImMGcUEz3GVy) | 2:41 | 2024-04-25 | 2024-08-16 |
 | [Harryhandel Halleluja](https://open.spotify.com/track/2nERzk99mUpwd8XrBOVADz) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Harryhandel Halleluja](https://open.spotify.com/album/7CX0XAiJpBFkFr2sA376fo) | 2:03 | 2021-12-16 | 2022-06-30 |
+| [Heidi](https://open.spotify.com/track/6Hf47LgK7rD8sjNxPohuCe) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Sander Elstad](https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX) | [Heidi](https://open.spotify.com/album/7pJVp0QuZv8My8iuH0Ue0g) | 2:04 | 2024-10-21 |  |
 | [Heidis](https://open.spotify.com/track/6KEt31AgbIWvf9EIc4A8UW) | [Jövial](https://open.spotify.com/artist/4J67wA6BzNiosOXRTR6MPf) | [Heidis](https://open.spotify.com/album/4poJNaMxQW1OtK1pZeY33G) | 2:18 | 2022-02-17 | 2022-04-29 |
 | [Heidi´s i kveld](https://open.spotify.com/track/14GK1ZYM4q8bOpRO9bEt2T) | [TuVeia](https://open.spotify.com/artist/07BGSPHXFOdX2Ln6McOd1z) | [Heidi’s i kveld](https://open.spotify.com/album/68z4K2Gpakq9cc0Dlb97Cs) | 2:36 | 2022-05-19 | 2022-07-16 |
 | [Heim Til Nordfjord](https://open.spotify.com/track/2muikWIFUbTklgyhSkDTLF) | [Steinar Engelbrektson](https://open.spotify.com/artist/0OZ0FjkvLXQQrkHCXA2ufM) | [Ekte Speleglede](https://open.spotify.com/album/6aDWhRN1u179ghvcp4sBGi) | 3:20 | 2021-12-16 | 2022-04-17 |

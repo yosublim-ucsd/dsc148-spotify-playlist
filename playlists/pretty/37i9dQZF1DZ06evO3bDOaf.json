@@ -1,12 +1,12 @@
 {
-  "description": "This is Liam Payne. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 88467,
+  "description": "This is Liam Payne. The essential tracks, all in one playlist.",
+  "num_followers": 91187,
   "original_name": "This Is Liam Payne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAACN6l+lcczOaQ223UpaXECf",
+  "snapshot_id": "ZxRIAAAAAACOSpnDHJBG8h5ak2EPdzi7",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/110skZzsCFyckMdjupeIBX"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "duration_ms": 174723,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -51,22 +67,6 @@
       "duration_ms": 193377,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/110skZzsCFyckMdjupeIBX"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        }
-      ],
-      "duration_ms": 174723,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
         }
       ],
-      "duration_ms": 188233,
-      "name": "Bedroom Floor",
-      "url": "https://open.spotify.com/track/6IuVmxZtP3h5wvErFpDcVR"
+      "duration_ms": 189422,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/2uAX7DbFp5GWCkE1bpkUn4"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
         }
       ],
-      "duration_ms": 189422,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/2uAX7DbFp5GWCkE1bpkUn4"
+      "duration_ms": 188233,
+      "name": "Bedroom Floor",
+      "url": "https://open.spotify.com/track/6IuVmxZtP3h5wvErFpDcVR"
     },
     {
       "added_at": null,

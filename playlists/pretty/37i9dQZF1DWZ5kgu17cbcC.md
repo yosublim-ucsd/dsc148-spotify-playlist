@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 
 > Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,265 likes - 86 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,237 likes - 86 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ5kgu17cbcC.md) - [plain]
 | 23 | [First Day on the Job \(Main Title\)](https://open.spotify.com/track/2Kv15dAAKw5bDXpG5kEEBN) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [Flamin' Hot \(Original Soundtrack\)](https://open.spotify.com/album/5DuzkMYUCMUt03jayDY4xm) | 0:51 |
 | 24 | [Angel in Flip\-Flops \- From "Only Murders in the Building"](https://open.spotify.com/track/35a0b8D7gUMVCuaEB6uHRm) | [Steve Martin](https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK), [Only Murders in the Building – Cast](https://open.spotify.com/artist/43LwPk5OFrfvYI9zxDCsih) | [Angel in Flip\-Flops \(From "Only Murders in the Building"\)](https://open.spotify.com/album/1goD29Bs4ws5F19FpgE5EL) | 1:58 |
 | 25 | [Gas in My Car](https://open.spotify.com/track/1t01O0Po7zHa2mTWzkjk8a) | [Bob's Burgers](https://open.spotify.com/artist/0NZ4IxTtMSEx59a0H0ikLE), [Earnest Jackson](https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm) | [The Ocean Avenue Block Party \(From "Bob's Burgers"\)](https://open.spotify.com/album/78bIHCIOlk7FGA1b0wj72g) | 5:07 |
-| 26 | [Crazy \- From "Tell Me Lies \(Season 2\)"](https://open.spotify.com/track/1YjHo7WQuKzOQ5BTSKpD4h) | [Tell Me Lies – Cast](https://open.spotify.com/artist/1yNSl6gNtJuvKoYx3AHBVC), [Cat Missal](https://open.spotify.com/artist/29XuVn8LxtJPjHOFZm3QiY) | [Crazy \- From "Tell Me Lies \(Season 2\)"](https://open.spotify.com/album/0dIDFqfY1CyhWlqKelBfvy) | 4:59 |
+| 26 | [Crazy \- From "Tell Me Lies \(Season 2\)"](https://open.spotify.com/track/1YjHo7WQuKzOQ5BTSKpD4h) | [Tell Me Lies – Cast](https://open.spotify.com/artist/1yNSl6gNtJuvKoYx3AHBVC), [Cat Missal](https://open.spotify.com/artist/29XuVn8LxtJPjHOFZm3QiY) | [Crazy \[From "Tell Me Lies \(Season 2\)"\]](https://open.spotify.com/album/0dIDFqfY1CyhWlqKelBfvy) | 4:59 |
 | 27 | [It's a Man's, Man's, Man's World](https://open.spotify.com/track/4JjwzeL4HXoZ3RAInoQLPu) | [Melanie Charles](https://open.spotify.com/artist/3oVO0VgF32uQKPAEh77Gwe), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Reasonable Doubt \(Season 2\) \[Original Soundtrack\]](https://open.spotify.com/album/7B4PbCOEduhJxroTsvYgCe) | 3:26 |
 | 28 | [I'll Make Love to You](https://open.spotify.com/track/3scm95h4jqzKCRLt1XgKq4) | [Thomas Doherty](https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg) | [High Fidelity \(Original Soundtrack\)](https://open.spotify.com/album/0zXA2xmkw5x4iN4Cb3j13P) | 3:55 |
 | 29 | [Till It Hits the Ground](https://open.spotify.com/track/3w190QG6aB6I0uGlVI5zG5) | [Thomas Doherty](https://open.spotify.com/artist/4QS6MMKct3F3LkN7cr6vHg) | [High Fidelity \(Original Soundtrack\)](https://open.spotify.com/album/0zXA2xmkw5x4iN4Cb3j13P) | 3:06 |

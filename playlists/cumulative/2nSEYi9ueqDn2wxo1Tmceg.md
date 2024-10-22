@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d?si=ADpA6fSZQB\-dGT7KaWKZCA">Hayden Thorpe</a>
 
-1,105 songs - 3 day 3 hr 42 min
+1,107 songs - 3 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Elevation \- Paul Woolford Remix Edit](https://open.spotify.com/track/7tW66gGa6fIo8DluDWANKN) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Elevation \(Paul Woolford Remix\)](https://open.spotify.com/album/3B9oGr5gd5u2VDkHVuM44X) | 3:12 | 2023-04-15 | 2023-05-24 |
 | [Elimination Dances](https://open.spotify.com/track/5RgGpQlXvNMIMCN584LLWl) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Elimination Dances](https://open.spotify.com/album/6qX9QhYe78q6XjMQaedZN5) | 3:37 | 2023-04-26 | 2023-06-15 |
 | [Empty Heavy](https://open.spotify.com/track/7k7qOmiSsynXcqVNhTrHJK) | [deathcrash](https://open.spotify.com/artist/7m7gr3M1p4S92xuwXvorEH) | [Empty Heavy](https://open.spotify.com/album/5KyOCe2mY9u322n5DvfJJv) | 3:39 | 2023-01-25 | 2023-02-23 |
+| [Endless Rain](https://open.spotify.com/track/5xUMXs2MsIKGg9VwHBgyV0) | [One True Pairing](https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K) | [Endless Rain](https://open.spotify.com/album/37G9jNIbXIQd96MhK2IqXp) | 4:22 | 2024-10-21 |  |
 | [Entombed In Ice](https://open.spotify.com/track/75tyRe2oY9NRJc7yr1SZwl) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [& the Charm](https://open.spotify.com/album/6gRl7N6UQKKmXCv3nhYlMu) | 3:12 | 2023-05-03 | 2023-06-22 |
 | [Estrangement Zone](https://open.spotify.com/track/6z0rIv811kzEidxgGpRvtm) | [Will Sheff](https://open.spotify.com/artist/0JUTh3GM8SoFZTEyqPCRl5) | [Nothing Special](https://open.spotify.com/album/07wtrSTxfDBIKBq4eyY0kM) | 5:35 | 2022-12-07 | 2023-01-26 |
 | [Eternal September](https://open.spotify.com/track/3Vpn6xh4JmtryjRp80Krqh) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Anunaku](https://open.spotify.com/artist/0dAzvKzbG3tMwFeWkjgHrZ), [A+A](https://open.spotify.com/artist/68bLkhHI4bzw9ZXfmhwLwN) | [Eternal September](https://open.spotify.com/album/0dEWqk9rBnxsDMccGmZRQs) | 5:33 | 2022-10-06 | 2022-11-10 |
@@ -352,6 +353,7 @@
 | [Fulton Park](https://open.spotify.com/track/6vbBJu0Tsx3nqrgVGydxKB) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/0IOqHCZa9ietWmQgyKIwUF) | 2:41 | 2022-06-08 | 2022-06-30 |
 | [Funeral for Justice](https://open.spotify.com/track/6jRkPX7aziy9qweRaBloXF) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Funeral for Justice](https://open.spotify.com/album/2TEqu1Bvm8jFijAybw6S38) | 3:08 | 2024-02-29 | 2024-04-19 |
 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 | 2023-11-01 | 2023-12-07 |
+| [Galactic Romance \- Kiva Kiva Versio](https://open.spotify.com/track/27BDYTZ3MSkVkxaKShmzoQ) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3), [Vezurro](https://open.spotify.com/artist/02oufFxx8iLwRveBzq1vaE) | [Galactic Romance \(Kiva Kiva Versio\)](https://open.spotify.com/album/6UuQd9fdXpv3AeMRDo2P7i) | 5:15 | 2024-10-21 |  |
 | [Galope](https://open.spotify.com/track/6CzVM9nPVIOe0HT4kf9EiN) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Magic Pony Ride](https://open.spotify.com/album/0bzc0YF4nKy4ZuJPO847uN) | 3:16 | 2022-06-16 | 2022-07-28 |
 | [Ganon](https://open.spotify.com/track/72ZxgnvBwXmCNts9P9cHyl) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [The Academy](https://open.spotify.com/album/5BQHDhHDJ3smzTm0CZrRjN) | 2:18 | 2024-09-25 |  |
 | [Garden](https://open.spotify.com/track/6nQtapKP4qHVMpS110aaaE) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh), [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz) | [Garden](https://open.spotify.com/album/0rId7gCX3GmIPgMbHAxhn0) | 3:20 | 2022-06-08 | 2022-06-17 |

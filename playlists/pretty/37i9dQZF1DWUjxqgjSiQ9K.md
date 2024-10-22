@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4B4YYJ0BAYBK86yxqQV7mu">Funky</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,906 likes - 100 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,045 likes - 100 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 10 | [Agarra La Bendición](https://open.spotify.com/track/5YaiFwIsbm1m1bB9dFwMMh) | [Banda Punto de Encuentro](https://open.spotify.com/artist/0cdOFGGqQxVOOvZoQaG6Vn), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Agarra La Bendición](https://open.spotify.com/album/1tFLoCCwpnvd4IzbeO9syJ) | 3:11 |
 | 11 | [Nada Sin Ti](https://open.spotify.com/track/7JNvaZ6ODRUsPi9R4C5fCP) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Buenas Noticias](https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F) | 3:05 |
 | 12 | [El Rio de Dios \- En Vivo](https://open.spotify.com/track/63f6pE2mzuZr8EcP6DiNES) | [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk), [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7) | [El Rio de Dios \(En Vivo\)](https://open.spotify.com/album/7aI9t8Y8g0BAYbr3rpM1rM) | 5:19 |
-| 13 | [No Temeré \- Live](https://open.spotify.com/track/5ZDGRUdNLtAUTrTo1qpLh2) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [No Temeré \- Live](https://open.spotify.com/album/1C3gdmpXC041HIplt9g0cR) | 4:21 |
+| 13 | [No Temeré \- Live](https://open.spotify.com/track/5ZDGRUdNLtAUTrTo1qpLh2) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [No Temeré \(Live\)](https://open.spotify.com/album/1C3gdmpXC041HIplt9g0cR) | 4:21 |
 | 14 | [Mi Tesoro](https://open.spotify.com/track/5JXj9Sm3DdLUS87a7dMAtg) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Daniela Barrientos](https://open.spotify.com/artist/3fF7bK7ymM5vUeyG3XP0Lv) | [Mi Tesoro](https://open.spotify.com/album/225RI4sJvEZmyydyuTUXNu) | 14:35 |
 | 15 | [Rey Humilde](https://open.spotify.com/track/3ULVA6vNGfNFpiClkiQFGh) | [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Cristo El Rey](https://open.spotify.com/album/3Aq3nfNuDuhahFO1klXOQc) | 9:03 |
 | 16 | [Mi Libertador / My Deliverer \[Versión en Español e Inglés\]](https://open.spotify.com/track/2gSXfmbsFjPspt3uxLDGk9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Matthew Morales](https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [Mi Libertador / My Deliverer \[Versión en Español e Inglés\]](https://open.spotify.com/album/5L82CcNuM3eaAaDF95QV3A) | 4:38 |

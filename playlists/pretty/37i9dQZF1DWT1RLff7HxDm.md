@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,945 likes - 100 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,975 likes - 100 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 39 | [Let The Good Times Roll \(Live\)](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 |
 | 40 | [Heaven's Gate \- Live At The Town & Country Club, London, UK / 1990](https://open.spotify.com/track/2Z0lJeL3NFaRM6U4ZRKbQB) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Heaven's Gate \(Live At The Town & Country Club, London, UK / 1990\)](https://open.spotify.com/album/4QP957QHwZEbgCaoNKFrhN) | 4:40 |
 | 41 | [Motorcycle Mama \- Live](https://open.spotify.com/track/0GBC4jxEV07r9OxayQ0ETx) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Motorcycle Mama \(Live\)](https://open.spotify.com/album/5QtOw2FNaafcYqPJZvZT34) | 6:29 |
-| 42 | [I'm In The Mood \- Live](https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm In The Mood \- Live](https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS) | 4:08 |
+| 42 | [I'm In The Mood \- Live](https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm In The Mood \(Live\)](https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS) | 4:08 |
 | 43 | [Chills & Thrills](https://open.spotify.com/track/564tiv489cKy2DtodcZ5kq) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Live at the Jazzhaus](https://open.spotify.com/album/6bBIe89atzmYXFceEDUP1c) | 6:50 |
 | 44 | [Frosty \(Live\)](https://open.spotify.com/track/5mWpxiRT5itAt6u2RAD2Y4) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Frosty \(Live\)](https://open.spotify.com/album/0Y3RF1vbBHc8bTm0hFZvwS) | 5:52 |
 | 45 | [Watchagonnado \(Live\)](https://open.spotify.com/track/3O3ZFiWatJ9nm8C9AhCh5z) | [Supersonic Blues Machine](https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD) | [Watchagonnado \(Live\)](https://open.spotify.com/album/6X1thdV5sgh1sFkP81K4lg) | 5:29 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 51 | [Feeling Good \- Live](https://open.spotify.com/track/2aeLJxzpJ1oK73BDp01898) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Live At The Roxy](https://open.spotify.com/album/6eNrhA2jblBr2MxXI7EhOd) | 3:52 |
 | 52 | [True Lies](https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [LIVE! In Chicago](https://open.spotify.com/album/5hacXiG8xBevQ7ZWH3KCg2) | 5:54 |
 | 53 | [Broke Down On The Brazos \(Live\)](https://open.spotify.com/track/5OITHr7K2kAAMG9CDO5GHJ) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Broke Down On The Brazos \(Live\)](https://open.spotify.com/album/5R53kCyQtLd4oQIBO4SJGs) | 8:48 |
-| 54 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \- Live](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 |
+| 54 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \(Live\)](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 |
 | 55 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
 | 56 | [Nobody Knows You When You're Down And Out \- Live at LOCKN' / 2019](https://open.spotify.com/track/4FMbcfFciaUaqkEqMFX3Yi) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Nobody Knows You When You're Down And Out \(Live at LOCKN' / 2019\)](https://open.spotify.com/album/4tLJMRwsUQdvjcbUUJx9Nu) | 4:59 |
 | 57 | [Let Me Know](https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch) | [Walter Trout and The Free Radicals](https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht) | [Live Trout Vol\. 1](https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1) | 5:04 |

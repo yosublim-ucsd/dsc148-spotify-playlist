@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 144980,
+  "num_followers": 144989,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -919,7 +919,7 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
-        "name": "A Cera - Ac\u00fastico",
+        "name": "A Cera (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA"
       },
       "artists": [
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
+        "name": "Pra Falar de Amor",
+        "url": "https://open.spotify.com/album/1Glos4COakkGhj7ODxy9Wf"
+      },
+      "artists": [
+        {
+          "name": "Onze:20",
+          "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
+        }
+      ],
+      "duration_ms": 209499,
+      "name": "Pra Falar de Amor",
+      "url": "https://open.spotify.com/track/2wYebg7tdJDu77sPEcJrjp"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
         "name": "Rosa Flor (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/2lXe7n0cbpgHlQoQMhZ14S"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 240666,
       "name": "Lunar (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2lPrHZNBWAWPpoWuakumNP"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
-        "name": "Pra Falar de Amor",
-        "url": "https://open.spotify.com/album/1Glos4COakkGhj7ODxy9Wf"
-      },
-      "artists": [
-        {
-          "name": "Onze:20",
-          "url": "https://open.spotify.com/artist/3MDJ79txY73BUpAR7RnJEk"
-        }
-      ],
-      "duration_ms": 209499,
-      "name": "Pra Falar de Amor",
-      "url": "https://open.spotify.com/track/2wYebg7tdJDu77sPEcJrjp"
     },
     {
       "added_at": "2024-07-05 13:49:13",

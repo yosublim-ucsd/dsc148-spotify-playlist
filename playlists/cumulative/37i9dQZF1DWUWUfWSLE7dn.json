@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Life On Our Planet (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0twoJjqA27AFvNr5UiCNGz"
+      },
+      "artists": [
+        {
+          "name": "Lorne Balfe",
+          "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230200,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/183tCj3FW0MBHKeDPHKoDj"
+    },
+    {
+      "album": {
         "name": "Cinderella (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx"
       },
@@ -981,6 +999,24 @@
     },
     {
       "album": {
+        "name": "First Sight",
+        "url": "https://open.spotify.com/album/52gS5j43amMiH4c3mzWoie"
+      },
+      "artists": [
+        {
+          "name": "Joel Sunny",
+          "url": "https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162680,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/4NtRkpweTUxkKHvl0odbgD"
+    },
+    {
+      "album": {
         "name": "The Boy Who Flew Away",
         "url": "https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId"
       },
@@ -1143,7 +1179,7 @@
     },
     {
       "album": {
-        "name": "My Dog Skip - Original Motion Picture Soundtrack",
+        "name": "My Dog Skip (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4Jed2zOJ0h2XudOaMHt5vP"
       },
       "artists": [

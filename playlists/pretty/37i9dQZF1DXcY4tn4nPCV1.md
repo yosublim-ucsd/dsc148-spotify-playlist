@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 
 > A calm, instrumental reading playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,817 likes - 180 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,846 likes - 180 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,24 +19,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 9 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 |
 | 10 | [Remember those quiet evenings](https://open.spotify.com/track/6K6xmEal7cYw4UaWr5W88w) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Remember those quiet evenings](https://open.spotify.com/album/7CWDWm6UhHaEvXvNbSxzjl) | 2:36 |
 | 11 | [Velvet Veil](https://open.spotify.com/track/5xhkpxHVg0FkJrL6lMRGCx) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Velvet Veil](https://open.spotify.com/album/3mPx3ciX3EZW6mycZJ0kcI) | 2:03 |
-| 12 | [Behind an Ethereal Veil](https://open.spotify.com/track/0TdAAwbQJyQKBdiDQBY5xa) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [Behind An Ethereal Veil](https://open.spotify.com/album/5dMXMcck2Dn1fRchPDD9M0) | 2:24 |
-| 13 | [Upperwest](https://open.spotify.com/track/5AeDDsA6v08alqeIc7cVRG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Upperwest](https://open.spotify.com/album/4gTjSlWw7hWKCGy8qwFHp8) | 2:27 |
-| 14 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
-| 15 | [Follow the light](https://open.spotify.com/track/6CnXUPZShpDtkrIIKxbYMe) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Follow the light](https://open.spotify.com/album/4QKDOxeSLtIbKThW61QuxV) | 2:07 |
-| 16 | [Sojourn](https://open.spotify.com/track/0rV61MLbhHcqQNmJYEZIXt) | [Théo Laurent](https://open.spotify.com/artist/73nqYCiXP0tWWhSWjSpC0w) | [Sojourn](https://open.spotify.com/album/5CLXvXaJzcQC9QYdUSE0hZ) | 2:31 |
-| 17 | [Whispering Embers](https://open.spotify.com/track/1jUNFk22PrQlJkphnX1uEn) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [Whispering Embers](https://open.spotify.com/album/0tNqI3h7dFLyozrqnNeNmI) | 2:42 |
-| 18 | [What We Were](https://open.spotify.com/track/2UoHf8TmIoTM5VX7fWI3Ti) | [Remy Rêve](https://open.spotify.com/artist/3I3CLq5F3vgjm0f0XmQgsL) | [What We Were](https://open.spotify.com/album/1hsVKcq4USb0S5xgqscn1u) | 2:55 |
-| 19 | [A Love Note](https://open.spotify.com/track/7qWt0c0tCp5lc97qAdtaFV) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [A Love Note](https://open.spotify.com/album/0MMN8nn4yVttrCm5AV8smU) | 2:06 |
-| 20 | [Unwind Dreams](https://open.spotify.com/track/3uas6wnNDf3NYFwkh1IBnq) | [Lakes of Lagan](https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW) | [Unwind Dreams](https://open.spotify.com/album/4SjMQNEG5sdFqVHzmpjfh6) | 2:52 |
-| 21 | [Dreamscape](https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dreamscape](https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM) | 2:26 |
-| 22 | [Primrose](https://open.spotify.com/track/05wL2Gp3Hi6dVOhYn6pG1g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Primrose](https://open.spotify.com/album/7GEFN88vNtaOkNvgM1h207) | 2:23 |
-| 23 | [Bonjour](https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Bonjour](https://open.spotify.com/album/4pKg8wGdu05SMyu7FpvNjD) | 2:39 |
-| 24 | [Blue House](https://open.spotify.com/track/6GubNK7uYQmYv1s1mxLiTY) | [Henri Mael](https://open.spotify.com/artist/5olHxtBnXQ3IO0oXnDE0bF) | [Blue House](https://open.spotify.com/album/70dJ2yvfX09aX1wXEqwRhj) | 2:32 |
-| 25 | [Roots](https://open.spotify.com/track/5DIegspvH5kSOgfl2uuS0I) | [Ceri Floyyd](https://open.spotify.com/artist/7AlsCKaKLDPwzHm4O2gb2i) | [Roots](https://open.spotify.com/album/3W441GJZTCT3O0R1Zy84QO) | 3:18 |
-| 26 | [Ends And Beginnings](https://open.spotify.com/track/5QgG6Hg2xSYVIYr8G0LtCf) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Ends And Beginnings](https://open.spotify.com/album/3ioWvG4UB9oMuIdHXUp9em) | 2:19 |
-| 27 | [Chute De Neige](https://open.spotify.com/track/7jbEFWP7BR5dp3CVY3VcTc) | [Orcrist](https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U) | [Chute De Neige](https://open.spotify.com/album/1jGeso4zdhTekE74udbEli) | 3:26 |
-| 28 | [Ethereal Night](https://open.spotify.com/track/5BYYaZIuGLsS9YHAaKGVxx) | [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Ethereal Night](https://open.spotify.com/album/2PqCb0wsx2tLpCfJylfS2l) | 2:46 |
-| 29 | [Dranei](https://open.spotify.com/track/4wZU7ZzKd5IU752nYYIRB3) | [Julius Sedlák](https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH) | [Dranei](https://open.spotify.com/album/7zIeBBmDSOVBVfX9Wng0hv) | 2:24 |
+| 12 | [Whispering Embers](https://open.spotify.com/track/1jUNFk22PrQlJkphnX1uEn) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [Whispering Embers](https://open.spotify.com/album/0tNqI3h7dFLyozrqnNeNmI) | 2:42 |
+| 13 | [Behind an Ethereal Veil](https://open.spotify.com/track/0TdAAwbQJyQKBdiDQBY5xa) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [Behind An Ethereal Veil](https://open.spotify.com/album/5dMXMcck2Dn1fRchPDD9M0) | 2:24 |
+| 14 | [Upperwest](https://open.spotify.com/track/5AeDDsA6v08alqeIc7cVRG) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Upperwest](https://open.spotify.com/album/4gTjSlWw7hWKCGy8qwFHp8) | 2:27 |
+| 15 | [Ends And Beginnings](https://open.spotify.com/track/5QgG6Hg2xSYVIYr8G0LtCf) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [Ends And Beginnings](https://open.spotify.com/album/3ioWvG4UB9oMuIdHXUp9em) | 2:19 |
+| 16 | [There Is Light](https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [There Is Light](https://open.spotify.com/album/6AcZrFuuDEO6AJAOTNM6Jg) | 2:58 |
+| 17 | [Follow the light](https://open.spotify.com/track/6CnXUPZShpDtkrIIKxbYMe) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Follow the light](https://open.spotify.com/album/4QKDOxeSLtIbKThW61QuxV) | 2:07 |
+| 18 | [Sojourn](https://open.spotify.com/track/0rV61MLbhHcqQNmJYEZIXt) | [Théo Laurent](https://open.spotify.com/artist/73nqYCiXP0tWWhSWjSpC0w) | [Sojourn](https://open.spotify.com/album/5CLXvXaJzcQC9QYdUSE0hZ) | 2:31 |
+| 19 | [Dranei](https://open.spotify.com/track/4wZU7ZzKd5IU752nYYIRB3) | [Julius Sedlák](https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH) | [Dranei](https://open.spotify.com/album/7zIeBBmDSOVBVfX9Wng0hv) | 2:24 |
+| 20 | [What We Were](https://open.spotify.com/track/2UoHf8TmIoTM5VX7fWI3Ti) | [Remy Rêve](https://open.spotify.com/artist/3I3CLq5F3vgjm0f0XmQgsL) | [What We Were](https://open.spotify.com/album/1hsVKcq4USb0S5xgqscn1u) | 2:55 |
+| 21 | [Unwind Dreams](https://open.spotify.com/track/3uas6wnNDf3NYFwkh1IBnq) | [Lakes of Lagan](https://open.spotify.com/artist/72lKRBDN7nlWA93GIjn7KW) | [Unwind Dreams](https://open.spotify.com/album/4SjMQNEG5sdFqVHzmpjfh6) | 2:52 |
+| 22 | [Clear waters](https://open.spotify.com/track/7ATTZzULv32ZSfRiudX0hb) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Clear waters](https://open.spotify.com/album/0zek5R4VK7aRwmSQ6uoJf5) | 3:17 |
+| 23 | [Dreamscape](https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dreamscape](https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM) | 2:26 |
+| 24 | [Primrose](https://open.spotify.com/track/05wL2Gp3Hi6dVOhYn6pG1g) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Primrose](https://open.spotify.com/album/7GEFN88vNtaOkNvgM1h207) | 2:23 |
+| 25 | [Bonjour](https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Bonjour](https://open.spotify.com/album/4pKg8wGdu05SMyu7FpvNjD) | 2:39 |
+| 26 | [Blue House](https://open.spotify.com/track/6GubNK7uYQmYv1s1mxLiTY) | [Henri Mael](https://open.spotify.com/artist/5olHxtBnXQ3IO0oXnDE0bF) | [Blue House](https://open.spotify.com/album/70dJ2yvfX09aX1wXEqwRhj) | 2:32 |
+| 27 | [Roots](https://open.spotify.com/track/5DIegspvH5kSOgfl2uuS0I) | [Ceri Floyyd](https://open.spotify.com/artist/7AlsCKaKLDPwzHm4O2gb2i) | [Roots](https://open.spotify.com/album/3W441GJZTCT3O0R1Zy84QO) | 3:18 |
+| 28 | [Chute De Neige](https://open.spotify.com/track/7jbEFWP7BR5dp3CVY3VcTc) | [Orcrist](https://open.spotify.com/artist/1N5Q4G5YuaZkMi4M8Kef2U) | [Chute De Neige](https://open.spotify.com/album/1jGeso4zdhTekE74udbEli) | 3:26 |
+| 29 | [Ethereal Night](https://open.spotify.com/track/5BYYaZIuGLsS9YHAaKGVxx) | [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Ethereal Night](https://open.spotify.com/album/2PqCb0wsx2tLpCfJylfS2l) | 2:46 |
 | 30 | [Down...then Up](https://open.spotify.com/track/3XXZTk9yfJaeyxWjsOQh8T) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Down...then Up](https://open.spotify.com/album/1SqXjckIWzgtnBUtDe6Z33) | 2:26 |
 | 31 | [The Secrets of Mystery Room](https://open.spotify.com/track/2wcpj4bLieMw83D7pKOgr5) | [Pederosa Calafiori](https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq) | [The Secrets of Mystery Room](https://open.spotify.com/album/1hEJVDs3qZ8afd8xjEjFft) | 2:37 |
 | 32 | [Look Up Into The Sky](https://open.spotify.com/track/2B3IRd11PnWIuoSABoGw1y) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Look Up Into The Sky](https://open.spotify.com/album/77hIdlLy7Fzt7KDpWakVte) | 2:02 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY4tn4nPCV1.md) - [plain]
 | 179 | [Wayfarer](https://open.spotify.com/track/0DfcL73wzcHapZVB95Tm3F) | [Maud Parris](https://open.spotify.com/artist/0hMFv0x1eWo999Ri1wl3iA) | [Wayfarer](https://open.spotify.com/album/5aTfJ7qE0h7uP6IMfmpm9v) | 2:06 |
 | 180 | [Petrichor](https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr) | [Petrichor](https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz) | 2:27 |
 
-Snapshot ID: `Zw4mXAAAAABUBaERbPJ/eiZm2rs8c5rI`
+Snapshot ID: `ZxaVpQAAAADoM3OcJax6+NQqsR3v4u6V`

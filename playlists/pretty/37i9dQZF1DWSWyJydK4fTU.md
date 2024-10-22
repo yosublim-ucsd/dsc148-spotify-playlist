@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > Für einen tollen Start in den Tag\. Oder einfach so.
 
-[Spotify](https://open.spotify.com/user/spotify) - 640,078 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 640,052 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 3 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 |
 | 4 | [Halo](https://open.spotify.com/track/74KNUsROKQpivX8RHHwwr9) | [Rea Garvey](https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv) | [Halo](https://open.spotify.com/album/1hR2Fahege0dQiUnRBm94b) | 2:56 |
 | 5 | [Garden](https://open.spotify.com/track/29DdvWUvx1CTrIS4LtpXhx) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Garden](https://open.spotify.com/album/4tQ2nIqxjL2iRON1hoW6Qi) | 3:05 |
-| 6 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 |
+| 6 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 |
 | 7 | [Herzschlag](https://open.spotify.com/track/5AT4QWxSfRSShw51ao7Zz5) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv) | [Herzschlag](https://open.spotify.com/album/2DpUOA6w7OYhQnnOWDjY8Y) | 2:53 |
 | 8 | [Flowers In The Water](https://open.spotify.com/track/1czfrD4LSjHFYHuYkzkrJK) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Flowers In The Water](https://open.spotify.com/album/6fOhPdyTl3T58HFWEXeqmw) | 2:22 |
 | 9 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 23 | [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 |
 | 24 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
 | 25 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 |
-| 26 | [Alles nichts ohne dich \- Aus "Die Schule der magischen Tiere 3"](https://open.spotify.com/track/5OF2EQh2WsECvmJElcNod7) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Alles nichts ohne dich \- Aus dem Soundtrack zum Kinofilm "Die Schule der magischen Tiere 3"](https://open.spotify.com/album/0VlOmFjDw8kUQJGazxYlNV) | 2:17 |
+| 26 | [Alles nichts ohne dich \- Aus "Die Schule der magischen Tiere 3"](https://open.spotify.com/track/5OF2EQh2WsECvmJElcNod7) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Alles nichts ohne dich \(Aus dem Soundtrack zum Kinofilm "Die Schule der magischen Tiere 3"\)](https://open.spotify.com/album/0VlOmFjDw8kUQJGazxYlNV) | 2:17 |
 | 27 | [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/track/7t9kghsVb4ScWGnQGS8pVs) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/album/47f7gbtZx0UbvPcO5lx6Lu) | 3:08 |
 | 28 | [lauf](https://open.spotify.com/track/2BoFXyQK51mh6C9lUQd8Ok) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [lauf](https://open.spotify.com/album/7qVoIKsmBemsKvxDitsvWr) | 3:32 |
 | 29 | [Roses](https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Roses](https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc) | 3:10 |

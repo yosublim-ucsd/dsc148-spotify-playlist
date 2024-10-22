@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Sevdaliza, KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,914 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,889 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 79 | [Talk About Me](https://open.spotify.com/track/5p2E22Aqu1POm8UgoX6gdg) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Talk About Me](https://open.spotify.com/album/61UySoZLQF0ylMfaElkUwl) | 2:16 |
 | 80 | [Woof \(feat\. Kah\-Lo\)](https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:12 |
 | 81 | [CINNAMON TWISTS](https://open.spotify.com/track/4GWlmSGk32QZSvptMyslZN) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CINNAMON TWISTS](https://open.spotify.com/album/2ZGEcSDRUr91oYRJFHPTaB) | 2:03 |
-| 82 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 |
+| 82 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 |
 | 83 | [UNHHH](https://open.spotify.com/track/7GMUOZVVsXs0si8sJ9QXQP) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Please Hold](https://open.spotify.com/album/3yTyKaDM9gEzPuSgTCWTmq) | 2:14 |
 | 84 | [Whatever](https://open.spotify.com/track/1VM8R8iByjEbrWUFDkaful) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [Whatever](https://open.spotify.com/album/09M2iavquvwhrN43gVsqfG) | 3:44 |
 | 85 | [Wouldn't It Be Nice](https://open.spotify.com/track/60t0oNLBuyqeiIbl9igwO2) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato) | [It's Always Sunny in Glendale](https://open.spotify.com/album/1moQepqI0UO0mctopBmp9O) | 1:58 |

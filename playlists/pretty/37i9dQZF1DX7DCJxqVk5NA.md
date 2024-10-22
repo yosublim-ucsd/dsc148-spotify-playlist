@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 
 > HBCU Anthems! Curated by Bowie State University's own <a href="spotify:artist:1dbTwUlL11ZYdC1YAR07AM">Foggieraw</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,630 likes - 32 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,876 likes - 32 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 13 | [19](https://open.spotify.com/track/3TNTVqCZt1AGsjdYxjmyXt) | [Zaamwé](https://open.spotify.com/artist/1gIqDLrB1IrhxxC7EYTRuJ) | [The Cool\-Cool](https://open.spotify.com/album/766XIl3W4ttEL5oTRDzmGw) | 4:35 |
 | 14 | [Broke Boi](https://open.spotify.com/track/4kjrB4xpcXRiAjLRivGhN2) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Broke Boi](https://open.spotify.com/album/0qgq2i1rf5vl3cQqfQSq2z) | 3:09 |
 | 15 | [Uber Everywhere \(feat\. Travis Scott\)](https://open.spotify.com/track/5YCs9rP6ZcMJW6me3QhtWr) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [You Are Forgiven \(Deluxe Edition\)](https://open.spotify.com/album/1lRXGxzyZZLqVUZHYKNxQo) | 3:01 |
-| 16 | [Real Sisters](https://open.spotify.com/track/5GhJq5J9ZWIEDZdyw7EWzt) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \- Deluxe](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 2:53 |
+| 16 | [Real Sisters](https://open.spotify.com/track/5GhJq5J9ZWIEDZdyw7EWzt) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 2:53 |
 | 17 | [Recognize \(feat\. Drake\)](https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:11 |
 | 18 | [Look at Wrist](https://open.spotify.com/track/6NAC0e4E05xptbKzrIUxCg) | [Father](https://open.spotify.com/artist/10AY17ALos2o3akPqrPydw), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja), [KEY!](https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP) | [I LOVE MAKONNEN](https://open.spotify.com/album/4gyGykGf5e2iGiSeVNDAyW) | 3:33 |
 | 19 | [Linebacker](https://open.spotify.com/track/462bcTc52rrbvABljJom9g) | [Baby Ahk](https://open.spotify.com/artist/5OuQHWY62jcsbjybtomMSS), [Big Flock](https://open.spotify.com/artist/4WQM9gsqlWK9AgSiDQeuaD), [Lil Dude](https://open.spotify.com/artist/5n6JaSoLrUIOTCkke6vVtR) | [Linebacker](https://open.spotify.com/album/3w4hDiOZ3l2UX4BbnWIyef) | 4:00 |

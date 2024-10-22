@@ -1165,7 +1165,7 @@
     },
     {
       "album": {
-        "name": "Back On 74 - Rework",
+        "name": "Back On 74 (Rework)",
         "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
       },
       "artists": [
@@ -3167,7 +3167,7 @@
     },
     {
       "album": {
-        "name": "Deep Scene - Axel Boman Remix",
+        "name": "Deep Scene (Axel Boman Remix)",
         "url": "https://open.spotify.com/album/64804QOVNU0ujDLYjA0d5G"
       },
       "artists": [
@@ -5839,7 +5839,7 @@
     },
     {
       "album": {
-        "name": "Houdini - Adam Port Mix",
+        "name": "Houdini (Adam Port Mix)",
         "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
       },
       "artists": [
@@ -7519,7 +7519,7 @@
     },
     {
       "album": {
-        "name": "Lioness - Francis Mercier Remix",
+        "name": "Lioness (Francis Mercier Remix)",
         "url": "https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf"
       },
       "artists": [
@@ -7811,7 +7811,7 @@
     },
     {
       "album": {
-        "name": "Lovely Day - Austin Millz Remix",
+        "name": "Lovely Day (Austin Millz Remix)",
         "url": "https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1"
       },
       "artists": [
@@ -8811,7 +8811,7 @@
     },
     {
       "album": {
-        "name": "Morenita - Marco Generani Remix",
+        "name": "Morenita (Marco Generani Remix)",
         "url": "https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw"
       },
       "artists": [
@@ -9967,7 +9967,7 @@
     },
     {
       "album": {
-        "name": "Orion - Sistek Remix",
+        "name": "Orion (Sistek Remix)",
         "url": "https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA"
       },
       "artists": [
@@ -10105,7 +10105,7 @@
     },
     {
       "album": {
-        "name": "Pangea - Maxi Meraki Remix",
+        "name": "Pangea (Maxi Meraki Remix)",
         "url": "https://open.spotify.com/album/3rYYFme3gS5wpOg02KV6hV"
       },
       "artists": [
@@ -12553,7 +12553,7 @@
     },
     {
       "album": {
-        "name": "Stellar - ANNA Remix",
+        "name": "Stellar (ANNA Remix)",
         "url": "https://open.spotify.com/album/6QT8IOUeqAPMQ3mmO3uuvg"
       },
       "artists": [
@@ -12843,7 +12843,7 @@
     },
     {
       "album": {
-        "name": "Sweet Dreams - Radio Edit",
+        "name": "Sweet Dreams (Radio Edit)",
         "url": "https://open.spotify.com/album/21i4fZf94rBpUh8Bma97vd"
       },
       "artists": [
@@ -13566,6 +13566,28 @@
       "duration_ms": 320000,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/0QdgJdMgEQTrjCAFxxcZZm"
+    },
+    {
+      "album": {
+        "name": "Thriller Afro Halloween Mix",
+        "url": "https://open.spotify.com/album/65eHXOJPIW5UFhkCnFTboF"
+      },
+      "artists": [
+        {
+          "name": "Softmal",
+          "url": "https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ"
+        },
+        {
+          "name": "LL\u00f8lita",
+          "url": "https://open.spotify.com/artist/0fnCSuylj2kNfNzpvmFeM3"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142926,
+      "name": "Thriller - Afro Halloween Radio Edit",
+      "url": "https://open.spotify.com/track/0LBlaDyDuXFxKMlAKkyVnl"
     },
     {
       "album": {

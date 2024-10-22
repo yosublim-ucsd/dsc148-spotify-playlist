@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: LILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,418 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,422 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 2 | [An Apopse Figo \- Night Rider Edit](https://open.spotify.com/track/72jtB2gdVoUhvSWrqfpP27) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [dPans](https://open.spotify.com/artist/3wz93gsh1Vj23McptGxzTm) | [An Apopse Figo \(Night Rider Edit\)](https://open.spotify.com/album/7rIkPoaqArCsOWmPqv3z0w) | 1:07 |
 | 3 | [PSEMATA](https://open.spotify.com/track/4afbrAtKTYLT2J0QBo70It) | [Elena Tsagrinou](https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU) | [PSEMATA](https://open.spotify.com/album/3dji683GDv39BHlufBg38p) | 3:35 |
 | 4 | [Valia Calda \- Lencasea Remix](https://open.spotify.com/track/6LrsV7BfbCkE21Mo70K9SQ) | [Billie Kark](https://open.spotify.com/artist/6hDmweft2NBTVSnCPJ5pMc), [Lencasea](https://open.spotify.com/artist/0DhWqpLY1LFTtsJaX1R7z6) | [Valia Calda \(Lencasea Remix\)](https://open.spotify.com/album/4p3v4JBUupq1EMPXjyIERD) | 4:08 |
-| 5 | [FLX \- Remix](https://open.spotify.com/track/0Z1kWi9f2FCIoc1KnZTQvs) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [MITCH T](https://open.spotify.com/artist/5JqLGiKlmAmtXvANEKDtbu) | [FLX \- Remix](https://open.spotify.com/album/7uLAboOrZqDtRvMFVfnrxE) | 2:09 |
+| 5 | [FLX \- Remix](https://open.spotify.com/track/0Z1kWi9f2FCIoc1KnZTQvs) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [MITCH T](https://open.spotify.com/artist/5JqLGiKlmAmtXvANEKDtbu) | [FLX \(Remix\)](https://open.spotify.com/album/7uLAboOrZqDtRvMFVfnrxE) | 2:09 |
 | 6 | [SEKUSHI](https://open.spotify.com/track/0GYX0KUkK846w6tWYiFJMV) | [Ghetto Queen](https://open.spotify.com/artist/6an4Zx0OdqzQCCtOUnuckK), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [SEKUSHI](https://open.spotify.com/album/1hJQ1UH3y1ZGHsRZHH8G1J) | 2:16 |
 | 7 | [Ola Allazoune](https://open.spotify.com/track/6NJOIt1eUL4kbGbPNZMJYx) | [Eleftheria Eleftheriou](https://open.spotify.com/artist/1xN3Gghqr2BsjaAG37EVM4) | [Ola Allazoune](https://open.spotify.com/album/5GX67mgRtFyAYsi3BMdfhM) | 2:19 |
-| 8 | [Nyxta Moy Magissa](https://open.spotify.com/track/54xvSQrX7zIMlRCl97HKkc) | [Peggy Zina](https://open.spotify.com/artist/4ut0QJyQkh4mrh3Cu6diKz), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [H Katara Tis Tzela Delafragka \- Original Tv Series Soundtrack](https://open.spotify.com/album/4tNu4Hvb21IFutFlDuorga) | 3:26 |
+| 8 | [Nyxta Moy Magissa](https://open.spotify.com/track/54xvSQrX7zIMlRCl97HKkc) | [Peggy Zina](https://open.spotify.com/artist/4ut0QJyQkh4mrh3Cu6diKz), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [H Katara Tis Tzela Delafragka \(Original Tv Series Soundtrack\)](https://open.spotify.com/album/4tNu4Hvb21IFutFlDuorga) | 3:26 |
 | 9 | [Poso M' Agapises](https://open.spotify.com/track/5tzjEkXQpj4siilTVvn0bj) | [Eleni Tsaligopoulou](https://open.spotify.com/artist/3Gk7fuRSYuQWqXGhRGPsG4), [Danai Papadopoulou](https://open.spotify.com/artist/7moApbJ63BuGI9rTXRUQW3) | [Poso M' Agapises](https://open.spotify.com/album/6FOCprKtFnqaJLbRfIkicX) | 3:11 |
 | 10 | [File Mou Zise](https://open.spotify.com/track/4ej5Twvs2P3JoDnVXu79Gl) | [Eleni Hatzidou](https://open.spotify.com/artist/6P6FzomDMeM5mwj5AHBaWl), [Kyriakos Galinos](https://open.spotify.com/artist/1lXJCmM5xBUvlDT9xXMV74) | [File Mou Zise](https://open.spotify.com/album/5zA3HTUnRX4v7v9aFMc5j7) | 3:48 |
 | 11 | [Agios Erotas](https://open.spotify.com/track/44UJmhdr6mKHjMEaY3BeGZ) | [Sofia Manousaki](https://open.spotify.com/artist/4HOhcDTOk0JfElBEZynmcO), [Stefanos Korkolis](https://open.spotify.com/artist/1ZvewXx4WAhSSrxoUDb4Nz), [Gerasimos Evangelatos](https://open.spotify.com/artist/3FOcz0CoQjXRhfnKLqrXQq) | [Agios Erotas](https://open.spotify.com/album/6eQF42FpwFNeX4s5mw5yJb) | 3:18 |

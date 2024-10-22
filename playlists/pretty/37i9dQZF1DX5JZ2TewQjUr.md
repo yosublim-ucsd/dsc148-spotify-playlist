@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 胡樂彤
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,684 likes - 254 songs - 14 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,687 likes - 254 songs - 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 65 | [Penny](https://open.spotify.com/track/4k2HmJbsGH6dbLdvHX9piV) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [Penny](https://open.spotify.com/album/2QGONFETSMCVdTY9iQLCWZ) | 3:26 |
 | 66 | [Lost in Between](https://open.spotify.com/track/407HZCSxQUhks2BW0MyRzv) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [Anniina](https://open.spotify.com/artist/44aOM1DNwPKGb0ticurbPT) | [Lost in Between](https://open.spotify.com/album/6f6a0nmZpwbKJrPeCNvv7N) | 2:43 |
 | 67 | [And The Darkness](https://open.spotify.com/track/1a4cJ6ElAAsZXc1UUsxsxv) | [Glen Alfred](https://open.spotify.com/artist/2zzLSCN9YTxzrMpmT28Lhx) | [And The Darkness](https://open.spotify.com/album/5DhVNlkZdtqugiJKArk3Qi) | 4:02 |
-| 68 | [sparks \- live at home](https://open.spotify.com/track/3w5SPHFYd6boRmRgjIsm6L) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [sparks \- live at home](https://open.spotify.com/album/2ITNohgJWUaQ4JJXIRS913) | 4:18 |
+| 68 | [sparks \- live at home](https://open.spotify.com/track/3w5SPHFYd6boRmRgjIsm6L) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [sparks \(live at home\)](https://open.spotify.com/album/2ITNohgJWUaQ4JJXIRS913) | 4:18 |
 | 69 | [I Miss You](https://open.spotify.com/track/1B8y5QXD89avb0Qv646JBk) | [HKY](https://open.spotify.com/artist/5xxEQ38ND7ml49zqz1CpiP) | [I Miss You](https://open.spotify.com/album/6ObDTSanrw05sTikDEbXge) | 3:21 |
 | 70 | [Imaginary Road Trip](https://open.spotify.com/track/01p8rktC9ZGUvYgzziqq1c) | [Wellsaid](https://open.spotify.com/artist/03YL8KDv0Ui8DNBe1KJwnG) | [Imaginary Road Trip](https://open.spotify.com/album/6XN09QYvUZZE6uqfuy4vAS) | 3:17 |
 | 71 | [Strolling Sheep \(feat\. Bryan Li\)](https://open.spotify.com/track/58iPpoqLEQJigBtxAdx1a0) | [Oh! Sheep](https://open.spotify.com/artist/6J1qygxBY60B6lwIBTYTTU), [Bryan Li](https://open.spotify.com/artist/0hiM4aE6IRnwyfkO3lECrM) | [Strolling Sheep \(feat\. Bryan Li\)](https://open.spotify.com/album/1PcfKCsh3bOKTFRtvH1Eqx) | 5:01 |

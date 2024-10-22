@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 18847,
+  "num_followers": 18848,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAACBc1ck0pU/QsQHopkQWXmO",
+  "snapshot_id": "ZxRIAAAAAACy+Usepr8SL9iYP2ei3a9j",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 217543,
+      "name": "Heft",
+      "url": "https://open.spotify.com/track/5j7CjG3iZzyfOSoLCEzIHx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Essentially",
         "url": "https://open.spotify.com/album/77DrlB8DpvYIo2pSyw5z5s"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 196214,
       "name": "Essentially",
       "url": "https://open.spotify.com/track/7MI12qNsacindN65MWoMYR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 230322,
-      "name": "In Heaven",
-      "url": "https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psychopomp",
+        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 230322,
+      "name": "In Heaven",
+      "url": "https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sable (Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
@@ -399,38 +415,6 @@
       "duration_ms": 210625,
       "name": "Better the Mask",
       "url": "https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psychopomp",
-        "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 217543,
-      "name": "Heft",
-      "url": "https://open.spotify.com/track/5j7CjG3iZzyfOSoLCEzIHx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head Over Heels",
-        "url": "https://open.spotify.com/album/2E708oixNbIE32J644UTEj"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF"
     },
     {
       "added_at": null,
@@ -451,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/2E708oixNbIE32J644UTEj"
       },
       "artists": [
         {
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 250906,
-      "name": "Exploration (Ruins)",
-      "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
+      "duration_ms": 237333,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/5UC89ZH1hMDKaDFGfKBrwF"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Exploration (Ruins)",
+      "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ"
       },
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 64000,
-      "name": "Main Menu",
-      "url": "https://open.spotify.com/track/43193ICguBqjuTGEvIsXG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psychopomp",
         "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 75707,
       "name": "Psychopomp",
       "url": "https://open.spotify.com/track/1VeVcMCuC8f6rvsyVsi7Pj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 64000,
+      "name": "Main Menu",
+      "url": "https://open.spotify.com/track/43193ICguBqjuTGEvIsXG9"
     },
     {
       "added_at": null,

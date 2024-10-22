@@ -422,7 +422,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 203571,
       "name": "Alcoholic",
       "url": "https://open.spotify.com/track/3AAHmSw32Q8HJ9ySLDkA3e"
@@ -1601,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Desi Balak Gama Ke",
+        "url": "https://open.spotify.com/album/0I3sskaV7KxSZ4NVG9T7Yt"
+      },
+      "artists": [
+        {
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205006,
+      "name": "Desi Balak Gama Ke",
+      "url": "https://open.spotify.com/track/6DonWP8ZlT3US6PlomsIka"
+    },
+    {
+      "album": {
         "name": "Desi Haan Ji",
         "url": "https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo"
       },
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 154444,
       "name": "GOAT ANTHEM",
       "url": "https://open.spotify.com/track/0pXKN8T5b1sXMkrOoxSlGO"
@@ -2766,6 +2784,24 @@
       "duration_ms": 115442,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/1fZ6ZXqgQOgnhVjgud8haG"
+    },
+    {
+      "album": {
+        "name": "DNW Vol. 1",
+        "url": "https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/6L7EJzsVd50jBakdBHFDC4"
     },
     {
       "album": {
@@ -3382,7 +3418,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 167172,
       "name": "Kede Kede Yaar",
       "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"
@@ -3444,10 +3480,28 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 164148,
       "name": "Kill Love",
       "url": "https://open.spotify.com/track/5AZptd2m2uVIGILEtFTfJu"
+    },
+    {
+      "album": {
+        "name": "DNW Vol. 1",
+        "url": "https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175909,
+      "name": "Knife Brows",
+      "url": "https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1"
     },
     {
       "album": {
@@ -4236,7 +4290,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 185525,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx"
@@ -4556,7 +4610,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 156773,
       "name": "Paggal",
       "url": "https://open.spotify.com/track/0dA3w3xlWHImfX39kEnmSc"
@@ -5030,7 +5084,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 174857,
       "name": "Rubicon",
       "url": "https://open.spotify.com/track/6EnDE5S4iX8HsURZtAOh6J"

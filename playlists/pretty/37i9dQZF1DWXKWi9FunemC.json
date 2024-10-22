@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 340182,
+  "num_followers": 340321,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "If It Wasn\u2019t for the Cross",
-        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
-      },
-      "artists": [
-        {
-          "name": "The Lowly Heirs",
-          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "If It Wasn\u2019t for the Cross",
-      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Refuge",
         "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
       },
@@ -667,18 +651,34 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "In Every Way",
-        "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
+        "name": "You Are God, Be Glorified",
+        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
       },
       "artists": [
         {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
         }
       ],
-      "duration_ms": 263213,
-      "name": "In Every Way",
-      "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
+      "duration_ms": 267165,
+      "name": "You Are God, Be Glorified",
+      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "If It Wasn\u2019t for the Cross",
+        "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
+      },
+      "artists": [
+        {
+          "name": "The Lowly Heirs",
+          "url": "https://open.spotify.com/artist/5Rut8SvWARj6uzDoajjUbX"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "If It Wasn\u2019t for the Cross",
+      "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "You Are God, Be Glorified",
-        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
+        "name": "In Every Way",
+        "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
       },
       "artists": [
         {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
         }
       ],
-      "duration_ms": 267165,
-      "name": "You Are God, Be Glorified",
-      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
+      "duration_ms": 263213,
+      "name": "In Every Way",
+      "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Worth Mine",
-        "url": "https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk"
-      },
-      "artists": [
-        {
-          "name": "Lydia Bricker",
-          "url": "https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR"
-        },
-        {
-          "name": "Daniel Robinson",
-          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
-        }
-      ],
-      "duration_ms": 280054,
-      "name": "Worth Mine",
-      "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
         "url": "https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 244213,
       "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
       "url": "https://open.spotify.com/track/6DMNym6nYxh5VuymM6kGyW"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Worth Mine",
+        "url": "https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk"
+      },
+      "artists": [
+        {
+          "name": "Lydia Bricker",
+          "url": "https://open.spotify.com/artist/77SyO2m1cq9Nua1UuNZzvR"
+        },
+        {
+          "name": "Daniel Robinson",
+          "url": "https://open.spotify.com/artist/1tlNtqr5jF7Z8pR9i4RWsa"
+        }
+      ],
+      "duration_ms": 280054,
+      "name": "Worth Mine",
+      "url": "https://open.spotify.com/track/31Zcf0CbOcZy4Y2LX5pBsU"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
-      },
-      "artists": [
-        {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Open My Eyes",
-      "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Just As I Am (Nothing to Prove)",
         "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 316946,
       "name": "Just As I Am (Nothing to Prove)",
       "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
+      },
+      "artists": [
+        {
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Open My Eyes",
+      "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "I Will Sing",
+        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
+      },
+      "artists": [
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 254488,
+      "name": "I Will Sing",
+      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Taste And See",
         "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I Will Sing",
-        "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
-      },
-      "artists": [
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 254488,
-      "name": "I Will Sing",
-      "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 289411,
       "name": "Hanging onto Every Word That You Say",
       "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1147,6 +1131,22 @@
       "duration_ms": 254118,
       "name": "Not in a Hurry - Reimagined",
       "url": "https://open.spotify.com/track/2xrCrLzMb2tfWISosDOqqX"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "That's What I Call Free",
+        "url": "https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb"
+      },
+      "artists": [
+        {
+          "name": "Mas",
+          "url": "https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm"
+        }
+      ],
+      "duration_ms": 231438,
+      "name": "That's What I Call Free",
+      "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "It Goes Both Ways",
         "url": "https://open.spotify.com/album/0oK55mBAQglpapd3cEjKh8"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 337760,
       "name": "You Never Break a Promise",
       "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "That's What I Call Free",
-        "url": "https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb"
-      },
-      "artists": [
-        {
-          "name": "Mas",
-          "url": "https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm"
-        }
-      ],
-      "duration_ms": 231438,
-      "name": "That's What I Call Free",
-      "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "Go With Me",
+        "url": "https://open.spotify.com/album/4At1FoRpKILlQScRac9B65"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 265566,
+      "name": "Go With Me",
+      "url": "https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Grace after Grace",
         "url": "https://open.spotify.com/album/14lJlizbzXdtC2nrS0nR5O"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 253058,
       "name": "Grace after Grace",
       "url": "https://open.spotify.com/track/5h3Zp8z3UP5zqsuUIFgHRf"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Go With Me",
-        "url": "https://open.spotify.com/album/4At1FoRpKILlQScRac9B65"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 265566,
-      "name": "Go With Me",
-      "url": "https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw"
     },
     {
       "added_at": "2024-08-03 00:38:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover:  Kaleb J
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,116 likes - 101 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,142 likes - 101 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,14 +91,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 81 | [Dibalas Dengan Dusta](https://open.spotify.com/track/75nN4aNv69urbVgIAPCYxR) | [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Dibalas Dengan Dusta](https://open.spotify.com/album/5o7eHNTm5x3FWatqCvAMqI) | 4:05 |
 | 82 | [Serigala](https://open.spotify.com/track/1z9nHs7kyjtrcgNVhJcFmw) | [giring ganesha](https://open.spotify.com/artist/6nmlDBlWRpZq98um38LuEW) | [Serigala](https://open.spotify.com/album/7kGXgXNlQLhpGjv8VLo1RV) | 3:34 |
 | 83 | [Gemercik Asmara](https://open.spotify.com/track/3wA8KBsBcCkAAF9ZDZLkKQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Gemercik Asmara](https://open.spotify.com/album/2ORVC4aitj1kM2XqkDXnH8) | 3:51 |
-| 84 | [Lost Stars \- From "Laura Movie"](https://open.spotify.com/track/4KcG3ogn7rTXJzkErtyNKf) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Lost Stars \- From "Laura Movie"](https://open.spotify.com/album/7wB3zaQzNR5nXUynJqXLAL) | 4:39 |
+| 84 | [Lost Stars \- From "Laura Movie"](https://open.spotify.com/track/4KcG3ogn7rTXJzkErtyNKf) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Lost Stars \(From "Laura Movie"\)](https://open.spotify.com/album/7wB3zaQzNR5nXUynJqXLAL) | 4:39 |
 | 85 | [Tersemogakan](https://open.spotify.com/track/4DOc22yZdsjVPvlrACYIqA) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Tersemogakan](https://open.spotify.com/album/09yLZPS9Puyw7DJHYyjSNi) | 4:14 |
 | 86 | [Selama Ku Bernafas](https://open.spotify.com/track/2x8v50JevSgEgBB8SDtY9T) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Selama Ku Bernafas](https://open.spotify.com/album/73IVBgWRjUeOAlAjFTS3CX) | 4:54 |
 | 87 | [Durasi](https://open.spotify.com/track/0OuVSjnPMcTjwIZUcrT6r4) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Kapal Udara](https://open.spotify.com/artist/5CvDGL6DI3YjfUujUZZa8f) | [Durasi](https://open.spotify.com/album/0iGH07DqyKm8emcyCj6FZ4) | 5:33 |
 | 88 | [Benar Salah](https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Benar Salah](https://open.spotify.com/album/44FncBBPS20DbZJEIL7VYN) | 3:27 |
 | 89 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 |
 | 90 | [1 dari 1000](https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [1 dari 1000](https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT) | 3:54 |
-| 91 | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 |
+| 91 | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \(From "Laura Movie"\)](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 |
 | 92 | [terjebak imajinasi](https://open.spotify.com/track/2NMdEvZmw5y4BCU1K6ZDOq) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [terjebak imajinasi](https://open.spotify.com/album/3569cgiDWP0bqJ3VWCQZ7I) | 3:42 |
 | 93 | [Ternyata](https://open.spotify.com/track/7MQW08eDg5CTLhtILqkKN7) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Ternyata](https://open.spotify.com/album/30gZnxUnWFrUpiwpTdzQZv) | 2:54 |
 | 94 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |

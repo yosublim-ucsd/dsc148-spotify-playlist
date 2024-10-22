@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Safia Nolin",
-  "num_followers": 42286,
+  "num_followers": 42292,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Un peu",
-        "url": "https://open.spotify.com/album/2K8CZHlvMVaGblwBOMsOUc"
-      },
-      "artists": [
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 177880,
-      "name": "Un peu",
-      "url": "https://open.spotify.com/track/6VaFJoPFZrbbV5hrxeBpVA"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
         "url": "https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 229939,
       "name": "Hymne \u00e0 l'amour (Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024)",
       "url": "https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Un peu",
+        "url": "https://open.spotify.com/album/2K8CZHlvMVaGblwBOMsOUc"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "duration_ms": 177880,
+      "name": "Un peu",
+      "url": "https://open.spotify.com/track/6VaFJoPFZrbbV5hrxeBpVA"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Pyramide 2",
+        "url": "https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 189569,
+      "name": "La famine",
+      "url": "https://open.spotify.com/track/2miptNhVu6KAZk5aaSUB3Y"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "La 17",
         "url": "https://open.spotify.com/album/2z4jzFw2X78jeHJSHZXNm9"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 173933,
       "name": "Dans les veines",
       "url": "https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Pyramide 2",
-        "url": "https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189569,
-      "name": "La famine",
-      "url": "https://open.spotify.com/track/2miptNhVu6KAZk5aaSUB3Y"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Tu vas me quitter encore longtemps ?",
+        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Tu vas me quitter encore longtemps ?",
+      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Je t'ai cherch\u00e9",
         "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
       },
@@ -775,6 +791,26 @@
       "duration_ms": 216159,
       "name": "Je t'ai cherch\u00e9",
       "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Des rires et des pleurs",
+        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 155368,
+      "name": "No stress",
+      "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -819,42 +855,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Des rires et des pleurs",
-        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
-      },
-      "artists": [
-        {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 155368,
-      "name": "No stress",
-      "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Tu vas me quitter encore longtemps ?",
-        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "Tu vas me quitter encore longtemps ?",
-      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Seul au monde (feat. Soolking)",
         "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
       },
@@ -871,6 +871,22 @@
       "duration_ms": 180361,
       "name": "Seul au monde (feat. Soolking)",
       "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Vie Viano (#STATION 1)",
+        "url": "https://open.spotify.com/album/1KvqB3fVRasWGX3Rpseggc"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 102426,
+      "name": "Vie Viano (#STATION 1)",
+      "url": "https://open.spotify.com/track/1Rl3EOVuCPL0K6mYbPDlfa"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -907,22 +923,6 @@
       "duration_ms": 184573,
       "name": "DOUTE (feat. Zamdane)",
       "url": "https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "La Pieva",
-        "url": "https://open.spotify.com/album/45DPqxb2Dp6gDnwO9gpiSi"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pravi",
-          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Qui j'\u00e9tais",
-      "url": "https://open.spotify.com/track/5FMRfzp9GVLtTX9Pg1i5Gp"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

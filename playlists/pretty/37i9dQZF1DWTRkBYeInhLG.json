@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 482026,
+  "num_followers": 482086,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-09-27 14:05:27",
       "album": {
-        "name": "Dari Mata",
-        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 223462,
-      "name": "Dari Mata",
-      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
-    },
-    {
-      "added_at": "2024-09-27 14:05:27",
-      "album": {
         "name": "Percayalah",
         "url": "https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 266111,
       "name": "Percayalah",
       "url": "https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet"
+    },
+    {
+      "added_at": "2024-09-27 14:05:27",
+      "album": {
+        "name": "Dari Mata",
+        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 223462,
+      "name": "Dari Mata",
+      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
     },
     {
       "added_at": "2024-09-27 14:05:27",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-09-27 14:05:27",
       "album": {
-        "name": "Taman Langit",
-        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 199138,
-      "name": "Yang Terdalam",
-      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
-    },
-    {
-      "added_at": "2024-09-27 14:05:27",
-      "album": {
         "name": "Renung Resah",
         "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 222000,
       "name": "Itu Aku",
       "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
+    },
+    {
+      "added_at": "2024-09-27 14:05:27",
+      "album": {
+        "name": "Taman Langit",
+        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 199138,
+      "name": "Yang Terdalam",
+      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
     },
     {
       "added_at": "2024-09-27 14:05:27",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-09-27 14:05:27",
       "album": {
-        "name": "Keabadian",
-        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
-      },
-      "artists": [
-        {
-          "name": "Reza Artamevia",
-          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Keabadian",
-      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
-    },
-    {
-      "added_at": "2024-09-27 14:05:27",
-      "album": {
         "name": "Sunggu Indah",
         "url": "https://open.spotify.com/album/4lsEBUgBu0KSVLxlQw4OyP"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 338880,
       "name": "Sunggu Indah",
       "url": "https://open.spotify.com/track/16dSPNURystMsZIIWqNE6B"
+    },
+    {
+      "added_at": "2024-09-27 14:05:27",
+      "album": {
+        "name": "Keabadian",
+        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
+      },
+      "artists": [
+        {
+          "name": "Reza Artamevia",
+          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Keabadian",
+      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
     },
     {
       "added_at": "2024-09-27 14:05:27",

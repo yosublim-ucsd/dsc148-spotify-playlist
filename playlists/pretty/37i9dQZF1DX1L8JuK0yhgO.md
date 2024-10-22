@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,231 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,230 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 67 | [哭哭臉 \(feat\. 呂士軒\)](https://open.spotify.com/track/7Ma2RQw3fyRUIkeO4tWV8c) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl), [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl) | [哭哭臉 \(feat\. 呂士軒\)](https://open.spotify.com/album/5fQu9EiKuILPTYwHkHaWSX) | 3:48 |
 | 68 | [Not in Love](https://open.spotify.com/track/62wfiBkeh02qOZN3i7qbEU) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Not in Love](https://open.spotify.com/album/1SDjOoB4FfCLznhzB4GeI6) | 3:17 |
 | 69 | [Dangomushi](https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dangomushi](https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk) | 3:19 |
-| 70 | [Hollow \- Side\-B](https://open.spotify.com/track/2NKx7z66piYgvEZcfaKPcw) | [Nozomi Nobody](https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL) | [Hollow \- Side\-B](https://open.spotify.com/album/7BXo9kzvpLQQeizspWMLKm) | 3:25 |
+| 70 | [Hollow \- Side\-B](https://open.spotify.com/track/2NKx7z66piYgvEZcfaKPcw) | [Nozomi Nobody](https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL) | [Hollow \(Side\-B\)](https://open.spotify.com/album/7BXo9kzvpLQQeizspWMLKm) | 3:25 |
 
 Snapshot ID: `ZxWsdQAAAADJdfhYv9Ykoxzehw1oPuQL`

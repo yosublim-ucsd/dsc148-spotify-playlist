@@ -672,7 +672,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 287515,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/516dXS5QwzvlvP3zS63dnS"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 291319,
       "name": "Beautiful Sunrise",
       "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
@@ -1350,6 +1350,24 @@
       "duration_ms": 189476,
       "name": "Bring Some Lovin'",
       "url": "https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr"
+    },
+    {
+      "album": {
+        "name": "Buddies",
+        "url": "https://open.spotify.com/album/0MI9Kf14IXzNJalQt6nCQF"
+      },
+      "artists": [
+        {
+          "name": "Tree Nomads",
+          "url": "https://open.spotify.com/artist/5Yx5pz9BopNSoHRwZ0VBkF"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214474,
+      "name": "Buddies",
+      "url": "https://open.spotify.com/track/2IVgmaenG1aoYw7AAH2Igd"
     },
     {
       "album": {
@@ -1962,7 +1980,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 175000,
       "name": "Country house",
       "url": "https://open.spotify.com/track/3UZL035zZvEx7DbZbwB1ti"
@@ -9036,7 +9054,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 182485,
       "name": "That's All",
       "url": "https://open.spotify.com/track/59mVrBgcjofN5aU96PPOqj"
@@ -9184,6 +9202,24 @@
       "duration_ms": 203096,
       "name": "The Beauty of Everyday Things",
       "url": "https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb"
+    },
+    {
+      "album": {
+        "name": "The Cage",
+        "url": "https://open.spotify.com/album/2N5dwzmK0uyhR9gTAFIZJk"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299334,
+      "name": "The Cage",
+      "url": "https://open.spotify.com/track/0nshd6vK1OcwIeUFyniwes"
     },
     {
       "album": {

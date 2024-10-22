@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: RIIZE\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,672 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,662 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 23 | [Ring Ring](https://open.spotify.com/track/0lJvkAuv7HLOz13qdmbpNx) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Ring Ring](https://open.spotify.com/album/16dV4I2SPOOR4X1oiSIkXS) | 2:51 |
 | 24 | [Dangerous](https://open.spotify.com/track/0GqHe3PHWp2t5Pxkn0lCqD) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [Dangerous](https://open.spotify.com/album/6ufSIMU4eAQjkI37l8ecoO) | 2:23 |
 | 25 | [Someday](https://open.spotify.com/track/6ENyNuUsuuMQTYhF6bHYXI) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [No Gain No Love, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5YlebO3iHuuAZQgEIdHGjy) | 3:25 |
-| 26 | [Aroha](https://open.spotify.com/track/379mVtRxp0hHggT9gXHJQ0) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Beauty and Romantic OST Part.24 \- Soundtrack](https://open.spotify.com/album/4dpTvY8Q94m4OCLFG2hKeI) | 4:05 |
+| 26 | [Aroha](https://open.spotify.com/track/379mVtRxp0hHggT9gXHJQ0) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Beauty and Romantic OST Part.24 \(Soundtrack\)](https://open.spotify.com/album/4dpTvY8Q94m4OCLFG2hKeI) | 4:05 |
 | 27 | [LOVE2YOU](https://open.spotify.com/track/0IEDeFF4YXlf6Qw83ogM6N) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [LOVE2YOU](https://open.spotify.com/album/5a9XcjArVCGjEPeH3EeIpj) | 3:09 |
 | 28 | [MAGIC](https://open.spotify.com/track/6ceAPjFnKNifeGlOTRTi1X) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [MAGIC](https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK) | 3:19 |
 | 29 | [Arcade](https://open.spotify.com/track/5ySxPHr8b8HNWZYHDD9i8H) | [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo) | [Arcade](https://open.spotify.com/album/4QUbtvtuS9Maxyn2Cc3Ea1) | 3:19 |

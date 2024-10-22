@@ -4,17 +4,18 @@
 
 > Öll bestu lögin í augnablikinu!
 
-88 songs - 4 hr 36 min
+90 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-06-21 |  |
+| [Aldrei of seint](https://open.spotify.com/track/64G6LcehgioFPs03gzbIv0) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Þórunn Antonía](https://open.spotify.com/artist/6100Rwk1ypJpElhvxSKju4) | [Stórasta plata í heimi](https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq) | 2:15 | 2024-10-21 |  |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 |  |
 | [Andvaka](https://open.spotify.com/track/5p8cnx65q4YJPGeCNlBbdI) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [Daniil](https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU) | [Andvaka](https://open.spotify.com/album/7Dq9vXLX3tDD256JjbdrN9) | 2:26 | 2024-08-16 |  |
 | [Austin](https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Austin](https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0) | 2:51 | 2024-06-21 | 2024-10-11 |
 | [bad bitch í RVK](https://open.spotify.com/track/1qIEu0g7jbL4KhZbjTeVW9) | [ClubDub](https://open.spotify.com/artist/5A5hVxY3BogJUch1IUcuw7) | [Risa Tilkynning](https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt) | 2:10 | 2024-06-21 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-21 | 2024-08-16 |
-| [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-21 |  |
+| [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-21 | 2024-10-22 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-16 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-26 |  |
 | [Blackberry Mule](https://open.spotify.com/track/2YCgIaLnfcM3ehKqvEsCN9) | [Birgir](https://open.spotify.com/artist/2hCU6EhDEmPjpqe8cAHAcm) | [Blackberry Mule](https://open.spotify.com/album/2CJHlbFzo0xDJigX2oIUxy) | 3:10 | 2024-10-11 |  |
@@ -24,6 +25,7 @@
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 |  |
 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 | 2024-06-21 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 |  |
+| [Draumaprins](https://open.spotify.com/track/0anpZWVGOxY1KTM0z5U8qS) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [1918](https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd) | 3:09 | 2024-10-21 |  |
 | [EKKI BÍÐA](https://open.spotify.com/track/2oM99C7UAdQhVVxglzETX4) | [Izleifur](https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6), [GDRN](https://open.spotify.com/artist/1FvIWbYLm8dBezbdjucrZb) | [ÞETTA ER IZLEIFUR](https://open.spotify.com/album/5hg2HWIwUAYqxTPZztT34g) | 3:05 | 2024-06-21 | 2024-07-27 |
 | [Elli Egils](https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [KBE kynnir: Legend í Leiknum](https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3) | 2:18 | 2024-08-23 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-06-21 | 2024-10-04 |
@@ -73,7 +75,7 @@
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-06-21 | 2024-08-23 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-21 | 2024-10-04 |
 | [So Long, London](https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 4:22 | 2024-06-21 | 2024-09-06 |
-| [Sorry memmig](https://open.spotify.com/track/2kJLPJS9wWpoJgK7nvHhk5) | [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [PBT 2.0](https://open.spotify.com/album/3Mrz2JSDKfvEwDCyI0xLLe) | 2:43 | 2024-06-21 |  |
+| [Sorry memmig](https://open.spotify.com/track/2kJLPJS9wWpoJgK7nvHhk5) | [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [PBT 2.0](https://open.spotify.com/album/3Mrz2JSDKfvEwDCyI0xLLe) | 2:43 | 2024-06-21 | 2024-10-22 |
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-20 |  |
 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 | 2024-09-27 |  |
 | [STJÖRNUSTÆLAR](https://open.spotify.com/track/6bY9SWpW1GyCcZS64ttPae) | [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [STJÖRNUSTÆLAR](https://open.spotify.com/album/3CN59Yc8MiER2JnboAPOqF) | 2:44 | 2024-10-04 |  |

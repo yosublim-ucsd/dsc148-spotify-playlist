@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 20178,
+  "num_followers": 20190,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Cherry Bomb + Instrumentals",
+        "url": "https://open.spotify.com/album/5V3Chnpno9oTI7JSPXKUf3"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 180613,
+      "name": "FIND YOUR WINGS - Instrumental",
+      "url": "https://open.spotify.com/track/3xLUgT2u1LGSFAI1hFSNJz"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Dame Dash Presents Paid In Full / Dream Team",
         "url": "https://open.spotify.com/album/6cea3Mk3rvbeqZFqSt7TEy"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 372026,
       "name": "Champions",
       "url": "https://open.spotify.com/track/3mmyWgZhhL8QlblPguccP7"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Cherry Bomb + Instrumentals",
-        "url": "https://open.spotify.com/album/5V3Chnpno9oTI7JSPXKUf3"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 180613,
-      "name": "FIND YOUR WINGS - Instrumental",
-      "url": "https://open.spotify.com/track/3xLUgT2u1LGSFAI1hFSNJz"
     },
     {
       "added_at": "2022-10-01 16:00:00",

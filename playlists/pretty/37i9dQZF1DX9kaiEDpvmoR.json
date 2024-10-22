@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92326,
+  "num_followers": 92328,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "Samma saga",
+        "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 213882,
+      "name": "Samma saga",
+      "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "Nyper mig i armen",
         "url": "https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 200932,
       "name": "I Wrote Your Name (Upon My Heart)",
       "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Samma saga",
-        "url": "https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 213882,
-      "name": "Samma saga",
-      "url": "https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "S\u00e5nger om dig",
-        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
+        "name": "Discomforts",
+        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
       },
       "artists": [
         {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
         }
       ],
-      "duration_ms": 174054,
-      "name": "Ingen annan",
-      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
+      "duration_ms": 168497,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -835,6 +835,22 @@
       "duration_ms": 208651,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "S\u00e5nger om dig",
+        "url": "https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 174054,
+      "name": "Ingen annan",
+      "url": "https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -927,18 +943,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Discomforts",
-        "url": "https://open.spotify.com/album/5qGpZMR4RN6UO2499HTpjs"
+        "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
+        "url": "https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
         }
       ],
-      "duration_ms": 168497,
-      "name": "If You Ever Change Your Mind",
-      "url": "https://open.spotify.com/track/3V8FBJTwNcEX62NifPPJKI"
+      "duration_ms": 180627,
+      "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
+      "url": "https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -959,22 +975,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
-        "url": "https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h"
-      },
-      "artists": [
-        {
-          "name": "Noice",
-          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
-        }
-      ],
-      "duration_ms": 180627,
-      "name": "Vad dom \u00e4n trodde s\u00e5 trodde dom fel",
-      "url": "https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "R\u00f6r vid mig",
         "url": "https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Living Comes With Dying",
-        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Living Comes With Dying",
-      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "No More You",
         "url": "https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 176366,
       "name": "No More You",
       "url": "https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Living Comes With Dying",
+        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Living Comes With Dying",
+      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Hejd\u00e5 f\u00f6r alltid",
-        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
-      },
-      "artists": [
-        {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Hejd\u00e5 f\u00f6r alltid",
-      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Upp med hakan",
         "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 165333,
       "name": "Upp med hakan",
       "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Hejd\u00e5 f\u00f6r alltid",
+        "url": "https://open.spotify.com/album/6PkWYsNSD5l4lpT0x4gtzc"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Hejd\u00e5 f\u00f6r alltid",
+      "url": "https://open.spotify.com/track/6mYXbGfYFzLoYWSjEQD3zS"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
+        "url": "https://open.spotify.com/album/79QzzKZajHVcQTnJDPhgXn"
+      },
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
+        }
+      ],
+      "duration_ms": 233030,
+      "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
+      "url": "https://open.spotify.com/track/6ITwbq9TQ9VorVosXIT4Ur"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "Hoppas du m\u00e5r bra",
         "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
       },
@@ -1191,22 +1207,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
-        "url": "https://open.spotify.com/album/79QzzKZajHVcQTnJDPhgXn"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 233030,
-      "name": "What Went Wrong (Flat Tyre on a Muddy Road)",
-      "url": "https://open.spotify.com/track/6ITwbq9TQ9VorVosXIT4Ur"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Ge En Sol",
         "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 207360,
       "name": "Flowers at a Funeral",
       "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
+      },
+      "artists": [
+        {
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
+        }
+      ],
+      "duration_ms": 213905,
+      "name": "Will You Run Away With Me",
+      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "The Rest Of The Best (Vol. 2)",
-        "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 260523,
-      "name": "Communication - Polar Session '01",
-      "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Tar det upp i topp",
         "url": "https://open.spotify.com/album/2woeyU7TmFtihmbJEhWFC4"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
+        "name": "The Rest Of The Best (Vol. 2)",
+        "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
       },
       "artists": [
         {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
         }
       ],
-      "duration_ms": 217474,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
+      "duration_ms": 260523,
+      "name": "Communication - Polar Session '01",
+      "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1411,6 +1411,38 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/4uymGW41PoRSJkM6vt1YRv"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 217474,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1fp4bZAAzicpIRFlnPANrP"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Marching To This Drum",
+        "url": "https://open.spotify.com/album/17WzdroK4ry4ps6jOwlcV7"
+      },
+      "artists": [
+        {
+          "name": "Dregen",
+          "url": "https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Marching To This Drum",
+      "url": "https://open.spotify.com/track/1SsGj5OQosI2XmHprVKX9g"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "Roll On Buddy",
         "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
       },
@@ -1423,22 +1455,6 @@
       "duration_ms": 203106,
       "name": "Roll On Buddy",
       "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/01nFBQZetLEq4Zoy4PTsTa"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 213905,
-      "name": "Will You Run Away With Me",
-      "url": "https://open.spotify.com/track/2FFrWRaWeD1aKFHH6nIfSK"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 157240,
       "name": "All Day",
       "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Midsommardansen",
-        "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 124601,
-      "name": "Midsommardansen",
-      "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
     }
   ],
   "unique_name": "Aktuellt",

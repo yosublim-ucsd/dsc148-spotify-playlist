@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DET GÅR UPP O NER!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,175 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,171 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 10 | [SKÅL](https://open.spotify.com/track/3yDORR5PhoKA4qiCQgj2pG) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [SKÅL](https://open.spotify.com/album/5QXRsdIYdWEscrz6wfkqF8) | 1:50 |
 | 11 | [B.L.O.W](https://open.spotify.com/track/7CNUbTjeq6UxpvKHAbonU0) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [BJÖRNLIGAN](https://open.spotify.com/artist/0BeWF38FAifTh44buNvA1t) | [B.L.O.W](https://open.spotify.com/album/3Vlxlc9wDjKT6enTbF9oAV) | 2:26 |
 | 12 | [RØD RAGGARBIL](https://open.spotify.com/track/5b5xSDFWxGIXjNIk8egW0m) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [GRANNJÄNTAN](https://open.spotify.com/artist/68F1zsaJ2m6HuKqtJz9kaZ), [FLÄDERPOJKARNA](https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd) | [RØD RAGGARBIL](https://open.spotify.com/album/7dpg3S4d2zyMo0s0gnvTAX) | 2:06 |
-| 13 | [Salut \- Sped Up Remix](https://open.spotify.com/track/3WBuGQ1ZQi72TY8HXrcK7V) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Salut \- Sped Up Remix](https://open.spotify.com/album/5x9vEH7SOMu1l1xUyfAGpP) | 2:16 |
+| 13 | [Salut \- Sped Up Remix](https://open.spotify.com/track/3WBuGQ1ZQi72TY8HXrcK7V) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Salut \(Sped Up Remix\)](https://open.spotify.com/album/5x9vEH7SOMu1l1xUyfAGpP) | 2:16 |
 | 14 | [Aldrig ses igen](https://open.spotify.com/track/1WuXYKoVIur6D1Ev6kuV2p) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Aldrig ses igen](https://open.spotify.com/album/2H0qYAH8cFmoP3Cx3yGrVD) | 1:58 |
 | 15 | [Passageraren](https://open.spotify.com/track/44BVsLWC0QT9kW9KOBRkEW) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud), [Facket](https://open.spotify.com/artist/5f5d0ji6hrxwI4sREQl3hK) | [Passageraren](https://open.spotify.com/album/7kAj9zQLa4Gf9e4kYAnzt2) | 2:17 |
 | 16 | [RAGGARE IKVÄLL](https://open.spotify.com/track/2eyf4DxKR4C953qsslVmgy) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [YWB](https://open.spotify.com/artist/5lBsK5xIl9HCUgSYtgUuBi) | [RAGGARE IKVÄLL](https://open.spotify.com/album/7vyj4idd0CbGpKOhttPUQi) | 2:09 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 46 | [NÄR VI RULLAR FRAM](https://open.spotify.com/track/3P2G6sATJ7tSpPQBSqCuiR) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [JeppsoN](https://open.spotify.com/artist/7wQmimE5XlaosL5GLSM4Yx) | [NÄR VI RULLAR FRAM](https://open.spotify.com/album/3NmuHTweFEHW8SH03rtI9c) | 2:35 |
 | 47 | [LIGGA HELA TIDEN](https://open.spotify.com/track/4yhz54d8lpL46KmrqS06oN) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [Banditerna](https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ) | [LIGGA HELA TIDEN](https://open.spotify.com/album/2bJl3MmDfenDs3C61mV1S4) | 2:22 |
 | 48 | [Sista beställningen](https://open.spotify.com/track/5Z5IFJeC9FAFHS36GI5B8q) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [Sista beställningen](https://open.spotify.com/album/2LVLwT0uUIHCwIpCsHWmRv) | 2:29 |
-| 49 | [ROZA RAGGARBIL \- Remix](https://open.spotify.com/track/31Mmbvk8Q7egsdyIJYi1y9) | [STRÖGPATRULLEN](https://open.spotify.com/artist/1m78ax5pMX3SdETnUbWVTt), [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [ROZA RAGGARBIL \- Remix](https://open.spotify.com/album/1Iw86vRZxiv4vfs8zTkxBb) | 2:24 |
+| 49 | [ROZA RAGGARBIL \- Remix](https://open.spotify.com/track/31Mmbvk8Q7egsdyIJYi1y9) | [STRÖGPATRULLEN](https://open.spotify.com/artist/1m78ax5pMX3SdETnUbWVTt), [JulleMeck](https://open.spotify.com/artist/5gBVgnVRYya7YzZSvHqy32) | [ROZA RAGGARBIL \(Remix\)](https://open.spotify.com/album/1Iw86vRZxiv4vfs8zTkxBb) | 2:24 |
 | 50 | [DANSAR MED NÅN ANNAN](https://open.spotify.com/track/1S4121LwgZXMi99EIDhBLU) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy), [Befalet](https://open.spotify.com/artist/4SwBdW1DGcaGAFXlwI1GqA) | [DANSAR MED NÅN ANNAN](https://open.spotify.com/album/49iz6Yvx6cUJNecnPUI35Q) | 2:25 |
 | 51 | [Hot Hot Amore](https://open.spotify.com/track/4tO8H2gRdR2R6faVm3i0gu) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [Hot Hot Amore](https://open.spotify.com/album/7zHlaelgC24QiiV8o4uE3o) | 2:14 |
 | 52 | [JAG KOMMER](https://open.spotify.com/track/0SIjGBXIKhJwB4f39SQMne) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [JAG KOMMER](https://open.spotify.com/album/7MJZPjvqSlgS50w2Qe9Qnh) | 2:54 |

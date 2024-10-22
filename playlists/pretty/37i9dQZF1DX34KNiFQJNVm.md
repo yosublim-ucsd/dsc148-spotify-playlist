@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Leo Santana com Ivete Sangalo, Guilherme & Benuto, MC Jacaré e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,945,345 likes - 73 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,945,478 likes - 73 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 72 | [noviogangsta <3](https://open.spotify.com/track/7yrTny7FLWLbfIzsxoicWj) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [noviogangsta <3](https://open.spotify.com/album/0qLXwwUPYR7o3ZcVQFdKlQ) | 2:37 |
 | 73 | [Muse](https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Muse](https://open.spotify.com/album/176tuOtt0Z7IIt3QTqGzVF) | 2:24 |
 
-Snapshot ID: `ZxKV2AAAAAD7urGEqxBJJsdneU5inOGM`
+Snapshot ID: `ZxZoxwAAAABAk7T7VuwlXVkpgprx7F3H`

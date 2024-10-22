@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:1bdnGJxkbIIys5Jhk1T74v">Brandon Lake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,004 likes - 80 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,152 likes - 80 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 58 | [Only God \- Live From Costa Mesa, CA, 2023](https://open.spotify.com/track/3aOEV0SCViQ61mrjIyzGP3) | [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lucas McCloud](https://open.spotify.com/artist/3O8ssrHqGYnyGdPg7nOGDJ) | [Only God \(Live From Costa Mesa, CA, 2023\)](https://open.spotify.com/album/3FO3dV5JlM5oD4kINskNT4) | 7:16 |
 | 59 | [The Commission \- Live](https://open.spotify.com/track/3ss1iIaEN29yujcQf48ujO) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [The Commission \(Live\)](https://open.spotify.com/album/2KUoF56KCelukYtMprpuex) | 6:59 |
 | 60 | [At The Altar \- Live](https://open.spotify.com/track/7okfzzIL7t7UhygeRDRN0x) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [At The Altar \(Live\)](https://open.spotify.com/album/3SGTVnqzpykrAI7ExoZLnP) | 4:00 |
-| 61 | [Earth And Heaven Roar \- Live](https://open.spotify.com/track/5yfdzZGGwTPa8eFLh8L04c) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Earth And Heaven Roar \- Live](https://open.spotify.com/album/3uq2vwzLuwY4IYCsH8NyjV) | 5:02 |
+| 61 | [Earth And Heaven Roar \- Live](https://open.spotify.com/track/5yfdzZGGwTPa8eFLh8L04c) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [Earth And Heaven Roar \(Live\)](https://open.spotify.com/album/3uq2vwzLuwY4IYCsH8NyjV) | 5:02 |
 | 62 | [Easy to Worship \(Live in New Orleans\)](https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz), [Danielle Burns](https://open.spotify.com/artist/4ZQPjKGlZU4PBYbWEZEymk) | [Easy to Worship \(Live in New Orleans\)](https://open.spotify.com/album/6P0zTwQtWxOQJ5oLEG5hR8) | 5:49 |
 | 63 | [Look To The Lamb](https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Look To The Lamb](https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi) | 6:54 |
 | 64 | [Cross My Heart \- Live](https://open.spotify.com/track/0QS8iNXGSC3TIuXvA4u2s1) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [open heaven type stuff: live from camp](https://open.spotify.com/album/39hNfSkwJzgHTAFPWKAV78) | 7:00 |

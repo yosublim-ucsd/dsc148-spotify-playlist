@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 159546,
+  "num_followers": 159574,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
         "name": "Gunfinger (Salute)",
         "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 166896,
       "name": "Gunfinger (Salute)",
       "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
+        "name": "Did I Forget Something?",
+        "url": "https://open.spotify.com/album/2WKt0r7oaf63dDG7t8aAMu"
+      },
+      "artists": [
+        {
+          "name": "Venjent",
+          "url": "https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Did I Forget Something",
+      "url": "https://open.spotify.com/track/5rEPTlWwMXWZ3oXfwe30FA"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
         "name": "FORWARDS",
         "url": "https://open.spotify.com/album/4jODo10Bdrr47NGz6PvGf4"
       },
@@ -659,18 +675,18 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Did I Forget Something?",
-        "url": "https://open.spotify.com/album/2WKt0r7oaf63dDG7t8aAMu"
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
       },
       "artists": [
         {
-          "name": "Venjent",
-          "url": "https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd"
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
         }
       ],
-      "duration_ms": 195348,
-      "name": "Did I Forget Something",
-      "url": "https://open.spotify.com/track/5rEPTlWwMXWZ3oXfwe30FA"
+      "duration_ms": 191724,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -691,22 +707,6 @@
       "duration_ms": 103714,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/2Y0j75tgFDL7HvxczmnJRW"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
+        "name": "Rhythm & Gash VIP",
+        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Rhythm & Gash VIP",
+      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
         "name": "Jordan 1s (Effy Rework)",
         "url": "https://open.spotify.com/album/6mv6SyHksCO4Pnq4IxXFps"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 219577,
       "name": "Jordan 1s - Effy Rework",
       "url": "https://open.spotify.com/track/1PsmJW9eYuXY7zRtYxRzMI"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "Rhythm & Gash VIP",
-        "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
-      },
-      "artists": [
-        {
-          "name": "Phibes",
-          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Rhythm & Gash VIP",
-      "url": "https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1259,7 +1259,7 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Dreadnaught - Break Remix",
+        "name": "Dreadnaught (Break Remix)",
         "url": "https://open.spotify.com/album/3I2YnEjPUm8qczUtA0Gkfi"
       },
       "artists": [
@@ -1279,6 +1279,26 @@
       "duration_ms": 230018,
       "name": "Dreadnaught - Break Remix",
       "url": "https://open.spotify.com/track/5tV6veK93X3m65tNpcSFYC"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
+        "name": "Rudeboy",
+        "url": "https://open.spotify.com/album/3v0fWFBlLysKoEOk7Kuhqr"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "duration_ms": 174171,
+      "name": "Rudeboy",
+      "url": "https://open.spotify.com/track/0XT8UILzCWoXZMvfmo8iNw"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1307,22 +1327,22 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Rudeboy",
-        "url": "https://open.spotify.com/album/3v0fWFBlLysKoEOk7Kuhqr"
+        "name": "Sprinta (Bad Bad)",
+        "url": "https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV"
       },
       "artists": [
         {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+          "name": "Ana\u00efs",
+          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
         },
         {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+          "name": "KIPPO",
+          "url": "https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N"
         }
       ],
-      "duration_ms": 174171,
-      "name": "Rudeboy",
-      "url": "https://open.spotify.com/track/0XT8UILzCWoXZMvfmo8iNw"
+      "duration_ms": 199090,
+      "name": "Sprinta (Bad Bad)",
+      "url": "https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1343,26 +1363,6 @@
       "duration_ms": 220789,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2MdNjzz8wXf0PlfXupqela"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "Sprinta (Bad Bad)",
-        "url": "https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs",
-          "url": "https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k"
-        },
-        {
-          "name": "KIPPO",
-          "url": "https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Sprinta (Bad Bad)",
-      "url": "https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1443,22 +1443,26 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "SMASH",
-        "url": "https://open.spotify.com/album/4LGXuGSQlQOiNZ7Cz0pyoM"
+        "name": "Dubplate SZN",
+        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
       "artists": [
         {
-          "name": "Nika D",
-          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
         },
         {
-          "name": "Savant",
-          "url": "https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8"
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
         }
       ],
-      "duration_ms": 234731,
-      "name": "SMASH",
-      "url": "https://open.spotify.com/track/6EaQGkgNcYrcjEGUfnAWL9"
+      "duration_ms": 190344,
+      "name": "Dubplate SZN",
+      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1479,6 +1483,26 @@
       "duration_ms": 163764,
       "name": "Perfect Harmony - Phibes VIP",
       "url": "https://open.spotify.com/track/2x9vrwrJTW0IeBQJrq9Pnx"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
+        "name": "SMASH",
+        "url": "https://open.spotify.com/album/4LGXuGSQlQOiNZ7Cz0pyoM"
+      },
+      "artists": [
+        {
+          "name": "Nika D",
+          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
+        },
+        {
+          "name": "Savant",
+          "url": "https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8"
+        }
+      ],
+      "duration_ms": 234731,
+      "name": "SMASH",
+      "url": "https://open.spotify.com/track/6EaQGkgNcYrcjEGUfnAWL9"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1523,7 +1547,7 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Rig Fairy (feat. Kelvin 373, Selecta J-Man and Aries) - VIP",
+        "name": "Rig Fairy (feat. Kelvin 373, Selecta J-Man and Aries) [VIP]",
         "url": "https://open.spotify.com/album/0dmolG8epxpF6Lt15lRahj"
       },
       "artists": [
@@ -1551,30 +1575,6 @@
       "duration_ms": 192314,
       "name": "Rig Fairy (feat. Kelvin 373, Selecta J-Man and Aries) - VIP",
       "url": "https://open.spotify.com/track/5a97fAfJIHN6GfwwcVUNzA"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "Dubplate SZN",
-        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
-      },
-      "artists": [
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Jman",
-          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Dubplate SZN",
-      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
     },
     {
       "added_at": "2024-10-18 15:14:33",

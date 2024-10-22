@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125755,
+  "num_followers": 125754,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATLwwwO/pX8X+LTnfh0IzM4xWdA04L",
+  "snapshot_id": "AAATMT63o3kCZifAzUN13e66rVSbcnu3",
   "tracks": [
+    {
+      "added_at": "2024-10-21 13:49:06",
+      "album": {
+        "name": "Breathe Underwater",
+        "url": "https://open.spotify.com/album/4E9AWmsV9POjfg28Mz393X"
+      },
+      "artists": [
+        {
+          "name": "Psy Trance Mafia",
+          "url": "https://open.spotify.com/artist/6AJiVMljdDi2Z1GF43m60q"
+        },
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Blastoyz",
+          "url": "https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p"
+        }
+      ],
+      "duration_ms": 270857,
+      "name": "Breathe Underwater",
+      "url": "https://open.spotify.com/track/6dezSbSW7iJF6f6IJLznU6"
+    },
     {
       "added_at": "2024-10-18 14:23:27",
       "album": {
@@ -363,7 +387,7 @@
     {
       "added_at": "2024-09-23 14:01:28",
       "album": {
-        "name": "Who's Laughing Now - A Hundred Drums Remix",
+        "name": "Who's Laughing Now (A Hundred Drums Remix)",
         "url": "https://open.spotify.com/album/31SK5QOjF2DhFBXAsSznBf"
       },
       "artists": [
@@ -695,7 +719,7 @@
     {
       "added_at": "2024-08-30 14:07:36",
       "album": {
-        "name": "Save You - VIP",
+        "name": "Save You (VIP)",
         "url": "https://open.spotify.com/album/09JWbZi0y87fUvhHlPT33Y"
       },
       "artists": [
@@ -1151,26 +1175,6 @@
       "duration_ms": 173714,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8"
-    },
-    {
-      "added_at": "2024-07-30 14:01:27",
-      "album": {
-        "name": "Second Chance",
-        "url": "https://open.spotify.com/album/3nQzX1oyna97eYIjZ6U4PW"
-      },
-      "artists": [
-        {
-          "name": "Angara",
-          "url": "https://open.spotify.com/artist/14MtSANT6PClR71nsqXhy3"
-        },
-        {
-          "name": "Elliot Vast",
-          "url": "https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA"
-        }
-      ],
-      "duration_ms": 190161,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/5yv9mtTQgznL1USOVXU2Yp"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

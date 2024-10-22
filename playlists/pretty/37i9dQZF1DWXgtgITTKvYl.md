@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,107 likes - 75 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,155 likes - 75 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 35 | [Still Believing in Dreams](https://open.spotify.com/track/2KzJaCPKiRAt4iy1JPhWo4) | [Marco Monteverde](https://open.spotify.com/artist/2QRn3v6CBwWq5R2P9oH3zl), [The NC Project](https://open.spotify.com/artist/3jw8gQ2YShBbTsPLfu7ar4) | [One of the Near Futures of the Conspiracy](https://open.spotify.com/album/23EcpSrrLymiurL2i1EDJo) | 3:16 |
 | 36 | [Steamhappy](https://open.spotify.com/track/50VAiuDXEeqgGnA244Cxpw) | [Varra](https://open.spotify.com/artist/5ftlDLqup1wvAk1VTPIC6R) | [Steamhappy](https://open.spotify.com/album/0dsKUDUILPsRzRijsst8Oo) | 1:30 |
 | 37 | [Evil Ghost \- Nightcore](https://open.spotify.com/track/6IXbsJ8WGxWZwkXLCNa2iv) | [Cherry 葵 Nightcore](https://open.spotify.com/artist/4H502w3aY9YWNIPWTx8adz), [Endgame](https://open.spotify.com/artist/783OmUWjjBf5ZStc0HUyso) | [Evil Ghost \(Nightcore\)](https://open.spotify.com/album/2oal5dkH09c7EoO0R3BbfA) | 2:56 |
-| 38 | [Lost \(I Miss You\) \- Remaster 2024](https://open.spotify.com/track/2W34EGBJwCl2XkW2eutQKv) | [The Black Noodle Project](https://open.spotify.com/artist/3zjeJfz2x1AdAMWorg9NQj) | [Lost \(I Miss You\) \- Remaster 2024](https://open.spotify.com/album/5uABfZV7NMfIGlfXsuRcJg) | 4:31 |
+| 38 | [Lost \(I Miss You\) \- Remaster 2024](https://open.spotify.com/track/2W34EGBJwCl2XkW2eutQKv) | [The Black Noodle Project](https://open.spotify.com/artist/3zjeJfz2x1AdAMWorg9NQj) | [Lost \(I Miss You\) \[Remaster 2024\]](https://open.spotify.com/album/5uABfZV7NMfIGlfXsuRcJg) | 4:31 |
 | 39 | [Obstruction](https://open.spotify.com/track/6l2XhobKc4H4gyE4L0enoj) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj) | [Obstruction](https://open.spotify.com/album/5KGUdoXhKSyusmsGMnLrE6) | 3:50 |
 | 40 | [Street Midnight Vibe](https://open.spotify.com/track/7HJol5wD13TW4okLuG4OBB) | [Felix Martin](https://open.spotify.com/artist/3uDBxcooIKOzH5ltdpGb4h), [I Built the Sky](https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN) | [Street Midnight Vibe](https://open.spotify.com/album/4I6OOYFlNUroBb3rAZxaPG) | 3:29 |
 | 41 | [Thief](https://open.spotify.com/track/3WlGUHo17RdDK2iBCGA9b3) | [Neal Morse](https://open.spotify.com/artist/5N30GOA778sBmLm7FdB5Bq) | [Thief](https://open.spotify.com/album/2yVYLNbpmw9GdMBbTnYFKD) | 5:22 |

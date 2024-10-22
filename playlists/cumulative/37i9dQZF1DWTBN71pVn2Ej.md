@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with trauma ray \(pictured\), Dear Seattle, Fake Eyes, Money and more.
+> The shape of noise to come with Dear Seattle \(pictured\), Heart to Gold, Day Saints, Leaving Time and more.
 
-700 songs - 1 day 15 hr 54 min
+703 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [Greener Grass](https://open.spotify.com/track/6IboepxmrdjdyKDYrBDn7Y) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Greener Grass](https://open.spotify.com/album/5B3f2hJ9Adl5StkQBq8bpf) | 3:57 | 2022-10-14 | 2022-11-19 |
 | [Grow](https://open.spotify.com/track/7yIyNzFkLxacTrgR3yimJY) | [Fanchon](https://open.spotify.com/artist/5qFDMEfam5K4WRncOFdOEP) | [Grow](https://open.spotify.com/album/6V6DhgsedKip2k52hdbf3S) | 3:47 | 2023-03-10 | 2023-06-17 |
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-03 | 2022-05-20 |
-| [Hal Ashby](https://open.spotify.com/track/3KutrW5yHciWy8G7d250BP) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Hal Ashby](https://open.spotify.com/album/1POPLkadaqRnEJQLkQnXVq) | 2:55 | 2024-09-13 |  |
+| [Hal Ashby](https://open.spotify.com/track/3KutrW5yHciWy8G7d250BP) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Hal Ashby](https://open.spotify.com/album/1POPLkadaqRnEJQLkQnXVq) | 2:55 | 2024-09-13 | 2024-10-22 |
 | [Half Nelson](https://open.spotify.com/track/4DzKsnD6cZyI9Pc53cbBD6) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Half Nelson](https://open.spotify.com/album/4oCXc06Df2rCYru2NGYxYb) | 3:11 | 2023-10-13 | 2023-11-11 |
 | [Half Smile](https://open.spotify.com/track/1WR9nfQquiSD6pZDPj4wxF) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Half Smile](https://open.spotify.com/album/3v4dJEI88vxFmu3AxdyH6r) | 3:23 | 2024-09-30 |  |
 | [Half Zombie](https://open.spotify.com/track/1a5LKQKoIfQcVualRfj3Tl) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Half Zombie](https://open.spotify.com/album/6Kzgomzh4R4LqBRoCRlNIU) | 3:06 | 2023-12-14 | 2023-12-30 |
@@ -330,6 +330,7 @@
 | [Hypodermic Sunshine](https://open.spotify.com/track/6XSEyo3CebbQCnUW5TJqC5) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Hypodermic Sunshine](https://open.spotify.com/album/6Gq2CGxhh8aEojqRgUbBfY) | 3:15 | 2023-08-31 | 2023-10-14 |
 | [I Don't Need a Rocket to Find My Own Space](https://open.spotify.com/track/0WeFSW2vxAJ94y0EXWcTkt) | [LostAlone](https://open.spotify.com/artist/0rAOPs8hf2bB7KECYDdaMC) | [The Warring Twenties](https://open.spotify.com/album/4773GkUhoAhblhtYXxX9Sb) | 2:47 | 2022-09-30 | 2022-10-15 |
 | [I Don't Need a Rocket to Find My Own Space](https://open.spotify.com/track/6UmsvKbBFOkDOxlgVIU6XY) | [LostAlone](https://open.spotify.com/artist/0rAOPs8hf2bB7KECYDdaMC) | [The Warring Twenties](https://open.spotify.com/album/3Anw877vaJLBkPoCCxVXVR) | 2:47 | 2022-10-14 | 2022-10-29 |
+| [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 | 2024-10-21 |  |
 | [I Don't Wanna Think About It Anymore](https://open.spotify.com/track/0pPwh0OAc7DR4E2mKyBUGh) | [MOY](https://open.spotify.com/artist/3Rc6Z7I5jrIAKiYnrlWb0s) | [I Don't Wanna Think About It Anymore](https://open.spotify.com/album/4zhxDBXV48RtNB0fdFNkKD) | 2:29 | 2023-08-21 | 2023-09-23 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2022-10-28 | 2023-06-03 |
 | [I Let Go](https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Let Go](https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N) | 2:21 | 2023-02-02 | 2023-03-03 |
@@ -402,6 +403,7 @@
 | [lullaby](https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [suraksha](https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb) | 4:39 | 2023-10-13 | 2023-11-17 |
 | [Machine](https://open.spotify.com/track/4Bnn0NhRWsSKPPiHPJtYjm) | [Palomino Blond](https://open.spotify.com/artist/0oNZ5XN1TT4aWlxHhx8oWe) | [Machine](https://open.spotify.com/album/0euGdd3l4XqpUWeQapjooA) | 5:30 | 2024-01-19 | 2024-02-10 |
 | [Magic Medicine](https://open.spotify.com/track/22HixQWkPtnaqY1onzSEkH) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Magic Medicine](https://open.spotify.com/album/1c5xKAOxCi9Q6XHsPzebiE) | 3:31 | 2021-12-16 | 2022-03-22 |
+| [Magnitude of Life](https://open.spotify.com/track/7ojcJMuYYXAXr2wx3DGywh) | [Navtec](https://open.spotify.com/artist/21aqWJhJhi4JAEJRqsXwMu) | [A World Inside Your Shadow](https://open.spotify.com/album/5Xo2lajd7qYy10kFNKFKDi) | 4:19 | 2024-10-21 |  |
 | [Magpie](https://open.spotify.com/track/2LmyN0o9EOMivo5YRpP9FK) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/6ab3djzDT7OZOeyjOSvubU) | 3:51 | 2022-04-28 | 2022-09-07 |
 | [Make or Break](https://open.spotify.com/track/1zE6P0V7FX36pdFblWVbUL) | [Bleach Garden](https://open.spotify.com/artist/74v0EH5Gl2zsUhXXWzGJyI) | [Nepenthe](https://open.spotify.com/album/1iwuk5tV77trbyFApJmLyT) | 5:02 | 2023-05-12 | 2023-09-30 |
 | [Malibu Beach House](https://open.spotify.com/track/404jLVCRjZXEQ3p8DqjN4e) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [I'll Drown On This Earth](https://open.spotify.com/album/6OVBEav1yV2tl07wTlPozK) | 4:01 | 2024-08-30 | 2024-10-15 |
@@ -497,7 +499,7 @@
 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 | 2021-12-16 | 2022-06-24 |
 | [Pulling Teeth](https://open.spotify.com/track/4a3nl8VK9ookqco7tAB2h5) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pulling Teeth](https://open.spotify.com/album/2lZr3iSgftGuE3AqAs9l1x) | 3:31 | 2024-03-15 |  |
 | [Pulling Teeth](https://open.spotify.com/track/6wzhNHxTBGvcUuNOl4jG9X) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [Treading Water](https://open.spotify.com/album/775kTePjFCgUOuHw2j4hfn) | 3:08 | 2023-02-24 | 2023-04-22 |
-| [Punch Jam](https://open.spotify.com/track/0UC67E3HuWNmfXPIlYUGID) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Punch Jam](https://open.spotify.com/album/2U3IlwloBbX5LuQDtcX4ux) | 1:25 | 2024-09-20 |  |
+| [Punch Jam](https://open.spotify.com/track/0UC67E3HuWNmfXPIlYUGID) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Punch Jam](https://open.spotify.com/album/2U3IlwloBbX5LuQDtcX4ux) | 1:25 | 2024-09-20 | 2024-10-22 |
 | [Pushin' Thru It](https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Pushin' Thru It](https://open.spotify.com/album/3ND0sWPefAXkbLUa80Ntdg) | 4:18 | 2021-12-16 | 2022-04-06 |
 | [Pushing Pins](https://open.spotify.com/track/7j26ZE6cddkHrdkWr13fw6) | [PLAIINS](https://open.spotify.com/artist/3gUHDc3I3G1bFRElrj90fR) | [Pushing Pins](https://open.spotify.com/album/7mt5VCgdVT3eHSdqJAP9zD) | 2:48 | 2023-11-10 | 2023-12-15 |
 | [Queen](https://open.spotify.com/track/6FoB7cNbQ28gsKhh24YI4I) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Queen](https://open.spotify.com/album/3ZTodB8gVsIWAzYb6znSl7) | 3:13 | 2022-03-10 | 2022-09-07 |
@@ -654,7 +656,7 @@
 | [Tortuga](https://open.spotify.com/track/5vfBDicRo7VrPY2KkApYsK) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Tortuga](https://open.spotify.com/album/11dazu57AoABvNCgktwEoP) | 2:45 | 2024-07-08 | 2024-10-01 |
 | [Tragedy](https://open.spotify.com/track/5Q0WzHDGAzdxkKIO4xP2To) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf) | [Tragedy](https://open.spotify.com/album/2rnjPeQAtqf4PpTHg3fZen) | 4:26 | 2024-03-27 | 2024-05-03 |
 | [Tramlines](https://open.spotify.com/track/2TeHRE4Rl4YvuhlNuBXJVM) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tramlines](https://open.spotify.com/album/0PUA4ZxX3CkJCeryebqYzo) | 3:16 | 2023-02-09 | 2023-05-13 |
-| [Transcendental Dreaming](https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Transcendental Dreaming](https://open.spotify.com/album/77Hq632gLr2zvXDKSLhVbG) | 2:16 | 2024-08-02 |  |
+| [Transcendental Dreaming](https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Transcendental Dreaming](https://open.spotify.com/album/77Hq632gLr2zvXDKSLhVbG) | 2:16 | 2024-08-02 | 2024-10-22 |
 | [Tribe](https://open.spotify.com/track/68SIJ8nkxtDWaVkvGW0ob7) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Tribe](https://open.spotify.com/album/0KN1TdgMQxIWmNnmwjC9RJ) | 3:27 | 2022-10-14 | 2022-11-26 |
 | [Turn Me Up](https://open.spotify.com/track/6d5YLQel1T5HgdRgeTtz1O) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Turn Me Up](https://open.spotify.com/album/0yQtcZfchPzofdgfNamsLX) | 2:07 | 2023-05-03 | 2023-10-14 |
 | [TV or Not TV](https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [TV or Not TV](https://open.spotify.com/album/3EBzedKTSdxOxHX8VPb9G6) | 3:40 | 2021-12-16 | 2022-03-25 |
@@ -678,6 +680,7 @@
 | [Wall of Silence](https://open.spotify.com/track/2WwLEcSoYJjhTTS7eqUb08) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Wall of Silence](https://open.spotify.com/album/4UBTTNZuO58gEW8EQvrM18) | 3:14 | 2021-12-16 | 2022-03-22 |
 | [Walls](https://open.spotify.com/track/2wCDbkO7n9njUd6RJb6Fmt) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Walls](https://open.spotify.com/album/5O4Lzcjk9GDqMm59roa3x7) | 3:04 | 2021-12-16 | 2022-04-01 |
 | [Waltzer](https://open.spotify.com/track/0etpfM0NrM6ByWqDtma4ss) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Waltzer](https://open.spotify.com/album/5egh75SfDBdTyu1OIfzhF8) | 3:59 | 2022-09-06 | 2022-12-03 |
+| [WANTED2TRY](https://open.spotify.com/track/0wlYzdGwdh9DraRmZHIu75) | [Demo Division](https://open.spotify.com/artist/3W6URN7nUXNxONfatUmWJU) | [SUNKEN SKIN](https://open.spotify.com/album/4PVDwNZlTOHqwmY1cqjx2B) | 2:29 | 2024-10-21 |  |
 | [WANTED2TRY](https://open.spotify.com/track/3PkZUROe0fvRdwIPggdgEu) | [Demo Division](https://open.spotify.com/artist/3W6URN7nUXNxONfatUmWJU) | [WANTED2TRY](https://open.spotify.com/album/4BnfYUTEvlRSWYJFY9JoUW) | 2:29 | 2024-04-19 | 2024-06-01 |
 | [War](https://open.spotify.com/track/5Z4ZQwGzEU30zc4uu6sFeL) | [Future Humans](https://open.spotify.com/artist/4BXM7ghfjufutCDfJfXdIl) | [War](https://open.spotify.com/album/4sQ5Crc6JhRAIGsBUFVu1p) | 2:58 | 2023-08-21 | 2023-11-11 |
 | [War Boys](https://open.spotify.com/track/6YEBtj2zB0ZHYPbJVg0Jku) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [War Boys](https://open.spotify.com/album/7eIQ1zCmcFaBiqyV8idtNB) | 3:09 | 2022-09-06 | 2022-10-01 |

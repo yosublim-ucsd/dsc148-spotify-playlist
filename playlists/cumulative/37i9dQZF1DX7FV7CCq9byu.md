@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-350 songs - 17 hr 44 min
+351 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Color](https://open.spotify.com/track/6G0eyTmvrL4gjrXRfMnGuj) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Color](https://open.spotify.com/album/0K6D8Qtm7XGmRn2RLcGiWp) | 2:46 | 2024-07-25 | 2024-09-06 |
 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 | 2024-07-11 | 2024-08-30 |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-27 | 2024-08-16 |
-| [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-09-13 |  |
+| [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2024-09-13 |  |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-04 | 2024-08-23 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 |  |
 | [Dancing On Dynamite](https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Dancing On Dynamite](https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa) | 2:42 | 2024-08-29 | 2024-10-04 |
@@ -133,6 +133,7 @@
 | [Helluva life](https://open.spotify.com/track/1lxnQq2RI4UXqXXegmiiVY) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Jag önskar jag brydde mig mer](https://open.spotify.com/album/5TPuPsRCf4FN29mAYqTToD) | 3:05 | 2024-06-27 | 2024-07-19 |
 | [henda i været](https://open.spotify.com/track/618z8JIYgEQ8q4blcJFsGW) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [henda i været](https://open.spotify.com/album/4ryEkaYCH9uIdA4jbdHhIP) | 2:41 | 2024-06-27 | 2024-08-02 |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-06-27 | 2024-07-19 |
+| [Hey DJ](https://open.spotify.com/track/0rJdN64e7I7yrUFTSccQIu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Hey DJ](https://open.spotify.com/album/6twwTuHaqDKqLtu5Oq3JUB) | 2:45 | 2024-10-21 |  |
 | [Hey Hello](https://open.spotify.com/track/77hIkkruDPGPQzbpr4c3wm) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL), [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Hey Hello](https://open.spotify.com/album/3LNfDuAu8Hhf6J43lvgvba) | 3:23 | 2024-08-29 | 2024-09-27 |
 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 | 2024-09-19 |  |
 | [Hils Din Mor \(feat\. Anne Linnet\)](https://open.spotify.com/track/52fqmaEIDQdmWONvwXbvf8) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG), [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Anne Linnet](https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY) | [Hils Din Mor \(feat\. Anne Linnet\)](https://open.spotify.com/album/4SK7VjGM1MnUT9mQIzolPe) | 2:52 | 2024-08-09 | 2024-09-13 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 25321,
+  "num_followers": 25338,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAADGgzbUkq3R2S9z69UGj0zO",
+  "snapshot_id": "ZxRIAAAAAACVH5He86LrEdFDZmOB5Uj8",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Union Black",
-        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Doom Riff",
-      "url": "https://open.spotify.com/track/1bFpr9RuXPpIw7dbFAlLgC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roots Rock Riot",
         "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 229306,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/2BIy81E5iBRqNYkGD61ImF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Union Black",
+        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Doom Riff",
+      "url": "https://open.spotify.com/track/1bFpr9RuXPpIw7dbFAlLgC"
     },
     {
       "added_at": null,

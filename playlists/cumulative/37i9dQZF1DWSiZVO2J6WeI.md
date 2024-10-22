@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-395 songs - 20 hr 15 min
+396 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Enlightened](https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Enlightened](https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu) | 3:46 | 2023-01-20 |  |
 | [Enter Stillness \- Studio Edit](https://open.spotify.com/track/0jeANkHM2w3JzKS7kx39yN) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 4:13 | 2022-03-04 | 2022-04-20 |
 | [Ephemeral](https://open.spotify.com/track/50V2dfA0R4v74WEpKVzjYj) | [Sadie Hume](https://open.spotify.com/artist/7E6gWrogjZbxjYpmSjAa1C) | [Ephemeral](https://open.spotify.com/album/6xeSywaM0OZIW6KV1Uy7EB) | 2:24 | 2024-01-17 | 2024-02-08 |
+| [Equanimity](https://open.spotify.com/track/55U4fp5VV14jyMBdrsF7YS) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [Equanimity](https://open.spotify.com/album/7tzASYpxMxUQVZnJgSJ2yb) | 2:40 | 2024-10-15 |  |
 | [Equilibrium \- Loopable with No Fade](https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:54 | 2022-01-19 |  |
 | [Erase](https://open.spotify.com/track/6f4cBWeUGOtO7WFxxt35j3) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Scarr](https://open.spotify.com/album/1JKjLE5sVSxSIevJoF926D) | 4:19 | 2022-05-19 | 2024-10-16 |
 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 | 2023-04-09 |  |
@@ -177,7 +178,7 @@
 | [Gratitude Frequency](https://open.spotify.com/track/1oyb1oP98qZm1xnoPg11CO) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Gratitude Frequency](https://open.spotify.com/album/4zGMCjX93ABo5zAxf8qbFl) | 2:24 | 2023-07-28 | 2024-10-16 |
 | [Grow Free](https://open.spotify.com/track/6SkEMoTZ3i3AB0Hp8Rvw3k) | [VØNAR](https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ) | [Grow Free](https://open.spotify.com/album/4G9PplGS8gHrcQWSBquPnA) | 2:50 | 2024-01-17 |  |
 | [Harmony of Resonance](https://open.spotify.com/track/06UmX9rsJq1BAjE2Io7D0r) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Harmony of Resonance](https://open.spotify.com/album/5jkxZyyHUdMOS9Hn0ydOwJ) | 2:28 | 2024-01-17 | 2024-02-08 |
-| [Hati](https://open.spotify.com/track/6R3OaZqWKiDIhTR5mvUazQ) | [Asta Meta](https://open.spotify.com/artist/10BR4J0WGz3qMPLOwqGrTX) | [Flow](https://open.spotify.com/album/7c6bdmNy4Q2j4sDkc2j8nv) | 2:43 | 2023-08-11 |  |
+| [Hati](https://open.spotify.com/track/6R3OaZqWKiDIhTR5mvUazQ) | [Asta Meta](https://open.spotify.com/artist/10BR4J0WGz3qMPLOwqGrTX) | [Flow](https://open.spotify.com/album/7c6bdmNy4Q2j4sDkc2j8nv) | 2:43 | 2023-08-11 | 2024-10-22 |
 | [Healing Keys of Light](https://open.spotify.com/track/0cPSVrSv9YtRv0Tr7YwydB) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Healing Keys of Light](https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm) | 5:08 | 2022-01-19 | 2022-04-19 |
 | [Healing Waves](https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Healing Waves](https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD) | 2:41 | 2022-01-12 | 2024-05-21 |
 | [Heinamaa](https://open.spotify.com/track/7lpaVjDPjT72Afi7LqXBIx) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Heinamaa](https://open.spotify.com/album/3tTOPXQxFjqPabpMgjl86q) | 2:32 | 2022-01-12 | 2023-07-29 |

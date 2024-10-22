@@ -2,9 +2,9 @@
 
 ### [Vibras](https://open.spotify.com/playlist/37i9dQZF1DWT34oeYRnJ0R)
 
-> Just vibes\. Cover: La Perla, Omar Montes & SAIKO
+> Just vibes\. Cover: Alvaro Diaz & NATHY PELUSO
 
-530 songs - 1 day 3 hr 32 min
+531 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Afrobocelli](https://open.spotify.com/track/1lruhU0oqnaMeCVCoUVf06) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt) | [Afrobocelli](https://open.spotify.com/album/3fjmMdP6qPPjjckM4ykjcz) | 3:38 | 2024-03-22 | 2024-05-18 |
 | [AGORA](https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AGORA](https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u) | 2:33 | 2024-09-13 |  |
 | [Air France](https://open.spotify.com/track/6wrHRPtw1Z37iP5PGDbS6g) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:06 | 2023-03-17 | 2023-08-05 |
-| [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 | 2024-01-12 |  |
+| [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 | 2024-01-12 | 2024-10-22 |
 | [Aiwo](https://open.spotify.com/track/3k4SAElYqq32PxKNFacyM6) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Aiwo](https://open.spotify.com/album/12qKvFVOImgBtQ2JDGO2Vz) | 2:20 | 2024-02-23 | 2024-08-02 |
 | [Ajá](https://open.spotify.com/track/4YqdIV12MK7UWIyba06ClS) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Ajá](https://open.spotify.com/album/1qEiCOKtTqYhPjZrism2Ie) | 2:22 | 2022-03-21 | 2022-07-29 |
 | [Ajá](https://open.spotify.com/track/7B0Vml7GTmw8ffpfSUjVzl) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Ajá](https://open.spotify.com/album/71gL6gQiyTWMmbLcsn0MS4) | 2:22 | 2022-07-26 | 2022-08-12 |
@@ -525,6 +525,7 @@
 | [WYA REMIX RED](https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T) | [J Abdiel](https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [WYA REMIX RED](https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN) | 5:21 | 2024-07-19 |  |
 | [x ti](https://open.spotify.com/track/6Ih6h9g3dUDc4MvIunXv6g) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC) | [x ti](https://open.spotify.com/album/6ZeF95nJeLg3UIxQeppWKU) | 2:41 | 2022-06-27 | 2022-09-07 |
 | [XLEY](https://open.spotify.com/track/5LrMQ0wMlyotNIsR6aofeH) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [XLEY](https://open.spotify.com/album/5eZC1BL1r2RcJlVORIvRLU) | 3:14 | 2022-09-06 | 2023-08-10 |
+| [XQ ERES ASÍ](https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [XQ ERES ASÍ](https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM) | 3:32 | 2024-10-21 |  |
 | [Y Qué](https://open.spotify.com/track/1Dd6CuCiuoTj0eiBnGnx4X) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r), [Lena Dardelet](https://open.spotify.com/artist/37orxD8Q5PDm53FazTRpP7) | [Y Qué](https://open.spotify.com/album/2ZkVwLuSNV8589HxndjDgZ) | 2:48 | 2024-02-23 | 2024-10-19 |
 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 | 2022-07-26 | 2022-09-07 |
 | [YA](https://open.spotify.com/track/5Zv97esRRGjScO2Vj6lhGt) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/0bcY8OcSd9eGMpTyl3DUj6) | 2:55 | 2022-03-21 | 2022-07-29 |

@@ -1,13 +1,29 @@
 {
   "description": "AP x CC",
-  "num_followers": 306502,
+  "num_followers": 306610,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGI4AAAAAAIqIXWPOLs6PYsy6p76aLv",
+  "snapshot_id": "ZxZbNQAAAACWauriHq4pokC/8QCXw5lN",
   "tracks": [
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/2140Txb63i5WGqFZX52gag"
+    },
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 384062,
       "name": "Neverender - Rampa Remix",
       "url": "https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Her Eyes",
-        "url": "https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Her Eyes",
-      "url": "https://open.spotify.com/track/2140Txb63i5WGqFZX52gag"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -211,7 +211,7 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Back On 74 - Rework",
+        "name": "Back On 74 (Rework)",
         "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
       },
       "artists": [
@@ -227,6 +227,26 @@
       "duration_ms": 340160,
       "name": "Back On 74 - Rework",
       "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
+    },
+    {
+      "added_at": "2024-10-21 13:42:05",
+      "album": {
+        "name": "Thriller Afro Halloween Mix",
+        "url": "https://open.spotify.com/album/65eHXOJPIW5UFhkCnFTboF"
+      },
+      "artists": [
+        {
+          "name": "Softmal",
+          "url": "https://open.spotify.com/artist/6q8mKMXDLqubwlUJo9J5pZ"
+        },
+        {
+          "name": "LL\u00f8lita",
+          "url": "https://open.spotify.com/artist/0fnCSuylj2kNfNzpvmFeM3"
+        }
+      ],
+      "duration_ms": 142926,
+      "name": "Thriller - Afro Halloween Radio Edit",
+      "url": "https://open.spotify.com/track/0LBlaDyDuXFxKMlAKkyVnl"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -251,7 +271,7 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Sweet Dreams - Radio Edit",
+        "name": "Sweet Dreams (Radio Edit)",
         "url": "https://open.spotify.com/album/21i4fZf94rBpUh8Bma97vd"
       },
       "artists": [
@@ -799,7 +819,7 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Stellar - ANNA Remix",
+        "name": "Stellar (ANNA Remix)",
         "url": "https://open.spotify.com/album/6QT8IOUeqAPMQ3mmO3uuvg"
       },
       "artists": [
@@ -943,7 +963,7 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Lioness - Francis Mercier Remix",
+        "name": "Lioness (Francis Mercier Remix)",
         "url": "https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf"
       },
       "artists": [
@@ -1607,7 +1627,7 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Morenita - Marco Generani Remix",
+        "name": "Morenita (Marco Generani Remix)",
         "url": "https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw"
       },
       "artists": [
@@ -1687,7 +1707,7 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Pangea - Maxi Meraki Remix",
+        "name": "Pangea (Maxi Meraki Remix)",
         "url": "https://open.spotify.com/album/3rYYFme3gS5wpOg02KV6hV"
       },
       "artists": [
@@ -1799,7 +1819,7 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Orion - Sistek Remix",
+        "name": "Orion (Sistek Remix)",
         "url": "https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA"
       },
       "artists": [
@@ -1955,7 +1975,7 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Deep Scene - Axel Boman Remix",
+        "name": "Deep Scene (Axel Boman Remix)",
         "url": "https://open.spotify.com/album/64804QOVNU0ujDLYjA0d5G"
       },
       "artists": [
@@ -4819,7 +4839,7 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Houdini - Adam Port Mix",
+        "name": "Houdini (Adam Port Mix)",
         "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
       },
       "artists": [
@@ -6779,7 +6799,7 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Lovely Day - Austin Millz Remix",
+        "name": "Lovely Day (Austin Millz Remix)",
         "url": "https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1"
       },
       "artists": [

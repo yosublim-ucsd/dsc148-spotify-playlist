@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-306 songs - 1 day 1 hr 45 min
+307 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Barsan Lagi](https://open.spotify.com/track/0S1m5seht5GY0q0gZTrGMG) | [Leena Bose](https://open.spotify.com/artist/0b0W2yD1KHcihQiJSltxY0), [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2) | [Barsan Lagi](https://open.spotify.com/album/1uUIFeRbckFnYC1V0MnB4X) | 2:52 | 2023-09-14 | 2023-10-28 |
 | [Barsan Lagi](https://open.spotify.com/track/2bAQFyRpTjpCaTPp7G7F55) | [Leena Bose](https://open.spotify.com/artist/0b0W2yD1KHcihQiJSltxY0), [Raahi](https://open.spotify.com/artist/7ohyp9mPElIYE1N1atYCr2) | [Barsan Lagi](https://open.spotify.com/album/22UIMIvTAKwgEdCi3axHu0) | 2:52 | 2023-09-05 | 2023-09-15 |
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2022-05-17 | 2023-10-07 |
+| [Barse Badariya](https://open.spotify.com/track/60l7qOaFTNccb7AX51U27k) | [prithviraj singh sisodiya](https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd), [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Barse Badariya](https://open.spotify.com/album/1N5lJDZXeReW3mDVpTr009) | 3:24 | 2024-10-21 |  |
 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 | 2023-07-05 |  |
 | [Bhagwaan](https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Bhagwaan](https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j) | 4:34 | 2024-07-30 |  |
 | [Bhim](https://open.spotify.com/track/2CpX8zSTnl2yJIFyiXMgHx) | [Joel Veena](https://open.spotify.com/artist/1jHZD5DHGnhcb2XCmwx1pj) | [Bhim](https://open.spotify.com/album/1Mw4V0SJP9YBRyVJK8YsXT) | 4:38 | 2022-05-17 | 2023-06-22 |
@@ -123,7 +124,7 @@
 | [Jiyara](https://open.spotify.com/track/2HGUQdjPceANaA1w3PQWoC) | [Sourav Dey](https://open.spotify.com/artist/5lH2vFIQx4St00QvSMe0BX), [Satwik Tripathy](https://open.spotify.com/artist/1Gu2zcXYOHgptCoXdVgbJ7) | [Jiyara](https://open.spotify.com/album/7caa0Y23MzMrbkrjCxXVcX) | 5:29 | 2024-02-26 | 2024-05-28 |
 | [Jogii \- From "aura"](https://open.spotify.com/track/18JgzTj6dPk12W1C8TqBcb) | [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL), [Prithvi Gandharv](https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs) | [Jogii \(From "aura"\)](https://open.spotify.com/album/3VqpeSU2f00baLx5nZMF4c) | 4:32 | 2024-06-27 |  |
 | [Ka Karoon](https://open.spotify.com/track/03J3QJbBmdsjdyfd9g0kYO) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:44 | 2023-08-01 | 2023-09-26 |
-| [Ka Karoon Sajni](https://open.spotify.com/track/48OqiXra8GzWWSOYWmBLai) | [Shuchismita Das](https://open.spotify.com/artist/3GmK2Ti2b8zfCnu9mtZCPn) | [Ka Karoon Sajni](https://open.spotify.com/album/1BkwmDvQQJhdWyTU9V3v39) | 3:42 | 2024-04-24 |  |
+| [Ka Karoon Sajni](https://open.spotify.com/track/48OqiXra8GzWWSOYWmBLai) | [Shuchismita Das](https://open.spotify.com/artist/3GmK2Ti2b8zfCnu9mtZCPn) | [Ka Karoon Sajni](https://open.spotify.com/album/1BkwmDvQQJhdWyTU9V3v39) | 3:42 | 2024-04-24 | 2024-10-22 |
 | [Ka Karoon Sajni \- The Unwind Mix](https://open.spotify.com/track/5oVHgBoF0B29CXW1L4aeU7) | [Prajakta Shukre](https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB) | [Ka Karoon Sajni \- Single](https://open.spotify.com/album/5Ao1TWZgINPwvOy96c2dbV) | 4:29 | 2022-05-17 | 2023-09-29 |
 | [Kaa Karoon Sajni \- Thumri Jazz](https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l), [Ruslan Sirota](https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm) | [Kaa Karoon Sajni \(Thumri Jazz\)](https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH) | 3:43 | 2023-04-21 |  |
 | [Kaahe Kanha](https://open.spotify.com/track/4SACOzcQaUqp3Q0EDEAdj0) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Kaahe Kanha](https://open.spotify.com/album/1qZ4cZyAwXaFCe15txeaTI) | 2:37 | 2022-05-17 | 2023-08-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:track:1ok8sVrOcxSFpuVzygkQLx">Who Said</a> ✨ <a href="spotify:artist:0bdfiayQAKewqEvaU6rXCv">MØ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,290 likes - 98 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,289 likes - 98 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

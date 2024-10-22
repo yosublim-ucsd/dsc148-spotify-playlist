@@ -1,6 +1,6 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: The Smiths",
-  "num_followers": 1243673,
+  "num_followers": 1243765,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
@@ -75,7 +75,7 @@
     {
       "added_at": "2024-02-22 18:14:51",
       "album": {
-        "name": "Outlandos D'Amour - Remastered 2003",
+        "name": "Outlandos D'Amour (Remastered 2003)",
         "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
       "artists": [
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-02-22 18:14:51",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 351626,
-      "name": "Common People - Full Length Version",
-      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
-    },
-    {
-      "added_at": "2024-02-22 18:14:51",
-      "album": {
         "name": "The Kick Inside",
         "url": "https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 269066,
       "name": "Wuthering Heights",
       "url": "https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ"
+    },
+    {
+      "added_at": "2024-02-22 18:14:51",
+      "album": {
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 351626,
+      "name": "Common People - Full Length Version",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
     },
     {
       "added_at": "2024-02-22 18:14:51",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-02-22 18:14:51",
       "album": {
-        "name": "Outside Society",
-        "url": "https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF"
-    },
-    {
-      "added_at": "2024-02-22 18:14:51",
-      "album": {
         "name": "My Aim Is True",
         "url": "https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 226040,
       "name": "Watching The Detectives - Single Version",
       "url": "https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s"
+    },
+    {
+      "added_at": "2024-02-22 18:14:51",
+      "album": {
+        "name": "Outside Society",
+        "url": "https://open.spotify.com/album/00tuL4qPxBs3w8S1BaG3Zv"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF"
     },
     {
       "added_at": "2024-02-22 18:14:51",

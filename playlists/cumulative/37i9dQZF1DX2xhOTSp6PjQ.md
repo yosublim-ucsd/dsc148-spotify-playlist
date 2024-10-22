@@ -2,9 +2,9 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ?si=4qHdG1oES2Wwg4ra293T\_A">Zwide</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX?si=oHlDJ\-gNSvq4Yus0y5Y1xw">Mthandeni SK</a>, <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=OuiHZEflRHyDpEE2I59TlA">MaWhoo</a>
 
-211 songs - 16 hr 53 min
+212 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Iphutha](https://open.spotify.com/track/3knGCYxFc2KracN0y36aN9) | [Umdumazi](https://open.spotify.com/artist/1FaD9YX3OovAhntq4aV1DC) | [Iphutha](https://open.spotify.com/album/2dANv8PXfSJmiiHJtdXPKJ) | 4:55 | 2023-09-22 | 2024-08-30 |
 | [iPolotiki](https://open.spotify.com/track/0XqjPB3HUAyjoXTYk1yQ4r) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [iPolotiki](https://open.spotify.com/album/75kUbuAS3xT5J8a5v22Mx5) | 4:19 | 2024-09-20 | 2024-10-11 |
 | [Ishende](https://open.spotify.com/track/4gbkKnzwQdS7dEv5lWHVQO) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhlinini Yoxolo](https://open.spotify.com/album/2gkiXVfyva2aEfJiiRbQry) | 4:29 | 2018-11-04 | 2023-06-16 |
+| [Ishephisi ejezini](https://open.spotify.com/track/5YYr3ZK6KToGSvr44sdO7E) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Ishephisi ejezini](https://open.spotify.com/album/7ucUExujsCDW1V7FfDyWNh) | 4:22 | 2024-10-21 |  |
 | [Isifebe Sendoda](https://open.spotify.com/track/1otdCFUdWjT0yLWOfFr6kc) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA) | 4:20 | 2022-09-01 |  |
 | [Isifebe Sendoda](https://open.spotify.com/track/6KHZvYCSRscmHSixg8cs26) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6E93uMai7s84xFzTux1dp9) | 4:20 | 2022-09-01 | 2022-09-26 |
 | [Isilingo](https://open.spotify.com/track/5Df0fXk01kB3ZgVPg3uwmk) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Inhloko Nes'xhanti](https://open.spotify.com/album/6uKsbOxDnGwYTfdVp2qIuP) | 3:40 | 2020-01-13 | 2024-06-14 |
@@ -110,7 +111,7 @@
 | [Khula Tshitshi Lami](https://open.spotify.com/track/5JIJunDi0sABz8zd44u4WE) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Khula Tshitshi Lami](https://open.spotify.com/album/24m3tRRNgElXYhvJLakyxu) | 4:21 | 2018-09-25 | 2023-04-09 |
 | [Khula Tshitshi Lami](https://open.spotify.com/track/6cjPxUtWSBg3zVcexVitOl) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Khula Tshitshi Lami](https://open.spotify.com/album/6hydOJZPfWGO6qTu6Ba4Pe) | 4:21 | 2018-09-25 | 2022-07-29 |
 | [Khula Tshitshi Lami](https://open.spotify.com/track/7agl8aVojrFx0QofzcLoka) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Khula Tshitshi Lami](https://open.spotify.com/album/4k5aaUkinE32mprMwvlcUA) | 4:21 | 2018-09-25 | 2022-09-26 |
-| [KHUZANI](https://open.spotify.com/track/1o2gWv03miItFNYA2wQGVs) | [Mbuzeni](https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok) | [KHUZANI](https://open.spotify.com/album/0CqGIOibphVvCOc3oX0lo5) | 4:20 | 2024-07-11 |  |
+| [KHUZANI](https://open.spotify.com/track/1o2gWv03miItFNYA2wQGVs) | [Mbuzeni](https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok) | [KHUZANI](https://open.spotify.com/album/0CqGIOibphVvCOc3oX0lo5) | 4:20 | 2024-07-11 | 2024-10-22 |
 | [Kungani](https://open.spotify.com/track/2w9BuLVCyEYDKnrCCeYxMy) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Isihlahla Samavukani](https://open.spotify.com/album/2pD1ARZOgmJ6FOzF71byXZ) | 4:17 | 2018-09-25 | 2022-09-25 |
 | [Kungani](https://open.spotify.com/track/3U8oBQbjUI8IWSp4HbtcMS) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Isihlahla Samavukani](https://open.spotify.com/album/1DqOspLC57SJScf6aPB5lX) | 4:17 | 2018-09-25 | 2022-07-29 |
 | [Kungani](https://open.spotify.com/track/7gVgTzmxTcczfnCfvuOfkF) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs) | [Isihlahla Samavukani](https://open.spotify.com/album/0vbPOtCjPKQUPqHu6TIw60) | 4:17 | 2018-09-25 | 2023-02-01 |

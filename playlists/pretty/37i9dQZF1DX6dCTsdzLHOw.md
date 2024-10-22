@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 
 > Don't spill your popcorn..\. these scary movie themes will scare the bejeezus out of you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,491 likes - 53 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,507 likes - 53 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dCTsdzLHOw.md) - [plain]
 | 23 | [Freddy's Coming for You](https://open.spotify.com/track/0o1SKUvwGAFZ3km9ZMDXoT) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [A Nightmare On Elm Street: Original Motion Picture Score](https://open.spotify.com/album/0btrQddJBGxVVJXJCkv7Sm) | 4:28 |
 | 24 | [I've Been Tricked](https://open.spotify.com/track/226XOQzrG1uu1C0XVevRCd) | [Leigh Harline](https://open.spotify.com/artist/7aXWrnm0b8kKzTTgzublaZ) | [Snow White And The Seven Dwarfs Original Soundtrack](https://open.spotify.com/album/0Bqy2UNNB9WRS2EyHtpnIn) | 4:06 |
 | 25 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 |
-| 26 | [Run To The Church](https://open.spotify.com/track/1F3yUGDxCfGH9Zx3KePnmK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Sixth Sense \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI) | 1:21 |
+| 26 | [Run To The Church](https://open.spotify.com/track/1F3yUGDxCfGH9Zx3KePnmK) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Sixth Sense \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Cdpyr3pRNtiErT7QRbOxI) | 1:21 |
 | 27 | [Main Title](https://open.spotify.com/track/3mgO7YAlNvmGoZNEaEjfaA) | [Jerry Goldsmith](https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6) | [Alien](https://open.spotify.com/album/0kRM4B6TRITAcjLebvS12N) | 4:12 |
 | 28 | [Magnificent, Isn't It](https://open.spotify.com/track/244zUPDZ1nb7kN9SrxgHGX) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [A Cure For Wellness \(Original Soundtrack Album\)](https://open.spotify.com/album/1JpTP5zaoj0ud6lLu3gqZ0) | 2:11 |
 | 29 | [Every 27 Years](https://open.spotify.com/track/2oZBR0rdkFfgkyQ4lVShfd) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [IT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tVCAKqFXuBvDMO5Jh3dZF) | 2:36 |

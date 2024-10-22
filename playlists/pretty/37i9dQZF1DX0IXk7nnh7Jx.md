@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:1FYE37rOHOrxO1lHAQUkCl">Antoine Bradford</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,860 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,868 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 40 | [What A Time To Be Alive](https://open.spotify.com/track/0vWPIN2Hte6jKQkUONJbxH) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [The Process \(Deluxe\) \[Clean\]](https://open.spotify.com/album/4nPlzTW356DylMSmm22dxI) | 2:48 |
 | 41 | [Sometimes I Dream](https://open.spotify.com/track/1jNI2ktaQCKGsIvqxql9uy) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Sometimes I Dream](https://open.spotify.com/album/3SLiB3DUGnCs8xFjf6Hzbf) | 3:24 |
 | 42 | [Fall In Love With The Light](https://open.spotify.com/track/16StXt03d3fgPTwku3vCbH) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Jungle In The City](https://open.spotify.com/album/1lslX7adoOFVX9DMGRpK49) | 3:59 |
-| 43 | [maybe one day you can fly away](https://open.spotify.com/track/51pygmmgTd8sX2TVtFclMU) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [I The Ai](https://open.spotify.com/artist/6VmRC70MH7DjZdbYGoNCCc) | [where do we end up when life goes on? \- Deluxe Edition](https://open.spotify.com/album/2BXNVmHTTUZI6ely5S29a2) | 2:42 |
+| 43 | [maybe one day you can fly away](https://open.spotify.com/track/51pygmmgTd8sX2TVtFclMU) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [I The Ai](https://open.spotify.com/artist/6VmRC70MH7DjZdbYGoNCCc) | [where do we end up when life goes on? \(Deluxe Edition\)](https://open.spotify.com/album/2BXNVmHTTUZI6ely5S29a2) | 2:42 |
 | 44 | [Hold My Hand](https://open.spotify.com/track/7fCKkgjZRuu7P7eBZR1nxA) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [To Whom I Belong](https://open.spotify.com/album/65mPT5JiQbnBFMVnkW9pHn) | 2:53 |
 | 45 | [Big Enough](https://open.spotify.com/track/6QhTUTM56gN0Iwn6ufBWgx) | [Homecoming](https://open.spotify.com/artist/3j75QaSe0OJNGFMY6J0CfX), [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz), [John Jin Han](https://open.spotify.com/artist/5bUZA6A9fh1mx9APanxlbl), [Maharasyi](https://open.spotify.com/artist/7qA2Cz9LqOngzmwcyL3RtE) | [Big Enough](https://open.spotify.com/album/3EMoNQU2oDPUhk2anW3QrI) | 4:18 |
 | 46 | [Bye Fear](https://open.spotify.com/track/4Mk4cTRXRWdfMjOXa3xqzY) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Bye Fear](https://open.spotify.com/album/2RwQSEv9IsUZ0ediNtbTO2) | 4:19 |

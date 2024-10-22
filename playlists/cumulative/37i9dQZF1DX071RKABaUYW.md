@@ -138,6 +138,6 @@
 | [You Make Me Feel So Dumb](https://open.spotify.com/track/4ieveV7aFYub2I2caGoTDy) | [Walt Disco](https://open.spotify.com/artist/5Id5Ig1KgNJoLjLFskZ18I) | [You Make Me Feel So Dumb](https://open.spotify.com/album/0IC7DqIDuya8uxmSQxMVlf) | 3:29 | 2024-06-27 | 2024-10-11 |
 | [You!](https://open.spotify.com/track/5OIn9FHpJKAn6ZbX1y8Y46) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Heaven Knows!](https://open.spotify.com/album/3bK8WVeP0mMupP2d53LNWA) | 3:37 | 2024-06-27 |  |
 | [★SLEEPY★](https://open.spotify.com/track/5lEnU2eOQkmHogLRUV77LV) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [★SLEEPY★](https://open.spotify.com/album/4u7Gq7p97RbhmMutnehapG) | 2:14 | 2024-06-27 | 2024-07-05 |
-| [當娜喜歡寄生蟲 \- donna likes parasites](https://open.spotify.com/track/6fZYusbSpQGo5oYnnUR3PD) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [nothing or something to die for \- Cantonese tasting menu](https://open.spotify.com/album/40AlsOdaVPYFkVdmtC4Bjg) | 3:59 | 2024-10-10 |  |
+| [當娜喜歡寄生蟲 \- donna likes parasites](https://open.spotify.com/track/6fZYusbSpQGo5oYnnUR3PD) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [nothing or something to die for \(Cantonese tasting menu\)](https://open.spotify.com/album/40AlsOdaVPYFkVdmtC4Bjg) | 3:59 | 2024-10-10 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

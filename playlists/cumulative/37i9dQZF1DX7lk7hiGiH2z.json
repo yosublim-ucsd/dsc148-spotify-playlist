@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-28",
-  "description": "Zeit f\u00fcr Kastanienm\u00e4nnchen, Laternenlieder und K\u00fcrbis schnitzen. ",
-  "name": "Familienzeit: Herbst",
+  "description": "S\u00fc\u00dfes sonst gibt's Saures! \ud83c\udf83",
+  "name": "Familienzeit: Halloween",
   "tracks": [
     {
       "album": {
@@ -108,6 +108,24 @@
       "duration_ms": 185866,
       "name": "Abends, wenn es dunkel wird",
       "url": "https://open.spotify.com/track/4gkkfbLfHnqPprH5ym6HhZ"
+    },
+    {
+      "album": {
+        "name": "Meine M\u00fctze und Ich",
+        "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208896,
+      "name": "Abrakadabra",
+      "url": "https://open.spotify.com/track/0KpZtDCGTHDZtzWILKm7bO"
     },
     {
       "album": {
@@ -256,7 +274,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 108293,
       "name": "Alle V\u00f6gel sind schon da",
       "url": "https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 167090,
       "name": "Baller mit meinem Rad",
       "url": "https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm"
@@ -438,7 +456,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 199293,
       "name": "Boom Schakkalakka",
       "url": "https://open.spotify.com/track/0K1YxwGmBvJrD4vQErPniv"
@@ -460,7 +478,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 142346,
       "name": "Bratkartoffellied",
       "url": "https://open.spotify.com/track/5Cuo019EmAoITD9BMCX8fC"
@@ -482,7 +500,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 184906,
       "name": "Bunt sind schon die W\u00e4lder",
       "url": "https://open.spotify.com/track/6sKFUtAA0zvyCaK0TLT5xM"
@@ -518,7 +536,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 105720,
       "name": "Bunte Bl\u00e4tter (Herbstlied)",
       "url": "https://open.spotify.com/track/2Xd0iej84kqqS4W0IcNHjk"
@@ -674,7 +692,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 156253,
       "name": "Danke",
       "url": "https://open.spotify.com/track/2rsGUdNRjx9W3PYO4M4CeZ"
@@ -728,7 +746,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 272400,
       "name": "Das G-G-G-Gespenst",
       "url": "https://open.spotify.com/track/5eF9o9A8BAFX5xYGbADc4K"
@@ -746,7 +764,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 166816,
       "name": "Das kleine Kaninchen",
       "url": "https://open.spotify.com/track/7pcgrkYOwcGbCF6Ej2Cfyg"
@@ -1059,6 +1077,28 @@
     },
     {
       "album": {
+        "name": "Der haarige Kobold",
+        "url": "https://open.spotify.com/album/0Ie5t9xq6DH5yaYw9V3JC2"
+      },
+      "artists": [
+        {
+          "name": "Heavysaurus",
+          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
+        },
+        {
+          "name": "Saltatio Mortis",
+          "url": "https://open.spotify.com/artist/09Z51O0q4AwHl7FjUUlFKw"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215813,
+      "name": "Der haarige Kobold",
+      "url": "https://open.spotify.com/track/2XE8wyKC44cWX0G3HmXlmh"
+    },
+    {
+      "album": {
         "name": "Die 30 besten Herbstlieder f\u00fcr Kinder",
         "url": "https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL"
       },
@@ -1078,7 +1118,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 146477,
       "name": "Der Herbst hat bunte Bl\u00e4tter",
       "url": "https://open.spotify.com/track/4mwmmoYfQX3zeV0Rvsm4kY"
@@ -1140,7 +1180,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 92200,
       "name": "Der Herbst ist da",
       "url": "https://open.spotify.com/track/3Opv4kjKgziQ8nePVtdpnf"
@@ -1312,7 +1352,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 126413,
       "name": "Der Sommer muss gehen",
       "url": "https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi"
@@ -1330,7 +1370,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 167889,
       "name": "Der Sommer sagt: \"Auf Wiederseh'n!\"",
       "url": "https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi"
@@ -1432,7 +1472,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 158226,
       "name": "Die Biene Maja",
       "url": "https://open.spotify.com/track/7jbWJ8dBSFElWnoGn9XYHI"
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 232840,
       "name": "Die Jahresuhr",
       "url": "https://open.spotify.com/track/5sS65MOpYlQuqq7HU8jQWZ"
@@ -1576,7 +1616,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 177853,
       "name": "Die Nase l\u00e4uft",
       "url": "https://open.spotify.com/track/1CbOIRwnpmH5nIoe8ihk0d"
@@ -1630,7 +1670,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 220173,
       "name": "Drachenwind",
       "url": "https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5"
@@ -1648,7 +1688,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 289986,
       "name": "Dracula - Remastered 2004",
       "url": "https://open.spotify.com/track/2qNDy6bmZyVnWJS8UeqbtA"
@@ -1666,7 +1706,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 151466,
       "name": "Dracula Rock",
       "url": "https://open.spotify.com/track/7FMXsR0WVoM4sKOfY6cI9D"
@@ -1702,7 +1742,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 202226,
       "name": "Druck",
       "url": "https://open.spotify.com/track/6lq2ScYLYvIwQwTGEYjFW2"
@@ -1776,7 +1816,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 122678,
       "name": "Ei, Ei, Ei, Ei, Eichh\u00f6rnchen",
       "url": "https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS"
@@ -2046,7 +2086,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 74640,
       "name": "Es regnet, es regnet",
       "url": "https://open.spotify.com/track/4cDNhjC0sczUlUYYcTEQA2"
@@ -2140,7 +2180,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 270146,
       "name": "Flattermaus",
       "url": "https://open.spotify.com/track/1P2KltPsS5Y2uC06zMgdtS"
@@ -2158,7 +2198,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 132699,
       "name": "Fledi Fledermaus",
       "url": "https://open.spotify.com/track/5vVnQ1jVM6COKY6NunH6xr"
@@ -2346,7 +2386,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 122506,
       "name": "F\u00fchl Mich So Gut",
       "url": "https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ"
@@ -2364,7 +2404,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 190960,
       "name": "Geisterzeit",
       "url": "https://open.spotify.com/track/3iqnMvh5RW8IAjlzUrAZcj"
@@ -2400,7 +2440,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 182173,
       "name": "Gespenster und Vampire",
       "url": "https://open.spotify.com/track/4EWFa6k3VJgBjhvKu3nsdK"
@@ -2418,7 +2458,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 245253,
       "name": "Ghostbusters",
       "url": "https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI"
@@ -2458,7 +2498,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 208386,
       "name": "Gruselgefahr",
       "url": "https://open.spotify.com/track/67P1QnXw9zZo7hffSL9mm5"
@@ -2476,7 +2516,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 164193,
       "name": "Gruselparty",
       "url": "https://open.spotify.com/track/5fr2p4o403KwG0oZicTlh5"
@@ -2494,7 +2534,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 176229,
       "name": "Guck mal diese Biene da Summ Summ",
       "url": "https://open.spotify.com/track/1o3K9QknRizPdPhVktzmhM"
@@ -2512,7 +2552,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 129266,
       "name": "Gummistiefeltango",
       "url": "https://open.spotify.com/track/6HZZXIxkFr6n8Ma0tMJNLq"
@@ -2560,7 +2600,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 214546,
       "name": "Hakuna Matata",
       "url": "https://open.spotify.com/track/2C91VnXhPNC6jVFgWObd7t"
@@ -2578,10 +2618,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 163733,
       "name": "Hallo Herbst",
       "url": "https://open.spotify.com/track/0fZMfPRNtpNlZKsx4r24aQ"
+    },
+    {
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/4cRPlJQgUtC5Gdnq9IeYIL"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213160,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/7m39SmkQUZvFwcqsbeoiyV"
     },
     {
       "album": {
@@ -2596,7 +2654,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 112882,
       "name": "Halloween Dance Party",
       "url": "https://open.spotify.com/track/1546dG78My4z98gAks35wg"
@@ -2614,7 +2672,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 149243,
       "name": "Halloween Song",
       "url": "https://open.spotify.com/track/6NQJCS8jFOzOZfW0AgLJ5G"
@@ -2696,7 +2754,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Happy, Happy Halloween!",
       "url": "https://open.spotify.com/track/4q1wyiW5r3yx0krsKLSrLd"
@@ -2718,6 +2776,24 @@
       "duration_ms": 140666,
       "name": "Have A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/7b0KnScryOgaV9uKTWpeUm"
+    },
+    {
+      "album": {
+        "name": "Heavy Halloween",
+        "url": "https://open.spotify.com/album/0h5fmJ4j0vpBIdV3GSk70H"
+      },
+      "artists": [
+        {
+          "name": "Heavysaurus",
+          "url": "https://open.spotify.com/artist/6uyCfgv8FWIc2mifriVXqw"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176929,
+      "name": "Heavy Halloween",
+      "url": "https://open.spotify.com/track/0qePPQZcSuFUGfd6uvHhmG"
     },
     {
       "album": {
@@ -2768,7 +2844,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 127714,
       "name": "Herbst",
       "url": "https://open.spotify.com/track/2aaJ1w7phiLtSXJRseS96K"
@@ -2786,7 +2862,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 153240,
       "name": "Herbstwind",
       "url": "https://open.spotify.com/track/2J5jWCJN3a657QROqTdPSc"
@@ -2822,7 +2898,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 148986,
       "name": "Heute Bin Ich Faul",
       "url": "https://open.spotify.com/track/7CWbnTlzCvmnt7SDUvw7sy"
@@ -2924,7 +3000,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 183525,
       "name": "Hexentanz",
       "url": "https://open.spotify.com/track/1neJ0rILtJuhFx6qFQM14S"
@@ -2942,7 +3018,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 195600,
       "name": "Hexentanz",
       "url": "https://open.spotify.com/track/1Ov76jLEZQsmTbPgqEFW4R"
@@ -3072,7 +3148,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 93785,
       "name": "Hui Hui Hui - Ich bin der Wind",
       "url": "https://open.spotify.com/track/3Wal8NEzMPBFpGjScxlGT7"
@@ -3144,7 +3220,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 187320,
       "name": "H\u00f6rst du die Regenw\u00fcrmer husten",
       "url": "https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP"
@@ -3192,7 +3268,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 179780,
       "name": "Ich bleib hier (feat. Lina Larissa Strahl)",
       "url": "https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp"
@@ -3290,7 +3366,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 199520,
       "name": "Ich lass mich nicht \u00e4rgern",
       "url": "https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND"
@@ -3488,7 +3564,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 217323,
       "name": "Ihr kriegt uns nie mehr klein",
       "url": "https://open.spotify.com/track/4j6VtUSryhEZGRFqrQ9LDO"
@@ -3622,6 +3698,24 @@
       "duration_ms": 210333,
       "name": "In den Urlaub",
       "url": "https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc"
+    },
+    {
+      "album": {
+        "name": "Burgfr\u00e4ulein B\u00f6s Partyhits",
+        "url": "https://open.spotify.com/album/4VpErYa4p7dHxH0GVW1ljU"
+      },
+      "artists": [
+        {
+          "name": "Burgfr\u00e4ulein B\u00f6",
+          "url": "https://open.spotify.com/artist/5q3QcfVaQH2pgpLXYkLK5a"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172413,
+      "name": "In der Disko an der Geisterbahn",
+      "url": "https://open.spotify.com/track/0tLb0uP2Q4qtz67OrgP5uj"
     },
     {
       "album": {
@@ -3987,6 +4081,24 @@
     },
     {
       "album": {
+        "name": "Eule findet den Beat - mit Gef\u00fchl (Musik-H\u00f6rspiel)",
+        "url": "https://open.spotify.com/album/0sBR6VO3ZRvqvrxhBPDECl"
+      },
+      "artists": [
+        {
+          "name": "Eule",
+          "url": "https://open.spotify.com/artist/59bf2D81aHzl0ot28xzQbk"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Keine Angst vor Monstern",
+      "url": "https://open.spotify.com/track/45VpJjQftkR3oLJvMQJkKp"
+    },
+    {
+      "album": {
         "name": "Endlich Winter!",
         "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
       },
@@ -4038,7 +4150,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 133774,
       "name": "Kinder M\u00e4use Monster Party",
       "url": "https://open.spotify.com/track/1tBU646XvprtvmJdqblhYN"
@@ -4246,7 +4358,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 220045,
       "name": "Kommt, wir wollen Laterne laufen",
       "url": "https://open.spotify.com/track/0KrkBKVLjtqfDaL1uD10W0"
@@ -4356,7 +4468,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 114668,
       "name": "K\u00fcrbis, K\u00fcrbis (K\u00fcrbislied)",
       "url": "https://open.spotify.com/track/2YHFgVqQUG5G3PgDelZwqU"
@@ -4378,7 +4490,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 225000,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/1UqY5fe0i1U4K5vVEQLpeg"
@@ -4432,7 +4544,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 98266,
       "name": "Langsam zieht der Herbst in's Land",
       "url": "https://open.spotify.com/track/6kA7a7xAqLoDEC9DgztIYF"
@@ -4650,7 +4762,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 233660,
       "name": "Laternen leuchten \u00fcberall",
       "url": "https://open.spotify.com/track/3ZEWBsTwEl6erQxRQPlzte"
@@ -4796,7 +4908,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 197893,
       "name": "Laubkonfetti (Es ist Herbst)",
       "url": "https://open.spotify.com/track/6DbyuyaKB7UdHeW8nERabR"
@@ -4974,7 +5086,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 130723,
       "name": "Matschepf\u00fctze",
       "url": "https://open.spotify.com/track/184q1mPkvExhFXLB02g9dM"
@@ -5102,10 +5214,50 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 110080,
       "name": "Mit Kastanien und Eicheln",
       "url": "https://open.spotify.com/track/4X2FW4z1gGi1HmAJrtCcps"
+    },
+    {
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr Halloween",
+        "url": "https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151337,
+      "name": "Mo-Mo-Monster",
+      "url": "https://open.spotify.com/track/47r3zekBd9J7z9NZkw3Cmm"
+    },
+    {
+      "album": {
+        "name": "Monsta (Halloween Edition)",
+        "url": "https://open.spotify.com/album/1xvITZ09F6vvMmjiSR1yZN"
+      },
+      "artists": [
+        {
+          "name": "Kinders",
+          "url": "https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN"
+        },
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159699,
+      "name": "Monsta - Halloween Edition",
+      "url": "https://open.spotify.com/track/5yRMMsLilaykpH98be0SlG"
     },
     {
       "album": {
@@ -5120,7 +5272,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 224986,
       "name": "Monster & Drachen",
       "url": "https://open.spotify.com/track/5dWlVr7ZsSosxpoZO2KiHT"
@@ -5138,10 +5290,28 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 164053,
       "name": "Monster & Zombies (mit Junge)",
       "url": "https://open.spotify.com/track/3GavNDotWsTxNMJ2Sd8nV5"
+    },
+    {
+      "album": {
+        "name": "Schaurig-sch\u00f6nes Halloween",
+        "url": "https://open.spotify.com/album/1gGxM8Hy5yywiKO0j3swm5"
+      },
+      "artists": [
+        {
+          "name": "Detlev J\u00f6cker",
+          "url": "https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161760,
+      "name": "Monster Boogie Woogie",
+      "url": "https://open.spotify.com/track/3TVghEo6lj1bcWnfniBlTi"
     },
     {
       "album": {
@@ -5160,7 +5330,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 192040,
       "name": "Monster Mash",
       "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
@@ -5185,6 +5355,24 @@
     },
     {
       "album": {
+        "name": "ertappt",
+        "url": "https://open.spotify.com/album/1PGo84U9SPdOiHJVTlgciU"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150093,
+      "name": "Monsterparty",
+      "url": "https://open.spotify.com/track/0EBbhEhkxnz4Wvy7A5RP2c"
+    },
+    {
+      "album": {
         "name": "Kinderlieder f\u00fcr die Party - EP",
         "url": "https://open.spotify.com/album/1Axi7PGr2v3JLEHHkoLAK7"
       },
@@ -5196,10 +5384,28 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 130699,
       "name": "Monsterparty",
       "url": "https://open.spotify.com/track/43fpx6UumXkrClViE5kfrV"
+    },
+    {
+      "album": {
+        "name": "BOBmusik - Das gelbe Album",
+        "url": "https://open.spotify.com/album/7fZoTCsfgq9vRNiUgWzSks"
+      },
+      "artists": [
+        {
+          "name": "SpongeBob Schwammkopf",
+          "url": "https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186266,
+      "name": "Monsterqualle",
+      "url": "https://open.spotify.com/track/7M4QKGugK6ggvAF6xlB5yZ"
     },
     {
       "album": {
@@ -5236,7 +5442,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 126875,
       "name": "Monstertanz",
       "url": "https://open.spotify.com/track/5TJcVfYBT3hsdc7N1ssiQs"
@@ -5402,7 +5608,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 197040,
       "name": "Oogie Boogie's Song",
       "url": "https://open.spotify.com/track/1TctVlWvNpmKGHMuPqJ5G2"
@@ -5474,7 +5680,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 252869,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/6dmdfDexEUn0aSPgZQLbrv"
@@ -5518,7 +5724,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 145106,
       "name": "Party im Zoo",
       "url": "https://open.spotify.com/track/6Ze5ZsSYnUIoNWVStEgJsv"
@@ -5626,7 +5832,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 194466,
       "name": "Pitsch-Patsch, Pf\u00fctzenmatsch",
       "url": "https://open.spotify.com/track/4D4sUEL0SGireh2vsZ2fxh"
@@ -5710,7 +5916,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 187946,
       "name": "Probiers mal mit Gem\u00fctlichkeit",
       "url": "https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld"
@@ -5746,7 +5952,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 151093,
       "name": "Purple People Eater",
       "url": "https://open.spotify.com/track/4mXSbKYf6voPyMaFc79CwL"
@@ -5768,7 +5974,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 130399,
       "name": "Regentropfen h\u00fcpfen",
       "url": "https://open.spotify.com/track/7MF1PctTNipjb4vjnItEMZ"
@@ -6271,6 +6477,24 @@
     },
     {
       "album": {
+        "name": "12\" 80s Classics",
+        "url": "https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293586,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/2gGdO0zLa9W8ce1Ig0BzFK"
+    },
+    {
+      "album": {
         "name": "Somebody's Watching Me",
         "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
       },
@@ -6442,7 +6666,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 127626,
       "name": "Spooky, Scary Skeletons",
       "url": "https://open.spotify.com/track/23V08GxMeaZNSf8Gy6KF6t"
@@ -6496,7 +6720,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 129578,
       "name": "Stopptanz - Halloween Edition",
       "url": "https://open.spotify.com/track/3UmR01DSR8hhhM6QiwhJ9y"
@@ -6558,7 +6782,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 135413,
       "name": "S\u00fcsses oder Saures - Radio-Version",
       "url": "https://open.spotify.com/track/732xb6Vy1NRw1KFucJwGMP"
@@ -6676,7 +6900,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 84560,
       "name": "The Addams Family",
       "url": "https://open.spotify.com/track/6TZTu1F0gnp8mtzvYZao41"
@@ -6694,7 +6918,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 47919,
       "name": "The Munsters Theme",
       "url": "https://open.spotify.com/track/0lr9zsYUsaqddEyAw7I9PT"
@@ -6716,6 +6940,24 @@
       "duration_ms": 171240,
       "name": "Theo (Der Bananenbrot-Song)",
       "url": "https://open.spotify.com/track/2yDGEtcVnCascI7zlkjGoh"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Before Christmas",
+        "url": "https://open.spotify.com/album/4YF2FhoRfaTLv2sMVLUrJm"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/4LazDzEGshEUn9D2zbm6w2"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196186,
+      "name": "This Is Halloween",
+      "url": "https://open.spotify.com/track/63y2aL2dT6zzw8FOSLaNrp"
     },
     {
       "album": {
@@ -6748,7 +6990,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/4wlwlAi9yyJkRpZA0NTXaS"
@@ -6766,7 +7008,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 312413,
       "name": "Thriller - Single Version",
       "url": "https://open.spotify.com/track/20efeySIfZoiSaISGLBbNs"
@@ -6792,7 +7034,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 199366,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
@@ -6832,7 +7074,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 187560,
       "name": "Unter dem Meer",
       "url": "https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF"
@@ -7062,7 +7304,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 215400,
       "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
       "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
@@ -7098,7 +7340,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 181440,
       "name": "Was zieh' ich an?",
       "url": "https://open.spotify.com/track/7wjAQJBv8H2xM4FR1hxiJm"
@@ -7236,7 +7478,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 133578,
       "name": "Wenn der Herbst f\u00fcr dich singt",
       "url": "https://open.spotify.com/track/5EvDPBe18z0G5xqcIIdGYW"
@@ -7334,7 +7576,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 211920,
       "name": "Wenn Monster tanzen",
       "url": "https://open.spotify.com/track/3VSmTFC8aXgHXaAHm8MBSE"
@@ -7560,7 +7802,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 185126,
       "name": "Wir machen buh (Das Monsterlied)",
       "url": "https://open.spotify.com/track/34WYUP4R48NXtoxWHilAwp"
@@ -7676,7 +7918,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 206693,
       "name": "Wunderbar, der Herbst ist da",
       "url": "https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor"

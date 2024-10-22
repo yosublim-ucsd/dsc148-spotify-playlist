@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: <a href="spotify:artist:6JaSyvyg28SHC0Of8YE6M9<br/>">Christine D'Clario</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,958 likes - 75 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,156 likes - 75 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 19 | [Me Guías](https://open.spotify.com/track/7vgJxBeHZCyhi7Q10SvKiP) | [Música Más Vida](https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c) | [Por Su Espíritu \- Sesiones Orgánicas](https://open.spotify.com/album/3eZZua5gb3LGME4w3ozjsE) | 4:20 |
 | 20 | [La Bendición](https://open.spotify.com/track/7GXEqXgjSZfk0GbswEnexm) | [Abels Worship](https://open.spotify.com/artist/44OMK4Ah4Oqm3cNR1JVEjI), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [La Bendición](https://open.spotify.com/album/2RyJ2oTOxST7i6rEqVUG7V) | 5:57 |
 | 21 | [No Hay Lugar Más Alto \(En Vivo\) \[feat\. Christine D'clario\]](https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 8:08 |
-| 22 | [Reverencia \- En Vivo](https://open.spotify.com/track/3nYbR4yt07haMUeEMFq5hE) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reverencia \- En Vivo](https://open.spotify.com/album/7neNi57EJukhjPqVrP81zt) | 6:34 |
+| 22 | [Reverencia \- En Vivo](https://open.spotify.com/track/3nYbR4yt07haMUeEMFq5hE) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Reverencia \(En Vivo\)](https://open.spotify.com/album/7neNi57EJukhjPqVrP81zt) | 6:34 |
 | 23 | [Supe Que Me Amabas](https://open.spotify.com/track/36e4Sr0dXiyzjVeBWv8cON) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Mas Que Un Anhelo](https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ) | 4:51 |
 | 24 | [Levanto Mis Manos](https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Jesús Siempre Llega a Tiempo](https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40) | 5:19 |
 | 25 | [Es Su Amor](https://open.spotify.com/track/61B2w9KqtI9xgmax05YvVs) | [Despinal](https://open.spotify.com/artist/1BUKOKrluYkT5yH2SvdbOe), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Es Su Amor](https://open.spotify.com/album/2ZW3vCvECa53KJ3UivKFyw) | 3:35 |

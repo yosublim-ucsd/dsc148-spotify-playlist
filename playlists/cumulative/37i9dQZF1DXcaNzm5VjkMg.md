@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-135 songs - 9 hr 11 min
+136 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2023-12-04 |  |
 | [Aku Cinta Padamu](https://open.spotify.com/track/2d65X8EZVwbPtPEijn7K1j) | [Agatha Suci](https://open.spotify.com/artist/7lyZRTtQBfJMHzOBlkEb4y), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Aku Cinta Padamu](https://open.spotify.com/album/3bI3UZUV4u3lDtFdH5lfwu) | 3:33 | 2023-09-20 | 2024-09-28 |
 | [Aku Sedang Mencintaimu](https://open.spotify.com/track/7k5OoqMYnHmQZuSbVn02JU) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Oxygen](https://open.spotify.com/album/79OlXi99SqRKLTrZXedCfq) | 4:09 | 2023-02-03 | 2024-09-28 |
+| [Aku Takdirmu](https://open.spotify.com/track/7yDYXmJ8NAoYeVolXv9E5K) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Aku Takdirmu](https://open.spotify.com/album/6syB0IkH8vdpQBUQAnY25C) | 4:05 | 2024-10-21 |  |
 | [Anugerah Terindah Yang Pernah Kumiliki](https://open.spotify.com/track/41OCQS2Mul3MluLUUsfadr) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Sheila On 7](https://open.spotify.com/album/1hrJXgaVEGovpLl9dFdqz7) | 4:28 | 2023-02-03 |  |
 | [Are You My Valentine?](https://open.spotify.com/track/6Z3vBLF6uUfjUCNmgPcuwr) | [SIVIA](https://open.spotify.com/artist/21PaJ7FN5NCb7BNVA3KTuy) | [Are You My Valentine?](https://open.spotify.com/album/6hnIKTqfvJ2mkmemiaiDnF) | 4:04 | 2023-02-03 | 2023-05-04 |
 | [Asmaralaya](https://open.spotify.com/track/7iO0gVOfZOpMbiD4PTFXme) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Asmaralaya](https://open.spotify.com/album/4n87aSRGrudnA69E4jXWn9) | 4:21 | 2024-09-27 |  |
@@ -119,7 +120,7 @@
 | [Sampai Kita Menua Bersama](https://open.spotify.com/track/0fFyhrV4pyOT4U9MfLwUoo) | [Kesya](https://open.spotify.com/artist/2a14N7fdgzTgPjXBIEctny) | [Sampai Kita Menua Bersama](https://open.spotify.com/album/7fXuF9sBouQmIFwy5rd33P) | 4:38 | 2023-06-22 |  |
 | [Sampai Kita Tua](https://open.spotify.com/track/2jeKof7HImnaGEmDrWP8NK) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sampai Kita Tua](https://open.spotify.com/album/36d1v1naMDdU1RceuWKfyI) | 4:35 | 2023-06-20 |  |
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2023-02-03 |  |
-| [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 | 2024-09-27 |  |
+| [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \(From "Laura Movie"\)](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 | 2024-09-27 |  |
 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 | 2024-10-14 |  |
 | [Selamanya Untukku](https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt), [Ria Laoere](https://open.spotify.com/artist/1PansziiDz3E95Tmc7DQL0) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:55 | 2024-10-14 |  |
 | [Semesta Menari](https://open.spotify.com/track/1qAqQYo0FVzDfRwbNoO7tt) | [Ify Alyssa](https://open.spotify.com/artist/2Up8d4glQCL5t90Fq9aGp4) | [Semesta Menari](https://open.spotify.com/album/7JzheS1s0aPP88hlEY4gLh) | 3:47 | 2023-02-03 | 2024-09-28 |

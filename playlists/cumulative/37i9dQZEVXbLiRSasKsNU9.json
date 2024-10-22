@@ -6146,6 +6146,28 @@
     {
       "album": {
         "name": "Barbie",
+        "url": "https://open.spotify.com/album/6J7DE3jgz2lR4EUQePMXWD"
+      },
+      "artists": [
+        {
+          "name": "GSWAG",
+          "url": "https://open.spotify.com/artist/4hdJDEJHTuOqFUHsS1HzOj"
+        },
+        {
+          "name": "Menor Regresso",
+          "url": "https://open.spotify.com/artist/11RqTVvDmmZ8KSMEaHMZJp"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181392,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/07ggleO05R5MX6E1RsKVyG"
+    },
+    {
+      "album": {
+        "name": "Barbie",
         "url": "https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg"
       },
       "artists": [
@@ -22378,7 +22400,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -24600,7 +24622,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 188106,
       "name": "I'm Gonna Love You",
       "url": "https://open.spotify.com/track/6dayCflQl0ISXwZs6GBygC"
@@ -35809,6 +35831,24 @@
     },
     {
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262640,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/3MxJGBnYaP4yQYUv90HLqZ"
+    },
+    {
+      "album": {
         "name": "Essentiels",
         "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
       },
@@ -36936,7 +36976,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 192933,
       "name": "MUTT",
       "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
@@ -42260,7 +42300,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 212853,
       "name": "Per due come noi",
       "url": "https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ"
@@ -46805,6 +46845,28 @@
     },
     {
       "album": {
+        "name": "Sabe que os mlk \u00e9 drake, n\u00e3o \u00e9 bigode n\u00e3o",
+        "url": "https://open.spotify.com/album/09kx8uf8c4IEfvjfHMKQ3K"
+      },
+      "artists": [
+        {
+          "name": "GSWAG",
+          "url": "https://open.spotify.com/artist/4hdJDEJHTuOqFUHsS1HzOj"
+        },
+        {
+          "name": "2T.",
+          "url": "https://open.spotify.com/artist/1Q8WSMv0yYl2ae0AO4k6qc"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180107,
+      "name": "Sabe que os mlk \u00e9 drake, n\u00e3o \u00e9 bigode n\u00e3o",
+      "url": "https://open.spotify.com/track/5nFcEvxuJaeGt6rb1hKhCW"
+    },
+    {
+      "album": {
         "name": "Sadqay",
         "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
       },
@@ -50272,7 +50334,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
@@ -51346,6 +51408,24 @@
       "duration_ms": 176360,
       "name": "Stop The Cavalry",
       "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
+    },
+    {
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "album": {
@@ -60098,13 +60178,13 @@
       },
       "artists": [
         {
-          "name": "Bountyhunter",
-          "url": "https://open.spotify.com/artist/2LwFrAVwvSN81XO5KogNBl"
+          "name": "Dj Bountyhunter",
+          "url": "https://open.spotify.com/artist/5yqxD8W7WnMJQZeoBU0Q66"
         }
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 258013,
       "name": "Woops",
       "url": "https://open.spotify.com/track/2XeqqfeJgtG3mQI5xNeNTy"

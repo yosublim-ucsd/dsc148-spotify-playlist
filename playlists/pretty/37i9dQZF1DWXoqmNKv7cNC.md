@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas a todo volumen!  Ivonne Galaz es nuestra embajadora de Octubre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,184 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,179 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 4 | [El Chachito Anda Alegre \- En Vivo](https://open.spotify.com/track/7pUXhaiPjzd1vlFwLNWrrZ) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [CONCIERTO HUMILDE \- IVONNE GALAZ \(En Vivo\)](https://open.spotify.com/album/5EIotKw7bqao4gFTiGaX8m) | 5:07 |
 | 5 | [Eres Tu](https://open.spotify.com/track/386JFGMWzjDqfb5ub3bQ8s) | [Janine](https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z) | [Eres Tu](https://open.spotify.com/album/4nKr1Xu8Wk5CMdsPo7aBwk) | 2:28 |
 | 6 | [Se Que No Me Quieres](https://open.spotify.com/track/4AV4Egpv1BCT32AJZCNa0O) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [Se Que No Me Quieres](https://open.spotify.com/album/52gJdSlZSttQmdylhNfd9X) | 3:23 |
-| 7 | [Voy A Quedarte Mal \- En Vivo](https://open.spotify.com/track/6gQxbVQf7DhdptHDTw2Rdh) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [No te quiebres Vidrio \- En Vivo](https://open.spotify.com/album/4ZoD1Ua3Yap2jtJ5W4bzBT) | 3:43 |
+| 7 | [Voy A Quedarte Mal \- En Vivo](https://open.spotify.com/track/6gQxbVQf7DhdptHDTw2Rdh) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [No te quiebres Vidrio \(En Vivo\)](https://open.spotify.com/album/4ZoD1Ua3Yap2jtJ5W4bzBT) | 3:43 |
 | 8 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
 | 9 | [Estoy De Buenas](https://open.spotify.com/track/3ahvUUFTrNI5zNMmLfgHJQ) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Estoy De Buenas](https://open.spotify.com/album/2vX4qKAp8Ha34dG46dbC9v) | 2:15 |
 | 10 | [Rosa Pastel](https://open.spotify.com/track/7JBVvPuKETheoyCOqQ2y2P) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK) | [Rosa Pastel](https://open.spotify.com/album/1Rv252BlB3FncjXuOv3SEK) | 3:05 |

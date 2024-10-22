@@ -4,7 +4,7 @@
 
 > Listen to women at full volume from across the world\. Cover: ILLIT
 
-2,100 songs - 4 day 20 hr 7 min
+2,101 songs - 4 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Cheeky](https://open.spotify.com/track/7xePsiaOdxT9lkTck9Uv8t) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Cheeky](https://open.spotify.com/album/6lLyrH0Und9dYATr4F9Pjh) | 2:22 | 2024-02-07 | 2024-03-07 |
 | [Chemistry](https://open.spotify.com/track/7yw4MSh68mhXs1bIlWkE2G) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Chemistry](https://open.spotify.com/album/6LcvpXRe8CBUuQW1oBPJsX) | 3:36 | 2022-06-01 | 2022-07-07 |
 | [Chentaku \(feat\. SonaOne\)](https://open.spotify.com/track/0xWcxp3BFrKSsAgpGtaseK) | [Zizan Razak](https://open.spotify.com/artist/7GkUskIBOKpJRyzpE7WQBD), [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z) | [Chentaku \(feat\. SonaOne\)](https://open.spotify.com/album/0isfC79ZoHRIO8zMCvLOiz) | 3:55 | 2024-10-02 | 2024-10-09 |
+| [Cherish \(My Love\)](https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [I'LL LIKE YOU](https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1) | 2:56 | 2024-10-21 |  |
 | [Child Of Sin](https://open.spotify.com/track/3ASAvmNlhz4VYt5iUApaHc) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF), [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Child Of Sin](https://open.spotify.com/album/1GUJ68BpXPPp98eAMzLT6N) | 3:50 | 2023-02-01 | 2023-03-02 |
 | [Chill Kill](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:34 | 2024-01-10 | 2024-02-08 |
 | [Chimica](https://open.spotify.com/track/5u4WqrYhQA5BUvqN5syYil) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l), [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Chimica](https://open.spotify.com/album/2DBfhRyn8ujtwUp3pTYvgc) | 3:01 | 2022-03-08 | 2022-04-07 |
@@ -539,7 +540,7 @@
 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 | 2022-07-06 | 2022-08-04 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-10-04 | 2022-11-03 |
 | [Everything Is Good](https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Halluzinationen](https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i) | 3:00 | 2023-03-01 | 2023-04-06 |
-| [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-09-04 |  |
+| [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-09-04 | 2024-10-22 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-08 | 2022-04-07 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2022-11-30 | 2023-01-05 |
 | [Ex \(feat\. SKAAR\)](https://open.spotify.com/track/7wZ17yt2CbvDHj7dqfM2DR) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Ex \(feat\. SKAAR\)](https://open.spotify.com/album/46Z5rL7kMabzOWiOmyNtfw) | 3:06 | 2023-03-01 | 2023-04-06 |

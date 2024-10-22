@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-76 songs - 5 hr 2 min
+77 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Da Stanotte in Poi \(From This Moment On\)](https://open.spotify.com/track/0Vx5TgS1ezxuCOI968BtdD) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Da Stanotte in Poi \(From This Moment On\)](https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4) | 3:57 | 2024-08-22 |  |
 | [En Aranjuez Con Tu Amor](https://open.spotify.com/track/1YO3Bwr2S9kTfdkCu56qUx) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI) | 3:50 | 2021-09-24 |  |
 | [Fionnuala's Violin](https://open.spotify.com/track/2Wa1sa1bTOPa6oClKtR133) | [Secret Garden](https://open.spotify.com/artist/6GUg2fRLklsnSJsG3PrTt0) | [Fionnuala's Violin](https://open.spotify.com/album/2bh3PcnwOmQtCsNCF5ffNo) | 3:57 | 2024-08-23 |  |
+| [First Sight](https://open.spotify.com/track/4NtRkpweTUxkKHvl0odbgD) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [First Sight](https://open.spotify.com/album/52gS5j43amMiH4c3mzWoie) | 2:42 | 2024-10-21 |  |
 | [Forever You and Me](https://open.spotify.com/track/6PilVqdlecQR7zXEA6YWpb) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [雷佳](https://open.spotify.com/artist/4DnnLhz0Zq7YqNa8jU71wo), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Forever You and Me](https://open.spotify.com/album/2si30di9Qn7r1KuNhZ6jXj) | 3:59 | 2022-02-11 | 2022-02-22 |
 | [Grande amore](https://open.spotify.com/track/2I9KO0T9SUEkpi2OlZkQJo) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [10 Years \- The Best Of](https://open.spotify.com/album/2Mqky90OTsnQaKXNwxvbA2) | 3:44 | 2021-09-24 |  |
 | [Grande amore](https://open.spotify.com/track/4IzDqftkFXUR8G2vaTd3Rb) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Grande amore \(International Version\)](https://open.spotify.com/album/0Jy2GfTkOoIubV6oilvi2s) | 3:44 | 2022-06-17 | 2024-04-19 |

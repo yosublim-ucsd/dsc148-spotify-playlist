@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Chemical Surf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,244,938 likes - 85 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,244,913 likes - 85 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 24 | [SMACK MY BITCH UP](https://open.spotify.com/track/1PGjrdORlsE1vZ7aZh3gF2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Amesens](https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN) | [SMACK MY BITCH UP](https://open.spotify.com/album/7qxB5oguYnStizAjwTB0Q8) | 3:44 |
 | 25 | [You'll Be Mine](https://open.spotify.com/track/3A5f21zhjkjGj7wnXnJK3i) | [Fullmode](https://open.spotify.com/artist/3EckbiziIUECy2zu32NoMp), [Vondeck](https://open.spotify.com/artist/5EFGKg5aiEaMYwFycRtRuh), [LEMON DROPS](https://open.spotify.com/artist/50ANvd7tfvmNJf2JhcjguF) | [You'll Be Mine](https://open.spotify.com/album/2WWeuXHJoZGwvrP7iuasDS) | 2:56 |
 | 26 | [The Heat](https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [The Heat](https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4) | 2:30 |
-| 27 | [Give All \- KVSH Remix](https://open.spotify.com/track/79bOpjwqU9Yk3u3G5Pchbv) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [QuickBuck](https://open.spotify.com/artist/6h4WunR692wig5eJkBt8qQ), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Give All \- KVSH Remix](https://open.spotify.com/album/5yjQUCZsCM2T8OdJqemnDR) | 2:43 |
+| 27 | [Give All \- KVSH Remix](https://open.spotify.com/track/79bOpjwqU9Yk3u3G5Pchbv) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [QuickBuck](https://open.spotify.com/artist/6h4WunR692wig5eJkBt8qQ), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Give All \(KVSH Remix\)](https://open.spotify.com/album/5yjQUCZsCM2T8OdJqemnDR) | 2:43 |
 | 28 | [Disco Shit](https://open.spotify.com/track/6Od1L6369vboOOofSij7mj) | [Vittor](https://open.spotify.com/artist/3epyeoRc1gn7KoFUSi77Ud), [ONNE](https://open.spotify.com/artist/4CYh95bpSaKKF9AvEI6G6X) | [Disco Shit](https://open.spotify.com/album/4pTDPdlW4mkmPNneqFrzlo) | 2:52 |
 | 29 | [Mad Max](https://open.spotify.com/track/3WOK3bugvtrDkh04XKUPEq) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Echoes of a Decade](https://open.spotify.com/album/5hbjXY9vfqoNptQKw64FzE) | 2:37 |
 | 30 | [Connect](https://open.spotify.com/track/6H1fjrF5zmxUUdLerA7HkF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Connect](https://open.spotify.com/album/4nLK2scPvvoKozMofiVPxr) | 2:51 |
-| 31 | [Deep End \- VIP Mix](https://open.spotify.com/track/1ptHpULRhvFV3te7c58eJX) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Deep End \- VIP Mix](https://open.spotify.com/album/3awVZY09UDAWzX4UgmYchs) | 4:02 |
+| 31 | [Deep End \- VIP Mix](https://open.spotify.com/track/1ptHpULRhvFV3te7c58eJX) | [Kyllow](https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM) | [Deep End \(VIP Mix\)](https://open.spotify.com/album/3awVZY09UDAWzX4UgmYchs) | 4:02 |
 | 32 | [Soul Sake](https://open.spotify.com/track/0a6zRpiTZZThCVbFPIRasC) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Soul Sake](https://open.spotify.com/album/7K1Hz8ofzoU299BTviikOs) | 2:37 |
 | 33 | [Good Liar](https://open.spotify.com/track/2a5FHxBPiUTZODhiefpZEK) | [Volyri](https://open.spotify.com/artist/7j1fkOH24S29ajq83j0V3o), [KRNKT](https://open.spotify.com/artist/2IXt8OJp8lL5aiNjFP391E) | [Good Liar](https://open.spotify.com/album/362K2N7LISuI7DosCTJpmF) | 2:45 |
 | 34 | [Kikada](https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Kikada](https://open.spotify.com/album/05bGRP0xhmJMa0FIjgIPXK) | 3:03 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 49 | [I Stayed Back](https://open.spotify.com/track/2UPtQQFqNm3LMJ4jcIennV) | [Rick Bonadio](https://open.spotify.com/artist/2CZ8dMcFFZ1UYj52mUSaE6) | [I Stayed Back](https://open.spotify.com/album/3jUmwmOmQPlySOGBOr2ykZ) | 2:59 |
 | 50 | [Beautiful](https://open.spotify.com/track/1JRtd5QFk0oqicrpCzGFhM) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Beautiful](https://open.spotify.com/album/1vNjcJhmloMyB6ONQEzDuC) | 2:57 |
 | 51 | [You Say](https://open.spotify.com/track/0xQCD0NlztHLkMl4PHkaJL) | [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ) | [You Say](https://open.spotify.com/album/0ztZhtP4gdenC5ZtWWUp7g) | 3:30 |
-| 52 | [Deep Cut \- Club Mix](https://open.spotify.com/track/1AvcqUMN79pn1SCuHpz998) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [EMAD](https://open.spotify.com/artist/6Zs48LypDzoPWJdJhfAenh) | [Deep Cut \- Club Mix](https://open.spotify.com/album/4Q8zVVQmr4XSj3iKx3ilDZ) | 3:27 |
+| 52 | [Deep Cut \- Club Mix](https://open.spotify.com/track/1AvcqUMN79pn1SCuHpz998) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [EMAD](https://open.spotify.com/artist/6Zs48LypDzoPWJdJhfAenh) | [Deep Cut \(Club Mix\)](https://open.spotify.com/album/4Q8zVVQmr4XSj3iKx3ilDZ) | 3:27 |
 | 53 | [GEMINI](https://open.spotify.com/track/1xuOHamdG6ehgc1WxeSfvc) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [ZARA](https://open.spotify.com/artist/5jwZdQArPjjRLzneEx3DAn) | [GEMINI](https://open.spotify.com/album/2kZBFbopZXVTHKzyEy1Lme) | 2:37 |
 | 54 | [Muchacho](https://open.spotify.com/track/4sI4Y16iKmrpGv4qnrHT2u) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4) | [Muchacho](https://open.spotify.com/album/5xrtQOJMl9FZFWFPSJGgzj) | 2:38 |
 | 55 | [Lately](https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Lately](https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O) | 4:09 |

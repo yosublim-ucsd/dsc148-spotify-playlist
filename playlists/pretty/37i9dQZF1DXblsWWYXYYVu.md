@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,272 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,278 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 21 | [Never Really Gone](https://open.spotify.com/track/5wabVKcJepqDkkthpTGW76) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Wilderness](https://open.spotify.com/album/3XyV6DyEqRb8V9tW4YeJLG) | 3:41 |
 | 22 | [Rebound](https://open.spotify.com/track/3maqVYkwbQv9bYcOzLN4u7) | [Mariya Stokes](https://open.spotify.com/artist/38JkwdrqzjT3YrIH7wkCDS) | [Rebound](https://open.spotify.com/album/4tJxnECufcU2cVVsTNsSPG) | 3:37 |
 | 23 | [Rise and Shine](https://open.spotify.com/track/0SjIo6BGy7Aq2vuKnEkB4D) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Rise and Shine](https://open.spotify.com/album/2xaRueD4DNWoJ2JyMKBXde) | 3:40 |
-| 24 | [All Is Found \- Kacey Musgraves Version](https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Frozen 2 \- Original Motion Picture Soundtrack/Deluxe Edition](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:03 |
+| 24 | [All Is Found \- Kacey Musgraves Version](https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:03 |
 | 25 | [If I’d Known](https://open.spotify.com/track/0ufHx8gigeu7UeWiYy7Ji4) | [Andy Brown](https://open.spotify.com/artist/7jDFhYWDrh0qzdG0op40UL) | [If I’d Known](https://open.spotify.com/album/2rteDz4KtPtni80tg2Kn72) | 3:23 |
 | 26 | [I'm Here](https://open.spotify.com/track/7Gj9uY2bWQOSl6ubnM7WZk) | [Kezia Gill](https://open.spotify.com/artist/38gOBONmMcD1Cp45Lhf2Vc) | [I'm Here](https://open.spotify.com/album/3f3VCQQtms7Ns87vTJfvvU) | 2:58 |
 | 27 | [One Man Band](https://open.spotify.com/track/3ksmU0DaEUMEVzx5V6cc3z) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/55uC8u8BqPgA4LGWALnOK3) | 3:06 |

@@ -2,7 +2,7 @@
 
 ### [This Is Eminem](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gTUOY)
 
-> This is Eminem\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Eminem\. The essential tracks, all in one playlist.
 
 78 songs - 5 hr 29 min
 

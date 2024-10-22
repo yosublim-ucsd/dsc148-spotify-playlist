@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 
 > <a href="spotify:artist:205i7E8fNVfojowcQSfK9m">Dom Dolla's </a> favourite tracks\. Updated regularly\. Curated by Dom Dolla\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,438 likes - 90 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,477 likes - 90 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZr7ulOqiMRj.md) - [plain]
 | 68 | [My House \(10 Years of Eats Everything Main Street Mix\)](https://open.spotify.com/track/149yUZqCPUUsOa0ruiZO4b) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i), [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [My House \(Eats Everything Remixes\)](https://open.spotify.com/album/2RXSHVAzTLVw6icNukiK5O) | 3:58 |
 | 69 | [We Could Be Love](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [We Could Be Love](https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z) | 3:09 |
 | 70 | [Needin' U \(I Needed U\) \- Radio Mix](https://open.spotify.com/track/7GCdYWykXhqB91Wnnjvqhu) | [David Morales](https://open.spotify.com/artist/6CwQfN34JdGHfo0A752Lts), [The Face](https://open.spotify.com/artist/0c3f0X32um603awrTfc3mD), [Juliet Roberts](https://open.spotify.com/artist/0oZwvxvXOK7NVV6iqExiU5) | [Needin' U II](https://open.spotify.com/album/4gAomxtsmyU0lgXYOyM9HZ) | 3:22 |
-| 71 | [Rhyme Dust \- Nic Fanciulli Remix](https://open.spotify.com/track/5tXxLDvOut9w3ToN6RTois) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Rhyme Dust \- Nic Fanciulli Remix](https://open.spotify.com/album/268tdoBZ4WsGBCVNImkeFr) | 3:01 |
+| 71 | [Rhyme Dust \- Nic Fanciulli Remix](https://open.spotify.com/track/5tXxLDvOut9w3ToN6RTois) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Rhyme Dust \(Nic Fanciulli Remix\)](https://open.spotify.com/album/268tdoBZ4WsGBCVNImkeFr) | 3:01 |
 | 72 | [Danzer](https://open.spotify.com/track/3qxwMr3Xhc56VAHLFyk7vc) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf) | [Danzer](https://open.spotify.com/album/6gG5oOL3hHJzpP8vHIrdG1) | 6:05 |
 | 73 | [Pictures](https://open.spotify.com/track/7bd3YmFqevYO3Hi03sPbuN) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Linkage](https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R) | [Pictures](https://open.spotify.com/album/4HgB0bkbUEBeByio432MQE) | 5:07 |
 | 74 | [Ancova](https://open.spotify.com/track/6spSYkfvz0jHTvNn5b9HNl) | [Mumbai Science](https://open.spotify.com/artist/7jmeOWayhjsGSvY5YNpV65) | [Live At Lowlands](https://open.spotify.com/album/3FOllYiUU9ZM284tHCMEEY) | 5:03 |

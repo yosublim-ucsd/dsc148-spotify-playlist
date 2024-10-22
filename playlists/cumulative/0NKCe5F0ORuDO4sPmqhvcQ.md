@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-644 songs - 1 day 12 hr 13 min
+646 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Little League](https://open.spotify.com/track/3yJ6oOCpjC1KbGO4uqebRu) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Little League](https://open.spotify.com/album/26WqHeLHlv0Dde7RPYVw9G) | 2:49 | 2022-02-28 | 2022-03-31 |
 | [Long Way Down](https://open.spotify.com/track/2ZPgXDbzIozq6pprS2FWrw) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Return To Form](https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX) | 3:36 | 2022-08-15 | 2023-01-20 |
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-01 | 2023-01-30 |
+| [LOOK@ME](https://open.spotify.com/track/6a2qrecn3aKW8cy3sg8jMc) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [DESIRE / LOOK@ME](https://open.spotify.com/album/52r1SK4TQpxM9xbeGfeghU) | 3:13 | 2024-10-21 |  |
 | [Lose Your Love \(with Matt Maeson\)](https://open.spotify.com/track/1PknqupRJmUOeOj0ghpwLZ) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Alive](https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v) | 3:31 | 2022-11-07 | 2023-07-20 |
 | [Love Lost \- AOBeats Remix](https://open.spotify.com/track/1IFJGpC89M9bc2KUaFMNBt) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Love Lost \(AOBeats Remix\)](https://open.spotify.com/album/4AfOj41E8CImDcEv3iwaDL) | 2:41 | 2021-10-11 | 2022-02-05 |
 | [love ya](https://open.spotify.com/track/1hTENYTuKFe5x0MRNqF2ET) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [love ya](https://open.spotify.com/album/26jcbTMMY51TUr1UVWyUVv) | 3:07 | 2022-08-12 | 2023-01-20 |
@@ -540,6 +541,7 @@
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2023-09-01 | 2023-10-06 |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2022-02-16 |
 | [Supersonic](https://open.spotify.com/track/1L6uwcEQ8YCP0ri17FoaBu) | [cln](https://open.spotify.com/artist/57JUsZcuNTR0ocGCfrnse1), [Stephen Geisler](https://open.spotify.com/artist/6jdC0EtYmY3QXcf5bejYGC) | [Over, All Again](https://open.spotify.com/album/40nko6Eyb5xslxASKBapny) | 3:26 | 2022-12-12 | 2023-01-30 |
+| [SURFACING](https://open.spotify.com/track/5xFgju1KjoNX3UACChHNJM) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [CHALLENGER \(DELUXE\)](https://open.spotify.com/album/7G26mMpRGNpk0j8lpxXejl) | 3:46 | 2024-10-21 |  |
 | [Survive](https://open.spotify.com/track/5QZdeEHEHy1Jphbral0nbv) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Channy Leaneagh](https://open.spotify.com/artist/7KplcRAeeymaXY0iqrrbjo) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:02 | 2022-01-21 | 2022-02-05 |
 | [Sweat](https://open.spotify.com/track/4ZvDs2Mv05yciUumPL2mf9) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Sweat](https://open.spotify.com/album/65MmHL2BLe9SMiObhjvYen) | 2:06 | 2023-11-10 |  |
 | [tacit](https://open.spotify.com/track/2y9kGMUvKsikIQIvfjpNv1) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f), [Una Mey](https://open.spotify.com/artist/1XYC7U3Oqy30UdbliCXWNo) | [tacit](https://open.spotify.com/album/4FbPfRAnOxJJmHm1FhPkPn) | 3:08 | 2023-03-30 | 2023-04-01 |

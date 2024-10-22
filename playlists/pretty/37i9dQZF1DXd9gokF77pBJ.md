@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,507 likes - 56 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,510 likes - 56 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 25 | [Confide in Me](https://open.spotify.com/track/2sjKqVLhLbhKqAa1al0xbR) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Hits+](https://open.spotify.com/album/164v2BYdF2UaE1O0s1oQjN) | 5:56 |
 | 26 | [Holiday](https://open.spotify.com/track/6MD876BFO4xZnYV7sRLGXW) | [Calcutá](https://open.spotify.com/artist/2Nf7QPKAKk0KRGq4qOVjKh) | [Over Night](https://open.spotify.com/album/63utg84mjD5ff32VsfgoeT) | 4:04 |
 | 27 | [Intro](https://open.spotify.com/track/6qangue80efFgxBXNBJCxK) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [DJ\-Kicks: HAAi](https://open.spotify.com/album/5f7wLlgF33y9CUibAk3a5z) | 2:39 |
-| 28 | [Go On \- Lew E Remix](https://open.spotify.com/track/5LswLGhagyyyrmDq2Km6nl) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O), [Lew E](https://open.spotify.com/artist/6Uj8Oy04i9TYNLv7BtMlBg) | [a.s.o\. \- remixed](https://open.spotify.com/album/7AN63KEf25eoBpxAdGaoYC) | 7:30 |
+| 28 | [Go On \- Lew E Remix](https://open.spotify.com/track/5LswLGhagyyyrmDq2Km6nl) | [a.s.o.](https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj), [Alias Error](https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O), [Lew E](https://open.spotify.com/artist/6Uj8Oy04i9TYNLv7BtMlBg) | [a.s.o\. \(remixed\)](https://open.spotify.com/album/7AN63KEf25eoBpxAdGaoYC) | 7:30 |
 | 29 | [Lip Plumper](https://open.spotify.com/track/63OrEh9jzPFLuJQwuoBJau) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [Wonder](https://open.spotify.com/album/4hUUxRB4ZbJtZJOGlewfAE) | 5:31 |
 | 30 | [The Way To Do It](https://open.spotify.com/track/18gn195iZFHDeLX7PiBkfp) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [The Way To Do It](https://open.spotify.com/album/6aPgR1TbdugFtOjRXJKwcQ) | 5:20 |
 | 31 | [Gossip Heavy](https://open.spotify.com/track/039RTUcAk6AirND2eBiWxj) | [Scarlett O'Malley](https://open.spotify.com/artist/3M9nSw4sBZae8JV6uEefMq) | [Cool Down Cowboy](https://open.spotify.com/album/46tVUkJXJkgQsgPXGQSsUF) | 6:17 |

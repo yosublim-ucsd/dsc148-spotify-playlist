@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá que tá viral no seu feed sabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,132 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,108 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Piração](https://open.spotify.com/track/2SFcDfkE1MRXZfl4LIwscm) | [Kaká e Pedrinho](https://open.spotify.com/artist/7HykrpnKhu6QMb2jh6SMQQ) | [Piração 2.0](https://open.spotify.com/album/7fQ7FbXBfe2IbrSQJ0QltX) | 2:33 |
 | 2 | [TUDO](https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:34 |
-| 3 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \- Ao Vivo](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 |
+| 3 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 |
 | 4 | [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 |
 | 5 | [Piseiro Hawaiano](https://open.spotify.com/track/4b3zlZQaDrpabJcqIo92uD) | [DJ Marcão 019](https://open.spotify.com/artist/6faIprX4PUHAlDbC4SQt8v), [Dj Dédda](https://open.spotify.com/artist/5Dl7oGwpWOyvliLF3Uo2WX), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Piseiro Hawaiano](https://open.spotify.com/album/3MhtaWXDWaa0zX1HqmBaMS) | 2:40 |
 | 6 | [Ritmada Interestelar](https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA) | [DJ DUARTE](https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY), [DJ Kayo Original](https://open.spotify.com/artist/3XbTjpdGElxdiHzbCGn8G7), [MC Rondom](https://open.spotify.com/artist/2QfGTGoOWDlLmRxUvHllCc), [Prime Funk](https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x) | [Ritmada Interestelar](https://open.spotify.com/album/4yGwZSJLoBPCKQNn5zMjWR) | 3:12 |

@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Mabe Fratti on cover. Artwork by Thami Nabil",
-  "num_followers": 174734,
+  "num_followers": 174777,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Continuum 1",
-        "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 433750,
-      "name": "Continuum 1",
-      "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
-    },
-    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "All These Worlds, Pt. II",
@@ -595,6 +579,22 @@
       "duration_ms": 239967,
       "name": "All These Worlds, Pt. II",
       "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Continuum 1",
+        "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 433750,
+      "name": "Continuum 1",
+      "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -621,22 +621,6 @@
       "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "United Kingdom Of Anxiety",
-        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        }
-      ],
-      "duration_ms": 196982,
-      "name": "Mommy",
-      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
-    },
-    {
       "added_at": "2024-10-02 18:17:59",
       "album": {
         "name": "Things We Have In Common",
@@ -655,6 +639,22 @@
       "duration_ms": 229823,
       "name": "Plant",
       "url": "https://open.spotify.com/track/6w1rQ82vsGF8zX9eock33Y"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "United Kingdom Of Anxiety",
+        "url": "https://open.spotify.com/album/1iuoxBPvyLVjTRBFvc1IID"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        }
+      ],
+      "duration_ms": 196982,
+      "name": "Mommy",
+      "url": "https://open.spotify.com/track/3DrzLPfYYs3QGbZ4kYueZP"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1249,22 +1249,6 @@
       "url": "https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv"
     },
     {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Sincerity",
-        "url": "https://open.spotify.com/album/1oRyrNuN88oKSQY5KaLBnF"
-      },
-      "artists": [
-        {
-          "name": "Permanent Loss",
-          "url": "https://open.spotify.com/artist/14xgZwvZVI4yCuT0LE5qA7"
-        }
-      ],
-      "duration_ms": 153128,
-      "name": "Sincerity",
-      "url": "https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x"
-    },
-    {
       "added_at": "2024-10-02 15:46:42",
       "album": {
         "name": "Pokemans",
@@ -1279,6 +1263,22 @@
       "duration_ms": 185360,
       "name": "Pokemans",
       "url": "https://open.spotify.com/track/3QLQJLs8WjbwnYUer3HEoP"
+    },
+    {
+      "added_at": "2024-09-18 04:00:00",
+      "album": {
+        "name": "Sincerity",
+        "url": "https://open.spotify.com/album/1oRyrNuN88oKSQY5KaLBnF"
+      },
+      "artists": [
+        {
+          "name": "Permanent Loss",
+          "url": "https://open.spotify.com/artist/14xgZwvZVI4yCuT0LE5qA7"
+        }
+      ],
+      "duration_ms": 153128,
+      "name": "Sincerity",
+      "url": "https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1329,20 +1329,20 @@
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
+      "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "Plays Stewart Copeland",
-        "url": "https://open.spotify.com/album/0jNrPsoL9SCu7oBffUJuzm"
+        "name": "Panamanian Nights",
+        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
       },
       "artists": [
         {
-          "name": "Elbtonal Percussion",
-          "url": "https://open.spotify.com/artist/4jU6qaM5xefdW9O12GXX7L"
+          "name": "SONSO",
+          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
         }
       ],
-      "duration_ms": 212906,
-      "name": "The Mud Lions",
-      "url": "https://open.spotify.com/track/69mRQWc56zEKt1YLQZLANw"
+      "duration_ms": 181818,
+      "name": "Afro American",
+      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1359,6 +1359,22 @@
       "duration_ms": 600010,
       "name": "A Diosa (Non potho reposare)",
       "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Plays Stewart Copeland",
+        "url": "https://open.spotify.com/album/0jNrPsoL9SCu7oBffUJuzm"
+      },
+      "artists": [
+        {
+          "name": "Elbtonal Percussion",
+          "url": "https://open.spotify.com/artist/4jU6qaM5xefdW9O12GXX7L"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "The Mud Lions",
+      "url": "https://open.spotify.com/track/69mRQWc56zEKt1YLQZLANw"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1397,22 +1413,6 @@
       "url": "https://open.spotify.com/track/2YY3hKhPkfbH1Pq7IbOqM8"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Amateur",
-        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
-      },
-      "artists": [
-        {
-          "name": "FURIO",
-          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
-        }
-      ],
-      "duration_ms": 115764,
-      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
-      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
-    },
-    {
       "added_at": "2024-09-18 04:00:00",
       "album": {
         "name": "After Image",
@@ -1427,6 +1427,22 @@
       "duration_ms": 366920,
       "name": "OOPARTS",
       "url": "https://open.spotify.com/track/1cDGNpfKqMqXVDsx9cZcyd"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E"
+      },
+      "artists": [
+        {
+          "name": "FURIO",
+          "url": "https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K"
+        }
+      ],
+      "duration_ms": 115764,
+      "name": "Hipercari\u00f1o (o, c\u00f3mo aprend\u00ed a entrenar la ternura)",
+      "url": "https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1595,22 +1611,6 @@
       "duration_ms": 352314,
       "name": "Meta VI",
       "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Panamanian Nights",
-        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
-      },
-      "artists": [
-        {
-          "name": "SONSO",
-          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "Afro American",
-      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
     },
     {
       "added_at": "2024-09-11 04:16:56",

@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 12528,
+  "num_followers": 12536,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-10-18 06:15:31",
       "album": {
+        "name": "Agbadza Gospel Medley II (Live)",
+        "url": "https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I"
+      },
+      "artists": [
+        {
+          "name": "Bethel Revival Choir",
+          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
+        }
+      ],
+      "duration_ms": 513044,
+      "name": "Agbadza Gospel Medley II (Live)",
+      "url": "https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT"
+    },
+    {
+      "added_at": "2024-10-18 06:15:31",
+      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/3HbT4thk3EqWVSF278MPPX"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 163628,
       "name": "DND",
       "url": "https://open.spotify.com/track/00NKcAGMQcLgown5dtYfCs"
-    },
-    {
-      "added_at": "2024-10-18 06:15:31",
-      "album": {
-        "name": "Agbadza Gospel Medley II (Live)",
-        "url": "https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I"
-      },
-      "artists": [
-        {
-          "name": "Bethel Revival Choir",
-          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
-        }
-      ],
-      "duration_ms": 513044,
-      "name": "Agbadza Gospel Medley II (Live)",
-      "url": "https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT"
     },
     {
       "added_at": "2024-10-18 06:15:31",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-10-18 06:15:31",
       "album": {
-        "name": "Borborbor Gospel Medley",
-        "url": "https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189"
-      },
-      "artists": [
-        {
-          "name": "Bethel Revival Choir",
-          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
-        }
-      ],
-      "duration_ms": 517432,
-      "name": "Borborbor Gospel Medley",
-      "url": "https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3"
-    },
-    {
-      "added_at": "2024-10-18 06:15:31",
-      "album": {
         "name": "Mile (I Know)",
         "url": "https://open.spotify.com/album/5LoM0v1RExonDL9YhaNoo2"
       },
@@ -883,6 +867,26 @@
       "duration_ms": 781930,
       "name": "Deeper Medley",
       "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
+    },
+    {
+      "added_at": "2024-10-18 06:15:31",
+      "album": {
+        "name": "Ghana Local Praise Medley",
+        "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
+      },
+      "artists": [
+        {
+          "name": "DOXA WAVE GH",
+          "url": "https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6"
+        },
+        {
+          "name": "Shadrach Mensah Kwesi",
+          "url": "https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e"
+        }
+      ],
+      "duration_ms": 566414,
+      "name": "Ghana Local Praise Medley",
+      "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
     }
   ],
   "unique_name": "Aseda",

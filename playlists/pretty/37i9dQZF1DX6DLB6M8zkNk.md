@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,772 likes - 56 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,013 likes - 56 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Experience](https://open.spotify.com/track/4BTPwdNcGQK2GQxwvKkiZI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse \- Deluxe Edition](https://open.spotify.com/album/62dvhzEC1RtHI7tIpE4EmL) | 5:15 |
+| 1 | [Experience](https://open.spotify.com/track/4BTPwdNcGQK2GQxwvKkiZI) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse \(Deluxe Edition\)](https://open.spotify.com/album/62dvhzEC1RtHI7tIpE4EmL) | 5:15 |
 | 2 | [Für Elise \- Reimagined](https://open.spotify.com/track/6z720DAWxYJL5SacdZLlEN) | [Alexander Joseph](https://open.spotify.com/artist/14UXdoHp8xbGJLLYDp9HqF) | [Für Elise \- Reimagined](https://open.spotify.com/album/5Olt9x9Bp5NOvDx2Pex9CW) | 6:00 |
 | 3 | [Cornfield Chase \- Piano\-Cello Version](https://open.spotify.com/track/0dn7lN2ky5BnUJNoELXh3i) | [Michael Forster](https://open.spotify.com/artist/0TORlmlTHaneG9k4nWPn0V), [Anna Stevens](https://open.spotify.com/artist/1vIQpbquJceZ12FiKFnnzv) | [Piano Chill](https://open.spotify.com/album/01O3K6QN4xR3YR2j00ONtr) | 2:04 |
 | 4 | [ICARUS](https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [AWAKENING](https://open.spotify.com/album/0mdrZ04JRhto7XX1HYmCwU) | 3:19 |

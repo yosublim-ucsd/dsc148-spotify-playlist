@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05d2\u05d9\u05d0",
-  "num_followers": 30529,
+  "num_followers": 30543,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-10-17 21:00:00",
       "album": {
-        "name": "\u05d7\u05dc\u05dc",
-        "url": "https://open.spotify.com/album/2NDTjjozySEcqbidrga8eD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 252231,
-      "name": "\u05d7\u05dc\u05dc",
-      "url": "https://open.spotify.com/track/027SVPM08BanKMpLLPS9WS"
-    },
-    {
-      "added_at": "2024-10-17 21:00:00",
-      "album": {
         "name": "\u05d4\u05e2\u05e5 \u05d9\u05d7\u05d9\u05d4",
         "url": "https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": "2024-10-17 21:00:00",
       "album": {
+        "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "duration_ms": 205276,
+      "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM"
+    },
+    {
+      "added_at": "2024-10-17 21:00:00",
+      "album": {
         "name": "THE VANDALIST",
         "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
       },
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-10-17 21:00:00",
       "album": {
-        "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1"
+        "name": "\u05d7\u05dc\u05dc",
+        "url": "https://open.spotify.com/album/2NDTjjozySEcqbidrga8eD"
       },
       "artists": [
         {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
         }
       ],
-      "duration_ms": 205276,
-      "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM"
+      "duration_ms": 252231,
+      "name": "\u05d7\u05dc\u05dc",
+      "url": "https://open.spotify.com/track/027SVPM08BanKMpLLPS9WS"
     },
     {
       "added_at": "2024-10-17 21:00:00",
@@ -855,7 +855,7 @@
     {
       "added_at": "2024-10-17 21:00:00",
       "album": {
-        "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea - \u05d1\u05d0\u05e8\u05d1\u05d9 Live",
+        "name": "\u05e9\u05d9\u05e8\u05d9\u05dd \u05de\u05d3\u05dc\u05ea \u05d0\u05dc \u05d3\u05dc\u05ea (\u05d1\u05d0\u05e8\u05d1\u05d9 Live)",
         "url": "https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp"
       },
       "artists": [
@@ -1059,34 +1059,18 @@
     {
       "added_at": "2024-10-17 21:00:00",
       "album": {
-        "name": "\u05d4\u05d7\u05e6\u05e8 \u05d4\u05d0\u05d7\u05d5\u05e8\u05d9\u05ea 3",
-        "url": "https://open.spotify.com/album/0l8ynz9r3gU65k9JYOoXHE"
+        "name": "Goodbye Mary",
+        "url": "https://open.spotify.com/album/5KsciL7LLiqealaHqXw82a"
       },
       "artists": [
         {
-          "name": "The Backyard",
-          "url": "https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB"
-        },
-        {
-          "name": "\u05d9\u05e2\u05e0\u05e7\u05dc'\u05d4 \u05e8\u05d5\u05d8\u05d1\u05dc\u05d9\u05d8",
-          "url": "https://open.spotify.com/artist/4sN0HNOVlxGnhPqgSIkcIC"
-        },
-        {
-          "name": "Tomer Yosef",
-          "url": "https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd"
-        },
-        {
-          "name": "Itamar Ziegler",
-          "url": "https://open.spotify.com/artist/124b64p4uSTDhwVSgxSGWV"
-        },
-        {
-          "name": "Gedy Ronen",
-          "url": "https://open.spotify.com/artist/0KSJMQoxfV5nRqoCqb8535"
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
         }
       ],
-      "duration_ms": 240000,
-      "name": "\u05d5\u05d0\u05d5\u05dc\u05d9 \u05d4\u05e1\u05d5\u05e3 \u05db\u05d1\u05e8 \u05d4\u05d9\u05d4",
-      "url": "https://open.spotify.com/track/6lUclGjzAqTH0KJ74HYbxh"
+      "duration_ms": 183331,
+      "name": "Goodbye Mary",
+      "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

@@ -1,12 +1,12 @@
 {
   "description": "It's the witching hours. Cover: Paris Paloma",
-  "num_followers": 135628,
+  "num_followers": 135740,
   "original_name": "Witchy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zvxj/AAAAAB11JcRpA0ERmFzEFohedl/",
+  "snapshot_id": "ZxZixgAAAACOiYApJVwGbvSFcvMyHqJh",
   "tracks": [
     {
       "added_at": "2024-09-27 04:00:00",
@@ -739,7 +739,7 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Hyaena - Remastered And Expanded",
+        "name": "Hyaena (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
       },
       "artists": [
@@ -1077,6 +1077,22 @@
       "url": "https://open.spotify.com/track/7qkfs7TdDhaZ9l4YUf2UeU"
     },
     {
+      "added_at": "2024-10-21 14:18:46",
+      "album": {
+        "name": "The Ballad of the Witches' Road (Pop Version) [From \"Agatha All Along\"]",
+        "url": "https://open.spotify.com/album/5JrcjA3eetOUQ5bUbKfjVm"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 151395,
+      "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"
+    },
+    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Beneath The Skin (Deluxe)",
@@ -1219,22 +1235,6 @@
       "duration_ms": 170240,
       "name": "I Bet on Losing Dogs",
       "url": "https://open.spotify.com/track/3uS7pHvPRtJlyukzNZGpcO"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo"
     }
   ],
   "unique_name": "Witchy",

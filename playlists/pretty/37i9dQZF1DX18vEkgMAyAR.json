@@ -1,6 +1,6 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 68332,
+  "num_followers": 68335,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,18 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
-        "name": "Life Without Fantasies (Radio Edit)",
-        "url": "https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf"
+        "name": "Got Me Started",
+        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
       },
       "artists": [
         {
-          "name": "Neon Dreams",
-          "url": "https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT"
-        },
-        {
-          "name": "Max Hurrell",
-          "url": "https://open.spotify.com/artist/7cEEUAvfBGRqE0ktbBYHw3"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 161456,
-      "name": "Life Without Fantasies - Radio Edit",
-      "url": "https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC"
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
     }
   ],
   "unique_name": "Feel Good Look Good",

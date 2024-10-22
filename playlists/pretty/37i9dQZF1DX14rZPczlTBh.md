@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,035 likes - 50 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,069 likes - 50 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 22 | [Businessman Theme](https://open.spotify.com/track/7CDtNYmYLreTJB3NCQOOz6) | [Mahesh Babu](https://open.spotify.com/artist/3fHBN4cBo24hLf8jnCUTYK), [Puri Jagannath](https://open.spotify.com/artist/5qRAnJeG7hK5QaUm79GKhg), [Chours](https://open.spotify.com/artist/0GIOsTRn0PVodWAHcc6NkB) | [Businessman](https://open.spotify.com/album/1AdvHtbDQU2lOcSCZzB6xz) | 2:47 |
 | 23 | [Skanda Teaser Theme](https://open.spotify.com/track/0cbIbniZF1FGevzRyn7HW7) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Skanda Teaser Theme](https://open.spotify.com/album/4rgM7MJscewBzrqv6tAZD1) | 0:54 |
 | 24 | [Arjun & Nani’s Theme](https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:19 |
-| 25 | [Sita Ramam Theme \(Telugu\)](https://open.spotify.com/track/1YxoeF51bofo4ODO9XQkTV) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr) | [Sita Ramam \(Telugu\) \(Extended Version\) \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5d0eh1FoU7tOYEnHLohjjv) | 3:34 |
+| 25 | [Sita Ramam Theme \(Telugu\)](https://open.spotify.com/track/1YxoeF51bofo4ODO9XQkTV) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr) | [Sita Ramam \(Telugu\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5d0eh1FoU7tOYEnHLohjjv) | 3:34 |
 | 26 | [Theme](https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 5:15 |
 | 27 | [Yamana Dhamana](https://open.spotify.com/track/34nLhBUs9b01vJUHB0fBlI) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 2:36 |
 | 28 | [Wrath of Salaar \(From "Salaar Cease Fire"\)](https://open.spotify.com/track/1zHzHVjNlhj2PwRlngEKEo) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Wrath of Salaar \(From "Salaar Cease Fire"\)](https://open.spotify.com/album/0cRSUrHiebMczOTKXn3RUG) | 2:17 |

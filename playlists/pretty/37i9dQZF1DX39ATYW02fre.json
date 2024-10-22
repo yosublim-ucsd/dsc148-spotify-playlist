@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 239006,
+  "num_followers": 239075,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
-        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
-      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "In This Darkness",
         "url": "https://open.spotify.com/album/1mDPBagNyFaAuiTT7kUJBQ"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 197000,
       "name": "In This Darkness",
       "url": "https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Erin LeCount",
-          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
-        }
-      ],
-      "duration_ms": 215834,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Orange Sky",
         "url": "https://open.spotify.com/album/1BS5KiDhUsl44A4nwatXfO"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 150000,
       "name": "Orange Sky",
       "url": "https://open.spotify.com/track/3A3mFJaeBvAomfvhEEY9OA"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0mdOEm115gzcsxtjgHiTQP"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 215834,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/75WGKUulm21jqVSoZETrQT"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Something Right",
-        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "Molly Moonwater",
-          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
-    },
-    {
-      "added_at": "2024-09-19 23:00:00",
-      "album": {
         "name": "Blood Remixed",
         "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 553413,
       "name": "Waste - RY X Remix",
       "url": "https://open.spotify.com/track/08HR9PoLSeovgXWvJEZrvi"
+    },
+    {
+      "added_at": "2024-09-19 23:00:00",
+      "album": {
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -875,22 +875,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Boat Party",
-        "url": "https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V"
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
       },
       "artists": [
         {
-          "name": "Ajmw",
-          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         },
         {
-          "name": "Blanc",
-          "url": "https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 175609,
-      "name": "Boat Party",
-      "url": "https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1"
+      "duration_ms": 254346,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ"
     },
     {
       "added_at": "2024-09-19 23:00:00",
@@ -911,18 +911,22 @@
     {
       "added_at": "2024-09-19 23:00:00",
       "album": {
-        "name": "Burns (Edit)",
-        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
+        "name": "Boat Party",
+        "url": "https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V"
       },
       "artists": [
         {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+          "name": "Ajmw",
+          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
+        },
+        {
+          "name": "Blanc",
+          "url": "https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw"
         }
       ],
-      "duration_ms": 190750,
-      "name": "Burns - Edit",
-      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
+      "duration_ms": 175609,
+      "name": "Boat Party",
+      "url": "https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1"
     }
   ],
   "unique_name": "Melantronic",

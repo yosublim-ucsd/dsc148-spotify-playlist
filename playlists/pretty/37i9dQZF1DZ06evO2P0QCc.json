@@ -1,12 +1,12 @@
 {
-  "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
-  "num_followers": 112183,
+  "description": "This is Inspector. The essential tracks, all in one playlist.",
+  "num_followers": 112196,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAACPUJ7imr++BcHDxo81Jt8l",
+  "snapshot_id": "ZxRIAAAAAAARRarV1tEGLvP1ztEbTB57",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 194893,
+      "name": "Cara De Chango",
+      "url": "https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siempre Fingiste Amarme",
         "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 237527,
       "name": "Siempre Fingiste Amarme",
       "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 194893,
-      "name": "Cara De Chango",
-      "url": "https://open.spotify.com/track/4lMHkTJe2Kcx4yJXfBaTyj"
     },
     {
       "added_at": null,

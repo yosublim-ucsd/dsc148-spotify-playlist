@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,695 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,910 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 83 | [Carry It On](https://open.spotify.com/track/4nhEY6NPHhiNt1ZTDqoZ16) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [HOW TF IS THIS A MIXTAPE?](https://open.spotify.com/album/2bEwLq4zSG4t8f1uF2BHfP) | 2:10 |
 | 84 | [40 Mo' Reasons](https://open.spotify.com/track/61siK7W8gG1ixD974Ethya) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [40 Mo' Reasons](https://open.spotify.com/album/181sHe6StSRnFdcM8UUrXK) | 3:22 |
 | 85 | [Type A N\*\*\*a](https://open.spotify.com/track/2E5JwQRxlWVKs7OjRbMyFQ) | [Nino Breeze](https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Type A N\*\*\*a](https://open.spotify.com/album/7ixz0AWnSc5jyadYwmebkU) | 4:06 |
-| 86 | [Don Who Leo \- Añejo Remix](https://open.spotify.com/track/5AoeI3GRZVwWOwLUgwwDbi) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Don Who Leo \- Añejo Remix](https://open.spotify.com/album/6ptsMHVB7xuclG8FKewffu) | 2:30 |
-| 87 | [Kicked In](https://open.spotify.com/track/0hpbQsGA9tQm8T5Irms59n) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Greatest Of All Trappers \- Gangsta Grillz Edition](https://open.spotify.com/album/2YaNo3GoShVwNxP7nEPrPD) | 2:48 |
+| 86 | [Don Who Leo \- Añejo Remix](https://open.spotify.com/track/5AoeI3GRZVwWOwLUgwwDbi) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Don Who Leo \(Añejo Remix\)](https://open.spotify.com/album/6ptsMHVB7xuclG8FKewffu) | 2:30 |
+| 87 | [Kicked In](https://open.spotify.com/track/0hpbQsGA9tQm8T5Irms59n) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Greatest Of All Trappers \(Gangsta Grillz Edition\)](https://open.spotify.com/album/2YaNo3GoShVwNxP7nEPrPD) | 2:48 |
 | 88 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 |
 | 89 | [Party Girl Anthem](https://open.spotify.com/track/2Iz82Uxhel7Zuy6BShUoC0) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:33 |
 | 90 | [Part Of The Plan](https://open.spotify.com/track/1g5UopJRkEceGAJX2OEgIX) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Part Of The Plan + Hold Me Down](https://open.spotify.com/album/4emkA3xbBqF6gXlA1nAGJF) | 2:20 |

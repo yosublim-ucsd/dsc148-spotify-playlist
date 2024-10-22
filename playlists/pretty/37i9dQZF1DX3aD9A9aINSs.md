@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Sertab Erener
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,358 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,350 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 12 | [Yalan](https://open.spotify.com/track/18JIIA7skQT8h7a13nMHfh) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Yalan](https://open.spotify.com/album/2cvSVKnvk7noDdqGBVDGLK) | 2:50 |
 | 13 | [Bi' Farkın Var](https://open.spotify.com/track/7yV4NuGTMAwTJyymp7vdrL) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Bi' Farkın Var](https://open.spotify.com/album/3vgV50xyw8ldVEPJEXbZqA) | 2:32 |
 | 14 | [Mazide](https://open.spotify.com/track/78Ph3Ffyp3vV0BqaBLJRXN) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Mazide](https://open.spotify.com/album/0rjCBkzUULXmudEq4vy0hi) | 3:00 |
-| 15 | [Ölsem \- Akustik](https://open.spotify.com/track/3ym6vxtm8PrIUrp4lOzmXZ) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Ölsem \- Akustik](https://open.spotify.com/album/5mSWdJnQ6GZGB4dbijLaNs) | 3:41 |
+| 15 | [Ölsem \- Akustik](https://open.spotify.com/track/3ym6vxtm8PrIUrp4lOzmXZ) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Ölsem \(Akustik\)](https://open.spotify.com/album/5mSWdJnQ6GZGB4dbijLaNs) | 3:41 |
 | 16 | [Enerji Vampiri](https://open.spotify.com/track/5FapGJlM3VpPQqEA9RvLsl) | [Kolera](https://open.spotify.com/artist/2WrrDGOjPL1QFuLB45DZ7Q) | [Enerji Vampiri](https://open.spotify.com/album/072j48lAvKX7lw2bnNNvIJ) | 3:43 |
 | 17 | [Unutamadım](https://open.spotify.com/track/6lIlfVhOFjhX9VAJIlDEAX) | [Semiramis Pekkan](https://open.spotify.com/artist/5vuQpKX1QG7WlQ40C27HfD) | [Unutamadım](https://open.spotify.com/album/7LI2m3KvlFkJgcaVK5G4Vq) | 3:24 |
 | 18 | [Aşktan Bir Fazla](https://open.spotify.com/track/6RJ8S4QJTAiEwSiXbSpRBd) | [Demet Sağıroğlu](https://open.spotify.com/artist/1JezmRKWjau6fQtfotfhZY) | [Aşktan Bir Fazla](https://open.spotify.com/album/7o2Dwev2FnDUnwUsu648VH) | 3:04 |

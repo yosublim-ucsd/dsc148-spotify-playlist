@@ -2689,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Shaman",
+        "url": "https://open.spotify.com/album/0mGr21i3WKYLlEouTu8lae"
+      },
+      "artists": [
+        {
+          "name": "Harold Kay",
+          "url": "https://open.spotify.com/artist/2syEslXYK8k3kpiQ2RXBDm"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138971,
+      "name": "Shaman",
+      "url": "https://open.spotify.com/track/1BpmW0DUzzFCsDmBtcGY2k"
+    },
+    {
+      "album": {
         "name": "Shy Paws",
         "url": "https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5"
       },

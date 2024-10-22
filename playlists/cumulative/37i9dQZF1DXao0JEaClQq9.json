@@ -368,7 +368,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 212843,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/0VgDXkaNfs91oTrEsQl7nK"
@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 148533,
       "name": "All A Dream",
       "url": "https://open.spotify.com/track/10RWFqvHZ9eMZFkLo0fbvW"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 352178,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 106994,
       "name": "Babyyy",
       "url": "https://open.spotify.com/track/6lMxGGVsO1JAdzk0z6Q3Rh"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 170400,
       "name": "Biking",
       "url": "https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O"
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 147441,
       "name": "Bloom For Me",
       "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
@@ -2271,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "Dennis",
+        "url": "https://open.spotify.com/album/40kTY3AQkWQuo6yA8SnT5s"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272874,
+      "name": "Coma Salv",
+      "url": "https://open.spotify.com/track/48Ya48bknzZh6cMFdwWDyB"
+    },
+    {
+      "album": {
         "name": "COMATOSE",
         "url": "https://open.spotify.com/album/7bwRaPmS8a1owPXZcwPD2K"
       },
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 160226,
       "name": "Con La Brisa - Film Version",
       "url": "https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG"
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 271733,
       "name": "Crushing",
       "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 355733,
       "name": "Don't Get Me Started",
       "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
@@ -3224,6 +3242,24 @@
       "duration_ms": 148795,
       "name": "Doorman - Vegyn Remix",
       "url": "https://open.spotify.com/track/0QyOGi3zEgYVO0PXt8avlA"
+    },
+    {
+      "album": {
+        "name": "Double",
+        "url": "https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182761,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
     },
     {
       "album": {
@@ -4817,6 +4853,28 @@
     },
     {
       "album": {
+        "name": "harvest sky (feat. underscores)",
+        "url": "https://open.spotify.com/album/6PIdDhgeQGjq2B01RP0m23"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233896,
+      "name": "harvest sky (feat. underscores)",
+      "url": "https://open.spotify.com/track/0Bz6Ih38mhIR3ZnzB1TYDV"
+    },
+    {
+      "album": {
         "name": "HAUNTED",
         "url": "https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2"
       },
@@ -5474,7 +5532,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 241166,
       "name": "I Just Wanna Feel Your Love Again",
       "url": "https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj"
@@ -6121,6 +6179,28 @@
     },
     {
       "album": {
+        "name": "Just A Western (Boy Harsher Remix)",
+        "url": "https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        },
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241379,
+      "name": "Just A Western - Boy Harsher Remix",
+      "url": "https://open.spotify.com/track/27824hvVGxllQecjb1dqDg"
+    },
+    {
+      "album": {
         "name": "Just Come Home with Me Tonight",
         "url": "https://open.spotify.com/album/1ClFEzcUmCIcn4zkZs6jjZ"
       },
@@ -6506,7 +6586,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 236479,
       "name": "Life of the Forbidden",
       "url": "https://open.spotify.com/track/0HSksF0v6icsEsnl0CU4VT"
@@ -6542,7 +6622,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 329361,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/2wiV5iKq5F5A0KUee4OrlK"
@@ -8194,7 +8274,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 220316,
       "name": "Paprika",
       "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
@@ -8386,7 +8466,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 287720,
       "name": "Plein Air",
       "url": "https://open.spotify.com/track/7d0x1E8uKCbIVIdInBqR5y"
@@ -8904,7 +8984,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 257213,
       "name": "Revolution 0",
       "url": "https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X"
@@ -10120,7 +10200,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 220148,
       "name": "Starburned and Unkissed",
       "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
@@ -10660,7 +10740,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 139805,
       "name": "Talk 2 Me",
       "url": "https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw"
@@ -11084,6 +11164,28 @@
       "duration_ms": 307346,
       "name": "The Whale",
       "url": "https://open.spotify.com/track/7sIow6Mp4BjwQJac4BX7kL"
+    },
+    {
+      "album": {
+        "name": "This Is How We Walk On The Moon (feat. Tirzah)",
+        "url": "https://open.spotify.com/album/2LpmvsHkzEBXNUPE0ZMW6l"
+      },
+      "artists": [
+        {
+          "name": "Speakers Corner Quartet",
+          "url": "https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH"
+        },
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "This Is How We Walk On The Moon - feat. Tirzah",
+      "url": "https://open.spotify.com/track/6mJWE79oqFY6eKAasM8XcF"
     },
     {
       "album": {
@@ -11633,7 +11735,7 @@
     },
     {
       "album": {
-        "name": "Goddess - Deluxe",
+        "name": "Goddess (Deluxe)",
         "url": "https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah"
       },
       "artists": [

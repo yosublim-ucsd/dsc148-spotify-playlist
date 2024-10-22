@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Prototype x Tiakola x Genezio au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,525,631 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,005 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 2 | [Pétunias](https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pétunias](https://open.spotify.com/album/1xF3GugX1r1Jj3xsljohcv) | 3:31 |
 | 3 | [Vanilla](https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL), [Ramos.](https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB) | [Vanilla](https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL) | 3:07 |
 | 4 | [CARTIER SANTOS](https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 3:03 |
-| 5 | [Ca parle mal](https://open.spotify.com/track/1nRGR8rKXQXKyzsewi6bXZ) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \- Pour la miff](https://open.spotify.com/album/1zms2t58lsrP5iyn1twb1J) | 2:56 |
+| 5 | [Ca parle mal](https://open.spotify.com/track/1nRGR8rKXQXKyzsewi6bXZ) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Pour la miff\)](https://open.spotify.com/album/1zms2t58lsrP5iyn1twb1J) | 2:56 |
 | 6 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 |
 | 7 | [Malya](https://open.spotify.com/track/4kmGM0IbzDPr2rT1nehI1r) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [15](https://open.spotify.com/album/4HAWT9gg8vtNDnbi9kzb02) | 3:12 |
 | 8 | [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 |

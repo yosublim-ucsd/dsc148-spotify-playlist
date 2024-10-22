@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno & La K\u00b4onga.",
-  "num_followers": 719848,
+  "num_followers": 719862,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -391,7 +391,7 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "La \u00daltima Granada - En Vivo",
+        "name": "La \u00daltima Granada (En Vivo)",
         "url": "https://open.spotify.com/album/5uc1xjjYiLGJP84EfjxSBO"
       },
       "artists": [
@@ -431,7 +431,7 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "No Podr\u00e1s - En Vivo",
+        "name": "No Podr\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/7nGV5495dOzVLdpHGmWlla"
       },
       "artists": [
@@ -711,7 +711,7 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "El No Va A Venir - En Vivo",
+        "name": "El No Va A Venir (En Vivo)",
         "url": "https://open.spotify.com/album/3YN2Q3RG3maFaoCkYwgl5U"
       },
       "artists": [
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Tu Amante En Secreto",
+        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Piensa en M\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "En la piel",
         "url": "https://open.spotify.com/album/6atk3EZyEKZF03JBdTeRVQ"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 310099,
       "name": "Te hubieras ido antes",
       "url": "https://open.spotify.com/track/0UFblMYjI2whiXqupAz4gF"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
-      },
-      "artists": [
-        {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Fina",
-      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Tu Amante En Secreto",
-        "url": "https://open.spotify.com/album/1E4RRsJhsJKtkaFTKnDrOJ"
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 224680,
-      "name": "Piensa en M\u00ed (En Vivo)",
-      "url": "https://open.spotify.com/track/6AThEqOUzeeJv6G2UPQJwK"
+      "duration_ms": 162253,
+      "name": "Fina",
+      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -999,6 +999,22 @@
       "duration_ms": 204705,
       "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6QmQXIf2VffSXXlyPe85lv"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "A Lo Largo Y A Lo Ancho",
+        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Una Foto",
-        "url": "https://open.spotify.com/album/0xnnOveVwG3zP8NyojTvsS"
-      },
-      "artists": [
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 143544,
-      "name": "Una Foto",
-      "url": "https://open.spotify.com/track/0OJS0FnYU9rjzZ1Y5H76PK"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Soy Cordobes",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "A Lo Largo Y A Lo Ancho",
-        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
+        "name": "Una Foto",
+        "url": "https://open.spotify.com/album/0xnnOveVwG3zP8NyojTvsS"
       },
       "artists": [
         {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
         }
       ],
-      "duration_ms": 230586,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
+      "duration_ms": 143544,
+      "name": "Una Foto",
+      "url": "https://open.spotify.com/track/0OJS0FnYU9rjzZ1Y5H76PK"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
-        }
-      ],
-      "duration_ms": 331160,
-      "name": "Ramito de violetas",
-      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Ocho Cuarenta (feat. Los Caligaris - en Vivo en el Foro Sol - 17.11.17)",
         "url": "https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO"
       },
@@ -1211,6 +1191,26 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+        }
+      ],
+      "duration_ms": 331160,
+      "name": "Ramito de violetas",
+      "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Esto Se Acab\u00f3",
         "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/2wIVMjoemGDUznrMATUDVH"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        }
-      ],
-      "duration_ms": 158195,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/72YkOfhcuG8CO5dNk3N4UM"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "A Toda Fiesta",
         "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
       },
@@ -1263,26 +1247,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Beso a Beso (con La Mona)",
-        "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/2wIVMjoemGDUznrMATUDVH"
       },
       "artists": [
         {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Hugh Padgham",
-          "url": "https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl"
-        },
-        {
-          "name": "Sergio Oliva",
-          "url": "https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM"
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
         }
       ],
-      "duration_ms": 303253,
-      "name": "Beso a beso",
-      "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
+      "duration_ms": 158195,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/72YkOfhcuG8CO5dNk3N4UM"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1331,6 +1307,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Con el Coraz\u00f3n en la Mano",
+        "url": "https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf"
+      },
+      "artists": [
+        {
+          "name": "Cachumba",
+          "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "En Libertad",
+      "url": "https://open.spotify.com/track/1DKiKqd2S5OVyQmj7OS855"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
         "url": "https://open.spotify.com/album/0ZCPfgBx0Be00cIC9KIkRt"
       },
@@ -1347,34 +1339,26 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "En El Gran Rex",
-        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
+        "name": "Beso a Beso (con La Mona)",
+        "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
       },
       "artists": [
         {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Un Mill\u00f3n de Rosas",
-      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Con el Coraz\u00f3n en la Mano",
-        "url": "https://open.spotify.com/album/5sDbIHYvFvWQO4ocVkmzHf"
-      },
-      "artists": [
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
         {
-          "name": "Cachumba",
-          "url": "https://open.spotify.com/artist/6uLWD7WMJKMyP1DD1eg96R"
+          "name": "Hugh Padgham",
+          "url": "https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl"
+        },
+        {
+          "name": "Sergio Oliva",
+          "url": "https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM"
         }
       ],
-      "duration_ms": 173640,
-      "name": "En Libertad",
-      "url": "https://open.spotify.com/track/1DKiKqd2S5OVyQmj7OS855"
+      "duration_ms": 303253,
+      "name": "Beso a beso",
+      "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1415,22 +1399,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Bien Ah\u00ed !",
-        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+        "name": "En El Gran Rex",
+        "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
       },
       "artists": [
         {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Sergio Oliva and Freddy Zavaley",
-          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
         }
       ],
-      "duration_ms": 193160,
-      "name": "Paloma loca",
-      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
+      "duration_ms": 194920,
+      "name": "Un Mill\u00f3n de Rosas",
+      "url": "https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1527,18 +1507,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Dejame Intentar",
-        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
       "artists": [
         {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
         }
       ],
-      "duration_ms": 121551,
-      "name": "Dejame Intentar",
-      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
+      "duration_ms": 193160,
+      "name": "Paloma loca",
+      "url": "https://open.spotify.com/track/2wumYxMsFw0jfceJYHiocH"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1555,6 +1539,22 @@
       "duration_ms": 366368,
       "name": "Loca de Amor - Vestido Azul",
       "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Dejame Intentar",
+        "url": "https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 121551,
+      "name": "Dejame Intentar",
+      "url": "https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Como La Primera Vez",
-        "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Como La Primera Vez",
-      "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Chachach\u00e1",
         "url": "https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 232269,
       "name": "Chachach\u00e1",
       "url": "https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Como La Primera Vez",
+        "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Como La Primera Vez",
+      "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 169589,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Libre al Fin",
         "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 246600,
       "name": "Esperando",
       "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 169589,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1815,18 +1815,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Ni Lo Pienses",
-        "url": "https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y"
+        "name": "Son De Amores",
+        "url": "https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd"
       },
       "artists": [
         {
-          "name": "Banda Registrada",
-          "url": "https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA"
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        },
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 254053,
-      "name": "Usted Se Me Llevo la Vida",
-      "url": "https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz"
+      "duration_ms": 181600,
+      "name": "Son De Amores",
+      "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
     },
     {
       "added_at": "2024-10-18 03:00:00",

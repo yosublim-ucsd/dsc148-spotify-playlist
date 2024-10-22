@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,380 likes - 27 songs - 1 hr 38 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 11,384 likes - 27 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 22 | [Grim Symmetry](https://open.spotify.com/track/0tz3N7gFHOsZgMBnl8dHYt) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Grim Symmetry](https://open.spotify.com/album/3UrRHiUaQVR7oPimmO0dqB) | 3:01 |
 | 23 | [World on a Wire](https://open.spotify.com/track/2QTDnbQ3nxnGlqJR1cmOvF) | [Katrina Ford](https://open.spotify.com/artist/0m1QOHroy845vm0zq28eIA) | [World on a Wire](https://open.spotify.com/album/469yhxvorLbCwdaZmBrFAT) | 4:38 |
 | 24 | [Billion Star Night Light](https://open.spotify.com/track/0qSsLK9kw1bLQ2SfZIvbmo) | [Silverbacks](https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4) | [Easy Being A Winner](https://open.spotify.com/album/6yD5VEYAuHkaMJ1mTxDlMz) | 3:40 |
-| 25 | [I Was Miles Away \- Masal Spectral Mix](https://open.spotify.com/track/5xYTz2FCyRMJr9qSZg9tM8) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL), [Masal](https://open.spotify.com/artist/57AGvkrbizJE4lN2c5KYSq) | [Spiralée \- Pearlies Rearranged](https://open.spotify.com/album/1CpZoOBpL6FM09bKJIK1PP) | 5:20 |
+| 25 | [I Was Miles Away \- Masal Spectral Mix](https://open.spotify.com/track/5xYTz2FCyRMJr9qSZg9tM8) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL), [Masal](https://open.spotify.com/artist/57AGvkrbizJE4lN2c5KYSq) | [Spiralée \(Pearlies Rearranged\)](https://open.spotify.com/album/1CpZoOBpL6FM09bKJIK1PP) | 5:20 |
 | 26 | [In The Shade](https://open.spotify.com/track/0AsrFzY2yhWjroklWFmMq7) | [HORSEBATH](https://open.spotify.com/artist/1ENPaKF21eJ1tPyOyS3NaD) | [In The Shade](https://open.spotify.com/album/0hD5BJYiCiLvIG8dHEFYZs) | 5:45 |
 | 27 | [Midwinter Swimmers](https://open.spotify.com/track/4bllHJrJkoqLuFFy06bQfx) | [The Innocence Mission](https://open.spotify.com/artist/4VcTmgGKGuJn56Ac2zNhiH) | [Midwinter Swimmers](https://open.spotify.com/album/3JRl0ZboV81JXUwvyUgBZB) | 2:56 |
 

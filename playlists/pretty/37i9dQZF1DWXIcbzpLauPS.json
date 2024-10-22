@@ -1,6 +1,6 @@
 {
   "description": "brutality and technicality collide. fresh metalcore awaits Cover: Kublai Khan TX",
-  "num_followers": 934651,
+  "num_followers": 934722,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "You Won't Go Before You're Supposed To",
         "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 183721,
       "name": "Slaughterhouse 2 (feat. Chris Motionless)",
       "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Infection",
-        "url": "https://open.spotify.com/album/7InvQ576KlW8grvtisNTGF"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 167867,
-      "name": "Infection",
-      "url": "https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Hatred",
         "url": "https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 183964,
       "name": "Hatred",
       "url": "https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Infection",
+        "url": "https://open.spotify.com/album/7InvQ576KlW8grvtisNTGF"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 167867,
+      "name": "Infection",
+      "url": "https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -567,7 +567,7 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Let The Ocean Take Me - Redux",
+        "name": "Let The Ocean Take Me (Redux)",
         "url": "https://open.spotify.com/album/3rFpcPqcUpFRcbFwd5kyCm"
       },
       "artists": [
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Reincarnate: 10 Year Anniversary",
-        "url": "https://open.spotify.com/album/4JeIjV5hjOfr1WcKLMySzz"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 216661,
-      "name": "Reincarnate: Reincarnated",
-      "url": "https://open.spotify.com/track/7F2x6DJvZvXmTSM8YWg5lF"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
         "url": "https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Reincarnate: 10 Year Anniversary",
+        "url": "https://open.spotify.com/album/4JeIjV5hjOfr1WcKLMySzz"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 216661,
+      "name": "Reincarnate: Reincarnated",
+      "url": "https://open.spotify.com/track/7F2x6DJvZvXmTSM8YWg5lF"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Blinding Faith",
-        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 171090,
-      "name": "Blinding Faith",
-      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Darker Colors (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Blinding Faith",
+        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 171090,
+      "name": "Blinding Faith",
+      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "From The New World",
         "url": "https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 152547,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Drowning Therapy",
+        "url": "https://open.spotify.com/album/4pYbjMjeqlKS6wwExr27G8"
+      },
+      "artists": [
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "duration_ms": 211224,
+      "name": "Drowning Therapy",
+      "url": "https://open.spotify.com/track/3n45ukssmt5LytBudtXKNJ"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1063,22 +1079,6 @@
       "duration_ms": 228493,
       "name": "Murder8",
       "url": "https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Drowning Therapy",
-        "url": "https://open.spotify.com/album/4pYbjMjeqlKS6wwExr27G8"
-      },
-      "artists": [
-        {
-          "name": "Cane Hill",
-          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
-        }
-      ],
-      "duration_ms": 211224,
-      "name": "Drowning Therapy",
-      "url": "https://open.spotify.com/track/3n45ukssmt5LytBudtXKNJ"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1147,6 +1147,22 @@
       "duration_ms": 161407,
       "name": "FLY AWAY",
       "url": "https://open.spotify.com/track/38yKm4HLvDFhg5NK20bFV1"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Survivor\u2019s Guilt",
+        "url": "https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 198417,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1267,22 +1283,6 @@
       "duration_ms": 209240,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/4fXGTlfKRv5v4QBr3ynAFP"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Survivor\u2019s Guilt",
-        "url": "https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 198417,
-      "name": "Survivors Guilt",
-      "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Better Off Alone",
+        "url": "https://open.spotify.com/album/7FQIV0DoXL986gmwU1gXYI"
+      },
+      "artists": [
+        {
+          "name": "Versus Me",
+          "url": "https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9"
+        }
+      ],
+      "duration_ms": 190642,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/5VoE2F0vCeXVmEo4soLavh"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "New Devil",
         "url": "https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 139826,
       "name": "New Devil",
       "url": "https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/7FQIV0DoXL986gmwU1gXYI"
-      },
-      "artists": [
-        {
-          "name": "Versus Me",
-          "url": "https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9"
-        }
-      ],
-      "duration_ms": 190642,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/5VoE2F0vCeXVmEo4soLavh"
     },
     {
       "added_at": "2024-10-18 04:00:00",

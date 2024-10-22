@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,661 songs - 3 day 14 hr 11 min
+1,662 songs - 3 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Aniara](https://open.spotify.com/track/2etg8kht5wOz5BBWNCW7pv) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 4:49 | 2022-05-30 | 2023-03-25 |
 | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/track/04s4HwrYbwCVFGLpUOqQlu) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eye N'I](https://open.spotify.com/artist/5NnyV6RNHKNEqZcS4tZl4Y) | [Ansvar \(feat\. Eye N'I\)](https://open.spotify.com/album/4eJhP9tP0wiyjV9KPO9sNc) | 2:55 | 2022-06-30 | 2022-11-18 |
 | [Antidote to Heaven](https://open.spotify.com/track/5hRfnPIy63J6k1AlJA3Avp) | [Ängie](https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw) | [Antidote to Heaven](https://open.spotify.com/album/2Lkj7EcrqwnPOO4nIHf4tD) | 2:37 | 2024-09-26 | 2024-10-19 |
+| [Anymore](https://open.spotify.com/track/3K24ijM6H0WiL8mdwNzpib) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Anymore](https://open.spotify.com/album/0ZOLG8MyLqmC3YriQ14my6) | 3:17 | 2024-10-17 |  |
 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-29 |  |
 | [APTIT](https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [APTIT](https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm) | 2:48 | 2024-10-04 |  |
 | [Are You Ok](https://open.spotify.com/track/2NRxZBBYN1RAEboT8wC60x) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Are You Ok](https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H) | 4:34 | 2024-08-08 | 2024-09-13 |
@@ -930,7 +931,7 @@
 | [Mayflowers](https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Copium](https://open.spotify.com/album/3W4rMKjMNt7AfTPnkHoYGC) | 2:39 | 2024-05-30 | 2024-06-28 |
 | [MED DIG](https://open.spotify.com/track/0mLTjcZQN4ZYpCXuPW5RmC) | [Teck Noir](https://open.spotify.com/artist/38YJI7lbvZiO9nvcjHqUtE) | [MED DIG](https://open.spotify.com/album/6flWGUPm26oSE2SHZqqVkk) | 2:56 | 2024-03-14 | 2024-03-17 |
 | [Medborgare av ingenstans](https://open.spotify.com/track/742ArVhbQ8UXMMccqihUo1) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Medborgare av ingenstans](https://open.spotify.com/album/2EJZJmeMD9kSENd9slzqwg) | 3:33 | 2023-02-02 | 2023-03-16 |
-| [Mellan dig och mig](https://open.spotify.com/track/5SfopVe3JTA3Ldr8tDYxy7) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Stockholm](https://open.spotify.com/album/1kBloj5RL5FVr7iBaB0UQi) | 2:01 | 2024-09-12 |  |
+| [Mellan dig och mig](https://open.spotify.com/track/5SfopVe3JTA3Ldr8tDYxy7) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Stockholm](https://open.spotify.com/album/1kBloj5RL5FVr7iBaB0UQi) | 2:01 | 2024-09-12 | 2024-10-22 |
 | [MELLAN OSS](https://open.spotify.com/track/6sVEeysvX0W7TkaAbbhCIu) | [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt) | [III](https://open.spotify.com/album/5kNBFBcsPHaRAKPgdoQ78w) | 2:18 | 2024-06-06 | 2024-08-09 |
 | [Mellanrum](https://open.spotify.com/track/0oNtjyHqfsBx6XiK1CucD1) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Mellanrum](https://open.spotify.com/album/0b2CZlHGerSdrW7Qz3efMw) | 2:18 | 2024-02-08 | 2024-04-05 |
 | [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 | 2022-07-21 | 2022-11-17 |

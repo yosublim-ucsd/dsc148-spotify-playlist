@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,025 likes - 80 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,035 likes - 80 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 8 | [Chaos](https://open.spotify.com/track/4gobAVFoc3Skr3xWxe6USU) | [Easttown](https://open.spotify.com/artist/60BcxlrIyqHOIjd9dBvld3) | [Chaos EP](https://open.spotify.com/album/7050hhnfVETno9KINWdFNa) | 5:58 |
 | 9 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Extended Remix](https://open.spotify.com/track/0u41lLNlRavKKpLjWtrgMd) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5iYWRlPNkKIx6tsAxPmnHU) | 5:47 |
 | 10 | [Zizzy](https://open.spotify.com/track/4bENMkR60BlLehIvtPMFeM) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Zizzy](https://open.spotify.com/album/03bT1C7incHJtGjoKhYUAL) | 7:00 |
-| 11 | [dark days \(Vanco Remix\)](https://open.spotify.com/track/2R86Yp6Ov5BO2SDdjOVhqw) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [dark days \- Vanco Remix](https://open.spotify.com/album/5cNq1DlBYtafSznbEtvFQc) | 6:45 |
+| 11 | [dark days \(Vanco Remix\)](https://open.spotify.com/track/2R86Yp6Ov5BO2SDdjOVhqw) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ), [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9) | [dark days \(Vanco Remix\)](https://open.spotify.com/album/5cNq1DlBYtafSznbEtvFQc) | 6:45 |
 | 12 | [Rise Above \- Original Mix](https://open.spotify.com/track/5Vr2kTMQs7SJewONEjbLf6) | [Zulu Mageba](https://open.spotify.com/artist/2oWStpJ5ThCzjyF9TyrRgA), [Kutullo Nawa](https://open.spotify.com/artist/6UbwKv2PBQAuZyYOpb9JXK) | [Rise Above EP](https://open.spotify.com/album/3hnaB6OozBML2Ty3nQxY14) | 6:32 |
 | 13 | [Jah Fire Burn](https://open.spotify.com/track/1PdBi2LafZFU7ifzkKLUU5) | [Mr Joe](https://open.spotify.com/artist/79FhvDnJD146q8X3kYtXmG) | [Jah Fire Burn](https://open.spotify.com/album/0rt70aKaX4KPUVTZexUOag) | 7:21 |
 | 14 | [Kiss From A Rose](https://open.spotify.com/track/5LNFAjkC0DhgUfiQcKHrX4) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Walter Phillips](https://open.spotify.com/artist/59WleqeZMvAUVl6ROkjahJ) | [Kiss From A Rose](https://open.spotify.com/album/7hWYQeuLz8pL88CqfFLroi) | 2:35 |

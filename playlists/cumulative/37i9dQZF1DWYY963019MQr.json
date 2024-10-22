@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Blue Note Stroll",
+        "url": "https://open.spotify.com/album/3BuZh3ULP5NWnn2NVaGGUl"
+      },
+      "artists": [
+        {
+          "name": "Morris Valentin",
+          "url": "https://open.spotify.com/artist/4eNel5cDOyyO9AuVHCg7h8"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106258,
+      "name": "Blue Note Stroll",
+      "url": "https://open.spotify.com/track/3AWpy96m4QvSYy5RNsY2p9"
+    },
+    {
+      "album": {
         "name": "Blue Room",
         "url": "https://open.spotify.com/album/0ELTva9e0eumaGZyiZwWyD"
       },
@@ -1454,6 +1472,24 @@
       "duration_ms": 171687,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/1odlIHMNi8SojfmRu1Pnj6"
+    },
+    {
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/38gxSGItvmeSUA9s18VGcO"
+      },
+      "artists": [
+        {
+          "name": "Manja Sj\u00f6gren",
+          "url": "https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224750,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/0iaaX04FpfgPfqzCInwudD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Caio Luccas",
-  "num_followers": 144565,
+  "num_followers": 144577,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,22 @@
     {
       "added_at": "2024-10-07 19:21:22",
       "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
       "artists": [
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         }
       ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+      "duration_ms": 184277,
+      "name": "cora\u00e7\u00e3o gelado",
+      "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
     },
     {
       "added_at": "2024-10-07 19:21:22",
@@ -515,22 +519,18 @@
     {
       "added_at": "2024-10-07 19:21:22",
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
       },
       "artists": [
         {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         }
       ],
-      "duration_ms": 184277,
-      "name": "cora\u00e7\u00e3o gelado",
-      "url": "https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2"
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-10-07 19:21:22",
@@ -1139,34 +1139,6 @@
     {
       "added_at": "2024-10-07 19:21:22",
       "album": {
-        "name": "Esqueceu seu brinco",
-        "url": "https://open.spotify.com/album/1lA4uaxmHZMVzqCJrHiIdZ"
-      },
-      "artists": [
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        },
-        {
-          "name": "N.A.N.A.",
-          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
-        },
-        {
-          "name": "Limera",
-          "url": "https://open.spotify.com/artist/32aiEjeXmvipOPMb2iPvnt"
-        },
-        {
-          "name": "Levi Menezes",
-          "url": "https://open.spotify.com/artist/4m1Mj4V2sNYg5vmEzff8ti"
-        }
-      ],
-      "duration_ms": 284138,
-      "name": "Esqueceu seu brinco",
-      "url": "https://open.spotify.com/track/6aDQLyjCmj6Bb8apW0v8KF"
-    },
-    {
-      "added_at": "2024-10-07 19:21:22",
-      "album": {
         "name": "Viv\u00eancia de Cria",
         "url": "https://open.spotify.com/album/1dxPFh5HYhiSeyOy006uTj"
       },
@@ -1203,6 +1175,34 @@
       "duration_ms": 206384,
       "name": "Viv\u00eancia de Cria",
       "url": "https://open.spotify.com/track/4LTnZKjV7zhuSGqB3kfXbI"
+    },
+    {
+      "added_at": "2024-10-07 19:21:22",
+      "album": {
+        "name": "Esqueceu seu brinco",
+        "url": "https://open.spotify.com/album/1lA4uaxmHZMVzqCJrHiIdZ"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "Limera",
+          "url": "https://open.spotify.com/artist/32aiEjeXmvipOPMb2iPvnt"
+        },
+        {
+          "name": "Levi Menezes",
+          "url": "https://open.spotify.com/artist/4m1Mj4V2sNYg5vmEzff8ti"
+        }
+      ],
+      "duration_ms": 284138,
+      "name": "Esqueceu seu brinco",
+      "url": "https://open.spotify.com/track/6aDQLyjCmj6Bb8apW0v8KF"
     },
     {
       "added_at": "2024-10-07 19:21:22",

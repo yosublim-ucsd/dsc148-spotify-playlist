@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-739 songs - 1 day 13 hr 2 min
+740 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [It Ain't Safe](https://open.spotify.com/track/6lAYlIYhPgHw6cXkxAmiJg) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968) | [It Ain't Safe](https://open.spotify.com/album/6HQwDAc3znaAWHtuMVhB7E) | 3:47 | 2024-06-28 | 2024-09-26 |
 | [It's A Vibe](https://open.spotify.com/track/6MQQus7RpPd8ctQUnUwTnf) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi), [Voost](https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO) | [It's A Vibe](https://open.spotify.com/album/7InXXMcMWLaiVa1D6ToHy8) | 2:50 | 2024-01-26 | 2024-10-11 |
 | [It's What We Love](https://open.spotify.com/track/0AQZwPA4V1iy7asuBIettY) | [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [It's What We Love](https://open.spotify.com/album/1RIaxv4MF5nhzqA7qnIRGo) | 3:38 | 2023-09-15 | 2023-12-14 |
+| [Jack](https://open.spotify.com/track/1XuxI8toTPpAfO5TxWQoo4) | [Husko](https://open.spotify.com/artist/5n0AvUDa25XR3AYRvocSaT) | [Jack](https://open.spotify.com/album/7lKWL8ShCAr7ZVdCtAmUai) | 3:09 | 2024-10-21 |  |
 | [Jack's Wave](https://open.spotify.com/track/1WkDNRkXrX00jMRjJKOiNH) | [Duske](https://open.spotify.com/artist/6VfL0NK2Mqt7OWXP6j2YZi) | [Jack's Wave](https://open.spotify.com/album/4t9Mp63xMd66TqnRXSjoJQ) | 3:25 | 2023-09-29 | 2023-12-23 |
 | [Jimi Jimi](https://open.spotify.com/track/3yT6W68zw0x4zaWs1ujRTF) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Anthony Attalla](https://open.spotify.com/artist/6UmrPT15mLI5ALbsDqwsQv) | [Jimi Jimi](https://open.spotify.com/album/6CAzbpUvEk8WJvplKUxmYP) | 2:59 | 2023-11-10 | 2023-12-23 |
 | [Jolene](https://open.spotify.com/track/1iUSupGwxSegT8RlPDJ3Cr) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [ILSE](https://open.spotify.com/artist/6qbr3M2PZv1k8qPVBTw707) | [Jolene](https://open.spotify.com/album/41i23J7Vzeb4QPWzKJfa8F) | 2:01 | 2024-01-12 |  |

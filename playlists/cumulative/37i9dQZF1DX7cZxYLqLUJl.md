@@ -4,7 +4,7 @@
 
 > Wake up at your own pace with gentle piano music.
 
-133 songs - 5 hr 52 min
+134 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Serre moi](https://open.spotify.com/track/2J2YbfMi4b49wVRM0lA2Jt) | [Mainfred Arthur](https://open.spotify.com/artist/5VoUklN2MckOEW7KeF3H4P) | [Serre moi](https://open.spotify.com/album/6hZux9ZZSBKeTAgbtFvmM9) | 2:25 | 2021-04-21 |  |
 | [Shoreland](https://open.spotify.com/track/13jcWPcMR0plz1TlIaqqSR) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Clandestine](https://open.spotify.com/album/5svnulUJ4RuhBt6mD8UEoF) | 2:50 | 2021-04-21 |  |
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2021-04-21 | 2024-10-01 |
+| [Small Steps](https://open.spotify.com/track/1hdv5ClhtXr3ObgFCSjNVw) | [Valentia Serrano](https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ) | [Small Steps](https://open.spotify.com/album/1rRyxVqesdCGq4KQhDxytO) | 2:10 | 2024-10-21 |  |
 | [Snefri](https://open.spotify.com/track/61WmSJkNz048nns7uCmn1E) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 3:43 | 2022-03-18 | 2024-04-19 |
 | [Snefri](https://open.spotify.com/track/6Ox51SkYx2CyHuWIHMfTUq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Snefri](https://open.spotify.com/album/25trn66ey7ahbAD2OMI7bN) | 3:43 | 2021-04-21 |  |
 | [Softly](https://open.spotify.com/track/6plAuHENSbslv0tAe8verB) | [Kendra Logozar](https://open.spotify.com/artist/7rwhybBLjf5jWQsmXfwJhd) | [Softly](https://open.spotify.com/album/07ymnuv7uKDcQckEtOstPv) | 2:26 | 2021-04-21 | 2024-10-01 |

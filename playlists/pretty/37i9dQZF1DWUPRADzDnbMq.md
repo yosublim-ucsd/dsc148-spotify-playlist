@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Chill, beachy tunes to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,959 likes - 90 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,949 likes - 90 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 30 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 |
 | 31 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
 | 32 | [Glad To Be Here](https://open.spotify.com/track/6bXgRLGmrRCnue9R6MI1gF) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 4:33 |
-| 33 | [All I Ever Wanted \- with Colbie Caillat](https://open.spotify.com/track/7BGWHQFvIR53Il5OG1bmu4) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [All I Ever Wanted \- with Colbie Caillat](https://open.spotify.com/album/5k76FHz8PHvF0UgXcfVVZ7) | 2:50 |
+| 33 | [All I Ever Wanted \- with Colbie Caillat](https://open.spotify.com/track/7BGWHQFvIR53Il5OG1bmu4) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [All I Ever Wanted \(with Colbie Caillat\)](https://open.spotify.com/album/5k76FHz8PHvF0UgXcfVVZ7) | 2:50 |
 | 34 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
 | 35 | [Whatever Floats Your Boat \(feat\. The Boat Boys\)](https://open.spotify.com/track/501FhMCfSth5wUP8sLzbgt) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ), [The Boat Boys](https://open.spotify.com/artist/4yKHzSOKNfuhJr1QjgrU6v) | [Whatever Floats Your Boat \(feat\. The Boat Boys\)](https://open.spotify.com/album/0eRVSwCRmoc1ZYXm9FPFd4) | 2:35 |
 | 36 | [Sailing Around the World](https://open.spotify.com/track/2gyP7VG0hXZZcvqeB7iCjX) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Sailing Around the World](https://open.spotify.com/album/2nyrsMC6MCpRTVp4xdoLEP) | 2:46 |

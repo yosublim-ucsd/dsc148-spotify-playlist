@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: sarah salola
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,816 likes - 40 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,817 likes - 40 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 22 | [หมอน](https://open.spotify.com/track/4Ymg08MNEy5Uqkl9ptSejs) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หมอน](https://open.spotify.com/album/6ctR4QPBcG6UA4fjJd5PY2) | 4:03 |
 | 23 | [ใครก็ดีกว่าฉัน \(not me\)](https://open.spotify.com/track/3diTflmcNMJkLgqiW3MN0G) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ใครก็ดีกว่าฉัน \(not me\)](https://open.spotify.com/album/3vklMAlwVFAduoXNvig4x3) | 4:00 |
 | 24 | [Vivienne Westwood](https://open.spotify.com/track/6gf3gCFZloUNpXnrZZd15z) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Vivienne Westwood](https://open.spotify.com/album/6yRUPMoKD3euuXHpnyJsRY) | 2:37 |
-| 25 | [ภาพเรา \(Good Quality Picture\) \- From บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/track/7gdRZLMXECnJ8HnZYm5N23) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ภาพเรา \(Good Quality Picture\) \- From บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/album/6NdafPrIJrOaBxyaytrqQ6) | 4:55 |
+| 25 | [ภาพเรา \(Good Quality Picture\) \- From บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/track/7gdRZLMXECnJ8HnZYm5N23) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ภาพเรา \(Good Quality Picture\) \[From บัส ซิ่ง ไทยแลนด์\]](https://open.spotify.com/album/6NdafPrIJrOaBxyaytrqQ6) | 4:55 |
 | 26 | [ก่อนจบเพลงนี้ \(get to know me\)](https://open.spotify.com/track/32mVnNcR1wfjYRK7wJIN5w) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [ก่อนจบเพลงนี้ \(get to know me\)](https://open.spotify.com/album/4OuPswIcm3xRnQlB06J7mN) | 3:52 |
 | 27 | [แปรงฟัน](https://open.spotify.com/track/23rueOXtXSoenSxTaL16zo) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แปรงฟัน](https://open.spotify.com/album/4PB22xc4pU5jgfrI3VpurG) | 4:09 |
 | 28 | [NEVER](https://open.spotify.com/track/3sNxNDbVxbbkiIFW4jmh72) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [NEVER \- Single](https://open.spotify.com/album/2N5Eq2OURBnjqK1nJ50ArB) | 3:48 |

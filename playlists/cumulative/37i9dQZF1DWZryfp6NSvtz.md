@@ -4,7 +4,7 @@
 
 > The best new rock tracks every week\. Cover: unpeople
 
-7,177 songs - 16 day 23 hr 35 min
+7,180 songs - 16 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Animals](https://open.spotify.com/track/34kqrBl4IKCb6K7dOXjfHX) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Convinced](https://open.spotify.com/album/0uUuovSDn9IzhWw8KNroAD) | 3:45 | 2023-06-30 | 2023-07-08 |
 | [Animo](https://open.spotify.com/track/3aKDYKzoG5JUlNU0wPUFrC) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [Animo](https://open.spotify.com/album/1djRJv7qe83GxDMXxpa6bG) | 3:07 | 2023-03-31 | 2023-04-09 |
 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-19 | 2023-05-27 |
-| [Annulment](https://open.spotify.com/track/1NsvGQtpkVDMAqMa0CPg8c) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Annulment](https://open.spotify.com/album/6HTEIHjp0vurk5RakW678t) | 4:32 | 2024-10-18 |  |
+| [Annulment](https://open.spotify.com/track/1NsvGQtpkVDMAqMa0CPg8c) | [Head Automatica](https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i) | [Annulment](https://open.spotify.com/album/6HTEIHjp0vurk5RakW678t) | 4:32 | 2024-10-18 | 2024-10-22 |
 | [Another Celebration at the End of the World](https://open.spotify.com/track/4k6NV1b3icM8BRCkT57oPV) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Another Celebration at the End of the World](https://open.spotify.com/album/3LOcvq0COUOnftohINoJAD) | 4:35 | 2023-03-24 | 2023-04-01 |
 | [Another Day](https://open.spotify.com/track/7y5IuCBRjO4ycVtrg8SviT) | [Matt Sahadi](https://open.spotify.com/artist/5b7Y3QJu63E4noZh8cLJei) | [Propagated Sins](https://open.spotify.com/album/5Q2rDb75UlCC3hDgo0A7NU) | 4:00 | 2024-03-08 | 2024-03-16 |
 | [Another Harsh Toyotathon](https://open.spotify.com/track/5BqDWD7lw0sBjZzY1XbOGY) | [Camp Trash](https://open.spotify.com/artist/217Q1QeePZbm3dMpwPgXK9) | [The Long Way, The Slow Way](https://open.spotify.com/album/3QKu5FvP3f2TEzhcMMfhL5) | 2:06 | 2022-06-30 | 2022-07-09 |
@@ -2871,6 +2871,7 @@
 | [How To Be Human](https://open.spotify.com/track/6uKLmDqK2zOO8BJ2vvYaMr) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [How To Be Human](https://open.spotify.com/album/1HS3YNocpXpYUwcaqTcaht) | 3:48 | 2023-02-24 | 2023-03-04 |
 | [How To Breathe](https://open.spotify.com/track/0MrZd5sqcHjcTy4uxR6vHm) | [Bx](https://open.spotify.com/artist/7hYlgxXknbeUIyJBtmhtTp) | [How To Breathe](https://open.spotify.com/album/7gbIHURjPKmmKmitrFHqIc) | 5:19 | 2024-07-26 | 2024-08-03 |
 | [How To Disappear](https://open.spotify.com/track/2q1uTb4UGj9T7nPiFR2Kwo) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [How To Disappear](https://open.spotify.com/album/1EuVYwdFz5QnhJVzUEu81A) | 5:11 | 2023-10-27 | 2023-11-04 |
+| [How To Hide A Body](https://open.spotify.com/track/1IdJzfAHivOqqxrKJV7vPc) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [How To Hide A Body](https://open.spotify.com/album/2KtAUlsmDGvAJztdw25nAN) | 2:41 | 2024-10-21 |  |
 | [How to Hold a Knife](https://open.spotify.com/track/0X09CrNSf6i0OWSVqU3RT0) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [How to Hold a Knife](https://open.spotify.com/album/0PQLyt9P4Qi94KgwTnsvcH) | 2:56 | 2023-09-29 | 2023-10-07 |
 | [How To Replace It](https://open.spotify.com/track/0KOP3vDzH1hlOMPDZpt7Mw) | [dEUS](https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN) | [How To Replace It](https://open.spotify.com/album/5zZGcXpYsK3K8uvI0Vds35) | 5:30 | 2023-02-17 | 2023-02-25 |
 | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/track/7Fl0b9D0scfhSmflkS9YLE) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [How To Ruin Everything \(Patience\) \[feat\. Ice Nine Kills\]](https://open.spotify.com/album/3wI6LYcqfyWa4bvrRsIjNv) | 3:20 | 2023-02-03 | 2023-02-11 |
@@ -2943,6 +2944,7 @@
 | [I Don't Need a Rocket to Find My Own Space](https://open.spotify.com/track/0WeFSW2vxAJ94y0EXWcTkt) | [LostAlone](https://open.spotify.com/artist/0rAOPs8hf2bB7KECYDdaMC) | [The Warring Twenties](https://open.spotify.com/album/4773GkUhoAhblhtYXxX9Sb) | 2:47 | 2022-09-30 | 2022-10-08 |
 | [I Don't Need To Hide](https://open.spotify.com/track/6MMmYccw3ZtPAEZAI1a1nV) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [I Don't Need To Hide](https://open.spotify.com/album/0RDiXqepkB2CYtpkB5Xc97) | 3:54 | 2022-08-19 | 2022-08-27 |
 | [I Don't Remember](https://open.spotify.com/track/14ZOrTzkLV7rfTsdFiBqXj) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [I Don't Remember](https://open.spotify.com/album/1CPbjSbGXKqOzIgj3BBj62) | 3:57 | 2023-12-01 | 2023-12-09 |
+| [I Don't Speak the Language](https://open.spotify.com/track/17p5v3CWqagIm4jryEpnFO) | [Fox Royale](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [I Don't Speak the Language](https://open.spotify.com/album/2kyvXS2WjSgLkxnGhCOeOf) | 2:12 | 2024-10-21 |  |
 | [I Don't Wanna Be Dead](https://open.spotify.com/track/0VrCsTDC6duHg107n2u3k2) | [Joshua Grant](https://open.spotify.com/artist/1hBGtBGjmVvxqPUL7rrW7Y) | [I Don't Wanna Be Dead](https://open.spotify.com/album/0TP3Vijm5EPnm4w042XHa3) | 3:47 | 2022-04-28 | 2022-05-06 |
 | [I Don't Want It](https://open.spotify.com/track/2Svk6hoXp983eh8f95Oupd) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Don't Want It](https://open.spotify.com/album/1DW7NqqzHq2QdzoDvB5VXm) | 2:15 | 2022-08-26 | 2022-09-09 |
 | [I don't want to die alone](https://open.spotify.com/track/0lzAKbMrjLuTCivfmQTOL6) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [Super Champon](https://open.spotify.com/album/23oUTiqIPyiA42tXNsIzis) | 1:55 | 2022-05-05 | 2022-05-13 |
@@ -3831,7 +3833,7 @@
 | [Make or Break](https://open.spotify.com/track/1zE6P0V7FX36pdFblWVbUL) | [Bleach Garden](https://open.spotify.com/artist/74v0EH5Gl2zsUhXXWzGJyI) | [Nepenthe](https://open.spotify.com/album/1iwuk5tV77trbyFApJmLyT) | 5:02 | 2023-05-12 | 2023-05-20 |
 | [Make Way](https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Make Way](https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm) | 2:57 | 2023-03-10 | 2023-03-18 |
 | [Makes Me Violent](https://open.spotify.com/track/1nNSdsmH6rqpa6x7WeUL5v) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Makes Me Violent](https://open.spotify.com/album/0j6c4JKUS4ofsa0P927Irn) | 3:19 | 2024-03-01 | 2024-03-09 |
-| [Making a Living](https://open.spotify.com/track/3fvKnXq2YtltwpVxlKpAv0) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Making a Living](https://open.spotify.com/album/0azm3jRkWf3CI7WOlcJA9g) | 2:17 | 2024-10-18 |  |
+| [Making a Living](https://open.spotify.com/track/3fvKnXq2YtltwpVxlKpAv0) | [Sugar Pit](https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv) | [Making a Living](https://open.spotify.com/album/0azm3jRkWf3CI7WOlcJA9g) | 2:17 | 2024-10-18 | 2024-10-22 |
 | [Maktub](https://open.spotify.com/track/4ne40SWAvqOQu0HD2fwgWd) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [JPEG RAW Sampler](https://open.spotify.com/album/26YWRzY4wSeA4QL4QDGNGS) | 4:13 | 2024-01-26 | 2024-02-03 |
 | [Maleny Drive](https://open.spotify.com/track/46PJicWRDQU8L2ujtSdLUr) | [Upsetter](https://open.spotify.com/artist/5gXIxLXqLsKBE6SRkCiDWC) | [Maleny Drive](https://open.spotify.com/album/5Zs5ddgOt8GWSkPmeopMUN) | 2:48 | 2024-04-05 | 2024-04-13 |
 | [Malibu Beach House](https://open.spotify.com/track/404jLVCRjZXEQ3p8DqjN4e) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [I'll Drown On This Earth](https://open.spotify.com/album/6OVBEav1yV2tl07wTlPozK) | 4:01 | 2024-08-30 | 2024-09-07 |
@@ -5817,6 +5819,7 @@
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-05-12 | 2023-05-20 |
 | [Stuck In a Car With You](https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Stuck In a Car With You](https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t) | 3:59 | 2023-09-15 | 2023-09-23 |
 | [Stuck in a Dream](https://open.spotify.com/track/1nZ6laGvGSvOeR2mwl7xtf) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Momentary Presence](https://open.spotify.com/album/2o4pKfKTrCon2KvvpySYjZ) | 3:36 | 2022-10-14 | 2022-10-22 |
+| [Stuck In Cheyenne](https://open.spotify.com/track/4M6WG6R3Rx3aB7LrNL9mx8) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Pacific Highway Music](https://open.spotify.com/album/3Gj02Upr1O1ojSMzE0Jtd3) | 2:45 | 2024-10-21 |  |
 | [Stuck In My Ways](https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Stuck In My Ways](https://open.spotify.com/album/0IyXHRcQxesZtc09HdKCyv) | 2:54 | 2022-12-09 | 2022-12-17 |
 | [Stuck In The Heat](https://open.spotify.com/track/765LpfOB7pBklA0X34LbHB) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [At Least I Tried](https://open.spotify.com/album/2SEw3hXvE9tlEPh3ki3LiU) | 2:03 | 2023-12-01 | 2023-12-09 |
 | [Stuck on You](https://open.spotify.com/track/4itaZ1FLykardSo2xfrVtU) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [Stuck on You](https://open.spotify.com/album/4jxWewF9wV0XiqJb0ic8qX) | 3:11 | 2024-02-09 | 2024-02-17 |

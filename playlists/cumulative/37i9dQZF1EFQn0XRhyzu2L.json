@@ -863,7 +863,7 @@
     },
     {
       "album": {
-        "name": "Rare - Deluxe",
+        "name": "Rare (Deluxe)",
         "url": "https://open.spotify.com/album/3rA5CgccCbmCnJEzwGnDea"
       },
       "artists": [
@@ -4705,7 +4705,7 @@
     },
     {
       "album": {
-        "name": "Inspired by True Events - Deluxe Edition",
+        "name": "Inspired by True Events (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5lRQzYCMjiFzkRyOeiKrPY"
       },
       "artists": [
@@ -4741,7 +4741,7 @@
     },
     {
       "album": {
-        "name": "Something Beautiful - Deluxe Version",
+        "name": "Something Beautiful (Deluxe Version)",
         "url": "https://open.spotify.com/album/3MhNuSt8uRLn46yXvjFnZa"
       },
       "artists": [
@@ -7843,7 +7843,7 @@
     },
     {
       "album": {
-        "name": "Rare - Deluxe",
+        "name": "Rare (Deluxe)",
         "url": "https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z"
       },
       "artists": [
@@ -8430,6 +8430,24 @@
       "duration_ms": 193468,
       "name": "Sway",
       "url": "https://open.spotify.com/track/6yV9zIvGXvFzB964tdq65x"
+    },
+    {
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180713,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3"
     },
     {
       "album": {

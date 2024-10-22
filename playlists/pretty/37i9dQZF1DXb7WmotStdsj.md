@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,809 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,916 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gariha Tebred](https://open.spotify.com/track/2axZSUsWulCzn4Ewx3pJCH) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Gariha Tebred](https://open.spotify.com/album/01uuEUdBLAo8JTQplSxJQJ) | 4:36 |
-| 2 | [GALBI RAH MEDRAR](https://open.spotify.com/track/5CTSZ5c4U3PJF2uQNDpCVa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [GALBI RAH MEDRAR](https://open.spotify.com/album/0UDVHc4u4lYGc0ZpMK9WGW) | 5:20 |
-| 3 | [Waldiya Samholi](https://open.spotify.com/track/2vhiaigd2I1xDgZqoEmaTr) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [Waldiya Samholi](https://open.spotify.com/album/7zqPD1RWksNJyZ2kLuwiW6) | 4:56 |
-| 4 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 |
-| 5 | [OMRI](https://open.spotify.com/track/08hX3lnqw1Nj2qhaNZ3dPM) | [Acim Music](https://open.spotify.com/artist/2i5v6LrS28a8RVj2e4jZCb) | [OMRI](https://open.spotify.com/album/1Wki9YbkZwOvhrAYbOtn65) | 3:02 |
+| 1 | [OMRI](https://open.spotify.com/track/08hX3lnqw1Nj2qhaNZ3dPM) | [Acim Music](https://open.spotify.com/artist/2i5v6LrS28a8RVj2e4jZCb) | [OMRI](https://open.spotify.com/album/1Wki9YbkZwOvhrAYbOtn65) | 3:02 |
+| 2 | [Gariha Tebred](https://open.spotify.com/track/2axZSUsWulCzn4Ewx3pJCH) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Gariha Tebred](https://open.spotify.com/album/01uuEUdBLAo8JTQplSxJQJ) | 4:36 |
+| 3 | [GALBI RAH MEDRAR](https://open.spotify.com/track/5CTSZ5c4U3PJF2uQNDpCVa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [GALBI RAH MEDRAR](https://open.spotify.com/album/0UDVHc4u4lYGc0ZpMK9WGW) | 5:20 |
+| 4 | [Waldiya Samholi](https://open.spotify.com/track/2vhiaigd2I1xDgZqoEmaTr) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [Waldiya Samholi](https://open.spotify.com/album/7zqPD1RWksNJyZ2kLuwiW6) | 4:56 |
+| 5 | [شوفو لامور مادار فيا](https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [شوفو لامور مادار فيا](https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6) | 3:06 |
 | 6 | [رڨصيلي كي شابة شوشو](https://open.spotify.com/track/4iGQQ8qFVv40cAWfMXHhxZ) | [Cheb Fatah Sghir](https://open.spotify.com/artist/1H57SKDukOD5AEpQkBkeyO) | [رڨصيلي كي شابة شوشو](https://open.spotify.com/album/6zzNV2C7hhBeRY1ndwtFnZ) | 2:56 |
 | 7 | [لي نخرج معاها نربح عليها](https://open.spotify.com/track/0ztDisLpRcEKfHAPf1DDtK) | [Cheb Oussama](https://open.spotify.com/artist/39NbSFvjWk8fXvaoorAv6E), [Hocine Ghouila](https://open.spotify.com/artist/6ZVzzAtaJk22OPFgiiACHt) | [لي نخرج معاها نربح عليها](https://open.spotify.com/album/6h9P3Nup7ibkk49FeUuWIh) | 4:01 |
 | 8 | [Chwiya Wa9t W Nensak](https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [Chwiya Wa9t W Nensak](https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR) | 5:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 |
 | 60 | [Min Djebti D Lcourage](https://open.spotify.com/track/2ysMp68ms8pxhKb0Fnk602) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Min Djebti Del Courage](https://open.spotify.com/album/4xUcTd7wXrV177y1qT6zNt) | 4:14 |
 
-Snapshot ID: `Zw4rsAAAAAAb9ae0DRnMVxZYqtTXwRDj`
+Snapshot ID: `ZxYi0wAAAAAc5/YcQvTgwqOLEGM3LYst`

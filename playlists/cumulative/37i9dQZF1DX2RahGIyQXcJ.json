@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of hip-hop tracks from South Asia. Cover:  Sidhu Moose Wala, Steel Banglez",
+  "description": "Best of hip-hop tracks from South Asia. Cover:  Karan Aujla",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -1251,6 +1251,28 @@
     },
     {
       "album": {
+        "name": "Big Loss",
+        "url": "https://open.spotify.com/album/7xZV2oU3dR8taMeW7OGdyP"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Big Loss",
+      "url": "https://open.spotify.com/track/76voghdL792BAy9YwEKfzw"
+    },
+    {
+      "album": {
         "name": "Bindis and Bangles",
         "url": "https://open.spotify.com/album/6mKpIIUMij8TpG1mQm91Si"
       },
@@ -2090,7 +2112,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 176587,
       "name": "Drinks On Me",
       "url": "https://open.spotify.com/track/6mt8Bt9aHHCfbTBJMAcceJ"
@@ -3419,7 +3441,7 @@
     },
     {
       "album": {
-        "name": "Kaathu Mela - From \"Think Indie\"",
+        "name": "Kaathu Mela (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H"
       },
       "artists": [
@@ -6235,6 +6257,24 @@
     },
     {
       "album": {
+        "name": "Sifar Safar",
+        "url": "https://open.spotify.com/album/3QNOBqIMylNpZXZ8OtFoC2"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180344,
+      "name": "Sifar Safar",
+      "url": "https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx"
+    },
+    {
+      "album": {
         "name": "Gunehgar",
         "url": "https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs"
       },
@@ -6330,7 +6370,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 270324,
       "name": "SUPREME LEADER",
       "url": "https://open.spotify.com/track/6xrlfwtDlgVN8M3aox9215"

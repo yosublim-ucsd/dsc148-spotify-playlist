@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:6qValgleME8pv861DLzupQ">Adoración La IBI</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,720 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,742 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 80 | [Cómo No Alabarte](https://open.spotify.com/track/5MyzSyjwwizvOcpPdv2bqy) | [Samu Robles](https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl) | [Cómo No Alabarte](https://open.spotify.com/album/6ujemlzDsWe8van5kZKPOx) | 2:36 |
 | 81 | [Por Ti](https://open.spotify.com/track/09bRLZWd9AFz72wP92B1z9) | [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Por Ti](https://open.spotify.com/album/4T40Iv05X5BjqviBRTXbCv) | 2:58 |
 | 82 | [En La Intimidad](https://open.spotify.com/track/1w5XSNSFjvZRHvRXFmqqHs) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [En La Intimidad](https://open.spotify.com/album/4j6eXNU9vZxAknxHbVfZ4W) | 3:22 |
-| 83 | [Te Quiero Adorar \- Remix](https://open.spotify.com/track/4vhIOPs8ewt5zCWznKrNkt) | [Wolandia](https://open.spotify.com/artist/46eL7q4TISdKjN2px64rhu), [Temperamento](https://open.spotify.com/artist/4Dl7Unc1cpMBTMi3B71dij), [Unoscar](https://open.spotify.com/artist/22nX1GTxH1n8qr80yj9Dbg) | [Te Quiero Adorar \- Remix](https://open.spotify.com/album/3tifPQyXlnE4CQ7fhqy6nu) | 4:00 |
+| 83 | [Te Quiero Adorar \- Remix](https://open.spotify.com/track/4vhIOPs8ewt5zCWznKrNkt) | [Wolandia](https://open.spotify.com/artist/46eL7q4TISdKjN2px64rhu), [Temperamento](https://open.spotify.com/artist/4Dl7Unc1cpMBTMi3B71dij), [Unoscar](https://open.spotify.com/artist/22nX1GTxH1n8qr80yj9Dbg) | [Te Quiero Adorar \(Remix\)](https://open.spotify.com/album/3tifPQyXlnE4CQ7fhqy6nu) | 4:00 |
 | 84 | [Pero Tengo a Cristo \- Remix](https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C) | [R Nova](https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Arasay](https://open.spotify.com/artist/4M2hXmjCgSssWbolWLGFE4) | [Pero Tengo a Cristo \(Remix\)](https://open.spotify.com/album/2KueafqItELNjYDLcojc9I) | 3:41 |
 | 85 | [Brillo](https://open.spotify.com/track/4PnFb4kIQQgHVghPSDsjzA) | [TTIMO](https://open.spotify.com/artist/6uQtVt05v9t3SmaYZlgaG9), [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF), [Miguel Gz](https://open.spotify.com/artist/390M0aeOwJErUTl9j6BKBI) | [Brillo](https://open.spotify.com/album/2R4MKKiLsgx8rPhRYa4Ul5) | 2:41 |
 | 86 | [Me Enamoré](https://open.spotify.com/track/41nrTggCQDpxDR17oKMDPr) | [Kerix](https://open.spotify.com/artist/2WWm6ODhDrENdCzIZhObso), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6) | [Me Enamoré](https://open.spotify.com/album/74oHyhdP5fEb36KZS81qQc) | 3:59 |

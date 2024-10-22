@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,464 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,468 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -665,7 +665,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 655 | [Some Kind of Joy](https://open.spotify.com/track/62PTQG6mO50YCuyRriyeBP) | [Mary Yalex](https://open.spotify.com/artist/2pWXaKJa5CD5EkseY2CH30) | [Some Kind of Joy](https://open.spotify.com/album/5bRfhOQm5EKXgJCR1rERUX) | 6:01 |
 | 656 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
 | 657 | [Kids Return](https://open.spotify.com/track/6yX2B55K9xAgP8jkORvvNe) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Kids Return](https://open.spotify.com/album/6X6w4xXMmJCxOhRZgE8pnL) | 5:18 |
-| 658 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \- Expanded Version](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
+| 658 | [Just Like Honey](https://open.spotify.com/track/1LwP9g1Hjbs64jXM2Qsxry) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy \(Expanded Version\)](https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto) | 3:02 |
 | 659 | [Gore\-Tex シティ](https://open.spotify.com/track/4FxJFNElGeTgbtVBKMmujx) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [Nordic Flora Series Pt.3: Gore\-Tex City](https://open.spotify.com/album/00UvStqOg1swz8GSFgh4oQ) | 6:27 |
 | 660 | [Citgo](https://open.spotify.com/track/6rzOjBdVrmeBTnQQdyPuL7) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rich \(Deluxe\)](https://open.spotify.com/album/6VML3yX1WR5pXtg6fmwdzZ) | 3:13 |
 | 661 | [Mayday](https://open.spotify.com/track/40sFep2wZeBGSU2r4eSxBG) | [Mike Slott](https://open.spotify.com/artist/1Ujy7P4HcSHRDxMhyr2Zfo) | [Mayday](https://open.spotify.com/album/3d1xU84JxsO4M72Eh4H4bd) | 4:59 |
@@ -743,7 +743,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 733 | [Turned](https://open.spotify.com/track/0N96vTHFIGVaZzoXkgxbnm) | [Ben Pound](https://open.spotify.com/artist/17VRF4Pmc55t1fVsog2npg) | [Fear Of A Silver Planet Mixed By James Holden](https://open.spotify.com/album/5nGAGARTtLFmU3uMJCq7mG) | 8:05 |
 | 734 | [Inky](https://open.spotify.com/track/0b12LsoDMuH8cPNP0DbASZ) | [Nautiluss](https://open.spotify.com/artist/6I1pwo5JfNKmX794auk39O) | [Liquid Sky](https://open.spotify.com/album/7wrs8OBLTsWjIIIrgt4JCF) | 5:32 |
 | 735 | [The Way I Feel](https://open.spotify.com/track/0MyX4lICeoEQUaY7BadClX) | [Mystic Bill](https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV) | [Mystic Files](https://open.spotify.com/album/6brJ5aiqz55AoMvgfT6CNn) | 5:43 |
-| 736 | [Everytime \- Nalin & Kane Extended Mix](https://open.spotify.com/track/0UeDE38QNQ0hr7hVPcpvmg) | [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7), [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5), [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [Deepest, Darkest Secrets \- Bonus Edition](https://open.spotify.com/album/2MdcmcdlE9AVxuPbElJ9WV) | 8:32 |
+| 736 | [Everytime \- Nalin & Kane Extended Mix](https://open.spotify.com/track/0UeDE38QNQ0hr7hVPcpvmg) | [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7), [The Space Brothers](https://open.spotify.com/artist/4nb1tQbYZYqvr50cdTqek5), [Nalin & Kane](https://open.spotify.com/artist/6JUsbe4yjY4fZbXTtpyfh6) | [Deepest, Darkest Secrets \(Bonus Edition\)](https://open.spotify.com/album/2MdcmcdlE9AVxuPbElJ9WV) | 8:32 |
 | 737 | [IX \(Regret\)](https://open.spotify.com/track/2xazd5Srl74nqWsYDWNzcC) | [Rabit](https://open.spotify.com/artist/2X3e2rDdxibDfJGv0CwS7A) | [Life After Death](https://open.spotify.com/album/5vB39tL9cX7lSNR1KKTldw) | 4:04 |
 | 738 | [Cold Café](https://open.spotify.com/track/6IAaQSXHuCmiNTZwJu1xxA) | [Karen Marks](https://open.spotify.com/artist/5740nISYrFlBZsX1HOC5bE) | [Sky Girl](https://open.spotify.com/album/60qkFJ8lNVqFAzvEIojxut) | 3:04 |
 | 739 | [Heaven's Only Wishful \- Jacques Greene Edit](https://open.spotify.com/track/7ksSKcmjvXE6lfDZYe6U7E) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Heaven's Only Wishful \(Jacques Greene Edit\)](https://open.spotify.com/album/3Rgzsn8LyegmXrBJgIMSTB) | 5:29 |

@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 80617,
+  "num_followers": 80650,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Duas Cidades",
-        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        }
-      ],
-      "duration_ms": 246280,
-      "name": "Lucro (Descomprimindo)",
-      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Acabou Chorare",
         "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 232200,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Duas Cidades",
+        "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        }
+      ],
+      "duration_ms": 246280,
+      "name": "Lucro (Descomprimindo)",
+      "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
-        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
-      },
-      "artists": [
-        {
-          "name": "Os Tinco\u00e3s",
-          "url": "https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Deixa A Gira Girar",
-      "url": "https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Bom Demais",
         "url": "https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 239026,
       "name": "Ara Ketu Bom Demais",
       "url": "https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
+        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
+      },
+      "artists": [
+        {
+          "name": "Os Tinco\u00e3s",
+          "url": "https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Deixa A Gira Girar",
+      "url": "https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Conversa Fiada",
-        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 196810,
-      "name": "Conversa Fiada",
-      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Caetanear",
         "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 199333,
       "name": "Odara",
       "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Conversa Fiada",
+        "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 196810,
+      "name": "Conversa Fiada",
+      "url": "https://open.spotify.com/track/6r4NNOFLKjjsqdK6fq4qoY"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Ligeiro",
-        "url": "https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp"
+        "name": "Tropix",
+        "url": "https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4"
       },
       "artists": [
         {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
         }
       ],
-      "duration_ms": 211588,
-      "name": "Ligeiro",
-      "url": "https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY"
+      "duration_ms": 288200,
+      "name": "Varanda Suspensa",
+      "url": "https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Tropix",
-        "url": "https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4"
+        "name": "Ligeiro",
+        "url": "https://open.spotify.com/album/0j8GlFLqVlDkKKAzH9G2cp"
       },
       "artists": [
         {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
         }
       ],
-      "duration_ms": 288200,
-      "name": "Varanda Suspensa",
-      "url": "https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum"
+      "duration_ms": 211588,
+      "name": "Ligeiro",
+      "url": "https://open.spotify.com/track/3GDHgdo1Ahn7fe5h2yh2aY"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Pequim",
-        "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        },
-        {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
-        }
-      ],
-      "duration_ms": 198897,
-      "name": "Pequim",
-      "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Para\u00edso da Miragem",
         "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 237426,
       "name": "Cabe\u00e7a de N\u00eago",
       "url": "https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Pequim",
+        "url": "https://open.spotify.com/album/2P0MrtKOyBigDAn4JhYafz"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        },
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Pequim",
+      "url": "https://open.spotify.com/track/5ns6G2OgmkJLc5iti69ute"
     },
     {
       "added_at": "2022-09-22 18:13:04",

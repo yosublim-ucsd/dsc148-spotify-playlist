@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0aCy51jGSGf6y3xPNyE9fV?si=s6RHg65PTlGFMLEtVIBhgQ">Don Edward</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,071 likes - 61 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,119 likes - 61 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 36 | [Sendibona \(feat\. Major League Djz & Makhanj\)](https://open.spotify.com/track/4VYKn0FulAwhIb9fTRKm6i) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Makhanj](https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV) | [Road To Fuego](https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux) | 6:39 |
 | 37 | [Phula \(feat\. Sykes\)](https://open.spotify.com/track/1Ojs88KkiCrOuygdmx3ra1) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Sykes](https://open.spotify.com/artist/2JmhEj7PPMlCxACWXxqSGA) | [ARCADE TRILOGY](https://open.spotify.com/album/5Hp1CQzpljacEyOtuDXFFZ) | 5:59 |
 | 38 | [I Choose You](https://open.spotify.com/track/3mvDG5E5xabgrSCmDt8J0T) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [I Choose You](https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB) | 3:37 |
-| 39 | [Big Man \- Bimini Boss Bitch Remix](https://open.spotify.com/track/4EzdvIN49RyRFpWvmKOwvc) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [BIMINI](https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx) | [Big Man \(Bimini Boss Bitch Remix\)](https://open.spotify.com/album/3AU5wBF70e7j0oSslZwIeC) | 4:47 |
+| 39 | [Big Man \- Bimini Boss Bitch Remix](https://open.spotify.com/track/4EzdvIN49RyRFpWvmKOwvc) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Big Man \(Bimini Boss Bitch Remix\)](https://open.spotify.com/album/3AU5wBF70e7j0oSslZwIeC) | 4:47 |
 | 40 | [Rise Again](https://open.spotify.com/track/2i8HcBo6TQN5PC8hAwFdho) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7), [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Daniel Baron](https://open.spotify.com/artist/6j57OAd060Casvsu7TYDIl), [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ), [Martin Bester](https://open.spotify.com/artist/3LVGq66sLnDTKq5qcu9upF), [Jamie\-Lee Sexton](https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h) | [Rise Again](https://open.spotify.com/album/124njKtfytrGpKVP0051yH) | 2:38 |
 | 41 | [Thando Awpheli \(feat\. LeeMcKrazy\)](https://open.spotify.com/track/4qFS9V4rQfhywO1nU0gQJ2) | [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg) | [MKHAYA](https://open.spotify.com/album/5gkqXPD6YGBT71891tUJMp) | 6:13 |
 | 42 | [Izolo \(feat\. Mick Man\)](https://open.spotify.com/track/2EU85hqJoXu7MLvQHbNC0F) | [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Ntokzin](https://open.spotify.com/artist/01n03WadoqgmHHDQ24v3kV), [Mick Man](https://open.spotify.com/artist/2qyayQizFjGigmZVrwyuf9) | [Izolo \(feat\. Mick Man\)](https://open.spotify.com/album/14x3nEg3mKWF7XxB1QATju) | 9:08 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 60 | [Arrow](https://open.spotify.com/track/6r2H9RQTO0F9fbbsUodbNP) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Arrow](https://open.spotify.com/album/7M3glxHrbvFxJNkKytfqi3) | 3:14 |
 | 61 | [Thandiwe](https://open.spotify.com/track/4fm4JTBpBBleej7kNSlrhE) | [Masuda](https://open.spotify.com/artist/2qUaP5PLCvt2clzsb4ddYl), [Shamzisto](https://open.spotify.com/artist/6xHvJyvoIFftCKpbbLPzIu) | [Thandiwe](https://open.spotify.com/album/57DAt0U4qWlm1m4Mf3NAiJ) | 4:38 |
 
-Snapshot ID: `ZxIheQAAAAAdLZJiV/ksTpmfpYm/QTI0`
+Snapshot ID: `ZxXdZwAAAAD6wqg4yyRA5bqWivPFOo40`

@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-171 songs - 8 hr 8 min
+173 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dumbledore's Farewell](https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter and the Half\-Blood Prince \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xXblCIb5G6ji70efT7THx) | 2:22 | 2022-11-08 |  |
 | [Duneagle](https://open.spotify.com/track/4kdpowysBJf9nikuaNNcJZ) | [John Lunn](https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [Downton Abbey \- The Ultimate Collection \(Music From The Original TV Series\)](https://open.spotify.com/album/6xjWiCK1NwsZr7GtP2EWeP) | 2:06 | 2022-11-08 |  |
 | [E Lucevan Le Stelle \- Instrumental](https://open.spotify.com/track/2QDp4b9Gjk9FxpklHEoVIy) | [Mělník Philharmonic Orchestra](https://open.spotify.com/artist/1NXnbWMRTorBroMDX79R9H) | [Giacomo Puccini: Strings](https://open.spotify.com/album/70c4CknpQvEoQPP9enJQp2) | 2:22 | 2022-03-09 | 2022-11-09 |
+| [Earth](https://open.spotify.com/track/183tCj3FW0MBHKeDPHKoDj) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Life On Our Planet \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0twoJjqA27AFvNr5UiCNGz) | 3:50 | 2024-10-21 |  |
 | [Ella and Kit](https://open.spotify.com/track/1lMaFGcFzfESerHh28aMLA) | [Patrick Doyle](https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ) | [Cinderella \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MaXQAzgpi1UGNNia9r7fx) | 2:11 | 2022-11-08 |  |
 | [Enchanted Strings](https://open.spotify.com/track/1IRccS64JM5k4Ii6grZuos) | [Leyenda](https://open.spotify.com/artist/1kgpTcXkeXeImymThm78ZB) | [Restora](https://open.spotify.com/album/33fCRxByXLoGdxXtx5X7qe) | 3:43 | 2022-03-09 | 2022-11-09 |
 | [End of an Era](https://open.spotify.com/track/3ghDD40MNhsova0MBI6SbG) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [End of an Era](https://open.spotify.com/album/2GluBruM0qlhzZI1BppBQ5) | 3:05 | 2022-03-09 | 2022-11-09 |
@@ -60,6 +61,7 @@
 | [Faith in You](https://open.spotify.com/track/0wOmd66tskQXrKtLg33b3U) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Faith in You](https://open.spotify.com/album/5IAp1A7XNBFRAmLbtHYVcW) | 3:18 | 2022-08-05 | 2022-11-09 |
 | [Feast of Starlight](https://open.spotify.com/track/1hOavq1yyy1GqzjVpx3vjq) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit: The Desolation of Smaug \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/3MCUHjDo3wSm2QuLh1Fyrf) | 2:48 | 2022-11-08 | 2024-04-19 |
 | [Feast Of Starlight \- From "The Hobbit \- The Desolation Of Smaug"](https://open.spotify.com/track/0OmFvEb5a3iJPwW2h0tTO0) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit \- The Desolation Of Smaug \(Original Motion Picture Soundtrack / Special Edition\)](https://open.spotify.com/album/2nsRpsb5aeOhNEWV1MoiHB) | 2:48 | 2023-12-21 |  |
+| [First Sight](https://open.spotify.com/track/4NtRkpweTUxkKHvl0odbgD) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [First Sight](https://open.spotify.com/album/52gS5j43amMiH4c3mzWoie) | 2:42 | 2024-10-21 |  |
 | [Flight](https://open.spotify.com/track/08AlY11E0HRmvm32pt0K9d) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId) | 2:16 | 2022-07-29 | 2022-11-09 |
 | [Flight](https://open.spotify.com/track/6x5tRBmT3426qhiOepUDOB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:16 | 2022-03-09 | 2022-07-29 |
 | [Floating \(String Version\)](https://open.spotify.com/track/7rePRjsyBLgY0MTIaUBthX) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Floating \(String Version\)](https://open.spotify.com/album/2ZjQHHvRgWACbDrGcmojZf) | 2:46 | 2022-03-09 | 2022-11-09 |
@@ -69,7 +71,7 @@
 | [Gwen & Arthur](https://open.spotify.com/track/1tNy5VkcyaGSFenZI4u1Ge) | [Rob Lane](https://open.spotify.com/artist/7nlwfEaz3EFAq4rJBvLy5k) | [Merlin: Series Two \(Original Television Soundtrack\)](https://open.spotify.com/album/2Vnp2cxXua0HftgllFXRHc) | 0:55 | 2022-11-08 |  |
 | [Heart of a Hero](https://open.spotify.com/track/6EqecnFbgkjEsKRJ8prLEB) | [Chance Thomas](https://open.spotify.com/artist/1VPqJ10EqqXOQNDw1ppYeh) | [The Lord of the Rings Online \(10th Anniversary Commemorative Soundtrack\)](https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY) | 2:23 | 2022-11-08 |  |
 | [Home](https://open.spotify.com/track/0PmH79CmZR3HCvTukh4Nge) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 2:30 | 2022-11-08 |  |
-| [Hometown Hero](https://open.spotify.com/track/0LMCBbY32nJJlGTQLc8MgV) | [William Ross](https://open.spotify.com/artist/2cmxX7dd4i6kexfulvdpZg) | [My Dog Skip \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4Jed2zOJ0h2XudOaMHt5vP) | 1:59 | 2022-11-08 |  |
+| [Hometown Hero](https://open.spotify.com/track/0LMCBbY32nJJlGTQLc8MgV) | [William Ross](https://open.spotify.com/artist/2cmxX7dd4i6kexfulvdpZg) | [My Dog Skip \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Jed2zOJ0h2XudOaMHt5vP) | 1:59 | 2022-11-08 |  |
 | [Huddled in the Shadows](https://open.spotify.com/track/45mG9ywi5sbbxjA2Rdv95L) | [Austin Wintory](https://open.spotify.com/artist/3Rwlus4QnnBSnTe8pJV0rw) | [The Banner Saga](https://open.spotify.com/album/4dZzebB3bTIXLJpTMOSE44) | 3:02 | 2022-03-09 | 2022-11-09 |
 | [Hunger, Thirst](https://open.spotify.com/track/2CH3Ub29VJrqNgg0v2fx0D) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Road To Meteora](https://open.spotify.com/album/3PLSbFdaSc9nHiZsdutrAz) | 2:13 | 2022-03-09 | 2022-11-09 |
 | [I Thought I'd Never Forget](https://open.spotify.com/track/66TyP1oeJXmnCkNpyul9T1) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Momentum](https://open.spotify.com/album/1pP6DihqrGirs9YPUp6bHQ) | 2:20 | 2022-03-09 | 2022-11-09 |

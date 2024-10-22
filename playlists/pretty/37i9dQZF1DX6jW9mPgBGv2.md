@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Big Soto y Eladio Carrion plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,143 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,244 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 | 42 | [KTM](https://open.spotify.com/track/3EPIt4FqsVQLM48HozrcFr) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [KTM](https://open.spotify.com/album/4tLv0V8sA8pwzlOBwGJgcF) | 6:06 |
 | 43 | [Drug Dealer](https://open.spotify.com/track/2dPAFgazUwT1m0CjLF6pae) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [2016](https://open.spotify.com/album/2nkZ7aU11LlxpeFinf2VTL) | 3:08 |
 | 44 | [TSA](https://open.spotify.com/track/2i040t6fajMZuFD8kq6EpF) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [TSA/Puntos Y Pasto](https://open.spotify.com/album/2eLpnnQTHNyOU4sOSmAHa2) | 2:50 |
-| 45 | [VVS Switch \(feat\. Luar La L & CDobleta\) \- Remix](https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [VVS Switch \(feat\. Luar La L & CDobleta\) \- Remix](https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb) | 9:15 |
+| 45 | [VVS Switch \(feat\. Luar La L & CDobleta\) \- Remix](https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0) | [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [VVS Switch \(feat\. Luar La L & CDobleta\) \[Remix\]](https://open.spotify.com/album/3g16kvv1kgZIfqvo6u4Evb) | 9:15 |
 | 46 | [31](https://open.spotify.com/track/3wVpRDw177Q92oJQWkqELs) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [31](https://open.spotify.com/album/7eWeQJPoi5K9AznEBcKUNJ) | 2:36 |
 | 47 | [RICH RAPPERS](https://open.spotify.com/track/3AqBgjuLAErzEWVnDWxNCS) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [RICH RAPPERS](https://open.spotify.com/album/2SoYdGUSBOlc2tBLBW9G84) | 3:13 |
 | 48 | [MR\. OCTOBER](https://open.spotify.com/track/1ODFVLQszq0hCOdZtqV5wq) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:09 |

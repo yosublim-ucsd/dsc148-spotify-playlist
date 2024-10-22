@@ -583,7 +583,7 @@
     },
     {
       "album": {
-        "name": "Boombastic - From \"Kadaisi Ulaga Por\"",
+        "name": "Boombastic (From \"Kadaisi Ulaga Por\")",
         "url": "https://open.spotify.com/album/7A5PybkVgLvWMyYYeGNmU0"
       },
       "artists": [
@@ -821,7 +821,7 @@
     },
     {
       "album": {
-        "name": "Meiyazhagan - Original Motion Picture Soundtrack",
+        "name": "Meiyazhagan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1ZRUTCTotW0Poch6GEX1z2"
       },
       "artists": [
@@ -1551,7 +1551,7 @@
     },
     {
       "album": {
-        "name": "Kaathu Mela - From \"Think Indie\"",
+        "name": "Kaathu Mela (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H"
       },
       "artists": [
@@ -2017,7 +2017,7 @@
     },
     {
       "album": {
-        "name": "Makkamishi - From \"Brother\"",
+        "name": "Makkamishi (From \"Brother\")",
         "url": "https://open.spotify.com/album/0ScQvvJTicZFU6msnflOj7"
       },
       "artists": [
@@ -2724,7 +2724,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 216774,
       "name": "Private Party (From \"Don\")",
       "url": "https://open.spotify.com/track/6eYsOcDdB5b6rTO5ubMxeV"
@@ -4026,6 +4026,32 @@
       "duration_ms": 239750,
       "name": "Yaathi Yaathi",
       "url": "https://open.spotify.com/track/36d0fy3TbyWFR4mth7hpVd"
+    },
+    {
+      "album": {
+        "name": "Yolo (From \"Kanguva\") (Tamil)",
+        "url": "https://open.spotify.com/album/5hwLFTK5OakpRoi1xEvYpx"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Lavita Lobo",
+          "url": "https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238384,
+      "name": "Yolo (From \"Kanguva\") (Tamil)",
+      "url": "https://open.spotify.com/track/0CQ370qUqv9CFblMQZpu2v"
     },
     {
       "album": {

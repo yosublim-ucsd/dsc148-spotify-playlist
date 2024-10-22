@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106771,
+  "num_followers": 106783,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-10-16 18:45:36",
       "album": {
-        "name": "Louvre",
-        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 169002,
-      "name": "Louvre",
-      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
-    },
-    {
-      "added_at": "2024-10-16 18:45:36",
-      "album": {
         "name": "Cantamos en mi terraza? #2",
         "url": "https://open.spotify.com/album/3xpuGIWdVJqCFcFSzdYHD3"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 274407,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/1Iaz0c3Of0zD5G0IgbWucx"
+    },
+    {
+      "added_at": "2024-10-16 18:45:36",
+      "album": {
+        "name": "Louvre",
+        "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 169002,
+      "name": "Louvre",
+      "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
     },
     {
       "added_at": "2024-10-16 18:45:36",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-10-16 18:45:36",
       "album": {
-        "name": "Im\u00e1n",
-        "url": "https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v"
-      },
-      "artists": [
-        {
-          "name": "Rayos L\u00e1ser",
-          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
-        }
-      ],
-      "duration_ms": 194905,
-      "name": "Im\u00e1n",
-      "url": "https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7"
-    },
-    {
-      "added_at": "2024-10-16 18:45:36",
-      "album": {
         "name": "Acuerdo",
         "url": "https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 203470,
       "name": "Acuerdo",
       "url": "https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue"
+    },
+    {
+      "added_at": "2024-10-16 18:45:36",
+      "album": {
+        "name": "Im\u00e1n",
+        "url": "https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v"
+      },
+      "artists": [
+        {
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+        }
+      ],
+      "duration_ms": 194905,
+      "name": "Im\u00e1n",
+      "url": "https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7"
     },
     {
       "added_at": "2024-10-16 18:45:36",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-10-16 18:45:36",
       "album": {
-        "name": "Estamos Bajo el Agua",
-        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
-      },
-      "artists": [
-        {
-          "name": "Agus Vivo",
-          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
-        },
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 151619,
-      "name": "Estamos Bajo el Agua",
-      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
-    },
-    {
-      "added_at": "2024-10-16 18:45:36",
-      "album": {
         "name": "SUPERSTICIONES: Remixes",
         "url": "https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 204782,
       "name": "Amores Callejeros - Bolero Remix",
       "url": "https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ"
+    },
+    {
+      "added_at": "2024-10-16 18:45:36",
+      "album": {
+        "name": "Estamos Bajo el Agua",
+        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
+      },
+      "artists": [
+        {
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 151619,
+      "name": "Estamos Bajo el Agua",
+      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
     },
     {
       "added_at": "2024-10-16 18:45:36",
@@ -859,42 +859,6 @@
     {
       "added_at": "2024-10-16 18:45:36",
       "album": {
-        "name": "Pienso en Ti",
-        "url": "https://open.spotify.com/album/5U47V2N5iF2ata6zfvFZEN"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 187505,
-      "name": "Pienso en Ti",
-      "url": "https://open.spotify.com/track/6seoRwpChU9ZP3cA2GkjsM"
-    },
-    {
-      "added_at": "2024-10-16 18:45:36",
-      "album": {
-        "name": "Joderlo Todo",
-        "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 227079,
-      "name": "Joderlo Todo",
-      "url": "https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA"
-    },
-    {
-      "added_at": "2024-10-16 18:45:36",
-      "album": {
         "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
       },
@@ -915,6 +879,26 @@
     {
       "added_at": "2024-10-16 18:45:36",
       "album": {
+        "name": "Pienso en Ti",
+        "url": "https://open.spotify.com/album/5U47V2N5iF2ata6zfvFZEN"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 187505,
+      "name": "Pienso en Ti",
+      "url": "https://open.spotify.com/track/6seoRwpChU9ZP3cA2GkjsM"
+    },
+    {
+      "added_at": "2024-10-16 18:45:36",
+      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 209732,
       "name": "Pedazo de Cielo",
       "url": "https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR"
+    },
+    {
+      "added_at": "2024-10-16 18:45:36",
+      "album": {
+        "name": "Joderlo Todo",
+        "url": "https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 227079,
+      "name": "Joderlo Todo",
+      "url": "https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA"
     },
     {
       "added_at": "2024-10-16 18:45:36",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-10-16 18:45:36",
       "album": {
-        "name": "en diciembre (me haces falta)",
-        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
-      },
-      "artists": [
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 237261,
-      "name": "en diciembre (me haces falta)",
-      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
-    },
-    {
-      "added_at": "2024-10-16 18:45:36",
-      "album": {
         "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
         "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 326961,
       "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
       "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+    },
+    {
+      "added_at": "2024-10-16 18:45:36",
+      "album": {
+        "name": "en diciembre (me haces falta)",
+        "url": "https://open.spotify.com/album/7abFKmEFbW6T6qNuRBiZjK"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 237261,
+      "name": "en diciembre (me haces falta)",
+      "url": "https://open.spotify.com/track/7DsWOPVbzP11T1BIHKpEUu"
     },
     {
       "added_at": "2024-10-16 18:45:36",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-10-16 18:45:36",
       "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
+      },
+      "artists": [
+        {
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
+    },
+    {
+      "added_at": "2024-10-16 18:45:36",
+      "album": {
         "name": "Yate",
         "url": "https://open.spotify.com/album/4vRBTsjY9tP0OeOqZNpVwG"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 162410,
       "name": "Cintas Con Vos",
       "url": "https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT"
-    },
-    {
-      "added_at": "2024-10-16 18:45:36",
-      "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2024-10-16 18:45:36",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-10-16 18:45:36",
       "album": {
-        "name": "Tuna",
-        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Tuna",
-      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
-    },
-    {
-      "added_at": "2024-10-16 18:45:36",
-      "album": {
         "name": "TODO LO QUE HICIMOS.",
         "url": "https://open.spotify.com/album/6tK7ZnVuqJMKX8qXKwwwJK"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 217888,
       "name": "TODO LO QUE HICIMOS.",
       "url": "https://open.spotify.com/track/4yREnAodtCMnXrOspdO6QR"
+    },
+    {
+      "added_at": "2024-10-16 18:45:36",
+      "album": {
+        "name": "Tuna",
+        "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "Tuna",
+      "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
     },
     {
       "added_at": "2024-10-16 18:45:36",
@@ -1547,8 +1547,8 @@
     {
       "added_at": "2024-10-16 18:45:36",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
+        "name": "Pangal",
+        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
       },
       "artists": [
         {
@@ -1556,9 +1556,9 @@
           "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
         }
       ],
-      "duration_ms": 163885,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
+      "duration_ms": 174325,
+      "name": "Pangal",
+      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
     },
     {
       "added_at": "2024-10-16 18:45:36",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-10-16 18:45:36",
       "album": {
-        "name": "Perdoname amor",
-        "url": "https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU"
-      },
-      "artists": [
-        {
-          "name": "La Figui",
-          "url": "https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn"
-        },
-        {
-          "name": "Potra",
-          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "Perdoname amor",
-      "url": "https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o"
-    },
-    {
-      "added_at": "2024-10-16 18:45:36",
-      "album": {
         "name": "C\u00f3mo y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku"
       },
@@ -1639,8 +1619,28 @@
     {
       "added_at": "2024-10-16 18:45:36",
       "album": {
-        "name": "Pangal",
-        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
+        "name": "Perdoname amor",
+        "url": "https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU"
+      },
+      "artists": [
+        {
+          "name": "La Figui",
+          "url": "https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn"
+        },
+        {
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Perdoname amor",
+      "url": "https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o"
+    },
+    {
+      "added_at": "2024-10-16 18:45:36",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
       },
       "artists": [
         {
@@ -1648,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
         }
       ],
-      "duration_ms": 174325,
-      "name": "Pangal",
-      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
+      "duration_ms": 163885,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
     },
     {
       "added_at": "2024-10-16 18:45:36",

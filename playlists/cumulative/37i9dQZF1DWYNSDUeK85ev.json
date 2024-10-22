@@ -2592,7 +2592,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 209414,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 247384,
       "name": "Hace Calor - Remix",
       "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
@@ -3363,7 +3363,7 @@
     },
     {
       "album": {
-        "name": "Hello Cotto - Guaracha",
+        "name": "Hello Cotto (Guaracha)",
         "url": "https://open.spotify.com/album/15n1MiNsWe0BRRN8kCPK8W"
       },
       "artists": [
@@ -5999,7 +5999,7 @@
     },
     {
       "album": {
-        "name": "No Te Sientas Sola - Remix",
+        "name": "No Te Sientas Sola (Remix)",
         "url": "https://open.spotify.com/album/5ZNmxlcjwU6sgkgdDC2Gsw"
       },
       "artists": [

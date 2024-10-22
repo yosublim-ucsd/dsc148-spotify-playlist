@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,289 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,344 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUPO0Sbx2CM.md) - [plain]
 | 12 | [Stuck To You](https://open.spotify.com/track/4YcgoX1w8bc67qM7or2Wdh) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE) | [Stuck To You](https://open.spotify.com/album/4Tcvfm9rywGwVu3EVBpM22) | 2:55 |
 | 13 | [Collide \- dance party](https://open.spotify.com/track/4Ka1GOwcMKS0NzRqfhUaCK) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Collide](https://open.spotify.com/album/2yV7god3t6ruaeKSu4iqSl) | 3:34 |
 | 14 | [Smell The Roses](https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Smell The Roses](https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f) | 4:13 |
-| 15 | [Hallelujah \- R3HAB Remix](https://open.spotify.com/track/5ngqSlRbYNhtAQgcTw8W12) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Hallelujah \- R3HAB Remix](https://open.spotify.com/album/5NEuCXZeMNBmWW1DlrYobh) | 2:41 |
+| 15 | [Hallelujah \- R3HAB Remix](https://open.spotify.com/track/5ngqSlRbYNhtAQgcTw8W12) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Hallelujah \(R3HAB Remix\)](https://open.spotify.com/album/5NEuCXZeMNBmWW1DlrYobh) | 2:41 |
 | 16 | [In My Zone](https://open.spotify.com/track/1BeC7mJTnAkn2zYjG9T8KM) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33), [GIDI](https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI) | [In My Zone](https://open.spotify.com/album/0kpnfftFRQQ0DXlrAcLff6) | 2:30 |
 | 17 | [Need You](https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Need You](https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD) | 3:29 |
 | 18 | [I'd Be Lying](https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I'd Be Lying](https://open.spotify.com/album/1Nx3COSHouV525o3E16uTZ) | 2:34 |

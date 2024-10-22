@@ -4,7 +4,7 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-96 songs - 5 hr 22 min
+98 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Backstage](https://open.spotify.com/track/5fkhwXNw3xWy7IrGDhBDB6) | [Daniel Monza](https://open.spotify.com/artist/4cM9QbsCEUCRRm7RocSczP) | [Backstage](https://open.spotify.com/album/6FIJRZtL0Sca4b93q4RJXv) | 2:27 | 2022-10-13 |  |
 | [Bali](https://open.spotify.com/track/0gIQviarG5RlZbvCxfpHKL) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 5:48 | 2022-10-13 |  |
 | [Blame It On My Youth](https://open.spotify.com/track/3L0bUhCLyWQif6u3oRtUjo) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [Blame It On My Youth](https://open.spotify.com/album/7qe6VBTIkgGfnluSwEV4jz) | 2:38 | 2022-11-24 |  |
+| [Blue Note Stroll](https://open.spotify.com/track/3AWpy96m4QvSYy5RNsY2p9) | [Morris Valentin](https://open.spotify.com/artist/4eNel5cDOyyO9AuVHCg7h8) | [Blue Note Stroll](https://open.spotify.com/album/3BuZh3ULP5NWnn2NVaGGUl) | 1:46 | 2024-10-21 |  |
 | [Blue Room](https://open.spotify.com/track/36y5KE7Ff8icJAalE6a1Xk) | [Jay Peters](https://open.spotify.com/artist/4TSsVmOkMQ992fO3eHBdBd) | [Blue Room](https://open.spotify.com/album/0ELTva9e0eumaGZyiZwWyD) | 2:34 | 2023-04-27 |  |
 | [Both Sides Now](https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [Cream](https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy) | 2:18 | 2022-10-13 |  |
 | [But Not For Me](https://open.spotify.com/track/4cpnWeyzfOASkuCQrGtCWs) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Kenny Burrell](https://open.spotify.com/album/7fojK26IFekgUBnmPD0s7l) | 3:50 | 2022-10-13 | 2022-11-25 |
@@ -88,6 +89,7 @@
 | [Someday My Prince Will Come](https://open.spotify.com/track/3WoSrYUi2UoF321UCXE6UO) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Someday My Prince Will Come](https://open.spotify.com/album/3me7OLET9zLwToQ2TOk5yh) | 2:35 | 2022-10-27 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/7tOzfZjgXHqiah32IIQplt) | [Wesley Greene](https://open.spotify.com/artist/75OVR4slFIxd9YM4XPsxFF) | [Somewhere Over The Rainbow](https://open.spotify.com/album/2wtxBVqcVFR6hG5yleEKOa) | 2:12 | 2022-10-27 | 2024-01-05 |
 | [Stella By Starlight](https://open.spotify.com/track/1odlIHMNi8SojfmRu1Pnj6) | [Layton Rooney](https://open.spotify.com/artist/37m6uzbF7zcPAeVlD9bNy9) | [Stella By Starlight](https://open.spotify.com/album/3MHrBUtYPA1pzK9pW2InrB) | 2:51 | 2022-11-24 |  |
+| [Tangerine](https://open.spotify.com/track/0iaaX04FpfgPfqzCInwudD) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Tangerine](https://open.spotify.com/album/38gxSGItvmeSUA9s18VGcO) | 3:44 | 2024-10-21 |  |
 | [Tenderly](https://open.spotify.com/track/5wRKHllJVRtAaLmyN8tDHS) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 3:11 | 2022-10-13 |  |
 | [Thankful](https://open.spotify.com/track/3S0H62Wg9uTe1QRZsUL4H7) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 5:09 | 2022-10-13 | 2023-05-24 |
 | [The Lateness of the Hour](https://open.spotify.com/track/2ZqDI60tN497TkR1LI3Wsn) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [The Lateness of the Hour](https://open.spotify.com/album/2GYw7huJFwf5toR3LnDPIm) | 2:06 | 2024-08-06 |  |

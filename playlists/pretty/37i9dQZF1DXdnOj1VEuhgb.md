@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak:  Aksan x UZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,375,994 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,376,141 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,15 +14,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 4 | [PİŞT](https://open.spotify.com/track/2ugG3itPOpM9IANApt473B) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [PİŞT](https://open.spotify.com/album/3hnXIAnReIwV44sfj1GdO4) | 2:08 |
 | 5 | [ROCKSTAR](https://open.spotify.com/track/5iv8MCBz7UVcxRN670N4aX) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [MONA LISA](https://open.spotify.com/album/5Gm2EfvHhNu1Nkd1WMMfUW) | 3:33 |
 | 6 | [Italy Forma](https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:01 |
-| 7 | [ZEHİRLİ GÜL](https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:56 |
-| 8 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 |
-| 9 | [Karardı Bulutlar](https://open.spotify.com/track/1fxl1Lf3URpDDQFBOeEMlD) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Karardı Bulutlar](https://open.spotify.com/album/5QhPb4USrsjUD3i5PWJjqk) | 2:25 |
-| 10 | [DOLDURDUM TABANCAMI](https://open.spotify.com/track/6fn6Us7sHiBY2kanqgub8D) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [DOLDURDUM TABANCAMI](https://open.spotify.com/album/0JGt0C0lfBsn2hY0HZAB1J) | 2:15 |
-| 11 | [IZOLE LIFE](https://open.spotify.com/track/4QsiJ5td5T5r201CaO359S) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [IZOLE LIFE](https://open.spotify.com/album/5JTOxclRe8i4rZaftOnkhT) | 2:59 |
-| 12 | [Düşmez Kalkmaz](https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Düşmez Kalkmaz](https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer) | 2:35 |
+| 7 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 |
+| 8 | [DOLDURDUM TABANCAMI](https://open.spotify.com/track/6fn6Us7sHiBY2kanqgub8D) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [DOLDURDUM TABANCAMI](https://open.spotify.com/album/0JGt0C0lfBsn2hY0HZAB1J) | 2:15 |
+| 9 | [Düşmez Kalkmaz](https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Düşmez Kalkmaz](https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer) | 2:35 |
+| 10 | [ZEHİRLİ GÜL](https://open.spotify.com/track/0SwRpscOdj6PBhudNVIGpW) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:56 |
+| 11 | [Karardı Bulutlar](https://open.spotify.com/track/1fxl1Lf3URpDDQFBOeEMlD) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Karardı Bulutlar](https://open.spotify.com/album/5QhPb4USrsjUD3i5PWJjqk) | 2:25 |
+| 12 | [IZOLE LIFE](https://open.spotify.com/track/4QsiJ5td5T5r201CaO359S) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [IZOLE LIFE](https://open.spotify.com/album/5JTOxclRe8i4rZaftOnkhT) | 2:59 |
 | 13 | [I WANNA DANCE](https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ) | [I WANNA DANCE](https://open.spotify.com/album/3wnbZnVv0zchJ5fGOVn21d) | 1:50 |
-| 14 | [ERASMUS](https://open.spotify.com/track/5FjyVOsKmVR85QwJXp90oi) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk) | [ERASMUS](https://open.spotify.com/album/7aXVIANzjYPDUpdgml4uYd) | 1:12 |
-| 15 | [İstanbul](https://open.spotify.com/track/2Hq67R7N7oGz4OEQFMwgcH) | [Stabil](https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [İstanbul](https://open.spotify.com/album/4HaC9oKHNgivGJMzsSRUFB) | 2:50 |
+| 14 | [İstanbul](https://open.spotify.com/track/2Hq67R7N7oGz4OEQFMwgcH) | [Stabil](https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [İstanbul](https://open.spotify.com/album/4HaC9oKHNgivGJMzsSRUFB) | 2:50 |
+| 15 | [ERASMUS](https://open.spotify.com/track/5FjyVOsKmVR85QwJXp90oi) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk) | [ERASMUS](https://open.spotify.com/album/7aXVIANzjYPDUpdgml4uYd) | 1:12 |
 | 16 | [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 |
 | 17 | [FaceTime](https://open.spotify.com/track/74DINrGM1LeuauHZYELfDg) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [FaceTime](https://open.spotify.com/album/5qMUWVPjDCt6kr3pTOiYLr) | 3:00 |
 | 18 | [Yerli Plaka](https://open.spotify.com/track/1kI1NiHbVZVmYJA78k0IAy) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Berk Erdemanar](https://open.spotify.com/artist/6JDTOIram8oMZVaF3GZPyw) | [Yerli Plaka](https://open.spotify.com/album/2CNgbUAIwEufx0nM0P6wxk) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 |
 | 50 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 
-Snapshot ID: `ZxJ0JAAAAADNHbh2DyU9ppN5F5j9w3jF`
+Snapshot ID: `ZxYPgwAAAACUwVQY1m7TeZHd/nNPBX/m`

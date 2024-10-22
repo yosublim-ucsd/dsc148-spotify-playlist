@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 212404,
+  "num_followers": 212464,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-10-11 18:59:32",
       "album": {
-        "name": "Mala Fama, Buena Vidha",
-        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "Me Voy a Poner Bien Loco",
-      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
-    },
-    {
-      "added_at": "2024-10-11 18:59:32",
-      "album": {
         "name": "Viaje Sin Equipaje",
         "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 255843,
       "name": "Entrada Sin Salida",
       "url": "https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK"
+    },
+    {
+      "added_at": "2024-10-11 18:59:32",
+      "album": {
+        "name": "Mala Fama, Buena Vidha",
+        "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 263453,
+      "name": "Me Voy a Poner Bien Loco",
+      "url": "https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c"
     },
     {
       "added_at": "2024-10-11 18:59:32",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-10-11 18:59:32",
       "album": {
-        "name": "Los Archivos",
-        "url": "https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 218794,
-      "name": "Van y Vienen",
-      "url": "https://open.spotify.com/track/4gsfGbwx8F4p0Ob7XkoRTN"
-    },
-    {
-      "added_at": "2024-10-11 18:59:32",
-      "album": {
         "name": "Se Rumora",
         "url": "https://open.spotify.com/album/7pYSDOHmFBIwXSD8fjgElh"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 252923,
       "name": "Se Rumora",
       "url": "https://open.spotify.com/track/5kK5N62V7fPenNQZESjuH8"
+    },
+    {
+      "added_at": "2024-10-11 18:59:32",
+      "album": {
+        "name": "Los Archivos",
+        "url": "https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 218794,
+      "name": "Van y Vienen",
+      "url": "https://open.spotify.com/track/4gsfGbwx8F4p0Ob7XkoRTN"
     },
     {
       "added_at": "2024-10-11 18:59:32",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2024-10-11 18:59:32",
       "album": {
-        "name": "El De La Letra B (Remix)",
-        "url": "https://open.spotify.com/album/6zlhI5c5nNI1T7RxRIj7rd"
-      },
-      "artists": [
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
-        }
-      ],
-      "duration_ms": 191400,
-      "name": "El De La Letra B (Remix)",
-      "url": "https://open.spotify.com/track/1PLXWZh44pL4f3hQ7YO4g4"
-    },
-    {
-      "added_at": "2024-10-11 18:59:32",
-      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
       },
@@ -1923,6 +1903,26 @@
       "duration_ms": 206645,
       "name": "7",
       "url": "https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a"
+    },
+    {
+      "added_at": "2024-10-11 18:59:32",
+      "album": {
+        "name": "El De La Letra B (Remix)",
+        "url": "https://open.spotify.com/album/6zlhI5c5nNI1T7RxRIj7rd"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "El De La Letra B (Remix)",
+      "url": "https://open.spotify.com/track/1PLXWZh44pL4f3hQ7YO4g4"
     },
     {
       "added_at": "2024-10-11 18:59:32",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2024-10-11 18:59:32",
       "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 302576,
-      "name": "Mal Ejemplo",
-      "url": "https://open.spotify.com/track/5ACoDyUWazcetrFnCL4aXZ"
-    },
-    {
-      "added_at": "2024-10-11 18:59:32",
-      "album": {
         "name": "No Te La Sabes",
         "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 215200,
       "name": "No Te La Sabes",
       "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
+    },
+    {
+      "added_at": "2024-10-11 18:59:32",
+      "album": {
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 302576,
+      "name": "Mal Ejemplo",
+      "url": "https://open.spotify.com/track/5ACoDyUWazcetrFnCL4aXZ"
     }
   ],
   "unique_name": "Gaming Belic\u00f3n",

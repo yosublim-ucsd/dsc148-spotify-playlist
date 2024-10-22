@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
-  "num_followers": 209991,
+  "num_followers": 210085,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2024-10-17 23:00:00",
       "album": {
+        "name": "\u00daltima L\u00e1grima",
+        "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
+      },
+      "artists": [
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        },
+        {
+          "name": "Biig Star",
+          "url": "https://open.spotify.com/artist/1TS8DXgkRBOeoVfTuD9e0i"
+        }
+      ],
+      "duration_ms": 242608,
+      "name": "\u00daltima L\u00e1grima",
+      "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
+    },
+    {
+      "added_at": "2024-10-17 23:00:00",
+      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
-    },
-    {
-      "added_at": "2024-10-17 23:00:00",
-      "album": {
-        "name": "\u00daltima L\u00e1grima",
-        "url": "https://open.spotify.com/album/4zjtymkeds3m640tebq4a5"
-      },
-      "artists": [
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        },
-        {
-          "name": "Biig Star",
-          "url": "https://open.spotify.com/artist/1TS8DXgkRBOeoVfTuD9e0i"
-        }
-      ],
-      "duration_ms": 242608,
-      "name": "\u00daltima L\u00e1grima",
-      "url": "https://open.spotify.com/track/4ybIsiDsUvb7WCEeZhiUlv"
     },
     {
       "added_at": "2024-10-17 23:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-10-17 23:00:00",
       "album": {
-        "name": "Teu Corpo",
-        "url": "https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 170548,
-      "name": "Teu Corpo",
-      "url": "https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem"
-    },
-    {
-      "added_at": "2024-10-17 23:00:00",
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/7y3xk4lkwaN3Eq56tTav1B"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 285116,
       "name": "O Jeito Dela - Original Mix",
       "url": "https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn"
+    },
+    {
+      "added_at": "2024-10-17 23:00:00",
+      "album": {
+        "name": "Teu Corpo",
+        "url": "https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 170548,
+      "name": "Teu Corpo",
+      "url": "https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem"
     },
     {
       "added_at": "2024-10-17 23:00:00",
@@ -1147,62 +1147,6 @@
     {
       "added_at": "2024-10-17 23:00:00",
       "album": {
-        "name": "Monarquia",
-        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Mylson",
-          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
-        }
-      ],
-      "duration_ms": 202032,
-      "name": "Monarquia",
-      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
-    },
-    {
-      "added_at": "2024-10-17 23:00:00",
-      "album": {
-        "name": "Estou a Ficar Maluco",
-        "url": "https://open.spotify.com/album/0dPDfiIKVsdjYnItoDqdio"
-      },
-      "artists": [
-        {
-          "name": "Khiaro",
-          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
-        },
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "Estou a Ficar Maluco",
-      "url": "https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O"
-    },
-    {
-      "added_at": "2024-10-17 23:00:00",
-      "album": {
-        "name": "Puro",
-        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
-      },
-      "artists": [
-        {
-          "name": "Anna Joyce",
-          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
-        }
-      ],
-      "duration_ms": 263906,
-      "name": "Puro",
-      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
-    },
-    {
-      "added_at": "2024-10-17 23:00:00",
-      "album": {
         "name": "Vai Por Mim",
         "url": "https://open.spotify.com/album/267rz7fvTcr7yo7hKFIArq"
       },
@@ -1235,6 +1179,62 @@
       "duration_ms": 224256,
       "name": "Vai Por Mim",
       "url": "https://open.spotify.com/track/4iVckCZapMMHjbaJFyNxRz"
+    },
+    {
+      "added_at": "2024-10-17 23:00:00",
+      "album": {
+        "name": "Monarquia",
+        "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Mylson",
+          "url": "https://open.spotify.com/artist/6aJR2QPqDVcIcBtVSFIb9Y"
+        }
+      ],
+      "duration_ms": 202032,
+      "name": "Monarquia",
+      "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
+    },
+    {
+      "added_at": "2024-10-17 23:00:00",
+      "album": {
+        "name": "Puro",
+        "url": "https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi"
+      },
+      "artists": [
+        {
+          "name": "Anna Joyce",
+          "url": "https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX"
+        }
+      ],
+      "duration_ms": 263906,
+      "name": "Puro",
+      "url": "https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH"
+    },
+    {
+      "added_at": "2024-10-17 23:00:00",
+      "album": {
+        "name": "Estou a Ficar Maluco",
+        "url": "https://open.spotify.com/album/0dPDfiIKVsdjYnItoDqdio"
+      },
+      "artists": [
+        {
+          "name": "Khiaro",
+          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
+        },
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "Estou a Ficar Maluco",
+      "url": "https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O"
     },
     {
       "added_at": "2024-10-17 23:00:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2024-10-17 23:00:00",
       "album": {
+        "name": "Cuiar Assim",
+        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        },
+        {
+          "name": "Arieth Feij\u00f3",
+          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
+        }
+      ],
+      "duration_ms": 230217,
+      "name": "Cuiar Assim",
+      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
+    },
+    {
+      "added_at": "2024-10-17 23:00:00",
+      "album": {
         "name": "Deusa do Amor",
         "url": "https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 279024,
       "name": "Deusa do Amor",
       "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
-    },
-    {
-      "added_at": "2024-10-17 23:00:00",
-      "album": {
-        "name": "Cuiar Assim",
-        "url": "https://open.spotify.com/album/79wdIV83MzqZW2WlrWpAEM"
-      },
-      "artists": [
-        {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
-        },
-        {
-          "name": "Arieth Feij\u00f3",
-          "url": "https://open.spotify.com/artist/5jzapBMcVjDFRXFy4e2PgA"
-        }
-      ],
-      "duration_ms": 230217,
-      "name": "Cuiar Assim",
-      "url": "https://open.spotify.com/track/1624vqUVv4mXnaV1M4z6Fd"
     },
     {
       "added_at": "2024-10-17 23:00:00",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2024-10-17 23:00:00",
       "album": {
-        "name": "The Gentleman",
-        "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Dino d'Santiago",
-          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Nha Rainha (feat. Dino D'Santiago)",
-      "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
-    },
-    {
-      "added_at": "2024-10-17 23:00:00",
-      "album": {
         "name": "Sentimento",
         "url": "https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 192702,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
+    },
+    {
+      "added_at": "2024-10-17 23:00:00",
+      "album": {
+        "name": "The Gentleman",
+        "url": "https://open.spotify.com/album/6xea2QmncKCbmHNbxW1BJ0"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Nha Rainha (feat. Dino D'Santiago)",
+      "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
     },
     {
       "added_at": "2024-10-17 23:00:00",

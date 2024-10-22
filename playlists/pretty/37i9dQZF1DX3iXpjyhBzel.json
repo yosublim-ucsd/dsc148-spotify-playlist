@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Fernandinho, Gabriela Rocha",
-  "num_followers": 1081900,
+  "num_followers": 1082345,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "\u00danico - Ac\u00fastico",
+        "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
       },
       "artists": [
@@ -83,6 +83,22 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
+        "name": "Reacende a Chama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc"
+      },
+      "artists": [
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 477994,
+      "name": "Reacende a Chama - Ao Vivo",
+      "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
         "name": "Bondade de Deus",
         "url": "https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 375653,
       "name": "Bondade de Deus",
       "url": "https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
-        "name": "Reacende a Chama - Ao Vivo",
-        "url": "https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc"
-      },
-      "artists": [
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 477994,
-      "name": "Reacende a Chama - Ao Vivo",
-      "url": "https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -227,26 +227,6 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
-      },
-      "artists": [
-        {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 454133,
-      "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us - Ao Vivo",
-      "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
         "name": "Clamo Jesus",
         "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 409000,
       "name": "Caminho no Deserto",
       "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
+        "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
+      },
+      "artists": [
+        {
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 454133,
+      "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us - Ao Vivo",
+      "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -583,7 +583,7 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Abra\u00e7a-me - Ao Vivo",
+        "name": "Abra\u00e7a-me (Ao Vivo)",
         "url": "https://open.spotify.com/album/1cwt4zrrAGViRMkCMLrEqE"
       },
       "artists": [
@@ -875,7 +875,7 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "\u00danico - Ac\u00fastico",
+        "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
       "artists": [
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Peregrino (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
-      },
-      "artists": [
-        {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 330220,
-      "name": "Peregrino - Ao vivo",
-      "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
         "name": "Teu Toque (Ao Vivo)",
         "url": "https://open.spotify.com/album/2OMOHMTTcJxt4NZuiM2tuD"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 453930,
       "name": "Teu Toque - Ao Vivo",
       "url": "https://open.spotify.com/track/6G45Qr6vVxnHxX06qcGEp2"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
+        "name": "Peregrino (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
+      },
+      "artists": [
+        {
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 330220,
+      "name": "Peregrino - Ao vivo",
+      "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -1275,18 +1275,26 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
+        "name": "Chega de Errar Pra Aprender (Ac\u00fastico Ao Vivo)",
+        "url": "https://open.spotify.com/album/36DfIbDVqoGAZU9Trd253Y"
       },
       "artists": [
         {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
         }
       ],
-      "duration_ms": 431470,
-      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
+      "duration_ms": 309590,
+      "name": "Chega de Errar Pra Aprender - Ac\u00fastico Ao Vivo",
+      "url": "https://open.spotify.com/track/3lK93QEjr3zPnqFgFYiJoK"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -1311,6 +1319,22 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
+        "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 431470,
+      "name": "A Gl\u00f3ria Desta \u00daltima Casa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
         "name": "N\u00f3s Te Adoramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/1hvaK25h3skpL8mJpTqi76"
       },
@@ -1323,30 +1347,6 @@
       "duration_ms": 438080,
       "name": "N\u00f3s Te Adoramos - Ao Vivo",
       "url": "https://open.spotify.com/track/3XCaTKlGbjdOU6ozStBTVD"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
-        "name": "Chega de Errar Pra Aprender (Ac\u00fastico Ao Vivo)",
-        "url": "https://open.spotify.com/album/36DfIbDVqoGAZU9Trd253Y"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 309590,
-      "name": "Chega de Errar Pra Aprender - Ac\u00fastico Ao Vivo",
-      "url": "https://open.spotify.com/track/3lK93QEjr3zPnqFgFYiJoK"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
+        "name": "Tua Presen\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 320186,
+      "name": "Tua Presen\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
         "name": "Vida (Ao Vivo)",
         "url": "https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Tua Presen\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 320186,
-      "name": "Tua Presen\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
         "name": "Livramento",
         "url": "https://open.spotify.com/album/4lsUDMd1JGkCbeEoczP03s"
       },
@@ -1527,7 +1527,7 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "\u00c9 Sobre Ele - Ao Vivo",
+        "name": "\u00c9 Sobre Ele (Ao Vivo)",
         "url": "https://open.spotify.com/album/0r2pTLmYNoveZOekuvFg15"
       },
       "artists": [
@@ -1583,7 +1583,7 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Santo Pra Sempre - Ao Vivo",
+        "name": "Santo Pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/23thq9ElD6i6CoXulKrPSb"
       },
       "artists": [
@@ -1755,7 +1755,7 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Yahweh - Ao Vivo",
+        "name": "Yahweh (Ao Vivo)",
         "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
       },
       "artists": [

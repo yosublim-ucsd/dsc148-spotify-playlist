@@ -3139,6 +3139,24 @@
     },
     {
       "album": {
+        "name": "2019",
+        "url": "https://open.spotify.com/album/0gCogRTzYsWjQjipkylR52"
+      },
+      "artists": [
+        {
+          "name": "Logan Crosby",
+          "url": "https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163009,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/4y9jIjdtSEWAUnbjrSoOle"
+    },
+    {
+      "album": {
         "name": "The Story : RETOLD",
         "url": "https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9"
       },

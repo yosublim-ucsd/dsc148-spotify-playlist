@@ -1,17 +1,17 @@
 {
-  "description": "This Is Mon Laferte. Los temas esenciales, todos en una lista.",
-  "num_followers": 693132,
+  "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
+  "num_followers": 693242,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAADjK2VgLdYW+aDqdpcbbSfm",
+  "snapshot_id": "ZxRIAAAAAAB68wjUJbH1Sa4O9tEBMuap",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte - Vol. 1",
+        "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
@@ -83,7 +83,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte - Vol. 1",
+        "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
@@ -159,7 +159,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte - Vol. 1",
+        "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
@@ -227,7 +227,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte - Vol. 1",
+        "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 243880,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
         "url": "https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte - Vol. 1",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 243880,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Norma",
         "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
       },
@@ -415,7 +415,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte - Vol. 1/ Edicion Especial",
+        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
         "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
       },
       "artists": [
@@ -447,7 +447,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte - Vol. 1",
+        "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
@@ -527,7 +527,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mon Laferte - Vol. 1/ Edicion Especial",
+        "name": "Mon Laferte (Vol. 1/ Edicion Especial)",
         "url": "https://open.spotify.com/album/7oSZcpIqBMS86O9C4m82lk"
       },
       "artists": [

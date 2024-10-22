@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A la croix \- Acoustique](https://open.spotify.com/track/1d5SiNWly8gJzCdZmf3eME) | [Choisie Basolua](https://open.spotify.com/artist/4c36LZgvN8Y5zqS8Pu4cA0) | [TEA \- Acoustique](https://open.spotify.com/album/3Jb1GBE6d5Cv4FjA4MIAV5) | 3:11 | 2024-10-18 |  |
+| [A la croix \- Acoustique](https://open.spotify.com/track/1d5SiNWly8gJzCdZmf3eME) | [Choisie Basolua](https://open.spotify.com/artist/4c36LZgvN8Y5zqS8Pu4cA0) | [TEA \(Acoustique\)](https://open.spotify.com/album/3Jb1GBE6d5Cv4FjA4MIAV5) | 3:11 | 2024-10-18 |  |
 | [American Love \- Acoustic](https://open.spotify.com/track/4KxTDnSUNHtoN4Y0fYSUMd) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [American Love](https://open.spotify.com/album/2GobXOMJEUsQPJj4TPfiYl) | 3:01 | 2024-02-16 |  |
 | [Angel \- Acoustic](https://open.spotify.com/track/42Ukr1sUiu42ZTVCIaFKdH) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel \(Acoustic\)](https://open.spotify.com/album/7fmwmiRd2t9TA4bV0eL1NP) | 3:14 | 2024-02-16 |  |
 | [Aparo \(With Lisa Oduor\-Noah\) \- Acoustic](https://open.spotify.com/track/3V9O5e55cXGgDT8L0Xk9bX) | [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5), [Lisa Oduor Noah](https://open.spotify.com/artist/4TvajrZD4cJdAx2jO4yO5e) | [The Change Experience](https://open.spotify.com/album/3gLCcJQngVtacSslBa39qG) | 3:51 | 2024-02-16 | 2024-05-17 |

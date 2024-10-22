@@ -1,6 +1,6 @@
 {
   "description": "Dance anthems from the club to your ears!",
-  "num_followers": 293766,
+  "num_followers": 293826,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,26 @@
     {
       "added_at": "2024-09-27 16:14:09",
       "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
+        "name": "The Don",
+        "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        },
+        {
+          "name": "Gabi'el",
+          "url": "https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN"
         }
       ],
-      "duration_ms": 234330,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
+      "duration_ms": 166237,
+      "name": "The Don",
+      "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
     }
   ],
   "unique_name": "Warehouse Party",

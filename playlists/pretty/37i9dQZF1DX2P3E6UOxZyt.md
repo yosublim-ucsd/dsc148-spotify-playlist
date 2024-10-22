@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 派偉俊 \(Patrick Brasca\) x Tyson Yoshi x 林潔心 \(ddkogi88\) x 斑恩 \(Ben\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,242 likes - 33 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,320 likes - 33 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 29 | [Cool But Lonely](https://open.spotify.com/track/2sa3RXHIxU4xXUGuJy5467) | [阿橘](https://open.spotify.com/artist/6kZYE9gWvwhbkjhcg8ZHqm), [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0) | [Cool But Lonely](https://open.spotify.com/album/5ll9lzOdf2NB7fuTjrYZyR) | 3:04 |
 | 30 | [自由的風](https://open.spotify.com/track/1uONk3vGhr6wyxSOSPxSRb) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [自由的風](https://open.spotify.com/album/4q7o688PlMkWNeqdi3Qxte) | 2:19 |
 | 31 | [一起走！](https://open.spotify.com/track/2b9XMsjvBEN4ryqXw3mMzA) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [一起走！](https://open.spotify.com/album/3UAlXiJpkN64xfFnb2GPHV) | 3:22 |
-| 32 | [高枕無憂 \- SLASHIE Remix](https://open.spotify.com/track/24Cfx04SEVynMymyBxLZwE) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [高枕無憂 \- SLASHIE Remix](https://open.spotify.com/album/48YcbMZHzlVtrSnCtOv7AV) | 3:42 |
+| 32 | [高枕無憂 \- SLASHIE Remix](https://open.spotify.com/track/24Cfx04SEVynMymyBxLZwE) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG) | [高枕無憂 \(SLASHIE Remix\)](https://open.spotify.com/album/48YcbMZHzlVtrSnCtOv7AV) | 3:42 |
 | 33 | [見到妳後](https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [見到妳後](https://open.spotify.com/album/2rXvTqjlU6c4qtPaH7qdcA) | 3:03 |
 
 Snapshot ID: `ZxBbtwAAAACMD/sYxwUvfctfMX8EWKWS`

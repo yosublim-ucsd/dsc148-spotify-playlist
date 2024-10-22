@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,472 likes - 361 songs - 19 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,624 likes - 361 songs - 19 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 73 | [bring your love \(to the light\)](https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq) | [Noah Henderson](https://open.spotify.com/artist/0kPYgLFS4vuBuCGE8pShFV) | [bring your love \(to the light\)](https://open.spotify.com/album/0AOqksZ3wCG2yrPec5tvq6) | 3:45 |
 | 74 | [Everywhere \(I wanna be with you\)](https://open.spotify.com/track/2lh1prYnrU9tL843C6rzSq) | [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Everywhere \(I wanna be with you\)](https://open.spotify.com/album/79PJhpCEtArNZ9paa2jOjw) | 2:20 |
 | 75 | [Alone](https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Alone](https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh) | 2:57 |
-| 76 | [I Just Need \- Mattilo Remix](https://open.spotify.com/track/5qwl87Hocd9bnRj3OZ59Zj) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [I Just Need \- Mattilo Remix](https://open.spotify.com/album/4NFaSx6EzvAg42ai5Oit3K) | 2:43 |
+| 76 | [I Just Need \- Mattilo Remix](https://open.spotify.com/track/5qwl87Hocd9bnRj3OZ59Zj) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [I Just Need \(Mattilo Remix\)](https://open.spotify.com/album/4NFaSx6EzvAg42ai5Oit3K) | 2:43 |
 | 77 | [press play](https://open.spotify.com/track/6vZCWKiXwxCG0buNfWeQD8) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL) | [press play](https://open.spotify.com/album/70zFrT9W2NmVe18vUQh2oM) | 2:15 |
 | 78 | [Love You Better](https://open.spotify.com/track/2kWNyEz9kIN6SDZwW2TbXU) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love You Better](https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6) | 3:05 |
 | 79 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 |

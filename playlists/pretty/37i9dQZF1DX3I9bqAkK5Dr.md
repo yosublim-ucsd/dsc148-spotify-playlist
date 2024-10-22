@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,597 likes - 77 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,602 likes - 77 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 21 | [Nachadhe](https://open.spotify.com/track/5BciFtQG5SJg6aa2PSgnr9) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Nachadhe](https://open.spotify.com/album/4J3yUcfVx55clLRnAmyKNc) | 3:18 |
 | 22 | [Nee Korake](https://open.spotify.com/track/6UCFvF1my4n7XmjRJv0u5C) | [Ajay Naik](https://open.spotify.com/artist/5ZwWJw52QijUKUHNdx6b0Y), [Kamal Suruguchi](https://open.spotify.com/artist/1UBKJW4yyJoMAqhdVRifw7), [Nidhi Hegde](https://open.spotify.com/artist/3DDBJ15CB00jnSrlhrHDel) | [Nee Korake](https://open.spotify.com/album/5CePbcxQ1hTWqTbgMDmeJ0) | 3:03 |
 | 23 | [Raa Macha Vachey Raa \- Female Version](https://open.spotify.com/track/7hNRypDlFavfFUykV4IELm) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Raa Macha Vachey Raa \(Female Version\)](https://open.spotify.com/album/2z5uN7ZwtjxcOTrc205GJ9) | 3:00 |
-| 24 | [Kadale Kadhile \- From "The Slam Book Stories"](https://open.spotify.com/track/0eblrJGz2Suo4NpIDJuzVd) | [Arun Kaundinya](https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4), [Praveen](https://open.spotify.com/artist/5YCEHjtKf4jnGjXK8eLPn6) | [Kadale Kadhile \- From "The Slam Book Stories"](https://open.spotify.com/album/007SdIRuq2BTVRp8i7GUB8) | 4:10 |
+| 24 | [Kadale Kadhile \- From "The Slam Book Stories"](https://open.spotify.com/track/0eblrJGz2Suo4NpIDJuzVd) | [Arun Kaundinya](https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4), [Praveen](https://open.spotify.com/artist/5YCEHjtKf4jnGjXK8eLPn6) | [Kadale Kadhile \(From "The Slam Book Stories"\)](https://open.spotify.com/album/007SdIRuq2BTVRp8i7GUB8) | 4:10 |
 | 25 | [Naatho Nene](https://open.spotify.com/track/3110yd1QgpP3mUsVe8MdhT) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J) | [Naatho Nene](https://open.spotify.com/album/1Sc7iddapaXJvCiPFYvnZN) | 2:52 |
 | 26 | [Swapnam](https://open.spotify.com/track/473hTuGXsaU59XzBTJB1eA) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Swapnam](https://open.spotify.com/album/0gh8MM140CnK7VwM1u5Q5K) | 3:36 |
 | 27 | [Kakinada Kaja](https://open.spotify.com/track/3u2YOf3NE8kV8IZgieH8IS) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Sameera Bharadwaj](https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu) | [Kakinada Kaja](https://open.spotify.com/album/1ArG0dGBVn5cO475ftFkzz) | 3:16 |

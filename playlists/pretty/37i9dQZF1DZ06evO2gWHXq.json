@@ -1,12 +1,12 @@
 {
-  "description": "This Is MC Davo. Los temas esenciales, todos en una lista.",
-  "num_followers": 222014,
+  "description": "This is MC Davo. The essential tracks, all in one playlist.",
+  "num_followers": 222026,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAAB9Mb8Yjv2fXwk3Vpiwu3Za",
+  "snapshot_id": "ZxRIAAAAAACrTSpUf/A3oXJdMTauI3hS",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy Por El Sueno de Muchos",
-        "url": "https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 170770,
-      "name": "Vuelve (feat. MC Davo)",
-      "url": "https://open.spotify.com/track/7hwR6340SkyisqZWFkWErP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
         "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 288000,
       "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
       "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voy Por El Sueno de Muchos",
+        "url": "https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 170770,
+      "name": "Vuelve (feat. MC Davo)",
+      "url": "https://open.spotify.com/track/7hwR6340SkyisqZWFkWErP"
     },
     {
       "added_at": null,
@@ -627,34 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRENDE LA BOCINA (feat. BeatBoy)",
-        "url": "https://open.spotify.com/album/4TID8AMKXScQbE140lc45n"
-      },
-      "artists": [
-        {
-          "name": "Potencia Lirical",
-          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "BeatBoy",
-          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
-        }
-      ],
-      "duration_ms": 171720,
-      "name": "PRENDE LA BOCINA (feat. BeatBoy)",
-      "url": "https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
@@ -695,6 +667,34 @@
       "duration_ms": 222720,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRENDE LA BOCINA (feat. BeatBoy)",
+        "url": "https://open.spotify.com/album/4TID8AMKXScQbE140lc45n"
+      },
+      "artists": [
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+        }
+      ],
+      "duration_ms": 171720,
+      "name": "PRENDE LA BOCINA (feat. BeatBoy)",
+      "url": "https://open.spotify.com/track/4RESrc6w1WJ2njfysrmMPt"
     },
     {
       "added_at": null,
@@ -955,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/7pnuAlRURIkuVpNNEhGOwS"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Round 6",
+      "url": "https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Arm\u00f3 La Peda",
         "url": "https://open.spotify.com/album/5sLjhIYq6Fl3HdbR976mwZ"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 146076,
       "name": "Se Arm\u00f3 La Peda",
       "url": "https://open.spotify.com/track/48eey3rJEMC2eQvVn6Cd6k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Mamalonas 2",
-        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/7pnuAlRURIkuVpNNEhGOwS"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Round 6",
-      "url": "https://open.spotify.com/track/6Rd2d6J3DERtRZNJr5D4uX"
     },
     {
       "added_at": null,
@@ -1071,6 +1071,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Todo Menos Con Miedo",
+        "url": "https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 156136,
+      "name": "Con Todo Menos Con Miedo",
+      "url": "https://open.spotify.com/track/5BWZHBmOTRL2fA0djH3aYZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Callejera",
         "url": "https://open.spotify.com/album/44MreFKTqiCxAEHel5avg1"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 223750,
       "name": "Callejera",
       "url": "https://open.spotify.com/track/2dXRSe761Gg9fl2NcxnkW2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Todo Menos Con Miedo",
-        "url": "https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 156136,
-      "name": "Con Todo Menos Con Miedo",
-      "url": "https://open.spotify.com/track/5BWZHBmOTRL2fA0djH3aYZ"
     },
     {
       "added_at": null,

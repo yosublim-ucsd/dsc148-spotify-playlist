@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-971 songs - 1 day 21 hr 5 min
+972 songs - 1 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -622,6 +622,7 @@
 | [No Retreat \(feat\. Jay Rock\)](https://open.spotify.com/track/6t1LxXjWG4zwhTDGRjGrgx) | [Yhung T.O.](https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Rather Rich Than Famous](https://open.spotify.com/album/5wWe32f1KoNkpYebMtqp3l) | 3:11 | 2022-11-04 | 2022-12-03 |
 | [No Stoppin ft\. Blxst](https://open.spotify.com/track/3Jo34FHsqVDp7QLP9Ahw2n) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Stoppin ft\. Blxst](https://open.spotify.com/album/0BCSnOx8yJpY9TPeRILEUz) | 2:57 | 2022-06-24 | 2022-10-15 |
 | [No Use \(feat\. 03 Greedo\)](https://open.spotify.com/track/4UbFDOCUqk3e9OYz1s2Ssy) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [No Use \(feat\. 03 Greedo\)](https://open.spotify.com/album/4yeBzIQ3h6gpvHYXOD5qUp) | 2:21 | 2023-07-14 | 2023-10-28 |
+| [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 | 2024-10-21 |  |
 | [NONCHALANT \(feat\. Mamii\)](https://open.spotify.com/track/2mz9mssxUxuUdBBiMWXdIF) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Mamii](https://open.spotify.com/artist/0QPC36N4aQVrUp0NzaSXHI) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 3:24 | 2022-06-17 | 2022-07-16 |
 | [Nostalgia](https://open.spotify.com/track/3NFUXAwuvn8ojSp8HI9DBd) | [Casey Veggies](https://open.spotify.com/artist/0uFc6StTmJBvdHPZFDkdJy), [Dylvinci](https://open.spotify.com/artist/28dzsbHhnbwJIB6cVmfvAS) | [Nostalgia](https://open.spotify.com/album/4p3wVTiSb4TAaC1M3oxGyo) | 1:43 | 2024-02-23 | 2024-03-02 |
 | [Nostalgic \(feat\. Nipsey Hussle\)](https://open.spotify.com/track/4cMW5f95Be7CR5oPPac9ue) | [Dibyo](https://open.spotify.com/artist/4GOxZH5EE1JMHO0z8QiW4t), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Nostalgic \(feat\. Nipsey Hussle\)](https://open.spotify.com/album/0wol03l1gq6EG5pNRtpH3g) | 2:44 | 2024-06-07 | 2024-06-15 |
@@ -858,7 +859,7 @@
 | [Tattoo](https://open.spotify.com/track/4azcJZucw55aWmad1redPa) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Impostor Syndrome](https://open.spotify.com/album/074Nlnf3EYwLgop0k5Lay6) | 2:31 | 2022-10-07 | 2023-01-28 |
 | [TBH!](https://open.spotify.com/track/0zgqOEBPOAvU5vch5URzlt) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [TBH!](https://open.spotify.com/album/1KB4yswp0hKkKERpHPTNou) | 1:33 | 2023-08-18 | 2023-08-26 |
 | [Teach U How To Play](https://open.spotify.com/track/4iiwARZ0XDDG70UvL0skme) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Teach U How To Play](https://open.spotify.com/album/4R09J6lWN5YfS8gEjHbQeQ) | 2:14 | 2022-10-07 | 2022-12-17 |
-| [Tear It Off](https://open.spotify.com/track/0MCNBDUThcAOWNX6tfGHu9) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Hella Greedy](https://open.spotify.com/album/2EuvkUe8SavQcxrRmolxtk) | 2:39 | 2024-10-18 |  |
+| [Tear It Off](https://open.spotify.com/track/0MCNBDUThcAOWNX6tfGHu9) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Hella Greedy](https://open.spotify.com/album/2EuvkUe8SavQcxrRmolxtk) | 2:39 | 2024-10-18 | 2024-10-22 |
 | [Tell Me](https://open.spotify.com/track/2WjZUIsUntwoOjqEeSVGOT) | [Aflacko](https://open.spotify.com/artist/4xGIy4hVil8DTVPnu5Auzs) | [Tell Me](https://open.spotify.com/album/60AT3ZGGOzzSgHoMdnrsHw) | 1:42 | 2024-01-19 | 2024-02-17 |
 | [Tell Me That I'm Not](https://open.spotify.com/track/1LEJOG7vWgjwWNESHC7C4V) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Guns & Butter](https://open.spotify.com/album/13Ku0eT9WawVkyiXT2nyPK) | 3:20 | 2024-07-05 | 2024-08-10 |
 | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/track/4Q5qDYtCM3W9IlU64OTRAh) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Tell The Truth \(with Shordie Shordie\)](https://open.spotify.com/album/7DNdz17UKZ3b6wxU8mHJAz) | 3:22 | 2022-05-06 | 2022-07-23 |

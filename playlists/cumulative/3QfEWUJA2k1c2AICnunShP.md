@@ -4,7 +4,7 @@
 
 > Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen
 
-137 songs - 7 hr 33 min
+138 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Human Nature](https://open.spotify.com/track/6UitddkWddchwFIDVrdRLs) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [2Cellos](https://open.spotify.com/album/6Tfa58cXgknGKAfHlshaiZ) | 2:47 | 2022-12-01 |  |
 | [I giorni: Andante](https://open.spotify.com/track/4ZHhtpmUOKBHwn8p3FGG9f) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Johanna Röhrig](https://open.spotify.com/artist/12ZViBMBccA6PyxMoOpeJ9), [Rahel Senn](https://open.spotify.com/artist/2GDDVBdLjberenHChLJ1w0), [Michael England](https://open.spotify.com/artist/0hi3goRhw04R2VLGjvNrd6) | [Epic Orchestra \- New Sound of Classical](https://open.spotify.com/album/2dIqWzU2giK5FkyZ3x9YAr) | 6:04 | 2020-02-26 |  |
 | [Il Postino](https://open.spotify.com/track/3fIWBR0sb8ywzrrfoQGoR4) | [Luis Enriquez Bacalov](https://open.spotify.com/artist/24H8SLLjwuMJYD7M0dibeI), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Carel Kraayenhof](https://open.spotify.com/artist/12TNXxHqXaIwJjgd6C9O4X), [Vanessa Perez](https://open.spotify.com/artist/3dRJCOCvRmMRhd49NgUQjW), [David Finck](https://open.spotify.com/artist/6stGj9bajBMV6cNmacqtmd), [Pablo Rieppi](https://open.spotify.com/artist/6dfcAYIDxHRQH6Eoc3DjEa) | [Brigitte Klassik zum Genießen: Joshua Bell](https://open.spotify.com/album/2jGzL539TWPCEACbiH45tj) | 3:40 | 2022-12-01 |  |
+| [Jasmine](https://open.spotify.com/track/5rbbq5uwbmTFeyVWUjIZaX) | [Julian Lloyd Webber](https://open.spotify.com/artist/1U4pv151m4SgVMg8fXROYp), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Jasmine](https://open.spotify.com/album/4tVjwFeG1tOas8WmMqZjxP) | 2:39 | 2024-10-21 |  |
 | [L'Inverno \(Winter\) Op\. 8 No\. 4 in F minor: II\. Largo](https://open.spotify.com/track/43DdnwOjTLhjC6Xq5J0JzP) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Luka Sulic](https://open.spotify.com/artist/36a1FhGZwPM18t4IkpOkpG), [Luigi Piovano](https://open.spotify.com/artist/02FtWBdhONdXDCU86eop1n), [Archi dell'Accademia di Santa Cecilia](https://open.spotify.com/artist/2Z1E3EShJHqCXVsFF0jdnA) | [Vivaldi: The Four Seasons](https://open.spotify.com/album/4oA9NonjesroQ0m5KNUY2N) | 1:54 | 2019-11-09 |  |
 | [Lakmé: Flower Duet \(Arr\. for Violin and Strings by Vivan & Ketan Bhatti\)](https://open.spotify.com/track/4fwX1pSp1mq9mRara9AekL) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng) | [Lakmé: Flower Duet \(Arr\. for Violin and Strings by Vivan & Ketan Bhatti\)](https://open.spotify.com/album/6dEL75aWdP45F8QR5COxHc) | 2:34 | 2023-02-23 |  |
 | [Le clair de lune](https://open.spotify.com/track/4RPNnsMlvnXuh5oSMAvC1m) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Le clair de lune](https://open.spotify.com/album/71nv1eqwlnGmb5GIaNrfPD) | 4:08 | 2021-11-13 |  |

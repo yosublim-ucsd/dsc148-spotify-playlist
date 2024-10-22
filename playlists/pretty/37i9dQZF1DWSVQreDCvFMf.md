@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Joema Lauriano
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,063 likes - 97 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,096 likes - 97 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 42 | [I hope you're doing well](https://open.spotify.com/track/6RxfdQPBpHHrPokap0mzzq) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T), [Lois](https://open.spotify.com/artist/4MyPYzhADI4RiGagihAxYV), [Rees Gonzales](https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd) | [I hope you're doing well](https://open.spotify.com/album/4zwOMvKkBEqE4vZZ22yx8m) | 3:31 |
 | 43 | [1999](https://open.spotify.com/track/2VPFmPbdgKbU2FJ2caXMC5) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [1999](https://open.spotify.com/album/2CvhO76IfFWsRXyMjDoqj4) | 3:33 |
 | 44 | [Wish I Could](https://open.spotify.com/track/0w6kfxne7qn6nfOj7DhBQF) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Wish I Could](https://open.spotify.com/album/7yaMxJccotaM04cWk4e8p2) | 5:17 |
-| 45 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \- TJxKZ Version](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 |
+| 45 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 |
 | 46 | [Hayaan](https://open.spotify.com/track/2XJh7f9YrJlvXOq4OH0Lfa) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Hayaan](https://open.spotify.com/album/2pIQmW7vmDdmVY5qOjCjWS) | 5:49 |
 | 47 | [Sandal](https://open.spotify.com/track/5AqmRNx25UmxdyA93Gwb7P) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Sandal](https://open.spotify.com/album/29fpGpYFrsx9QbWZiu2oWX) | 3:46 |
-| 48 | [Through The Years \- From “Lolo and the Kid"](https://open.spotify.com/track/4CkwBFexkKpSVt76urws7y) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Through The Years \- From “Lolo and the Kid"](https://open.spotify.com/album/5Q9CEhY1XZsLljY7e7EI7w) | 3:58 |
+| 48 | [Through The Years \- From “Lolo and the Kid"](https://open.spotify.com/track/4CkwBFexkKpSVt76urws7y) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Through The Years \(From “Lolo and the Kid"\)](https://open.spotify.com/album/5Q9CEhY1XZsLljY7e7EI7w) | 3:58 |
 | 49 | [Comets \(with Petra Sihombing\)](https://open.spotify.com/track/4DORdPh0YOYXrOlPi1qRG5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Comets \(with Petra Sihombing\)](https://open.spotify.com/album/4iba7OSissrRZrmO4awBzC) | 3:55 |
 | 50 | [Isa Dalawa Tatlo](https://open.spotify.com/track/62SdZXo2n3AmOLn648P9A9) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Isa Dalawa Tatlo](https://open.spotify.com/album/73WP1jO9F9KtKRo0nt6Fmv) | 4:36 |
 | 51 | [Silent Cries](https://open.spotify.com/track/0WqlelFtFu2w5R1OzrE3Vg) | [JOSH CULLEN](https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ) | [Silent Cries](https://open.spotify.com/album/2Rd4le0hPammFgfq9m1wjU) | 3:13 |

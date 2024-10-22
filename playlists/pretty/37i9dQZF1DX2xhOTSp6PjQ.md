@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ?si=4qHdG1oES2Wwg4ra293T\_A">Zwide</a>
+> Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX?si=oHlDJ\-gNSvq4Yus0y5Y1xw">Mthandeni SK</a>, <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=OuiHZEflRHyDpEE2I59TlA">MaWhoo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,109 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,454 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 8 | [Paris](https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Lwah Ndlunkulu](https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs) | [Paris](https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM) | 4:17 |
 | 9 | [Mubi kamnandi](https://open.spotify.com/track/4GuiGH1qje9eYA4trD0hti) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg) | [Amakhothangqoko](https://open.spotify.com/album/3US0Yz8A4um5LpqDKZLooj) | 4:55 |
 | 10 | [Wenhliziyo Yami](https://open.spotify.com/track/1tvDDR0ZAowEqKLN15g7tH) | [Zwide](https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ), [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K), [uMehlabomvu](https://open.spotify.com/artist/108KwQSLKiaZbIPgNg1pBm) | [Wenhliziyo Yami](https://open.spotify.com/album/0MVveVP2vKqPJmFSEns1G8) | 4:21 |
-| 11 | [KHUZANI](https://open.spotify.com/track/1o2gWv03miItFNYA2wQGVs) | [Mbuzeni](https://open.spotify.com/artist/7wayRI97YKruzv8kyy3zok) | [KHUZANI](https://open.spotify.com/album/0CqGIOibphVvCOc3oX0lo5) | 4:20 |
-| 12 | [Hit after Hit](https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Uyihlo nonyoko](https://open.spotify.com/album/7aNmPlwAQeVPY8P7qjuGhs) | 4:39 |
-| 13 | [Umeqiselo](https://open.spotify.com/track/7hdOzJv2HNhbQ3TYFelg8Z) | [Saliwa](https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8), [Zulu Messengers](https://open.spotify.com/artist/0OuB1y0iqY12jRAAElgAgQ) | [Emabhukwini Amafa](https://open.spotify.com/album/34aIyCyXYvuscSo4LjAdym) | 5:05 |
-| 14 | [Umalambana](https://open.spotify.com/track/5Zu0VKpAzGOxAvmhXuLa0G) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Gatsheni](https://open.spotify.com/artist/1I42tbgTWFwxsR3PBmboMH) | [Umalambana](https://open.spotify.com/album/69R33aIYzMaBxA1qdzHoaK) | 4:38 |
-| 15 | [Kuyenzeka](https://open.spotify.com/track/6NGfCx1dUHeBEyLjiGcb6Q) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Ashantiey](https://open.spotify.com/artist/5Y27ZPdDBCA7vofb3xXKpk), [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Kuyenzeka](https://open.spotify.com/album/15MzAdluCqSUBXasfKDTIH) | 5:02 |
+| 11 | [Hit after Hit](https://open.spotify.com/track/5TY9ovYtBeJTY9s7K3ijEd) | [Ugatsheni](https://open.spotify.com/artist/2kUReuoaNS6Thgl4zFQA60) | [Uyihlo nonyoko](https://open.spotify.com/album/7aNmPlwAQeVPY8P7qjuGhs) | 4:39 |
+| 12 | [Umeqiselo](https://open.spotify.com/track/7hdOzJv2HNhbQ3TYFelg8Z) | [Saliwa](https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8), [Zulu Messengers](https://open.spotify.com/artist/0OuB1y0iqY12jRAAElgAgQ) | [Emabhukwini Amafa](https://open.spotify.com/album/34aIyCyXYvuscSo4LjAdym) | 5:05 |
+| 13 | [Umalambana](https://open.spotify.com/track/5Zu0VKpAzGOxAvmhXuLa0G) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Gatsheni](https://open.spotify.com/artist/1I42tbgTWFwxsR3PBmboMH) | [Umalambana](https://open.spotify.com/album/69R33aIYzMaBxA1qdzHoaK) | 4:38 |
+| 14 | [Kuyenzeka](https://open.spotify.com/track/6NGfCx1dUHeBEyLjiGcb6Q) | [Navigator Gcwensa](https://open.spotify.com/artist/6aaykE2Gf6cL8ZptwdVNLC), [Ashantiey](https://open.spotify.com/artist/5Y27ZPdDBCA7vofb3xXKpk), [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Kuyenzeka](https://open.spotify.com/album/15MzAdluCqSUBXasfKDTIH) | 5:02 |
+| 15 | [Ishephisi ejezini](https://open.spotify.com/track/5YYr3ZK6KToGSvr44sdO7E) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Ishephisi ejezini](https://open.spotify.com/album/7ucUExujsCDW1V7FfDyWNh) | 4:22 |
 | 16 | [Ngicel Uhambe](https://open.spotify.com/track/7kCvZYf9IEtJLlGctDBUAw) | [Mshinwemali](https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV), [Zothando](https://open.spotify.com/artist/1OGokItW3Aj91vLK5oyv3g) | [Intombi Ayinikwa'imali](https://open.spotify.com/album/6chhFI9kCmwG7wBSoZmIWk) | 3:18 |
 | 17 | [Wawungekho](https://open.spotify.com/track/1QSPqvHIeDBNGKfrIpCeKt) | [MENZI MUSIC](https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q), [Inkos' Yamagcokama](https://open.spotify.com/artist/426EsL2s4GgDdGIeuVnzM6), [Somcimbi](https://open.spotify.com/artist/6TyGHN4KowIxUILULvXXi3) | [Wawungekho EP](https://open.spotify.com/album/0Zjplas4HjDHnrkCrvuHDe) | 4:57 |
 | 18 | [Ijuba](https://open.spotify.com/track/5jsO87ShnH2lEXhIfjMAUj) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Shenge wasehlalankosi](https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz) | [Ijuba](https://open.spotify.com/album/0vfOenK6KA9EexqpixRjMF) | 5:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 59 | [Sukuma Mkami Bakubone](https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Ivila Laselawini](https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e) | 4:26 |
 | 60 | [Umathandana wokwenzani](https://open.spotify.com/track/5YUJdvQv36liohCLv8l1mR) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Isivulwe Yonke](https://open.spotify.com/album/0k9XE7mJ1sqgety8nkwqa1) | 4:51 |
 
-Snapshot ID: `ZwhccAAAAABuo5fY0UEaLxZAfiNU2l3u`
+Snapshot ID: `ZxY4uwAAAAD0t49FERD5Rm5FdK6rPm7V`

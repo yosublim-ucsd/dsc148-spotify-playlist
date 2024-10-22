@@ -2691,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "The Shadow",
+        "url": "https://open.spotify.com/album/06Jo2XRE2NfU2vafCR0pFB"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240097,
+      "name": "The Shadow",
+      "url": "https://open.spotify.com/track/29eoSK7mWFzE54eNJtPMPC"
+    },
+    {
+      "album": {
         "name": "The Way I Love You Now",
         "url": "https://open.spotify.com/album/4AIG9wuEswkHUeQHcIZazL"
       },

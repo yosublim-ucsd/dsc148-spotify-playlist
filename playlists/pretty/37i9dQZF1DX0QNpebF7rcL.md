@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Fantastic Negrito
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,814 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,854 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 7 | [Blame It On Eve](https://open.spotify.com/track/3duxr7ydMA3xOAYnYVPBhX) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:32 |
 | 8 | [Roll On Buddy](https://open.spotify.com/track/716inKAgvoukiftOCG4l6l) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Roll On Buddy](https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM) | 3:23 |
 | 9 | [Issa](https://open.spotify.com/track/01WyqI4Qnh4gvUFVGp2C9r) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Issa](https://open.spotify.com/album/6iTIRtJvk0JyRsmtXz2TDe) | 3:26 |
-| 10 | [Better Be Lonely \- Alternate Version](https://open.spotify.com/track/188FMuwd89UBGCg3itrIXu) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Better Be Lonely \- Alternate Version](https://open.spotify.com/album/6HWrCFwkAGNLKp64ZYiHwV) | 3:41 |
+| 10 | [Better Be Lonely \- Alternate Version](https://open.spotify.com/track/188FMuwd89UBGCg3itrIXu) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Better Be Lonely \(Alternate Version\)](https://open.spotify.com/album/6HWrCFwkAGNLKp64ZYiHwV) | 3:41 |
 | 11 | [Keep Your Worries On the Dance Floor](https://open.spotify.com/track/2TtgYwJFwrNwYKbj2rk9PE) | [Jontavious Willis](https://open.spotify.com/artist/73IlVk80PrVQlPW92IEv4r) | [Keep Your Worries On the Dance Floor / West Georgia Blues](https://open.spotify.com/album/3CWwGhHasxOje8ZgdZ9vup) | 2:49 |
 | 12 | [Come To Find Out](https://open.spotify.com/track/6JAUOcdIdwLQvlw60QKRuW) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Chasing The Sun](https://open.spotify.com/album/3DYC4feYRD2asF8Hndk5E2) | 5:03 |
 | 13 | [My Baby Left Me](https://open.spotify.com/track/1nRuwH66bqBOFoze3u6Pfp) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [My Baby Left Me](https://open.spotify.com/album/7EakjtgTdmuSIKySc3LJbE) | 2:13 |

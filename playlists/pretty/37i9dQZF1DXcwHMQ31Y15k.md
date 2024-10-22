@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Safira Inema, Woro Widowati, Esa Risty
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,350 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,404 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 18 | [Kecelik](https://open.spotify.com/track/136vKucQWIKVj8Zjg2JVyQ) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kecelik](https://open.spotify.com/album/2Ts1yFQxdRcpf1BD8OqG1I) | 5:49 |
 | 19 | [Tresna Opo Anane](https://open.spotify.com/track/0DqDOsGc8J7aHZdtGAelTY) | [Pulung Agustanto](https://open.spotify.com/artist/69CjecYi7l5Nd1JDFFFcTQ) | [Tresna Opo Anane](https://open.spotify.com/album/5HINLRDJDFocRS2UU9HY65) | 4:58 |
 | 20 | [Sugeng Dalu](https://open.spotify.com/track/3Vr5DdZ3zD8PGvlovaHAIc) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/3mvGvSfDF9Y0agrI2mfCqf) | 9:02 |
-| 21 | [HTS \- Accoustic Version](https://open.spotify.com/track/5bKaP8jqatMSdho2W0H7M2) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS \- Accoustic Version](https://open.spotify.com/album/7qXDs9zjNnuWRAc3WVHiAm) | 3:44 |
-| 22 | [Sauro Utangmu \- Live Version At The Boston Coffee](https://open.spotify.com/track/3L3cjYYFDoGKUFtgAgOAJW) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Sauro Utangmu \- Live Version At The Boston Coffee](https://open.spotify.com/album/5CKlz2wqgOSDiIAJJM5GHQ) | 3:34 |
+| 21 | [HTS \- Accoustic Version](https://open.spotify.com/track/5bKaP8jqatMSdho2W0H7M2) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [HTS \(Accoustic Version\)](https://open.spotify.com/album/7qXDs9zjNnuWRAc3WVHiAm) | 3:44 |
+| 22 | [Sauro Utangmu \- Live Version At The Boston Coffee](https://open.spotify.com/track/3L3cjYYFDoGKUFtgAgOAJW) | [Sela Good](https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu), [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Sauro Utangmu \(Live Version At The Boston Coffee\)](https://open.spotify.com/album/5CKlz2wqgOSDiIAJJM5GHQ) | 3:34 |
 | 23 | [BUBAR](https://open.spotify.com/track/2DncDLvbz8UxX8faINaShQ) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [BUBAR](https://open.spotify.com/album/5ziZ1115qWXIYGaQyqWryk) | 5:11 |
 | 24 | [All In For You](https://open.spotify.com/track/45fA54TCF3IZfxuJ2mZkbY) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [All In For You](https://open.spotify.com/album/6icTLvbEIwpUAE4if2aOM4) | 6:05 |
 | 25 | [Ingin Temu](https://open.spotify.com/track/0ofkvv0WuX32M6fYJ1KILI) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Royal Music](https://open.spotify.com/artist/1coVIbS4yAqP5hmezkHAXM), [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Ingin Temu](https://open.spotify.com/album/6XouyPeF4JryWecQ7TkD9m) | 5:24 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 43 | [Gusti, Matur Nuwun \- From "Sekawan Limo"](https://open.spotify.com/track/5XzyLKl7lwmuBXNJLJMyB0) | [Bayu Skak](https://open.spotify.com/artist/0jq1309CGlj9Do3jtNOTCq) | [Gusti, Matur Nuwun \(From "Sekawan Limo"\)](https://open.spotify.com/album/5yvvb7IJERbQsVrbX4tp4L) | 3:18 |
 | 44 | [Ngemis](https://open.spotify.com/track/71934imn8hIKn96P7sWELA) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Ngemis](https://open.spotify.com/album/16e2jR9gWRsCZjfe7TIfKJ) | 5:01 |
 | 45 | [NGANGGUR](https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NGANGGUR](https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5) | 4:14 |
-| 46 | [LDR "Langgeng Dayaning Rasa" \- Live](https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [LDR "Langgeng Dayaning Rasa" \- Live](https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO) | 5:10 |
+| 46 | [LDR "Langgeng Dayaning Rasa" \- Live](https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [LDR "Langgeng Dayaning Rasa" \(Live\)](https://open.spotify.com/album/43ADbfX3YZNScepulXm8dO) | 5:10 |
 | 47 | [Kisinan](https://open.spotify.com/track/5qcoVIjY77n3TGcvFCBuq7) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Kisinan](https://open.spotify.com/album/0Cya8IGdWAAqfogpm4lukg) | 5:18 |
 | 48 | [SENENG](https://open.spotify.com/track/1drRDlIBhcYUOaeMssBpEr) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [SENENG](https://open.spotify.com/album/37HenmohqDXnQzohspijBA) | 4:43 |
 | 49 | [Yowes Modaro](https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Yowes Modaro](https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW) | 4:52 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 524960,
+  "num_followers": 525023,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAABn8KJC7mq7xRxyT8GMt7Mn",
+  "snapshot_id": "ZxRIAAAAAADEn/ykjHT0mRxsA4yoTCIa",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time Out Of Mind",
-        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bob Dylan",
         "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 160000,
       "name": "Song to Woody",
       "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time Out Of Mind",
+        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/6rfGPGghQL7SJmZPXprXIc"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Buckets of Rain",
-      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
+      "duration_ms": 174733,
+      "name": "You're Gonna Make Me Lonesome When You Go",
+      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 174733,
-      "name": "You're Gonna Make Me Lonesome When You Go",
-      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
+      "duration_ms": 203506,
+      "name": "Buckets of Rain",
+      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 1974 Live Recordings Sampler",
+        "url": "https://open.spotify.com/album/5x6WnUtS1wQU9MRHQWzPQa"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 328466,
+      "name": "Just Like Tom Thumb's Blues - Live at Madison Square Garden, New York City, NY - January 30, 1974",
+      "url": "https://open.spotify.com/track/5IoPEgsKJGHx3avGyFUg7b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oh Mercy",
         "url": "https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689"
       },
@@ -775,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 1974 Live Recordings Sampler",
-        "url": "https://open.spotify.com/album/5x6WnUtS1wQU9MRHQWzPQa"
+        "name": "Time Out Of Mind",
+        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
       },
       "artists": [
         {
           "name": "Bob Dylan",
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
         }
       ],
-      "duration_ms": 328466,
-      "name": "Just Like Tom Thumb's Blues - Live at Madison Square Garden, New York City, NY - January 30, 1974",
-      "url": "https://open.spotify.com/track/5IoPEgsKJGHx3avGyFUg7b"
+      "duration_ms": 387733,
+      "name": "Not Dark Yet",
+      "url": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
     },
     {
       "added_at": null,
@@ -807,22 +823,6 @@
       "duration_ms": 304306,
       "name": "Most of the Time",
       "url": "https://open.spotify.com/track/7wLzlhL0tb3GhPhnIz7IpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Time Out Of Mind",
-        "url": "https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 387733,
-      "name": "Not Dark Yet",
-      "url": "https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP"
     },
     {
       "added_at": null,

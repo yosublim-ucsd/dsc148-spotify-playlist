@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,230 likes - 103 songs - 5 hr 16 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,230 likes - 104 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,6 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 | 101 | [Batidāo](https://open.spotify.com/track/32wnlDNCkQqeEd5DoumeQG) | [MAGH](https://open.spotify.com/artist/2km6qEBrKyTw5H0VtCYhSs) | [Batidāo](https://open.spotify.com/album/17fY6oYrqfdv9i99eU6Tmz) | 2:35 |
 | 102 | [This Trip](https://open.spotify.com/track/6PoabGZxFZoRpCYruTyqYr) | [Friendly Fire](https://open.spotify.com/artist/1JtDSmvj4bVA8pBszG43fK) | [This Trip](https://open.spotify.com/album/6JTLg8oI38zDIXuMCJ6Yv9) | 2:58 |
 | 103 | [When The Bass Kicks In](https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [When The Bass Kicks In](https://open.spotify.com/album/5j1ZwqZ1oAaqGXwfPhDi23) | 3:13 |
+| 104 | [Jack](https://open.spotify.com/track/1XuxI8toTPpAfO5TxWQoo4) | [Husko](https://open.spotify.com/artist/5n0AvUDa25XR3AYRvocSaT) | [Jack](https://open.spotify.com/album/7lKWL8ShCAr7ZVdCtAmUai) | 3:09 |
 
-Snapshot ID: `AAAPemIhc+1S4kK6P/rIvQ/UNZjgIfzP`
+Snapshot ID: `AAAPe3ubT3BAGKYHeFp/wu07F1Dll9sw`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,898 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,009 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prologue](https://open.spotify.com/track/1lsZvldTwsK33yWBcgSgsD) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y) | 2:21 |
-| 2 | [銀翼の凶星 ～ バルファルク](https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [モンスターハンター 狩猟音楽集XX](https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8) | 3:13 |
+| 2 | [Devil Trigger \- Opening Remix](https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS) | [Yoshiya Terayama](https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq), [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ) | [DEVIL MAY CRY 5 Original SoundTrack](https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe) | 2:27 |
 | 3 | [Escape](https://open.spotify.com/track/1ykLzEi5mWPLfJbA8c5h15) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [バイオハザード RE:3 アルバム プレビュー](https://open.spotify.com/album/5B26OGt9by1hpAYZqadKlA) | 4:38 |
-| 4 | [Devil Trigger \- Opening Remix](https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS) | [Yoshiya Terayama](https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq), [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ) | [DEVIL MAY CRY 5 Original SoundTrack](https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe) | 2:27 |
+| 4 | [銀翼の凶星 ～ バルファルク](https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [モンスターハンター 狩猟音楽集XX](https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8) | 3:13 |
 | 5 | [追求 ～追いつめられて](https://open.spotify.com/track/4eKkLKZmNPu4yknLQlLowe) | [Masakazu Sugimori](https://open.spotify.com/artist/6bE2VRSPWx2v3l25ZNSmLq) | [逆転裁判 蘇る逆転 オリジナル・サウンドトラック](https://open.spotify.com/album/3iLHMc4qYd3b9k7JbtxxBq) | 1:36 |
 | 6 | [Devil Trigger](https://open.spotify.com/track/7I8MCiM3A4xvnM6zIiuMZn) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Ali Edwards](https://open.spotify.com/artist/5biLuWkauLRAlX5O5VX5oi) | [Devil Trigger](https://open.spotify.com/album/6FhOlyDHHOYjBGOkPtstla) | 6:45 |
 | 7 | [英雄の証](https://open.spotify.com/track/0MvELkmRWxQoEVBfrMTkjl) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター 狩猟音楽集 ～3周年記念ベストトラック～](https://open.spotify.com/album/7sJWDYzGh1HaAQzjc0ScxI) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [生命ある者へ](https://open.spotify.com/track/2ehyCjO5IImPIAzyunddFn) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター3 \(tri\-\) オリジナル・サウンドトラック](https://open.spotify.com/album/34a2F897NiFXJry79ahuz3) | 3:09 |
 | 50 | [閃烈なる蒼光/ジンオウガ](https://open.spotify.com/track/02PIKRaYBRtfJ2s7LBbBCj) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [モンスターハンター 狩猟音楽集III ～モンスターハンターポータブル 3rd&レアトラック～](https://open.spotify.com/album/2plfcB6X4MfuNqmFohiK2t) | 2:47 |
 
-Snapshot ID: `ZIsPAwAAAAD9+HlEk+C9RuzQaucdZdPg`
+Snapshot ID: `ZxYN6wAAAAAX5WAQalLE4/GNzvDu/A3U`

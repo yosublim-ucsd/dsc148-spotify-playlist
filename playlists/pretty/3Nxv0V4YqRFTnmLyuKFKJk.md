@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 
 > CURATED BY MASON RAMSEY\-\- these are his  country essentials!  Keep checking back to see who will curate next! This is the best of country!
 
-[Topsify](https://open.spotify.com/user/topsify) - 60,269 likes - 66 songs - 3 hr 41 min
+[Topsify](https://open.spotify.com/user/topsify) - 60,264 likes - 66 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/3Nxv0V4YqRFTnmLyuKFKJk.md) - [plain]
 | 27 | [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/track/2EiJiEYSo7vfryttFuDuIw) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Ain’t In Kansas Anymore \(From Twisters: The Album\)](https://open.spotify.com/album/080pSIFP4RIZmTbyRrwsE0) | 3:14 |
 | 28 | [Heartbeat Of America](https://open.spotify.com/track/3nLSoJ2zkTw3j31G3TNHuC) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Renewal](https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR) | 6:21 |
 | 29 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 |
-| 30 | [Earth Angel \(Will You Be Mine?\)](https://open.spotify.com/track/6SJHzGBHrHhrN5nYg2QQdJ) | [Marvin Berry](https://open.spotify.com/artist/5HJx9HKCHEztgvz4pt7Vnw), [The Starlighters](https://open.spotify.com/artist/7utfFuuNSKLWEy5ew3RcfP) | [Back To The Future \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0jz1nb6dEh9PvRZr9bs387) | 2:59 |
+| 30 | [Earth Angel \(Will You Be Mine?\)](https://open.spotify.com/track/6SJHzGBHrHhrN5nYg2QQdJ) | [Marvin Berry](https://open.spotify.com/artist/5HJx9HKCHEztgvz4pt7Vnw), [The Starlighters](https://open.spotify.com/artist/7utfFuuNSKLWEy5ew3RcfP) | [Back To The Future \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0jz1nb6dEh9PvRZr9bs387) | 2:59 |
 | 31 | [Come Pick Me Up](https://open.spotify.com/track/0IOuitntGDvCwO3GAMdOu8) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [I'll See You In My Dreams](https://open.spotify.com/album/6EislLSM2rnb6dmdAGc1t3) | 4:16 |
 | 32 | [Wake up Little Susie](https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:03 |
 | 33 | [Homegrown](https://open.spotify.com/track/2kR18wsL3gvXRXdNE4dCGc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [JEKYLL + HYDE](https://open.spotify.com/album/12WhHcWieyHNLP0RGbRtrr) | 3:25 |

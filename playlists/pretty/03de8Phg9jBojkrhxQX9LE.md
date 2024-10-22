@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,928 likes - 152 songs - 8 hr 26 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,929 likes - 152 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 97 | [frogs on acid](https://open.spotify.com/track/2F3XDVAiK9PWnNqsiY0gkW) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Frogs n Stuff](https://open.spotify.com/album/7ubMDR0aJamedPiclpc4SL) | 2:07 |
 | 98 | [Dirac Rhythm](https://open.spotify.com/track/2aypeejBF4JeGh75Ivytu0) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X) | [Dirac Rhythm](https://open.spotify.com/album/47hwX2cJvT9Vh4BAp8xMyy) | 5:38 |
 | 99 | [Nu Moon](https://open.spotify.com/track/2nRFheDcWnVjcRnQcKhFCq) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Nu Moon](https://open.spotify.com/album/3raXtfprw9tFNyGJ2CnZZY) | 4:16 |
-| 100 | [In Peace \- Kelbin Remix](https://open.spotify.com/track/4CUJupcpLD5MKaXX8hMXro) | [Amiby](https://open.spotify.com/artist/6y2WsCWPWj0zXROhCxSaye), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [In Peace \- Kelbin Remix](https://open.spotify.com/album/5ApBCjOWz5nJ5MyR4AKa5B) | 4:02 |
+| 100 | [In Peace \- Kelbin Remix](https://open.spotify.com/track/4CUJupcpLD5MKaXX8hMXro) | [Amiby](https://open.spotify.com/artist/6y2WsCWPWj0zXROhCxSaye), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [In Peace \(Kelbin Remix\)](https://open.spotify.com/album/5ApBCjOWz5nJ5MyR4AKa5B) | 4:02 |
 | 101 | [Shredder](https://open.spotify.com/track/0K5lHIelEdbu9jNZt1JI3k) | [latesleeper](https://open.spotify.com/artist/0mYppjWLd9Exq6AXEEuuwd) | [New Energy Vol.2](https://open.spotify.com/album/2HlLZfpuTjknDHheLoxXff) | 4:11 |
 | 102 | [WHAT U MEAN!](https://open.spotify.com/track/4z6ytAXD2Th8itUmerYAqG) | [Farrah](https://open.spotify.com/artist/4EpVqvktwuLm4wMdI3HCJr), [KILLMATTER](https://open.spotify.com/artist/7xG6JYqkApsbZBCeKs7cJ5) | [WHAT U MEAN!](https://open.spotify.com/album/3kFLszjcbALVtsavDxIZul) | 3:22 |
 | 103 | [Into Me](https://open.spotify.com/track/0HjgEvwsuVP7m1mug9Avlw) | [Ehallz](https://open.spotify.com/artist/0xOo3C7mSM5jl3SUq3XtHL), [Falldren](https://open.spotify.com/artist/06MxyaGfukhpYNkUbdOl42) | [Come To Life/Into Me](https://open.spotify.com/album/0ivuc9wYWNzHf9Qm3SDkIN) | 3:13 |

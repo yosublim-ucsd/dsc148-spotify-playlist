@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,025 songs - 11 day 2 hr 20 min
+7,026 songs - 11 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5366,6 +5366,7 @@
 | [Silver Apples](https://open.spotify.com/track/3QXfWLUxcLR8EdUuMzSe5i) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Silver Apples](https://open.spotify.com/album/1DYLoZR6lw0hzv1hqbqFJD) | 1:50 | 2024-04-12 |  |
 | [Silver Birch](https://open.spotify.com/track/3ONIRhoRyimzjiW2W8PjtB) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Silver Birch](https://open.spotify.com/album/6aTbjQPDKcheugJicJpIf9) | 2:16 | 2023-02-27 | 2023-06-08 |
 | [silver sky](https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [silver sky](https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh) | 2:01 | 2023-10-27 |  |
+| [Simple Life](https://open.spotify.com/track/3mR38Krujpi4hN84ldJcJG) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU), [Goon Hugs](https://open.spotify.com/artist/2y8HR60MymGr6SHVQYTfFU) | [Simple Life](https://open.spotify.com/album/3ysqvsE36XXgl27DnKdOY2) | 2:34 | 2024-10-18 |  |
 | [Simple Solitude](https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Simple Solitude](https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p) | 2:33 | 2023-09-29 |  |
 | [simply, her](https://open.spotify.com/track/1b0QH9SdZvq5n3rMWw57aH) | [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [heartbreak pastures](https://open.spotify.com/album/0g5xVL0kSYnz0OpIbR99Pr) | 1:23 | 2019-07-11 | 2019-11-29 |
 | [Sin Gas](https://open.spotify.com/track/2Ks8UmpDIeg2p8TjBEFCIq) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Sin Gas](https://open.spotify.com/album/7kFB7PcFmsdOBlLVC1OLo2) | 2:21 | 2022-04-08 | 2022-08-05 |
@@ -6827,7 +6828,7 @@
 | [Wichita](https://open.spotify.com/track/2zbTK6I0usacoWgxFBnsrG) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [Monomo](https://open.spotify.com/artist/2dmpVwPMr9wEkPAgntGyqY) | [Wichita](https://open.spotify.com/album/06xt02MpiLzMxSS5nrEJhW) | 2:16 | 2022-03-11 | 2022-08-05 |
 | [wicked](https://open.spotify.com/track/0Li6Y0Noq9THd4sTR7e5wq) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [wicked](https://open.spotify.com/album/08xWG2vUxhVXsjPFo9yajA) | 2:26 | 2024-01-26 |  |
 | [Wide Skies](https://open.spotify.com/track/6W7tZLkHcNGs4EFMw0zeLl) | [Aerow](https://open.spotify.com/artist/5BiHAcaswpfTQ4CQLQnGI5), [Modokat](https://open.spotify.com/artist/0MOkCubG8ucV1oT8sRynNd) | [Wide Skies](https://open.spotify.com/album/4yASLf0tfVRa6Aq8aCTsw1) | 2:31 | 2022-12-16 | 2023-11-24 |
-| [Widescreen](https://open.spotify.com/track/6TlSIO4gI1fo14p7KKuOsC) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Widescreen](https://open.spotify.com/album/33rVAlzDqarkiME8PvS70M) | 2:12 | 2024-01-19 |  |
+| [Widescreen](https://open.spotify.com/track/6TlSIO4gI1fo14p7KKuOsC) | [Brad Enbata](https://open.spotify.com/artist/3wD2klKiJIKgXsdWGq07wi) | [Widescreen](https://open.spotify.com/album/33rVAlzDqarkiME8PvS70M) | 2:12 | 2024-01-19 | 2024-10-22 |
 | [Wie ein Stein](https://open.spotify.com/track/7nhnrb8OjaJACxPRv8eLYc) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Wie ein Stein](https://open.spotify.com/album/47Afo2R5CRzwXw0Bgg6ReL) | 2:14 | 2021-07-29 | 2022-03-12 |
 | [wild blue yonder](https://open.spotify.com/track/50rMrfQJS1ENUWTo5lJLS3) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [rocomoco](https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu) | [wild blue yonder](https://open.spotify.com/album/4UZcjVH3KKVgfGCnMPXMou) | 2:12 | 2023-01-20 | 2024-01-05 |
 | [Wild Dreams](https://open.spotify.com/track/4lke2maACdsWr6iYXJAfQd) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Wild Dreams](https://open.spotify.com/album/0uI90jEDIjXgC806kqLuys) | 1:58 | 2023-05-03 | 2023-10-20 |

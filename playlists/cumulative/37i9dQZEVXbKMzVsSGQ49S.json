@@ -2417,6 +2417,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "\u00fej\u00f3\u00f0\u00feekktur einstaklingur \u00ed valdast\u00f6\u00f0u",
         "url": "https://open.spotify.com/album/1gv02EfUkvWstrxyDpUM6P"
       },
@@ -26721,6 +26743,28 @@
     },
     {
       "album": {
+        "name": "No Police (Road Clear) [Sped Up]",
+        "url": "https://open.spotify.com/album/5pT6CulU8KtcRuBReCEBrG"
+      },
+      "artists": [
+        {
+          "name": "CynMiah",
+          "url": "https://open.spotify.com/artist/3ZDEq9SfiUoAmaF0cYkfYS"
+        },
+        {
+          "name": "Professional Beat",
+          "url": "https://open.spotify.com/artist/3joiw6Oa6V6E4UqsH5wMdE"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133067,
+      "name": "No Police (Road Clear) [Sped Up]",
+      "url": "https://open.spotify.com/track/5cOOFI9Z27AEKHXOTjBqpN"
+    },
+    {
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -28902,6 +28946,28 @@
       "duration_ms": 154964,
       "name": "PARASAIL (feat. Yung Lean & Dave Chappelle)",
       "url": "https://open.spotify.com/track/2Q0aElTZQtEUsoiaQfizu6"
+    },
+    {
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/4QRFtOCSBQLbBiMZpy5oDM"
+      },
+      "artists": [
+        {
+          "name": "BIANCO VELEZ",
+          "url": "https://open.spotify.com/artist/3r5dCyf2TGWQreILEV6hCk"
+        },
+        {
+          "name": "DIMA & LALO",
+          "url": "https://open.spotify.com/artist/4I3K5jXaeMhm3n5x8hsPWH"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/1cRtvrg3obMXE8ls9Zxv1G"
     },
     {
       "album": {
@@ -33692,7 +33758,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 177920,
       "name": "Sk\u00edna",
       "url": "https://open.spotify.com/track/6srY1H4DrPVgvSD1asK0Og"
@@ -35694,7 +35760,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
@@ -37226,7 +37292,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 323813,
       "name": "Tala minn sk\u00edt",
       "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"
@@ -38678,7 +38744,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 234166,
       "name": "Til \u00ed allt, Pt. III",
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
@@ -45086,7 +45152,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

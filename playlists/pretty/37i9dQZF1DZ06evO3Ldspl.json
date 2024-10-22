@@ -1,12 +1,12 @@
 {
-  "description": "This Is Binomio de Oro. Los temas esenciales, todos en una lista.",
-  "num_followers": 9141,
+  "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
+  "num_followers": 9143,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAAAV22ktv7PwloGSJdY/HUai",
+  "snapshot_id": "ZxRIAAAAAAAQKes8wJMjewy15TzwqZXV",
   "tracks": [
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superior",
-        "url": "https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h"
+        "name": "El Binomio De Oro",
+        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 250933,
-      "name": "Miedo Al Amor",
-      "url": "https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad"
+      "duration_ms": 200333,
+      "name": "Seguir\u00e9 Penando",
+      "url": "https://open.spotify.com/track/2ktHd52hiL6M6eehVL0DvM"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "Seguir\u00e9 Penando",
-      "url": "https://open.spotify.com/track/2ktHd52hiL6M6eehVL0DvM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clase Aparte",
         "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 237540,
       "name": "Hab\u00edamos Terminado",
       "url": "https://open.spotify.com/track/3oIldtYrNvBqJzll1NqdPE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superior",
+        "url": "https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Miedo Al Amor",
+      "url": "https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad"
     },
     {
       "added_at": null,
@@ -823,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Siempre Rafael Orozco Binomio De Oro",
-        "url": "https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2"
+        "name": "Los Elegidos",
+        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
       },
       "artists": [
         {
           "name": "Binomio de Oro",
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        },
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
         }
       ],
-      "duration_ms": 259707,
-      "name": "Cien A\u00f1os De Ausencia",
-      "url": "https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c"
+      "duration_ms": 223293,
+      "name": "Campana",
+      "url": "https://open.spotify.com/track/1lgSdPP75qkN4CUZvbZILI"
     }
   ],
   "unique_name": "This Is Binomio de Oro",

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "CRAZY H*ES",
+        "url": "https://open.spotify.com/album/2rHdtqnw7ljpy9lLiVX6Hl"
+      },
+      "artists": [
+        {
+          "name": "Eem Triplin",
+          "url": "https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138121,
+      "name": "CRAZY H*ES",
+      "url": "https://open.spotify.com/track/23p0ZzA6n7gebamzKQPApg"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },

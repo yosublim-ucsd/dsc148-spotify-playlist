@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Empezaron las fiestas de disfraces y acá te dejamos puras rolitas cool en compañía de Neton Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,293 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,372 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

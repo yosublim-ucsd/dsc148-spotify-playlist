@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW34Z8OBNGGs.md) - [plain]
 
 > Celebrate the 25th Anniversary of the iconic Tony Hawk's Pro Skater franchise with the official in\-game soundtrack of Tony Hawk's Pro Skater 1+2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,753 likes - 53 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,829 likes - 53 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW34Z8OBNGGs.md) - [plain]
 | 18 | [Police Truck](https://open.spotify.com/track/4aM3FY3th2Qx9tuvurMN0X) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/2x5IF6C5TgCyp3zasMUYgG) | 2:24 |
 | 19 | [Duck Eat Duck World](https://open.spotify.com/track/3eFSgjJcMxLPvhk42FZycQ) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/2JDCMUQW60W32tWFxDFSgF) | 2:10 |
 | 20 | [Cyclone](https://open.spotify.com/track/2qQieiApQ1TkvkZGLkbCH0) | [Dub Pistols](https://open.spotify.com/artist/4LYX3rRdXV2l99wR5YPFoK) | [Point Blank](https://open.spotify.com/album/4IMpWiEUoJKedGQ21Nmmq4) | 3:34 |
-| 21 | [IN\-TO\-IT](https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \- Pt\. 1](https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN) | 3:15 |
+| 21 | [IN\-TO\-IT](https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 1\)](https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN) | 3:15 |
 | 22 | [Vilified](https://open.spotify.com/track/1zlxmKxBTo0vZebDNl3WWs) | [Even Rude](https://open.spotify.com/artist/5b6NZkhncbICzEVWlQVzqq) | [Superabsorbent](https://open.spotify.com/album/1bPRVSF2bCP7Tpakdp7u2T) | 3:30 |
 | 23 | [West Coast](https://open.spotify.com/track/5yIVmOzeZtjJt6Pp2JI8Ys) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Too](https://open.spotify.com/album/2s9Ar63LYOp0XUOscyIz9M) | 3:22 |
 | 24 | [Evil Eye](https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Action Is Go](https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9) | 3:30 |

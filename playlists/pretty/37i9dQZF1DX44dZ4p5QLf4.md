@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Bnnyhunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,998 likes - 82 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,026 likes - 82 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

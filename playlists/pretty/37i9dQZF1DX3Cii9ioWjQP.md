@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: John Park\(존박\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,907 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,927 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 13 | [Ninguém](https://open.spotify.com/track/0uZaevs1alt7jzFQNwjY0R) | [HeeKyung Na](https://open.spotify.com/artist/0v7AyJqbUksRKUWHSN5ghz), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [BOSSA](https://open.spotify.com/album/1SyzkAuSQqH00Q52udwWoE) | 2:44 |
 | 14 | [You and I had seen the same thing](https://open.spotify.com/track/6Pc1wSqKW7uuSXYN54PTjV) | [YUNSEOKCHEOL TRIO](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) | [My summer's not over yet](https://open.spotify.com/album/1bEhI89GMah1UU96sfAQFb) | 5:08 |
 | 15 | [Puddle](https://open.spotify.com/track/5YXm2b0UsA6Zz8aDzeIRnj) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Way Back Home](https://open.spotify.com/album/3KyZqznuaRnJk5yrZI3xag) | 6:57 |
-| 16 | [Supernova \- Jazz Version](https://open.spotify.com/track/6CQIUBZ37JZNarwCo04gqy) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [Supernova \- Jazz Version](https://open.spotify.com/album/4PTNPhc9DoNxOoIbSUq6S7) | 3:18 |
+| 16 | [Supernova \- Jazz Version](https://open.spotify.com/track/6CQIUBZ37JZNarwCo04gqy) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [Supernova \(Jazz Version\)](https://open.spotify.com/album/4PTNPhc9DoNxOoIbSUq6S7) | 3:18 |
 | 17 | [Fly Me to the Moon](https://open.spotify.com/track/3QdsLBxfpAF6Nu7HBiC0GC) | [Serena Ahn JAZZSTRA](https://open.spotify.com/artist/3qMlNc8pwmvn91eWfzXXKG) | [JAZZSTRA Live in Seoul](https://open.spotify.com/album/6z1JQGfmRc9rRqswuqR5jw) | 4:29 |
 | 18 | [Don’t Blame Yourself](https://open.spotify.com/track/4ZucTmhwzc3vp0AhIOtY2r) | [Pudditorium](https://open.spotify.com/artist/7uhOcLi85Fj8PlOempXh6z) | [Prologue : Hope](https://open.spotify.com/album/3soUCShTrQXB69QUv0CuYj) | 4:34 |
 | 19 | [visitor](https://open.spotify.com/track/3BVgCg9jq5nj1TSpoE0zzM) | [Jeon Jisun](https://open.spotify.com/artist/4BBsRnLUkOI7p3G85BW76R) | [visitor](https://open.spotify.com/album/6ezOqgX9tk3y7VD1s8gjva) | 3:40 |

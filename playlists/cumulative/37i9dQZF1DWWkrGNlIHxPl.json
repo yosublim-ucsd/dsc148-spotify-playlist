@@ -5671,6 +5671,24 @@
     },
     {
       "album": {
+        "name": "Strong Enough",
+        "url": "https://open.spotify.com/album/3dYM0BYJAqAFdlyWoGrKXM"
+      },
+      "artists": [
+        {
+          "name": "kiiko",
+          "url": "https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188205,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/6HBSPmhSQfD2ftLDcQnoye"
+    },
+    {
+      "album": {
         "name": "Styla Jamaiki",
         "url": "https://open.spotify.com/album/601BizZRIf2pr5QsnR6gDA"
       },

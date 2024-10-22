@@ -1,6 +1,6 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
-  "num_followers": 1059363,
+  "num_followers": 1059443,
   "original_name": "Retrowave // Outrun",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Tsukuyomi",
+        "url": "https://open.spotify.com/album/6hkKkB6BqmPXiVl559OdyO"
+      },
+      "artists": [
+        {
+          "name": "Rogue VHS",
+          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
+        }
+      ],
+      "duration_ms": 270317,
+      "name": "Tsukuyomi",
+      "url": "https://open.spotify.com/track/61vC11KWndHG1OmoCqhELP"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/4qVesAkDopkAbgW15jedIe"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 268805,
       "name": "Floating Point",
       "url": "https://open.spotify.com/track/74to5kEhZdvStCc9bS9hSG"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Tsukuyomi",
-        "url": "https://open.spotify.com/album/6hkKkB6BqmPXiVl559OdyO"
-      },
-      "artists": [
-        {
-          "name": "Rogue VHS",
-          "url": "https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5"
-        }
-      ],
-      "duration_ms": 270317,
-      "name": "Tsukuyomi",
-      "url": "https://open.spotify.com/track/61vC11KWndHG1OmoCqhELP"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Selection 6",
-        "url": "https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl"
-      },
-      "artists": [
-        {
-          "name": "Mitch Murder",
-          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Assembly Line",
-      "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Hearts",
         "url": "https://open.spotify.com/album/4UloLhn2qHZe2iLqVYEXNC"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 174083,
       "name": "Hearts",
       "url": "https://open.spotify.com/track/1oSthFsXTiD5tIdzArvRZG"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Selection 6",
+        "url": "https://open.spotify.com/album/7CPcutxKZ5cUD96yPHPrbl"
+      },
+      "artists": [
+        {
+          "name": "Mitch Murder",
+          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Assembly Line",
+      "url": "https://open.spotify.com/track/0Caz3qzdC85NyLvNpqCxEN"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw"
-      },
-      "artists": [
-        {
-          "name": "Ace Buchannon",
-          "url": "https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Contact",
         "url": "https://open.spotify.com/album/3lzJ3fjoEil0E1K5VuI1aP"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 237783,
       "name": "Contact",
       "url": "https://open.spotify.com/track/1j7YLlEbojw8RGhpqRSv0z"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1bfAbOA2tIrr9RHx1WDprw"
+      },
+      "artists": [
+        {
+          "name": "Ace Buchannon",
+          "url": "https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/7c2p2sUWE5gBMlXIFITBJG"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Nights",
-        "url": "https://open.spotify.com/album/4pQQ9w4fIP6hawkDfMvUZS"
-      },
-      "artists": [
-        {
-          "name": "Droid Bishop",
-          "url": "https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe"
-        }
-      ],
-      "duration_ms": 301687,
-      "name": "Above The Clouds",
-      "url": "https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "feel you",
         "url": "https://open.spotify.com/album/5N2ZWLzgmo9IhGOuQeq1ou"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 118064,
       "name": "feel you",
       "url": "https://open.spotify.com/track/2ZS6zsrVD0FT0D5HbDpky3"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Nights",
+        "url": "https://open.spotify.com/album/4pQQ9w4fIP6hawkDfMvUZS"
+      },
+      "artists": [
+        {
+          "name": "Droid Bishop",
+          "url": "https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe"
+        }
+      ],
+      "duration_ms": 301687,
+      "name": "Above The Clouds",
+      "url": "https://open.spotify.com/track/3AGsnf8fjX4vBsIybP3B8T"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/3oLt3Z4c5n6t4XbAYCCccO"
-      },
-      "artists": [
-        {
-          "name": "World Complete",
-          "url": "https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq"
-        }
-      ],
-      "duration_ms": 247879,
-      "name": "Event Horizon",
-      "url": "https://open.spotify.com/track/1g93dmi3Uw9YLFs0roRedm"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Pressure Point",
         "url": "https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 236216,
       "name": "Tessellate",
       "url": "https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/3oLt3Z4c5n6t4XbAYCCccO"
+      },
+      "artists": [
+        {
+          "name": "World Complete",
+          "url": "https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq"
+        }
+      ],
+      "duration_ms": 247879,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/1g93dmi3Uw9YLFs0roRedm"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "F-zero",
-        "url": "https://open.spotify.com/album/4Ik5Q8sbb68GCKannWHxK1"
-      },
-      "artists": [
-        {
-          "name": "Mark Dee",
-          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
-        }
-      ],
-      "duration_ms": 264827,
-      "name": "F-zero",
-      "url": "https://open.spotify.com/track/3wIPZzVdlQRJ7eToQqEEq6"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Shift",
         "url": "https://open.spotify.com/album/6GmUprnsv6t2ASxGndTjJ0"
       },
@@ -1635,18 +1619,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Ascella (Dub)",
-        "url": "https://open.spotify.com/album/6Pr3MIG7HU4bkdgB4v91q5"
+        "name": "F-zero",
+        "url": "https://open.spotify.com/album/4Ik5Q8sbb68GCKannWHxK1"
       },
       "artists": [
         {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+          "name": "Mark Dee",
+          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
         }
       ],
-      "duration_ms": 352128,
-      "name": "Ascella (Dub)",
-      "url": "https://open.spotify.com/track/66YbANFZ7Ops6csoTqL7iS"
+      "duration_ms": 264827,
+      "name": "F-zero",
+      "url": "https://open.spotify.com/track/3wIPZzVdlQRJ7eToQqEEq6"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1667,6 +1651,22 @@
       "duration_ms": 394999,
       "name": "Eleos",
       "url": "https://open.spotify.com/track/0sW1K1i07EJfLn3FG4MG2k"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Ascella (Dub)",
+        "url": "https://open.spotify.com/album/6Pr3MIG7HU4bkdgB4v91q5"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "duration_ms": 352128,
+      "name": "Ascella (Dub)",
+      "url": "https://open.spotify.com/track/66YbANFZ7Ops6csoTqL7iS"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz"
-      },
-      "artists": [
-        {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
-        }
-      ],
-      "duration_ms": 278130,
-      "name": "October",
-      "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Lullabye",
         "url": "https://open.spotify.com/album/2OMmtZZdjI3CxBABLeNNwL"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 278400,
       "name": "Lullabye",
       "url": "https://open.spotify.com/track/5kM9irKTHb7sYWbmxxK2Dq"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/0wNlhlUe3DxuyqahyXO2Lz"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "duration_ms": 278130,
+      "name": "October",
+      "url": "https://open.spotify.com/track/1oOWMaSMtPmRcahZvmcnn2"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Recall",
-        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
-      },
-      "artists": [
-        {
-          "name": "Emil Rottmayer",
-          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
-        }
-      ],
-      "duration_ms": 205128,
-      "name": "Recall",
-      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Neon Nights",
         "url": "https://open.spotify.com/album/01BovJUFWTdWhO1ATNqrLm"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 222437,
       "name": "Neon Nights",
       "url": "https://open.spotify.com/track/2IKVnkzVv38BL07y6J5Mqg"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/3G5Mi3KlPtVb37Ck7oMVbd"
+      },
+      "artists": [
+        {
+          "name": "Emil Rottmayer",
+          "url": "https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT"
+        }
+      ],
+      "duration_ms": 205128,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/5c7UsxcNjaFaCoHfbqSXTM"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Kame House",
-        "url": "https://open.spotify.com/album/2gU8WHMubp57KZ2wBnIodF"
-      },
-      "artists": [
-        {
-          "name": "Mooij",
-          "url": "https://open.spotify.com/artist/7lQg4lpuza29dzqz71GarH"
-        }
-      ],
-      "duration_ms": 325423,
-      "name": "Kame House",
-      "url": "https://open.spotify.com/track/5AgOmwG54UUIYiaPOIOG5o"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Night Drive",
         "url": "https://open.spotify.com/album/4spESXBYtw3ZhNL65irFQK"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 188011,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/62FkSw742wuXEtfQLWc0qr"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Kame House",
+        "url": "https://open.spotify.com/album/2gU8WHMubp57KZ2wBnIodF"
+      },
+      "artists": [
+        {
+          "name": "Mooij",
+          "url": "https://open.spotify.com/artist/7lQg4lpuza29dzqz71GarH"
+        }
+      ],
+      "duration_ms": 325423,
+      "name": "Kame House",
+      "url": "https://open.spotify.com/track/5AgOmwG54UUIYiaPOIOG5o"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2183,26 +2183,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "The Dark, The Light",
-        "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
-      },
-      "artists": [
-        {
-          "name": "Bozart",
-          "url": "https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI"
-        },
-        {
-          "name": "Jennifer Cardini",
-          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
-        }
-      ],
-      "duration_ms": 234480,
-      "name": "The Dark, The Light (Edit)",
-      "url": "https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Finding You",
         "url": "https://open.spotify.com/album/0eMBOMgBh1QE748SFS0ZGE"
       },
@@ -2223,22 +2203,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Wavefinder",
-        "url": "https://open.spotify.com/album/2QiR0QPLjP8UczRhfLCYWu"
+        "name": "The Dark, The Light",
+        "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
       },
       "artists": [
         {
-          "name": "Makeup And Vanity Set",
-          "url": "https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3"
+          "name": "Bozart",
+          "url": "https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI"
         },
         {
-          "name": "Sferro",
-          "url": "https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P"
+          "name": "Jennifer Cardini",
+          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
         }
       ],
-      "duration_ms": 148340,
-      "name": "Innercomm",
-      "url": "https://open.spotify.com/track/0STa22n9XjOQc29noSf2M0"
+      "duration_ms": 234480,
+      "name": "The Dark, The Light (Edit)",
+      "url": "https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2255,6 +2235,26 @@
       "duration_ms": 231192,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Wavefinder",
+        "url": "https://open.spotify.com/album/2QiR0QPLjP8UczRhfLCYWu"
+      },
+      "artists": [
+        {
+          "name": "Makeup And Vanity Set",
+          "url": "https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3"
+        },
+        {
+          "name": "Sferro",
+          "url": "https://open.spotify.com/artist/2GJ1wriDYK0enbqODh6g6P"
+        }
+      ],
+      "duration_ms": 148340,
+      "name": "Innercomm",
+      "url": "https://open.spotify.com/track/0STa22n9XjOQc29noSf2M0"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Across Dark Sky",
+        "url": "https://open.spotify.com/album/6eOBd7hfeFIFnNCzVkPh90"
+      },
+      "artists": [
+        {
+          "name": "Cloned Clouds",
+          "url": "https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Across Dark Sky",
+      "url": "https://open.spotify.com/track/4h7PsMHwolAXNV7bemumCp"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "Succeed EP",
         "url": "https://open.spotify.com/album/6p5XNL1ONh2VxEdJaKmkPl"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 422226,
       "name": "Succeed",
       "url": "https://open.spotify.com/track/2526hhBAM2AmBCfruVFR7n"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Across Dark Sky",
-        "url": "https://open.spotify.com/album/6eOBd7hfeFIFnNCzVkPh90"
-      },
-      "artists": [
-        {
-          "name": "Cloned Clouds",
-          "url": "https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Across Dark Sky",
-      "url": "https://open.spotify.com/track/4h7PsMHwolAXNV7bemumCp"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Rpg",
-        "url": "https://open.spotify.com/album/1sfcZ3HBC8GqgOgpGmuRzG"
-      },
-      "artists": [
-        {
-          "name": "Shook",
-          "url": "https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw"
-        }
-      ],
-      "duration_ms": 295914,
-      "name": "Sync",
-      "url": "https://open.spotify.com/track/4LodH950AXF36OXVG23dg9"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
         "name": "Starcom (From \u201cin Search of Tomorrow\u201d)",
         "url": "https://open.spotify.com/album/6XxTmqYYY1bLeuDWEvEF26"
       },
@@ -2411,18 +2395,18 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
-        "name": "Falkor Flight",
-        "url": "https://open.spotify.com/album/0N8MB3jb6zE771kHcz4JXF"
+        "name": "Rpg",
+        "url": "https://open.spotify.com/album/1sfcZ3HBC8GqgOgpGmuRzG"
       },
       "artists": [
         {
-          "name": "Mark Dee",
-          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
+          "name": "Shook",
+          "url": "https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw"
         }
       ],
-      "duration_ms": 267752,
-      "name": "Falkor Flight",
-      "url": "https://open.spotify.com/track/4gAWy4UhIhqP0lG30a9Bew"
+      "duration_ms": 295914,
+      "name": "Sync",
+      "url": "https://open.spotify.com/track/4LodH950AXF36OXVG23dg9"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2439,6 +2423,22 @@
       "duration_ms": 144000,
       "name": "Redux",
       "url": "https://open.spotify.com/track/75DXlX1UhXLaCL8266arxL"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
+        "name": "Falkor Flight",
+        "url": "https://open.spotify.com/album/0N8MB3jb6zE771kHcz4JXF"
+      },
+      "artists": [
+        {
+          "name": "Mark Dee",
+          "url": "https://open.spotify.com/artist/0TxRxR3PKi6EeBqKa4mW2z"
+        }
+      ],
+      "duration_ms": 267752,
+      "name": "Falkor Flight",
+      "url": "https://open.spotify.com/track/4gAWy4UhIhqP0lG30a9Bew"
     },
     {
       "added_at": "2024-09-11 17:46:02",
@@ -2507,6 +2507,22 @@
     {
       "added_at": "2024-09-11 17:46:02",
       "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe"
+      },
+      "artists": [
+        {
+          "name": "Older Future",
+          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
+        }
+      ],
+      "duration_ms": 307747,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6"
+    },
+    {
+      "added_at": "2024-09-11 17:46:02",
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/1a4KPNAikeEqQLjd89sXXd"
       },
@@ -2523,22 +2539,6 @@
       "duration_ms": 219131,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/2gncVoajwxryoFS3NbAyJD"
-    },
-    {
-      "added_at": "2024-09-11 17:46:02",
-      "album": {
-        "name": "Shame",
-        "url": "https://open.spotify.com/album/34tSHiY21DAWRoPwkn1xNe"
-      },
-      "artists": [
-        {
-          "name": "Older Future",
-          "url": "https://open.spotify.com/artist/3uG3YTzjXh9q8AZQM66bKa"
-        }
-      ],
-      "duration_ms": 307747,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/4Wq5R3kHnopsgI8MR5B5j6"
     },
     {
       "added_at": "2024-09-11 17:46:02",

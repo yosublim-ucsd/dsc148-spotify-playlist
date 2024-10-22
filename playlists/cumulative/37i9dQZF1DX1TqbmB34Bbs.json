@@ -6672,7 +6672,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 210095,
       "name": "DeViL",
       "url": "https://open.spotify.com/track/3S4YpayAH2CV3iR5RPb7iX"
@@ -20006,6 +20006,32 @@
       "duration_ms": 226500,
       "name": "PYRAMID (feat. lIlBOI, Gaeko)",
       "url": "https://open.spotify.com/track/7o0PjecCCOvotKHfAwI7MV"
+    },
+    {
+      "album": {
+        "name": "MODM 2 : The Bento Knight",
+        "url": "https://open.spotify.com/album/6tPGbMlyE8TfgpsuY1z4rV"
+      },
+      "artists": [
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "\uadf8\ub0e5\ub178\ucc3d",
+          "url": "https://open.spotify.com/artist/7hRgLHQarkYdhYexNcnsRy"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Quagmire (Feat. The Quiett, \uadf8\ub0e5\ub178\ucc3d)",
+      "url": "https://open.spotify.com/track/3FJAhPrChb3ljPfYH3AaQo"
     },
     {
       "album": {

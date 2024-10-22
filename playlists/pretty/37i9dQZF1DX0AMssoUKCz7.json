@@ -1,6 +1,6 @@
 {
   "description": "Take down the tempo but keep the dance party going with the biggest tropical house jams.",
-  "num_followers": 2252666,
+  "num_followers": 2252784,
   "original_name": "Tropical House",
   "owner": {
     "name": "Spotify",
@@ -219,7 +219,7 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Sexual Healing - Kygo Remix",
+        "name": "Sexual Healing (Kygo Remix)",
         "url": "https://open.spotify.com/album/6j62lF3YXsygj6xTjAyRG5"
       },
       "artists": [
@@ -575,22 +575,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Cruel Summer (Marcus Layton Edit)",
-        "url": "https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U"
+        "name": "Is This Love (Remix)",
+        "url": "https://open.spotify.com/album/5MUX0Xv8IGxAlzz5eSEE5D"
       },
       "artists": [
         {
-          "name": "LAUWE",
-          "url": "https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         },
         {
-          "name": "Marcus Layton",
-          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
+          "name": "LVNDSCAPE",
+          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
+        },
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
         }
       ],
-      "duration_ms": 144230,
-      "name": "Cruel Summer (Marcus Layton Edit)",
-      "url": "https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg"
+      "duration_ms": 199655,
+      "name": "Is This Love - Remix",
+      "url": "https://open.spotify.com/track/1G8yVHxDLlEjDAt02Dfbmi"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -615,26 +619,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Is This Love (Remix)",
-        "url": "https://open.spotify.com/album/5MUX0Xv8IGxAlzz5eSEE5D"
+        "name": "Cruel Summer (Marcus Layton Edit)",
+        "url": "https://open.spotify.com/album/7t4AA6GFMkLfrGlrzcyy4U"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "LAUWE",
+          "url": "https://open.spotify.com/artist/1pEZZUBRto2Tid1aaFOzQK"
         },
         {
-          "name": "LVNDSCAPE",
-          "url": "https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M"
-        },
-        {
-          "name": "Bolier",
-          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+          "name": "Marcus Layton",
+          "url": "https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz"
         }
       ],
-      "duration_ms": 199655,
-      "name": "Is This Love - Remix",
-      "url": "https://open.spotify.com/track/1G8yVHxDLlEjDAt02Dfbmi"
+      "duration_ms": 144230,
+      "name": "Cruel Summer (Marcus Layton Edit)",
+      "url": "https://open.spotify.com/track/4yg4e6LkbEzc3sA0bE0GYg"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Dancing With Your Ghost",
-        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 162833,
-      "name": "Dancing With Your Ghost",
-      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Don't Tell Me I Can't Have It",
         "url": "https://open.spotify.com/album/4YyslwvTvE2qpL1zXdNrUx"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 187772,
       "name": "Don't Tell Me I Can't Have It",
       "url": "https://open.spotify.com/track/7DdrHlmyfDmAibdAbEdYIu"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Dancing With Your Ghost",
+        "url": "https://open.spotify.com/album/3eAZXUswZjMTnQIv6azohL"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 162833,
+      "name": "Dancing With Your Ghost",
+      "url": "https://open.spotify.com/track/5feLY0z0xGD7ogoZBRnK2P"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Sound of Your Summer",
-        "url": "https://open.spotify.com/album/1yaTc3a8k9BY5p0V1z2vti"
-      },
-      "artists": [
-        {
-          "name": "Quarry",
-          "url": "https://open.spotify.com/artist/0gLBsvcwZ3tSBxFaCo3BIp"
-        },
-        {
-          "name": "SUPER-Hi",
-          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
-        }
-      ],
-      "duration_ms": 188415,
-      "name": "Sound of Your Summer - SUPER-Hi Remix",
-      "url": "https://open.spotify.com/track/6fUqnrhQGXH7RGbhLgbRyr"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Talking To Myself",
         "url": "https://open.spotify.com/album/3UHI7iU3NHuheeFdbkvspv"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 131000,
       "name": "Talking To Myself",
       "url": "https://open.spotify.com/track/7h3qMzTqcJdM4Y6uqK9aoZ"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Sound of Your Summer",
+        "url": "https://open.spotify.com/album/1yaTc3a8k9BY5p0V1z2vti"
+      },
+      "artists": [
+        {
+          "name": "Quarry",
+          "url": "https://open.spotify.com/artist/0gLBsvcwZ3tSBxFaCo3BIp"
+        },
+        {
+          "name": "SUPER-Hi",
+          "url": "https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE"
+        }
+      ],
+      "duration_ms": 188415,
+      "name": "Sound of Your Summer - SUPER-Hi Remix",
+      "url": "https://open.spotify.com/track/6fUqnrhQGXH7RGbhLgbRyr"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/2rica2Rv8loGKCze0FO9L1"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "Surfin' Sam",
+          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/2zIaJANgkbASOkw6yH58Wu"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "...What About Now?",
         "url": "https://open.spotify.com/album/0qgDGLGt3fn9H8sFRJSTlz"
       },
@@ -1575,30 +1595,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Before LA",
-        "url": "https://open.spotify.com/album/4AkoffQBD7hYtcKwK3WENM"
-      },
-      "artists": [
-        {
-          "name": "Fo\u00ednix",
-          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
-        },
-        {
-          "name": "Chris Ruo",
-          "url": "https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        }
-      ],
-      "duration_ms": 171653,
-      "name": "Before LA",
-      "url": "https://open.spotify.com/track/71dVzENqh6brbKDWRmL5IE"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "I Wanna Go",
         "url": "https://open.spotify.com/album/2jbdARp7cq4Rp30ALgr5XP"
       },
@@ -1619,22 +1615,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/2rica2Rv8loGKCze0FO9L1"
+        "name": "Before LA",
+        "url": "https://open.spotify.com/album/4AkoffQBD7hYtcKwK3WENM"
       },
       "artists": [
         {
-          "name": "Brendan Mills",
-          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
         },
         {
-          "name": "Surfin' Sam",
-          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+          "name": "Chris Ruo",
+          "url": "https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
         }
       ],
-      "duration_ms": 167946,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/2zIaJANgkbASOkw6yH58Wu"
+      "duration_ms": 171653,
+      "name": "Before LA",
+      "url": "https://open.spotify.com/track/71dVzENqh6brbKDWRmL5IE"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2335,6 +2335,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/73GRnLNhy6cPL97D9DUOi8"
+      },
+      "artists": [
+        {
+          "name": "Donner",
+          "url": "https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/0DPFWlzSaX1srrzwOBzASh"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/5F30EhA6VJC1Wzfux39cvE"
       },
@@ -2351,22 +2367,6 @@
       "duration_ms": 174915,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/3UoBVAvz3TvsJCvNDxAJtB"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/73GRnLNhy6cPL97D9DUOi8"
-      },
-      "artists": [
-        {
-          "name": "Donner",
-          "url": "https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/0DPFWlzSaX1srrzwOBzASh"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2415,6 +2415,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Heart So Big",
+        "url": "https://open.spotify.com/album/1bJIKiiVhod9BiTuQtGVYM"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Heart So Big",
+      "url": "https://open.spotify.com/track/6jOfKvLoIdKu7UARpK2sMw"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "DREAM",
         "url": "https://open.spotify.com/album/0KbWlqnCqZYyjiMR1t1pBn"
       },
@@ -2451,22 +2471,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Heart So Big",
-        "url": "https://open.spotify.com/album/1bJIKiiVhod9BiTuQtGVYM"
+        "name": "Love That We Need",
+        "url": "https://open.spotify.com/album/2zGvqQVpjRZRF7H08V5en5"
       },
       "artists": [
         {
-          "name": "Matoma",
-          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+          "name": "Silience",
+          "url": "https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI"
         },
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+          "name": "Loyal",
+          "url": "https://open.spotify.com/artist/46hRjZWANVDZXOV2WVODGI"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Heart So Big",
-      "url": "https://open.spotify.com/track/6jOfKvLoIdKu7UARpK2sMw"
+      "duration_ms": 177170,
+      "name": "Love That We Need",
+      "url": "https://open.spotify.com/track/58U52B6rDjT30RIquT51dE"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2491,26 +2511,6 @@
       "duration_ms": 158400,
       "name": "Angels",
       "url": "https://open.spotify.com/track/4KwcBCwtLql3ioOmmY8dwX"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Love That We Need",
-        "url": "https://open.spotify.com/album/2zGvqQVpjRZRF7H08V5en5"
-      },
-      "artists": [
-        {
-          "name": "Silience",
-          "url": "https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI"
-        },
-        {
-          "name": "Loyal",
-          "url": "https://open.spotify.com/artist/46hRjZWANVDZXOV2WVODGI"
-        }
-      ],
-      "duration_ms": 177170,
-      "name": "Love That We Need",
-      "url": "https://open.spotify.com/track/58U52B6rDjT30RIquT51dE"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2827,22 +2827,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Hater",
-        "url": "https://open.spotify.com/album/3QneXa4R2BqbQULBhDg6HZ"
-      },
-      "artists": [
-        {
-          "name": "Nexeri",
-          "url": "https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU"
-        }
-      ],
-      "duration_ms": 170076,
-      "name": "Hater",
-      "url": "https://open.spotify.com/track/4CrNo5vGp55buj14tjnqgQ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Not Giving You Up (Vandelux Remix)",
         "url": "https://open.spotify.com/album/0bWx6P1rLhb0q470e6JblG"
       },
@@ -2859,6 +2843,22 @@
       "duration_ms": 226453,
       "name": "Not Giving You Up - Vandelux Remix",
       "url": "https://open.spotify.com/track/1MQ2Wj7spgwcnj1QPkTAvh"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Hater",
+        "url": "https://open.spotify.com/album/3QneXa4R2BqbQULBhDg6HZ"
+      },
+      "artists": [
+        {
+          "name": "Nexeri",
+          "url": "https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU"
+        }
+      ],
+      "duration_ms": 170076,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/4CrNo5vGp55buj14tjnqgQ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -3119,22 +3119,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/1wl6LlP6gh7byEPdI3oGxk"
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/6LumlIItkkfIE2a2Ujk4fs"
       },
       "artists": [
         {
-          "name": "Antoine Chambe",
-          "url": "https://open.spotify.com/artist/5DIQ8PaQ21m4G3ao0JG84N"
+          "name": "Junerule",
+          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
         },
         {
-          "name": "Lucas Cozy",
-          "url": "https://open.spotify.com/artist/4CLnVttsdDWEBtNJrTFN47"
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "Tess Burrstone",
+          "url": "https://open.spotify.com/artist/3QPKvs3fg48SjSF3Kglpwy"
         }
       ],
-      "duration_ms": 212813,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/6LHvM6g4TD9ugyYs4CKwyc"
+      "duration_ms": 171429,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5INg5JgllhQn71YpEIrh2E"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -3163,6 +3167,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1wl6LlP6gh7byEPdI3oGxk"
+      },
+      "artists": [
+        {
+          "name": "Antoine Chambe",
+          "url": "https://open.spotify.com/artist/5DIQ8PaQ21m4G3ao0JG84N"
+        },
+        {
+          "name": "Lucas Cozy",
+          "url": "https://open.spotify.com/artist/4CLnVttsdDWEBtNJrTFN47"
+        }
+      ],
+      "duration_ms": 212813,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/6LHvM6g4TD9ugyYs4CKwyc"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Greatest Show On Earth (Remady Remix)",
         "url": "https://open.spotify.com/album/2i8pVtgk4kFGwdxlWsuOey"
       },
@@ -3183,30 +3207,6 @@
       "duration_ms": 192343,
       "name": "Greatest Show On Earth - Remady Remix",
       "url": "https://open.spotify.com/track/6JEWeI8NbGOySyxg7TEExc"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/6LumlIItkkfIE2a2Ujk4fs"
-      },
-      "artists": [
-        {
-          "name": "Junerule",
-          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
-        },
-        {
-          "name": "Brendan Mills",
-          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
-        },
-        {
-          "name": "Tess Burrstone",
-          "url": "https://open.spotify.com/artist/3QPKvs3fg48SjSF3Kglpwy"
-        }
-      ],
-      "duration_ms": 171429,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5INg5JgllhQn71YpEIrh2E"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -3275,6 +3275,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Like Paradise",
+        "url": "https://open.spotify.com/album/2qdyDBfmYdCjhnBN8YZP0N"
+      },
+      "artists": [
+        {
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+        },
+        {
+          "name": "Skye Holland",
+          "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Like Paradise",
+      "url": "https://open.spotify.com/track/2N5yhfoSUOBL8Yx87YlAZN"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Triste Serenata (feat. French Braids)",
         "url": "https://open.spotify.com/album/6j3fx2vu92EnJiCtY2LDnm"
       },
@@ -3295,26 +3315,6 @@
       "duration_ms": 239466,
       "name": "Triste Serenata (feat. French Braids)",
       "url": "https://open.spotify.com/track/1hKF9IaowfjDsy7tmkSBDf"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Like Paradise",
-        "url": "https://open.spotify.com/album/2qdyDBfmYdCjhnBN8YZP0N"
-      },
-      "artists": [
-        {
-          "name": "Steve Kroeger",
-          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
-        },
-        {
-          "name": "Skye Holland",
-          "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Like Paradise",
-      "url": "https://open.spotify.com/track/2N5yhfoSUOBL8Yx87YlAZN"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -3387,26 +3387,6 @@
       "duration_ms": 118965,
       "name": "Hearts Collide",
       "url": "https://open.spotify.com/track/3EbeZtfFbp2zAYZyJv55Kg"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/79rM1OVbpQvs0RrmCzbnwk"
-      },
-      "artists": [
-        {
-          "name": "Steve Kroeger",
-          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
-        },
-        {
-          "name": "Life of Kai",
-          "url": "https://open.spotify.com/artist/0U3WBWEyw85dVEwCyvMXwB"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Wanderlust",
-      "url": "https://open.spotify.com/track/6rLUqI3MUMGdaSYM6rfhbB"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -3491,22 +3471,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Life Goes On",
-        "url": "https://open.spotify.com/album/44BgTplLwGcY1ER9jn2Tng"
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/79rM1OVbpQvs0RrmCzbnwk"
       },
       "artists": [
         {
-          "name": "Ricii Lompeurs",
-          "url": "https://open.spotify.com/artist/4QfP8q2uWxpH3iZFkwDI7b"
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
         },
         {
-          "name": "Francesco Ray",
-          "url": "https://open.spotify.com/artist/7Bi7LziJZ8WXJEF11BW0iQ"
+          "name": "Life of Kai",
+          "url": "https://open.spotify.com/artist/0U3WBWEyw85dVEwCyvMXwB"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/2jfNbQZ8VqVhPvOtXOrmon"
+      "duration_ms": 166000,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/6rLUqI3MUMGdaSYM6rfhbB"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -3527,26 +3507,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Waiting For Us",
-        "url": "https://open.spotify.com/album/4Vs66Z1NLx5bXjDUgmNu5V"
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/44BgTplLwGcY1ER9jn2Tng"
       },
       "artists": [
         {
-          "name": "Steve Kroeger",
-          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+          "name": "Ricii Lompeurs",
+          "url": "https://open.spotify.com/artist/4QfP8q2uWxpH3iZFkwDI7b"
         },
         {
-          "name": "BIMINI",
-          "url": "https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx"
-        },
-        {
-          "name": "Tep No",
-          "url": "https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8"
+          "name": "Francesco Ray",
+          "url": "https://open.spotify.com/artist/7Bi7LziJZ8WXJEF11BW0iQ"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Waiting For Us",
-      "url": "https://open.spotify.com/track/0nV1xGEGl3rM1cdHPj5dNj"
+      "duration_ms": 190000,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/2jfNbQZ8VqVhPvOtXOrmon"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -3583,22 +3559,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "California Nights",
-        "url": "https://open.spotify.com/album/23DAwmVitzaPkFbmOsmuw4"
+        "name": "Waiting For Us",
+        "url": "https://open.spotify.com/album/4Vs66Z1NLx5bXjDUgmNu5V"
       },
       "artists": [
         {
-          "name": "Lapsi",
-          "url": "https://open.spotify.com/artist/5ZcPF93TyiZ6F0M3S1cRLm"
+          "name": "Steve Kroeger",
+          "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
         },
         {
-          "name": "Sansa",
-          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
+          "name": "BIMINI",
+          "url": "https://open.spotify.com/artist/6Qt4M6p6dnbQVq6RulgbCx"
+        },
+        {
+          "name": "Tep No",
+          "url": "https://open.spotify.com/artist/7MlotYZhHjOlXcvmwrITj8"
         }
       ],
-      "duration_ms": 132270,
-      "name": "California Nights",
-      "url": "https://open.spotify.com/track/4ZmejwrgkNOowAPiIntRox"
+      "duration_ms": 150000,
+      "name": "Waiting For Us",
+      "url": "https://open.spotify.com/track/0nV1xGEGl3rM1cdHPj5dNj"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -3619,18 +3599,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1ZDWXDisS7Qnl6YbNKzdGz"
+        "name": "California Nights",
+        "url": "https://open.spotify.com/album/23DAwmVitzaPkFbmOsmuw4"
       },
       "artists": [
         {
-          "name": "Leviro",
-          "url": "https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl"
+          "name": "Lapsi",
+          "url": "https://open.spotify.com/artist/5ZcPF93TyiZ6F0M3S1cRLm"
+        },
+        {
+          "name": "Sansa",
+          "url": "https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9"
         }
       ],
-      "duration_ms": 144631,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/52xRalpJsWgk2AprDKvR6g"
+      "duration_ms": 132270,
+      "name": "California Nights",
+      "url": "https://open.spotify.com/track/4ZmejwrgkNOowAPiIntRox"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -3651,6 +3635,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1ZDWXDisS7Qnl6YbNKzdGz"
+      },
+      "artists": [
+        {
+          "name": "Leviro",
+          "url": "https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl"
+        }
+      ],
+      "duration_ms": 144631,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/52xRalpJsWgk2AprDKvR6g"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/59OIgFU8GhhmbcH2l2ipnJ"
       },
@@ -3663,26 +3663,6 @@
       "duration_ms": 160363,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/5FF9vuEU85mmbQ3gijVHWP"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3VLYzHg6S1JngbXYapwMF3"
-      },
-      "artists": [
-        {
-          "name": "NORRA",
-          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
-        },
-        {
-          "name": "lostinspace",
-          "url": "https://open.spotify.com/artist/2c43LX3975Nv5hUcntUhMG"
-        }
-      ],
-      "duration_ms": 133500,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/18atM21acJCu9bH0YCsYG0"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -3707,22 +3687,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "My California Dream",
-        "url": "https://open.spotify.com/album/2XKJpd6zQuHacrwxexFWXP"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3VLYzHg6S1JngbXYapwMF3"
       },
       "artists": [
         {
-          "name": "Richill",
-          "url": "https://open.spotify.com/artist/3LPmZauf3fUMOzH9bfrr7r"
+          "name": "NORRA",
+          "url": "https://open.spotify.com/artist/41TOmzyp8cryPs7PXHKdb7"
         },
         {
-          "name": "Ladina Viva",
-          "url": "https://open.spotify.com/artist/6KIl9XHyJDDXbQLnbTf5wm"
+          "name": "lostinspace",
+          "url": "https://open.spotify.com/artist/2c43LX3975Nv5hUcntUhMG"
         }
       ],
-      "duration_ms": 154213,
-      "name": "My California Dream",
-      "url": "https://open.spotify.com/track/2wnxrNECnWUT8Z8peldD8z"
+      "duration_ms": 133500,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/18atM21acJCu9bH0YCsYG0"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -3751,6 +3731,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "My California Dream",
+        "url": "https://open.spotify.com/album/2XKJpd6zQuHacrwxexFWXP"
+      },
+      "artists": [
+        {
+          "name": "Richill",
+          "url": "https://open.spotify.com/artist/3LPmZauf3fUMOzH9bfrr7r"
+        },
+        {
+          "name": "Ladina Viva",
+          "url": "https://open.spotify.com/artist/6KIl9XHyJDDXbQLnbTf5wm"
+        }
+      ],
+      "duration_ms": 154213,
+      "name": "My California Dream",
+      "url": "https://open.spotify.com/track/2wnxrNECnWUT8Z8peldD8z"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Belong",
         "url": "https://open.spotify.com/album/5aQSWYVasZG6bAdkjvyn78"
       },
@@ -3771,6 +3771,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "A Little Bit Closer",
+        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
+      },
+      "artists": [
+        {
+          "name": "SoN",
+          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "A Little Bit Closer",
+      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Happy Now",
         "url": "https://open.spotify.com/album/21EXqiY7t6ZYniihjdcIdK"
       },
@@ -3787,22 +3803,6 @@
       "duration_ms": 171428,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/63iSQ3Fd1qnKWlC7LIVP87"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "A Little Bit Closer",
-        "url": "https://open.spotify.com/album/7qt0giCmuYIsQy7w6dkZbn"
-      },
-      "artists": [
-        {
-          "name": "SoN",
-          "url": "https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "A Little Bit Closer",
-      "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
     },
     {
       "added_at": "2024-10-04 04:00:00",

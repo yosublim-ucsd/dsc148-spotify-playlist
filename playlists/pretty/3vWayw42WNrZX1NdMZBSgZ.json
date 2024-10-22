@@ -6,7 +6,7 @@
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAS1A2xAiqSKwIPTXnwg9Omk5jvuuTm",
+  "snapshot_id": "AAAS1yqFLPQrDcchg25YajIRmrF25IA+",
   "tracks": [
     {
       "added_at": "2024-10-17 14:35:24",
@@ -91,6 +91,26 @@
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
+    },
+    {
+      "added_at": "2024-10-21 20:17:14",
+      "album": {
+        "name": "Tarantino",
+        "url": "https://open.spotify.com/album/2WtUQ2qrQ7Bm5H36sjIOyb"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        },
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 149547,
+      "name": "Tarantino",
+      "url": "https://open.spotify.com/track/2lnWSGiS0ptlY9wAAZrmla"
     },
     {
       "added_at": "2024-09-27 00:02:17",
@@ -555,7 +575,7 @@
     {
       "added_at": "2024-09-20 13:00:33",
       "album": {
-        "name": "Fr\u00eda - Dutch Remix",
+        "name": "Fr\u00eda (Dutch Remix)",
         "url": "https://open.spotify.com/album/2UDSKRSFMkjg1oNH04bsF1"
       },
       "artists": [
@@ -1499,7 +1519,7 @@
     {
       "added_at": "2024-09-20 13:00:33",
       "album": {
-        "name": "Tengo Un Plan - Remix",
+        "name": "Tengo Un Plan (Remix)",
         "url": "https://open.spotify.com/album/13CfzKNWzSAkJj6nsFadsQ"
       },
       "artists": [

@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Ckay",
-  "num_followers": 240462,
+  "num_followers": 240489,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,26 @@
     {
       "added_at": "2024-10-18 00:01:00",
       "album": {
+        "name": "Bad Boy Etiquette 102: Continuous Assessment",
+        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Last Week",
+      "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
+    },
+    {
+      "added_at": "2024-10-18 00:01:00",
+      "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 153684,
       "name": "W",
       "url": "https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O"
-    },
-    {
-      "added_at": "2024-10-18 00:01:00",
-      "album": {
-        "name": "Bad Boy Etiquette 102: Continuous Assessment",
-        "url": "https://open.spotify.com/album/0bQ1dB4SNGka3dldzK3mLC"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "Last Week",
-      "url": "https://open.spotify.com/track/3lvs7B8Drx1i8wymacHMIF"
     },
     {
       "added_at": "2024-10-18 00:01:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-10-18 00:01:00",
       "album": {
-        "name": "Son of Chike",
-        "url": "https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 167717,
-      "name": "Your Loss",
-      "url": "https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd"
-    },
-    {
-      "added_at": "2024-10-18 00:01:00",
-      "album": {
         "name": "Cold War",
         "url": "https://open.spotify.com/album/5EjNSzsV0sgEcXO7u00f0y"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 193586,
       "name": "Cold War (with FAVE)",
       "url": "https://open.spotify.com/track/3wZx58DkyBoPIQ8UaAdt3g"
+    },
+    {
+      "added_at": "2024-10-18 00:01:00",
+      "album": {
+        "name": "Son of Chike",
+        "url": "https://open.spotify.com/album/7H6k4Pga6vIsaLM10sQf6W"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 167717,
+      "name": "Your Loss",
+      "url": "https://open.spotify.com/track/0ohCXfOYVw5om6ZK26LGXd"
     },
     {
       "added_at": "2024-10-18 00:01:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-10-18 00:01:00",
       "album": {
+        "name": "4 Days",
+        "url": "https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 154199,
+      "name": "4 Days",
+      "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
+    },
+    {
+      "added_at": "2024-10-18 00:01:00",
+      "album": {
         "name": "diallo",
         "url": "https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 163008,
       "name": "diallo",
       "url": "https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF"
-    },
-    {
-      "added_at": "2024-10-18 00:01:00",
-      "album": {
-        "name": "4 Days",
-        "url": "https://open.spotify.com/album/3GWcWfl1e0JYX4Wg6vMwxn"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 154199,
-      "name": "4 Days",
-      "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
     },
     {
       "added_at": "2024-10-18 00:01:00",

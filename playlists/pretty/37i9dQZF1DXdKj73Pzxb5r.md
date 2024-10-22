@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: William Sihombing
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,689 likes - 97 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,730 likes - 97 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 40 | [Pelangkah](https://open.spotify.com/track/5e0OI1hT6jB6G7rLwo4Obj) | [tradeto](https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK) | [Pelangkah](https://open.spotify.com/album/1ALTAABUubZvLyB4TqbRga) | 4:12 |
 | 41 | [Timid](https://open.spotify.com/track/7pGOqnFREV1DRWUle30atO) | [ATSEA](https://open.spotify.com/artist/29YMwt7N0OV3oG5nw2NmeI) | [Timid](https://open.spotify.com/album/5tZaAbbC3MTS7dMeUfE3N8) | 2:34 |
 | 42 | [Kelak Kau Bertumbuh](https://open.spotify.com/track/3ENf2swPbxu2ml3wIQgD8q) | [Jazeed](https://open.spotify.com/artist/7KL0E0rwZuLjkKzleQgzPq) | [Kelak Kau Bertumbuh](https://open.spotify.com/album/2ANuIXyZcKdyfFmlsA3QhZ) | 2:58 |
-| 43 | [Love Song \- Sped Up](https://open.spotify.com/track/2a6oxLAHXfGAhgtdQc31f7) | [Astera](https://open.spotify.com/artist/4JnHEguLziouTWp1brStli), [Shaumil Kamilia](https://open.spotify.com/artist/5NkWOO2EW1nRzY0EusrOlz) | [Love Song \- Sped Up](https://open.spotify.com/album/5dbOQnPfLLdMCU23rL32UA) | 3:48 |
+| 43 | [Love Song \- Sped Up](https://open.spotify.com/track/2a6oxLAHXfGAhgtdQc31f7) | [Astera](https://open.spotify.com/artist/4JnHEguLziouTWp1brStli), [Shaumil Kamilia](https://open.spotify.com/artist/5NkWOO2EW1nRzY0EusrOlz) | [Love Song \(Sped Up\)](https://open.spotify.com/album/5dbOQnPfLLdMCU23rL32UA) | 3:48 |
 | 44 | [Boy](https://open.spotify.com/track/0ZTmXwcJHScpFKYvpn1GxY) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO) | [Boy](https://open.spotify.com/album/5C94LDJzlNnEyViDX8GQiQ) | 3:44 |
 | 45 | [Catch The Love](https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn) | [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Decade](https://open.spotify.com/album/5TZ6xnIlYgusgGbPwFhRQX) | 3:49 |
 | 46 | [Merdeka Melaju Dari A Sampai Z](https://open.spotify.com/track/2cDqbPODx7Hdqt1WQ6dOYz) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Merdeka Melaju Dari A Sampai Z](https://open.spotify.com/album/1AuPJsz5VCBoMyVwqmGyC2) | 6:34 |

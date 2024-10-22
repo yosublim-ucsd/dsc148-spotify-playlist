@@ -1971,6 +1971,24 @@
     },
     {
       "album": {
+        "name": "Small Steps",
+        "url": "https://open.spotify.com/album/1rRyxVqesdCGq4KQhDxytO"
+      },
+      "artists": [
+        {
+          "name": "Valentia Serrano",
+          "url": "https://open.spotify.com/artist/1OCi9l2I6jEaENzD8MuSAJ"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130953,
+      "name": "Small Steps",
+      "url": "https://open.spotify.com/track/1hdv5ClhtXr3ObgFCSjNVw"
+    },
+    {
+      "album": {
         "name": "Mursejler",
         "url": "https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID"
       },

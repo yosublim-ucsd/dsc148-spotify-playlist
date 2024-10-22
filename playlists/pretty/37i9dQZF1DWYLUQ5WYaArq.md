@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Roses are red, violets are blue, a “we're halfway through spring” playlist for you\.  🌼🌻🌼 Cover: Matt Corby
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,285 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,276 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

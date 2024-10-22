@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,312 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,324 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 | 9 | [Gilgamesh](https://open.spotify.com/track/449JKvl3cCFdkwQZqreV79) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [JamalThaDon](https://open.spotify.com/artist/1Q0QdXJBUgXIykD8ZuKXwB), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Gilgamesh](https://open.spotify.com/album/3VAilypndl6FcUryyLqA9I) | 2:24 |
 | 10 | [Garmonbozia](https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Garmonbozia](https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc) | 3:33 |
 | 11 | [Streets is Calling \- Single Edit](https://open.spotify.com/track/5FHGzDVFbvZKVoDkJMUWCE) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Streets is Calling](https://open.spotify.com/album/1nnnWSZpUIdUipG0pDaceS) | 2:32 |
-| 12 | [No Self Control \- The Breakglass Version](https://open.spotify.com/track/5sB5IzZu7dsI1GAX2c6QHR) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9), [Ivy Boxall](https://open.spotify.com/artist/04NnyiPqVcXFLXsUfIDf7H) | [No Self Control \- The Breakglass Series: Part 3](https://open.spotify.com/album/6KSessSv718noSZBtjBCa3) | 5:52 |
+| 12 | [No Self Control \- The Breakglass Version](https://open.spotify.com/track/5sB5IzZu7dsI1GAX2c6QHR) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9), [Ivy Boxall](https://open.spotify.com/artist/04NnyiPqVcXFLXsUfIDf7H) | [No Self Control \(The Breakglass Series: Part 3\)](https://open.spotify.com/album/6KSessSv718noSZBtjBCa3) | 5:52 |
 | 13 | [Won't Change Me](https://open.spotify.com/track/5u7NLofbw8MQc3lpM0tRyu) | [Yakul](https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO) | [Gravity Pulls You Home](https://open.spotify.com/album/35sSXcHyTzb1LOQIQIcqIz) | 3:32 |
 | 14 | [AI Says I Love You](https://open.spotify.com/track/6S0nfnBby9tBiwBJ02Dbfj) | [Gideon King & City Blog](https://open.spotify.com/artist/33fXxnMHm3wCJk6p1sje7i) | [AI Says I Love You](https://open.spotify.com/album/7g0E5vzbnVQQ9h3u0B4AQa) | 3:09 |
 | 15 | [You, Me and the Devil](https://open.spotify.com/track/1zk2rhytZvbEx37kommEOP) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Emmi](https://open.spotify.com/artist/3eSiyfI9xykA5QtgcLS43b) | [You, Me and the Devil](https://open.spotify.com/album/7rpjY0KQA2OKQLQZzqGVW2) | 2:13 |

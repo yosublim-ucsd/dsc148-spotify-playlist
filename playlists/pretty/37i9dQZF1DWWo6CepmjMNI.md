@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: VELIKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,638 likes - 55 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,651 likes - 55 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

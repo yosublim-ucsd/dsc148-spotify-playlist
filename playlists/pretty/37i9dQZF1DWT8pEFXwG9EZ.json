@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 167111,
+  "num_followers": 167159,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -375,7 +375,7 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "The Jungle Book - Original Motion Picture Soundtrack",
+        "name": "The Jungle Book (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3aE3jpLLfDpmAb0mhxB5tm"
       },
       "artists": [
@@ -951,7 +951,7 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "The Good Shepherd - Original Motion Picture Soundtrack",
+        "name": "The Good Shepherd (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5zUhkvbroh4veWDGqWA34C"
       },
       "artists": [
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "The Get Down: Original Soundtrack From The Netflix Original Series (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P"
-      },
-      "artists": [
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        }
-      ],
-      "duration_ms": 300933,
-      "name": "Kipling Theme",
-      "url": "https://open.spotify.com/track/5tLqCq1AZB2U9LPVHwamp7"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "The Thomas Crown Affair",
         "url": "https://open.spotify.com/album/1N5rrvYvMOkksKenHHmHQv"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 141240,
       "name": "Theme From The Thomas Crown Affair (The Windmills Of Your Mind)",
       "url": "https://open.spotify.com/track/76h5XaSnrPcbPnkyefYU5B"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "The Get Down: Original Soundtrack From The Netflix Original Series (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 300933,
+      "name": "Kipling Theme",
+      "url": "https://open.spotify.com/track/5tLqCq1AZB2U9LPVHwamp7"
     },
     {
       "added_at": "2024-06-14 07:09:21",

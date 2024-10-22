@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: ALEXSUCKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,711 likes - 126 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,768 likes - 126 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 81 | [Hall Of Fame](https://open.spotify.com/track/6rFLCSl2zxDxs5SODqjdnC) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Hall Of Fame](https://open.spotify.com/album/4WRUXBdpizFB9CLTTubYR0) | 2:55 |
 | 82 | [Same \(with The Maine\)](https://open.spotify.com/track/4OOhZ02Ec4XBcFVSNJdeDk) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5), [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [Until The End Of Time](https://open.spotify.com/album/5pxDj3yqjo1fOTeMJjf9yV) | 2:36 |
 | 83 | [Watch The Fire](https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY), [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Watch The Fire](https://open.spotify.com/album/4q4Gjl6X9nM4VsxiDK0aOJ) | 3:28 |
-| 84 | [Good Vibrations \- Radio Edit](https://open.spotify.com/track/4psAwJ6lXrgE1iHUX0CYvY) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Wes Borland](https://open.spotify.com/artist/3Uzo5Y5sjGlwxNjfZDtGLF) | [Good Vibrations \- Radio Edit](https://open.spotify.com/album/3rSvc4M3uJiAupLtmnTy6L) | 3:42 |
+| 84 | [Good Vibrations \- Radio Edit](https://open.spotify.com/track/4psAwJ6lXrgE1iHUX0CYvY) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Wes Borland](https://open.spotify.com/artist/3Uzo5Y5sjGlwxNjfZDtGLF) | [Good Vibrations \(Radio Edit\)](https://open.spotify.com/album/3rSvc4M3uJiAupLtmnTy6L) | 3:42 |
 | 85 | [Final Nail](https://open.spotify.com/track/6kG3qEXGFZCC4OfGCRBW15) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Final Nail](https://open.spotify.com/album/41yGbbLZbhBJqjSBuoOoG4) | 2:30 |
 | 86 | [You Keep Me Up At Night](https://open.spotify.com/track/0POOOfkVbM8suYFRWUkDQQ) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [You Keep Me Up At Night](https://open.spotify.com/album/3Tt8qHRIi8pRlMLISmVQE3) | 2:18 |
 | 87 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 
 > <a href="spotify:artist:3AN049igIAaoX0fjTCkpnf">Jennifer Cardini</a>'s favorite tracks\. Updated regularly\. Curated by Jennifer Cardini\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,802 likes - 70 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,807 likes - 70 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcttP9IwoTTL.md) - [plain]
 | 11 | [Roller](https://open.spotify.com/track/47EmvgZo5ITbTskLmq44bf) | [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Satisfy EP](https://open.spotify.com/album/75N0GIjOwiJlArLFFvojqK) | 5:42 |
 | 12 | [Tragedy 2 \(Known Artist Remix\)](https://open.spotify.com/track/1g3Nq69QYbjh1JYEY4zeN6) | [Panthera](https://open.spotify.com/artist/1ogGXVsOLLqW0GxGIIIHzX), [Known Artist](https://open.spotify.com/artist/07iYEyMyKAt0MzUt3JdFU2) | [Tragedy](https://open.spotify.com/album/0iMlBbm5SV84gHcLKnBqv0) | 5:38 |
 | 13 | [Need It](https://open.spotify.com/track/6jmny3liDUdjL95U1J8Njx) | [Maruwa](https://open.spotify.com/artist/6jvVhsNfiC1BXMtZHKpgHF) | [Freeride Millenium presents Queer Base, Vol\. 2](https://open.spotify.com/album/5fE7Ds652mDjUfSdQMYSaw) | 5:02 |
-| 14 | [Lost \- Gerd Janson Edit](https://open.spotify.com/track/4bpB7YsjgZ436rwT5Iwl5g) | [Mute](https://open.spotify.com/artist/1oW42kA1HFvXhiNTPuf6n5), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Lost \- Gerd Janson Edit](https://open.spotify.com/album/3k4kMMEFdStFTqxiGDb9sZ) | 3:30 |
+| 14 | [Lost \- Gerd Janson Edit](https://open.spotify.com/track/4bpB7YsjgZ436rwT5Iwl5g) | [Mute](https://open.spotify.com/artist/1oW42kA1HFvXhiNTPuf6n5), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Lost \(Gerd Janson Edit\)](https://open.spotify.com/album/3k4kMMEFdStFTqxiGDb9sZ) | 3:30 |
 | 15 | [Down \(Original Mix\)](https://open.spotify.com/track/6YaFyRsRbB2AIy6Ajea4jB) | [Aaron Carl](https://open.spotify.com/artist/7fHzaEzwDv2zfpVqrkama2) | [Down](https://open.spotify.com/album/2aN1FWQGqSU86NVzRAmvCE) | 3:49 |
 | 16 | [The Hope](https://open.spotify.com/track/4IqqvzIRQylW0JnKtCvyOy) | [Endrik Schroeder](https://open.spotify.com/artist/36iWQyhQMf8sGugNrftuxl), [Miss Kittin](https://open.spotify.com/artist/3QhNv79NoIvarU6N57GBzL) | [The Hope](https://open.spotify.com/album/3JWbLyr8ZsuqNtIOSGoKYJ) | 8:45 |
 | 17 | [My Heart \(90s Mix\)](https://open.spotify.com/track/3Y0N8Pm8g4nEJrmzz3I3fE) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [My Heart \(90s Mix\)](https://open.spotify.com/album/6jQys2KaZUjaYT7NGlPYeL) | 4:12 |

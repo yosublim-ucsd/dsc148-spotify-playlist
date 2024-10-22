@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 
 > Quelques chansons tranquilles pour des moments tendres et complices
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,978 likes - 68 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,979 likes - 68 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V8OzNxefxu.md) - [plain]
 | 27 | [Le premier bonheur du jour](https://open.spotify.com/track/1QiK39v4YOtHz5ziquZMn6) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Frenchy \(Deluxe Version\)](https://open.spotify.com/album/58bdFlzDzkwFRs6hct7CtW) | 1:48 |
 | 28 | [Tu donnes](https://open.spotify.com/track/7fCYB4aKLTc8Yrrg491Ji6) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Matriochka](https://open.spotify.com/album/4lXTDTBv4geOKHRh9O8lPv) | 2:54 |
 | 29 | [Printemps Éternel](https://open.spotify.com/track/5hILiyJbTPMy4F1oXGWqha) | [Flo Delavega](https://open.spotify.com/artist/43bHLwpFPnPHdvID2juGoZ) | [Printemps Éternel](https://open.spotify.com/album/3mabxFKODwvHWRmEjVMUUI) | 3:17 |
-| 30 | [Maman](https://open.spotify.com/track/2oCkXoSDwMd5b2zEUHI6aA) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chambre 12 \- Deluxe](https://open.spotify.com/album/3xYOBFQWa6kJ1pKzbo4Spt) | 2:40 |
+| 30 | [Maman](https://open.spotify.com/track/2oCkXoSDwMd5b2zEUHI6aA) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chambre 12 \(Deluxe\)](https://open.spotify.com/album/3xYOBFQWa6kJ1pKzbo4Spt) | 2:40 |
 | 31 | [L'encre de tes yeux \- Remastered](https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Fragile \(Remastered\)](https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX) | 3:06 |
 | 32 | [Africa \(with Dick Rivers\) \- Acoustic](https://open.spotify.com/track/7ymUswVurmzlemLf74Ob4K) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj), [Dick Rivers](https://open.spotify.com/artist/7EErtRkIXKEnllrCa1a7xR) | [Vous & moi](https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ) | 3:32 |
 | 33 | [Mistral gagnant](https://open.spotify.com/track/4yq6Lt1S8hn8RLFwTvFfb6) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [La Bande A Renaud](https://open.spotify.com/album/5xzBHr7suKnLz6l8JkPXRn) | 3:02 |

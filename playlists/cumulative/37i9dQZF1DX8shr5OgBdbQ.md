@@ -100,7 +100,7 @@
 | [Wellerman](https://open.spotify.com/track/2mSJqOCHxWfVkXYUXja92I) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Seemannslieder / Sea Shanty](https://open.spotify.com/album/3nagOcNnsjwAseelaXXKcW) | 2:16 | 2022-06-29 | 2022-11-13 |
 | [Wellerman](https://open.spotify.com/track/6ZblDQM0Gq0daaPAwuHOmD) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind And Water](https://open.spotify.com/album/0czdThetfLyCdGpAF2dRqR) | 2:16 | 2022-06-29 | 2024-04-19 |
 | [Wellerman](https://open.spotify.com/track/3oUuRNgyIuiqVTWLCChp3s) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind and Water](https://open.spotify.com/album/00B1vpnbtfEPYWOBL5jp6h) | 2:18 | 2022-03-10 |  |
-| [Wellerman \- Sea Shanty](https://open.spotify.com/track/54OBgO0Xwu20Jak9TMXbR7) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Wellerman \- Sea Shanty](https://open.spotify.com/album/1AK6peN1DwvYRXN19cqWoP) | 2:35 | 2022-03-10 |  |
+| [Wellerman \- Sea Shanty](https://open.spotify.com/track/54OBgO0Xwu20Jak9TMXbR7) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Wellerman \(Sea Shanty\)](https://open.spotify.com/album/1AK6peN1DwvYRXN19cqWoP) | 2:35 | 2022-03-10 |  |
 | [Yo Ho \(A Pirate's Life for Me\)](https://open.spotify.com/track/35zjgo7EZJ84SgBSKD7TQT) | [Disney Studio Chorus](https://open.spotify.com/artist/0uxCcs6uoQy6StkrWS1QjW) | [Disney's Ultimate Swashbuckler Collection](https://open.spotify.com/album/7AARXLsjtDsT3TloDKsuau) | 3:21 | 2022-03-10 |  |
 
 \*This playlist was first scraped on 2022-05-14. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie, e punk dall'Italia 🎸 Santi Francesi in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,337 likes - 113 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,332 likes - 113 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 40 | [birthday](https://open.spotify.com/track/5ceLAQuUua46bh1kutzXun) | [Her Skin](https://open.spotify.com/artist/6zdyc0Juu2p2uVVISAhOJe) | [birthday](https://open.spotify.com/album/3ec3DIhQ51HJ5IDJHe3xcL) | 2:32 |
 | 41 | [Battesimo oscuro](https://open.spotify.com/track/1LGLBLCVMu1Tla7kzJNu85) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Battesimo oscuro](https://open.spotify.com/album/1blGSeXYebCT6fBueOWnRx) | 4:00 |
 | 42 | [Sassaiola](https://open.spotify.com/track/5G5bVxrHFOj7jPmDvXIBue) | [Riflesso](https://open.spotify.com/artist/6bS3C7GcvRv4F6TW5TMtgr) | [Sassaiola](https://open.spotify.com/album/1CuNZJeB1yue0QhPf784WE) | 1:50 |
-| 43 | [Eric \- Che fai?](https://open.spotify.com/track/2CYrvOE3VqmEFQyppupyoZ) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Eric \- Che fai?](https://open.spotify.com/album/6uR39BP9ceR0TrCYHgGk8c) | 3:00 |
+| 43 | [Eric \- Che fai?](https://open.spotify.com/track/2CYrvOE3VqmEFQyppupyoZ) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Eric \(Che fai?\)](https://open.spotify.com/album/6uR39BP9ceR0TrCYHgGk8c) | 3:00 |
 | 44 | [Mostri](https://open.spotify.com/track/4jfNcaMxb2jps2F1bQEodW) | [Carousel 47](https://open.spotify.com/artist/5FIUD3VRU4oAOGFZyA8mDp) | [Mostri](https://open.spotify.com/album/0vWdqiWZfixeXONNMKfXYY) | 3:01 |
 | 45 | [Felice chi non è ancora nato](https://open.spotify.com/track/4zcKPzqv6qR0nROOhrazQz) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Felice chi non è ancora nato](https://open.spotify.com/album/18peU2N8gGnBOuFv2qM99Y) | 3:38 |
 | 46 | [Agrumi](https://open.spotify.com/track/62zWJRw5YuPemCiEcjBQ6r) | [Damon Arabsolgar](https://open.spotify.com/artist/7LHVkW9uuKShSSme5V7Cal) | [Whale Fall](https://open.spotify.com/album/2P1RaHdJoGoyxAH5qpk3ud) | 5:37 |

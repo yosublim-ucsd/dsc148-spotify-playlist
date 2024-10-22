@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 750186,
+  "num_followers": 750366,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -219,7 +219,7 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "Goats Head Soup - Remastered 2009",
+        "name": "Goats Head Soup (Remastered 2009)",
         "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
       },
       "artists": [
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
-        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
+        "name": "Way down We Go (Stripped)",
+        "url": "https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0"
       },
       "artists": [
         {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 208114,
-      "name": "ONE MORE TIME",
-      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
+      "duration_ms": 208213,
+      "name": "Way down We Go - Stripped",
+      "url": "https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl"
     },
     {
       "added_at": "2024-10-10 08:46:55",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "Way down We Go (Stripped)",
-        "url": "https://open.spotify.com/album/7n2OEdfF8dac71VQEekeP0"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Way down We Go - Stripped",
-      "url": "https://open.spotify.com/track/1YA7YUyrxgSzf7IQDX1xcl"
-    },
-    {
-      "added_at": "2024-10-10 08:46:55",
-      "album": {
         "name": "Days Of The New",
         "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
       },
@@ -699,18 +683,34 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "A Celebration Of Endings",
-        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
+        "name": "ONE MORE TIME / MORE THAN YOU KNOW",
+        "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 235946,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
+      "duration_ms": 208114,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
+    },
+    {
+      "added_at": "2024-10-10 08:46:55",
+      "album": {
+        "name": "Scream Above the Sounds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 317186,
+      "name": "All In One Night",
+      "url": "https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5"
     },
     {
       "added_at": "2024-10-10 08:46:55",
@@ -731,18 +731,18 @@
     {
       "added_at": "2024-10-10 08:46:55",
       "album": {
-        "name": "Scream Above the Sounds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI"
+        "name": "A Celebration Of Endings",
+        "url": "https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw"
       },
       "artists": [
         {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
         }
       ],
-      "duration_ms": 317186,
-      "name": "All In One Night",
-      "url": "https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5"
+      "duration_ms": 235946,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"
     },
     {
       "added_at": "2024-10-10 08:46:55",

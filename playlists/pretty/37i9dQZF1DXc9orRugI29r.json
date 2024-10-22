@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 423651,
+  "num_followers": 423650,
   "original_name": "HOT NOW - Sevdaliza & KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxJlCwAAAABr0+a77O/gQA0j1vkBlvfL",
+  "snapshot_id": "ZxaeQwAAAACRvbH3hRoVEIsvBMf+nGmu",
   "tracks": [
     {
       "added_at": "2024-10-18 06:00:00",
@@ -27,6 +27,26 @@
       "duration_ms": 162857,
       "name": "No Me Cansare",
       "url": "https://open.spotify.com/track/6eDU6kAtlOLVEkVu4st1Bt"
+    },
+    {
+      "added_at": "2024-10-21 18:32:35",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2024-09-20 00:00:00",
@@ -375,7 +395,7 @@
     {
       "added_at": "2024-09-20 00:00:00",
       "album": {
-        "name": "Vaquero - Remix",
+        "name": "Vaquero (Remix)",
         "url": "https://open.spotify.com/album/6BmfAaHoSJ7efARgJTLrAt"
       },
       "artists": [
@@ -943,22 +963,6 @@
       "duration_ms": 238866,
       "name": "I'm Gonna Miss You",
       "url": "https://open.spotify.com/track/2dThEJP9S344qzNhePcSzj"
-    },
-    {
-      "added_at": "2024-10-04 15:48:16",
-      "album": {
-        "name": "Igual No Debo",
-        "url": "https://open.spotify.com/album/39YHoq7K8WI7TZpCi4GFso"
-      },
-      "artists": [
-        {
-          "name": "Erich",
-          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
-        }
-      ],
-      "duration_ms": 163106,
-      "name": "Igual No Debo",
-      "url": "https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5"
     }
   ],
   "unique_name": "HOT NOW - Sevdaliza & KAROL G",

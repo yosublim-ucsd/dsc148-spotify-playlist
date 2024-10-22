@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Giovanni Toscano
 
-181 songs - 8 hr 51 min
+183 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bene Bene](https://open.spotify.com/track/0xJJgvSmh55Ens4WYFXzJg) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Bene Bene](https://open.spotify.com/album/0WHSOXBqxlvXQaiCzDyMF3) | 2:30 | 2024-06-27 | 2024-07-27 |
 | [BRONCIO](https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [BRONCIO](https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5) | 2:19 | 2024-09-26 |  |
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
-| [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 | 2024-10-17 |  |
+| [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 | 2024-10-17 | 2024-10-22 |
 | [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 | 2024-10-05 |
 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 | 2024-07-18 | 2024-09-27 |
 | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp) | [Cartapesta](https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU) | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW) | 2:26 | 2024-08-22 | 2024-10-20 |
@@ -53,6 +53,7 @@
 | [dubbi anthem](https://open.spotify.com/track/5Opazk7AZdjTvhiqqvKaFZ) | [ATARDE](https://open.spotify.com/artist/5YZXmJBWIpa4UJCBtCPosy) | [muschio](https://open.spotify.com/album/5Zcxr4kTukUO6jduEDE7Fy) | 2:43 | 2024-06-27 | 2024-09-29 |
 | [Eclisse Twist](https://open.spotify.com/track/2OTW6Cx1MmYPz10NITyrWR) | [Guidobaldi](https://open.spotify.com/artist/2zgFe8Mm2pUdykATzPcjva) | [Eclisse Twist](https://open.spotify.com/album/6tI34LgUfgViOz8V9Q7XLy) | 2:57 | 2024-06-27 | 2024-08-07 |
 | [EFFETTO](https://open.spotify.com/track/6XUFqNOdmdKsjU2z4jy94S) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh), [Scarico](https://open.spotify.com/artist/0liPKMwmHmA0LbtC6wLy47) | [EFFETTO](https://open.spotify.com/album/4Imt4cGkSFmo3p9AJsS6lB) | 2:43 | 2024-06-27 | 2024-07-19 |
+| [Eroi](https://open.spotify.com/track/0rJ6QG75YCZXpjmkG6KWIQ) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Eroi](https://open.spotify.com/album/5AjqUnrSKRdRlKK9H5VYOP) | 3:28 | 2024-10-17 |  |
 | [Estate infinita](https://open.spotify.com/track/6XEv6VPkpV3QuqeGKS4Jaa) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Andare, tornare](https://open.spotify.com/album/10lbkXiO0z7BzlpX2tGUFf) | 3:09 | 2024-06-27 | 2024-08-23 |
 | [ex](https://open.spotify.com/track/2VfkDQelVVX0gVRRiQ5Ela) | [Tribo](https://open.spotify.com/artist/0I5wDcdDRRJpggrF6OcuTU) | [problemi di <3](https://open.spotify.com/album/7HmTgGbqO9YCqilo26IuLZ) | 3:39 | 2024-07-04 | 2024-07-27 |
 | [FANTASMA](https://open.spotify.com/track/20EFsnCjMkr4Mn40DIo1aG) | [GHE](https://open.spotify.com/artist/44k1ynsCAWZoXV0UtR7mAe) | [FANTASMA](https://open.spotify.com/album/60NnbiHAdcnfpfHjrUb2Wy) | 3:42 | 2024-09-05 | 2024-09-27 |
@@ -136,7 +137,7 @@
 | [Posto Nuovo](https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi) | [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Posto Nuovo](https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82) | 5:43 | 2024-08-29 |  |
 | [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 | 2024-09-05 |  |
 | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/track/5alocERr1H4Qy6mwidyBmV) | [Leonardo Zaccaria](https://open.spotify.com/artist/6TcPvpaSG1G3UjyhqxPY1f), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/album/7tsEBf66mZeBamRgN7CNLK) | 2:39 | 2024-06-27 | 2024-07-12 |
-| [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 |  |
+| [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 |  |
 | [Questa notte resta](https://open.spotify.com/track/3dzmfNVTS5y3DZkXIe6EsG) | [Fran e i Pensieri Molesti](https://open.spotify.com/artist/37dWYlSjeT4mB3sTyblB43) | [Questa notte resta](https://open.spotify.com/album/1HFj68aBxlVNUujEoSYVVw) | 2:49 | 2024-09-05 | 2024-09-27 |
 | [Raccontarsi favole](https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s) | [Raccontarsi favole](https://open.spotify.com/album/3YwaqlCyDXMugZWmfifiHt) | 3:32 | 2024-08-29 | 2024-10-04 |
 | [Ragazza del Mare](https://open.spotify.com/track/5atffTGHbb9nkxwWIRO4aM) | [Napoleone](https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG) | [Ragazza del Mare](https://open.spotify.com/album/5gQW2KkDP7CZNnPCbG0JuJ) | 2:45 | 2024-09-26 |  |
@@ -145,7 +146,7 @@
 | [Rumore](https://open.spotify.com/track/620MwmY8pV08hAixU1bKn6) | [Montegro](https://open.spotify.com/artist/5v1UjZScoWD3jkrn7RKDSZ) | [Rumore](https://open.spotify.com/album/6QOsXyx17cx4ZsDylUEQNH) | 2:29 | 2024-06-27 | 2024-07-12 |
 | [Sale](https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp) | [röa](https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER) | [Sale](https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul) | 2:28 | 2024-09-05 |  |
 | [Salem](https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P) | [Bartolini](https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd) | [TILT](https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML) | 2:44 | 2024-08-29 |  |
-| [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 | 2024-06-27 |  |
+| [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 | 2024-06-27 | 2024-10-22 |
 | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/track/4naSIMDBisxCcAK9dVC260) | [MOX](https://open.spotify.com/artist/4eU1G77ExeXQw8FdsQA8It), [Serepocaiontas](https://open.spotify.com/artist/1E0z4tZ543qWy0oe9Xe4u2) | [Sambo \(feat\. Serepocaiontas\)](https://open.spotify.com/album/4brRghFWddD7RNfAxPPBde) | 4:09 | 2024-07-11 | 2024-09-28 |
 | [Sassi](https://open.spotify.com/track/26OptEgY9h0hwHFEQy3uWo) | [Meli](https://open.spotify.com/artist/64Z6UXWQgg7R9HvgQuzW3q) | [Sassi](https://open.spotify.com/album/3zcEYoS9SWPk4V3bzJL2lp) | 3:04 | 2024-06-27 | 2024-07-05 |
 | [Scatoloni](https://open.spotify.com/track/66jgjmSQPsjZcUUg9eOz4J) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [Scatoloni](https://open.spotify.com/album/5d3kZvPSoQQvkfB5DzLrls) | 3:01 | 2024-06-27 | 2024-07-05 |
@@ -184,6 +185,7 @@
 | [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 | 2024-06-27 | 2024-07-12 |
 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 | 2024-07-18 |  |
 | [VELENO E MARACUJA](https://open.spotify.com/track/4XP8pjNInch9PLpzac2BiV) | [Stefano Lepri](https://open.spotify.com/artist/7pGg2loAuRpzQufbhVRYE8), [GIOVAPIÙGIOVA](https://open.spotify.com/artist/2bJ8pwwyjQJfeVcLRQDnlx) | [VELENO E MARACUJA](https://open.spotify.com/album/5a5UfDW7R2DjDlDndS12a3) | 2:39 | 2024-07-25 |  |
+| [Vigliacco](https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Vigliacco](https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS) | 3:13 | 2024-10-17 |  |
 | [vita lenta](https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [vita lenta](https://open.spotify.com/album/3Z7FzcyC8WE0SdV7WpBowN) | 3:01 | 2024-06-27 |  |
 | [Vocine](https://open.spotify.com/track/0dNUYG4ezeg2GDQaXmU9aq) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Vocine](https://open.spotify.com/album/3wXKsxgrzIKk0u9Sl3Au0B) | 3:04 | 2024-07-11 | 2024-10-04 |
 | [yo\-yo](https://open.spotify.com/track/7H2aXtVGFRkbk8faB8qAgI) | [nube](https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i) | [yo\-yo](https://open.spotify.com/album/4rtWcaZdsuVQ9tT41TWNeY) | 2:49 | 2024-06-27 | 2024-09-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,101 likes - 295 songs - 15 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,996 likes - 295 songs - 15 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,7 +262,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 252 | [Theme from Fame](https://open.spotify.com/track/4KWxiel76VGlyz99XKYJXA) | [Sander Bjerke](https://open.spotify.com/artist/5CNvO8oqz1vgXgVLKA4ehv) | [Theme From Fame](https://open.spotify.com/album/6qeq6RLDXVx2nNNII88HMV) | 3:10 |
 | 253 | [Morning Has Broken](https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Morning Has Broken](https://open.spotify.com/album/4VfjuDo8r7kVuyqQPN9fdG) | 2:55 |
 | 254 | [Moral Of The Story](https://open.spotify.com/track/6vb4cTyfOUuNUUNEaVICNj) | [Dani Mezzo](https://open.spotify.com/artist/6zRcJmTuAiLb7AHX7WLB1n) | [Moral Of The Story](https://open.spotify.com/album/62uE56qivExWUDjBJnzpwj) | 3:26 |
-| 255 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \- Solo Piano Version](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
+| 255 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
 | 256 | [A Sky Full Of Stars \- Piano Version](https://open.spotify.com/track/04z54hp55CLR6XLqhSjctF) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Famous Songs on Piano 1](https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe) | 3:35 |
 | 257 | [Just The Way You Are \- Piano Version](https://open.spotify.com/track/6uB5Gj9U1DBGtOTKIUVMT6) | [Mark Benson](https://open.spotify.com/artist/1IaIpFqqzozfCnPECU9vOb) | [Piano Favorites 4](https://open.spotify.com/album/1qHmg3HEV4zNKOO54X6H4X) | 3:34 |
 | 258 | [7 Years](https://open.spotify.com/track/33xbeA5idmgJrUVx9kvj4y) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [7 Years](https://open.spotify.com/album/2An49unnnWyCgQgywRri0q) | 2:20 |

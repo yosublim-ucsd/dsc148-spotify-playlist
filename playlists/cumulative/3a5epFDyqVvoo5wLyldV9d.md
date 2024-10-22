@@ -4,7 +4,7 @@
 
 > 
 
-805 songs - 2 day 15 hr 17 min
+806 songs - 2 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Cascavel](https://open.spotify.com/track/4wwuuiyk9cwEF7MZGRafrz) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/0MenTNcYKcIqpXb5yUzFup) | 2:56 | 2021-01-11 |  |
 | [Casio Havası](https://open.spotify.com/track/17ZXOWgpbw7TABTWjKOClf) | [Anadol](https://open.spotify.com/artist/7FIDz1yp4L6MZbHCdyLUfx) | [Uzun Havalar](https://open.spotify.com/album/4ecu7QBeHZeyGIzMOBTP5o) | 4:45 | 2021-08-26 |  |
 | [Cavalo\-Ferro](https://open.spotify.com/track/1FXKZzkGXEebSQj9atwZcC) | [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Quarteto Em Cy](https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI) | 2:21 | 2022-07-04 |  |
+| [Cccan't You See \- French Extended Mix](https://open.spotify.com/track/6SJI5QVIGt4wdxzH6KKABw) | [Vicious Pink](https://open.spotify.com/artist/5De1ZtOD9ZUyckEjIKFXAi) | [Vicious Pink \(Expanded Edition\)](https://open.spotify.com/album/0JkPB8WbjORO4cWnOkpOH0) | 7:19 | 2024-10-21 |  |
 | [Cemalim](https://open.spotify.com/track/7hbYjmiq3ULLgLWhwBDo44) | [Erkin Koray](https://open.spotify.com/artist/4o3Nv2BAyoZkyGaRXv4rT3) | [Istanbul 70: Psych, Disco, Folk Edits by Baris K \- Vol\. I](https://open.spotify.com/album/0pXdfQZDaBvjUtfpjo0dC0) | 5:56 | 2019-12-12 |  |
 | [Chala Vahi Des](https://open.spotify.com/track/6w7vPU1ciri3iiDBVkWJwa) | [Shye Ben Tzur](https://open.spotify.com/artist/2UCzkuXiE37VD7K123J4Tf), [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU), [The Rajasthan Express](https://open.spotify.com/artist/01LHIx3tQpDdRtuGLOI9Jk) | [Junun](https://open.spotify.com/album/34hrDcvF6cVfSKS70c25Xn) | 4:16 | 2020-11-30 |  |
 | [Chan Chan](https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 4:16 | 2019-09-10 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3ABaec4jjl95VqmG1iD4k2\">Green Velvet</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 64025,
+  "num_followers": 64035,
   "original_name": "Green Velvet's track IDs",
   "owner": {
     "name": "Spotify",
@@ -207,7 +207,7 @@
     {
       "added_at": "2024-09-30 11:38:41",
       "album": {
-        "name": "dark days - Vanco Remix",
+        "name": "dark days (Vanco Remix)",
         "url": "https://open.spotify.com/album/5cNq1DlBYtafSznbEtvFQc"
       },
       "artists": [

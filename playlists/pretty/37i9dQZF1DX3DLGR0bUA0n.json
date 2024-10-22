@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. Banda Primos de Tierra Caliente en portada. ",
-  "num_followers": 65888,
+  "num_followers": 65940,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Con Cartitas y Palabras",
-        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
-      },
-      "artists": [
-        {
-          "name": "Gabino y su Banda Chica",
-          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
-        }
-      ],
-      "duration_ms": 145124,
-      "name": "Con Cartitas y Palabras",
-      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "Puras Pa' bailar (Primera Tanda)",
         "url": "https://open.spotify.com/album/4ZFZZDIKWdrTYA2dn7Z94j"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 732885,
       "name": "Puras Pa' bailar (Primera Tanda)",
       "url": "https://open.spotify.com/track/5R0gDUS6ODYNgfLS4n6ujr"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "Con Cartitas y Palabras",
+        "url": "https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM"
+      },
+      "artists": [
+        {
+          "name": "Gabino y su Banda Chica",
+          "url": "https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd"
+        }
+      ],
+      "duration_ms": 145124,
+      "name": "Con Cartitas y Palabras",
+      "url": "https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Cuando Los Hombres Lloran",
-        "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
+        "name": "De California Te Escribo",
+        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
       },
       "artists": [
         {
-          "name": "Josecito Leon y Su Internacional Banda Roja",
-          "url": "https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw"
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
         }
       ],
-      "duration_ms": 156288,
-      "name": "Cuando Los Hombres Lloran",
-      "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
+      "duration_ms": 212040,
+      "name": "El Rey Pobre",
+      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "De California Te Escribo",
-        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
+        "name": "Cuando Los Hombres Lloran",
+        "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
       },
       "artists": [
         {
-          "name": "Raul Garcia Y Su Grupo Kabildo",
-          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
+          "name": "Josecito Leon y Su Internacional Banda Roja",
+          "url": "https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw"
         }
       ],
-      "duration_ms": 212040,
-      "name": "El Rey Pobre",
-      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
+      "duration_ms": 156288,
+      "name": "Cuando Los Hombres Lloran",
+      "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1351,8 +1351,8 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Amores Con Mi Estilo",
-        "url": "https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4"
+        "name": "Quisiera Ser Una L\u00e1grima",
+        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
       },
       "artists": [
         {
@@ -1360,25 +1360,29 @@
           "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Amores Con Mi Estilo",
-      "url": "https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2"
+      "duration_ms": 149054,
+      "name": "Amor a la Ligera",
+      "url": "https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2"
     },
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Al Mismo Nivel",
-        "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
+        "name": "Homenaje al Rey Pobre",
+        "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
       },
       "artists": [
         {
-          "name": "La Imponente Banda Inspiracion de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd"
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
+        },
+        {
+          "name": "La Dinastia de Tuzantla Mich",
+          "url": "https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w"
         }
       ],
-      "duration_ms": 163265,
-      "name": "El Padrino",
-      "url": "https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2"
+      "duration_ms": 172714,
+      "name": "Carta de Luto",
+      "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1395,6 +1399,22 @@
       "duration_ms": 210092,
       "name": "Se Termino Lo Nuestro",
       "url": "https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "Al Mismo Nivel",
+        "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
+      },
+      "artists": [
+        {
+          "name": "La Imponente Banda Inspiracion de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd"
+        }
+      ],
+      "duration_ms": 163265,
+      "name": "El Padrino",
+      "url": "https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1431,26 +1451,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Homenaje al Rey Pobre",
-        "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
-      },
-      "artists": [
-        {
-          "name": "Raul Garcia Y Su Grupo Kabildo",
-          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
-        },
-        {
-          "name": "La Dinastia de Tuzantla Mich",
-          "url": "https://open.spotify.com/artist/7BouKelHMxy42RJSMzkE0w"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "Carta de Luto",
-      "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "Cu\u00e9ntale a la Gente (feat. La Leyenda De Servando Montalva)",
         "url": "https://open.spotify.com/album/0gJoiSwS7poTKJJSDUQwEC"
       },
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Quisiera Ser Una L\u00e1grima",
-        "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
+        "name": "Amores Con Mi Estilo",
+        "url": "https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4"
       },
       "artists": [
         {
@@ -1480,9 +1480,9 @@
           "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
         }
       ],
-      "duration_ms": 149054,
-      "name": "Amor a la Ligera",
-      "url": "https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2"
+      "duration_ms": 182400,
+      "name": "Amores Con Mi Estilo",
+      "url": "https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2"
     },
     {
       "added_at": "2024-10-18 15:32:46",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-10-18 15:32:46",
       "album": {
-        "name": "Si No Te Tengo",
-        "url": "https://open.spotify.com/album/4XSIM7krDX3o7ztE226Ykq"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 223221,
-      "name": "Si No Te Tengo",
-      "url": "https://open.spotify.com/track/64YyId0Pl7taaQvEmeeR9A"
-    },
-    {
-      "added_at": "2024-10-18 15:32:46",
-      "album": {
         "name": "De Mil Amores",
         "url": "https://open.spotify.com/album/1NUjRahZFHwCLUl6EOhY1r"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 148285,
       "name": "De Mil Amores",
       "url": "https://open.spotify.com/track/28Wlm1FRS2KoflPR2kJn2M"
+    },
+    {
+      "added_at": "2024-10-18 15:32:46",
+      "album": {
+        "name": "Si No Te Tengo",
+        "url": "https://open.spotify.com/album/4XSIM7krDX3o7ztE226Ykq"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 223221,
+      "name": "Si No Te Tengo",
+      "url": "https://open.spotify.com/track/64YyId0Pl7taaQvEmeeR9A"
     },
     {
       "added_at": "2024-10-18 15:32:46",

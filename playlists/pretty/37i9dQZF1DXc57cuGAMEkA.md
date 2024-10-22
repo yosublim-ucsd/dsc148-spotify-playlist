@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。MILLENNIUM PARADE & Rauw Alejandro & Tainy, Gracie Abrams, Bon Iver  and more! cover: MILLENNIUM PARADE, Rauw Alejandro, Tainy
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,505 likes - 95 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,544 likes - 95 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

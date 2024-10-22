@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, updated monthly by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,183 likes - 102 songs - 5 hr 45 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,184 likes - 102 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 | 29 | [Habits](https://open.spotify.com/track/4z7QhqpLTarh4NdqQerrgO) | [Mackwood](https://open.spotify.com/artist/30wolDXX2isw1IdyMGvGBD), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Habits](https://open.spotify.com/album/4SsmlmcBzwREbxMcfEg5r2) | 4:13 |
 | 30 | [Signs](https://open.spotify.com/track/43HHhTjCzxy2iUTQpEZDPw) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp) | [Signs](https://open.spotify.com/album/1KbwThooM3ysufLkCBQDGe) | 3:53 |
 | 31 | [Let's Walk In The Night](https://open.spotify.com/track/7gbmUQW46Gd3Nq4uenRfu5) | [SAM MORTON](https://open.spotify.com/artist/3AUG2k8d0nEovQT9uleNPq), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Daffodils & Dirt](https://open.spotify.com/album/1FvGFC5utYfZlctf4VrXT6) | 3:58 |
-| 32 | [Knife Edge](https://open.spotify.com/track/53rYNxof2dWXRnH0bqKiQ2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Confidenza \- Original Soundtrack](https://open.spotify.com/album/2DpwYA58Qs00nRl59i4eiL) | 3:19 |
+| 32 | [Knife Edge](https://open.spotify.com/track/53rYNxof2dWXRnH0bqKiQ2) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Confidenza \(Original Soundtrack\)](https://open.spotify.com/album/2DpwYA58Qs00nRl59i4eiL) | 3:19 |
 | 33 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 |
 | 34 | [Best Left Unsolved \- Bonus Track](https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral](https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO) | 5:26 |
 | 35 | [Labasta Llego](https://open.spotify.com/track/2xZ90daFnAd55tkNXUhITQ) | [New Regency Orchestra](https://open.spotify.com/artist/0Spp8TJ7lG1WQHj9fEHvkL) | [Labasta Llego](https://open.spotify.com/album/0ujtX5WYAkIEsu2j2aZY8j) | 2:59 |

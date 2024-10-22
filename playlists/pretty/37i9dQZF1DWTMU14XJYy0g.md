@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre\. Foto: Las Pastillas del Abuelo y EMI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,282 likes - 85 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,281 likes - 85 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 48 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 |
 | 49 | [Esencia](https://open.spotify.com/track/6VL9M6wTpIPVZ4F3JyMwoX) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Esencia](https://open.spotify.com/album/5fPro8uymLfadWDm7FzM8B) | 3:33 |
 | 50 | [Es Clara](https://open.spotify.com/track/4qjbWPK08sOcDls6mURNSu) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Clara](https://open.spotify.com/album/01AWewQ88qLqXKxHinZf6y) | 3:47 |
-| 51 | [La ilusión que me condena](https://open.spotify.com/track/3T4vk3awY1RataAdlFrKew) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog), [Tete Iglesias](https://open.spotify.com/artist/5un8NCvDWXOp3SVDApxeQY), [Bochi Bozzalla](https://open.spotify.com/artist/2DF67zLVfJntjKXdiGmnbr), [Ale Kurz](https://open.spotify.com/artist/3H6eN5Py0yVvjVg5FaCf0b) | [La ilusión que me condena](https://open.spotify.com/album/3q0JNT0J2YlA3FVRYiIHuI) | 4:46 |
+| 51 | [La ilusión que me condena](https://open.spotify.com/track/3T4vk3awY1RataAdlFrKew) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog), [Tete Iglesias](https://open.spotify.com/artist/5un8NCvDWXOp3SVDApxeQY), [Bochi Bozzalla](https://open.spotify.com/artist/2DF67zLVfJntjKXdiGmnbr), [Ale Kurz](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [La ilusión que me condena](https://open.spotify.com/album/3q0JNT0J2YlA3FVRYiIHuI) | 4:46 |
 | 52 | [Buena Ruta Hermano](https://open.spotify.com/track/1YirMkwTumWXJhm66cmLGV) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Buena Ruta Hermano](https://open.spotify.com/album/2VPAc5WYhQvdawBjNmNfmq) | 3:47 |
 | 53 | [Encantan](https://open.spotify.com/track/4GrxCRx9CbGqTGqXqUfG8X) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Un Mar de Soles Rojos](https://open.spotify.com/album/6QglGhUVduN4MC8BFzBP6O) | 4:03 |
 | 54 | [Paradoja](https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 2:59 |

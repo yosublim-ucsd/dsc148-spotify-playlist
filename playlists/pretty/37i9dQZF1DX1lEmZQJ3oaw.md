@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 
 > Best of Jazz music from Bollywood\. Cover \- A R Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,151 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,180 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lEmZQJ3oaw.md) - [plain]
 | 30 | [Yeh Lamha](https://open.spotify.com/track/7FaM3dosWGKwhr4aPp6kWQ) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Chameli](https://open.spotify.com/album/2KM6alMpwGJCiVnDNE6Z8C) | 4:08 |
 | 31 | [Mera Naam Kizie](https://open.spotify.com/track/4KDh7R28qyCOACE3VmdIg2) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Aditya Narayan](https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206), [Poorvi Koutish](https://open.spotify.com/artist/2TmWCKfrFiN6j5eBcIA13p) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 4:04 |
 | 32 | [Bloody Hell](https://open.spotify.com/track/1SLcMjg9K3tEYBM0dMBlJM) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Rangoon](https://open.spotify.com/album/2fcB0MfveJSfjhDG4UjfxQ) | 4:12 |
-| 33 | [Hey Fikar \- Suzanne D'mello Version](https://open.spotify.com/track/2fldAwXkJqNdnjgGtylA4T) | [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf), [Mark K Robin](https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [8 A.M\. Metro \- Original Motion Picture Soundtrack](https://open.spotify.com/album/1PHouFclBtPBJrQow3Cnbh) | 2:55 |
+| 33 | [Hey Fikar \- Suzanne D'mello Version](https://open.spotify.com/track/2fldAwXkJqNdnjgGtylA4T) | [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf), [Mark K Robin](https://open.spotify.com/artist/0q5B10emjXYKRanYyApV8I), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [8 A.M\. Metro \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PHouFclBtPBJrQow3Cnbh) | 2:55 |
 | 34 | [Dil Tera \(From "Indoo Ki Jawani"\)](https://open.spotify.com/track/6QbGGTRTq0Tsina3EYm1L6) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Dil Tera \(From "Indoo Ki Jawani"\)](https://open.spotify.com/album/7LKkRptZL2fgFw3kYAmume) | 3:42 |
 | 35 | [Lakeerein \(From "Lakiro"\)](https://open.spotify.com/track/1t1CQlpl73fqgi8rmvVf5X) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Parth Bharat Thakkar](https://open.spotify.com/artist/0NilspPVgbgzAJrUgLRgt5) | [Lakiro \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0OZQJIjS1P40ubVD3xMRfk) | 4:02 |
 | 36 | [Dancing In The Sun](https://open.spotify.com/track/0QqmbaEYVb99lPCxPRWkD4) | [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Thappad](https://open.spotify.com/album/1YTq9ITQJ3Mj4uMj3GECDM) | 3:49 |

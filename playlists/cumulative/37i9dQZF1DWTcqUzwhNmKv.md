@@ -2,7 +2,7 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Fit For An Autopsy on top of today's best Metal playlist.
+> Make Them Suffer on top of today's best Metal playlist.
 
 786 songs - 2 day 3 hr 42 min
 

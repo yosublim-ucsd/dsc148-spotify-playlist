@@ -2,7 +2,7 @@
 
 ### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This is Meg Smith。アーティストの代表曲をひとつのプレイリストに。
+> This is Meg Smith\. The essential tracks, all in one playlist.
 
 27 songs - 1 hr 19 min
 

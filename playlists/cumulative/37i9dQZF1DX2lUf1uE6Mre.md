@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Dardan
 
-144 songs - 6 hr 8 min
+145 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [RiRi](https://open.spotify.com/track/7vkMCaQtCRzXs1uKafkoUJ) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [RiRi](https://open.spotify.com/album/75BTCd10yGobKjbpLJwAh0) | 2:35 | 2024-09-02 |  |
 | [Safari](https://open.spotify.com/track/6hjck7ERXicpsW51UkdHCA) | [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Safari](https://open.spotify.com/album/4Y17P7EwESVpNc1qR8ZQJl) | 2:38 | 2024-06-28 | 2024-07-05 |
 | [Schlimmer denn je \(feat\. Amo, Aymen, Nimo x SOTT\)](https://open.spotify.com/track/0aUpHkYuEAT5DZkkuwmS9w) | [Soufian](https://open.spotify.com/artist/3Vnl7pKDxagUgRJ3NMtEcE), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [SOTT](https://open.spotify.com/artist/4iusgX5y3xsAn824nywHVI) | [Schlimmer denn je \(feat\. Amo, Aymen, Nimo x SOTT\)](https://open.spotify.com/album/7GhjEYpDQQ8sEGwwBEeuWV) | 3:19 | 2024-08-12 | 2024-08-27 |
+| [Showtime](https://open.spotify.com/track/5KCpjci6j0QdpQmlpFqYfP) | [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [Showtime](https://open.spotify.com/album/5MfLxCDK86zZkjz1b15VLL) | 1:41 | 2024-10-21 |  |
 | [SMS](https://open.spotify.com/track/2IljGIvJWtgjvG4h8WUh8E) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [SMS](https://open.spotify.com/album/1mWkEBrG6UKMnz8FOVzHRx) | 2:38 | 2024-06-28 | 2024-10-11 |
 | [So So Def \(feat\. Summer Cem & Nimo\)](https://open.spotify.com/track/5g6kQitL4OSo9tWkWDGkNT) | [Celo & Abdi](https://open.spotify.com/artist/48Fq6GV3S6on56TxSBu5NO), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [So So Def \(feat\. Summer Cem & Nimo\)](https://open.spotify.com/album/4CPkcm6whVsY6f48SHjxpB) | 2:49 | 2024-06-28 | 2024-08-22 |
 | [SOMMERNACHT](https://open.spotify.com/track/4biu85oMT4U4G4IDttEg6C) | [OMAR](https://open.spotify.com/artist/0h0Iypw4Zpe2pWEKIS9So3) | [SOMMERNACHT](https://open.spotify.com/album/5Bljbe6wcNSaHlZnlPv70h) | 2:28 | 2024-07-25 | 2024-09-10 |

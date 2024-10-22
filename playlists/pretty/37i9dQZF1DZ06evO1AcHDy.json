@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37855,
+  "num_followers": 37860,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAADUGJ83Dw/uJ412Bs8Jrhv1",
+  "snapshot_id": "ZxRIAAAAAACOiSj+CZlYV7bM/UHylNM2",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where U Are",
+        "url": "https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Where U Are",
+      "url": "https://open.spotify.com/track/30tie454RN2304xzAu5Din"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 177564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where U Are",
-        "url": "https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Where U Are",
-      "url": "https://open.spotify.com/track/30tie454RN2304xzAu5Din"
     },
     {
       "added_at": null,

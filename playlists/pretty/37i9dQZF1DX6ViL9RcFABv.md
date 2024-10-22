@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Mickael Carreira
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,637 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,660 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Apaga a Luz](https://open.spotify.com/track/3wsBY12jclLxRB8IkQkfFh) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU) | [Apaga a Luz](https://open.spotify.com/album/36heBACSXybLbTgwAHf8Ja) | 2:46 |
 | 2 | [Desliza](https://open.spotify.com/track/5CYWaMpBev0t7JgscBAeYv) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Desliza](https://open.spotify.com/album/4XfQRVwDQnE6Rd0OX8sTER) | 2:40 |
-| 3 | [Olha Para Nós \(feat\. Nuno Ribeiro\)](https://open.spotify.com/track/5Jcb7C5CslUS9xb1JFWS42) | [Anjos](https://open.spotify.com/artist/3QbSxaHvxBJgyDPfekyDTi), [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt) | [Olha Para Nós \(feat\. Nuno Ribeiro\)](https://open.spotify.com/album/0ebnb1xnlEZ3NQC1VqrjrY) | 3:26 |
+| 3 | [Olha Para Nós \(feat\. Nuno Ribeiro\)](https://open.spotify.com/track/5Jcb7C5CslUS9xb1JFWS42) | [Anjos](https://open.spotify.com/artist/55emZB6OJOvHmTpuqa6HZz), [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt) | [Olha Para Nós \(feat\. Nuno Ribeiro\)](https://open.spotify.com/album/0ebnb1xnlEZ3NQC1VqrjrY) | 3:26 |
 | 4 | [Amigos Coloridos](https://open.spotify.com/track/4A006qfhftf2y12JKLyxoK) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Amigos Coloridos](https://open.spotify.com/album/67hN41imzmwzYlQuI2FN05) | 3:44 |
 | 5 | [O Teu Cheiro](https://open.spotify.com/track/23PQOfRFXeQ6ZR4q7ZfM5r) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [O Teu Cheiro](https://open.spotify.com/album/0Lu1PFWRcRF8hthAnklvlN) | 2:50 |
 | 6 | [Ela não sabe, pois não?](https://open.spotify.com/track/10xWn4Ju0hK96COGlHm70s) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Bichinho \(para onde vai o amor?\)](https://open.spotify.com/album/5KWY5ZZLf16US8jaR3bjoR) | 3:05 |

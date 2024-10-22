@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 
 > Rock tranqui para concentrarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,010 likes - 98 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,020 likes - 98 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eS6Eu8zMZN.md) - [plain]
 | 6 | [Quiéreme O Ándate](https://open.spotify.com/track/6fjujdixgZgzrjKDDHETbY) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Quiéreme O Ándate](https://open.spotify.com/album/4wlka6GEj5ZpmS4wkE5pO2) | 2:56 |
 | 7 | [10 minutos](https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [10 minutos](https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI) | 3:22 |
 | 8 | [Se Vale Correr \- Acústico](https://open.spotify.com/track/1viVRIMKYXfpqBRlq10ZTe) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Se Vale Correr \(Acústico\)](https://open.spotify.com/album/1ER0IuYuMudleK3kB2gmJy) | 4:28 |
-| 9 | [Vacaciones de Invierno \- acústico](https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Vacaciones de Invierno \- acústico](https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2) | 3:02 |
+| 9 | [Vacaciones de Invierno \- acústico](https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Vacaciones de Invierno \(acústico\)](https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2) | 3:02 |
 | 10 | [No Dudaría](https://open.spotify.com/track/7m9zoqomVDsBMQdhKTHr8g) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Dudaría](https://open.spotify.com/album/0QS4V8TKpiBtI8hJyEOkAj) | 4:08 |
 | 11 | [Vuelvo a ser](https://open.spotify.com/track/6qbqw8UEeW7uASjgqZ71B7) | [Grecia Vallejo](https://open.spotify.com/artist/4jdvzT28t4eW1bk61DqKPI) | [Vuelvo a ser](https://open.spotify.com/album/3Ze9vfK4F0H2SaLCUknEyH) | 2:43 |
 | 12 | [Pensamientos Intrusivos](https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Pensamientos Intrusivos](https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I) | 2:43 |

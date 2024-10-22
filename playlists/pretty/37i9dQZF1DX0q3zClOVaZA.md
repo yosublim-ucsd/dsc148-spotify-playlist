@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q3zClOVaZA.md) - [plain]
 
 > \(\-\) "Connection, Discovery, & Growth"
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,936 likes - 97 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,093 likes - 97 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brought The Heat Back \(Feat\. Ava Max\)](https://open.spotify.com/track/6mslYkzyL8uDfacJezJnof) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Brought The Heat Back \(Feat\. Ava Max\)](https://open.spotify.com/album/3VvvahAqcsVGeKmdUATpnd) | 2:56 |
 | 2 | [XO \(Only If You Say Yes\)](https://open.spotify.com/track/3RkSwrsIadAvqVtMp5yhaB) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:08 |
-| 3 | [One and Only \- PIKA PIKA Remix](https://open.spotify.com/track/45N7MSKZFAeYTdGxzUai69) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Won Jong Lee](https://open.spotify.com/artist/0VNPOgaslwkZTwcnmoFrFT) | [One and Only \- PIKA PIKA Remix](https://open.spotify.com/album/2ZoxLRc9WtPBjYmlEeqsCm) | 2:43 |
+| 3 | [One and Only \- PIKA PIKA Remix](https://open.spotify.com/track/45N7MSKZFAeYTdGxzUai69) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Won Jong Lee](https://open.spotify.com/artist/0VNPOgaslwkZTwcnmoFrFT) | [One and Only \(PIKA PIKA Remix\)](https://open.spotify.com/album/2ZoxLRc9WtPBjYmlEeqsCm) | 2:43 |
 | 4 | [Moonstruck](https://open.spotify.com/track/3gYWGRS64XrGSrjD3vvtga) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:38 |
 | 5 | [Your Eyes Only](https://open.spotify.com/track/2DJRPYt6QLeYlU6xzdSW5p) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:20 |
 | 6 | [Hundred Broken Hearts](https://open.spotify.com/track/3UIEaJs7OfXpcFSoQhqNC0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:21 |

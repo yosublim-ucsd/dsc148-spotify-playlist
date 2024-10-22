@@ -6305,6 +6305,24 @@
     },
     {
       "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/7lKWL8ShCAr7ZVdCtAmUai"
+      },
+      "artists": [
+        {
+          "name": "Husko",
+          "url": "https://open.spotify.com/artist/5n0AvUDa25XR3AYRvocSaT"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/1XuxI8toTPpAfO5TxWQoo4"
+    },
+    {
+      "album": {
         "name": "Jack's Wave",
         "url": "https://open.spotify.com/album/4t9Mp63xMd66TqnRXSjoJQ"
       },

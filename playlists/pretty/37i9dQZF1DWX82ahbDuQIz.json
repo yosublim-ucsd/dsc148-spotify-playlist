@@ -1,65 +1,13 @@
 {
   "description": "Musical songs from Broadway, the West End and beyond. Cover: Merrily We Roll Along",
-  "num_followers": 568859,
-  "original_name": "Best of Broadway",
+  "num_followers": 568889,
+  "original_name": "Broadway Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrJwkAAAAABLWrYKVymqq1BotzvGrip+",
+  "snapshot_id": "Zxak8AAAAADgBEbGQs1BVWNFoe8p4Iue",
   "tracks": [
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Merrily We Roll Along (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1ysKXBVW9cBAmeKgbtxRZd"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Groff",
-          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
-        },
-        {
-          "name": "Daniel Radcliffe",
-          "url": "https://open.spotify.com/artist/2YD3t3MBtQo16C8FrEYVh3"
-        },
-        {
-          "name": "Lindsay Mendez",
-          "url": "https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2"
-        },
-        {
-          "name": "New Broadway Cast of Merrily We Roll Along",
-          "url": "https://open.spotify.com/artist/6LMssK1H6Zrtcccwp1aKlt"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/4IRHXPQ794fL8BklZmxgwF"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Hadestown (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 De Shields",
-          "url": "https://open.spotify.com/artist/0vtjXmCLNmJti4fJ5dBhxc"
-        },
-        {
-          "name": "Hadestown Original Broadway Company",
-          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 192281,
-      "name": "Wait for Me (Reprise)",
-      "url": "https://open.spotify.com/track/3fJJ28RcXGkgKlgbgBSbc8"
-    },
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
@@ -95,18 +43,50 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
-        "name": "The Notebook (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
+        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
       },
       "artists": [
         {
-          "name": "Joy Woods",
-          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Original Broadway Cast of Dear Evan Hansen",
+          "url": "https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij"
         }
       ],
-      "duration_ms": 222239,
-      "name": "My Days",
-      "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
+      "duration_ms": 236360,
+      "name": "Waving Through A Window",
+      "url": "https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Beetlejuice (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3Nkueud4hqLWhSzOepKi7p"
+      },
+      "artists": [
+        {
+          "name": "Alex Brightman",
+          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
+        },
+        {
+          "name": "Sophia Anne Caruso",
+          "url": "https://open.spotify.com/artist/6DQwC1hPrwv3JRmvxONCoZ"
+        },
+        {
+          "name": "Kerry Butler",
+          "url": "https://open.spotify.com/artist/4GDiwGz4YZDRaYzMJ3jPWi"
+        },
+        {
+          "name": "Rob McClure",
+          "url": "https://open.spotify.com/artist/1e2mD3JWDLdFFWuOku9gBc"
+        }
+      ],
+      "duration_ms": 235286,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/3PzAUMMxPcaXEfWEvMx469"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -127,6 +107,90 @@
       "duration_ms": 158440,
       "name": "Don't Rain on My Parade",
       "url": "https://open.spotify.com/track/3qaMDTwoBvdrxYvwgr9bgs"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Waitress (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mueller",
+          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
+        }
+      ],
+      "duration_ms": 260573,
+      "name": "She Used to Be Mine",
+      "url": "https://open.spotify.com/track/7CBrUf50mf2IqcRZla38by"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 De Shields",
+          "url": "https://open.spotify.com/artist/0vtjXmCLNmJti4fJ5dBhxc"
+        },
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 192281,
+      "name": "Wait for Me (Reprise)",
+      "url": "https://open.spotify.com/track/3fJJ28RcXGkgKlgbgBSbc8"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Merrily We Roll Along (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1ysKXBVW9cBAmeKgbtxRZd"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Daniel Radcliffe",
+          "url": "https://open.spotify.com/artist/2YD3t3MBtQo16C8FrEYVh3"
+        },
+        {
+          "name": "Lindsay Mendez",
+          "url": "https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2"
+        },
+        {
+          "name": "New Broadway Cast of Merrily We Roll Along",
+          "url": "https://open.spotify.com/artist/6LMssK1H6Zrtcccwp1aKlt"
+        }
+      ],
+      "duration_ms": 274266,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/4IRHXPQ794fL8BklZmxgwF"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "The Notebook (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
+      },
+      "artists": [
+        {
+          "name": "Joy Woods",
+          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
+        }
+      ],
+      "duration_ms": 222239,
+      "name": "My Days",
+      "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -191,26 +255,6 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
-        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        },
-        {
-          "name": "Original Broadway Cast of Dear Evan Hansen",
-          "url": "https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Waving Through A Window",
-      "url": "https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
         "name": "The Ballad of Sweeney Todd (Opening) [2023 Broadway Cast Recording]",
         "url": "https://open.spotify.com/album/12vItdgogyxo0MY72MfBVm"
       },
@@ -271,34 +315,6 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
-        "name": "Beetlejuice (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3Nkueud4hqLWhSzOepKi7p"
-      },
-      "artists": [
-        {
-          "name": "Alex Brightman",
-          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
-        },
-        {
-          "name": "Sophia Anne Caruso",
-          "url": "https://open.spotify.com/artist/6DQwC1hPrwv3JRmvxONCoZ"
-        },
-        {
-          "name": "Kerry Butler",
-          "url": "https://open.spotify.com/artist/4GDiwGz4YZDRaYzMJ3jPWi"
-        },
-        {
-          "name": "Rob McClure",
-          "url": "https://open.spotify.com/artist/1e2mD3JWDLdFFWuOku9gBc"
-        }
-      ],
-      "duration_ms": 235286,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/3PzAUMMxPcaXEfWEvMx469"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
         "name": "THE WIZ (2024 Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/38VgKI3hE2ow4FcJqNiH8E"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
-        "name": "Waitress (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8"
-      },
-      "artists": [
-        {
-          "name": "Jessie Mueller",
-          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
-        }
-      ],
-      "duration_ms": 260573,
-      "name": "She Used to Be Mine",
-      "url": "https://open.spotify.com/track/7CBrUf50mf2IqcRZla38by"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
         "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
       },
@@ -351,6 +351,38 @@
       "duration_ms": 241182,
       "name": "Great Expectations",
       "url": "https://open.spotify.com/track/0Xz5CpBCzusTFmFA3ufFpO"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1woCvthHJakakroP6dXNxs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        }
+      ],
+      "duration_ms": 306893,
+      "name": "For Good - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "url": "https://open.spotify.com/track/3WkgLAd7jGX3sZikfkF0lU"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -699,38 +731,6 @@
       "duration_ms": 325293,
       "name": "Elephant Love Medley",
       "url": "https://open.spotify.com/track/5JRgVMONxTRjC1g1d0XsvX"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1woCvthHJakakroP6dXNxs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Schwartz",
-          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
-        },
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "Stephen Oremus",
-          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
-        },
-        {
-          "name": "Alex Lacamoire",
-          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
-        }
-      ],
-      "duration_ms": 306893,
-      "name": "For Good - From \"Wicked\" Original Broadway Cast Recording/2003",
-      "url": "https://open.spotify.com/track/3WkgLAd7jGX3sZikfkF0lU"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -1909,6 +1909,6 @@
       "url": "https://open.spotify.com/track/3akeuMy9bqJbqDlfYevbwN"
     }
   ],
-  "unique_name": "Best of Broadway",
+  "unique_name": "Broadway Hits",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX82ahbDuQIz"
 }

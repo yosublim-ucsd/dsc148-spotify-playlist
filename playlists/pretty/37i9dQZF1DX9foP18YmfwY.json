@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Irm\u00e3 Ana Paula",
-  "num_followers": 336181,
+  "num_followers": 336252,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
-      },
-      "artists": [
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
         "name": "To Indo Embora (Fam\u00edlia \u00c9 Tudo Igual)",
         "url": "https://open.spotify.com/album/5ciTyCUlxxvRx3s4e5ucat"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 191576,
       "name": "To Indo Embora - Fam\u00edlia \u00c9 Tudo Igual, S\u00f3 Muda de Endere\u00e7o, Ao Vivo",
       "url": "https://open.spotify.com/track/3g5dr1eUl5ZzWFzcHiCY5S"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+      },
+      "artists": [
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -675,42 +675,6 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
-        "name": "Inflama-Me",
-        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        },
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 401500,
-      "name": "Inflama-Me",
-      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2024-10-18 03:01:00",
-      "album": {
         "name": "General\u00edssima (Ao Vivo)",
         "url": "https://open.spotify.com/album/0SJ4FOVzLDG4xbIyXLvtXN"
       },
@@ -723,6 +687,38 @@
       "duration_ms": 325483,
       "name": "General\u00edssima - Ao Vivo",
       "url": "https://open.spotify.com/track/4h1LQR2ZG1ekR3WswzQFgI"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
+        "name": "\u00c1gape Amor Divino (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm"
+      },
+      "artists": [
+        {
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        }
+      ],
+      "duration_ms": 324268,
+      "name": "Levanta e Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe"
+    },
+    {
+      "added_at": "2024-10-18 03:01:00",
+      "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -747,18 +743,22 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "\u00c1gape Amor Divino (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm"
+        "name": "Inflama-Me",
+        "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
       "artists": [
         {
-          "name": "Padre Marcelo Rossi",
-          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        },
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
         }
       ],
-      "duration_ms": 324268,
-      "name": "Levanta e Anda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe"
+      "duration_ms": 401500,
+      "name": "Inflama-Me",
+      "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
+        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+        "url": "https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F"
       },
       "artists": [
         {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
         }
       ],
-      "duration_ms": 384059,
-      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
+      "duration_ms": 281739,
+      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+      "url": "https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW"
     },
     {
       "added_at": "2024-10-18 03:01:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-10-18 03:01:00",
       "album": {
-        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-        "url": "https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F"
+        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
         }
       ],
-      "duration_ms": 281739,
-      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-      "url": "https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW"
+      "duration_ms": 384059,
+      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
     },
     {
       "added_at": "2024-10-18 03:01:00",

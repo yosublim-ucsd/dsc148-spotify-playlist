@@ -2,7 +2,7 @@
 
 ### [RADAR Creators Sweden](https://open.spotify.com/playlist/37i9dQZF1DX0PYCFw2RcTh)
 
-> Poddar att ha på din RADAR\. Omslag: Västgötapodden
+> Poddar att ha på din RADAR\. Omslag: Anekdoterna
 
 10 songs - 8 hr 45 min
 

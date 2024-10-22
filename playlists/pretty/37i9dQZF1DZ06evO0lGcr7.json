@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 47034,
+  "num_followers": 47031,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxL2gAAAAAAOfjD3zBbPsyA2mvjxclHw",
+  "snapshot_id": "ZxRIAAAAAAAQ93wGjGV92tOIRHAE13zx",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hate texas",
-        "url": "https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 218656,
-      "name": "i hate texas",
-      "url": "https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody Loves Me",
         "url": "https://open.spotify.com/album/1ahGUWtnA8tqb4zaKGzCTi"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 215247,
       "name": "Nobody Loves Me",
       "url": "https://open.spotify.com/track/1SYqnlqZyI7dVYDEvdkBau"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hate texas",
+        "url": "https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 218656,
+      "name": "i hate texas",
+      "url": "https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "myrtle ave.",
-      "url": "https://open.spotify.com/track/5bmpuI2QKQm9TQgc4ObqJL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 169320,
       "name": "every wave",
       "url": "https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "myrtle ave.",
+      "url": "https://open.spotify.com/track/5bmpuI2QKQm9TQgc4ObqJL"
     },
     {
       "added_at": null,

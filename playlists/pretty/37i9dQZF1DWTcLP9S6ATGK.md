@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Nagita Slavina, Raffi Ahmad
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,960 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,969 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 61 | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/track/4PLY3JB1sPhgWiSxQdovCG) | [Iren Glory](https://open.spotify.com/artist/7tkbfHtHXuuUvs0kWfSwa0) | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/album/02s0GD3LaQu62L9dgG9b4T) | 2:16 |
 | 62 | [Cinta Telah Usai](https://open.spotify.com/track/0PY8w6wMuS4vbSctfQNRZu) | [SAGARA](https://open.spotify.com/artist/4jNgtIpdEFi39M9NL21Rj4) | [Cinta Telah Usai](https://open.spotify.com/album/5CphNJezqgKjn5ajz01z1x) | 3:49 |
 | 63 | [Kamu + Aku](https://open.spotify.com/track/07pirs2wD4y7KoDVf0T5Fi) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Banyak Canda, Tapi Serius](https://open.spotify.com/album/2pBxYlubqhBs9IXMqJQEde) | 3:34 |
-| 64 | [Hmmm \- Aviary Live Session](https://open.spotify.com/track/3BoRuGx4j8DsdwEXmbHmLS) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX), [Irfan Hakim](https://open.spotify.com/artist/1VaXDs1rvFhDs71fmsKYHN) | [Genjrengan Iwan & Irfan \- Aviary Live Session](https://open.spotify.com/album/4y8oEMU1NlmOkwUoekWnA9) | 5:47 |
+| 64 | [Hmmm \- Aviary Live Session](https://open.spotify.com/track/3BoRuGx4j8DsdwEXmbHmLS) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX), [Irfan Hakim](https://open.spotify.com/artist/1VaXDs1rvFhDs71fmsKYHN) | [Genjrengan Iwan & Irfan \(Aviary Live Session\)](https://open.spotify.com/album/4y8oEMU1NlmOkwUoekWnA9) | 5:47 |
 | 65 | [Terima Kasih, Masih Disini](https://open.spotify.com/track/5v3MURRjjVuSv1YSjIygcX) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Egen](https://open.spotify.com/album/6N1kgnyxQta615KlcCjNMD) | 3:49 |
 | 66 | [Terima Kasih \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5A6PgWbDitOtH5eTVZ3Md3) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Terima Kasih \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6aGfcjEwK1Zgrz6OepRES5) | 4:38 |
 | 67 | [Atap Berteduh](https://open.spotify.com/track/6BOij1w5TOjVtZyhaLZmiG) | [Bagas Ran](https://open.spotify.com/artist/1Pbl7RMzFNdbX0a7wDMN5i) | [Spesial Untuk Kamu](https://open.spotify.com/album/42S8brIKTyi3Nkhko69vtu) | 2:51 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 70 | [Ke Rumah](https://open.spotify.com/track/7I8jG5NjWJWEczkYb6XfFl) | [etto](https://open.spotify.com/artist/3nclN60uLT0pToquQDLN6U) | [Ke Rumah](https://open.spotify.com/album/1OLGRwOYlr9RPPIwXjDnox) | 2:56 |
 | 71 | [Lamunan Di Kota Itu](https://open.spotify.com/track/2WutvF8HJV4BwOYAbSovIx) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Lamunan Di Kota Itu](https://open.spotify.com/album/3p259WUgFCjBv8vi0BMNOz) | 3:50 |
 | 72 | [Senyumannya Tutupi Semua Lelah](https://open.spotify.com/track/1ThFs1Gm7X8UmO0AGXcScC) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Senyumannya Tutupi Semua Lelah](https://open.spotify.com/album/2z13aj3gFHxsWMuvDhFX2R) | 3:39 |
-| 73 | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 |
+| 73 | [Sekarang Esok Selamanya \- From "Laura Movie"](https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Sekarang Esok Selamanya \(From "Laura Movie"\)](https://open.spotify.com/album/35NYToRn3ZQuXZf0QYG9TV) | 3:40 |
 | 74 | [Bagaimana?](https://open.spotify.com/track/7lSoylIrvMa71W7pZLw8kD) | [Soulvibe](https://open.spotify.com/artist/16V8gNCkbY1L1jPd2uEBLg) | [Bagaimana?](https://open.spotify.com/album/5BCij7vEkrydrOYN3EcDoG) | 4:06 |
 | 75 | [Jangan Jangan Kau Bidadari](https://open.spotify.com/track/1TLA39nvqFHGrqQNopBH1S) | [Reygi](https://open.spotify.com/artist/4QwWaQkSuSk9SlE0aQkIfY) | [Jangan Jangan Kau Bidadari](https://open.spotify.com/album/0RT8RZhsMCPo90JSHiNlWL) | 3:58 |
 | 76 | [Bagaimana Bisa Seseorang](https://open.spotify.com/track/0LIuHTuh9lSjK3SXIO3P4g) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Bagaimana Bisa Seseorang](https://open.spotify.com/album/42kXGntEYx1eU4HDFLaL5m) | 4:04 |

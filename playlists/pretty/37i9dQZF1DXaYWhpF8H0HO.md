@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover:   Putri Ariani
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,824 likes - 89 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,823 likes - 89 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 40 | [Devastated](https://open.spotify.com/track/66u9o62E8XjHwYIiXCrqAN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Lesson](https://open.spotify.com/album/2WYZVN2DU9dOpZGKjfIzh9) | 3:51 |
 | 41 | [Feels Like We're Still a Lover](https://open.spotify.com/track/62YskeUHdVoZiLge8ORBrt) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Feels Like We're Still a Lover](https://open.spotify.com/album/0O3xNA5pIZZc8N6L1GF60G) | 4:54 |
 | 42 | [Sunny Days](https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Sunny Days](https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN) | 3:56 |
-| 43 | [Lost Stars \- From "Laura Movie"](https://open.spotify.com/track/4KcG3ogn7rTXJzkErtyNKf) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Lost Stars \- From "Laura Movie"](https://open.spotify.com/album/7wB3zaQzNR5nXUynJqXLAL) | 4:39 |
+| 43 | [Lost Stars \- From "Laura Movie"](https://open.spotify.com/track/4KcG3ogn7rTXJzkErtyNKf) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Lost Stars \(From "Laura Movie"\)](https://open.spotify.com/album/7wB3zaQzNR5nXUynJqXLAL) | 4:39 |
 | 44 | [TAKE YOU HOME](https://open.spotify.com/track/3AB0SaVOyeL7d0EoBHVFMo) | [KATHMANDU](https://open.spotify.com/artist/4kxdAg0Ja8nOfjf54kqnHi) | [GOLDEN AGE](https://open.spotify.com/album/6t3KgJK2GFnbVgNIk9vwat) | 4:22 |
 | 45 | [i don't want forever without you](https://open.spotify.com/track/0pHFtqtRTZ5M5oq7FUdiHU) | [VIONA](https://open.spotify.com/artist/6Ng5PoEhU9eoRDsu6f3pUa) | [i don't want forever without you](https://open.spotify.com/album/06IRKuYvnFpgbnzx2fpmPI) | 3:16 |
 | 46 | [Love Wont Be Wasted](https://open.spotify.com/track/7eDdzoR5zY9z26xhQA8HgC) | [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL), [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [Jessica Sicillia](https://open.spotify.com/artist/0H80ce8otOHo4nW7YlcKRn) | [Love Wont Be Wasted](https://open.spotify.com/album/5oVZXJGROPhMvF2UCGR8XM) | 2:51 |

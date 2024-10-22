@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,705 likes - 78 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,750 likes - 78 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lift Me Up](https://open.spotify.com/track/4xUDszyCWEhPuPirI5En4i) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Lift Me Up](https://open.spotify.com/album/5GCKHk3cTg1rqLRyXWLDeE) | 3:30 |
 | 2 | [Sho' Been Good](https://open.spotify.com/track/4rG8r3XYn7FUH9t6An0tLD) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Sho' Been Good](https://open.spotify.com/album/1QCLxqOKzbrWv68bl8ithr) | 3:45 |
 | 3 | [Trust In You](https://open.spotify.com/track/34uYQDT6PuFF2GclBzcaST) | [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Still Karen](https://open.spotify.com/album/1D0M1g3rsDjXD7k5STsETm) | 3:16 |
-| 4 | [Take it All \- Live](https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \- Live in Abuja](https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio) | 10:21 |
+| 4 | [Take it All \- Live](https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Take It All \(Live in Abuja\)](https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio) | 10:21 |
 | 5 | [Somebody Made Me](https://open.spotify.com/track/3HHF2OhHVQly1JQ2j8cYus) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Somebody Made Me](https://open.spotify.com/album/23zQ9DfgxAe2KFDDJ5SVvQ) | 3:43 |
 | 6 | [My Story](https://open.spotify.com/track/45Y0cUvEEOs1EBEdCnuMgz) | [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [My Story](https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD) | 2:49 |
 | 7 | [Lift Me](https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Veil](https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol) | 3:56 |

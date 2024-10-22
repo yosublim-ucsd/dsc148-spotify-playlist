@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر:  <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=iy\_gXgKBRwuQWeAb\_7HLoQ"> كريم كرستيانو </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,427 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,723 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 9 | [من فضل الاخصام خفو التخطير \( انا مش ع الدواق \)](https://open.spotify.com/track/2CA1VER7dNNdgDyH9iL3BE) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [من فضل الاخصام خفو التخطير \( انا مش ع الدواق \)](https://open.spotify.com/album/1vwPrjUDOb4GAZl7CJn73e) | 2:59 |
 | 10 | [سوري مبردش انا بستوري](https://open.spotify.com/track/6XnBt8ME4K8d9oYf7SE5Wa) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [سوري مبردش انا بستوري](https://open.spotify.com/album/7tePcFslMQ5mMWuC5gCDUm) | 4:13 |
 | 11 | [كلها بقا ليها اخصام \- عليا الطلاق كله بيكدب](https://open.spotify.com/track/4vLMzTyW0qq87QEaX2enxW) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG) | [كلها بقا ليها اخصام \(عليا الطلاق كله بيكدب\)](https://open.spotify.com/album/76zWCg8Bm8Ifac89Vww2al) | 3:09 |
-| 12 | [ربنا يسترها علينا \- سهرتي في لفل بسهر احتفل](https://open.spotify.com/track/3xQg4jzByLiRONK4jsB9bk) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [ربنا يسترها علينا \- سهرتي في لفل بسهر احتفل](https://open.spotify.com/album/4tdx33SWo9L1flpGFEFNqO) | 3:55 |
+| 12 | [ربنا يسترها علينا \- سهرتي في لفل بسهر احتفل](https://open.spotify.com/track/3xQg4jzByLiRONK4jsB9bk) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [ربنا يسترها علينا \(سهرتي في لفل بسهر احتفل\)](https://open.spotify.com/album/4tdx33SWo9L1flpGFEFNqO) | 3:55 |
 | 13 | [البقاء للي يدلعنا](https://open.spotify.com/track/3b4JRg6uXdy8LGJps5Ne2D) | [Team Omda](https://open.spotify.com/artist/1wut91Z0aLx8JiFdEbaZNm) | [البقاء للي يدلعنا](https://open.spotify.com/album/4ITSJBwF382M8GtsgIIXrA) | 2:40 |
 | 14 | [El Aarka](https://open.spotify.com/track/0oaqNbdyK1vyNmZGApiTCb) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [El Aarka](https://open.spotify.com/album/5s3WtnmY7u4ON42gHCm8xy) | 3:52 |
 | 15 | [انا مش غايب علشان اعود \- اخويا ماضي ع الاحالة](https://open.spotify.com/track/3GOYPVrfSurAsLCg3MhIOO) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [انا مش غايب علشان اعود \(اخويا ماضي ع الاحالة\)](https://open.spotify.com/album/30ciF0gfwIJyowqmtgSVAv) | 3:49 |

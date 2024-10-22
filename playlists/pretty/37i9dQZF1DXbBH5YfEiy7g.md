@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: "<a href=https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx?si=sxwsJmh6TeufagqSrHPsww>Lebo Sekgobela</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,565 likes - 79 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,750 likes - 79 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 54 | [Oska Ntsheba Wa Nnyatsa \- Live](https://open.spotify.com/track/1hbQcA8MJScNJGPEGOeQDX) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 4:54 |
 | 55 | [Ngobekezela](https://open.spotify.com/track/1m5eJZMKi6g6Qx5wQT0fHO) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 7:41 |
 | 56 | [Uyalalelwa \- Live](https://open.spotify.com/track/79RgrJnjNbFEsb6VfD8ZXr) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 21: Heal Our Land \(Live\)](https://open.spotify.com/album/2FWAwOo6n6E0eQvoYcj5Yq) | 6:10 |
-| 57 | [Sojabula \- Hosanna Kweliphezulu](https://open.spotify.com/track/4MJWtu8wNvCDZMcuyrDlpM) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Sojabula \- Hosanna Kweliphezulu](https://open.spotify.com/album/4e7plmHk0aw1kvX22l852X) | 5:37 |
+| 57 | [Sojabula \- Hosanna Kweliphezulu](https://open.spotify.com/track/4MJWtu8wNvCDZMcuyrDlpM) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Sojabula \(Hosanna Kweliphezulu\)](https://open.spotify.com/album/4e7plmHk0aw1kvX22l852X) | 5:37 |
 | 58 | [Interlude\-Zulu Worship Medley Live](https://open.spotify.com/track/6yyVNqvqkTYQ2hohM16mK7) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Moments in Time \(Live\)](https://open.spotify.com/album/4OMmuOm1luGVHwSV817qlG) | 8:22 |
 | 59 | [Ntate Kemang \- Live](https://open.spotify.com/track/3Gf0vZL1EqayR8su1FlSXd) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Spirit of Praise, Vol\. 6 \(Live\)](https://open.spotify.com/album/1HcsuCBcgQOZs96LGKO9Ba) | 4:29 |
 | 60 | [Make a Way \- Live](https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 4:38 |

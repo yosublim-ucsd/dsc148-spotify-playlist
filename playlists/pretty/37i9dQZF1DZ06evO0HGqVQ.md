@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 
 ### [This Is Los inquietos del vallenato](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HGqVQ)
 
-> This Is Los inquietos del vallenato\. Los temas esenciales, todos en una lista.
+> This is Los inquietos del vallenato\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,107 likes - 45 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,110 likes - 45 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HGqVQ.md) - [plain]
 | 44 | [Piel A Piel](https://open.spotify.com/track/3K5R2VjdoC87rVcMc0C5wk) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/66OopbIqLdpFZcSeAaj9ZL) | 4:11 |
 | 45 | [Dile](https://open.spotify.com/track/6PfPRm6iclFF0L01QiaAk3) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Internacionales](https://open.spotify.com/album/780sagysRihPhiKc6H9TQG) | 3:33 |
 
-Snapshot ID: `ZxL2gAAAAAA2d09yL6cyXbm+e7aJuNcB`
+Snapshot ID: `ZxRIAAAAAACw706akjEW46I7qH6v9Fgz`

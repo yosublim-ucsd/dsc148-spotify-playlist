@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267059,
+      "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
+    },
+    {
+      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-22",
       "duration_ms": 258668,
       "name": "Y T\u00fa C\u00f3mo Lo Sabes? (Like Heaven Club)",
       "url": "https://open.spotify.com/track/50DdzGb5A01K43n5PNZMEi"

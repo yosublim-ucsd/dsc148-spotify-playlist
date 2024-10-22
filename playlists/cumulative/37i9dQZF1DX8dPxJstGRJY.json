@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "First Sight",
+        "url": "https://open.spotify.com/album/52gS5j43amMiH4c3mzWoie"
+      },
+      "artists": [
+        {
+          "name": "Joel Sunny",
+          "url": "https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym"
+        }
+      ],
+      "date_added": "2024-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162680,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/4NtRkpweTUxkKHvl0odbgD"
+    },
+    {
+      "album": {
         "name": "Forever You and Me",
         "url": "https://open.spotify.com/album/2si30di9Qn7r1KuNhZ6jXj"
       },
