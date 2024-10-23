@@ -1053,6 +1053,28 @@
     },
     {
       "album": {
+        "name": "Beyond Us",
+        "url": "https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229733,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0"
+    },
+    {
+      "album": {
         "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
       },

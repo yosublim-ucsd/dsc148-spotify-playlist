@@ -4,7 +4,7 @@
 
 > 
 
-1,793 songs - 4 day 0 hr 13 min
+1,794 songs - 4 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1357,6 +1357,7 @@
 | [Rush The Flow](https://open.spotify.com/track/0NP8AiFtgZVOTfLpZXwovN) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [TOO FAST](https://open.spotify.com/album/4AnDQnvSjUu2KFJ6M3egdF) | 2:25 | 2023-06-30 |  |
 | [rèflexion](https://open.spotify.com/track/5OG6XTFyujvGNkIlhvtHpy) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [Azure World](https://open.spotify.com/album/1kwWNAqOWEUsqsEAA1A2gk) | 2:38 | 2022-02-22 |  |
 | [RØØTS 2021](https://open.spotify.com/track/3JJEX1P8e2sUw0flby8hcn) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [RØØTS 2021](https://open.spotify.com/album/5m7cuuFMQ3Gq7Y0b1biGyL) | 4:30 | 2022-09-06 |  |
+| [S3XY BEAT](https://open.spotify.com/track/5uy2chCb2NFkUbJ3cZJIZb) | [R3T3P](https://open.spotify.com/artist/6SE1rirTZFq7eZa4VRoDJN) | [S3XY BEAT](https://open.spotify.com/album/6EpChXAAqnF6kLQrZYjKKN) | 2:24 | 2024-10-22 |  |
 | [Sagittarius](https://open.spotify.com/track/6OVUeL1WyIPNpsghdxisPx) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [ZODIAX 3+](https://open.spotify.com/album/17nmOpiUO6CTJxiFUUzGO7) | 5:13 | 2022-08-13 |  |
 | [Savage](https://open.spotify.com/track/0vijUK7d3KzfW2VBPZNZa5) | [Tanukichi](https://open.spotify.com/artist/23vallNaMILMOgxcCYcuGP), [Floxytek](https://open.spotify.com/artist/1v2lA2moEBT9UFfnRd6Pkx) | [Savage](https://open.spotify.com/album/46aIYLK6nUS6eBQgcQJvVV) | 3:44 | 2024-08-25 |  |
 | [SAVAGE ERA](https://open.spotify.com/track/2yKegNqOhlOrSU6zTtw7pW) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [Griever](https://open.spotify.com/artist/1Xd3bw5OuInJDsNUAJBC5a), [Omnya](https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL), [PL4Y](https://open.spotify.com/artist/1vawVOQAVzWk4gHbcArbgb), [RXBY](https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z) | [SAVAGE ERA](https://open.spotify.com/album/2hrq98VU08OtcUnfnuiPgx) | 3:26 | 2023-07-08 |  |

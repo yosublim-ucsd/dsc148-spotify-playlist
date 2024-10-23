@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Rollin' On",
-        "url": "https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5"
+        "name": "Joshua Tree",
+        "url": "https://open.spotify.com/album/604SYSnLaQAYume81vqV1z"
       },
       "artists": [
         {
-          "name": "Jesse Daniel",
-          "url": "https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY"
+          "name": "Ruthie Collins",
+          "url": "https://open.spotify.com/artist/4qf3V2xmsI9GDIkQGlMfwV"
         }
       ],
-      "duration_ms": 249706,
-      "name": "Rollin' On",
-      "url": "https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX"
+      "duration_ms": 251880,
+      "name": "Joshua Tree",
+      "url": "https://open.spotify.com/track/36XvVcxYLXYOQj37McVSHD"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Joshua Tree",
-        "url": "https://open.spotify.com/album/604SYSnLaQAYume81vqV1z"
+        "name": "Rollin' On",
+        "url": "https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5"
       },
       "artists": [
         {
-          "name": "Ruthie Collins",
-          "url": "https://open.spotify.com/artist/4qf3V2xmsI9GDIkQGlMfwV"
+          "name": "Jesse Daniel",
+          "url": "https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY"
         }
       ],
-      "duration_ms": 251880,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/36XvVcxYLXYOQj37McVSHD"
+      "duration_ms": 249706,
+      "name": "Rollin' On",
+      "url": "https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "J.T.",
+        "url": "https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 215669,
+      "name": "Champagne Corolla",
+      "url": "https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Adobe Sessions",
         "url": "https://open.spotify.com/album/1tzRfpfSIo3RWhCMCZnO19"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 293346,
       "name": "Drunken Poet's Dream [feat. Ray Wylie Hubbard] (Alone Together Sessions)",
       "url": "https://open.spotify.com/track/6k7HGFpPdXf1mMz1VvdFdo"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "J.T.",
-        "url": "https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 215669,
-      "name": "Champagne Corolla",
-      "url": "https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Watch the World Die",
-        "url": "https://open.spotify.com/album/57YKS5oKGEx92bZD7cLAuw"
+        "name": "Colder Than You",
+        "url": "https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R"
       },
       "artists": [
         {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
+          "name": "Canaan Smith",
+          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
         }
       ],
-      "duration_ms": 234984,
-      "name": "Watch the World Die",
-      "url": "https://open.spotify.com/track/3xl0ZmnAng7becPu31kmOg"
+      "duration_ms": 201618,
+      "name": "Colder Than You",
+      "url": "https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq"
     }
   ],
   "unique_name": "The Road Less Traveled",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,226 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,283 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 58 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 |
 | 59 | [The Great Unknown](https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 4:12 |
 | 60 | [Renegades \- Acoustic Version](https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM) | [Vinyl Hotel](https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h) | [Café Acoustic Session \(Acoustic Version\)](https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW) | 2:57 |
-| 61 | [The Echo & The Shadow](https://open.spotify.com/track/6FytDcO847O1h7JlWbY838) | [The Well Pennies](https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi) | [Endlings](https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC) | 3:48 |
-| 62 | [Suspicious Minds](https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF) | [Casual](https://open.spotify.com/artist/6bYakhjMl4eDSfiETppQmS) | [Casual](https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC) | 2:50 |
+| 61 | [Suspicious Minds](https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF) | [Casual](https://open.spotify.com/artist/6bYakhjMl4eDSfiETppQmS) | [Casual](https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC) | 2:50 |
+| 62 | [The Echo & The Shadow](https://open.spotify.com/track/6FytDcO847O1h7JlWbY838) | [The Well Pennies](https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi) | [Endlings](https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC) | 3:48 |
 | 63 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 64 | [Hold Your Head Up High](https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Hold Your Head Up High](https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J) | 3:37 |
 | 65 | [Madrid](https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Madrid](https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA) | 4:00 |
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 91 | [sol](https://open.spotify.com/track/2d7tlqzWe9GmRuMiS5BUPW) | [xicu](https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6), [Júlia Serrasolsas](https://open.spotify.com/artist/2PoChqQI0BlpZZOJNJiVKm) | [sol](https://open.spotify.com/album/0Dhk03mSlZ734FYSVCFzH5) | 3:17 |
 | 92 | [Arena Cósmica](https://open.spotify.com/track/2Tp2TJMsvmdpqZkdlkwE0w) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Arena Cósmica](https://open.spotify.com/album/17natVn3YDYFfM4tKCKxPg) | 3:39 |
 | 93 | [Kevin](https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Kevin](https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT) | 3:23 |
-| 94 | [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ) | [Penélope](https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr) | 3:20 |
-| 95 | [5AM](https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT) | [Volver](https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy) | [5AM](https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4) | 3:36 |
-| 96 | [Judy](https://open.spotify.com/track/120v2UQI3sr2gG5KXNTI0H) | [L.A.](https://open.spotify.com/artist/7BaLRZPbaTkb3ZgxLc5eFs), [Patricia de los Ángeles](https://open.spotify.com/artist/6hSKcdQ9djgaH0sx8z1hRB) | [Judy](https://open.spotify.com/album/4qtCTdSxpDbRGf66uUFzkE) | 3:34 |
-| 97 | [Maison Du Monde](https://open.spotify.com/track/4joqLG9X39fahIqs0ObvGu) | [Luis Ramiro](https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT) | [Maison Du Monde](https://open.spotify.com/album/7yV0PHxjUqJ3CnB0J7OxD3) | 3:25 |
+| 94 | [Maison Du Monde](https://open.spotify.com/track/4joqLG9X39fahIqs0ObvGu) | [Luis Ramiro](https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT) | [Maison Du Monde](https://open.spotify.com/album/7yV0PHxjUqJ3CnB0J7OxD3) | 3:25 |
+| 95 | [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/track/28EsJpm5RRLjVFRAp0AmIZ) | [Penélope](https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Vete Por Ahí \(feat\. Irenegarry\)](https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr) | 3:20 |
+| 96 | [5AM](https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT) | [Volver](https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy) | [5AM](https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4) | 3:36 |
+| 97 | [Judy](https://open.spotify.com/track/120v2UQI3sr2gG5KXNTI0H) | [L.A.](https://open.spotify.com/artist/7BaLRZPbaTkb3ZgxLc5eFs), [Patricia de los Ángeles](https://open.spotify.com/artist/6hSKcdQ9djgaH0sx8z1hRB) | [Judy](https://open.spotify.com/album/4qtCTdSxpDbRGf66uUFzkE) | 3:34 |
 | 98 | [Te perdí](https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Te perdí](https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG) | 3:20 |
 | 99 | [Adélia](https://open.spotify.com/track/2sGSEql9SuT6cdRTDN5TQ6) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [HAĒMA](https://open.spotify.com/artist/2XhPH41LVitp1CM3NS5pzw) | [Adélia](https://open.spotify.com/album/2pSIXz2becSFLT1KfHgNaQ) | 4:18 |
 | 100 | [Parking Lot](https://open.spotify.com/track/632xyZbSBdyc5tJ9gOYFdE) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq) | [Parking Lot](https://open.spotify.com/album/6wGepQvwSctX1zib7kpUdH) | 3:52 |

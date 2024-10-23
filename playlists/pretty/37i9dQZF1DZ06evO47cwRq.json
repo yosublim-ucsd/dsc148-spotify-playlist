@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2759008,
+  "num_followers": 2759836,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxRIAAAAAAAsZmwLAq4krxAx9+iENjHR",
+  "snapshot_id": "ZxWZgAAAAACHM1rHAs7tI6AiHo6i0z7N",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RECHARGED",
-        "url": "https://open.spotify.com/album/2FUsvD1bw53HGOjAg56vRD"
+        "name": "The Hunting Party",
+        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
       },
       "artists": [
         {
           "name": "Linkin Park",
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 229439,
-      "name": "A LIGHT THAT NEVER COMES",
-      "url": "https://open.spotify.com/track/3BnBKNItMng824sLx0pUfy"
+      "duration_ms": 233240,
+      "name": "Until It's Gone",
+      "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu"
     },
     {
       "added_at": null,
@@ -695,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hunting Party",
-        "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
+        "name": "RECHARGED",
+        "url": "https://open.spotify.com/album/2FUsvD1bw53HGOjAg56vRD"
       },
       "artists": [
         {
           "name": "Linkin Park",
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 233240,
-      "name": "Until It's Gone",
-      "url": "https://open.spotify.com/track/2n1jBz26dVBtSbMvJNjGsu"
+      "duration_ms": 229439,
+      "name": "A LIGHT THAT NEVER COMES",
+      "url": "https://open.spotify.com/track/3BnBKNItMng824sLx0pUfy"
     },
     {
       "added_at": null,

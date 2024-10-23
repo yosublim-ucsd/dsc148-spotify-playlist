@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,320 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,369 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Bounce](https://open.spotify.com/track/6RUIN0IIPm13Bt3RhPto02) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Slow Burn](https://open.spotify.com/album/1Iuzwy5Dra6ntbmJ2v4j9n) | 4:16 |
-| 2 | [Living A Dream](https://open.spotify.com/track/0TW2qtoPj7KQ3k0dgNnNKG) | [Phillip Doc Martin](https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp), [Steve Oliver](https://open.spotify.com/artist/2daXcMrxq1KgYbfzP8GnX2) | [Living A Dream](https://open.spotify.com/album/2DRHGRo7PrjMGecrxFA3Km) | 4:22 |
+| 2 | [Living A Dream](https://open.spotify.com/track/0TW2qtoPj7KQ3k0dgNnNKG) | [Phillip Doc Martin](https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Living A Dream](https://open.spotify.com/album/2DRHGRo7PrjMGecrxFA3Km) | 4:22 |
 | 3 | [Freedom \- radio single](https://open.spotify.com/track/3VrSSFKulCr9Vdex6X4JHP) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Freedom](https://open.spotify.com/album/2hv17EL1v430aN9E0sbFZM) | 3:49 |
 | 4 | [Where Do We Go From Here?](https://open.spotify.com/track/6b0rAouRVovuUi1s4x6BiT) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Where Do We Go From Here?](https://open.spotify.com/album/1QaWrySFaSvXxrFWyUaYfg) | 3:39 |
 | 5 | [Automatic](https://open.spotify.com/track/6d4PdhxDEF9bJFZ74EVwTc) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Automatic](https://open.spotify.com/album/54td2WbTNgtvvnOUY7CGdF) | 4:23 |

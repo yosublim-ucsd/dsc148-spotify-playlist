@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits Cover: Kublai Khan TX
 
-1,034 songs - 2 day 15 hr 57 min
+1,036 songs - 2 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Better](https://open.spotify.com/track/1CNQI6EQwjJJi48OoMa8gw) | [Palisades](https://open.spotify.com/artist/2w6slVluzWlwADP8aB5yz5) | [Better](https://open.spotify.com/album/2xUM3kskk8sMsXqaxDV32R) | 3:19 | 2022-03-11 | 2022-05-14 |
 | [Better Before](https://open.spotify.com/track/0VGj4p37gFb8UJNOGtpT13) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Better Before](https://open.spotify.com/album/7zIzmDLpew0751nFNaJnEV) | 3:39 | 2024-02-09 | 2024-05-11 |
 | [Better Before](https://open.spotify.com/track/7DtJZBUJCK8uJwNMVJ5ER9) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [TROPO](https://open.spotify.com/album/72l55VPnCBNhCMw0HGWlCO) | 3:39 | 2024-03-08 | 2024-04-19 |
+| [Better Off](https://open.spotify.com/track/1BgqoOYdf6eQfznp9o4tmE) | [Dead Eyes](https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2) | [Better Off](https://open.spotify.com/album/2xNcN7hzWIHZliCDIa4lHx) | 3:42 | 2024-10-18 |  |
 | [Better Off Alone](https://open.spotify.com/track/5VoE2F0vCeXVmEo4soLavh) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Better Off Alone](https://open.spotify.com/album/7FQIV0DoXL986gmwU1gXYI) | 3:10 | 2024-10-18 |  |
 | [Better Off Dead](https://open.spotify.com/track/3NsHDwkHdOZhhxNNBospuX) | [Hopes Die Last](https://open.spotify.com/artist/7lDZOczH1YscXoadzACAil) | [Better Off Dead](https://open.spotify.com/album/1fGacap0mcrhWlaUG75GMe) | 3:35 | 2022-04-22 | 2022-06-24 |
 | [Better Than You](https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Better Than You](https://open.spotify.com/album/3iCN4f0sMLQ9TF7nYm4NAx) | 3:32 | 2022-04-22 | 2022-07-23 |
@@ -171,6 +172,7 @@
 | [Burial Season](https://open.spotify.com/track/6nCXEWuVVQEV7HsJw42w2P) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl) | [Burial Season](https://open.spotify.com/album/74TAGFxDG7NRr4lZBNkud0) | 3:42 | 2024-08-12 | 2024-09-07 |
 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 | 2021-12-17 | 2022-01-22 |
 | [Buried In Thorns](https://open.spotify.com/track/0wqUOfb0HekBuIJAmQ3EcU) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [Buried In Thorns](https://open.spotify.com/album/1WOpoJ8OkF1MdOSnyhdzOW) | 3:26 | 2024-07-12 | 2024-08-08 |
+| [Burn](https://open.spotify.com/track/5xwaAOxRDRyNMWsBRum6UK) | [Haste The Day](https://open.spotify.com/artist/7voCqDg5xgF1LZFrmbPS7w) | [Burn](https://open.spotify.com/album/3bXIv4uHSwy9FERYRphrq3) | 4:09 | 2024-10-18 |  |
 | [Burn](https://open.spotify.com/track/3PK7lPF9uv1deSDkTuemZO) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Burn](https://open.spotify.com/album/2eTDWs3EX9OGigTDTNIEjJ) | 3:15 | 2024-05-10 | 2024-07-13 |
 | [Bury My Flame](https://open.spotify.com/track/1kRguNpOF4WiqJBn732Rvx) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Bury My Flame](https://open.spotify.com/album/2xbuGSzEAtxnR8mv2lci00) | 3:40 | 2022-02-11 | 2022-05-06 |
 | [Calamity](https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Calamity](https://open.spotify.com/album/0Ux6ZxV51wrLE5dWkaLPci) | 2:53 | 2023-06-30 | 2023-08-19 |
@@ -294,7 +296,7 @@
 | [Don't Reach For Me](https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Don't Reach For Me](https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO) | 3:45 | 2024-04-12 | 2024-08-13 |
 | [Don’t Look Away](https://open.spotify.com/track/13TI2bhTRld8pgk9xM8wm9) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Don't Look Away](https://open.spotify.com/album/4waOzgfNIF4sBAkKX9NzrJ) | 3:13 | 2024-03-08 | 2024-05-11 |
 | [Don’t Look Away](https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 2](https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB) | 3:13 | 2024-05-10 |  |
-| [Doom + Gloom](https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [Doom + Gloom](https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0) | 3:09 | 2024-08-30 |  |
+| [Doom + Gloom](https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [Doom + Gloom](https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0) | 3:09 | 2024-08-30 | 2024-10-23 |
 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 | 2023-01-20 | 2023-05-23 |
 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 | 2022-11-11 | 2023-01-21 |
 | [Doubt Me](https://open.spotify.com/track/2eagADnpxQacZXpQxlZ8n3) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:10 | 2023-09-29 | 2024-02-10 |
@@ -443,7 +445,7 @@
 | [Hear You Scream](https://open.spotify.com/track/5fegfkA0EiK5yL8gSJi8o4) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Hear You Scream](https://open.spotify.com/album/0uUoMHRLw4sC5BWRjQlK3O) | 3:28 | 2023-08-18 | 2024-02-24 |
 | [Heathens](https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heathens](https://open.spotify.com/album/3tjvaW6nGu53X7iwbIUNqk) | 3:30 | 2022-05-20 | 2022-07-23 |
 | [Heaven Shall Burn](https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven Shall Burn](https://open.spotify.com/album/7nJzHteWK38ha0G1J8i57V) | 4:07 | 2023-11-27 | 2024-02-24 |
-| [HEAVY RAIN](https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [HEAVY RAIN](https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih) | 3:54 | 2023-09-29 |  |
+| [HEAVY RAIN](https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [HEAVY RAIN](https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih) | 3:54 | 2023-09-29 | 2024-10-23 |
 | [Heir to the Serpent](https://open.spotify.com/track/2kBVTplPtDRx0sqXWtTYOh) | [The Guild](https://open.spotify.com/artist/5BVgUzoX3ui5r5bBWMNGLX) | [Heir to the Serpent](https://open.spotify.com/album/1KkGP91FL5N5zxc9Jb8Fpd) | 4:23 | 2022-07-13 | 2022-07-23 |
 | [Hell is Other People](https://open.spotify.com/track/7q7ZgeTsfhCDewBSb5tIim) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Hell is Other People](https://open.spotify.com/album/4RWvDCNII3onIm2bZvjzdy) | 3:39 | 2022-07-13 | 2022-07-19 |
 | [Hell Is Where The Heart Is](https://open.spotify.com/track/4jZFmBhYpwwiWjuEYmlEYq) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. III: Clarity](https://open.spotify.com/album/7lt5GA2p1R951h7cg6IycG) | 3:53 | 2022-11-25 | 2023-08-28 |

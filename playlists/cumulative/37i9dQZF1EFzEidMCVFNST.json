@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Considera Ela",
+        "url": "https://open.spotify.com/album/0KR4iGslcN7sBNRSU4XtwB"
+      },
+      "artists": [
+        {
+          "name": "Vitor Fernandes",
+          "url": "https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153514,
+      "name": "Considera Ela",
+      "url": "https://open.spotify.com/track/4O8MJKGIJOupGsPLe9hHPc"
+    },
+    {
+      "album": {
         "name": "O Embaixador (Ao Vivo)",
         "url": "https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG"
       },

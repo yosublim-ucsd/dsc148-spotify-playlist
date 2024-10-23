@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-517 songs - 1 day 3 hr 19 min
+518 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-02-06 | 2023-04-21 |
 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 | 2023-04-20 |  |
 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/3y13pwXvqWmAXKdt4zgI2Q) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(feat\. Cian Ducrot\) \[Remix\]](https://open.spotify.com/album/2iBbNFC5oZdKfqQyiSEfXx) | 3:04 | 2023-03-02 | 2023-03-19 |
-| [Perdiste](https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Perdiste](https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3) | 1:59 | 2024-03-13 |  |
+| [Perdiste](https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Perdiste](https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3) | 1:59 | 2024-03-13 | 2024-10-23 |
 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2021-12-16 |  |
 | [Peru Mashup](https://open.spotify.com/track/1dhpWnmkssLMMCoTWhJOlE) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Peru Mashup](https://open.spotify.com/album/0WgttMqNi5lo1HPYyUKA7V) | 3:45 | 2021-12-16 | 2022-05-17 |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-04-12 | 2024-10-05 |
@@ -406,6 +406,7 @@
 | [She Got It \(with Rafa Pabön\)](https://open.spotify.com/track/59MMi0CiK66DVzFo1aRRby) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [She Got It \(with Rafa Pabön\)](https://open.spotify.com/album/6t9SPVEh2WUu9UWDIjbPm6) | 2:50 | 2021-12-16 | 2022-02-23 |
 | [Short up Shorts](https://open.spotify.com/track/15DxGcmXWDZhaFUyz1Kh1y) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [No Excuses](https://open.spotify.com/album/0MqznZG1JtYF7hhLUWfNU9) | 2:34 | 2023-02-23 | 2023-04-13 |
 | [Show Them](https://open.spotify.com/track/0F0gYhu89PlecJB3XUi5Jf) | [Sam Dutchy](https://open.spotify.com/artist/4ZDwxw2U2vf0kGbgBF8QMP) | [Show Them](https://open.spotify.com/album/626DRnpftmOKOEIzVZ4dEK) | 3:18 | 2021-12-16 | 2022-07-29 |
+| [Sideways](https://open.spotify.com/track/3OGlklVPmFmu6Tm0fQ1JpB) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Sideways](https://open.spotify.com/album/69eqA59bgh09wQ2MT1AlnL) | 4:13 | 2024-10-22 |  |
 | [Sign Language](https://open.spotify.com/track/4GCdBfCCQsI9H7Yu0Ok2K5) | [Ziggi Recado](https://open.spotify.com/artist/0tvYfnkHhiQcVsR69cfAW8) | [Sign Language](https://open.spotify.com/album/1ZlX2ihrYQrXLPpuUl8Afa) | 2:38 | 2024-06-06 | 2024-09-01 |
 | [Silly Games](https://open.spotify.com/track/6JiCJrN8tsjG1TLmIL2xRM) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Silly Games](https://open.spotify.com/album/2EbfLEv2xLxdfKI42K4Pdg) | 3:52 | 2021-12-16 | 2022-05-17 |
 | [Sip \(Alcohol\)](https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Sip \(Alcohol\)](https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR) | 2:38 | 2021-12-16 |  |

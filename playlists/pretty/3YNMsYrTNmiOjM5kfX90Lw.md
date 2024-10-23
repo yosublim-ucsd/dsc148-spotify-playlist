@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 432,569 likes - 49 songs - 2 hr 25 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 432,684 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 3 | [On a besoin de soleil](https://open.spotify.com/track/1DmUpJ5iLCOm3I9WQ4PxG6) | [Caltii](https://open.spotify.com/artist/6vIcG0NduWZEFF6dccud1R) | [Qu'il est beau ce monde](https://open.spotify.com/album/5eGViWv25Jw8Iy652pnw5N) | 3:11 |
 | 4 | [Crazy](https://open.spotify.com/track/0uUnVl0SglLYrd45zIBWJI) | [Heartlone](https://open.spotify.com/artist/6w97sx4r687VufGkqJjaGA) | [Crazy](https://open.spotify.com/album/44GXrK6L5e22b1JWvpelpd) | 1:46 |
 | 5 | [Summertime](https://open.spotify.com/track/5oLdNMbesH73Wmr2S2aKXD) | [DJ ACE NYC & HIGH SEASON](https://open.spotify.com/artist/7tjbJgm5t0urNLxAcSadHj) | [Summertime](https://open.spotify.com/album/4pGRSYZWnZ4QHU376cYhLL) | 3:28 |
-| 6 | [Broken Soul 2](https://open.spotify.com/track/1pm0p5dEnpzsKwwd83tnf4) | [ZimFamilia](https://open.spotify.com/artist/26EzLY5mpFGTo9JeYsqCfD) | [Broken Soul 2](https://open.spotify.com/album/0Se9SZptCAetD8bjWPVxIX) | 2:51 |
+| 6 | [Broken Soul 2](https://open.spotify.com/track/1pm0p5dEnpzsKwwd83tnf4) | [ZimFamilia](https://open.spotify.com/artist/26EzLY5mpFGTo9JeYsqCfD), [ViBEn2L](https://open.spotify.com/artist/6KvulmqHd9NQ0N91lJLZGe) | [Broken Soul 2](https://open.spotify.com/album/0Se9SZptCAetD8bjWPVxIX) | 2:51 |
 | 7 | [Daddy's Song feat\. Angelica Idalia](https://open.spotify.com/track/03Yit4l0bZgwgejTQIjeIR) | [Dash D.U.B.](https://open.spotify.com/artist/3IjymlI7EtFdNh6wsG9fyh) | [Daddy's Song feat\. Angelica Idalia](https://open.spotify.com/album/3MIMgYHky5eHVi5c0N3pC8) | 3:53 |
 | 8 | [Backwards \(Visions\)](https://open.spotify.com/track/3l8grkUIBHJ6VhxkukVdg7) | [Bar$](https://open.spotify.com/artist/3JcrKP3rr9FHGJfyBZ8Jmu) | [Monatomic](https://open.spotify.com/album/2fB7dnbusd7kL18SRjofbc) | 3:46 |
 | 9 | [Die Strassen von Berlin \- Radio Edit](https://open.spotify.com/track/0Ys70TxQfJhljbxz5NsYwm) | [BEAT Painter](https://open.spotify.com/artist/5HavQHPWJCh0WD8qNkwjoq) | [Die Strassen von Berlin](https://open.spotify.com/album/4VPyRfemRbb6WHRAuaJ8X8) | 2:36 |

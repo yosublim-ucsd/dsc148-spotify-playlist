@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJ45m0qiQQY.md) - [plain]
 
 > chilling beats for haunted halloween vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,039 likes - 70 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,637 likes - 70 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

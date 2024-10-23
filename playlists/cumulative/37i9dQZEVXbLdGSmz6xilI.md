@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-1,118 songs - 2 day 17 hr 40 min
+1,119 songs - 2 day 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,7 +675,7 @@
 | [NGỰA Ô](https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [NGỰA Ô](https://open.spotify.com/album/0gkv4yJzOP4UG19rm8lumW) | 3:35 | 2024-10-14 |  |
 | [Như Anh Đã Thấy Em](https://open.spotify.com/track/7h2zqUH4bYyknNUxsYnS5V) | [PhucXP](https://open.spotify.com/artist/6fCJf6pkYTHfW1XPc1d4vO), [Freak D](https://open.spotify.com/artist/1yNjtowTJs05S2Xp2g7stg) | [Như Anh Đã Thấy Em](https://open.spotify.com/album/2FwiyoWhDcZlR7Cr6PMHLF) | 5:02 | 2023-01-25 | 2023-03-05 |
 | [Như Ngày Hôm Qua](https://open.spotify.com/track/1QfMgJPoWAEy4jwwhJUDWp) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [m\-tp M\-TP](https://open.spotify.com/album/1ni6VX3ddp9VIFRkJOlRkL) | 3:42 | 2024-06-11 | 2024-06-13 |
-| [nhắn nhủ](https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [nhắn nhủ](https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE) | 4:01 | 2023-12-22 |  |
+| [nhắn nhủ](https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [nhắn nhủ](https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE) | 4:01 | 2023-12-22 | 2024-10-23 |
 | [Những Lời Hứa Bỏ Quên](https://open.spotify.com/track/1LJyhnPdYGRLerwJd8CmL1) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Bảo Tàng Của Nuối Tiếc](https://open.spotify.com/album/3pprs1r3mH3UhU23TUHBWJ) | 3:56 | 2024-09-28 |  |
 | [Những Lời Hứa Bỏ Quên](https://open.spotify.com/track/1bG6Q8sR8jda7ryI365y8o) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Những Lời Hứa Bỏ Quên](https://open.spotify.com/album/0z9p71YszjfOWS1lmQ4W51) | 3:56 | 2023-12-16 | 2024-09-29 |
 | [những đốm sáng](https://open.spotify.com/track/1TJtZKZFq2rdh9Wfpm15Nw) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 4:02 | 2023-08-18 | 2023-08-24 |
@@ -1039,6 +1039,7 @@
 | [What if…](https://open.spotify.com/track/1fNwwml8UcKvhfM6YEVIRh) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:16 | 2022-07-16 | 2022-07-23 |
 | [Where You From](https://open.spotify.com/track/0nZaV8LwxHeg8TqFy193IL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair](https://open.spotify.com/album/5r35iS0uSSoQBKzQj0IeI3) | 4:00 | 2022-04-11 | 2022-04-13 |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-31 | 2024-01-16 |
+| [Whiplash](https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK) | 3:03 | 2024-10-22 |  |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-20 |  |
 | [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 | 2024-04-20 | 2024-04-22 |
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-03 | 2022-12-21 |

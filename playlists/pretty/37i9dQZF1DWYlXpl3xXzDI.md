@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 
 > Lekker rustig aan doen op maandag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,894 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,895 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlXpl3xXzDI.md) - [plain]
 | 24 | [Die A Happy Man](https://open.spotify.com/track/6uTb5oNK9RkTjxmh73W7MG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/5EJgQd6IcN7xvdmpARRk5b) | 3:47 |
 | 25 | [Wake Up This Day](https://open.spotify.com/track/2eGFixlUmSK3Yei80riTVe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Beat Tape 2](https://open.spotify.com/album/5IW5ko3B1W5doRD3YH9DV8) | 3:49 |
 | 26 | [In Your Arms](https://open.spotify.com/track/2UcrOnNw5WJr6Xu2q8QAPI) | [Felix Riebl](https://open.spotify.com/artist/0wmlHdnduAWTeHkzx4dX9O), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [In Your Arms](https://open.spotify.com/album/6mR9tHwbzt0284PGj9Z9KD) | 3:28 |
-| 27 | [So They Say](https://open.spotify.com/track/17O598wcIrissGHCqGuMM0) | [Rukhsana Merrise](https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn) | [September Songs](https://open.spotify.com/album/0dyGgvBAKPW2mOXlfrNR9M) | 2:56 |
+| 27 | [So They Say](https://open.spotify.com/track/17O598wcIrissGHCqGuMM0) | [RUKHSANA](https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn) | [September Songs](https://open.spotify.com/album/0dyGgvBAKPW2mOXlfrNR9M) | 2:56 |
 | 28 | [One More Night](https://open.spotify.com/track/0N24Ao3uRkKLbT0Cuc45gb) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [One More Night](https://open.spotify.com/album/2UeAhscxcxmAaPGwQuASRL) | 3:53 |
 | 29 | [Gracefully](https://open.spotify.com/track/5mkpRcKJW7E9vlDoRJGxr9) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [The Bomb Shelter Sessions](https://open.spotify.com/album/3AcNiMMqbJ9WxtLtUeTNB0) | 3:38 |
 | 30 | [Some Places](https://open.spotify.com/track/7AVTEM4XRiQw6iVLRTcbA9) | [Grapell](https://open.spotify.com/artist/5IBYTeurozN0bUDkK2W3HW), [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Some Places](https://open.spotify.com/album/5uLaVDOgY7RXPbub1qfjaN) | 4:15 |

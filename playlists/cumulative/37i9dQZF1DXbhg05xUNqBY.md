@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-189 songs - 13 hr 5 min
+190 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 | 2021-10-31 |  |
 | [Is He Worthy?](https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Is He Worthy?](https://open.spotify.com/album/2ZqlzWmGSSipvkGg1TtIKw) | 4:42 | 2024-06-23 |  |
 | [It Is I](https://open.spotify.com/track/6P9UJWpRBxVMdf3MFnUCxy) | [Pathway](https://open.spotify.com/artist/55zCZ6YQsPwCo027k4NiEY), [Larine Torikian](https://open.spotify.com/artist/3aEJLtXh1RwlJWEaPhxBcW), [KEO](https://open.spotify.com/artist/5mYW2du3O2QDUeE8ozsmZ2) | [renatus](https://open.spotify.com/album/47oj3EQYnWoREX9XGk6VI5) | 4:49 | 2024-07-26 |  |
+| [It Is Well](https://open.spotify.com/track/28wATUqL8fwV9pVxQfAaKo) | [Sky Hymnal](https://open.spotify.com/artist/0sPadWytMscx06KVFzWhba) | [It Is Well](https://open.spotify.com/album/0Qrm4RSoxwDAkUv74KRHAu) | 3:00 | 2024-07-26 |  |
 | [It Is Well With My Soul](https://open.spotify.com/track/4aQ5Z7NMkYNFwwGKXc43Pe) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [It Is Well With My Soul](https://open.spotify.com/album/5vuquqvqSQIH1Og1QkMnFu) | 6:08 | 2021-10-31 | 2024-06-23 |
 | [It's a Wonderful Life](https://open.spotify.com/track/4ieeVg8E0Mws1kaSBoQZOj) | [John Lucas](https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk) | [It's a Wonderful Life](https://open.spotify.com/album/4IUddwGckU9duvn9dEQLnz) | 4:09 | 2021-10-31 | 2024-07-27 |
 | [Jesus Cries \- Unplugged Version](https://open.spotify.com/track/1Y8mtlqG8bI4GzI0CpbLhA) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Jesus Cries](https://open.spotify.com/album/7lS9CAJtKeA2IfVV9xKSC4) | 3:26 | 2024-07-26 |  |
@@ -160,7 +161,7 @@
 | [Start Over](https://open.spotify.com/track/6NC7f4MVisYYpVPl0I3O6p) | [Matthews Ntlele](https://open.spotify.com/artist/1fi880kqdH6Pg581Z6IEWX) | [Start Over](https://open.spotify.com/album/7ENwhMMoaNFPlIUF7XxTcr) | 3:22 | 2024-07-26 |  |
 | [Steady My Heart](https://open.spotify.com/track/5RUgtcjWx3cTxHuSqlKUCl) | [METRUTH](https://open.spotify.com/artist/6vUiVJcOvGX0EhBr4GiMrb), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Steady My Heart](https://open.spotify.com/album/22JhHEYI0GDqojMDo1WEol) | 3:56 | 2024-07-26 |  |
 | [Sueños](https://open.spotify.com/track/3nOjFj0WWbsci9foo3o2tk) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 4:29 | 2021-10-31 | 2024-04-19 |
-| [Sunrise](https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Morning / Sunrise](https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T) | 2:50 | 2021-10-31 |  |
+| [Sunrise](https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Morning / Sunrise](https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T) | 2:50 | 2021-10-31 | 2024-10-23 |
 | [Surrendered](https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Surrendered](https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj) | 9:19 | 2024-06-23 |  |
 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 | 2021-10-31 | 2024-07-27 |
 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 | 2021-10-31 | 2024-04-19 |

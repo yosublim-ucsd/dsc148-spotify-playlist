@@ -4,11 +4,11 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: كارمن سليمان
 
-1,196 songs - 2 day 18 hr 48 min
+1,197 songs - 2 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Haga Wa 50](https://open.spotify.com/track/3bcJ9l7u6ycQbZvrKR5jFH) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [100 Haga Wa 50](https://open.spotify.com/album/3qxAJkKJbKNroj67JGU78d) | 2:52 | 2024-08-28 |  |
+| [100 Haga Wa 50](https://open.spotify.com/track/3bcJ9l7u6ycQbZvrKR5jFH) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [100 Haga Wa 50](https://open.spotify.com/album/3qxAJkKJbKNroj67JGU78d) | 2:52 | 2024-08-28 | 2024-10-23 |
 | [123](https://open.spotify.com/track/4BldduAq7YmZn3mimYdFZp) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [123](https://open.spotify.com/album/03yI5mAo2O493JwT1kfTbw) | 2:44 | 2024-08-08 | 2024-09-13 |
 | [3 Elzero](https://open.spotify.com/track/3sO0sDKe7k4SFl5bUqX0iV) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [3 Elzero](https://open.spotify.com/album/1GGzpP9lmVCeSsajXNlUut) | 2:27 | 2023-08-02 | 2023-08-25 |
 | [3 ساعات متواصله](https://open.spotify.com/track/3QIV4kh9CzPOnjdqTU3boL) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3 ساعات متواصله](https://open.spotify.com/album/6D0QUBe255j5ThQQPEbXYv) | 3:11 | 2023-12-24 | 2024-02-08 |
@@ -1148,6 +1148,7 @@
 | [نسينا نعيش](https://open.spotify.com/track/0Ia5kzbFM2iMADp1Wq1EZe) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [نسينا نعيش](https://open.spotify.com/album/5TlwYlQKbof258r72pe1lu) | 3:15 | 2023-02-27 | 2023-05-05 |
 | [نص بنات بلدك](https://open.spotify.com/track/0wcdBkbUsOwZ7eK9vheI3w) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [نص بنات بلدك](https://open.spotify.com/album/0IG0hyjIdkYn10GVmmcfIi) | 2:08 | 2023-12-29 | 2024-02-06 |
 | [نصابة](https://open.spotify.com/track/4wwKW2VSUbLAkUA53Al0iZ) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [نصابة](https://open.spotify.com/album/6HiHRHRuP8AbVYJe2kASYs) | 2:58 | 2023-02-01 | 2023-03-10 |
+| [هابداء اعيش](https://open.spotify.com/track/1aD7UG13N8vA0DIoySRRyc) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [هابداء اعيش](https://open.spotify.com/album/3Aj8Zlk3uuCN9UNucmHh4E) | 3:08 | 2024-10-22 |  |
 | [هارلي \- أغنية الفيلم](https://open.spotify.com/track/1xONu0es8q0Mw68bxMLxkY) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [هارلي \(أغنية الفيلم\)](https://open.spotify.com/album/3hMbBbUijCEaOmKhcBsi9b) | 1:54 | 2023-05-12 | 2023-06-30 |
 | [هجوم فجائي](https://open.spotify.com/track/6oJ8OTMckJHkMP96OmM20M) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [هجوم فجائي](https://open.spotify.com/album/7MVTw1BuTpyCh8kl8Ca5Ww) | 4:25 | 2023-01-03 | 2023-02-17 |
 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 | 2023-06-23 | 2023-07-26 |

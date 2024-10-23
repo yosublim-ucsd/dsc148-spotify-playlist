@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-307 songs - 1 day 1 hr 48 min
+308 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2022-05-17 | 2023-10-07 |
 | [Barse Badariya](https://open.spotify.com/track/60l7qOaFTNccb7AX51U27k) | [prithviraj singh sisodiya](https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd), [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Barse Badariya](https://open.spotify.com/album/1N5lJDZXeReW3mDVpTr009) | 3:24 | 2024-10-21 |  |
 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 | 2023-07-05 |  |
+| [BeHaya Humre Saiyaan Bedardi](https://open.spotify.com/track/3ifdiDHwuODTgVPmshKYan) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [BeHaya Humre Saiyaan Bedardi](https://open.spotify.com/album/5tbx0NpfcoEU1LUSrmPoEt) | 4:30 | 2024-10-22 |  |
 | [Bhagwaan](https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Bhagwaan](https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j) | 4:34 | 2024-07-30 |  |
 | [Bhim](https://open.spotify.com/track/2CpX8zSTnl2yJIFyiXMgHx) | [Joel Veena](https://open.spotify.com/artist/1jHZD5DHGnhcb2XCmwx1pj) | [Bhim](https://open.spotify.com/album/1Mw4V0SJP9YBRyVJK8YsXT) | 4:38 | 2022-05-17 | 2023-06-22 |
 | [Bhor Bhayi](https://open.spotify.com/track/64txAeGrepJepCeaFvNLH2) | [INSYNC](https://open.spotify.com/artist/19vhG6MY7yUn1uyBFHfK40) | [Bhor Bhayi](https://open.spotify.com/album/2Ufh4166inMXn43jqGmQ7r) | 5:14 | 2023-09-11 |  |
@@ -311,7 +312,7 @@
 | [Tum Jo Mile Ho](https://open.spotify.com/track/0DCXweyQdnUXQ6bDSNXFi8) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Sangeeta Shankar](https://open.spotify.com/artist/2oHDVj3P55EigkZFdtngNn) | [Tum Jo Mile Ho \- Single](https://open.spotify.com/album/2QYap5S921w48KgN7MUsdb) | 4:06 | 2022-05-17 | 2023-11-25 |
 | [Veera Raja Veera](https://open.spotify.com/track/60fyKjKygvMuVArFIlioyb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arman Dehlvi](https://open.spotify.com/artist/1wYOalcwgWTyVjqG22p3Od), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [PS\-2 \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/07qw6WgmXr7RzNA9jHIpuD) | 5:04 | 2023-03-31 | 2023-09-28 |
 | [Viraha](https://open.spotify.com/track/0j1Z4bp6LeIxb9Rdq0kdsu) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:43 | 2022-05-17 | 2023-03-21 |
-| [Yaad Mein Teri](https://open.spotify.com/track/1iuo9lZmjtkHGl3CEUnyiq) | [Neehar Pandit](https://open.spotify.com/artist/1FCBqwvbf9Apdkul2z6Z67), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Yaad Mein Teri](https://open.spotify.com/album/0AdWPet98IM9MvgluErmmU) | 4:40 | 2024-07-19 |  |
+| [Yaad Mein Teri](https://open.spotify.com/track/1iuo9lZmjtkHGl3CEUnyiq) | [Neehar Pandit](https://open.spotify.com/artist/1FCBqwvbf9Apdkul2z6Z67), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Yaad Mein Teri](https://open.spotify.com/album/0AdWPet98IM9MvgluErmmU) | 4:40 | 2024-07-19 | 2024-10-23 |
 | [Yaad Piya Ki Aaye](https://open.spotify.com/track/3LWZsbikDu2gSiiExEifHw) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Yaad Piya Ki...](https://open.spotify.com/album/63RWUfA8NjW6ooa5MXP8HB) | 5:14 | 2022-05-17 | 2023-04-19 |
 | [Yaara Hindi \(Thumri Mix\)](https://open.spotify.com/track/2jVBs0hLNF6Vbws3b7WIzR) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Yaara Hindi \(Thumri Mix\)](https://open.spotify.com/album/4mrt2FnwTm56MP1ciili4u) | 4:23 | 2024-09-13 |  |
 | [Yaman](https://open.spotify.com/track/5y4WiVUc1SbjnfXLu9szYI) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Yaman](https://open.spotify.com/album/6NZONtGQRxsnIomjyClIqf) | 5:24 | 2022-05-17 | 2023-08-02 |

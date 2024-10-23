@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Dominika P\u0142onka",
-  "num_followers": 21014,
+  "num_followers": 21020,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,38 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
+        "name": "DZIEWCZYNA Z PLAKATU",
+        "url": "https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv"
+      },
+      "artists": [
+        {
+          "name": "Cyrko",
+          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
+        }
+      ],
+      "duration_ms": 159789,
+      "name": "DZIEWCZYNA Z PLAKATU",
+      "url": "https://open.spotify.com/track/76oBCUbZ0Pi2Zie2HzJzYM"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "Tylko Lepiej EP",
+        "url": "https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "duration_ms": 147804,
+      "name": "A\u017c B\u0119dziesz Wiedzie\u0107",
+      "url": "https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
         "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
         "url": "https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0"
       },
@@ -363,38 +395,6 @@
       "duration_ms": 172361,
       "name": "Miliony monet (feat. Wiktor Walig\u00f3ra, Piotr Odoszewski & Kajetan Wolas)",
       "url": "https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
-        "name": "Tylko Lepiej EP",
-        "url": "https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC"
-      },
-      "artists": [
-        {
-          "name": "Paula Biskup",
-          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
-        }
-      ],
-      "duration_ms": 147804,
-      "name": "A\u017c B\u0119dziesz Wiedzie\u0107",
-      "url": "https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
-        "name": "DZIEWCZYNA Z PLAKATU",
-        "url": "https://open.spotify.com/album/6fdEQop9ZUjRZNNLI2Cchv"
-      },
-      "artists": [
-        {
-          "name": "Cyrko",
-          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
-        }
-      ],
-      "duration_ms": 159789,
-      "name": "DZIEWCZYNA Z PLAKATU",
-      "url": "https://open.spotify.com/track/76oBCUbZ0Pi2Zie2HzJzYM"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
+        "name": "JA SI\u0118 CHYBA ZAKOCHA\u0141AM",
+        "url": "https://open.spotify.com/album/6naYVbFECwe7ayJeUbR9Qp"
+      },
+      "artists": [
+        {
+          "name": "Cyrko",
+          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "JA SI\u0118 CHYBA ZAKOCHA\u0141AM",
+      "url": "https://open.spotify.com/track/33Ui7IlIv8gpmxzbFP5lcl"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
         "name": "epicentrum",
         "url": "https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 160709,
       "name": "kochaj na serio",
       "url": "https://open.spotify.com/track/4BYly5wqMJiOAqcNGTN5EJ"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
-        "name": "JA SI\u0118 CHYBA ZAKOCHA\u0141AM",
-        "url": "https://open.spotify.com/album/6naYVbFECwe7ayJeUbR9Qp"
-      },
-      "artists": [
-        {
-          "name": "Cyrko",
-          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "JA SI\u0118 CHYBA ZAKOCHA\u0141AM",
-      "url": "https://open.spotify.com/track/33Ui7IlIv8gpmxzbFP5lcl"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "MILION",
-        "url": "https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD"
-      },
-      "artists": [
-        {
-          "name": "LIJA",
-          "url": "https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5"
-        }
-      ],
-      "duration_ms": 177196,
-      "name": "MILION",
-      "url": "https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
         "name": "nie wracam",
         "url": "https://open.spotify.com/album/4Zmx2snI7W2imHGADlCup1"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 162608,
       "name": "pami\u0119tasz?",
       "url": "https://open.spotify.com/track/17oBC8vG7zlS0e7V0pBIQP"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "MILION",
+        "url": "https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD"
+      },
+      "artists": [
+        {
+          "name": "LIJA",
+          "url": "https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5"
+        }
+      ],
+      "duration_ms": 177196,
+      "name": "MILION",
+      "url": "https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -827,18 +827,22 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7"
+        "name": "A\u017c tyle",
+        "url": "https://open.spotify.com/album/3Lg2ZQ0qbLM9zr1e85ZabV"
       },
       "artists": [
         {
-          "name": "Agata \u015awiderska",
-          "url": "https://open.spotify.com/artist/414dGfJGuwiD326ebm9dfC"
+          "name": "the small town kids",
+          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
+        },
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
         }
       ],
-      "duration_ms": 126835,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx"
+      "duration_ms": 136500,
+      "name": "A\u017c tyle",
+      "url": "https://open.spotify.com/track/5hp9lT0MmUOB7EwDVhNMQL"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -883,22 +887,18 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "A\u017c tyle",
-        "url": "https://open.spotify.com/album/3Lg2ZQ0qbLM9zr1e85ZabV"
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7"
       },
       "artists": [
         {
-          "name": "the small town kids",
-          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
-        },
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+          "name": "Agata \u015awiderska",
+          "url": "https://open.spotify.com/artist/414dGfJGuwiD326ebm9dfC"
         }
       ],
-      "duration_ms": 136500,
-      "name": "A\u017c tyle",
-      "url": "https://open.spotify.com/track/5hp9lT0MmUOB7EwDVhNMQL"
+      "duration_ms": 126835,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -931,6 +931,26 @@
       "duration_ms": 154405,
       "name": "Kr\u00f3lowa i Kr\u00f3l",
       "url": "https://open.spotify.com/track/3usL9dS4TrO251dfZ5y4vr"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "Kto\u015b",
+        "url": "https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE"
+      },
+      "artists": [
+        {
+          "name": "the small town kids",
+          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
+        },
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Kto\u015b",
+      "url": "https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -971,22 +991,6 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "Skarbie",
-        "url": "https://open.spotify.com/album/2tqSlGb9uKMxcIApvo25j0"
-      },
-      "artists": [
-        {
-          "name": "Gverilla",
-          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
-        }
-      ],
-      "duration_ms": 177235,
-      "name": "Skarbie",
-      "url": "https://open.spotify.com/track/3a6rdrLGpbcQAUVu78hca6"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
         "name": "Instalacja IV",
         "url": "https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN"
       },
@@ -999,6 +1003,22 @@
       "duration_ms": 182142,
       "name": "Dla Ciebie",
       "url": "https://open.spotify.com/track/7lmvm2NvVvYEqBAH6bQPOy"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "Skarbie",
+        "url": "https://open.spotify.com/album/2tqSlGb9uKMxcIApvo25j0"
+      },
+      "artists": [
+        {
+          "name": "Gverilla",
+          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
+        }
+      ],
+      "duration_ms": 177235,
+      "name": "Skarbie",
+      "url": "https://open.spotify.com/track/3a6rdrLGpbcQAUVu78hca6"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -1031,26 +1051,6 @@
       "duration_ms": 128274,
       "name": "Trudne Sprawy",
       "url": "https://open.spotify.com/track/6Q2WAqL4XIOpzGfkfe2Czf"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
-        "name": "Kto\u015b",
-        "url": "https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE"
-      },
-      "artists": [
-        {
-          "name": "the small town kids",
-          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
-        },
-        {
-          "name": "Wiktoria Zwoli\u0144ska",
-          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Kto\u015b",
-      "url": "https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/4IyYlHAeJrECsT7VSXCH6Y"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "duration_ms": 180091,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/1Rc955GBwPGvCoWLNQokoE"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
         "name": "lawenda",
         "url": "https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/4IyYlHAeJrECsT7VSXCH6Y"
-      },
-      "artists": [
-        {
-          "name": "TYNSKY",
-          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
-        }
-      ],
-      "duration_ms": 180091,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/1Rc955GBwPGvCoWLNQokoE"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
         "name": "Ko\u0142o mnie",
         "url": "https://open.spotify.com/album/1iQrmb16dKa2BmbrMfEGz8"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 208000,
       "name": "Ko\u0142o mnie",
       "url": "https://open.spotify.com/track/0ZuHTXFWitlgzoXTXrMcQR"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "Terminal 3",
+        "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
+      },
+      "artists": [
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        }
+      ],
+      "duration_ms": 157384,
+      "name": "Kiss And Fly",
+      "url": "https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "Deja vu",
-        "url": "https://open.spotify.com/album/2lJ2aDr2yOkUHOLBL0uOqG"
-      },
-      "artists": [
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
-        }
-      ],
-      "duration_ms": 168967,
-      "name": "Deja vu",
-      "url": "https://open.spotify.com/track/7EDpeJwPBFxem2fES0gx6c"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
         "name": "P\u00f3\u017ane Lato",
         "url": "https://open.spotify.com/album/21t6UxVWjqYpCmAFBVQecj"
       },
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
+        "name": "Deja vu",
+        "url": "https://open.spotify.com/album/2lJ2aDr2yOkUHOLBL0uOqG"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K"
+        }
+      ],
+      "duration_ms": 168967,
+      "name": "Deja vu",
+      "url": "https://open.spotify.com/track/7EDpeJwPBFxem2fES0gx6c"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
         "name": "jak mam",
         "url": "https://open.spotify.com/album/4inuIu4ArQXEbT0Z6JVSvJ"
       },
@@ -1227,38 +1243,6 @@
       "duration_ms": 134359,
       "name": "jak mam",
       "url": "https://open.spotify.com/track/4xgTQMScb4nqX20eNVmU5K"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
-        "name": "Terminal 3",
-        "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
-      },
-      "artists": [
-        {
-          "name": "Viki Gabor",
-          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
-        }
-      ],
-      "duration_ms": 157384,
-      "name": "Kiss And Fly",
-      "url": "https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
-        "name": "\u017bART!?",
-        "url": "https://open.spotify.com/album/73IFHogZWsogRGF6Q4nzSH"
-      },
-      "artists": [
-        {
-          "name": "ROZIE",
-          "url": "https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo"
-        }
-      ],
-      "duration_ms": 171990,
-      "name": "\u017bART!?",
-      "url": "https://open.spotify.com/track/5dbs7qdEG6oiAmKN4liNSB"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -1291,6 +1275,22 @@
       "duration_ms": 126427,
       "name": "#omg",
       "url": "https://open.spotify.com/track/5FrzxxbFGwvu73Eoll6ZvX"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "\u017bART!?",
+        "url": "https://open.spotify.com/album/73IFHogZWsogRGF6Q4nzSH"
+      },
+      "artists": [
+        {
+          "name": "ROZIE",
+          "url": "https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo"
+        }
+      ],
+      "duration_ms": 171990,
+      "name": "\u017bART!?",
+      "url": "https://open.spotify.com/track/5dbs7qdEG6oiAmKN4liNSB"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
+        "name": "mamy siebie",
+        "url": "https://open.spotify.com/album/2VtVTHgyjHXBnXqkdqmrYU"
+      },
+      "artists": [
+        {
+          "name": "Zuyeh",
+          "url": "https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi"
+        }
+      ],
+      "duration_ms": 156760,
+      "name": "mamy siebie",
+      "url": "https://open.spotify.com/track/05TlRHEcFWIDdDgcweyCvE"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
         "name": "BLUZA",
         "url": "https://open.spotify.com/album/6twuHSDPJW6TOSEJIgvPgc"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 174591,
       "name": "Zostaniesz na zawsze?",
       "url": "https://open.spotify.com/track/5uXyJ2mYb4LHQ0gKEMXtEL"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
-        "name": "mamy siebie",
-        "url": "https://open.spotify.com/album/2VtVTHgyjHXBnXqkdqmrYU"
-      },
-      "artists": [
-        {
-          "name": "Zuyeh",
-          "url": "https://open.spotify.com/artist/74p0HdOXjtYHdi4TkMxYSi"
-        }
-      ],
-      "duration_ms": 156760,
-      "name": "mamy siebie",
-      "url": "https://open.spotify.com/track/05TlRHEcFWIDdDgcweyCvE"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "Ostatni raz",
-        "url": "https://open.spotify.com/album/6df8D3pnrik5kuxfOfLoqF"
-      },
-      "artists": [
-        {
-          "name": "elis",
-          "url": "https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Ostatni raz",
-      "url": "https://open.spotify.com/track/5o4s8SzJxPAXGpuoccNo6z"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
         "name": "burzysz krew",
         "url": "https://open.spotify.com/album/1UVwtL7JInFSGPpIJlfPsh"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 198333,
       "name": "burzysz krew",
       "url": "https://open.spotify.com/track/50DiPplDH3i9KKn8NkfPwa"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "Ostatni raz",
+        "url": "https://open.spotify.com/album/6df8D3pnrik5kuxfOfLoqF"
+      },
+      "artists": [
+        {
+          "name": "elis",
+          "url": "https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Ostatni raz",
+      "url": "https://open.spotify.com/track/5o4s8SzJxPAXGpuoccNo6z"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "P\u0119tle",
-        "url": "https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa"
-      },
-      "artists": [
-        {
-          "name": "Dereal",
-          "url": "https://open.spotify.com/artist/7HRamaztrCxQDrYR0Z1Sx3"
-        }
-      ],
-      "duration_ms": 135366,
-      "name": "P\u0119tle",
-      "url": "https://open.spotify.com/track/2XwIPfgqL1ZcvTdDAwOfkE"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
         "name": "a mo\u017ce nie?",
         "url": "https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 162000,
       "name": "a mo\u017ce nie?",
       "url": "https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "P\u0119tle",
+        "url": "https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa"
+      },
+      "artists": [
+        {
+          "name": "Dereal",
+          "url": "https://open.spotify.com/artist/7HRamaztrCxQDrYR0Z1Sx3"
+        }
+      ],
+      "duration_ms": 135366,
+      "name": "P\u0119tle",
+      "url": "https://open.spotify.com/track/2XwIPfgqL1ZcvTdDAwOfkE"
     },
     {
       "added_at": "2024-10-18 07:08:29",

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "all I know",
+        "url": "https://open.spotify.com/album/0z0mmq1Ryak8KYXBtIjPfa"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194166,
+      "name": "all I know",
+      "url": "https://open.spotify.com/track/4SHxJ7tgkWme2mqOZiuVQP"
+    },
+    {
+      "album": {
         "name": "All I Want (From \"High School Musical: The Musical: The Series\")",
         "url": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2"
       },

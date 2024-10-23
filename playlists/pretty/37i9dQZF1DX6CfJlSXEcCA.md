@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,009 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,765 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 19 | [Theme of Guile](https://open.spotify.com/track/76kjxx3RJj4jXtT1YrXarY) | [Masahiro Aoki](https://open.spotify.com/artist/7jFdaWMEhqH0728GasEiki) | [ストリートファイターV オリジナル・サウンドトラック \(アーケードエディション\)](https://open.spotify.com/album/3sQuNYzXpTcvjsSuVztGf4) | 4:12 |
 | 20 | [Go Tell Aunt Rhody \-Resident Evil\- \- Full Version](https://open.spotify.com/track/1eQnarwSdvJGsOxFuM0FlT) | [Michael A\. Levine](https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND), [Jordan Reyne](https://open.spotify.com/artist/2yafXsdiWqzr4iDmqVZ2le) | [バイオハザード7 レジデント イービル オリジナル・サウンドトラック](https://open.spotify.com/album/3m8wYZlMQFhK0EN83sT31Z) | 2:54 |
 | 21 | [砂塵きらめく、荒漠の地](https://open.spotify.com/track/57VyMwroJMq4lmPlOXp8HA) | [堀諭史](https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg) | [モンスターハンターライズ オリジナルサウンドトラック](https://open.spotify.com/album/5Ktf5vRcVR04E4Ojl5dQmc) | 4:14 |
-| 22 | [解放レゾナンス The Soar](https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d), [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [E.X.TROOPERS \- END OF CONVERSATION](https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F) | 4:58 |
-| 23 | [Saudade](https://open.spotify.com/track/7rJQOQJvlsarP7tkPlr8fp) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shim](https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp) | [バイオハザード RE:2 オリジナル・サウンドトラック](https://open.spotify.com/album/3K4zBWjL4AZxErGjulwr7I) | 4:18 |
-| 24 | [Bury the Light](https://open.spotify.com/track/0AnThwGdCVKyRT5sNRClgw) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ) | [Devil May Cry 5 \(Special Edition Vergil's Rebirth Sound Selection\)](https://open.spotify.com/album/3Kfd2xPzl0IMidlxLbR2vk) | 9:40 |
+| 22 | [Bury the Light](https://open.spotify.com/track/0AnThwGdCVKyRT5sNRClgw) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ) | [Devil May Cry 5 \(Special Edition Vergil's Rebirth Sound Selection\)](https://open.spotify.com/album/3Kfd2xPzl0IMidlxLbR2vk) | 9:40 |
+| 23 | [解放レゾナンス The Soar](https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa) | [Yasumasa Kitagawa](https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d), [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [E.X.TROOPERS \- END OF CONVERSATION](https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F) | 4:58 |
+| 24 | [Saudade](https://open.spotify.com/track/7rJQOQJvlsarP7tkPlr8fp) | [Cody Matthew Johnson](https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41), [Shim](https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp) | [バイオハザード RE:2 オリジナル・サウンドトラック](https://open.spotify.com/album/3K4zBWjL4AZxErGjulwr7I) | 4:18 |
 | 25 | [ULTRA VIOLET\(ネロ アンジェロ戦\)](https://open.spotify.com/track/5MgmtxsgI28xyRedapKYBI) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [デビル メイ クライ オリジナル・サウンドトラック](https://open.spotify.com/album/6viXrqcpzXyrrRx3LjZpIf) | 3:21 |
 | 26 | [Ryu's Theme \-The Fist That Knows No End\-](https://open.spotify.com/track/4vEztJsa9I5aTb9dPh2onZ) | [Hideyuki Fukasawa](https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu) | [ストリートファイターV エクスパンション トラックス 2](https://open.spotify.com/album/5d7L0BCzlNQhXPhn6XW7YZ) | 1:48 |
 | 27 | [X vs ZERO](https://open.spotify.com/track/3teAU91RucnMgiFsh0JkhE) | [Naoto Tanaka](https://open.spotify.com/artist/2Ic1wo0pEnrHBTDxkHHiXN) | [ロックマンX5 サウンド コレクション](https://open.spotify.com/album/3fnL9dQdMOhxLfpMQq3jBp) | 2:43 |

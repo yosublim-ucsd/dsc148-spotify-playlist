@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=\-lolQYq2SCWKitn0rvoHCA>EJ Newton</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,503 likes - 90 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,520 likes - 90 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

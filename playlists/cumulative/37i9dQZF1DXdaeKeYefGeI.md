@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Ernst Jansz
 
-182 songs - 11 hr 12 min
+183 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,12 +163,13 @@
 | [Vanmorgen Vloog Ze Nog](https://open.spotify.com/track/2WZBD5MI3pVaKIweuZj5pc) | [Robert Long](https://open.spotify.com/artist/4e345XgeCOfD96TnOVhH7f), [Martine Bijl](https://open.spotify.com/artist/5ayboLANPe5lXssiZopVb8), [Simone Kleinsma](https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0), [Robert Paul](https://open.spotify.com/artist/0esNt1hWsO271oogWw8c2o) | [Tsjechov \- De Musical Van Dimitri Frenkel Frank En Robert Lo](https://open.spotify.com/album/5bsv5G1wExKRiRGcu2emUl) | 5:06 | 2023-02-10 |  |
 | [Verbinding Verbroken](https://open.spotify.com/track/62DcDrTg5pddwjRQq3vEUZ) | [Engel](https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | [Veertig](https://open.spotify.com/album/6B911gvHF7vDnwS0a8RQCD) | 1:58 | 2023-05-11 | 2023-09-15 |
 | [Verder Zonder Jou](https://open.spotify.com/track/2Qq0UJWcKa90A4Hq112htV) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Verder Zonder Jou](https://open.spotify.com/album/5XguRj0UnO5UfoXNssNxHY) | 3:26 | 2023-09-07 |  |
-| [Verdwijnen](https://open.spotify.com/track/5zLzSpToBAVDR6a8u4ambI) | [Rosann](https://open.spotify.com/artist/3dE7on3BB65SgLwpiloMsT) | [Verdwijnen](https://open.spotify.com/album/5ZP298nZZ4vNkoXDErzjmd) | 3:51 | 2023-11-09 |  |
+| [Verdwijnen](https://open.spotify.com/track/5zLzSpToBAVDR6a8u4ambI) | [Rosann](https://open.spotify.com/artist/3dE7on3BB65SgLwpiloMsT) | [Verdwijnen](https://open.spotify.com/album/5ZP298nZZ4vNkoXDErzjmd) | 3:51 | 2023-11-09 | 2024-10-23 |
 | [Vlinder](https://open.spotify.com/track/362Fn7IfHPGrP1H1tY5AtS) | [Rowwen Hèze](https://open.spotify.com/artist/5icZHFQjI6SRsvXNOKUXZ1) | [Dageraad](https://open.spotify.com/album/0YdZyGjxsgcdIJZtha5dq6) | 3:50 | 2023-02-10 | 2023-03-09 |
 | [Volle Maan](https://open.spotify.com/track/1OTxZKTXca1A0zSegz5Yns) | [Juliet](https://open.spotify.com/artist/3Mkbqj2WtM4AmVP2unrm55) | [Naakt Door De Stad](https://open.spotify.com/album/6MajXKEXTDRkFCaU1stRN5) | 2:52 | 2023-02-10 | 2023-03-18 |
 | [Voor Altijd](https://open.spotify.com/track/5dDnmGYIcTqvxtG35mnxAS) | [André van Duin](https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF) | [Voor Altijd](https://open.spotify.com/album/6AuFFENZVU0n13Y21WyFZP) | 2:32 | 2023-02-10 | 2023-04-07 |
 | [Voor Haar](https://open.spotify.com/track/5oSNx87hsjk0Nz0pdQcdct) | [Frans Halsema](https://open.spotify.com/artist/6AppB7gke4WXNRhtlTdSJy) | [Favorieten Expres](https://open.spotify.com/album/4wtJJageS0xLtoxiqvgQZf) | 2:51 | 2023-02-10 | 2024-04-19 |
 | [Voor Haar](https://open.spotify.com/track/5qKdMteVok1Rog4vIKz75q) | [Frans Halsema](https://open.spotify.com/artist/6AppB7gke4WXNRhtlTdSJy) | [Frans Halsema 1939\-1984](https://open.spotify.com/album/0440RuDjeEIRAo5bwADBav) | 2:52 | 2024-04-18 |  |
+| [Vraag](https://open.spotify.com/track/2sE1jPiettUbErPUZZCLgI) | [Geejee](https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH) | [Eigenlijk](https://open.spotify.com/album/5NFhfDJdvvY2F1OyF6HYNl) | 3:03 | 2024-10-22 |  |
 | [Vreemde Leegte](https://open.spotify.com/track/6lk0guHFQTBYnvWYDstwrU) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Vreemde Leegte](https://open.spotify.com/album/4SRzMDY6F82IOndVDUAwEN) | 4:28 | 2023-02-10 | 2023-04-07 |
 | [Vrouw Van De Dominee \- Live @ Radio Veronica](https://open.spotify.com/track/5Lotjy3vbmJtH0DCIRxSDo) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Vrouw van de Dominee \(Live @ Radio Veronica\)](https://open.spotify.com/album/5AC8CHQPpGp4lNjq6NoWZT) | 2:56 | 2023-06-30 | 2023-12-14 |
 | [Wandel Naar Mezelf](https://open.spotify.com/track/2Sy2rs0LePigyLngKdYugM) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Wandel Naar Mezelf](https://open.spotify.com/album/63Z0OfQDfPLmBlqSHLvqp5) | 3:48 | 2023-12-05 | 2024-05-10 |

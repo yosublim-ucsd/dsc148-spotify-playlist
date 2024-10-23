@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 140000,
       "name": "Glowing Tears",
       "url": "https://open.spotify.com/track/32m44mzFzkX6id2ERis5qj"
@@ -1360,6 +1360,24 @@
       "duration_ms": 120604,
       "name": "temporary approved",
       "url": "https://open.spotify.com/track/2kt3LN3iDaQMRINPRsGaJJ"
+    },
+    {
+      "album": {
+        "name": "thyme moves slow",
+        "url": "https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5"
+      },
+      "artists": [
+        {
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147107,
+      "name": "thyme moves slow",
+      "url": "https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X"
     },
     {
       "album": {

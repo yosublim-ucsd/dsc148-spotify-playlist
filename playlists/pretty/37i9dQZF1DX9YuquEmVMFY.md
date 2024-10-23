@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > <JORJA SMITH LIVE IN SEOUL \- FALLING OR FLYING TOUR> 2024년 10월 25일\(금\) 오후 8시 @YES 24 라이브 홀\(서울\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,644 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,670 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-359 songs - 16 hr 13 min
+360 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [BALLOUT](https://open.spotify.com/track/20Sfazrl2ErzEguVPa2ByX) | [unki](https://open.spotify.com/artist/157DpdCWsAG42qhS6BCsjT) | [BALLOUT](https://open.spotify.com/album/2KOuGPFQLMMI3UXZc7jMWB) | 1:41 | 2024-02-10 | 2024-03-19 |
 | [BBTEAM FREESTYLE](https://open.spotify.com/track/6e7hcO8NGEmL1Gd0PH1LVz) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [BBTEAM FREESTYLE](https://open.spotify.com/album/6OJUjEBjQD84QWU5jKhAu6) | 2:55 | 2024-02-17 | 2024-02-24 |
 | [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-07-20 |  |
+| [Belt Double G](https://open.spotify.com/track/1FgvQSfXdzqlY3S24fNVX5) | [YungMeechy](https://open.spotify.com/artist/0oSMgGNMeXe3HJAXEJrqL8) | [Belt Double G](https://open.spotify.com/album/4O9hQ56U0twwZUlkyx0LW2) | 1:38 | 2024-10-22 |  |
 | [Black Siemens](https://open.spotify.com/track/3mhA3HuRldiEtTvCpJ2Act) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Black Siemens](https://open.spotify.com/album/1TOJ9ovpiEAt7RAAykYVRy) | 3:10 | 2024-02-08 | 2024-03-30 |
 | [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 | 2024-09-09 | 2024-09-11 |
 | [Blum \- Big City Life](https://open.spotify.com/track/47Mdp52cM7pGwm5FmQcMPD) | [9mice](https://open.spotify.com/artist/3v0qTkZvuro4johOZyIhOm), [Kai Angel](https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0) | [Heavy Metal 2](https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2) | 2:38 | 2024-09-14 | 2024-09-17 |
@@ -130,7 +131,7 @@
 | [Runners](https://open.spotify.com/track/4tIAHpF340zdoCCIBFcyit) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 3:16 | 2024-07-20 | 2024-07-22 |
 | [SAMAYA PERVAYA](https://open.spotify.com/track/0avFSJ9URBdqNM2M2ekzFa) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [SAMAYA PERVAYA](https://open.spotify.com/album/32b2Lta0ZHNuQCNb7DGj7O) | 3:48 | 2024-05-19 | 2024-05-28 |
 | [SAVE DAT](https://open.spotify.com/track/7l8Q5hVtKz2Ztold6N2gLh) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [SAVE DAT](https://open.spotify.com/album/5CrotczMtH0A2uHaCOPYb7) | 2:29 | 2024-03-23 | 2024-04-21 |
-| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2024-08-24 |  |
+| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2024-08-24 | 2024-10-23 |
 | [Sladki Snov Rapper 2](https://open.spotify.com/track/1lx65Q3Vfy8NsfaA5DXUcJ) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 2:14 | 2024-07-29 | 2024-10-20 |
 | [Slappy Tap](https://open.spotify.com/track/5q0lNR2QzHVatYdjXc9Ty9) | [Baby Melo](https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs) | [Slappy Tap](https://open.spotify.com/album/2AlsoF1eExPmQhY5mic5n6) | 1:02 | 2024-08-01 | 2024-08-24 |
 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-04-16 | 2024-05-28 |
@@ -145,7 +146,7 @@
 | [SOS](https://open.spotify.com/track/1Auh2hQsCRNR3hO0wYMOEv) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [WE LIVE ONLY ONCE](https://open.spotify.com/album/6y2Z6pHf9hooEHWcSZzEqk) | 2:02 | 2024-09-14 |  |
 | [SOS](https://open.spotify.com/track/1xLzlr72jRS1ZJO0JZrbeb) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [SOS](https://open.spotify.com/album/0BN0TP6joQ4n47Vx8u4gyU) | 2:02 | 2024-08-03 | 2024-08-11 |
 | [SOS](https://open.spotify.com/track/5te7CQBdUAT6fUUwAGLc86) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [WE LIVE ONLY ONCE](https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d) | 2:02 | 2024-08-10 | 2024-09-15 |
-| [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2024-08-23 |  |
+| [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2024-08-23 | 2024-10-23 |
 | [Stray Kids](https://open.spotify.com/track/08H8CT32rALUZvL8TE4ruD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 3:09 | 2024-07-20 | 2024-07-22 |
 | [Stress](https://open.spotify.com/track/3Dt7z7R0wCfSYqU5oqSpN2) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Stress](https://open.spotify.com/album/1FPkfqQDmrt2zpL87AIfcJ) | 2:51 | 2024-02-17 | 2024-03-03 |
 | [Suka](https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M) | [KRISTIEE](https://open.spotify.com/artist/0qyv7OappGDi0OyJxcqpVt), [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [Suka from Arizona](https://open.spotify.com/album/5WAnfvzPNerWLrWtO8f1J8) | 1:24 | 2024-07-07 |  |
@@ -277,7 +278,7 @@
 | [ПОДАРОК](https://open.spotify.com/track/1Mm9DXmUXT2xiCQAZPEEaK) | [АКУЛИЧ](https://open.spotify.com/artist/5DUv28BBZb6uQ0VLaZ36XZ), [Молодой Платон](https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi) | [ПОДАРОК](https://open.spotify.com/album/6CgHw7fVn7IGRn6UxLbIf3) | 2:39 | 2024-02-17 | 2024-07-21 |
 | [Поезда](https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS) | [Женя Трофимов](https://open.spotify.com/artist/3JYowG5k65ROJjN5PXx9Ce), [Комната культуры](https://open.spotify.com/artist/0dTuwuNVB1hXbxaDM42ncA) | [Поезда](https://open.spotify.com/album/5RjCEj6KIpdgEAdGokQuLU) | 2:59 | 2024-01-29 |  |
 | [Пожары](https://open.spotify.com/track/1zXv6MYOAyjgMA0iPypPkO) | [Xolidayboy](https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb) | [Пожары](https://open.spotify.com/album/68sNUJIxWC1On3J9PQmEEs) | 3:17 | 2024-06-11 | 2024-09-11 |
-| [Пожары](https://open.spotify.com/track/5pZaiIokYGUANMAJiZg8tt) | [Xolidayboy](https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb) | [Пожары](https://open.spotify.com/album/3r0AdIFYLk4W3Q2XtSqPer) | 3:17 | 2024-09-10 | 2024-10-20 |
+| [Пожары](https://open.spotify.com/track/5pZaiIokYGUANMAJiZg8tt) | [Xolidayboy](https://open.spotify.com/artist/6oTirjGdJPFt3hycC1Rfxb) | [Пожары](https://open.spotify.com/album/3r0AdIFYLk4W3Q2XtSqPer) | 3:17 | 2024-09-10 |  |
 | [ПОРНХАБ КРИСМАС КЛАБ](https://open.spotify.com/track/5jgFvROeP9DlLl9dMHQEtw) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [ОЧЕНЬ СТРАШНАЯ МОЛЛИ 3, Ч\. 1](https://open.spotify.com/album/7tc5dEyjZdaKhq1DNo5dPO) | 4:06 | 2024-09-12 | 2024-10-18 |
 | [портреты \- Acoustic](https://open.spotify.com/track/7ojBwkKhmZzXDjrqwfLH26) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [портреты \(Acoustic\)](https://open.spotify.com/album/0LNml41jJnwou22TkqmBck) | 2:52 | 2024-01-29 |  |
 | [последнее лето](https://open.spotify.com/track/0M6DVxO3zzYsAx1PJoG7jO) | [kin](https://open.spotify.com/artist/3gWzZ1G1YylaEyFIwbQMtw) | [мои \(твои\) тёмные желания](https://open.spotify.com/album/1LKztSqCqjJeO7aDFIkhPJ) | 2:17 | 2024-05-10 | 2024-05-13 |

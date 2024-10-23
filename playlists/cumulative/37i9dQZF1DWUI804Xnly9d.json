@@ -4335,6 +4335,24 @@
     },
     {
       "album": {
+        "name": "Khwaishein hai meri",
+        "url": "https://open.spotify.com/album/0uy1XpfCT3lgD7pfp6LTA8"
+      },
+      "artists": [
+        {
+          "name": "Prasad Aalim",
+          "url": "https://open.spotify.com/artist/472d15meTJCz0GzJel8SF6"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171126,
+      "name": "Khwaishein hai meri",
+      "url": "https://open.spotify.com/track/1pSZRr3h12xzKZUUasmbCL"
+    },
+    {
+      "album": {
         "name": "Khwaishein Meri",
         "url": "https://open.spotify.com/album/0EBeK2UVykZGTGmnMBFEci"
       },
@@ -8426,7 +8444,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 244880,
       "name": "Woh Baarishein",
       "url": "https://open.spotify.com/track/3YtAM6r7eWfgWSGhnBJRts"

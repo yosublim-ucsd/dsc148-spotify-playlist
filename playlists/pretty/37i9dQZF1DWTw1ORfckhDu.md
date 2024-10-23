@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Turisti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,559 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,576 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 |
-| 2 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 |
-| 3 | [BOSSMAN](https://open.spotify.com/track/5ZdTneUDYgjrg4ZoYb3loz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [BOSSMAN](https://open.spotify.com/album/32ogCbvq2ZnLv3FPBEbF8T) | 2:35 |
+| 2 | [BOSSMAN](https://open.spotify.com/track/5ZdTneUDYgjrg4ZoYb3loz) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [BOSSMAN](https://open.spotify.com/album/32ogCbvq2ZnLv3FPBEbF8T) | 2:35 |
+| 3 | [Emojisydän](https://open.spotify.com/track/7rf5PlPnAowf0ZEIBbtP5Z) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Pieni Prinssi](https://open.spotify.com/album/2xKngIuCsxZOr8TpIE2Pz5) | 3:02 |
 | 4 | [Ei tänää](https://open.spotify.com/track/2HoMv4IByvh1vpWzlWgm16) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [NEVERSELLOUT](https://open.spotify.com/album/0bMpFBfJWWVb3t8vIw2h44) | 2:03 |
 | 5 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 |
 | 6 | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/track/3OdKGNIndt3A6pfaF7BLAi) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Kojo](https://open.spotify.com/artist/6nUCZ9ZvQHA7Fhw0kweIG0), [Shabu](https://open.spotify.com/artist/3fL5w79svx1GI19mElGLns) | [Myötävirta \(feat\. Kojo & Shabu\)](https://open.spotify.com/album/1KpsLP9rTo2iXkJF10kjb3) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/track/44eTdna1amOqea7SQm2HoJ) | [OFF THE BOOTH](https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g), [Mensa](https://open.spotify.com/artist/65OgVQYELTQ8RwaqBKPCJQ) | [Mensa x OFF THE BOOTH \(S2\)](https://open.spotify.com/album/6wg0amkHdWPQ4utpiUyAD6) | 1:34 |
 | 50 | [Viikatemies](https://open.spotify.com/track/1Q8gl1pAKc5OuIysCqFick) | [James\-J](https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1), [Joa](https://open.spotify.com/artist/18dUO93In2TxH227yE4D8I) | [Viikatemies](https://open.spotify.com/album/0mFRPbN0x8rhTALoifI4MJ) | 2:27 |
 
-Snapshot ID: `ZxXvxwAAAADIH5i071zDRrpFmvCQIcqD`
+Snapshot ID: `Zxe0swAAAADJ+lRXBNHHQBnNNoCAR8lv`

@@ -2,7 +2,7 @@
 
 ### [Broadway Hits](https://open.spotify.com/playlist/37i9dQZF1DWX82ahbDuQIz)
 
-> Musical songs from Broadway, the West End and beyond\. Cover: Merrily We Roll Along
+> Musical songs from Broadway, the West End and beyond\. Cover: Wicked
 
 173 songs - 11 hr 26 min
 

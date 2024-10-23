@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-58 songs - 2 hr 28 min
+59 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [For The Beauty of the Earth \- Piano](https://open.spotify.com/track/4WMETuvkdHcHhE8w3nS7Cf) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Jesus Paid It All \(Piano\)](https://open.spotify.com/album/0B6AxwBwpZUm7Bo3KlYCl8) | 2:33 | 2024-03-20 |  |
 | [Grace](https://open.spotify.com/track/50w8pfoszKBDcYYEOmgTEI) | [Jngeis](https://open.spotify.com/artist/1X5nuNY0Ht6Yt2xaya4ZQE) | [Grace](https://open.spotify.com/album/2E5IEkEnaAH1oqCl4S0I5U) | 2:18 | 2024-07-29 |  |
 | [Great Is Thy Faithfulness \- Piano](https://open.spotify.com/track/3hEKZyuIDnGt7ms7o7jjp9) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [How Great Is He \(Piano\)](https://open.spotify.com/album/03MTLAQqwFFdfj0LeTRUkT) | 2:03 | 2024-03-20 |  |
+| [He Shall Feed His Flock](https://open.spotify.com/track/2jZ8tqe6R2EmZZei0f2UPa) | [Gabriel Hart](https://open.spotify.com/artist/1PF8nm4oU1vVqzWLehmjrr) | [He Shall Feed His Flock](https://open.spotify.com/album/6omqeIVajSFPf0o4TWA5WQ) | 2:38 | 2024-10-22 |  |
 | [Holy Holy Holy](https://open.spotify.com/track/1IO1YHZ8ZqlkX3HOCcduyH) | [Everlasting Harmony](https://open.spotify.com/artist/1cImd7ASALUaW3myp7bcAx) | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/album/2q0nCyvwCrqlKhj5PK2JG4) | 2:08 | 2024-03-20 |  |
 | [Holy One Where Art Though](https://open.spotify.com/track/37GBu2M1RWkoO0Y4LTOo5Q) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Holy One Where Art Though](https://open.spotify.com/album/1PkymTV6ZLDaGIAyJExwht) | 2:03 | 2024-09-24 |  |
 | [I Need Thee Every Hour \- Piano](https://open.spotify.com/track/5bN7njfcG2B2WvtcD27Qqh) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Hymns of the Lord](https://open.spotify.com/album/1ku5bURxOqNFicICMmdN74) | 2:32 | 2024-03-20 |  |
@@ -61,7 +62,7 @@
 | [To God Be the Glory \- Piano](https://open.spotify.com/track/4JTguoVmnJnvYU7Tr3UXcZ) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Glorious Peaceful Hymns \(Piano\)](https://open.spotify.com/album/6zG36CBTmA4hX6Gmqoglb7) | 2:29 | 2024-03-20 |  |
 | [Upon arising](https://open.spotify.com/track/0mjJd9JwaIF6MPaqm04PDT) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Upon arising](https://open.spotify.com/album/1vaVict2D2c1gGhRnJxamu) | 2:07 | 2024-05-03 |  |
 | [Upright](https://open.spotify.com/track/6YCdFKgr4EKMpOoanmmXLB) | [Piano Logos](https://open.spotify.com/artist/71Y0cryV3GqHeCgRbduLJC) | [Blameless](https://open.spotify.com/album/5YqPtFU9BvjlCyJ9RUAouH) | 1:40 | 2024-03-20 |  |
-| [What A Friend We Have In Jesus](https://open.spotify.com/track/4TTgSYLyZPzlwmjU4w37Il) | [Chapman Asbury](https://open.spotify.com/artist/3JmHUA1Ro9pT1JJEhluIBJ) | [What A Friend We Have In Jesus](https://open.spotify.com/album/4Pb3IkcjHTvvAMUqoZsn7p) | 3:46 | 2024-03-20 |  |
+| [What A Friend We Have In Jesus](https://open.spotify.com/track/4TTgSYLyZPzlwmjU4w37Il) | [Chapman Asbury](https://open.spotify.com/artist/3JmHUA1Ro9pT1JJEhluIBJ) | [What A Friend We Have In Jesus](https://open.spotify.com/album/4Pb3IkcjHTvvAMUqoZsn7p) | 3:46 | 2024-03-20 | 2024-10-23 |
 | [When I Get There](https://open.spotify.com/track/31Wfh7ary1K8g4i1KGYgla) | [Harry Cross](https://open.spotify.com/artist/3SUUNx6JXgmJPojGiLO8bo) | [When I Get There](https://open.spotify.com/album/2wdHaVPXKt2iDsriz9ai3k) | 2:46 | 2024-03-20 |  |
 | [Where the Roses Never Fade](https://open.spotify.com/track/7sQ9OH1DrisPzjoTOoxIZQ) | [Billie Chandler](https://open.spotify.com/artist/2j8sEmdITbTiI0ZABw6FR1) | [Where the Roses Never Fade](https://open.spotify.com/album/1gdqSzsLn5ExDEzaophMDr) | 3:51 | 2024-03-20 |  |
 | [Wheresoe'er I Roam](https://open.spotify.com/track/0AVCoUfsQKXDVA7z3FyuRY) | [Billie Chandler](https://open.spotify.com/artist/2j8sEmdITbTiI0ZABw6FR1) | [To God Be The Glory](https://open.spotify.com/album/5AzYM0u08waXbSiPSb1Zlr) | 2:51 | 2024-03-20 |  |

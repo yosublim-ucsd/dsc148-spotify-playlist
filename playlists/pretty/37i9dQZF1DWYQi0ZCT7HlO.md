@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 
 > Chestnuts roasting on the open fire..\. Christmas ambience and cozy piano by the fireside.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,119 likes - 58 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,150 likes - 58 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 | 2 | [White Christmas](https://open.spotify.com/track/3pgyIgscqoLhhv2jCZQqUE) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [A Cozy Christmas Evening](https://open.spotify.com/album/38mNvJT8lj4ay5g7moUgHW) | 2:20 |
 | 3 | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/track/6mYetg3csOzQRS63MmXdjo) | [Lara Molineux](https://open.spotify.com/artist/3bCcInCYqwOR3YGEbLO72X) | [It's Beggining to Look a Lot like Christmas](https://open.spotify.com/album/7GrAhfKqoxCZvFroYouKH5) | 3:13 |
 | 4 | [Once In Royal Davids City \- Fireplace](https://open.spotify.com/track/2g4m5doLtTAKa8GdU8VdKi) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas By The Fireplace](https://open.spotify.com/album/71akQmAvBNjQWRO6S4cLo1) | 2:51 |
-| 5 | [Angels we've heard on High](https://open.spotify.com/track/2H6zH5TD53UAcKCNGpJuso) | [Lara Molineux](https://open.spotify.com/artist/3bCcInCYqwOR3YGEbLO72X) | [Angels we've heard on High](https://open.spotify.com/album/3Zsl6aorjh4VxHFeH6yQ6M) | 1:53 |
+| 5 | [Silver Bells](https://open.spotify.com/track/2XjOPkWK5RX9Bofs2bWiE9) | [Teddie Moss](https://open.spotify.com/artist/3w5hJR27vEyuK8ixEu4ODy) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/0wwNY3P1nqr7yEf1Qc0g7Y) | 2:53 |
 | 6 | [Walking in a Winter Wonderland](https://open.spotify.com/track/3n3or2ujocN20GzYqgcHLM) | [Karla Debeljak](https://open.spotify.com/artist/5WDw9Se5TtNtU0i2ltnSkN) | [Walking in a Winter Wonderland](https://open.spotify.com/album/0p8oVtr8UkvfR1kXVGIcCw) | 2:42 |
-| 7 | [Silver Bells](https://open.spotify.com/track/2XjOPkWK5RX9Bofs2bWiE9) | [Teddie Moss](https://open.spotify.com/artist/3w5hJR27vEyuK8ixEu4ODy) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/0wwNY3P1nqr7yEf1Qc0g7Y) | 2:53 |
+| 7 | [Angels we've heard on High](https://open.spotify.com/track/2H6zH5TD53UAcKCNGpJuso) | [Lara Molineux](https://open.spotify.com/artist/3bCcInCYqwOR3YGEbLO72X) | [Angels we've heard on High](https://open.spotify.com/album/3Zsl6aorjh4VxHFeH6yQ6M) | 1:53 |
 | 8 | [Silent Night](https://open.spotify.com/track/4M1g8KcYe0PabAVrDLfkJB) | [Sarah Danielsson](https://open.spotify.com/artist/3hapMtWQiO3mf7w0zUEOyS) | [Silent Night](https://open.spotify.com/album/0TQf90RfwTwkVSLqJSCq6c) | 1:58 |
 | 9 | [The Holly and the Ivy](https://open.spotify.com/track/4ZZ6DHVvkm5BV6fFG1106x) | [Impi Pasanen](https://open.spotify.com/artist/6aWTceMkjIYTXKrtEPNkIz) | [The Holly and the Ivy](https://open.spotify.com/album/5oYr5TiYW2g8VDUyVrcTqK) | 1:48 |
 | 10 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/23IyjxZ8e9nRxHeeC2qnbg) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3Eu9NyeDamhd8m0EDnKOpD) | 3:09 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQi0ZCT7HlO.md) - [plain]
 | 57 | [Good King Wenceslas \- Fireside Christmas](https://open.spotify.com/track/5csN7WSalVyJjXgrGcZzQ5) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [Carols By The Fire](https://open.spotify.com/album/4RqB8ciH61URyJ3vjAD1bN) | 2:01 |
 | 58 | [Where are you Christmas](https://open.spotify.com/track/57MY9r6qFLirorQLs7T0ks) | [Stacy Gaffer](https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt) | [Home by Christmas](https://open.spotify.com/album/7yqj1JebK54UjJ6SC5d2Bx) | 3:09 |
 
-Snapshot ID: `ZYF9VQAAAAAZZLejFOtjB/pYXgB2tpCZ`
+Snapshot ID: `ZxfRLgAAAABcD0dnk5WhRBmvAxpxxLO5`

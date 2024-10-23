@@ -4236,7 +4236,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 209800,
       "name": "DON'T KILL ME",
       "url": "https://open.spotify.com/track/6JDsYqbQFdHb7xK0L5kvLG"
@@ -17148,6 +17148,28 @@
       "duration_ms": 207853,
       "name": "UNBOUND",
       "url": "https://open.spotify.com/track/3LMY1W14udlJRI5cRHH1B9"
+    },
+    {
+      "album": {
+        "name": "Unbreakable (Reloaded)",
+        "url": "https://open.spotify.com/album/6rjegIztRZ8BHP7uf52UFD"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Collapse",
+          "url": "https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4"
+        },
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159220,
+      "name": "Unbreakable - Reloaded",
+      "url": "https://open.spotify.com/track/4LaCJo6KQzOkWHY3XxDk8Q"
     },
     {
       "album": {

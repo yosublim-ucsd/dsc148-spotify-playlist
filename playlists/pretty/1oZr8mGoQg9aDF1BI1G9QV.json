@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAFThRjAayWMV4QaF32Kd9NLqaTABM",
+  "snapshot_id": "AAAAFhT6giUqPh3FeAhluOzuynCn0pgC",
   "tracks": [
     {
       "added_at": "2024-01-02 09:29:56",
@@ -299,6 +299,22 @@
       "duration_ms": 246760,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/2dykKyHS9DKf4bJzkI6J5y"
+    },
+    {
+      "added_at": "2024-10-22 06:30:15",
+      "album": {
+        "name": "Yearbook",
+        "url": "https://open.spotify.com/album/6jQWK1EdlgEbFWFxz6etwH"
+      },
+      "artists": [
+        {
+          "name": "Alden Derck",
+          "url": "https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/7FtfsZcJjfBNdhD75bXqVL"
     }
   ],
   "unique_name": "Queerly Beloved",

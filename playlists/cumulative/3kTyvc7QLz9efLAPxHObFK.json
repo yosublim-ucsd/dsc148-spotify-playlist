@@ -27863,6 +27863,24 @@
     },
     {
       "album": {
+        "name": "S3XY BEAT",
+        "url": "https://open.spotify.com/album/6EpChXAAqnF6kLQrZYjKKN"
+      },
+      "artists": [
+        {
+          "name": "R3T3P",
+          "url": "https://open.spotify.com/artist/6SE1rirTZFq7eZa4VRoDJN"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "S3XY BEAT",
+      "url": "https://open.spotify.com/track/5uy2chCb2NFkUbJ3cZJIZb"
+    },
+    {
+      "album": {
         "name": "ZODIAX 3+",
         "url": "https://open.spotify.com/album/17nmOpiUO6CTJxiFUUzGO7"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,472 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,484 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 5 | [Lipstick Bindiyan \(From "Mittran Da Challeya Truck Ni"\)](https://open.spotify.com/track/3I5z8o2jNl8uJ07SvZfNhG) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Lipstick Bindiyan \(From "Mittran Da Challeya Truck Ni"\)](https://open.spotify.com/album/3qaXfRuIvyXeAvSZOHICKc) | 3:39 |
 | 6 | [Pagg \(From "Apne Ghar Begane"\)](https://open.spotify.com/track/7h8Ml9o4YKVYCEktTh74Pi) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Gurjeet Khosa](https://open.spotify.com/artist/1XcpWM2VMeXK8PqsUBkhCp) | [Pagg \(From The Movie "Apne Ghar Begane"\)](https://open.spotify.com/album/5ZeOet9rqkSwMaHOKm11Bn) | 2:41 |
 | 7 | [Hulara](https://open.spotify.com/track/6VtJ4xWHFOD5dih0FmtPqH) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [The Boss](https://open.spotify.com/artist/4BscBE6XCuJCR1ceYuqELH), [Mahi Sharma](https://open.spotify.com/artist/27Lb22VTgDXhcTAH30SsIJ) | [Hulara](https://open.spotify.com/album/2vjUGTOyEYJoZ1EK0AR6HJ) | 2:50 |
-| 8 | [Jazbaat](https://open.spotify.com/track/1U0u9WZIshSJoUxxtBfdat) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Jazbaat](https://open.spotify.com/album/64qpkJf1ndfxiSDXpykzxi) | 3:37 |
-| 9 | [Kangni](https://open.spotify.com/track/1dcKwzZXeFL9PdUmKR2uwH) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Kangni](https://open.spotify.com/album/6feI1lwq7mGsllRhmkJqWT) | 2:58 |
+| 8 | [Kangni](https://open.spotify.com/track/1dcKwzZXeFL9PdUmKR2uwH) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Kangni](https://open.spotify.com/album/6feI1lwq7mGsllRhmkJqWT) | 2:58 |
+| 9 | [Sanjay Dutt](https://open.spotify.com/track/6IN08l8EkriTzXQ1KFCb9Y) | [Vadda Grewal](https://open.spotify.com/artist/0l25Af4xjrqTYCHUxkrs0c), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Sanjay Dutt](https://open.spotify.com/album/6UHTNreKfTn9Mr7Wyh3Ptv) | 2:37 |
 | 10 | [Love Hurts](https://open.spotify.com/track/3iyxOE7ZrxMCVMNzFkWtZY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Love Hurts](https://open.spotify.com/album/5Tmdgf9queNWN4lqQnvqr7) | 3:24 |
 | 11 | [Cat Walk](https://open.spotify.com/track/50OhDMBICJCPOkzPHqwIzI) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 2:51 |
 | 12 | [Don't Look 2](https://open.spotify.com/track/4ZQAFya68eENRy7VGVXSUe) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [G\-Funk](https://open.spotify.com/artist/5fYzmklFOBvIXZef0iVmEH) | [Don't Look 2](https://open.spotify.com/album/5RCnxjGciArcGJScujPXyU) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Naam Sunuga](https://open.spotify.com/track/2DnRbGR0JIKLERKI8IGcoL) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Naam Sunuga](https://open.spotify.com/album/290dKL08Ilt2QtRIeb4q6e) | 3:27 |
 | 100 | [Stick Talk](https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Stick Talk](https://open.spotify.com/album/776yBgdEdhEUPmyErZuIu0) | 2:39 |
 
-Snapshot ID: `ZxJFpgAAAABVgeNOsLyq5F05EZMASLz9`
+Snapshot ID: `Zxc1wgAAAABMNq/wCjg3KBYXm1VJC/91`

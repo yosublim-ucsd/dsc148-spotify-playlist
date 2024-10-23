@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14405,
+  "num_followers": 14401,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-08-10 15:58:49",
       "album": {
-        "name": "WE:TH",
-        "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/2dfk8VM64Xe22itp2bn4rX"
-    },
-    {
-      "added_at": "2024-08-10 15:58:49",
-      "album": {
         "name": "Sweeet",
         "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2024-08-10 15:58:49",
       "album": {
-        "name": "Listen to this song",
-        "url": "https://open.spotify.com/album/6Jq8RAeVPIY6mlr6uj1yir"
+        "name": "WE:TH",
+        "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
         }
       ],
-      "duration_ms": 223644,
-      "name": "Listen to this song",
-      "url": "https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG"
+      "duration_ms": 183946,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2dfk8VM64Xe22itp2bn4rX"
     },
     {
       "added_at": "2024-08-10 15:58:49",
@@ -691,6 +675,22 @@
       "duration_ms": 232588,
       "name": "wish you all to be happy",
       "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
+    },
+    {
+      "added_at": "2024-08-10 15:58:49",
+      "album": {
+        "name": "Listen to this song",
+        "url": "https://open.spotify.com/album/6Jq8RAeVPIY6mlr6uj1yir"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 223644,
+      "name": "Listen to this song",
+      "url": "https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG"
     },
     {
       "added_at": "2024-08-10 15:58:49",

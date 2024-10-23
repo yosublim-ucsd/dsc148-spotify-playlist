@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: BINA. ",
-  "num_followers": 178167,
+  "num_followers": 178186,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,26 @@
     {
       "added_at": "2024-10-21 07:32:44",
       "album": {
+        "name": "Three Piece Suit (feat. Azekel)",
+        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        },
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        }
+      ],
+      "duration_ms": 276733,
+      "name": "Three Piece Suit (feat. Azekel)",
+      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
+    },
+    {
+      "added_at": "2024-10-21 07:32:44",
+      "album": {
         "name": "The Last One",
         "url": "https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp"
       },
@@ -339,26 +359,6 @@
       "duration_ms": 177040,
       "name": "Make a W (feat. Skrillex, AJ Tracey & BEAM)",
       "url": "https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq"
-    },
-    {
-      "added_at": "2024-10-21 07:32:44",
-      "album": {
-        "name": "Three Piece Suit (feat. Azekel)",
-        "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        },
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Three Piece Suit (feat. Azekel)",
-      "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
     },
     {
       "added_at": "2024-10-21 07:32:44",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-21 07:32:44",
       "album": {
-        "name": "falling or flying (Reimagined)",
-        "url": "https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 216480,
-      "name": "Backwards - Reimagined",
-      "url": "https://open.spotify.com/track/03hIO0Z3ZxyV0DX1XlR8PM"
-    },
-    {
-      "added_at": "2024-10-21 07:32:44",
-      "album": {
         "name": "DRAMA",
         "url": "https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2024-10-21 07:32:44",
       "album": {
-        "name": "Bring Me Up",
-        "url": "https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz"
+        "name": "falling or flying (Reimagined)",
+        "url": "https://open.spotify.com/album/6pLWFHmvJ82dUQF1bUTvZM"
       },
       "artists": [
         {
-          "name": "KAM-BU",
-          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 142299,
-      "name": "Bring Me Up",
-      "url": "https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR"
+      "duration_ms": 216480,
+      "name": "Backwards - Reimagined",
+      "url": "https://open.spotify.com/track/03hIO0Z3ZxyV0DX1XlR8PM"
     },
     {
       "added_at": "2024-10-21 07:32:44",
@@ -575,6 +559,22 @@
       "duration_ms": 182337,
       "name": "lOvE LeTtEr (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/6uff47vGupqiJHswiEiIW3"
+    },
+    {
+      "added_at": "2024-10-21 07:32:44",
+      "album": {
+        "name": "Bring Me Up",
+        "url": "https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz"
+      },
+      "artists": [
+        {
+          "name": "KAM-BU",
+          "url": "https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF"
+        }
+      ],
+      "duration_ms": 142299,
+      "name": "Bring Me Up",
+      "url": "https://open.spotify.com/track/1CgDZnD03eTG2V0aEruvDR"
     },
     {
       "added_at": "2024-10-21 07:32:44",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-10-21 07:32:44",
       "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T"
+      },
+      "artists": [
+        {
+          "name": "Nix Northwest",
+          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+        },
+        {
+          "name": "Xadi",
+          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF"
+    },
+    {
+      "added_at": "2024-10-21 07:32:44",
+      "album": {
         "name": "Jam Toast",
         "url": "https://open.spotify.com/album/5H0UAwmSaSsgLcpdhkgAqt"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 171609,
       "name": "outsid4 (feat. ayrtn & with Bawo)",
       "url": "https://open.spotify.com/track/5DATxyg7U54Fkyqp9LcZsL"
-    },
-    {
-      "added_at": "2024-10-21 07:32:44",
-      "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T"
-      },
-      "artists": [
-        {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
-        },
-        {
-          "name": "Xadi",
-          "url": "https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF"
     },
     {
       "added_at": "2024-10-21 07:32:44",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-10-21 07:32:44",
       "album": {
-        "name": "Hoodies & Hats",
-        "url": "https://open.spotify.com/album/1Jvf5XfnUMoGf7EOD9UY1R"
-      },
-      "artists": [
-        {
-          "name": "Everyone You Know",
-          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
-        }
-      ],
-      "duration_ms": 193192,
-      "name": "Hoodies & Hats",
-      "url": "https://open.spotify.com/track/4zasvlOCwY0hmcULW733Or"
-    },
-    {
-      "added_at": "2024-10-21 07:32:44",
-      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/1flhhR75WdB4QAjkLA7gb8"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 157624,
       "name": "Only One",
       "url": "https://open.spotify.com/track/41Qqx0ZO35t2wRhgbaQ8mn"
+    },
+    {
+      "added_at": "2024-10-21 07:32:44",
+      "album": {
+        "name": "Hoodies & Hats",
+        "url": "https://open.spotify.com/album/1Jvf5XfnUMoGf7EOD9UY1R"
+      },
+      "artists": [
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        }
+      ],
+      "duration_ms": 193192,
+      "name": "Hoodies & Hats",
+      "url": "https://open.spotify.com/track/4zasvlOCwY0hmcULW733Or"
     },
     {
       "added_at": "2024-10-21 07:32:44",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-10-21 07:32:44",
       "album": {
+        "name": "what it is & what it ain't",
+        "url": "https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD"
+      },
+      "artists": [
+        {
+          "name": "Tyde",
+          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
+        }
+      ],
+      "duration_ms": 149103,
+      "name": "what it is & what it ain't",
+      "url": "https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8"
+    },
+    {
+      "added_at": "2024-10-21 07:32:44",
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/0PJi5AejTSG6WN9JvqeMds"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 117333,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA"
-    },
-    {
-      "added_at": "2024-10-21 07:32:44",
-      "album": {
-        "name": "what it is & what it ain't",
-        "url": "https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD"
-      },
-      "artists": [
-        {
-          "name": "Tyde",
-          "url": "https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1"
-        }
-      ],
-      "duration_ms": 149103,
-      "name": "what it is & what it ain't",
-      "url": "https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8"
     },
     {
       "added_at": "2024-10-21 07:32:44",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-10-21 07:32:44",
       "album": {
+        "name": "Chaos Is Her Name",
+        "url": "https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        }
+      ],
+      "duration_ms": 220285,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV"
+    },
+    {
+      "added_at": "2024-10-21 07:32:44",
+      "album": {
         "name": "NEXT MOVE",
         "url": "https://open.spotify.com/album/22x3TWE6caAYUEnyQEQ2EK"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 100050,
       "name": "NEXT MOVE",
       "url": "https://open.spotify.com/track/2I9Znd4MiS2ujLKVtSt0Mz"
-    },
-    {
-      "added_at": "2024-10-21 07:32:44",
-      "album": {
-        "name": "luvu222",
-        "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
-      },
-      "artists": [
-        {
-          "name": "Moko",
-          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
-        }
-      ],
-      "duration_ms": 110571,
-      "name": "luvu222",
-      "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
     },
     {
       "added_at": "2024-10-21 07:32:44",
@@ -947,6 +947,42 @@
     {
       "added_at": "2024-10-21 07:32:44",
       "album": {
+        "name": "luvu222",
+        "url": "https://open.spotify.com/album/7jgjrOLQrggizxHvQACIT5"
+      },
+      "artists": [
+        {
+          "name": "Moko",
+          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
+        }
+      ],
+      "duration_ms": 110571,
+      "name": "luvu222",
+      "url": "https://open.spotify.com/track/24MVu7qCrmMsqoOhMadYqW"
+    },
+    {
+      "added_at": "2024-10-21 07:32:44",
+      "album": {
+        "name": "How Far",
+        "url": "https://open.spotify.com/album/4hATb85jEAQV5zs1dPVDAg"
+      },
+      "artists": [
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        },
+        {
+          "name": "Sam Wise",
+          "url": "https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P"
+        }
+      ],
+      "duration_ms": 189781,
+      "name": "How Far",
+      "url": "https://open.spotify.com/track/0brMxO7UrJkplRm1JhHhw8"
+    },
+    {
+      "added_at": "2024-10-21 07:32:44",
+      "album": {
         "name": "The Curb",
         "url": "https://open.spotify.com/album/40w80xZ6Qg785sg4XRrHmV"
       },
@@ -967,18 +1003,18 @@
     {
       "added_at": "2024-10-21 07:32:44",
       "album": {
-        "name": "Chaos Is Her Name",
-        "url": "https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1"
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA"
       },
       "artists": [
         {
-          "name": "BINA.",
-          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+          "name": "MRCY",
+          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
         }
       ],
-      "duration_ms": 220285,
-      "name": "Precious",
-      "url": "https://open.spotify.com/track/74unlrFwLX4BfTqchKc7BV"
+      "duration_ms": 229653,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg"
     },
     {
       "added_at": "2024-10-21 07:32:44",
@@ -1035,22 +1071,18 @@
     {
       "added_at": "2024-10-21 07:32:44",
       "album": {
-        "name": "How Far",
-        "url": "https://open.spotify.com/album/4hATb85jEAQV5zs1dPVDAg"
+        "name": "We Got Food At Home",
+        "url": "https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M"
       },
       "artists": [
         {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        },
-        {
-          "name": "Sam Wise",
-          "url": "https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P"
+          "name": "Cap1talA",
+          "url": "https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW"
         }
       ],
-      "duration_ms": 189781,
-      "name": "How Far",
-      "url": "https://open.spotify.com/track/0brMxO7UrJkplRm1JhHhw8"
+      "duration_ms": 120409,
+      "name": "Won!",
+      "url": "https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt"
     },
     {
       "added_at": "2024-10-21 07:32:44",
@@ -1067,38 +1099,6 @@
       "duration_ms": 190434,
       "name": "Marley Flow",
       "url": "https://open.spotify.com/track/7KhqcuwBgF2myOiucn5w2R"
-    },
-    {
-      "added_at": "2024-10-21 07:32:44",
-      "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA"
-      },
-      "artists": [
-        {
-          "name": "MRCY",
-          "url": "https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh"
-        }
-      ],
-      "duration_ms": 229653,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg"
-    },
-    {
-      "added_at": "2024-10-21 07:32:44",
-      "album": {
-        "name": "Coulda Been",
-        "url": "https://open.spotify.com/album/7qm0yqA8bDIZT17wHH2gzO"
-      },
-      "artists": [
-        {
-          "name": "Ajet 2F",
-          "url": "https://open.spotify.com/artist/4Ruq98a6s75FiLSMsRYwqL"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Coulda Been",
-      "url": "https://open.spotify.com/track/1odD58TbhEsdHHhLh1Apko"
     }
   ],
   "unique_name": "Free Form",

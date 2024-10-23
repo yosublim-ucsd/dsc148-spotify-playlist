@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "a craving",
+        "url": "https://open.spotify.com/album/4QNr6M9uj3a15zz8RigvjB"
+      },
+      "artists": [
+        {
+          "name": "POM",
+          "url": "https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194013,
+      "name": "a craving",
+      "url": "https://open.spotify.com/track/2vKehcuTw3lNaP2Q2wvNWr"
+    },
+    {
+      "album": {
         "name": "A Fool's Parade",
         "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
       },
@@ -229,6 +247,24 @@
     },
     {
       "album": {
+        "name": "American Flag",
+        "url": "https://open.spotify.com/album/0tiY4A7HVKZLCnsMXjNbnw"
+      },
+      "artists": [
+        {
+          "name": "Naive Set",
+          "url": "https://open.spotify.com/artist/1SPS81Jo8TCGUCiQIEfLYh"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152862,
+      "name": "American Flag",
+      "url": "https://open.spotify.com/track/0FN074VoLCxggsr1DCsyZG"
+    },
+    {
+      "album": {
         "name": "Anyone, Anything",
         "url": "https://open.spotify.com/album/2le1dcsSTG2r8wSh3vsHhB"
       },
@@ -258,7 +294,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 193386,
       "name": "Anywhere but Here",
       "url": "https://open.spotify.com/track/26atzyt7k7kQhFojC9gB1k"
@@ -330,7 +366,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU"
@@ -842,7 +878,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 196872,
       "name": "Easy",
       "url": "https://open.spotify.com/track/3xNaJRo1hQzk8PiwfiHdZm"
@@ -990,6 +1026,24 @@
       "duration_ms": 259265,
       "name": "For Real",
       "url": "https://open.spotify.com/track/3hv3fLIfJAr61nybChXjx6"
+    },
+    {
+      "album": {
+        "name": "Fate & Alcohol",
+        "url": "https://open.spotify.com/album/6wVB0HHN4WuzbsMHAnfMIo"
+      },
+      "artists": [
+        {
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236257,
+      "name": "Fugitive Summer",
+      "url": "https://open.spotify.com/track/2q0iZAzSEPeD0YghkHYrdu"
     },
     {
       "album": {
@@ -1152,6 +1206,24 @@
       "duration_ms": 190828,
       "name": "High In Low Places",
       "url": "https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq"
+    },
+    {
+      "album": {
+        "name": "Changing Colors",
+        "url": "https://open.spotify.com/album/06PybWg0oAKzDJ2zY7GL13"
+      },
+      "artists": [
+        {
+          "name": "Sloper",
+          "url": "https://open.spotify.com/artist/35fxvnr5oanOFB1JNB2Ber"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/55M33FStlWwOPvp3ut8IoR"
     },
     {
       "album": {
@@ -1508,7 +1580,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 183020,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5MBaUQGYX5oK3kpukAZRDj"
@@ -2099,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "S.A.T.A.N.",
+        "url": "https://open.spotify.com/album/2Zm8sus1lZPgdHddIB58nE"
+      },
+      "artists": [
+        {
+          "name": "CRACKUPS",
+          "url": "https://open.spotify.com/artist/5yGnyrnY5gyokUTSPUhjZe"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187196,
+      "name": "S.A.T.A.N.",
+      "url": "https://open.spotify.com/track/5Gc8iiM7BIvBScplIhhGik"
+    },
+    {
+      "album": {
         "name": "Sarah Connor",
         "url": "https://open.spotify.com/album/38qyw7BG7BrinP3sjTn4Sl"
       },
@@ -2434,7 +2524,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 218000,
       "name": "Stray Dog - Session 388",
       "url": "https://open.spotify.com/track/1TmUHwM2umXy3JF6Sz1vTG"
@@ -2459,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "Watch It Ache and Bleed",
+        "url": "https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203912,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb"
+    },
+    {
+      "album": {
         "name": "Takes One To Know One",
         "url": "https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv"
       },
@@ -2470,7 +2578,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 167996,
       "name": "Takes One To Know One",
       "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
@@ -2730,6 +2838,24 @@
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "album": {
+        "name": "East My Love",
+        "url": "https://open.spotify.com/album/56MC7cZZaIMukrs6UaF4mg"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231885,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI"
     },
     {
       "album": {
@@ -2996,7 +3122,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 183761,
       "name": "X's",
       "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"

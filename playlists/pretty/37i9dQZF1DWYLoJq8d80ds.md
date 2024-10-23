@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain](/playlists/plain/37i9dQZF1DWYLoJq8d80ds) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYLoJq8d80ds)
 
-### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
+### [Lunas de Folclore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Marama, Nahuel Pennisi y Los Nocheros.
+> ¡Adentro! Lo mejor del folclore argentino para bailar hasta el amanecer\. Foto: Marama, Nahuel Pennisi y Los Nocheros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,212 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,209 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 99 | [Cantor de Chacarera](https://open.spotify.com/track/0We54vDRP7gyuBrhn36QV1) | [Ceibo](https://open.spotify.com/artist/77AuP9c2svnUoh7JK5HrOp) | [Origen](https://open.spotify.com/album/2GRvGXSzytFedJyhlIXJRx) | 2:45 |
 | 100 | [Por Tu Querer](https://open.spotify.com/track/6cyjG51eS5wNBClG2ggkPX) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Por Tu Querer](https://open.spotify.com/album/5DFw7CUGXg9RiMxU1NVGke) | 2:29 |
 
-Snapshot ID: `Zw1yfQAAAABds7q9NKYtAkQQhs9m0cNx`
+Snapshot ID: `Zxf23QAAAADnMOfANZoSgd+YHh2OecDa`

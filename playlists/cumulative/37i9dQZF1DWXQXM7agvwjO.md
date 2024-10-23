@@ -4,7 +4,7 @@
 
 > Hottest indie sound from Asia\. Cover: KIKI \(Thailand\)
 
-1,587 songs - 3 day 23 hr 45 min
+1,588 songs - 3 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -911,7 +911,7 @@
 | [ok to be not ok](https://open.spotify.com/track/22ArmhlSvZq2pxTKb3dNjk) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5) | [ok to be not ok](https://open.spotify.com/album/4Op5st5g671g45uIqIunE0) | 3:36 | 2024-08-08 | 2024-08-23 |
 | [OLD BOY](https://open.spotify.com/track/1OxkQkpEzuFKELOHjx9V8W) | [Mèow Lạc](https://open.spotify.com/artist/1984OVQ0KnJW80MiZYOrFF) | [OLD BOY](https://open.spotify.com/album/1gBo8BLABMGxe36LWZFy6C) | 4:00 | 2024-10-17 |  |
 | [Old Fashioned](https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw), [Peatle](https://open.spotify.com/artist/0iIymgyAW3hH5oY7kRMVsp) | [Old Fashioned](https://open.spotify.com/album/3Rv9kwdTjYAdyUsVLz2gZh) | 3:19 | 2023-02-16 | 2023-03-25 |
-| [old school](https://open.spotify.com/track/1e2Bj05yKyGAwXG2hxLwc7) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk), [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [old school](https://open.spotify.com/album/6TvwzGyMKhyedURaA9IqpV) | 2:57 | 2024-10-09 |  |
+| [old school](https://open.spotify.com/track/1e2Bj05yKyGAwXG2hxLwc7) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk), [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [old school](https://open.spotify.com/album/6TvwzGyMKhyedURaA9IqpV) | 2:57 | 2024-10-09 | 2024-10-23 |
 | [on & on](https://open.spotify.com/track/2z60665qOaXrUcFIVIB9yj) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [on & on](https://open.spotify.com/album/2fInwWeb0bggsmMeUSAYbv) | 2:48 | 2022-03-24 | 2022-04-22 |
 | [On and On](https://open.spotify.com/track/33xlpG5E7QYjQhlOFCpnLF) | [Kogane](https://open.spotify.com/artist/6d9pWmFd3oZE3tKQVfgkmM), [Park Bird](https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF) | [Ceremonies](https://open.spotify.com/album/0BPhpmgOpi6o9EfOz6Ga16) | 3:40 | 2023-06-08 | 2023-07-15 |
 | [ON MY MIND](https://open.spotify.com/track/3OIc678MAJCxx4DrvxmiUa) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [ON MY MIND](https://open.spotify.com/album/5zDCI4WaVPl1kLvxEjlJwq) | 3:32 | 2024-06-27 | 2024-07-05 |
@@ -1175,6 +1175,7 @@
 | [Sunday](https://open.spotify.com/track/0HporKYsqmHmFsnGfeX2JU) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8) | [In a relationship with\_](https://open.spotify.com/album/2hlwXuR4KCfiqyDzpesX7x) | 2:38 | 2022-03-31 | 2022-05-20 |
 | [Sunday](https://open.spotify.com/track/3UlUNQIwYz8o2IPkcnksjp) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Sunday](https://open.spotify.com/album/5WhV3B48D6u8OmayTwW3OU) | 3:00 | 2023-04-13 | 2023-06-09 |
 | [Sunday Song](https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Sunday Song](https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb) | 3:30 | 2024-03-28 | 2024-05-17 |
+| [Sunday Walks](https://open.spotify.com/track/7DgH9j0zkNlO0yGUhXZ6N8) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [Whyte](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Sunday Walks](https://open.spotify.com/album/2lbuUd3lB9ejQUF44xl40E) | 2:37 | 2024-10-22 |  |
 | [Sundowner](https://open.spotify.com/track/6ktvNjAqXekm5KID8JDCbp) | [HAPPY](https://open.spotify.com/artist/5GVmwlesqBw7eCqdX0YAEH) | [Ancient Moods Mahollova Mind](https://open.spotify.com/album/1LgquUBsctr0v68Jh3fKpF) | 4:49 | 2024-06-27 | 2024-07-05 |
 | [Sunflower \- Slowed Down](https://open.spotify.com/track/47gwnqfpI6Om0OBLCgGptN) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Sunflower Versions](https://open.spotify.com/album/5807uTIjCiX0QKbxNj5YCP) | 2:54 | 2022-06-23 | 2022-07-15 |
 | [Sunny Days](https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Sunny Days](https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN) | 3:56 | 2024-07-25 |  |

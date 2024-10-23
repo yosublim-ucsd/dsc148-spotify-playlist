@@ -1,6 +1,6 @@
 {
   "description": "S\u00fc\u00dfes sonst gibt's Saures! \ud83c\udf83",
-  "num_followers": 44947,
+  "num_followers": 45022,
   "original_name": "Familienzeit: Halloween",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-10-21 07:22:51",
       "album": {
+        "name": "ertappt",
+        "url": "https://open.spotify.com/album/1PGo84U9SPdOiHJVTlgciU"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "Monsterparty",
+      "url": "https://open.spotify.com/track/0EBbhEhkxnz4Wvy7A5RP2c"
+    },
+    {
+      "added_at": "2024-10-21 07:22:51",
+      "album": {
         "name": "Schau meine Hexe: Die sch\u00f6nsten Hexenlieder",
         "url": "https://open.spotify.com/album/0JEGG0YOqBir077LMClwRp"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 183525,
       "name": "Hexentanz",
       "url": "https://open.spotify.com/track/1neJ0rILtJuhFx6qFQM14S"
-    },
-    {
-      "added_at": "2024-10-21 07:22:51",
-      "album": {
-        "name": "ertappt",
-        "url": "https://open.spotify.com/album/1PGo84U9SPdOiHJVTlgciU"
-      },
-      "artists": [
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte"
-        }
-      ],
-      "duration_ms": 150093,
-      "name": "Monsterparty",
-      "url": "https://open.spotify.com/track/0EBbhEhkxnz4Wvy7A5RP2c"
     },
     {
       "added_at": "2024-10-21 07:22:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > JC Reyes y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,366 likes - 64 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,376 likes - 64 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 40 | [A SOLAS 2](https://open.spotify.com/track/7bH6YEVzuyrWM1Qk4ymWEp) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [A SOLAS 2](https://open.spotify.com/album/1soOiLMhlPupIDWx8AYSG3) | 3:57 |
 | 41 | [SISI](https://open.spotify.com/track/0AjwTEzkMErfaWOzVPswQ1) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [SISI](https://open.spotify.com/album/3ud1UfUZ1QnnsXXRA4TD0A) | 2:15 |
 | 42 | [Tenemos la respuesta](https://open.spotify.com/track/7xXfT7NKNjQPQN2tH0Tn7N) | [ELYELLA](https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8), [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi) | [Tenemos la respuesta](https://open.spotify.com/album/0N8YK7rXOfxEOaRbaQ1Uaj) | 3:41 |
-| 43 | [Tu Puto Grupo](https://open.spotify.com/track/2Jilw03fQizCqVvqITIBnl) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Tu Puto Grupo](https://open.spotify.com/album/0E6yLyVWpKWjlIdOtxrMrj) | 3:06 |
+| 43 | [Tu Puto Grupo](https://open.spotify.com/track/2Jilw03fQizCqVvqITIBnl) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [Edu Espín](https://open.spotify.com/artist/1ZnwH4hFx4zPOCHMXMBMdk) | [Tu Puto Grupo](https://open.spotify.com/album/0E6yLyVWpKWjlIdOtxrMrj) | 3:06 |
 | 44 | [La Novedad](https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH), [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [La Novedad](https://open.spotify.com/album/1GMQ07qxd5Sxjb1ga4c1sW) | 3:31 |
 | 45 | [A la Mierda](https://open.spotify.com/track/4LQXK92qiThKntANgxd9Yz) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [A tomar por culo](https://open.spotify.com/album/1u0KpgKOxJZY5wVrfbveOB) | 1:58 |
 | 46 | [Mírame](https://open.spotify.com/track/4i44BQiyplTEvH9S415cCE) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Mírame](https://open.spotify.com/album/5brVHpDSJozJOBYmmopAZZ) | 2:12 |

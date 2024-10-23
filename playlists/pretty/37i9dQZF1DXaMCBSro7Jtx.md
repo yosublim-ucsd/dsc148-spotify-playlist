@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMCBSro7Jtx.md) - [plain]
 
 > Celebrating 10 years of PC Music: The record label that changed pop music forever\. Cover art by <a href="https://www.instagram.com/tmthy.luke">Timothy Luke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,001 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,034 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,13 +81,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMCBSro7Jtx.md) - [plain]
 | 71 | [Poison](https://open.spotify.com/track/73kTglXaKNZAGg8vDalJiM) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC) | [VIPOTY](https://open.spotify.com/album/6JY0xQ6qfmRogPkSz4vxDr) | 2:47 |
 | 72 | [Change](https://open.spotify.com/track/6QrEbnQAiUHr8sfnoYOhvx) | [Lil Data](https://open.spotify.com/artist/1MoWMC4GaNZklW2wmKENRl) | [Sup](https://open.spotify.com/album/0nkriK9kdTPy25XJfIYWVQ) | 2:34 |
 | 73 | [Oh Yeah \- Caroline Polachek Remix](https://open.spotify.com/track/2tPN4TxN7ZYlSggqU7IENd) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Oh Yeah \(Caroline Polachek Remix\)](https://open.spotify.com/album/538asywxMcNAVQ3EWUju80) | 4:58 |
-| 74 | [No Body](https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:44 |
+| 74 | [No Body](https://open.spotify.com/track/3iZt8KJvoKxOYj0cLXGluK) | [Finn Keane](https://open.spotify.com/artist/1noBhgsjRFveHzVr4QFwxv) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 2:44 |
 | 75 | [Camber](https://open.spotify.com/track/12NFMZ59Nc7gSL5aSrHd4Z) | [GRRL](https://open.spotify.com/artist/0JpzRsUcCKSyr44mQiosNg) | [Honeybee](https://open.spotify.com/album/5qIuichXf5F2xWKtohQOPP) | 1:48 |
 | 76 | [Distant Promise](https://open.spotify.com/track/1aKcHnqpzWl8X9KWv72J0y) | [Spinee](https://open.spotify.com/artist/3DvZPVHIRXdnEluWadwf71) | [Distant Promise](https://open.spotify.com/album/2MZ8SSUFYtxicqGdt4xhrw) | 3:03 |
 | 77 | [Money on a Gold Plate](https://open.spotify.com/track/3t60tIp8ovjv2gjSsq0zwh) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Money on a Gold Plate / Cos I Love U](https://open.spotify.com/album/71nQ4G3tqx2AzA4VQ5KLK4) | 2:25 |
 | 78 | [Make Believe](https://open.spotify.com/track/601zxsic5g4T1z3Q3KBiNu) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Make Believe](https://open.spotify.com/album/76PUC8b7CGlKUMQ1q2P5Uy) | 3:56 |
 | 79 | [So Clear](https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [CLEARING](https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg) | 3:00 |
-| 80 | [Audio \(All I Ever Got\)](https://open.spotify.com/track/5sAJNJIKHAyLtzqmjXsK4p) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:56 |
+| 80 | [Audio \(All I Ever Got\)](https://open.spotify.com/track/5sAJNJIKHAyLtzqmjXsK4p) | [Finn Keane](https://open.spotify.com/artist/1noBhgsjRFveHzVr4QFwxv) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:56 |
 | 81 | [H2O2 \(feat\. Denzel Himself\)](https://open.spotify.com/track/76kiWDpH6I0I1txL09KjDD) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Denzel Himself](https://open.spotify.com/artist/1cdFsfULlsBxTYbAhWlKNQ) | [Apple vs\. 7G](https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II) | 2:37 |
 | 82 | [Ashes of Love \(feat\. Caroline Polachek\)](https://open.spotify.com/track/242rtZkhCPtmBmSthwwj3r) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Ashes of Love \(feat\. Caroline Polachek\)](https://open.spotify.com/album/4VdojbARXWdQttE3MG9rbY) | 3:27 |
 | 83 | [Dare \(AM\)](https://open.spotify.com/track/0e8DKKBRXdKyWTKs8IHPYG) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Dare \(AM\)](https://open.spotify.com/album/0hGcPmWIGk901WA6uLbwKA) | 3:00 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMCBSro7Jtx.md) - [plain]
 | 94 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/1GVF2E05ns0mOfFJvQoIxO) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/album/5bccG98yMcALqFMYVjt5Yn) | 4:16 |
 | 95 | [Silver](https://open.spotify.com/track/6zJu9qqwSxx1aPnqQmdAlv) | [Astra King](https://open.spotify.com/artist/1lf6ZLHzJmR8d6gLHt51dn) | [Silver](https://open.spotify.com/album/1HLmtzoF0ZGdY2iSiCvP3y) | 2:39 |
 | 96 | [2021 \- umru Remix](https://open.spotify.com/track/5EOnAuVdMefq2KD2pboK2L) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [Apple vs\. 7G](https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II) | 3:37 |
-| 97 | [Audio](https://open.spotify.com/track/0xkUIsghaLdNFWNUX1WP8v) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 3:31 |
+| 97 | [Audio](https://open.spotify.com/track/0xkUIsghaLdNFWNUX1WP8v) | [Finn Keane](https://open.spotify.com/artist/1noBhgsjRFveHzVr4QFwxv) | [ELECTRIC](https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa) | 3:31 |
 | 98 | [Attachment](https://open.spotify.com/track/3dgXfblQeSYmphw5lEsGSJ) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Attachment](https://open.spotify.com/album/7eQ4uNRexhvToi72sJGDrD) | 4:18 |
 | 99 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 |
 | 100 | [Fountain](https://open.spotify.com/track/6yHga7EEFPQo0NiahwLkoz) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Soft Rock](https://open.spotify.com/album/5lgqJ8vLfDGbL1AFHgj2o1) | 2:16 |

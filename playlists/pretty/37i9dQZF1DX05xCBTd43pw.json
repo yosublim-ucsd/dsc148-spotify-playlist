@@ -627,6 +627,22 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
+        "name": "cause of death",
+        "url": "https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs"
+      },
+      "artists": [
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "cause of death",
+      "url": "https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
         "name": "Counting Days",
         "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
       },
@@ -683,18 +699,34 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "cause of death",
-        "url": "https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs"
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
       },
       "artists": [
         {
-          "name": "Julia Alexa",
-          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
         }
       ],
-      "duration_ms": 148000,
-      "name": "cause of death",
-      "url": "https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW"
+      "duration_ms": 183093,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
+      },
+      "artists": [
+        {
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+        }
+      ],
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -715,38 +747,6 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
-        "name": "Soft",
-        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
-      },
-      "artists": [
-        {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 192078,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -843,34 +859,18 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+        "name": "Ich Kann's Nicht Glauben",
+        "url": "https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
         }
       ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+      "duration_ms": 202363,
+      "name": "Nenn Es Liebe",
+      "url": "https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -887,6 +887,42 @@
       "duration_ms": 175312,
       "name": "Losing Grip",
       "url": "https://open.spotify.com/track/4Vmn4tPZSp6B82XH2KMsHZ"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "Just Like I Love You",
+      "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -939,22 +975,18 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
       },
       "artists": [
         {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        },
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+          "name": "Shem Thomas",
+          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
         }
       ],
-      "duration_ms": 201875,
-      "name": "Just Like I Love You",
-      "url": "https://open.spotify.com/track/7z5EIeDKgPukdh3sve82xJ"
+      "duration_ms": 164089,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -975,22 +1007,6 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Coastline",
-        "url": "https://open.spotify.com/album/4PZY58e5kjo9Nxf0RY6QVn"
-      },
-      "artists": [
-        {
-          "name": "Shem Thomas",
-          "url": "https://open.spotify.com/artist/7HyZIaSYfZVB9quJJTryFw"
-        }
-      ],
-      "duration_ms": 164089,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
         "name": "Snooze",
         "url": "https://open.spotify.com/album/5SoFmAahTD61wjjoVl5cAZ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 182408,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/5aC4WmADiTLODiVefda591"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
-        "name": "Ich Kann's Nicht Glauben",
-        "url": "https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy"
-      },
-      "artists": [
-        {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
-        }
-      ],
-      "duration_ms": 202363,
-      "name": "Nenn Es Liebe",
-      "url": "https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Ig o",
-        "url": "https://open.spotify.com/album/657Gr9COvXb3x9jz9Y67Ci"
-      },
-      "artists": [
-        {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Ig o",
-      "url": "https://open.spotify.com/track/6tJrX3rkSaIIBy0W4xC8J6"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
         "name": "Long Year",
         "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
+        "name": "Sauvage",
+        "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
+      },
+      "artists": [
+        {
+          "name": "Julie Meletta",
+          "url": "https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1"
+        }
+      ],
+      "duration_ms": 177299,
+      "name": "Sauvage",
+      "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
         "name": "G\u00e4bs es nid (Duett Version)",
         "url": "https://open.spotify.com/album/3mQVBjNUaJ4alePJrZ0HSq"
       },
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Sauvage",
-        "url": "https://open.spotify.com/album/4wBXS39epHlWGL54qZ5kCL"
+        "name": "Schwarz auf Gr\u00fcn",
+        "url": "https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5"
       },
       "artists": [
         {
-          "name": "Julie Meletta",
-          "url": "https://open.spotify.com/artist/6dtKZZx0OeZgjHzrTLm8z1"
+          "name": "jan SEVEN dettwyler",
+          "url": "https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej"
         }
       ],
-      "duration_ms": 177299,
-      "name": "Sauvage",
-      "url": "https://open.spotify.com/track/45GjmzkcuWflHGLuNJPCDv"
+      "duration_ms": 146366,
+      "name": "H\u00f6r mir noch einmal zu",
+      "url": "https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw"
     }
   ],
   "unique_name": "Swiss Made",

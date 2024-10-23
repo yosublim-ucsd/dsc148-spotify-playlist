@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 116315,
+  "num_followers": 116366,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Rikki Jai",
-          "url": "https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd"
-        }
-      ],
-      "duration_ms": 423506,
-      "name": "Wine On A Bumsee",
-      "url": "https://open.spotify.com/track/26ckSFjnh3OX3IJleVocyC"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Switch Vol. 5",
         "url": "https://open.spotify.com/album/2mSwTuJYJStLzyXcUjigY7"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 222733,
       "name": "Palms On De Ground",
       "url": "https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
+          "name": "Rikki Jai",
+          "url": "https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd"
+        }
+      ],
+      "duration_ms": 423506,
+      "name": "Wine On A Bumsee",
+      "url": "https://open.spotify.com/track/26ckSFjnh3OX3IJleVocyC"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -915,6 +915,22 @@
       "duration_ms": 203933,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/2jCJKQHfbuoMj01xDsqB5p"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+      },
+      "artists": [
+        {
+          "name": "Anslem Douglas",
+          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
+        }
+      ],
+      "duration_ms": 292826,
+      "name": "Ragga Poom Poom",
+      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -983,42 +999,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "The Xtatik Circus",
-        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
-        }
-      ],
-      "duration_ms": 227213,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
-      },
-      "artists": [
-        {
-          "name": "Anslem Douglas",
-          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
-        }
-      ],
-      "duration_ms": 292826,
-      "name": "Ragga Poom Poom",
-      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/0br9N1t4whHPB4Ad7DfHX6"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/48OrQFkuuFtlQHtq35xjJ9"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+        "name": "Savannah Grass",
+        "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         }
       ],
-      "duration_ms": 218549,
-      "name": "Happiest Man Alive",
-      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
+      "duration_ms": 179520,
+      "name": "Savannah Grass",
+      "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1139,38 +1139,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Savannah Grass",
-        "url": "https://open.spotify.com/album/6PBFX1vkmiHtd04gcsXGVA"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Savannah Grass",
-      "url": "https://open.spotify.com/track/7aWK2UmGXMeOAfcVMxj8NX"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 239967,
-      "name": "Ministry of Road (M.O.R.)",
-      "url": "https://open.spotify.com/track/7Chtw84YyHlnO3XUrlowBu"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "X Man",
         "url": "https://open.spotify.com/album/7MWMgPiGXkkuCwSFt8LwAp"
       },
@@ -1215,6 +1183,22 @@
       "duration_ms": 338053,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/4cht5aaAj57nUVWpM40L4c"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 218549,
+      "name": "Happiest Man Alive",
+      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1283,26 +1267,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Heavy Duty",
-        "url": "https://open.spotify.com/album/4rw2BiS4oNLnrHuT5drVs7"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Xtatik",
-          "url": "https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Big Truck",
-      "url": "https://open.spotify.com/track/2YH84hlyInKrhJupJQMGtj"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Soca Engine",
         "url": "https://open.spotify.com/album/5wfAK9kuhW8WcVjr5eiKGv"
       },
@@ -1315,6 +1279,42 @@
       "duration_ms": 183533,
       "name": "Chutney Bachannal",
       "url": "https://open.spotify.com/track/0TNFNPM8DtDuzQtak9FirP"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca 101 Vol.1",
+        "url": "https://open.spotify.com/album/111Eu8ZNJ4IaHd9HJppqZG"
+      },
+      "artists": [
+        {
+          "name": "Speady",
+          "url": "https://open.spotify.com/artist/343Fose6Dkb6U8yTvVYttG"
+        }
+      ],
+      "duration_ms": 292533,
+      "name": "Hold Ya Bam Bam",
+      "url": "https://open.spotify.com/track/5AQbcTkvpl8irCdFOjF71f"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Best of 2000 & 2001 Soca",
+        "url": "https://open.spotify.com/album/6H9ZgUBAmyAhz4xjeQ2uIP"
+      },
+      "artists": [
+        {
+          "name": "DJ Master K",
+          "url": "https://open.spotify.com/artist/0Fw5I6Ke1vvSiuG2JHC24r"
+        },
+        {
+          "name": "K. Hart",
+          "url": "https://open.spotify.com/artist/2yq3eHv4vVpiFXeQXM3Fnq"
+        }
+      ],
+      "duration_ms": 134408,
+      "name": "Jump - Soca Mix",
+      "url": "https://open.spotify.com/track/4HPGDCF5BL09n0DsO2sNon"
     }
   ],
   "unique_name": "Soca Classics",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-434 songs - 20 hr 39 min
+435 songs - 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Ciúmes de Ficante](https://open.spotify.com/track/6quXrvhtFpuFDjevt6HePZ) | [Francildo Silva](https://open.spotify.com/artist/0o610ZIdyAxlQ8qWweA0mw) | [Verão 2023](https://open.spotify.com/album/5NLFLLV35nYDfhHWc0LxEI) | 2:56 | 2024-07-19 |  |
 | [Ciúmes de Ficante](https://open.spotify.com/track/7bWTyzWNst2XuGtYv3e3FY) | [Francildo Silva](https://open.spotify.com/artist/0o610ZIdyAxlQ8qWweA0mw) | [Verão 2023](https://open.spotify.com/album/0AHnqhnRVbpVRQ6pdIBCrS) | 2:56 | 2024-03-26 | 2024-07-20 |
 | [Colinho do Roceiro \- Ao Vivo](https://open.spotify.com/track/5tebpjHtHtnrEkAHDtP0Xi) | [Mano Walter](https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP), [Léo & Raphael](https://open.spotify.com/artist/68cvVh3HBHdwWfccCTaq0T) | [Colinho do Roceiro \(Ao Vivo\)](https://open.spotify.com/album/0zGgwVeTZmOricqZdgJLA6) | 2:52 | 2024-01-29 |  |
+| [Considera Ela](https://open.spotify.com/track/4O8MJKGIJOupGsPLe9hHPc) | [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX) | [Considera Ela](https://open.spotify.com/album/0KR4iGslcN7sBNRSU4XtwB) | 2:33 | 2024-10-22 |  |
 | [Conta Gotas \- Ao Vivo](https://open.spotify.com/track/78G1d22he1AXuUN2GHtULh) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 2:28 | 2024-01-29 |  |
 | [Coração Apertadin \- Ao Vivo](https://open.spotify.com/track/1dRhBZm3Lr5Lvn0BL35l7M) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Encontrin 2 \(Ao Vivo\)](https://open.spotify.com/album/4oZHsyeGM0RGSJlfGZWeo9) | 3:04 | 2024-01-29 |  |
 | [Coração de cabaré \(Participação especial de Marcos & Belutti\) \- Ao vivo](https://open.spotify.com/track/44BzDjvtJMLoyzfGCCSkTM) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H), [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Traços \(Ao vivo\)](https://open.spotify.com/album/5YmcNWq3bfoOH4n39nM9Ua) | 3:04 | 2024-01-29 |  |

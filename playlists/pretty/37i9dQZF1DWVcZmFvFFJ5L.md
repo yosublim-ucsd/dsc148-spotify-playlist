@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 
 > Jumping BoAs, Our Beloved BoA is back!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,770 likes - 108 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,771 likes - 108 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 | 18 | [Little Bird](https://open.spotify.com/track/5SokSiXcHQca42peaFt29v) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [BETTER \- The 10th Album](https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM) | 3:27 |
 | 19 | [Disturbance](https://open.spotify.com/track/5PlY7G0GELK3as0Ch74IXf) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Disturbance](https://open.spotify.com/album/663Opdf3NgOsrALPf6bUFx) | 3:17 |
 | 20 | [メリクリ](https://open.spotify.com/track/3fxaN9pj6g4crVCzMTqRd0) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [メリクリ](https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT) | 5:32 |
-| 21 | [VALENTI](https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [MIRACLE \- The 2.5th Album](https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w) | 3:32 |
+| 21 | [Valenti](https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [MIRACLE \- The 2.5th Album](https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w) | 3:32 |
 | 22 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 |
 | 23 | [Starry Night](https://open.spotify.com/track/1CyH9zoX9abqsa3xPrVUsn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:30 |
 | 24 | [Black](https://open.spotify.com/track/5mJV0fXk6rRey5B1KeYbNQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Starry Night \- The 2nd Mini Album](https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W) | 3:14 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcZmFvFFJ5L.md) - [plain]
 | 36 | [My Name](https://open.spotify.com/track/3gL6WWT39ksG2otEMmY9MX) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [Sm Best Album 3, Vol\. 2](https://open.spotify.com/album/6qdEGTvS2E0jwxzcjUqXXc) | 3:12 |
 | 37 | [MASAYUME CHASING](https://open.spotify.com/track/3Hg898AnfapEcgRwa4PT9L) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [WHO'S BACK?](https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu) | 3:39 |
 | 38 | [Spring Rain](https://open.spotify.com/track/7lSsi84E0g6QDGyDY1j5y6) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Spring Rain \- SM STATION](https://open.spotify.com/album/7olAhWsexMgcvhLfxeJuGC) | 3:37 |
-| 39 | [DESTINY](https://open.spotify.com/track/07e2fLU8mfscLxUkKfps60) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [MIRACLE \- The 2.5th Album](https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w) | 4:18 |
+| 39 | [Destiny](https://open.spotify.com/track/07e2fLU8mfscLxUkKfps60) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [MIRACLE \- The 2.5th Album](https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w) | 4:18 |
 | 40 | [Copy & Paste](https://open.spotify.com/track/66hLdiqgPzeUSQ2bNYPLU0) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Copy & Paste \- The 6th Album Repackage](https://open.spotify.com/album/5mO6MqKOxUwUDfklKPs1Oe) | 3:44 |
 | 41 | [Hurricane Venus](https://open.spotify.com/track/2lmk1MaysnnDt4ct8M60Vr) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Hurricane Venus \- The 6th Album](https://open.spotify.com/album/2yUPfOMfABqMtTAc7p4Us2) | 3:10 |
 | 42 | [AMOR](https://open.spotify.com/track/6ckFK2ksVUNpfeUqRDtirQ) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [AMOR](https://open.spotify.com/album/0vpYcah9x3TdyCLEUOJZzZ) | 3:53 |

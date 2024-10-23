@@ -10467,6 +10467,24 @@
     },
     {
       "album": {
+        "name": "Foxing",
+        "url": "https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3"
+      },
+      "artists": [
+        {
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241986,
+      "name": "Secret History",
+      "url": "https://open.spotify.com/track/3JXmhHzljGagSdPuCmqBpp"
+    },
+    {
+      "album": {
         "name": "Not Real",
         "url": "https://open.spotify.com/album/4J2or5UZfwCFPtPOobZwZQ"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Bagheera",
-  "num_followers": 59774,
+  "num_followers": 59799,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxY8MQAAAACgWc7Iid0IXFyEeuKZqqSh",
+  "snapshot_id": "Zxc4QwAAAABBVG7VJXh95U01x9ETVw3Y",
   "tracks": [
     {
       "added_at": "2024-10-17 10:59:41",
@@ -181,6 +181,30 @@
       "url": "https://open.spotify.com/track/1B79dkxN9YJk6QHRh9rP9S"
     },
     {
+      "added_at": "2024-10-22 05:29:39",
+      "album": {
+        "name": "Yolo (From \"Kanguva\") (Kannada)",
+        "url": "https://open.spotify.com/album/6KOxAi5WE0LkPQDilsUSAW"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Ranina Reddy",
+          "url": "https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H"
+        }
+      ],
+      "duration_ms": 238384,
+      "name": "Yolo (From \"Kanguva\") (Kannada)",
+      "url": "https://open.spotify.com/track/5aAgLZf9GhAyWRyGrKa6M1"
+    },
+    {
       "added_at": "2024-10-21 11:34:08",
       "album": {
         "name": "Pan India (From \"Legend Director\")",
@@ -284,7 +308,7 @@
           "url": "https://open.spotify.com/artist/6Z2XqTxPGLohTAK1rLCYZC"
         }
       ],
-      "duration_ms": 227933,
+      "duration_ms": 227026,
       "name": "Jaanamari (From \"Yello Jogappa Ninnaramane\")",
       "url": "https://open.spotify.com/track/3pztj7QvhWaPzpqz7gPzsC"
     },
@@ -1599,26 +1623,6 @@
       "duration_ms": 201443,
       "name": "Ninna Hegalu (From \"Krishnam Pranaya Sakhi\")",
       "url": "https://open.spotify.com/track/6kc8YThnO6FC7lfdh8QONk"
-    },
-    {
-      "added_at": "2024-08-09 13:44:28",
-      "album": {
-        "name": "Horatavayya (From \"Roopanthara\")",
-        "url": "https://open.spotify.com/album/3DusiyrWNIgB1lEAX1UTa5"
-      },
-      "artists": [
-        {
-          "name": "Midhun Mukundan",
-          "url": "https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp"
-        },
-        {
-          "name": "Keerthan Bhandary",
-          "url": "https://open.spotify.com/artist/11tWC8HjuxlQblbCWuVATn"
-        }
-      ],
-      "duration_ms": 138625,
-      "name": "Horatavayya (From \"Roopanthara\")",
-      "url": "https://open.spotify.com/track/2DEFyip7eWlYwxpWhBvbc6"
     },
     {
       "added_at": "2024-08-12 04:20:43",

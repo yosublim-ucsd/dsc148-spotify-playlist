@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT?si=GZxRaJ2hSGCpOA2wM\_O\_tw">Th&o.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,157 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,158 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

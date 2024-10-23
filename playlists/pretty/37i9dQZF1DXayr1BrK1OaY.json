@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 227159,
+  "num_followers": 227192,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Don't Say Goodbye",
-        "url": "https://open.spotify.com/album/1Unb6I8rlEgLeWSHgftLRA"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        }
-      ],
-      "duration_ms": 188338,
-      "name": "Don't Say Goodbye",
-      "url": "https://open.spotify.com/track/6thBFNZvOqCtN4fU2lDGPs"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "ORIGIN (Deluxe)",
         "url": "https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 187675,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/1Unb6I8rlEgLeWSHgftLRA"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "duration_ms": 188338,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/6thBFNZvOqCtN4fU2lDGPs"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1467,8 +1467,8 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
+        "name": "Selfreflection",
+        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
       },
       "artists": [
         {
@@ -1476,9 +1476,9 @@
           "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 198451,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
+      "duration_ms": 194754,
+      "name": "Stop the time",
+      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1639,8 +1639,8 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Selfreflection",
-        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
       },
       "artists": [
         {
@@ -1648,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 194754,
-      "name": "Stop the time",
-      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
+      "duration_ms": 198451,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1671,38 +1671,6 @@
       "duration_ms": 177920,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        }
-      ],
-      "duration_ms": 275828,
-      "name": "Calling On",
-      "url": "https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "I Can Make It",
-        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 249012,
-      "name": "I Can Make It",
-      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1731,22 +1699,34 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ready (feat. Art School Girlfriend)",
-        "url": "https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L"
+        "name": "I Can Make It",
+        "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
       },
       "artists": [
         {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        },
-        {
-          "name": "Art School Girlfriend",
-          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 227625,
-      "name": "Ready (feat. Art School Girlfriend)",
-      "url": "https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj"
+      "duration_ms": 249012,
+      "name": "I Can Make It",
+      "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        }
+      ],
+      "duration_ms": 275828,
+      "name": "Calling On",
+      "url": "https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1763,6 +1743,26 @@
       "duration_ms": 219250,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Ready (feat. Art School Girlfriend)",
+        "url": "https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 227625,
+      "name": "Ready (feat. Art School Girlfriend)",
+      "url": "https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Part of Me",
-        "url": "https://open.spotify.com/album/053hffrVHJMAF68VRoQwXY"
-      },
-      "artists": [
-        {
-          "name": "19Clouds",
-          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
-        }
-      ],
-      "duration_ms": 182658,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/5NUVTH9lPD05WyuSGGm3cW"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Felt A Little Like",
         "url": "https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 217036,
       "name": "Felt A Little Like",
       "url": "https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Part of Me",
+        "url": "https://open.spotify.com/album/053hffrVHJMAF68VRoQwXY"
+      },
+      "artists": [
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        }
+      ],
+      "duration_ms": 182658,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/5NUVTH9lPD05WyuSGGm3cW"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Save Our Ship (SOS)",
         "url": "https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 197169,
       "name": "Save Our Ship (SOS)",
       "url": "https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Visage 6 (Never Loved)",
-        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
-      },
-      "artists": [
-        {
-          "name": "Massane",
-          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
-        }
-      ],
-      "duration_ms": 253780,
-      "name": "Never Loved",
-      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Surrender To The Feeling",
         "url": "https://open.spotify.com/album/7KhCchcBtE9dTmbwf52LUo"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 207787,
       "name": "Surrender To The Feeling",
       "url": "https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Visage 6 (Never Loved)",
+        "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        }
+      ],
+      "duration_ms": 253780,
+      "name": "Never Loved",
+      "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
     },
     {
       "added_at": "2024-10-04 04:00:00",

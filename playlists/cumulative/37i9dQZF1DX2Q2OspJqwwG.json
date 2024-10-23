@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A venit poli\u021bia (From \"Candidatul perfect\" The Movie)",
+        "url": "https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144303,
+      "name": "A venit poli\u021bia - From \"Candidatul perfect\" The Movie",
+      "url": "https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV"
+    },
+    {
+      "album": {
         "name": "Ador, Ador",
         "url": "https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K"
       },
@@ -216,7 +234,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 158095,
       "name": "Amore",
       "url": "https://open.spotify.com/track/78Qu2ibWMLEx4M7hlESf3w"
@@ -540,7 +558,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 151099,
       "name": "Burj Khalifa",
       "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 145026,
       "name": "Nebunia lui Babasha",
       "url": "https://open.spotify.com/track/4lq4TC1NoJJOOQlNis8YYN"
@@ -2742,7 +2760,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 145531,
       "name": "Renunta la el",
       "url": "https://open.spotify.com/track/66UDeXHgan2znzgkwWhFar"
@@ -2902,7 +2920,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 228884,
       "name": "Shot",
       "url": "https://open.spotify.com/track/7oRs530KPTYBT8NdSIh6Kx"
@@ -3032,10 +3050,28 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 159194,
       "name": "Spania",
       "url": "https://open.spotify.com/track/6YnNRZZH53YVue4gpk7jYQ"
+    },
+    {
+      "album": {
+        "name": "Midnight Memories (Deluxe)",
+        "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "Story of My Life",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
     },
     {
       "album": {
@@ -3206,6 +3242,24 @@
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/110skZzsCFyckMdjupeIBX"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174723,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/2SYovto91rjt4Dh5w330JJ"
     },
     {
       "album": {
@@ -3674,7 +3728,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 175978,
       "name": "\u00cenc\u0103 Ne Iubim",
       "url": "https://open.spotify.com/track/2Bl23cSczNlRSRJUkCLBqy"

@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Givin' It Up",
+        "url": "https://open.spotify.com/album/7lyQed6f1BtFe5Q5K9eRvR"
+      },
+      "artists": [
+        {
+          "name": "South Summit",
+          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205116,
+      "name": "Givin' It Up",
+      "url": "https://open.spotify.com/track/7JlwEzDrrUCQyqS4bun7cG"
+    },
+    {
+      "album": {
         "name": "Marmalade",
         "url": "https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8"
       },
@@ -1982,7 +2000,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 232738,
       "name": "TOGETHER",
       "url": "https://open.spotify.com/track/4Ihb3pHMTaLicABO47QMGM"

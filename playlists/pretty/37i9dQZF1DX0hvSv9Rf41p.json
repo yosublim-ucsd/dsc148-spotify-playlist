@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a>  \ud83d\ude80\ud83d\ude80 with Rezz",
-  "num_followers": 979095,
+  "num_followers": 979133,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1121,34 +1121,6 @@
       "url": "https://open.spotify.com/track/6SRDN6AyatafwXnJh6KI1n"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Gas Pedal Remix",
-        "url": "https://open.spotify.com/album/5nshc7uzMruLtzRAErOway"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        },
-        {
-          "name": "Sage The Gemini",
-          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
-        }
-      ],
-      "duration_ms": 130070,
-      "name": "Gas Pedal Remix",
-      "url": "https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB"
-    },
-    {
       "added_at": "2024-05-24 04:00:00",
       "album": {
         "name": "Push",
@@ -1179,6 +1151,34 @@
       "duration_ms": 185244,
       "name": "Push",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Gas Pedal Remix",
+        "url": "https://open.spotify.com/album/5nshc7uzMruLtzRAErOway"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Sage The Gemini",
+          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+        }
+      ],
+      "duration_ms": 130070,
+      "name": "Gas Pedal Remix",
+      "url": "https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1217,30 +1217,6 @@
       "url": "https://open.spotify.com/track/01ywNfttBNmwRESQd3RKGb"
     },
     {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "I'll Wait For You",
-        "url": "https://open.spotify.com/album/7KoKBGgqZFDmZ4LQdef74V"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "I'll Wait For You",
-      "url": "https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "4EVR",
@@ -1265,6 +1241,30 @@
       "url": "https://open.spotify.com/track/4elUJWLSukWtdMmNIjGQKM"
     },
     {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "I'll Wait For You",
+        "url": "https://open.spotify.com/album/7KoKBGgqZFDmZ4LQdef74V"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "duration_ms": 205241,
+      "name": "I'll Wait For You",
+      "url": "https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Hallelujah",
@@ -1285,26 +1285,6 @@
       "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "In The Cut",
-        "url": "https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        }
-      ],
-      "duration_ms": 167516,
-      "name": "In The Cut",
-      "url": "https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "ONE FOR YOU",
@@ -1323,6 +1303,26 @@
       "duration_ms": 152516,
       "name": "ONE FOR YOU",
       "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "In The Cut",
+        "url": "https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 167516,
+      "name": "In The Cut",
+      "url": "https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1405,6 +1405,26 @@
       "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
     },
     {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Sploinky Dub",
+        "url": "https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Grech",
+          "url": "https://open.spotify.com/artist/6z1We817VZisHPTNCJi2cd"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sploinky Dub",
+      "url": "https://open.spotify.com/track/0b8WrzU0hzr5WH2uEpMlcL"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Not Even Love (MUZZ Remix)",
@@ -1427,26 +1447,6 @@
       "duration_ms": 191234,
       "name": "Not Even Love - MUZZ Remix",
       "url": "https://open.spotify.com/track/4C6BVbsJTydFx5moRR71Q3"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Sploinky Dub",
-        "url": "https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Grech",
-          "url": "https://open.spotify.com/artist/6z1We817VZisHPTNCJi2cd"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sploinky Dub",
-      "url": "https://open.spotify.com/track/0b8WrzU0hzr5WH2uEpMlcL"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1669,6 +1669,30 @@
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
     },
     {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/3hSxdXLOtRsTJ6buJHWSvx"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "Cammie Robinson",
+          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
+        }
+      ],
+      "duration_ms": 244965,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/4a83gGp7WNs0UzwzKPCY4C"
+    },
+    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "Together As One",
@@ -1711,30 +1735,6 @@
       "duration_ms": 259862,
       "name": "Light In The Dark",
       "url": "https://open.spotify.com/track/1yh9noITAWOzxCtJdkD40W"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "On Repeat",
-        "url": "https://open.spotify.com/album/3hSxdXLOtRsTJ6buJHWSvx"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "Cammie Robinson",
-          "url": "https://open.spotify.com/artist/4CzzY9kG8C2BLOuTuy3oLe"
-        }
-      ],
-      "duration_ms": 244965,
-      "name": "On Repeat",
-      "url": "https://open.spotify.com/track/4a83gGp7WNs0UzwzKPCY4C"
     },
     {
       "added_at": "2024-02-23 05:00:30",
@@ -1989,28 +1989,28 @@
       "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Satellite (Wooli Remix)",
-        "url": "https://open.spotify.com/album/3IcLn86DkBofZ2Z5gqIfrH"
+        "name": "SKYLINE**",
+        "url": "https://open.spotify.com/album/4iLLeBu3FMD8jTUM1J1rvo"
       },
       "artists": [
         {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
         },
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         },
         {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "Lucy Lucy",
+          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
         }
       ],
-      "duration_ms": 205241,
-      "name": "Satellite - Wooli Remix",
-      "url": "https://open.spotify.com/track/3tiC6D3N07kUIJXKNDRHjy"
+      "duration_ms": 162500,
+      "name": "SKYLINE**",
+      "url": "https://open.spotify.com/track/6uHRgUYrW8FuudgLLYydjU"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2073,28 +2073,28 @@
       "url": "https://open.spotify.com/track/46ghb0YdtspAFUtmxtNgNo"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "SKYLINE**",
-        "url": "https://open.spotify.com/album/4iLLeBu3FMD8jTUM1J1rvo"
+        "name": "Satellite (Wooli Remix)",
+        "url": "https://open.spotify.com/album/3IcLn86DkBofZ2Z5gqIfrH"
       },
       "artists": [
         {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
         },
         {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         },
         {
-          "name": "Lucy Lucy",
-          "url": "https://open.spotify.com/artist/7uYoEtXQoNAmnvOkIPjwcs"
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
         }
       ],
-      "duration_ms": 162500,
-      "name": "SKYLINE**",
-      "url": "https://open.spotify.com/track/6uHRgUYrW8FuudgLLYydjU"
+      "duration_ms": 205241,
+      "name": "Satellite - Wooli Remix",
+      "url": "https://open.spotify.com/track/3tiC6D3N07kUIJXKNDRHjy"
     },
     {
       "added_at": "2024-03-29 04:00:00",

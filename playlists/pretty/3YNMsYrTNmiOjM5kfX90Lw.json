@@ -1,6 +1,6 @@
 {
   "description": "Hip-hop favorites. Songs distributed by DistroKid, playlist curated by the public. To vote, head to: distrokid.com/spotlight",
-  "num_followers": 432569,
+  "num_followers": 432684,
   "original_name": "DistroKid Rap Scallion",
   "owner": {
     "name": "DistroKid",
@@ -102,6 +102,10 @@
         {
           "name": "ZimFamilia",
           "url": "https://open.spotify.com/artist/26EzLY5mpFGTo9JeYsqCfD"
+        },
+        {
+          "name": "ViBEn2L",
+          "url": "https://open.spotify.com/artist/6KvulmqHd9NQ0N91lJLZGe"
         }
       ],
       "duration_ms": 171000,

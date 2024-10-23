@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,108 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,140 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 95 | [CKULO](https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [CKULO](https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW) | 2:32 |
 | 96 | [Culo](https://open.spotify.com/track/6HD1Fez3zHqBLVAG92i06U) | [Mariline](https://open.spotify.com/artist/3NLFKv17mDCARVJdf3a2s4), [Big O](https://open.spotify.com/artist/4uBuaf1JOKbUdSXGw5eusl), [Jonfy](https://open.spotify.com/artist/028DpH7rTwRlVFTXPDY3LJ) | [Culo](https://open.spotify.com/album/5JVaZThemCsRFGs94NnMID) | 2:14 |
 | 97 | [Bonito](https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl) | [Bonito](https://open.spotify.com/album/69UvyIqfB5VUm1n0NMwZEU) | 2:43 |
-| 98 | [Ya Me Voy](https://open.spotify.com/track/3Mg9pxQT9X6tyPrxU81gy7) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Franklyn Watts](https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn), [Fuzzy Cufflinxxx](https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19) | [Ya Me Voy](https://open.spotify.com/album/5XM1OYppqZmJhUsP5tx3Mt) | 3:25 |
-| 99 | [Esta Pegao](https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Esta Pegao](https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1) | 2:30 |
+| 98 | [Esta Pegao](https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Esta Pegao](https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1) | 2:30 |
+| 99 | [Ya Me Voy](https://open.spotify.com/track/3Mg9pxQT9X6tyPrxU81gy7) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Franklyn Watts](https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn), [Fuzzy Cufflinxxx](https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19) | [Ya Me Voy](https://open.spotify.com/album/5XM1OYppqZmJhUsP5tx3Mt) | 3:25 |
 | 100 | [Yo Contigo](https://open.spotify.com/track/4hxjSgsOe5hCNwFv4L2IbI) | [ATALE](https://open.spotify.com/artist/4dcX4RK3q1qFZaOqyANmut), [Lion](https://open.spotify.com/artist/6D1hKCdOPTrPRBowFYJbhk), [donatello.](https://open.spotify.com/artist/1o0PcS7q3tbBgI1MFc2RQ7) | [Yo Contigo](https://open.spotify.com/album/0nSlUHddS5dfclkjaUF3z8) | 2:42 |
 
 Snapshot ID: `ZwiiwAAAAAClk4jHobFIa66u6u18uHg1`

@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 317528,
+  "num_followers": 317559,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -487,18 +487,26 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "Below Dawn",
-        "url": "https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw"
+        "name": "Tuna Salad Samba",
+        "url": "https://open.spotify.com/album/2HdHgXthMDcgX7ksS9Z8pz"
       },
       "artists": [
         {
-          "name": "Bryony Jarman-Pinto",
-          "url": "https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv"
+          "name": "Leo Nankawa",
+          "url": "https://open.spotify.com/artist/1HEPFSSBiBQjUr4G1B3ZBV"
+        },
+        {
+          "name": "Saiming",
+          "url": "https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9"
+        },
+        {
+          "name": "Bpm Music Collective",
+          "url": "https://open.spotify.com/artist/2klqFMaLynLDesQ295QNV8"
         }
       ],
-      "duration_ms": 250941,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
+      "duration_ms": 158873,
+      "name": "Tuna Salad Samba",
+      "url": "https://open.spotify.com/track/0wkTHSjxa25LvFpK79FGAq"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -539,26 +547,18 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "Tuna Salad Samba",
-        "url": "https://open.spotify.com/album/2HdHgXthMDcgX7ksS9Z8pz"
+        "name": "Below Dawn",
+        "url": "https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw"
       },
       "artists": [
         {
-          "name": "Leo Nankawa",
-          "url": "https://open.spotify.com/artist/1HEPFSSBiBQjUr4G1B3ZBV"
-        },
-        {
-          "name": "Saiming",
-          "url": "https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9"
-        },
-        {
-          "name": "Bpm Music Collective",
-          "url": "https://open.spotify.com/artist/2klqFMaLynLDesQ295QNV8"
+          "name": "Bryony Jarman-Pinto",
+          "url": "https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv"
         }
       ],
-      "duration_ms": 158873,
-      "name": "Tuna Salad Samba",
-      "url": "https://open.spotify.com/track/0wkTHSjxa25LvFpK79FGAq"
+      "duration_ms": 250941,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
+        "name": "Honest Mistake",
+        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 227177,
+      "name": "Honest Mistake",
+      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
         "name": "Darkest Nights",
         "url": "https://open.spotify.com/album/7k7iBgsyVYInhQ3gjRelV6"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 236186,
       "name": "Checkpoint (Violence)",
       "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
-        "name": "Honest Mistake",
-        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 227177,
-      "name": "Honest Mistake",
-      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "In The Void of All Things",
-        "url": "https://open.spotify.com/album/5L7QNd8q9TTLqzjNMXBcVR"
-      },
-      "artists": [
-        {
-          "name": "Kinkajous",
-          "url": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
-        }
-      ],
-      "duration_ms": 200009,
-      "name": "In The Void of All Things",
-      "url": "https://open.spotify.com/track/0VfmoZjMGHS1OXeoCNyobC"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
         "name": "Who We Are",
         "url": "https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz"
       },
@@ -987,22 +971,18 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/2NY2edrq5vozPIDkyn0zrs"
+        "name": "In The Void of All Things",
+        "url": "https://open.spotify.com/album/5L7QNd8q9TTLqzjNMXBcVR"
       },
       "artists": [
         {
-          "name": "Boyan",
-          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
-        },
-        {
-          "name": "Stefan Mahendra",
-          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+          "name": "Kinkajous",
+          "url": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/082cdgTa4xK8dmgNKQ1evt"
+      "duration_ms": 200009,
+      "name": "In The Void of All Things",
+      "url": "https://open.spotify.com/track/0VfmoZjMGHS1OXeoCNyobC"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1023,6 +1003,26 @@
       "duration_ms": 196000,
       "name": "Liam's Eavestaff",
       "url": "https://open.spotify.com/track/6f95xzUOBAQkdjggMDR06m"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/2NY2edrq5vozPIDkyn0zrs"
+      },
+      "artists": [
+        {
+          "name": "Boyan",
+          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
+        },
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/082cdgTa4xK8dmgNKQ1evt"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "SHINE IN",
-        "url": "https://open.spotify.com/album/4aOc1sIevjX4PBCv8p18kV"
+        "name": "Let It Unfold",
+        "url": "https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O"
       },
       "artists": [
         {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
         }
       ],
-      "duration_ms": 170684,
-      "name": "SHINE IN",
-      "url": "https://open.spotify.com/track/6Fwf2T6bVCKNs9D7HnrQOQ"
+      "duration_ms": 253313,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1099,62 +1099,18 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "Let It Unfold",
-        "url": "https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O"
+        "name": "SHINE IN",
+        "url": "https://open.spotify.com/album/4aOc1sIevjX4PBCv8p18kV"
       },
       "artists": [
         {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
         }
       ],
-      "duration_ms": 253313,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz"
-      },
-      "artists": [
-        {
-          "name": "Louis Cole",
-          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
-        },
-        {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jules Buckley",
-          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
-        }
-      ],
-      "duration_ms": 256374,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
-        "name": "ON THE MOVE",
-        "url": "https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU"
-      },
-      "artists": [
-        {
-          "name": "Close Counters",
-          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
-        },
-        {
-          "name": "Tiana Khasi",
-          "url": "https://open.spotify.com/artist/6kM1b2Ze9w94VPfq4KhJF3"
-        }
-      ],
-      "duration_ms": 222931,
-      "name": "ON THE MOVE",
-      "url": "https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU"
+      "duration_ms": 170684,
+      "name": "SHINE IN",
+      "url": "https://open.spotify.com/track/6Fwf2T6bVCKNs9D7HnrQOQ"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1179,6 +1135,50 @@
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
+        "name": "ON THE MOVE",
+        "url": "https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU"
+      },
+      "artists": [
+        {
+          "name": "Close Counters",
+          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
+        },
+        {
+          "name": "Tiana Khasi",
+          "url": "https://open.spotify.com/artist/6kM1b2Ze9w94VPfq4KhJF3"
+        }
+      ],
+      "duration_ms": 222931,
+      "name": "ON THE MOVE",
+      "url": "https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/2kxvs0BMPQVRlBo5KnqkDz"
+      },
+      "artists": [
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        },
+        {
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 256374,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/4fKGoKVkyAgZK3p3CoiZIa"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+      },
+      "artists": [
+        {
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+        }
+      ],
+      "duration_ms": 222989,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
         "name": "Fitzcarraldo",
         "url": "https://open.spotify.com/album/2zIoOw4m7koLSPlHXbflwT"
       },
@@ -1279,18 +1295,22 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/7FfQGdPblAtsR3cF7u1Qmp"
+        "name": "In The Garden",
+        "url": "https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp"
       },
       "artists": [
         {
-          "name": "Myles Sanko",
-          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        },
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
         }
       ],
-      "duration_ms": 222989,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
+      "duration_ms": 280586,
+      "name": "In The Garden",
+      "url": "https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1343,26 +1363,6 @@
       "duration_ms": 160578,
       "name": "BEG",
       "url": "https://open.spotify.com/track/6lDnQf5fGYyqGdCwgwVgZs"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
-        "name": "When It Comes Together",
-        "url": "https://open.spotify.com/album/7IL0Qmw3AzVtUSbXa6dGic"
-      },
-      "artists": [
-        {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
-        },
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "When It Comes Together",
-      "url": "https://open.spotify.com/track/2izmpN7vA1Xn8I5FBLls6n"
     }
   ],
   "unique_name": "Jazz UK",

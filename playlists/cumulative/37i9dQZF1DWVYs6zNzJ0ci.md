@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-374 songs - 1 day 0 hr 38 min
+375 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Babylon Will Fall](https://open.spotify.com/track/2t8F5RetPO9gKWAUKoQjcI) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [At 333 House](https://open.spotify.com/album/1ZoJQSxfZempYe5j2auBLh) | 3:06 | 2022-04-01 | 2022-04-20 |
 | [Basyer](https://open.spotify.com/track/6wrS7j5YmRT1qtTE7jLCOB) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50) | [Basyer](https://open.spotify.com/album/6wUDb1VSlXl8cKulCmZfhx) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Besos de Limón](https://open.spotify.com/track/6OFLfh8JGk19XO7w0bnVio) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Besos de Limón](https://open.spotify.com/album/1Enr4SWH5n5D78TskeugFA) | 3:29 | 2021-12-10 | 2022-06-28 |
-| [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 | 2021-12-10 |  |
+| [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 | 2021-12-10 | 2024-10-23 |
 | [Bff <3](https://open.spotify.com/track/0XQsWXjHkSjLuSHnHB1qLL) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Bff <3](https://open.spotify.com/album/0sQbAzt4xQNbYTVRcEEhss) | 2:53 | 2023-07-21 | 2024-04-19 |
 | [Bff <3](https://open.spotify.com/track/1i1RYy42uVr7KBCpA5Gjym) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Bff <3](https://open.spotify.com/album/25pzrcoYq32V2h8LNz42Wu) | 2:53 | 2022-03-11 | 2023-07-22 |
 | [Big Combination](https://open.spotify.com/track/75AOtxECnlRYLMiW5VLoDP) | [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM), [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Big Combination](https://open.spotify.com/album/6fribqOMuHhZn0igFBh8Kw) | 3:09 | 2024-01-26 |  |
@@ -266,6 +266,7 @@
 | [Pachamama](https://open.spotify.com/track/1OoqFLWN1gggXcz6htEP8Y) | [Ras Boti](https://open.spotify.com/artist/5vRJzEp59H2aPTSAuoiV76) | [Pachamama](https://open.spotify.com/album/62JHAc7fCz6NprWpfsdXF1) | 3:44 | 2022-11-18 | 2023-01-21 |
 | [Papi](https://open.spotify.com/track/0oqSDa2UpnKWwncU8Y9098) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0) | [Papi](https://open.spotify.com/album/2TCI9AcDhC6ksP5JMyAv5J) | 3:21 | 2023-05-05 | 2023-07-22 |
 | [Para Mi](https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Para Mi](https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k) | 4:27 | 2023-09-08 |  |
+| [Para No Verte Más](https://open.spotify.com/track/5TLHhrm0sGLJNpRGo1kMxU) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Muchachos](https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM) | 3:13 | 2024-10-18 |  |
 | [Parece](https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:38 | 2023-09-22 |  |
 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 | 2021-12-10 |  |
 | [Perfecta](https://open.spotify.com/track/5rGorQ0R06XveTJXMd3QRi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Perfecta](https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY) | 2:44 | 2022-09-30 |  |

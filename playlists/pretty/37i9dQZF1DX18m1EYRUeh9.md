@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Kokoroko
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,001 likes - 114 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,141 likes - 114 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

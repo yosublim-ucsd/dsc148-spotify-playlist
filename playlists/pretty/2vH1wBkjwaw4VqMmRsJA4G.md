@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vH1wBkjwaw4VqMmRsJA4G.md) - [plain]
 
 > Explicitly gay
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 10 songs - 31 min 9 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 11 songs - 34 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,5 +18,6 @@ pretty - [cumulative](/playlists/cumulative/2vH1wBkjwaw4VqMmRsJA4G.md) - [plain]
 | 8 | [he's a cannibal!](https://open.spotify.com/track/4rrEmQtXvNL9KErI6RnOTd) | [elliotly](https://open.spotify.com/artist/1rJ2wnDnAK4aZGGyKGZ4Zv) | [he's a cannibal!](https://open.spotify.com/album/4hVEOfzM7B4Rzkxuc9Wnwe) | 2:18 |
 | 9 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 |
 | 10 | [A.C.D.C.](https://open.spotify.com/track/6Ewuk64UgA3MFArybxROJR) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 3:20 |
+| 11 | [Girl in My TV](https://open.spotify.com/track/4BL4uNsG60iPTxTl80pe5f) | [Alden Derck](https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC), [Shannon Sheridan](https://open.spotify.com/artist/4Yp141vlWVAOEeVqV4anOa) | [What's Your Favorite Scary Movie?](https://open.spotify.com/album/1GRZIBtksUKWB6u7BTDX6U) | 3:04 |
 
-Snapshot ID: `AAAAD4dh57GnA3RE7r4XBspy836PROJF`
+Snapshot ID: `AAAAEM4Lt45Rz4TJnjBv+7qdmyt/YPf/`

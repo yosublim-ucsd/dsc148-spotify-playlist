@@ -13071,6 +13071,24 @@
     },
     {
       "album": {
+        "name": "NoMoreLuv4u",
+        "url": "https://open.spotify.com/album/2uYqyx1hSxvLwD2KvyF4Ao"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196186,
+      "name": "NoMoreLuv4u",
+      "url": "https://open.spotify.com/track/55Asr8Anq1QuP1URYIaSdH"
+    },
+    {
+      "album": {
         "name": "Unfold",
         "url": "https://open.spotify.com/album/5agoEPMTMTZTSKibS1jfpL"
       },
@@ -13748,6 +13766,28 @@
       "duration_ms": 175493,
       "name": "Our Funeral",
       "url": "https://open.spotify.com/track/7omCWh9TMIPGM7NziSB1E2"
+    },
+    {
+      "album": {
+        "name": "Our Home",
+        "url": "https://open.spotify.com/album/0uuO2TsNA6SLPxt6dWj9XI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Prince Billy",
+          "url": "https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV"
+        },
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Our Home",
+      "url": "https://open.spotify.com/track/12JnuOPmKnvhSKaaL13HTm"
     },
     {
       "album": {

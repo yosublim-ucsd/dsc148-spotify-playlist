@@ -4,7 +4,7 @@
 
 > Songs that are queer\. TO ME.
 
-18 songs - 1 hr 1 min
+19 songs - 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 | 2024-05-28 |  |
 | [Everyone Knows](https://open.spotify.com/track/2DcLxXXy8B7ZzCrZa4QG4M) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Sinner](https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8) | 3:13 | 2024-10-12 |  |
 | [Gay Boyfriend](https://open.spotify.com/track/38c9OMcQnx2QnVLUB2QPPS) | [Garfunkel and Oates](https://open.spotify.com/artist/2wZcAibn3pVsNvp95HQx8n) | [All Over Your Face](https://open.spotify.com/album/0HnrWJFUe3C9LMyIVdUNUP) | 2:56 | 2024-04-26 |  |
+| [Girlfriend](https://open.spotify.com/track/7FtfsZcJjfBNdhD75bXqVL) | [Alden Derck](https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC) | [Yearbook](https://open.spotify.com/album/6jQWK1EdlgEbFWFxz6etwH) | 3:51 | 2024-10-22 |  |
 | [Sea Bride](https://open.spotify.com/track/67sVehhDyuR9fztPByvCHn) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Honey Moonshine](https://open.spotify.com/album/5Aws1xUnOX5M0rBlJYa5nR) | 3:40 | 2024-09-16 |  |
 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 | 2024-02-26 |  |
 | [Steady, As She Goes](https://open.spotify.com/track/19iqWNzp5LwEdvntpEK8MP) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4fDaiqpXlswOza10LvoZHb) | 3:35 | 2024-01-02 |  |

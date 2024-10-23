@@ -4,32 +4,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie, e punk dall'Italia 🎸 Santi Francesi in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,332 likes - 113 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,330 likes - 113 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ho paura di tutto](https://open.spotify.com/track/2tEbPcXP2cKE4txG35XeYo) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [Ho paura di tutto](https://open.spotify.com/album/7JYkJb450rOu3HA4BJm0f8) | 3:18 |
-| 2 | [i miei fiumi](https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [i miei fiumi](https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6) | 3:04 |
-| 3 | [Da Solo](https://open.spotify.com/track/12VJ148Eh5UjrTuFau79B8) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Da Solo](https://open.spotify.com/album/0DtDZPYvODVD6of7IQS5y7) | 2:50 |
-| 4 | [Venere e Giove](https://open.spotify.com/track/5MzhYEq01NPQb7roGsLOSZ) | [Malamore](https://open.spotify.com/artist/1wxWynt3FCNUdWwfyxnO9C), [Maestro Pellegrini](https://open.spotify.com/artist/5MREq5pXt2KrVNONoU9w8p) | [Venere e Giove](https://open.spotify.com/album/4ATJjmSbvh3YQyTqSZ1Kcy) | 3:18 |
-| 5 | [01010110](https://open.spotify.com/track/51bWWARJjzpe0y7CL7NWOy) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Boy di ferro](https://open.spotify.com/album/5682DKwYcRlmealbSAsEMk) | 3:19 |
+| 2 | [01010110](https://open.spotify.com/track/51bWWARJjzpe0y7CL7NWOy) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Boy di ferro](https://open.spotify.com/album/5682DKwYcRlmealbSAsEMk) | 3:19 |
+| 3 | [i miei fiumi](https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [i miei fiumi](https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6) | 3:04 |
+| 4 | [Pianopiano!](https://open.spotify.com/track/51lqAz8iOM3IN8TpR4xSxA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Pianopiano!](https://open.spotify.com/album/6sE2ZeCD8jC9ds3Qq5H8vf) | 2:39 |
+| 5 | [Da Solo](https://open.spotify.com/track/12VJ148Eh5UjrTuFau79B8) | [Tonno](https://open.spotify.com/artist/2bB6iVsARQK2KQiurz1nM7) | [Da Solo](https://open.spotify.com/album/0DtDZPYvODVD6of7IQS5y7) | 2:50 |
 | 6 | [passanti](https://open.spotify.com/track/3MwGT0qVzLY59vBqJv0hng) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [passanti](https://open.spotify.com/album/740iT2xHAfKzyvkB06ogKU) | 2:37 |
 | 7 | [Cazzate](https://open.spotify.com/track/686poNbSU5uK4cA8ycFnOo) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Cazzate](https://open.spotify.com/album/4naqzX8F5nBAd9h7oiICJz) | 2:22 |
 | 8 | [Post Punk](https://open.spotify.com/track/32whoVKitdwAyuzAJmK3X1) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Post Punk](https://open.spotify.com/album/3rGqUnqIsG0tHWTvbqv30Y) | 2:32 |
-| 9 | [Pianopiano!](https://open.spotify.com/track/51lqAz8iOM3IN8TpR4xSxA) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Pianopiano!](https://open.spotify.com/album/6sE2ZeCD8jC9ds3Qq5H8vf) | 2:39 |
-| 10 | [togli, molli, togli](https://open.spotify.com/track/3JWBmEFuRnvLN7f1WtAbiT) | [Jesse the Faccio](https://open.spotify.com/artist/0SbYhjfJTmuDE1ltoEUv67) | [togli, molli, togli](https://open.spotify.com/album/0MYklaPAEYGGiOeuuhbRgb) | 2:39 |
-| 11 | [L’URLO](https://open.spotify.com/track/69WECrwaM5riHmVhOkWreo) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [L’URLO](https://open.spotify.com/album/1kKm2vGDm5OCU6s581DHRA) | 2:20 |
-| 12 | [Son of the Rambling Dawn](https://open.spotify.com/track/5ff4r3TKIiDmrSu1yrSqRo) | [Mondaze](https://open.spotify.com/artist/1sNQryemRjTyTlxrKYZcSJ) | [Son of the Rambling Dawn](https://open.spotify.com/album/5KXNsOwsHSbaNe8ZJTTeNW) | 3:38 |
-| 13 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 |
-| 14 | [Pinky](https://open.spotify.com/track/0uSIia2ftRwb7QxbB6kQsk) | [DISQUIETED BY](https://open.spotify.com/artist/3nw6fswvwRK1KDcsP2kW9m) | [Pinky](https://open.spotify.com/album/5KdfjY8lDm7JmKz389Myjg) | 2:59 |
-| 15 | [Ischia](https://open.spotify.com/track/5Wm8RI5gJA6pCqVM8PAehZ) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai), [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4) | [Ischia](https://open.spotify.com/album/1gv7rljR7gfFy9kxb2Y50v) | 4:33 |
-| 16 | [Festa](https://open.spotify.com/track/5TgNeqlMXzIYaaZyYNx6KG) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Festa](https://open.spotify.com/album/2fuci5VXQkIHoxwDe8R1aI) | 3:09 |
-| 17 | [Vigliacco](https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Vigliacco](https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS) | 3:13 |
-| 18 | [My Best](https://open.spotify.com/track/3ZnoBIFlQBagrBDlrgjaLw) | [Emilya Ndme](https://open.spotify.com/artist/7hAJreIB9WlIrZ9pZ6XeyN) | [My Best](https://open.spotify.com/album/1QXOQMlB0RC7dXM3WD9rdS) | 3:35 |
-| 19 | [Bagno](https://open.spotify.com/track/7caqKefrNovYPMx1HRru1R) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Bagno](https://open.spotify.com/album/5MGgflTk9CBbSHHYhUqsor) | 4:36 |
-| 20 | [Grigio marrone](https://open.spotify.com/track/5IiNbZdxDpSy3HCd20rDJg) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Grigio marrone](https://open.spotify.com/album/4wbNgXrLj53mYSfZhxJ6Tb) | 3:10 |
-| 21 | [Satelliti](https://open.spotify.com/track/416FdhPecfjpDTAEexLWkq) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY) | [Satelliti](https://open.spotify.com/album/0xEzffZQDDs42p3m4mJaaE) | 3:03 |
-| 22 | [Cane](https://open.spotify.com/track/2e3OME9HzsagNojdCNLCcm) | [Sandri](https://open.spotify.com/artist/0AEOCq3iAEDInYuL4baJAW) | [CANE / NEANCHE IL TEMPO DI UNA RÉCLAME](https://open.spotify.com/album/0oeGVMaEjkj9KsrkM0IwZX) | 2:24 |
+| 9 | [togli, molli, togli](https://open.spotify.com/track/3JWBmEFuRnvLN7f1WtAbiT) | [Jesse the Faccio](https://open.spotify.com/artist/0SbYhjfJTmuDE1ltoEUv67) | [togli, molli, togli](https://open.spotify.com/album/0MYklaPAEYGGiOeuuhbRgb) | 2:39 |
+| 10 | [L’URLO](https://open.spotify.com/track/69WECrwaM5riHmVhOkWreo) | [CIMINI](https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf) | [L’URLO](https://open.spotify.com/album/1kKm2vGDm5OCU6s581DHRA) | 2:20 |
+| 11 | [Son of the Rambling Dawn](https://open.spotify.com/track/5ff4r3TKIiDmrSu1yrSqRo) | [Mondaze](https://open.spotify.com/artist/1sNQryemRjTyTlxrKYZcSJ) | [Son of the Rambling Dawn](https://open.spotify.com/album/5KXNsOwsHSbaNe8ZJTTeNW) | 3:38 |
+| 12 | [Passo dopo Passo](https://open.spotify.com/track/3yIrxJxHEAncmlhQz4RnWm) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq) | [Passo dopo Passo](https://open.spotify.com/album/5SXu2FqI5vUfShFREq6Z2k) | 3:15 |
+| 13 | [Pinky](https://open.spotify.com/track/0uSIia2ftRwb7QxbB6kQsk) | [DISQUIETED BY](https://open.spotify.com/artist/3nw6fswvwRK1KDcsP2kW9m) | [Pinky](https://open.spotify.com/album/5KdfjY8lDm7JmKz389Myjg) | 2:59 |
+| 14 | [Ischia](https://open.spotify.com/track/5Wm8RI5gJA6pCqVM8PAehZ) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai), [Peppino Di Capri](https://open.spotify.com/artist/4zg9VA3wNR2KFwpvPabqa4) | [Ischia](https://open.spotify.com/album/1gv7rljR7gfFy9kxb2Y50v) | 4:33 |
+| 15 | [Festa](https://open.spotify.com/track/5TgNeqlMXzIYaaZyYNx6KG) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Festa](https://open.spotify.com/album/2fuci5VXQkIHoxwDe8R1aI) | 3:09 |
+| 16 | [Vigliacco](https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Vigliacco](https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS) | 3:13 |
+| 17 | [My Best](https://open.spotify.com/track/3ZnoBIFlQBagrBDlrgjaLw) | [Emilya Ndme](https://open.spotify.com/artist/7hAJreIB9WlIrZ9pZ6XeyN) | [My Best](https://open.spotify.com/album/1QXOQMlB0RC7dXM3WD9rdS) | 3:35 |
+| 18 | [Bagno](https://open.spotify.com/track/7caqKefrNovYPMx1HRru1R) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Bagno](https://open.spotify.com/album/5MGgflTk9CBbSHHYhUqsor) | 4:36 |
+| 19 | [Grigio marrone](https://open.spotify.com/track/5IiNbZdxDpSy3HCd20rDJg) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Grigio marrone](https://open.spotify.com/album/4wbNgXrLj53mYSfZhxJ6Tb) | 3:10 |
+| 20 | [Satelliti](https://open.spotify.com/track/416FdhPecfjpDTAEexLWkq) | [Zagreb](https://open.spotify.com/artist/72ampwyFXEhwaReO0BZ4WY) | [Satelliti](https://open.spotify.com/album/0xEzffZQDDs42p3m4mJaaE) | 3:03 |
+| 21 | [Cane](https://open.spotify.com/track/2e3OME9HzsagNojdCNLCcm) | [Sandri](https://open.spotify.com/artist/0AEOCq3iAEDInYuL4baJAW) | [CANE / NEANCHE IL TEMPO DI UNA RÉCLAME](https://open.spotify.com/album/0oeGVMaEjkj9KsrkM0IwZX) | 2:24 |
+| 22 | [Venere e Giove](https://open.spotify.com/track/5MzhYEq01NPQb7roGsLOSZ) | [Malamore](https://open.spotify.com/artist/1wxWynt3FCNUdWwfyxnO9C), [Maestro Pellegrini](https://open.spotify.com/artist/5MREq5pXt2KrVNONoU9w8p) | [Venere e Giove](https://open.spotify.com/album/4ATJjmSbvh3YQyTqSZ1Kcy) | 3:18 |
 | 23 | [prima d'ora](https://open.spotify.com/track/1hwVmePqZwItex3vcnyxI5) | [PRIMADORA](https://open.spotify.com/artist/6pq7P6NRqunloWGIv4NdUL) | [prima d'ora](https://open.spotify.com/album/2QAySnwfQYK7DqJ6AMZaxn) | 2:46 |
 | 24 | [La nuova canzone per me](https://open.spotify.com/track/44Gq4xUpibuO7S0DLfpGOh) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [La nuova canzone per me](https://open.spotify.com/album/2MI0HTZtuc5qX0m2ejywxZ) | 3:53 |
 | 25 | [Vorrei n0n trovarti](https://open.spotify.com/track/71yGRyN3OaYeLcnn56qqv8) | [Melli](https://open.spotify.com/artist/37BpthbBCQS5I9Btu6hZqR) | [Vorrei n0n trovarti](https://open.spotify.com/album/1wwZx1VmhWXbwes0BUU29h) | 2:37 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 112 | [Gigante](https://open.spotify.com/track/2YGGGRBXYoYSnswzInUgNK) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Gigante](https://open.spotify.com/album/7z3Hl4qW6YjQF0D2cQEDAP) | 3:02 |
 | 113 | [Garageband](https://open.spotify.com/track/76PmFAwIiElCH5iaMrczvg) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Garageband](https://open.spotify.com/album/6VKg3uA2hB6HS8aO3xIDyJ) | 3:17 |
 
-Snapshot ID: `ZxGJHAAAAADYVBDCDuW1P+mui6uZeNBl`
+Snapshot ID: `ZxeiLQAAAABqpp/fWSGlz3ICFdS/E+Lw`

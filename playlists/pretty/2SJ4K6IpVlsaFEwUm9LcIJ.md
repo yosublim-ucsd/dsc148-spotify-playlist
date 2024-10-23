@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 21,816 likes - 55 songs - 3 hr 7 min
+[margeaux](https://open.spotify.com/user/1220511975) - 21,822 likes - 57 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 53 | [Laugh, Laugh](https://open.spotify.com/track/66V3speCvzVe6lUnIezZ0J) | [The Beau Brummels](https://open.spotify.com/artist/4DQj1q0unpi9KF8jO1Wqks) | [Introducing The Beau Brummels](https://open.spotify.com/album/3qWJ6R8Wg3PPCAOToluwPJ) | 2:56 |
 | 54 | [CLONES](https://open.spotify.com/track/5M0Y1xCKHmyH1zWnHOnOkC) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 3:02 |
 | 55 | [MOTION SICKNESS](https://open.spotify.com/track/3V5s3euCe2CWbNVLfgKnQT) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 1:45 |
+| 56 | [Mournin' Glory Story](https://open.spotify.com/track/0gpGBZAX9ASpInrBXcg1te) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Harry](https://open.spotify.com/album/1lQCkCt8zS3ZWSIE0YAmKW) | 2:12 |
+| 57 | [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 |
 
-Snapshot ID: `AAALNRowDBW/4Tr51qw5YKLnW9ty9Jlz`
+Snapshot ID: `AAALNw815sj0fxWs+2gLZ3RFHdOevTSU`

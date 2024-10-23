@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: Oscar, RAVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,754 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,830 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 34 | [Las\-o așa](https://open.spotify.com/track/0I0hHI96Gl0Q7xE3EWeZLG) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Las\-o așa](https://open.spotify.com/album/2flsDPjDVpyrv62IByLCcj) | 2:46 |
 | 35 | [Ciocolata](https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Ciocolata](https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4) | 2:49 |
 | 36 | [Guli Guli \- From "Buzz House" The Movie](https://open.spotify.com/track/3NlplVGSFT0fwcEhk6FJ3Z) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Guli Guli \(From "Buzz House" The Movie\)](https://open.spotify.com/album/4D5KRniPBEcRj4aao6XR5V) | 2:28 |
-| 37 | [Jeleu \- From "Candidatul Perfect"](https://open.spotify.com/track/0f8WNnOzO1K8NXuWkSdX2m) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Denis Ramniceanu](https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Jeleu \(From "Candidatul Perfect"\)](https://open.spotify.com/album/4gk3J91ui1WaYvBk7eF893) | 2:53 |
+| 37 | [Jeleu \- From "Candidatul Perfect" The Movie](https://open.spotify.com/track/0f8WNnOzO1K8NXuWkSdX2m) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Denis Ramniceanu](https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Jeleu \(From "Candidatul Perfect" The Movie\)](https://open.spotify.com/album/4gk3J91ui1WaYvBk7eF893) | 2:53 |
 | 38 | [X6](https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6](https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3) | 2:29 |
 | 39 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 |
 | 40 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 |

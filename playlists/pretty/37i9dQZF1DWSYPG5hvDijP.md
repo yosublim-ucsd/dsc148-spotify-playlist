@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India\. Cover: MC INSANE
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,863 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,889 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 6 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 |
 | 7 | [Jawab De](https://open.spotify.com/track/5D0DPHvozDW5qDLK7SS83X) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [DEETOCX](https://open.spotify.com/artist/47NZwnzAbq5fRaObML4tn3) | [Jawab De](https://open.spotify.com/album/6gQbhFLkMM1b0dcYPz4PLL) | 3:15 |
 | 8 | [Dhyaan Se](https://open.spotify.com/track/5vBl4keuohlsqXdmz5hw76) | [vijay dada](https://open.spotify.com/artist/5inpoNmMNM5jGVdvyzm4wL), [Arabinda Neog](https://open.spotify.com/artist/4O0UY7QlS80oeDZB1g7iWf), [Gauranga Shekhar](https://open.spotify.com/artist/7KCPaxk6t5K6DLdZfdakYy) | [Dhyaan Se](https://open.spotify.com/album/2YpqvLTfOCzVBfa4lE3SNh) | 3:11 |
-| 9 | [KILL'EM](https://open.spotify.com/track/1XyAh3EeohzGtMx3Fokdfm) | [SOS](https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc), [Ahmer](https://open.spotify.com/artist/0EAfS9gQe5SCtQp1R6hJqG) | [KILL'EM](https://open.spotify.com/album/0lgEC0F6fVYkaQ1wbH2vzN) | 3:15 |
+| 9 | [KILL'EM](https://open.spotify.com/track/1XyAh3EeohzGtMx3Fokdfm) | [SOS](https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc), [Ahmer](https://open.spotify.com/artist/0EAfS9gQe5SCtQp1R6hJqG), [So Fire](https://open.spotify.com/artist/0kXEmLXvRtkBRsAwMtluDr) | [KILL'EM](https://open.spotify.com/album/0lgEC0F6fVYkaQ1wbH2vzN) | 3:15 |
 | 10 | [Painful weather](https://open.spotify.com/track/55LUJfwGl4lmmhNY8QFxOo) | [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq) | [The Heal Album](https://open.spotify.com/album/1zb1bWKMryfC8vYUTkmMpQ) | 3:57 |
 | 11 | [All Bout Me](https://open.spotify.com/track/4MpzDc1zB9ZD0sZQ70pAus) | [Jas Dhillon](https://open.spotify.com/artist/2airdhY6xFwKcT9xEvYkHO), [SXRPANCH](https://open.spotify.com/artist/4BrIojCbr3rc1I2tJBdNYv) | [All Bout Me](https://open.spotify.com/album/1arumypsUacYzUOyoL7yrv) | 3:10 |
 | 12 | [Aji Ghanta](https://open.spotify.com/track/6MSf6wBJfiICajQRd6UTZJ) | [Hashtag Rv](https://open.spotify.com/artist/4WvHsUaJVGnrRKJSEIKfHV) | [Aji Ghanta](https://open.spotify.com/album/6hg62gYftHls0qCgajYfVQ) | 2:29 |

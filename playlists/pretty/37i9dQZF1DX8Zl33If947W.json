@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 175635,
+  "num_followers": 175679,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-10-09 06:38:07",
       "album": {
-        "name": "Bunte Scherben",
-        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
-      },
-      "artists": [
-        {
-          "name": "Keimzeit",
-          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Kling Klang",
-      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
-    },
-    {
-      "added_at": "2024-10-09 06:38:07",
-      "album": {
         "name": "Das gr\u00f6\u00dfte Kompliment",
         "url": "https://open.spotify.com/album/31LCqXWk5U4kiPJa3sdmJ1"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 148248,
       "name": "Das gr\u00f6\u00dfte Kompliment",
       "url": "https://open.spotify.com/track/79m5b3QJwIlnseSqGfJNo9"
+    },
+    {
+      "added_at": "2024-10-09 06:38:07",
+      "album": {
+        "name": "Bunte Scherben",
+        "url": "https://open.spotify.com/album/0d4rAOUhOVFH1Ns6ZDXWpk"
+      },
+      "artists": [
+        {
+          "name": "Keimzeit",
+          "url": "https://open.spotify.com/artist/7ynsUZ8GP3m1rFDjvs2svD"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Kling Klang",
+      "url": "https://open.spotify.com/track/2PqKNYsquDC99ZEcQvdGnz"
     },
     {
       "added_at": "2024-10-09 06:38:07",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-09 06:38:07",
       "album": {
-        "name": "Sag deinem Ex",
-        "url": "https://open.spotify.com/album/4JnsQzKHYZGcYF1v2YW4Jr"
-      },
-      "artists": [
-        {
-          "name": "JONA",
-          "url": "https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Sag deinem Ex",
-      "url": "https://open.spotify.com/track/2f00EC28b8bsBL0uAH61Gv"
-    },
-    {
-      "added_at": "2024-10-09 06:38:07",
-      "album": {
         "name": "Bambule",
         "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 254080,
       "name": "Liebes Lied",
       "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
+    },
+    {
+      "added_at": "2024-10-09 06:38:07",
+      "album": {
+        "name": "Sag deinem Ex",
+        "url": "https://open.spotify.com/album/4JnsQzKHYZGcYF1v2YW4Jr"
+      },
+      "artists": [
+        {
+          "name": "JONA",
+          "url": "https://open.spotify.com/artist/64x9nivyNE39JfmRiz2eM6"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Sag deinem Ex",
+      "url": "https://open.spotify.com/track/2f00EC28b8bsBL0uAH61Gv"
     },
     {
       "added_at": "2024-10-09 06:38:07",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-10-09 06:38:07",
       "album": {
-        "name": "Tanz Der Molek\u00fcle",
-        "url": "https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3"
-      },
-      "artists": [
-        {
-          "name": "Mia.",
-          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "Tanz der Molek\u00fcle - Single Version",
-      "url": "https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk"
-    },
-    {
-      "added_at": "2024-10-09 06:38:07",
-      "album": {
         "name": "2012",
         "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
       },
@@ -907,6 +891,38 @@
       "duration_ms": 170200,
       "name": "2012",
       "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
+    },
+    {
+      "added_at": "2024-10-09 06:38:07",
+      "album": {
+        "name": "Tanz Der Molek\u00fcle",
+        "url": "https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3"
+      },
+      "artists": [
+        {
+          "name": "Mia.",
+          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "Tanz der Molek\u00fcle - Single Version",
+      "url": "https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk"
+    },
+    {
+      "added_at": "2024-10-09 06:38:07",
+      "album": {
+        "name": "Liebeslieder",
+        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
+      },
+      "artists": [
+        {
+          "name": "Alexander Eder",
+          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
+        }
+      ],
+      "duration_ms": 147825,
+      "name": "Liebeslieder",
+      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
     },
     {
       "added_at": "2024-10-09 06:38:07",
@@ -931,22 +947,6 @@
       "duration_ms": 180146,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
-    },
-    {
-      "added_at": "2024-10-09 06:38:07",
-      "album": {
-        "name": "Liebeslieder",
-        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
-      },
-      "artists": [
-        {
-          "name": "Alexander Eder",
-          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
-        }
-      ],
-      "duration_ms": 147825,
-      "name": "Liebeslieder",
-      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
     },
     {
       "added_at": "2024-10-09 06:38:07",

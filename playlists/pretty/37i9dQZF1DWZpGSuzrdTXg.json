@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwhOYAAAAABfqf2IyCmnoHbObqevwUNw",
+  "snapshot_id": "ZxeNEgAAAACUKVhPt5+TahP/k6ZnVo9N",
   "tracks": [
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Goodbye to the Valley Low (Side B)",
+        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 262160,
+      "name": "I'm Not Ready To Go",
+      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
+    },
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
@@ -27,18 +43,18 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Silent River",
-        "url": "https://open.spotify.com/album/7HMMwFIxoBiCCOzuMrk85L"
+        "name": "Going My Own Way",
+        "url": "https://open.spotify.com/album/2Q7JTNzHTN2UpovV2fokYW"
       },
       "artists": [
         {
-          "name": "Gildor",
-          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
         }
       ],
-      "duration_ms": 203320,
-      "name": "Fine Wine",
-      "url": "https://open.spotify.com/track/03e2n55ONBBrcpj0O6117x"
+      "duration_ms": 161461,
+      "name": "Life Support",
+      "url": "https://open.spotify.com/track/77NxqYYkDOyawSsBrAodY8"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -203,22 +219,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Goodbye to the Valley Low (Side B)",
-        "url": "https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 262160,
-      "name": "I'm Not Ready To Go",
-      "url": "https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "April May July",
         "url": "https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc"
       },
@@ -235,18 +235,34 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "Going My Own Way",
-        "url": "https://open.spotify.com/album/2Q7JTNzHTN2UpovV2fokYW"
+        "name": "i am not who i was",
+        "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
       "artists": [
         {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 161461,
-      "name": "Life Support",
-      "url": "https://open.spotify.com/track/77NxqYYkDOyawSsBrAodY8"
+      "duration_ms": 145438,
+      "name": "i am not who i was",
+      "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "Silent River",
+        "url": "https://open.spotify.com/album/7HMMwFIxoBiCCOzuMrk85L"
+      },
+      "artists": [
+        {
+          "name": "Gildor",
+          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Fine Wine",
+      "url": "https://open.spotify.com/track/03e2n55ONBBrcpj0O6117x"
     },
     {
       "added_at": "2024-10-10 22:00:00",
@@ -459,22 +475,6 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
-        "name": "i am not who i was",
-        "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 145438,
-      "name": "i am not who i was",
-      "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
     },
     {
       "added_at": "2024-10-10 22:00:00",

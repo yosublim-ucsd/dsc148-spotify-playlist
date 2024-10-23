@@ -331,6 +331,28 @@
     },
     {
       "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153387,
+      "name": "B2b featuring tinashe",
+      "url": "https://open.spotify.com/track/2xsvVV9DXvYtqXId9Uf2ra"
+    },
+    {
+      "album": {
         "name": "Baby Forgive Me (Floorplan Remix)",
         "url": "https://open.spotify.com/album/5HM19hFWK4r3A2tvePHokn"
       },
@@ -884,10 +906,32 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 153526,
       "name": "Club classics",
       "url": "https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174325,
+      "name": "Club classics featuring bb trickz",
+      "url": "https://open.spotify.com/track/2zbtUOuh8lREqhg8JCRrhs"
     },
     {
       "album": {
@@ -5322,7 +5366,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 277491,
       "name": "The Countdown",
       "url": "https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz"
@@ -5424,7 +5468,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 140000,
       "name": "Throat Goat",
       "url": "https://open.spotify.com/track/2eKFa10K8Hu1VCTLm3DUkO"
@@ -5534,6 +5578,24 @@
       "duration_ms": 237496,
       "name": "Trust",
       "url": "https://open.spotify.com/track/2FfIlhqu5PONOnlXoRatom"
+    },
+    {
+      "album": {
+        "name": "TRUST!",
+        "url": "https://open.spotify.com/album/6bJsuHBllmyGoMcRbsXaep"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171433,
+      "name": "TRUST!",
+      "url": "https://open.spotify.com/track/0bxWdk5xYFcV7cm0tj6Q0R"
     },
     {
       "album": {

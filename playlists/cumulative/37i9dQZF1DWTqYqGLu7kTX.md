@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-207 songs - 10 hr 25 min
+208 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 | 2023-03-18 | 2024-08-24 |
 | [Brown Shortie \(feat\. Sonam Bajwa\)](https://open.spotify.com/track/61gu4XQFyAfIUneEyW4EJu) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sonam Bajwa](https://open.spotify.com/artist/2SyZp7V9vbRK1crDWxy4Ds) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:28 | 2023-03-18 |  |
 | [Calgary](https://open.spotify.com/track/3DiJ2iurZ6wM1Kx90Z2RWt) | [Jorge Gill](https://open.spotify.com/artist/7D1zOODZVM2HxjVDsGX5L1), [Xonest](https://open.spotify.com/artist/2wBImPdy71sydschNwHo9U) | [Calgary](https://open.spotify.com/album/4vL7XeY4m0Ay8cF1MWDt1S) | 2:43 | 2024-08-27 | 2024-09-12 |
+| [Cash Flow](https://open.spotify.com/track/3N8QJXbV2PjxbkC1wVMNdu) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Cash Flow](https://open.spotify.com/album/6oToj3eQlsBeuKcZnFBE2t) | 4:22 | 2024-10-22 |  |
 | [Celebrity Killer \(feat\. Tion Wayne\)](https://open.spotify.com/track/19EZKr7Kf0XWCcspyWL8Rp) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:23 | 2023-03-18 | 2024-04-03 |
 | [Chak Chak Chak](https://open.spotify.com/track/2nDzukOYADCVZXytiGnnFI) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Chak Chak Chak](https://open.spotify.com/album/5Mtub8rH5hHRhKAhijK2Ks) | 2:29 | 2023-03-18 | 2023-04-24 |
 | [Champagne](https://open.spotify.com/track/7fYE7BT9Na8XpALQwuhIwX) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:02 | 2023-03-18 |  |
@@ -144,7 +145,7 @@
 | [No Love](https://open.spotify.com/track/1ejy8AVI7k1SAlWeeKaZ60) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [lorche](https://open.spotify.com/artist/644qnZiBHVcjcMCHsiV0PL) | [No Love](https://open.spotify.com/album/07SG5x4D5BLlrPcg0xBSZf) | 2:49 | 2024-01-05 | 2024-01-11 |
 | [No Love](https://open.spotify.com/track/6A2ZwOsMeomTIVhLvfXngC) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [jesp](https://open.spotify.com/artist/4A6FNKLHprsYDzim1SQAOJ), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [No Love](https://open.spotify.com/album/6qrdcQLLTx6zzvtNpGkPru) | 2:49 | 2024-01-05 | 2024-01-24 |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2023-03-18 | 2024-03-29 |
-| [No One Like You](https://open.spotify.com/track/4wAd8rvqAOIztdjJJJEah7) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Real Sheikh](https://open.spotify.com/artist/1FqIxFISLBxKVtWyCKPsOR) | [Deja Vu](https://open.spotify.com/album/4j8ZHrjf3cgM96KJU4WYNP) | 2:07 | 2024-10-16 |  |
+| [No One Like You](https://open.spotify.com/track/4wAd8rvqAOIztdjJJJEah7) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Real Sheikh](https://open.spotify.com/artist/1FqIxFISLBxKVtWyCKPsOR) | [Deja Vu](https://open.spotify.com/album/4j8ZHrjf3cgM96KJU4WYNP) | 2:07 | 2024-10-16 | 2024-10-23 |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-04-23 |  |
 | [No Regrets](https://open.spotify.com/track/2aAM91sTMQ81KdwYLXPiwM) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Lazyeye](https://open.spotify.com/artist/2EYUCVTwCcAqNnmCPCAAoQ) | [No Regrets](https://open.spotify.com/album/6KRRQoVmR0BMZn90t4i0m4) | 2:35 | 2024-04-03 | 2024-06-11 |
 | [Not Again](https://open.spotify.com/track/1GeYg8ZmnjUezVhIzdfRmd) | [Hemmy](https://open.spotify.com/artist/4MET84hruIiQ3Z05lLDNO6), [Bekhauf](https://open.spotify.com/artist/11TNfhP5pMAgWbDwPhvdg0) | [Not Again](https://open.spotify.com/album/4YoP0DeqCUpl8GtJSYIkxZ) | 3:03 | 2024-04-05 | 2024-05-23 |

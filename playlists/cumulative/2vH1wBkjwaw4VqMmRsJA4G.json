@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "What's Your Favorite Scary Movie?",
+        "url": "https://open.spotify.com/album/1GRZIBtksUKWB6u7BTDX6U"
+      },
+      "artists": [
+        {
+          "name": "Alden Derck",
+          "url": "https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC"
+        },
+        {
+          "name": "Shannon Sheridan",
+          "url": "https://open.spotify.com/artist/4Yp141vlWVAOEeVqV4anOa"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Girl in My TV",
+      "url": "https://open.spotify.com/track/4BL4uNsG60iPTxTl80pe5f"
+    },
+    {
+      "album": {
         "name": "The Platinum Collection (Greatest Hits I II & III - 2011 Remaster)",
         "url": "https://open.spotify.com/album/60Yx1xATvlWpAMzsBMMTSE"
       },

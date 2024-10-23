@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,406 likes - 60 songs - 2 hr 58 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,405 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 3 | [Opportunist](https://open.spotify.com/track/7ESmcSz98ZGni2Wm8Zucog) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Opportunist](https://open.spotify.com/album/6DfPfun9gjXfKQfPTe6i5P) | 2:36 |
 | 4 | [Why Lie?](https://open.spotify.com/track/6NpWosxIza4XEiGk190FAy) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Why Lie?](https://open.spotify.com/album/3RD3gsfCLTxbDN4fsrQJDh) | 3:46 |
 | 5 | [All Mine](https://open.spotify.com/track/03e6ATyNO3OTDDPjElXQWF) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [All Mine](https://open.spotify.com/album/62dxP5Rds4BGwzjbJlMvgI) | 2:20 |
-| 6 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:09 |
+| 6 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:10 |
 | 7 | [SHINE \(golden hour sample\)](https://open.spotify.com/track/2NU0wWf39EJS171lDRwB6d) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T), [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9), [JNR CHOI](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H), [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w), [Micah Palace](https://open.spotify.com/artist/2ORiMtfuAyIgw5tk2WnERd) | [SHINE \(golden hour sample\)](https://open.spotify.com/album/3WaWyGKpRZAm7FPKc7E5yM) | 5:07 |
 | 8 | [Barro](https://open.spotify.com/track/7k59eQ9b5KXWUNQIMrA7nI) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Barro](https://open.spotify.com/album/5dK03A4u8rzbG1XcMYCxbF) | 3:21 |
 | 9 | [25](https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:00 |

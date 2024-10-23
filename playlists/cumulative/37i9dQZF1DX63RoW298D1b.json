@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Clear waters",
+        "url": "https://open.spotify.com/album/0zek5R4VK7aRwmSQ6uoJf5"
+      },
+      "artists": [
+        {
+          "name": "Arata Rin",
+          "url": "https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197593,
+      "name": "Clear waters",
+      "url": "https://open.spotify.com/track/7ATTZzULv32ZSfRiudX0hb"
+    },
+    {
+      "album": {
         "name": "Colorful Wind",
         "url": "https://open.spotify.com/album/56klfdedaMKwnDJGFi38II"
       },

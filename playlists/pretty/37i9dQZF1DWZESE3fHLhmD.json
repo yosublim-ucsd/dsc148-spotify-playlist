@@ -1,6 +1,6 @@
 {
   "description": "Endlich Zeit f\u00fcr Herbstspazierg\u00e4nge, Gem\u00fctlichkeit & hei\u00dfe Schokolade!",
-  "num_followers": 1312531,
+  "num_followers": 1313049,
   "original_name": "Herbstgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
+        "name": "Coastal Grooves",
+        "url": "https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 292373,
+      "name": "Champagne Coast",
+      "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
-        "name": "Coastal Grooves",
-        "url": "https://open.spotify.com/album/5LMfBxAyFy41CavxGAykHR"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 292373,
-      "name": "Champagne Coast",
-      "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
         "name": "Fall out of Line",
         "url": "https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 200059,
       "name": "I Wouldn't Mind",
       "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "Geile Zeit",
-        "url": "https://open.spotify.com/album/5ZGg6JuNmc7VikmdjeOKzc"
-      },
-      "artists": [
-        {
-          "name": "PaulWetz",
-          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
-        },
-        {
-          "name": "Juli",
-          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
-        }
-      ],
-      "duration_ms": 140056,
-      "name": "Geile Zeit",
-      "url": "https://open.spotify.com/track/47UCIHMC5NtybfvIEZBD4E"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
         "name": "A-frame",
         "url": "https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 213678,
       "name": "Sing Like Madonna",
       "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
+        "name": "Geile Zeit",
+        "url": "https://open.spotify.com/album/5ZGg6JuNmc7VikmdjeOKzc"
+      },
+      "artists": [
+        {
+          "name": "PaulWetz",
+          "url": "https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
+        }
+      ],
+      "duration_ms": 140056,
+      "name": "Geile Zeit",
+      "url": "https://open.spotify.com/track/47UCIHMC5NtybfvIEZBD4E"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "Just The Beginning",
-        "url": "https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex"
-      },
-      "artists": [
-        {
-          "name": "Grace VanderWaal",
-          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
         "name": "loslassen",
         "url": "https://open.spotify.com/album/0dYAetAdTEU9qtAvtIQO2v"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 139154,
       "name": "loslassen",
       "url": "https://open.spotify.com/track/684DYzMh67ioLQQ9wJAfpm"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
+        "name": "Just The Beginning",
+        "url": "https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
         "name": "I've told the trees everything",
         "url": "https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 181925,
       "name": "Lessons",
       "url": "https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "nie wieder normal",
-        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        }
-      ],
-      "duration_ms": 197618,
-      "name": "nie wieder normal",
-      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
         "name": "In Der Zeit Verlieren",
         "url": "https://open.spotify.com/album/131JPd43brI7u4ad651rj8"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 158437,
       "name": "In Der Zeit Verlieren",
       "url": "https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
+        "name": "nie wieder normal",
+        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "duration_ms": 197618,
+      "name": "nie wieder normal",
+      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "Miss Me Too",
-        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "Miss Me Too",
-      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
-    },
-    {
-      "added_at": "2024-10-18 13:56:04",
-      "album": {
         "name": "20s",
         "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 184457,
       "name": "20s",
       "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
+    },
+    {
+      "added_at": "2024-10-18 13:56:04",
+      "album": {
+        "name": "Miss Me Too",
+        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
     },
     {
       "added_at": "2024-10-18 13:56:04",
@@ -1691,18 +1691,22 @@
     {
       "added_at": "2024-10-18 13:56:04",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+        "name": "At Your Worst (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/6BI0yzMCxkaqTmrUVm8bSh"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
         }
       ],
-      "duration_ms": 249749,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB"
+      "duration_ms": 167201,
+      "name": "At Your Worst (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/2nvrp6laQsP9kkZuc48BTR"
     }
   ],
   "unique_name": "Herbstgef\u00fchle",

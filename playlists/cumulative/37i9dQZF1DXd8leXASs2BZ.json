@@ -220,7 +220,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 127007,
       "name": "20221218",
       "url": "https://open.spotify.com/track/6fcN2s2sZzUYntuHwye4J5"
@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "mezz bunny 2",
+        "url": "https://open.spotify.com/album/1QzWbh8sZnDob3xpDSAUzn"
+      },
+      "artists": [
+        {
+          "name": "MEZZ",
+          "url": "https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188973,
+      "name": "99 Baby",
+      "url": "https://open.spotify.com/track/2ukNvj20uCZyio3g4S6v3F"
+    },
+    {
+      "album": {
         "name": "^rain>\u96e8*",
         "url": "https://open.spotify.com/album/6OU0rv4vg6qn339eEASkh1"
       },
@@ -678,7 +696,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 134000,
       "name": "After Noon",
       "url": "https://open.spotify.com/track/0MJWFLyFkIwROVd8uRzbh6"
@@ -1491,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/5EH7GcvBwcKl9oX6y8z5AE"
+      },
+      "artists": [
+        {
+          "name": "interplay",
+          "url": "https://open.spotify.com/artist/3aqzl6USx71Kd6SxlOsNz0"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163943,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/7JT20lQ7jXO26f4xa0hoRf"
+    },
+    {
+      "album": {
         "name": "BIG GEMINI",
         "url": "https://open.spotify.com/album/6sAu1jcaZouIDhaAdvIoqQ"
       },
@@ -1910,6 +1946,24 @@
       "duration_ms": 382325,
       "name": "Brico Studio Cypher",
       "url": "https://open.spotify.com/track/3lWVYAxisByY8K1JvnrHWB"
+    },
+    {
+      "album": {
+        "name": "Broke Boy Rich",
+        "url": "https://open.spotify.com/album/28FUxgcSQ8dtx1tSf1ZEPS"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136426,
+      "name": "Broke Boy Rich",
+      "url": "https://open.spotify.com/track/0dSbZGtxtsbvB6SQNafgmG"
     },
     {
       "album": {
@@ -3950,7 +4004,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 157857,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/0ADYU2UmvR1UZdbR2tHVFU"
@@ -6370,7 +6424,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 153651,
       "name": "JOURNEY",
       "url": "https://open.spotify.com/track/2DbUv7eMb1hcoUvgUIfK2h"
@@ -7573,6 +7627,28 @@
     },
     {
       "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/2Xp6JDDxV01n8y1xK5EJui"
+      },
+      "artists": [
+        {
+          "name": "Suni Rooftop",
+          "url": "https://open.spotify.com/artist/6NivOrF8DyUQe42FMOarJm"
+        },
+        {
+          "name": "NEHAN",
+          "url": "https://open.spotify.com/artist/3WblZ02gmGNwKsglkIknUq"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168965,
+      "name": "MOOD",
+      "url": "https://open.spotify.com/track/7441JF50KgvQtA3RBjesDd"
+    },
+    {
+      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/3AQ45EkARfNe3vazgOz4M1"
       },
@@ -7724,6 +7800,24 @@
       "duration_ms": 224100,
       "name": "Muzihi",
       "url": "https://open.spotify.com/track/59b11sivyb18O7E7FCm10M"
+    },
+    {
+      "album": {
+        "name": "My Life Is Don't Care",
+        "url": "https://open.spotify.com/album/7DgJKtcLuEEifQL3dj0m9R"
+      },
+      "artists": [
+        {
+          "name": "REMY FOOL",
+          "url": "https://open.spotify.com/artist/3lybRQKh1SjLKKG93F2Dq4"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221217,
+      "name": "My Life Is Don't Care",
+      "url": "https://open.spotify.com/track/2cwjRiWg5w7P0WciTLKnts"
     },
     {
       "album": {
@@ -8144,6 +8238,32 @@
       "duration_ms": 163013,
       "name": "New World",
       "url": "https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J"
+    },
+    {
+      "album": {
+        "name": "Next One",
+        "url": "https://open.spotify.com/album/664zCUuW5wOOAKCdngHFdx"
+      },
+      "artists": [
+        {
+          "name": "Luka Hatakeyama",
+          "url": "https://open.spotify.com/artist/3Dy7ny7F6m4XF5WJgLkWSy"
+        },
+        {
+          "name": "Kotaro Takaki",
+          "url": "https://open.spotify.com/artist/3HufT5Dj9H5YGsy6reFzjg"
+        },
+        {
+          "name": "ZETTON",
+          "url": "https://open.spotify.com/artist/2ANelKZy7C4j2ZYy1cEbPW"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141002,
+      "name": "Next One",
+      "url": "https://open.spotify.com/track/0uZTN9Q9GTVTuolAQ9lNXR"
     },
     {
       "album": {
@@ -9732,7 +9852,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 179999,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4q7sqitQzS2om2Njiwg5YH"
@@ -10987,6 +11107,32 @@
     },
     {
       "album": {
+        "name": "Day'N'Nite 2",
+        "url": "https://open.spotify.com/album/4S8rLJZa2GAFA5OrTZy2sw"
+      },
+      "artists": [
+        {
+          "name": "ISSUGI",
+          "url": "https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp"
+        },
+        {
+          "name": "Gradis Nice",
+          "url": "https://open.spotify.com/artist/2XKsSlSM70ukspdNBTSWBc"
+        },
+        {
+          "name": "Sadajyo",
+          "url": "https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Step My Game Up (feat. Sadajyo)",
+      "url": "https://open.spotify.com/track/3hZuFGWsaFXxDYQLLCiE7L"
+    },
+    {
+      "album": {
         "name": "Still Fly",
         "url": "https://open.spotify.com/album/55nDfsFusGk7UgRH7Un9zx"
       },
@@ -11626,7 +11772,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 132232,
       "name": "Thrill Life",
       "url": "https://open.spotify.com/track/0g7LZwnxXZQTMqZssgLlNL"
@@ -12000,7 +12146,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 123199,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/0oj7iUWo9tatbXN62NRB35"

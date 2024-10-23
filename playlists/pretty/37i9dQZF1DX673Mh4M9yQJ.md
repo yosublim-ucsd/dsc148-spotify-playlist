@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX673Mh4M9yQJ.md) - [plain]
 
 > The British sisters who paved the way for today's young stars to shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,497 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,541 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX673Mh4M9yQJ.md) - [plain]
 | 45 | [So Macho](https://open.spotify.com/track/5tcTjBBqntQ71gQv7FVvKm) | [Sinitta](https://open.spotify.com/artist/1nUUfnmwd9mdpTPwMcM1hd) | [The Greatest Hits](https://open.spotify.com/album/7qKewH1u14S6T6e0upzEHe) | 3:23 |
 | 46 | [I Want You Back \- Radio Edit](https://open.spotify.com/track/7eU7mrPH3wG8pgAyFlQS3g) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Hot](https://open.spotify.com/album/5nQBpgNce3qxwawV3BMAS2) | 3:26 |
 | 47 | [Never Felt Like This Before](https://open.spotify.com/track/6GgSwowq876E4yaNy6CU1e) | [Shaznay Lewis](https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2) | [Open](https://open.spotify.com/album/3TGmgbcgMFQIGYnvPjoyXB) | 4:20 |
-| 48 | [Cleopatra's Theme](https://open.spotify.com/track/19udLuHd7CD8XxrOmUaXPn) | [Cleopatra](https://open.spotify.com/artist/5tJG2b8gFxXoETO0S4cT3O) | [Comin' Atcha!](https://open.spotify.com/album/3GskxSqZ2uIWR45ZyjL1Nr) | 4:09 |
+| 48 | [Cleopatra's Theme](https://open.spotify.com/track/19udLuHd7CD8XxrOmUaXPn) | [Cleopatra](https://open.spotify.com/artist/7mu52yh5bBhhJOyVndAEZW) | [Comin' Atcha!](https://open.spotify.com/album/3GskxSqZ2uIWR45ZyjL1Nr) | 4:09 |
 | 49 | [Rain or Shine](https://open.spotify.com/track/51TbglSR7W8J58a1Nuj46g) | [Five Star](https://open.spotify.com/artist/4toJT7YydhWcrYNgWJK4hW) | [Silk & Steel](https://open.spotify.com/album/1gx61uExeAsGq4ioWKayJo) | 3:59 |
 | 50 | [Inner City Life](https://open.spotify.com/track/4BxurjVgqxoRzxJG98wgxz) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Return of the 90s](https://open.spotify.com/album/4lsQp3EEpwSUYNr6NHlKR5) | 3:17 |
 

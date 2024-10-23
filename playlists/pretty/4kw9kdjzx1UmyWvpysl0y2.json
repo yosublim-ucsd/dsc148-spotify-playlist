@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125754,
+  "num_followers": 125748,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATMT63o3kCZifAzUN13e66rVSbcnu3",
+  "snapshot_id": "AAATM+VFCOkl0lP/Fp+XfGj/bAGhO+3C",
   "tracks": [
+    {
+      "added_at": "2024-10-22 14:53:24",
+      "album": {
+        "name": "Equals",
+        "url": "https://open.spotify.com/album/2yobtVPdvXpjv5oYzCX46V"
+      },
+      "artists": [
+        {
+          "name": "Liam Thomas",
+          "url": "https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "Sweetheart",
+      "url": "https://open.spotify.com/track/5RNmbFUSiWxdLq8SiJhQXu"
+    },
     {
       "added_at": "2024-10-21 13:49:06",
       "album": {
@@ -1159,22 +1175,6 @@
       "duration_ms": 179080,
       "name": "promises",
       "url": "https://open.spotify.com/track/5mP03KQ4EJSfUOMDgFPWd4"
-    },
-    {
-      "added_at": "2024-07-31 13:33:59",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/7lFLWyaqcHEeFANruOXadS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

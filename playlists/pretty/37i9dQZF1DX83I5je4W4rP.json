@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1065879,
+  "num_followers": 1065847,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "If That's Ok",
+        "url": "https://open.spotify.com/album/72axqPlcPenA4cydmu4teu"
+      },
+      "artists": [
+        {
+          "name": "Bo Napoleon",
+          "url": "https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO"
+        }
+      ],
+      "duration_ms": 196197,
+      "name": "If That's Ok",
+      "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 186760,
       "name": "Sunday Vibe",
       "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "If That's Ok",
-        "url": "https://open.spotify.com/album/72axqPlcPenA4cydmu4teu"
-      },
-      "artists": [
-        {
-          "name": "Bo Napoleon",
-          "url": "https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO"
-        }
-      ],
-      "duration_ms": 196197,
-      "name": "If That's Ok",
-      "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Rush Hour (with Bryce Vine)",
-        "url": "https://open.spotify.com/album/6RUyQNGZR790T68PN3NUHi"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        }
-      ],
-      "duration_ms": 188644,
-      "name": "Rush Hour (with Bryce Vine)",
-      "url": "https://open.spotify.com/track/6aTDSU2O7IuA0qAKb36sVm"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Greed",
         "url": "https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 209250,
       "name": "Digital Heaven",
       "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Rush Hour (with Bryce Vine)",
+        "url": "https://open.spotify.com/album/6RUyQNGZR790T68PN3NUHi"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "duration_ms": 188644,
+      "name": "Rush Hour (with Bryce Vine)",
+      "url": "https://open.spotify.com/track/6aTDSU2O7IuA0qAKb36sVm"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Noon",
-        "url": "https://open.spotify.com/album/1rwkJG8Fx6r2bA0ZFc4FYU"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 167721,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/0xqKiPNtARmiviseWIQj2z"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Early Prayers",
         "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 268006,
       "name": "Put Down What You Are Carrying (with Brett Dennen)",
       "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Noon",
+        "url": "https://open.spotify.com/album/1rwkJG8Fx6r2bA0ZFc4FYU"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 167721,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0xqKiPNtARmiviseWIQj2z"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Kingdom (with The Movement)",
-        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
       },
       "artists": [
         {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
-        },
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 282323,
-      "name": "Kingdom (with The Movement)",
-      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
+      "duration_ms": 203672,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
+        "name": "Kingdom (with The Movement)",
+        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
       },
       "artists": [
         {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        },
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         }
       ],
-      "duration_ms": 203672,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
+      "duration_ms": 282323,
+      "name": "Kingdom (with The Movement)",
+      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Barefoot On The Dancefloor",
+        "url": "https://open.spotify.com/album/7AI6eHvi5BfLMG3F42F1Ec"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "duration_ms": 168650,
+      "name": "Barefoot On The Dancefloor",
+      "url": "https://open.spotify.com/track/66RzQvcgc85TDiMjUrsO2l"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "I Fall in Love Too Easily (with The Elovaters) [Reggae Remix]",
         "url": "https://open.spotify.com/album/1kXZ59UugA3KIt8jMuDTL8"
       },
@@ -1403,46 +1419,6 @@
       "duration_ms": 245063,
       "name": "I Fall in Love Too Easily (with The Elovaters) - Reggae Remix",
       "url": "https://open.spotify.com/track/7Ej86ZIZqCqOOvddpaySZK"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Barefoot On The Dancefloor",
-        "url": "https://open.spotify.com/album/7AI6eHvi5BfLMG3F42F1Ec"
-      },
-      "artists": [
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        }
-      ],
-      "duration_ms": 168650,
-      "name": "Barefoot On The Dancefloor",
-      "url": "https://open.spotify.com/track/66RzQvcgc85TDiMjUrsO2l"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Floating (with Iration & The Elovaters)",
-        "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Floating (with Iration & The Elovaters)",
-      "url": "https://open.spotify.com/track/4ZArlloxjgaX3vBxYBQVp4"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1471,18 +1447,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Mighty",
-        "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
+        "name": "Floating (with Iration & The Elovaters)",
+        "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
       },
       "artists": [
         {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
         }
       ],
-      "duration_ms": 216200,
-      "name": "Knocking at Your Door",
-      "url": "https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa"
+      "duration_ms": 181957,
+      "name": "Floating (with Iration & The Elovaters)",
+      "url": "https://open.spotify.com/track/4ZArlloxjgaX3vBxYBQVp4"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1503,6 +1487,22 @@
       "duration_ms": 220841,
       "name": "Press Remix",
       "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "The Mighty",
+        "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Knocking at Your Door",
+      "url": "https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "COMING WITH GUNS",
+        "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
+      },
+      "artists": [
+        {
+          "name": "The Holdup",
+          "url": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
+        }
+      ],
+      "duration_ms": 217177,
+      "name": "COMING WITH GUNS",
+      "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Oregon (with phoffman of Greensky Bluegrass)",
         "url": "https://open.spotify.com/album/3MQpFKPveaV9kHgCFkPwwh"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 154173,
       "name": "Oregon (with phoffman of Greensky Bluegrass)",
       "url": "https://open.spotify.com/track/2QAC1o02NqkJYNIcrSsxNU"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "COMING WITH GUNS",
-        "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
-      },
-      "artists": [
-        {
-          "name": "The Holdup",
-          "url": "https://open.spotify.com/artist/1gwTohHbTpE3qdPyDvnOEu"
-        }
-      ],
-      "duration_ms": 217177,
-      "name": "COMING WITH GUNS",
-      "url": "https://open.spotify.com/track/0oRqwcPxxu59pX5mZZe3Lz"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Tribal Seeds",
-        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
-      },
-      "artists": [
-        {
-          "name": "Tribal Seeds",
-          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "Dawn of Time",
-      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Falling Down (with Nick Hexum of 311)",
         "url": "https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa"
       },
@@ -2059,18 +2043,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Some Say the Ocean (Reggae Remix)",
-        "url": "https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju"
+        "name": "Tribal Seeds",
+        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
       },
       "artists": [
         {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+          "name": "Tribal Seeds",
+          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
         }
       ],
-      "duration_ms": 235294,
-      "name": "Some Say the Ocean - Reggae Remix",
-      "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
+      "duration_ms": 256453,
+      "name": "Dawn of Time",
+      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2087,6 +2071,22 @@
       "duration_ms": 193480,
       "name": "Wonderful World, Beautiful People - Single Version",
       "url": "https://open.spotify.com/track/4GEz5ZGMPcX9OZ5ta0v85e"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Some Say the Ocean (Reggae Remix)",
+        "url": "https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        }
+      ],
+      "duration_ms": 235294,
+      "name": "Some Say the Ocean - Reggae Remix",
+      "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2167,34 +2167,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
-        "url": "https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
-      "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/0ZAXiTMvmH7UBB89A6bmQC"
       },
@@ -2223,6 +2195,34 @@
       "duration_ms": 260390,
       "name": "More Than Love",
       "url": "https://open.spotify.com/track/1QgFffVgIDUn10DNnswi3G"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
+        "url": "https://open.spotify.com/album/71E4rQgy2LBt3dkGU9hOsr"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "New World (with Matisyahu, Bumpin Uglies, & The Elovaters)",
+      "url": "https://open.spotify.com/track/1uvhSFCX6bQrbLIWhQsWiQ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Every Road I'm On",
-        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
-      },
-      "artists": [
-        {
-          "name": "Cas Haley",
-          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
-        }
-      ],
-      "duration_ms": 229381,
-      "name": "Every Road I'm On",
-      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "We All Walk Our Own Roads (with Trevor Hall)",
         "url": "https://open.spotify.com/album/1MAt077R2bE48jyjmRmfgP"
       },
@@ -2431,6 +2415,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Fire On Your House",
+        "url": "https://open.spotify.com/album/3g7NOaCdpZgXCGlHRIKi2B"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 224710,
+      "name": "Fire On Your House",
+      "url": "https://open.spotify.com/track/7AYvZwW5W3beUA6mLO8MKe"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Work That We Do",
         "url": "https://open.spotify.com/album/3C1lw128oB4uQjuFcEQlaj"
       },
@@ -2447,18 +2447,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Fire On Your House",
-        "url": "https://open.spotify.com/album/3g7NOaCdpZgXCGlHRIKi2B"
+        "name": "Every Road I'm On",
+        "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
       },
       "artists": [
         {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
         }
       ],
-      "duration_ms": 224710,
-      "name": "Fire On Your House",
-      "url": "https://open.spotify.com/track/7AYvZwW5W3beUA6mLO8MKe"
+      "duration_ms": 229381,
+      "name": "Every Road I'm On",
+      "url": "https://open.spotify.com/track/4oLX41qPlebhUZdh95O23v"
     },
     {
       "added_at": "2024-07-26 04:00:00",

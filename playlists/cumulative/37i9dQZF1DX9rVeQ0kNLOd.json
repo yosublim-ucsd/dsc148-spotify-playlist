@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "All Around You",
+        "url": "https://open.spotify.com/album/1OueUiPs7KWYpr1m6EykP0"
+      },
+      "artists": [
+        {
+          "name": "E.scene",
+          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282919,
+      "name": "All Around You",
+      "url": "https://open.spotify.com/track/0YxVd16Cmjq7IBDbtHWhdX"
+    },
+    {
+      "album": {
         "name": "All night",
         "url": "https://open.spotify.com/album/23omW2nOAt0jOBcHXo9sYb"
       },
@@ -644,7 +662,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 149000,
       "name": "Deep Breath (feat. Ryoko Hirosue)",
       "url": "https://open.spotify.com/track/2TUKM10uN43OysfBV2MbRT"
@@ -948,7 +966,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 208902,
       "name": "Flower",
       "url": "https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ"
@@ -1438,6 +1456,24 @@
       "duration_ms": 138113,
       "name": "idoshiyo",
       "url": "https://open.spotify.com/track/4HXOB4iLo2O86YNzp7ksH1"
+    },
+    {
+      "album": {
+        "name": "illusion",
+        "url": "https://open.spotify.com/album/0wimYbq1Bt4h831oilomYX"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169879,
+      "name": "illusion",
+      "url": "https://open.spotify.com/track/6m53DkRrzvS8oZWHs9oiz0"
     },
     {
       "album": {
@@ -2100,7 +2136,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 167885,
       "name": "Moon Dance",
       "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
@@ -2826,6 +2862,28 @@
       "duration_ms": 344226,
       "name": "Soranji",
       "url": "https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB"
+    },
+    {
+      "album": {
+        "name": "Sorrows",
+        "url": "https://open.spotify.com/album/5XZRYxYYYCr7icj6LncH72"
+      },
+      "artists": [
+        {
+          "name": "\u5199\u697d",
+          "url": "https://open.spotify.com/artist/7FetTrat8sX8lzK2oqagfz"
+        },
+        {
+          "name": "Aru-2",
+          "url": "https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Sorrows",
+      "url": "https://open.spotify.com/track/7AYfGx4W8Lpc6eBZABks8o"
     },
     {
       "album": {
@@ -4400,7 +4458,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 292917,
       "name": "\u30a2\u30a4\u30a6\u30bf",
       "url": "https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2"
@@ -4768,7 +4826,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 292009,
       "name": "\u30e1\u30eb\u30d8\u30f3\u3092\u6368\u3066\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/3O1ojkYeGIfbsHwoPnNYVy"
@@ -6160,7 +6218,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 172355,
       "name": "\u8d85Fresh",
       "url": "https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8"
@@ -6340,7 +6398,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 253364,
       "name": "\u9be8\u306e\u5b50",
       "url": "https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg"

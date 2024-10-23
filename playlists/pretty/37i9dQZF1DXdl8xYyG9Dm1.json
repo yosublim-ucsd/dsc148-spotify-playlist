@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Phyno",
-  "num_followers": 159791,
+  "num_followers": 159843,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2024-10-18 06:19:35",
       "album": {
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "KLN",
+          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
+        }
+      ],
+      "duration_ms": 194311,
+      "name": "NO LIMIT",
+      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
+    },
+    {
+      "added_at": "2024-10-18 06:19:35",
+      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf"
       },
@@ -1107,26 +1127,6 @@
       "duration_ms": 174731,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8"
-    },
-    {
-      "added_at": "2024-10-18 06:19:35",
-      "album": {
-        "name": "BDLM VOL.1",
-        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "KLN",
-          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
-        }
-      ],
-      "duration_ms": 194311,
-      "name": "NO LIMIT",
-      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
     },
     {
       "added_at": "2024-10-18 06:19:35",

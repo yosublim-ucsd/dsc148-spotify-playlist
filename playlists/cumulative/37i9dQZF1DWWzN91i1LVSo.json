@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "id pick up flowers",
+        "url": "https://open.spotify.com/album/0cSvl50AIv3lXZc2pJb2pe"
+      },
+      "artists": [
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227133,
+      "name": "id pick up flowers",
+      "url": "https://open.spotify.com/track/09WQVlwnpbyw2krszInbkN"
+    },
+    {
+      "album": {
         "name": "HEADSPLIT (Deluxe)",
         "url": "https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc"
       },
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 225744,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N"

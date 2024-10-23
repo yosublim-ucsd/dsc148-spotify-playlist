@@ -2,7 +2,7 @@
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap\. Cover: Russ
+> A little bit of pop, a little bit of rap\. Cover: Anella Herim
 
 661 songs - 1 day 6 hr 12 min
 

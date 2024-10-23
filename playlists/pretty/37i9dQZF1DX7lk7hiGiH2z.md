@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Süßes sonst gibt's Saures! 🎃
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,947 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,022 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 45 | [Monster & Zombies \(mit Junge\)](https://open.spotify.com/track/3GavNDotWsTxNMJ2Sd8nV5) | [Gorilla Club](https://open.spotify.com/artist/4hAPuIu9SQSwlbRODKdmUz) | [Gorilla Club 1\-2\-3\-4!](https://open.spotify.com/album/7qsecPhwdbB236OPCRcS36) | 2:44 |
 | 46 | [Mo\-Mo\-Monster](https://open.spotify.com/track/47r3zekBd9J7z9NZkw3Cmm) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für Halloween](https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji) | 2:31 |
 | 47 | [Dracula \- Remastered 2004](https://open.spotify.com/track/2qNDy6bmZyVnWJS8UeqbtA) | [Iris Gruttmann](https://open.spotify.com/artist/7ePL5iRMTwMrgA6DyFDA4l) | [Das große Felix Liederalbum 2](https://open.spotify.com/album/6UCseiCljsu6wn0tQuT5sq) | 4:49 |
-| 48 | [Hexentanz](https://open.spotify.com/track/1neJ0rILtJuhFx6qFQM14S) | [Kinderchor Canzonetta Berlin](https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R), [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Schau meine Hexe: Die schönsten Hexenlieder](https://open.spotify.com/album/0JEGG0YOqBir077LMClwRp) | 3:03 |
-| 49 | [Monsterparty](https://open.spotify.com/track/0EBbhEhkxnz4Wvy7A5RP2c) | [Anton](https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte) | [ertappt](https://open.spotify.com/album/1PGo84U9SPdOiHJVTlgciU) | 2:30 |
+| 48 | [Monsterparty](https://open.spotify.com/track/0EBbhEhkxnz4Wvy7A5RP2c) | [Anton](https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte) | [ertappt](https://open.spotify.com/album/1PGo84U9SPdOiHJVTlgciU) | 2:30 |
+| 49 | [Hexentanz](https://open.spotify.com/track/1neJ0rILtJuhFx6qFQM14S) | [Kinderchor Canzonetta Berlin](https://open.spotify.com/artist/2hPcTWItqk71rEzyaHQn7R), [Cattu der Traumfänger](https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx) | [Schau meine Hexe: Die schönsten Hexenlieder](https://open.spotify.com/album/0JEGG0YOqBir077LMClwRp) | 3:03 |
 | 50 | [Halloween](https://open.spotify.com/track/7m39SmkQUZvFwcqsbeoiyV) | [GroßstadtEngel](https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG) | [Halloween](https://open.spotify.com/album/4cRPlJQgUtC5Gdnq9IeYIL) | 3:33 |
 
 Snapshot ID: `ZxYBTAAAAAB7bMEgN+sQs2EY37p5+RZn`

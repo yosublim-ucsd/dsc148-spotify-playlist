@@ -4663,6 +4663,32 @@
     },
     {
       "album": {
+        "name": "Bommakka (From \"Thiru.Manickam\")",
+        "url": "https://open.spotify.com/album/0GwlH392AS8FgfdBqG5Jgw"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Tippu",
+          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
+        },
+        {
+          "name": "Ilango Krishnan",
+          "url": "https://open.spotify.com/artist/58SpQmXPEzBZ5edRGCj8xo"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224393,
+      "name": "Bommakka (From \"Thiru.Manickam\")",
+      "url": "https://open.spotify.com/track/3OdE2p4ocxagWkB76vgLam"
+    },
+    {
+      "album": {
         "name": "Bonding Song (From \"777 Charlie - Tamil\")",
         "url": "https://open.spotify.com/album/7rZOBbCdUU9rHOpotc1xHq"
       },
@@ -7268,7 +7294,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 268800,
       "name": "En Chella Kedi - From \"Black\"",
       "url": "https://open.spotify.com/track/0rwmdcOn3aIMtEGq63QMEH"
@@ -29626,7 +29652,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 179633,
       "name": "Thangalaan (War Song) (From \"Thangalaan\") - Tamil",
       "url": "https://open.spotify.com/track/5h6OTyPRCqGUEHHxWzCEvh"
@@ -30710,6 +30736,24 @@
       "duration_ms": 259199,
       "name": "Theeye Dhaagamo",
       "url": "https://open.spotify.com/track/4PpflB9CYa3q3wPRGXneMa"
+    },
+    {
+      "album": {
+        "name": "Themaangani (From \"Parari\")",
+        "url": "https://open.spotify.com/album/3AGieIy1vZ2PjwgNXG5kvO"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221714,
+      "name": "Themaangani (From \"Parari\")",
+      "url": "https://open.spotify.com/track/7oaD8YdWXoR8awIrKm017Q"
     },
     {
       "album": {
@@ -33920,7 +33964,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 112013,
       "name": "Vaazh Veesum",
       "url": "https://open.spotify.com/track/6375KpaEv8Ip7CBqbbu6Yt"

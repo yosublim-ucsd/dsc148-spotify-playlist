@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-761 songs - 2 day 3 hr 0 min
+762 songs - 2 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [Sauna](https://open.spotify.com/track/1DSl7kRrdWhwntiK6HOLVY) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:15 | 2023-03-25 | 2024-01-22 |
 | [Scaling](https://open.spotify.com/track/5o08n5VwVfToX9qQfLH0hS) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Royal Astronomy](https://open.spotify.com/album/6wderqhoGndjyEC1rODumX) | 4:14 | 2024-02-26 |  |
 | [Searchin'](https://open.spotify.com/track/2HhzGAT66gogfukLzhC60W) | [Acid Dad](https://open.spotify.com/artist/3iqOjs2iwL6ywtcENg1ppm) | [Take It From The Dead](https://open.spotify.com/album/58jvwnt6gtTDDhNqH8jI48) | 3:23 | 2023-07-12 | 2024-01-16 |
+| [Secret History](https://open.spotify.com/track/3JXmhHzljGagSdPuCmqBpp) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Foxing](https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3) | 4:01 | 2024-10-22 |  |
 | [Sequence](https://open.spotify.com/track/1sxLbBQVXUvFRkEMiHjQ99) | [Stealing Sheep](https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22) | [Not Real](https://open.spotify.com/album/4J2or5UZfwCFPtPOobZwZQ) | 3:13 | 2024-01-04 | 2024-03-12 |
 | [Seven Psalms: The Lord / Love Is Like a Braid / My Professional Opinion / Your Forgiveness / Trail of Volcanoes / The Sacred Harp / Wait](https://open.spotify.com/track/3Y7ZWE3zat6O9YhMm44qCf) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Seven Psalms](https://open.spotify.com/album/2W88kNmADcEEvcaJPVGZHF) | 33:02 | 2023-05-21 |  |
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2024-02-23 |  |

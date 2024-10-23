@@ -1,13 +1,29 @@
 {
-  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Emma Nolde\n",
-  "num_followers": 1082150,
+  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Craig Lucas",
+  "num_followers": 1082142,
   "original_name": "GLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw5SLwAAAADK7e3ultCP3CkydeRGrj3Q",
+  "snapshot_id": "ZxcjQAAAAAAPxLwh3+y0SSrHL8+ZqQgY",
   "tracks": [
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2"
+      },
+      "artists": [
+        {
+          "name": "Craig Lucas",
+          "url": "https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl"
+    },
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
@@ -59,22 +75,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/0r0HDCg2UVAgbs9fg5f2v2"
-      },
-      "artists": [
-        {
-          "name": "Craig Lucas",
-          "url": "https://open.spotify.com/artist/7y1jmIY6xeYivxNTNbyrZJ"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "House With The Blue Door",
         "url": "https://open.spotify.com/album/7D5rk5d5YQQft2dv1Yoa93"
       },
@@ -87,6 +87,26 @@
       "duration_ms": 185946,
       "name": "Go!",
       "url": "https://open.spotify.com/track/32dPWlM6CblltDzJy9EmCu"
+    },
+    {
+      "added_at": "2024-10-22 04:00:00",
+      "album": {
+        "name": "Lunch At Dune",
+        "url": "https://open.spotify.com/album/2xOtAm3st9TAxA6yys3vZb"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        },
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 230540,
+      "name": "Lunch At Dune",
+      "url": "https://open.spotify.com/track/0Bf7gUvoEmjK71L7PYhoUX"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -225,6 +245,22 @@
       "url": "https://open.spotify.com/track/138fmDmRZaO5nywfi1TyFi"
     },
     {
+      "added_at": "2024-10-22 04:00:00",
+      "album": {
+        "name": "Jonny",
+        "url": "https://open.spotify.com/album/5kb4iA44fvXteO1SII12ri"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "duration_ms": 295560,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/6D0uOc0DxoMwCnn0SPqZ0s"
+    },
+    {
       "added_at": "2024-10-15 04:00:00",
       "album": {
         "name": "Aire",
@@ -313,6 +349,22 @@
       "url": "https://open.spotify.com/track/5Kpj5crTqla7FzjyGx1hzn"
     },
     {
+      "added_at": "2024-10-22 04:00:00",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/3MmEb9UgXMbg02WG29sE3a"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 171358,
+      "name": "Better By Myself",
+      "url": "https://open.spotify.com/track/6UuUeDJ118UlygyO27unep"
+    },
+    {
       "added_at": "2024-10-15 04:00:00",
       "album": {
         "name": "Hikikomori",
@@ -327,26 +379,6 @@
       "duration_ms": 167642,
       "name": "Hikikomori",
       "url": "https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
-        "name": "1 para 1",
-        "url": "https://open.spotify.com/album/5GouS8Wv7Fg0OLmYOaNzUt"
-      },
-      "artists": [
-        {
-          "name": "Titica",
-          "url": "https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "1 para 1",
-      "url": "https://open.spotify.com/track/3MRfbBCwMXxGyx2ENxt23g"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -419,22 +451,6 @@
       "duration_ms": 201280,
       "name": "i don't believe in God",
       "url": "https://open.spotify.com/track/4gQ76st50BNwJg6jOLBwvv"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
-        "name": "Police Checks",
-        "url": "https://open.spotify.com/album/6jQwEyoj1b13sby1UOoWh6"
-      },
-      "artists": [
-        {
-          "name": "Mimi Gilbert",
-          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
-        }
-      ],
-      "duration_ms": 242782,
-      "name": "Police Checks",
-      "url": "https://open.spotify.com/track/16WieaBx24jfcYE1Q9EYRY"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -627,26 +643,6 @@
       "duration_ms": 217529,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
-        "name": "time & time again",
-        "url": "https://open.spotify.com/album/3lyZ9dbEXrGmqooCNsrFvu"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 166650,
-      "name": "time & time again",
-      "url": "https://open.spotify.com/track/4j2wf2zy3TfUuRaaIg0ouk"
     },
     {
       "added_at": "2024-10-15 04:00:00",

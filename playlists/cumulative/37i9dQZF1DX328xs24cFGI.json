@@ -763,6 +763,28 @@
     },
     {
       "album": {
+        "name": "fall",
+        "url": "https://open.spotify.com/album/6ouOVQ0G2friMVOPVR3WO2"
+      },
+      "artists": [
+        {
+          "name": "AYANE",
+          "url": "https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM"
+        },
+        {
+          "name": "SOUTH BLUE",
+          "url": "https://open.spotify.com/artist/2Y4BqFtHihCI2CazDTKkjI"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204121,
+      "name": "fall",
+      "url": "https://open.spotify.com/track/6bLxj0u5Q6HLl0HcaaZgMz"
+    },
+    {
+      "album": {
         "name": "feat. \u3042\u306a\u305f",
         "url": "https://open.spotify.com/album/6eXHmzEFeY1Q3Hwvz793j7"
       },
@@ -1676,6 +1698,24 @@
       "duration_ms": 240666,
       "name": "Make My Day",
       "url": "https://open.spotify.com/track/2NBNSKMwqL3Q63NWSNoQ25"
+    },
+    {
+      "album": {
+        "name": "Mint",
+        "url": "https://open.spotify.com/album/1yL6i7ZqJZeCGRAOeamfWZ"
+      },
+      "artists": [
+        {
+          "name": "Schuwa Schuwa",
+          "url": "https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175580,
+      "name": "Mint",
+      "url": "https://open.spotify.com/track/7oZTWApCLOc29vElqEFubs"
     },
     {
       "album": {
@@ -2744,7 +2784,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 234080,
       "name": "You Should Know Your Love",
       "url": "https://open.spotify.com/track/0Kps5FTIw99AmjLXvwFGrG"
@@ -2910,7 +2950,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 186248,
       "name": "\u304b\u308f\u3044\u3044\u3072\u3068",
       "url": "https://open.spotify.com/track/7lWLPLMVoeXNEor3gD0eg5"
@@ -3564,7 +3604,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 218666,
       "name": "\u30af\u30ea\u30fc\u30cb\u30f3\u30b0\u30fb\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/5anwV9zKnmIMBbDxiiqExq"
@@ -4318,6 +4358,24 @@
       "duration_ms": 251142,
       "name": "\u4eca\u591c2\u4eba\u3060\u3051\u306e\u30c0\u30f3\u30b9\u3092",
       "url": "https://open.spotify.com/track/6ljAfGfbmkBnhEwREQQsAY"
+    },
+    {
+      "album": {
+        "name": "\u660e\u65e5\u306b\u5411\u304b\u3063\u3066\u8d70\u308c-\u6708\u591c\u306e\u6b4c-",
+        "url": "https://open.spotify.com/album/515BiJpfiA4Cf6OD8iyom0"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kashimashi",
+          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252706,
+      "name": "\u4eca\u5bb5\u306e\u6708\u306e\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/0wMfMGp7nz7JMNw7tei9f5"
     },
     {
       "album": {

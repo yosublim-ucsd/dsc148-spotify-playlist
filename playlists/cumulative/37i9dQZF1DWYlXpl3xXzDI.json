@@ -2926,6 +2926,24 @@
     {
       "album": {
         "name": "September Songs",
+        "url": "https://open.spotify.com/album/0dyGgvBAKPW2mOXlfrNR9M"
+      },
+      "artists": [
+        {
+          "name": "RUKHSANA",
+          "url": "https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn"
+        }
+      ],
+      "date_added": "2017-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176946,
+      "name": "So They Say",
+      "url": "https://open.spotify.com/track/17O598wcIrissGHCqGuMM0"
+    },
+    {
+      "album": {
+        "name": "September Songs",
         "url": "https://open.spotify.com/album/5BAypjSQ8ggV9snAKmHInQ"
       },
       "artists": [
@@ -2940,24 +2958,6 @@
       "duration_ms": 176946,
       "name": "So They Say",
       "url": "https://open.spotify.com/track/10RB3ZCBIKde2FAn0ba5wJ"
-    },
-    {
-      "album": {
-        "name": "September Songs",
-        "url": "https://open.spotify.com/album/0dyGgvBAKPW2mOXlfrNR9M"
-      },
-      "artists": [
-        {
-          "name": "Rukhsana Merrise",
-          "url": "https://open.spotify.com/artist/51WveHy70ZoLyFjZVgM9bn"
-        }
-      ],
-      "date_added": "2017-12-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 176946,
-      "name": "So They Say",
-      "url": "https://open.spotify.com/track/17O598wcIrissGHCqGuMM0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Park Ki Young(\ubc15\uae30\uc601)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 4224,
+  "num_followers": 4228,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
+        "name": "Summer Vacation",
+        "url": "https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ"
+      },
+      "artists": [
+        {
+          "name": "Uaieo",
+          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
+        },
+        {
+          "name": "Joyful Island",
+          "url": "https://open.spotify.com/artist/0x4sEns7ouHfoJ3pRi2AqH"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "100% Summer",
+      "url": "https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz"
+    },
+    {
+      "added_at": "2024-10-10 09:36:04",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/5qPEipNj8HRvGayK7rePRl"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 246986,
       "name": "While You Live",
       "url": "https://open.spotify.com/track/2e1N2xPibfc6gsgjAmCv9j"
-    },
-    {
-      "added_at": "2024-10-10 09:36:04",
-      "album": {
-        "name": "Summer Vacation",
-        "url": "https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ"
-      },
-      "artists": [
-        {
-          "name": "Uaieo",
-          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
-        },
-        {
-          "name": "Joyful Island",
-          "url": "https://open.spotify.com/artist/0x4sEns7ouHfoJ3pRi2AqH"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "100% Summer",
-      "url": "https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
+        "name": "Remembering That Time",
+        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
+      },
+      "artists": [
+        {
+          "name": "Jung Hwan Ho",
+          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
+        },
+        {
+          "name": "Jisoo Sohn",
+          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
+        }
+      ],
+      "duration_ms": 267986,
+      "name": "Remembering That Time",
+      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
+    },
+    {
+      "added_at": "2024-10-10 09:36:04",
+      "album": {
         "name": "Beethoven: Variations for violoncello and piano",
         "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 40906,
       "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation VII",
       "url": "https://open.spotify.com/track/0mvx2tj7RIztJmOcL4TZlR"
-    },
-    {
-      "added_at": "2024-10-10 09:36:04",
-      "album": {
-        "name": "Remembering That Time",
-        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
-      },
-      "artists": [
-        {
-          "name": "Jung Hwan Ho",
-          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
-        },
-        {
-          "name": "Jisoo Sohn",
-          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
-        }
-      ],
-      "duration_ms": 267986,
-      "name": "Remembering That Time",
-      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1447,30 +1447,6 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
-        "name": "Beethoven: Variations for violoncello and piano",
-        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Jungin Huh",
-          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
-        },
-        {
-          "name": "Ilya Rashkovskiy",
-          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
-        }
-      ],
-      "duration_ms": 31373,
-      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation II",
-      "url": "https://open.spotify.com/track/5wwy4NL9N0dhHU31BTuHhT"
-    },
-    {
-      "added_at": "2024-10-10 09:36:04",
-      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
       },
@@ -1523,18 +1499,26 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
-        "name": "Lovely Night",
-        "url": "https://open.spotify.com/album/4lrTjfIh8foTGkaitpI39J"
+        "name": "Beethoven: Variations for violoncello and piano",
+        "url": "https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77"
       },
       "artists": [
         {
-          "name": "Hyunsoo Park",
-          "url": "https://open.spotify.com/artist/5FFIobzpoENexOu1dXGd0s"
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jungin Huh",
+          "url": "https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
         }
       ],
-      "duration_ms": 202584,
-      "name": "Lovely Night",
-      "url": "https://open.spotify.com/track/5mMzR4exCSdokzXVQh2VOq"
+      "duration_ms": 31373,
+      "name": "12 Variations on \"Ein M\u00e4dchen oder Weibchen\" from Mozart's Die Zauberfl\u00f6te in F Major, Op. 66 : Variation II",
+      "url": "https://open.spotify.com/track/5wwy4NL9N0dhHU31BTuHhT"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1563,6 +1547,22 @@
       "duration_ms": 448413,
       "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
       "url": "https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz"
+    },
+    {
+      "added_at": "2024-10-10 09:36:04",
+      "album": {
+        "name": "Lovely Night",
+        "url": "https://open.spotify.com/album/4lrTjfIh8foTGkaitpI39J"
+      },
+      "artists": [
+        {
+          "name": "Hyunsoo Park",
+          "url": "https://open.spotify.com/artist/5FFIobzpoENexOu1dXGd0s"
+        }
+      ],
+      "duration_ms": 202584,
+      "name": "Lovely Night",
+      "url": "https://open.spotify.com/track/5mMzR4exCSdokzXVQh2VOq"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
+        "name": "Une Vie Full album",
+        "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
+      },
+      "artists": [
+        {
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Une Vie Part 1",
+      "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
+    },
+    {
+      "added_at": "2024-10-10 09:36:04",
+      "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 191440,
       "name": "10.1 (strings)",
       "url": "https://open.spotify.com/track/5pOtS3sP7IT1RRVM5hr3uS"
-    },
-    {
-      "added_at": "2024-10-10 09:36:04",
-      "album": {
-        "name": "Une Vie Full album",
-        "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
-      },
-      "artists": [
-        {
-          "name": "Denis Sungho",
-          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
-        }
-      ],
-      "duration_ms": 253360,
-      "name": "Une Vie Part 1",
-      "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
-        "name": "Love Confession",
-        "url": "https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE"
-      },
-      "artists": [
-        {
-          "name": "John Noh",
-          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Love Confession",
-      "url": "https://open.spotify.com/track/24X5IqRxbwbz1ucMUWrkTE"
-    },
-    {
-      "added_at": "2024-10-10 09:36:04",
-      "album": {
         "name": "We Will Be One",
         "url": "https://open.spotify.com/album/2u0bEo4WR4tvQHNlcvYQZV"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 183542,
       "name": "We Will Be One",
       "url": "https://open.spotify.com/track/6d8FfbeQRPThAt4Xl5PQWT"
+    },
+    {
+      "added_at": "2024-10-10 09:36:04",
+      "album": {
+        "name": "Love Confession",
+        "url": "https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE"
+      },
+      "artists": [
+        {
+          "name": "John Noh",
+          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Love Confession",
+      "url": "https://open.spotify.com/track/24X5IqRxbwbz1ucMUWrkTE"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1927,26 +1927,6 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
-        "name": "Cantar",
-        "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
-      },
-      "artists": [
-        {
-          "name": "John Noh",
-          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
-        },
-        {
-          "name": "Ko Yeong Yeol",
-          "url": "https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm"
-        }
-      ],
-      "duration_ms": 229098,
-      "name": "Aguas de Mar\u00e7o",
-      "url": "https://open.spotify.com/track/0LRM3HMOV539rX9dYfckeM"
-    },
-    {
-      "added_at": "2024-10-10 09:36:04",
-      "album": {
         "name": "Lost In Memory",
         "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
       },
@@ -1959,6 +1939,34 @@
       "duration_ms": 279613,
       "name": "The Red String",
       "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
+    },
+    {
+      "added_at": "2024-10-10 09:36:04",
+      "album": {
+        "name": "From Darkness To Light",
+        "url": "https://open.spotify.com/album/3Cbc2TjFWKgNfC5WXLp0J6"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Samuel Youn",
+          "url": "https://open.spotify.com/artist/6y6fUfKDBVEBc41cPwMWq1"
+        },
+        {
+          "name": "Symphonic Revolution Orchestra",
+          "url": "https://open.spotify.com/artist/4y5juhzDApOOEPLKtE1iyh"
+        },
+        {
+          "name": "Kwang Hyun Kim",
+          "url": "https://open.spotify.com/artist/3SRKVJA7mV2xJWa7rvIY7s"
+        }
+      ],
+      "duration_ms": 836280,
+      "name": "Die Walk\u00fcre, Act III Scene 3: Leb wohl, du k\u00fchnes, herrliches Kind \"Wotan's Farewell\"",
+      "url": "https://open.spotify.com/track/2cUHgStuKdvZzurL5JvD2n"
     },
     {
       "added_at": "2024-10-10 09:36:04",
@@ -1991,30 +1999,22 @@
     {
       "added_at": "2024-10-10 09:36:04",
       "album": {
-        "name": "From Darkness To Light",
-        "url": "https://open.spotify.com/album/3Cbc2TjFWKgNfC5WXLp0J6"
+        "name": "Cantar",
+        "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
       },
       "artists": [
         {
-          "name": "Richard Wagner",
-          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+          "name": "John Noh",
+          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
         },
         {
-          "name": "Samuel Youn",
-          "url": "https://open.spotify.com/artist/6y6fUfKDBVEBc41cPwMWq1"
-        },
-        {
-          "name": "Symphonic Revolution Orchestra",
-          "url": "https://open.spotify.com/artist/4y5juhzDApOOEPLKtE1iyh"
-        },
-        {
-          "name": "Kwang Hyun Kim",
-          "url": "https://open.spotify.com/artist/3SRKVJA7mV2xJWa7rvIY7s"
+          "name": "Ko Yeong Yeol",
+          "url": "https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm"
         }
       ],
-      "duration_ms": 836280,
-      "name": "Die Walk\u00fcre, Act III Scene 3: Leb wohl, du k\u00fchnes, herrliches Kind \"Wotan's Farewell\"",
-      "url": "https://open.spotify.com/track/2cUHgStuKdvZzurL5JvD2n"
+      "duration_ms": 229098,
+      "name": "Aguas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/0LRM3HMOV539rX9dYfckeM"
     },
     {
       "added_at": "2024-10-10 09:36:04",

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX63fzxvjWR0V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX63fzxvjWR0V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX63fzxvjWR0V)
 
-### [La Gran Carrera x House Of Nfluence  ](https://open.spotify.com/playlist/37i9dQZF1DX63fzxvjWR0V)
+### [La Gran Carrera x House of Nfluence  ](https://open.spotify.com/playlist/37i9dQZF1DX63fzxvjWR0V)
 
-> Vive el fin de semana más emocionante de México con canciones y la mejor compañía
+> Vive la experiencia única de House of Nfluence: música, deporte y adrenalina en La Gran Carrera de la CDMX
 
 105 songs - 5 hr 37 min
 

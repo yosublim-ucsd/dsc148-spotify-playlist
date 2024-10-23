@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,296 likes - 50 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,408 likes - 50 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 36 | [Story](https://open.spotify.com/track/2UfbQI5TTr935FcAeEAoE2) | [The AquaBlendz](https://open.spotify.com/artist/4pQCtRVHRqMxrUwmTPwEZA) | [Timeless Tales Ep](https://open.spotify.com/album/2nBfqCka6PKLZMZ5xE63Ug) | 6:38 |
 | 37 | [Lo'Mthwalo \- Original Mix](https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9) | [Mandaba](https://open.spotify.com/artist/0RhjNxooKATCnf1MVdvQZ8), [Griffith Malo](https://open.spotify.com/artist/7vGuZA9Daaxax0dCGsqchQ) | [Lomthwalo](https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a) | 6:06 |
 | 38 | [Lost In Me](https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Keziah Tehillah](https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo) | [Lost In Me](https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH) | 6:27 |
-| 39 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
+| 39 | [Take Me Somewhere](https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB) | [Eternity Musiq](https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73) | [Take Me Somewhere](https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy) | 5:25 |
 | 40 | [Little Me \- Kaidi Tatham Remix](https://open.spotify.com/track/78AwNzWZP0Jwpuqb5M82yx) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Little Me \(Kaidi Tatham Remix\)](https://open.spotify.com/album/489jv3BJzxkag2dR1O1Q3U) | 5:32 |
-| 41 | [Take Me Somewhere](https://open.spotify.com/track/6kcEtmpNYLasMfBRQlWQoB) | [Eternity Musiq](https://open.spotify.com/artist/1E2NUKujXBQxroG7soaG73) | [Take Me Somewhere](https://open.spotify.com/album/2WLyVdHEryUnrLN1snWshy) | 5:25 |
+| 41 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
 | 42 | [Forever](https://open.spotify.com/track/35HxHvOH4ajyjGFEBxEdBY) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Forever](https://open.spotify.com/album/6M721BFx6ILVC4gqZ47vmo) | 4:48 |
 | 43 | [Papino's Revenge \- Frank Ru Remix](https://open.spotify.com/track/1J0Wmd4V1Ll7sM2cCgVQ6G) | [KVRVBO](https://open.spotify.com/artist/6O8YH1s38BFvHKMg6vZjOB), [Frank Ru](https://open.spotify.com/artist/0kjnCjrnCw8s5VzKAyx7tJ) | [Papino's Revenge Remixes](https://open.spotify.com/album/2z1z0XNLkRY6R1sUqcC1pf) | 6:38 |
 | 44 | [Red Lips Swaying Hips](https://open.spotify.com/track/7nKMiA8RYhSfdmsvcow86m) | [M.Patrick](https://open.spotify.com/artist/0E0Ox0tBXwr7PLrm6NqDmv) | [Red Lips Swaying Hips](https://open.spotify.com/album/3zHMR9Ut0Sak00i5N0P0tp) | 7:11 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 47 | [The Gameplan](https://open.spotify.com/track/4Fl3uu5PrliDjR8Fo4NAuJ) | [Fynn](https://open.spotify.com/artist/4MWUQj6W31jtQXUNoKYWTB) | [The Gameplan](https://open.spotify.com/album/64Y7ZbXPxGD46ik5O7GrzH) | 7:41 |
 | 48 | [Once Again \- Mixed](https://open.spotify.com/track/4l4ORGf3ThdKDjjyCOxJdL) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR) | [Paradise Mixed \(DJ Mix\)](https://open.spotify.com/album/58EWg9uTR3Lb7gDYZA3Hm9) | 5:11 |
 | 49 | [I Care \- Radio Edit](https://open.spotify.com/track/4gXBXssvHxJ9kApYt4cyWP) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [I Care](https://open.spotify.com/album/5hz2ki5HCvLLmWb28iG906) | 4:24 |
-| 50 | [Unity](https://open.spotify.com/track/420jof4z72NlObyrANPnjx) | [RamsTeque](https://open.spotify.com/artist/4cMqUzaxGaCeXVhw8008WB), [Mega BT](https://open.spotify.com/artist/3MfzVTk6dH9KKe459heRZo), [Citizen Sthee](https://open.spotify.com/artist/6YZptCuMUkBBUvj2sXdd8p) | [Unity](https://open.spotify.com/album/2oLa1ncgPpOsMsmXj5Sa4p) | 7:19 |
+| 50 | [King of Castles](https://open.spotify.com/track/5yK4SXGC0P5ak5kO4mj8cg) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [King of Castles](https://open.spotify.com/album/243FAgBWqvxnbuFEED8enP) | 5:13 |
 
 Snapshot ID: `ZqwoEQAAAABbq99WeLau1tE8h4g1dGM0`

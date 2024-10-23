@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 159574,
+  "num_followers": 159615,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
+        "name": "Did I Forget Something?",
+        "url": "https://open.spotify.com/album/2WKt0r7oaf63dDG7t8aAMu"
+      },
+      "artists": [
+        {
+          "name": "Venjent",
+          "url": "https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Did I Forget Something",
+      "url": "https://open.spotify.com/track/5rEPTlWwMXWZ3oXfwe30FA"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
         "name": "I Miss The Old Macky",
         "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Did I Forget Something?",
-        "url": "https://open.spotify.com/album/2WKt0r7oaf63dDG7t8aAMu"
+        "name": "To The Sky",
+        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
       },
       "artists": [
         {
-          "name": "Venjent",
-          "url": "https://open.spotify.com/artist/7xu08SujAqLp7BGinS96vd"
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
         }
       ],
-      "duration_ms": 195348,
-      "name": "Did I Forget Something",
-      "url": "https://open.spotify.com/track/5rEPTlWwMXWZ3oXfwe30FA"
+      "duration_ms": 191724,
+      "name": "To The Sky",
+      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -671,22 +687,6 @@
       "duration_ms": 253371,
       "name": "SECRETS",
       "url": "https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "To The Sky",
-        "url": "https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 191724,
-      "name": "To The Sky",
-      "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -819,6 +819,26 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
+        "name": "CONTEXT",
+        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        }
+      ],
+      "duration_ms": 137624,
+      "name": "CONTEXT",
+      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
         "name": "Gunner",
         "url": "https://open.spotify.com/album/3nz5qqVIVZvOSdyfyTire1"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 290742,
       "name": "Gunner",
       "url": "https://open.spotify.com/track/3IpHOdzNvOfeTjlPSajNAV"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "CONTEXT",
-        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        }
-      ],
-      "duration_ms": 137624,
-      "name": "CONTEXT",
-      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Destiny Part II",
-        "url": "https://open.spotify.com/album/42KPhKTX0egGiml5nk0AJU"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Destiny Part II",
-      "url": "https://open.spotify.com/track/4WPl1vqx0GIEKY62i517Xh"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "Bounce EP",
-        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero",
-          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
         "name": "We No Care",
         "url": "https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9"
       },
@@ -1155,18 +1123,34 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Cuppa Tea",
-        "url": "https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU"
+        "name": "Bounce EP",
+        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
       },
       "artists": [
         {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
         }
       ],
-      "duration_ms": 206170,
-      "name": "Cuppa Tea",
-      "url": "https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ"
+      "duration_ms": 181028,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
+        "name": "Destiny Part II",
+        "url": "https://open.spotify.com/album/42KPhKTX0egGiml5nk0AJU"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Destiny Part II",
+      "url": "https://open.spotify.com/track/4WPl1vqx0GIEKY62i517Xh"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1187,6 +1171,22 @@
       "duration_ms": 105090,
       "name": "Wearing My Tracky",
       "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
+        "name": "Cuppa Tea",
+        "url": "https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU"
+      },
+      "artists": [
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "duration_ms": 206170,
+      "name": "Cuppa Tea",
+      "url": "https://open.spotify.com/track/5gXeX0bl0ohXbzYweimbrJ"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1367,6 +1367,30 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
+        "name": "Dubplate SZN",
+        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
+      },
+      "artists": [
+        {
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
+        },
+        {
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Dubplate SZN",
+      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
         "name": "Hardcore Riddim",
         "url": "https://open.spotify.com/album/5do913Q6Mwjn26EGhHESzM"
       },
@@ -1383,6 +1407,22 @@
       "duration_ms": 249228,
       "name": "Hardcore Riddim",
       "url": "https://open.spotify.com/track/5R77QOMkCw5Zk7M1Qz016c"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
+        "name": "Serum's Gaff: Part 2",
+        "url": "https://open.spotify.com/album/1Fhe8fyScfP8NMkxoTkX0a"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Manic Miner",
+      "url": "https://open.spotify.com/track/1BInUSYRSism3j1mZfTpvT"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1427,46 +1467,6 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Sabertooth",
-        "url": "https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Sabertooth",
-      "url": "https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "Dubplate SZN",
-        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
-      },
-      "artists": [
-        {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Jman",
-          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Dubplate SZN",
-      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
         "name": "Perfect Harmony (Phibes VIP)",
         "url": "https://open.spotify.com/album/6qcteM30PHXN8GWRywK1J6"
       },
@@ -1483,6 +1483,22 @@
       "duration_ms": 163764,
       "name": "Perfect Harmony - Phibes VIP",
       "url": "https://open.spotify.com/track/2x9vrwrJTW0IeBQJrq9Pnx"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
+        "name": "Bagleys VHS",
+        "url": "https://open.spotify.com/album/7hx6dHXIO9omYFkEfBv2My"
+      },
+      "artists": [
+        {
+          "name": "Spor",
+          "url": "https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM"
+        }
+      ],
+      "duration_ms": 209845,
+      "name": "Bagleys VHS",
+      "url": "https://open.spotify.com/track/28au5d2aeLYC0MTiDpyyP2"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2024-10-18 15:14:33",
       "album": {
-        "name": "Bagleys VHS",
-        "url": "https://open.spotify.com/album/7hx6dHXIO9omYFkEfBv2My"
-      },
-      "artists": [
-        {
-          "name": "Spor",
-          "url": "https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM"
-        }
-      ],
-      "duration_ms": 209845,
-      "name": "Bagleys VHS",
-      "url": "https://open.spotify.com/track/28au5d2aeLYC0MTiDpyyP2"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/46pWepYfmFsjoZIOQMz1GD"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 167068,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW"
+    },
+    {
+      "added_at": "2024-10-18 15:14:33",
+      "album": {
+        "name": "Sabertooth",
+        "url": "https://open.spotify.com/album/4DI3HslyOQV0GdZOFveRwl"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Sabertooth",
+      "url": "https://open.spotify.com/track/64s8GIvCDNvc18VwcFGoie"
     },
     {
       "added_at": "2024-10-18 15:14:33",
@@ -1575,22 +1591,6 @@
       "duration_ms": 192314,
       "name": "Rig Fairy (feat. Kelvin 373, Selecta J-Man and Aries) - VIP",
       "url": "https://open.spotify.com/track/5a97fAfJIHN6GfwwcVUNzA"
-    },
-    {
-      "added_at": "2024-10-18 15:14:33",
-      "album": {
-        "name": "Serum's Gaff: Part 2",
-        "url": "https://open.spotify.com/album/1Fhe8fyScfP8NMkxoTkX0a"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Manic Miner",
-      "url": "https://open.spotify.com/track/1BInUSYRSism3j1mZfTpvT"
     }
   ],
   "unique_name": "Proper Naughty ",

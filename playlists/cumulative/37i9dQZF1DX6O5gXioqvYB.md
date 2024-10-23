@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Giovanni Toscano
 
-183 songs - 8 hr 58 min
+184 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bene Bene](https://open.spotify.com/track/0xJJgvSmh55Ens4WYFXzJg) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Bene Bene](https://open.spotify.com/album/0WHSOXBqxlvXQaiCzDyMF3) | 2:30 | 2024-06-27 | 2024-07-27 |
 | [BRONCIO](https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [BRONCIO](https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5) | 2:19 | 2024-09-26 |  |
 | [BYE BYE](https://open.spotify.com/track/3fKmFNT3A8EZ3h2TsH0bZN) | [Ophelia Lia](https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk) | [BYE BYE](https://open.spotify.com/album/6hw4vPdcvTUobDbLuInXmG) | 2:50 | 2024-07-04 | 2024-09-27 |
-| [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 | 2024-10-17 | 2024-10-22 |
+| [CALICE](https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j) | [WALTER](https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY) | [CALICE](https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC) | 2:51 | 2024-10-17 |  |
 | [Canterino](https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Canterino](https://open.spotify.com/album/4iJp38ZlC8au8XklWLt4Gk) | 2:44 | 2024-09-26 | 2024-10-05 |
 | [Canzoni alla radio](https://open.spotify.com/track/715BG7KwhtLc6Lyi5PIZ3B) | [Lacrima](https://open.spotify.com/artist/1DVa4ZxXZ1LevzahcMWVhX) | [Canzoni alla radio](https://open.spotify.com/album/7l2sf9KBG6MBqVszdCC68V) | 2:54 | 2024-07-18 | 2024-09-27 |
 | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/track/11sVx6FxPPxfuPBCc4pYxp) | [Cartapesta](https://open.spotify.com/artist/1WbhtNbZgCyZaqYdKnAwKU) | [CAPELLI CORTI CALIFORNIA](https://open.spotify.com/album/5AEtPyvBjuCnH5TZWaYNMW) | 2:26 | 2024-08-22 | 2024-10-20 |
@@ -106,6 +106,7 @@
 | [Musica Leggera](https://open.spotify.com/track/7mXPJ6NdjuaMbPAKeaGkpM) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di) | [Musica Leggera](https://open.spotify.com/album/1tX6OniSv0iRTnNZMcKM2m) | 2:49 | 2024-08-22 | 2024-10-11 |
 | [Ne faccio un dramma](https://open.spotify.com/track/2hEPPcjs3jtBrMkJTC5QLZ) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Ne faccio un dramma](https://open.spotify.com/album/4b1qHeGBrpXCMx5C1EX9xw) | 2:10 | 2024-06-27 | 2024-10-01 |
 | [Nel cielo più nero](https://open.spotify.com/track/1Ty9Tt0jBLvD7xenWomg2d) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe), [kOkeshi](https://open.spotify.com/artist/1kbU8ryKGu6DDvcI0Hy8uj) | [Nel cielo più nero](https://open.spotify.com/album/4Pmew4fVz53mElFWOoT2ai) | 2:39 | 2024-06-27 | 2024-07-12 |
+| [nevischio su ande](https://open.spotify.com/track/2mVHvwPlviLFVtIAM2ERRp) | [tinai](https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP) | [girammo tutto in una macchina](https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq) | 2:49 | 2024-10-17 |  |
 | [Niente di buono](https://open.spotify.com/track/7FiSMFy9h9cik2wK0zqFhK) | [Peripezie](https://open.spotify.com/artist/5d5CRw67pU1hNJDnbPwGHt) | [Niente di buono](https://open.spotify.com/album/0IP7oGpoFblfoOlF4nawjO) | 2:24 | 2024-07-11 | 2024-08-23 |
 | [Niente di speciale](https://open.spotify.com/track/1HJvzw3f2jBAciSxTvgGfy) | [Santamarya](https://open.spotify.com/artist/21KDEhlB91nNVLCeUr3Rx0) | [Niente di speciale](https://open.spotify.com/album/2koptZ6UdppJIRrgXfLSo8) | 3:26 | 2024-07-04 | 2024-09-27 |
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-06-27 |  |
@@ -121,7 +122,7 @@
 | [Ogni mezz'ora](https://open.spotify.com/track/0xgNfO7phNkoWxCg7QdsQO) | [Evan](https://open.spotify.com/artist/5hZo9rZE0Tn6j7NPqxAYoE) | [Ogni mezz'ora](https://open.spotify.com/album/1biKlqwOF57CzP15mwgrnz) | 2:47 | 2024-07-18 | 2024-09-27 |
 | [Ondeggiando](https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Ondeggiando](https://open.spotify.com/album/6TrteCx1CPtXAxVUUbX31Y) | 2:34 | 2024-09-26 |  |
 | [ora che è tutto ok](https://open.spotify.com/track/6u824ox1DRmQCXnm5erolv) | [DANU](https://open.spotify.com/artist/4hVodcSKHtJWb5fIRvzax7) | [ora che è tutto ok](https://open.spotify.com/album/6eWOyJwZq3jhUw15gRcUCn) | 2:45 | 2024-08-01 |  |
-| [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 | 2024-08-29 |  |
+| [Ottovolanti](https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Ottovolanti](https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z) | 3:33 | 2024-08-29 | 2024-10-23 |
 | [Papapa](https://open.spotify.com/track/6eVudiatEcu6VO2Yl15KCN) | [200x100furo](https://open.spotify.com/artist/60IyQ8YTpIuykM81hrkhsZ), [999folo](https://open.spotify.com/artist/5M9Qo3gcWQvQVOa4CgH2lS) | [Papapa](https://open.spotify.com/album/6tjYWAUPpI6CYTLzombQvv) | 2:42 | 2024-08-01 | 2024-09-27 |
 | [PARTITA A SCACCHI](https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [PARTITA A SCACCHI](https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49) | 3:08 | 2024-10-10 |  |
 | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/track/5Lxf6ww2twlVd0kkeTrICS) | [Primogenito](https://open.spotify.com/artist/5kFvZ6VFcWQehxrg2PI8Ce) | [Pasquale \(guarda i cantieri\)](https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj) | 2:34 | 2024-09-26 |  |
@@ -135,7 +136,7 @@
 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 | 2024-08-29 |  |
 | [Polpastrelli](https://open.spotify.com/track/7ujJ9c0LozCmL0gEh5uFcK) | [GIROTTI](https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak) | [Polpastrelli](https://open.spotify.com/album/6q3emqCWz6naRFoKweiQJ7) | 3:31 | 2024-07-25 | 2024-09-27 |
 | [Posto Nuovo](https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi) | [Casadilego](https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT) | [Posto Nuovo](https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82) | 5:43 | 2024-08-29 |  |
-| [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 | 2024-09-05 |  |
+| [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 | 2024-09-05 | 2024-10-23 |
 | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/track/5alocERr1H4Qy6mwidyBmV) | [Leonardo Zaccaria](https://open.spotify.com/artist/6TcPvpaSG1G3UjyhqxPY1f), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/album/7tsEBf66mZeBamRgN7CNLK) | 2:39 | 2024-06-27 | 2024-07-12 |
 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 |  |
 | [Questa notte resta](https://open.spotify.com/track/3dzmfNVTS5y3DZkXIe6EsG) | [Fran e i Pensieri Molesti](https://open.spotify.com/artist/37dWYlSjeT4mB3sTyblB43) | [Questa notte resta](https://open.spotify.com/album/1HFj68aBxlVNUujEoSYVVw) | 2:49 | 2024-09-05 | 2024-09-27 |

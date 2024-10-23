@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah",
-  "num_followers": 174313,
+  "num_followers": 174363,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
         "name": "Sinal de Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 150833,
       "name": "Sinal de Fuma\u00e7a",
       "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -423,26 +423,6 @@
       "duration_ms": 180705,
       "name": "Tira minha paz",
       "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
-        "name": "tudo com voc\u00ea vira arte",
-        "url": "https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 160416,
-      "name": "tudo com voc\u00ea vira arte",
-      "url": "https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -483,6 +463,26 @@
       "duration_ms": 141502,
       "name": "S\u00f3 N\u00f3s Dois",
       "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
+        "name": "tudo com voc\u00ea vira arte",
+        "url": "https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 160416,
+      "name": "tudo com voc\u00ea vira arte",
+      "url": "https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
         "name": "Tempo pra Perder",
         "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 194974,
       "name": "Tempo pra Perder",
       "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "t\u00f4 por voc\u00ea",
-      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
         "name": "30\u00baC",
         "url": "https://open.spotify.com/album/2iDk6lzRhjYuJNt8sKO0yE"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 160000,
       "name": "PORTAIS",
       "url": "https://open.spotify.com/track/2XzZ08u2wNL6TjTWGKa70q"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "t\u00f4 por voc\u00ea",
+      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
+        "name": "\u00c9ramos",
+        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+      },
+      "artists": [
+        {
+          "name": "Jota SF",
+          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+        }
+      ],
+      "duration_ms": 218890,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
         "name": "NEM TUDO \u00c9 AMOR",
         "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 213421,
       "name": "risco",
       "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
-        "name": "\u00c9ramos",
-        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
-      },
-      "artists": [
-        {
-          "name": "Jota SF",
-          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
-        }
-      ],
-      "duration_ms": 218890,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
-        "name": "Louco inconsequente",
-        "url": "https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J"
-      },
-      "artists": [
-        {
-          "name": "Kid Lovi",
-          "url": "https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG"
-        }
-      ],
-      "duration_ms": 198728,
-      "name": "Louco inconsequente",
-      "url": "https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
         "name": "Viu!?",
         "url": "https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 185499,
       "name": "Viu!?",
       "url": "https://open.spotify.com/track/0Y5Ulasjgo28kEpFbBFKkf"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
+        "name": "Louco inconsequente",
+        "url": "https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J"
+      },
+      "artists": [
+        {
+          "name": "Kid Lovi",
+          "url": "https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG"
+        }
+      ],
+      "duration_ms": 198728,
+      "name": "Louco inconsequente",
+      "url": "https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1"
     },
     {
       "added_at": "2024-10-11 21:14:13",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-10-11 21:14:13",
       "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "Motico Money",
+          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+    },
+    {
+      "added_at": "2024-10-11 21:14:13",
+      "album": {
         "name": "Porto Seguro",
         "url": "https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 168205,
       "name": "Porto Seguro",
       "url": "https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8"
-    },
-    {
-      "added_at": "2024-10-11 21:14:13",
-      "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "Motico Money",
-          "url": "https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2024-10-11 21:14:13",

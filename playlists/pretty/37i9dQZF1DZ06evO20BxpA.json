@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxRIAAAAAAAfO5mJCxW5Rj7vco44mUC3",
+  "snapshot_id": "ZxWZgAAAAABBp3zB9rpdSkTYESYYdhQY",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 110906,
-      "name": "Fury Drives Into Camp",
-      "url": "https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ"
+      "duration_ms": 159106,
+      "name": "Wardaddy",
+      "url": "https://open.spotify.com/track/14CNBU26Ob6ZtW8YL11alR"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 201826,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/0do2y0LcH11sW4DECngxcv"
+      "duration_ms": 110906,
+      "name": "Fury Drives Into Camp",
+      "url": "https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 103866,
-      "name": "Science Project",
-      "url": "https://open.spotify.com/track/4c6JP62sRyEuUhOPkSoRST"
+      "duration_ms": 132906,
+      "name": "Moon Phases",
+      "url": "https://open.spotify.com/track/0a5P31i4G47JQOVYiTnC8j"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 132906,
-      "name": "Moon Phases",
-      "url": "https://open.spotify.com/track/0a5P31i4G47JQOVYiTnC8j"
+      "duration_ms": 103866,
+      "name": "Science Project",
+      "url": "https://open.spotify.com/track/4c6JP62sRyEuUhOPkSoRST"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+        "name": "Gravity (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 421893,
-      "name": "To Lose Himself in Vengeance",
-      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
+      "duration_ms": 388453,
+      "name": "Tiangong",
+      "url": "https://open.spotify.com/track/2yImRJOeJ6r7STCWs1xfal"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gravity (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
       "artists": [
         {
@@ -620,57 +620,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 388453,
-      "name": "Tiangong",
-      "url": "https://open.spotify.com/track/2yImRJOeJ6r7STCWs1xfal"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "All at Sea",
-      "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "The Age of Giants",
-      "url": "https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Over the Moon (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 99546,
-      "name": "Nighttime Conversation",
-      "url": "https://open.spotify.com/track/0kespT2GP46VLQ9DmEDQxy"
+      "duration_ms": 421893,
+      "name": "To Lose Himself in Vengeance",
+      "url": "https://open.spotify.com/track/7yZWl27qFbjZ8C7GKCSl0s"
     },
     {
       "added_at": null,
@@ -700,9 +652,41 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 236173,
-      "name": "A Sparrowhawk's Tale",
-      "url": "https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W"
+      "duration_ms": 229733,
+      "name": "All at Sea",
+      "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Over the Moon (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 99546,
+      "name": "Nighttime Conversation",
+      "url": "https://open.spotify.com/track/0kespT2GP46VLQ9DmEDQxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Whales - Return of the Giants (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "The Age of Giants",
+      "url": "https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT"
     },
     {
       "added_at": null,
@@ -716,9 +700,25 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 102080,
-      "name": "Who Are You Greeting My Love?",
-      "url": "https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q"
+      "duration_ms": 66280,
+      "name": "Beauty Turns Men to Beasts",
+      "url": "https://open.spotify.com/track/26iEiBk4vHSnGGqL0KiuBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "A Sparrowhawk's Tale",
+      "url": "https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Frailty in Love",
+      "url": "https://open.spotify.com/track/4nI39GnQb5otTxYYn1Np5W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last Night In Soho (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "You Have The True Spirit of A Lady",
-      "url": "https://open.spotify.com/track/4q61vq8quw5AMFIe0jF0sm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forests (Episode 8 / Soundtrack From The Netflix Original Series \"Our Planet\")",
         "url": "https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW"
       },
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "David Attenborough: A Life On Our Planet (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8"
+        "name": "Dolphin Reef (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 139893,
-      "name": "We Must Rewild The World",
-      "url": "https://open.spotify.com/track/1oujzxcMf4yGV5Un4ErGYd"
+      "duration_ms": 97106,
+      "name": "The Clam Shell Challenge",
+      "url": "https://open.spotify.com/track/5QUUxWpWBDOK1yTcDXB3Bp"
     }
   ],
   "unique_name": "This Is Steven Price",

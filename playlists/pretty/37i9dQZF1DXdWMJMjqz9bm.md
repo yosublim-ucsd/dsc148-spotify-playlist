@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 ### [Varsity Bars](https://open.spotify.com/playlist/37i9dQZF1DXdWMJMjqz9bm)
 
-> A little bit of pop, a little bit of rap\. Cover: Russ
+> A little bit of pop, a little bit of rap\. Cover: Anella Herim
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,737 likes - 35 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,734 likes - 35 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Best Friend](https://open.spotify.com/track/2WJXlmZ5ZgFkUjcs3798sc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Best Friend](https://open.spotify.com/album/3tFee3xnJ2I9vWAmAEC93x) | 2:35 |
-| 2 | [Don’t HMU](https://open.spotify.com/track/7cwaJRJ77yHcRizUtNGIUv) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Season 3: I Made You](https://open.spotify.com/album/1WQdI2ZpWk0VMHassJD0U8) | 1:38 |
+| 1 | [Don’t HMU](https://open.spotify.com/track/7cwaJRJ77yHcRizUtNGIUv) | [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN) | [Season 3: I Made You](https://open.spotify.com/album/1WQdI2ZpWk0VMHassJD0U8) | 1:38 |
+| 2 | [Best Friend](https://open.spotify.com/track/2WJXlmZ5ZgFkUjcs3798sc) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Best Friend](https://open.spotify.com/album/3tFee3xnJ2I9vWAmAEC93x) | 2:35 |
 | 3 | [Deja Vu \(feat\. DJ Drama\)](https://open.spotify.com/track/1hDtQHr9OveHVpE4RlvM9G) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Deja Vu \(feat\. DJ Drama\)](https://open.spotify.com/album/2UoHIfIrdKTAsbS9dcB72k) | 3:21 |
 | 4 | [Baked Alaska](https://open.spotify.com/track/63reuc8nVqfO3bmxCLUKDq) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Baked Alaska](https://open.spotify.com/album/0yRDamj20wKD1LWVIxoFrc) | 2:50 |
 | 5 | [500lbs](https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:24 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 34 | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/track/3NrIDXk1iWUzzNjyebPmNx) | [North Ave Jax](https://open.spotify.com/artist/7t3WSgiRVbVsTIbsgcHVrY), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [D.I.Y.A\. \(Die In Your Arms\)](https://open.spotify.com/album/3Ntqgl4QwGZymJxrLDxXhJ) | 3:09 |
 | 35 | [old change](https://open.spotify.com/track/2J5HyVV6Ymyv7LR6w5QvZC) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [old change](https://open.spotify.com/album/7jNF9ZNUFarlI887FlXJ23) | 1:54 |
 
-Snapshot ID: `ZxK7ZQAAAABWReTFB9zpgEERPKKlPqE8`
+Snapshot ID: `Zxfx3AAAAAC3wtkymS2a3cCQjmf6GvJj`

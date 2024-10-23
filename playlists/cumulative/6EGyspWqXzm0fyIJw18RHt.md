@@ -4,7 +4,7 @@
 
 > The vibes
 
-30 songs - 1 hr 40 min
+31 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [The Addams Family](https://open.spotify.com/track/6TZTu1F0gnp8mtzvYZao41) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Halloween Howls: Fun & Scary Music](https://open.spotify.com/album/5RoMbNYEFVEJyE1OX7VYsW) | 1:24 | 2024-10-14 |  |
 | [Tragedy](https://open.spotify.com/track/4fHjKoMUTv7PZ9HywAJMFP) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 3:56 | 2023-03-25 |  |
 | [Werewolves of London](https://open.spotify.com/track/6kotXaSQaGYxE62hVpdHWu) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Excitable Boy](https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg) | 3:29 | 2024-10-06 |  |
+| [What's Your Favorite Scary Movie?](https://open.spotify.com/track/6Tt7jbmNbCD3r3yc7yNIeC) | [Alden Derck](https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC), [Shannon Sheridan](https://open.spotify.com/artist/4Yp141vlWVAOEeVqV4anOa) | [What's Your Favorite Scary Movie?](https://open.spotify.com/album/1GRZIBtksUKWB6u7BTDX6U) | 3:06 | 2024-10-22 |  |
 | [Zombie Prostitute](https://open.spotify.com/track/7h4Wnk4boQRB9hnYOvaYit) | [Aurelio Voltaire](https://open.spotify.com/artist/2ZCG1aukcb5fjBDgizvDbD) | [Ooky Spooky](https://open.spotify.com/album/6fW49XkkorQpXwkYRDdPRq) | 3:14 | 2024-10-14 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

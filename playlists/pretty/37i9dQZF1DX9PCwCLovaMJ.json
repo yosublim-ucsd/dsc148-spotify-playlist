@@ -1,6 +1,6 @@
 {
   "description": "V\u00e5ra spellisteredakt\u00f6rers urval av otroliga l\u00e5tar fr\u00e5n 2023 som du kanske r\u00e5kat missa? Enjoy! #SpotifyWrapped",
-  "num_followers": 888,
+  "num_followers": 889,
   "original_name": "2023: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "Easy Go!",
+        "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
+      },
+      "artists": [
+        {
+          "name": "Raghd",
+          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
+        }
+      ],
+      "duration_ms": 150308,
+      "name": "Easy Go!",
+      "url": "https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "all you'll get from me is my company",
         "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Easy Go!",
-        "url": "https://open.spotify.com/album/5mp8GvPoshWM2qVTcX3Trk"
-      },
-      "artists": [
-        {
-          "name": "Raghd",
-          "url": "https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw"
-        }
-      ],
-      "duration_ms": 150308,
-      "name": "Easy Go!",
-      "url": "https://open.spotify.com/track/6k2qNuSSwA3qK0af7Lz2N5"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/1w1P5YCsV41XnFSXdI3cR7"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Live You Down",
-        "url": "https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ"
-      },
-      "artists": [
-        {
-          "name": "Svidden",
-          "url": "https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG"
-        }
-      ],
-      "duration_ms": 181681,
-      "name": "Live You Down",
-      "url": "https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "MAGNANIMITY",
         "url": "https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 194800,
       "name": "perfume bottle",
       "url": "https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Live You Down",
+        "url": "https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ"
+      },
+      "artists": [
+        {
+          "name": "Svidden",
+          "url": "https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG"
+        }
+      ],
+      "duration_ms": 181681,
+      "name": "Live You Down",
+      "url": "https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "b\u00e4stis",
-        "url": "https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp"
-      },
-      "artists": [
-        {
-          "name": "IMAN",
-          "url": "https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e"
-        }
-      ],
-      "duration_ms": 208832,
-      "name": "b\u00e4stis",
-      "url": "https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "T\u00e4nk om vi d\u00f6r!",
         "url": "https://open.spotify.com/album/1ypXzb3f5Tcmpc2kXi1nup"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 177279,
       "name": "T\u00e4nk om vi d\u00f6r!",
       "url": "https://open.spotify.com/track/4e4Ai0V6ckatATwPETAYhw"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "b\u00e4stis",
+        "url": "https://open.spotify.com/album/4BSVDte8vvUyJzvAAY4Gnp"
+      },
+      "artists": [
+        {
+          "name": "IMAN",
+          "url": "https://open.spotify.com/artist/4ODUdqz93vJsCMMdJ0R30e"
+        }
+      ],
+      "duration_ms": 208832,
+      "name": "b\u00e4stis",
+      "url": "https://open.spotify.com/track/2hJwtg1TWFQE4NlIMJ4pXD"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Ha dig tillbaka",
-        "url": "https://open.spotify.com/album/5fWRxcHoeJxVYK8BXCM2Ph"
-      },
-      "artists": [
-        {
-          "name": "Lilla London",
-          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "Ha dig tillbaka",
-      "url": "https://open.spotify.com/track/649oxel9UoY2RRdX3RwHgp"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Heaven EP",
         "url": "https://open.spotify.com/album/4qs2ZCcVu7eeKc82fqFsEr"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 200718,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4wJ6GzWqWebaKHXrKot0ju"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Ha dig tillbaka",
+        "url": "https://open.spotify.com/album/5fWRxcHoeJxVYK8BXCM2Ph"
+      },
+      "artists": [
+        {
+          "name": "Lilla London",
+          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+        }
+      ],
+      "duration_ms": 152506,
+      "name": "Ha dig tillbaka",
+      "url": "https://open.spotify.com/track/649oxel9UoY2RRdX3RwHgp"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Show You Off",
-        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 174323,
-      "name": "Show You Off",
-      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "blanket",
         "url": "https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 180272,
       "name": "October",
       "url": "https://open.spotify.com/track/6kMLYgSC8PW4B0pv9PpsQ1"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Show You Off",
+        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 174323,
+      "name": "Show You Off",
+      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Lilla liv",
-        "url": "https://open.spotify.com/album/5ouJgHAjwsUqxIrNZAO7lJ"
-      },
-      "artists": [
-        {
-          "name": "Terra ",
-          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
-        }
-      ],
-      "duration_ms": 195568,
-      "name": "Lilla liv",
-      "url": "https://open.spotify.com/track/2Hhpu6sLP4AcnJTWFNbxFn"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Flicker",
         "url": "https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 203624,
       "name": "Nekad p\u00e5 klubben",
       "url": "https://open.spotify.com/track/1GD0U35f73Qk3rfLx0wRo8"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Lilla liv",
+        "url": "https://open.spotify.com/album/5ouJgHAjwsUqxIrNZAO7lJ"
+      },
+      "artists": [
+        {
+          "name": "Terra ",
+          "url": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+        }
+      ],
+      "duration_ms": 195568,
+      "name": "Lilla liv",
+      "url": "https://open.spotify.com/track/2Hhpu6sLP4AcnJTWFNbxFn"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/4mmQ7sXnL4jB1J4rn0dTs6"
-      },
-      "artists": [
-        {
-          "name": "Botaii",
-          "url": "https://open.spotify.com/artist/0FsuDCPtrx3MQka05c0rWv"
-        }
-      ],
-      "duration_ms": 149003,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/3y8s3BTRrVZS6z38L4U6kQ"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "TIAMA l",
         "url": "https://open.spotify.com/album/0NwiFSNyO7F8Hig1bIauxg"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 173045,
       "name": "If You (Papapa)",
       "url": "https://open.spotify.com/track/19NCANVZm5Me4PBhP9weUh"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/4mmQ7sXnL4jB1J4rn0dTs6"
+      },
+      "artists": [
+        {
+          "name": "Botaii",
+          "url": "https://open.spotify.com/artist/0FsuDCPtrx3MQka05c0rWv"
+        }
+      ],
+      "duration_ms": 149003,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/3y8s3BTRrVZS6z38L4U6kQ"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Sweet Nothings",
-        "url": "https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge"
-      },
-      "artists": [
-        {
-          "name": "MER\u014cN",
-          "url": "https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Dream on",
         "url": "https://open.spotify.com/album/0HGjJL1K04PkgMqSYT6i0m"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 175375,
       "name": "Dream on",
       "url": "https://open.spotify.com/track/0UIIuquwAzJz3mKqyOQ2no"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/2ksI1yNXe9oyecXCEf68ge"
+      },
+      "artists": [
+        {
+          "name": "MER\u014cN",
+          "url": "https://open.spotify.com/artist/0YbqIxOpOJO7cOpGjMypRk"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/1cF3WDh4C8iRMvMZf8g3Kg"
     },
     {
       "added_at": "2023-11-29 12:17:00",

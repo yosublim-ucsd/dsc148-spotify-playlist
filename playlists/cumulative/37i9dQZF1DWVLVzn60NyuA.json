@@ -7668,7 +7668,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 119285,
       "name": "Perdiste",
       "url": "https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3"
@@ -8462,6 +8462,28 @@
       "duration_ms": 198400,
       "name": "Show Them",
       "url": "https://open.spotify.com/track/0F0gYhu89PlecJB3XUi5Jf"
+    },
+    {
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/69eqA59bgh09wQ2MT1AlnL"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253770,
+      "name": "Sideways",
+      "url": "https://open.spotify.com/track/3OGlklVPmFmu6Tm0fQ1JpB"
     },
     {
       "album": {

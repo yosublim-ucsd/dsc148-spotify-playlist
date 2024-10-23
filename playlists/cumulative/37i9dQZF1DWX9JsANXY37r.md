@@ -4,13 +4,14 @@
 
 > beber gin em casa, nada melhor
 
-243 songs - 15 hr 2 min
+244 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3am](https://open.spotify.com/track/1WH96QFPIhxlnATR0K90KX) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Gone Are the Days \(Shimokita Import\)](https://open.spotify.com/album/4VYRDmgRCtl3gpDbfD4Agv) | 3:48 | 2022-03-25 |  |
+| [3am](https://open.spotify.com/track/1WH96QFPIhxlnATR0K90KX) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Gone Are the Days \(Shimokita Import\)](https://open.spotify.com/album/4VYRDmgRCtl3gpDbfD4Agv) | 3:48 | 2022-03-25 | 2024-10-23 |
 | [9](https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/5cAJxOFxRwXkCihLMQJYtl) | 4:13 | 2022-06-24 | 2024-04-19 |
 | [9](https://open.spotify.com/track/5SZc01rqjwsKhJJthoyNg1) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [3](https://open.spotify.com/album/6GaQi3asDhuxt0n60oNQep) | 4:13 | 2022-03-25 | 2022-04-15 |
+| [A Melhor Saída](https://open.spotify.com/track/6Q4m595vykkZVev0ZHWQsK) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [Pique](https://open.spotify.com/album/0kLSMHP6ziFI70EItEtdZU) | 4:03 | 2024-10-22 |  |
 | [A Mother Lost](https://open.spotify.com/track/2NjYeefGWvg8ErbDg1zSnz) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Black Moon](https://open.spotify.com/album/1lTz7JPFWo3UhoDo1TZiWq) | 4:19 | 2022-03-25 | 2022-06-18 |
 | [Acid Dreams](https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Acid Dreams](https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk) | 3:03 | 2022-03-25 |  |
 | [After All](https://open.spotify.com/track/430AnSE09cNCZ42bG27QyU) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [After All](https://open.spotify.com/album/2bd7eQfyCYZWJ5qfwS8Hma) | 4:12 | 2022-03-25 | 2022-04-20 |

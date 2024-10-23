@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 229125,
+  "num_followers": 229273,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,26 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "P.S Remix (2023)",
+        "url": "https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft"
+      },
+      "artists": [
+        {
+          "name": "Burgaboy",
+          "url": "https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda"
+        },
+        {
+          "name": "Lauren Mason",
+          "url": "https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "P.S 2023 (Bassline Remix)",
+      "url": "https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "DIY",
         "url": "https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 189295,
       "name": "DIY - Old Skool Mix",
       "url": "https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "P.S Remix (2023)",
-        "url": "https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft"
-      },
-      "artists": [
-        {
-          "name": "Burgaboy",
-          "url": "https://open.spotify.com/artist/2RqbEOyM1cly9xDaFqyVda"
-        },
-        {
-          "name": "Lauren Mason",
-          "url": "https://open.spotify.com/artist/7n1EMEGr2LjgICpbN6ZiTh"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "P.S 2023 (Bassline Remix)",
-      "url": "https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Stop Dawdling / The Streets",
-        "url": "https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 265454,
-      "name": "The Streets",
-      "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Surgery",
         "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 129625,
       "name": "Surgery",
       "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Stop Dawdling / The Streets",
+        "url": "https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 265454,
+      "name": "The Streets",
+      "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
         "name": "One Ting",
         "url": "https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 237293,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Overrated",
-        "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 227555,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
     },
     {
       "added_at": "2024-10-03 23:00:00",
@@ -1319,38 +1319,6 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "IMMACULATE SKANK",
-        "url": "https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm"
-      },
-      "artists": [
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "IMMACULATE SKANK",
-      "url": "https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
-    },
-    {
-      "added_at": "2024-10-03 23:00:00",
-      "album": {
         "name": "Alla Dem Bad",
         "url": "https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3"
       },
@@ -1371,18 +1339,54 @@
     {
       "added_at": "2024-10-03 23:00:00",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
       },
       "artists": [
         {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
         }
       ],
-      "duration_ms": 166153,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp"
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "IMMACULATE SKANK",
+        "url": "https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm"
+      },
+      "artists": [
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "IMMACULATE SKANK",
+      "url": "https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc"
+    },
+    {
+      "added_at": "2024-10-03 23:00:00",
+      "album": {
+        "name": "Bad Bassline",
+        "url": "https://open.spotify.com/album/4C7PnuA3nd6XXBYfLuWcaH"
+      },
+      "artists": [
+        {
+          "name": "Jenn Getz & Alfie",
+          "url": "https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH"
+        },
+        {
+          "name": "DJ Luck & MC Neat",
+          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Bad Bassline",
+      "url": "https://open.spotify.com/track/4d1Z1ydKSxQqk41ABR38Es"
     }
   ],
   "unique_name": "Bassline Bangers",

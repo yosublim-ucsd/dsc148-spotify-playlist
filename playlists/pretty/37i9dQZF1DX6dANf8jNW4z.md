@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres a todo volumen\. Foto: Ainoa Buitrago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,150 likes - 59 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,146 likes - 59 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1519,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Vida Rockstar",
+      "url": "https://open.spotify.com/track/3HJdVteZQwALBdlr0VFlBZ"
+    },
+    {
+      "album": {
         "name": "LA \u00daLTIMA VEZ QUE ME VISTE",
         "url": "https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J"
       },

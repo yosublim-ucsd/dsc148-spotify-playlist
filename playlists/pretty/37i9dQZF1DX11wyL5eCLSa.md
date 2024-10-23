@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. José Madero en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,108 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,124 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 9 | [Envenéname](https://open.spotify.com/track/5zixUJB0UpnKpYND6LFXzQ) | [Los Concorde](https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA) | [Envenéname](https://open.spotify.com/album/6aIFbmb0fLDE2nHQWnjPxH) | 3:45 |
 | 10 | [La Novedad](https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH), [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [La Novedad](https://open.spotify.com/album/1GMQ07qxd5Sxjb1ga4c1sW) | 3:31 |
 | 11 | [Dafne](https://open.spotify.com/track/3Uw6XT2xJzEddDVd3bor1E) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Dafne](https://open.spotify.com/album/1P1nJ5pey3YdfEvftQJosT) | 4:42 |
-| 12 | [Tu Puto Grupo](https://open.spotify.com/track/2Jilw03fQizCqVvqITIBnl) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Tu Puto Grupo](https://open.spotify.com/album/0E6yLyVWpKWjlIdOtxrMrj) | 3:06 |
+| 12 | [Tu Puto Grupo](https://open.spotify.com/track/2Jilw03fQizCqVvqITIBnl) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [Edu Espín](https://open.spotify.com/artist/1ZnwH4hFx4zPOCHMXMBMdk) | [Tu Puto Grupo](https://open.spotify.com/album/0E6yLyVWpKWjlIdOtxrMrj) | 3:06 |
 | 13 | [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 |
 | 14 | [Esta Casa Era Un Hogar](https://open.spotify.com/track/2yj23afyp3bodAMpXN5oVw) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Esta Casa Era Un Hogar](https://open.spotify.com/album/4KtxoropGb0e7mVcJ7DMAP) | 3:29 |
 | 15 | [Imitándote](https://open.spotify.com/track/3DyTHxOyaqFyVma3LUJYMn) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Imitándote](https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf) | 2:54 |

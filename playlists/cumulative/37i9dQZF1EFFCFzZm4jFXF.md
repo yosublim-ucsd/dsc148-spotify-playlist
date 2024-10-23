@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-108 songs - 6 hr 3 min
+109 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [face it](https://open.spotify.com/track/2JFKhZApRjevePAHn8SKrR) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 3:00 | 2024-06-13 |  |
 | [Face My Fears](https://open.spotify.com/track/0QhzV0wGDhWvBfvTpvVL5m) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Tomorrow Never Came](https://open.spotify.com/album/0sDmEPP86YEUsNu3f2y7D7) | 3:44 | 2024-06-13 |  |
 | [Fade Away](https://open.spotify.com/track/7thOGpKaWpPotq2U37UItx) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Fade Away](https://open.spotify.com/album/0XyAR5FCmnhX4LgLHjLnTP) | 3:45 | 2024-06-13 |  |
+| [Falling For A Friend](https://open.spotify.com/track/4lLPl7RHFa4bcIKLYhfayz) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Falling For A Friend](https://open.spotify.com/album/7wfhTy5qm6SrTf7SgRZYgL) | 2:57 | 2024-10-22 |  |
 | [Falling into You](https://open.spotify.com/track/02GRplM4IhpuHaCpKbbKOm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Falling into You](https://open.spotify.com/album/6NiqDjyRBAosW0HAdREPdv) | 3:55 | 2024-06-13 |  |
 | [Familiar Strangers \(feat\. Rothwell\)](https://open.spotify.com/track/1oxYhEMbizWCKeYJwHzupl) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Rothwell](https://open.spotify.com/artist/5uPbfbVvS1knjpH37U1Mgr) | [Familiar Strangers \(feat\. Rothwell\)](https://open.spotify.com/album/1M4dLP4T6R2i4NHc0zBRNw) | 2:55 | 2024-06-13 |  |
 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 | 2024-06-13 |  |

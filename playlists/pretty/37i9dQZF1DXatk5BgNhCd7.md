@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Olga Tañón
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,033 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,071 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 24 | [Corazón que miente](https://open.spotify.com/track/7IX8K58YVVPJOIwio7vIpz) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [Corazón que miente](https://open.spotify.com/album/745UcNkOQwdtDL1Uu65Heq) | 3:06 |
 | 25 | [Lloro](https://open.spotify.com/track/2FBpimeZ9vvgzbpqPRBJVa) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Lloro](https://open.spotify.com/album/2nlCg4MvfPG0IbqkhdmKr5) | 2:50 |
 | 26 | [Sueños](https://open.spotify.com/track/3l0jxsebFnvO2YsdBnMZBG) | [Amantes del Futuro](https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0), [ZOND3R](https://open.spotify.com/artist/4gGFnMEvxdDTumJqI6letS) | [Sueños](https://open.spotify.com/album/6ADqVQHnEyunnr9o368NMp) | 4:24 |
-| 27 | [Contigo Me Gusta](https://open.spotify.com/track/3mxpUjy8KSwr3vytfwQUze) | [Mak Donal](https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM) | [Contigo Me Gusta](https://open.spotify.com/album/4GdKJYanzi1SUXgGZxOULs) | 2:11 |
+| 27 | [Contigo Me Gusta](https://open.spotify.com/track/3mxpUjy8KSwr3vytfwQUze) | [Mak Donal](https://open.spotify.com/artist/2TekzK4jw30Cc4jlAmcrVM), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Contigo Me Gusta](https://open.spotify.com/album/4GdKJYanzi1SUXgGZxOULs) | 2:11 |
 | 28 | [Pa´Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pa´ Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC) | 2:52 |
 | 29 | [Princesa](https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa](https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC) | 2:46 |
 | 30 | [OTRO CAPÍTULO](https://open.spotify.com/track/4ZJ6Ef4JKjYwiuyYp7DxSK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ENCUENTROS](https://open.spotify.com/album/6Q2RSXigUcxzMKHzVYiyHw) | 3:00 |

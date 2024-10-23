@@ -1,13 +1,29 @@
 {
-  "description": "A little bit of pop, a little bit of rap. Cover: Russ",
-  "num_followers": 217737,
+  "description": "A little bit of pop, a little bit of rap. Cover: Anella Herim",
+  "num_followers": 217734,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxK7ZQAAAABWReTFB9zpgEERPKKlPqE8",
+  "snapshot_id": "Zxfx3AAAAAC3wtkymS2a3cCQjmf6GvJj",
   "tracks": [
+    {
+      "added_at": "2024-10-18 19:47:48",
+      "album": {
+        "name": "Season 3: I Made You",
+        "url": "https://open.spotify.com/album/1WQdI2ZpWk0VMHassJD0U8"
+      },
+      "artists": [
+        {
+          "name": "Anella Herim",
+          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
+        }
+      ],
+      "duration_ms": 98276,
+      "name": "Don\u2019t HMU",
+      "url": "https://open.spotify.com/track/7cwaJRJ77yHcRizUtNGIUv"
+    },
     {
       "added_at": "2024-05-31 16:56:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 155513,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/2WJXlmZ5ZgFkUjcs3798sc"
-    },
-    {
-      "added_at": "2024-10-18 19:47:48",
-      "album": {
-        "name": "Season 3: I Made You",
-        "url": "https://open.spotify.com/album/1WQdI2ZpWk0VMHassJD0U8"
-      },
-      "artists": [
-        {
-          "name": "Anella Herim",
-          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
-        }
-      ],
-      "duration_ms": 98276,
-      "name": "Don\u2019t HMU",
-      "url": "https://open.spotify.com/track/7cwaJRJ77yHcRizUtNGIUv"
     },
     {
       "added_at": "2024-05-31 16:56:00",

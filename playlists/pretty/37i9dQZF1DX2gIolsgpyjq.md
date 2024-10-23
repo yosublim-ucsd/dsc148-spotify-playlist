@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Dione
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,614 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,616 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 11 | [Take A Walk](https://open.spotify.com/track/1Sd05WKDL1UfoFiA1TOW6L) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Take A Walk](https://open.spotify.com/album/5TUPt6XwD9k6gzttJfNMtR) | 2:17 |
 | 12 | [Mega Drive](https://open.spotify.com/track/1ED3VzuGpuch83efnmQytv) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Mega Drive](https://open.spotify.com/album/1FbqOdPsjrpayMjEjlA3wL) | 3:54 |
 | 13 | [Voodoo Doll](https://open.spotify.com/track/6nblOy1zFcmxpw2nTjY4hZ) | [Kissimjau](https://open.spotify.com/artist/48FGhVmpVUfbDb6iRMYIf0) | [Voodoo Doll](https://open.spotify.com/album/0qRL7wsgL4lbxJ8VBrLzyS) | 2:49 |
-| 14 | [Elixir](https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok), [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [2:M](https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X) | 3:34 |
+| 14 | [Elixir](https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok), [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Elixir](https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X) | 3:34 |
 | 15 | [Secrets](https://open.spotify.com/track/1UQyCI0Gv55ZRiV0EhGzlM) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Secrets](https://open.spotify.com/album/74sVUSFQkGj6y6h54SDBe3) | 3:04 |
 | 16 | [TALK TALK](https://open.spotify.com/track/5bym3p060xLsVaAyLKZboG) | [DEEJADE](https://open.spotify.com/artist/2SNdikRXdwh6utMvQ3LxPK) | [TALK TALK](https://open.spotify.com/album/7bCddEZYiLDF2sN3Sqdpta) | 2:08 |
 | 17 | [Work It Out](https://open.spotify.com/track/7FSY91vw3nChqrGQ7kenka) | [Mattis](https://open.spotify.com/artist/2I6SRX30aAGgVhi5dpDi2o) | [Work It Out](https://open.spotify.com/album/2QemH2gR2VLTE6C2yVt3Rl) | 2:40 |

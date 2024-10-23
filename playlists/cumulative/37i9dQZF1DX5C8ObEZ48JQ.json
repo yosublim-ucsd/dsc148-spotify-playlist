@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent African artists and labels. Cover:  <a href=\"https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5?si=4J1v3b8TTjmSNiUWrCuEuA\">FirstKlaz</a>. Artwork: Isu Kim. ",
+  "description": "The best new music by independent African artists and labels. Cover:  <a href=\"https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6?si=wtpL4eDmQA-TAJhFV366CA\">Niambi</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -17732,6 +17732,24 @@
       "duration_ms": 167319,
       "name": "Spinning",
       "url": "https://open.spotify.com/track/4FWIITAWPbL9W28tXAf96x"
+    },
+    {
+      "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/1eQpBjbHfLEX4gsLOsbd2R"
+      },
+      "artists": [
+        {
+          "name": "Mars Baby",
+          "url": "https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/4GnCkUqZxnTmCAnO5X5cZU"
     },
     {
       "album": {

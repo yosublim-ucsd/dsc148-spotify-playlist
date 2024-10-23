@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,610 likes - 89 songs - 4 hr 52 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,608 likes - 89 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 25 | [UN DÍA DE ESOS](https://open.spotify.com/track/3Ch4N9pgJ807jG9KoFPXat) | [Lucas Jesús](https://open.spotify.com/artist/4aOowso1Cyvob8i68vFQN1) | [UN DÍA DE ESOS](https://open.spotify.com/album/6uLUpurKUSK0HZgPKjD91V) | 2:55 |
 | 26 | [Mírame](https://open.spotify.com/track/4i44BQiyplTEvH9S415cCE) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Mírame](https://open.spotify.com/album/5brVHpDSJozJOBYmmopAZZ) | 2:12 |
 | 27 | [Spring breakers featuring kesha](https://open.spotify.com/track/6iiofFfntEWeKApZqX18WD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Spring breakers featuring kesha](https://open.spotify.com/album/0qsp9ye0GPLLEdey7UAzaN) | 2:22 |
-| 28 | [Tu Puto Grupo](https://open.spotify.com/track/2Jilw03fQizCqVvqITIBnl) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Tu Puto Grupo](https://open.spotify.com/album/0E6yLyVWpKWjlIdOtxrMrj) | 3:06 |
+| 28 | [Tu Puto Grupo](https://open.spotify.com/track/2Jilw03fQizCqVvqITIBnl) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [Edu Espín](https://open.spotify.com/artist/1ZnwH4hFx4zPOCHMXMBMdk) | [Tu Puto Grupo](https://open.spotify.com/album/0E6yLyVWpKWjlIdOtxrMrj) | 3:06 |
 | 29 | [Let Me Out](https://open.spotify.com/track/2Dg2hKrwZcmZL3W0qosBFZ) | [Atalaya Roja](https://open.spotify.com/artist/1h7ZOJHR9tGilZq1EGcfOB) | [Let Me Out](https://open.spotify.com/album/4foi2ylfrekKzv1gv1EeBx) | 3:30 |
 | 30 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 |
 | 31 | [Le Punk](https://open.spotify.com/track/2ytzH6Ntx2nu4AhaAPtaTy) | [Living Camboya](https://open.spotify.com/artist/5S0fuxdB26HXN2bVPx3keU) | [Le Punk](https://open.spotify.com/album/182QktNxh0H9ALyCiGh71U) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: AUDREY NUNA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,244 likes - 117 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,251 likes - 117 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 10 | [BRIGHT TIMES feat\. Kohjiya](https://open.spotify.com/track/29sChyERg3I2cwGqCyHhEd) | [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [BRIGHT TIMES feat\. Kohjiya](https://open.spotify.com/album/4dXOQXVAyabOjpANPgg2TL) | 3:36 |
 | 11 | [Higher Quality](https://open.spotify.com/track/5AGHgVIGMXGGpcP9yy3Cwt) | [Sambal Snake](https://open.spotify.com/artist/2sfACHVFHsnFIdNEvqphji) | [Higher Quality](https://open.spotify.com/album/2UyRN2SvgJjb8zWX91dJbI) | 2:46 |
 | 12 | [35° \(feat\. Lili Forest\)](https://open.spotify.com/track/3yVpOXP7grNg2peddvwPw1) | [achi](https://open.spotify.com/artist/5afah66mDtf06T5lCyM2jd), [Lili Forest](https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6) | [35° \(feat\. Lili Forest\)](https://open.spotify.com/album/7C7ShGRX4d0V6qiaZxT4g7) | 3:15 |
-| 13 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:09 |
+| 13 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:10 |
 | 14 | [Monitoring Me](https://open.spotify.com/track/5et07CoblayzSAQIFLtP3d) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Monitoring Me](https://open.spotify.com/album/4gihDInzv5b57Fy5fhcsGV) | 2:24 |
 | 15 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
 | 16 | [Tough \- Channel Tres Remix](https://open.spotify.com/track/3oBkOHVnI63U8e1ZiLnJ7r) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tough \(Channel Tres Remix\)](https://open.spotify.com/album/2vJu4551iNpu7oXJ6ymLi0) | 3:08 |

@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1346309,
+  "num_followers": 1346433,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Want",
-        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
+        "name": "Wicked Ones",
+        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
       },
       "artists": [
         {
-          "name": "Kelsey Waters",
-          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
         }
       ],
-      "duration_ms": 170810,
-      "name": "Want",
-      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
+      "duration_ms": 172516,
+      "name": "Wicked Ones",
+      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -679,34 +679,18 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Wicked Ones",
-        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
+        "name": "Want",
+        "url": "https://open.spotify.com/album/0QrNnavvkoA9dehE8N3sSQ"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+          "name": "Kelsey Waters",
+          "url": "https://open.spotify.com/artist/7rjqEDqvREzfmSP58SLYXT"
         }
       ],
-      "duration_ms": 172516,
-      "name": "Wicked Ones",
-      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Ruby Red",
-        "url": "https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Santo",
-          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
-        }
-      ],
-      "duration_ms": 222026,
-      "name": "Blood on Your Knees",
-      "url": "https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289"
+      "duration_ms": 170810,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/7BVRDaghQHyDqtRdjdMTsu"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -723,6 +707,22 @@
       "duration_ms": 191413,
       "name": "Carnival of Crows '06",
       "url": "https://open.spotify.com/track/2lO1SCes5TisAXB3S9EN7z"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Ruby Red",
+        "url": "https://open.spotify.com/album/7Bsz8Wc2xeIZVr0XC23Vfk"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Santo",
+          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Blood on Your Knees",
+      "url": "https://open.spotify.com/track/3x6QbnhKGxweFWdqDl8289"
     },
     {
       "added_at": "2024-08-23 15:39:31",

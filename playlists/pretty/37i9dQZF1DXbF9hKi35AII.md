@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbF9hKi35AII.md) - [plain]
 
 > It's Hits \-soittolistan parhaat biisit vuodelta 2023\. Kannessa BEHM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,418 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,417 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

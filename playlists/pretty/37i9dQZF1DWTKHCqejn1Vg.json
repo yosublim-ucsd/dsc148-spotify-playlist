@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 32601,
+  "num_followers": 32607,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -102,15 +102,11 @@
         {
           "name": "DEAN",
           "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 211972,
-      "name": "\ud480\uc5b4",
-      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
+      "duration_ms": 207129,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -234,11 +230,15 @@
         {
           "name": "DEAN",
           "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 207129,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
+      "duration_ms": 211972,
+      "name": "\ud480\uc5b4",
+      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
-        "name": "ME TIME",
-        "url": "https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s"
-      },
-      "artists": [
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        }
-      ],
-      "duration_ms": 137973,
-      "name": "LVSNG",
-      "url": "https://open.spotify.com/track/3emY4tmPQU44ppnLiTcTL4"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
         "name": "kiss my lips",
         "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
+        "name": "ME TIME",
+        "url": "https://open.spotify.com/album/35yOKT2x4cwAPm0CQ8DF6s"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "duration_ms": 137973,
+      "name": "LVSNG",
+      "url": "https://open.spotify.com/track/3emY4tmPQU44ppnLiTcTL4"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
         "name": "Honestly",
         "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 197013,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Kurkdjian",
-      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -823,6 +807,22 @@
       "duration_ms": 141355,
       "name": "DADDY",
       "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Kurkdjian",
+      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
-        "name": "FRAME",
-        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
-      },
-      "artists": [
-        {
-          "name": "Han Seungwoo",
-          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Dive Into",
-      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
-    },
-    {
-      "added_at": "2024-09-13 09:14:57",
-      "album": {
         "name": "Hated you",
         "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2024-09-13 09:14:57",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz"
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
       },
       "artists": [
         {
-          "name": "TAEWOO",
-          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
         }
       ],
-      "duration_ms": 148773,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR"
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     },
     {
       "added_at": "2024-09-13 09:14:57",
@@ -987,6 +971,22 @@
       "duration_ms": 220733,
       "name": "2080",
       "url": "https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc"
+    },
+    {
+      "added_at": "2024-09-13 09:14:57",
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz"
+      },
+      "artists": [
+        {
+          "name": "TAEWOO",
+          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR"
     },
     {
       "added_at": "2024-09-13 09:14:57",

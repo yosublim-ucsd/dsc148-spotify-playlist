@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Mabe Fratti on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,777 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,866 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,19 +81,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 71 | [Pokemans](https://open.spotify.com/track/3QLQJLs8WjbwnYUer3HEoP) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA) | [Pokemans](https://open.spotify.com/album/1dpMryDJlXKZzmLyahGCEi) | 3:05 |
 | 72 | [Sincerity](https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x) | [Permanent Loss](https://open.spotify.com/artist/14xgZwvZVI4yCuT0LE5qA7) | [Sincerity](https://open.spotify.com/album/1oRyrNuN88oKSQY5KaLBnF) | 2:33 |
 | 73 | [Most Beautiful Imaginary Dialogues](https://open.spotify.com/track/3ENlWQhqR0eugErEW6w74x) | [Isik Kural](https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ) | [Moon in Gemini](https://open.spotify.com/album/6kDMzjTu5l7kpNcWE1h5mz) | 3:56 |
-| 74 | [Oase](https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nightshade](https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU) | 3:10 |
-| 75 | [wearywatergod](https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [L4TA](https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc) | 1:08 |
-| 76 | [Afro American](https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu) | [SONSO](https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz) | [Panamanian Nights](https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx) | 3:01 |
+| 74 | [Afro American](https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu) | [SONSO](https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz) | [Panamanian Nights](https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx) | 3:01 |
+| 75 | [Oase](https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY) | [Cavolo Nero](https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU) | [Nightshade](https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU) | 3:10 |
+| 76 | [wearywatergod](https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [L4TA](https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc) | 1:08 |
 | 77 | [A Diosa \(Non potho reposare\)](https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q) | [Vieri Cervelli Montel](https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL) | [A Diosa \(Non potho reposare\)](https://open.spotify.com/album/57Nnl27zPUTcv1ZQ8Ip32f) | 10:00 |
 | 78 | [The Mud Lions](https://open.spotify.com/track/69mRQWc56zEKt1YLQZLANw) | [Elbtonal Percussion](https://open.spotify.com/artist/4jU6qaM5xefdW9O12GXX7L) | [Plays Stewart Copeland](https://open.spotify.com/album/0jNrPsoL9SCu7oBffUJuzm) | 3:32 |
 | 79 | [Parasites](https://open.spotify.com/track/0yp6SApXs0juwNYA1Qgvnk) | [Bowl](https://open.spotify.com/artist/3g2APnmJ1jNf0WDYF4rZCm) | [Side A: The Rude Interruption of Fear](https://open.spotify.com/album/3mZpSDeaxkDiaw6lOEcqGj) | 3:58 |
 | 80 | [The Needle](https://open.spotify.com/track/2YY3hKhPkfbH1Pq7IbOqM8) | [Raffaele Luzzi](https://open.spotify.com/artist/4JLQ9IjJLdgZC1lTTmJVoJ), [Roberto Iadanza](https://open.spotify.com/artist/07xIyQ1cO3YFkFuT7wPRjB) | [The Needle](https://open.spotify.com/album/3HxgQd8c61r196YYV3ddzH) | 5:09 |
 | 81 | [OOPARTS](https://open.spotify.com/track/1cDGNpfKqMqXVDsx9cZcyd) | [HYPER GAL](https://open.spotify.com/artist/68HIerKvAdzqKH5ayPw2q3) | [After Image](https://open.spotify.com/album/299IhhqYpy2GbQDthp08AG) | 6:06 |
-| 82 | [Hipercariño \(o, cómo aprendí a entrenar la ternura\)](https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v) | [FURIO](https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K) | [Amateur](https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E) | 1:55 |
-| 83 | [Vaporize](https://open.spotify.com/track/72tsEmvUXRR7MxFFCNxTIh) | [Neon Hologram](https://open.spotify.com/artist/208jyj0Ok2YxZovEXivefA) | [Vaporwave Tactical](https://open.spotify.com/album/6H53eDZ20n28AOGUNzxZUv) | 1:59 |
+| 82 | [Vaporize](https://open.spotify.com/track/72tsEmvUXRR7MxFFCNxTIh) | [Neon Hologram](https://open.spotify.com/artist/208jyj0Ok2YxZovEXivefA) | [Vaporwave Tactical](https://open.spotify.com/album/6H53eDZ20n28AOGUNzxZUv) | 1:59 |
+| 83 | [Hipercariño \(o, cómo aprendí a entrenar la ternura\)](https://open.spotify.com/track/5RcTbnnriwsl6PGGskre6v) | [FURIO](https://open.spotify.com/artist/3ZnjyLqoUPP2XH6zigNF2K) | [Amateur](https://open.spotify.com/album/4T8sQPpeuJGZ3NXCqP9Q9E) | 1:55 |
 | 84 | [Sundown Muse](https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m) | [ERHA](https://open.spotify.com/artist/1cJYrUDjb9XpXiQ8fdbECw) | [Sundown Muse](https://open.spotify.com/album/563p4ncIUA3CqMCcE5SJJs) | 4:21 |
-| 85 | [Dots Revisited](https://open.spotify.com/track/7eDDosKY7yPLdLudAru8ej) | [6zm](https://open.spotify.com/artist/7LB4wq9odJ0CzZXr0HYpIJ) | [Dots](https://open.spotify.com/album/37vqkrSRu7lMRzsRP1ka37) | 7:28 |
-| 86 | [\(The Circle\) of Compassion](https://open.spotify.com/track/69iki2OCAf8NhrLCxeYVOh) | [Surya Botofasina](https://open.spotify.com/artist/7prVYBPMsWxRBIo3ipMlLj), [MidnightRoba](https://open.spotify.com/artist/41BwcfR5d2OOkuTvn3F850) | [\(The Circle\) of Compassion](https://open.spotify.com/album/17VW4G1b7ZO3JYcaDHfQqi) | 8:18 |
+| 85 | [\(The Circle\) of Compassion](https://open.spotify.com/track/69iki2OCAf8NhrLCxeYVOh) | [Surya Botofasina](https://open.spotify.com/artist/7prVYBPMsWxRBIo3ipMlLj), [MidnightRoba](https://open.spotify.com/artist/41BwcfR5d2OOkuTvn3F850) | [\(The Circle\) of Compassion](https://open.spotify.com/album/17VW4G1b7ZO3JYcaDHfQqi) | 8:18 |
+| 86 | [Dots Revisited](https://open.spotify.com/track/7eDDosKY7yPLdLudAru8ej) | [6zm](https://open.spotify.com/artist/7LB4wq9odJ0CzZXr0HYpIJ) | [Dots](https://open.spotify.com/album/37vqkrSRu7lMRzsRP1ka37) | 7:28 |
 | 87 | [Cmad](https://open.spotify.com/track/5PuEiHEqmV72PSPxrV36He) | [Long Legged Creatures](https://open.spotify.com/artist/7gayjJRBZkCP9mxgYCyf67) | [Cmad](https://open.spotify.com/album/6EwXI5ZxoVH8KwBxuFXiC7) | 4:55 |
 | 88 | [A Plastic Gun The Size Of The World](https://open.spotify.com/track/7oUWVXld8maQDdEQjXZmEZ) | [Meynsense](https://open.spotify.com/artist/35X7M5C8Dh8bpHkj10WOVR) | [A Plastic Gun The Size Of The World](https://open.spotify.com/album/1GVzSOLU3TVXY9bzO4EbkL) | 5:32 |
 | 89 | [茈](https://open.spotify.com/track/3M8rZyevOLlW8hazsAhZ1V) | [WOZNIAK](https://open.spotify.com/artist/1jrlC8PxkV1Lh1LIjPgdwj) | [茈](https://open.spotify.com/album/0hfJL5SVoz8nP7Vr1yWTkP) | 3:24 |

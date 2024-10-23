@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 753739,
+  "num_followers": 753734,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,18 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "OTRA NOCHE",
-        "url": "https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT"
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
       "artists": [
         {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 224120,
-      "name": "OTRA NOCHE",
-      "url": "https://open.spotify.com/track/0zpIdU4Q65JlzyueQQnx7Q"
+      "duration_ms": 202360,
+      "name": "LA CAPI",
+      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -911,18 +907,22 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+        "name": "OTRA NOCHE",
+        "url": "https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT"
       },
       "artists": [
         {
           "name": "Myke Towers",
           "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
         }
       ],
-      "duration_ms": 202360,
-      "name": "LA CAPI",
-      "url": "https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw"
+      "duration_ms": 224120,
+      "name": "OTRA NOCHE",
+      "url": "https://open.spotify.com/track/0zpIdU4Q65JlzyueQQnx7Q"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
+        "name": "Rayos de Sol",
+        "url": "https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 de Rico",
+          "url": "https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m"
+        },
+        {
+          "name": "Henry Mendez",
+          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
+        }
+      ],
+      "duration_ms": 231562,
+      "name": "Rayos de Sol",
+      "url": "https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
         "name": "EL PANTALON (RUMBAS)",
         "url": "https://open.spotify.com/album/0TtfzOFvZu1xudp1Of4uRa"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 193066,
       "name": "EL PANTALON - RUMBAS",
       "url": "https://open.spotify.com/track/5tt2V5NfowSz690MCLBlKO"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "Rayos de Sol",
-        "url": "https://open.spotify.com/album/3ZXPjs7JZejedxBbXobWRA"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 de Rico",
-          "url": "https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m"
-        },
-        {
-          "name": "Henry Mendez",
-          "url": "https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1"
-        }
-      ],
-      "duration_ms": 231562,
-      "name": "Rayos de Sol",
-      "url": "https://open.spotify.com/track/1d5obgzCOtwq9qaxfe4Hpw"
     },
     {
       "added_at": "2024-09-02 07:47:14",

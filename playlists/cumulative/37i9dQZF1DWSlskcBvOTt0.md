@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-767 songs - 2 day 20 hr 48 min
+768 songs - 2 day 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [How It Feels \(feat\. Lauren L'aimant\)](https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [How It Feels \(feat\. Lauren L'aimant\)](https://open.spotify.com/album/3j1TIHTviPzFeR2rx57l1Q) | 3:26 | 2024-02-16 | 2024-10-12 |
 | [Howl](https://open.spotify.com/track/4lkLsglTs7eccuclitXPxH) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Le Chev](https://open.spotify.com/artist/1oEH4JTWyTSulZ2xqxLw4N) | [Howl](https://open.spotify.com/album/035PQLE8Al9oFmTACBwtky) | 3:00 | 2024-01-19 | 2024-05-27 |
 | [Human Aura \- Massano Remix](https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv) | [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Human Aura](https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8) | 6:44 | 2022-08-05 | 2024-03-14 |
-| [Human Rights](https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Human Rights](https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y) | 4:54 | 2024-07-26 |  |
+| [Human Rights](https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Human Rights](https://open.spotify.com/album/1LLTlN8lue1Wwneob0Sm2y) | 4:54 | 2024-07-26 | 2024-10-23 |
 | [Hummingbird \- Arnas D Remix](https://open.spotify.com/track/4vwO2jLIsbKPH5Ra3BEJja) | [Wolf Ear & Fassbender](https://open.spotify.com/artist/3WoHhepzRb4A1m5esS2v2r), [Arnas D](https://open.spotify.com/artist/0Kx8kDxWUfetjFFkeQLcoX) | [Hummingbird](https://open.spotify.com/album/7vitgaCxhbUcK7mPaxsihV) | 7:58 | 2021-04-21 | 2022-07-02 |
 | [Hustla](https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Hustla](https://open.spotify.com/album/4oofnyX49L9k555nOKILFI) | 2:41 | 2024-02-23 | 2024-06-22 |
 | [Hypertrophy of Heart](https://open.spotify.com/track/42bZq7YzcIsrIpbQesd5nh) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Hydrah](https://open.spotify.com/artist/7mx6m8w71DBSnLTV3i7wVk) | [Hypertrophy of Heart](https://open.spotify.com/album/0omAadju0KB3bL3G8a35Gb) | 5:00 | 2021-06-25 | 2023-04-29 |
@@ -497,6 +497,7 @@
 | [Nothing That I Need](https://open.spotify.com/track/6m9TOIArVxh3J4KryJie8N) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0) | [Nothing That I Need](https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo) | 3:18 | 2024-08-09 | 2024-09-07 |
 | [Nothingness](https://open.spotify.com/track/3qVkFZ5WdPZpqyV9fVKt68) | [Mustafa Ismaeel](https://open.spotify.com/artist/4FnXFfnV6miSesny17PNpP), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Groove You EP](https://open.spotify.com/album/00dMUIYEjfWzbK19QK301E) | 6:36 | 2023-08-04 | 2024-04-19 |
 | [Não Sei Parar](https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [Não Sei Parar](https://open.spotify.com/album/3DH0NYxAi5Mw8YpmHXgAMb) | 3:25 | 2023-06-09 | 2024-04-19 |
+| [O Superman](https://open.spotify.com/track/7HNSmEyUHRY5ssO5VnYQHA) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx) | [O Superman](https://open.spotify.com/album/0jMCx6S66Rwbi0n3yvzdRw) | 4:19 | 2024-10-18 |  |
 | [Ocean \(feat\. Jamie Foxx\) \- DJ Koze Remix](https://open.spotify.com/track/6aXZxlv7H26dTul1IetR3p) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Nobody Is Not Loved, Remixes, Pt\. 2](https://open.spotify.com/album/5xq4m6AJBvYZn9HYeGFmuc) | 5:12 | 2022-05-13 | 2022-07-29 |
 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [El\-Jay](https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 | 2022-10-28 | 2023-08-12 |
 | [Ode to Life](https://open.spotify.com/track/1E3aNzg2MTlTYhWPRQip5K) | [Ella Wild](https://open.spotify.com/artist/5YRXoNseSn9ml0cI3htXVP) | [Ode to Life](https://open.spotify.com/album/6K0VhVmbpWRsflDciGS09K) | 7:14 | 2021-05-07 | 2022-04-22 |

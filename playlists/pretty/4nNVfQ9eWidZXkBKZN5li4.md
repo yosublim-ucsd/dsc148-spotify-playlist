@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 
 > Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon\. Follow now!
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 227,883 likes - 119 songs - 7 hr 20 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 227,871 likes - 119 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

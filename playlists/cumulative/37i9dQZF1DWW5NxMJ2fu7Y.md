@@ -4,7 +4,7 @@
 
 > mood:  😎✈️
 
-113 songs - 6 hr 23 min
+115 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,12 +36,13 @@
 | [DORORO \- Session](https://open.spotify.com/track/3HNvJQgAljXDTVjt9Mmcds) | [L'vibe](https://open.spotify.com/artist/4MlpbR6uKD3Og9SSynlXBS) | [DORORO \(Session\)](https://open.spotify.com/album/1cVjhri49bNjw9yI8o35HS) | 4:25 | 2024-10-09 |  |
 | [Douwi Douwi](https://open.spotify.com/track/2SQF7fpgxcJEFucbJQJxPz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:02 | 2024-08-02 |  |
 | [ENVY](https://open.spotify.com/track/5u8cmhjPTRIzrDhNA0GLH1) | [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [XYZ](https://open.spotify.com/album/3PV8DLphaECSL0nGPnbEiX) | 3:38 | 2024-02-29 | 2024-07-23 |
+| [Expensive](https://open.spotify.com/track/43XQVlTRzQKFtTYjneCu4h) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Expensive](https://open.spotify.com/album/5lJcGdfH7BEJt7SqjnCrl8) | 2:41 | 2024-10-22 |  |
 | [Fink](https://open.spotify.com/track/4vmmaBXaplcAyGVlQiPRuf) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Atlas](https://open.spotify.com/album/6I8s8s1g77v6fBYImKv1yz) | 3:10 | 2024-08-28 | 2024-10-10 |
 | [FLOUKA](https://open.spotify.com/track/58hii2p9hc4txC94nXqNTr) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 3:28 | 2024-08-02 |  |
 | [FOUTINI](https://open.spotify.com/track/5w7eAmcnRKFo1SwYAcpdHg) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [FOUTINI](https://open.spotify.com/album/1LxzhmDjWplTu82txhjpo8) | 3:59 | 2024-02-29 |  |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2024-10-03 |  |
 | [HKAYA](https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [HKAYA](https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw) | 3:18 | 2024-07-22 |  |
-| [Honesty](https://open.spotify.com/track/2jh8usSMjNvJlLi3Zs8S0E) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Honesty](https://open.spotify.com/album/6xaWZ1TZRPGEU3hdR6fAtp) | 2:50 | 2024-02-29 |  |
+| [Honesty](https://open.spotify.com/track/2jh8usSMjNvJlLi3Zs8S0E) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Honesty](https://open.spotify.com/album/6xaWZ1TZRPGEU3hdR6fAtp) | 2:50 | 2024-02-29 | 2024-10-23 |
 | [I can't move](https://open.spotify.com/track/3kJIFkOkNcPDMz62IZ1Kfm) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [I can't move](https://open.spotify.com/album/7ovNUOai7APoKSBBup0lCK) | 3:21 | 2024-02-29 | 2024-07-23 |
 | [I'm good](https://open.spotify.com/track/7rCXQYPDPoQZjmOQZM0YWI) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [I'm good](https://open.spotify.com/album/689wgyCyY6fRvQq3cJUned) | 3:03 | 2024-02-29 | 2024-07-23 |
 | [I'm Okey](https://open.spotify.com/track/65lDROpljxbGDebJPWJqgD) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Galess Fdar](https://open.spotify.com/album/2ZPkRyGQNgw4v3Q2LdlI9I) | 2:19 | 2024-08-02 |  |
@@ -53,6 +54,7 @@
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2024-07-22 |  |
 | [KNZ](https://open.spotify.com/track/3YqEI4fpQFI8cYZiZzOyFj) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [KNZ](https://open.spotify.com/album/31YwWDm009EZqc9penbagV) | 4:07 | 2024-02-29 | 2024-07-23 |
 | [Lalala](https://open.spotify.com/track/1diDQ6oxUeaMWzGxeITGmF) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Lalala](https://open.spotify.com/album/51uhzA9DubuaIA8HipKUVP) | 2:32 | 2024-02-29 | 2024-07-23 |
+| [late night](https://open.spotify.com/track/7lIZxEq61A2OMnjD4V7Ok7) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [late night](https://open.spotify.com/album/5sKgQKiGwRIUV4rTOir0VE) | 2:46 | 2024-10-22 |  |
 | [Layem](https://open.spotify.com/track/2DQesgJDquBgHaJZii1atA) | [Lord Mehdi](https://open.spotify.com/artist/6owJvX8GXLnH24cFMjsptJ) | [Layem](https://open.spotify.com/album/0Hm6EUOkb44U2BzmyVhdbU) | 2:46 | 2024-02-29 | 2024-07-23 |
 | [Light](https://open.spotify.com/track/7B81kYMqsw0gMWtghdo7Q6) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:28 | 2024-07-22 | 2024-10-18 |
 | [Liyam](https://open.spotify.com/track/21vUj5SOzOdtGTgRRPBGoA) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:25 | 2024-08-02 |  |
@@ -61,7 +63,7 @@
 | [M&Ms, Gemini](https://open.spotify.com/track/06DzOnGVMrcK4T5VFovO4B) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [M&Ms, Gemini](https://open.spotify.com/album/3dnkZnqh5R1I0yHY4pwxK8) | 4:47 | 2024-08-02 | 2024-10-04 |
 | [Machi Lkhatri](https://open.spotify.com/track/5BSg7yE6EmP6hSdhjPy0J0) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS), [Norfafrica](https://open.spotify.com/artist/3UGUD4F6kDvesqDwOzXl8y) | [Machi Lkhatri](https://open.spotify.com/album/6dAhHPgc12Cq9ZdyON9fVU) | 3:29 | 2024-07-22 |  |
 | [Maghandemch](https://open.spotify.com/track/7oxgsGrfdM0lXMk7p3MVPW) | [Shayfeen](https://open.spotify.com/artist/3wrzELDiDtiHAlLlAG423O), [Xcep](https://open.spotify.com/artist/0eLoiWLwWeaHGNkYke5G1k) | [07](https://open.spotify.com/album/5E4dpAp2DVN99ijHGDvrPJ) | 3:33 | 2024-07-22 | 2024-08-02 |
-| [Memo](https://open.spotify.com/track/6czrSxEQpR1oiw5U6vQVUF) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Memo](https://open.spotify.com/album/2SRe9hjJjJ1kRwQE1PBzSZ) | 3:32 | 2024-08-02 |  |
+| [Memo](https://open.spotify.com/track/6czrSxEQpR1oiw5U6vQVUF) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Memo](https://open.spotify.com/album/2SRe9hjJjJ1kRwQE1PBzSZ) | 3:32 | 2024-08-02 | 2024-10-23 |
 | [Merteh \- مرتاح](https://open.spotify.com/track/1cdgSRY4IhYtx7w9QSZaHe) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Merteh \(مرتاح\)](https://open.spotify.com/album/38rvM6WsLXixyKndh2rDEX) | 4:05 | 2024-02-29 | 2024-07-23 |
 | [MIEL](https://open.spotify.com/track/3I1EOnxa1H2RDi8dkAwZX1) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [QUARTIER LATIN VOL.1](https://open.spotify.com/album/4OpjYM9WIhIH4u0Pd3aYij) | 3:18 | 2024-02-29 | 2024-04-19 |
 | [MIEL](https://open.spotify.com/track/5KmYE2jcSQvtLpMGXqDBWJ) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [QUARTIER LATIN VOL.1](https://open.spotify.com/album/3NJkAPcsibVbKi7MfJvADs) | 3:18 | 2024-02-29 | 2024-07-23 |

@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2024 (previous playlists archived on my profile) (image source: @therapist_kirby on IG)",
-  "num_followers": 21816,
+  "num_followers": 21822,
   "original_name": "what dreams may come",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALNRowDBW/4Tr51qw5YKLnW9ty9Jlz",
+  "snapshot_id": "AAALNw815sj0fxWs+2gLZ3RFHdOevTSU",
   "tracks": [
     {
       "added_at": "2024-09-07 23:53:02",
@@ -915,6 +915,38 @@
       "duration_ms": 105813,
       "name": "MOTION SICKNESS",
       "url": "https://open.spotify.com/track/3V5s3euCe2CWbNVLfgKnQT"
+    },
+    {
+      "added_at": "2024-10-22 16:51:04",
+      "album": {
+        "name": "Harry",
+        "url": "https://open.spotify.com/album/1lQCkCt8zS3ZWSIE0YAmKW"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 132680,
+      "name": "Mournin' Glory Story",
+      "url": "https://open.spotify.com/track/0gpGBZAX9ASpInrBXcg1te"
+    },
+    {
+      "added_at": "2024-10-22 19:29:57",
+      "album": {
+        "name": "HOPELESSNESS",
+        "url": "https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        }
+      ],
+      "duration_ms": 231583,
+      "name": "4 DEGREES",
+      "url": "https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g"
     }
   ],
   "unique_name": "what dreams may come",

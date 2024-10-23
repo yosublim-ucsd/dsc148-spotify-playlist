@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- MC Altaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,295 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,311 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,20 +12,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 | 2 | [Taambdi Chaamdi](https://open.spotify.com/track/14M0pSvqNEhPdByBNw159R) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [Shreyas](https://open.spotify.com/artist/65qLuo5zSTqg8Qb17OCnLu) | [Taambdi Chaamdi](https://open.spotify.com/album/1z1BAADazRIogvfkRqvl8w) | 2:38 |
 | 3 | [4.10](https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN) | 2:49 |
 | 4 | [Halaat](https://open.spotify.com/track/5QNSqCKL7raNt8JPYSYxP9) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 2:40 |
-| 5 | [Gangster Shit 1st](https://open.spotify.com/track/78WyKftS4YtbhbnQGwAMMi) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Gangster Shit 1st](https://open.spotify.com/album/2EASVa2mSXZs7KERC2D8zp) | 5:21 |
+| 5 | [Vazan \- Red Bull 64 Bars](https://open.spotify.com/track/5fUYbXhJkv1nL8DVq1QOwK) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Vazan \(Red Bull 64 Bars\)](https://open.spotify.com/album/1AvWSlHsofobJDHirHKrXc) | 3:09 |
 | 6 | [Chalis](https://open.spotify.com/track/3Y2QAPM1Vsw7yKKnVMsxhD) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chalis](https://open.spotify.com/album/5Mp4zVYRkIbJ4AZyXB27Nw) | 3:04 |
 | 7 | [Gulab Aur Kaante](https://open.spotify.com/track/4EU7KUawcpfOVIdlDdHsLX) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Gulab Aur Kaante](https://open.spotify.com/album/37wInAUaqFnnUogrDxOMDu) | 3:28 |
 | 8 | [Dil Se Dil Tak](https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Dil Se Dil Tak](https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE) | 2:57 |
 | 9 | [KR L$DA SIGN](https://open.spotify.com/track/0usNFsDDoVMYVE732zM3QI) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [KR L$DA SIGN](https://open.spotify.com/album/0bskp8YuVeh7ZgV7Orq9cz) | 8:12 |
 | 10 | [Kaam 25 \- Sacred Games](https://open.spotify.com/track/6Kynli1iHBqJRWUCohcV9h) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kaam 25 \(Sacred Games\)](https://open.spotify.com/album/22kgtYXKwgjccIu3kxC75m) | 2:29 |
-| 11 | [Thanks To My Haters](https://open.spotify.com/track/2YQsvNd0ZBCNXhyBTb1CqG) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Thanks To My Haters](https://open.spotify.com/album/2zm6kuDvtaNiSxLlvEQkBX) | 2:46 |
-| 12 | [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 |
-| 13 | [Tujhya Aaichi Gaand](https://open.spotify.com/track/2Q3Ayar9nWdG7Jxh670huf) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tujhya Aaichi Gaand](https://open.spotify.com/album/5pYjKUW10yJfvbd5GwA40F) | 2:41 |
-| 14 | [Chhod Dala](https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chhod Dala](https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT) | 3:56 |
-| 15 | [Rx100](https://open.spotify.com/track/7i6WQRhgwXqWJ3CnpJIu0U) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC) | [Rx100](https://open.spotify.com/album/2SGg4AETclQYvFw0wT9tYW) | 5:20 |
-| 16 | [MACHAYENGE 4](https://open.spotify.com/track/0TeH0rRFmef6eqk86MPyUA) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [MACHAYENGE 4](https://open.spotify.com/album/0ceqAnBLEDesQ0leQZjDwz) | 10:05 |
-| 17 | [Disco Rap](https://open.spotify.com/track/3l84vjvLnKIfqLLdZXKq2B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:42 |
-| 18 | [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/track/7n8xH63Whw5spavIWScPIh) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Emiway\-Samajh Mein Aaya Kya?](https://open.spotify.com/album/3cXkzvtDOyah8H8CYtvYcN) | 4:34 |
+| 11 | [Gangster Shit 1st](https://open.spotify.com/track/78WyKftS4YtbhbnQGwAMMi) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Gangster Shit 1st](https://open.spotify.com/album/2EASVa2mSXZs7KERC2D8zp) | 5:21 |
+| 12 | [Thanks To My Haters](https://open.spotify.com/track/2YQsvNd0ZBCNXhyBTb1CqG) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Thanks To My Haters](https://open.spotify.com/album/2zm6kuDvtaNiSxLlvEQkBX) | 2:46 |
+| 13 | [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 |
+| 14 | [Tujhya Aaichi Gaand](https://open.spotify.com/track/2Q3Ayar9nWdG7Jxh670huf) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tujhya Aaichi Gaand](https://open.spotify.com/album/5pYjKUW10yJfvbd5GwA40F) | 2:41 |
+| 15 | [Chhod Dala](https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chhod Dala](https://open.spotify.com/album/4so9xrFmNkNW58CfxtjkbT) | 3:56 |
+| 16 | [Rx100](https://open.spotify.com/track/7i6WQRhgwXqWJ3CnpJIu0U) | [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC) | [Rx100](https://open.spotify.com/album/2SGg4AETclQYvFw0wT9tYW) | 5:20 |
+| 17 | [MACHAYENGE 4](https://open.spotify.com/track/0TeH0rRFmef6eqk86MPyUA) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [MACHAYENGE 4](https://open.spotify.com/album/0ceqAnBLEDesQ0leQZjDwz) | 10:05 |
+| 18 | [Disco Rap](https://open.spotify.com/track/3l84vjvLnKIfqLLdZXKq2B) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [D'Evil](https://open.spotify.com/artist/6WnYIHyaTeR8cxmaWX9Rez), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:42 |
 | 19 | [Gunehgar](https://open.spotify.com/track/4hzDCJUFDyk66oIBirPiCl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Gunehgar](https://open.spotify.com/album/12fCusmTQwk6IZxNR5xKm8) | 2:43 |
 | 20 | [Bolna Tu Bantai \- From "Whole Heartedly"](https://open.spotify.com/track/0Glg2gUCE9QydbTm0zjEkN) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Bolna Tu Bantai \(From "Whole Heartedly"\)](https://open.spotify.com/album/5O2fxXZT0fLfOVU6vG1eyf) | 2:30 |
 | 21 | [Bombay Ke Don](https://open.spotify.com/track/499tKmOFPlTHY91jx68WVN) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Bombay Ke Don](https://open.spotify.com/album/7s0QOGNHppvKS3J4IUsZb7) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 | 49 | [Hood Poetry](https://open.spotify.com/track/12BbD4eFxsNdbJpkmd3p7g) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 3:15 |
 | 50 | [Bambaiyya](https://open.spotify.com/track/2P9K6C6D38v6RnVihnHnVK) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Bambaiyya](https://open.spotify.com/album/5RgbalAqEptsXQKgvwZ2X8) | 2:15 |
 
-Snapshot ID: `ZxJKPAAAAAB4QjQ5bYW59NboQ4Gx3C9s`
+Snapshot ID: `Zxd4agAAAACAkMshIc11qABZZ8Di2fdG`

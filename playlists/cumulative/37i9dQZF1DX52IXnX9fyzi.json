@@ -718,7 +718,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 173159,
       "name": "Au Chevet",
       "url": "https://open.spotify.com/track/1ZwBhaslHhzWcXcMcMAj8K"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 161750,
       "name": "Eftertanke",
       "url": "https://open.spotify.com/track/0yn3WfTE8MmH3IsYlpMPCs"
@@ -3952,7 +3952,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 164832,
       "name": "La grille de l\u2019\u00e9cole",
       "url": "https://open.spotify.com/track/48KKRtnLi4wCHRvpHZv2N8"
@@ -4024,7 +4024,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 172250,
       "name": "Lanuza",
       "url": "https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 138625,
       "name": "Num\u00e9ro 13",
       "url": "https://open.spotify.com/track/6aXG0T4NOzpWGskxokvXHL"
@@ -7000,7 +7000,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 191533,
       "name": "Stories of Hope",
       "url": "https://open.spotify.com/track/2pPaKO126yniarJuGFKj0j"
@@ -7336,6 +7336,24 @@
       "duration_ms": 120625,
       "name": "The Core Of You And Me",
       "url": "https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p"
+    },
+    {
+      "album": {
+        "name": "The evolving mind",
+        "url": "https://open.spotify.com/album/6gKEAy8yhbct9u6tTIfg5c"
+      },
+      "artists": [
+        {
+          "name": "Gjermund",
+          "url": "https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134981,
+      "name": "The evolving mind",
+      "url": "https://open.spotify.com/track/68OTxSgPB5XQZxaNk05BkZ"
     },
     {
       "album": {
@@ -7710,7 +7728,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 163924,
       "name": "Tiens ma main",
       "url": "https://open.spotify.com/track/2OP9iKAHM767rIa85WViM7"

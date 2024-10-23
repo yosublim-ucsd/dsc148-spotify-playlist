@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- Dhanda Nyoliwala
 
-217 songs - 11 hr 59 min
+218 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Entha Kaalam?](https://open.spotify.com/track/0jXUL8IVFv5ZNYxBKcmko4) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Entha Kaalam?](https://open.spotify.com/album/1BP62JNr9MjtpOX0g0f4Ab) | 2:35 | 2023-06-01 | 2023-06-09 |
 | [F\*CK WHAT THEY SAY](https://open.spotify.com/track/5FO0ye7LMqJPr4bjroUZ8i) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 4:52 | 2024-08-02 |  |
 | [F16](https://open.spotify.com/track/2KFuYtZf6KxzDE6PogFxMK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:29 | 2023-03-27 | 2023-06-09 |
-| [Farida Drip](https://open.spotify.com/track/3mInEHbMdIsY7E4czvxloZ) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [Farida Drip](https://open.spotify.com/album/2bBOwF7NrAR5Y74C8d5diO) | 4:11 | 2024-10-01 |  |
+| [Farida Drip](https://open.spotify.com/track/3mInEHbMdIsY7E4czvxloZ) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [Farida Drip](https://open.spotify.com/album/2bBOwF7NrAR5Y74C8d5diO) | 4:11 | 2024-10-01 | 2024-10-23 |
 | [Flex](https://open.spotify.com/track/1BjFMR7Cb8yaQyOsZBszML) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Flex](https://open.spotify.com/album/0jpun7yb7Ve0nSJsrTVt1C) | 3:20 | 2023-03-27 | 2023-04-20 |
 | [Free Smoke](https://open.spotify.com/track/3b1Gq1KcPR45uepbK0N8tA) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [Free Smoke](https://open.spotify.com/album/2IqZu1Iicgvc3bLoVkPZRa) | 2:42 | 2023-03-27 | 2023-04-20 |
 | [Fuck Them](https://open.spotify.com/track/6iF1UgWYMiDzlBfvamTNdP) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:50 | 2024-08-26 |  |
@@ -215,6 +215,7 @@
 | [Up To U](https://open.spotify.com/track/5pkOSmSeVo8RfC8555LRHT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/75E8pKR9gdgdv3xxRyT1o8) | 3:08 | 2024-04-01 | 2024-04-19 |
 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2024-04-09 |  |
 | [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 | 2023-11-17 | 2024-08-27 |
+| [Vazan \- Red Bull 64 Bars](https://open.spotify.com/track/5fUYbXhJkv1nL8DVq1QOwK) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Vazan \(Red Bull 64 Bars\)](https://open.spotify.com/album/1AvWSlHsofobJDHirHKrXc) | 3:09 | 2024-10-22 |  |
 | [W](https://open.spotify.com/track/6nmg26X5nPg6CnznIX1UsT) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [W](https://open.spotify.com/album/4iqzfM6Evs8MZLUvXw0ixk) | 2:23 | 2024-01-02 | 2024-02-16 |
 | [WARCRY](https://open.spotify.com/track/5jF97N0q1RL2Cn2Ss7Vz4Z) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [MONOPOLY MOVES](https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr) | 5:00 | 2024-08-02 |  |
 | [Warning](https://open.spotify.com/track/5FwpiBGOwbqO8tFyC8Sjtu) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [KALAM INK](https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd) | [4Three4Life](https://open.spotify.com/album/0Uwa0tQbNoov6ePpP4Gb2Y) | 4:59 | 2023-12-09 | 2024-01-19 |

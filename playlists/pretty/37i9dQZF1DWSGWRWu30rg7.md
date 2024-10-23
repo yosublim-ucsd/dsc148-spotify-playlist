@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Shanda
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,612 likes - 109 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,606 likes - 109 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Devara
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,512 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,346 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 6 | [Ammayi](https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Anantha Sreeram](https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [ANIMAL \(TELUGU\)](https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P) | 4:35 |
 | 7 | [Garam Garam \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/track/0qdiNx11tQtjFCqbko9i2k) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Sanapati Bharadwaj Patrudu](https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL) | [Garam Garam \(From "Saripodhaa Sanivaaram"\)](https://open.spotify.com/album/4lkXZmx0fyol03xmpQcqV3) | 4:10 |
 | 8 | [Oh My Baby \(From "Guntur Kaaram"\)\(Telugu\)](https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Saraswati Putra Ramajogayya Sastry](https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk) | [Oh My Baby \(From "Guntur Kaaram"\)\(Telugu\)](https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar) | 2:36 |
-| 9 | [Gaali Vaaluga](https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 4:18 |
+| 9 | [Pranam Kanna \(From "Love Reddy"\)](https://open.spotify.com/track/0Uclctufownqgjwo1IRLFc) | [Prince Henry](https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY), [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4) | [Pranam Kanna \(From "Love Reddy"\)](https://open.spotify.com/album/3nH8d80gGkk4zzuSJuH7jb) | 4:25 |
 | 10 | [Apudo Ipudo](https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [Bommarillu](https://open.spotify.com/album/2394D0vwxXW80JtLlYSuWj) | 4:03 |
 | 11 | [Padaharella Vayasu](https://open.spotify.com/track/7wltO5dmURDawoJonX4msC) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [S\. Janaki](https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu) | [Lankeswarudu](https://open.spotify.com/album/04HjCi0b4iquPCXhNAb117) | 5:56 |
 | 12 | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Telugu\)](https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Telugu\)](https://open.spotify.com/album/1NhxK8JrKi6H4jjTEZgheV) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Neeve](https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd) | 4:41 |
 | 50 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 
-Snapshot ID: `ZxX1sgAAAAAHhadYBZvt1MSJ65NcwfWS`
+Snapshot ID: `ZxdMRQAAAAB4jh3y8y21kmC3faZ8SEb0`

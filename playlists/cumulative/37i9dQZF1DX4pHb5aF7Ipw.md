@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Guru Randhawa
 
-217 songs - 10 hr 14 min
+218 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cadillac](https://open.spotify.com/track/39JlUzqdOcKsctlBbyIYix) | [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E), [Royal Maan](https://open.spotify.com/artist/6MHxMEFX5cIIcXFzpycr09), [MOIZ](https://open.spotify.com/artist/7qLqv2DawIfZM4iSfjuFQB) | [Cadillac \- Ummer](https://open.spotify.com/album/7d4yDktMqcDBQUX7Wu8VlD) | 2:40 | 2024-09-10 | 2024-10-02 |
 | [Calgary](https://open.spotify.com/track/3DiJ2iurZ6wM1Kx90Z2RWt) | [Jorge Gill](https://open.spotify.com/artist/7D1zOODZVM2HxjVDsGX5L1), [Xonest](https://open.spotify.com/artist/2wBImPdy71sydschNwHo9U) | [Calgary](https://open.spotify.com/album/4vL7XeY4m0Ay8cF1MWDt1S) | 2:43 | 2024-08-27 | 2024-09-11 |
 | [Career](https://open.spotify.com/track/530WwA5hy7go2LYDeK1FIF) | [Paabla](https://open.spotify.com/artist/0GrJz6wztfhvHOGKMbCWjZ), [San\-B](https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD), [Nav Garhiwala](https://open.spotify.com/artist/2ZP4fYUwJqNeeAWlYuYzDH) | [Career](https://open.spotify.com/album/4YITR6DLgO3MvwLPi7mNWF) | 2:55 | 2024-10-04 |  |
+| [Cash Flow](https://open.spotify.com/track/3N8QJXbV2PjxbkC1wVMNdu) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Cash Flow](https://open.spotify.com/album/6oToj3eQlsBeuKcZnFBE2t) | 4:22 | 2024-10-22 |  |
 | [Chakkar](https://open.spotify.com/track/6cVA32Qy5BJH7tfSd3SvRm) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Chakkar](https://open.spotify.com/album/1J4fg0GhFDmnqtimUJZZE3) | 2:36 | 2024-05-15 | 2024-07-30 |
 | [Chhalla](https://open.spotify.com/track/449kMnMfoDIy55ELNelpWJ) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [MTV Hustle 03 Represent Episode 6](https://open.spotify.com/album/1IbAnKLZjXigERXiukqkiq) | 3:31 | 2023-11-08 | 2023-11-16 |
 | [Chote Pind](https://open.spotify.com/track/0cLJd1HTOKvpsCtnnDc9Eo) | [Sanj Gosal](https://open.spotify.com/artist/7qZf0PxnU7SpoTwcbCXYcv), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv), [Deep Ror](https://open.spotify.com/artist/02Dwx3ku9Ahk3gzZn1d9BF) | [Chote Pind](https://open.spotify.com/album/59LcDLSdtfcOjaLPOKtfhW) | 3:06 | 2024-10-03 |  |
@@ -203,7 +204,7 @@
 | [Three Years](https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Three Years](https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL) | 2:56 | 2024-09-20 |  |
 | [To The Warrior](https://open.spotify.com/track/1PKw4Fu5uMCPg16fELm9Iw) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Jxgga](https://open.spotify.com/artist/5veJyCRf8zRVcbfctEBoNA) | [To The Warrior](https://open.spotify.com/album/3reOnoEISEFMSSkMBfvWFR) | 3:02 | 2023-03-18 | 2023-04-27 |
 | [Todh](https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Todh](https://open.spotify.com/album/1Bizgnf47ZtwxKiQtTDMrx) | 3:56 | 2023-03-18 | 2024-09-06 |
-| [Top](https://open.spotify.com/track/4jSjnF8GRvWO0nxfudh1yz) | [Kabir Sandhu](https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3) | [Top](https://open.spotify.com/album/4TYNZEz2JiJwSnGSkOIyEq) | 3:41 | 2024-09-09 |  |
+| [Top](https://open.spotify.com/track/4jSjnF8GRvWO0nxfudh1yz) | [Kabir Sandhu](https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3) | [Top](https://open.spotify.com/album/4TYNZEz2JiJwSnGSkOIyEq) | 3:41 | 2024-09-09 | 2024-10-23 |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-03-18 | 2024-09-04 |
 | [Trapstar](https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [BRAZY](https://open.spotify.com/artist/7HytOPAbrG6oy21znAXXzM), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Trapstar](https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya) | 2:54 | 2024-01-10 | 2024-03-09 |
 | [Udda Adda](https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Udda Adda](https://open.spotify.com/album/5rY6xAOZ9b4hg9HtOY5FPK) | 2:26 | 2024-06-28 | 2024-09-21 |

@@ -1,13 +1,113 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u30af\u30e9\u30d6\u3067\u8074\u304d\u305f\u3044\u30af\u30fc\u30eb\u306a\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 128,
+  "num_followers": 129,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAD8QySOilWvelJXSGjtJJVfLvmiF8x",
+  "snapshot_id": "AAAEAQyyoTM0jGVHLEstGRVJWd0qS0D9",
   "tracks": [
+    {
+      "added_at": "2024-10-22 06:26:15",
+      "album": {
+        "name": "\u8a18\u61b6\u306e\u30d5\u30e9\u30b0\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/1QnV4YfBrsHuNZd36xyCC2"
+      },
+      "artists": [
+        {
+          "name": "As'257G",
+          "url": "https://open.spotify.com/artist/4K1RDdFMeSKKF13bOgAIGm"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "\u8a18\u61b6\u306e\u30d5\u30e9\u30b0\u30e1\u30f3\u30c8 (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/3PYrk6nd4arTlI2TYbRAaI"
+    },
+    {
+      "added_at": "2024-10-22 08:13:30",
+      "album": {
+        "name": "HUMANISM",
+        "url": "https://open.spotify.com/album/3ic5aS3lPIuYYxqhcZt5aT"
+      },
+      "artists": [
+        {
+          "name": "MIJIPIN",
+          "url": "https://open.spotify.com/artist/5OmfLbUOtonT9rilhxHBWT"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 318947,
+      "name": "HUMANISM (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/3NFysy0wrXllmwSQGnOkCB"
+    },
+    {
+      "added_at": "2024-10-22 06:33:03",
+      "album": {
+        "name": "Treasure every meeting",
+        "url": "https://open.spotify.com/album/09cJG2Ai35LLyaOvAM8GJh"
+      },
+      "artists": [
+        {
+          "name": "shu-t",
+          "url": "https://open.spotify.com/artist/43Ry8UW7ASr2gHdD6hhTI4"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 245142,
+      "name": "Treasure every meeting (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/7fJjyVDvNVqGdNMAsIXVi6"
+    },
+    {
+      "added_at": "2024-10-22 08:13:54",
+      "album": {
+        "name": "\u4e07\u4e16\u6a4b\u9053\u4e2d\u82b1\u76db_2024",
+        "url": "https://open.spotify.com/album/3Ah4ZBszbhL0r2I47ejnTg"
+      },
+      "artists": [
+        {
+          "name": "IMO",
+          "url": "https://open.spotify.com/artist/0bWsyEtBnc8Nb75emigipg"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "\u4e07\u4e16\u6a4b\u9053\u4e2d\u82b1\u76db_2024 (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/6vFeTrX0yxvfB7w3eLPYJT"
+    },
+    {
+      "added_at": "2024-10-22 08:14:07",
+      "album": {
+        "name": "\u4e0d\u7d14\u540c\u76df",
+        "url": "https://open.spotify.com/album/0xcSKmQSrpy2ndniN5eKjs"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u5b50",
+          "url": "https://open.spotify.com/artist/0dRTohab8XeVhAB7Xb0mPK"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 132444,
+      "name": "\u4e0d\u7d14\u540c\u76df (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/5gJYG1CbtZMytovICP2mIq"
+    },
     {
       "added_at": "2024-10-15 07:43:46",
       "album": {
@@ -667,118 +767,6 @@
       "duration_ms": 391500,
       "name": "\u30b5\u30a4\u30ec\u30f3\u30c8\u30ac\u30fc\u30eb\u306e\u8ff7\u8d70",
       "url": "https://open.spotify.com/track/3bdvkmUJrvDd8qsIBTmUA5"
-    },
-    {
-      "added_at": "2024-08-20 07:26:04",
-      "album": {
-        "name": "\u9020\u82b1\u306b\u306a\u3063\u3066",
-        "url": "https://open.spotify.com/album/1O3ee8w9eZP56xuzLQOFzC"
-      },
-      "artists": [
-        {
-          "name": "\u5e02\u702c\u308b\u307d",
-          "url": "https://open.spotify.com/artist/4JPnxsMo1F3QOkh9KGDWz1"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        }
-      ],
-      "duration_ms": 183633,
-      "name": "\u9020\u82b1\u306b\u306a\u3063\u3066 (feat. \u93e1\u97f3\u30ea\u30f3)",
-      "url": "https://open.spotify.com/track/2HRjSerEoCaZWOp7DdXTPN"
-    },
-    {
-      "added_at": "2024-08-20 07:25:35",
-      "album": {
-        "name": "\u30d6\u30ec\u30a4\u30af\u30b9\u30eb\u30fc",
-        "url": "https://open.spotify.com/album/6WJgrCketOaAB7t58R2d98"
-      },
-      "artists": [
-        {
-          "name": "IQYU",
-          "url": "https://open.spotify.com/artist/4RPqaSmdeN7AiX8iN6gPdJ"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        },
-        {
-          "name": "\u53ef\u4e0d",
-          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
-        },
-        {
-          "name": "\u88cf\u547d",
-          "url": "https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs"
-        }
-      ],
-      "duration_ms": 153250,
-      "name": "\u30d6\u30ec\u30a4\u30af\u30b9\u30eb\u30fc (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u91cd\u97f3\u30c6\u30c8&\u53ef\u4e0d&\u88cf\u547d)",
-      "url": "https://open.spotify.com/track/1YJTj0lSK0SfocYiNRx8Sl"
-    },
-    {
-      "added_at": "2024-08-20 07:25:24",
-      "album": {
-        "name": "Moon EP",
-        "url": "https://open.spotify.com/album/6j9bn0kU8IisGoA5dtp10p"
-      },
-      "artists": [
-        {
-          "name": "tama",
-          "url": "https://open.spotify.com/artist/5EfCulFGk18pwnXOyvEQgq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u4e88\u611f",
-      "url": "https://open.spotify.com/track/5BZmDPacDCgasdfFtjjjbQ"
-    },
-    {
-      "added_at": "2024-08-20 07:25:47",
-      "album": {
-        "name": "Satory - \u609f",
-        "url": "https://open.spotify.com/album/52UJAAocKfhR0AUru3PZEt"
-      },
-      "artists": [
-        {
-          "name": "I/O Plasm",
-          "url": "https://open.spotify.com/artist/6FMZUx9Ng5q8aPF39zvlup"
-        },
-        {
-          "name": "IA",
-          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
-        }
-      ],
-      "duration_ms": 202874,
-      "name": "Satory (feat. IA)",
-      "url": "https://open.spotify.com/track/7GLD6gde4m1bpNFaJ5ReU6"
-    },
-    {
-      "added_at": "2024-10-15 08:01:59",
-      "album": {
-        "name": "Recreate",
-        "url": "https://open.spotify.com/album/039H35apIbsSL2GwY6dbsw"
-      },
-      "artists": [
-        {
-          "name": "Kuroneko Lounge",
-          "url": "https://open.spotify.com/artist/4u3AJ8Ipx1xxH1mGhUdy7o"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 188507,
-      "name": "\u591c\u660e\u30ab\u30b7\u306e\u30e4\u30de\u30a4 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/68Fjzlss3iVRnfBVhZKh2c"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 119850,
       "name": "CAFF\u00c8 AMARO",
       "url": "https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD"
@@ -5404,7 +5404,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 163333,
       "name": "Good girl (feat. Rkomi, Ernia & Bresh)",
       "url": "https://open.spotify.com/track/3O71vkxPcYjozstB6cR5H0"
@@ -12229,6 +12229,40 @@
     },
     {
       "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "anice",
+          "url": "https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Solo Dio sa (feat. Tony Boy, anice, Geolier & Shiva)",
+      "url": "https://open.spotify.com/track/0sZ7ORHX2NHuIQZjpX0Te4"
+    },
+    {
+      "album": {
         "name": "SON FATTO COS\u00cc",
         "url": "https://open.spotify.com/album/6wQFQlu9RJDpVd4OigS5nS"
       },
@@ -12762,6 +12796,32 @@
       "duration_ms": 174461,
       "name": "TEKKEN (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/0gkjSa9UaRWioYJn9vbX8U"
+    },
+    {
+      "album": {
+        "name": "Containers",
+        "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204668,
+      "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
+      "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
     },
     {
       "album": {

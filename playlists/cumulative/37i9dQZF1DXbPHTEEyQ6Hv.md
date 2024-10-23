@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-173 songs - 6 hr 36 min
+180 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Grown\-Up Christmas List](https://open.spotify.com/track/1LCNUl8hYiweuj2tsaw3rA) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [Grown\-Up Christmas List](https://open.spotify.com/album/2whNWSIgAu5F7fznsaZ2eU) | 2:57 | 2023-10-03 |  |
 | [Hallelujah](https://open.spotify.com/track/6H4s7S9oZDyig7C5Lz8R1m) | [Neneh Yacobi](https://open.spotify.com/artist/1Kf6mipsaXBzLzKpZGY9Rq) | [Hallelujah](https://open.spotify.com/album/2JZcNuCIjkuWaOGMTVr0Wl) | 2:45 | 2022-10-14 |  |
 | [Happy Xmas](https://open.spotify.com/track/6gGD7PRnQmj1BcoOs4rqiJ) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [Happy Xmas](https://open.spotify.com/album/5yfYF0xEnU9cUBxFbzgchY) | 2:16 | 2023-10-03 |  |
+| [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/5vtGoybDZEMB1WiVFNpWL9) | [Rose Robertson](https://open.spotify.com/artist/2rTeg3p3Bk2PkXjGmdETsn) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/0Ael1lNAWB1HykScesCwD5) | 2:37 | 2024-10-22 |  |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/6vD4DVOnhf5N2NKkozKQlR) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Hark The Herald Angels Sing](https://open.spotify.com/album/4Dnkr99I1KiZluOWg9z5Ai) | 2:35 | 2023-10-11 |  |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/7Ezy3sFFAS3kJntqZTWpXz) | [Manuel Valera](https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8), [kamanote](https://open.spotify.com/artist/0HljO0dF8nwi684rrDyhHa) | [Hark! The Herald Angel Sing](https://open.spotify.com/album/0TIx5snVQO9bqxfYh9eB2v) | 3:45 | 2021-12-14 | 2023-10-12 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3MzmTBYxot2d3Oox8hkIZS) | [Emma Welsch](https://open.spotify.com/artist/0pcgoReBn9OiUsZIN0B1Kl) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7cyQdSJaRXNSb6GnUUwMet) | 2:49 | 2022-10-14 | 2023-12-09 |
@@ -96,6 +97,7 @@
 | [Home for the Holidays](https://open.spotify.com/track/5K5igtw94jv30oLWwv3bMg) | [Amelie Voss](https://open.spotify.com/artist/2Ccygrq1MNC7OTTjQneXBK) | [Home for the Holidays](https://open.spotify.com/album/77HidFPOvYVZwCpkEQ72YH) | 2:39 | 2021-12-14 |  |
 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/0RcE3ty89FWkfv84lZewEH) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 2:08 | 2021-12-14 |  |
 | [I Need You Christmas](https://open.spotify.com/track/00ochdoOTLDBwawDQ8AtMT) | [Isaques Blues](https://open.spotify.com/artist/3w04ME5pSiFF5LK1SB2ea0) | [I Need You Christmas](https://open.spotify.com/album/5lK628Z4LcKQWCjyAvt3v4) | 2:11 | 2023-09-26 |  |
+| [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/3OWUIKra83YSnbjccl79ue) | [Edoardo Velera](https://open.spotify.com/artist/5v6s80uMhmQesbeVd5uw6H) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/3Btj1P8pMdhrkyiPc3H0If) | 1:31 | 2024-10-22 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0qfp3T2KxIUb49TsYe4jRW) | [Leonardo Veró](https://open.spotify.com/artist/1tCEvvrwYkrHJCU6DwiXhE) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/3bOaCKEn6mpFY3CB9Dy62J) | 1:45 | 2022-10-14 | 2023-09-27 |
 | [I Saw Three Ships](https://open.spotify.com/track/3aWohApFeBqB3ebgCWiev3) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [I Saw Three Ships](https://open.spotify.com/album/0vAHBKkzpdlQL2YlX0dDaC) | 2:22 | 2023-11-08 |  |
 | [I Saw Three Ships](https://open.spotify.com/track/7ybNUlvV3H1RpRhKj6djgC) | [Elsa Michael](https://open.spotify.com/artist/0ZCinM89E2pPpA43mKavpU) | [I Saw Three Ships](https://open.spotify.com/album/1pzpHskIdzkwRJLsH48UX3) | 1:47 | 2022-10-14 | 2023-09-27 |
@@ -112,7 +114,9 @@
 | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/5fdDajfA3uGOcCSrTFO0IG) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/4DtAi4M7QzY2bRTTxrUnbE) | 2:34 | 2023-09-26 | 2023-10-19 |
 | [It's Beginning To Look a Lot Like Christmas](https://open.spotify.com/track/28daprnqHFLQijgiK9Sd20) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [It's Beginning To Look a Lot Like Christmas](https://open.spotify.com/album/4F5dl8BK5ePRNxoYKTtY5H) | 3:28 | 2023-10-18 |  |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2JPjsCvn379yvhrQ3Mdlfv) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 5:15 | 2021-12-14 |  |
+| [Jingle Bell Rock](https://open.spotify.com/track/2A4lNx9IATchVQnnYNVcvN) | [Nemo Jaymes](https://open.spotify.com/artist/0aZCH5KbYUZ69UWNjp0FZe) | [Jingle Bell Rock](https://open.spotify.com/album/3vzrqbCszsdtXKNeeDTiwk) | 2:20 | 2024-10-22 |  |
 | [Jingle Bells](https://open.spotify.com/track/4E42u4CFeuIyFdaEWN7Wty) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Jingle Bells](https://open.spotify.com/album/5MsKGEDUhXdPo1DirR0pa4) | 3:59 | 2021-12-14 |  |
+| [Jingle Bells](https://open.spotify.com/track/3rT0SXP4zzmx2t4EBdgHXP) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Jingle Bells](https://open.spotify.com/album/0OYXUOe9ZsuVsqpx6yQ5G4) | 2:11 | 2024-10-22 |  |
 | [Joy To The World](https://open.spotify.com/track/3Gra28fwqeouNiY7E0u2fV) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Joy To The World](https://open.spotify.com/album/5HIAhNoTbZvIpTlKk80CYj) | 2:27 | 2021-12-14 |  |
 | [Jul Jul Strålande Jul](https://open.spotify.com/track/2MLFCn2PCIPvefTxZ1DBha) | [Alex Lehtonen](https://open.spotify.com/artist/2Qs1BrpMAPz379lAsH39Qb) | [Jul Jul Strålande Jul](https://open.spotify.com/album/5BXVy2bviNY6oL6QVp0a0q) | 3:00 | 2023-11-13 |  |
 | [Jul jul strålande jul](https://open.spotify.com/track/7BBEjxq9mITNoUYkgl4Caa) | [Dylan Francis](https://open.spotify.com/artist/7iB04gHXi381OdMYrbdQQN) | [Jul jul strålande jul](https://open.spotify.com/album/0VMWJC1J2Rq9APjJNtTL7s) | 2:11 | 2023-10-03 |  |
@@ -135,6 +139,7 @@
 | [O Little Town of Bethlehem](https://open.spotify.com/track/2Vgvh2D6l10uK4xaJb4vi2) | [Silas Northwind](https://open.spotify.com/artist/3GY0u4Ib7ByBVi0JQvIyND) | [O Little Town of Bethlehem](https://open.spotify.com/album/7nZNe41s9JDCtvWr4rRzdT) | 2:37 | 2023-11-13 |  |
 | [Oh Christmas Tree](https://open.spotify.com/track/2Tgnu0yfBZdOUshJHND7Mr) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Oh Christmas Tree](https://open.spotify.com/album/2U3JUK5LEXsxPZ2cW32TYs) | 2:08 | 2023-10-24 |  |
 | [Oh Holy Night](https://open.spotify.com/track/5aKLsTh2eSp1cZxWidGU8K) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [Oh Holy Night](https://open.spotify.com/album/6MxlnQlKdMrLDZwPnzbGXZ) | 4:04 | 2021-12-14 | 2022-11-10 |
+| [Oh Tannenbaum](https://open.spotify.com/track/4jYpcqR73bSCHR7CfMpU3d) | [Syrene](https://open.spotify.com/artist/6Q9ePrzgGlI5DW95Xskv4p) | [Oh Tannenbaum](https://open.spotify.com/album/2fLqvZkdctjXcuDdTmh7Vh) | 3:03 | 2024-10-22 |  |
 | [Peaceful Midnight Vignette](https://open.spotify.com/track/5lu9eIMZWM5jhwezjP9VAt) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Holiday Improvisations](https://open.spotify.com/album/308ccuyDr8CgJ9NNFhDcZo) | 1:19 | 2022-12-16 | 2023-09-27 |
 | [Please Come Home for Christmas](https://open.spotify.com/track/53ke8sTyEWjVjiBoE8kbkS) | [Hak Huyun Lee](https://open.spotify.com/artist/2VMRqziWudDq6EOm3uId9N) | [X\-Mas](https://open.spotify.com/album/0R1npcMHhQGROweMUdjsp7) | 3:34 | 2021-12-14 |  |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/6KP3J7KWWt26RYsvBD0jQ7) | [Sam Sapphire](https://open.spotify.com/artist/7eMKNdNPKSpP3WeulzX4fz) | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/album/06or9Rrq5yA0Zab5Abz0o4) | 3:05 | 2023-12-08 |  |
@@ -180,6 +185,8 @@
 | [When A Child Is Born](https://open.spotify.com/track/4FQ6j6YcjQKT08yvKugxRL) | [Ronald Emery](https://open.spotify.com/artist/6QZfFu9pzOaYtvkCAJP22j) | [When A Child Is Born](https://open.spotify.com/album/4q8idsrmhuID1ffZYIxYkS) | 2:30 | 2021-12-14 |  |
 | [When Santa's Sleigh is Coming](https://open.spotify.com/track/2XpvzEzEjiZgdUrBzenD9q) | [Eleanor Friedman](https://open.spotify.com/artist/2pMJUMnZOn45c2qzXXC87N) | [When Santa's Sleigh is Coming](https://open.spotify.com/album/3PqBlzS52WGt10ysLybUMo) | 1:38 | 2021-12-14 | 2023-09-27 |
 | [Where Are You Christmas](https://open.spotify.com/track/04Fl4gn9cyoDvQeHOBHBvW) | [Ahron Kupner](https://open.spotify.com/artist/4tnxMzWhSfJZz0M37uFkIo) | [Where Are You Christmas](https://open.spotify.com/album/3qMN27V0Wr8ahOp6fkMa4U) | 4:19 | 2021-12-14 |  |
+| [White Christmas](https://open.spotify.com/track/5nrRnBew3BvKDFK6R2XkWw) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [White Christmas](https://open.spotify.com/album/4fHgIQZp52U8AwV8eCU7k0) | 2:20 | 2024-10-22 |  |
 | [White Christmas](https://open.spotify.com/track/5scC024P3dgeTGHhYg929D) | [Gregory Oberle](https://open.spotify.com/artist/4MxqhahGRT4BPz1PilXGeu) | [Yuletide](https://open.spotify.com/album/0dj57yGU4l5GIVLD6G3Ee1) | 1:38 | 2021-12-14 | 2023-09-27 |
+| [White Christmas](https://open.spotify.com/track/2k4Hlixkc0dQ9bKOMSVIdr) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [White Christmas](https://open.spotify.com/album/4cix9KsE3GFgDnPs4ilWPj) | 1:49 | 2024-10-22 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

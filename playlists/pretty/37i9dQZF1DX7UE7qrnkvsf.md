@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UE7qrnkvsf.md) - [plain]
 
 > Jazz that captures the essence of autumn.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,016 likes - 405 songs - 1 day 0 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,178 likes - 405 songs - 1 day 0 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

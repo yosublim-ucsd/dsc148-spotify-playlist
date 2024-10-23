@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-190 songs - 7 hr 59 min
+191 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Changes](https://open.spotify.com/track/5HDOvDkZSeVGiaNb4lPSPN) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Changes](https://open.spotify.com/album/6hxm9ZZL3y6A5WoFynQtSp) | 3:05 | 2024-01-04 |  |
 | [Charcoal Shades](https://open.spotify.com/track/0741VyYwzisfhSj5tgr5a0) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Charcoal Shades](https://open.spotify.com/album/3u7dYBqDJo62EAYMPVgaBv) | 2:12 | 2024-07-16 |  |
 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 | 2023-10-16 |  |
+| [Clear waters](https://open.spotify.com/track/7ATTZzULv32ZSfRiudX0hb) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Clear waters](https://open.spotify.com/album/0zek5R4VK7aRwmSQ6uoJf5) | 3:17 | 2024-10-22 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2023-05-09 |  |
 | [Comfort](https://open.spotify.com/track/1NK6I4kkAeZ0twLaXBwZLK) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Comfort](https://open.spotify.com/album/2yTzioTPiDxvpMCSdJ9wDq) | 2:04 | 2024-03-05 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-05-09 |  |

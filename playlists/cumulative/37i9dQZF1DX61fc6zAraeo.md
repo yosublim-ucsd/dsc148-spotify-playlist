@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-180 songs - 8 hr 10 min
+181 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [4 o'Clock \(In The Morning\)](https://open.spotify.com/track/3DKkPeLeZlJlvcq1R5Ot4A) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [STRINGS](https://open.spotify.com/artist/2miDdmDaU90uQwrBIFj9Cs) | [4 o'Clock \(In The Morning\)](https://open.spotify.com/album/333tnNxldO2bpInhctnz5W) | 2:04 | 2024-09-09 |  |
 | [A Little Bit More](https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd) | [Gaudini](https://open.spotify.com/artist/6mtV83LQpDVyR23kBRn5OX), [KVKI](https://open.spotify.com/artist/4zZiCIjLTjSP7QvjPLPIms) | [A Little Bit More](https://open.spotify.com/album/5jxRwsH6tU9gEj0k5hhqwo) | 2:25 | 2024-03-06 |  |
 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 | 2024-02-07 | 2024-05-23 |
-| [Afterglow](https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Afterglow](https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG) | 2:32 | 2024-02-07 |  |
+| [Afterglow](https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Afterglow](https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG) | 2:32 | 2024-02-07 | 2024-10-23 |
 | [All Night Long](https://open.spotify.com/track/6Wq9mMoP3u5DUoTF45Ov7u) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [All Night Long](https://open.spotify.com/album/4pWtDAU2CYcvsVwJKVWimA) | 2:44 | 2024-03-21 |  |
 | [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 | 2024-02-07 | 2024-03-14 |
 | [All On Me](https://open.spotify.com/track/0D5rx7pURavcGEx9ZryKgQ) | [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [All On Me](https://open.spotify.com/album/2BXVKywq85Dr2pMamjIdMM) | 2:24 | 2024-07-26 |  |
@@ -30,6 +30,7 @@
 | [Can't Talk Right Now](https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx) | [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Can't Talk Right Now](https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ) | 3:19 | 2024-02-07 |  |
 | [Careful What You Wish For \(feat\. Alida\)](https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\)](https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb) | 2:56 | 2024-02-07 |  |
 | [Chances](https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [Kate Wild](https://open.spotify.com/artist/3GaPIF26mniFIX3T3Pv66l) | [Chances](https://open.spotify.com/album/6QwpK5fPO5mHyFRt1bBzZV) | 2:50 | 2024-02-07 |  |
+| [Chills \(Feel My Love\)](https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Chills \(Feel My Love\)](https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y) | 2:43 | 2024-10-22 |  |
 | [Close Your Eyes](https://open.spotify.com/track/11ZLztlvXKdaortTq9gDaG) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [Close Your Eyes](https://open.spotify.com/album/26ML5knqJbLOSoU6isAq4H) | 2:37 | 2024-06-18 | 2024-09-19 |
 | [Closer](https://open.spotify.com/track/1B4OIfL8ovAHujVlHvhnAq) | [Sherman de Vries](https://open.spotify.com/artist/0PZ5NAziJDDcjnpMvkmMYA), [Navaro](https://open.spotify.com/artist/1NTpb0EU5OWNdUqtWEdnSW), [Brenda Mullen](https://open.spotify.com/artist/2RkjEzhUyusJ4KrD5A9yiv) | [Closer](https://open.spotify.com/album/4DKA5qXjV1vihrD5m2lVWD) | 2:54 | 2024-03-06 |  |
 | [Combo](https://open.spotify.com/track/6nAWXxK1jWkYWzExetkboS) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Combo](https://open.spotify.com/album/6stJfQJm5ooEJJoufO41Mn) | 2:41 | 2024-02-07 |  |

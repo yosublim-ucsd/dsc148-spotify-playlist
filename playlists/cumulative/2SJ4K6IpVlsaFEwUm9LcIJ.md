@@ -4,11 +4,12 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-325 songs - 17 hr 14 min
+327 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Not\) a Penny in My Pocket \- Demo Version](https://open.spotify.com/track/4svDzNF6PuBs2ojcE8sS1f) | [Jimmy Campbell](https://open.spotify.com/artist/1lvD6UZjY7oyb02YqG1eNC) | [Troubadour \(Lost Recordings 1965\-1991\)](https://open.spotify.com/album/1DkMIFEEetXsDc4Ao0X1Fc) | 2:34 | 2024-05-16 | 2024-07-12 |
+| [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 | 2024-10-22 |  |
 | [A Better Life Since](https://open.spotify.com/track/28EkO7bqzJ86Lqgbmuyv17) | [Southpacific](https://open.spotify.com/artist/5eeXcEsflXi3q0GiIw1mCL) | [Constance](https://open.spotify.com/album/4w29IA02Wl4V54uD8bXbry) | 1:49 | 2024-05-16 | 2024-07-12 |
 | [A Furrow Dub](https://open.spotify.com/track/5tauzxQXma1ic7aAnkEtWw) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Boogiepop Phantom Original Soundtrack](https://open.spotify.com/album/58m4Xt0j6oYFLeG81GmEd6) | 6:02 | 2024-07-29 | 2024-09-08 |
 | [A Highway Got Paved Over My Future, I Drive It Getting to School](https://open.spotify.com/track/5wJzxnpc4uIT7cG7fNkNwW) | [Brave Little Abacus](https://open.spotify.com/artist/23prE3lyFVVNVGMV5jADsp) | [Just Got Back from the Discomfort We're Alright](https://open.spotify.com/album/3jLrWEYpwKnptkzEXAyT66) | 2:34 | 2024-05-30 | 2024-07-12 |
@@ -187,6 +188,7 @@
 | [Mint](https://open.spotify.com/track/0RYwEPSvf7KSj5YI0VA72t) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 3:23 | 2024-01-08 | 2024-03-10 |
 | [Moon Like a Pearl](https://open.spotify.com/track/2KkuQ32WtE9ImerVSnUWk5) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Wonder What It's Like](https://open.spotify.com/album/4iIEtjfL8Xdyt0MglEJFTD) | 2:06 | 2024-03-09 | 2024-05-16 |
 | [MOTION SICKNESS](https://open.spotify.com/track/3V5s3euCe2CWbNVLfgKnQT) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 1:45 | 2024-10-18 |  |
+| [Mournin' Glory Story](https://open.spotify.com/track/0gpGBZAX9ASpInrBXcg1te) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Harry](https://open.spotify.com/album/1lQCkCt8zS3ZWSIE0YAmKW) | 2:12 | 2024-10-22 |  |
 | [Moved to London and can't hack the rent](https://open.spotify.com/track/54yQj0nMrLCc5sRZ4VPoGk) | [Sydenham High Road](https://open.spotify.com/artist/4bs5u3H9taVKjLdcAUXdFK) | [Moved to London and can't hack the rent](https://open.spotify.com/album/0YD5OgIZfoh6ycu00pLhqM) | 7:07 | 2024-07-12 | 2024-09-08 |
 | [Mr\. Oh So Suave & Debonaire](https://open.spotify.com/track/4jnz75XaJDbHDKEkuSz8OM) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 1:40 | 2024-05-29 | 2024-06-06 |
 | [Multi\-Family Garage Sale \(Bargain\-Bin Mix\)](https://open.spotify.com/track/314KmbRrSXcQHFujzdOr9v) | [Land of the Loops](https://open.spotify.com/artist/0H4Rek6UJ2GpLm5HduQ9uv) | [Bundle of Joy](https://open.spotify.com/album/6c1VIXuJZJBDkmNM236bXt) | 4:15 | 2024-05-24 | 2024-07-12 |

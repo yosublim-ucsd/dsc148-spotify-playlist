@@ -665,6 +665,28 @@
     },
     {
       "album": {
+        "name": "God Rest Ye Merry, Gentlemen",
+        "url": "https://open.spotify.com/album/4q2Ky4sEzeLV3wLzYA8vNW"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145280,
+      "name": "God Rest Ye Merry, Gentlemen",
+      "url": "https://open.spotify.com/track/6J2rVX96BYBIjlVIdiLxYU"
+    },
+    {
+      "album": {
         "name": "Relaxing Christmas Music, Vol. 1",
         "url": "https://open.spotify.com/album/3TsPUuASpxKagXwi12SSmx"
       },
@@ -994,6 +1016,24 @@
       "duration_ms": 145293,
       "name": "It Came Upon A Midnight Clear - Piano",
       "url": "https://open.spotify.com/track/7uVk518SvNt275Bhx02z06"
+    },
+    {
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/0OYXUOe9ZsuVsqpx6yQ5G4"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Bern",
+          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131842,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3rT0SXP4zzmx2t4EBdgHXP"
     },
     {
       "album": {
@@ -1328,6 +1368,24 @@
       "duration_ms": 55800,
       "name": "Oh Come All Ye Faithful (Strings)",
       "url": "https://open.spotify.com/track/6WbnXKhylRQFICMaE7PtTA"
+    },
+    {
+      "album": {
+        "name": "Oh Tannenbaum",
+        "url": "https://open.spotify.com/album/2fLqvZkdctjXcuDdTmh7Vh"
+      },
+      "artists": [
+        {
+          "name": "Syrene",
+          "url": "https://open.spotify.com/artist/6Q9ePrzgGlI5DW95Xskv4p"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183861,
+      "name": "Oh Tannenbaum",
+      "url": "https://open.spotify.com/track/4jYpcqR73bSCHR7CfMpU3d"
     },
     {
       "album": {

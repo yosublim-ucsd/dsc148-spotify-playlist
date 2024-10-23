@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Safia Nolin",
-  "num_followers": 42292,
+  "num_followers": 42296,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "'Ndrangheta",
-        "url": "https://open.spotify.com/album/4kw0UnPmDjw1m1kFhhmDWF"
+        "name": "Pyramide 2",
+        "url": "https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA"
       },
       "artists": [
         {
-          "name": "Niaks",
-          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         },
         {
-          "name": "Maes",
-          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 161079,
-      "name": "'Ndrangheta",
-      "url": "https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO"
+      "duration_ms": 189569,
+      "name": "La famine",
+      "url": "https://open.spotify.com/track/2miptNhVu6KAZk5aaSUB3Y"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -411,6 +411,26 @@
       "duration_ms": 203643,
       "name": "Parle de moi",
       "url": "https://open.spotify.com/track/6q0NfXRHLtjmTNOoy6SgM8"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "'Ndrangheta",
+        "url": "https://open.spotify.com/album/4kw0UnPmDjw1m1kFhhmDWF"
+      },
+      "artists": [
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        },
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "duration_ms": 161079,
+      "name": "'Ndrangheta",
+      "url": "https://open.spotify.com/track/1oVh1vm3jJVugrY0hTHkFO"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -503,26 +523,6 @@
       "duration_ms": 166322,
       "name": "Bazar",
       "url": "https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Pyramide 2",
-        "url": "https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA"
-      },
-      "artists": [
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 189569,
-      "name": "La famine",
-      "url": "https://open.spotify.com/track/2miptNhVu6KAZk5aaSUB3Y"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Vivre...",
+        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 168693,
+      "name": "Le choix",
+      "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "TPLM",
         "url": "https://open.spotify.com/album/32HEw0WO1on4Pe8Yx8uxac"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Vivre...",
-        "url": "https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ"
+        "name": "Tu vas me quitter encore longtemps ?",
+        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
       },
       "artists": [
         {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
         }
       ],
-      "duration_ms": 168693,
-      "name": "Le choix",
-      "url": "https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn"
+      "duration_ms": 231213,
+      "name": "Tu vas me quitter encore longtemps ?",
+      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -763,18 +779,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Tu vas me quitter encore longtemps ?",
-        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
+        "name": "Des rires et des pleurs",
+        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
       },
       "artists": [
         {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 231213,
-      "name": "Tu vas me quitter encore longtemps ?",
-      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
+      "duration_ms": 155368,
+      "name": "No stress",
+      "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -795,22 +815,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Des rires et des pleurs",
-        "url": "https://open.spotify.com/album/2TZ5OXKnN4Qdt7YpiFbluC"
+        "name": "Vie Viano (#STATION 1)",
+        "url": "https://open.spotify.com/album/1KvqB3fVRasWGX3Rpseggc"
       },
       "artists": [
         {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 155368,
-      "name": "No stress",
-      "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
+      "duration_ms": 102426,
+      "name": "Vie Viano (#STATION 1)",
+      "url": "https://open.spotify.com/track/1Rl3EOVuCPL0K6mYbPDlfa"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -871,22 +887,6 @@
       "duration_ms": 180361,
       "name": "Seul au monde (feat. Soolking)",
       "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Vie Viano (#STATION 1)",
-        "url": "https://open.spotify.com/album/1KvqB3fVRasWGX3Rpseggc"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 102426,
-      "name": "Vie Viano (#STATION 1)",
-      "url": "https://open.spotify.com/track/1Rl3EOVuCPL0K6mYbPDlfa"
     },
     {
       "added_at": "2024-10-18 04:00:00",

@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-115 songs - 5 hr 13 min
+117 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,10 @@
 | [Bergspitze](https://open.spotify.com/track/0LfV2CQ5s90rs91icZcJ61) | [Phases of You](https://open.spotify.com/artist/04f6XeDUKqybwfbSheAoWv) | [Entre tus manos](https://open.spotify.com/album/5loAom6m6jvgODXh7J3QqK) | 2:56 | 2023-03-13 |  |
 | [Birds on the Horizon](https://open.spotify.com/track/3U2VlsRYfh3OJFHlMRKooB) | [Christian Julian](https://open.spotify.com/artist/1K5ZWTvO8xdN7joWl5soXC) | [Birds on the Horizon](https://open.spotify.com/album/1FUeCcNvm3b1ijbLD2N21u) | 2:49 | 2023-08-02 |  |
 | [Blessed](https://open.spotify.com/track/077mY6IQpD9wrNkDSxGXjK) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [She's Playing Moody Piano on a Rainy Day](https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4) | 2:27 | 2023-03-13 |  |
+| [Breathing Mind](https://open.spotify.com/track/7ip4SQ7cV5WxDfLGs8X0H3) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Breathing Mind](https://open.spotify.com/album/47rkwCs99gaWY8kaeYSxjk) | 3:01 | 2024-10-22 |  |
 | [Breathing Slow](https://open.spotify.com/track/1Pjg5w4Cl1ZBP95XZmZ7HL) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [She's Playing Moody Piano on a Rainy Day](https://open.spotify.com/album/23fGXtCZFxRYXWuPqFvYx4) | 2:47 | 2023-03-13 |  |
 | [Calm After the Storm](https://open.spotify.com/track/3235QVqcxdKo9ZrJhRY9of) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Calm After the Storm](https://open.spotify.com/album/10ovShyd8irxuFd71dxjvj) | 3:46 | 2024-01-09 |  |
+| [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 | 2024-10-22 |  |
 | [Conversation \(in Rain\)](https://open.spotify.com/track/0HfgErtwnzAUlSLza9VdoJ) | [Antoine Minot](https://open.spotify.com/artist/7uJIaUfHJ3VtFpeYm2jPTz) | [Conversation \(in Rain\)](https://open.spotify.com/album/6INwjFy13gUUQVlfGqQRjt) | 2:30 | 2024-05-24 |  |
 | [Cosima and the rain](https://open.spotify.com/track/2Vzx62MFkOGyi7wJxhsAIs) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Cosima and the rain](https://open.spotify.com/album/69lq5lpObxtOW71joJFjrI) | 2:06 | 2023-03-13 |  |
 | [Cosy Day](https://open.spotify.com/track/16wvTJtKC9P8V31kDUERXZ) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Cosy Day](https://open.spotify.com/album/0L1vwvEbLPiUEXgUjSuJE0) | 2:26 | 2024-02-05 |  |

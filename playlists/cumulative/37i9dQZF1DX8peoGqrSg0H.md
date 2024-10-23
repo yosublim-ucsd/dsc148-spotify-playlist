@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: PERSES
 
-586 songs - 1 day 10 hr 49 min
+587 songs - 1 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 | 2024-02-22 |  |
 | [ก๊อก ก๊อก](https://open.spotify.com/track/5apV16Mj5WQ3OW2qPxMuu4) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [ก๊อก ก๊อก](https://open.spotify.com/album/6Bq2DNYOVC2UhJ8OetxqEf) | 3:06 | 2022-10-26 | 2022-11-12 |
 | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/track/2mhcGG5JdEotXGF4kDTjGM) | [TON THANASIT](https://open.spotify.com/artist/6zOWc1PkZQNr5mDOgWyc9x) | [ขอบคุณที่เคยใจร้ายกับฉัน \(Thanks To You\)](https://open.spotify.com/album/58zEDQELi0atD10fgzGpym) | 3:41 | 2022-08-31 | 2022-09-24 |
+| [ขอโทษละกัน \(friend to friend\)](https://open.spotify.com/track/6l6RnX3gh2jBD7E2XKMtpl) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [UNDRESS](https://open.spotify.com/album/21GT7FGL6WwKc6g3LqlJSB) | 2:46 | 2024-10-22 |  |
 | [ขี้หยอก \(Kidjing\)](https://open.spotify.com/track/7I1n3XD4PbUyS8ZhMz6xhE) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ขี้หยอก \(Kidjing\)](https://open.spotify.com/album/52rV9x3w4aN1BpTRLijUaA) | 3:40 | 2023-06-08 | 2023-07-01 |
 | [ขี้เกียจแล้วอ่ะ \(Done Looking\)](https://open.spotify.com/track/25CkWacg2tHqwFGk3hYRd1) | [MOBYE ](https://open.spotify.com/artist/3Z5VM48ceWJTBmVqoZKAK5) | [ขี้เกียจแล้วอ่ะ \(Done Looking\)](https://open.spotify.com/album/511Y0CqBoLkcJGO1aOc0JU) | 3:06 | 2024-09-19 | 2024-09-27 |
 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 | 2022-07-28 | 2022-10-05 |
@@ -456,7 +457,7 @@
 | [อย่าอยู่เลย](https://open.spotify.com/track/61faGyAiv8zqm0EUUpRYma) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [อย่าอยู่เลย](https://open.spotify.com/album/2CjUPTshiticCHDqPKpsbK) | 3:46 | 2022-08-25 | 2022-09-16 |
 | [อันฟอล \(Unfollow\)](https://open.spotify.com/track/4pdAtlscBYq6vGuaS6QtDI) | [Slow Sundae](https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma) | [อันฟอล \(Unfollow\)](https://open.spotify.com/album/7KzeuaG3GNOXdqWO8k2RY1) | 3:12 | 2022-09-15 | 2022-09-30 |
 | [อัสคารามุด \(Ohm, YaYa!\)](https://open.spotify.com/track/48VZRlEIaC22rTff4b1eSW) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [อัสคารามุด \(Ohm, YaYa!\)](https://open.spotify.com/album/6GItPYBemHYG8As95RjchU) | 4:13 | 2024-03-01 | 2024-03-08 |
-| [อาจจะเป็น \(Perhaps\)](https://open.spotify.com/track/6uPMLDJzLHsparoyO23Tzo) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [อาจจะเป็น \(Perhaps\)](https://open.spotify.com/album/2OeoSY0JnY355A7Qu2QgXZ) | 3:54 | 2024-06-20 |  |
+| [อาจจะเป็น \(Perhaps\)](https://open.spotify.com/track/6uPMLDJzLHsparoyO23Tzo) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [อาจจะเป็น \(Perhaps\)](https://open.spotify.com/album/2OeoSY0JnY355A7Qu2QgXZ) | 3:54 | 2024-06-20 | 2024-10-23 |
 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 | 2022-05-26 | 2023-03-03 |
 | [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2024-01-17 | 2024-10-11 |
 | [อีกนิดเดียว](https://open.spotify.com/track/4ixPZeYNdk0eMTQGZxRPsr) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [อีกนิดเดียว](https://open.spotify.com/album/3YcZNdrjPP6AeFhazOcSab) | 3:41 | 2022-05-26 | 2022-06-03 |

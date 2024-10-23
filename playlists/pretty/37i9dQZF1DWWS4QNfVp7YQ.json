@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 81570,
+  "num_followers": 81625,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Si Me Tocan Esta Play, Si Bailo (Guaracha)",
-        "url": "https://open.spotify.com/album/0jK7zKpYPn2TcudoAvylOd"
+        "name": "Vivir la Vida",
+        "url": "https://open.spotify.com/album/5BO9UdI76R8khcE7H0U5ME"
       },
       "artists": [
         {
-          "name": "J-Alex Stylee",
-          "url": "https://open.spotify.com/artist/2LAyRJWNuuNRbok5t3K70i"
+          "name": "Marco Bode",
+          "url": "https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr"
         }
       ],
-      "duration_ms": 194977,
-      "name": "Si Me Tocan Esta Play, Si Bailo - Guaracha, Aleteo, Zapateo, Tribal, House",
-      "url": "https://open.spotify.com/track/1em725YNxISJ79QoT5ruUE"
+      "duration_ms": 114475,
+      "name": "Vivir la Vida",
+      "url": "https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Vivir la Vida",
-        "url": "https://open.spotify.com/album/5BO9UdI76R8khcE7H0U5ME"
+        "name": "Si Me Tocan Esta Play, Si Bailo (Guaracha)",
+        "url": "https://open.spotify.com/album/0jK7zKpYPn2TcudoAvylOd"
       },
       "artists": [
         {
-          "name": "Marco Bode",
-          "url": "https://open.spotify.com/artist/3L6ywBQrLuQtoIkyaBWeKr"
+          "name": "J-Alex Stylee",
+          "url": "https://open.spotify.com/artist/2LAyRJWNuuNRbok5t3K70i"
         }
       ],
-      "duration_ms": 114475,
-      "name": "Vivir la Vida",
-      "url": "https://open.spotify.com/track/47ZIcfa03szbSmg0IPqDfn"
+      "duration_ms": 194977,
+      "name": "Si Me Tocan Esta Play, Si Bailo - Guaracha, Aleteo, Zapateo, Tribal, House",
+      "url": "https://open.spotify.com/track/1em725YNxISJ79QoT5ruUE"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -407,30 +407,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Ya Se Tardaron",
-        "url": "https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm"
-      },
-      "artists": [
-        {
-          "name": "Fierro Pa Dubai",
-          "url": "https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze"
-        },
-        {
-          "name": "Dj Otto",
-          "url": "https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv"
-        },
-        {
-          "name": "Maxx Gallo",
-          "url": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
-        }
-      ],
-      "duration_ms": 175652,
-      "name": "Ya Se Tardaron",
-      "url": "https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz) [Alan Rosales & TBX Remix]",
         "url": "https://open.spotify.com/album/3My9JWVDGGD6UTPHlj8qLJ"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 142514,
       "name": "Baila Conmigo (feat. Kelly Ruiz) - Alan Rosales & TBX Remix",
       "url": "https://open.spotify.com/track/58sJHwuNOrGWfKtwwUmrOI"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Ya Se Tardaron",
+        "url": "https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm"
+      },
+      "artists": [
+        {
+          "name": "Fierro Pa Dubai",
+          "url": "https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze"
+        },
+        {
+          "name": "Dj Otto",
+          "url": "https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv"
+        },
+        {
+          "name": "Maxx Gallo",
+          "url": "https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2"
+        }
+      ],
+      "duration_ms": 175652,
+      "name": "Ya Se Tardaron",
+      "url": "https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed"
     },
     {
       "added_at": "2024-07-05 22:41:57",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "Al\u00f3cate",
-        "url": "https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk"
-      },
-      "artists": [
-        {
-          "name": "Kanimals",
-          "url": "https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp"
-        }
-      ],
-      "duration_ms": 201543,
-      "name": "Al\u00f3cate",
-      "url": "https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR"
-    },
-    {
-      "added_at": "2024-07-05 22:41:57",
-      "album": {
         "name": "Cumbia Tribal",
         "url": "https://open.spotify.com/album/1RcKsmXVkFk6GV6a7ViVyK"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 163373,
       "name": "Menea la Cadera",
       "url": "https://open.spotify.com/track/5lIiJYBLyrSybHA9rb5q8q"
+    },
+    {
+      "added_at": "2024-07-05 22:41:57",
+      "album": {
+        "name": "Al\u00f3cate",
+        "url": "https://open.spotify.com/album/2c3uRuQPG3ZvDB02Td3yVk"
+      },
+      "artists": [
+        {
+          "name": "Kanimals",
+          "url": "https://open.spotify.com/artist/3hx0wwEpx37nuc9BGXboPp"
+        }
+      ],
+      "duration_ms": 201543,
+      "name": "Al\u00f3cate",
+      "url": "https://open.spotify.com/track/36LVVNCJi2hGczf4HvnVFR"
     },
     {
       "added_at": "2024-07-05 22:41:57",

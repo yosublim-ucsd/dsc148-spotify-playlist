@@ -7244,7 +7244,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 202093,
       "name": "GO!!",
       "url": "https://open.spotify.com/track/69cgQ078J6h7IxBXwJ0a7t"
@@ -10259,6 +10259,32 @@
     },
     {
       "album": {
+        "name": "KIZAO",
+        "url": "https://open.spotify.com/album/6QrInZintbiWaOGfxE5RtK"
+      },
+      "artists": [
+        {
+          "name": "MILLENNIUM PARADE",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220361,
+      "name": "KIZAO",
+      "url": "https://open.spotify.com/track/2ejhK0OtBe4CdfD67uqzGB"
+    },
+    {
+      "album": {
         "name": "Kohaku",
         "url": "https://open.spotify.com/album/2ISxhwPjPjLKNyow9Eg5dU"
       },
@@ -11230,7 +11256,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 203500,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/5NCL8tzDw56FyB6ip8TVz5"
@@ -15847,6 +15873,24 @@
     },
     {
       "album": {
+        "name": "Better Weather",
+        "url": "https://open.spotify.com/album/1d0iO603ESOmmGIvtg9RhJ"
+      },
+      "artists": [
+        {
+          "name": "Sincere",
+          "url": "https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177898,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/0L8l5oZsBlxLjhffVF5FBa"
+    },
+    {
+      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/30NIxP2VrovM30Jm0CvMhU"
       },
@@ -18998,7 +19042,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 268840,
       "name": "Still Dreaming",
       "url": "https://open.spotify.com/track/6I22fRk15SGhKaLTaqo2hp"
@@ -23719,6 +23763,28 @@
     },
     {
       "album": {
+        "name": "\u3044\u3044\u6e6f\u3060\u306a",
+        "url": "https://open.spotify.com/album/51pzkf8OJNPjGHHN8uyqnW"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131730,
+      "name": "\u3044\u3044\u6e6f\u3060\u306a",
+      "url": "https://open.spotify.com/track/2CB5Cqj4j5RaUJRw8U4KpG"
+    },
+    {
+      "album": {
         "name": "\u3044\u3051\u3057\u3083\u3042\u3057\u3083\u3042",
         "url": "https://open.spotify.com/album/54PsZSN7E8UYIWMqOLo4Wp"
       },
@@ -24784,7 +24850,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 100291,
       "name": "\u30ab\u30f3\u30bf\u30f3\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
       "url": "https://open.spotify.com/track/4rnvQyfrahBidXHGuzi5rk"
@@ -27486,6 +27552,24 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+    },
+    {
+      "album": {
+        "name": "\u591c\u660e\u8fc4\u3000\u3000-Eternal Sunshine-",
+        "url": "https://open.spotify.com/album/1SIW1jwzV59tHfJsHVzfP5"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c\u5927\u6597",
+          "url": "https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "\u591c\u660e\u8fc4\u3000\u3000-Eternal Sunshine-",
+      "url": "https://open.spotify.com/track/6ZnTWN7udyTBjNujAeML2m"
     },
     {
       "album": {

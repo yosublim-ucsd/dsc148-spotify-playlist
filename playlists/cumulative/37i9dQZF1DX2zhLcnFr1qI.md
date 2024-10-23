@@ -2,7 +2,7 @@
 
 ### [Electronic Christmas](https://open.spotify.com/playlist/37i9dQZF1DX2zhLcnFr1qI)
 
-> Dance and Electronic tracks for the season <3
+> Jolly dance and electronic tracks for the season <3
 
 122 songs - 6 hr 24 min
 

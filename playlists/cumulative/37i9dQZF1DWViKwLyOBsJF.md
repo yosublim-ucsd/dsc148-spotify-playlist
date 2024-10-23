@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-91 songs - 4 hr 5 min
+94 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2Er9oTJkPruq8pao8aZY8s) | [J\. L\. Marshall](https://open.spotify.com/artist/05f0QRzwQpjLRJwTdQgDZw) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/5xRd9gJJ47uB3cXtMqw741) | 1:28 | 2021-11-19 | 2023-09-28 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/38hSJb4lgLRHENsdJjSopS) | [J.L\. Marshall](https://open.spotify.com/artist/2hNdUwIbMMpMPG2jWfE6ZB) | [Merry Christmas \(Favorite Holiday Piano Music for a Festive Occasion\)](https://open.spotify.com/album/2HYyewW2RWQx43ZnVFFfrM) | 1:28 | 2021-11-19 | 2022-10-09 |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/3K2FgVaJdVXREA2Jqtklz4) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/5ZewnnB7qrA7r5eK4zQxMB) | 2:51 | 2023-09-27 |  |
+| [God Rest Ye Merry, Gentlemen](https://open.spotify.com/track/6J2rVX96BYBIjlVIdiLxYU) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [God Rest Ye Merry, Gentlemen](https://open.spotify.com/album/4q2Ky4sEzeLV3wLzYA8vNW) | 2:25 | 2024-10-22 |  |
 | [Good Christian Men, Rejoice](https://open.spotify.com/track/225AhLsT6I6LWNB3ANefPf) | [Christmas Music Holiday Trio](https://open.spotify.com/artist/4XWZxmAaLdsJlJvUjlowZF) | [Relaxing Christmas Music, Vol\. 1](https://open.spotify.com/album/3TsPUuASpxKagXwi12SSmx) | 1:58 | 2021-11-19 | 2023-09-28 |
 | [Good King Wenceslas](https://open.spotify.com/track/25vdlTYdZPJssQbXU8qUsg) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [We Three Kings](https://open.spotify.com/album/5Ppd2aIzY3YD2ug3FMI7sg) | 2:02 | 2021-11-19 |  |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/6vD4DVOnhf5N2NKkozKQlR) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Hark The Herald Angels Sing](https://open.spotify.com/album/4Dnkr99I1KiZluOWg9z5Ai) | 2:35 | 2023-10-11 |  |
@@ -60,6 +61,7 @@
 | [Il Est Ne, Le Divin Enfant \(He Is Born\)](https://open.spotify.com/track/7Abl4nhpTicAlcbHmUGVv3) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Winter \- Solo Piano Christmas](https://open.spotify.com/album/5rKmeg1OjlUA5IwbtdRiLL) | 4:48 | 2021-11-19 |  |
 | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/track/5OKJh9efE7zbKQeSML51Xk) | [Jonny Southard](https://open.spotify.com/artist/6BeZ093zzZgeGLSV9TG5Ez) | [In the Bleak Midwinter \(Piano Version\)](https://open.spotify.com/album/4zqHiaCQamGSDLkzKS8UxF) | 4:03 | 2021-11-19 |  |
 | [It Came Upon A Midnight Clear \- Piano](https://open.spotify.com/track/7uVk518SvNt275Bhx02z06) | [Adam Zampino](https://open.spotify.com/artist/4eLX2lDIcpLrgNzB2eHyBm) | [Christmas Piano \- Solo Piano and Strings](https://open.spotify.com/album/1bccNTWdBkSJioCH21g0xl) | 2:25 | 2021-11-19 |  |
+| [Jingle Bells](https://open.spotify.com/track/3rT0SXP4zzmx2t4EBdgHXP) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Jingle Bells](https://open.spotify.com/album/0OYXUOe9ZsuVsqpx6yQ5G4) | 2:11 | 2024-10-22 |  |
 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/7KaqgncCU5AuJyZeA7CGne) | [Alstad](https://open.spotify.com/artist/3WPVCzLStWkPPaGQKJMVkr) | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/album/5NEoedZHX7AuDcrpOZJslv) | 2:44 | 2023-09-27 |  |
 | [Let All Mortal Flesh Keep Silence](https://open.spotify.com/track/5loBbZKs1cj4HTHaLIaTSn) | [Jill Pitz](https://open.spotify.com/artist/0q4Gc8YuoF6mB9RHIi9FDQ), [Marjorie Hanna](https://open.spotify.com/artist/2QYf4fFPNKLq2miKubXR0n) | [The First Noel](https://open.spotify.com/album/123hrI7QAnWUXiZHVgKHca) | 1:59 | 2021-11-19 | 2023-09-28 |
 | [Little Drummer Boy](https://open.spotify.com/track/5XrtgOxGZoczbEdIjCHNJp) | [Michele McLaughlin](https://open.spotify.com/artist/4FtcVLw0u7qvqrJYLHkHZn) | [Christmas \- Plain & Simple II](https://open.spotify.com/album/5iE7AiFYmKjsdUEAcntqX4) | 4:03 | 2021-11-19 |  |
@@ -77,6 +79,7 @@
 | [O Tannenbaum](https://open.spotify.com/track/3giODUg7yq7Noolv09NY7Y) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 2:32 | 2023-10-11 | 2024-04-19 |
 | [Oh Come All Ye Faithful](https://open.spotify.com/track/2bFvadJJ8s0NKFnseW1L3R) | [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Oh Come All Ye Faithful](https://open.spotify.com/album/0O1s5cB1Fg7gbpaZBaKF0k) | 2:32 | 2023-09-27 | 2023-10-25 |
 | [Oh Come All Ye Faithful \(Strings\)](https://open.spotify.com/track/6WbnXKhylRQFICMaE7PtTA) | [Jennifer Saran](https://open.spotify.com/artist/6jVs08HTU1scgge7NaxAed) | [Merry Christmas, You Are Loved](https://open.spotify.com/album/1g2H5XhcLDVcUenGT2MOtw) | 0:55 | 2021-11-19 | 2023-09-28 |
+| [Oh Tannenbaum](https://open.spotify.com/track/4jYpcqR73bSCHR7CfMpU3d) | [Syrene](https://open.spotify.com/artist/6Q9ePrzgGlI5DW95Xskv4p) | [Oh Tannenbaum](https://open.spotify.com/album/2fLqvZkdctjXcuDdTmh7Vh) | 3:03 | 2024-10-22 |  |
 | [Once In Royal Davids City](https://open.spotify.com/track/4PzC5QA9SkhDMO7MCItZXx) | [Jules Amaro](https://open.spotify.com/artist/3QXvRUBh7xt8ns3nFh2fbA) | [Piano Christmas](https://open.spotify.com/album/25OkVm1Yb5h1YHeChYLWhv) | 2:52 | 2021-11-19 |  |
 | [Sans Day Carol](https://open.spotify.com/track/17ECD7z521qoJRhO6N3iDB) | [Ken Dorset](https://open.spotify.com/artist/4x1bewuiV50ZFHLh6Jy3ZI) | [Sans Day Carol](https://open.spotify.com/album/6YCxlwZdYsYNKIoMZAWtM7) | 2:41 | 2021-11-19 |  |
 | [See Amidst The Winter's Snow](https://open.spotify.com/track/3JWJdn9hTC9IumZx6bUoQM) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Joy Of Christmas](https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ) | 2:28 | 2021-11-19 |  |

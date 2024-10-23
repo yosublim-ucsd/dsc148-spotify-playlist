@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Giovanni Toscano",
-  "num_followers": 33702,
+  "num_followers": 33705,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Incidenti Di Percorso",
-        "url": "https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml"
-      },
-      "artists": [
-        {
-          "name": "Claudym",
-          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
-        }
-      ],
-      "duration_ms": 166343,
-      "name": "Una Serie Di Sfortunati Eventi",
-      "url": "https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "le stelle* il sole; l'arcobaleno))",
         "url": "https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 261092,
       "name": "piangerepiangerepiangere",
       "url": "https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "Incidenti Di Percorso",
+        "url": "https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml"
+      },
+      "artists": [
+        {
+          "name": "Claudym",
+          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
+        }
+      ],
+      "duration_ms": 166343,
+      "name": "Una Serie Di Sfortunati Eventi",
+      "url": "https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "luci dell'autostrada",
-        "url": "https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF"
-      },
-      "artists": [
-        {
-          "name": "Biava",
-          "url": "https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "luci dell'autostrada",
-      "url": "https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "ATTACCHI DI PANICO",
         "url": "https://open.spotify.com/album/6wyREv4d7MGXTMeIYa20Aa"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 179500,
       "name": "ATTACCHI DI PANICO",
       "url": "https://open.spotify.com/track/5uYU0dQRXVIB43C8Eulu3z"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "TUFFO",
+        "url": "https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS"
+      },
+      "artists": [
+        {
+          "name": "PUGNI",
+          "url": "https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa"
+        }
+      ],
+      "duration_ms": 214670,
+      "name": "Trentasette denti",
+      "url": "https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "TUFFO",
-        "url": "https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS"
+        "name": "luci dell'autostrada",
+        "url": "https://open.spotify.com/album/2RWLqaalwSC4qK9nCKokZF"
       },
       "artists": [
         {
-          "name": "PUGNI",
-          "url": "https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa"
+          "name": "Biava",
+          "url": "https://open.spotify.com/artist/3tnRz0rA9YnwZ7BUv958vk"
         }
       ],
-      "duration_ms": 214670,
-      "name": "Trentasette denti",
-      "url": "https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb"
+      "duration_ms": 164000,
+      "name": "luci dell'autostrada",
+      "url": "https://open.spotify.com/track/1njaBfkZQy1zFZVdBRevzU"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -563,38 +563,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Piramidi",
-        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
-      },
-      "artists": [
-        {
-          "name": "Paul Giorgi",
-          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
-        }
-      ],
-      "duration_ms": 192846,
-      "name": "Piramidi",
-      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
-        "name": "soli soli",
-        "url": "https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu"
-      },
-      "artists": [
-        {
-          "name": "Giuze",
-          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "soli soli",
-      "url": "https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "Occhi Blu",
         "url": "https://open.spotify.com/album/0CKpLdO3jBGHtgd6pvaOLW"
       },
@@ -623,6 +591,38 @@
       "duration_ms": 154046,
       "name": "Ondeggiando",
       "url": "https://open.spotify.com/track/0TiAtNO8hhFcT0k68Jecf1"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "Piramidi",
+        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
+      },
+      "artists": [
+        {
+          "name": "Paul Giorgi",
+          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
+        }
+      ],
+      "duration_ms": 192846,
+      "name": "Piramidi",
+      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "soli soli",
+        "url": "https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu"
+      },
+      "artists": [
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "soli soli",
+      "url": "https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Alta Marea",
-        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
-        }
-      ],
-      "duration_ms": 133109,
-      "name": "Alta Marea",
-      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "Sotto",
         "url": "https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 152000,
       "name": "Sotto",
       "url": "https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "Alta Marea",
+        "url": "https://open.spotify.com/album/6b0oSugc2sJtkBtVIsQSn5"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6V9EZvDzdaPnzYg8VgsFGk"
+        }
+      ],
+      "duration_ms": 133109,
+      "name": "Alta Marea",
+      "url": "https://open.spotify.com/track/4iYNr3EOixzqAmFfFdvOMC"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "fuori posto",
-        "url": "https://open.spotify.com/album/2ALZ0XtzkNIopRyLR1Q4n4"
-      },
-      "artists": [
-        {
-          "name": "Giuze",
-          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "fuori posto",
-      "url": "https://open.spotify.com/track/6Zv96JypFgMtT0b9ZovleH"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "Settembre",
         "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 181978,
       "name": "Settembre",
       "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "fuori posto",
+        "url": "https://open.spotify.com/album/2ALZ0XtzkNIopRyLR1Q4n4"
+      },
+      "artists": [
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "fuori posto",
+      "url": "https://open.spotify.com/track/6Zv96JypFgMtT0b9ZovleH"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Sale",
-        "url": "https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul"
-      },
-      "artists": [
-        {
-          "name": "r\u00f6a",
-          "url": "https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sale",
-      "url": "https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "Cu'mme",
         "url": "https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP"
       },
@@ -907,6 +891,38 @@
       "duration_ms": 162011,
       "name": "Cu'mme",
       "url": "https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "Vigliacco",
+        "url": "https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Vigliacco",
+      "url": "https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "Sale",
+        "url": "https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul"
+      },
+      "artists": [
+        {
+          "name": "r\u00f6a",
+          "url": "https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sale",
+      "url": "https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Bagno",
-        "url": "https://open.spotify.com/album/5MGgflTk9CBbSHHYhUqsor"
-      },
-      "artists": [
-        {
-          "name": "Tutto Piange",
-          "url": "https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP"
-        }
-      ],
-      "duration_ms": 276521,
-      "name": "Bagno",
-      "url": "https://open.spotify.com/track/7caqKefrNovYPMx1HRru1R"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "GRANDINE",
         "url": "https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ"
       },
@@ -979,34 +979,18 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "TILT",
-        "url": "https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML"
+        "name": "girammo tutto in una macchina",
+        "url": "https://open.spotify.com/album/7iUhttbnLCcjhcljhnWhXq"
       },
       "artists": [
         {
-          "name": "Bartolini",
-          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
+          "name": "tinai",
+          "url": "https://open.spotify.com/artist/4AV2jd35h0exNEklO9y5lP"
         }
       ],
-      "duration_ms": 164568,
-      "name": "Salem",
-      "url": "https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
-        "name": "Los Angeles",
-        "url": "https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe"
-      },
-      "artists": [
-        {
-          "name": "Lucrezia",
-          "url": "https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl"
-        }
-      ],
-      "duration_ms": 205758,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
+      "duration_ms": 169813,
+      "name": "nevischio su ande",
+      "url": "https://open.spotify.com/track/2mVHvwPlviLFVtIAM2ERRp"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1035,18 +1019,50 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Se crolla il mondo poi ti salvo io",
-        "url": "https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma"
+        "name": "Bagno",
+        "url": "https://open.spotify.com/album/5MGgflTk9CBbSHHYhUqsor"
       },
       "artists": [
         {
-          "name": "Destro",
-          "url": "https://open.spotify.com/artist/6yKsozMFOdRQFgaMw7BXsT"
+          "name": "Tutto Piange",
+          "url": "https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Se crolla il mondo poi ti salvo io",
-      "url": "https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4"
+      "duration_ms": 276521,
+      "name": "Bagno",
+      "url": "https://open.spotify.com/track/7caqKefrNovYPMx1HRru1R"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "Eroi",
+        "url": "https://open.spotify.com/album/5AjqUnrSKRdRlKK9H5VYOP"
+      },
+      "artists": [
+        {
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+        }
+      ],
+      "duration_ms": 208487,
+      "name": "Eroi",
+      "url": "https://open.spotify.com/track/0rJ6QG75YCZXpjmkG6KWIQ"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "TILT",
+        "url": "https://open.spotify.com/album/2yxMMVRkLIgMjmbb2MwaML"
+      },
+      "artists": [
+        {
+          "name": "Bartolini",
+          "url": "https://open.spotify.com/artist/4c0Z0oDeS1pLt1Rkaf6MLd"
+        }
+      ],
+      "duration_ms": 164568,
+      "name": "Salem",
+      "url": "https://open.spotify.com/track/5dYCv09QzcMR7TaxFhHv4P"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1067,18 +1083,34 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Vigliacco",
-        "url": "https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS"
+        "name": "Los Angeles",
+        "url": "https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe"
       },
       "artists": [
         {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+          "name": "Lucrezia",
+          "url": "https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl"
         }
       ],
-      "duration_ms": 193548,
-      "name": "Vigliacco",
-      "url": "https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro"
+      "duration_ms": 205758,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "Se crolla il mondo poi ti salvo io",
+        "url": "https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma"
+      },
+      "artists": [
+        {
+          "name": "Destro",
+          "url": "https://open.spotify.com/artist/6yKsozMFOdRQFgaMw7BXsT"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Se crolla il mondo poi ti salvo io",
+      "url": "https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1131,50 +1163,18 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Eroi",
-        "url": "https://open.spotify.com/album/5AjqUnrSKRdRlKK9H5VYOP"
+        "name": "CALICE",
+        "url": "https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC"
       },
       "artists": [
         {
-          "name": "Valentino Vivace",
-          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+          "name": "WALTER",
+          "url": "https://open.spotify.com/artist/7uhYhb4X6yhfDOHJTsfbJY"
         }
       ],
-      "duration_ms": 208487,
-      "name": "Eroi",
-      "url": "https://open.spotify.com/track/0rJ6QG75YCZXpjmkG6KWIQ"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
-        "name": "Ottovolanti",
-        "url": "https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z"
-      },
-      "artists": [
-        {
-          "name": "eyTrama",
-          "url": "https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A"
-        }
-      ],
-      "duration_ms": 213658,
-      "name": "Ottovolanti",
-      "url": "https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
-        "name": "Preda",
-        "url": "https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj"
-      },
-      "artists": [
-        {
-          "name": "43.Nove",
-          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Preda",
-      "url": "https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc"
+      "duration_ms": 171176,
+      "name": "CALICE",
+      "url": "https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j"
     }
   ],
   "unique_name": "Scuola Indie",

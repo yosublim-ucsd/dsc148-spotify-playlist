@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: CNBLUE\(씨엔블루\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-744 songs - 1 day 20 hr 51 min
+745 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Good enough](https://open.spotify.com/track/3tXTu7hcpy4clOR2VBVNUk) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:57 | 2024-05-09 |  |
 | [Good for you](https://open.spotify.com/track/3AkesXd1KP7jPnoaY5Zkk6) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Good for you](https://open.spotify.com/album/1yG6xal9h8FZD9n0yD91Do) | 3:15 | 2024-03-21 | 2024-05-10 |
 | [Good Morning](https://open.spotify.com/track/4zXbnTwqwQcRdDILZVKZSQ) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [GOOD MORNING](https://open.spotify.com/album/1kfvY0GjQJhhDNjTpy7xOs) | 3:04 | 2024-06-05 | 2024-06-09 |
-| [Goodbye \(Feat\. Paul Blanco\)](https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [ROSE](https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr) | 2:45 | 2024-06-05 |  |
+| [Goodbye \(Feat\. Paul Blanco\)](https://open.spotify.com/track/7qlA2Y1zPNnQxUd1BWx19x) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [ROSE](https://open.spotify.com/album/1eAn8kJlH243L4OXipRqdr) | 2:45 | 2024-06-05 | 2024-10-23 |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-08 |  |
 | [Grandpa of Mountain](https://open.spotify.com/track/35jVxzFNNkWTXiVkYtSe1O) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Grandpa of Mountain 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/5LXQYOOoH847kf5NNzbnnj) | 3:20 | 2024-04-30 | 2024-05-10 |
 | [Green](https://open.spotify.com/track/7KTwml8vIRLGZKBe1YWv6J) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 4:02 | 2022-04-22 | 2022-06-15 |
@@ -410,7 +410,7 @@
 | [Natural History Museum](https://open.spotify.com/track/3SqTKxJvLkJAAcPBfjzKEG) | [The Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Natural History Museum](https://open.spotify.com/album/4nh8S3OoLrRBy0jHAPIl0t) | 3:13 | 2023-05-31 | 2023-06-14 |
 | [Navillera](https://open.spotify.com/track/5J4E8EChG1AJWFwxZNgn76) | [Biuret](https://open.spotify.com/artist/3ebT6m7SiOMVzQKgc3y9yn) | [Navillera](https://open.spotify.com/album/2pLW8MHtuFT62bk9WC7oA4) | 3:12 | 2023-10-27 | 2023-11-04 |
 | [Navy Blue](https://open.spotify.com/track/4xoVIYHoo0g6OzOHHvU86i) | [WOOSEOK](https://open.spotify.com/artist/1JVVY2kKddJ0JkDkbEZk4V) | [Empty Paper](https://open.spotify.com/album/7Cb65QgLHfgCrrtmMxF4wM) | 2:50 | 2024-03-21 | 2024-05-10 |
-| [Nerves](https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:15 | 2024-05-09 |  |
+| [Nerves](https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:15 | 2024-05-09 |  |
 | [New days](https://open.spotify.com/track/6SPEL89GtDGf1LoZaYLnUr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Road to Utopia\]](https://open.spotify.com/album/6ECUAXThxlRHQ1JPUQJQJG) | 3:31 | 2022-04-22 | 2022-07-27 |
 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 | 2022-08-01 | 2022-08-13 |
 | [New World](https://open.spotify.com/track/04fxCWCGiHuz4qgABacWlI) | [Cho seong min](https://open.spotify.com/artist/2IdF9YcOnVdN9pMxaIvyM6), [Kim bada](https://open.spotify.com/artist/3yWAjA0zH4BXTK3v0TjBWH) | [Friends Vol.9](https://open.spotify.com/album/4ZB72JIjAXgnYuld5CdZPn) | 3:16 | 2022-05-11 | 2022-05-25 |
@@ -532,7 +532,7 @@
 | [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-08 | 2023-10-12 |
 | [Save me](https://open.spotify.com/track/42i24oTxRFR53ezroofUtx) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Open ♭eta v6.3](https://open.spotify.com/album/1B3ay1aC4cfdeGWM7gtRmq) | 3:40 | 2024-08-07 |  |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-02 | 2022-07-29 |
-| [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings in This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2024-05-09 |  |
+| [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2024-05-09 |  |
 | [Scream](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 | 2022-04-12 | 2023-08-04 |
 | [Scream](https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:24 | 2023-07-31 | 2024-03-22 |
 | [Screen](https://open.spotify.com/track/1wLv73icHBnWJ8LgxMx5WN) | [Goat](https://open.spotify.com/artist/1f8OrSiIMAkvBfrStI8bRd) | [Fade out](https://open.spotify.com/album/08bVdRiFhfs9yzaNZwOYax) | 3:47 | 2022-04-22 | 2022-07-27 |
@@ -705,6 +705,7 @@
 | [Wonder](https://open.spotify.com/track/6piqcwymeAa2yyqIP8AjNj) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:56 | 2024-06-05 |  |
 | [WOODY](https://open.spotify.com/track/5gohv3y9eo1FeOmL8gYbVL) | [GEMma](https://open.spotify.com/artist/2OHfq64yFsF9ehuUjCZwJF) | [WOODY](https://open.spotify.com/album/0secYErmr26myE8T2RMdGf) | 2:56 | 2022-04-12 | 2022-04-21 |
 | [WYA](https://open.spotify.com/track/0pZ8Y9fgNWVukHGF441xqA) | [MGFF](https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl) | [MOIM](https://open.spotify.com/album/2VlR7hshadizStmHBSmoGR) | 3:22 | 2023-01-26 | 2023-02-15 |
+| [Yes \(feat\. James Reid\)](https://open.spotify.com/track/7rXgJUG1dp42FJMjYsD7EW) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW), [Transparent Arts](https://open.spotify.com/artist/1F9TDeezTpFqrwPkn1S8qW), [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:16 | 2024-10-16 |  |
 | [YOU & I](https://open.spotify.com/track/00LIiLCJ8WpurfzboQzgyU) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk), [Yubin](https://open.spotify.com/artist/1vpf88lk0FxD1ir2rbEryY) | [Armored Saurus Season2 OST Part.1](https://open.spotify.com/album/1lJHwaencWgzycwl7aSwt4) | 4:07 | 2022-07-08 | 2022-07-23 |
 | [YOU \(feat\. Beenzino\)](https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR) | [YOU \(feat .Beenzino\)](https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn) | 4:15 | 2022-06-23 | 2022-07-16 |
 | [You Are My Universe](https://open.spotify.com/track/637WqBLI6CPZCDZhw24WWs) | [Low Hanging Fruits](https://open.spotify.com/artist/7KfFnqnCwvQ8NXL2a8avAu) | [You Are My Universe](https://open.spotify.com/album/1j1teMefag7nMbcWTzBFlJ) | 4:35 | 2022-09-30 | 2022-10-19 |

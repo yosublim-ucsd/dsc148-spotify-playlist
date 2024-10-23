@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,115 likes - 73 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,171 likes - 73 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 | 30 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
 | 31 | [That's Life](https://open.spotify.com/track/6zj0UbuOOigThu9Wmt99ox) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [That's Life](https://open.spotify.com/album/3vfu6Fg7uXZdfEEV2uDOgt) | 3:24 |
 | 32 | [Cupid \- Deluxe Edition Version](https://open.spotify.com/track/5kG1ARHk8dli0bKiMN2oE6) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:48 |
-| 33 | [Hello \(Reggae Cover\)](https://open.spotify.com/track/0vq0qoIMXjE8uFzIIyiOy9) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Rosie Delmah](https://open.spotify.com/artist/1oA050idm4VgCncQUWA20d) | [Hello \(Reggae Cover\)](https://open.spotify.com/album/0GOiltu9AuvqfcDhCE5wqQ) | 3:58 |
+| 33 | [Hello \(Reggae Cover\)](https://open.spotify.com/track/0vq0qoIMXjE8uFzIIyiOy9) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4), [Rosie Delmah](https://open.spotify.com/artist/0g8Ply4lDqix8GmRCPXnQS) | [Hello \(Reggae Cover\)](https://open.spotify.com/album/0GOiltu9AuvqfcDhCE5wqQ) | 3:58 |
 | 34 | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \- Remix](https://open.spotify.com/track/01RCm15CxS9M38rDtlJA0E) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL), [Noah Cronin](https://open.spotify.com/artist/7zVlPgqcPPfRMwK5cBulaH) | [Sounds of Summer \(with Slightly Stoopid & J Boog\) \[Remix\]](https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y) | 4:14 |
 | 35 | [People](https://open.spotify.com/track/1VnOw9GNrOYoAXM0AIDNx5) | [Conkarah](https://open.spotify.com/artist/7vPGzgDg3qGUY5bWtrO3K4) | [People](https://open.spotify.com/album/0OvsWLx9SJLnDEUW045fzQ) | 3:15 |
 | 36 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 |

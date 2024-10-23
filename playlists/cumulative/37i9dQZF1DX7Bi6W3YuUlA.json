@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 194283,
       "name": "2BIG!",
       "url": "https://open.spotify.com/track/1b6aMjLdJG6zAytUggQHj1"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 203076,
       "name": "Big God",
       "url": "https://open.spotify.com/track/4PsWrUbeuq4bx1o3Wk3gmh"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 258000,
       "name": "CAN YOU IMAGINE",
       "url": "https://open.spotify.com/track/57EFL5ZmeG4CS9wz1IqPLj"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 153268,
       "name": "Die For The Party",
       "url": "https://open.spotify.com/track/1JvV2nnstVEGe8rZ85EM41"
@@ -2304,7 +2304,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 199285,
       "name": "Drunk - Single Edit",
       "url": "https://open.spotify.com/track/3AdjffMAUv1wSAL6MTpA7V"
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 137446,
       "name": "Drxgs",
       "url": "https://open.spotify.com/track/3WJAkMCK8WLYW5TXVAZcA5"
@@ -4101,6 +4101,36 @@
     },
     {
       "album": {
+        "name": "I Need Help",
+        "url": "https://open.spotify.com/album/2aaMNz3MYoI1pnJUvqqkC2"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Taylor Hill",
+          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Nick Day",
+          "url": "https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168998,
+      "name": "I Need Help",
+      "url": "https://open.spotify.com/track/2wZ6SbRGqB20wbWh4f25q0"
+    },
+    {
+      "album": {
         "name": "I Need Peace",
         "url": "https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ"
       },
@@ -5750,7 +5780,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 237248,
       "name": "MY SOUL",
       "url": "https://open.spotify.com/track/6Yayz5y4EC1IyPmbTN1Ahm"
@@ -6282,7 +6312,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 135145,
       "name": "ON THE RADAR FREESTYLE",
       "url": "https://open.spotify.com/track/3mgGp6fvyUyL8HG134Q5gs"
@@ -6398,7 +6428,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 205008,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/46D2mvIxmuEL5YhdBHsQ4L"
@@ -6794,7 +6824,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 382855,
       "name": "PRAISE!",
       "url": "https://open.spotify.com/track/1jZendUOQVhjPxMBPoh86b"
@@ -7178,10 +7208,44 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 126975,
       "name": "Rachel Nichols",
       "url": "https://open.spotify.com/track/40ut9Aovbpod1bqc3WS5uM"
+    },
+    {
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228148,
+      "name": "RAIN DOWN ON ME (feat. Kirk Franklin, Maverick City Music, Kierra Sheard, Chandler Moore)",
+      "url": "https://open.spotify.com/track/5y2cCCIlatBeApYP5G8sEM"
     },
     {
       "album": {
@@ -7680,7 +7744,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 103570,
       "name": "Show Me the Way (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/2d2HyUFvWFXRa6houGjT96"

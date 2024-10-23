@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The shape of noise to come with Dear Seattle \(pictured\), Heart to Gold, Day Saints, Leaving Time and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 894,268 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,204 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 8 | [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 |
 | 9 | [Arm's Length](https://open.spotify.com/track/105jZxama5Oejv8AiN1k0N) | [Leaving Time](https://open.spotify.com/artist/7uskWkK7rsdbMgE2wDU22Y) | [Arm's Length](https://open.spotify.com/album/0hm9iq0ZEGYFyDVsAMmAzH) | 3:16 |
 | 10 | [Your Ghost](https://open.spotify.com/track/1xcu2Lip4zQCVIMG23xrbn) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Your Ghost](https://open.spotify.com/album/4fpYv7A3YlntjpvD9HuaXj) | 3:05 |
-| 11 | [Fall Apart](https://open.spotify.com/track/16M7iRpS9k69TUc62Xtj5v) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T) | [Fall Apart](https://open.spotify.com/album/4VoflHg4snejNTLbFfW0Xi) | 2:40 |
+| 11 | [Fall Apart](https://open.spotify.com/track/16M7iRpS9k69TUc62Xtj5v) | [OVERSIZE](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T) | [Fall Apart](https://open.spotify.com/album/4VoflHg4snejNTLbFfW0Xi) | 2:40 |
 | 12 | [Magnitude of Life](https://open.spotify.com/track/7ojcJMuYYXAXr2wx3DGywh) | [Navtec](https://open.spotify.com/artist/21aqWJhJhi4JAEJRqsXwMu) | [A World Inside Your Shadow](https://open.spotify.com/album/5Xo2lajd7qYy10kFNKFKDi) | 4:19 |
 | 13 | [Spit](https://open.spotify.com/track/1oEfleGYXYIOeej1EJW1uE) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Triple Seven](https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf) | 4:56 |
 | 14 | [Not Just Yet](https://open.spotify.com/track/2TmzblnommV2fLhFWipdfg) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Home in Another Life](https://open.spotify.com/album/0cOCKVlitrRLrgsOP2f3DY) | 2:01 |

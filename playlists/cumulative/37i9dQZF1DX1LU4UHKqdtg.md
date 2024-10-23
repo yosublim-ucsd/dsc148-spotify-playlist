@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ITZY
 
-1,245 songs - 2 day 18 hr 53 min
+1,246 songs - 2 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -733,6 +733,7 @@
 | [Ok \(with Jay Park\)](https://open.spotify.com/track/7Ai5mckgwFyTKfD7BjJdTJ) | [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW), [박재범](https://open.spotify.com/artist/7aaMNmVHKrzB79hKWvSU1t) | [Ok \(with Jay Park\)](https://open.spotify.com/album/4iBeXJoh6XJNfzz0tD4A1g) | 3:24 | 2024-02-05 | 2024-03-20 |
 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 | 2023-01-02 | 2023-09-06 |
 | [OMG \(FRNK Remix\)](https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 | 2023-12-19 | 2024-03-20 |
+| [ON MY BIKE](https://open.spotify.com/track/4HoQGfQPxJE1LkuXuILUzo) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [HEADWAY](https://open.spotify.com/album/5YYGa9YR9gOFnnWGHBybyg) | 3:06 | 2024-10-21 |  |
 | [On My Youth \- English Version](https://open.spotify.com/track/3aybnlPK0zZK2YRmlRm0Ph) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [On My Youth \- The 2nd Album](https://open.spotify.com/album/5E0N8pJpGjx60wKTlpu9Hs) | 3:32 | 2023-10-31 | 2023-12-15 |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-03 | 2023-05-17 |
 | [One and Only](https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One and Only](https://open.spotify.com/album/5LGe47qZJTNwtM8gUfT7Mx) | 2:46 | 2023-07-11 | 2023-09-22 |

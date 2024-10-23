@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-583 songs - 1 day 15 hr 20 min
+584 songs - 1 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Here in the Dark](https://open.spotify.com/track/312rd2c4ALzMJ0nbbie6Pg) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Land of No Junction](https://open.spotify.com/album/10QaSb6RScjUha6Wkeu1Km) | 5:26 | 2023-01-17 |  |
 | [Heretic Porcelain](https://open.spotify.com/track/1vKbvhNrBNgkPPOiIBcbyv) | [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [Heretic Porcelain](https://open.spotify.com/album/2LxiqZJ4AgDxKT0R5sQf0K) | 4:45 | 2023-01-17 |  |
 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 | 2023-01-17 | 2024-04-19 |
-| [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2023-01-17 | 2024-10-17 |
+| [Hey, Ma](https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Hey, Ma](https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL) | 3:36 | 2023-01-17 |  |
 | [Hey, That's No Way To Say Goodbye](https://open.spotify.com/track/1frLfdzAN9vP7iryVFkchw) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Hey, That's No Way To Say Goodbye](https://open.spotify.com/album/39y4XsSMcz4OidDKNgsKBT) | 3:22 | 2023-01-17 | 2024-04-19 |
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-05-09 |  |
 | [Holly Golightly](https://open.spotify.com/track/6cpS0DbBW6i2h2YhScfvDI) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Holly Golightly](https://open.spotify.com/album/2mPxVWoD1tTM3YwIKCk8Eg) | 2:44 | 2023-01-17 |  |
@@ -278,6 +278,7 @@
 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 | 2023-01-17 | 2024-04-19 |
 | [just a little more life with u](https://open.spotify.com/track/4DnPIFvrSk6OcFC185XwMG) | [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [just a little more life with u](https://open.spotify.com/album/40uK99AoMTVcqhOmyc6t7P) | 3:13 | 2023-01-17 |  |
 | [Just Stay](https://open.spotify.com/track/3gcH97D3bc4ttzZksoyLx0) | [Hearing Aid Beige](https://open.spotify.com/artist/4iefKm5C0f4mBSO79lVJZk) | [Just Stay](https://open.spotify.com/album/7gjVh6uQlQTn6uf8Bwjju2) | 3:44 | 2023-01-17 |  |
+| [Kangaroo \(Remastered\)](https://open.spotify.com/track/1HdIqEOl9MxoJNsz33VOvW) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/6D6C7jGsJdzJpcEaMcxswR) | 3:29 | 2023-01-17 |  |
 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 | 2023-01-17 | 2024-04-19 |
 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 | 2023-01-17 | 2024-04-19 |
 | [Keep The Rain](https://open.spotify.com/track/2xFmXeAKtzrG1ZQBT6adKc) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Guard Dog](https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58) | 4:47 | 2023-09-07 |  |
@@ -510,7 +511,7 @@
 | [The Moon Song \- Film Version](https://open.spotify.com/track/2tr9JHGOa5ZRar7IedAiQc) | [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa), [Joaquin Phoenix](https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv) | [The Moon Song \(Music From And Inspired By The Motion Picture Her\)](https://open.spotify.com/album/6LFZaTo38vtBqq75Goxcky) | 1:50 | 2023-01-17 | 2024-04-19 |
 | [The Oranges](https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 4:14 | 2024-02-02 |  |
 | [The Presence](https://open.spotify.com/track/4iiHscmntHnZmeLs4U9hSr) | [Emma Anderson](https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL) | [Pearlies](https://open.spotify.com/album/45kExoTy2BTCKr3XjNDo1T) | 3:35 | 2023-10-23 |  |
-| [The Season \(2019 Remaster\)](https://open.spotify.com/track/7kHEc7NXboTK83qevUsDTT) | [Ela Orleans](https://open.spotify.com/artist/6Dn4zuoJoLzVic5rgUseWq) | [Movies for Ears: An Introduction to Ela Orleans](https://open.spotify.com/album/4QAtYuYiKw26eFt0L3LrE8) | 3:45 | 2023-01-17 |  |
+| [The Season \(2019 Remaster\)](https://open.spotify.com/track/7kHEc7NXboTK83qevUsDTT) | [Ela Orleans](https://open.spotify.com/artist/6Dn4zuoJoLzVic5rgUseWq) | [Movies for Ears: An Introduction to Ela Orleans](https://open.spotify.com/album/4QAtYuYiKw26eFt0L3LrE8) | 3:45 | 2023-01-17 | 2024-10-23 |
 | [The Temporary](https://open.spotify.com/track/5g5dwJD6zwXG81LRdEsnQr) | [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [The Temporary](https://open.spotify.com/album/35DJXdGQltqXFuqVc4t22L) | 3:39 | 2023-01-17 |  |
 | [The Universe Is Always Right](https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo) | [Hayden Thorpe](https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d) | [The Universe Is Always Right](https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ) | 4:04 | 2023-01-17 |  |
 | [There Are Many Ways To Say I Love You](https://open.spotify.com/track/2ri9tsDyJP6KDbesWMjJet) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [There Are Many Ways To Say I Love You](https://open.spotify.com/album/6dAKhFmWO8tnIAWsYGVN3P) | 2:02 | 2023-01-17 |  |
@@ -555,7 +556,7 @@
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2023-01-17 | 2024-04-19 |
 | [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 | 2023-01-17 |  |
 | [Wave of Mutilation](https://open.spotify.com/track/1BEljQOZPNNjsC3nfIAHxS) | [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Wave of Mutilation](https://open.spotify.com/album/5lVrEWa1Th52yTdDqpOi83) | 2:29 | 2023-01-17 | 2024-10-09 |
-| [Waves \(Van Dyke Parks Edit\)](https://open.spotify.com/track/5rlMiSQtapreyImvN00581) | [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Waves](https://open.spotify.com/album/7aRco61GefqGSEhCvq98ZF) | 3:49 | 2023-01-17 |  |
+| [Waves \(Van Dyke Parks Edit\)](https://open.spotify.com/track/5rlMiSQtapreyImvN00581) | [Sofia Bolt](https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv) | [Waves](https://open.spotify.com/album/7aRco61GefqGSEhCvq98ZF) | 3:49 | 2023-01-17 | 2024-10-23 |
 | [We Had A Good Time](https://open.spotify.com/track/0QQVRQ99PRD0c3dL1bMQ1J) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [We Had A Good Time](https://open.spotify.com/album/4TKffHJdGJQmDMsMzYVzmO) | 3:10 | 2023-01-17 |  |
 | [We Wait](https://open.spotify.com/track/3QeaXGKRvt8cfHdrfdk5pL) | [Other Lives](https://open.spotify.com/artist/3bw0A7x5AgdJsK20ai5iS6) | [For Their Love](https://open.spotify.com/album/1pesl95uJqfN7kIOFozSHt) | 3:41 | 2023-01-17 |  |
 | [Wednesday Baby](https://open.spotify.com/track/73dK9NOpasEPiIuCOP7jqa) | [Midnight Sister](https://open.spotify.com/artist/79CshY6jZ3VzduOOSCRhm4) | [Wednesday Baby](https://open.spotify.com/album/7cEpgoJejskC8PGVPS84LC) | 3:18 | 2023-01-17 | 2024-07-29 |

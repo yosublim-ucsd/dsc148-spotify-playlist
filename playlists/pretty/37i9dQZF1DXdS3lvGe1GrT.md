@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Caroline Says
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,583 likes - 98 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,617 likes - 98 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

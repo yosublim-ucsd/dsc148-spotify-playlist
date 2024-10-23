@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > errar é humano persistir no erro é gotoso d+ \#MeuSpotify com Simone Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,331 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,373 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 | 49 | [Liberdade Provisória \- Live \- Ibirapuera / 2019](https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:06 |
 | 50 | [Loka](https://open.spotify.com/track/3Srq9hHoklnOSzg1yxMzm9) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Loka](https://open.spotify.com/album/5dIEaNNXIYizIeYPcyeepd) | 3:35 |
 
-Snapshot ID: `Zw/24AAAAADRlki/E+xo43EN9znNO/PE`
+Snapshot ID: `Zxe/PQAAAADX4TWdRCzdOCGU9lFEEXcA`

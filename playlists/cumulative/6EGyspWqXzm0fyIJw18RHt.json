@@ -539,6 +539,28 @@
     },
     {
       "album": {
+        "name": "What's Your Favorite Scary Movie?",
+        "url": "https://open.spotify.com/album/1GRZIBtksUKWB6u7BTDX6U"
+      },
+      "artists": [
+        {
+          "name": "Alden Derck",
+          "url": "https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC"
+        },
+        {
+          "name": "Shannon Sheridan",
+          "url": "https://open.spotify.com/artist/4Yp141vlWVAOEeVqV4anOa"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "What's Your Favorite Scary Movie?",
+      "url": "https://open.spotify.com/track/6Tt7jbmNbCD3r3yc7yNIeC"
+    },
+    {
+      "album": {
         "name": "Ooky Spooky",
         "url": "https://open.spotify.com/album/6fW49XkkorQpXwkYRDdPRq"
       },

@@ -3852,7 +3852,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A"
@@ -4982,6 +4982,24 @@
       "duration_ms": 224754,
       "name": "Just Stay",
       "url": "https://open.spotify.com/track/3gcH97D3bc4ttzZksoyLx0"
+    },
+    {
+      "album": {
+        "name": "It'll End In Tears (Remastered)",
+        "url": "https://open.spotify.com/album/6D6C7jGsJdzJpcEaMcxswR"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209093,
+      "name": "Kangaroo (Remastered)",
+      "url": "https://open.spotify.com/track/1HdIqEOl9MxoJNsz33VOvW"
     },
     {
       "album": {
@@ -9272,7 +9290,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 225999,
       "name": "The Season (2019 Remaster)",
       "url": "https://open.spotify.com/track/7kHEc7NXboTK83qevUsDTT"
@@ -10094,7 +10112,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 229756,
       "name": "Waves (Van Dyke Parks Edit)",
       "url": "https://open.spotify.com/track/5rlMiSQtapreyImvN00581"

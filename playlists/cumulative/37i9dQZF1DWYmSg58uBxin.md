@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-283 songs - 13 hr 3 min
+284 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Watching Dew Drops](https://open.spotify.com/track/1AXcLYTinsU5mUI2xObiQJ) | [Ingeborg](https://open.spotify.com/artist/0PsxBNpny2pv0B4dt3yQV2) | [Song for the Dandelion](https://open.spotify.com/album/6CpIli1LlEdyjK801eaYZ8) | 2:00 | 2020-10-20\* | 2021-09-24 |
 | [Water](https://open.spotify.com/track/15aAIdzt0xxazdV6abyGBC) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [Water](https://open.spotify.com/album/2iqpzaEFsjiuD4HJzu0nJw) | 2:14 | 2020-10-20\* | 2024-09-11 |
 | [Water Lilies](https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Water Lilies](https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ) | 3:20 | 2023-09-26 |  |
+| [When Day Breaks](https://open.spotify.com/track/3khZkLeb8AAnz86WhmbfXa) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [When Day Breaks](https://open.spotify.com/album/2xgEH5nrfXUE3RIYUQQTuf) | 2:21 | 2024-10-22 |  |
 | [Willow](https://open.spotify.com/track/32wkxIedt5jMtJnwTP9p1l) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Willow](https://open.spotify.com/album/5GYYbZtBySsiqBAspjHVPK) | 2:28 | 2024-08-13 |  |
 | [Winding Trails](https://open.spotify.com/track/5X3hvz25Pyqgtj1jF3HX4V) | [Cara Wolff](https://open.spotify.com/artist/4awzT4TfiIuWgss8saWodD) | [Winding Trails](https://open.spotify.com/album/6pVYhysoA5VGngRzATX4bo) | 2:02 | 2020-10-20\* | 2023-09-09 |
 | [Wkrótce](https://open.spotify.com/track/4Tqc20K1sAMwYogL1wFW0R) | [Zygmunt Czarnecki](https://open.spotify.com/artist/1uKeHKFusnucKrl8BLDoXM) | [Wkrótce](https://open.spotify.com/album/5RYb6RC5zwnM15kJoKKJd7) | 2:14 | 2023-09-08 |  |

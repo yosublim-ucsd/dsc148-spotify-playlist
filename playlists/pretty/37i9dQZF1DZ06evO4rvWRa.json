@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1640662,
+  "num_followers": 1640651,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxRIAAAAAAD/wpX95bZf0AJlWmh4KasJ",
+  "snapshot_id": "ZxWZgAAAAADEoe5fPjoP6kh1+Pe/KJZi",
   "tracks": [
     {
       "added_at": null,
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello World",
-        "url": "https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Torine",
-          "url": "https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo"
-        }
-      ],
-      "duration_ms": 171585,
-      "name": "Hello World",
-      "url": "https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heading Home",
         "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 184889,
       "name": "Heading Home",
       "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello World",
+        "url": "https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Torine",
+          "url": "https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo"
+        }
+      ],
+      "duration_ms": 171585,
+      "name": "Hello World",
+      "url": "https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2"
     },
     {
       "added_at": null,

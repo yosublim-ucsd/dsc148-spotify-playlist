@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。MILLENNIUM PARADE & Rauw Alejandro & Tainy, Gracie Abrams, Bon Iver  and more! cover: MILLENNIUM PARADE, Rauw Alejandro, Tainy
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,544 likes - 95 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,564 likes - 95 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 18 | [Strength \(R U Ready\) \[feat\. Joy Crookes\]](https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:21 |
 | 19 | [Both Ways](https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party \(Extended\)](https://open.spotify.com/album/51ojViy1d9Siz28EF08d49) | 3:17 |
 | 20 | [Thought I Was Dead](https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Thought I Was Dead](https://open.spotify.com/album/4IUCrwXucmLoVO6geJ3Vjr) | 2:28 |
-| 21 | [Dream Smasher feat\. Kj](https://open.spotify.com/track/150oWZSw4xLpTJ1Z0i2P86) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Liberation \(Deluxe Edition\)](https://open.spotify.com/album/5E0YkQA6pD2GFXgESsCZNF) | 3:33 |
+| 21 | [Dream Smasher feat\. Kj](https://open.spotify.com/track/150oWZSw4xLpTJ1Z0i2P86) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Liberation \(Deluxe Edition\)](https://open.spotify.com/album/5E0YkQA6pD2GFXgESsCZNF) | 3:33 |
 | 22 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 |
 | 23 | [Most Beautiful Design \(feat\. London On Da Track & Future\)](https://open.spotify.com/track/4trOnPnDeFU0jU8qa5i9xX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Most Beautiful Design](https://open.spotify.com/album/0eaTNeeKhIEHA1SQ0nJjby) | 3:39 |
 | 24 | [You Ain't The Only One](https://open.spotify.com/track/2PYmLWYQKcyiDoduL1ewVO) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [You Ain't The Only One](https://open.spotify.com/album/2exj3QEbmM141MCEpjFb1q) | 2:48 |

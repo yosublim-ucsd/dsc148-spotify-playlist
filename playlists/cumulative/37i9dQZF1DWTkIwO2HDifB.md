@@ -4,7 +4,7 @@
 
 > A Danada Me Ligando  e os funks mais 🔑 do Brasil\. Foto: Mc Cebezinho, DJ Oreia, Mc Tuto, Mc Kako
 
-296 songs - 17 hr 7 min
+297 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bala Love](https://open.spotify.com/track/48Ll1C6qAnP2UjnopQDh4a) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI) | [Bala Love](https://open.spotify.com/album/1Hr2BJE35v4OYirOAe0hA3) | 3:41 | 2021-12-31 | 2023-06-13 |
 | [BALANÇA A GLOCK](https://open.spotify.com/track/3NaZrn3dMTU2uzjvVwC41z) | [DJ LG](https://open.spotify.com/artist/3a185Ryw0UxPiGvB3mS2EJ), [Mc Jajau](https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm) | [BALANÇA A GLOCK](https://open.spotify.com/album/10XgqbTG82Ks7cK6i5m601) | 2:36 | 2021-12-31 | 2022-02-19 |
 | [Bandido Não Dança](https://open.spotify.com/track/5WGTBzRLbjj0Sm3Br8X1rI) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bandido Não Dança](https://open.spotify.com/album/6pGEl2UutstK1XclQQgFz0) | 2:06 | 2023-01-20 | 2024-05-11 |
+| [Barbie](https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn) | [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Barbie](https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL) | 3:12 | 2024-10-22 |  |
 | [Bebezinhas da Facul](https://open.spotify.com/track/3571WJGuiFHQkWl1w5qR79) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Bruderr](https://open.spotify.com/artist/0aUnOozGoBOVn8guTaU2qK), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Bebezinhas da Facul](https://open.spotify.com/album/6WZ2LVBwfhOqDky5QuN4L0) | 3:56 | 2023-06-30 | 2024-05-18 |
 | [BEBÊ TÁ SOLTA](https://open.spotify.com/track/4ChIBnH5lO5thSaNeMV0oE) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Dj Bnão](https://open.spotify.com/artist/0F1EEVbFwozNDGU9DAdpq8) | [BEBÊ TÁ SOLTA](https://open.spotify.com/album/1Z8jyx63wxfiXE0gcUWzS8) | 3:17 | 2023-03-20 | 2023-11-11 |
 | [Bipolar](https://open.spotify.com/track/0qxLQ6opocOGyFnlXqJ53x) | [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Bipolar](https://open.spotify.com/album/1iCDTyPPAevNAvqC6WFlRy) | 4:36 | 2021-12-31 | 2022-03-05 |

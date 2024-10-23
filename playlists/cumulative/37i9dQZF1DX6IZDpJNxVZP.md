@@ -4,7 +4,7 @@
 
 > Celebrate Halloween at home with these fun tracks
 
-243 songs - 10 hr 50 min
+245 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Costume Party](https://open.spotify.com/track/1Gac8490Qd6yH90MEYIRB3) | [Tps](https://open.spotify.com/artist/20uljvju3dv59k8Oz9dOtl) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 4:25 | 2021-09-10 | 2024-10-05 |
 | [Count JJ All Day!](https://open.spotify.com/track/26V8pwWlIZ7gqUDqIKoQVX) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Songs](https://open.spotify.com/album/6W2tIdBTW9jKKlbSra9g0F) | 2:39 | 2024-10-04 |  |
 | [Cruella De Vil \- From "101 Dalmatians"/Soundtrack Version](https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN) | [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [101 Dalmatians](https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr) | 5:03 | 2021-08-30 | 2024-09-21 |
-| [Day\-O \(The Banana Boat Song\)](https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [The 50 Best Summer Songs](https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ) | 3:04 | 2023-10-02 |  |
+| [Day\-O \(The Banana Boat Song\)](https://open.spotify.com/track/4WdhK1qsW9lQ5ttqpRe1zC) | [Kidsongs](https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW) | [The 50 Best Summer Songs](https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ) | 3:04 | 2023-10-02 | 2024-10-23 |
 | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/track/2CByDfanNXrPwv6KRihe83) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/album/1xwaYpB7sL80dl0WOoXZRi) | 2:20 | 2024-10-18 |  |
 | [Ding Dong The Witch Is Dead](https://open.spotify.com/track/5mkjplHZNNa8ebq0ZEucBh) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Halloween y diversión para peques](https://open.spotify.com/album/3l7nn2ZoTDBGnMrOzsB6dT) | 2:41 | 2022-10-11 | 2022-11-13 |
 | [Ding Dong The Witch Is Dead](https://open.spotify.com/track/0HtwOTyMC27b6I9xY3b5OH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 2:54 | 2021-08-30 | 2023-10-03 |
@@ -74,6 +74,7 @@
 | [Halloween Costume Party](https://open.spotify.com/track/3swsatQ81Gp6ZNv7vDWIwU) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Hogi Halloween Sing Along](https://open.spotify.com/album/29VITVgfijNrLfpNHmZwzT) | 2:59 | 2024-10-11 |  |
 | [Halloween Dance](https://open.spotify.com/track/3o57ENGvRezgIaKidBNynE) | [Susie Tallman](https://open.spotify.com/artist/3Sz0QcctlhJ47VT4T6Jlm7) | [Halloween Pre\-School & Kindergarten Songs](https://open.spotify.com/album/3Z93uUSg7uDYIPc0huYRoR) | 2:25 | 2024-10-04 | 2024-10-19 |
 | [Halloween Floor is Lava](https://open.spotify.com/track/0qeUh1qhHUyBWEUfQhp67I) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Halloween Floor is Lava](https://open.spotify.com/album/401zoIGOIdNruRAcb9jhiz) | 3:39 | 2022-10-11 | 2024-09-21 |
+| [Halloween Holla Holla](https://open.spotify.com/track/2ygNgr95QTfXLXPK3scUEr) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Halloween Holla Holla](https://open.spotify.com/album/3XyWPvY1V1TCEHjlzO94yI) | 2:25 | 2024-10-22 |  |
 | [Halloween Is Finally Here](https://open.spotify.com/track/6HRKf0RUdc4tgz2mre0vNh) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Halloween Is Finally Here](https://open.spotify.com/album/4Uuu1GmwbX8lfwHk6ODSD3) | 1:45 | 2021-09-10 |  |
 | [Halloween Jack In The Box](https://open.spotify.com/track/04tnvdXRN2laFOCD4LDJFu) | [The MikMaks](https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF) | [Halloween Jack In The Box](https://open.spotify.com/album/4Tx7dRyswwgC8LWCwclP0D) | 1:59 | 2021-10-12 | 2022-09-26 |
 | [Halloween Night](https://open.spotify.com/track/4H7zqlSsBgoXjRAALsPLSg) | [Like Father Like Son](https://open.spotify.com/artist/2mYeBf4vKnhNLLiGciwz3O) | [Halloween Night](https://open.spotify.com/album/3p1Rk9EcDJMIZcEY1kkfM5) | 3:26 | 2021-09-10 | 2024-09-21 |
@@ -133,7 +134,7 @@
 | [Old MacDonald's Haunted Farm](https://open.spotify.com/track/5f4pk2mhjFOmdpFj1HXxlr) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:21 | 2022-10-11 | 2024-09-21 |
 | [On Halloween](https://open.spotify.com/track/0sBIDKzgE50k7mmZSLxEFa) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 1:36 | 2024-09-20 | 2024-10-21 |
 | [Overture](https://open.spotify.com/track/2fp9PZRJEOCrP4qR8ZONGs) | [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The Addams Family \(Original Cast Recording\)](https://open.spotify.com/album/11oSgc7tukNbysMv0nOpW3) | 1:58 | 2021-08-30 | 2024-09-21 |
-| [Party Like It's Halloween](https://open.spotify.com/track/0gRQ47Opbtm5dKFA2FquFM) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Halloween Countdown](https://open.spotify.com/album/1hIYWPFeioHQYLnJLHzj1C) | 2:25 | 2024-10-04 |  |
+| [Party Like It's Halloween](https://open.spotify.com/track/0gRQ47Opbtm5dKFA2FquFM) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Halloween Countdown](https://open.spotify.com/album/1hIYWPFeioHQYLnJLHzj1C) | 2:25 | 2024-10-04 | 2024-10-23 |
 | [Peek\-A\-Boo Ghost](https://open.spotify.com/track/3syXrV5Sbep8PW4WIwhtvC) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [A Laurie Berkner Halloween](https://open.spotify.com/album/0oadKOgulzZqBgcmQgYJMu) | 1:17 | 2024-09-20 |  |
 | [Peekaboo!](https://open.spotify.com/track/39wGdxjdIChhASl1jE3jvG) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 2:03 | 2021-09-24 | 2024-04-19 |
 | [Peekaboo!](https://open.spotify.com/track/3q2cQTJP9EQGgeHfuHAj0E) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With Cocomelon](https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo) | 2:03 | 2021-09-24 | 2024-09-21 |
@@ -145,6 +146,7 @@
 | [Purple People Eater](https://open.spotify.com/track/4qfZboSJ2RvQ1L1f1FmV2q) | [Kids Beat](https://open.spotify.com/artist/1tZqDZy9Alk30gH9hHbBUe) | [10 Best Halloween Songs 4 Kids](https://open.spotify.com/album/7bo6w5NffPhxBu5sSHVSLB) | 2:14 | 2021-08-30 | 2024-09-21 |
 | [Purple People Eater](https://open.spotify.com/track/0PZqoFkMT5U9GRY9EvZluF) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids sing the Oldies](https://open.spotify.com/album/710xnvRhQRHXob51s3TqAZ) | 2:10 | 2022-10-11 | 2022-11-13 |
 | [Purple People Eater](https://open.spotify.com/track/6c2GhX5Gip3QamwhqSM3b0) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Halloween for Kids: Party Songs and Sound Effects](https://open.spotify.com/album/25e7mAmvjKtrgM6K3eVxnt) | 2:10 | 2021-08-30 | 2024-09-21 |
+| [Rock This Halloween](https://open.spotify.com/track/1DQlPXYgSTDUGGb6Qup1JY) | [The Rock & Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [Rock This Halloween](https://open.spotify.com/album/2lHXNnieXloYVc632CpVPl) | 3:00 | 2024-10-22 |  |
 | [Rock\-a\-bye Ghoulie](https://open.spotify.com/track/1wgzJ8a7DwhvaUshgfDKuh) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With Cocomelon](https://open.spotify.com/album/0kDDmihwSYcGxP7lxUreIo) | 2:21 | 2021-09-24 | 2024-09-21 |
 | [Rock\-a\-bye Ghoulie](https://open.spotify.com/track/2sKYCb8jiN1kzihZq1QxRo) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Happy Halloween](https://open.spotify.com/album/1142XkyuIYZQbO8ODUzeMk) | 2:21 | 2022-10-11 | 2022-11-14 |
 | [Rock\-a\-bye Ghoulie](https://open.spotify.com/track/72kahzuikdEgLrf5wZBJWr) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 2:21 | 2021-09-24 | 2024-04-19 |

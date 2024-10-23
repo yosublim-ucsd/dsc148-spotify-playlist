@@ -769,6 +769,28 @@
     },
     {
       "album": {
+        "name": "HUMANISM",
+        "url": "https://open.spotify.com/album/3ic5aS3lPIuYYxqhcZt5aT"
+      },
+      "artists": [
+        {
+          "name": "MIJIPIN",
+          "url": "https://open.spotify.com/artist/5OmfLbUOtonT9rilhxHBWT"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318947,
+      "name": "HUMANISM (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/3NFysy0wrXllmwSQGnOkCB"
+    },
+    {
+      "album": {
         "name": "I know \u611b\u8133.",
         "url": "https://open.spotify.com/album/01eGlRkyJwkTPl4XIJ4Qbb"
       },
@@ -1594,7 +1616,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 202874,
       "name": "Satory (feat. IA)",
       "url": "https://open.spotify.com/track/7GLD6gde4m1bpNFaJ5ReU6"
@@ -1936,6 +1958,28 @@
       "duration_ms": 496000,
       "name": "Time and space",
       "url": "https://open.spotify.com/track/19QTCGAexj5fTiIp0XGPp1"
+    },
+    {
+      "album": {
+        "name": "Treasure every meeting",
+        "url": "https://open.spotify.com/album/09cJG2Ai35LLyaOvAM8GJh"
+      },
+      "artists": [
+        {
+          "name": "shu-t",
+          "url": "https://open.spotify.com/artist/43Ry8UW7ASr2gHdD6hhTI4"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245142,
+      "name": "Treasure every meeting (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/7fJjyVDvNVqGdNMAsIXVi6"
     },
     {
       "album": {
@@ -3088,7 +3132,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 153250,
       "name": "\u30d6\u30ec\u30a4\u30af\u30b9\u30eb\u30fc (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u91cd\u97f3\u30c6\u30c8&\u53ef\u4e0d&\u88cf\u547d)",
       "url": "https://open.spotify.com/track/1YJTj0lSK0SfocYiNRx8Sl"
@@ -3373,6 +3417,50 @@
     },
     {
       "album": {
+        "name": "\u4e07\u4e16\u6a4b\u9053\u4e2d\u82b1\u76db_2024",
+        "url": "https://open.spotify.com/album/3Ah4ZBszbhL0r2I47ejnTg"
+      },
+      "artists": [
+        {
+          "name": "IMO",
+          "url": "https://open.spotify.com/artist/0bWsyEtBnc8Nb75emigipg"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "\u4e07\u4e16\u6a4b\u9053\u4e2d\u82b1\u76db_2024 (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/6vFeTrX0yxvfB7w3eLPYJT"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u7d14\u540c\u76df",
+        "url": "https://open.spotify.com/album/0xcSKmQSrpy2ndniN5eKjs"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u5b50",
+          "url": "https://open.spotify.com/artist/0dRTohab8XeVhAB7Xb0mPK"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132444,
+      "name": "\u4e0d\u7d14\u540c\u76df (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/5gJYG1CbtZMytovICP2mIq"
+    },
+    {
+      "album": {
         "name": "Moon EP",
         "url": "https://open.spotify.com/album/6j9bn0kU8IisGoA5dtp10p"
       },
@@ -3384,7 +3472,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 180000,
       "name": "\u4e88\u611f",
       "url": "https://open.spotify.com/track/5BZmDPacDCgasdfFtjjjbQ"
@@ -3546,7 +3634,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 188507,
       "name": "\u591c\u660e\u30ab\u30b7\u306e\u30e4\u30de\u30a4 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/68Fjzlss3iVRnfBVhZKh2c"
@@ -3857,6 +3945,28 @@
     },
     {
       "album": {
+        "name": "\u8a18\u61b6\u306e\u30d5\u30e9\u30b0\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/1QnV4YfBrsHuNZd36xyCC2"
+      },
+      "artists": [
+        {
+          "name": "As'257G",
+          "url": "https://open.spotify.com/artist/4K1RDdFMeSKKF13bOgAIGm"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302608,
+      "name": "\u8a18\u61b6\u306e\u30d5\u30e9\u30b0\u30e1\u30f3\u30c8 (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/3PYrk6nd4arTlI2TYbRAaI"
+    },
+    {
+      "album": {
         "name": "\u8af8\u884c\u7121\u5e38",
         "url": "https://open.spotify.com/album/4hNDay1ENEmY4LMpkSS5uz"
       },
@@ -3894,7 +4004,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 183633,
       "name": "\u9020\u82b1\u306b\u306a\u3063\u3066 (feat. \u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/2HRjSerEoCaZWOp7DdXTPN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground, at the heart of club culture 💎💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,924 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,955 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 6 | [Oh No](https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Oh No](https://open.spotify.com/album/28fJN4ijKdA0em3kiLaLCt) | 2:49 |
 | 7 | [ADDY](https://open.spotify.com/track/3cdWtoaLOBrJwMNnI4NmJC) | [JIALING](https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24), [Third Self](https://open.spotify.com/artist/370kGb0x4Y8dqbTzpkwV69), [HONEY B](https://open.spotify.com/artist/2ydEO7mJmIYAeSr4V7y36W), [Rose Kourts](https://open.spotify.com/artist/5Gsx1hlxBwCAFg2Iq6UOgg) | [ADDY](https://open.spotify.com/album/0D0Lse0MQYSqniC9es3wcA) | 4:58 |
 | 8 | [Globale](https://open.spotify.com/track/1HsHJvovqPVJy1utSqJ7LD) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Globale EP](https://open.spotify.com/album/00Haz9aSoRGF6IgmrSroqm) | 2:46 |
-| 9 | [Elixir](https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok), [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [2:M](https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X) | 3:34 |
+| 9 | [Elixir](https://open.spotify.com/track/0G9vMSvTPrYryF2SX3vZrg) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok), [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Elixir](https://open.spotify.com/album/4hrEi3CtInHEoFHLFqvp8X) | 3:34 |
 | 10 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 |
 | 11 | [SHELLAC \- Edit](https://open.spotify.com/track/2i9agRnat2vvCkp5PEsRfd) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [SHELLAC](https://open.spotify.com/album/3A0NU3KoG0k9U36b4S7e9b) | 3:51 |
 | 12 | [Acuyuye](https://open.spotify.com/track/7x9Fzi3wwowHa4HJmeBpux) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [Diva Cruz](https://open.spotify.com/artist/6XePd0EqV9enJtOlKcb6o6) | [Brujas EP](https://open.spotify.com/album/1Gby8YIACpxTKO6lV5Ilj9) | 4:29 |

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jonquel Jones
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jalen Brunson and Jaylen Brown
 
 692 songs - 1 day 10 hr 56 min
 

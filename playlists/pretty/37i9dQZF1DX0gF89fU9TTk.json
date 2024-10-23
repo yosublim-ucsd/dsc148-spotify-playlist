@@ -1,6 +1,6 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: <spotify:artist:0qZ8aSF0iMCQI99AAXikF8\">ELEVATION RHYTHM</a>",
-  "num_followers": 136926,
+  "num_followers": 136946,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Go Tell The World / Overflow (Live)",
+        "url": "https://open.spotify.com/album/5bRgF2e7mpKj0nM0hsf26k"
+      },
+      "artists": [
+        {
+          "name": "Celebration Music",
+          "url": "https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp"
+        },
+        {
+          "name": "Lauren Tyler",
+          "url": "https://open.spotify.com/artist/74kbp0LGNxWddtDSNBXl9C"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Go Tell The World - Live",
+      "url": "https://open.spotify.com/track/0zS1ePx7XKEo9XFdIMccHN"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "King of My Heart",
         "url": "https://open.spotify.com/album/3LCnkn9T7aaHT3PLMrQWtb"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 243509,
       "name": "Keep In Step - Live",
       "url": "https://open.spotify.com/track/1sGVoxezS8GxpH3caseKg2"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Go Tell The World / Overflow (Live)",
-        "url": "https://open.spotify.com/album/5bRgF2e7mpKj0nM0hsf26k"
-      },
-      "artists": [
-        {
-          "name": "Celebration Music",
-          "url": "https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp"
-        },
-        {
-          "name": "Lauren Tyler",
-          "url": "https://open.spotify.com/artist/74kbp0LGNxWddtDSNBXl9C"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Go Tell The World - Live",
-      "url": "https://open.spotify.com/track/0zS1ePx7XKEo9XFdIMccHN"
     },
     {
       "added_at": "2024-06-25 03:27:03",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-06-25 03:27:03",
       "album": {
+        "name": "Vol 1",
+        "url": "https://open.spotify.com/album/0Dgm0ZiKnnlLTcaKOi3WBI"
+      },
+      "artists": [
+        {
+          "name": "LUMINS",
+          "url": "https://open.spotify.com/artist/0vl0q3Jy5VN0GXyNWdnOyC"
+        },
+        {
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "Lay My Life Down",
+      "url": "https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX"
+    },
+    {
+      "added_at": "2024-06-25 03:27:03",
+      "album": {
         "name": "Surrounded (Fight My Battles)",
         "url": "https://open.spotify.com/album/34Wo5KdLAnaF6LxMFQGOz0"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 180000,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/6V6gP9CIMr1GmyzhvzknOv"
-    },
-    {
-      "added_at": "2024-06-25 03:27:03",
-      "album": {
-        "name": "Vol 1",
-        "url": "https://open.spotify.com/album/0Dgm0ZiKnnlLTcaKOi3WBI"
-      },
-      "artists": [
-        {
-          "name": "LUMINS",
-          "url": "https://open.spotify.com/artist/0vl0q3Jy5VN0GXyNWdnOyC"
-        },
-        {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "Lay My Life Down",
-      "url": "https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX"
     },
     {
       "added_at": "2024-06-25 03:27:03",

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "13\u67082\u65e5",
+        "url": "https://open.spotify.com/album/2dZbmOOswZJKVfXx0GNz3i"
+      },
+      "artists": [
+        {
+          "name": "TakaseToya",
+          "url": "https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171597,
+      "name": "13\u67081\u65e5",
+      "url": "https://open.spotify.com/track/7Lee7eQiIvQGQDpTG5djJu"
+    },
+    {
+      "album": {
         "name": "Two Moon",
         "url": "https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 131434,
       "name": "HAITE",
       "url": "https://open.spotify.com/track/2fu0mblB8cp6MtM9nwtZrL"
@@ -805,6 +823,24 @@
     },
     {
       "album": {
+        "name": "onn",
+        "url": "https://open.spotify.com/album/4WuT9gXh8N6rkw4WMM6yVU"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186028,
+      "name": "onn",
+      "url": "https://open.spotify.com/track/2hjK0RrGJHp2yXAU1vtED1"
+    },
+    {
+      "album": {
         "name": "ICHIJIKIKOKU",
         "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
       },
@@ -1177,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "V\u00e9randa",
+        "url": "https://open.spotify.com/album/0BuqNtULCov27tKzycHoWT"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203079,
+      "name": "V\u00e9randa",
+      "url": "https://open.spotify.com/track/6h5ndow0y3PdcW6nFsxLFz"
+    },
+    {
+      "album": {
         "name": "WARUNORI",
         "url": "https://open.spotify.com/album/2h7FVDXr3xmV11yyNImqRz"
       },
@@ -1350,7 +1404,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 181022,
       "name": "\u3046\u305f\u305f\u306d",
       "url": "https://open.spotify.com/track/4C2kdvTzgJAfYO07dDwc5x"
@@ -2136,7 +2190,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 206133,
       "name": "\u30e9\u30f3\u30bf\u30f3",
       "url": "https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU"
@@ -2374,6 +2428,24 @@
       "duration_ms": 265720,
       "name": "\u5207\u671b",
       "url": "https://open.spotify.com/track/7vjOo9fJElFH24nXraNRYK"
+    },
+    {
+      "album": {
+        "name": "\u521d\u590f",
+        "url": "https://open.spotify.com/album/1XQ717SnraQRSj55p2F79F"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228466,
+      "name": "\u521d\u590f",
+      "url": "https://open.spotify.com/track/1VzOqNIocvr1fEePNNKt5G"
     },
     {
       "album": {
@@ -3090,7 +3162,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 222320,
       "name": "\u8ab0\u304b\u3092\u6551\u3063\u3066\u3084\u308b\u6687\u306a\u3069\u306a\u3044\u3051\u3069",
       "url": "https://open.spotify.com/track/0caxXD68RA2qYvZBUvTtYJ"

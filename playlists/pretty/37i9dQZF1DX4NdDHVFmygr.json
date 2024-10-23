@@ -1,12 +1,12 @@
 {
   "description": "Made in Morocco, 100% hits marocains.",
-  "num_followers": 6419,
+  "num_followers": 6531,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxY1IgAAAAC0DcignPysjGxBgH7+P6f5",
+  "snapshot_id": "ZxeBywAAAACI4YmV/qAPPa4iPxNcOKDX",
   "tracks": [
     {
       "added_at": "2024-10-21 11:04:02",
@@ -95,22 +95,6 @@
       "duration_ms": 224323,
       "name": "Machi Bedala",
       "url": "https://open.spotify.com/track/5Xi5ArUrhw7xYz4ZtGGiRv"
-    },
-    {
-      "added_at": "2024-10-21 11:04:02",
-      "album": {
-        "name": "CABARET",
-        "url": "https://open.spotify.com/album/4jv4SeF1W29Sae15O0JC3P"
-      },
-      "artists": [
-        {
-          "name": "Manal",
-          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "CABARET",
-      "url": "https://open.spotify.com/track/3XugphjZV5ITxjG06dQzbO"
     },
     {
       "added_at": "2024-10-21 11:04:02",
@@ -399,6 +383,26 @@
       "duration_ms": 202000,
       "name": "3DABI",
       "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
+    },
+    {
+      "added_at": "2024-10-22 10:43:23",
+      "album": {
+        "name": "Arabian Heartbreak",
+        "url": "https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        },
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "MACHI SAHEL (feat. Tagne)",
+      "url": "https://open.spotify.com/track/1svrReBKFrNhVMjlT9NOT5"
     },
     {
       "added_at": "2024-10-21 11:04:02",

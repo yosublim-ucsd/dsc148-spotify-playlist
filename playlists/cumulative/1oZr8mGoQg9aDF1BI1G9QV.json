@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Yearbook",
+        "url": "https://open.spotify.com/album/6jQWK1EdlgEbFWFxz6etwH"
+      },
+      "artists": [
+        {
+          "name": "Alden Derck",
+          "url": "https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC"
+        }
+      ],
+      "date_added": "2024-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/7FtfsZcJjfBNdhD75bXqVL"
+    },
+    {
+      "album": {
         "name": "Honey Moonshine",
         "url": "https://open.spotify.com/album/5Aws1xUnOX5M0rBlJYa5nR"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is imase. The essential tracks, all in one playlist.",
-  "num_followers": 22544,
+  "num_followers": 22554,
   "original_name": "This Is imase",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxRIAAAAAADXlniliVE0aERxE/R13Jbk",
+  "snapshot_id": "ZxWZgAAAAAAtkd4/2D8OdLOPJbok661k",
   "tracks": [
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u50d5\u3089\u3060",
-        "url": "https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV"
+        "name": "Dried Flower",
+        "url": "https://open.spotify.com/album/11P1D8fWEK5MRmnHEFY34g"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 198173,
-      "name": "\u50d5\u3089\u3060",
-      "url": "https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb"
+      "duration_ms": 185286,
+      "name": "Dried Flower",
+      "url": "https://open.spotify.com/track/1YQ6EL4sCdTrlUiBbCSwne"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dried Flower",
-        "url": "https://open.spotify.com/album/11P1D8fWEK5MRmnHEFY34g"
+        "name": "\u50d5\u3089\u3060",
+        "url": "https://open.spotify.com/album/0qXnV13j7XEHdiS8LvcQEV"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 185286,
-      "name": "Dried Flower",
-      "url": "https://open.spotify.com/track/1YQ6EL4sCdTrlUiBbCSwne"
+      "duration_ms": 198173,
+      "name": "\u50d5\u3089\u3060",
+      "url": "https://open.spotify.com/track/4JpBGlsUytujGQohsnqmxb"
     },
     {
       "added_at": null,

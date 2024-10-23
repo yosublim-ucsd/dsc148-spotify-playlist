@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pasad\u00eda y sabrosura!",
-  "num_followers": 34836,
+  "num_followers": 34848,
   "original_name": "\u00c9xitos de Balneario",
   "owner": {
     "name": "Spotify",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Y Como Se Mata El Gusano?",
-        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
-      },
-      "artists": [
-        {
-          "name": "Miguel Moly",
-          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Dulcemente Bella",
-      "url": "https://open.spotify.com/track/3anFu90Cfdwgt31a2tYJix"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
         "name": "Historia Musical de Calixto Ochoa: 40 \u00c9xitos",
         "url": "https://open.spotify.com/album/2m8Ca1G3Hq1biWbYIkjDkE"
       },
@@ -1371,6 +1355,26 @@
       "duration_ms": 158727,
       "name": "Charanga Campesina",
       "url": "https://open.spotify.com/track/7kgjH9TT0cZOUI4mHA1CNI"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
+        "name": "Sonido Digital Bailables",
+        "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
+      },
+      "artists": [
+        {
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
+        },
+        {
+          "name": "Rochy",
+          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1411,22 +1415,18 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
-        "name": "Sonido Digital Bailables",
-        "url": "https://open.spotify.com/album/2jWWVfRu7kY8yq48Cd7nN2"
+        "name": "Y Como Se Mata El Gusano?",
+        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
       },
       "artists": [
         {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        },
-        {
-          "name": "Rochy",
-          "url": "https://open.spotify.com/artist/1RGijIKY2cwvBGXrYgFPnf"
+          "name": "Miguel Moly",
+          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
         }
       ],
-      "duration_ms": 209266,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1prFNlcD5OYRNPJKqs8n2c"
+      "duration_ms": 232173,
+      "name": "Dulcemente Bella",
+      "url": "https://open.spotify.com/track/3anFu90Cfdwgt31a2tYJix"
     },
     {
       "added_at": "2024-07-12 23:11:55",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-07-12 23:11:55",
       "album": {
+        "name": "Legado de la M\u00fasica Tropical",
+        "url": "https://open.spotify.com/album/5sGKNe6TAW206I3Fg5Tcwy"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "duration_ms": 214464,
+      "name": "Amaneciendo",
+      "url": "https://open.spotify.com/track/2Q8w3QB6xBd46JAaXiVVbf"
+    },
+    {
+      "added_at": "2024-07-12 23:11:55",
+      "album": {
         "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
         "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 342959,
       "name": "Qui\u00e9reme, Qui\u00e9reme",
       "url": "https://open.spotify.com/track/3QHHdtpkiTicUcixCw7A22"
-    },
-    {
-      "added_at": "2024-07-12 23:11:55",
-      "album": {
-        "name": "Legado de la M\u00fasica Tropical",
-        "url": "https://open.spotify.com/album/5sGKNe6TAW206I3Fg5Tcwy"
-      },
-      "artists": [
-        {
-          "name": "Los 50 De Joselito",
-          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
-        }
-      ],
-      "duration_ms": 214464,
-      "name": "Amaneciendo",
-      "url": "https://open.spotify.com/track/2Q8w3QB6xBd46JAaXiVVbf"
     },
     {
       "added_at": "2024-07-12 23:11:55",

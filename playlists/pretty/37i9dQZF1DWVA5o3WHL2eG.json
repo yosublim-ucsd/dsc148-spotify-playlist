@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: DJ Gigola",
-  "num_followers": 35058,
+  "num_followers": 35095,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "fliegen",
-        "url": "https://open.spotify.com/album/4twWyL7n4WEoepG6OcJcUh"
-      },
-      "artists": [
-        {
-          "name": "Verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 139911,
-      "name": "fliegen",
-      "url": "https://open.spotify.com/track/4Or1AiWX58dlO8mIfUTh2p"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "Berliner Luft",
         "url": "https://open.spotify.com/album/36QABQcLmLfqqxmOBTGI5i"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 180493,
       "name": "Berliner Luft",
       "url": "https://open.spotify.com/track/4K3lc5BK99UvnnLvk4aV6g"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "fliegen",
+        "url": "https://open.spotify.com/album/4twWyL7n4WEoepG6OcJcUh"
+      },
+      "artists": [
+        {
+          "name": "Verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 139911,
+      "name": "fliegen",
+      "url": "https://open.spotify.com/track/4Or1AiWX58dlO8mIfUTh2p"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "It Happens Either Way",
-        "url": "https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3"
-      },
-      "artists": [
-        {
-          "name": "OSKA",
-          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
-        }
-      ],
-      "duration_ms": 212522,
-      "name": "It Happens Either Way",
-      "url": "https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "ich wei\u00df, dass du das wei\u00dft",
         "url": "https://open.spotify.com/album/0YABVXhXX56gkRfYqxzmZp"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 155938,
       "name": "ich wei\u00df, dass du das wei\u00dft",
       "url": "https://open.spotify.com/track/4Lz4wDl7cNPpoTexcV15tL"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "It Happens Either Way",
+        "url": "https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3"
+      },
+      "artists": [
+        {
+          "name": "OSKA",
+          "url": "https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq"
+        }
+      ],
+      "duration_ms": 212522,
+      "name": "It Happens Either Way",
+      "url": "https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20"
     },
     {
       "added_at": "2024-10-01 22:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-10-01 22:00:00",
       "album": {
-        "name": "Das Barlach-Lied",
-        "url": "https://open.spotify.com/album/6yWgsXbjLxGhclqocPwtkr"
-      },
-      "artists": [
-        {
-          "name": "Lina Maly",
-          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
-        }
-      ],
-      "duration_ms": 201296,
-      "name": "Das Barlach-Lied",
-      "url": "https://open.spotify.com/track/5UrqDV1gpr0nstP1LzqcoK"
-    },
-    {
-      "added_at": "2024-10-01 22:00:00",
-      "album": {
         "name": "Wie geht gut alleine sein?",
         "url": "https://open.spotify.com/album/0GcqIY3kjrQ7cCCxSzbECv"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 126720,
       "name": "Wie geht gut alleine sein?",
       "url": "https://open.spotify.com/track/7C0qqfYWwBfKLa45Z6zKSv"
+    },
+    {
+      "added_at": "2024-10-01 22:00:00",
+      "album": {
+        "name": "Das Barlach-Lied",
+        "url": "https://open.spotify.com/album/6yWgsXbjLxGhclqocPwtkr"
+      },
+      "artists": [
+        {
+          "name": "Lina Maly",
+          "url": "https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk"
+        }
+      ],
+      "duration_ms": 201296,
+      "name": "Das Barlach-Lied",
+      "url": "https://open.spotify.com/track/5UrqDV1gpr0nstP1LzqcoK"
     },
     {
       "added_at": "2024-10-01 22:00:00",

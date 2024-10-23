@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky: celebrating 30 years of Rinse with a Katy B takeover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,845 likes - 60 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,852 likes - 60 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 33 | [African Warrior](https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:18 |
 | 34 | [Love Dub](https://open.spotify.com/track/2T4eUTOuEXnUWsQVyPzdGf) | [Cooly G](https://open.spotify.com/artist/0XfcR8jVPEm77dOJEN9tvq) | [Narst / Love Dub](https://open.spotify.com/album/14AlAp96M3GOiLoGSdeAYu) | 3:35 |
 | 35 | [Bayeke \- Prace Remix](https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Prace](https://open.spotify.com/artist/2K5oIzqUzZKO738h7GT3iv) | [Bayeke \(Prace Remix\)](https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP) | 5:54 |
-| 36 | [Drama \- KG Remix](https://open.spotify.com/track/7eybuKPxcnQhH0kek8cdtd) | [Swing Ting](https://open.spotify.com/artist/6fvaKKPtpStFRXRTMmnYMX), [Thai Chi Rosè](https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [100 Dances Reworked](https://open.spotify.com/album/0cx2mbLqBlGs1GrCtm28hk) | 2:50 |
-| 37 | [Lush \- Fuzzy Logik Remix](https://open.spotify.com/track/70sPvzZcGOYK0CnxzYrGC7) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Fuzzy Logik](https://open.spotify.com/artist/4piotdMysykYFW82NqRaLy) | [Lush](https://open.spotify.com/album/3ECz7PCncaV9aWNA9XVWVv) | 4:44 |
+| 36 | [Lush \- Fuzzy Logik Remix](https://open.spotify.com/track/70sPvzZcGOYK0CnxzYrGC7) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Fuzzy Logik](https://open.spotify.com/artist/4piotdMysykYFW82NqRaLy) | [Lush](https://open.spotify.com/album/3ECz7PCncaV9aWNA9XVWVv) | 4:44 |
+| 37 | [Drama \- KG Remix](https://open.spotify.com/track/7eybuKPxcnQhH0kek8cdtd) | [Swing Ting](https://open.spotify.com/artist/6fvaKKPtpStFRXRTMmnYMX), [Thai Chi Rosè](https://open.spotify.com/artist/2cnUw1pL9ejLDYAd045bWR), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [100 Dances Reworked](https://open.spotify.com/album/0cx2mbLqBlGs1GrCtm28hk) | 2:50 |
 | 38 | [Me Nuh Deal Wid Dat](https://open.spotify.com/track/3WJcd5MR3tM4zgaOJVTGXV) | [Stush](https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT) | [Me Nuh Deal Wid Dat](https://open.spotify.com/album/7bidDEdcAleSX40qHvxEd1) | 2:40 |
 | 39 | [My Circle \- Remix](https://open.spotify.com/track/7gDEIbmCStEGzICfqOTWeJ) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp), [Cadet](https://open.spotify.com/artist/1Gm0kKaDx4GH6pQF88rjSK), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [My Circle \(Remix\)](https://open.spotify.com/album/3IrXZ0zBVpZCk62OaQg4AS) | 4:20 |
 | 40 | [Don't Panic](https://open.spotify.com/track/6Xcem9wf3z6U2HIFmsQgxH) | [DJ Gregory](https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR) | [Don't Panic](https://open.spotify.com/album/0qC2J401k1gPRdroCS5x2c) | 8:48 |

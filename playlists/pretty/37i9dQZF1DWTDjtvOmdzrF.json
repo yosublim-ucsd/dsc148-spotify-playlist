@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556478,
+  "num_followers": 556495,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Moments",
-        "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
-      },
-      "artists": [
-        {
-          "name": "Maudy Ayunda",
-          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Perahu Kertas",
-      "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
         "name": "Senandung Hati dan Jiwa",
         "url": "https://open.spotify.com/album/6JZRJTpUNTsaTqk5auZj52"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 240600,
       "name": "Kenanglah Aku",
       "url": "https://open.spotify.com/track/0zJIPpVcHKWqmf2FaKXbQQ"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Perahu Kertas",
+      "url": "https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Nanti Kita Seperti Ini",
-        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
+        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
       },
       "artists": [
         {
-          "name": "Batas Senja",
-          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
+          "name": "Banda Neira",
+          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
         }
       ],
-      "duration_ms": 209647,
-      "name": "Nanti Kita Seperti Ini",
-      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
+      "duration_ms": 393072,
+      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
+      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-        "url": "https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa"
+        "name": "Nanti Kita Seperti Ini",
+        "url": "https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT"
       },
       "artists": [
         {
-          "name": "Banda Neira",
-          "url": "https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc"
+          "name": "Batas Senja",
+          "url": "https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2"
         }
       ],
-      "duration_ms": 393072,
-      "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
-      "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
+      "duration_ms": 209647,
+      "name": "Nanti Kita Seperti Ini",
+      "url": "https://open.spotify.com/track/2NjbJR8y083mOV59255QSe"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 306428,
-      "name": "Menuju Senja",
-      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
+      "duration_ms": 267000,
+      "name": "Berdua Saja",
+      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 195914,
-      "name": "Cahaya",
-      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
         "name": "a letter to my 17 year old",
         "url": "https://open.spotify.com/album/48SUVfdwm8K3U67cS5QC2h"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 195914,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
         "name": "Dunia Batas",
         "url": "https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ"
       },
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Berdua Saja",
-      "url": "https://open.spotify.com/track/7tZ69fC235bauF9Dyxk8Ps"
+      "duration_ms": 306428,
+      "name": "Menuju Senja",
+      "url": "https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Terus Bersinar",
-        "url": "https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG"
-      },
-      "artists": [
-        {
-          "name": "Lobow",
-          "url": "https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib"
-        }
-      ],
-      "duration_ms": 284946,
-      "name": "Kau Cantik Hari Ini",
-      "url": "https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
         "name": "Gajah",
         "url": "https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 239466,
       "name": "Gajah",
       "url": "https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
+        "name": "Terus Bersinar",
+        "url": "https://open.spotify.com/album/6MYbZW735XmueTaOEUE0hG"
+      },
+      "artists": [
+        {
+          "name": "Lobow",
+          "url": "https://open.spotify.com/artist/4sPz5IAXZQ428gHmhH78Ib"
+        }
+      ],
+      "duration_ms": 284946,
+      "name": "Kau Cantik Hari Ini",
+      "url": "https://open.spotify.com/track/1dDXZDCgyvioujRUDfKxCr"
     },
     {
       "added_at": "2024-10-18 08:51:26",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-10-18 08:51:26",
       "album": {
-        "name": "Sekilas Info",
-        "url": "https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh"
-      },
-      "artists": [
-        {
-          "name": "Jason Ranti",
-          "url": "https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv"
-        }
-      ],
-      "duration_ms": 350626,
-      "name": "Lagunya Begini, Nadanya Begitu",
-      "url": "https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet"
-    },
-    {
-      "added_at": "2024-10-18 08:51:26",
-      "album": {
         "name": "Telisik",
         "url": "https://open.spotify.com/album/40iKWzfGlk2MC4xr7A9Go3"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 297986,
       "name": "Senja Di Ambang Pilu",
       "url": "https://open.spotify.com/track/0ozCiYwzpYkb7N4etcjrnh"
+    },
+    {
+      "added_at": "2024-10-18 08:51:26",
+      "album": {
+        "name": "Sekilas Info",
+        "url": "https://open.spotify.com/album/4TwZfsV3Rrj1XMbqMkTfxh"
+      },
+      "artists": [
+        {
+          "name": "Jason Ranti",
+          "url": "https://open.spotify.com/artist/06x5hKHmGzMggWmRK833nv"
+        }
+      ],
+      "duration_ms": 350626,
+      "name": "Lagunya Begini, Nadanya Begitu",
+      "url": "https://open.spotify.com/track/4YVBE2CDqxtNRGTPEMOQet"
     }
   ],
   "unique_name": "Kopikustik",

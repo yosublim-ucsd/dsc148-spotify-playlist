@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-207 songs - 15 hr 34 min
+208 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 | 2023-09-01 |  |
 | [Memoria](https://open.spotify.com/track/71aAjtAtvLgTdmLOt5syln) | [Spring In A Small Town](https://open.spotify.com/artist/6VpUobaDr3krJGaceN1unG) | [Spring in a Small Town](https://open.spotify.com/album/66yTz70ZvQSi0aWQLJnGvF) | 4:37 | 2021-10-15 | 2022-07-21 |
 | [Milky Way](https://open.spotify.com/track/4E3A7qJWoSZWBGqTKw6iFC) | [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [Milky Way](https://open.spotify.com/album/3u201ZucjhDqDE4ZxDo1BR) | 7:52 | 2021-10-15 | 2022-07-29 |
+| [Mind Dimension](https://open.spotify.com/track/59QTrFJ2lD7R0OmgMaX7vJ) | [Jamy Nox](https://open.spotify.com/artist/2VdnGtTNKt8Bm6hS5Pgra3), [Bazaart](https://open.spotify.com/artist/7fSlQw130LhJ2YAw938b3K), [NeverSeen](https://open.spotify.com/artist/4FID5IZwQy0Z1J02f7xL4I) | [Mind Dimension](https://open.spotify.com/album/7iEKkTSfrpuT4Vd3v4e9bG) | 3:01 | 2024-09-26 |  |
 | [Missing You](https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Missing You](https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST) | 4:04 | 2024-09-12 |  |
 | [Momentum](https://open.spotify.com/track/4sSYEvtIDlWsFv7og6gWce) | [Sam Goku](https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l) | [Momentum](https://open.spotify.com/album/0z6AGDemMBYhvKzkgw7c9J) | 8:43 | 2021-10-15 | 2021-12-31 |
 | [Money](https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [honey](https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w) | [Money](https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK) | 3:34 | 2024-06-28 |  |
@@ -183,7 +184,7 @@
 | [Take Me Back](https://open.spotify.com/track/77XWWoOmIporiyZw7WYtiq) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Take Me Back](https://open.spotify.com/album/6R0hNupGSqL55IzZYdU9ps) | 2:55 | 2024-07-05 | 2024-09-27 |
 | [Take Me There](https://open.spotify.com/track/4AjynDSkuGn4EZXjy5YYL4) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Take Me There](https://open.spotify.com/album/5BBKnHnAIuhup9rSQE3bYW) | 3:15 | 2021-10-15 | 2022-07-29 |
 | [Take Me There](https://open.spotify.com/track/6wppmoqQvk2rUGzKim8K5Y) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Take Me There](https://open.spotify.com/album/5wNMnvFyKVVNlK0evqu5Xv) | 3:15 | 2023-11-17 | 2024-03-03 |
-| [Talking Like That](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Talking Like That](https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi) | 3:51 | 2023-09-01 |  |
+| [Talking Like That](https://open.spotify.com/track/2mO6cLDxTnT9NVnQ6iVfVF) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [Talking Like That](https://open.spotify.com/album/6NgQBkhn7gc9tcxdsORlgi) | 3:51 | 2023-09-01 | 2024-10-23 |
 | [Talking Too Much](https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Talking Too Much](https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii) | 3:54 | 2024-03-27 |  |
 | [Talking with Myself '98 \(Canny Remix\)](https://open.spotify.com/track/1mqgumZf8MUmNsy9tIWWI3) | [Electribe 101](https://open.spotify.com/artist/03E0TlGIGYR5G3vzkjGrtv) | [Talking With Myself \- Remixes](https://open.spotify.com/album/16vvi1guYbBkEhfqhbiSdF) | 7:03 | 2021-10-15 | 2022-07-24 |
 | [The Child](https://open.spotify.com/track/43sGFmqBOGGUmCu51nEU6K) | [Alex Gopher](https://open.spotify.com/artist/0ADS8B9CUYtbFLvjT99Ktw) | [You My Baby And I](https://open.spotify.com/album/1OljO7oStiLQ8f1etN8S8U) | 4:34 | 2022-07-20 | 2023-09-02 |

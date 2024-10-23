@@ -5932,7 +5932,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-23",
       "duration_ms": 294036,
       "name": "Human Rights",
       "url": "https://open.spotify.com/track/4VEzfo8GKXvW1f5oviqM1c"
@@ -10464,6 +10464,24 @@
       "duration_ms": 205500,
       "name": "N\u00e3o Sei Parar",
       "url": "https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys"
+    },
+    {
+      "album": {
+        "name": "O Superman",
+        "url": "https://open.spotify.com/album/0jMCx6S66Rwbi0n3yvzdRw"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259680,
+      "name": "O Superman",
+      "url": "https://open.spotify.com/track/7HNSmEyUHRY5ssO5VnYQHA"
     },
     {
       "album": {
