@@ -4,7 +4,7 @@
 
 > Sedihe koyo ngene, jangan ya dek ya! 😢
 
-103 songs - 8 hr 41 min
+104 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Cintamu Sepahit Topi Miring](https://open.spotify.com/track/1ixNEKbIZTTZ5LIz3rr9jD) | [Jogja Hip Hop Foundation](https://open.spotify.com/artist/0Pk4JEXgC64RBmovnQDZ27) | [Semar Mesem Romo Mendem](https://open.spotify.com/album/7nC7NZkREbTAIWuknYkWlP) | 4:54 | 2023-02-03 |  |
 | [Dadi Siji](https://open.spotify.com/track/7vJffOmu35UgVjAasLGSts) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dadi Siji](https://open.spotify.com/album/6bnn3gvenkbop8CsSE7PkE) | 3:46 | 2023-05-04 |  |
 | [Dalan Liyane](https://open.spotify.com/track/30xujBi9kPi3YWEbgzv8gH) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Dalan Liyane](https://open.spotify.com/album/6LFJ0rjfUWeddBZbgCDIPU) | 4:18 | 2023-05-19 |  |
-| [Dalan Liyane](https://open.spotify.com/track/14DyVmkBiTzhcGQg1udF9o) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/25k6Y3OXSiOk4LBthG4Qjb) | 4:16 | 2021-09-08 |  |
+| [Dalan Liyane](https://open.spotify.com/track/14DyVmkBiTzhcGQg1udF9o) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/25k6Y3OXSiOk4LBthG4Qjb) | 4:16 | 2021-09-08 | 2024-10-24 |
 | [Dalan Liyane](https://open.spotify.com/track/2PHWOjXO7lhh0Nlaa8jmoe) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Dalan Liyane](https://open.spotify.com/album/7KZw8TKU5XJyw2dLVUCSs8) | 4:16 | 2023-02-16 |  |
 | [Demi Kowe](https://open.spotify.com/track/4kuM5ZVxSejOpDXJvnDz3B) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Demi Kowe](https://open.spotify.com/album/2DjJKCcUtMiO8fITKrYip6) | 4:23 | 2021-09-08 | 2024-01-12 |
 | [DI PETIK WONG LIYO](https://open.spotify.com/track/4qxuj1jol03WynAQdCuCwG) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [DI PETIK WONG LIYO](https://open.spotify.com/album/4gVxBEGkG7LBPCgT0ncrLG) | 4:08 | 2024-05-17 |  |
@@ -61,6 +61,7 @@
 | [Lilakno Lungaku](https://open.spotify.com/track/6eQL36g0j3GlofcGauLJH7) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/1sf4AWv0GiLGTzRrfAhgDA) | 5:35 | 2023-10-11 | 2024-01-12 |
 | [Loro Ati Sejak Dini](https://open.spotify.com/track/03Ct1Mmyvj0f0Eg5Jk6ULp) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/1cWsE4b3euHysg7MkSsIaW) | 4:44 | 2023-10-11 | 2024-04-19 |
 | [Loro Ati Sejak Dini](https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj) | 4:44 | 2023-08-09 |  |
+| [Los Dol](https://open.spotify.com/track/420e2V7exkWfl6TIrFP7fi) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Los Dol](https://open.spotify.com/album/0Sg05P78e8r27lQ9Veyubx) | 5:10 | 2024-10-23 |  |
 | [Los Dol](https://open.spotify.com/track/2bCnJ2aCkSh0PIcS6nL2QM) | [Mr Jono & Joni](https://open.spotify.com/artist/15rzzisy7nred7z7Wotmy6) | [Los Dol](https://open.spotify.com/album/3nMuIEIxQ2VxTBAu5N4dKs) | 5:33 | 2021-09-08 | 2023-08-10 |
 | [Lungo'O](https://open.spotify.com/track/5mKAqG9ejNhdZhkoSJIi4j) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Lungo'O](https://open.spotify.com/album/2ftYlwfINRuqjoBiQjfRx9) | 5:41 | 2023-06-12 | 2024-04-19 |
 | [LungoO](https://open.spotify.com/track/4ThWoB0h7kZFH9KI8NqdHG) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [LungoO](https://open.spotify.com/album/1ajGUwvE5wkcXvUaSyAf1V) | 5:41 | 2021-09-08 | 2024-05-03 |
@@ -94,7 +95,7 @@
 | [Sepine Wengi](https://open.spotify.com/track/250cwRyihzWCQynWdL6RTn) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sepine Wengi](https://open.spotify.com/album/1p53UK2w3WGOEI0S8bpQ9d) | 4:37 | 2021-09-08 |  |
 | [Sewates Konco](https://open.spotify.com/track/3ZsxUx6uEUq2JaaJZHpY8J) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Destya Eka](https://open.spotify.com/artist/2tm1IWxQUHQJNbqZRIH49s) | [Sewates Konco](https://open.spotify.com/album/6X6IZWFp4R4ViCcXrJIXqs) | 5:03 | 2023-03-31 |  |
 | [Sigar](https://open.spotify.com/track/12BUsSyjHbnvmnFw6TObGD) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sigar](https://open.spotify.com/album/1yN2WgWXFFgfnIgzFmpEyu) | 5:29 | 2024-07-24 |  |
-| [Sing Tak Sayang Ilang](https://open.spotify.com/track/6peEINbo70GxP08o9TC9LU) | [Dory Harsa](https://open.spotify.com/artist/4srslZ2sGZ7GQoikELwXsX) | [Sing Tak Sayang Ilang](https://open.spotify.com/album/1IUvBhHScJl87iPOS081TH) | 4:26 | 2021-09-08 |  |
+| [Sing Tak Sayang Ilang](https://open.spotify.com/track/6peEINbo70GxP08o9TC9LU) | [Dory Harsa](https://open.spotify.com/artist/4srslZ2sGZ7GQoikELwXsX) | [Sing Tak Sayang Ilang](https://open.spotify.com/album/1IUvBhHScJl87iPOS081TH) | 4:26 | 2021-09-08 | 2024-10-24 |
 | [Sugeng Dalu](https://open.spotify.com/track/3Vr5DdZ3zD8PGvlovaHAIc) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/3mvGvSfDF9Y0agrI2mfCqf) | 9:02 | 2024-09-26 |  |
 | [Tak Ikhlasno](https://open.spotify.com/track/3c24cpsd4wWF9mqLsNAGm5) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/6lXi6pJWfrUP27FtWJY3zT) | 5:10 | 2023-05-19 |  |
 | [Tak Ikhlasno](https://open.spotify.com/track/7byQmHNYSJVjFAzd8eciFQ) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/6LD8JaQ7efxzh0rChA3zCx) | 5:10 | 2023-10-11 | 2024-04-19 |

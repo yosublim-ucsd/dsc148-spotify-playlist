@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-472 songs - 1 day 17 hr 15 min
+473 songs - 1 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [All I Got](https://open.spotify.com/track/2LMK2xLfWLKbfjZgtBWByM) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [All I Got](https://open.spotify.com/album/7Mmq6Qpis7mg3g8j4uzBTL) | 4:55 | 2024-10-10 |  |
 | [All I See \- BAUGRUPPE90 Remix](https://open.spotify.com/track/56fgIOoSnJS3yPmxrjKx9c) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [BAUGRUPPE90](https://open.spotify.com/artist/6pKJqozqp0jdugOsyFRGMx) | [All I See \(BAUGRUPPE90 Remix\)](https://open.spotify.com/album/1mGR41NcbBasYYAoYJu3Qh) | 6:19 | 2022-04-15 | 2022-05-19 |
 | [All The Little Things](https://open.spotify.com/track/5aZE1JRO2x1YvBQr5ssHK2) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [All The Little Things EP](https://open.spotify.com/album/08VBmpMr5rhtIWx2oI4Pc5) | 6:56 | 2022-04-15 | 2023-01-09 |
-| [All You Got To Do](https://open.spotify.com/track/7eLaGCCMM7EAyu4igl9AfB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All You Got To Do](https://open.spotify.com/album/35PB3qVN6zyJFENXaTFmAn) | 3:06 | 2024-08-21 |  |
+| [All You Got To Do](https://open.spotify.com/track/7eLaGCCMM7EAyu4igl9AfB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [All You Got To Do](https://open.spotify.com/album/35PB3qVN6zyJFENXaTFmAn) | 3:06 | 2024-08-21 | 2024-10-24 |
 | [Almost Everything](https://open.spotify.com/track/4pxC44xd2qCE3FnOcrFdtT) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Hand In Hand](https://open.spotify.com/album/5QFKgCvQUFnHDeWbdCQ6aO) | 3:54 | 2023-08-30 | 2023-11-16 |
 | [Along Came Polly \(Konstantin Sibold, ZAC, CARMEE Remix\)](https://open.spotify.com/track/5EkSIWWEX7zkFTtSO28vT7) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Konstantin Sibold](https://open.spotify.com/artist/5Ls75umF4lBOQVp3pJAlbW), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [CARMEE](https://open.spotify.com/artist/6OHONEQPRKD9oYckcnnKdq) | [Along Came Polly \(Konstantin Sibold, ZAC, CARMEE Remix\)](https://open.spotify.com/album/7md037HhJVbNKMR6V2y4JE) | 5:05 | 2024-09-02 |  |
 | [AMA](https://open.spotify.com/track/4aJo4L06xodly3Gam3MSoP) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Mar+Mer](https://open.spotify.com/artist/5RYSSOzPU8mkHGBq0S64xa) | [AMA](https://open.spotify.com/album/5YjPVazlA5oBaWvOfUIVfb) | 5:34 | 2024-01-26 | 2024-08-14 |
@@ -154,6 +154,7 @@
 | [Fino](https://open.spotify.com/track/7FuAVEMSHC6W20Y0agpEVc) | [Marek Hemmann](https://open.spotify.com/artist/7tL5UmgvPx6TqKyf0Sjjw6) | [Four](https://open.spotify.com/album/6bdpZUfLh2AnGveQIokC7X) | 5:28 | 2023-04-28 | 2023-08-17 |
 | [Fly With Me](https://open.spotify.com/track/6ZbczOUKEUWZLxchgKbk9p) | [Habitatt](https://open.spotify.com/artist/2eebQnmFuv5ZUaDd1OyUKF) | [Fly With Me](https://open.spotify.com/album/1TxwnfjFKHbkL0eq4lva87) | 3:46 | 2024-03-07 | 2024-05-19 |
 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 | 2022-08-12 | 2024-06-07 |
+| [Free \(My Mind\)](https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Perfect Opposure](https://open.spotify.com/album/7tfW0uYdwTz3QcTAILyrHY) | 6:13 | 2024-10-10 |  |
 | [Free Ya Mind](https://open.spotify.com/track/0a9eOaiuQ0J1hB9rlxhEQo) | [Viktor Talking Machine](https://open.spotify.com/artist/0yVYxAypmpc6a7K8pjJX2t) | [Free Ya Mind](https://open.spotify.com/album/2tuQDwRFtMqw8izavWbQyM) | 6:49 | 2022-11-15 | 2022-11-26 |
 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-05-20 | 2024-06-15 |
 | [Friends \- Alfred Heinrichs Remix](https://open.spotify.com/track/1Pmk0jbis41ji8kl1sjMnF) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Jens Lewandowski](https://open.spotify.com/artist/0EnlGxLYPL0F5Ym6bl3L4y) | [Friends](https://open.spotify.com/album/2XpkB3NG1kx4ArXu3HoF1W) | 6:01 | 2022-05-20 | 2022-08-13 |

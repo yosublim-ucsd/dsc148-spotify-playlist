@@ -11877,6 +11877,24 @@
     },
     {
       "album": {
+        "name": "Mi manchi per tutto il tempo in cui mi sei mancata",
+        "url": "https://open.spotify.com/album/3vWmircUhfW8wSLPqBycLg"
+      },
+      "artists": [
+        {
+          "name": "Anna Bielli",
+          "url": "https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269565,
+      "name": "Mi manchi per tutto il tempo in cui mi sei mancata",
+      "url": "https://open.spotify.com/track/13jMxAHQcOhboih1C1GdVM"
+    },
+    {
+      "album": {
         "name": "Garage Pordenone",
         "url": "https://open.spotify.com/album/2YsXkYTQUjxNhR4XcU386t"
       },

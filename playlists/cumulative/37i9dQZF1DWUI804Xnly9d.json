@@ -2246,7 +2246,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 247893,
       "name": "Fursat",
       "url": "https://open.spotify.com/track/0rRN8GUnQXMzn5IC2f9JDF"
@@ -6526,6 +6526,28 @@
       "duration_ms": 236629,
       "name": "Ruk Ja Zara",
       "url": "https://open.spotify.com/track/1kjZhK0yDSb0EJ3CtAhdLo"
+    },
+    {
+      "album": {
+        "name": "Ruk Jaa Na",
+        "url": "https://open.spotify.com/album/3lg2PEHytqFvvOr7fIDJJz"
+      },
+      "artists": [
+        {
+          "name": "Suraj Nag",
+          "url": "https://open.spotify.com/artist/2vX0pNOuin4A2xIM1Uy28d"
+        },
+        {
+          "name": "Shubham Upreti",
+          "url": "https://open.spotify.com/artist/6Fry19RYWfGOZYEU45YlgD"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165882,
+      "name": "Ruk Jaa Na",
+      "url": "https://open.spotify.com/track/2aEl1z5EE2Bg2TikPlpKi6"
     },
     {
       "album": {

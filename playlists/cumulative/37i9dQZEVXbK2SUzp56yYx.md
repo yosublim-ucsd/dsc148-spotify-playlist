@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-865 songs - 1 day 15 hr 3 min
+866 songs - 1 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Insane](https://open.spotify.com/track/5flerg6aEao2VayZezVlgu) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [Insane](https://open.spotify.com/album/3o5Dz1PLFlYXplnsp5zZxh) | 2:39 | 2024-02-18 | 2024-02-21 |
 | [INTERNET LOVE](https://open.spotify.com/track/7B6v2r1R1FchqGVjXVFhpb) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [INTERNET LOVE](https://open.spotify.com/album/0qI7JuWERWJJl2zkI1wvlF) | 2:12 | 2024-08-23 | 2024-09-12 |
 | [INTERNET LOVE](https://open.spotify.com/track/7GBN1M5T3wF901JTiIDxwb) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [INTERNET LOVE](https://open.spotify.com/album/7zmy4WcXPmogXfBQCzYNMJ) | 2:12 | 2024-09-11 | 2024-10-09 |
+| [IntroFreestyle2024](https://open.spotify.com/track/4U7kavzQwgO9KEgdwqxASA) | [Slava KPSS](https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq) | [Россия34](https://open.spotify.com/album/0D4MaVMevihn60kdXy1m4C) | 2:59 | 2024-10-23 |  |
 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-06-21 | 2024-07-08 |
 | [It's Going Down Now](https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 3:06 | 2024-08-31 |  |
 | [IYDKMIGTHTKY \(Gimme That\)](https://open.spotify.com/track/16m8dqnXoAmu40eCp1BESe) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 6:20 | 2024-01-29 | 2024-03-01 |
@@ -662,7 +663,7 @@
 | [Машина времени](https://open.spotify.com/track/5RPHhu2CyStXFgRhvFYcJ5) | [TEMNEE](https://open.spotify.com/artist/7ciqqtVrArlB28aN8XOmUw) | [Машина времени](https://open.spotify.com/album/6rIiCEyGdSrZPicJMKwQT5) | 2:20 | 2024-06-20 | 2024-06-27 |
 | [Мефистофель](https://open.spotify.com/track/6hqHMxZAXwS2FqwmluUSi3) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:26 | 2024-01-29 | 2024-02-13 |
 | [Мня вставляет дым](https://open.spotify.com/track/1FF4PyIzXMAB4xakYryYvq) | [Syava](https://open.spotify.com/artist/0LLDeswZnidFEuD5PVZxsI) | [На злобу дня](https://open.spotify.com/album/7b8j9B92sxtVW7DeemH5kc) | 2:46 | 2024-06-30 | 2024-09-11 |
-| [Модератор тт](https://open.spotify.com/track/0NRvzBjjYubIwKZZ8lAGoU) | [Игорь Вихорьков](https://open.spotify.com/artist/3zUbVvyUva9LDMHheFlScg) | [Смотрящий на говно](https://open.spotify.com/album/6z1KavaW5MNp8oI2dPjucQ) | 1:39 | 2024-10-21 |  |
+| [Модератор тт](https://open.spotify.com/track/0NRvzBjjYubIwKZZ8lAGoU) | [Игорь Вихорьков](https://open.spotify.com/artist/3zUbVvyUva9LDMHheFlScg) | [Смотрящий на говно](https://open.spotify.com/album/6z1KavaW5MNp8oI2dPjucQ) | 1:39 | 2024-10-21 | 2024-10-24 |
 | [можно](https://open.spotify.com/track/2zQYnQQDFuW5rCBaXlkodn) | [Госпожа Эвелин](https://open.spotify.com/artist/41LPLkAOe7BxiwPqa6S50q) | [можно](https://open.spotify.com/album/3Jb4g7CDEKcj9mC1ikGQbE) | 1:54 | 2024-07-30 | 2024-09-23 |
 | [Можно я с тобой](https://open.spotify.com/track/2KlFcj8nBHh4VSg7lkQOqJ) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/2v232fMW91TYINJUwtgwOB) | 2:12 | 2024-03-04 | 2024-03-14 |
 | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 | 2024-03-13 | 2024-04-24 |

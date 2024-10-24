@@ -608,7 +608,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 150000,
       "name": "Colleghi borghesi",
       "url": "https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL"
@@ -1374,6 +1374,24 @@
       "duration_ms": 216000,
       "name": "LASCIAMI QUI",
       "url": "https://open.spotify.com/track/6hceFn55WLOrEvl3r1YztX"
+    },
+    {
+      "album": {
+        "name": "Le nonne e le chiese",
+        "url": "https://open.spotify.com/album/2VdqxxO6p6S8ms8LWunJ7P"
+      },
+      "artists": [
+        {
+          "name": "dimaggio",
+          "url": "https://open.spotify.com/artist/1dSY19tr0sfPJrNha6gt3l"
+        }
+      ],
+      "date_added": "2024-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262286,
+      "name": "Le nonne e le chiese",
+      "url": "https://open.spotify.com/track/520DLH4WyVuaYXMJodUCZH"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36769,
+  "num_followers": 36772,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 167450,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
         "name": "Don't Go",
         "url": "https://open.spotify.com/album/2VNVxJujnV5BMlGNR4E3mZ"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 141479,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 167450,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -439,18 +439,22 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Generation",
-        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
       },
       "artists": [
         {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        },
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
         }
       ],
-      "duration_ms": 182609,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
+      "duration_ms": 158838,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -471,22 +475,18 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
       },
       "artists": [
         {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        },
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
         }
       ],
-      "duration_ms": 158838,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
+      "duration_ms": 182609,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -535,6 +535,22 @@
       "duration_ms": 226334,
       "name": "Softly Speaking",
       "url": "https://open.spotify.com/track/7deNy580xvtMQzvzXhlBwF"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "cause of death",
+        "url": "https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs"
+      },
+      "artists": [
+        {
+          "name": "Julia Alexa",
+          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "cause of death",
+      "url": "https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -627,18 +643,34 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "cause of death",
-        "url": "https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs"
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
       },
       "artists": [
         {
-          "name": "Julia Alexa",
-          "url": "https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 148000,
-      "name": "cause of death",
-      "url": "https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW"
+      "duration_ms": 215300,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -655,26 +687,6 @@
       "duration_ms": 164501,
       "name": "Counting Days",
       "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
-        "name": "Milchstrass (feat. Aaron Asteria)",
-        "url": "https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL"
-      },
-      "artists": [
-        {
-          "name": "Bligg",
-          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
-        },
-        {
-          "name": "Aaron Asteria",
-          "url": "https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Milchstrass (feat. Aaron Asteria)",
-      "url": "https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -699,50 +711,22 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Soft",
-        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
+        "name": "Milchstrass (feat. Aaron Asteria)",
+        "url": "https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL"
       },
       "artists": [
         {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/4o59BEGqiVMNsCOXaLFhfC"
-      },
-      "artists": [
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        },
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Aaron Asteria",
+          "url": "https://open.spotify.com/artist/7DxUqzuXRoTBvna6yo5Mq8"
         }
       ],
-      "duration_ms": 215300,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/2eZ6q2HQGaE3jB4VTDHCBV"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX"
-      },
-      "artists": [
-        {
-          "name": "James Gruntz",
-          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
-        }
-      ],
-      "duration_ms": 221427,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/0r8UouuzeMayDncGRbkEzw"
+      "duration_ms": 237680,
+      "name": "Milchstrass (feat. Aaron Asteria)",
+      "url": "https://open.spotify.com/track/4gYy4OPpKdVYLtc600YjEc"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -763,18 +747,34 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/0KdfnlW2K5kkELz1nVgAsX"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "James Gruntz",
+          "url": "https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy"
         }
       ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
+      "duration_ms": 221427,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/0r8UouuzeMayDncGRbkEzw"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "Ich Kann's Nicht Glauben",
+        "url": "https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy"
+      },
+      "artists": [
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "duration_ms": 202363,
+      "name": "Nenn Es Liebe",
+      "url": "https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Ehrlich",
-        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
       },
       "artists": [
         {
-          "name": "Baschi",
-          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 230310,
-      "name": "Ehrlich",
-      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -823,6 +823,22 @@
       "duration_ms": 174786,
       "name": "Trade Hearts",
       "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "Ehrlich",
+        "url": "https://open.spotify.com/album/3SxtFi80kNDFfnjSHBoZe3"
+      },
+      "artists": [
+        {
+          "name": "Baschi",
+          "url": "https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz"
+        }
+      ],
+      "duration_ms": 230310,
+      "name": "Ehrlich",
+      "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Ich Kann's Nicht Glauben",
-        "url": "https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy"
-      },
-      "artists": [
-        {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
-        }
-      ],
-      "duration_ms": 202363,
-      "name": "Nenn Es Liebe",
-      "url": "https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
         "name": "Losing Grip",
         "url": "https://open.spotify.com/album/2gQ3GaQhjnXM8M6PlBYAkO"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Can't Be Loved",
-        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
       },
       "artists": [
         {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
         }
       ],
-      "duration_ms": 171696,
-      "name": "Can't Be Loved",
-      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -943,34 +943,18 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+        "name": "Can't Be Loved",
+        "url": "https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo"
       },
       "artists": [
         {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
         }
       ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
-    },
-    {
-      "added_at": "2024-10-18 14:11:37",
-      "album": {
-        "name": "T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
-      },
-      "artists": [
-        {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        }
-      ],
-      "duration_ms": 164425,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
+      "duration_ms": 171696,
+      "name": "Can't Be Loved",
+      "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -987,6 +971,22 @@
       "duration_ms": 164089,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
+    },
+    {
+      "added_at": "2024-10-18 14:11:37",
+      "album": {
+        "name": "T\u00fa y Yo",
+        "url": "https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        }
+      ],
+      "duration_ms": 164425,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz"
     },
     {
       "added_at": "2024-10-18 14:11:37",
@@ -1167,18 +1167,22 @@
     {
       "added_at": "2024-10-18 14:11:37",
       "album": {
-        "name": "Schwarz auf Gr\u00fcn",
-        "url": "https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5"
+        "name": "babyboy",
+        "url": "https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8"
       },
       "artists": [
         {
-          "name": "jan SEVEN dettwyler",
-          "url": "https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej"
+          "name": "Nomuel",
+          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
+        },
+        {
+          "name": "Milan",
+          "url": "https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE"
         }
       ],
-      "duration_ms": 146366,
-      "name": "H\u00f6r mir noch einmal zu",
-      "url": "https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw"
+      "duration_ms": 170235,
+      "name": "babyboy",
+      "url": "https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5"
     }
   ],
   "unique_name": "Swiss Made",

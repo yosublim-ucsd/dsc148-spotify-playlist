@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-844 songs - 2 day 0 hr 5 min
+845 songs - 2 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [Landslide \- BOTCASH Remix](https://open.spotify.com/track/605ohRZDdw3UEzalXZWrM6) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [BOTCASH](https://open.spotify.com/artist/2ohZgLU6lCv55yV3d05nMv) | [Landslide \(BOTCASH Remix\)](https://open.spotify.com/album/2mS5bt6HNrbxWKOBhAvR7i) | 3:22 | 2023-12-14 | 2024-03-28 |
 | [Last Time](https://open.spotify.com/track/527oJMrzPR6PhTWNPclNah) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Divergence](https://open.spotify.com/album/2wl5XUluXxVwhBhfZEOwVL) | 3:36 | 2024-09-19 |  |
 | [Lastecostra](https://open.spotify.com/track/2bwAt55jyN5QGQhWFkwvez) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Lastecostra](https://open.spotify.com/album/1fwfYJCgNpfuYAq0FR0HC5) | 3:21 | 2023-10-03 | 2024-01-17 |
+| [Lean Onto Me](https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Lean Onto Me](https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm) | 3:12 | 2024-10-23 |  |
 | [Leap Of Faith](https://open.spotify.com/track/3hxpfTyfr2dU55eVGheeDp) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Leap Of Faith](https://open.spotify.com/album/696TSD9rzaKK6hJbSgEPnN) | 3:13 | 2023-08-22 | 2023-12-14 |
 | [Leave The World Behind](https://open.spotify.com/track/5sbsBKsvwpQdSMZzge0Fy6) | [nuphory](https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija), [Luna Lenta](https://open.spotify.com/artist/36un9X6TbRfeYAMadbI2SN) | [Leave The World Behind](https://open.spotify.com/album/5o3db722bxyOZJzdTxEiPL) | 3:37 | 2024-01-31 | 2024-04-20 |
 | [Let It Bloom](https://open.spotify.com/track/0c4m3t9QKH4PXXYbYX2GBu) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let It Bloom](https://open.spotify.com/album/5QItpT8Xs57eUsrDi5Spae) | 4:00 | 2023-07-27 | 2023-12-14 |
@@ -571,7 +572,7 @@
 | [Pressure on the Masses](https://open.spotify.com/track/65OZE1cg3ETRiBeu3R5UbT) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg) | [Pressure on the Masses](https://open.spotify.com/album/6cv6BsZtHsPreytOE8jN3S) | 3:55 | 2023-10-23 | 2024-02-07 |
 | [Prism](https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Prism](https://open.spotify.com/album/4UnseAiIFrd8FtLkB8YYfB) | 3:15 | 2024-01-30 | 2024-04-20 |
 | [Promise](https://open.spotify.com/track/7lmKzGSg0mGYUdsfmshKmH) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Yola Recoba](https://open.spotify.com/artist/7gvpJzKMMMQsdLqWF4SKs7), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Promise](https://open.spotify.com/album/6WuW14efnZAX1Zb8pmPzML) | 2:41 | 2024-03-28 | 2024-06-18 |
-| [promises](https://open.spotify.com/track/5mP03KQ4EJSfUOMDgFPWd4) | [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [signals](https://open.spotify.com/album/40TMUyjhxxDLFEkqV75FrC) | 2:59 | 2024-08-01 |  |
+| [promises](https://open.spotify.com/track/5mP03KQ4EJSfUOMDgFPWd4) | [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X) | [signals](https://open.spotify.com/album/40TMUyjhxxDLFEkqV75FrC) | 2:59 | 2024-08-01 | 2024-10-24 |
 | [Prophecy](https://open.spotify.com/track/1YwyNIHtNHaIuvz8ngtx8q) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [AFTERMYFALL](https://open.spotify.com/artist/3bCsC2exlNg7bFRESSXXWK) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 3:08 | 2022-11-19 | 2022-11-22 |
 | [Pump](https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Pump](https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d) | 4:24 | 2023-08-14 | 2023-12-14 |
 | [Purple](https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Purple](https://open.spotify.com/album/1TYUytf3KP39fBUe4ZS4pl) | 3:09 | 2021-12-03 | 2022-03-10 |

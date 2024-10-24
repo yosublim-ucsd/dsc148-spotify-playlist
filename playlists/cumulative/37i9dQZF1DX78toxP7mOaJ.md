@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Rock ](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
 
-> Fresh rock from independent artists every Wednesday\. Cover: shego
+> Fresh rock from independent artists every Wednesday\. Cover: Taipei Houston
 
-1,670 songs - 3 day 20 hr 12 min
+1,673 songs - 3 day 20 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,10 +224,11 @@
 | [BRAIN GOT HANDS](https://open.spotify.com/track/1Lv9wOGVEYa7Wbeli0A0eX) | [Paces](https://open.spotify.com/artist/5xO9868Xc1mjAzmaN1efoK) | [BRAIN GOT HANDS](https://open.spotify.com/album/4ryXFjrmicCKi6wCQNLUrj) | 3:01 | 2023-06-07 | 2023-08-17 |
 | [brain rot](https://open.spotify.com/track/6LfAV7S74OUEo9bOcTMTN1) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [brain rot](https://open.spotify.com/album/0YSSCHpO2lRXeX1YTcJ70X) | 2:51 | 2023-07-26 | 2023-11-30 |
 | [BRAIN ROT](https://open.spotify.com/track/2vD9qmvNiwfxJj7mtoWPMI) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [BRAIN ROT](https://open.spotify.com/album/21sQ40GI6ZWTAEsTLmOGxC) | 1:36 | 2023-07-12 | 2023-08-17 |
+| [BRAINDEAF](https://open.spotify.com/track/32KlXs8UNZCZJeOtAcCfbc) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [BRAINDEAF](https://open.spotify.com/album/12tUJwwZFqQofxHxvlPEsA) | 2:51 | 2024-10-23 |  |
 | [Bravo](https://open.spotify.com/track/1nV3jf92BAy8w2p5dD4Ulo) | [The Sheratons](https://open.spotify.com/artist/69EITyRImp22fWpGYQa7Fn) | [Bravo](https://open.spotify.com/album/1S3gBpEbAVnDippzerUpCO) | 2:44 | 2023-02-15 | 2024-01-11 |
 | [Breaking In Brooklyn](https://open.spotify.com/track/3TGO0j7ylfqmeQADB1qaea) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Breaking In Brooklyn](https://open.spotify.com/album/64cJi0RRWD8b6UTcZz06FC) | 3:06 | 2024-04-24 | 2024-08-01 |
 | [Brighter Lighting](https://open.spotify.com/track/4tr3tLyrOJx0yxyAN6oBzv) | [Elijah Wolf](https://open.spotify.com/artist/0BMdnleIiGoRac4KolpTGs) | [Brighter Lighting](https://open.spotify.com/album/5MaMJwKXyfLEv0f0mjyxlZ) | 4:07 | 2021-12-01 | 2022-01-13 |
-| [Brighter Lights](https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe) | [The Backfires](https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5) | [Brighter Lights](https://open.spotify.com/album/7bDattb2nzrzWmC29xQ8rx) | 3:49 | 2024-07-25 |  |
+| [Brighter Lights](https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe) | [The Backfires](https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5) | [Brighter Lights](https://open.spotify.com/album/7bDattb2nzrzWmC29xQ8rx) | 3:49 | 2024-07-25 | 2024-10-24 |
 | [Brighter Than Blue](https://open.spotify.com/track/0AXq4WPzmeahBMwNyaKmdb) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Learn To Like It](https://open.spotify.com/album/0TFQOw8rkRx3EeV4CncEoK) | 3:42 | 2022-04-13 | 2022-05-26 |
 | [Bring Back the Word Poser](https://open.spotify.com/track/3YwnmJ9ZcUDGh2xio2Qv8e) | [Saint Lazare](https://open.spotify.com/artist/5QV6KQjpqCX4XIycAFPSNk), [Ay3la](https://open.spotify.com/artist/5n9bHkaRO8OGf8rcpYjjLd), [cxltgod](https://open.spotify.com/artist/2i62qLXvdikq0heaZFIBZ5) | [Bring Back the Word Poser](https://open.spotify.com/album/2MFlq8hP8ghteOOoXfJ4p5) | 2:17 | 2023-01-11 | 2023-02-16 |
 | [Broken Eyes](https://open.spotify.com/track/69SVFWDJ4VMToET92sbs0e) | [PLOSIVS](https://open.spotify.com/artist/7AQiEpHW4PwI1sfH1moFsV) | [Broken Eyes](https://open.spotify.com/album/2HT5u5GfMeGGd3weUVtcNz) | 4:28 | 2022-01-26 | 2022-03-10 |
@@ -438,6 +439,7 @@
 | [Don't Start a Band](https://open.spotify.com/track/3gRZ17g348OebZYPvTDmLd) | [Short Fictions](https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h) | [Don't Start a Band](https://open.spotify.com/album/09xsSN3uNVsxlHXENyHsRa) | 3:29 | 2022-01-19 | 2022-04-07 |
 | [Don't Start a Band](https://open.spotify.com/track/6nXDxePA9gtmp2d1JkqO3V) | [Short Fictions](https://open.spotify.com/artist/07VKGw5BhunkwMnvz71Z1h) | [Every Moment of Every Day](https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW) | 3:29 | 2022-11-30 | 2023-01-12 |
 | [Don't Tell Me What to Do](https://open.spotify.com/track/2DQg2eQRczmctbCCM5T1Xb) | [LABRYS](https://open.spotify.com/artist/1Ch6kGftOC8brjjXQwPCx9) | [Don't Tell Me What to Do](https://open.spotify.com/album/7jMZUUJB1tpjPwQjJogXMW) | 3:43 | 2023-09-13 | 2024-04-04 |
+| [Don't Try To Talk](https://open.spotify.com/track/3Kc48KnKB0EQKaplpW2qYV) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [\(un\)adored](https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd) | 3:06 | 2024-10-23 |  |
 | [Don't Wake Me Up!](https://open.spotify.com/track/0nz3nKXc2shgay2ZZU43f7) | [Mold!](https://open.spotify.com/artist/1NXNiRynWoAVhLBSs0YEIJ) | [Don't Wake Me Up!](https://open.spotify.com/album/61oLzbXlPtjqaQsDFwrvkY) | 3:19 | 2023-04-05 | 2023-05-24 |
 | [Don't Wanna Lose You](https://open.spotify.com/track/0Ra68DPxTgqvMxM0kTs37K) | [El Camino Acid](https://open.spotify.com/artist/2hoTclO4PIqW44Xh16aTPx) | [Don't Wanna Lose You](https://open.spotify.com/album/5kJXTQJbDuQ0l1866naOt9) | 4:05 | 2022-01-12 | 2022-02-24 |
 | [Don't Waste My Time](https://open.spotify.com/track/0Ad0Kizl47WkKmDk5N4453) | [Serpent](https://open.spotify.com/artist/1fxkH6c9ZWiOj8B3CxgLSt) | [Don't Waste My Time](https://open.spotify.com/album/7J2pOu6CbgnaLtZ3J2YFJM) | 3:13 | 2022-05-04 | 2022-06-30 |
@@ -759,7 +761,7 @@
 | [I Thought You'd Change](https://open.spotify.com/track/6Vhl3hCPVx4cvJtCpCKC2H) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [I Thought You'd Change](https://open.spotify.com/album/0CW3T1GY5UwR6ZwWlWzHeZ) | 2:51 | 2023-09-13 | 2023-09-20 |
 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 | 2023-08-02 | 2023-09-14 |
 | [I'd Run Away With You](https://open.spotify.com/track/4aTv9ti6Uy2noegcf2psM4) | [The High Curbs](https://open.spotify.com/artist/10vRxHWrGthzWjNMCNvUHy) | [I'd Run Away With You](https://open.spotify.com/album/4daeNIjcxMmGh4VLEztMfh) | 2:12 | 2022-09-21 | 2022-12-01 |
-| [I'd stay forever](https://open.spotify.com/track/1ENjSTAGfgBUyVZuSl4zIY) | [whither](https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j) | [I'd stay forever](https://open.spotify.com/album/1dZP6a7LWmZp5YQmw1teZW) | 4:31 | 2024-07-03 |  |
+| [I'd stay forever](https://open.spotify.com/track/1ENjSTAGfgBUyVZuSl4zIY) | [whither](https://open.spotify.com/artist/1j5n8v8YxdS8FrMjauRn8j) | [I'd stay forever](https://open.spotify.com/album/1dZP6a7LWmZp5YQmw1teZW) | 4:31 | 2024-07-03 | 2024-10-24 |
 | [I'll Be Okay](https://open.spotify.com/track/6E8IPptM3I5o1Ya9nIEGkq) | [Jmsey](https://open.spotify.com/artist/0P1f2YvmKlXYF7aZPKefuv), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [I'll Be Okay](https://open.spotify.com/album/0v3HeWMkmMgjy1bNU5tRs6) | 2:37 | 2022-08-03 | 2023-01-12 |
 | [I'll Ruin Everything That I See](https://open.spotify.com/track/6yRdcqBx8vVehQVDd9x1FX) | [Overgrow](https://open.spotify.com/artist/0JF3phIHeUwu0WwMBGvegA) | [I'll Ruin Everything That I See](https://open.spotify.com/album/3BKLWXob1jBkCIXtqUx1bk) | 3:42 | 2023-04-26 | 2023-06-29 |
 | [I'm Always Thinking About You](https://open.spotify.com/track/0I4PagWjjVNR2IAzMEJ0SU) | [Carpool Tunnel](https://open.spotify.com/artist/1Gzl5Z2qCVDIYnlR1q6EjM) | [I'm Always Thinking About You](https://open.spotify.com/album/1JW4bCJA99KFi2Cumv00dZ) | 3:01 | 2022-02-16 | 2022-05-05 |
@@ -1003,7 +1005,7 @@
 | [My Own Mind](https://open.spotify.com/track/3AfMsHgJQU9CxQf0Im4AcL) | [SUDS](https://open.spotify.com/artist/4u6gl0WUBFGfLaBABuqIA5) | [My Own Mind](https://open.spotify.com/album/0j60S1Q9VorL4xFUpYJQrt) | 4:27 | 2023-03-08 | 2023-05-11 |
 | [My Shadow](https://open.spotify.com/track/2qmFOMNW04BMvDvcBUxTT8) | [Quinton Brock](https://open.spotify.com/artist/1abW5Py6b6FSSpirm5Fkqq) | [My Shadow](https://open.spotify.com/album/4MjD5GUwJ74gqc0u9qRUvW) | 1:49 | 2022-07-20 | 2022-10-06 |
 | [Myself](https://open.spotify.com/track/4hUQObfhCPHAdUFYZ2WBCP) | [Oya Paya](https://open.spotify.com/artist/4HHt0NMWW2JEUosUiiPVNz) | [Connect](https://open.spotify.com/album/6zrZjolavNPwbbCXezvUKf) | 3:45 | 2021-12-01 | 2022-03-24 |
-| [Más O Menos](https://open.spotify.com/track/30Pb2401Tp3h15nWBF0no8) | [Fake Fruit](https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9) | [Más O Menos](https://open.spotify.com/album/0ytvclR7EuVGxx3ldFWpjE) | 2:00 | 2024-07-17 |  |
+| [Más O Menos](https://open.spotify.com/track/30Pb2401Tp3h15nWBF0no8) | [Fake Fruit](https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9) | [Más O Menos](https://open.spotify.com/album/0ytvclR7EuVGxx3ldFWpjE) | 2:00 | 2024-07-17 | 2024-10-24 |
 | [Name Dropper](https://open.spotify.com/track/3q6Iz04XxXGPZfUfGHvpMc) | [Stretched](https://open.spotify.com/artist/0b5v5Kh55YHdUIC2oBrYAj) | [Name Dropper](https://open.spotify.com/album/0m177lRvEd4fhWq7ljqD5j) | 3:34 | 2022-07-06 | 2022-08-11 |
 | [Narc](https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj) | [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1) | [Narc](https://open.spotify.com/album/6BsqNNzQzCB9pHwZJiOwc1) | 2:45 | 2022-09-14 | 2022-12-01 |
 | [Natalie's Song](https://open.spotify.com/track/7Ft2Fr1N9EuHTWfpjPnO7u) | [Font](https://open.spotify.com/artist/1JvNkFtciI17H6uQrKIGbs) | [Natalie's Song](https://open.spotify.com/album/70epuEtWQ9xKP4f2WmM1O6) | 4:46 | 2024-06-19 | 2024-07-18 |
@@ -1197,6 +1199,7 @@
 | [REDEMPTION ARC](https://open.spotify.com/track/69uGaFUvNf55i7DbRzpQSU) | [instant crush](https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu) | [REDEMPTION ARC](https://open.spotify.com/album/7uge8Yp8wNJ3CB6P4UYkyl) | 3:12 | 2023-10-18 | 2024-01-28 |
 | [REDEMPTION ARC](https://open.spotify.com/track/6JRqhGQtFgO9mJgisIUreE) | [instant crush](https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu) | [REDEMPTION ARC](https://open.spotify.com/album/2bWOtzB4HJXlXPbSc8R2xn) | 3:12 | 2024-01-24 | 2024-02-01 |
 | [Renter Not a Buyer](https://open.spotify.com/track/1fV5gBweokEACTyxExRvlT) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [Renter Not a Buyer](https://open.spotify.com/album/79M5sec1af89QsnG2P0HX2) | 2:53 | 2022-09-28 | 2022-12-01 |
+| [Replace It All](https://open.spotify.com/track/4JYfUVBWV21iLNNRqcXpvD) | [The Backfires](https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5) | [Replace It All](https://open.spotify.com/album/3Oe0BOBfIL4zQaCvpTkWvS) | 2:59 | 2024-10-23 |  |
 | [Restless](https://open.spotify.com/track/1QMH8fWSJiEnLQhNegTjxK) | [Late November](https://open.spotify.com/artist/5AgraKGOClXr2594sW7Am1) | [Restless](https://open.spotify.com/album/7Hxsh2UCcFuLIsBkKS6ty1) | 4:26 | 2023-07-12 | 2023-10-19 |
 | [Revenge Dress](https://open.spotify.com/track/7w3lHpePhApQkuTcFceZHb) | [Family Dinner](https://open.spotify.com/artist/7ztPkxDDDYp27ssoOB9sEj) | [Revenge Dress](https://open.spotify.com/album/4RlIYgXS8Jlr801Ry10QHR) | 2:46 | 2023-04-26 | 2023-06-15 |
 | [Rhythm](https://open.spotify.com/track/1IrFThsLj5TDaPAxILkSNC) | [roman around](https://open.spotify.com/artist/18pfB891JbZKKn0bCueMvY) | [Rhythm](https://open.spotify.com/album/5E28tN4cwIgmLR9hUBVrdz) | 4:03 | 2022-06-29 | 2022-09-01 |

@@ -4,7 +4,7 @@
 
 > someone who'll love me the way that I am 💭
 
-363 songs - 21 hr 4 min
+365 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Crux](https://open.spotify.com/track/4RjJYMYRPsJMVeLqjRNgWR) | [Wallker](https://open.spotify.com/artist/63D2ytMsspeVC2z9qrfQLI) | [Gray and Sour, Morning Hush](https://open.spotify.com/album/0baXYOoDgSLcra7tWPNMC1) | 2:48 | 2023-10-06 | 2023-12-16 |
 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 | 2024-01-26 | 2024-10-19 |
 | [Curl up & Die](https://open.spotify.com/track/0mDn9q0XZBVI3xICivkTY1) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Krystal](https://open.spotify.com/album/0DMKZZanrzK36YjFyI5nfF) | 3:22 | 2023-10-17 | 2024-03-13 |
+| [Daisy](https://open.spotify.com/track/0WoWLQX3MHAXaZogJspeZ4) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/7k4wACRSBft1L7IgbbjupL) | 3:37 | 2024-10-23 |  |
 | [Dark Sun](https://open.spotify.com/track/6Zn6u1wC7JcLZ4EsUTcNET) | [h\. pruz](https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN) | [Dark Sun](https://open.spotify.com/album/5LoqJrgLyJYbsk5IavjkkJ) | 4:38 | 2024-03-29 |  |
 | [Day Plan](https://open.spotify.com/track/0erC8baMqhTGIHIGjvrxXD) | [Izzy Heltai](https://open.spotify.com/artist/609L5isoR1bZrX1oB0y6dF) | [Day Plan](https://open.spotify.com/album/5pgIguDeta2y82ccJTWK3w) | 3:46 | 2023-10-06 | 2024-03-16 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-12-15 | 2024-03-16 |
@@ -337,6 +338,7 @@
 | [Triple Marathon](https://open.spotify.com/track/6gEl8SZNT90jyNCXVhZ3BO) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Triple Marathon](https://open.spotify.com/album/2PSzv4iDxvcbfTHL11obmh) | 2:37 | 2024-10-04 |  |
 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2023-12-15 | 2024-04-06 |
 | [Turned Into Missing You](https://open.spotify.com/track/74PUiV5qVX8Cbs1xeWNEND) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Turned Into Missing You](https://open.spotify.com/album/2US5Vh8gLLhmH4mTm9eadW) | 3:08 | 2024-04-05 | 2024-10-03 |
+| [u always saw the best in me](https://open.spotify.com/track/2ctpZao8P1Xh1Sq52uu4jF) | [Okay Alright](https://open.spotify.com/artist/6G9kPlmHYzGrFUYndWG6dh) | [soften my eyes after sleepless nights](https://open.spotify.com/album/3a1FVVJTSYrkxCp89OQyVr) | 3:16 | 2024-10-23 |  |
 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 | 2023-10-06 | 2024-01-27 |
 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 | 2023-10-06 | 2024-06-01 |
 | [Usually You](https://open.spotify.com/track/3TuL5Ue0RsfYMybACuGnsk) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Usually You](https://open.spotify.com/album/1FBCBnvKYwGnvQhCl9X3f3) | 4:27 | 2024-05-31 |  |

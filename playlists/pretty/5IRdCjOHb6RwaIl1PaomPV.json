@@ -1,12 +1,12 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Kito, DJ_Dave, Eera, evilgiane, and more. ",
-  "num_followers": 50834,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Major Lazer and Kito, plus the latest cuts from MRD, TDJ, and more.",
+  "num_followers": 50833,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAbOANFLVFWW0vQ9+w0WCeMkstvBCEA",
+  "snapshot_id": "AAAbaLdyey8LxtMiZooD1/CfyGqEsxN4",
   "tracks": [
     {
       "added_at": "2024-10-16 00:47:43",
@@ -57,6 +57,134 @@
       "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
     },
     {
+      "added_at": "2024-10-23 23:06:26",
+      "album": {
+        "name": "honest times",
+        "url": "https://open.spotify.com/album/6TAcekvYpMgiTPU435hFyB"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "honest times",
+      "url": "https://open.spotify.com/track/77rKEoPWAkXbSK4jgGnqW6"
+    },
+    {
+      "added_at": "2024-10-23 23:05:52",
+      "album": {
+        "name": "\u305f\u3060dance in the dark",
+        "url": "https://open.spotify.com/album/3sKo7hQIUI9ZOlbQ30O6Xj"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "\u305f\u3060dance in the dark",
+      "url": "https://open.spotify.com/track/5FFsV26WTs7NVKgMTX3P9c"
+    },
+    {
+      "added_at": "2024-09-20 16:23:49",
+      "album": {
+        "name": "April Mixtape 3",
+        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Under Your Spell",
+      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
+    },
+    {
+      "added_at": "2024-10-23 23:08:46",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Club classics featuring bb trickz",
+      "url": "https://open.spotify.com/track/4c252FOXsYUwrSRv8g9aei"
+    },
+    {
+      "added_at": "2024-10-23 23:15:06",
+      "album": {
+        "name": "6' Pole",
+        "url": "https://open.spotify.com/album/6hmFxhEYhUvgZXLY2itcj0"
+      },
+      "artists": [
+        {
+          "name": "Safe Mind",
+          "url": "https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts"
+        },
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        },
+        {
+          "name": "LUCY (Cooper B. Handy)",
+          "url": "https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK"
+        }
+      ],
+      "duration_ms": 235087,
+      "name": "6' Pole",
+      "url": "https://open.spotify.com/track/4olRAKphRJyntqrtlNW65v"
+    },
+    {
+      "added_at": "2024-10-23 23:14:55",
+      "album": {
+        "name": "MG Ultra",
+        "url": "https://open.spotify.com/album/3598AkUpAY95SA2t4JrotL"
+      },
+      "artists": [
+        {
+          "name": "Machine Girl",
+          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Ass2Mars",
+      "url": "https://open.spotify.com/track/5DRRlfDtuvHqWS0iOHA0KN"
+    },
+    {
+      "added_at": "2024-10-23 23:06:15",
+      "album": {
+        "name": "spirallore",
+        "url": "https://open.spotify.com/album/33VF07B5h8UDxvyMGTGRbF"
+      },
+      "artists": [
+        {
+          "name": "benzii",
+          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "riding it",
+      "url": "https://open.spotify.com/track/65ATbwWkyLQBNhhtT07Qoo"
+    },
+    {
       "added_at": "2024-08-28 16:47:58",
       "album": {
         "name": "INSTANT DEATH",
@@ -79,6 +207,110 @@
       "duration_ms": 155408,
       "name": "INSTANT DEATH",
       "url": "https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy"
+    },
+    {
+      "added_at": "2024-10-23 23:06:05",
+      "album": {
+        "name": "HALLOWEEN FREESTYLE",
+        "url": "https://open.spotify.com/album/4htYUjnyQYUKm4xYTnnwci"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Guapo",
+          "url": "https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6"
+        }
+      ],
+      "duration_ms": 111043,
+      "name": "HALLOWEEN FREESTYLE",
+      "url": "https://open.spotify.com/track/1Y2ohtaV7873XVPzpXgLRn"
+    },
+    {
+      "added_at": "2024-10-23 23:09:21",
+      "album": {
+        "name": "rollitup",
+        "url": "https://open.spotify.com/album/2XyYEnkg1VvxGQuMjby1ca"
+      },
+      "artists": [
+        {
+          "name": "lor2mg",
+          "url": "https://open.spotify.com/artist/5JmWLxL2ESIufByQzPQ9zh"
+        }
+      ],
+      "duration_ms": 116934,
+      "name": "rollitup",
+      "url": "https://open.spotify.com/track/6Qq8STSZ0UHeEuu3PWR6EQ"
+    },
+    {
+      "added_at": "2024-10-23 23:04:38",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3xeoRV6RqcqNncAYbouD1Y"
+      },
+      "artists": [
+        {
+          "name": "SOXX",
+          "url": "https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw"
+        },
+        {
+          "name": "00ab",
+          "url": "https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2sLUiG5BYqth0WL0zMl25y"
+    },
+    {
+      "added_at": "2024-10-23 23:06:52",
+      "album": {
+        "name": "tricked out",
+        "url": "https://open.spotify.com/album/0JY8OZIE0nH1zLja2DebUT"
+      },
+      "artists": [
+        {
+          "name": "damon r.",
+          "url": "https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "tricked out",
+      "url": "https://open.spotify.com/track/09YKWb5nzEEQ2BP3I8qYC3"
+    },
+    {
+      "added_at": "2024-10-23 23:10:05",
+      "album": {
+        "name": "into a g**",
+        "url": "https://open.spotify.com/album/1Qp4npdcYbEHsSnfGgGKpQ"
+      },
+      "artists": [
+        {
+          "name": "april27",
+          "url": "https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "into a g**",
+      "url": "https://open.spotify.com/track/3WEAKMPSsf6VvzNfTHQ7i3"
+    },
+    {
+      "added_at": "2024-10-23 23:10:30",
+      "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 179370,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
     },
     {
       "added_at": "2024-09-27 20:03:22",
@@ -135,22 +367,6 @@
       "duration_ms": 146865,
       "name": "So What If I'm A Freak",
       "url": "https://open.spotify.com/track/1QtnG5cri4ZeYQd20bDlCg"
-    },
-    {
-      "added_at": "2024-09-20 16:23:49",
-      "album": {
-        "name": "April Mixtape 3",
-        "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
     },
     {
       "added_at": "2024-09-27 20:02:26",
@@ -585,38 +801,6 @@
       "url": "https://open.spotify.com/track/7e4Jb6T2CVM8GoUBS1It1I"
     },
     {
-      "added_at": "2024-08-28 16:48:11",
-      "album": {
-        "name": "So Dramatic",
-        "url": "https://open.spotify.com/album/3AptlscWlH1LNL9P5qP7gp"
-      },
-      "artists": [
-        {
-          "name": "Miss Madeline",
-          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "WORLDWIDE",
-      "url": "https://open.spotify.com/track/7zFkGRqHaa2KzL4l4cLIL5"
-    },
-    {
-      "added_at": "2024-08-28 16:47:08",
-      "album": {
-        "name": "Favorita",
-        "url": "https://open.spotify.com/album/5jNdazuk1sLFM7kPMJ7geF"
-      },
-      "artists": [
-        {
-          "name": "GRIGGY",
-          "url": "https://open.spotify.com/artist/14taCFzU37WYRPttdu7plf"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Favorita",
-      "url": "https://open.spotify.com/track/0gwbpSOdruAYk3FETUBKif"
-    },
-    {
       "added_at": "2024-08-28 16:47:14",
       "album": {
         "name": "FAF",
@@ -811,22 +995,6 @@
       "duration_ms": 255955,
       "name": "beine sp\u00fcren - Paul Seul remix",
       "url": "https://open.spotify.com/track/6oVcJ76iH86cZ5tDx2OiPJ"
-    },
-    {
-      "added_at": "2024-08-28 16:47:11",
-      "album": {
-        "name": "See Through You",
-        "url": "https://open.spotify.com/album/3HI4Mh7Vgc3fFn4owYxx6E"
-      },
-      "artists": [
-        {
-          "name": "Samira",
-          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "See Through You",
-      "url": "https://open.spotify.com/track/67YgZAdBAl28xaqNTHapnz"
     },
     {
       "added_at": "2024-07-19 21:40:50",
@@ -1097,34 +1265,6 @@
       "url": "https://open.spotify.com/track/11HTs70wYaCgjRShOYJg6p"
     },
     {
-      "added_at": "2024-07-14 22:57:00",
-      "album": {
-        "name": "Melter (Remixes)",
-        "url": "https://open.spotify.com/album/2QkC1yQIFbDVusHxd0D2UK"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
-        },
-        {
-          "name": "IS U IS U",
-          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
-        },
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Angel Girl - Pretty Girl Remix",
-      "url": "https://open.spotify.com/track/40tV7DG6m3yb7hlDll5tFX"
-    },
-    {
       "added_at": "2024-07-26 19:58:14",
       "album": {
         "name": "We Want More",
@@ -1179,22 +1319,6 @@
       "duration_ms": 156064,
       "name": "I Need Your Violence",
       "url": "https://open.spotify.com/track/7hp6wioVHZ9lJIo4Pi42hz"
-    },
-    {
-      "added_at": "2024-06-22 00:40:32",
-      "album": {
-        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
-        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 142265,
-      "name": "Guess",
-      "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
     },
     {
       "added_at": "2024-06-22 00:40:42",
@@ -1285,50 +1409,6 @@
       "url": "https://open.spotify.com/track/2h7vLf7jv2KsRb7fV77w5H"
     },
     {
-      "added_at": "2024-05-10 21:06:39",
-      "album": {
-        "name": "Melter",
-        "url": "https://open.spotify.com/album/0HueEubCVTggbxE0j6nXnN"
-      },
-      "artists": [
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        },
-        {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
-        },
-        {
-          "name": "IS U IS U",
-          "url": "https://open.spotify.com/artist/6zH8urr3XDDM0rZpLRtxRX"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Melter",
-      "url": "https://open.spotify.com/track/5MSm2ISgTkk47tFLnE8vlW"
-    },
-    {
-      "added_at": "2024-06-07 19:22:04",
-      "album": {
-        "name": "skin deep",
-        "url": "https://open.spotify.com/album/7xXBKyU4i2C1iX4AvzQqcK"
-      },
-      "artists": [
-        {
-          "name": "benzii",
-          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
-        },
-        {
-          "name": "Lucy Dye",
-          "url": "https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj"
-        }
-      ],
-      "duration_ms": 223398,
-      "name": "skin deep",
-      "url": "https://open.spotify.com/track/5n07l5ayyNrX5wKYy4gr14"
-    },
-    {
       "added_at": "2024-06-22 00:41:09",
       "album": {
         "name": "We Are Making Out",
@@ -1347,22 +1427,6 @@
       "duration_ms": 170975,
       "name": "We Are Making Out",
       "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"
-    },
-    {
-      "added_at": "2024-06-22 00:40:58",
-      "album": {
-        "name": "WTP",
-        "url": "https://open.spotify.com/album/1027yPGO8D7GPGz0fmICux"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 173712,
-      "name": "WTP",
-      "url": "https://open.spotify.com/track/2QFFM9WXVKhangOz59nEn0"
     },
     {
       "added_at": "2024-06-22 00:41:01",
@@ -1461,26 +1525,6 @@
       "url": "https://open.spotify.com/track/2MfS8a3TlACB9tLSv5Bbcw"
     },
     {
-      "added_at": "2024-06-07 19:22:23",
-      "album": {
-        "name": "Flames",
-        "url": "https://open.spotify.com/album/4bQJJIaczwyYz37yq6JeLm"
-      },
-      "artists": [
-        {
-          "name": "Geo22",
-          "url": "https://open.spotify.com/artist/1BF2tnFiO15m9Y1s0ph0gr"
-        },
-        {
-          "name": "Elphi",
-          "url": "https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY"
-        }
-      ],
-      "duration_ms": 170609,
-      "name": "Flames",
-      "url": "https://open.spotify.com/track/5o4vu5oH3VyseGyfMI00PU"
-    },
-    {
       "added_at": "2024-06-07 19:23:14",
       "album": {
         "name": "Better Off Alone",
@@ -1495,22 +1539,6 @@
       "duration_ms": 197359,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/3CctKDDCTPmAHUmpRfVBg7"
-    },
-    {
-      "added_at": "2024-06-22 00:40:50",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 203618,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
     },
     {
       "added_at": "2024-06-07 19:25:21",
@@ -1635,42 +1663,6 @@
       "duration_ms": 220148,
       "name": "Starburned and Unkissed",
       "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
-    },
-    {
-      "added_at": "2024-05-24 17:54:40",
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 225132,
-      "name": "U My Everything (feat. Drake)",
-      "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
-    },
-    {
-      "added_at": "2024-05-10 21:14:09",
-      "album": {
-        "name": "liverounds",
-        "url": "https://open.spotify.com/album/4XVm6hHwM1fjUZywejQ3Wz"
-      },
-      "artists": [
-        {
-          "name": "damon r.",
-          "url": "https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD"
-        }
-      ],
-      "duration_ms": 122571,
-      "name": "liverounds",
-      "url": "https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso"
     },
     {
       "added_at": "2024-05-10 21:20:06",

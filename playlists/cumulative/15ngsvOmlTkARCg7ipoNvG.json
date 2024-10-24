@@ -14053,6 +14053,24 @@
     },
     {
       "album": {
+        "name": "Hope And Love",
+        "url": "https://open.spotify.com/album/6HL9vMR76QDapjg6W9lZDm"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60420,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/0Sbs7D0nJ8ooHZNHywdy7X"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/3p3HAfox0gdHD2ytaSQ4mx"
       },
@@ -16696,6 +16714,24 @@
       "duration_ms": 62812,
       "name": "Lounge Reflections - Cello Version",
       "url": "https://open.spotify.com/track/26FEUIb5gn1fRloedHLxi0"
+    },
+    {
+      "album": {
+        "name": "Hope And Love",
+        "url": "https://open.spotify.com/album/6HL9vMR76QDapjg6W9lZDm"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60275,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/26fwYCC53DUgqrBKVbMybr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 가장 소중한 내 편 \- 가족들을 생각하며 곡을 감상해보세요\. \(커버: 다이나믹 듀오\) My Most Precious Side \- Listen to the song while thinking of your family\. \(Cover: Dynamic Duo\)
 
-327 songs - 19 hr 4 min
+328 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [If We Ever Meet Again](https://open.spotify.com/track/0lr8HEEQBvIpDE9xGchTgW) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 4:34 | 2022-06-02 | 2022-07-29 |
 | [If We Ever Meet Again](https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 4:34 | 2022-07-26 | 2023-03-29 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-07-26 | 2023-08-17 |
+| [in the distant future \(feat\. 김수연\)](https://open.spotify.com/track/58QzsbkjVv7wLTGObf93X4) | [이채영](https://open.spotify.com/artist/4KkY5U8jueUnYwQYMpW17C), [김수연](https://open.spotify.com/artist/6CyQWURcslZ0dbnTb4x6Fx) | [in the distant future](https://open.spotify.com/album/2Ll8eOUs9BGFmiGJA1g2ct) | 3:15 | 2024-10-23 |  |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-05-11 | 2022-10-13 |
 | [It's Love \(feat\. Lee Ye Rin\)](https://open.spotify.com/track/4OVDKqEHyHGooHPNJP0cQK) | [Hwang Ye Jee](https://open.spotify.com/artist/22S9SFC35wFbeDA4pA6p9M), [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [It's Love](https://open.spotify.com/album/6hGS0SMpGDMqTKA5hlN2CK) | 3:25 | 2024-08-29 |  |
 | [Kazabue \(On Days When The Wind Stays\)](https://open.spotify.com/track/2AqRX7P5F0A7GD0Nch5LQv) | [Sumi Jo](https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6) | [Mother](https://open.spotify.com/album/5QpmDFAI5GBfoKwcVgyW5B) | 4:40 | 2024-08-29 |  |

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Different Kind Of Truth",
+        "url": "https://open.spotify.com/album/5ydOKnIrXsv7AziaSpRzZU"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150666,
+      "name": "Bullethead",
+      "url": "https://open.spotify.com/track/4A5W1YfKFIZjJrJ5HPey2r"
+    },
+    {
+      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-244 songs - 14 hr 17 min
+245 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Mutate](https://open.spotify.com/track/6Ctku3pq2qiqi74FLyge9A) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Radiate](https://open.spotify.com/album/5GG9RkQ5zxoRT5m7DCqlst) | 4:47 | 2024-03-07 |  |
 | [Muted Beatings](https://open.spotify.com/track/2iLkTMUJ2MCsry5yYiafCg) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Francis Trouble](https://open.spotify.com/album/3SwIjv6JSHkY14XUbOAtkp) | 3:16 | 2024-03-07 |  |
 | [My Mind \(Interlude\)](https://open.spotify.com/track/1QSIe9IQAv6wbZ1JdG2fyq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:34 | 2024-03-07 |  |
-| [Need You](https://open.spotify.com/track/2ZarrOFUf9kn3MGaCLSQLI) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Nïka](https://open.spotify.com/artist/2iTUTU9bGSIA0rXClTZ4Ru) | [Need You](https://open.spotify.com/album/6Lquzm7GQd5ChuoSsiKyCs) | 3:20 | 2024-03-07 |  |
+| [Need You](https://open.spotify.com/track/0MmY6ZSNgOHwIp6GGLAgLU) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [NÏKA](https://open.spotify.com/artist/5H9Gv8Ld3MwtWDm832KCAo) | [Need You](https://open.spotify.com/album/3M8NusuFf4YHJ0wiapG3w1) | 3:20 | 2024-10-23 |  |
+| [Need You](https://open.spotify.com/track/2ZarrOFUf9kn3MGaCLSQLI) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Nïka](https://open.spotify.com/artist/2iTUTU9bGSIA0rXClTZ4Ru) | [Need You](https://open.spotify.com/album/6Lquzm7GQd5ChuoSsiKyCs) | 3:20 | 2024-03-07 | 2024-10-24 |
 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 | 2024-03-07 |  |
 | [Nightmare](https://open.spotify.com/track/79JXZAooztEbWrUGU0FELt) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/2msBvZC5EUxnYRpQ5UfE8i) | 3:35 | 2024-03-07 |  |
 | [Nobody Told Me](https://open.spotify.com/track/6kxgE6qfqrXsKWMWSbUxaB) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:23 | 2024-03-07 |  |

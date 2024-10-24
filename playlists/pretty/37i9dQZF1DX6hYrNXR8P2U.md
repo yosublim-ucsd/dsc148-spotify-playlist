@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas\.  <br/>📷 ODD MAMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,805 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,859 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 13 | [MUJERÓN](https://open.spotify.com/track/6CuJ3x3YAmCgnZ1WgOJJzP) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [MUJERÓN](https://open.spotify.com/album/04VxIltPcGNbJBEWocFoQS) | 2:54 |
 | 14 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 |
 | 15 | [LOCO X VOS](https://open.spotify.com/track/3sIPHPehrnwzGEvOJr44Jr) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [LOCO X VOS](https://open.spotify.com/album/0JZGUM2f7KIHUHxwa0u1Yx) | 1:40 |
-| 16 | [General Paz](https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [General Paz](https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR) | 2:49 |
+| 16 | [General Paz](https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [general paz](https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR) | 2:49 |
 | 17 | [Piel](https://open.spotify.com/track/4vrN0RUZKFUGRynUoqbv4u) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C) | [Piel](https://open.spotify.com/album/14oOpHIVZQLSWZocLT4Cj2) | 3:29 |
 | 18 | [NIGHT](https://open.spotify.com/track/3WYDHx5ZdIQ5CbptHDlASI) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:44 |
 | 19 | [Viaje de Ida](https://open.spotify.com/track/6NxIfPSFv9ZFTaptcnGEUU) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Viaje de Ida](https://open.spotify.com/album/5DdMn4yexdusfpW05ddQnR) | 3:11 |

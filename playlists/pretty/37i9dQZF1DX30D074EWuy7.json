@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 30733,
+  "num_followers": 30748,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Zwk24QAAAACLdqdgmT6Aqqe6/HbXR2tp",
   "tracks": [
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "Lavoro e tempo libero",
-        "url": "https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP"
-      },
-      "artists": [
-        {
-          "name": "Giuliano Sorgini",
-          "url": "https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX"
-        }
-      ],
-      "duration_ms": 294333,
-      "name": "Analisi scientifiche",
-      "url": "https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ"
-    },
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 263520,
       "name": "Libidine 8",
       "url": "https://open.spotify.com/track/3xiZ0cV7Q50inH4RDYHN4m"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Lavoro e tempo libero",
+        "url": "https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP"
+      },
+      "artists": [
+        {
+          "name": "Giuliano Sorgini",
+          "url": "https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX"
+        }
+      ],
+      "duration_ms": 294333,
+      "name": "Analisi scientifiche",
+      "url": "https://open.spotify.com/track/6vN0AqD9Zk4uolNlCRufxQ"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -679,18 +679,22 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Fidate Correnti",
-        "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
+        "name": "Musica Nuda - My Favorite Tunes",
+        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
       },
       "artists": [
         {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+          "name": "Petra Magoni",
+          "url": "https://open.spotify.com/artist/3VrYO8Q1lMGMRH2tgcfr4s"
+        },
+        {
+          "name": "Ferruccio Spinetti",
+          "url": "https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f"
         }
       ],
-      "duration_ms": 231920,
-      "name": "Vola lontano",
-      "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
+      "duration_ms": 190053,
+      "name": "Bach Aire",
+      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -711,22 +715,18 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Musica Nuda - My Favorite Tunes",
-        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
+        "name": "Fidate Correnti",
+        "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
       },
       "artists": [
         {
-          "name": "Petra Magoni",
-          "url": "https://open.spotify.com/artist/3VrYO8Q1lMGMRH2tgcfr4s"
-        },
-        {
-          "name": "Ferruccio Spinetti",
-          "url": "https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f"
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
         }
       ],
-      "duration_ms": 190053,
-      "name": "Bach Aire",
-      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
+      "duration_ms": 231920,
+      "name": "Vola lontano",
+      "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Drifting in a room full of mirrors",
-        "url": "https://open.spotify.com/album/0aytU9tekBhYjY8A4CM7ss"
-      },
-      "artists": [
-        {
-          "name": "Egidio Marchitelli",
-          "url": "https://open.spotify.com/artist/4m0AQenXHYGsM1nqy3vBc6"
-        }
-      ],
-      "duration_ms": 274887,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/3vGejZYg2jc9r16bIBvmyq"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Chiara Civello 7752",
         "url": "https://open.spotify.com/album/1YZkGzLfEIJDzLugOASTMa"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 322333,
       "name": "Resta",
       "url": "https://open.spotify.com/track/3eq4ncW2xC74TteeoSZ7Ec"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Drifting in a room full of mirrors",
+        "url": "https://open.spotify.com/album/0aytU9tekBhYjY8A4CM7ss"
+      },
+      "artists": [
+        {
+          "name": "Egidio Marchitelli",
+          "url": "https://open.spotify.com/artist/4m0AQenXHYGsM1nqy3vBc6"
+        }
+      ],
+      "duration_ms": 274887,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/3vGejZYg2jc9r16bIBvmyq"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
-      },
-      "artists": [
-        {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Kuni",
         "url": "https://open.spotify.com/album/11abDqHpb7lxOGlA8eSVaM"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 231426,
       "name": "How Do We Know We're Alive",
       "url": "https://open.spotify.com/track/1TWaQhJl64imsWiRRh8BlP"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "La Strada Invisibile",
-        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
-      },
-      "artists": [
-        {
-          "name": "Rita Marcotulli",
-          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
-        },
-        {
-          "name": "Luciano Biondini",
-          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
-        }
-      ],
-      "duration_ms": 288616,
-      "name": "Tuareg",
-      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Sounds Like Freedom",
         "url": "https://open.spotify.com/album/6mlrg0FuPmj4hY1f6zUDjc"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 299787,
       "name": "Habibi Baby",
       "url": "https://open.spotify.com/track/0pCfYzmqBqZN9uRoVfErBF"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "La Strada Invisibile",
+        "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
+      },
+      "artists": [
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+        },
+        {
+          "name": "Luciano Biondini",
+          "url": "https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0"
+        }
+      ],
+      "duration_ms": 288616,
+      "name": "Tuareg",
+      "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Cucoma Combo",
-        "url": "https://open.spotify.com/album/1XI0hx81wGuRxJIXGBJJub"
-      },
-      "artists": [
-        {
-          "name": "Cucoma Combo",
-          "url": "https://open.spotify.com/artist/3jPDOej0c2cX9ghGS2d9Oc"
-        }
-      ],
-      "duration_ms": 250625,
-      "name": "Aguacate",
-      "url": "https://open.spotify.com/track/7EX4fqPGqMSuT5NR9SqQvy"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Joyful",
         "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 241966,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Cucoma Combo",
+        "url": "https://open.spotify.com/album/1XI0hx81wGuRxJIXGBJJub"
+      },
+      "artists": [
+        {
+          "name": "Cucoma Combo",
+          "url": "https://open.spotify.com/artist/3jPDOej0c2cX9ghGS2d9Oc"
+        }
+      ],
+      "duration_ms": 250625,
+      "name": "Aguacate",
+      "url": "https://open.spotify.com/track/7EX4fqPGqMSuT5NR9SqQvy"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "For Those I Never Knew",
-        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
+        "name": "IRA",
+        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
       },
       "artists": [
         {
-          "name": "Luca Flores",
-          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
+          "name": "Iosonouncane",
+          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
         }
       ],
-      "duration_ms": 269139,
-      "name": "How Far Can You Fly? (Ladder) - Original Version",
-      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
+      "duration_ms": 662586,
+      "name": "hajar",
+      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "IRA",
-        "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
+        "name": "For Those I Never Knew",
+        "url": "https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2"
       },
       "artists": [
         {
-          "name": "Iosonouncane",
-          "url": "https://open.spotify.com/artist/1njdH9zjRnlM561mWqEocW"
+          "name": "Luca Flores",
+          "url": "https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O"
         }
       ],
-      "duration_ms": 662586,
-      "name": "hajar",
-      "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
+      "duration_ms": 269139,
+      "name": "How Far Can You Fly? (Ladder) - Original Version",
+      "url": "https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Something In Our Way",
-        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
-      },
-      "artists": [
-        {
-          "name": "Danilo Rea",
-          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "You Can't Always Get What You Want",
-      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Racconti mediterranei",
         "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 454173,
       "name": "Canzone di Nausicaa",
       "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Something In Our Way",
+        "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
+      },
+      "artists": [
+        {
+          "name": "Danilo Rea",
+          "url": "https://open.spotify.com/artist/0px78Y2V2QRl3f8hNtxdst"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "You Can't Always Get What You Want",
+      "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1959,18 +1959,22 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+        "name": "Nauplia",
+        "url": "https://open.spotify.com/album/0kOi2BR2cvfhtqBi7e7CqR"
       },
       "artists": [
         {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+          "name": "Maria Pia De Vito",
+          "url": "https://open.spotify.com/artist/2WdJBOMuv70FribaCLT5vE"
+        },
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
         }
       ],
-      "duration_ms": 289634,
-      "name": "Transe Napolitaine",
-      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
+      "duration_ms": 248240,
+      "name": "Come un ritratto",
+      "url": "https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts"
     }
   ],
   "unique_name": "Jazz Italia",

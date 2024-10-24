@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-343 songs - 1 day 6 hr 34 min
+345 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Beyond the Clouds](https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz) | [Nino Nardini](https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS), [Eddie Warner](https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2), [Roger Roger](https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt) | [Space Oddities: Studio Ganaro \(1972\-1982\)](https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU) | 2:03 | 2021-01-18 |  |
 | [Black Light](https://open.spotify.com/track/689LJW4wvfKGCzHYeCr58B) | [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB) | [The Short Night](https://open.spotify.com/album/4zwbQd6UCqNBXN4D30ceeQ) | 4:16 | 2020-10-20 | 2022-07-05 |
 | [Blush Response](https://open.spotify.com/track/0cSnUM2fNEx4pAkNfWpdkU) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 5:46 | 2020-07-07\* |  |
+| [Body, Electric](https://open.spotify.com/track/3pBroo2NiSl79qYpKWsKfC) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [In Free Fall](https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2) | 5:27 | 2024-10-23 |  |
 | [Brazil](https://open.spotify.com/track/1QMxUV937BtqTNwZCJMZK3) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Holkham Drones](https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi) | 4:53 | 2021-03-14 |  |
 | [Briefly](https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 27:02 | 2022-09-30 | 2024-04-19 |
 | [Briefly](https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 27:02 | 2022-09-30 | 2023-11-04 |
@@ -133,7 +134,7 @@
 | [Hum](https://open.spotify.com/track/1EoNcqSjklMV54lit84QJJ) | [Holographic Field](https://open.spotify.com/artist/3Cv5jiNHUHUvWwdmclhgOe) | [Hum](https://open.spotify.com/album/3gvlvki92U5vjWBWDXuPxm) | 7:44 | 2020-07-07\* | 2022-07-28 |
 | [Hum](https://open.spotify.com/track/3e9Shp1dRt0Hag2EcUhs1Y) | [Holographic Field](https://open.spotify.com/artist/3Cv5jiNHUHUvWwdmclhgOe) | [Illuminate](https://open.spotify.com/album/5BL3bjyKdXi8bS0MjNj0Hv) | 7:44 | 2021-10-20 | 2024-03-23 |
 | [Human By Mistake](https://open.spotify.com/track/5Fmz8L7vdYnIQlgGZSu7HF) | [Landhouse](https://open.spotify.com/artist/0b05DhI4gD2fNDlqbFBOyt) | [Human By Mistake](https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF) | 6:55 | 2023-03-03 |  |
-| [I'm Not Much, But I'm All I Have](https://open.spotify.com/track/2eX2M9ULuxWkDOZAioj683) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Even Temper](https://open.spotify.com/album/2SWQjbVkJg05fPrznE7Lxx) | 3:58 | 2020-10-20 |  |
+| [I'm Not Much, But I'm All I Have](https://open.spotify.com/track/2eX2M9ULuxWkDOZAioj683) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Even Temper](https://open.spotify.com/album/2SWQjbVkJg05fPrznE7Lxx) | 3:58 | 2020-10-20 | 2024-10-24 |
 | [Ichneumonidae](https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY) | [Dream Trees](https://open.spotify.com/artist/6YjDIchrKX5ndRLIdjfaFY) | [Any Coop Will Do](https://open.spotify.com/album/1z2WI1OrzLND1pUG5K40xF) | 3:17 | 2020-10-28 | 2022-09-05 |
 | [Illusion Of Time](https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 4:22 | 2021-10-20 | 2024-04-19 |
 | [Illusion Of Time](https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/0337WPtUhYFk11ykBc1j6Z) | 4:22 | 2020-07-07\* |  |
@@ -244,7 +245,7 @@
 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 | 2020-07-07\* |  |
 | [Polygon Window](https://open.spotify.com/track/0AiyJw9evPC73BD6gSj461) | [The Dice Man](https://open.spotify.com/artist/1wlHPHcCIdTdREQqZ2bOZz) | [Artificial Intelligence](https://open.spotify.com/album/0P9O7BGwJrEGFj6BvpIphD) | 5:12 | 2021-10-20 | 2023-09-07 |
 | [Polygon Window](https://open.spotify.com/track/74yFgfBjzPASPr3wv79aWe) | [The Dice Man](https://open.spotify.com/artist/67znT4w9oHh5dpk4WAHVCM) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 5:12 | 2021-01-16 | 2023-02-02 |
-| [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 | 2023-04-14 |  |
+| [Pomme Fritz \(Meat 'N Veg\)](https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Pomme Fritz](https://open.spotify.com/album/6dRtPQENkx83CiyWdAazE1) | 9:02 | 2023-04-14 | 2024-10-24 |
 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 | 2021-07-09 |  |
 | [Primo](https://open.spotify.com/track/23mrceVsUn1KdfYlvOXK4C) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/7xvYNj7sI92I93Yan0zcqO) | 2:52 | 2021-10-20 | 2024-03-28 |
 | [Primo](https://open.spotify.com/track/4qpnXdgud6uaRMOi6NzAb1) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe) | 2:52 | 2021-10-07 | 2022-07-24 |
@@ -335,6 +336,7 @@
 | [Veteranissimo \- Live](https://open.spotify.com/track/7DpYj9ZxQ9FTRhDdN18e2E) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Live 1974](https://open.spotify.com/album/0da3rMFZpesRp1OKFNnB7O) | 17:25 | 2020-10-20 | 2022-07-27 |
 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 | 2020-07-07\* |  |
 | [Visions II](https://open.spotify.com/track/4V60QHlHRyN6U00K3xI7z4) | [Yamila](https://open.spotify.com/artist/1C2cyevjTKPJ4WVvTlPzUF) | [Visions II](https://open.spotify.com/album/62bihi9m9gnVDjS5ekeMjv) | 4:40 | 2022-03-30 | 2022-07-29 |
+| [Voyager](https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [In Free Fall](https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2) | 4:04 | 2024-10-23 |  |
 | [Weather the Storm](https://open.spotify.com/track/7tukLYFGfh5osYc8uoqOmk) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Weather the Storm](https://open.spotify.com/album/671j83cAr05uMnsERPGycZ) | 4:36 | 2020-07-07\* | 2022-07-26 |
 | [Week 4](https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [Month One](https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE) | 5:10 | 2020-07-07\* | 2022-04-20 |
 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2021-01-15 | 2021-05-28 |

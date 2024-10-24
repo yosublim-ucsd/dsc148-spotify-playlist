@@ -461,6 +461,28 @@
     },
     {
       "album": {
+        "name": "Andaz E Karam",
+        "url": "https://open.spotify.com/album/0GKiJHE5yAM4UUoILWLWZm"
+      },
+      "artists": [
+        {
+          "name": "Farasat Anees",
+          "url": "https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm"
+        },
+        {
+          "name": "HAVI",
+          "url": "https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Andaz E Karam",
+      "url": "https://open.spotify.com/track/5z8KuGkXVelJFPxtpzyXJf"
+    },
+    {
+      "album": {
         "name": "Aziyat",
         "url": "https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB"
       },
@@ -2164,7 +2186,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 182400,
       "name": "Hadd Paar",
       "url": "https://open.spotify.com/track/6DZfkiuodQxJqWnoQaZwOu"
@@ -2954,7 +2976,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 219130,
       "name": "Kadi Kadi",
       "url": "https://open.spotify.com/track/5HFi6CMs1EcT0dQjblaSWl"
@@ -3362,7 +3384,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 155789,
       "name": "Khushnaseebi",
       "url": "https://open.spotify.com/track/6pnSZHW0QYr6OYd3oXLXL5"
@@ -3570,6 +3592,32 @@
       "duration_ms": 227000,
       "name": "Laut Aao Na",
       "url": "https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu"
+    },
+    {
+      "album": {
+        "name": "Laykin",
+        "url": "https://open.spotify.com/album/2a70nhNX5YCkX7qjnOn2fJ"
+      },
+      "artists": [
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        },
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Laykin",
+      "url": "https://open.spotify.com/track/7ACdEdtwLSywi1nkN5Xlsk"
     },
     {
       "album": {
@@ -4245,6 +4293,24 @@
     },
     {
       "album": {
+        "name": "okay",
+        "url": "https://open.spotify.com/album/1PeKkVVxub4imuCxrJ6oYZ"
+      },
+      "artists": [
+        {
+          "name": "Hatim",
+          "url": "https://open.spotify.com/artist/12LDre0wZLJUqjlk92lli8"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161805,
+      "name": "okay",
+      "url": "https://open.spotify.com/track/0CxdSFS5LRSmKs5fjo9TJ1"
+    },
+    {
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/47Sdi35I8VIvGb1pCldY87"
       },
@@ -4424,7 +4490,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 163300,
       "name": "Pretty Lies",
       "url": "https://open.spotify.com/track/0pvlhF2kQRKGxKqsiUMJwI"
@@ -5004,6 +5070,24 @@
       "duration_ms": 157048,
       "name": "Sajna",
       "url": "https://open.spotify.com/track/2YJORD2YXFoIDhiqD3bLKg"
+    },
+    {
+      "album": {
+        "name": "Sajna da Dil Torya",
+        "url": "https://open.spotify.com/album/25WaVHgt0uihWqg4EVgR5p"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253150,
+      "name": "Sajna da Dil Torya",
+      "url": "https://open.spotify.com/track/05Xd5LJpv6cKDUavCg2EWh"
     },
     {
       "album": {
@@ -5880,7 +5964,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 173714,
       "name": "Tu",
       "url": "https://open.spotify.com/track/2kleSbAWlMuc9NKtgLYibe"
@@ -6062,7 +6146,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 134139,
       "name": "Uljhan",
       "url": "https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY"
@@ -6512,6 +6596,32 @@
       "duration_ms": 162857,
       "name": "Zamanay",
       "url": "https://open.spotify.com/track/6o1DfORVD5ACPgDFqCDl6R"
+    },
+    {
+      "album": {
+        "name": "Zaroori Hai",
+        "url": "https://open.spotify.com/album/4QaDYp8zCslfKI0ljs3oND"
+      },
+      "artists": [
+        {
+          "name": "Turhan James",
+          "url": "https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP"
+        },
+        {
+          "name": "Ashal Haider Khan",
+          "url": "https://open.spotify.com/artist/2COEn08mrNoQLfsRzjN9MR"
+        },
+        {
+          "name": "Mohsin Raza Shah",
+          "url": "https://open.spotify.com/artist/21iESpk5OYSSJiuH3e7Z2Z"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258665,
+      "name": "Zaroori Hai",
+      "url": "https://open.spotify.com/track/5jFwxhVtOnEU4U6aUM1JnR"
     },
     {
       "album": {

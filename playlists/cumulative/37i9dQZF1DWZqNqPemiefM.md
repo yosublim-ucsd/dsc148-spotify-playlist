@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-662 songs - 2 day 3 hr 40 min
+663 songs - 2 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [a guide](https://open.spotify.com/track/6wS9O7pM9gtigUXLHzk242) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [after after hours](https://open.spotify.com/album/6srXbTqiImAu5zPZqbMcy6) | 2:43 | 2022-03-31 | 2022-07-13 |
 | [A Mother's Touch \- From ”A Mother's Touch" Soundtrack](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(From ”A Mother's Touch" Soundtrack\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-27 | 2023-03-21 |
 | [A1 \- It's just a burning memory](https://open.spotify.com/track/0uEec9a0RsYeQiaeyJapjY) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 3:32 | 2024-02-08 |  |
-| [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 | 2024-02-15 |  |
+| [Affirmation](https://open.spotify.com/track/1ArsRqMeP7GTFZLR7HEax8) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [See\-Voice](https://open.spotify.com/album/0a75zOogyDGl7bwfmSdyHn) | 2:05 | 2024-02-15 | 2024-10-24 |
 | [After Dark](https://open.spotify.com/track/3cSsJEy5tiGkJRpMRfPUO8) | [石井悠輝](https://open.spotify.com/artist/3WrQKuYGn08URJ35spu8vJ) | [REFLECTION](https://open.spotify.com/album/6pOjcCujDiE0DvR9aIk3LK) | 1:45 | 2022-03-31 | 2022-05-11 |
 | [AFTER IMAGE](https://open.spotify.com/track/1Jxb8fKZJrobr8T2NCBNlY) | [Masayuki Sakamoto](https://open.spotify.com/artist/3KkI7GpwZIcwRAXOEzP9Pr) | [プシュケ](https://open.spotify.com/album/0olvnM41x2P7CJJ4cvwyFQ) | 3:28 | 2022-04-07 | 2022-06-24 |
 | [Afterglow](https://open.spotify.com/track/7CZqWibNsryIJ3xa4dotBc) | [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Mirrors in Mirrors](https://open.spotify.com/album/3l3KPWoLYTeX9jYWTFDx4C) | 4:05 | 2022-04-07 | 2022-07-26 |
@@ -281,6 +281,7 @@
 | [JJ](https://open.spotify.com/track/5mDMtKrEbFyVwdLMqLS7jO) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [JJ](https://open.spotify.com/album/4FIFNBWXW67UsD1PNX0XrE) | 3:34 | 2023-10-26 | 2023-11-24 |
 | [Join](https://open.spotify.com/track/7IHwTKTAkwKzbuuG86GtJX) | [Naoto Taguchi](https://open.spotify.com/artist/6rne8EbVlLCKdVOg0zwJUq) | [Nostalgia](https://open.spotify.com/album/2M5ORHcAPHnk1u925k3E4B) | 4:31 | 2022-03-31 | 2022-07-21 |
 | [Journey In Satchidananda](https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Journey in Satchidananda](https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz) | 6:36 | 2024-02-08 | 2024-07-13 |
+| [June Love](https://open.spotify.com/track/4HSkOnfpJuaB2bqe9p3n4L) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [June Love](https://open.spotify.com/album/6oRyG7AD7eUaZijBTBYkRO) | 2:45 | 2024-10-15 |  |
 | [Juvenile](https://open.spotify.com/track/0WK1AZvK7qyR01ZwUuGTeH) | [guppykenkyusei](https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz) | [Yofukashi](https://open.spotify.com/album/07mRCgq17kYFwfKa9AllHf) | 4:04 | 2022-03-31 | 2022-07-12 |
 | [karen](https://open.spotify.com/track/2ITops8wfJv8pfWBftXdFp) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [karen](https://open.spotify.com/album/7HXUQ0wldUM1kHP6YIzlKu) | 2:17 | 2023-07-13 | 2023-10-20 |
 | [KI\-KI\-KI](https://open.spotify.com/track/7C7nnQSwudlE7K7zKVks0b) | [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n) | [MSCTY X V&A Dundee](https://open.spotify.com/album/75SHGWcZLS9bpcCB3kgIEe) | 13:39 | 2024-02-08 | 2024-08-25 |

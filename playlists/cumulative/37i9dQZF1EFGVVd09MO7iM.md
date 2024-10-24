@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-861 songs - 2 day 7 hr 13 min
+862 songs - 2 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,7 +658,8 @@
 | [Say Somethin](https://open.spotify.com/track/4lRUV2Ts5Y9jke1HKlEHGA) | [Tory Knight](https://open.spotify.com/artist/49AcSd7mgrmbj3Lq1PysTW) | [Make It Pop, Vol\. 9](https://open.spotify.com/album/2FnS72aRaqQCkKfnIVUk1g) | 2:48 | 2024-06-20 | 2024-06-22 |
 | [Say Somethin'](https://open.spotify.com/track/7HqYOEh2TWUVZD3yXMe0R0) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [Say Somethin'](https://open.spotify.com/album/31XVpM1QHNASuVWVBwGMRR) | 2:47 | 2024-01-29 |  |
 | [Say Somethin'](https://open.spotify.com/track/4p0VPhnhFVvoVF1yWcWGNk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:44 | 2024-01-29 |  |
-| [Scared Money](https://open.spotify.com/track/6QU6XgwVcvAuSbD65VQmO7) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p) | [Still Ya Pusha](https://open.spotify.com/album/1BXlBg7Rc1qKMG06IJY9A4) | 3:24 | 2024-06-20 |  |
+| [Scared Money](https://open.spotify.com/track/46HtVZzU67A0PbA7tPwUFn) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Wanderland](https://open.spotify.com/album/0oVfSWG46NWpFt1mpm1TWF) | 4:00 | 2024-10-23 |  |
+| [Scared Money](https://open.spotify.com/track/6QU6XgwVcvAuSbD65VQmO7) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p) | [Still Ya Pusha](https://open.spotify.com/album/1BXlBg7Rc1qKMG06IJY9A4) | 3:24 | 2024-06-20 | 2024-10-24 |
 | [Scrape It Off \(feat\. Lil Uzi Vert & Don Toliver\)](https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:32 | 2024-09-28 |  |
 | [Scream](https://open.spotify.com/track/2REhZHblqiamM67F3Bzu4t) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Scream](https://open.spotify.com/album/1LzQ8k1PDyXvy5pjCcfaZT) | 3:17 | 2024-01-29 |  |
 | [Second Chance](https://open.spotify.com/track/7gWdW6Z3RP98HcBTAQqT9A) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 2:27 | 2024-01-29 |  |

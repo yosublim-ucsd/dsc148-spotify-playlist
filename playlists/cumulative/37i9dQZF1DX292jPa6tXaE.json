@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Yuvi",
+  "description": "Discover the future of Punjabi Pop! Cover: Khushbaaz",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 155000,
       "name": "About you",
       "url": "https://open.spotify.com/track/3G6F2P2IV5Yw6OA2Ze1e75"
@@ -681,6 +681,28 @@
     },
     {
       "album": {
+        "name": "Dil Lutdi",
+        "url": "https://open.spotify.com/album/76a7bRdoimFC99puLTlHXf"
+      },
+      "artists": [
+        {
+          "name": "Hrmn Pannu",
+          "url": "https://open.spotify.com/artist/4A9xEVbvrPZQcZ1M4ypsgk"
+        },
+        {
+          "name": "Aloof",
+          "url": "https://open.spotify.com/artist/7GuZcMfBZ1gx0UjGLoEGDV"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Dil Lutdi",
+      "url": "https://open.spotify.com/track/4nO63a8pcpSr4vKUerS5Ul"
+    },
+    {
+      "album": {
         "name": "Diwana Tera",
         "url": "https://open.spotify.com/album/0syHU62MrNvxtb1rF4aRaD"
       },
@@ -696,7 +718,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 213203,
       "name": "Diwana Tera",
       "url": "https://open.spotify.com/track/6J5NFk9xM7J5DwRPfkFTmX"
@@ -718,6 +740,50 @@
       "duration_ms": 151578,
       "name": "Don't Care Zafar Brar",
       "url": "https://open.spotify.com/track/4MHgUhqvflHic2d2RVsdos"
+    },
+    {
+      "album": {
+        "name": "Don't Tease",
+        "url": "https://open.spotify.com/album/1VtNd7JTTQJs77sxMTzO9U"
+      },
+      "artists": [
+        {
+          "name": "Ammy Jassar",
+          "url": "https://open.spotify.com/artist/29QKOnYxT3nhvYN4Q5F7l3"
+        },
+        {
+          "name": "Vince Xo",
+          "url": "https://open.spotify.com/artist/0N7VgjEvcfBWH3X6uqqnGq"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "Don't Tease",
+      "url": "https://open.spotify.com/track/5DVYsFMppPw5P4zUNTrgES"
+    },
+    {
+      "album": {
+        "name": "Doremon",
+        "url": "https://open.spotify.com/album/4wsZr3N7RaldBOvoL5b9SC"
+      },
+      "artists": [
+        {
+          "name": "Honeyjeet Singh",
+          "url": "https://open.spotify.com/artist/6Q7V7hUyKWeIzBz8X90PhZ"
+        },
+        {
+          "name": "Khushi Baliyan",
+          "url": "https://open.spotify.com/artist/0JY6lYMH2TWsx3ODKc2uwo"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142962,
+      "name": "Doremon",
+      "url": "https://open.spotify.com/track/4mf1dUYVQcZ6WP9DsyzP0s"
     },
     {
       "album": {
@@ -1064,7 +1130,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 159999,
       "name": "Hopeless",
       "url": "https://open.spotify.com/track/4yCYeHPFF0dmQNEUqKX1Gn"
@@ -1228,7 +1294,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 198000,
       "name": "KAAFIRA",
       "url": "https://open.spotify.com/track/5SkW8s2DHoymYDgtiKul64"
@@ -1322,7 +1388,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 190475,
       "name": "Kurte Pajame",
       "url": "https://open.spotify.com/track/2165X2nvb7NcHA7zPupEjt"
@@ -1663,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "Mohobbat Chor Di",
+        "url": "https://open.spotify.com/album/65V6tWyRAWvSilKS1CgACF"
+      },
+      "artists": [
+        {
+          "name": "Sur Sagar",
+          "url": "https://open.spotify.com/artist/3iLXVAyjdYYMi1mlHSaVae"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275659,
+      "name": "Mohobbat Chor Di",
+      "url": "https://open.spotify.com/track/2NdHcpOFnjKZTcEuKYTrSf"
+    },
+    {
+      "album": {
         "name": "Morni (feat. Anayat)",
         "url": "https://open.spotify.com/album/0mRiv2AaZSOXTGlIKhNF9P"
       },
@@ -1846,6 +1930,28 @@
       "duration_ms": 132244,
       "name": "Pasand",
       "url": "https://open.spotify.com/track/3s607yqwmhwVTSEEu8kU1S"
+    },
+    {
+      "album": {
+        "name": "Peori Hood",
+        "url": "https://open.spotify.com/album/3oCfUY5zRq3lmQce7DrhXU"
+      },
+      "artists": [
+        {
+          "name": "Kittt",
+          "url": "https://open.spotify.com/artist/3FgwgMNQhhucbD7yR7I1zC"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Peori Hood",
+      "url": "https://open.spotify.com/track/3wPv7EuCG2hD1WgB28SwXX"
     },
     {
       "album": {
@@ -2308,7 +2414,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 165714,
       "name": "Town",
       "url": "https://open.spotify.com/track/1OrOIX7DXmrrOpBDbSLOVl"
@@ -2510,6 +2616,28 @@
       "duration_ms": 137806,
       "name": "Yaar Tera Ni",
       "url": "https://open.spotify.com/track/1vgF047kQq1a7i9nlpfTBl"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH"
+      },
+      "artists": [
+        {
+          "name": "PRIYA",
+          "url": "https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX"
+        },
+        {
+          "name": "Lucas",
+          "url": "https://open.spotify.com/artist/7y1Z5RFuhmn0L1in87Hayd"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139736,
+      "name": "Yaari",
+      "url": "https://open.spotify.com/track/5qMOxQs2vj9b5Vdh4pj8bi"
     },
     {
       "album": {

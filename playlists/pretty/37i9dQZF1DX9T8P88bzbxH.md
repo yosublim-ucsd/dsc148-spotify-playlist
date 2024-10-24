@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Experience the Best of Fujii Kaze\. Cover: Fujii Kaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,098 likes - 18 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,115 likes - 18 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

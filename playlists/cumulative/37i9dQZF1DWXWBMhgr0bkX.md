@@ -127,7 +127,7 @@
 | [Wingman](https://open.spotify.com/track/553ChZNK0odFJhu4aYNh63) | [Cole LC](https://open.spotify.com/artist/76YlwsQeCJEczcje0Ifg5p) | [Wingman](https://open.spotify.com/album/4Woi2Ikh8raJvjMGPNrdZG) | 3:07 | 2024-06-04 | 2024-09-13 |
 | [Wonder](https://open.spotify.com/track/1aWaSDGHjvcV3OQcupT7mq) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Wonder](https://open.spotify.com/album/4hK3BiVM1UsQGNvVle14bP) | 3:23 | 2024-08-30 | 2024-10-11 |
 | [You Don't Know How to Drive](https://open.spotify.com/track/10eGximnbByN1OCjAS4IoZ) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [You Don't Know How to Drive](https://open.spotify.com/album/5Ul7nxr0KsPt4vde0Ue5zY) | 3:15 | 2024-08-08 | 2024-10-18 |
-| [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 | 2024-10-04 |  |
+| [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/1M8QOfzsZofinnJNrgnYhh) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 | 2024-10-04 |  |
 | [You Got The Thing](https://open.spotify.com/track/5grSq7F9QB6u2rtXgUbvuT) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [You Got The Thing](https://open.spotify.com/album/76pzyDWIjY8NoQpUH3EeSP) | 2:33 | 2024-10-17 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

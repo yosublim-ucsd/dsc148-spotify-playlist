@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Consolata",
+        "url": "https://open.spotify.com/album/5VL0da8nssniJPw6Ljdcny"
+      },
+      "artists": [
+        {
+          "name": "Astrid Everdahl",
+          "url": "https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158242,
+      "name": "Consolata",
+      "url": "https://open.spotify.com/track/7egT9FX8MKlnTzFfxJ0SWg"
+    },
+    {
+      "album": {
         "name": "Count On Me",
         "url": "https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6"
       },
@@ -2115,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Klara",
+        "url": "https://open.spotify.com/album/7Jaavx1mHVXPYpv1SzE7SY"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146437,
+      "name": "Klara",
+      "url": "https://open.spotify.com/track/3THVKiicWvkkWf29cY0Dh5"
+    },
+    {
+      "album": {
         "name": "La Storia D'amor",
         "url": "https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q"
       },
@@ -3232,6 +3268,24 @@
       "duration_ms": 135530,
       "name": "Raconteur",
       "url": "https://open.spotify.com/track/7qzfZetxTQEZlFi3QB7zHx"
+    },
+    {
+      "album": {
+        "name": "Remembrances",
+        "url": "https://open.spotify.com/album/1qeu1P1tTnPlb7wMdEA2Ea"
+      },
+      "artists": [
+        {
+          "name": "Auguste Braun",
+          "url": "https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143416,
+      "name": "Remembrances",
+      "url": "https://open.spotify.com/track/2Thhi4klSQgjxMoY81vttZ"
     },
     {
       "album": {

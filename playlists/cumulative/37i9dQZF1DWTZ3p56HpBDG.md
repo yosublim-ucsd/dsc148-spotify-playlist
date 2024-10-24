@@ -4,7 +4,7 @@
 
 > Best of South Asian diaspora\. Cover: Raf Saperra
 
-237 songs - 12 hr 25 min
+239 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Beauty in All](https://open.spotify.com/track/2PDo3vOikLKooy5pMhlYuW) | [Humeysha](https://open.spotify.com/artist/1VoKwUAdCduhJQqJMIUHtW) | [Beauty in All](https://open.spotify.com/album/42mjYCx6QUmcuo9yTWOsva) | 4:08 | 2021-11-10 | 2022-05-27 |
 | [Beep](https://open.spotify.com/track/3X5LrD9Gsv9eeJAaUW76WY) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Beep](https://open.spotify.com/album/07O2V3ZkE26SHpBhhTrHCZ) | 2:00 | 2022-10-06 |  |
 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 | 2022-10-06 | 2024-03-21 |
+| [Bheegi](https://open.spotify.com/track/0fgJvbFW6rzHYLL704hteV) | [Shreea Kaul](https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Bheegi](https://open.spotify.com/album/6W18AKhHbHNaTGQZbMucEp) | 3:05 | 2024-10-23 |  |
 | [Billi Billi](https://open.spotify.com/track/5toxCaO4WoXARrRF7yfJ9Q) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Billi Billi](https://open.spotify.com/album/20hmi1knXw7qwh8ihuIEVU) | 2:35 | 2024-03-20 | 2024-04-13 |
 | [Biryani](https://open.spotify.com/track/6Vpg28zlWpLIfpBrtvmN7N) | [All Mixed Up](https://open.spotify.com/artist/5C4NvJLN3b1nY5x9dK2LLc) | [Biryani](https://open.spotify.com/album/60rnZuZHRw6tzSUiwImvmR) | 3:33 | 2021-11-10 | 2022-07-19 |
 | [Breathe Now](https://open.spotify.com/track/1zAdFySkAlBZD8a9MQ04GF) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Breathe Now](https://open.spotify.com/album/4ZVdV0gvAc5hSiXIfoqiVg) | 3:03 | 2024-09-09 |  |
@@ -141,6 +142,7 @@
 | [Mama](https://open.spotify.com/track/18SFyxDgdM3256wVI67BEx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Mama](https://open.spotify.com/album/0w7WlmpM5oWDCKwZ78nQ6J) | 4:00 | 2021-11-10 | 2022-05-27 |
 | [Mami](https://open.spotify.com/track/4zxnSs7bnFb6TisMem8Q7n) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Mami](https://open.spotify.com/album/3wYkr0Fwc8he14Kn6Hma6d) | 2:44 | 2021-11-10 | 2022-07-19 |
 | [Manzoor](https://open.spotify.com/track/3BhhplcKXDnZ8ZI5CmKUhp) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Manzoor](https://open.spotify.com/album/5UdzrqE7eV4Npo7E4tIQgw) | 2:50 | 2022-07-18 | 2022-10-07 |
+| [Mashallah \(feat\. Adam Saleh\)](https://open.spotify.com/track/7GDtl3xCUOGWt9zaqnOeKn) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Adam Saleh](https://open.spotify.com/artist/4i9TNpZ5lQbPWmMX4zvnNq) | [Mashallah \(feat\. Adam Saleh\)](https://open.spotify.com/album/541Kf2RU9qA2bPB2ji25QJ) | 2:50 | 2024-10-23 |  |
 | [Medusa Eyes](https://open.spotify.com/track/0AL9Qcu83RCD8sAQVE9SxL) | [Robin Dey](https://open.spotify.com/artist/0ZvLuzOcZm4dxx7ycqDMYk) | [Medusa Eyes](https://open.spotify.com/album/4nzrTtS7ZxvfwMJ83fcVcv) | 3:21 | 2021-11-10 | 2022-06-21 |
 | [Mehbooba ft\. DYSTINCT](https://open.spotify.com/track/6OclUkv6J7pgbxf5ybDK3N) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Mehbooba ft\. DYSTINCT](https://open.spotify.com/album/2BIcDngOAdXuUHqTbcDHXs) | 3:54 | 2022-04-15 | 2022-07-19 |
 | [Melanin In The Hamptons](https://open.spotify.com/track/00vRKEBd2AMhEP5d014eIW) | [Dandila](https://open.spotify.com/artist/4o0fmWItqg6aEjvsDopr07) | [Melanin In The Hamptons](https://open.spotify.com/album/2GZcjgZBKZ4oPHDMYc4TLK) | 2:09 | 2021-11-10 | 2022-07-19 |

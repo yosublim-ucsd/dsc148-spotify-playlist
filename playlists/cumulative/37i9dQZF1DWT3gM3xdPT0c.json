@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "As Morning Dawns",
+        "url": "https://open.spotify.com/album/7vq49IqKG1cn48o4UNWoav"
+      },
+      "artists": [
+        {
+          "name": "August Wilkes",
+          "url": "https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90250,
+      "name": "As Morning Dawns",
+      "url": "https://open.spotify.com/track/3T3d7TsbpAPTxhh1f3gSQO"
+    },
+    {
+      "album": {
         "name": "As The Day Breaks",
         "url": "https://open.spotify.com/album/50Dyze2ncQAkBMN6pd5ZZC"
       },
@@ -1370,6 +1388,24 @@
       "duration_ms": 188156,
       "name": "Deliver These Words Of Mine",
       "url": "https://open.spotify.com/track/6BZGoIkSNK1XO87ZjGjHM2"
+    },
+    {
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/2FDchODE7xeDJr7LuLIh8t"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167661,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/4yUl7OGRS5NJyfhaiSlCO3"
     },
     {
       "album": {
@@ -4676,6 +4712,24 @@
       "duration_ms": 141504,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/4Mw71ocvgDe6uYELLu9r0U"
+    },
+    {
+      "album": {
+        "name": "Sailed Away",
+        "url": "https://open.spotify.com/album/1bK3qaaivvry3gQQQM6yTg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Owen",
+          "url": "https://open.spotify.com/artist/6ZjCGd6OJIo6RTmtY8Kz0v"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150569,
+      "name": "Sailed Away",
+      "url": "https://open.spotify.com/track/0pQwOihvB5KWwnMXrPjnQ6"
     },
     {
       "album": {

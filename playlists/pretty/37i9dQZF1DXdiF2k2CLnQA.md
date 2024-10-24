@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,349 likes - 81 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,353 likes - 81 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fading Like A Flower](https://open.spotify.com/track/4xK9z7D3vuGsnywy7vqUvL) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Fading Like A Flower](https://open.spotify.com/album/6DLoD9w8S2Wn0PO3vhGCvY) | 2:54 |
+| 1 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 |
 | 2 | [Wildfire](https://open.spotify.com/track/2d5PfF61oCTZE8ykqeyl24) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Wildfire](https://open.spotify.com/album/3PKKXANI3HrOWJMiuHxK3a) | 3:30 |
-| 3 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 |
+| 3 | [Stay With You](https://open.spotify.com/track/4fizhrPpuAMIdbMD6WWTFf) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Stay With You](https://open.spotify.com/album/215BsdC8uPa1CbX8OlkNKJ) | 3:40 |
 | 4 | [Lullaby](https://open.spotify.com/track/5cEHYQPgYp3zfYP3BFzbJA) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Lullaby](https://open.spotify.com/album/1d28BRRg2LDrQxycJWoGiC) | 4:03 |
 | 5 | [Perfume Of The Timeless](https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Perfume Of The Timeless](https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt) | 8:12 |
 | 6 | [Liars & Thieves](https://open.spotify.com/track/3yxUpNlToBwRVPMYm1FpyL) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Liars & Thieves](https://open.spotify.com/album/5X9jrjEjUbdPwgoVcv6BCv) | 4:20 |
 | 7 | [So Close](https://open.spotify.com/track/0IdFYp4PNFYgqzfjEeLzQf) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [So Close](https://open.spotify.com/album/6iJtmPEAjtOQoNBhGblWk0) | 3:46 |
 | 8 | [The Great Escape](https://open.spotify.com/track/0s2hMxWDYLJ3JdVE8EznKF) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [The Great Escape](https://open.spotify.com/album/1OX0CqRGuNUfqIB4S8CT0m) | 3:31 |
 | 9 | [Between You, God, the Devil and the Dead](https://open.spotify.com/track/0C01QjJmB1vnld4KsCdKHj) | [Avatarium](https://open.spotify.com/artist/2W5ONRbOs5vXUbedSWJQlA) | [Between You, God, the Devil and the Dead](https://open.spotify.com/album/31tP8ekB4GHSHdWdDCEgtV) | 5:39 |
-| 10 | [Stay With You](https://open.spotify.com/track/4fizhrPpuAMIdbMD6WWTFf) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Stay With You](https://open.spotify.com/album/215BsdC8uPa1CbX8OlkNKJ) | 3:40 |
-| 11 | [Sunraven](https://open.spotify.com/track/4KehhSNvzbYqBqpkbOOlLX) | [Grand Magus](https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN) | [Sunraven](https://open.spotify.com/album/6YJV00XPVPZ8GPBKaPcagD) | 3:37 |
-| 12 | [Avenge The Fallen](https://open.spotify.com/track/3mEBAyCxcdvLi4AmrHx0vg) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Avenge The Fallen](https://open.spotify.com/album/05kFGCVd0J5UC8ZzaSTfLv) | 3:28 |
+| 10 | [Sunraven](https://open.spotify.com/track/4KehhSNvzbYqBqpkbOOlLX) | [Grand Magus](https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN) | [Sunraven](https://open.spotify.com/album/6YJV00XPVPZ8GPBKaPcagD) | 3:37 |
+| 11 | [Avenge The Fallen](https://open.spotify.com/track/3mEBAyCxcdvLi4AmrHx0vg) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Avenge The Fallen](https://open.spotify.com/album/05kFGCVd0J5UC8ZzaSTfLv) | 3:28 |
+| 12 | [Fading Like A Flower](https://open.spotify.com/track/4xK9z7D3vuGsnywy7vqUvL) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Fading Like A Flower](https://open.spotify.com/album/6DLoD9w8S2Wn0PO3vhGCvY) | 2:54 |
 | 13 | [All I Want](https://open.spotify.com/track/4Vtj3Az6rt21hxQs3IsN0b) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Megalomanium II](https://open.spotify.com/album/2qcRovVIQoONJXgO5EMG6G) | 3:14 |
 | 14 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 |
 | 15 | [Who You Gonna Call? \(Solence\)](https://open.spotify.com/track/2SiXTix2P7Xwnzt3Ji31e4) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Who You Gonna Call? \(Solence\)](https://open.spotify.com/album/4wSlW89hvBHn0lD7iHijyT) | 3:10 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 80 | [Enter Sandman](https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:31 |
 | 81 | [Tidal Wave](https://open.spotify.com/track/5xqd2haG6pqsujDUkSYLDi) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Tidal Wave](https://open.spotify.com/album/1uVxpF7yvpK7B85D5RDh9E) | 6:59 |
 
-Snapshot ID: `ZxGJHAAAAACX+5uXH7HRkKLfPVYcgunP`
+Snapshot ID: `Zxi6LgAAAAAgcac5dn3d9e+dK2sqFyfp`

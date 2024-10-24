@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-569 songs - 2 day 6 hr 12 min
+570 songs - 2 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Amorpha](https://open.spotify.com/track/3YR27cjoj0MJV1moSVdhJK) | [Bitchin Bajas](https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I) | [Bajascillators](https://open.spotify.com/album/6NAiGqHITefAfPFaDc46Zx) | 9:42 | 2023-06-05 | 2023-08-11 |
 | [Amour&Armor](https://open.spotify.com/track/0ZKOHpz4fpYyYE7pKxzVQr) | [Spivak](https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx) | [Rare Backwards](https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8) | 3:13 | 2022-03-30 | 2022-07-01 |
 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 | 2023-01-12 | 2023-03-30 |
+| [Analemma](https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 7:57 | 2024-10-23 |  |
 | [Anda Þinn Guð](https://open.spotify.com/track/6AbdsXV8w696nVhgiWjLZk) | [Högni](https://open.spotify.com/artist/3HAGb8WLuYRre506Dr8oJm), [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Anda Þinn Guð](https://open.spotify.com/album/3OD6HhjwQLSP7LOYCqnGmY) | 1:59 | 2022-10-28 | 2022-11-25 |
 | [Angel's Flight](https://open.spotify.com/track/1tCPxwo9ll7rxCxaEBq06f) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/0qZ6LUWpJC4lrQrEDoUeHH) | 5:52 | 2021-10-06 | 2022-07-23 |
 | [Angel's Flight](https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 5:52 | 2021-10-06 | 2024-04-19 |
@@ -115,7 +116,7 @@
 | [Cairn VI.](https://open.spotify.com/track/3iRY4v04uIRVGkIGcsbSJd) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Marta Salogni](https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS) | [Landform](https://open.spotify.com/album/7dU8QnxYDKsg5yJN2zG1fP) | 6:43 | 2021-10-06 | 2022-07-29 |
 | [Calimayan](https://open.spotify.com/track/3y7lez26VNRGyrnjEuBnsD) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK) | [Flutes, Echoes, It's All Happening!](https://open.spotify.com/album/22aOMaVdU4T335x8n5CLM1) | 2:31 | 2021-10-06 | 2022-08-04 |
 | [Calimayan](https://open.spotify.com/track/73xAnUDRUQbZy65hOr80IJ) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK) | [Flutes, Echoes, It's All Happening!](https://open.spotify.com/album/1e52dh3GiiAVMNetdNA2pE) | 2:31 | 2021-10-06 | 2022-07-05 |
-| [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 | 2021-10-06 |  |
+| [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 | 2021-10-06 | 2024-10-24 |
 | [Canticle of Cryo](https://open.spotify.com/track/3U9PQdXemvi1gI5Rzrq3eN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:42 | 2022-10-14 | 2022-10-28 |
 | [CAPEL CELYN](https://open.spotify.com/track/3rRLjBfDvixAxLUpHUOB3O) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Phantom Brickworks](https://open.spotify.com/album/3S4zFHeNv6oNLN8H9HXy2w) | 8:12 | 2021-10-06 | 2022-06-02 |
 | [capitOl pt\. 2](https://open.spotify.com/track/4pzTjCyzDTCJHwqg8GIQCo) | [Brady Cohan](https://open.spotify.com/artist/6HLiUGOcX8sVjmmxuEeCi6) | [Studies, Vol\. 2](https://open.spotify.com/album/2hJSbSTpW1GwZRciuKTIGK) | 6:21 | 2021-10-06 | 2022-07-19 |
@@ -428,7 +429,7 @@
 | [setar rock](https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [setar rock](https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb) | 4:00 | 2023-08-10 | 2024-06-25 |
 | [Shortwave](https://open.spotify.com/track/2hqhIH3UeFZ4Sa2eDpbEMw) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [There's a Riot Going On](https://open.spotify.com/album/32XGOlFpD3mpyLXQfyKXvJ) | 5:44 | 2021-10-06 | 2022-07-20 |
 | [Siblings](https://open.spotify.com/track/3ExkbOfWgrL78xCyTOTeJT) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa) | [Diistemi](https://open.spotify.com/album/3CKzdrXuBAPfQgUU3uYqr5) | 2:57 | 2022-01-13 | 2022-07-18 |
-| [SILHOUETTE](https://open.spotify.com/track/4iNljnJPDFYXyaLVpr7tbe) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [REMNANT](https://open.spotify.com/album/2GYaqE9jZ1IFdWYiFlQNQV) | 3:53 | 2022-10-14 |  |
+| [SILHOUETTE](https://open.spotify.com/track/4iNljnJPDFYXyaLVpr7tbe) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [REMNANT](https://open.spotify.com/album/2GYaqE9jZ1IFdWYiFlQNQV) | 3:53 | 2022-10-14 | 2024-10-24 |
 | [Silver Water Ripples](https://open.spotify.com/track/35iIWkIlG61CVmLsI7JgrY) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Dustland](https://open.spotify.com/album/4x31RikE7FngqN1NfhqpIE) | 2:47 | 2021-10-06 | 2022-05-04 |
 | [Sizwile](https://open.spotify.com/track/4mdvNmcW2jCWY5JkEGiiTV) | [SPAZA](https://open.spotify.com/artist/0rMjC98w4mx0XqSsBt3Vfw), [Nonku Phiri](https://open.spotify.com/artist/3bvppKM40kKBkO2zZECrBV), [Malcolm Jiyane](https://open.spotify.com/artist/2dY2WSp9Wqi5J4QC8Y2EVK), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Ariel Zamonsky](https://open.spotify.com/artist/3l8BAJoVXRYgVeQIkVNsVb) | [UPRIZE! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MUtW3kAv5grqHyVsfIaRY) | 8:28 | 2021-10-06 | 2022-04-21 |
 | [Sky Hooks](https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Hooked Paw](https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl) | 6:03 | 2024-08-12 |  |
@@ -565,7 +566,7 @@
 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 | 2021-10-06 | 2022-07-11 |
 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 | 2022-03-30 | 2022-07-28 |
 | [Wing Pinger 06](https://open.spotify.com/track/73Gfj8OMN6GJCXiqvSiIH5) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 23:17 | 2022-03-30 | 2022-07-26 |
-| [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 | 2021-10-06 | 2024-10-19 |
+| [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 | 2021-10-06 |  |
 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 | 2023-04-13 | 2023-08-18 |
 | [Wurlitzer](https://open.spotify.com/track/4OjcEWInukLib0TUfETqfx) | [Leifur James](https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O) | [Wurlitzer](https://open.spotify.com/album/0mfitPoE1oWjDfmX48fOl3) | 4:17 | 2021-10-06 | 2023-05-17 |
 | [Yesterday](https://open.spotify.com/track/7aLQZTDhGcUOJCQinQbGWG) | [Kit Grill](https://open.spotify.com/artist/7Mq8bgNDcBNm7nAwFT3Zhz) | [Spirit](https://open.spotify.com/album/3ItdNpejzmrIcEtRRUjXgz) | 2:27 | 2022-02-18 | 2022-07-24 |

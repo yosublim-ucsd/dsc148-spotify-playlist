@@ -1764,6 +1764,24 @@
     {
       "album": {
         "name": "Eclipse",
+        "url": "https://open.spotify.com/album/0YMcisX2oCm0YRXIeBu4Ux"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nadal",
+          "url": "https://open.spotify.com/artist/2M7fknVkDTQ47zsPTLKIqX"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159722,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/12UPVt8jLdT27AuL6GNMW1"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
         "url": "https://open.spotify.com/album/526Ra8D1uYLW8XcpT0Tw29"
       },
       "artists": [

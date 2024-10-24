@@ -12795,6 +12795,24 @@
     },
     {
       "album": {
+        "name": "The Game Changer",
+        "url": "https://open.spotify.com/album/1aRdcDtkN2qlomNDagQ85C"
+      },
+      "artists": [
+        {
+          "name": "Jonas Kahnberg",
+          "url": "https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146458,
+      "name": "The Game Changer",
+      "url": "https://open.spotify.com/track/35CHmzwJtxFaX2jrTwxvSS"
+    },
+    {
+      "album": {
         "name": "At The Break Of Dawn",
         "url": "https://open.spotify.com/album/54yCLINTA6eCrtuBbIze8Q"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by Experimental independent artists and labels. Mabe Fratti on cover. Artwork by Thami Nabil",
+  "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -2096,6 +2096,42 @@
       "duration_ms": 154371,
       "name": "Anaesthesia",
       "url": "https://open.spotify.com/track/6ml8BMLfEJjR6gQyAtiGQZ"
+    },
+    {
+      "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
+    },
+    {
+      "album": {
+        "name": "Ancient DNA",
+        "url": "https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163097,
+      "name": "Ancient DNA",
+      "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
     },
     {
       "album": {
@@ -6660,7 +6696,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 433750,
       "name": "Continuum 1",
       "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
@@ -7566,7 +7602,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 169504,
       "name": "Deixem O Morto Morrer",
       "url": "https://open.spotify.com/track/7jPeAtYfIk0jQjUUtSoHhK"
@@ -8174,6 +8210,24 @@
       "duration_ms": 258704,
       "name": "Do You Know Who Loves You",
       "url": "https://open.spotify.com/track/4DkP6MMH9rgMzX2mNn14lg"
+    },
+    {
+      "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184120,
+      "name": "Doff",
+      "url": "https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB"
     },
     {
       "album": {
@@ -9494,7 +9548,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 356000,
       "name": "End Scene",
       "url": "https://open.spotify.com/track/1Dmt4yNXdtRymBv5rhL9Rx"
@@ -11222,7 +11276,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 357818,
       "name": "For a Burning World",
       "url": "https://open.spotify.com/track/2zbtE3hz1Zb5chqQnw0BB0"
@@ -17506,7 +17560,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 91200,
       "name": "light dreams",
       "url": "https://open.spotify.com/track/3p80zUJZCSijOoENzaN0qR"
@@ -17930,6 +17984,24 @@
       "duration_ms": 337906,
       "name": "Love",
       "url": "https://open.spotify.com/track/1KiXq3sy3txoXdNilTFqmd"
+    },
+    {
+      "album": {
+        "name": "love is not the poison",
+        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318447,
+      "name": "love is not the poison",
+      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
     },
     {
       "album": {
@@ -22182,7 +22254,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 366920,
       "name": "OOPARTS",
       "url": "https://open.spotify.com/track/1cDGNpfKqMqXVDsx9cZcyd"
@@ -25280,7 +25352,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 261410,
       "name": "Rough And Rocky",
       "url": "https://open.spotify.com/track/1Q2ZquE7GFw7ISsAfE4VWu"
@@ -26281,6 +26353,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1u5Xq1nY6Gbfp2aVJueTi8"
+      },
+      "artists": [
+        {
+          "name": "Killer Bee",
+          "url": "https://open.spotify.com/artist/6XXPLVj62lsUtiyDZvTXKz"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338515,
+      "name": "setitinstone*!_black cat",
+      "url": "https://open.spotify.com/track/2dvlyxiu5rvZfd4DbfDQWP"
+    },
+    {
+      "album": {
         "name": "Setu",
         "url": "https://open.spotify.com/album/5aDvUOxuqucR7rzOjEbuHY"
       },
@@ -26462,6 +26552,24 @@
       "duration_ms": 486439,
       "name": "Show Me The Shoes / In A Sea of Grifters",
       "url": "https://open.spotify.com/track/3ciMlkzAPI1foefduTNXCB"
+    },
+    {
+      "album": {
+        "name": "SHOW OFF",
+        "url": "https://open.spotify.com/album/5H18G0If0NCQ08gu5Twxzd"
+      },
+      "artists": [
+        {
+          "name": "ni-hao!!!!",
+          "url": "https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131775,
+      "name": "SHOW OFF",
+      "url": "https://open.spotify.com/track/7ex6k8RpJgSn1eCjwXe8Pe"
     },
     {
       "album": {
@@ -32069,6 +32177,44 @@
     },
     {
       "album": {
+        "name": "Turned Skyward",
+        "url": "https://open.spotify.com/album/59nS05TYgeVtisdClwfv8q"
+      },
+      "artists": [
+        {
+          "name": "Flock",
+          "url": "https://open.spotify.com/artist/5c4ETn2xdmdKYUm29Ht3kN"
+        },
+        {
+          "name": "Bex Burch",
+          "url": "https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ"
+        },
+        {
+          "name": "Danalogue",
+          "url": "https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu"
+        },
+        {
+          "name": "Al MacSween",
+          "url": "https://open.spotify.com/artist/2zEEuFzo9LepOkkCtGnCbu"
+        },
+        {
+          "name": "Sarathy Korwar",
+          "url": "https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk"
+        },
+        {
+          "name": "Tamar Osborn",
+          "url": "https://open.spotify.com/artist/6HdadX6rv2g0EWghE5KkPj"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264160,
+      "name": "Turned Skyward",
+      "url": "https://open.spotify.com/track/151qJrR2Jm1AvRZRxQM1Tv"
+    },
+    {
+      "album": {
         "name": "Bestia Sagrada",
         "url": "https://open.spotify.com/album/0lNLug3obd5GdRPVPvYDzN"
       },
@@ -33485,6 +33631,24 @@
     },
     {
       "album": {
+        "name": "Video Music",
+        "url": "https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129554,
+      "name": "Video Music",
+      "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
+    },
+    {
+      "album": {
         "name": "The Rot",
         "url": "https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1"
       },
@@ -33684,7 +33848,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 159026,
       "name": "Vou Ficar Neste Quadrado",
       "url": "https://open.spotify.com/track/6B8LVrElkXeTdIJooLtMTP"

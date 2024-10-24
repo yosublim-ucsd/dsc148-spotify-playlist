@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: WOOSUNG\)
 
-211 songs - 11 hr 59 min
+212 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [alive](https://open.spotify.com/track/1TDHp9m9b1ZsJrb9TtgsYA) | [ONII](https://open.spotify.com/artist/3MaLSP3dNqtSH7Wrz1pr35) | [alive](https://open.spotify.com/album/22E1iZe1wyXbKn8W5zEiW2) | 4:22 | 2024-08-14 | 2024-09-01 |
 | [Always with You](https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP) | [Aseul](https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo) | [Always with You](https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q) | 3:59 | 2024-04-05 |  |
 | [Amazing](https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Sail the Seven Seas](https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ) | 2:42 | 2024-04-05 | 2024-06-29 |
-| [Amerindio](https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Amerindio](https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv) | 3:00 | 2024-06-28 |  |
+| [Amerindio](https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Amerindio](https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv) | 3:00 | 2024-06-28 | 2024-10-24 |
 | [Armageddon \(2Spade Remix\)](https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 3:08 | 2024-09-21 |  |
 | [Armageddon \(Flava D Remix\)](https://open.spotify.com/track/79YRHM4e97AF4s4xo60p4y) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 4:07 | 2024-09-21 |  |
 | [Armageddon \(Mount XLR Remix\)](https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 3:44 | 2024-09-24 |  |
@@ -141,6 +141,7 @@
 | [Next Level \- Habstrakt Remix](https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:20 | 2024-04-05 | 2024-06-29 |
 | [Next Level \- IMLAY Remix](https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:45 | 2024-04-05 | 2024-09-25 |
 | [Next Level \- Lionclad Remix](https://open.spotify.com/track/7fKRGSEsy6Y5e1gE7trjAv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Lionclad](https://open.spotify.com/artist/2AGxU7q0xWss9jkiTPmxH7) | [iScreaM Vol.10 : Next Level Remixes](https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY) | 3:45 | 2024-04-05 | 2024-06-29 |
+| [NOSAE NOSAE \- Remix](https://open.spotify.com/track/39neTEf3wIhm04a2SE88dA) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0), [Cosmickey](https://open.spotify.com/artist/2VME6o9EyB1AvDCkUdT7iB), [Sky](https://open.spotify.com/artist/3x3u1bkDrTFD7KtrJyQVNT) | [Homies\(Remix\)](https://open.spotify.com/album/40xju0ksMj869kE6Fj3Ua6) | 3:12 | 2024-10-23 |  |
 | [Off Ways](https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Chill Satellite](https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA) | [Off Ways](https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy) | 3:00 | 2024-04-05 | 2024-06-29 |
 | [On My Mind](https://open.spotify.com/track/4cytI2dxVs5ZOh7qYuOYv5) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [On My Mind](https://open.spotify.com/album/0dhS0KyKfi6TSkjLNQfkcg) | 2:40 | 2024-06-28 |  |
 | [PARADISE](https://open.spotify.com/track/1l5J8Z8hIhfFvt6hUbuchV) | [Thru](https://open.spotify.com/artist/7gWULzAJSyQez1XA3nRmfH), [SUZO](https://open.spotify.com/artist/52mRVQC1hdI0tSV6zEp5f8) | [PARADISE](https://open.spotify.com/album/0SFyF2YwxMJn6sHkOCTRfW) | 2:57 | 2024-04-05 | 2024-04-19 |

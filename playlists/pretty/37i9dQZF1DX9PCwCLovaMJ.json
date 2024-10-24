@@ -923,6 +923,26 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "ULTRAVIOLET",
+        "url": "https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT"
+      },
+      "artists": [
+        {
+          "name": "Lido",
+          "url": "https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk"
+        },
+        {
+          "name": "Easton Fitz",
+          "url": "https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ"
+        }
+      ],
+      "duration_ms": 208225,
+      "name": "WOMAN",
+      "url": "https://open.spotify.com/track/5vnRIf4zADaCMfuDhfWQwS"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "Step By Step (Axel Boman\u2019s In The Air Version)",
         "url": "https://open.spotify.com/album/5cOYhU6gw1uoUpLrbp6zE9"
       },
@@ -971,26 +991,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "ULTRAVIOLET",
-        "url": "https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT"
-      },
-      "artists": [
-        {
-          "name": "Lido",
-          "url": "https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk"
-        },
-        {
-          "name": "Easton Fitz",
-          "url": "https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ"
-        }
-      ],
-      "duration_ms": 208225,
-      "name": "WOMAN",
-      "url": "https://open.spotify.com/track/5vnRIf4zADaCMfuDhfWQwS"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "We Never Knew",
         "url": "https://open.spotify.com/album/436z0vlNIcIcZuHcjdCYw6"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Angeline",
-        "url": "https://open.spotify.com/album/6pZioXDALfPUkIeCzApK5r"
-      },
-      "artists": [
-        {
-          "name": "Goldielocks",
-          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
-        }
-      ],
-      "duration_ms": 204596,
-      "name": "Angeline",
-      "url": "https://open.spotify.com/track/0c1jg65pcEMAbNqvnAb8DV"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 244693,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Angeline",
+        "url": "https://open.spotify.com/album/6pZioXDALfPUkIeCzApK5r"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "duration_ms": 204596,
+      "name": "Angeline",
+      "url": "https://open.spotify.com/track/0c1jg65pcEMAbNqvnAb8DV"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Chop It",
-        "url": "https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0"
-      },
-      "artists": [
-        {
-          "name": "Whammyboy",
-          "url": "https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Chop It",
-      "url": "https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Fight Back Time",
         "url": "https://open.spotify.com/album/5eXFIcEh62sNR9C3MyJYHY"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 197079,
       "name": "Fight Back Time",
       "url": "https://open.spotify.com/track/2pC6V7ZQyNMFGh8yfrKrgi"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Chop It",
+        "url": "https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0"
+      },
+      "artists": [
+        {
+          "name": "Whammyboy",
+          "url": "https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "Chop It",
+      "url": "https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "If The Car Crashed",
-        "url": "https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz"
-      },
-      "artists": [
-        {
-          "name": "Beforefrances",
-          "url": "https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "If The Car Crashed",
-      "url": "https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Nekad p\u00e5 klubben",
         "url": "https://open.spotify.com/album/1raUpMAzD2pUxLPeUk7Jvj"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 203624,
       "name": "Nekad p\u00e5 klubben",
       "url": "https://open.spotify.com/track/1GD0U35f73Qk3rfLx0wRo8"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "If The Car Crashed",
+        "url": "https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz"
+      },
+      "artists": [
+        {
+          "name": "Beforefrances",
+          "url": "https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "If The Car Crashed",
+      "url": "https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh"
     },
     {
       "added_at": "2023-11-29 12:17:00",

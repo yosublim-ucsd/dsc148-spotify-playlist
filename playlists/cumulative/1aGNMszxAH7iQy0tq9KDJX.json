@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "A Different Kind Of Truth",
+        "url": "https://open.spotify.com/album/5ydOKnIrXsv7AziaSpRzZU"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283040,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/66H4tD2U1SNgIRSD19m5jv"
+    },
+    {
+      "album": {
         "name": "Breakfast In America",
         "url": "https://open.spotify.com/album/7i75GRwJbhDDiLi2uQHTtZ"
       },

@@ -12693,6 +12693,24 @@
     },
     {
       "album": {
+        "name": "Fancy Footwork",
+        "url": "https://open.spotify.com/album/1GXa85hveWH03vGNxd8utP"
+      },
+      "artists": [
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198019,
+      "name": "Fancy Footwork",
+      "url": "https://open.spotify.com/track/52VaYLDBhX5vNd8taZxA1R"
+    },
+    {
+      "album": {
         "name": "Fang dich",
         "url": "https://open.spotify.com/album/0EHRsEmA2gTZzK0mClYT5T"
       },
@@ -29414,7 +29432,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 145116,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/3lFNDaob5QhwE9oo7J0uNT"
@@ -30280,7 +30298,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -31944,6 +31962,42 @@
       "duration_ms": 136880,
       "name": "rosa rugosa",
       "url": "https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF"
+    },
+    {
+      "album": {
+        "name": "Rosarote Brille",
+        "url": "https://open.spotify.com/album/6JcRxfywMvls60m7s9CXfb"
+      },
+      "artists": [
+        {
+          "name": "Yu",
+          "url": "https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232843,
+      "name": "Rosarote Brille",
+      "url": "https://open.spotify.com/track/4xGLfAGlNJVvpC1X1lCWAf"
+    },
+    {
+      "album": {
+        "name": "Rosaroter Tee",
+        "url": "https://open.spotify.com/album/2iCOuFbNKkYnBxo3qY32r9"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163005,
+      "name": "Rosaroter Tee",
+      "url": "https://open.spotify.com/track/4UKQ8zZQ92nTdxQpz6VrPv"
     },
     {
       "album": {
@@ -40088,7 +40142,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 145100,
       "name": "Vermissen",
       "url": "https://open.spotify.com/track/2CWXVE0h91nurJi1DtO37q"

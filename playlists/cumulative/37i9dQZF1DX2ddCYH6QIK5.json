@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Blush Davis,  Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Yisit,  Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 156240,
       "name": "Crashing",
       "url": "https://open.spotify.com/track/4vVHZKT5McNX5dV911htj8"
@@ -6577,6 +6577,24 @@
     },
     {
       "album": {
+        "name": "Extremes",
+        "url": "https://open.spotify.com/album/6RC2Zo8k056PDHxFQus5VE"
+      },
+      "artists": [
+        {
+          "name": "RIIVA",
+          "url": "https://open.spotify.com/artist/77uqQoezJs1O18E7TYk00J"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149263,
+      "name": "Extremes",
+      "url": "https://open.spotify.com/track/7ceYbZh7LYzcGtyqPeUw8s"
+    },
+    {
+      "album": {
         "name": "eye to eye",
         "url": "https://open.spotify.com/album/40OD1XXC6HSpcEJyDwZj5G"
       },
@@ -7748,6 +7766,24 @@
       "duration_ms": 188092,
       "name": "GHOST OF MINE",
       "url": "https://open.spotify.com/track/4YjXuOwa239TVlSqW21ncA"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/1Um4sajYnOqTtNXXLr5faK"
+      },
+      "artists": [
+        {
+          "name": "Sector 5",
+          "url": "https://open.spotify.com/artist/236q4j0H3fFbTnGtIs2YuI"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6vraJVFY4S85B4yrMONH1e"
     },
     {
       "album": {
@@ -9214,7 +9250,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 220580,
       "name": "Holding Your Heart",
       "url": "https://open.spotify.com/track/141GEs0sthqirmbpV6nnmF"
@@ -10004,6 +10040,24 @@
       "duration_ms": 196703,
       "name": "Ich brauche Zeit",
       "url": "https://open.spotify.com/track/1Pk5gcTpJ31lA3Y5zy4Gq7"
+    },
+    {
+      "album": {
+        "name": "Ich dachte",
+        "url": "https://open.spotify.com/album/09ZAymOOe0iSxIvzefHlRC"
+      },
+      "artists": [
+        {
+          "name": "Yisit",
+          "url": "https://open.spotify.com/artist/2W2EfbWfhP8dccKjyEc7f4"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134960,
+      "name": "Ich dachte",
+      "url": "https://open.spotify.com/track/6huKdWHyNUZyr9bjJHndox"
     },
     {
       "album": {
@@ -11240,7 +11294,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 222592,
       "name": "Know For Sure",
       "url": "https://open.spotify.com/track/5MwCStvgi7bAaIAJejufaA"
@@ -12037,6 +12091,24 @@
     },
     {
       "album": {
+        "name": "Lonely Mermaid",
+        "url": "https://open.spotify.com/album/2o20uWO718t5G2n4MO8ELU"
+      },
+      "artists": [
+        {
+          "name": "Gritty June",
+          "url": "https://open.spotify.com/artist/5z5bN9lFTB51BLYGgn3449"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255765,
+      "name": "Lonely Mermaid",
+      "url": "https://open.spotify.com/track/08kgfckd3ggM9ctntbYyUZ"
+    },
+    {
+      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/09t9pxAI0P8UgMuhV3ZT1Q"
       },
@@ -12726,6 +12798,24 @@
       "duration_ms": 151578,
       "name": "Melancholie",
       "url": "https://open.spotify.com/track/0o3nCAVBUGViTgaYI4YGK2"
+    },
+    {
+      "album": {
+        "name": "Memphis",
+        "url": "https://open.spotify.com/album/75ihK5YImY7i3HuIH9K7WS"
+      },
+      "artists": [
+        {
+          "name": "Lonely Inc.",
+          "url": "https://open.spotify.com/artist/3p9LZVxuDpz5rzWoFgD9PD"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158917,
+      "name": "Memphis",
+      "url": "https://open.spotify.com/track/70YiPu4WCP4vGHB840T459"
     },
     {
       "album": {
@@ -13651,6 +13741,24 @@
     },
     {
       "album": {
+        "name": "need you",
+        "url": "https://open.spotify.com/album/7hMkgjnPhVHAZiRk8JEaky"
+      },
+      "artists": [
+        {
+          "name": "SNOWCAP",
+          "url": "https://open.spotify.com/artist/5XPbeLxKTyTpYVpQ4LdtmX"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "need you",
+      "url": "https://open.spotify.com/track/1lziVHX9Wo1E5LxWqHFjPx"
+    },
+    {
+      "album": {
         "name": "Nemo",
         "url": "https://open.spotify.com/album/4ZOSjbv4OqKdFKLCbQb5Qq"
       },
@@ -13662,7 +13770,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 172268,
       "name": "Nemo",
       "url": "https://open.spotify.com/track/66m5wQxTelUD57tJYy0dUl"
@@ -16911,6 +17019,24 @@
     },
     {
       "album": {
+        "name": "Ohne uns",
+        "url": "https://open.spotify.com/album/4hwz9xgnNJexkGGxeRAAD7"
+      },
+      "artists": [
+        {
+          "name": "Asant",
+          "url": "https://open.spotify.com/artist/3xVy7fStWk7e4ScjWwrz3X"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254929,
+      "name": "Schatten - Trio Version",
+      "url": "https://open.spotify.com/track/0lvnDqz3CZ3geQfFK5E9b3"
+    },
+    {
+      "album": {
         "name": "Schau dass du nicht f\u00e4llst",
         "url": "https://open.spotify.com/album/3oBzWtO3UstxGXzKbgxaLM"
       },
@@ -18134,6 +18260,24 @@
       "duration_ms": 166655,
       "name": "Speedrunning",
       "url": "https://open.spotify.com/track/0fsvjq664RFmqcDgEb3Gho"
+    },
+    {
+      "album": {
+        "name": "Spiegel",
+        "url": "https://open.spotify.com/album/1VzQbzzKHArC7sqmuuXb4C"
+      },
+      "artists": [
+        {
+          "name": "conan.luis",
+          "url": "https://open.spotify.com/artist/1H9Smm4OzNFwBB0BELY2PD"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "Spiegel",
+      "url": "https://open.spotify.com/track/7GH8CFhaHlY4UGaVJScm29"
     },
     {
       "album": {
@@ -19382,7 +19526,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 164885,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/1oMD21aUKAEviE3gh943Qh"
@@ -19494,7 +19638,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 205999,
       "name": "The Night is Cold",
       "url": "https://open.spotify.com/track/4bj3dvSEk74yp69Mm99Mlx"
@@ -20570,7 +20714,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 162000,
       "name": "Universum",
       "url": "https://open.spotify.com/track/00717OHJtlgRXfR4EbyVrf"
@@ -21354,7 +21498,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 180967,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/3p1OaMB89QZTgO7UcVHblg"

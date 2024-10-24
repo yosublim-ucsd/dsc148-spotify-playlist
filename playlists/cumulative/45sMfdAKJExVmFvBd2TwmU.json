@@ -2127,6 +2127,32 @@
     },
     {
       "album": {
+        "name": "Omkara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/43DdW6yNv7TCjXyz3HjOca"
+      },
+      "artists": [
+        {
+          "name": "Rekha Bhardwaj",
+          "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+        },
+        {
+          "name": "Rakesh Pandit",
+          "url": "https://open.spotify.com/artist/34qWfkLW2mSlqts5iQHQlC"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412906,
+      "name": "Namak",
+      "url": "https://open.spotify.com/track/019lXUogVMhdJsM0c0Xb8Q"
+    },
+    {
+      "album": {
         "name": "Raanjhanaa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/24C47633GRlozws7WBth7t"
       },

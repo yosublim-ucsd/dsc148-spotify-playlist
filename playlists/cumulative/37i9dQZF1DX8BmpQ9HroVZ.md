@@ -4,7 +4,7 @@
 
 > The hottest tracks trending in Pakistan\. Cover: Anuv Jain
 
-381 songs - 22 hr 42 min
+382 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Tauseep X Urdu Mashup](https://open.spotify.com/track/6J3Ak1EFUSEjUIC2hASYOq) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Tauseep X Urdu Mashup](https://open.spotify.com/album/783PFiugJDBdssvYfJVCez) | 4:08 | 2023-01-16 | 2023-04-13 |
 | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv) | [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/album/2R6fwaRteK3HgyufFhcdDm) | 3:28 | 2023-12-11 | 2024-08-10 |
 | [Tere Bin \(Original Score\)](https://open.spotify.com/track/0NzKqxxriSFemELLGwNR1r) | [Shani Arshad](https://open.spotify.com/artist/4uemXiyZXRqUNuVbm0xMTN) | [Tere Bin \(Original Score\)](https://open.spotify.com/album/2ULNjlB3S03rlm4L6EQEa2) | 5:31 | 2023-01-16 | 2023-02-07 |
+| [Tere Bina Na Guzara E](https://open.spotify.com/track/4wILHvb65fCykx1BuRlvwa) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a), [Kinza Hashmi](https://open.spotify.com/artist/2Up4MLmBYIJV36ymeT44TF) | [Tere Bina Na Guzara E](https://open.spotify.com/album/0yqDVd940RjJdyIMfAdgBH) | 3:40 | 2024-10-23 |  |
 | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Tere Hawaale \(From "Laal Singh Chaddha"\)](https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3) | 5:46 | 2023-04-24 | 2024-01-23 |
 | [TERE TE](https://open.spotify.com/track/0ptqV9ySE8HVbWblGdv3Eb) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/69VUBIbtxtouNd7eKKD6BI) | 1:54 | 2024-06-21 |  |
 | [TERE TE](https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 1:54 | 2022-06-20 | 2024-02-15 |

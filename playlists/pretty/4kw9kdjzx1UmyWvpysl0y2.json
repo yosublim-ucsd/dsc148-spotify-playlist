@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125748,
+  "num_followers": 125744,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATM+VFCOkl0lP/Fp+XfGj/bAGhO+3C",
+  "snapshot_id": "AAATNS6Hy8qt7JUK6bWk+KMjllDOV9Q4",
   "tracks": [
+    {
+      "added_at": "2024-10-23 14:36:55",
+      "album": {
+        "name": "Lean Onto Me",
+        "url": "https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lean Onto Me",
+      "url": "https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef"
+    },
     {
       "added_at": "2024-10-22 14:53:24",
       "album": {
@@ -1159,22 +1183,6 @@
       "duration_ms": 134543,
       "name": "All Black",
       "url": "https://open.spotify.com/track/6aPdtRMLS4iF0zKTszorCB"
-    },
-    {
-      "added_at": "2024-08-01 14:23:29",
-      "album": {
-        "name": "signals",
-        "url": "https://open.spotify.com/album/40TMUyjhxxDLFEkqV75FrC"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "promises",
-      "url": "https://open.spotify.com/track/5mP03KQ4EJSfUOMDgFPWd4"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

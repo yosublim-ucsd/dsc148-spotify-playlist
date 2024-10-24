@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "In Free Fall",
+        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327679,
+      "name": "Body, Electric",
+      "url": "https://open.spotify.com/track/3pBroo2NiSl79qYpKWsKfC"
+    },
+    {
+      "album": {
         "name": "Holkham Drones",
         "url": "https://open.spotify.com/album/2x1yXwFPvn4ssDc5vavFEi"
       },
@@ -2326,7 +2344,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 238890,
       "name": "I'm Not Much, But I'm All I Have",
       "url": "https://open.spotify.com/track/2eX2M9ULuxWkDOZAioj683"
@@ -4396,7 +4414,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 542360,
       "name": "Pomme Fritz (Meat 'N Veg)",
       "url": "https://open.spotify.com/track/7mPwTpwSfEOswUzsT1xsyC"
@@ -6096,6 +6114,24 @@
       "duration_ms": 280554,
       "name": "Visions II",
       "url": "https://open.spotify.com/track/4V60QHlHRyN6U00K3xI7z4"
+    },
+    {
+      "album": {
+        "name": "In Free Fall",
+        "url": "https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244693,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN"
     },
     {
       "album": {

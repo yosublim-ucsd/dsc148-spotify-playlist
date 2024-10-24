@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-148 songs - 9 hr 53 min
+149 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [抜け空](https://open.spotify.com/track/35Kh8QvBqCwHA2pl1n6EqV) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 3:08 | 2024-07-09 |  |
 | [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-10-09 |  |
 | [東亰カニバリズム \(feat\. Ado\)](https://open.spotify.com/track/3sVxxKTxLaT5WYg5dmk4ye) | [biz](https://open.spotify.com/artist/0ItDUkyJTCrl0sfGIM76ms), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [東亰カニバリズム \(feat\. Ado\)](https://open.spotify.com/album/727UO5WpRZa7npkCBeSLv4) | 3:11 | 2024-02-22 |  |
+| [桜日和とタイムマシン with 初音ミク](https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [初音ミク](https://open.spotify.com/artist/5yRZVGcu9VCt8L1Bjzhi5R) | [桜日和とタイムマシン with 初音ミク／初夏](https://open.spotify.com/album/2vxWLmD9gv9RDgL4SM71Wg) | 5:31 | 2024-10-23 |  |
 | [永遠のあくる日](https://open.spotify.com/track/39G4P8noqIKkxpjiuMGqnC) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 4:06 | 2024-07-09 |  |
 | [永遠のあくる日](https://open.spotify.com/track/5WaSJKCZhmRZ8Pxn1oTjA5) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [永遠のあくる日](https://open.spotify.com/album/4jFVggky7sWAA2JVf34gXf) | 4:06 | 2022-10-09 | 2024-07-10 |
 | [神っぽいな](https://open.spotify.com/track/0eoZADXS1qo1b4RqoJl3Sh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Adoの歌ってみたアルバム](https://open.spotify.com/album/4cnBUmiIGHBHozAVteqWXT) | 3:24 | 2024-02-22 |  |

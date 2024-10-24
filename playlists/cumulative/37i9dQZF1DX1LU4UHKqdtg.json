@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 188200,
       "name": "###",
       "url": "https://open.spotify.com/track/4N45PHznf6nObFel4Wvtf1"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 177485,
       "name": "Beat the odds",
       "url": "https://open.spotify.com/track/6VzG7TJrjWlfhKMjOm6JjX"
@@ -8809,6 +8809,24 @@
     },
     {
       "album": {
+        "name": "Visionary Vision <Performante>",
+        "url": "https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177186,
+      "name": "Hit the Floor",
+      "url": "https://open.spotify.com/track/5DQc9DipgMf8sTBmW20rb7"
+    },
+    {
+      "album": {
         "name": "HIT YA!",
         "url": "https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9"
       },
@@ -10158,7 +10176,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 186956,
       "name": "Keep on Moving (Korean Version)",
       "url": "https://open.spotify.com/track/1yxwMcQCslhKvGHA4OnNaj"
@@ -13662,10 +13680,28 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 186306,
       "name": "ON MY BIKE",
       "url": "https://open.spotify.com/track/4HoQGfQPxJE1LkuXuILUzo"
+    },
+    {
+      "album": {
+        "name": "HEADWAY",
+        "url": "https://open.spotify.com/album/6MQTfio4WhfKDRuS8AJXxF"
+      },
+      "artists": [
+        {
+          "name": "PURPLE KISS",
+          "url": "https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186306,
+      "name": "ON MY BIKE",
+      "url": "https://open.spotify.com/track/7rWJErOewz9Q4x6Z02HXkM"
     },
     {
       "album": {
@@ -20439,6 +20475,24 @@
     },
     {
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5af0MAXT3Igs4gbBTDbZVy"
+      },
+      "artists": [
+        {
+          "name": "SooYoung",
+          "url": "https://open.spotify.com/artist/2mTYQHj19falvbVgsh6nkg"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182669,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/2kQxIqeYONePfvbeYG2npt"
+    },
+    {
+      "album": {
         "name": "BORN TO BE",
         "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
       },
@@ -21224,7 +21278,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 276026,
       "name": "We Still Loading (FEAT. Los, Rick Bridges, Northfacegawd, DJ SKY)",
       "url": "https://open.spotify.com/track/0AIHkhsDd5dtHdQi4sH0E1"

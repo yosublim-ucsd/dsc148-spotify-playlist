@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,315 likes - 103 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,361 likes - 103 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

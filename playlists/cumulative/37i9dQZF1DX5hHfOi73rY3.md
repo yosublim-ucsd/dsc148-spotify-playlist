@@ -2,7 +2,7 @@
 
 ### [Warehouse Party](https://open.spotify.com/playlist/37i9dQZF1DX5hHfOi73rY3)
 
-> Dance anthems from the club to your ears!
+> Dance anthems from the club to your ears! Photo: Drumsheds
 
 200 songs - 14 hr 16 min
 

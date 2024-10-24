@@ -4269,6 +4269,24 @@
     },
     {
       "album": {
+        "name": "\u0420\u043e\u0441\u0441\u0438\u044f34",
+        "url": "https://open.spotify.com/album/0D4MaVMevihn60kdXy1m4C"
+      },
+      "artists": [
+        {
+          "name": "Slava KPSS",
+          "url": "https://open.spotify.com/artist/7fMhppMTr3ElTOEJqSbkEq"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179317,
+      "name": "IntroFreestyle2024",
+      "url": "https://open.spotify.com/track/4U7kavzQwgO9KEgdwqxASA"
+    },
+    {
+      "album": {
         "name": "it boy",
         "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
       },
@@ -13252,7 +13270,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 99957,
       "name": "\u041c\u043e\u0434\u0435\u0440\u0430\u0442\u043e\u0440 \u0442\u0442",
       "url": "https://open.spotify.com/track/0NRvzBjjYubIwKZZ8lAGoU"

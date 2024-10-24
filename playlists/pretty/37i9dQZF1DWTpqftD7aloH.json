@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 377443,
+  "num_followers": 377674,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-10-16 04:04:58",
       "album": {
-        "name": "Tudo a Ver Com Ele",
-        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
-      },
-      "artists": [
-        {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
-        }
-      ],
-      "duration_ms": 385063,
-      "name": "Tudo a Ver Com Ele",
-      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
-    },
-    {
-      "added_at": "2024-10-16 04:04:58",
-      "album": {
         "name": "Voc\u00ea N\u00e3o Vai Parar (Ao Vivo)",
         "url": "https://open.spotify.com/album/43JgTgcJ0OZP4Em9ZlkFYs"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 259691,
       "name": "Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
+    },
+    {
+      "added_at": "2024-10-16 04:04:58",
+      "album": {
+        "name": "Tudo a Ver Com Ele",
+        "url": "https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn"
+      },
+      "artists": [
+        {
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+        }
+      ],
+      "duration_ms": 385063,
+      "name": "Tudo a Ver Com Ele",
+      "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
     },
     {
       "added_at": "2024-10-16 04:04:58",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2024-10-16 04:04:58",
       "album": {
-        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
+        "name": "Peregrino (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Theo Rubia",
+          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 208025,
-      "name": "Estrela da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
+      "duration_ms": 330220,
+      "name": "Peregrino - Ao vivo",
+      "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
     },
     {
       "added_at": "2024-10-16 04:04:58",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2024-10-16 04:04:58",
       "album": {
-        "name": "Peregrino (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hdM0xZw6YCZiUTJHAJfzp"
+        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
       },
       "artists": [
         {
-          "name": "Theo Rubia",
-          "url": "https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 330220,
-      "name": "Peregrino - Ao vivo",
-      "url": "https://open.spotify.com/track/6mZHLbLETZx72TrAZSjmJv"
+      "duration_ms": 208025,
+      "name": "Estrela da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
     },
     {
       "added_at": "2024-10-16 04:04:58",
@@ -1447,62 +1447,6 @@
     {
       "added_at": "2024-10-16 04:04:58",
       "album": {
-        "name": "De Manh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 275240,
-      "name": "De Manh\u00e3 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld"
-    },
-    {
-      "added_at": "2024-10-16 04:04:58",
-      "album": {
-        "name": "O Rei Est\u00e1 Voltando",
-        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 227577,
-      "name": "O Rei Est\u00e1 Voltando",
-      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
-    },
-    {
-      "added_at": "2024-10-16 04:04:58",
-      "album": {
-        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        }
-      ],
-      "duration_ms": 393163,
-      "name": "Amigo Incompar\u00e1vel - Ao vivo",
-      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
-    },
-    {
-      "added_at": "2024-10-16 04:04:58",
-      "album": {
         "name": "D\u00e1-Me Tua Gra\u00e7a",
         "url": "https://open.spotify.com/album/4xKzv7U3nkzG6JoA3q36NB"
       },
@@ -1523,6 +1467,62 @@
       "duration_ms": 638561,
       "name": "D\u00e1-Me Tua Gra\u00e7a",
       "url": "https://open.spotify.com/track/5wD1ENJDK5tDWsjqKZwpYk"
+    },
+    {
+      "added_at": "2024-10-16 04:04:58",
+      "album": {
+        "name": "O Rei Est\u00e1 Voltando",
+        "url": "https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 227577,
+      "name": "O Rei Est\u00e1 Voltando",
+      "url": "https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ"
+    },
+    {
+      "added_at": "2024-10-16 04:04:58",
+      "album": {
+        "name": "De Manh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ZcC6cU12wzi4LP2VsEUL3"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 275240,
+      "name": "De Manh\u00e3 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/24xEv4vmx7DkJjE5rAu3ld"
+    },
+    {
+      "added_at": "2024-10-16 04:04:58",
+      "album": {
+        "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        }
+      ],
+      "duration_ms": 393163,
+      "name": "Amigo Incompar\u00e1vel - Ao vivo",
+      "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
     },
     {
       "added_at": "2024-10-16 04:04:58",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2024-10-16 04:04:58",
       "album": {
-        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 388989,
-      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
-      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
-    },
-    {
-      "added_at": "2024-10-16 04:04:58",
-      "album": {
         "name": "Aos P\u00e9s da Cruz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF"
       },
@@ -1739,6 +1719,26 @@
     {
       "added_at": "2024-10-16 04:04:58",
       "album": {
+        "name": "Te Damos Gl\u00f3ria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00S8xPURHKC8Xg02033Rw2"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 388989,
+      "name": "Te Damos Gl\u00f3ria - Ao Vivo",
+      "url": "https://open.spotify.com/track/33xstPp7Yl0jTnclQO8fkN"
+    },
+    {
+      "added_at": "2024-10-16 04:04:58",
+      "album": {
         "name": "J\u00e1 Venci",
         "url": "https://open.spotify.com/album/0zg4Jeg2ftD4HjFyPD1xby"
       },
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2024-10-16 04:04:58",
       "album": {
-        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Nathanael Brito",
-          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
-        }
-      ],
-      "duration_ms": 602491,
-      "name": "Que Ele Cres\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
-    },
-    {
-      "added_at": "2024-10-16 04:04:58",
-      "album": {
         "name": "Temporal (Ao Vivo)",
         "url": "https://open.spotify.com/album/7rraIXg79Z1H4GPzs9vWyf"
       },
@@ -1887,30 +1867,6 @@
     {
       "added_at": "2024-10-16 04:04:58",
       "album": {
-        "name": "A Boa Parte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
-      },
-      "artists": [
-        {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "D\u00e9bora Rabelo",
-          "url": "https://open.spotify.com/artist/422QvLrp4rn4VaTnb810uJ"
-        },
-        {
-          "name": "Hamilton Rabelo",
-          "url": "https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X"
-        }
-      ],
-      "duration_ms": 476736,
-      "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao vivo",
-      "url": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8"
-    },
-    {
-      "added_at": "2024-10-16 04:04:58",
-      "album": {
         "name": "Jesus Em Tua Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/4khpvbIk3o6QoT387sOmG8"
       },
@@ -1935,6 +1891,30 @@
     {
       "added_at": "2024-10-16 04:04:58",
       "album": {
+        "name": "A Boa Parte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "D\u00e9bora Rabelo",
+          "url": "https://open.spotify.com/artist/422QvLrp4rn4VaTnb810uJ"
+        },
+        {
+          "name": "Hamilton Rabelo",
+          "url": "https://open.spotify.com/artist/5VeyQ48fHEJP9CVFc4YJ5X"
+        }
+      ],
+      "duration_ms": 476736,
+      "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao vivo",
+      "url": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8"
+    },
+    {
+      "added_at": "2024-10-16 04:04:58",
+      "album": {
         "name": "De Ti Preciso (Ao Vivo)",
         "url": "https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 313292,
       "name": "De Ti Preciso - Ao Vivo",
       "url": "https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ"
+    },
+    {
+      "added_at": "2024-10-16 04:04:58",
+      "album": {
+        "name": "Que Ele Cres\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2vpNnPQpLDEZxDktUxb8sJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Nathanael Brito",
+          "url": "https://open.spotify.com/artist/09Ls1rANRO31oG4naDyNJK"
+        }
+      ],
+      "duration_ms": 602491,
+      "name": "Que Ele Cres\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/297lnlXZD2tFe8wotWyaA8"
     },
     {
       "added_at": "2024-10-16 04:04:58",

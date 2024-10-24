@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 629506,
       "name": "1978",
       "url": "https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ"
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 210000,
       "name": "five",
       "url": "https://open.spotify.com/track/0Xzw9kW28pJfzAwPZTqNPt"
@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 357213,
       "name": "Milk Tears In The Hug Chamber",
       "url": "https://open.spotify.com/track/4dxvurpizxe1ZnTCVxOVW4"
@@ -4605,6 +4605,28 @@
     },
     {
       "album": {
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Motion Graphics",
+          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Terrazzo",
+      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
+    },
+    {
+      "album": {
         "name": "All good?",
         "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
       },
@@ -4742,7 +4764,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 456976,
       "name": "THE PERFUMED GARDEN",
       "url": "https://open.spotify.com/track/4gCkomA8CVHrVzSXqDjDfI"
@@ -5088,7 +5110,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 155000,
       "name": "two",
       "url": "https://open.spotify.com/track/5AFbHte0qXKs8QUKTFY78i"

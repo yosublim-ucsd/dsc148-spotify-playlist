@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Faye Webster
 
-1,981 songs - 4 day 8 hr 41 min
+1,982 songs - 4 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [doomsday](https://open.spotify.com/track/6bpZMLiRQDm2XcjZudu3xV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N) | 4:28 | 2022-09-23 | 2022-10-13 |
 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 | 2021-05-12 | 2022-04-10 |
 | [Doppelgänger](https://open.spotify.com/track/1q9jh0Ov1tk9aaxFVaYzkC) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Doppelgänger](https://open.spotify.com/album/4teZN2PzvrzgLyQ41rO3OH) | 2:52 | 2023-07-21 | 2023-07-29 |
-| [Doug Fir](https://open.spotify.com/track/2sNzDHc3e7J7QbW1Cstkr1) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Oregon Coast](https://open.spotify.com/album/6zccNwsj1cvQe36GJEmqsY) | 3:09 | 2024-09-20 |  |
+| [Doug Fir](https://open.spotify.com/track/2sNzDHc3e7J7QbW1Cstkr1) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Oregon Coast](https://open.spotify.com/album/6zccNwsj1cvQe36GJEmqsY) | 3:09 | 2024-09-20 | 2024-10-24 |
 | [Dover Beach](https://open.spotify.com/track/24xZVbTSffURaVwGfiVTOu) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dover Beach](https://open.spotify.com/album/3cF6aotAMfbdocJDA2fLjU) | 3:38 | 2021-05-05 | 2021-10-11 |
 | [Dover Beach](https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 3:38 | 2022-04-29 | 2022-12-10 |
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-03-15 | 2024-07-06 |
@@ -1935,6 +1935,7 @@
 | [Windows \- No Rome Remix](https://open.spotify.com/track/5q0Y1svWIHkmx4Q9uH0VxB) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Windows \(No Rome Remix\)](https://open.spotify.com/album/4WjVO6STzyMQ21tGnAqtO4) | 2:08 | 2021-06-03 | 2021-10-16 |
 | [Wine](https://open.spotify.com/track/4ovL2qMHSSGEqFZXOeuSB8) | [Simone](https://open.spotify.com/artist/5k6BuuGye7fUjFvPOOJ8C2) | [Wine](https://open.spotify.com/album/5rpR4Eqlx55HnGwvxmx2x4) | 3:35 | 2021-05-27 | 2021-11-25 |
 | [Winnie Crush](https://open.spotify.com/track/0d9xixmHAusZVsdJQPnRxr) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Winnie Crush](https://open.spotify.com/album/0tS826DRVWxkDg9al34Rdj) | 2:54 | 2021-10-11 | 2021-10-12 |
+| [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 | 2024-10-18 |  |
 | [Winter's Coming](https://open.spotify.com/track/2aOrJTA8AUVWPBjSB4negX) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Winter's Coming](https://open.spotify.com/album/2eZcgp7ogQushYjwFegmmi) | 2:55 | 2021-08-07 | 2021-10-23 |
 | [Wish You Were Here](https://open.spotify.com/track/4UmLhlLUJKQQNr8glsPkKC) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Wish You Were Here](https://open.spotify.com/album/2Li6KhcK5WlPgLVN3LLGHD) | 3:26 | 2024-01-20 | 2024-02-13 |
 | [Wish You Were Sober](https://open.spotify.com/track/50JEoj7rigjIYJaPb0uMsZ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wish You Were Sober](https://open.spotify.com/album/5ktpHCAtbI7aOA8WFpqQu3) | 2:48 | 2020-10-20 | 2022-04-10 |

@@ -4,7 +4,7 @@
 
 > ble det en hvit sommer?
 
-378 songs - 17 hr 17 min
+379 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Baby, förlåt!](https://open.spotify.com/track/6J2y7h0XWLMYC39iaqRZpu) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Baby, förlåt!](https://open.spotify.com/album/3gemrsMKHe8MgGrMJa8UcP) | 2:48 | 2022-10-20 | 2022-11-16 |
 | [Bad Booty](https://open.spotify.com/track/2NXDdSSrR8rZVL7IgTgJEF) | [Robin Stones](https://open.spotify.com/artist/4dQfZWcKSxR7yAajmK4H1r), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Bad Booty](https://open.spotify.com/album/47z1O0BS0n7UoSZZFPGt3X) | 2:13 | 2022-06-16 | 2023-05-26 |
 | [Bakis](https://open.spotify.com/track/62RJOw42SeLh4wdPyIJQPw) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Bakis](https://open.spotify.com/album/3gH0m1q8ULRoBMNU8DS45H) | 3:25 | 2022-03-10 | 2022-05-30 |
-| [Baksetefylla](https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO) | [Malene Axling](https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ) | [Baksetefylla](https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe) | 2:29 | 2022-05-19 |  |
+| [Baksetefylla](https://open.spotify.com/track/2pwQYcI5y6YMmpxCyA5kxO) | [Malene Axling](https://open.spotify.com/artist/2c7hfI1qJLLguxdjLsfHKQ) | [Baksetefylla](https://open.spotify.com/album/4DlXxbB7E9nXG9IUNxA4Fe) | 2:29 | 2022-05-19 | 2024-10-24 |
 | [Balladen om Morgan Kane](https://open.spotify.com/track/6mdY8t48E0adwWPOEt1tSS) | [Frøya](https://open.spotify.com/artist/2w8eUfLsUbiX7MQyTW13S6) | [Fri som fuglen](https://open.spotify.com/album/2tC4KKNpTxONyjF3LYJ6F5) | 3:51 | 2022-03-31 | 2022-04-20 |
 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 | 2021-12-16 |  |
 | [Bare for i kveld](https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bare for i kveld](https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo) | 3:16 | 2021-12-16 |  |
@@ -378,6 +378,7 @@
 | [Wellerman \- Sea Shanty / 220 KID x Billen Ted Remix](https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Wellerman \(Sea Shanty / 220 KID x Billen Ted Remix\)](https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z) | 1:56 | 2022-10-13 | 2024-02-09 |
 | [Worth The Risk](https://open.spotify.com/track/7emllhbuaBXiFnal8ZOSft) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Worth The Risk](https://open.spotify.com/album/4xNCGf3ddwkMUGqo3IX65P) | 2:44 | 2022-04-07 | 2022-07-02 |
 | [Zetor'n](https://open.spotify.com/track/5xU3QasHudpR6QFBHvFLc6) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Zetor'n](https://open.spotify.com/album/6V6o7asFD4RVyx3PzwQaOA) | 3:40 | 2022-03-24 | 2022-04-18 |
+| [Zetorn](https://open.spotify.com/track/2eknHfWE6fkw1fxcjEMD5t) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2BHSpozebqMr8S7TsSDyyU) | 2:47 | 2024-10-21 |  |
 | [Är det kärlek du behöver \- N!NE EPA Bass Boosted Remix](https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:53 | 2022-10-15 |  |
 | [Åka med mig](https://open.spotify.com/track/0c5MF7xJwdnOtSCK4EG4Q3) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Stefaren](https://open.spotify.com/artist/6eefs3JldV7g10OCRNicxO) | [Åka med mig](https://open.spotify.com/album/2V72zf3EccLjABO9Nop8le) | 2:03 | 2022-11-17 | 2023-03-27 |
 | [Ærbeskær](https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Ærbeskær](https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds) | 2:15 | 2021-12-16 | 2024-04-10 |

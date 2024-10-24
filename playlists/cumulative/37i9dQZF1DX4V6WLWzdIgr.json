@@ -334,7 +334,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 256663,
       "name": "Dalan Liyane",
       "url": "https://open.spotify.com/track/14DyVmkBiTzhcGQg1udF9o"
@@ -1004,6 +1004,24 @@
     {
       "album": {
         "name": "Los Dol",
+        "url": "https://open.spotify.com/album/0Sg05P78e8r27lQ9Veyubx"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Los Dol",
+      "url": "https://open.spotify.com/track/420e2V7exkWfl6TIrFP7fi"
+    },
+    {
+      "album": {
+        "name": "Los Dol",
         "url": "https://open.spotify.com/album/3nMuIEIxQ2VxTBAu5N4dKs"
       },
       "artists": [
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 266422,
       "name": "Sing Tak Sayang Ilang",
       "url": "https://open.spotify.com/track/6peEINbo70GxP08o9TC9LU"

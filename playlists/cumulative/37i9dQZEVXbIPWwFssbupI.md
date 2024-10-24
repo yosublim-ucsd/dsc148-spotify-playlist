@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,989 songs - 4 day 9 hr 21 min
+1,990 songs - 4 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Blue story \(feat\. Lil Baby\)](https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 4:18 | 2023-07-01 | 2023-07-16 |
 | [Bobo](https://open.spotify.com/track/6wL9pSXJ4roDSEoBpYyQy7) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Bobo](https://open.spotify.com/album/5SCo5QT25AqRFb5CnipuTI) | 3:07 | 2021-05-30 | 2021-08-24 |
 | [BODIES \(feat\. Damso\)](https://open.spotify.com/track/3im90dPSC5z1PYJ305kgSy) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 2:46 | 2022-07-02 | 2022-09-09 |
-| [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2023-01-04 |  |
+| [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2023-01-04 | 2024-10-24 |
 | [Bolide allemand](https://open.spotify.com/track/7edvQQI4OxF0qbqWNmoHJn) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/3pQgpHGzZu1MaylCk7B99D) | 2:56 | 2022-12-03 | 2022-12-31 |
 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 | 2024-08-29 | 2024-09-14 |
 | [Bon qu’à ça](https://open.spotify.com/track/07VDlMEZIHbocc84zVB410) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 2:49 | 2023-07-01 | 2023-07-10 |
@@ -429,7 +429,7 @@
 | [Comme au bon vieux temps](https://open.spotify.com/track/22pVMtbZDVh6AKYqnyfQlE) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 4:22 | 2022-06-04 | 2022-06-07 |
 | [COMMENT FAIRE UN TUBE](https://open.spotify.com/track/076rt3TGExWFNtw4Rt0h9l) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [VIEUX SONS](https://open.spotify.com/album/5YkdGNYVnai3pDHlDHLwsX) | 4:10 | 2024-08-30 | 2024-09-01 |
 | [Comment on fait](https://open.spotify.com/track/3Gz8jdMPGPj5oSc0zAddxM) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [à 2 à 3](https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d) | 3:00 | 2023-11-26 | 2023-11-28 |
-| [Confidences](https://open.spotify.com/track/2Os26puFcTLXTsap0Wasmm) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 2:08 | 2024-08-23 |  |
+| [Confidences](https://open.spotify.com/track/2Os26puFcTLXTsap0Wasmm) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Pygmalion](https://open.spotify.com/album/3YI7AA0iZmbUWg4qw08xXx) | 2:08 | 2024-08-23 | 2024-10-24 |
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-15 | 2024-08-24 |
 | [Corazon](https://open.spotify.com/track/4Uz9uTnqgM0xjZpY9wb8ym) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:45 | 2023-01-28 | 2023-01-30 |
 | [CORDILLÈRE](https://open.spotify.com/track/2rVrFAV4XPF0gonpDwvFQI) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [LA VIE CONTINUE](https://open.spotify.com/album/3pa4I96zdjB4CRR7e0gjyK) | 3:18 | 2024-07-20 | 2024-09-16 |
@@ -643,6 +643,7 @@
 | [Faut s'enfuir](https://open.spotify.com/track/4aIJHzvbIB2EbZkuk5trOp) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est quand qu'il s'éteint ?](https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW) | 3:08 | 2023-06-10 | 2023-06-12 |
 | [FAVELA](https://open.spotify.com/track/5AYmRXk8FCGDdrBUCY2K5D) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [IL LE FALLAIT](https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S) | 2:51 | 2023-10-14 | 2023-10-16 |
 | [FBI](https://open.spotify.com/track/3qXk25fZSFsCs4BG7mex8i) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:01 | 2024-02-17 | 2024-02-19 |
+| [FC BEAUDOTTES](https://open.spotify.com/track/3ARYsADbIsYYMbAIfYjqvK) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [FC BEAUDOTTES](https://open.spotify.com/album/6MGmB00JB6Bg2VP7bB19LX) | 3:05 | 2024-10-23 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-07-29 | 2023-08-05 |
 | [Fear Of Heights](https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:35 | 2023-10-07 | 2023-10-09 |
 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:02 | 2023-12-25 | 2023-12-30 |
@@ -1391,7 +1392,7 @@
 | [PARASAIL](https://open.spotify.com/track/2Q0aElTZQtEUsoiaQfizu6) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:34 | 2023-07-29 | 2023-07-31 |
 | [Parasite](https://open.spotify.com/track/7DZZrxgHYPT0HsyiyEhTM7) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 2:44 | 2021-11-14 | 2021-11-19 |
 | [Paris](https://open.spotify.com/track/0ApBt9e7LSkrHhJ2SZbHk2) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:16 | 2021-11-07 | 2021-11-14 |
-| [Parler tout bas](https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps](https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu) | 3:21 | 2024-05-31 | 2024-10-20 |
+| [Parler tout bas](https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps](https://open.spotify.com/album/2bha7Ff2j1zCBmECAXaxfu) | 3:21 | 2024-05-31 |  |
 | [Partenaire Particulier](https://open.spotify.com/track/0S4dVpqBLnBFj4wdB4UDMd) | [Partenaire Particulier](https://open.spotify.com/artist/5jsIYrxcANUkZQPfCdfEWe) | [Le son des années 80](https://open.spotify.com/album/4cQIJjzFnwSFIQjz3MFkol) | 4:06 | 2023-01-01 | 2024-01-04 |
 | [Parti de rien \(feat\. Tayc\)](https://open.spotify.com/track/2OLDHbZNyVjslwlx7afzJq) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 4:16 | 2023-02-11 | 2023-02-13 |
 | [Paré](https://open.spotify.com/track/4Lv2ux8hCX7Besyr7ieXIc) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 3:08 | 2021-03-27 | 2021-03-29 |

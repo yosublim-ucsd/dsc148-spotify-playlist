@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZdJumtdMCZ.md) - [plain]
 
 > The essence of Tamil Rap from Kollywood<br/>Cover : Yuvan Shankar Raja
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,810 likes - 52 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,827 likes - 52 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vaathi Raid](https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:29 |
 | 2 | [His Name is John \(From "Dhruva Natchathiram"\)](https://open.spotify.com/track/4ZMLhESqrX6ng6thaZ4M4a) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [His Name is John \(From "Dhruva Natchathiram"\)](https://open.spotify.com/album/2z2azuxHIVQ0InUluVQFz5) | 3:50 |
-| 3 | [Azadi \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/track/4afPWR4cRco3xv4yVrcr0n) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Azadi \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/album/1guSTNL0gBi3vMzQDAqmUS) | 3:13 |
+| 3 | [Por Veeran \(Azadi\) \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/track/4afPWR4cRco3xv4yVrcr0n) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Por Veeran \(Azadi\) \(From "Amaran"\) \(Tamil\)](https://open.spotify.com/album/1guSTNL0gBi3vMzQDAqmUS) | 3:13 |
 | 4 | [En Jannal Vandha](https://open.spotify.com/track/04fYoQSUTfPhVjyW8aXkix) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Roshini](https://open.spotify.com/artist/4ZWAzDyWt9NdjhvZvTaM5U), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva), [Divya Vijay](https://open.spotify.com/artist/0JsEu4bfMtGZeV7YhANSTf) | [Theeratha Vilayaatu Pillai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JutgYHaEXEC32O2FUbo1U) | 4:43 |
 | 5 | [Bhagavan Rap](https://open.spotify.com/track/5wPZVAdagsB8TbSamfOGst) | [The Prophecy](https://open.spotify.com/artist/7fh9y8rqcWSY09PWjEUgnN), [Sathyan](https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI) | [Aadhi Bhagavan](https://open.spotify.com/album/2Spqg3Ga3uiCcVhouI37Uu) | 3:42 |
 | 6 | [Boombastic \- From "Kadaisi Ulaga Por"](https://open.spotify.com/track/0Og0stoQkK2Axw9UQ0bzQX) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Chinna Ponnu](https://open.spotify.com/artist/23FJvNYt7vCPHtpOQUzDN0), [Rajan Chelliah](https://open.spotify.com/artist/0jvnsvvEiOVRAFS0kgK3en) | [Boombastic \(From "Kadaisi Ulaga Por"\)](https://open.spotify.com/album/7A5PybkVgLvWMyYYeGNmU0) | 3:23 |

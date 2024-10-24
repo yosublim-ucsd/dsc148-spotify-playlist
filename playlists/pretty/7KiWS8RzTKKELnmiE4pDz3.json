@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAc+qjMfhJ3FcqyykBHWfltNbbbR33G",
+  "snapshot_id": "AAAc/73rFkn6NB39PComAexOcFwSirh6",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -3595,6 +3595,94 @@
       "duration_ms": 174837,
       "name": "B\u00cb QUIET (FEAT. KODAK BLACK)",
       "url": "https://open.spotify.com/track/7DYa1xK4QzVZTejOnPBzQN"
+    },
+    {
+      "added_at": "2024-10-23 15:13:59",
+      "album": {
+        "name": "Goodbye Horses",
+        "url": "https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "3.5",
+      "url": "https://open.spotify.com/track/6YvCWIlMBJgQEm6i0POVbZ"
+    },
+    {
+      "added_at": "2024-10-23 15:20:03",
+      "album": {
+        "name": "Goodbye Horses",
+        "url": "https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 126131,
+      "name": "Out West",
+      "url": "https://open.spotify.com/track/17WQkOlartDUNoZAM2iihK"
+    },
+    {
+      "added_at": "2024-10-23 15:23:35",
+      "album": {
+        "name": "Goodbye Horses",
+        "url": "https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "Sh*t Sad",
+      "url": "https://open.spotify.com/track/48GihjnmhKG9a6wbKJC6MF"
+    },
+    {
+      "added_at": "2024-10-23 15:26:36",
+      "album": {
+        "name": "Goodbye Horses",
+        "url": "https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 139148,
+      "name": "End Up Gone",
+      "url": "https://open.spotify.com/track/4pEfFdOlCCmRYWdt0OUTsW"
+    },
+    {
+      "added_at": "2024-10-23 15:33:14",
+      "album": {
+        "name": "Goodbye Horses",
+        "url": "https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        },
+        {
+          "name": "Eyesis",
+          "url": "https://open.spotify.com/artist/1G3WyhZvBWTDaPHVP1g5Ta"
+        }
+      ],
+      "duration_ms": 183243,
+      "name": "Goodbye Horses",
+      "url": "https://open.spotify.com/track/0J2cgvHznJVOgJPwRCZi9r"
     }
   ],
   "unique_name": "main ",

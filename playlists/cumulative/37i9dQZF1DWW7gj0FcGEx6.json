@@ -2821,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "It's What's Inside (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/36fPiOnPEspZbo8iVXpfge"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hewitt",
+          "url": "https://open.spotify.com/artist/4mMQy7Q3I3lcJXhk1FBy1P"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "It'll Be Like I'm Wearing a Wig in A Minor",
+      "url": "https://open.spotify.com/track/1R3qJGt36t5kJH0lQJAISs"
+    },
+    {
+      "album": {
         "name": "TILL (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/06yJQmJNX3iAT7GCld8GTe"
       },

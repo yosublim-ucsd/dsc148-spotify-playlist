@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 
 > A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,366 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,428 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 13 | [Mountain Dew](https://open.spotify.com/track/5d6ghHY3rguKu4NR68rvtH) | [Grandpa Jones](https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD) | [Mountain Dew](https://open.spotify.com/album/4jFlvRqA5hb6KnQxH3Wap3) | 2:45 |
 | 14 | [Home On the Range](https://open.spotify.com/track/1Hr94ZADw5cfltOCueNNPK) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:38 |
 | 15 | [I Want to Be a Cowboy's Sweetheart](https://open.spotify.com/track/1RIQw2QuIglFKwBgzRidIe) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG), [Prairie Ramblers](https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W) | [Patsy Montana \(Doxy Collection\)](https://open.spotify.com/album/6X7NzTn7L81LSlxSsHIGFD) | 3:10 |
-| 16 | [Tumbling Tumbleweeds \- Single Version](https://open.spotify.com/track/57D6AiyvWKSZppMyp8HNFl) | [Sons of the Pioneers](https://open.spotify.com/artist/05FDFpC7GMP5iLbBwpkJYs) | [Tumbling Tumbleweeds](https://open.spotify.com/album/2agohVudwSuZZFarAjZmkh) | 3:16 |
+| 16 | [Tumbling Tumbleweeds \- Single Version](https://open.spotify.com/track/57D6AiyvWKSZppMyp8HNFl) | [Sons of the Pioneers](https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68) | [Tumbling Tumbleweeds](https://open.spotify.com/album/2agohVudwSuZZFarAjZmkh) | 3:16 |
 | 17 | [Great Speckled Bird](https://open.spotify.com/track/73GgHC9lkVsEyVW9gp1X0E) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The King of Country](https://open.spotify.com/album/5IL280VXMuFzpMiIIdSESH) | 2:40 |
 | 18 | [Take Me Back To Tulsa](https://open.spotify.com/track/74zBjPCZ1juar6yeglInYv) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:34 |
 | 19 | [Back In The Saddle Again](https://open.spotify.com/track/4eePcTiLO6o5W4ejSQ7uSn) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:35 |

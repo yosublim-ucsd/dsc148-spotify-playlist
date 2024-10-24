@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Hermanos Guti\u00e9rrez on cover.",
-  "num_followers": 540734,
+  "num_followers": 540840,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
+      },
+      "artists": [
+        {
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "Who dreams of cats?",
+      "url": "https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Bacchanal",
         "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 288826,
       "name": "Three King Fishers",
       "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
-      },
-      "artists": [
-        {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "Who dreams of cats?",
-      "url": "https://open.spotify.com/track/7qJR9Buzv0ouKnVZB5AXQx"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Moon Needs The Owl Pt. 1",
-        "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
-      },
-      "artists": [
-        {
-          "name": "Upupay\u0101ma",
-          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
-        }
-      ],
-      "duration_ms": 298828,
-      "name": "Moon Needs The Owl Pt. 1",
-      "url": "https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 261556,
       "name": "Imaginary Girl",
       "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Moon Needs The Owl Pt. 1",
+        "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
+      },
+      "artists": [
+        {
+          "name": "Upupay\u0101ma",
+          "url": "https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD"
+        }
+      ],
+      "duration_ms": 298828,
+      "name": "Moon Needs The Owl Pt. 1",
+      "url": "https://open.spotify.com/track/1eTXV5JXftbL7nJVKg0P9R"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "ILION",
-        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
-      },
-      "artists": [
-        {
-          "name": "SLIFT",
-          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
-        }
-      ],
-      "duration_ms": 668573,
-      "name": "Ilion",
-      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Music For Film: Tramps!",
         "url": "https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 125973,
       "name": "Boudicaaa",
       "url": "https://open.spotify.com/track/1o7RV3dp8GwmRvQA2erpWU"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "ILION",
+        "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
+      },
+      "artists": [
+        {
+          "name": "SLIFT",
+          "url": "https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO"
+        }
+      ],
+      "duration_ms": 668573,
+      "name": "Ilion",
+      "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Lava",
-        "url": "https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH"
-      },
-      "artists": [
-        {
-          "name": "Vicente J\u00e1uregui",
-          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
-        }
-      ],
-      "duration_ms": 231381,
-      "name": "Lava",
-      "url": "https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "A Dream of Lasting Peace",
         "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 218013,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Lava",
+        "url": "https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        }
+      ],
+      "duration_ms": 231381,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Cinnamon Temple",
-        "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
-      },
-      "artists": [
-        {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
-        }
-      ],
-      "duration_ms": 200664,
-      "name": "Cinnamon Temple",
-      "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Death Hawks",
         "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 546640,
       "name": "Black Acid",
       "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Cinnamon Temple",
+        "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 200664,
+      "name": "Cinnamon Temple",
+      "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "El Gran Reinicio",
-        "url": "https://open.spotify.com/album/1ZSolBXU2thYm8mL5ZSOFI"
-      },
-      "artists": [
-        {
-          "name": "Supersilverhaze",
-          "url": "https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw"
-        }
-      ],
-      "duration_ms": 261400,
-      "name": "Antropoceno",
-      "url": "https://open.spotify.com/track/7GHXUuG2qJQh4kjnq12Lix"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Bud Spencer Blues Explosion",
         "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
       },
@@ -1023,22 +1007,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Mulberry Jam (Peaking Lights Dub)",
-        "url": "https://open.spotify.com/album/7C9OTuax57h4qbiyUce3N9"
+        "name": "El Gran Reinicio",
+        "url": "https://open.spotify.com/album/1ZSolBXU2thYm8mL5ZSOFI"
       },
       "artists": [
         {
-          "name": "Allah-Las",
-          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
-        },
-        {
-          "name": "Peaking Lights",
-          "url": "https://open.spotify.com/artist/54ECAJjvSyZGTWUgyt5tqc"
+          "name": "Supersilverhaze",
+          "url": "https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw"
         }
       ],
-      "duration_ms": 212426,
-      "name": "Mulberry Jam - Peaking Lights Dub",
-      "url": "https://open.spotify.com/track/3tA4mRZmCh3mthQ1vvbEvK"
+      "duration_ms": 261400,
+      "name": "Antropoceno",
+      "url": "https://open.spotify.com/track/7GHXUuG2qJQh4kjnq12Lix"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1055,6 +1035,26 @@
       "duration_ms": 425036,
       "name": "attention",
       "url": "https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Mulberry Jam (Peaking Lights Dub)",
+        "url": "https://open.spotify.com/album/7C9OTuax57h4qbiyUce3N9"
+      },
+      "artists": [
+        {
+          "name": "Allah-Las",
+          "url": "https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp"
+        },
+        {
+          "name": "Peaking Lights",
+          "url": "https://open.spotify.com/artist/54ECAJjvSyZGTWUgyt5tqc"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Mulberry Jam - Peaking Lights Dub",
+      "url": "https://open.spotify.com/track/3tA4mRZmCh3mthQ1vvbEvK"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "The Real Work",
+        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+      },
+      "artists": [
+        {
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "Risky Behaviour",
+      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Setan Dolbon",
         "url": "https://open.spotify.com/album/64zMN3GKtlvu0ohJXYSg7o"
       },
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "The Real Work",
-        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
       },
       "artists": [
         {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
         }
       ],
-      "duration_ms": 266737,
-      "name": "Risky Behaviour",
-      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1223,22 +1239,6 @@
       "duration_ms": 237493,
       "name": "Feel so Fine",
       "url": "https://open.spotify.com/track/6G25oGNPGDdkS3A74JnauO"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "A\u015fk\u0131n Sahtesi",
-        "url": "https://open.spotify.com/album/6gQvH7VnLuohXRpwLRfDvZ"
-      },
-      "artists": [
-        {
-          "name": "Miskinler",
-          "url": "https://open.spotify.com/artist/5KNoIhJ8lC7jWp0sFtAzmh"
-        }
-      ],
-      "duration_ms": 313205,
-      "name": "A\u015fk\u0131n Sahtesi",
-      "url": "https://open.spotify.com/track/6xTVbmiCkLq7NDoDgiKArK"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Breathe in, Breathe Out",
         "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 170333,
       "name": "Breathe in, Breathe Out",
       "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "A\u015fk\u0131n Sahtesi",
+        "url": "https://open.spotify.com/album/6gQvH7VnLuohXRpwLRfDvZ"
+      },
+      "artists": [
+        {
+          "name": "Miskinler",
+          "url": "https://open.spotify.com/artist/5KNoIhJ8lC7jWp0sFtAzmh"
+        }
+      ],
+      "duration_ms": 313205,
+      "name": "A\u015fk\u0131n Sahtesi",
+      "url": "https://open.spotify.com/track/6xTVbmiCkLq7NDoDgiKArK"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "World's Most Stressed Out Gardener",
-        "url": "https://open.spotify.com/album/4BxMHL4cGOv8gQad8pcJ43"
-      },
-      "artists": [
-        {
-          "name": "Chad VanGaalen",
-          "url": "https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ"
-        }
-      ],
-      "duration_ms": 239804,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Panther Rotate",
         "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "World's Most Stressed Out Gardener",
+        "url": "https://open.spotify.com/album/4BxMHL4cGOv8gQad8pcJ43"
+      },
+      "artists": [
+        {
+          "name": "Chad VanGaalen",
+          "url": "https://open.spotify.com/artist/597yzFFRvWnxCtDInHwciZ"
+        }
+      ],
+      "duration_ms": 239804,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Cardboard Pile",
-        "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "Cardboard Pile",
-      "url": "https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "You Will Know Nothing",
         "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 252089,
       "name": "Animal Noises",
       "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Cardboard Pile",
+        "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
+      },
+      "artists": [
+        {
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Cardboard Pile",
+      "url": "https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je"
     },
     {
       "added_at": "2024-09-27 06:00:00",

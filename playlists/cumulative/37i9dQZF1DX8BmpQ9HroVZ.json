@@ -7199,6 +7199,28 @@
     },
     {
       "album": {
+        "name": "Tere Bina Na Guzara E",
+        "url": "https://open.spotify.com/album/0yqDVd940RjJdyIMfAdgBH"
+      },
+      "artists": [
+        {
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
+        },
+        {
+          "name": "Kinza Hashmi",
+          "url": "https://open.spotify.com/artist/2Up4MLmBYIJV36ymeT44TF"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Tere Bina Na Guzara E",
+      "url": "https://open.spotify.com/track/4wILHvb65fCykx1BuRlvwa"
+    },
+    {
+      "album": {
         "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
         "url": "https://open.spotify.com/album/1lZk7TnMgvS3mSlfeWW1b3"
       },

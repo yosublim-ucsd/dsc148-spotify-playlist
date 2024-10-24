@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-351 songs - 17 hr 46 min
+352 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Nära](https://open.spotify.com/track/4Q2lddfv71gkbmg2qtge3C) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Nära](https://open.spotify.com/album/0rINoXrCdcapbCDEbMEuGC) | 2:29 | 2024-07-25 | 2024-10-04 |
 | [Nästa problem](https://open.spotify.com/track/1pGO2Cy3eUM2BzyS5QcZ1Q) | [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Nästa problem](https://open.spotify.com/album/4rNX5G5gAarGiHLBncRWc4) | 2:32 | 2024-07-25 | 2024-09-06 |
 | [Off My Chest](https://open.spotify.com/track/22zpUv58DM0ZbWFSGiYX2b) | [JEONA](https://open.spotify.com/artist/5d9C0JNNcd3zaujraQUOJG) | [Off My Chest](https://open.spotify.com/album/2AxIZshVCDqJMyuiFbjoxD) | 2:48 | 2024-08-22 | 2024-09-20 |
+| [Oh, To Be Cool](https://open.spotify.com/track/4AXzAOLaXRJ5fFYlX1F3QG) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Oh, To Be Cool](https://open.spotify.com/album/76oUHJreCw9z2nr561xwVF) | 3:18 | 2024-10-23 |  |
 | [OKÄND MARK](https://open.spotify.com/track/7sjMqzYApw0a13YEF1cSky) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX) | [OKÄND MARK](https://open.spotify.com/album/2WdpOTMALyoIO3aJO95gCF) | 2:21 | 2024-10-04 |  |
 | [Om & om](https://open.spotify.com/track/6pWyrCOLubc9o2ONNif6K8) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Älska mig en sista gång](https://open.spotify.com/album/0AupobRdLVg89hbnGnFBRm) | 3:30 | 2024-10-17 |  |
 | [Om tiden hade stannat](https://open.spotify.com/track/36Ynfvm2Mwq2shd0LRfTML) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Moa Michaeli](https://open.spotify.com/artist/3L0guCaIo8WSeLTgBJHRsc) | [Kollage](https://open.spotify.com/album/5vAOzXtg6NFTxjRxOY27zp) | 3:00 | 2024-07-25 | 2024-09-06 |
@@ -353,7 +354,7 @@
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-09-06 |
 | [Wrong Way](https://open.spotify.com/track/0FXcLWA1NO6MxAe9yiK3oo) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Wrong Way](https://open.spotify.com/album/7ezbuwRqByOoFxJbs9G7dm) | 2:57 | 2024-06-27 | 2024-08-23 |
 | [You Found Me](https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [You Found Me](https://open.spotify.com/album/0A4r9XhPvTM5Axc2ctn3Kv) | 3:27 | 2024-06-27 | 2024-08-09 |
-| [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 | 2024-10-04 |  |
+| [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/1M8QOfzsZofinnJNrgnYhh) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 | 2024-10-04 |  |
 | [You'll Be OK, Kid \- From the Original Documentary “Child Star”](https://open.spotify.com/track/3Ql8gLndDQ8VsVQyMW1GAA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [You'll Be OK, Kid \(From the Original Documentary “Child Star”\)](https://open.spotify.com/album/6TesEldZjVdwDg9OgI9YaK) | 2:46 | 2024-09-13 | 2024-10-11 |
 | [You're Always High](https://open.spotify.com/track/6YB79a954f6nzfYCkX8sXB) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [You're Always High](https://open.spotify.com/album/6UJVvGxOSk0TbJPAaolsNQ) | 3:03 | 2024-10-04 |  |
 | [Zoey](https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf) | [Josef Slunge](https://open.spotify.com/artist/1CcUIkJudKxfk8SZMLL1sd), [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Zoey](https://open.spotify.com/album/0FUo6zTonfZsCnKR6C9GCX) | 3:03 | 2024-09-26 |  |

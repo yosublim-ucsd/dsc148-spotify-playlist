@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Joema Lauriano
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,139 likes - 97 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,192 likes - 97 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

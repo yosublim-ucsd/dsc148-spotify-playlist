@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos <a href="https://bit.ly/mexcla\_playlist"> AQUÍ</a> Bellakath en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,028 likes - 98 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,791 likes - 98 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

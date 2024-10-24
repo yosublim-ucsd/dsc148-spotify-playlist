@@ -3295,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "Swank",
+        "url": "https://open.spotify.com/album/0EujCC25rrW0jGOMNOxwLS"
+      },
+      "artists": [
+        {
+          "name": "Spencer Barnett",
+          "url": "https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "Swank",
+      "url": "https://open.spotify.com/track/7mnqXavrCT8qXpteGeF1uD"
+    },
+    {
+      "album": {
         "name": "What Box?",
         "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
       },

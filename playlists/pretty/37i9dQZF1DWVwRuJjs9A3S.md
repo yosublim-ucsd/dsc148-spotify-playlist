@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: MØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,263 likes - 134 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,262 likes - 134 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

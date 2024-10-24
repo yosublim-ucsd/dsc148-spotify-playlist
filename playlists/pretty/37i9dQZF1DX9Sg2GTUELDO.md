@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: Gin Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,359 likes - 391 songs - 23 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,361 likes - 391 songs - 23 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

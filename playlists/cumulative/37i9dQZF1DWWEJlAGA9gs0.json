@@ -6321,6 +6321,56 @@
     },
     {
       "album": {
+        "name": "Beethoven: Symphony No.9",
+        "url": "https://open.spotify.com/album/3PFXzb8ySwZMDjyD25c6Bt"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Janet Perry",
+          "url": "https://open.spotify.com/artist/1bV3KjOPs1AI3OolJiYogN"
+        },
+        {
+          "name": "Agnes Baltsa",
+          "url": "https://open.spotify.com/artist/2amF56vDuTTbZJQsqUgbuC"
+        },
+        {
+          "name": "Vinson Cole",
+          "url": "https://open.spotify.com/artist/2j6cP3f3TxyHzcKdWYSm6h"
+        },
+        {
+          "name": "Jos\u00e9 van Dam",
+          "url": "https://open.spotify.com/artist/5qNUHMEhszyeXNYMn4sswd"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        },
+        {
+          "name": "Wiener Singverein",
+          "url": "https://open.spotify.com/artist/35QSympF887CO8h5eZHme2"
+        },
+        {
+          "name": "Helmut Froschauer",
+          "url": "https://open.spotify.com/artist/172Encqfd2ZhWAleNg1gbO"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1093733,
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": IVc-j. Presto. O Freunde nicht diese T\u00f6ne \u2013 Prestissimo",
+      "url": "https://open.spotify.com/track/6tafBGmYbMXZUDrBSCTzXy"
+    },
+    {
+      "album": {
         "name": "Dvo\u0159\u00e1k: Symphony No. 9 \"From the New World\" (Live)",
         "url": "https://open.spotify.com/album/0IT7dlpnQAfmSjIAiSAboK"
       },
@@ -7790,6 +7840,28 @@
       "duration_ms": 364093,
       "name": "Violin Sonata in A major, FWV 8: IV. Allegretto poco mosso",
       "url": "https://open.spotify.com/track/0xX7kREWmOGBWzYNcpZwRN"
+    },
+    {
+      "album": {
+        "name": "Bernstein: West Side Story - Symphonic Dances",
+        "url": "https://open.spotify.com/album/4KVHhJCsKQSfkaphnrB36f"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193973,
+      "name": "West Side Story Symphonic Dances: IX. Finale - Live",
+      "url": "https://open.spotify.com/track/2aaEUM8ZvLHO788X8C5W13"
     },
     {
       "album": {

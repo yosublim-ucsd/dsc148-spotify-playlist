@@ -297,6 +297,28 @@
     },
     {
       "album": {
+        "name": "Andaz E Karam",
+        "url": "https://open.spotify.com/album/0GKiJHE5yAM4UUoILWLWZm"
+      },
+      "artists": [
+        {
+          "name": "Farasat Anees",
+          "url": "https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm"
+        },
+        {
+          "name": "HAVI",
+          "url": "https://open.spotify.com/artist/3P8ZD2X9kQJfeVcjr3GLP4"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Andaz E Karam",
+      "url": "https://open.spotify.com/track/5z8KuGkXVelJFPxtpzyXJf"
+    },
+    {
+      "album": {
         "name": "Ap Se Mil Ke Hum",
         "url": "https://open.spotify.com/album/6zSih1hDqwitiWJ38tbmtZ"
       },
@@ -1929,6 +1951,32 @@
     },
     {
       "album": {
+        "name": "Laykin",
+        "url": "https://open.spotify.com/album/2a70nhNX5YCkX7qjnOn2fJ"
+      },
+      "artists": [
+        {
+          "name": "Ali & Shjr",
+          "url": "https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy"
+        },
+        {
+          "name": "Ali Raza",
+          "url": "https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC"
+        },
+        {
+          "name": "Shajjar Hussain",
+          "url": "https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Laykin",
+      "url": "https://open.spotify.com/track/7ACdEdtwLSywi1nkN5Xlsk"
+    },
+    {
+      "album": {
         "name": "Left Right",
         "url": "https://open.spotify.com/album/3IHcOFALXIYAJ7FQBgkPVp"
       },
@@ -2717,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Sajna da Dil Torya",
+        "url": "https://open.spotify.com/album/25WaVHgt0uihWqg4EVgR5p"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253150,
+      "name": "Sajna da Dil Torya",
+      "url": "https://open.spotify.com/track/05Xd5LJpv6cKDUavCg2EWh"
+    },
+    {
+      "album": {
         "name": "Same Beef",
         "url": "https://open.spotify.com/album/31psNfWEweb2avBzLNiTZk"
       },
@@ -3122,7 +3188,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 269650,
       "name": "Tu hai kahan (feat. ZAYN)",
       "url": "https://open.spotify.com/track/7K6RLbkpqZI4OaoSnLcBiU"

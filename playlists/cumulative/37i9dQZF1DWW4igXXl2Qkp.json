@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:3x8MpdnONnHCqbwizrn29H\">Vayda</a>\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:3OrXU7Z906hHdbG5fTQ6Ef\">Lil Bean</a>\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -2149,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "B.I.T.R.",
+        "url": "https://open.spotify.com/album/3rrbArxOV8aXKhtSHQcQIo"
+      },
+      "artists": [
+        {
+          "name": "E the profit",
+          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90740,
+      "name": "B.I.T.R.",
+      "url": "https://open.spotify.com/track/0bBjWaVsmYrPzQ7XWteuc8"
+    },
+    {
+      "album": {
         "name": "B.N.B",
         "url": "https://open.spotify.com/album/14o1L3wWJUsxtgKUMkiZUw"
       },
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 171926,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/7xq70FRZbXnpf5B8chHNpH"
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 129826,
       "name": "BOSS COFFEE",
       "url": "https://open.spotify.com/track/0ejkK2SxUHrNTKCu3lgUEo"
@@ -10252,7 +10270,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 120393,
       "name": "GOD GOT ME",
       "url": "https://open.spotify.com/track/2OUkIRXCD0rfvBkm0Lno7K"
@@ -10590,7 +10608,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 95319,
       "name": "Groovy Steppin Sh*t",
       "url": "https://open.spotify.com/track/0qeGSghWKkx1Z1Ocy2wbJy"
@@ -11850,7 +11868,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 160062,
       "name": "I Just Can't Be Alone (with Billy Lemos)",
       "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
@@ -11872,6 +11890,28 @@
       "duration_ms": 126473,
       "name": "I Like",
       "url": "https://open.spotify.com/track/4FV1qGukKvdaVtBcv853Bi"
+    },
+    {
+      "album": {
+        "name": "I Like Remix",
+        "url": "https://open.spotify.com/album/2DriqDgX2GFvSJQMc9csZ7"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188488,
+      "name": "I Like Remix",
+      "url": "https://open.spotify.com/track/6wGBH9yQcMDmYg21siMv48"
     },
     {
       "album": {
@@ -12108,7 +12148,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 113571,
       "name": "Ichigo",
       "url": "https://open.spotify.com/track/6USyAT0lJYDVdP9LXbPjZk"
@@ -12450,6 +12490,24 @@
       "duration_ms": 181629,
       "name": "Irregular",
       "url": "https://open.spotify.com/track/0HhEvFxhhrbg9ddKSgkNKC"
+    },
+    {
+      "album": {
+        "name": "issa wrap",
+        "url": "https://open.spotify.com/album/1hZUjmEmVscMXIm40yxMgJ"
+      },
+      "artists": [
+        {
+          "name": "Kharii",
+          "url": "https://open.spotify.com/artist/68m7VDKqEQf6Zq66CF9OA6"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153130,
+      "name": "issa wrap",
+      "url": "https://open.spotify.com/track/4rcLWUmQMFCNdN9GaeHRWQ"
     },
     {
       "album": {
@@ -16326,7 +16384,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 157415,
       "name": "motion",
       "url": "https://open.spotify.com/track/5FDBiGmxz7apG54sqAnJHT"
@@ -16580,7 +16638,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 132469,
       "name": "ms. beautiful V!",
       "url": "https://open.spotify.com/track/2xLgAD3wLIhkOjpnlnEbgs"
@@ -17012,6 +17070,24 @@
       "duration_ms": 181067,
       "name": "Naismith",
       "url": "https://open.spotify.com/track/1DEh40qd7f1Mx9Itg3lmZ5"
+    },
+    {
+      "album": {
+        "name": "Narrow Alley",
+        "url": "https://open.spotify.com/album/3C3EkGd8Q8HPIxF7knXgBY"
+      },
+      "artists": [
+        {
+          "name": "AC640",
+          "url": "https://open.spotify.com/artist/4jALQ8p9YGOf82lVPEnLAT"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125747,
+      "name": "Narrow Alley",
+      "url": "https://open.spotify.com/track/53B4gxY5vjMpzniajhoAJS"
     },
     {
       "album": {
@@ -18979,6 +19055,24 @@
     },
     {
       "album": {
+        "name": "KAST GOT WINGS",
+        "url": "https://open.spotify.com/album/39wP7bJBE7c61XHR4Sgp1N"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124392,
+      "name": "PAYMEAGRIP",
+      "url": "https://open.spotify.com/track/5Ge82v421JbdEDzasoSchN"
+    },
+    {
+      "album": {
         "name": "The Color Chocolate, Vol. 1",
         "url": "https://open.spotify.com/album/3B9qAyredyx8AuluJi3OYr"
       },
@@ -20334,7 +20428,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 117368,
       "name": "Real Deal Playa",
       "url": "https://open.spotify.com/track/0px6lvL9bJaiQmwdRbeISF"
@@ -21206,6 +21300,24 @@
       "duration_ms": 134452,
       "name": "Rush",
       "url": "https://open.spotify.com/track/6Y1nNd6fuIFcbOvTYWhQ2K"
+    },
+    {
+      "album": {
+        "name": "R\u00f6kKOut",
+        "url": "https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232498,
+      "name": "R\u00f6kKOut",
+      "url": "https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh"
     },
     {
       "album": {
@@ -23455,6 +23567,24 @@
     },
     {
       "album": {
+        "name": "Elite Vessel",
+        "url": "https://open.spotify.com/album/4CM64AqgbtDE5kpcJAgi8F"
+      },
+      "artists": [
+        {
+          "name": "Lexa Gates",
+          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194525,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/367CDUovzWoyhxNF18uVrd"
+    },
+    {
+      "album": {
         "name": "stussy converse",
         "url": "https://open.spotify.com/album/3hPyhdyp6uL1nUAcKa3JQj"
       },
@@ -25137,6 +25267,24 @@
     },
     {
       "album": {
+        "name": "too many distractions",
+        "url": "https://open.spotify.com/album/7tTDsYGks3QNQjapjTKKlN"
+      },
+      "artists": [
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "too many distractions",
+      "url": "https://open.spotify.com/track/3y3FcLdVM3pmRcxCr1ZvEM"
+    },
+    {
+      "album": {
         "name": "Too Nice",
         "url": "https://open.spotify.com/album/0EWmeppHgwRfPwCDqA2gf1"
       },
@@ -25794,7 +25942,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 96909,
       "name": "U My Drug",
       "url": "https://open.spotify.com/track/5f4NZL4xurwVhGjafGVIic"
@@ -26036,10 +26184,28 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 116009,
       "name": "UP",
       "url": "https://open.spotify.com/track/0VQCLyLm4Rchf7ZV1YMAUJ"
+    },
+    {
+      "album": {
+        "name": "up late, up early",
+        "url": "https://open.spotify.com/album/10Omf8FSKVpVLtqaJlbGl7"
+      },
+      "artists": [
+        {
+          "name": "DDK",
+          "url": "https://open.spotify.com/artist/7AfTMScTc5pSfjjxtatrIq"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192611,
+      "name": "up late, up early",
+      "url": "https://open.spotify.com/track/53XXNcYJvxiUSYM98cai0U"
     },
     {
       "album": {
@@ -26058,6 +26224,24 @@
       "duration_ms": 117626,
       "name": "UP, LIT.",
       "url": "https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU"
+    },
+    {
+      "album": {
+        "name": "UR A DUB",
+        "url": "https://open.spotify.com/album/4s0zTsxm5FV10XhnbR6nYo"
+      },
+      "artists": [
+        {
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "UR A DUB",
+      "url": "https://open.spotify.com/track/7vYqHs9TJYbh46wVfjAOYw"
     },
     {
       "album": {
@@ -26978,6 +27162,28 @@
       "duration_ms": 235543,
       "name": "WHAT HAPP3N3D?",
       "url": "https://open.spotify.com/track/2liJBTiP3RJofHl7wTm9gv"
+    },
+    {
+      "album": {
+        "name": "Groovy Steppin Sh*t",
+        "url": "https://open.spotify.com/album/62nn6rbJNl8ZbPS1CcjXEa"
+      },
+      "artists": [
+        {
+          "name": "Lisha G",
+          "url": "https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ"
+        },
+        {
+          "name": "Trini Viv",
+          "url": "https://open.spotify.com/artist/0BdYblPVnK3wnWREfBQ712"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "What I Said",
+      "url": "https://open.spotify.com/track/0WJdZVcRVEQ8jxDiRVC2qx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Aiko el grupo.
 
-194 songs - 10 hr 6 min
+195 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Darveider](https://open.spotify.com/track/2KaOOQ2130RPjcnz8A1DuR) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Darveider](https://open.spotify.com/album/3DujoKOCP2JsIRslD8QnfT) | 2:36 | 2024-06-27 | 2024-10-11 |
 | [De aquí a un mes](https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL) | [Error 97](https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1) | [De aquí a un mes](https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w) | 2:21 | 2024-08-29 |  |
 | [Decidí Desaparecer](https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Decidí Desaparecer](https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO) | 2:43 | 2024-06-27 |  |
-| [Deconstrucción](https://open.spotify.com/track/3Idd0RLLacT6ZRcM4Aj0KP) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Deconstrucción](https://open.spotify.com/album/5Zpuijy5w6Pxbe3IrCn0wU) | 4:40 | 2024-07-25 |  |
+| [Deconstrucción](https://open.spotify.com/track/3Idd0RLLacT6ZRcM4Aj0KP) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Deconstrucción](https://open.spotify.com/album/5Zpuijy5w6Pxbe3IrCn0wU) | 4:40 | 2024-07-25 | 2024-10-24 |
 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 | 2024-06-27 | 2024-09-27 |
 | [Despierta](https://open.spotify.com/track/1jqOv7hQoCmw4XxIkNOHV8) | [Quizás Mañana](https://open.spotify.com/artist/1VsLvsLzVoBjPcNcnCTLO6) | [Despierta](https://open.spotify.com/album/4VdeQ3UgFRoW4OPlJr6oTu) | 3:07 | 2024-08-22 | 2024-08-30 |
 | [Diciendo que Me Quieres](https://open.spotify.com/track/4ewS1SzDqpEOzkSUSBKmeL) | [Mujeres](https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO) | [Diciendo que Me Quieres](https://open.spotify.com/album/6Hnnk5RRXAfkpVheJde33u) | 3:26 | 2024-06-27 | 2024-07-12 |
@@ -167,6 +167,7 @@
 | [Sin Hablar](https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Repion](https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R) | 3:25 | 2024-06-27 | 2024-10-13 |
 | [Sin Más](https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4) | [Joven Dolores](https://open.spotify.com/artist/6SNJAvWSF0KZJbt3T162RH) | [Sin Más](https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ) | 3:18 | 2024-06-27 |  |
 | [Sofisticado](https://open.spotify.com/track/2UEtrZwOlCSgUpx0GYeTFY) | [levitants](https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV) | [Sofisticado](https://open.spotify.com/album/38hAaDQw9itDaxurry5vrw) | 2:57 | 2024-06-27 |  |
+| [SOY UN PERRO](https://open.spotify.com/track/35Ls1OuREdhnniJBmOROve) | [pobre lucca](https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA), [Talla](https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI), [detunedfreq](https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K) | [EL CAMINO DEL DELULU](https://open.spotify.com/album/4B1pgdPZ7pCvEJaiL4Be7E) | 1:54 | 2024-10-17 |  |
 | [Stranger](https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [VIVA HINDS](https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU) | 3:26 | 2024-09-05 | 2024-09-27 |
 | [SUMMER NOSTALGIA](https://open.spotify.com/track/1MlLMl7vrGvoR7LOHdqdv0) | [Johnny Garso](https://open.spotify.com/artist/6zvsUJE9zNUpP3mV3tQsCg) | [SUMMER NOSTALGIA](https://open.spotify.com/album/61S51d00CHdUHH7FTTVhtL) | 2:57 | 2024-09-05 | 2024-09-27 |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-25 | 2024-08-23 |

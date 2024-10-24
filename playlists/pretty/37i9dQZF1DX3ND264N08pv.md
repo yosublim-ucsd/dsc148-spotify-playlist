@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,635 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,679 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 63 | [DANCEFLOOR SLAYER](https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [DANCEFLOOR SLAYER](https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo) | 2:41 |
 | 64 | [Spellbound](https://open.spotify.com/track/5rDs2OzHnP6V6JuqEf5aDx) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO) | [Spellbound](https://open.spotify.com/album/3VVzubmO7pwygwJpniAgEf) | 3:26 |
 | 65 | [Go Insane](https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Go Insane](https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG) | 3:15 |
-| 66 | [Burn](https://open.spotify.com/track/1RZw5ReZ2prm5qYxia8ANN) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Burn](https://open.spotify.com/album/0MnAzPohStGYOnAODeo205) | 2:50 |
+| 66 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 |
 | 67 | [Coco's Revenge \- Mind Compressor Remix](https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [Coco's Revenge \(Mind Compressor Remix\)](https://open.spotify.com/album/1GR75iYaGvtwbWxkN39XZD) | 3:16 |
-| 68 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 |
+| 68 | [Burn](https://open.spotify.com/track/1RZw5ReZ2prm5qYxia8ANN) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p), [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Burn](https://open.spotify.com/album/0MnAzPohStGYOnAODeo205) | 2:50 |
 | 69 | [Wake Up Now](https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk) | [Lem\-X](https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n) | [Wake Up Now](https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7) | 3:22 |
 | 70 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 |
 | 71 | [Mutilate](https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE) | [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab), [Amduscias](https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y) | [Mutilate](https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b) | 3:50 |

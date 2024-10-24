@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Ezra Collective",
-  "num_followers": 317559,
+  "num_followers": 317592,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
+        "name": "Save You",
+        "url": "https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "duration_ms": 132320,
+      "name": "Save You",
+      "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
         "name": "Chaser",
         "url": "https://open.spotify.com/album/23WJPRbfvQ5bSi0l7kPJpJ"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 133769,
       "name": "Chaser",
       "url": "https://open.spotify.com/track/7HIjoaiILq0lCGzFtd2lFK"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
-        "name": "Save You",
-        "url": "https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 132320,
-      "name": "Save You",
-      "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "Breeze",
-        "url": "https://open.spotify.com/album/6KI58XTMpXQCMRqAQXeAGL"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 267013,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
         "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
         "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
@@ -455,6 +439,22 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
+        "name": "Breeze",
+        "url": "https://open.spotify.com/album/6KI58XTMpXQCMRqAQXeAGL"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 267013,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
         "name": "Old Cape Cod",
         "url": "https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 209043,
       "name": "Old Cape Cod",
       "url": "https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
-        "name": "Lag\u00f4",
-        "url": "https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD"
-      },
-      "artists": [
-        {
-          "name": "wordsofAzia",
-          "url": "https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "Lag\u00f4",
-      "url": "https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -507,6 +491,22 @@
       "duration_ms": 158873,
       "name": "Tuna Salad Samba",
       "url": "https://open.spotify.com/track/0wkTHSjxa25LvFpK79FGAq"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
+        "name": "Lag\u00f4",
+        "url": "https://open.spotify.com/album/4zbxocEgsI9qu89vic9MaD"
+      },
+      "artists": [
+        {
+          "name": "wordsofAzia",
+          "url": "https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7"
+        }
+      ],
+      "duration_ms": 156279,
+      "name": "Lag\u00f4",
+      "url": "https://open.spotify.com/track/0pW0Hui92jkwKyE0PZh60c"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
+        "name": "dance tonight",
+        "url": "https://open.spotify.com/album/00coMhH2J8lGx01f2FUL8P"
+      },
+      "artists": [
+        {
+          "name": "Indira May",
+          "url": "https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24"
+        }
+      ],
+      "duration_ms": 165191,
+      "name": "dance tonight",
+      "url": "https://open.spotify.com/track/2DLvNxWG0YJS6yDf6KJsmK"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
         "name": "Dumplings For Dinner",
         "url": "https://open.spotify.com/album/0SxEIsdwifanmj4Sx3M1Ep"
       },
@@ -583,18 +599,18 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "dance tonight",
-        "url": "https://open.spotify.com/album/00coMhH2J8lGx01f2FUL8P"
+        "name": "The Colour Purple (Live From Malibu)",
+        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
       },
       "artists": [
         {
-          "name": "Indira May",
-          "url": "https://open.spotify.com/artist/4PStVha6j7ZX2DNtWwIR24"
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 165191,
-      "name": "dance tonight",
-      "url": "https://open.spotify.com/track/2DLvNxWG0YJS6yDf6KJsmK"
+      "duration_ms": 163226,
+      "name": "The Colour Purple - Live From Malibu",
+      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -611,22 +627,6 @@
       "duration_ms": 168218,
       "name": "Orange-coloured day",
       "url": "https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
-        "name": "The Colour Purple (Live From Malibu)",
-        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "The Colour Purple - Live From Malibu",
-      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -851,38 +851,6 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "Mardy",
-        "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
-      },
-      "artists": [
-        {
-          "name": "Olympia Vitalis",
-          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Mardy",
-      "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
-        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
-        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
-      },
-      "artists": [
-        {
-          "name": "Zara McFarlane",
-          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
-        }
-      ],
-      "duration_ms": 279749,
-      "name": "Inner City Blues",
-      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
         "name": "Volte-Face",
         "url": "https://open.spotify.com/album/42Zh1ftsN4bR2zwJXEtCoE"
       },
@@ -903,34 +871,18 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "Actress",
-        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
+        "name": "Mardy",
+        "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
       },
       "artists": [
         {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
         }
       ],
-      "duration_ms": 238003,
-      "name": "Actress",
-      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
-        "name": "Radio Masoda",
-        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
-      },
-      "artists": [
-        {
-          "name": "Franck Biyong",
-          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
-        }
-      ],
-      "duration_ms": 291279,
-      "name": "Jela Kubwa Na Viboko",
-      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
+      "duration_ms": 163404,
+      "name": "Mardy",
+      "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -955,34 +907,50 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "Here Today Gone Tomorrow",
-        "url": "https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ"
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
       },
       "artists": [
         {
-          "name": "Raffy Bushman",
-          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
         }
       ],
-      "duration_ms": 386885,
-      "name": "Love of Mine",
-      "url": "https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb"
+      "duration_ms": 238003,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
     },
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "In The Void of All Things",
-        "url": "https://open.spotify.com/album/5L7QNd8q9TTLqzjNMXBcVR"
+        "name": "Sweet Whispers: Celebrating Sarah Vaughan",
+        "url": "https://open.spotify.com/album/68s468xGl5xo5GASE9YNvO"
       },
       "artists": [
         {
-          "name": "Kinkajous",
-          "url": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
+          "name": "Zara McFarlane",
+          "url": "https://open.spotify.com/artist/2KwROtmoJfRcQHqDMiV6uo"
         }
       ],
-      "duration_ms": 200009,
-      "name": "In The Void of All Things",
-      "url": "https://open.spotify.com/track/0VfmoZjMGHS1OXeoCNyobC"
+      "duration_ms": 279749,
+      "name": "Inner City Blues",
+      "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
+        "name": "Radio Masoda",
+        "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
+      },
+      "artists": [
+        {
+          "name": "Franck Biyong",
+          "url": "https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E"
+        }
+      ],
+      "duration_ms": 291279,
+      "name": "Jela Kubwa Na Viboko",
+      "url": "https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1007,6 +975,22 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
+        "name": "Here Today Gone Tomorrow",
+        "url": "https://open.spotify.com/album/26lSeSAik3cU8RtembPlOZ"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "duration_ms": 386885,
+      "name": "Love of Mine",
+      "url": "https://open.spotify.com/track/5hXhBMfTEPyswGhah0z3Lb"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/2NY2edrq5vozPIDkyn0zrs"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 165333,
       "name": "Replay",
       "url": "https://open.spotify.com/track/082cdgTa4xK8dmgNKQ1evt"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
+        "name": "In The Void of All Things",
+        "url": "https://open.spotify.com/album/5L7QNd8q9TTLqzjNMXBcVR"
+      },
+      "artists": [
+        {
+          "name": "Kinkajous",
+          "url": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
+        }
+      ],
+      "duration_ms": 200009,
+      "name": "In The Void of All Things",
+      "url": "https://open.spotify.com/track/0VfmoZjMGHS1OXeoCNyobC"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "Not Real People",
-        "url": "https://open.spotify.com/album/7hepxRy2Sm9yrGoM2aWakU"
-      },
-      "artists": [
-        {
-          "name": "oreglo",
-          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
-        }
-      ],
-      "duration_ms": 418640,
-      "name": "opedge",
-      "url": "https://open.spotify.com/track/5Tzwhyt2mCcnCjlD1r5Fri"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
-        "name": "SHINE IN",
-        "url": "https://open.spotify.com/album/4aOc1sIevjX4PBCv8p18kV"
-      },
-      "artists": [
-        {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
-        }
-      ],
-      "duration_ms": 170684,
-      "name": "SHINE IN",
-      "url": "https://open.spotify.com/track/6Fwf2T6bVCKNs9D7HnrQOQ"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
         "name": "I\u2019ll Do Whatever You Want",
         "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
       },
@@ -1139,6 +1107,22 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
+        "name": "Not Real People",
+        "url": "https://open.spotify.com/album/7hepxRy2Sm9yrGoM2aWakU"
+      },
+      "artists": [
+        {
+          "name": "oreglo",
+          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
+        }
+      ],
+      "duration_ms": 418640,
+      "name": "opedge",
+      "url": "https://open.spotify.com/track/5Tzwhyt2mCcnCjlD1r5Fri"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
         "name": "ON THE MOVE",
         "url": "https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 222931,
       "name": "ON THE MOVE",
       "url": "https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
+        "name": "SHINE IN",
+        "url": "https://open.spotify.com/album/4aOc1sIevjX4PBCv8p18kV"
+      },
+      "artists": [
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "duration_ms": 170684,
+      "name": "SHINE IN",
+      "url": "https://open.spotify.com/track/6Fwf2T6bVCKNs9D7HnrQOQ"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "My Type",
-        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
+        "name": "In The Garden",
+        "url": "https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp"
       },
       "artists": [
         {
-          "name": "Bea Maher",
-          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        },
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
         }
       ],
-      "duration_ms": 232068,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
+      "duration_ms": 280586,
+      "name": "In The Garden",
+      "url": "https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1259,6 +1263,22 @@
       "duration_ms": 222989,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/3fYHcbbE5I88UKIPg2Oa2f"
+    },
+    {
+      "added_at": "2024-10-18 11:49:15",
+      "album": {
+        "name": "My Type",
+        "url": "https://open.spotify.com/album/34uZsXy8PS9LIrP3fIkuzl"
+      },
+      "artists": [
+        {
+          "name": "Bea Maher",
+          "url": "https://open.spotify.com/artist/4Hln8VI3ChXqUHyHGrLgkf"
+        }
+      ],
+      "duration_ms": 232068,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/6GWFVXScr30DquUSJTkwZB"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1295,38 +1315,18 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "In The Garden",
-        "url": "https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp"
+        "name": "BEG",
+        "url": "https://open.spotify.com/album/70EpH8QX7XLGwT2RmExT7T"
       },
       "artists": [
         {
-          "name": "Sol Paradise",
-          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
-        },
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
         }
       ],
-      "duration_ms": 280586,
-      "name": "In The Garden",
-      "url": "https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP"
-    },
-    {
-      "added_at": "2024-10-18 11:49:15",
-      "album": {
-        "name": "Life in Time",
-        "url": "https://open.spotify.com/album/1Vgz1tCLnS1xmmNcLGMdJ9"
-      },
-      "artists": [
-        {
-          "name": "Heritage",
-          "url": "https://open.spotify.com/artist/6u1u0AhI6mFu0Ts90j9mHz"
-        }
-      ],
-      "duration_ms": 296760,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/06ZtOGU9o24rkc4fCwi88J"
+      "duration_ms": 160578,
+      "name": "BEG",
+      "url": "https://open.spotify.com/track/6lDnQf5fGYyqGdCwgwVgZs"
     },
     {
       "added_at": "2024-10-18 11:49:15",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-10-18 11:49:15",
       "album": {
-        "name": "BEG",
-        "url": "https://open.spotify.com/album/70EpH8QX7XLGwT2RmExT7T"
+        "name": "Life in Time",
+        "url": "https://open.spotify.com/album/1Vgz1tCLnS1xmmNcLGMdJ9"
       },
       "artists": [
         {
-          "name": "Lex Amor",
-          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+          "name": "Heritage",
+          "url": "https://open.spotify.com/artist/6u1u0AhI6mFu0Ts90j9mHz"
         }
       ],
-      "duration_ms": 160578,
-      "name": "BEG",
-      "url": "https://open.spotify.com/track/6lDnQf5fGYyqGdCwgwVgZs"
+      "duration_ms": 296760,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/06ZtOGU9o24rkc4fCwi88J"
     }
   ],
   "unique_name": "Jazz UK",

@@ -6350,7 +6350,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 181392,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/07ggleO05R5MX6E1RsKVyG"
@@ -20661,6 +20661,28 @@
     },
     {
       "album": {
+        "name": "Mandel\u00e3oworld",
+        "url": "https://open.spotify.com/album/1E7RoGO1g17vEShtMAIT3v"
+      },
+      "artists": [
+        {
+          "name": "DJ Blakes",
+          "url": "https://open.spotify.com/artist/68sRe1jDgKyZ9bYjAvwEAz"
+        },
+        {
+          "name": "Mc Sapinha",
+          "url": "https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146165,
+      "name": "FE!N Mandel\u00e3o",
+      "url": "https://open.spotify.com/track/1vAPdB3MFSS9kLGfpTKwar"
+    },
+    {
+      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -24918,7 +24940,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -47000,7 +47022,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 180107,
       "name": "Sabe que os mlk \u00e9 drake, n\u00e3o \u00e9 bigode n\u00e3o",
       "url": "https://open.spotify.com/track/5nFcEvxuJaeGt6rb1hKhCW"

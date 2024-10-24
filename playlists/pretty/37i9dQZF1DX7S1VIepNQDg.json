@@ -1,6 +1,6 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 60402,
+  "num_followers": 60408,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Ms. Poli Sci",
-        "url": "https://open.spotify.com/album/7qypqH6zU0ZowehywC9395"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        },
-        {
-          "name": "Khary",
-          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
-        }
-      ],
-      "duration_ms": 128703,
-      "name": "Ms. Poli Sci",
-      "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "No Nein",
         "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Ms. Poli Sci",
+        "url": "https://open.spotify.com/album/7qypqH6zU0ZowehywC9395"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        },
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "duration_ms": 128703,
+      "name": "Ms. Poli Sci",
+      "url": "https://open.spotify.com/track/3imYkN34og7muZbkSZWLUW"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 253076,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 253076,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Good Mood",
-        "url": "https://open.spotify.com/album/4D5IsmVGxyPUPtLpNXXeK8"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "Good Mood",
-      "url": "https://open.spotify.com/track/0wqgJddzN1mlpkKnGc2daB"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Cowboy Tears Drown the World in a Swimming Pool of Sorrow (Deluxe)",
         "url": "https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 191711,
       "name": "true",
       "url": "https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Good Mood",
+        "url": "https://open.spotify.com/album/4D5IsmVGxyPUPtLpNXXeK8"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "Good Mood",
+      "url": "https://open.spotify.com/track/0wqgJddzN1mlpkKnGc2daB"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK"
+      },
+      "artists": [
+        {
+          "name": "Club Angel",
+          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
+        }
+      ],
+      "duration_ms": 230074,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "Chez Moi (Waiting For You)",
         "url": "https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 267111,
       "name": "Chez Moi (Waiting For You) - Edit",
       "url": "https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK"
-      },
-      "artists": [
-        {
-          "name": "Club Angel",
-          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
-        }
-      ],
-      "duration_ms": 230074,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW"
+        "name": "Cleave",
+        "url": "https://open.spotify.com/album/195Un6jYy1ckMxggNTUsgV"
       },
       "artists": [
         {
-          "name": "FRIDAY*",
-          "url": "https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk"
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
         }
       ],
-      "duration_ms": 163500,
-      "name": "Radiohead",
-      "url": "https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H"
+      "duration_ms": 271493,
+      "name": "On The Eve Of The Rush",
+      "url": "https://open.spotify.com/track/4RZfv0PuRnLmbVJZhaGqTz"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Cleave",
-        "url": "https://open.spotify.com/album/195Un6jYy1ckMxggNTUsgV"
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW"
       },
       "artists": [
         {
-          "name": "Vallis Alps",
-          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+          "name": "FRIDAY*",
+          "url": "https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk"
         }
       ],
-      "duration_ms": 271493,
-      "name": "On The Eve Of The Rush",
-      "url": "https://open.spotify.com/track/4RZfv0PuRnLmbVJZhaGqTz"
+      "duration_ms": 163500,
+      "name": "Radiohead",
+      "url": "https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "WEEKEND AT BERNIES",
-        "url": "https://open.spotify.com/album/5Iiwj7WkT0Kew0cdc0Daxa"
-      },
-      "artists": [
-        {
-          "name": "Jack Panther",
-          "url": "https://open.spotify.com/artist/2uSgBrZHrd1cZDZKZX0PDN"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "WEEKEND AT BERNIES",
-      "url": "https://open.spotify.com/track/34iAb7yWcKdHkWwm33k2Ip"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Need U",
         "url": "https://open.spotify.com/album/06RiNKQaHus4Q0GD4aN2xT"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 202611,
       "name": "Need U",
       "url": "https://open.spotify.com/track/6OAlog0TfLYgmT1LVXPOQU"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "WEEKEND AT BERNIES",
+        "url": "https://open.spotify.com/album/5Iiwj7WkT0Kew0cdc0Daxa"
+      },
+      "artists": [
+        {
+          "name": "Jack Panther",
+          "url": "https://open.spotify.com/artist/2uSgBrZHrd1cZDZKZX0PDN"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "WEEKEND AT BERNIES",
+      "url": "https://open.spotify.com/track/34iAb7yWcKdHkWwm33k2Ip"
     }
   ],
   "unique_name": "Pool Party (2)",

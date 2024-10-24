@@ -4287,6 +4287,24 @@
     },
     {
       "album": {
+        "name": "Oh, To Be Cool",
+        "url": "https://open.spotify.com/album/76oUHJreCw9z2nr561xwVF"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Oh, To Be Cool",
+      "url": "https://open.spotify.com/track/4AXzAOLaXRJ5fFYlX1F3QG"
+    },
+    {
+      "album": {
         "name": "OK\u00c4ND MARK",
         "url": "https://open.spotify.com/album/2WdpOTMALyoIO3aJO95gCF"
       },
@@ -6673,7 +6691,7 @@
       "artists": [
         {
           "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+          "url": "https://open.spotify.com/artist/1M8QOfzsZofinnJNrgnYhh"
         }
       ],
       "date_added": "2024-10-04",

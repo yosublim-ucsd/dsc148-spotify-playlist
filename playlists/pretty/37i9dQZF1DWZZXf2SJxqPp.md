@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,021 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,033 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 97 | [Zaim](https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4) | [Butia](https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h) | [Zaim](https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU) | 3:56 |
 | 98 | [Fou de toi](https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe) | [Pupkulies & Rebecca](https://open.spotify.com/artist/0LtDMZWibqA2ET2EG6ny0K) | [Looking for the Sea](https://open.spotify.com/album/7e00Ls1IiRJSXyaT5deW6Z) | 3:33 |
 | 99 | [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 |
-| 100 | [Backdrops](https://open.spotify.com/track/1L6yd85lGhfCGbNwKKvcAp) | [Walientinho](https://open.spotify.com/artist/4qVK77FWzEGLmP1Vw1I9or) | [Backdrops](https://open.spotify.com/album/7uabdAZxN8OvV4ZO3yRoJC) | 3:06 |
+| 100 | [Lupino](https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0) | [Magnofield](https://open.spotify.com/artist/4wNM69xY7xVOi8WK46t4tT) | [Lupino](https://open.spotify.com/album/6LNyTa0FtB9YYohiEACjhW) | 3:20 |
 
 Snapshot ID: `ZwdHWgAAAABrEkfn5WTwwitqe9lVjUMp`

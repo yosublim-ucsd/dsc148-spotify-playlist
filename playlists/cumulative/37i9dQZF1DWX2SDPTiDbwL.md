@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-100 songs - 6 hr 42 min
+102 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Dust in the Wind](https://open.spotify.com/track/5krgMALvJ9nXdJ5BF5blFN) | [Pedro Javier González](https://open.spotify.com/artist/2Pj7GhoqwVMNz7Qck7V0XZ) | [Guitarra](https://open.spotify.com/album/7GWMKie2BiYP0oQ1ScNFGD) | 3:20 | 2024-04-05 |  |
 | [Elenion](https://open.spotify.com/track/3516oXWeN9OdbHTUlCelOd) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/3FlkqKCP2xJ9zcutzwZqAa) | 4:18 | 2023-09-01 | 2024-04-19 |
 | [Elenion](https://open.spotify.com/track/7kZMrcXykEDuSbzY8Cj15Q) | [Ana Alcaide](https://open.spotify.com/artist/0kd6wWqc6KIbwHGZBGUdMN) | [Leyenda](https://open.spotify.com/album/7vs2BPITlljDIE5RP5NFmd) | 4:18 | 2024-04-05 |  |
+| [España, Op\. 165: No\. 2, Tango \(Transcr\. for Guitar by Andrés Segovia\) \- Live at the Fundación Juan March](https://open.spotify.com/track/7ec7NpnONAYDLF3O1WHIPh) | [Isaac Albéniz](https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp), [Ricardo Gallén](https://open.spotify.com/artist/1XlKgZWAWycE0gjpzMk4JT) | [Albéniz: España, Op\. 165: No\. 2, Tango](https://open.spotify.com/album/337JY60SklzcRsh9XSIoN9) | 2:45 | 2024-10-23 |  |
 | [Evening Embrace](https://open.spotify.com/track/2pvYHngjUT2Gg9hQtMUSjb) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Mediterranea](https://open.spotify.com/album/6sxRxfaqxOLUq6YffLmoak) | 4:25 | 2023-09-01 | 2024-09-11 |
 | [Evening Embrace](https://open.spotify.com/track/2y3JlvkZk1pO1T8Yhl6uw9) | [Johannes Linstead](https://open.spotify.com/artist/3bO8GsqYe5H4xTkcP5ZUZm) | [Mediterranea](https://open.spotify.com/album/7pPwGFAjsWR8F8E1cRuoF4) | 4:25 | 2024-04-05 |  |
 | [Flowers of Genzano](https://open.spotify.com/track/4WnBckNWhg7a5kgbfWPGCr) | [Armand de Paris](https://open.spotify.com/artist/2DoqtOrY51c1iTxYnZN9sk) | [Flowers of Genzano](https://open.spotify.com/album/3HONE0pDNjCMtRwA5lZU9M) | 3:32 | 2023-09-01 |  |
@@ -104,6 +105,7 @@
 | [Torero](https://open.spotify.com/track/6Ql5ovfv38vALEkP00TMzJ) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4l6MESQt1Y9UVmF0ugDOOI) | 5:07 | 2023-09-01 | 2024-02-03 |
 | [Tu Perfume](https://open.spotify.com/track/091UBqLSNqZzoJ7q5XbhVO) | [Oliver De La Rosa](https://open.spotify.com/artist/1oMULTRADWpK6wmcKx7KAd) | [Tu Perfume](https://open.spotify.com/album/6wv3yqEeD4XuUBmoYNLeKS) | 2:13 | 2024-09-03 |  |
 | [Una limosna por el amor de Dios](https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz) | [WarmHugs](https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI) | [Una limosna por el amor de Dios](https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8) | 3:18 | 2023-09-01 |  |
+| [Una Vida Pasada](https://open.spotify.com/track/6ZLRCFiUrLVyITDoGdfZPG) | [Alex Airaldi](https://open.spotify.com/artist/4CSqxvgnTEdUlydfORC5UH) | [Una Vida Pasada](https://open.spotify.com/album/5jD1xbj9EER6LYSRLiXSUs) | 2:30 | 2024-10-23 |  |
 | [Verdiales](https://open.spotify.com/track/0itmNtj1Mb7WTrUDqnig1Y) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp) | 2:07 | 2023-09-01 | 2024-04-19 |
 | [Verdiales](https://open.spotify.com/track/58fh4j02ygZ2GOOvSF77oa) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 2:10 | 2024-04-05 |  |
 | [Zalameria](https://open.spotify.com/track/0mAAqY0KwhqlBgbhGbZfIM) | [Rafa El Tachuela](https://open.spotify.com/artist/1VPNobfvjhHDuXbyJyynTk), [Pablo Carcamo](https://open.spotify.com/artist/6Nxv0zr9DVeusjZpewzriS), [La Moraima](https://open.spotify.com/artist/4DyCHXN1RPYrHRAYDyce0z), [Hossam Ramzy](https://open.spotify.com/artist/1f52NJ98E9Pz2hJQ8oe4sD) | [Flamenco](https://open.spotify.com/album/1dWXg3wCJRWfpG5D4Z44m0) | 4:02 | 2023-09-01 | 2024-04-19 |

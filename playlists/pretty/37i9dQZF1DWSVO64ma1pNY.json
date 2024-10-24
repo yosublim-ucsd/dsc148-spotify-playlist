@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296118,
+  "num_followers": 296124,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "So Much (For) Stardust",
-        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215601,
-      "name": "Hold Me Like a Grudge",
-      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 199253,
       "name": "Why Worry",
       "url": "https://open.spotify.com/track/39ShyO1yBCiEoEXHX9ie0F"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 215601,
+      "name": "Hold Me Like a Grudge",
+      "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "Believers Never Die - Greatest Hits",
         "url": "https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 229400,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Drunk Enough To Dance",
-        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 154680,
-      "name": "I Ran (So Far Away)",
-      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 189542,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Drunk Enough To Dance",
+        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Year Of The Snake",
-        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 211321,
-      "name": "Uzumaki",
-      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 258466,
       "name": "Learn to Hate",
       "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 211321,
+      "name": "Uzumaki",
+      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Find Sense. Feel Love. Make Light.",
-        "url": "https://open.spotify.com/album/4P3WeqvIPzCUcWjWcKWkZI"
-      },
-      "artists": [
-        {
-          "name": "House & Home",
-          "url": "https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7"
-        }
-      ],
-      "duration_ms": 201464,
-      "name": "Shrunken Head",
-      "url": "https://open.spotify.com/track/7BytS2LPws516iLhZ8Annb"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Poison The Parish",
         "url": "https://open.spotify.com/album/4tCocFTR2QupxCkk9EMY58"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 250213,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/2UcXM8xEP95IYz7rguHSnA"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Find Sense. Feel Love. Make Light.",
+        "url": "https://open.spotify.com/album/4P3WeqvIPzCUcWjWcKWkZI"
+      },
+      "artists": [
+        {
+          "name": "House & Home",
+          "url": "https://open.spotify.com/artist/2ihCoOZsBMPl5KuKLgK9T7"
+        }
+      ],
+      "duration_ms": 201464,
+      "name": "Shrunken Head",
+      "url": "https://open.spotify.com/track/7BytS2LPws516iLhZ8Annb"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Engage",
-        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
-      },
-      "artists": [
-        {
-          "name": "Rain Check",
-          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
-        }
-      ],
-      "duration_ms": 186374,
-      "name": "Engage",
-      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 211046,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Engage",
+        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
+      },
+      "artists": [
+        {
+          "name": "Rain Check",
+          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
+        }
+      ],
+      "duration_ms": 186374,
+      "name": "Engage",
+      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Self Defeater",
-        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
-      },
-      "artists": [
-        {
-          "name": "Post Profit",
-          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "Drug Emporium",
-      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Counting Flies",
         "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
@@ -1963,18 +1947,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "The Blue EP",
-        "url": "https://open.spotify.com/album/3plAf4w7eRDvDqY2qxFouS"
+        "name": "Self Defeater",
+        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
       },
       "artists": [
         {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+          "name": "Post Profit",
+          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
         }
       ],
-      "duration_ms": 215147,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq"
+      "duration_ms": 175933,
+      "name": "Drug Emporium",
+      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1991,6 +1975,22 @@
       "duration_ms": 240567,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6yFPiMOCa00P1y0QupLQtL"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "The Blue EP",
+        "url": "https://open.spotify.com/album/3plAf4w7eRDvDqY2qxFouS"
+      },
+      "artists": [
+        {
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+        }
+      ],
+      "duration_ms": 215147,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "hi mute",
-        "url": "https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD"
-      },
-      "artists": [
-        {
-          "name": "Stock Manager",
-          "url": "https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3"
-        }
-      ],
-      "duration_ms": 164376,
-      "name": "hi mute",
-      "url": "https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Static King",
         "url": "https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa"
       },
@@ -2187,6 +2171,22 @@
       "duration_ms": 217600,
       "name": "Static King",
       "url": "https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "hi mute",
+        "url": "https://open.spotify.com/album/17YD0zrDbHikRWnEUveUgD"
+      },
+      "artists": [
+        {
+          "name": "Stock Manager",
+          "url": "https://open.spotify.com/artist/24MkNjcQpzxj2W4QQrOmI3"
+        }
+      ],
+      "duration_ms": 164376,
+      "name": "hi mute",
+      "url": "https://open.spotify.com/track/7BV3MrFwC8WKMIjzT47S8K"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2271,18 +2271,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Red Button",
-        "url": "https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih"
+        "name": "Mush",
+        "url": "https://open.spotify.com/album/0KN2WdevgSi8n8gkPKLPlg"
       },
       "artists": [
         {
-          "name": "Dea Matrona",
-          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
+          "name": "Spare Parts For Broken Hearts",
+          "url": "https://open.spotify.com/artist/2Ztv3nUtX0tMKHlOpLeGf5"
         }
       ],
-      "duration_ms": 173853,
-      "name": "Red Button",
-      "url": "https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG"
+      "duration_ms": 220878,
+      "name": "Mush",
+      "url": "https://open.spotify.com/track/3vIBgMOO5BY8WfWZDfY0FO"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2319,18 +2319,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Mush",
-        "url": "https://open.spotify.com/album/0KN2WdevgSi8n8gkPKLPlg"
+        "name": "Red Button",
+        "url": "https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih"
       },
       "artists": [
         {
-          "name": "Spare Parts For Broken Hearts",
-          "url": "https://open.spotify.com/artist/2Ztv3nUtX0tMKHlOpLeGf5"
+          "name": "Dea Matrona",
+          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
         }
       ],
-      "duration_ms": 220878,
-      "name": "Mush",
-      "url": "https://open.spotify.com/track/3vIBgMOO5BY8WfWZDfY0FO"
+      "duration_ms": 173853,
+      "name": "Red Button",
+      "url": "https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Centipede",
-        "url": "https://open.spotify.com/album/6Gs3nUjtyuxxLsUSodnORA"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 157704,
-      "name": "Centipede",
-      "url": "https://open.spotify.com/track/1KH4f9jJPkwa8vF00u6K3T"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Playing With Fire / ELF",
         "url": "https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 238847,
       "name": "ELF",
       "url": "https://open.spotify.com/track/1gQjg72dJ4hMDQkRHLNxgH"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Centipede",
+        "url": "https://open.spotify.com/album/6Gs3nUjtyuxxLsUSodnORA"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 157704,
+      "name": "Centipede",
+      "url": "https://open.spotify.com/track/1KH4f9jJPkwa8vF00u6K3T"
     },
     {
       "added_at": "2024-09-02 15:42:47",

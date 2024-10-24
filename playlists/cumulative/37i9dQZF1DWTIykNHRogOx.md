@@ -4,7 +4,7 @@
 
 > Le meilleur de la chanson française actuelle\. Photo : Clou
 
-86 songs - 4 hr 50 min
+87 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Mon épaule](https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mon épaule](https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b) | 2:43 | 2024-06-27 |  |
 | [N'importe quoi](https://open.spotify.com/track/7Auw0vXuqafNZGYmBpU4PX) | [REB](https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32) | [N'importe quoi](https://open.spotify.com/album/6wl99feAZHWDAHZkgQMnnw) | 2:56 | 2024-06-27 | 2024-07-19 |
 | [Nu](https://open.spotify.com/track/3OIphEv3puN6zaWG4ms5n0) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Nu](https://open.spotify.com/album/5y3lwreP0Z0WItPNC2zOyi) | 2:26 | 2024-07-25 |  |
+| [Old Friend](https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Old Friend](https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg) | 2:37 | 2024-10-23 |  |
 | [Paris](https://open.spotify.com/track/6aBUJSbfXSj4lWbSRB3iyt) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Paris](https://open.spotify.com/album/49ilyrHmUk8lIbFJv9R68v) | 6:04 | 2024-06-27 | 2024-09-06 |
 | [Patineuse](https://open.spotify.com/track/2cd9VxehmOVPTsCRTzjgRK) | [Morgane Imbeaud](https://open.spotify.com/artist/0g7GbpCnCwZfTMj8dHqFjy) | [The Lake](https://open.spotify.com/album/07LgPK6EakfWO7ArkdwBmZ) | 3:39 | 2024-06-27 |  |
 | [Perdre la tête](https://open.spotify.com/track/3dFZHXcS7OrUL6A66Qfnr3) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Perdre la tête](https://open.spotify.com/album/62Mz5Fx2IrH3C0F1bE1lGQ) | 3:23 | 2024-06-27 | 2024-10-11 |

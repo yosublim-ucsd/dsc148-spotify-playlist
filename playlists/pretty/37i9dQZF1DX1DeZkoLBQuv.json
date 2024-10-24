@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8191,
+  "num_followers": 8199,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -516,13 +516,13 @@
       },
       "artists": [
         {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
         }
       ],
-      "duration_ms": 210372,
-      "name": "Dai Louvores ao Rei",
-      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
+      "duration_ms": 259831,
+      "name": "O Milagre do Natal",
+      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -548,29 +548,33 @@
       },
       "artists": [
         {
-          "name": "Alex Gonzaga, Marcus Salles e Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh"
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 259831,
-      "name": "O Milagre do Natal",
-      "url": "https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv"
+      "duration_ms": 210372,
+      "name": "Dai Louvores ao Rei",
+      "url": "https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw"
     },
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Natal",
-        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
+        "name": "\u00d3, Vinde, Adoremos",
+        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
       },
       "artists": [
         {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
         }
       ],
-      "duration_ms": 204196,
-      "name": "Natal",
-      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
+      "duration_ms": 195000,
+      "name": "\u00d3, Vinde, Adoremos",
+      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -595,22 +599,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "\u00d3, Vinde, Adoremos",
-        "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
       },
       "artists": [
         {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
         }
       ],
-      "duration_ms": 195000,
-      "name": "\u00d3, Vinde, Adoremos",
-      "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
+      "duration_ms": 204196,
+      "name": "Natal",
+      "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
-        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
-      },
-      "artists": [
-        {
-          "name": "Ellas",
-          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
-        }
-      ],
-      "duration_ms": 218314,
-      "name": "Vem Cear",
-      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Natal Real",
         "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
+        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
+      },
+      "artists": [
+        {
+          "name": "Ellas",
+          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
+        }
+      ],
+      "duration_ms": 218314,
+      "name": "Vem Cear",
+      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "O Natal de Todos N\u00f3s",
         "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 211466,
       "name": "Primeiro Natal (The First Noel)",
       "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Natal",
-        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
-      },
-      "artists": [
-        {
-          "name": "Voices",
-          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "Vinde Celebremos",
-      "url": "https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -775,18 +759,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Folk Christmas",
-        "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
+        "name": "Natal",
+        "url": "https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR"
       },
       "artists": [
         {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+          "name": "Voices",
+          "url": "https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD"
         }
       ],
-      "duration_ms": 171571,
-      "name": "Surgem Anjos Proclamando",
-      "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
+      "duration_ms": 202013,
+      "name": "Vinde Celebremos",
+      "url": "https://open.spotify.com/track/4aXA1S57kbciLvJq2gYhSU"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -807,6 +791,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Folk Christmas",
+        "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
+      },
+      "artists": [
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 171571,
+      "name": "Surgem Anjos Proclamando",
+      "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Seu Nome",
         "url": "https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ"
       },
@@ -819,6 +819,42 @@
       "duration_ms": 191735,
       "name": "Seu Nome",
       "url": "https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O Primeiro Natal",
+        "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "O Primeiro Natal",
+      "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
+        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
+      },
+      "artists": [
+        {
+          "name": "Perlla",
+          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Vem Chegando o Natal",
+      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -843,22 +879,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
-        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
-      },
-      "artists": [
-        {
-          "name": "Perlla",
-          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Vem Chegando o Natal",
-      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O Natal de Todos N\u00f3s",
         "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 284200,
       "name": "Noite Feliz (Stille Nacht)",
       "url": "https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "O Primeiro Natal",
-        "url": "https://open.spotify.com/album/4qcf42M1gKeNukRv0FjyiH"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "O Primeiro Natal",
-      "url": "https://open.spotify.com/track/2zEV9u8iCmCIvHHu0so2PI"
     },
     {
       "added_at": "2023-12-22 03:00:00",

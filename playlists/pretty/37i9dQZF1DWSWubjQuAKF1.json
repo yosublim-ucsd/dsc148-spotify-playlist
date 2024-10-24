@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Dominika P\u0142onka",
-  "num_followers": 21020,
+  "num_followers": 21023,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
+        "name": "\u017bYCZENIE",
+        "url": "https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP"
+      },
+      "artists": [
+        {
+          "name": "LIJA",
+          "url": "https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5"
+        }
+      ],
+      "duration_ms": 173061,
+      "name": "\u017bYCZENIE",
+      "url": "https://open.spotify.com/track/5NCbw8iGoUGHmUfmfKfgSL"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
         "name": "MINT",
         "url": "https://open.spotify.com/album/30OQrORu7TyhQhTZ0yB21y"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 164788,
       "name": "Przy Tobie to...",
       "url": "https://open.spotify.com/track/2wkLEogc1aCPETKmZzILtM"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
-        "name": "\u017bYCZENIE",
-        "url": "https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP"
-      },
-      "artists": [
-        {
-          "name": "LIJA",
-          "url": "https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5"
-        }
-      ],
-      "duration_ms": 173061,
-      "name": "\u017bYCZENIE",
-      "url": "https://open.spotify.com/track/5NCbw8iGoUGHmUfmfKfgSL"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "w\u0142asnym",
-        "url": "https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ"
-      },
-      "artists": [
-        {
-          "name": "Dominika P\u0142onka",
-          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
-        }
-      ],
-      "duration_ms": 153461,
-      "name": "w\u0142asnym",
-      "url": "https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
         "name": "kropelki",
         "url": "https://open.spotify.com/album/3bXw2kVCTMr5lnRUIFQKnI"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 150943,
       "name": "kropelki",
       "url": "https://open.spotify.com/track/6OWGy59gDRgAZWTkXS7Q6Z"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "w\u0142asnym",
+        "url": "https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ"
+      },
+      "artists": [
+        {
+          "name": "Dominika P\u0142onka",
+          "url": "https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8"
+        }
+      ],
+      "duration_ms": 153461,
+      "name": "w\u0142asnym",
+      "url": "https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "MILION",
-        "url": "https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD"
-      },
-      "artists": [
-        {
-          "name": "LIJA",
-          "url": "https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5"
-        }
-      ],
-      "duration_ms": 177196,
-      "name": "MILION",
-      "url": "https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
         "name": "Beze mnie",
         "url": "https://open.spotify.com/album/5ZfStO86ShEJezgFv2ZQlk"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 147970,
       "name": "Beze mnie",
       "url": "https://open.spotify.com/track/4IyCi087Wc2MHThq0hgU1f"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "MILION",
+        "url": "https://open.spotify.com/album/2uMYW6xYTT6yQeCZorgoaD"
+      },
+      "artists": [
+        {
+          "name": "LIJA",
+          "url": "https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5"
+        }
+      ],
+      "duration_ms": 177196,
+      "name": "MILION",
+      "url": "https://open.spotify.com/track/5F3tMkclVSZ3sYyhU9knBx"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
+        "name": "wspomnienie o",
+        "url": "https://open.spotify.com/album/0fZNrgtdOGYG4yILi1TaNA"
+      },
+      "artists": [
+        {
+          "name": "ada\u015b.",
+          "url": "https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT"
+        }
+      ],
+      "duration_ms": 204155,
+      "name": "wspomnienie o",
+      "url": "https://open.spotify.com/track/5y64rWFoYGPagbptX7pTGB"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
         "name": "z papieru",
         "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
       },
@@ -967,6 +983,22 @@
       "duration_ms": 142336,
       "name": "Gadu\u0142a",
       "url": "https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "Instalacja IV",
+        "url": "https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Dla Ciebie",
+      "url": "https://open.spotify.com/track/7lmvm2NvVvYEqBAH6bQPOy"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -991,22 +1023,6 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "Instalacja IV",
-        "url": "https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN"
-      },
-      "artists": [
-        {
-          "name": "Zale\u015b",
-          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Dla Ciebie",
-      "url": "https://open.spotify.com/track/7lmvm2NvVvYEqBAH6bQPOy"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
         "name": "Skarbie",
         "url": "https://open.spotify.com/album/2tqSlGb9uKMxcIApvo25j0"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 177235,
       "name": "Skarbie",
       "url": "https://open.spotify.com/track/3a6rdrLGpbcQAUVu78hca6"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
-        "name": "wspomnienie o",
-        "url": "https://open.spotify.com/album/0fZNrgtdOGYG4yILi1TaNA"
-      },
-      "artists": [
-        {
-          "name": "ada\u015b.",
-          "url": "https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT"
-        }
-      ],
-      "duration_ms": 204155,
-      "name": "wspomnienie o",
-      "url": "https://open.spotify.com/track/5y64rWFoYGPagbptX7pTGB"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "D\u0142ugie Spacery",
-        "url": "https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB"
-      },
-      "artists": [
-        {
-          "name": "Filip Grodowski",
-          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
-        }
-      ],
-      "duration_ms": 276095,
-      "name": "D\u0142ugie Spacery",
-      "url": "https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/4IyYlHAeJrECsT7VSXCH6Y"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 180091,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/1Rc955GBwPGvCoWLNQokoE"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "D\u0142ugie Spacery",
+        "url": "https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB"
+      },
+      "artists": [
+        {
+          "name": "Filip Grodowski",
+          "url": "https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f"
+        }
+      ],
+      "duration_ms": 276095,
+      "name": "D\u0142ugie Spacery",
+      "url": "https://open.spotify.com/track/6PN0dwNmzDEBt092pWDfdp"
     },
     {
       "added_at": "2024-10-18 07:08:29",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-10-18 07:08:29",
       "album": {
-        "name": "NIE ZNASZ JEJ (Acoustic)",
-        "url": "https://open.spotify.com/album/0ME8iWPExzNtMALCVPpVrJ"
-      },
-      "artists": [
-        {
-          "name": "Elena",
-          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "NIE ZNASZ JEJ - Acoustic",
-      "url": "https://open.spotify.com/track/4TyX7rWOyWbrF8EImwPTff"
-    },
-    {
-      "added_at": "2024-10-18 07:08:29",
-      "album": {
         "name": "Polec\u0119 do gwiazd",
         "url": "https://open.spotify.com/album/40e57jAadRbNmcWXDHdM1D"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 144960,
       "name": "Polec\u0119 do gwiazd",
       "url": "https://open.spotify.com/track/7Cy7tvCsU9TBa9tmXSIFT2"
+    },
+    {
+      "added_at": "2024-10-18 07:08:29",
+      "album": {
+        "name": "NIE ZNASZ JEJ (Acoustic)",
+        "url": "https://open.spotify.com/album/0ME8iWPExzNtMALCVPpVrJ"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "NIE ZNASZ JEJ - Acoustic",
+      "url": "https://open.spotify.com/track/4TyX7rWOyWbrF8EImwPTff"
     },
     {
       "added_at": "2024-10-18 07:08:29",

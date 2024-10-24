@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 120789,
+  "num_followers": 120811,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-10-07 14:59:32",
       "album": {
+        "name": "New Growth",
+        "url": "https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "No Pussy For Losers",
+      "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
+    },
+    {
+      "added_at": "2024-10-07 14:59:32",
+      "album": {
         "name": "Where Love Grows",
         "url": "https://open.spotify.com/album/5lzP8FF6iJ02BZbtcZSnki"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 194233,
       "name": "Love Like This (feat. Phonte & Carmen Rodgers)",
       "url": "https://open.spotify.com/track/7mWAiYyAwKuH2rSmMbmtj6"
-    },
-    {
-      "added_at": "2024-10-07 14:59:32",
-      "album": {
-        "name": "New Growth",
-        "url": "https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO"
-      },
-      "artists": [
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "No Pussy For Losers",
-      "url": "https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea"
     },
     {
       "added_at": "2024-10-07 14:59:32",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2024-10-07 14:59:32",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 350533,
+      "name": "Nothing Even Matters",
+      "url": "https://open.spotify.com/track/3xhXKRGahWzcXF8rD5gUvd"
+    },
+    {
+      "added_at": "2024-10-07 14:59:32",
+      "album": {
         "name": "Bl\u00fc Moon",
         "url": "https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 212973,
       "name": "Me x 7 (feat. Tierra Whack)",
       "url": "https://open.spotify.com/track/5KD5QVEEH8dJCJ6CT0DaNG"
-    },
-    {
-      "added_at": "2024-10-07 14:59:32",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 350533,
-      "name": "Nothing Even Matters",
-      "url": "https://open.spotify.com/track/3xhXKRGahWzcXF8rD5gUvd"
     },
     {
       "added_at": "2024-10-07 14:59:32",

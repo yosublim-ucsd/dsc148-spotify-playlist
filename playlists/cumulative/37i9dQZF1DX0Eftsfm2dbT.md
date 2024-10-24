@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: ISSUGI & GRADIS NICE
 
-1,165 songs - 2 day 11 hr 44 min
+1,166 songs - 2 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [FIT CHECK](https://open.spotify.com/track/07yz2s32BoVLrtdJ1zipEa) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77), [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [Zen Masuta](https://open.spotify.com/artist/6lwzRQVG0c0n3XhfYOKyLU) | [FIT CHECK](https://open.spotify.com/album/5xL9lz9Mku1HMyEuxUrxA4) | 2:14 | 2024-09-19 |  |
 | [flash](https://open.spotify.com/track/4K6pJPtAgURhU1GGdjuHJa) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [I just wanna dance with you\- period](https://open.spotify.com/album/50sOlknlpkacgE0gSXrQQS) | 3:52 | 2023-10-03 | 2023-10-11 |
 | [FLASH](https://open.spotify.com/track/3vs2T06rOSjiieKHkgrRkb) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [FLASH](https://open.spotify.com/album/5T8F62YDxArVIPzttBa2yH) | 3:36 | 2023-12-12 | 2024-01-10 |
+| [Floor 2 stage](https://open.spotify.com/track/2AMGt0vjQWqe3P1190xcxY) | [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI) | [Floor 2 Stage](https://open.spotify.com/album/2Fcw5qRXPSzxBrDOKCVvM6) | 3:12 | 2024-10-23 |  |
 | [FLY](https://open.spotify.com/track/6BkXrlhT0eJYc6ingXKM0P) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb), [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW) | [FLY](https://open.spotify.com/album/0jVGbk26C3NaEdLRO7SIyA) | 3:00 | 2024-02-06 | 2024-02-28 |
 | [Focus](https://open.spotify.com/track/3Isd3NqkaQQ9UCiwmNWLmR) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [ineedmorebux](https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW) | [As Usual](https://open.spotify.com/album/4j9sefX0lu6uQIXy1VOzf6) | 2:23 | 2023-12-26 | 2023-12-30 |
 | [Focus](https://open.spotify.com/track/7obYc4xBA9qHuOOckPHKHH) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [ineedmorebux](https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW) | [As Usual](https://open.spotify.com/album/1QE6N5297Mp5hywrz0exhy) | 2:23 | 2023-12-28 | 2024-01-12 |
@@ -1166,7 +1167,7 @@
 | [西陽](https://open.spotify.com/track/7gjqMFsG8KgJOEO3Ps07x7) | [TORAUMA](https://open.spotify.com/artist/7GMarWA8YCRXDfR4ETdU3U) | [西陽](https://open.spotify.com/album/7tK7Ro4wQTF4n4X3Roby5N) | 3:02 | 2024-08-21 | 2024-08-28 |
 | [言った!! \- Remix](https://open.spotify.com/track/4dCFBIiSAlNuvmrnfG2sh3) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [言った!! \(Remix\)](https://open.spotify.com/album/0Wqqc41PW0CFX9ztQ0eOGk) | 2:34 | 2024-06-11 | 2024-07-24 |
 | [言った!! \- Remix](https://open.spotify.com/track/7D3Ie8dWI8Qjkvlwqc9uyn) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [Merry Delo](https://open.spotify.com/artist/1Q1IHJA1chZCn2P0ppiOfW), [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME) | [言った!! \(Remix\)](https://open.spotify.com/album/3SYEeB542P7qpXbG4QrQjU) | 2:35 | 2024-09-17 | 2024-09-27 |
-| [言った!! \- Remix](https://open.spotify.com/track/07EetFndMCGo6AOzTInkwH) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze) | [言った!! \(Remix\)](https://open.spotify.com/album/2uYU4uH2Wk7EZJ5HPhvWZ7) | 2:35 | 2024-09-26 |  |
+| [言った!! \- Remix](https://open.spotify.com/track/07EetFndMCGo6AOzTInkwH) | [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze) | [言った!! \(Remix\)](https://open.spotify.com/album/2uYU4uH2Wk7EZJ5HPhvWZ7) | 2:35 | 2024-09-26 | 2024-10-24 |
 | [誰のVenus??](https://open.spotify.com/track/6Mf5PHOLZdRxWYcrMf7UFv) | [NO SLEEP CLUB](https://open.spotify.com/artist/3vPOyVyWqdxc8FmS25CWl4), [Ry\-lax](https://open.spotify.com/artist/31ShgT91VvbtptE08NHd0t) | [誰のVenus??](https://open.spotify.com/album/29CFIMtsU0jtmufWib1JP9) | 3:15 | 2024-05-15 | 2024-05-22 |
 | [賢者タイム](https://open.spotify.com/track/2TyLK9vsLBZkqHXQ9Qt6SF) | [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh) | [賢者タイム](https://open.spotify.com/album/54bb3SjMrRlCxewqF9T5K9) | 2:43 | 2024-08-15 | 2024-09-13 |
 | [超Fresh](https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS) | 2:52 | 2023-12-06 | 2023-12-07 |

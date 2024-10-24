@@ -2177,6 +2177,28 @@
     },
     {
       "album": {
+        "name": "Morning Meditation for Success",
+        "url": "https://open.spotify.com/album/3oizgINuuTqyYmksRSztwr"
+      },
+      "artists": [
+        {
+          "name": "Zims Ele",
+          "url": "https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s"
+        },
+        {
+          "name": "Robert Pronat",
+          "url": "https://open.spotify.com/artist/27Y0LP8ZpLgJZZJ1sEji5v"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Morning Meditation for Success",
+      "url": "https://open.spotify.com/track/2SBIDGXR00q1EqOH6sgEL3"
+    },
+    {
+      "album": {
         "name": "Meditation Workshop",
         "url": "https://open.spotify.com/album/0IouVLBnNn9anETwo5QvX4"
       },

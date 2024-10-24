@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,978 songs - 4 day 10 hr 20 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,984 songs - 4 day 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1986,5 +1986,11 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1976 | [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Just Your Doll](https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG) | 2:27 |
 | 1977 | [It's A Dream \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1fQxT1YDOBjgzMVf8WjZfi) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 2:31 |
 | 1978 | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk) | 1:56 |
+| 1979 | [Crash96](https://open.spotify.com/track/326bBMJ92wbiAMJdCyxyZG) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 5:28 |
+| 1980 | [say it right tekkno](https://open.spotify.com/track/6if6TUsJ8CIaPaaLyQoZQB) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [say it right tekkno](https://open.spotify.com/album/3cFyVqw4udu5fvnO3mZMOS) | 2:14 |
+| 1981 | [Bungelrave](https://open.spotify.com/track/658cX1xwwflgoUyLyKNmo0) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Vieze Asbak III](https://open.spotify.com/album/0Xda9HeXDZmLzQAsGr5aK9) | 1:55 |
+| 1982 | [ННД](https://open.spotify.com/track/3X412wnMLKyqctlRfhPa7Q) | [Tomorrow](https://open.spotify.com/artist/0mmG7ASfGRWIZVC492wpjs) | [ННД](https://open.spotify.com/album/0qQ8tz5aYGHVcnTpxVGgHW) | 1:27 |
+| 1983 | [Fire In My Body](https://open.spotify.com/track/0746AeHaYcU2GsG7ohLfTi) | [Indecorum](https://open.spotify.com/artist/1nDQX7M3T8BvVi3bdCQyrm) | [Sanctus](https://open.spotify.com/album/4FPf6TQDTjuSKhz33YMJlh) | 3:16 |
+| 1984 | [Duality](https://open.spotify.com/track/5NoIDaacAEA4UEWn9qXIhA) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Duality](https://open.spotify.com/album/5t4AQmpVHpPk8vEoLRTlGJ) | 3:26 |
 
-Snapshot ID: `AAADZyrDoU35iIR80RUhhJs0JQopvTWe`
+Snapshot ID: `AAADbh92wQWd3n/aiuV0brGOdepB9gt1`

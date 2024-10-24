@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Exam",
+        "url": "https://open.spotify.com/album/2MnggDmOrospTK71sumq9L"
+      },
+      "artists": [
+        {
+          "name": "Pagaehun",
+          "url": "https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "Pre-exam",
+      "url": "https://open.spotify.com/track/3J431TbgjcTXsz1Vbb5c25"
+    },
+    {
+      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 256066,
       "name": "Wandering Youth",
       "url": "https://open.spotify.com/track/0JNenWY0Dt33vfqHQGnX9F"

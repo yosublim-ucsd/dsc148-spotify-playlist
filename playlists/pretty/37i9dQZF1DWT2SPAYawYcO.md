@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Dean Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,994 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,009 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 67 | [That Way](https://open.spotify.com/track/3TrA2RmCzAQ6OUcIL44hA9) | [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [That Way](https://open.spotify.com/album/04t1mfcN8HAi41P9CoaFIa) | 2:06 |
 | 68 | [Strength \(R U Ready\) \[feat\. Joy Crookes\]](https://open.spotify.com/track/1sVWTkfmfSjcip9unXt1Wz) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 3:21 |
 | 69 | [Lights Out](https://open.spotify.com/track/4rNbliQWRnsLrJhRdYYZEj) | [Bust\-R](https://open.spotify.com/artist/5i6oTI7gaBKg3TOgryPQir) | [Lights Out](https://open.spotify.com/album/0SY1FlPgqKK77EepGncAEj) | 2:29 |
-| 70 | [Hotel Bible](https://open.spotify.com/track/3UAkWAnbPGJgIXG1OsQHlD) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Hotel Bible](https://open.spotify.com/album/6KdpUp1ly6HoraKohvN5ks) | 2:54 |
+| 70 | [Hotel Bible](https://open.spotify.com/track/3UAkWAnbPGJgIXG1OsQHlD) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Hotel Bible](https://open.spotify.com/album/6KdpUp1ly6HoraKohvN5ks) | 2:53 |
 | 71 | [Pour Your Heart Out](https://open.spotify.com/track/3N9ho4NMwJMJzlH0xa9AIJ) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 1596](https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn) | 3:10 |
 | 72 | [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 |
 | 73 | [like i do](https://open.spotify.com/track/507mnNkO1uEOEvGOniwYDh) | [Eluera](https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q) | [like i do](https://open.spotify.com/album/1P9YT61dPMTK0KmdVUqK8j) | 3:46 |

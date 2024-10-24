@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA at Drumsheds ",
-  "num_followers": 64050,
+  "num_followers": 64075,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -279,18 +279,22 @@
     {
       "added_at": "2024-10-14 12:37:48",
       "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D"
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
       },
       "artists": [
         {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "MC ID",
+          "url": "https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R"
         }
       ],
-      "duration_ms": 201379,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
+      "duration_ms": 187240,
+      "name": "Alarm (feat. MC ID)",
+      "url": "https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS"
     },
     {
       "added_at": "2024-10-14 12:37:48",
@@ -355,22 +359,18 @@
     {
       "added_at": "2024-10-14 12:37:48",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "MC ID",
-          "url": "https://open.spotify.com/artist/71p78rJ0sEwTMlNjqln74R"
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
         }
       ],
-      "duration_ms": 187240,
-      "name": "Alarm (feat. MC ID)",
-      "url": "https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS"
+      "duration_ms": 201379,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
     },
     {
       "added_at": "2024-10-14 12:37:48",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-10-14 12:37:48",
       "album": {
+        "name": "bailejungle",
+        "url": "https://open.spotify.com/album/3AHlB9soIbmWf533WDG1eW"
+      },
+      "artists": [
+        {
+          "name": "Urbandawn",
+          "url": "https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX"
+        }
+      ],
+      "duration_ms": 163449,
+      "name": "bailejungle",
+      "url": "https://open.spotify.com/track/4wkeHElj4wfEb8WSUah3xz"
+    },
+    {
+      "added_at": "2024-10-14 12:37:48",
+      "album": {
         "name": "Playing With Fire (feat. Zac Pajak)",
         "url": "https://open.spotify.com/album/7bwSwhkCntzOANc3MVtv4K"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 170400,
       "name": "Playing With Fire (feat. Zac Pajak)",
       "url": "https://open.spotify.com/track/1kosMJUV7U5Ci2BKPdbeJ4"
-    },
-    {
-      "added_at": "2024-10-14 12:37:48",
-      "album": {
-        "name": "bailejungle",
-        "url": "https://open.spotify.com/album/3AHlB9soIbmWf533WDG1eW"
-      },
-      "artists": [
-        {
-          "name": "Urbandawn",
-          "url": "https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX"
-        }
-      ],
-      "duration_ms": 163449,
-      "name": "bailejungle",
-      "url": "https://open.spotify.com/track/4wkeHElj4wfEb8WSUah3xz"
     },
     {
       "added_at": "2024-10-14 12:37:48",
@@ -1111,22 +1111,22 @@
     {
       "added_at": "2024-10-14 12:37:48",
       "album": {
-        "name": "OH SHIT",
-        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
+        "name": "Forever Changes",
+        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
       },
       "artists": [
         {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
         },
         {
-          "name": "Dreps",
-          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
         }
       ],
-      "duration_ms": 133714,
-      "name": "OH SHIT",
-      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
+      "duration_ms": 184065,
+      "name": "Forever Changes",
+      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
     }
   ],
   "unique_name": "Jump Up!",

@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "\uc724\ub3c4\ud76c \uac00\uc57c\uae08\uc0b0\uc870 \uc131\uae08\uc5f0\ub958 \uc804\ubc14\ud0d5",
+        "url": "https://open.spotify.com/album/6IFjM1GBdrLhd4H77ZV5a1"
+      },
+      "artists": [
+        {
+          "name": "\uc724\ub3c4\ud76c",
+          "url": "https://open.spotify.com/artist/4uaLS9ls1GccFAKhwkNkjo"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108933,
+      "name": "\ub2e4\uc2a4\ub984",
+      "url": "https://open.spotify.com/track/0CmnaajEUmtWhj61008Q5u"
+    },
+    {
+      "album": {
         "name": "\uc815\uc7ac\uad6d \ud53c\ub9ac, \ud0dc\ud3c9\uc18c \uc791\ud488\uc9d11 (\uc815\uc545\ud3b8)",
         "url": "https://open.spotify.com/album/5OGvPMoDGKBLV8rrl0gBs6"
       },

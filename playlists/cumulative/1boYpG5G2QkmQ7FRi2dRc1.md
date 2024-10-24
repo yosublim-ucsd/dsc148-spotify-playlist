@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-1,786 songs - 4 day 15 hr 49 min
+1,787 songs - 4 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Got to Change](https://open.spotify.com/track/5oV0DfWqOf8hn40u37hepA) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/7uxfQPw7jZrMCwmFijglNT) | 3:11 | 2024-10-05 | 2024-10-13 |
 | [gr etiquette](https://open.spotify.com/track/44pX2G3zFb5rvsqy6uaDeF) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [archive 09\-10](https://open.spotify.com/album/7CfTDwpSa8cWyk6GYIERv3) | 5:00 | 2023-09-29 | 2023-10-29 |
 | [Gravity](https://open.spotify.com/track/2J8SYuyZi78kv11LWmcBY6) | [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Gravity](https://open.spotify.com/album/4ceKZ1HlaVZoCpMS4zsiPc) | 2:55 | 2023-09-22 | 2023-09-30 |
+| [Gravity](https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Gravity](https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP) | 4:45 | 2024-10-23 |  |
 | [Greece 2000 \- KREAM Remix](https://open.spotify.com/track/3lLOuE6Z5jlQVqO2bbpC8A) | [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG) | [Greece 2000 \(KREAM Remix\)](https://open.spotify.com/album/33SvBsfAut1yQ9BizcWIOV) | 3:35 | 2023-05-05 | 2023-06-02 |
 | [Green Run](https://open.spotify.com/track/7DhxrgDLMpkZmKDSjBO5sE) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Intangibles](https://open.spotify.com/album/6dBEXG8Jn4TbR8VS8hna3N) | 5:04 | 2023-04-14 | 2023-04-22 |
 | [Greenarp \- Terracassette Remix](https://open.spotify.com/track/4TCHOa09sT0XFWCmWIlhru) | [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Terracassette](https://open.spotify.com/artist/7BuDnnqu7As4TwoETMn8FZ) | [Forest City Remixes](https://open.spotify.com/album/4PRV0HmhLbkUUkyHH20EDF) | 7:06 | 2023-01-21 | 2023-01-29 |

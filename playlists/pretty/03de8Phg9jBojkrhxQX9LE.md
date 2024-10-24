@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,928 likes - 152 songs - 8 hr 26 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,929 likes - 152 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 33 | [Certain Dreams](https://open.spotify.com/track/1NqTUIdeZ2OIk6E58vP3A2) | [gyrofield](https://open.spotify.com/artist/2yKb2sD6dystFr0tTmSu2X), [Eastern Margins](https://open.spotify.com/artist/28U72qhceWcm0usxPCY0ut) | [Redline Impact](https://open.spotify.com/album/22nmCm7Uq4Pf74GqnHRFli) | 4:35 |
 | 34 | [FOLLOW](https://open.spotify.com/track/4HaNvzXimvnVjYEyoUgBBB) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [WORTH.the.CRASH EP](https://open.spotify.com/album/0tafNydsgoEquaxTDkpskF) | 4:01 |
 | 35 | [WHEN I FALL](https://open.spotify.com/track/4YQzzN9MbRHFw0ql9nsM0G) | [STVSH](https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI) | [WHEN I FALL](https://open.spotify.com/album/2fRHfddvTFPazMe6k8QtUZ) | 3:30 |
-| 36 | [Sappera](https://open.spotify.com/track/5gMhwlsmPQr55odS3wEZx3) | [Nick Neutronz](https://open.spotify.com/artist/2kr2SKdhgDoj06t3R23IiK), [6ixsr](https://open.spotify.com/artist/3NTWaTLhFr6RRTUUrKa43Q) | [Sappera](https://open.spotify.com/album/4HzSKfI3GfhkDjEhkFFEQ5) | 2:52 |
+| 36 | [Saperra](https://open.spotify.com/track/5gMhwlsmPQr55odS3wEZx3) | [Nick Neutronz](https://open.spotify.com/artist/2kr2SKdhgDoj06t3R23IiK), [6ixsr](https://open.spotify.com/artist/3NTWaTLhFr6RRTUUrKa43Q) | [Saperra](https://open.spotify.com/album/4HzSKfI3GfhkDjEhkFFEQ5) | 2:52 |
 | 37 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 |
 | 38 | [i promise](https://open.spotify.com/track/2TGTJGfiCiIjP3OBjTrGaO) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [i promise](https://open.spotify.com/album/2OVEvHiQnDI3vBFhy0XAxd) | 3:24 |
 | 39 | [Fiesta](https://open.spotify.com/track/6HQZTHthmIW0QIefnOsSh1) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Fiesta](https://open.spotify.com/album/5k42TNAEt7KbMPZd1QbUSp) | 3:46 |

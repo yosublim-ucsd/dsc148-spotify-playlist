@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. David de la Luz en portada.",
-  "num_followers": 72463,
+  "num_followers": 72480,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -867,26 +867,18 @@
     {
       "added_at": "2024-10-18 21:26:41",
       "album": {
-        "name": "Compa\u00f1era",
-        "url": "https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR"
+        "name": "Se Cancela La Llorada",
+        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
       },
       "artists": [
         {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        },
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "SanJuan",
-          "url": "https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 193208,
-      "name": "Compa\u00f1era",
-      "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
+      "duration_ms": 180000,
+      "name": "Se Cancela La Llorada",
+      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
     },
     {
       "added_at": "2024-10-18 21:26:41",
@@ -907,18 +899,26 @@
     {
       "added_at": "2024-10-18 21:26:41",
       "album": {
-        "name": "Se Cancela La Llorada",
-        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
+        "name": "Compa\u00f1era",
+        "url": "https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "SanJuan",
+          "url": "https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Se Cancela La Llorada",
-      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
+      "duration_ms": 193208,
+      "name": "Compa\u00f1era",
+      "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
     },
     {
       "added_at": "2024-10-18 21:26:41",

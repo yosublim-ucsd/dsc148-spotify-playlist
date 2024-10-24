@@ -9368,7 +9368,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 189784,
       "name": "Doug Fir",
       "url": "https://open.spotify.com/track/2sNzDHc3e7J7QbW1Cstkr1"
@@ -35740,6 +35740,24 @@
       "duration_ms": 174191,
       "name": "Winnie Crush",
       "url": "https://open.spotify.com/track/0d9xixmHAusZVsdJQPnRxr"
+    },
+    {
+      "album": {
+        "name": "Winter Baby / New Jersey Blues",
+        "url": "https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51"
+      },
+      "artists": [
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152770,
+      "name": "Winter Baby / New Jersey Blues",
+      "url": "https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP"
     },
     {
       "album": {

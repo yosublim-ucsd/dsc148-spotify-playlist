@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5fmyoK440WPucUxXAQ3pyO"
+      },
+      "artists": [
+        {
+          "name": "Mingturn",
+          "url": "https://open.spotify.com/artist/0xHmY83PIAUorqr3HJVyVh"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "Blue Lemonade",
+      "url": "https://open.spotify.com/track/22Q2ZddeCMNPaZDdDBgQz9"
+    },
+    {
+      "album": {
         "name": "Bon Voyage",
         "url": "https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI"
       },
@@ -420,7 +438,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 182031,
       "name": "CAPTAIN",
       "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"

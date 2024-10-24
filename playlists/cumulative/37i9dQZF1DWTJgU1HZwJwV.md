@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-518 songs - 21 hr 58 min
+520 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Come to Me in the Silence of the Night](https://open.spotify.com/track/1V7vKOUi1FNJ2Ytl2ERakv) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Come to Me in the Silence of the Night](https://open.spotify.com/album/0yOTmHU1sMWDhOoHi7TCdE) | 3:08 | 2024-05-24 | 2024-09-11 |
 | [Conclusions](https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Conclusions](https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq) | 2:01 | 2023-05-19 | 2024-09-11 |
 | [Confidencen](https://open.spotify.com/track/2uqvdSTgEvXtKc8AutVTfc) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Confidencen](https://open.spotify.com/album/2ponLnQXC8yHOsxtvs2Ypz) | 2:21 | 2023-04-28 | 2023-06-23 |
+| [Consolata](https://open.spotify.com/track/7egT9FX8MKlnTzFfxJ0SWg) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [Consolata](https://open.spotify.com/album/5VL0da8nssniJPw6Ljdcny) | 2:38 | 2024-10-23 |  |
 | [County Clare](https://open.spotify.com/track/0NetSB2EidrnN9AxQUuj8s) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [County Clare](https://open.spotify.com/album/7KYYW1IeQvD3SjcDgEbMBA) | 3:04 | 2024-03-29 |  |
 | [Culhuacan](https://open.spotify.com/track/4XEVSTduLQJu4DDYoUqJBB) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Culhuacan](https://open.spotify.com/album/64T4oMzydqN2di0CrThZja) | 2:16 | 2022-06-17 | 2023-05-20 |
 | [Cup](https://open.spotify.com/track/2rh8t6nbYuoABlG31Mm3xX) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Cup](https://open.spotify.com/album/1nIYHMtvCKyA0JVxiF7Mns) | 2:12 | 2022-06-17 | 2023-05-20 |
@@ -133,6 +134,7 @@
 | [Dédalo](https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Dédalo](https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW) | 2:02 | 2023-02-24 | 2023-06-23 |
 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 | 2022-06-17 | 2023-08-25 |
 | [Echoes](https://open.spotify.com/track/6dJHq6Of3BzXVN7MxAtvYr) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Echoes](https://open.spotify.com/album/78elkAOV6CL5jGBeHau0rF) | 2:43 | 2024-02-23 | 2024-09-26 |
+| [Eclipse](https://open.spotify.com/track/12UPVt8jLdT27AuL6GNMW1) | [Pablo Nadal](https://open.spotify.com/artist/2M7fknVkDTQ47zsPTLKIqX) | [Eclipse](https://open.spotify.com/album/0YMcisX2oCm0YRXIeBu4Ux) | 2:39 | 2024-10-23 |  |
 | [El Columpio](https://open.spotify.com/track/2zDmDCedzfQLKRkxqZiMdf) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Jesús Ángel](https://open.spotify.com/artist/1ztVnc2fFgonnotHZfHUtD) | [Tárrega: el Columpio](https://open.spotify.com/album/4SnKI0t6cBRHuVhtmxJ66v) | 3:00 | 2022-11-18 | 2023-09-01 |
 | [El Mayor](https://open.spotify.com/track/0zCXkQqiVItDnClHPSyNd1) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [El Mayor](https://open.spotify.com/album/15WDSMS14fdqlntiw5SwLF) | 2:09 | 2024-07-18 |  |
 | [El Sueño De La Muñeca](https://open.spotify.com/track/4DLfSsfLAwl5mrqTg745qT) | [Agustín Barrios Mangoré](https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [El Sueño De La Muñeca](https://open.spotify.com/album/6tfNJGuPKy2jTQFpPhiYZL) | 2:41 | 2022-10-28 | 2023-08-25 |

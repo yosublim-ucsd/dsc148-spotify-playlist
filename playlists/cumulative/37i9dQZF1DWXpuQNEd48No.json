@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Aji Ghanta",
+        "url": "https://open.spotify.com/album/6hg62gYftHls0qCgajYfVQ"
+      },
+      "artists": [
+        {
+          "name": "Hashtag Rv",
+          "url": "https://open.spotify.com/artist/4WvHsUaJVGnrRKJSEIKfHV"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149278,
+      "name": "Aji Ghanta",
+      "url": "https://open.spotify.com/track/6MSf6wBJfiICajQRd6UTZJ"
+    },
+    {
+      "album": {
         "name": "Ajj Di Ghadi",
         "url": "https://open.spotify.com/album/5N7uDc9T8hDZrtj2b19VU3"
       },
@@ -2005,6 +2023,42 @@
     },
     {
       "album": {
+        "name": "Firki",
+        "url": "https://open.spotify.com/album/4WsLNoVx93bhv9ROdvrija"
+      },
+      "artists": [
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173431,
+      "name": "Firki",
+      "url": "https://open.spotify.com/track/79Go5RTAaIuH4st4hjexS9"
+    },
+    {
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/4LY72uiyZBD0JYyOhXjPod"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186136,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/1uLxPLyCN67HcQwaPrabTj"
+    },
+    {
+      "album": {
         "name": "Flirt",
         "url": "https://open.spotify.com/album/1bJEz7lupCxXDH2g6e65tN"
       },
@@ -2090,6 +2144,28 @@
       "duration_ms": 169086,
       "name": "Gaadi Drill",
       "url": "https://open.spotify.com/track/5hPInHw8XoxbVpbsq5laf5"
+    },
+    {
+      "album": {
+        "name": "Combination",
+        "url": "https://open.spotify.com/album/6f5iEfg1akfdmfVL6wfnqu"
+      },
+      "artists": [
+        {
+          "name": "KC Seedpuriya",
+          "url": "https://open.spotify.com/artist/0tqFPuI0RkCtGj2DascYmi"
+        },
+        {
+          "name": "Sumit Seedpuriya",
+          "url": "https://open.spotify.com/artist/2Ts3AzZrjd3LNIQhjYQxQS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227465,
+      "name": "Gaama Aale",
+      "url": "https://open.spotify.com/track/5ijTdZimop76sb9e7hyKbW"
     },
     {
       "album": {
@@ -3418,7 +3494,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 167172,
       "name": "Kede Kede Yaar",
       "url": "https://open.spotify.com/track/1aeIfm41wcpQiNSN9tjs6B"
@@ -3590,7 +3666,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 172235,
       "name": "Kundli",
       "url": "https://open.spotify.com/track/4RPl5HADTnGhg02pbURDac"
@@ -4610,7 +4686,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 156773,
       "name": "Paggal",
       "url": "https://open.spotify.com/track/0dA3w3xlWHImfX39kEnmSc"
@@ -4628,7 +4704,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 150688,
       "name": "Papi Purane",
       "url": "https://open.spotify.com/track/4RVpvENpsF5H5bJSruG0wC"

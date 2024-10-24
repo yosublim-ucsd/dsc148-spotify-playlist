@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "M\u00f3j dom",
+        "url": "https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ"
+      },
+      "artists": [
+        {
+          "name": "Kortez",
+          "url": "https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk"
+        }
+      ],
+      "date_added": "2024-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212915,
+      "name": "Dobrze, \u017ce Ci\u0119 mam",
+      "url": "https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF"
+    },
+    {
+      "album": {
         "name": "Kawalerka",
         "url": "https://open.spotify.com/album/6cIh3MgxY65lqwAjiXGU5h"
       },
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2024-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 210333,
       "name": "\u015awiat si\u0119 pomyli\u0142",
       "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"

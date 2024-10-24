@@ -1,13 +1,29 @@
 {
-  "description": "The best new dance & electronic by independent artists and labels. Cover: STRAWBRY. Artwork by Rewina Beshue.",
-  "num_followers": 185817,
+  "description": "The best new dance & electronic by independent artists and labels. Cover: IN PARALLEL. Artwork by Rewina Beshue.",
+  "num_followers": 185900,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxKZKgAAAAB4yTbWv2GxUuyx++n5X7T6",
+  "snapshot_id": "ZxkqeAAAAABU9nmyh9dDFvPoxokxfDha",
   "tracks": [
+    {
+      "added_at": "2024-10-23 16:55:20",
+      "album": {
+        "name": "NOW IT'S GONE",
+        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "duration_ms": 143184,
+      "name": "NOW IT'S GONE",
+      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
+    },
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
@@ -29,58 +45,6 @@
       "url": "https://open.spotify.com/track/2dpGpd2kJ6yNqFGGImGP0m"
     },
     {
-      "added_at": "2024-10-10 04:44:17",
-      "album": {
-        "name": "Set The Mood EP",
-        "url": "https://open.spotify.com/album/1N8trVi4jSkXaozGgfTBaK"
-      },
-      "artists": [
-        {
-          "name": "Eridu",
-          "url": "https://open.spotify.com/artist/7ik54S0zXk1Ex5xSU8Igmf"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Set The Mood",
-      "url": "https://open.spotify.com/track/5ZoxVAhhq7DE4x1L97d9Cb"
-    },
-    {
-      "added_at": "2024-10-18 17:21:46",
-      "album": {
-        "name": "All I Do Bae (Pull Up) - Edit",
-        "url": "https://open.spotify.com/album/18dHy63CkKWy42lHecuoIN"
-      },
-      "artists": [
-        {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "All I Do Bae (Pull Up) - Edit",
-      "url": "https://open.spotify.com/track/6xDwgVCTbBs95DZFSyeNhG"
-    },
-    {
-      "added_at": "2024-10-16 18:19:33",
-      "album": {
-        "name": "Souljah",
-        "url": "https://open.spotify.com/album/5jHvRM5fcHZq5HBzaLj3ZA"
-      },
-      "artists": [
-        {
-          "name": "Doriann",
-          "url": "https://open.spotify.com/artist/52rrjMiAC433F1mRLgWeVq"
-        },
-        {
-          "name": "Randoree",
-          "url": "https://open.spotify.com/artist/7Arbq4rNJORXYyGHv9ujPa"
-        }
-      ],
-      "duration_ms": 240487,
-      "name": "Souljah",
-      "url": "https://open.spotify.com/track/2Sfm20Y0yDJxAQ57Dfs9pb"
-    },
-    {
       "added_at": "2024-09-20 04:00:00",
       "album": {
         "name": "The Booth",
@@ -97,36 +61,20 @@
       "url": "https://open.spotify.com/track/6VvCjNeAYmxNJfAy1826Qz"
     },
     {
-      "added_at": "2024-10-16 18:19:33",
+      "added_at": "2024-10-23 16:55:20",
       "album": {
-        "name": "A Collection of Things",
-        "url": "https://open.spotify.com/album/53Lz35eDuV3m5s6gBNiKeP"
+        "name": "Love to Be",
+        "url": "https://open.spotify.com/album/79hEBPfDvTigDqMKCM4CuG"
       },
       "artists": [
         {
-          "name": "Richie Hova",
-          "url": "https://open.spotify.com/artist/2wyc7zt9JUPaGXLdAsobmR"
+          "name": "BAVHU",
+          "url": "https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd"
         }
       ],
-      "duration_ms": 148837,
-      "name": "There's a Fire (Inside of Me)",
-      "url": "https://open.spotify.com/track/1158t7uaGeJteTfhrwaI3s"
-    },
-    {
-      "added_at": "2024-10-18 17:21:46",
-      "album": {
-        "name": "Basking In The Rain",
-        "url": "https://open.spotify.com/album/6uYgjYYcFowIMfS3a4QIoI"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 166986,
-      "name": "Basking In The Rain",
-      "url": "https://open.spotify.com/track/0N3GPu7D73xaBTrkTya5np"
+      "duration_ms": 234461,
+      "name": "Love to Be",
+      "url": "https://open.spotify.com/track/4wFu6LtUmK8MXSTDBQbiuZ"
     },
     {
       "added_at": "2024-10-02 18:02:38",
@@ -149,60 +97,20 @@
       "url": "https://open.spotify.com/track/4f6oR2hRHLPZPajRrXeCLZ"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-16 18:19:33",
       "album": {
-        "name": "SAMESAME feat. Izza Gara",
-        "url": "https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3"
+        "name": "A Collection of Things",
+        "url": "https://open.spotify.com/album/53Lz35eDuV3m5s6gBNiKeP"
       },
       "artists": [
         {
-          "name": "DJ Carpenter",
-          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
-        },
-        {
-          "name": "Izza Gara",
-          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+          "name": "Richie Hova",
+          "url": "https://open.spotify.com/artist/2wyc7zt9JUPaGXLdAsobmR"
         }
       ],
-      "duration_ms": 218181,
-      "name": "SAMESAME (feat. Izza Gara)",
-      "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
-    },
-    {
-      "added_at": "2024-10-18 17:21:46",
-      "album": {
-        "name": "Cobalt",
-        "url": "https://open.spotify.com/album/5wOAaxXdKJ7xzpo6RFXt4L"
-      },
-      "artists": [
-        {
-          "name": "hayamie",
-          "url": "https://open.spotify.com/artist/7wCuzbp1izDP7eVX3CZFE9"
-        },
-        {
-          "name": "SKYTOPIA",
-          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Cobalt",
-      "url": "https://open.spotify.com/track/7GiAGL0ZkU8ZuGp7hWDWx6"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "FIREFLY",
-        "url": "https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        }
-      ],
-      "duration_ms": 177261,
-      "name": "FIREFLY",
-      "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
+      "duration_ms": 148837,
+      "name": "There's a Fire (Inside of Me)",
+      "url": "https://open.spotify.com/track/1158t7uaGeJteTfhrwaI3s"
     },
     {
       "added_at": "2024-10-16 18:19:33",
@@ -225,6 +133,54 @@
       "url": "https://open.spotify.com/track/3VNrV8uylABwQAhVl5xtVx"
     },
     {
+      "added_at": "2024-10-23 16:55:20",
+      "album": {
+        "name": "evergreen",
+        "url": "https://open.spotify.com/album/5rxZ7x6Wp2LAgDzhbw2u35"
+      },
+      "artists": [
+        {
+          "name": "Baxter",
+          "url": "https://open.spotify.com/artist/44hRRRhNR9moRvxr2wQj6u"
+        }
+      ],
+      "duration_ms": 326166,
+      "name": "evergreen",
+      "url": "https://open.spotify.com/track/0sKxmZApSI1vzJB82XXY8l"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Bring The Beat",
+        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
+        }
+      ],
+      "duration_ms": 150468,
+      "name": "Bring The Beat",
+      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
+    },
+    {
+      "added_at": "2024-10-23 16:55:20",
+      "album": {
+        "name": "Tu Segredos",
+        "url": "https://open.spotify.com/album/5jnOm7Xv8UlQDnUmuDEOVS"
+      },
+      "artists": [
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Tu Segredos",
+      "url": "https://open.spotify.com/track/1WV1pLRmDLBPKWfOdITw6y"
+    },
+    {
       "added_at": "2024-10-02 18:02:38",
       "album": {
         "name": "On My Mind",
@@ -239,6 +195,22 @@
       "duration_ms": 155003,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/58mO9YgRePOUCrDX2u51sz"
+    },
+    {
+      "added_at": "2024-10-23 16:55:20",
+      "album": {
+        "name": "i want ur love",
+        "url": "https://open.spotify.com/album/3YPWdMz2gBbokvxO9VBelW"
+      },
+      "artists": [
+        {
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "i want ur love",
+      "url": "https://open.spotify.com/track/6Lt5gqL9Ke8XksHkJBJKQV"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -257,6 +229,22 @@
       "url": "https://open.spotify.com/track/2GpheX7p45TdZGLxDCgnc5"
     },
     {
+      "added_at": "2024-10-23 16:55:20",
+      "album": {
+        "name": "miss yr luv",
+        "url": "https://open.spotify.com/album/5f436KX0QmeczYwjLjdWUJ"
+      },
+      "artists": [
+        {
+          "name": "Flansie",
+          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        }
+      ],
+      "duration_ms": 279209,
+      "name": "miss yr luv",
+      "url": "https://open.spotify.com/track/2tRhNYiH2VDRfutWkLAj8V"
+    },
+    {
       "added_at": "2024-08-28 16:35:01",
       "album": {
         "name": "Dance With You (All Night)",
@@ -271,22 +259,6 @@
       "duration_ms": 188072,
       "name": "Dance With You (All Night)",
       "url": "https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Bring The Beat",
-        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
-        }
-      ],
-      "duration_ms": 150468,
-      "name": "Bring The Beat",
-      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
     },
     {
       "added_at": "2024-10-18 17:21:46",
@@ -319,6 +291,146 @@
       "duration_ms": 265889,
       "name": "Tainted",
       "url": "https://open.spotify.com/track/09yHcTOez0ZoZ4nRol9jv7"
+    },
+    {
+      "added_at": "2024-10-23 16:55:20",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0RtASWxCBdXCoUKjE3x8WF"
+      },
+      "artists": [
+        {
+          "name": "REMY QUINN",
+          "url": "https://open.spotify.com/artist/6OQoRzjz71ofDCQa5OTlfq"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3sJf3XoQG1TuSi3URcow8B"
+    },
+    {
+      "added_at": "2024-10-10 04:44:17",
+      "album": {
+        "name": "Set The Mood EP",
+        "url": "https://open.spotify.com/album/1N8trVi4jSkXaozGgfTBaK"
+      },
+      "artists": [
+        {
+          "name": "Eridu",
+          "url": "https://open.spotify.com/artist/7ik54S0zXk1Ex5xSU8Igmf"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Set The Mood",
+      "url": "https://open.spotify.com/track/5ZoxVAhhq7DE4x1L97d9Cb"
+    },
+    {
+      "added_at": "2024-10-16 18:19:33",
+      "album": {
+        "name": "Souljah",
+        "url": "https://open.spotify.com/album/5jHvRM5fcHZq5HBzaLj3ZA"
+      },
+      "artists": [
+        {
+          "name": "Doriann",
+          "url": "https://open.spotify.com/artist/52rrjMiAC433F1mRLgWeVq"
+        },
+        {
+          "name": "Randoree",
+          "url": "https://open.spotify.com/artist/7Arbq4rNJORXYyGHv9ujPa"
+        }
+      ],
+      "duration_ms": 240487,
+      "name": "Souljah",
+      "url": "https://open.spotify.com/track/2Sfm20Y0yDJxAQ57Dfs9pb"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "SAMESAME feat. Izza Gara",
+        "url": "https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3"
+      },
+      "artists": [
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        },
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "SAMESAME (feat. Izza Gara)",
+      "url": "https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2"
+    },
+    {
+      "added_at": "2024-10-18 17:21:46",
+      "album": {
+        "name": "Turn Me On",
+        "url": "https://open.spotify.com/album/3MMW0aU2dYoZo9aDb63Pn7"
+      },
+      "artists": [
+        {
+          "name": "Prof. Stranger",
+          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/5MCU6TnfVoytCTrTqL9RwS"
+    },
+    {
+      "added_at": "2024-10-18 17:21:46",
+      "album": {
+        "name": "Cobalt",
+        "url": "https://open.spotify.com/album/5wOAaxXdKJ7xzpo6RFXt4L"
+      },
+      "artists": [
+        {
+          "name": "hayamie",
+          "url": "https://open.spotify.com/artist/7wCuzbp1izDP7eVX3CZFE9"
+        },
+        {
+          "name": "SKYTOPIA",
+          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Cobalt",
+      "url": "https://open.spotify.com/track/7GiAGL0ZkU8ZuGp7hWDWx6"
+    },
+    {
+      "added_at": "2024-10-23 16:55:20",
+      "album": {
+        "name": "Let The World Go By",
+        "url": "https://open.spotify.com/album/6sc8Ui26OQO0ft7euVv4qD"
+      },
+      "artists": [
+        {
+          "name": "Jazzy A",
+          "url": "https://open.spotify.com/artist/17exlBmf1yRTEaINYS5yqf"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Let The World Go By",
+      "url": "https://open.spotify.com/track/7mfpljYaQH5Tn3gRnVKRws"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "FIREFLY",
+        "url": "https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "FIREFLY",
+      "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
     },
     {
       "added_at": "2024-10-18 17:21:46",
@@ -359,6 +471,38 @@
       "duration_ms": 174782,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/0kwBfJOy6GC1xdsSo54eeq"
+    },
+    {
+      "added_at": "2024-10-23 16:55:20",
+      "album": {
+        "name": "Mega Drive",
+        "url": "https://open.spotify.com/album/1FbqOdPsjrpayMjEjlA3wL"
+      },
+      "artists": [
+        {
+          "name": "AV AV AV",
+          "url": "https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM"
+        }
+      ],
+      "duration_ms": 234074,
+      "name": "Mega Drive",
+      "url": "https://open.spotify.com/track/1ED3VzuGpuch83efnmQytv"
+    },
+    {
+      "added_at": "2024-10-18 17:21:46",
+      "album": {
+        "name": "All I Do Bae (Pull Up) - Edit",
+        "url": "https://open.spotify.com/album/18dHy63CkKWy42lHecuoIN"
+      },
+      "artists": [
+        {
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "All I Do Bae (Pull Up) - Edit",
+      "url": "https://open.spotify.com/track/6xDwgVCTbBs95DZFSyeNhG"
     },
     {
       "added_at": "2024-10-18 17:21:46",
@@ -433,6 +577,26 @@
       "url": "https://open.spotify.com/track/5q5KRMmj8TIIm3FNzs16Cw"
     },
     {
+      "added_at": "2024-10-18 17:21:46",
+      "album": {
+        "name": "Beverly",
+        "url": "https://open.spotify.com/album/0D5Jx1iNe4VrRZV4ICzM5j"
+      },
+      "artists": [
+        {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        },
+        {
+          "name": "Marques Martin",
+          "url": "https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "Beverly",
+      "url": "https://open.spotify.com/track/3ejYHvB1mOw6YuA8tEkVkh"
+    },
+    {
       "added_at": "2024-10-10 04:44:17",
       "album": {
         "name": "Closer",
@@ -447,6 +611,22 @@
       "duration_ms": 234545,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4gPzgnuf6njljiwLFKM2lV"
+    },
+    {
+      "added_at": "2024-10-18 17:21:46",
+      "album": {
+        "name": "Basking In The Rain",
+        "url": "https://open.spotify.com/album/6uYgjYYcFowIMfS3a4QIoI"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "duration_ms": 166986,
+      "name": "Basking In The Rain",
+      "url": "https://open.spotify.com/track/0N3GPu7D73xaBTrkTya5np"
     },
     {
       "added_at": "2024-10-02 18:02:38",
@@ -479,26 +659,6 @@
       "duration_ms": 166153,
       "name": "library",
       "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
-    },
-    {
-      "added_at": "2024-10-18 17:21:46",
-      "album": {
-        "name": "Beverly",
-        "url": "https://open.spotify.com/album/0D5Jx1iNe4VrRZV4ICzM5j"
-      },
-      "artists": [
-        {
-          "name": "Conrad Taylor",
-          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
-        },
-        {
-          "name": "Marques Martin",
-          "url": "https://open.spotify.com/artist/2zYLOUffCBXGpbnI3XbTZq"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "Beverly",
-      "url": "https://open.spotify.com/track/3ejYHvB1mOw6YuA8tEkVkh"
     },
     {
       "added_at": "2024-10-02 18:02:38",
@@ -635,22 +795,6 @@
       "duration_ms": 255000,
       "name": "Talk 2 The Deejay",
       "url": "https://open.spotify.com/track/699iI6trQdW6AQ2LHD0hSO"
-    },
-    {
-      "added_at": "2024-10-18 17:21:46",
-      "album": {
-        "name": "Turn Me On",
-        "url": "https://open.spotify.com/album/3MMW0aU2dYoZo9aDb63Pn7"
-      },
-      "artists": [
-        {
-          "name": "Prof. Stranger",
-          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/5MCU6TnfVoytCTrTqL9RwS"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -859,22 +1003,6 @@
       "duration_ms": 331520,
       "name": "Feeling Feelings",
       "url": "https://open.spotify.com/track/0pUzRJTrnzFgNJ65swNEep"
-    },
-    {
-      "added_at": "2024-10-02 18:02:38",
-      "album": {
-        "name": "Can't stay away",
-        "url": "https://open.spotify.com/album/3tJZf74kMwtI1c03u0mKqB"
-      },
-      "artists": [
-        {
-          "name": "HUF",
-          "url": "https://open.spotify.com/artist/4oe1QAsrMuoPkn4CHTX5CX"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "Can't stay away",
-      "url": "https://open.spotify.com/track/4fNuPuZU58dHCMMKIneLDr"
     },
     {
       "added_at": "2024-09-04 16:07:14",
@@ -1169,22 +1297,6 @@
       "url": "https://open.spotify.com/track/3qklzOjUkuGl5zDPTHmHKe"
     },
     {
-      "added_at": "2024-09-11 16:32:02",
-      "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/72dWzu72E5zFU0QHLrVMGO"
-      },
-      "artists": [
-        {
-          "name": "Ell Murphy",
-          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
-        }
-      ],
-      "duration_ms": 231527,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/0QXWcZY9DRDS0e8Czdgdv5"
-    },
-    {
       "added_at": "2024-08-07 16:28:20",
       "album": {
         "name": "Up To No Good",
@@ -1201,22 +1313,6 @@
       "url": "https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU"
     },
     {
-      "added_at": "2024-01-24 18:00:00",
-      "album": {
-        "name": "FIRST ENCOUNTER",
-        "url": "https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be"
-      },
-      "artists": [
-        {
-          "name": "BOABOA",
-          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
-        }
-      ],
-      "duration_ms": 169354,
-      "name": "Boy, Empty",
-      "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
-    },
-    {
       "added_at": "2024-09-11 16:32:02",
       "album": {
         "name": "Midnight Flame",
@@ -1231,22 +1327,6 @@
       "duration_ms": 163636,
       "name": "Midnight Flame",
       "url": "https://open.spotify.com/track/7iaDZQjqmQckbtujcC204U"
-    },
-    {
-      "added_at": "2024-09-11 16:32:02",
-      "album": {
-        "name": "help me",
-        "url": "https://open.spotify.com/album/4r8CyJ2aKoc50l92rOqvMA"
-      },
-      "artists": [
-        {
-          "name": "silvershore",
-          "url": "https://open.spotify.com/artist/5ugiiDMswZlkI97yinhvEt"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "help me",
-      "url": "https://open.spotify.com/track/3Z0vv6Zi5FQZm1RbJh5Qwk"
     },
     {
       "added_at": "2024-08-28 16:35:01",
@@ -1281,22 +1361,6 @@
       "url": "https://open.spotify.com/track/6plYmlqJjrKvmDVTsy1jtr"
     },
     {
-      "added_at": "2024-09-11 16:32:02",
-      "album": {
-        "name": "Pappia",
-        "url": "https://open.spotify.com/album/3uqTQNzxU77PXmRBBSypF9"
-      },
-      "artists": [
-        {
-          "name": "Leisan",
-          "url": "https://open.spotify.com/artist/1jtvnvAC4u2YWU7QTqoNDF"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Pappia",
-      "url": "https://open.spotify.com/track/5qM9dVnxEnSbWdSKC4mSXn"
-    },
-    {
       "added_at": "2024-09-06 17:46:41",
       "album": {
         "name": "Rewind",
@@ -1327,22 +1391,6 @@
       "duration_ms": 203760,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/48TrMJXONxegs0i8wB9zOo"
-    },
-    {
-      "added_at": "2024-09-18 18:51:38",
-      "album": {
-        "name": "Wise Heart",
-        "url": "https://open.spotify.com/album/0nlMtkdfpMHNby5avmtAcY"
-      },
-      "artists": [
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "Wise Heart",
-      "url": "https://open.spotify.com/track/31mRhTf3yG5kof0V0OvzN5"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1429,6 +1477,22 @@
       "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
     },
     {
+      "added_at": "2024-03-27 17:04:34",
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Affection",
@@ -1443,22 +1507,6 @@
       "duration_ms": 232319,
       "name": "Affection",
       "url": "https://open.spotify.com/track/2LXmCjncKHHcNxXBorMxEV"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Pu!se",
-        "url": "https://open.spotify.com/album/0Ylubbochq7atUpbaxCsZR"
-      },
-      "artists": [
-        {
-          "name": "SKYTOPIA",
-          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Pu!se",
-      "url": "https://open.spotify.com/track/0korDVis4AoQIH1ICWvmLB"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1539,22 +1587,6 @@
       "duration_ms": 258470,
       "name": "okay picasso",
       "url": "https://open.spotify.com/track/07bD32Nw101qUUjEgjxuWS"
-    },
-    {
-      "added_at": "2024-03-27 17:04:34",
-      "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "added_at": "2024-08-07 16:28:20",
@@ -1641,22 +1673,6 @@
       "url": "https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "2 Be Mine",
-        "url": "https://open.spotify.com/album/0er1h4ROpxoQTypU2tAmKz"
-      },
-      "artists": [
-        {
-          "name": "REIMOND",
-          "url": "https://open.spotify.com/artist/7z955zaSIBYtTHEOql7BL5"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "2 Be Mine",
-      "url": "https://open.spotify.com/track/02HC54rBCIgeJ8rpDUO8sp"
-    },
-    {
       "added_at": "2024-07-24 17:53:28",
       "album": {
         "name": "HERE WE GO",
@@ -1671,22 +1687,6 @@
       "duration_ms": 180897,
       "name": "HERE WE GO",
       "url": "https://open.spotify.com/track/3q0O02k68i5oaBgFKGij1j"
-    },
-    {
-      "added_at": "2024-07-31 17:23:25",
-      "album": {
-        "name": "Mi Corazon",
-        "url": "https://open.spotify.com/album/48knaTGhE5Ovfe5zOijkEr"
-      },
-      "artists": [
-        {
-          "name": "MAKS (FR)",
-          "url": "https://open.spotify.com/artist/0C3AuNGBY39ioSTA79TzMz"
-        }
-      ],
-      "duration_ms": 241935,
-      "name": "Mi Corazon",
-      "url": "https://open.spotify.com/track/3w8r4jpqZWvxcMzbgZd6kC"
     },
     {
       "added_at": "2024-04-10 18:23:48",

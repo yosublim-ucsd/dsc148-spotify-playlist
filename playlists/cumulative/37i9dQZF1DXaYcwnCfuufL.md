@@ -4,7 +4,7 @@
 
 > 우리의 얼과 소리가 담긴 국악음악을 즐겨보세요\. \(커버: 엄유정\(Eom Yu Jeong\)\) \(Enjoy Korean national music with our spirit and sound.\)
 
-63 songs - 8 hr 56 min
+64 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [가야금과 기타를 위한 이중주 "강태홍류"](https://open.spotify.com/track/4GQdQfUAMpNxYQgxemQgx2) | [솜리가야금연주단](https://open.spotify.com/artist/1eP3QGqfFgEFvdLaQAZOl6) | [Three Story](https://open.spotify.com/album/6VjtdUBLToj02KldH4gL93) | 11:30 | 2023-09-15 |  |
 | [김일구류 아쟁산조](https://open.spotify.com/track/6bJo4uNwQrK0ZcHXsIPQqR) | [조우리](https://open.spotify.com/artist/7puL0VLZs3c4BbyZfosxpo) | [스며들다](https://open.spotify.com/album/2C9EtQKSFU1VnMTz0SP949) | 36:37 | 2023-09-15 |  |
 | [노래가락](https://open.spotify.com/track/0a5KhB6aQzKlfo0nYfVLRZ) | [Lee Chunhee](https://open.spotify.com/artist/1TfKl7iMGucOiFs2UihnHt) | [이춘희 민요독집](https://open.spotify.com/album/1bIhqzjtgcsT4E6u0EdSJO) | 2:41 | 2023-09-15 |  |
+| [다스름](https://open.spotify.com/track/0CmnaajEUmtWhj61008Q5u) | [윤도희](https://open.spotify.com/artist/4uaLS9ls1GccFAKhwkNkjo) | [윤도희 가야금산조 성금연류 전바탕](https://open.spotify.com/album/6IFjM1GBdrLhd4H77ZV5a1) | 1:48 | 2024-10-23 |  |
 | [대취타](https://open.spotify.com/track/7pSasaBazpqMNk3Gv9KgOf) | [Chung Chae Kook](https://open.spotify.com/artist/1Uxmf3CMCIztjzyv2tL41g) | [정재국 피리, 태평소 작품집1 \(정악편\)](https://open.spotify.com/album/5OGvPMoDGKBLV8rrl0gBs6) | 11:36 | 2023-09-15 | 2024-04-19 |
 | [대취타](https://open.spotify.com/track/3TSjyFjF5TfctBMem0g62j) | [정재국](https://open.spotify.com/artist/0hDEr0S2KMnFfjLh0EAbu5) | [정재국 피리, 태평소 작품집1 \(정악편\)](https://open.spotify.com/album/7xyOKrBR8OBNyculkB2WGa) | 11:36 | 2023-09-15 |  |
 | [도화 널그리며](https://open.spotify.com/track/2eSVFZlaW6ucU25a6aSDSo) | [최윤영](https://open.spotify.com/artist/1CAtucnD01c0cW4rUjWq8t) | [도화! 널그리며](https://open.spotify.com/album/76zjgQlv3RcvQsJXReTuGP) | 3:49 | 2023-09-15 |  |

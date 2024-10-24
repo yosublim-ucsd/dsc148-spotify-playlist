@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,868 likes - 151 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,945 likes - 151 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 4 | [Gemini](https://open.spotify.com/track/3u1kYrlI4uU9RXG09QYKOP) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Gemini](https://open.spotify.com/album/4A1gwFrLpRYJt2WQXaa6BT) | 4:31 |
 | 5 | [Over Your Head](https://open.spotify.com/track/6HD34sKAz0z31qdqmhy6RQ) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Over Your Head](https://open.spotify.com/album/4iOmd8wfRPNALHQS8VSjEI) | 3:16 |
 | 6 | [Still the One](https://open.spotify.com/track/5JxVAize3pjX0nFSabO9Ba) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Better Now](https://open.spotify.com/album/2lSPk8E1AEcvji5Ohf1vPI) | 2:51 |
-| 7 | [Hotel Bible](https://open.spotify.com/track/3UAkWAnbPGJgIXG1OsQHlD) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Hotel Bible](https://open.spotify.com/album/6KdpUp1ly6HoraKohvN5ks) | 2:54 |
+| 7 | [Hotel Bible](https://open.spotify.com/track/3UAkWAnbPGJgIXG1OsQHlD) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Hotel Bible](https://open.spotify.com/album/6KdpUp1ly6HoraKohvN5ks) | 2:53 |
 | 8 | [Don’t Let Me Down Again](https://open.spotify.com/track/1fuQki4HKxBZfoR6NGD0DQ) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Don't Let Me Down Again](https://open.spotify.com/album/0m6DwAOvMiq4BOufLEwgCo) | 3:23 |
 | 9 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 |
 | 10 | [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 |

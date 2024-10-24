@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 301007,
       "name": "Haust",
       "url": "https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4"
@@ -4680,6 +4680,24 @@
       "duration_ms": 183063,
       "name": "Silia",
       "url": "https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl"
+    },
+    {
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/1ACYcJOkXukOYC1hVwLnFq"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170914,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/5bAXwSGe8VudUcZCQs8avp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-433 songs - 1 day 0 hr 27 min
+434 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2023-09-12 | 2024-06-12 |
 | [Fidaa](https://open.spotify.com/track/2F4GxzCqfv0DAcnbWtr3Tk) | [Shubhranshu Tiwari](https://open.spotify.com/artist/1Zb6oNpoIxy7EelAwdpICD) | [Fidaa](https://open.spotify.com/album/57WGS0aqObOSiCOJhhWgRR) | 2:08 | 2024-01-08 | 2024-03-15 |
 | [Fly Fly Away \(Reprise\)](https://open.spotify.com/track/76MZxG3G1KFr6FGIJ9OGAp) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shivam\-Anuj](https://open.spotify.com/artist/42IqpkdFAQHbi23kCD6cBg) | [Garuudaa On The Terrace \- Season 1](https://open.spotify.com/album/5IPTiG6QY5rjrki3MR4S3x) | 2:49 | 2024-05-28 |  |
-| [Fursat](https://open.spotify.com/track/0rRN8GUnQXMzn5IC2f9JDF) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Fursat](https://open.spotify.com/album/6EwhEZsAIyWebuoLUBhlzL) | 4:07 | 2024-09-20 |  |
+| [Fursat](https://open.spotify.com/track/0rRN8GUnQXMzn5IC2f9JDF) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Fursat](https://open.spotify.com/album/6EwhEZsAIyWebuoLUBhlzL) | 4:07 | 2024-09-20 | 2024-10-24 |
 | [Ghulaam](https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT) | [Ghulaam](https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp) | 3:22 | 2023-08-18 | 2024-04-19 |
 | [Ghum](https://open.spotify.com/track/4KJUTpVHxRNGEf8UxSdnTz) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu), [Aaghaz](https://open.spotify.com/artist/6VblvHVLbQqdZvCeg9IcTA) | [Ghum](https://open.spotify.com/album/16nwvylfu4PFM6jvckEMjD) | 3:12 | 2024-09-29 | 2024-10-22 |
 | [Girta Sambhalta](https://open.spotify.com/track/7zIZRuC4yEsLItRPD3hvf1) | [Aditya N.](https://open.spotify.com/artist/4hywkPZjNnWbisCuDpTB5d), [Nayantara Bhatkal](https://open.spotify.com/artist/6tTt2QJN9fk6o0xePqBiIA), [Class](https://open.spotify.com/artist/55QQRSnrc4sTCDqJPLz2w0) | [Class: Season 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3LYcCtX4jQcwUr2q9es85P) | 2:18 | 2023-05-17 | 2023-07-29 |
@@ -328,6 +328,7 @@
 | [Rok Na Paya](https://open.spotify.com/track/4YuFsqg0XZdOvsspVcoyeF) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Rok Na Paya](https://open.spotify.com/album/1tWrFRHjlm4O3WOQgZwEXo) | 3:48 | 2024-03-21 | 2024-04-13 |
 | [Roshni Ka Sira](https://open.spotify.com/track/59jj3LZxOuRbmdfyes94m4) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Roshni Ka Sira](https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo) | 3:41 | 2023-07-03 | 2024-01-16 |
 | [Ruk Ja Zara](https://open.spotify.com/track/1kjZhK0yDSb0EJ3CtAhdLo) | [Shaktay](https://open.spotify.com/artist/4RdvM1ZV9Qpkf9Og8jqu6N) | [Ruk Ja Zara](https://open.spotify.com/album/709EDNOfKy6fgn33Hmu1df) | 3:56 | 2024-04-12 | 2024-05-16 |
+| [Ruk Jaa Na](https://open.spotify.com/track/2aEl1z5EE2Bg2TikPlpKi6) | [Suraj Nag](https://open.spotify.com/artist/2vX0pNOuin4A2xIM1Uy28d), [Shubham Upreti](https://open.spotify.com/artist/6Fry19RYWfGOZYEU45YlgD) | [Ruk Jaa Na](https://open.spotify.com/album/3lg2PEHytqFvvOr7fIDJJz) | 2:45 | 2024-10-23 |  |
 | [Ruqsat](https://open.spotify.com/track/3ZSazSSWUTgoPiCtVU9wVz) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI) | [Ruqsat](https://open.spotify.com/album/0T6Dy2GvUJFZpOhJ4IxvaE) | 3:39 | 2024-01-08 | 2024-03-14 |
 | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/track/7kmKa5Of9dHnCb3zgrUqyA) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Varsha Gaur](https://open.spotify.com/artist/3QQsnfmVSorAOd1njZgys0) | [Saadgi \(feat\. Varsha Gaur\)](https://open.spotify.com/album/6sZJobDiQcGBb0iGYsQe5F) | 3:35 | 2023-06-14 | 2023-08-05 |
 | [Saari Umar](https://open.spotify.com/track/2H3Ybag8WuTdoaGVMCDqRl) | [Harish Budhwani](https://open.spotify.com/artist/1Gl7igag9ejxcepMCPDg4H) | [Saari Umar](https://open.spotify.com/album/4CLPALqNL9TZnE3gOIQ3C5) | 4:34 | 2023-05-17 | 2023-06-07 |

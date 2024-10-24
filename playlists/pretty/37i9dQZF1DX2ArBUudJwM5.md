@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con ODD MAMI en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,466 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,465 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [General Paz](https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [General Paz](https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR) | 2:49 |
+| 1 | [General Paz](https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [general paz](https://open.spotify.com/album/4IA2B09XZkxSovqVhonkUR) | 2:49 |
 | 2 | [contacto visual](https://open.spotify.com/track/3QDb9qWDXBbwO9dlMIpvOc) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [contacto visual](https://open.spotify.com/album/19iYFIFDOV38H7FdbFou4e) | 1:56 |
 | 3 | [I'M SO SEXY](https://open.spotify.com/track/7kh7H2L79O90XyBD5w9Nip) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [I'M SO SEXY](https://open.spotify.com/album/5TWsuuD1VLhnddk7gqPO3C) | 2:04 |
 | 4 | [no es amor](https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [no es amor](https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm) | 3:14 |

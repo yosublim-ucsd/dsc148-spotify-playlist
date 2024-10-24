@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,821 songs - 1 day 13 hr 26 min
+1,823 songs - 1 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,6 +786,7 @@
 | [Home Is Where I Belong](https://open.spotify.com/track/4yS3lS7dak3t1rvpMVoRD6) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Restored](https://open.spotify.com/album/1xwDx8jc8SdscX2xYWSrud) | 1:03 | 2022-02-11 | 2024-01-30 |
 | [Home Is Where You Are](https://open.spotify.com/track/51JQh51G4URZYMgROLqCyC) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Home Is Where You Are](https://open.spotify.com/album/5o9mRVnbDfwCgxVoZVj4mW) | 1:17 | 2022-01-16 | 2024-01-30 |
 | [Home With You](https://open.spotify.com/track/2lP0C2HdTs9AtXmrdt7D41) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Cello Songs](https://open.spotify.com/album/4qk2Cg1Gu9xJvDjyu9Mf6u) | 1:04 | 2022-02-18 | 2024-02-13 |
+| [Hope](https://open.spotify.com/track/0Sbs7D0nJ8ooHZNHywdy7X) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Hope And Love](https://open.spotify.com/album/6HL9vMR76QDapjg6W9lZDm) | 1:00 | 2024-10-23 |  |
 | [Hope](https://open.spotify.com/track/4rJpaLxW4D9WD5CHTprinQ) | [Simon Wester](https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO) | [Hope](https://open.spotify.com/album/3p3HAfox0gdHD2ytaSQ4mx) | 3:45 | 2022-01-12 | 2022-10-21 |
 | [Hope And Peace](https://open.spotify.com/track/4X34K91bhS4fHYogBQq70K) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Hope And Peace](https://open.spotify.com/album/1TKSEHhPYQYlgfUITrnoq0) | 1:02 | 2022-08-31 |  |
 | [Hope Is True](https://open.spotify.com/track/2YiNveOYT0UOl5wRzYPSsQ) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Ambient Harp](https://open.spotify.com/album/5Fr7wNbfLCDor0R70n0CUD) | 1:06 | 2022-03-03 |  |
@@ -933,6 +934,7 @@
 | [Lost In Light](https://open.spotify.com/track/4UktmFHfL7zuOsrYWCRGmy) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Lost In Light](https://open.spotify.com/album/11GPFpl4G8ReY18859faJK) | 1:00 | 2024-02-13 |  |
 | [Lost In Our Thoughts](https://open.spotify.com/track/7BVe8r6yDehda6s9DLychW) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Moonlight](https://open.spotify.com/album/1gmMOu72TCFyH5rKC9p9Nt) | 1:15 | 2024-01-29 |  |
 | [Lounge Reflections \- Cello Version](https://open.spotify.com/track/26FEUIb5gn1fRloedHLxi0) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Lounge Reflections](https://open.spotify.com/album/5MOuQxhKChGKVoG7Ird7Qb) | 1:02 | 2024-02-09 | 2024-02-13 |
+| [Love](https://open.spotify.com/track/26fwYCC53DUgqrBKVbMybr) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Hope And Love](https://open.spotify.com/album/6HL9vMR76QDapjg6W9lZDm) | 1:00 | 2024-10-23 |  |
 | [Love](https://open.spotify.com/track/0H2U7PcXffuiClQ5fu86Em) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Love](https://open.spotify.com/album/0hMX3IMMFoNpE3S89AqNdc) | 1:17 | 2022-03-25 |  |
 | [Love](https://open.spotify.com/track/3nDMQeXSypnx2q1GYypVv5) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Emotions](https://open.spotify.com/album/4H9q8AjWhZvDpHQ0B769ij) | 2:20 | 2022-01-12 | 2024-01-30 |
 | [Love And Beauty](https://open.spotify.com/track/3lmpe4Mu4lkpg0Miy8mAUv) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Drift](https://open.spotify.com/album/7rqa0u1lTDoT45FPqTYVfd) | 1:05 | 2022-01-12 |  |

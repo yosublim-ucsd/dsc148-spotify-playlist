@@ -533,6 +533,32 @@
     },
     {
       "album": {
+        "name": "Amanecio",
+        "url": "https://open.spotify.com/album/0gVmREjF98TH0bV0qxBWDt"
+      },
+      "artists": [
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        },
+        {
+          "name": "El Piky",
+          "url": "https://open.spotify.com/artist/4KqB52DfLAKRtgqNwMnvJW"
+        },
+        {
+          "name": "El CazadorRD",
+          "url": "https://open.spotify.com/artist/7qgp6DVGHXqKCSHsA5EDIV"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143715,
+      "name": "Amanecio",
+      "url": "https://open.spotify.com/track/3Qa2GuL86JXNUSUKmX2tpx"
+    },
+    {
+      "album": {
         "name": "Amarillo Los Platanos",
         "url": "https://open.spotify.com/album/1fjUz63Gs80LgIX52fUmXu"
       },
@@ -1160,6 +1186,46 @@
       "duration_ms": 238463,
       "name": "Bimbolo - Remix",
       "url": "https://open.spotify.com/track/2dlWvUIE6mhb32ypKX9obJ"
+    },
+    {
+      "album": {
+        "name": "Biri Biri",
+        "url": "https://open.spotify.com/album/31v69J2ExGy5bU5yXCcvAW"
+      },
+      "artists": [
+        {
+          "name": "Tato el X5",
+          "url": "https://open.spotify.com/artist/4kt9gd5iP5WJmRQoR9Jpv8"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104550,
+      "name": "Biri Biri",
+      "url": "https://open.spotify.com/track/7D0wmYv6jblu7gBJhdeAJ6"
+    },
+    {
+      "album": {
+        "name": "BoBoBo",
+        "url": "https://open.spotify.com/album/2of9H6CCrM0CSwNbIOnLRN"
+      },
+      "artists": [
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        },
+        {
+          "name": "DJ Patio",
+          "url": "https://open.spotify.com/artist/5w7Goklg0o1gkiclyM3uyA"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135706,
+      "name": "BoBoBo",
+      "url": "https://open.spotify.com/track/503OAONHWM2wC4SbdBbzkr"
     },
     {
       "album": {
@@ -2206,6 +2272,32 @@
       "duration_ms": 186801,
       "name": "Colombiana",
       "url": "https://open.spotify.com/track/6jqFyYXR54RHHo3S18rjab"
+    },
+    {
+      "album": {
+        "name": "Como Becky",
+        "url": "https://open.spotify.com/album/1UDuazeHdmiwR4OWpRqMAO"
+      },
+      "artists": [
+        {
+          "name": "Anthony Ready & Yeigo",
+          "url": "https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7"
+        },
+        {
+          "name": "Atomic Otro Way",
+          "url": "https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ"
+        },
+        {
+          "name": "Victor R -Swag",
+          "url": "https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Como Becky",
+      "url": "https://open.spotify.com/track/0B80yooIN8CshvqAgTzOFX"
     },
     {
       "album": {
@@ -4934,7 +5026,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 125387,
       "name": "Envenenao",
       "url": "https://open.spotify.com/track/57WxIK1nE2SL9t2edmCNRB"
@@ -5428,7 +5520,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 139366,
       "name": "Gomita En Leder",
       "url": "https://open.spotify.com/track/5Mz6qHgVxbLgHwG3zZvJCl"
@@ -7158,7 +7250,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 157633,
       "name": "Le Gustan Toa",
       "url": "https://open.spotify.com/track/50Szts4SrcSTP6SELb0TFx"
@@ -7948,7 +8040,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 127740,
       "name": "Malita",
       "url": "https://open.spotify.com/track/24pzUVZLNwEMXyYwd9Uz9h"
@@ -8088,7 +8180,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 111461,
       "name": "Mami Saoco",
       "url": "https://open.spotify.com/track/0nWlWfWfOwomAd2Nb733jq"
@@ -9906,7 +9998,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 163196,
       "name": "Normal",
       "url": "https://open.spotify.com/track/4e7frW6iqFPOJyeY3KFvmU"
@@ -12257,6 +12349,28 @@
     },
     {
       "album": {
+        "name": "Que Me Lo Toque To",
+        "url": "https://open.spotify.com/album/4FQfmnWavxbFMiNQ0o94Hc"
+      },
+      "artists": [
+        {
+          "name": "El Priki",
+          "url": "https://open.spotify.com/artist/52XlhArzpJKiGfOwjGdbYt"
+        },
+        {
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153160,
+      "name": "Que Me Lo Toque To",
+      "url": "https://open.spotify.com/track/1gyym9DVH2QOyNFWHn3f9q"
+    },
+    {
+      "album": {
         "name": "Que Pale",
         "url": "https://open.spotify.com/album/1fB6LLqUp9BuNtmavZybqI"
       },
@@ -12852,7 +12966,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 208000,
       "name": "RULAY",
       "url": "https://open.spotify.com/track/7AynIkGpqhpEMPywgDpK0b"
@@ -13674,7 +13788,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 143582,
       "name": "Son Rata",
       "url": "https://open.spotify.com/track/4vs4bZimCj5DBpHqguNDLF"
@@ -15389,6 +15503,32 @@
     },
     {
       "album": {
+        "name": "Tira Puya",
+        "url": "https://open.spotify.com/album/5lcHBjJzwvuoE4qcEtlA54"
+      },
+      "artists": [
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123697,
+      "name": "Tira Puya",
+      "url": "https://open.spotify.com/track/5ckmhjLKkDDR4D3afaSrgM"
+    },
+    {
+      "album": {
         "name": "Tiradera a Dilon Baby y Masha",
         "url": "https://open.spotify.com/album/42kvJZpzp8XkdwBqC7FAYK"
       },
@@ -15503,6 +15643,32 @@
     },
     {
       "album": {
+        "name": "To Eso E Mio",
+        "url": "https://open.spotify.com/album/2KdWgJOupFe8FFFbFmFohv"
+      },
+      "artists": [
+        {
+          "name": "La Materialista",
+          "url": "https://open.spotify.com/artist/4FMqE1IWlhufYw1x2zlKG6"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "B One El Productor De Oro",
+          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149243,
+      "name": "To Eso E Mio",
+      "url": "https://open.spotify.com/track/48SYktLcjvYjgj9IYdMgYP"
+    },
+    {
+      "album": {
         "name": "To No Morimo",
         "url": "https://open.spotify.com/album/0lnz8NzGJfIs2s0TIRJrEA"
       },
@@ -15544,6 +15710,28 @@
       "duration_ms": 103680,
       "name": "To To To",
       "url": "https://open.spotify.com/track/54GrAIs0EfS94KsyjPkvsM"
+    },
+    {
+      "album": {
+        "name": "Todas Mienten",
+        "url": "https://open.spotify.com/album/5mgPda10MxzNBE6Q0pUlHb"
+      },
+      "artists": [
+        {
+          "name": "Junior Caldera",
+          "url": "https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176186,
+      "name": "Todas Mienten",
+      "url": "https://open.spotify.com/track/20Vc6KmPFJixmDq9ZkJdcZ"
     },
     {
       "album": {

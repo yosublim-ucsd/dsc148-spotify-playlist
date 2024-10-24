@@ -1,6 +1,6 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 828632,
+  "num_followers": 829012,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL"
-      },
-      "artists": [
-        {
-          "name": "The Mission",
-          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
-        }
-      ],
-      "duration_ms": 486240,
-      "name": "Tower Of Strength",
-      "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Milk & Kisses",
         "url": "https://open.spotify.com/album/3w3hmie5WZ5H2MQrMCyRW6"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 237240,
       "name": "Serpentskirt - Remastered 2006",
       "url": "https://open.spotify.com/track/6p2gjNra5zaRtp2BNpYMYI"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Children",
+        "url": "https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL"
+      },
+      "artists": [
+        {
+          "name": "The Mission",
+          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
+        }
+      ],
+      "duration_ms": 486240,
+      "name": "Tower Of Strength",
+      "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "It Will Come to You",
-        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
-      },
-      "artists": [
-        {
-          "name": "ACTORS",
-          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Face Meets Glass",
-      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Wolfheart",
         "url": "https://open.spotify.com/album/1GnMnYl0I8CqgNSSODjwP7"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 335893,
       "name": "Vampiria",
       "url": "https://open.spotify.com/track/3WvEldmFjjLhd1ITIl0FMk"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "It Will Come to You",
+        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
+      },
+      "artists": [
+        {
+          "name": "ACTORS",
+          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Face Meets Glass",
+      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
     },
     {
       "added_at": "2022-07-01 00:50:45",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "At the End of the Sea",
-        "url": "https://open.spotify.com/album/7z00FuZO5yHWL5VSjvcq1S"
-      },
-      "artists": [
-        {
-          "name": "The Beauty of Gemina",
-          "url": "https://open.spotify.com/artist/3ooh46u3DrqxPbxtMH4oqU"
-        }
-      ],
-      "duration_ms": 235080,
-      "name": "Rumours",
-      "url": "https://open.spotify.com/track/0g2OVqfjNDKHm9NVehyinS"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Teignmouth",
         "url": "https://open.spotify.com/album/3yaUYGJ1ol0Katez71WNSc"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 261866,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/55neF1EoL53WKfaYfV9QBL"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "At the End of the Sea",
+        "url": "https://open.spotify.com/album/7z00FuZO5yHWL5VSjvcq1S"
+      },
+      "artists": [
+        {
+          "name": "The Beauty of Gemina",
+          "url": "https://open.spotify.com/artist/3ooh46u3DrqxPbxtMH4oqU"
+        }
+      ],
+      "duration_ms": 235080,
+      "name": "Rumours",
+      "url": "https://open.spotify.com/track/0g2OVqfjNDKHm9NVehyinS"
     },
     {
       "added_at": "2023-10-13 03:31:28",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB"
     },
     {
-      "added_at": "2022-09-29 00:45:48",
-      "album": {
-        "name": "Blood Be Fluid",
-        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
-      },
-      "artists": [
-        {
-          "name": "Julia Romana",
-          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
-        }
-      ],
-      "duration_ms": 227276,
-      "name": "Blood Be Fluid",
-      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "Shimmering, Warm and Bright",
@@ -1239,6 +1223,22 @@
       "duration_ms": 197960,
       "name": "Shimmering, Warm & Bright",
       "url": "https://open.spotify.com/track/2agj6uHYuUwlQoOjEuiM7n"
+    },
+    {
+      "added_at": "2022-09-29 00:45:48",
+      "album": {
+        "name": "Blood Be Fluid",
+        "url": "https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID"
+      },
+      "artists": [
+        {
+          "name": "Julia Romana",
+          "url": "https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d"
+        }
+      ],
+      "duration_ms": 227276,
+      "name": "Blood Be Fluid",
+      "url": "https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH"
     },
     {
       "added_at": "2021-10-15 04:04:50",

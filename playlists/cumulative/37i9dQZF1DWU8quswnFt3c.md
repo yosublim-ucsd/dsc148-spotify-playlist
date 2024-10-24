@@ -4,7 +4,7 @@
 
 > Listen to women at full volume from across the world\. Cover: ILLIT
 
-2,101 songs - 4 day 20 hr 10 min
+2,102 songs - 4 day 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Dame Tiempo](https://open.spotify.com/track/6jDYfzI08C4pMLEASAexb4) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Hazhe](https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk) | [Dame Tiempo](https://open.spotify.com/album/4DV5dX49qFimq6JM1xPL8Q) | 3:25 | 2023-07-05 | 2023-08-03 |
 | [DAMN](https://open.spotify.com/track/2uLQt24HvFA9dhmx2mbz3K) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC) | [DAMN](https://open.spotify.com/album/5pJkggCtP22LI2KIMdkeGC) | 3:19 | 2022-05-04 | 2022-06-01 |
 | [Dancing in Marbella](https://open.spotify.com/track/0l328syCyA11b9Ai3DqRDy) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Sasha Lopez](https://open.spotify.com/artist/3ZASW3RrHBbSRkNLjOrAFF), [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99) | [Dancing in Marbella](https://open.spotify.com/album/13ID1wwrLD8vBrz1vHGVWW) | 2:19 | 2024-07-03 | 2024-08-08 |
-| [Dancing On My Own](https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y) | 4:45 | 2024-09-04 |  |
+| [Dancing On My Own](https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y) | 4:45 | 2024-09-04 | 2024-10-24 |
 | [Dancing with Myself](https://open.spotify.com/track/5Ds6UPLXf9wRe1ly0N8o7o) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Dancing with Myself](https://open.spotify.com/album/2qVBhf1Xsqm806dtsPXb0F) | 4:11 | 2024-03-06 | 2024-04-04 |
 | [Dangerous](https://open.spotify.com/track/07dQsW9w1DgUFPtcBx14BP) | [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB) | [Elements](https://open.spotify.com/album/71731qzxZ81ePINkeiylQG) | 3:33 | 2022-08-03 | 2022-09-09 |
 | [Dark](https://open.spotify.com/track/6tH84i4TyWzWUJGS54A7jM) | [Meowlau](https://open.spotify.com/artist/5M1GNlTAGojbiOOk20tNh8), [Val](https://open.spotify.com/artist/6AvGish8CbxiuGpbK4wMoa) | [Dark](https://open.spotify.com/album/6k6JIL8EdqPvGLS9oFrjH7) | 3:27 | 2022-03-08 | 2022-04-07 |
@@ -540,7 +540,7 @@
 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 | 2022-07-06 | 2022-08-04 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-10-04 | 2022-11-03 |
 | [Everything Is Good](https://open.spotify.com/track/28Wapmcb6WZhA3xnWdZYVb) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Halluzinationen](https://open.spotify.com/album/1bPxiRQoUu66qWvEaOBg9i) | 3:00 | 2023-03-01 | 2023-04-06 |
-| [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-09-04 | 2024-10-22 |
+| [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-09-04 |  |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8) | 3:54 | 2022-03-08 | 2022-04-07 |
 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 | 2022-11-30 | 2023-01-05 |
 | [Ex \(feat\. SKAAR\)](https://open.spotify.com/track/7wZ17yt2CbvDHj7dqfM2DR) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Ex \(feat\. SKAAR\)](https://open.spotify.com/album/46Z5rL7kMabzOWiOmyNtfw) | 3:06 | 2023-03-01 | 2023-04-06 |
@@ -801,7 +801,7 @@
 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 | 2024-10-07 |  |
 | [if i fall for you](https://open.spotify.com/track/1vtHdaq48zvFsHjYkn8R9a) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [if i fall for you](https://open.spotify.com/album/5ZmHCATrtaAL8awlrlxBZW) | 3:06 | 2023-04-05 | 2024-01-11 |
 | [If I Weren't Me](https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [If I Weren't Me](https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7) | 2:31 | 2023-05-03 | 2024-01-11 |
-| [If It Makes You Happy](https://open.spotify.com/track/0lfPPoWG4b3OmhieJ2YDF0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd) | 5:24 | 2024-09-04 |  |
+| [If It Makes You Happy](https://open.spotify.com/track/0lfPPoWG4b3OmhieJ2YDF0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd) | 5:24 | 2024-09-04 | 2024-10-24 |
 | [IFHJ](https://open.spotify.com/track/4QdTBFM7VsIu84jfCxVMsv) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [IFHJ](https://open.spotify.com/album/2PBAoczL4wDcwup5IF0yeN) | 2:36 | 2022-09-07 | 2022-10-05 |
 | [ikaw at sila](https://open.spotify.com/track/4AfA4PrYOYuVRwqWG1YwIG) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [ikaw at sila](https://open.spotify.com/album/3MXBcwHOP72iogLVkgiGNG) | 4:09 | 2023-02-01 | 2023-03-02 |
 | [Ikiru](https://open.spotify.com/track/4JWu1gBP7n65gWQpCaB8Jp) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Ikiru](https://open.spotify.com/album/1s1I4gJuMJJBLZbH9JupgE) | 4:01 | 2022-04-06 | 2022-05-05 |
@@ -1558,6 +1558,7 @@
 | [Sial](https://open.spotify.com/track/6dXiWwFrcGieqnoLYzPNp5) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 4:03 | 2023-03-01 | 2023-04-06 |
 | [sideways \- Spotify Singles](https://open.spotify.com/track/7rI64a9imOPZchFjCKrKMo) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Spotify Singles](https://open.spotify.com/album/3VatuOfSnHjlzPsIk2ZEdZ) | 2:37 | 2022-11-09 | 2022-12-01 |
 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 | 2022-10-04 | 2022-11-03 |
+| [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 | 2024-10-23 |  |
 | [Sigurado](https://open.spotify.com/track/5szDp0NMCiXUChV3xmKXRl) | [Aly Remulla](https://open.spotify.com/artist/15yoZTF21mcoOnY2qsFlOP) | [Sigurado](https://open.spotify.com/album/6DViOYi7TZQISY0rvMgqc1) | 5:44 | 2022-09-07 | 2022-10-05 |
 | [SILLY BRAIN](https://open.spotify.com/track/1EeAV4R83HoEKvyfoK4apX) | [Alice Change](https://open.spotify.com/artist/2MUGwis27QiudPF2SfL2yh) | [SILLY BRAIN](https://open.spotify.com/album/4k4ASnwI65RY42wWVG01d8) | 2:50 | 2024-01-10 | 2024-02-08 |
 | [Silsilay Tor Gaya](https://open.spotify.com/track/1zHxHrICgqYDfyrYJIDFrw) | [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd) | [Silsilay Tor Gaya](https://open.spotify.com/album/6eLCSTvN2jg7x1lHTrgkXJ) | 4:17 | 2023-09-06 | 2023-10-05 |

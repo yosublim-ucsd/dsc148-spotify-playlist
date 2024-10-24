@@ -17532,7 +17532,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 151689,
       "name": "GGUM",
       "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
@@ -30745,6 +30745,32 @@
     },
     {
       "album": {
+        "name": "Noche de Buenos Besos",
+        "url": "https://open.spotify.com/album/4EkbDtwqjpDjip1JalgQlO"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "Dj Ronel",
+          "url": "https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146538,
+      "name": "Noche de Buenos Besos",
+      "url": "https://open.spotify.com/track/6ILIhq9LFEVu3k2casEiQB"
+    },
+    {
+      "album": {
         "name": "Noche Loca",
         "url": "https://open.spotify.com/album/0jGIldXN61FvFD9bo2clt5"
       },
@@ -40201,6 +40227,36 @@
     },
     {
       "album": {
+        "name": "Somos Primos",
+        "url": "https://open.spotify.com/album/3jl8TBdxgI19cLcDwWDopY"
+      },
+      "artists": [
+        {
+          "name": "Barbero Ex\u00f3tico",
+          "url": "https://open.spotify.com/artist/6gZdHi1lsLWRkZ0wCA4RL6"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Keed Baby",
+          "url": "https://open.spotify.com/artist/5QSZ4mP3ycTPK4b0VJNmK4"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199218,
+      "name": "Somos Primos",
+      "url": "https://open.spotify.com/track/1Dmh7Y2N5LaXVqid5J0KPn"
+    },
+    {
+      "album": {
         "name": "SORRY 4 THAT MUCH",
         "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
       },
@@ -44062,7 +44118,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"

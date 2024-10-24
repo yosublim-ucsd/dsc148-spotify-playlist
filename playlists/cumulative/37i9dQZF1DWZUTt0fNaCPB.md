@@ -4,7 +4,7 @@
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-206 songs - 13 hr 5 min
+207 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Face Of Pain](https://open.spotify.com/track/1J3gUPtXJuTGxUKbAmctKZ) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Face Of Pain](https://open.spotify.com/album/7lHR2vsp9Hzu0Xy7docXJq) | 3:43 | 2022-04-01 | 2022-04-21 |
 | [Fake](https://open.spotify.com/track/36Aa21IPeeNE3IU1zLQo5g) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Fake](https://open.spotify.com/album/0gdStv72Ej1fxyiv4SlFHd) | 3:30 | 2022-04-01 | 2024-09-09 |
 | [Family Reunion](https://open.spotify.com/track/3C38QDzvrnPc5mzCxO5tYA) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Moving Forward In Reverse: Greatest Hits](https://open.spotify.com/album/2t0l0pFkAcEZ4Tmrn3EloJ) | 3:39 | 2022-04-01 | 2022-07-29 |
-| [Faster Than God](https://open.spotify.com/track/6JrYwuGZMWACjBMoERSwBH) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Faster Than God](https://open.spotify.com/album/63prBELvWhQTomik1YTaUv) | 3:31 | 2021-12-15 |  |
+| [Faster Than God](https://open.spotify.com/track/6JrYwuGZMWACjBMoERSwBH) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Faster Than God](https://open.spotify.com/album/63prBELvWhQTomik1YTaUv) | 3:31 | 2021-12-15 | 2024-10-24 |
 | [Feed the Fire](https://open.spotify.com/track/0HiP7OotqfhXtSlwYJ40di) | [Euge Valovirta](https://open.spotify.com/artist/40K7TadIl5Obvm0EMbuwq0), [Nico Hartonen](https://open.spotify.com/artist/1zfA3cnm9B3OuRX8xxB9aJ) | [Feed the Fire](https://open.spotify.com/album/6zCPlmi3gywCz6MxbSpqGH) | 3:52 | 2022-04-01 | 2022-04-21 |
 | [Fortunate Son](https://open.spotify.com/track/5ppRGoTTMfQtFcmeZqwaAK) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Make Some Noise](https://open.spotify.com/album/5MDP4YHZYFYjFF7TFD4RE9) | 3:23 | 2021-12-15 |  |
 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 | 2021-12-15 |  |
@@ -180,6 +180,7 @@
 | [The Deep End](https://open.spotify.com/track/3lWlglvW2Ikw1qWb9jYKMO) | [I Revolt](https://open.spotify.com/artist/4ECaCmgdySKHG91YynM7Nd) | [The Deep End](https://open.spotify.com/album/0fqlNPsqlysfi36XcbYqNn) | 3:30 | 2022-04-01 | 2022-04-21 |
 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 | 2021-12-15 |  |
 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 | 2022-07-05 | 2024-04-19 |
+| [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-10-23 |  |
 | [The Final Judgement](https://open.spotify.com/track/575p98PlfvYFjJfWRurBoP) | [SoulHealer](https://open.spotify.com/artist/0VsQutZIxNAMtGanrBGdRd) | [The Final Judgement](https://open.spotify.com/album/1IEhlmsYMCbJQxjkkeWX12) | 4:11 | 2021-12-15 | 2022-04-21 |
 | [The Intruder](https://open.spotify.com/track/6R59ya16eZHdtA9KoYtwKy) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [The Intruder](https://open.spotify.com/album/6qIpzgmoBx0BFo5Ra8fUOV) | 4:10 | 2022-01-28 | 2022-04-19 |
 | [The Night](https://open.spotify.com/track/4pADXqX5x76fDS8RmyvgwO) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 4:46 | 2021-12-15 | 2022-07-27 |

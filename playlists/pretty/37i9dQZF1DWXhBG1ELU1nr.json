@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 232522,
+  "num_followers": 232532,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1ssia Eller",
-          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
-        },
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 246492,
-      "name": "Relic\u00e1rio - Ao Vivo",
-      "url": "https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Exagerado",
         "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
       },
@@ -687,18 +667,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Angel Dust (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
       },
       "artists": [
         {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        },
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 186960,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
+      "duration_ms": 246492,
+      "name": "Relic\u00e1rio - Ao Vivo",
+      "url": "https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -719,6 +703,22 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Angel Dust (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Look Sharp! (2009 Version)",
-        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 328093,
-      "name": "Listen To Your Heart",
-      "url": "https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 341266,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/55fg1bDXyNUsY2KaSMNFpA"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Look Sharp! (2009 Version)",
+        "url": "https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 328093,
+      "name": "Listen To Your Heart",
+      "url": "https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Hopes and Fears (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
-      },
-      "artists": [
-        {
-          "name": "Keane",
-          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "Everybody's Changing",
-      "url": "https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Wish You Were Here (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 334743,
       "name": "Wish You Were Here - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Hopes and Fears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "Everybody's Changing",
+      "url": "https://open.spotify.com/track/216S5ED9SNRWaHWVjSJGyX"
     },
     {
       "added_at": "2024-02-27 20:15:05",

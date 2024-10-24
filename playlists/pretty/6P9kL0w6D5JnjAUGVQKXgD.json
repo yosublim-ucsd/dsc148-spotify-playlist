@@ -6,7 +6,7 @@
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAHx1tHBCqpic1m4J0y+UfF74TJyCaa",
+  "snapshot_id": "AAAHyOWROzPZILO7odAzoKtEIErBdOza",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1035,6 +1035,22 @@
       "duration_ms": 207821,
       "name": "D\u00e9sol\u00e9e (Paris/Paname)",
       "url": "https://open.spotify.com/track/00KCwnrvIXX8GRU3ZMOIBW"
+    },
+    {
+      "added_at": "2024-10-24 00:41:04",
+      "album": {
+        "name": "Savage",
+        "url": "https://open.spotify.com/album/5qOsfOeGPG2Qeigy8Hi6yE"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Blue",
+          "url": "https://open.spotify.com/artist/1Pwh49ej44VRSVTkYkt51a"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/1MNJhXSJ4fEXaqpIMtY9jy"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -2075,26 +2091,6 @@
       "duration_ms": 176428,
       "name": "Turn Up This Song",
       "url": "https://open.spotify.com/track/1KqKhJwTqCyTAv96ON05mL"
-    },
-    {
-      "added_at": "2023-12-13 11:28:03",
-      "album": {
-        "name": "Life Goes On (feat. Alex Hosking)",
-        "url": "https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR"
-      },
-      "artists": [
-        {
-          "name": "PS1",
-          "url": "https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj"
-        },
-        {
-          "name": "Alex Hosking",
-          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
-        }
-      ],
-      "duration_ms": 169458,
-      "name": "Life Goes On (feat. Alex Hosking)",
-      "url": "https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu"
     }
   ],
   "unique_name": "EDM Top 100",

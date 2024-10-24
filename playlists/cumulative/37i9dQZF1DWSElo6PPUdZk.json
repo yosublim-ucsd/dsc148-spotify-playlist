@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "Jind Mahi",
+        "url": "https://open.spotify.com/album/4bemzLUnC5A2PDMyBroFY2"
+      },
+      "artists": [
+        {
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152268,
+      "name": "Jind Mahi",
+      "url": "https://open.spotify.com/track/2NVJHduFkMaNNqhj3kmxWX"
+    },
+    {
+      "album": {
         "name": "Jinna Jinna",
         "url": "https://open.spotify.com/album/1HbsoYzl6lIJwfSa9vvxSI"
       },
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 224835,
       "name": "Jinna Jinna",
       "url": "https://open.spotify.com/track/1oSxV16xXarfwCUEOPdIuZ"
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 154223,
       "name": "License",
       "url": "https://open.spotify.com/track/0sZMzHirZ6Iw4Zpg7K67nX"
@@ -2576,6 +2594,28 @@
       "duration_ms": 255714,
       "name": "Teri Life Meri Life",
       "url": "https://open.spotify.com/track/7jdPeLhBFX1hfWeTIpuQpP"
+    },
+    {
+      "album": {
+        "name": "The Way You Look",
+        "url": "https://open.spotify.com/album/0L244FjMUoRQw2dHr9ktJS"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        },
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200597,
+      "name": "The Way You Look",
+      "url": "https://open.spotify.com/track/4k5byIdn5kNQBpkRQNCPrl"
     },
     {
       "album": {

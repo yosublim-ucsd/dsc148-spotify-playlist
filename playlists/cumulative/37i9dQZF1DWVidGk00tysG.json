@@ -585,28 +585,6 @@
     },
     {
       "album": {
-        "name": "Chopin: Etudes; Pr\u00e9ludes; Polonaises",
-        "url": "https://open.spotify.com/album/6beqQKZ9CiKs8MHUuShzN3"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Maurizio Pollini",
-          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
-        }
-      ],
-      "date_added": "2020-02-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 78466,
-      "name": "24 Pr\u00e9ludes, Op. 28: 19. In E Flat Major",
-      "url": "https://open.spotify.com/track/2xrdTuS1XLK5iEebMXus8G"
-    },
-    {
-      "album": {
         "name": "Pollini Plays Chopin",
         "url": "https://open.spotify.com/album/0FlBr1F5RUam59utbN04Uw"
       },
@@ -648,6 +626,28 @@
       "duration_ms": 144666,
       "name": "24 Pr\u00e9ludes, Op. 28: 24. In D Minor - 2011 Recording",
       "url": "https://open.spotify.com/track/0QcqxLcOWaIH4m58oRNT0z"
+    },
+    {
+      "album": {
+        "name": "Chopin: Etudes; Pr\u00e9ludes; Polonaises",
+        "url": "https://open.spotify.com/album/6beqQKZ9CiKs8MHUuShzN3"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+        }
+      ],
+      "date_added": "2020-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78466,
+      "name": "24 Pr\u00e9ludes, Op. 28: No. 19 in E-Flat Major. Vivace",
+      "url": "https://open.spotify.com/track/2xrdTuS1XLK5iEebMXus8G"
     },
     {
       "album": {

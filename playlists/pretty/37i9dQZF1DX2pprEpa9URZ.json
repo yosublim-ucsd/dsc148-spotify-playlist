@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 790505,
+  "num_followers": 790666,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
+        "name": "Hidden Garden",
+        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 297802,
+      "name": "Hidden Garden",
+      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
+    },
+    {
+      "added_at": "2024-10-04 14:21:17",
+      "album": {
         "name": "Searching for God",
         "url": "https://open.spotify.com/album/10O5gRr7y9K9F9JGB8CH7Y"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 192786,
       "name": "Searching for God",
       "url": "https://open.spotify.com/track/4SZWmVyhFYzpYt0NYmsVFR"
-    },
-    {
-      "added_at": "2024-10-04 14:21:17",
-      "album": {
-        "name": "Hidden Garden",
-        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 297802,
-      "name": "Hidden Garden",
-      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
+        "name": "Magic Workout",
+        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 335877,
+      "name": "Magic Workout",
+      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2024-10-04 14:21:17",
+      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 449509,
       "name": "Se Va, Se Va",
       "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
-    },
-    {
-      "added_at": "2024-10-04 14:21:17",
-      "album": {
-        "name": "Magic Workout",
-        "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 335877,
-      "name": "Magic Workout",
-      "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -1079,30 +1079,6 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/5zYVteutEDX0ThNXHb3vEi"
-      },
-      "artists": [
-        {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        },
-        {
-          "name": "Matara",
-          "url": "https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz"
-        },
-        {
-          "name": "SHEERA",
-          "url": "https://open.spotify.com/artist/3ZNDW1BcvQEkdKyvtVvKrq"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/7zUMYALeH2Lef0pVMwTZTA"
-    },
-    {
-      "added_at": "2024-10-04 14:21:17",
-      "album": {
         "name": "Sagas of Iziki | Chapter 2",
         "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 396960,
       "name": "Ciclos",
       "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
+    },
+    {
+      "added_at": "2024-10-04 14:21:17",
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/5zYVteutEDX0ThNXHb3vEi"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Matara",
+          "url": "https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz"
+        },
+        {
+          "name": "SHEERA",
+          "url": "https://open.spotify.com/artist/3ZNDW1BcvQEkdKyvtVvKrq"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/7zUMYALeH2Lef0pVMwTZTA"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
-    },
-    {
-      "added_at": "2024-10-04 14:21:17",
-      "album": {
         "name": "Gotta Let You Go (Radio Mix)",
         "url": "https://open.spotify.com/album/6IZC0cWRcb6v1dODpZevqA"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 178536,
       "name": "Gotta Let You Go",
       "url": "https://open.spotify.com/track/61zy0ub0pLKsqwtpoXjCyh"
+    },
+    {
+      "added_at": "2024-10-04 14:21:17",
+      "album": {
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
       "added_at": "2024-10-04 14:21:17",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-10-04 14:21:17",
       "album": {
-        "name": "Thierry",
-        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
-      },
-      "artists": [
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 375652,
-      "name": "Thierry",
-      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
-    },
-    {
-      "added_at": "2024-10-04 14:21:17",
-      "album": {
         "name": "Patika",
         "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 333818,
       "name": "Patika",
       "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
+    },
+    {
+      "added_at": "2024-10-04 14:21:17",
+      "album": {
+        "name": "Thierry",
+        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
+      },
+      "artists": [
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 375652,
+      "name": "Thierry",
+      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
     },
     {
       "added_at": "2024-10-04 14:21:17",

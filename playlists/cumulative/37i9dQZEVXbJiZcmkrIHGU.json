@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "40 Tage",
+        "url": "https://open.spotify.com/album/5Ql4MLA6MSB56ZwJ01lPul"
+      },
+      "artists": [
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "40 Tage",
+      "url": "https://open.spotify.com/track/1Bds1PSumHSeVQFqIWc77p"
+    },
+    {
+      "album": {
         "name": "440 Babys",
         "url": "https://open.spotify.com/album/0MLeIm41pxsdsGRS6PN0oZ"
       },
@@ -6698,7 +6716,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 130664,
       "name": "BELOHNEN",
       "url": "https://open.spotify.com/track/2wiRH3djx7l3zJirP539TR"
@@ -7568,7 +7586,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -23694,7 +23712,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 227032,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/1CDQzbCz4KSQxHe7LMEgRM"
@@ -41336,7 +41354,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 147075,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/5AQyVssLj6Xj5ryPENxntm"
@@ -57774,7 +57792,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 186500,
       "name": "WINTERNACHT",
       "url": "https://open.spotify.com/track/0YVHeSUvOf4iNoRwPfuqhr"

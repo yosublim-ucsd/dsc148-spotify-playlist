@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Morgan Wallen, Riley Green, Kelsea Ballerini and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,747 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,204 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 9 | [Same Work \(feat\. The War And Treaty\)](https://open.spotify.com/track/3BH2a8rOc8nnB6tm0KJUhu) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Project 2024](https://open.spotify.com/album/5nk4zzYjpdIfMr3WSLh0hE) | 2:50 |
 | 10 | [hold my beer](https://open.spotify.com/track/2UKLvUzuRTaX2lrn4xy2a2) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [cowboy / hold my beer](https://open.spotify.com/album/6v8gPzcKvQ6enO0Hx4Bctf) | 3:42 |
 | 11 | [Ends of the Earth](https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Ends of the Earth](https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ) | 4:29 |
-| 12 | [Hotel Bible](https://open.spotify.com/track/3UAkWAnbPGJgIXG1OsQHlD) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Hotel Bible](https://open.spotify.com/album/6KdpUp1ly6HoraKohvN5ks) | 2:54 |
+| 12 | [Hotel Bible](https://open.spotify.com/track/3UAkWAnbPGJgIXG1OsQHlD) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Hotel Bible](https://open.spotify.com/album/6KdpUp1ly6HoraKohvN5ks) | 2:53 |
 | 13 | [Vegas \- Deluxe Version](https://open.spotify.com/track/3gXoXLAMYkyEF4MnFsW2Nb) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Barely Blue \(Deluxe\)](https://open.spotify.com/album/0qe866n70wFcy6dlWLzmgI) | 3:22 |
 | 14 | [Time On My Hands](https://open.spotify.com/track/5T8ON5PmKZmIBRP3EECkXG) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Time On My Hands](https://open.spotify.com/album/3BIrRXUZQjsIvb6qQbVLnZ) | 3:59 |
 | 15 | [One Hell of a Woman](https://open.spotify.com/track/0ZCEp1OyaYwdJciyzkCCJ2) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 4:49 |

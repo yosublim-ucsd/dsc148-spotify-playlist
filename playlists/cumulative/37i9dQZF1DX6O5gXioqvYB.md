@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Giovanni Toscano
 
-184 songs - 9 hr 1 min
+185 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Chinaglia](https://open.spotify.com/track/5WAFTRtlu3yBSVR7i2817K) | [Kinder Garden](https://open.spotify.com/artist/7By2W4RhZGhK9wCYGQr1Q1) | [Chinaglia](https://open.spotify.com/album/3q2fjUB20WvfjBSOOLwLtM) | 3:00 | 2024-06-27 | 2024-07-19 |
 | [Coca Malibù](https://open.spotify.com/track/0exExNFTaK4CFIu8nlAhWn) | [Sir Giove](https://open.spotify.com/artist/50Pi0iTbnC3hDmCx6Bge2i) | [Coca Malibù](https://open.spotify.com/album/0lkr2DmnU8rHWSdi9aPmlD) | 2:46 | 2024-07-25 | 2024-09-27 |
 | [CocaCola & Pepsi](https://open.spotify.com/track/6CgoGZbSpK82pbRWRX6Eyg) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [X TROVARE UN POSTO NEL MONDO](https://open.spotify.com/album/61fkXN3qBwCHkA3DO1G9yN) | 2:48 | 2024-06-27 | 2024-07-19 |
-| [Colleghi borghesi](https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Colleghi borghesi](https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib) | 2:30 | 2024-07-04 |  |
+| [Colleghi borghesi](https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Colleghi borghesi](https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib) | 2:30 | 2024-07-04 | 2024-10-24 |
 | [Come Stai?](https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Come Stai?](https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2) | 2:34 | 2024-09-26 |  |
 | [Come un cane](https://open.spotify.com/track/4JujqIRmOF4x0ajNH1sb6o) | [Möly](https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo) | [Come un cane](https://open.spotify.com/album/32VsW1b0TZEcDxAgPH2SLl) | 3:31 | 2024-07-25 | 2024-09-27 |
 | [Comfort zone](https://open.spotify.com/track/0F8WxJdboc9dINI2tPtSho) | [Riva](https://open.spotify.com/artist/3tPJLXaVURp1YXYpvmkSCe) | [Pensiero Stupendo Universale](https://open.spotify.com/album/0vxJ5R1vdbV0wHU8Q8E007) | 3:41 | 2024-06-27 | 2024-07-27 |
@@ -82,6 +82,7 @@
 | [La vita è brutta](https://open.spotify.com/track/6PijAF9RMrbRPNSXA5bLtG) | [Giulia Mei](https://open.spotify.com/artist/3nydqw1voiqBuNl0ccolW2) | [La vita è brutta](https://open.spotify.com/album/0Tl9mijMWPh1tbWZGF24JM) | 3:01 | 2024-10-10 |  |
 | [LA WAVE](https://open.spotify.com/track/3wJafG2l23mr3raepszTVz) | [Alex Polidori](https://open.spotify.com/artist/5O17LLDXhhdB8mIGr6vJIc), [Dima](https://open.spotify.com/artist/0ejL0hTrPBamEXjapPKHad) | [LA WAVE](https://open.spotify.com/album/2OSSwb7m1L2X3cRa4gzNGi) | 2:36 | 2024-08-29 | 2024-09-27 |
 | [LASCIAMI QUI](https://open.spotify.com/track/6hceFn55WLOrEvl3r1YztX) | [SAMUSPINA](https://open.spotify.com/artist/416nwtL2XSzn87NIW64iEy) | [LASCIAMI QUI](https://open.spotify.com/album/4mDXbcq1TQz6pgVWvWmuIl) | 3:36 | 2024-08-29 | 2024-09-27 |
+| [Le nonne e le chiese](https://open.spotify.com/track/520DLH4WyVuaYXMJodUCZH) | [dimaggio](https://open.spotify.com/artist/1dSY19tr0sfPJrNha6gt3l) | [Le nonne e le chiese](https://open.spotify.com/album/2VdqxxO6p6S8ms8LWunJ7P) | 4:22 | 2024-10-17 |  |
 | [Limiti](https://open.spotify.com/track/7sIpRZZswRqrVWqEK6TB8o) | [Sangi](https://open.spotify.com/artist/6rZ7snoIG69F9CNnS3ZnFb) | [Limiti](https://open.spotify.com/album/5pGbmoyMzgvrIShigS5i8W) | 2:19 | 2024-07-04 | 2024-07-27 |
 | [LO FARÒ DOMANI](https://open.spotify.com/track/2SiacQcn31WMD8CfWbsGUZ) | [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B), [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [LO FARÒ DOMANI](https://open.spotify.com/album/3bzeG9bHPD8VzJWGjw31l7) | 2:25 | 2024-07-11 | 2024-09-27 |
 | [LONTANO DA TUTTO](https://open.spotify.com/track/2ba7fBRDrqrXYmgHa81Pdx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [LONTANO DA TUTTO](https://open.spotify.com/album/29ehCxzxREyf0z4zKoYQsp) | 2:42 | 2024-09-19 |  |

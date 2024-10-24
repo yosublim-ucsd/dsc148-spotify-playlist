@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "A look inside",
+        "url": "https://open.spotify.com/album/3JvBrdG7boz0zL3yTPrhaW"
+      },
+      "artists": [
+        {
+          "name": "You're Good",
+          "url": "https://open.spotify.com/artist/1fSUA9tPyGkQ2QLYCowDbR"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163770,
+      "name": "A look inside",
+      "url": "https://open.spotify.com/track/4eSOA9lMe36cIcq28nAFEh"
+    },
+    {
+      "album": {
         "name": "A Midsummer Dream",
         "url": "https://open.spotify.com/album/5HibmlP5d4rM5rRRHwqA2C"
       },
@@ -3826,7 +3844,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 131506,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq"
@@ -9776,7 +9794,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 166165,
       "name": "Droplets",
       "url": "https://open.spotify.com/track/15yitQITrGAxCToHNw4zKF"
@@ -11768,7 +11786,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 115764,
       "name": "Filter FFP4",
       "url": "https://open.spotify.com/track/16eop82y32gTrd2j1MaNpQ"
@@ -11848,6 +11866,24 @@
       "duration_ms": 182530,
       "name": "Finish Line",
       "url": "https://open.spotify.com/track/2TTmqCgIFJxA8nMBAaR9v7"
+    },
+    {
+      "album": {
+        "name": "Nook Nights",
+        "url": "https://open.spotify.com/album/7atLOPDjMXVEJUT1719P3o"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116908,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/4zpkV8jvPbAqpL1fgT3T9L"
     },
     {
       "album": {
@@ -20348,7 +20384,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 132263,
       "name": "lucid air",
       "url": "https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj"
@@ -21142,7 +21178,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 198227,
       "name": "maste",
       "url": "https://open.spotify.com/track/7kEJ5KwJka2XcM38oiUdhR"
@@ -33096,7 +33132,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 190250,
       "name": "suede life",
       "url": "https://open.spotify.com/track/06SMLmQLGOBTNhgJQ29akJ"

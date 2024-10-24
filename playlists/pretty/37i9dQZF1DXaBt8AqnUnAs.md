@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,147 likes - 76 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,168 likes - 76 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 9 | [Púrpura](https://open.spotify.com/track/4elZOvjR7KDUEw8rMz2tAT) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:10 |
 | 10 | [Linha De Frente](https://open.spotify.com/track/0iqFx9USkmzVKY4IbtYbVn) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Linha De Frente](https://open.spotify.com/album/1V9S7FNSWhky8UMt9igozG) | 2:57 |
 | 11 | [DM](https://open.spotify.com/track/3cw1GH86A36rjg9ipJagzJ) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw), [Leonok](https://open.spotify.com/artist/6wXZ4MpqeqQybIustnLsta) | [Para nunca nos tornarmos estranhos](https://open.spotify.com/album/0WgKF0bDe8aY4ZYK7qe8ii) | 2:01 |
-| 12 | [Bandida Sexy](https://open.spotify.com/track/0GYYAHuWEFw20dVuTLLnIM) | [Kroos](https://open.spotify.com/artist/6DhuCfHKjbit0qhjMripJT), [KOSTA](https://open.spotify.com/artist/3wyruz219YVh90qRnzFBTY) | [Bandida Sexy](https://open.spotify.com/album/6dXBjtxcRrjHRaZACEWfBA) | 2:50 |
+| 12 | [Bandida Sexy](https://open.spotify.com/track/0GYYAHuWEFw20dVuTLLnIM) | [Kroos](https://open.spotify.com/artist/6DhuCfHKjbit0qhjMripJT), [KOSTA](https://open.spotify.com/artist/3wyruz219YVh90qRnzFBTY) | [Bandida Sexy](https://open.spotify.com/album/6dXBjtxcRrjHRaZACEWfBA) | 2:38 |
 | 13 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |
 | 14 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
 | 15 | [\#SV 03 \- Esse novinho vai ser meu homem](https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW) | [Ajuliacosta](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 03 \- Esse novinho vai ser meu homem](https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK) | 1:51 |

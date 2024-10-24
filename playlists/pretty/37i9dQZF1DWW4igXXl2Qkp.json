@@ -1,151 +1,63 @@
 {
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:3x8MpdnONnHCqbwizrn29H\">Vayda</a>\n",
-  "num_followers": 254977,
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:3OrXU7Z906hHdbG5fTQ6Ef\">Lil Bean</a>\n",
+  "num_followers": 255087,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxFRCQAAAAAQGbhbx4Rx7zjmZg6cueiR",
+  "snapshot_id": "ZxkjNgAAAAAuGECrBijFnTxho+K8nb0f",
   "tracks": [
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "SEX DRIVE",
-        "url": "https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh"
+        "name": "too many distractions",
+        "url": "https://open.spotify.com/album/7tTDsYGks3QNQjapjTKKlN"
       },
       "artists": [
         {
-          "name": "Chow Lee",
-          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
         }
       ],
-      "duration_ms": 132469,
-      "name": "ms. beautiful V!",
-      "url": "https://open.spotify.com/track/2xLgAD3wLIhkOjpnlnEbgs"
+      "duration_ms": 138666,
+      "name": "too many distractions",
+      "url": "https://open.spotify.com/track/3y3FcLdVM3pmRcxCr1ZvEM"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "Lovers & Friends (Deluxe)",
-        "url": "https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW"
+        "name": "Zombieland 2",
+        "url": "https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9"
       },
       "artists": [
         {
-          "name": "Vontee the Singer",
-          "url": "https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a"
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
         }
       ],
-      "duration_ms": 170126,
-      "name": "For Us",
-      "url": "https://open.spotify.com/track/4PZInlAe9norwHBqjZGZTV"
+      "duration_ms": 104886,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/3blAqiAP9f44Kt3R7pQabP"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "undecided'",
-        "url": "https://open.spotify.com/album/3R6bCb3Lrl1PU07Q4pxB3h"
+        "name": "Giannis",
+        "url": "https://open.spotify.com/album/2yE6dPyVTiOgJbCeXQ81fe"
       },
       "artists": [
         {
-          "name": "Destin Laurel",
-          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
-        },
-        {
-          "name": "Ziahfyah",
-          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
         }
       ],
-      "duration_ms": 96000,
-      "name": "undecided'",
-      "url": "https://open.spotify.com/track/3tdTzfiK5MMntCzwqZocuU"
+      "duration_ms": 121548,
+      "name": "Giannis",
+      "url": "https://open.spotify.com/track/5oVn6GZuuMDlsBqWl1FzNi"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "VAYTRIX",
-        "url": "https://open.spotify.com/album/2eJUaD1yTAjsLn9Sg1eED2"
-      },
-      "artists": [
-        {
-          "name": "Vayda",
-          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
-        }
-      ],
-      "duration_ms": 118173,
-      "name": "afrovay",
-      "url": "https://open.spotify.com/track/0u8ONlIp5Ww8GpjsAFLQ7I"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "96.5 FM",
-        "url": "https://open.spotify.com/album/4yYIxDBrhc5yFqkDMhLUA2"
-      },
-      "artists": [
-        {
-          "name": "Yoshi T.",
-          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
-        }
-      ],
-      "duration_ms": 129826,
-      "name": "BOSS COFFEE",
-      "url": "https://open.spotify.com/track/0ejkK2SxUHrNTKCu3lgUEo"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "B.U.G Antman \"On The Radar\" Freestyle",
-        "url": "https://open.spotify.com/album/1Y9RwE2iK7U5a6mfoHWLZz"
-      },
-      "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
-        {
-          "name": "B.U.G Antman",
-          "url": "https://open.spotify.com/artist/3D3yRZ4aUoxlTZd2fef9C7"
-        }
-      ],
-      "duration_ms": 138059,
-      "name": "B.U.G Antman \"On The Radar\" Freestyle",
-      "url": "https://open.spotify.com/track/20vsgMlTXM7u2YdLRMTD5V"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "Rag\u00f9",
-        "url": "https://open.spotify.com/album/6ZdZbpvsuwjraZ1lgxdh5P"
-      },
-      "artists": [
-        {
-          "name": "Langston Bristol",
-          "url": "https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16"
-        }
-      ],
-      "duration_ms": 136767,
-      "name": "Rag\u00f9",
-      "url": "https://open.spotify.com/track/7aUVgyMYfSJGToawDJEScM"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "Money Drugs Sex",
-        "url": "https://open.spotify.com/album/0yVrUxzzBVaFHooc5R5Vl2"
-      },
-      "artists": [
-        {
-          "name": "sincity",
-          "url": "https://open.spotify.com/artist/3KcdSDPFIPsZgWseaLC8Nu"
-        }
-      ],
-      "duration_ms": 107613,
-      "name": "Money Drugs Sex",
-      "url": "https://open.spotify.com/track/2OpSymvjW2GMuV36Wsmer8"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "BUMBAA",
         "url": "https://open.spotify.com/album/4PN0qLGHRS4VDIERqIpO2e"
@@ -165,7 +77,131 @@
       "url": "https://open.spotify.com/track/453RSzidDGcnSBPAB3Bebp"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "R\u00f6kKOut",
+        "url": "https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 232498,
+      "name": "R\u00f6kKOut",
+      "url": "https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "SEX DRIVE",
+        "url": "https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "duration_ms": 152783,
+      "name": "sleepy & sheff (feat. Cash Cobain)",
+      "url": "https://open.spotify.com/track/53XCrYyxSyfC3rk7HcwARn"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/1fOFNY6KQQjpMjCLOPoy0P"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "duration_ms": 144431,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/11KEGU90jqzG2jS58emvmj"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "Elite Vessel",
+        "url": "https://open.spotify.com/album/4CM64AqgbtDE5kpcJAgi8F"
+      },
+      "artists": [
+        {
+          "name": "Lexa Gates",
+          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
+        }
+      ],
+      "duration_ms": 194525,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/367CDUovzWoyhxNF18uVrd"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "Change & Remain",
+        "url": "https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln"
+      },
+      "artists": [
+        {
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
+        },
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "KAST GOT WINGS",
+        "url": "https://open.spotify.com/album/39wP7bJBE7c61XHR4Sgp1N"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        }
+      ],
+      "duration_ms": 124392,
+      "name": "PAYMEAGRIP",
+      "url": "https://open.spotify.com/track/5Ge82v421JbdEDzasoSchN"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "The Viper",
+        "url": "https://open.spotify.com/album/67KUGPrssrB3fyI9ZFO9dP"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "duration_ms": 150997,
+      "name": "The Viper",
+      "url": "https://open.spotify.com/track/4VIPmYQRbPTIYujLB76sHx"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Trip Out",
         "url": "https://open.spotify.com/album/3u77E0mB5uBqZvbqmjo72X"
@@ -181,211 +217,75 @@
       "url": "https://open.spotify.com/track/6LoUsD9kt5nnNfQc5I2Bbr"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "Giannis",
-        "url": "https://open.spotify.com/album/2yE6dPyVTiOgJbCeXQ81fe"
+        "name": "I Like Remix",
+        "url": "https://open.spotify.com/album/2DriqDgX2GFvSJQMc9csZ7"
       },
       "artists": [
         {
           "name": "Hurricane Wisdom",
           "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        }
-      ],
-      "duration_ms": 121548,
-      "name": "Giannis",
-      "url": "https://open.spotify.com/track/5oVn6GZuuMDlsBqWl1FzNi"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "FIRE",
-        "url": "https://open.spotify.com/album/7mnD1OPXJQbxCTlgep1HGc"
-      },
-      "artists": [
-        {
-          "name": "D2x",
-          "url": "https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA"
-        }
-      ],
-      "duration_ms": 171020,
-      "name": "FIRE",
-      "url": "https://open.spotify.com/track/2AZAqHZcoyIYyjfantSvU1"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "Last Ones Left",
-        "url": "https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1"
-      },
-      "artists": [
-        {
-          "name": "Trigga500k",
-          "url": "https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx"
         },
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
         }
       ],
-      "duration_ms": 152526,
-      "name": "Last Ones Left",
-      "url": "https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5"
+      "duration_ms": 188488,
+      "name": "I Like Remix",
+      "url": "https://open.spotify.com/track/6wGBH9yQcMDmYg21siMv48"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "Yukon Gold",
-        "url": "https://open.spotify.com/album/2SUnlUazK4vsJBOAwwE3Ia"
+        "name": "Rag\u00f9",
+        "url": "https://open.spotify.com/album/6ZdZbpvsuwjraZ1lgxdh5P"
       },
       "artists": [
         {
-          "name": "Ch\u00e9",
-          "url": "https://open.spotify.com/artist/5T7ee6VL2z54vMk5MYxNNk"
+          "name": "Langston Bristol",
+          "url": "https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16"
         }
       ],
-      "duration_ms": 203836,
-      "name": "Yukon Gold",
-      "url": "https://open.spotify.com/track/4AhznCPwJC1rtmi5uHR9Km"
+      "duration_ms": 136767,
+      "name": "Rag\u00f9",
+      "url": "https://open.spotify.com/track/7aUVgyMYfSJGToawDJEScM"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "an APPLE a day (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5fIw6VeBYItjz8HgZdWQPE"
+        "name": "B.I.T.R.",
+        "url": "https://open.spotify.com/album/3rrbArxOV8aXKhtSHQcQIo"
       },
       "artists": [
         {
-          "name": "Donte Thomas",
-          "url": "https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor"
-        },
-        {
-          "name": "Malik Elijah",
-          "url": "https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh"
-        },
-        {
-          "name": "MyFavoriteColor",
-          "url": "https://open.spotify.com/artist/4ahfNEIO8NuGCgMhMzRv33"
+          "name": "E the profit",
+          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
         }
       ],
-      "duration_ms": 256363,
-      "name": "BACK HOME - Bonus Track",
-      "url": "https://open.spotify.com/track/0xHGxZSV1fqdxOK3sOnYc6"
+      "duration_ms": 90740,
+      "name": "B.I.T.R.",
+      "url": "https://open.spotify.com/track/0bBjWaVsmYrPzQ7XWteuc8"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "Wrist",
-        "url": "https://open.spotify.com/album/1UWK9F4hYvvLoUUl0KieGs"
+        "name": "None of My Business Beloved",
+        "url": "https://open.spotify.com/album/3WedJvhKZazYvF7m99g0XJ"
       },
       "artists": [
         {
-          "name": "Rob the Bank",
-          "url": "https://open.spotify.com/artist/71j9zpBeJVBnPLE5kIzJrE"
-        },
-        {
-          "name": "Ozer",
-          "url": "https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp"
-        },
-        {
-          "name": "YGTUT",
-          "url": "https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU"
+          "name": "Bizzy Crook",
+          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
         }
       ],
-      "duration_ms": 253846,
-      "name": "Wrist",
-      "url": "https://open.spotify.com/track/3E58VxfZbhHsU5PjNof1pI"
+      "duration_ms": 212173,
+      "name": "None of My Business Beloved",
+      "url": "https://open.spotify.com/track/3O1RSNl5EAowVuhrn1VQt3"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "KAST GOT WINGS",
-        "url": "https://open.spotify.com/album/39wP7bJBE7c61XHR4Sgp1N"
-      },
-      "artists": [
-        {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
-        }
-      ],
-      "duration_ms": 116009,
-      "name": "UP",
-      "url": "https://open.spotify.com/track/0VQCLyLm4Rchf7ZV1YMAUJ"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "MERCZONE",
-        "url": "https://open.spotify.com/album/6sFpyOCWE24HfKyYF9ttQA"
-      },
-      "artists": [
-        {
-          "name": "Mercury",
-          "url": "https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ"
-        }
-      ],
-      "duration_ms": 101558,
-      "name": "BRAINTHREW",
-      "url": "https://open.spotify.com/track/2CZ3TroZt7ajED5h1q0HNw"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "THE FUNCTION (feat. WESTSIDE BOOGIE)",
-        "url": "https://open.spotify.com/album/1ctqV6jphrC0PBvG6DveL0"
-      },
-      "artists": [
-        {
-          "name": "Skip Waiters",
-          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
-        },
-        {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "THE FUNCTION (feat. WESTSIDE BOOGIE)",
-      "url": "https://open.spotify.com/track/7o1xrPEcz0HCAdPvzKos0d"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "Oil Painting",
-        "url": "https://open.spotify.com/album/6rC01sZURDQAM2gk90ORpl"
-      },
-      "artists": [
-        {
-          "name": "Rah-C",
-          "url": "https://open.spotify.com/artist/4t2k4LH9tsNUc4j4aYF5HP"
-        }
-      ],
-      "duration_ms": 138219,
-      "name": "Oil Painting",
-      "url": "https://open.spotify.com/track/2IDAvw4IY2lxIJ60MBShLK"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/40YsXiZgsF31qje9gt25F7"
-      },
-      "artists": [
-        {
-          "name": "Wynne",
-          "url": "https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX"
-        },
-        {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
-        }
-      ],
-      "duration_ms": 171926,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/7xq70FRZbXnpf5B8chHNpH"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "TAKE TIME FOR MYSELF",
         "url": "https://open.spotify.com/album/0LtjYHJSrg3vnmeEvCWlVV"
@@ -401,23 +301,23 @@
       "url": "https://open.spotify.com/track/483fOSKLspJj5Lk7X7EKt8"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "model x",
-        "url": "https://open.spotify.com/album/0jGzbaq8wQpn71S3lHBxZv"
+        "name": "up late, up early",
+        "url": "https://open.spotify.com/album/10Omf8FSKVpVLtqaJlbGl7"
       },
       "artists": [
         {
-          "name": "Lil Bean",
-          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+          "name": "DDK",
+          "url": "https://open.spotify.com/artist/7AfTMScTc5pSfjjxtatrIq"
         }
       ],
-      "duration_ms": 157415,
-      "name": "motion",
-      "url": "https://open.spotify.com/track/5FDBiGmxz7apG54sqAnJHT"
+      "duration_ms": 192611,
+      "name": "up late, up early",
+      "url": "https://open.spotify.com/track/53XXNcYJvxiUSYM98cai0U"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "LAST SUMMER",
         "url": "https://open.spotify.com/album/1226jmllv5To2StZyFzqK1"
@@ -437,43 +337,7 @@
       "url": "https://open.spotify.com/track/4hbGrx8msw7LOa3OFhzbTf"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "Zombieland 2",
-        "url": "https://open.spotify.com/album/1M3M7UVL9o2py1sY5A6jk9"
-      },
-      "artists": [
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
-        }
-      ],
-      "duration_ms": 104886,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/3blAqiAP9f44Kt3R7pQabP"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "WIZ THE DONN",
-        "url": "https://open.spotify.com/album/2Sw6EUCOtcGylBEnZmbgVO"
-      },
-      "artists": [
-        {
-          "name": "Yung Donn",
-          "url": "https://open.spotify.com/artist/0JlNemlBinqdeNiDTY7ksJ"
-        },
-        {
-          "name": "Zeethewizard",
-          "url": "https://open.spotify.com/artist/2KiJOYmK2O4Fw1jDvQjlfV"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "brush it off",
-      "url": "https://open.spotify.com/track/7pNetCCcLEptk52X8LyvM9"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/52LBncDA9co6dFQdZzduBJ"
@@ -489,7 +353,7 @@
       "url": "https://open.spotify.com/track/3ddV2HKhpE4vFYi1LpbodK"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Sumbodie",
         "url": "https://open.spotify.com/album/2yzjgXw8tlKfot5jpTFwnr"
@@ -505,75 +369,23 @@
       "url": "https://open.spotify.com/track/4J0t3Cbz7D3uEkSVlqqe3Q"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "U My Drug",
-        "url": "https://open.spotify.com/album/6joHWyT6DPqgQ6aMAjalEi"
+        "name": "Money Drugs Sex",
+        "url": "https://open.spotify.com/album/0yVrUxzzBVaFHooc5R5Vl2"
       },
       "artists": [
         {
-          "name": "FattMack",
-          "url": "https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7"
+          "name": "sincity",
+          "url": "https://open.spotify.com/artist/3KcdSDPFIPsZgWseaLC8Nu"
         }
       ],
-      "duration_ms": 96909,
-      "name": "U My Drug",
-      "url": "https://open.spotify.com/track/5f4NZL4xurwVhGjafGVIic"
+      "duration_ms": 107613,
+      "name": "Money Drugs Sex",
+      "url": "https://open.spotify.com/track/2OpSymvjW2GMuV36Wsmer8"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "Groovy Steppin Sh*t",
-        "url": "https://open.spotify.com/album/37DWhl0hwmO57IHWpdS0zB"
-      },
-      "artists": [
-        {
-          "name": "Lisha G",
-          "url": "https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ"
-        },
-        {
-          "name": "Trini Viv",
-          "url": "https://open.spotify.com/artist/0BdYblPVnK3wnWREfBQ712"
-        }
-      ],
-      "duration_ms": 95319,
-      "name": "Groovy Steppin Sh*t",
-      "url": "https://open.spotify.com/track/0qeGSghWKkx1Z1Ocy2wbJy"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "Rocksteady",
-        "url": "https://open.spotify.com/album/1IP3pF4OpdVEeIeMbkSezV"
-      },
-      "artists": [
-        {
-          "name": "Niambi",
-          "url": "https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "Rocksteady",
-      "url": "https://open.spotify.com/track/4kJXMh8UNRxQlEqWZR5VIz"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "The Viper",
-        "url": "https://open.spotify.com/album/67KUGPrssrB3fyI9ZFO9dP"
-      },
-      "artists": [
-        {
-          "name": "BabyChiefDoit",
-          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
-        }
-      ],
-      "duration_ms": 150997,
-      "name": "The Viper",
-      "url": "https://open.spotify.com/track/4VIPmYQRbPTIYujLB76sHx"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "all good",
         "url": "https://open.spotify.com/album/5gVFDPqdVGIcup1Gpcxi3x"
@@ -589,39 +401,27 @@
       "url": "https://open.spotify.com/track/32SYZ9iSkfnuLfk6QnVapV"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "Real Deal Playa",
-        "url": "https://open.spotify.com/album/5jgyVkOoXwwhzON1MLVRHT"
+        "name": "Groovy Steppin Sh*t",
+        "url": "https://open.spotify.com/album/62nn6rbJNl8ZbPS1CcjXEa"
       },
       "artists": [
         {
-          "name": "MARCO PLUS",
-          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
-        }
-      ],
-      "duration_ms": 117368,
-      "name": "Real Deal Playa",
-      "url": "https://open.spotify.com/track/0px6lvL9bJaiQmwdRbeISF"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "PILLIE COOPER",
-        "url": "https://open.spotify.com/album/1bU0TvvN4oGbdjFeOc4W9H"
-      },
-      "artists": [
+          "name": "Lisha G",
+          "url": "https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ"
+        },
         {
-          "name": "3pillie",
-          "url": "https://open.spotify.com/artist/2weWfVL0xj5ceW9iubSltS"
+          "name": "Trini Viv",
+          "url": "https://open.spotify.com/artist/0BdYblPVnK3wnWREfBQ712"
         }
       ],
-      "duration_ms": 125500,
-      "name": "PILLIE COOPER",
-      "url": "https://open.spotify.com/track/4XuwBTSUUQ3nUe5VR5S9rJ"
+      "duration_ms": 101052,
+      "name": "What I Said",
+      "url": "https://open.spotify.com/track/0WJdZVcRVEQ8jxDiRVC2qx"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "hi, immrlaylow",
         "url": "https://open.spotify.com/album/5n6ckzJD9tL2YNXV1OO8v3"
@@ -637,39 +437,7 @@
       "url": "https://open.spotify.com/track/1xuTZ9iZ4QvKt4ROPQ3MpM"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "This Is What You Asked For",
-        "url": "https://open.spotify.com/album/2zQiS72IsIaalhyndYwtTF"
-      },
-      "artists": [
-        {
-          "name": "E the profit",
-          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
-        }
-      ],
-      "duration_ms": 113571,
-      "name": "Ichigo",
-      "url": "https://open.spotify.com/track/6USyAT0lJYDVdP9LXbPjZk"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "Relapse",
-        "url": "https://open.spotify.com/album/1fOFNY6KQQjpMjCLOPoy0P"
-      },
-      "artists": [
-        {
-          "name": "Nino Paid",
-          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
-        }
-      ],
-      "duration_ms": 144431,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/11KEGU90jqzG2jS58emvmj"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Slideshow",
         "url": "https://open.spotify.com/album/6OL2rc5XTgw2yPcT91vdz3"
@@ -689,7 +457,7 @@
       "url": "https://open.spotify.com/track/5RZAEcZ8G4fLkR11MbB8P0"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "our daily bread",
         "url": "https://open.spotify.com/album/3jjXaAYWsS7wCFZBtVGxZt"
@@ -709,23 +477,39 @@
       "url": "https://open.spotify.com/track/2BZfFTse4OSlBkOFDxfaJe"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "WORK IN PROGRESS",
-        "url": "https://open.spotify.com/album/1ZPXUQYYgzTHKRGZhLoySu"
+        "name": "issa wrap",
+        "url": "https://open.spotify.com/album/1hZUjmEmVscMXIm40yxMgJ"
       },
       "artists": [
         {
-          "name": "Rockstar Jt",
-          "url": "https://open.spotify.com/artist/0sqFuHEkdOpQy0smz788GW"
+          "name": "Kharii",
+          "url": "https://open.spotify.com/artist/68m7VDKqEQf6Zq66CF9OA6"
         }
       ],
-      "duration_ms": 174246,
-      "name": "ROCK WITH THE MOB",
-      "url": "https://open.spotify.com/track/06tPkJkv1bTGXYHY2UxzZA"
+      "duration_ms": 153130,
+      "name": "issa wrap",
+      "url": "https://open.spotify.com/track/4rcLWUmQMFCNdN9GaeHRWQ"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "Narrow Alley",
+        "url": "https://open.spotify.com/album/3C3EkGd8Q8HPIxF7knXgBY"
+      },
+      "artists": [
+        {
+          "name": "AC640",
+          "url": "https://open.spotify.com/artist/4jALQ8p9YGOf82lVPEnLAT"
+        }
+      ],
+      "duration_ms": 125747,
+      "name": "Narrow Alley",
+      "url": "https://open.spotify.com/track/53B4gxY5vjMpzniajhoAJS"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "RETROVISION",
         "url": "https://open.spotify.com/album/4H3AHyICa5QmPUx7UEm8Bk"
@@ -745,7 +529,7 @@
       "url": "https://open.spotify.com/track/0JfFRBGlkXUQNk5td5hxRh"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Ask a Magnolia",
         "url": "https://open.spotify.com/album/2R3be3ul9v5jU1fxVzxMeo"
@@ -761,39 +545,43 @@
       "url": "https://open.spotify.com/track/07qPbPpIKvQphMCLk8722w"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "None of My Business Beloved",
-        "url": "https://open.spotify.com/album/3WedJvhKZazYvF7m99g0XJ"
+        "name": "FIRE",
+        "url": "https://open.spotify.com/album/7mnD1OPXJQbxCTlgep1HGc"
       },
       "artists": [
         {
-          "name": "Bizzy Crook",
-          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
+          "name": "D2x",
+          "url": "https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA"
         }
       ],
-      "duration_ms": 212173,
-      "name": "None of My Business Beloved",
-      "url": "https://open.spotify.com/track/3O1RSNl5EAowVuhrn1VQt3"
+      "duration_ms": 171020,
+      "name": "FIRE",
+      "url": "https://open.spotify.com/track/2AZAqHZcoyIYyjfantSvU1"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "Hell & Back",
-        "url": "https://open.spotify.com/album/7botdG14MtmZah2wMDh1Rf"
+        "name": "THE FUNCTION (feat. WESTSIDE BOOGIE)",
+        "url": "https://open.spotify.com/album/1ctqV6jphrC0PBvG6DveL0"
       },
       "artists": [
         {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
         }
       ],
-      "duration_ms": 165537,
-      "name": "Hell & Back",
-      "url": "https://open.spotify.com/track/5MeYjJQzooFInileBI8sep"
+      "duration_ms": 158000,
+      "name": "THE FUNCTION (feat. WESTSIDE BOOGIE)",
+      "url": "https://open.spotify.com/track/7o1xrPEcz0HCAdPvzKos0d"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "VINTAGE NOSTALGIA",
         "url": "https://open.spotify.com/album/1LwWInIFU6bzb3VJtFNlmb"
@@ -813,7 +601,7 @@
       "url": "https://open.spotify.com/track/145SQIWGlRlVrOnb7BAFAd"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "cLick (with STAR BANDZ)",
         "url": "https://open.spotify.com/album/3wAYmVJa0xce3hPspthdIV"
@@ -833,7 +621,7 @@
       "url": "https://open.spotify.com/track/7mefGjEVVKjAM7kkjnmIU0"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "chicken & waffles",
         "url": "https://open.spotify.com/album/2eoM8NJPV8kHTvkpmz551R"
@@ -853,23 +641,23 @@
       "url": "https://open.spotify.com/track/6JWs2qW2P3p8R3YOe4yQfM"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
-        "name": "GOD GOT ME",
-        "url": "https://open.spotify.com/album/3iCnlO2DL4Rk67NRrpZvwO"
+        "name": "UR A DUB",
+        "url": "https://open.spotify.com/album/4s0zTsxm5FV10XhnbR6nYo"
       },
       "artists": [
         {
-          "name": "DDK",
-          "url": "https://open.spotify.com/artist/7AfTMScTc5pSfjjxtatrIq"
+          "name": "Yoshi T.",
+          "url": "https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0"
         }
       ],
-      "duration_ms": 120393,
-      "name": "GOD GOT ME",
-      "url": "https://open.spotify.com/track/2OUkIRXCD0rfvBkm0Lno7K"
+      "duration_ms": 133500,
+      "name": "UR A DUB",
+      "url": "https://open.spotify.com/track/7vYqHs9TJYbh46wVfjAOYw"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "THE WAIT",
         "url": "https://open.spotify.com/album/3M5ATQZKahC4lrF1Gcj90d"
@@ -885,7 +673,7 @@
       "url": "https://open.spotify.com/track/27NEAQXGMixupJd69PbtCB"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Weight of the world",
         "url": "https://open.spotify.com/album/3BrS7pOo46ganmfaSSmSJJ"
@@ -901,27 +689,7 @@
       "url": "https://open.spotify.com/track/5PmNYPGs4ZysuNeysrZoR3"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "I Just Can't Be Alone (with Billy Lemos)",
-        "url": "https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6"
-      },
-      "artists": [
-        {
-          "name": "Lexa Gates",
-          "url": "https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu"
-        },
-        {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
-        }
-      ],
-      "duration_ms": 160062,
-      "name": "I Just Can't Be Alone (with Billy Lemos)",
-      "url": "https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "HUE SOUND, VOL 1: LIGHTWORK",
         "url": "https://open.spotify.com/album/3L8DAQhfqD8B48dOxgVYcz"
@@ -949,7 +717,7 @@
       "url": "https://open.spotify.com/track/0WeGjX9lZiabNektDvT6NL"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Time 2 Bounce",
         "url": "https://open.spotify.com/album/2UoWex8Oq6WFNerlaOFR0k"
@@ -969,7 +737,7 @@
       "url": "https://open.spotify.com/track/3tv4PZDaPpV4HVqdOsjYR4"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "WORK",
         "url": "https://open.spotify.com/album/1Nqs05WLBYsUY5lzet7qja"
@@ -985,7 +753,7 @@
       "url": "https://open.spotify.com/track/0MNJnCpkP9gLrmIoyLsAf5"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Yard Work 3",
         "url": "https://open.spotify.com/album/78CT8v621JLojFqkXVv17G"
@@ -1001,7 +769,7 @@
       "url": "https://open.spotify.com/track/5fBF6TcN4zJXmI9M8PW1Ri"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "12 Shades Of Grey",
         "url": "https://open.spotify.com/album/3z0lFMR35H4lnHNYZqOxh5"
@@ -1017,7 +785,7 @@
       "url": "https://open.spotify.com/track/4jK3WFqTP6U9SFg4ub7qCM"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "ITS NOT THAT DEEP",
         "url": "https://open.spotify.com/album/6UAa59miWIjKKbpqVdHfTB"
@@ -1033,31 +801,7 @@
       "url": "https://open.spotify.com/track/685Em73Ehc0vHo5LdB21v0"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "SEX DRIVE",
-        "url": "https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh"
-      },
-      "artists": [
-        {
-          "name": "Chow Lee",
-          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
-        },
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        }
-      ],
-      "duration_ms": 152783,
-      "name": "sleepy & sheff (feat. Cash Cobain)",
-      "url": "https://open.spotify.com/track/53XCrYyxSyfC3rk7HcwARn"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "MR. R2R",
         "url": "https://open.spotify.com/album/3wayBXXQkgzlcK2LDVsJlv"
@@ -1073,7 +817,7 @@
       "url": "https://open.spotify.com/track/6tnpw5No4aPQaYvh53AiPJ"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "SEXC SUMMER",
         "url": "https://open.spotify.com/album/6v4L8ebFkzj3fWv4QP9hTM"
@@ -1089,7 +833,7 @@
       "url": "https://open.spotify.com/track/0xklkDv1z8T1lxVUXo4leG"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Splitz",
         "url": "https://open.spotify.com/album/4Y4ZGoYCQiabburYeOD30i"
@@ -1109,7 +853,7 @@
       "url": "https://open.spotify.com/track/2Sh502DfJNGzhnEEnkN6QJ"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "STAY SAFE",
         "url": "https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt"
@@ -1149,7 +893,7 @@
       "url": "https://open.spotify.com/track/6zF0upolmiaThxNs8tnb6n"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "BEADY BEED",
         "url": "https://open.spotify.com/album/2LqYpmfdHJDsrsh2zVKYsN"
@@ -1169,27 +913,7 @@
       "url": "https://open.spotify.com/track/7KRS5ZwB8w1Y0pbQPcoH0V"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
-      "album": {
-        "name": "Change & Remain",
-        "url": "https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln"
-      },
-      "artists": [
-        {
-          "name": "RUBII",
-          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
-        },
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk"
-    },
-    {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "HEAL FOR ME",
         "url": "https://open.spotify.com/album/4Xoozy0hVulE24TxuxONjI"
@@ -1205,7 +929,7 @@
       "url": "https://open.spotify.com/track/1d9CkQKfDoYRaw70OlilWc"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Abstruse (Deluxe)",
         "url": "https://open.spotify.com/album/3WGE4jssBqaGr9LHNKGPy9"
@@ -1221,7 +945,7 @@
       "url": "https://open.spotify.com/track/3eiomYz0vDT53dgoPd5vIX"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/3zOvObadSIcrj4po4MImt2"
@@ -1237,7 +961,7 @@
       "url": "https://open.spotify.com/track/1eglZ3NfajSZddS74cLEYR"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Team Tomodachi",
         "url": "https://open.spotify.com/album/1CWasLa3b4zvDom0paNlBj"
@@ -1253,7 +977,7 @@
       "url": "https://open.spotify.com/track/51MTYQC6SuyRsGQsrP9BEu"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "JUMPING JACK",
         "url": "https://open.spotify.com/album/5hE5kJbGEsnZAxgVQKKVK9"
@@ -1269,7 +993,7 @@
       "url": "https://open.spotify.com/track/1Rdr7YzpSH0J1yKJJtJHp1"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "FLU GAME",
         "url": "https://open.spotify.com/album/5YZyhuui2Cd6fQRKlZ1feY"
@@ -1285,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3M9RsAQWcVAR8UN6FYFDD1"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "ALWAYS REMEMBER GEECHY",
         "url": "https://open.spotify.com/album/5sH14ARnIaW9TADkEbDMNi"
@@ -1301,7 +1025,7 @@
       "url": "https://open.spotify.com/track/5BmlZGUu8Jq5tjZagXO3ff"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Black & Tan",
         "url": "https://open.spotify.com/album/1NKgDOTffsHRGfllRRLsis"
@@ -1321,7 +1045,7 @@
       "url": "https://open.spotify.com/track/0khdaccXqOnFQimOHmECK2"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "DEADSTOCK",
         "url": "https://open.spotify.com/album/4nv9Yo2Ij8Kit5XREOlXaR"
@@ -1337,7 +1061,7 @@
       "url": "https://open.spotify.com/track/0i6gqaEWHlRJdczer4XZbl"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "TAKE U DEA",
         "url": "https://open.spotify.com/album/4wviLmt15qCqmisiS3iVZ4"
@@ -1353,7 +1077,7 @@
       "url": "https://open.spotify.com/track/2yIZKdJRTyHHS8E0B3lyNn"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Show You How to Ball (feat. Babyfxce E)",
         "url": "https://open.spotify.com/album/6zMhbqt6zvjtDS1kPKHNtO"
@@ -1373,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4dTTxsUdupznSkpmeSdQGB"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "SILVERSTONE SUMMERTIMES III.",
         "url": "https://open.spotify.com/album/1FgNpmK9hdaVy9fZq5HK5P"
@@ -1389,7 +1113,7 @@
       "url": "https://open.spotify.com/track/4nSIagdYwtuni95rRopyty"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "GO(RILLA)",
         "url": "https://open.spotify.com/album/0f4pkoEyClQzBm553ig9QY"
@@ -1405,7 +1129,7 @@
       "url": "https://open.spotify.com/track/5DIjkwYU1lZEyrrGopKYuJ"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Forever Roadrunning",
         "url": "https://open.spotify.com/album/1FmSjoWTWHPawGHn7d2M24"
@@ -1421,7 +1145,7 @@
       "url": "https://open.spotify.com/track/7GMpb7zFSRLwE6YsWjf2l9"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Cartoned Milk",
         "url": "https://open.spotify.com/album/6ltZvbDPjEp5KUDeg6ZWfN"
@@ -1437,7 +1161,7 @@
       "url": "https://open.spotify.com/track/6I4UFN0FjQgAiZqxySk7rw"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "You Look Good",
         "url": "https://open.spotify.com/album/7jlwccXiTUzBAeg3n339Ic"
@@ -1457,7 +1181,7 @@
       "url": "https://open.spotify.com/track/1D9CMXx4br928VCw5qWJsS"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "A Reaper's Ceremony",
         "url": "https://open.spotify.com/album/5zU9ruLdGdOm3Iip94ItGw"
@@ -1473,7 +1197,7 @@
       "url": "https://open.spotify.com/track/74x94J6rUL6ZavNH0CIkyk"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Two 15's (feat. Raq baby)",
         "url": "https://open.spotify.com/album/5jfszowQGSObMIhHOoOAGV"
@@ -1493,7 +1217,7 @@
       "url": "https://open.spotify.com/track/6wJ1aBcC5GLh5ZwYwLCzHD"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Metamorphosis",
         "url": "https://open.spotify.com/album/3wlXdkFn2Sx8XKZJxhsKdH"
@@ -1509,7 +1233,7 @@
       "url": "https://open.spotify.com/track/7dZ6blFv8nY9zBCzusS8uA"
     },
     {
-      "added_at": "2024-10-17 18:01:45",
+      "added_at": "2024-10-23 16:22:13",
       "album": {
         "name": "Out Of Control",
         "url": "https://open.spotify.com/album/2xk5ecVjWpKxeqcQi8zzaY"
@@ -1523,6 +1247,278 @@
       "duration_ms": 128000,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/7HMWkY3Zg7hRnUVTv8P474"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "Lovers & Friends (Deluxe)",
+        "url": "https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW"
+      },
+      "artists": [
+        {
+          "name": "Vontee the Singer",
+          "url": "https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a"
+        }
+      ],
+      "duration_ms": 170126,
+      "name": "For Us",
+      "url": "https://open.spotify.com/track/4PZInlAe9norwHBqjZGZTV"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "Rocksteady",
+        "url": "https://open.spotify.com/album/1IP3pF4OpdVEeIeMbkSezV"
+      },
+      "artists": [
+        {
+          "name": "Niambi",
+          "url": "https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Rocksteady",
+      "url": "https://open.spotify.com/track/4kJXMh8UNRxQlEqWZR5VIz"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "undecided'",
+        "url": "https://open.spotify.com/album/3R6bCb3Lrl1PU07Q4pxB3h"
+      },
+      "artists": [
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "undecided'",
+      "url": "https://open.spotify.com/track/3tdTzfiK5MMntCzwqZocuU"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "VAYTRIX",
+        "url": "https://open.spotify.com/album/2eJUaD1yTAjsLn9Sg1eED2"
+      },
+      "artists": [
+        {
+          "name": "Vayda",
+          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
+        }
+      ],
+      "duration_ms": 118173,
+      "name": "afrovay",
+      "url": "https://open.spotify.com/track/0u8ONlIp5Ww8GpjsAFLQ7I"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "Last Ones Left",
+        "url": "https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1"
+      },
+      "artists": [
+        {
+          "name": "Trigga500k",
+          "url": "https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 152526,
+      "name": "Last Ones Left",
+      "url": "https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "Yukon Gold",
+        "url": "https://open.spotify.com/album/2SUnlUazK4vsJBOAwwE3Ia"
+      },
+      "artists": [
+        {
+          "name": "Ch\u00e9",
+          "url": "https://open.spotify.com/artist/5T7ee6VL2z54vMk5MYxNNk"
+        }
+      ],
+      "duration_ms": 203836,
+      "name": "Yukon Gold",
+      "url": "https://open.spotify.com/track/4AhznCPwJC1rtmi5uHR9Km"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "an APPLE a day (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5fIw6VeBYItjz8HgZdWQPE"
+      },
+      "artists": [
+        {
+          "name": "Donte Thomas",
+          "url": "https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor"
+        },
+        {
+          "name": "Malik Elijah",
+          "url": "https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh"
+        },
+        {
+          "name": "MyFavoriteColor",
+          "url": "https://open.spotify.com/artist/4ahfNEIO8NuGCgMhMzRv33"
+        }
+      ],
+      "duration_ms": 256363,
+      "name": "BACK HOME - Bonus Track",
+      "url": "https://open.spotify.com/track/0xHGxZSV1fqdxOK3sOnYc6"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "Wrist",
+        "url": "https://open.spotify.com/album/1UWK9F4hYvvLoUUl0KieGs"
+      },
+      "artists": [
+        {
+          "name": "Rob the Bank",
+          "url": "https://open.spotify.com/artist/71j9zpBeJVBnPLE5kIzJrE"
+        },
+        {
+          "name": "Ozer",
+          "url": "https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp"
+        },
+        {
+          "name": "YGTUT",
+          "url": "https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU"
+        }
+      ],
+      "duration_ms": 253846,
+      "name": "Wrist",
+      "url": "https://open.spotify.com/track/3E58VxfZbhHsU5PjNof1pI"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "MERCZONE",
+        "url": "https://open.spotify.com/album/6sFpyOCWE24HfKyYF9ttQA"
+      },
+      "artists": [
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ"
+        }
+      ],
+      "duration_ms": 101558,
+      "name": "BRAINTHREW",
+      "url": "https://open.spotify.com/track/2CZ3TroZt7ajED5h1q0HNw"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "Oil Painting",
+        "url": "https://open.spotify.com/album/6rC01sZURDQAM2gk90ORpl"
+      },
+      "artists": [
+        {
+          "name": "Rah-C",
+          "url": "https://open.spotify.com/artist/4t2k4LH9tsNUc4j4aYF5HP"
+        }
+      ],
+      "duration_ms": 138219,
+      "name": "Oil Painting",
+      "url": "https://open.spotify.com/track/2IDAvw4IY2lxIJ60MBShLK"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "WIZ THE DONN",
+        "url": "https://open.spotify.com/album/2Sw6EUCOtcGylBEnZmbgVO"
+      },
+      "artists": [
+        {
+          "name": "Yung Donn",
+          "url": "https://open.spotify.com/artist/0JlNemlBinqdeNiDTY7ksJ"
+        },
+        {
+          "name": "Zeethewizard",
+          "url": "https://open.spotify.com/artist/2KiJOYmK2O4Fw1jDvQjlfV"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "brush it off",
+      "url": "https://open.spotify.com/track/7pNetCCcLEptk52X8LyvM9"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "PILLIE COOPER",
+        "url": "https://open.spotify.com/album/1bU0TvvN4oGbdjFeOc4W9H"
+      },
+      "artists": [
+        {
+          "name": "3pillie",
+          "url": "https://open.spotify.com/artist/2weWfVL0xj5ceW9iubSltS"
+        }
+      ],
+      "duration_ms": 125500,
+      "name": "PILLIE COOPER",
+      "url": "https://open.spotify.com/track/4XuwBTSUUQ3nUe5VR5S9rJ"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "WORK IN PROGRESS",
+        "url": "https://open.spotify.com/album/1ZPXUQYYgzTHKRGZhLoySu"
+      },
+      "artists": [
+        {
+          "name": "Rockstar Jt",
+          "url": "https://open.spotify.com/artist/0sqFuHEkdOpQy0smz788GW"
+        }
+      ],
+      "duration_ms": 174246,
+      "name": "ROCK WITH THE MOB",
+      "url": "https://open.spotify.com/track/06tPkJkv1bTGXYHY2UxzZA"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "Hell & Back",
+        "url": "https://open.spotify.com/album/7botdG14MtmZah2wMDh1Rf"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "duration_ms": 165537,
+      "name": "Hell & Back",
+      "url": "https://open.spotify.com/track/5MeYjJQzooFInileBI8sep"
+    },
+    {
+      "added_at": "2024-10-23 16:22:13",
+      "album": {
+        "name": "B.U.G Antman \"On The Radar\" Freestyle",
+        "url": "https://open.spotify.com/album/1Y9RwE2iK7U5a6mfoHWLZz"
+      },
+      "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
+        {
+          "name": "B.U.G Antman",
+          "url": "https://open.spotify.com/artist/3D3yRZ4aUoxlTZd2fef9C7"
+        }
+      ],
+      "duration_ms": 138059,
+      "name": "B.U.G Antman \"On The Radar\" Freestyle",
+      "url": "https://open.spotify.com/track/20vsgMlTXM7u2YdLRMTD5V"
     }
   ],
   "unique_name": "Fresh Finds Hip-Hop",

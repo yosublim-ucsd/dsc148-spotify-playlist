@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 188774,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/2yyaTlex3YaCat520CSzti"
@@ -3948,6 +3948,24 @@
       "duration_ms": 211127,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3"
+    },
+    {
+      "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/1SuYsP4BDxisXED6OcE9zG"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249612,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5dIu4QcXgvZWttv3YPqXSd"
     },
     {
       "album": {
@@ -4542,7 +4560,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 239034,
       "name": "Vois Sur Ton Chemin - Hardstyle",
       "url": "https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa"
@@ -4634,6 +4652,28 @@
       "duration_ms": 192000,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl"
+    },
+    {
+      "album": {
+        "name": "When We Were Young (The Logical Song)",
+        "url": "https://open.spotify.com/album/2B1uPq9Y8KR0xXCxPC48VP"
+      },
+      "artists": [
+        {
+          "name": "Ascence",
+          "url": "https://open.spotify.com/artist/4nE5XDjvi5Gd4XbVnHGjnE"
+        },
+        {
+          "name": "Zak Conner",
+          "url": "https://open.spotify.com/artist/6X7NJAJFXDHkU6tIV1QmZB"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148598,
+      "name": "When We Were Young (The Logical Song)",
+      "url": "https://open.spotify.com/track/6sVbDIbNzSzYbMLN2ge1eB"
     },
     {
       "album": {

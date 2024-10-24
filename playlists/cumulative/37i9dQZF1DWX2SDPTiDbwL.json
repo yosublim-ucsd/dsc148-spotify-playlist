@@ -783,6 +783,28 @@
     },
     {
       "album": {
+        "name": "Alb\u00e9niz: Espa\u00f1a, Op. 165: No. 2, Tango",
+        "url": "https://open.spotify.com/album/337JY60SklzcRsh9XSIoN9"
+      },
+      "artists": [
+        {
+          "name": "Isaac Alb\u00e9niz",
+          "url": "https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp"
+        },
+        {
+          "name": "Ricardo Gall\u00e9n",
+          "url": "https://open.spotify.com/artist/1XlKgZWAWycE0gjpzMk4JT"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165973,
+      "name": "Espa\u00f1a, Op. 165: No. 2, Tango (Transcr. for Guitar by Andr\u00e9s Segovia) - Live at the Fundaci\u00f3n Juan March",
+      "url": "https://open.spotify.com/track/7ec7NpnONAYDLF3O1WHIPh"
+    },
+    {
+      "album": {
         "name": "Mediterranea",
         "url": "https://open.spotify.com/album/6sxRxfaqxOLUq6YffLmoak"
       },
@@ -1894,6 +1916,24 @@
       "duration_ms": 198711,
       "name": "Una limosna por el amor de Dios",
       "url": "https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz"
+    },
+    {
+      "album": {
+        "name": "Una Vida Pasada",
+        "url": "https://open.spotify.com/album/5jD1xbj9EER6LYSRLiXSUs"
+      },
+      "artists": [
+        {
+          "name": "Alex Airaldi",
+          "url": "https://open.spotify.com/artist/4CSqxvgnTEdUlydfORC5UH"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150328,
+      "name": "Una Vida Pasada",
+      "url": "https://open.spotify.com/track/6ZLRCFiUrLVyITDoGdfZPG"
     },
     {
       "album": {

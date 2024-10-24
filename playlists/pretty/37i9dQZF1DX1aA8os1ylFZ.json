@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 243634,
+  "num_followers": 243642,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "falling or flying (Deluxe)",
-        "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
+        "name": "Make Me Forget",
+        "url": "https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 126009,
-      "name": "Lately Remix (feat. Craig David)",
-      "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
+      "duration_ms": 238185,
+      "name": "Make Me Forget",
+      "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -419,18 +415,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Make Me Forget",
-        "url": "https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl"
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         }
       ],
-      "duration_ms": 238185,
-      "name": "Make Me Forget",
-      "url": "https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD"
+      "duration_ms": 126009,
+      "name": "Lately Remix (feat. Craig David)",
+      "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Make You Remember Me",
-        "url": "https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz"
-      },
-      "artists": [
-        {
-          "name": "Asiah",
-          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
-        }
-      ],
-      "duration_ms": 145751,
-      "name": "Make You Remember Me",
-      "url": "https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Boys Lie",
         "url": "https://open.spotify.com/album/4fg11InEwQRikdTiBWstPG"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 150602,
       "name": "Boys Lie",
       "url": "https://open.spotify.com/track/6VH7CHJl7t9pvUUyQOKVhf"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Make You Remember Me",
+        "url": "https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz"
+      },
+      "artists": [
+        {
+          "name": "Asiah",
+          "url": "https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX"
+        }
+      ],
+      "duration_ms": 145751,
+      "name": "Make You Remember Me",
+      "url": "https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "Give It All to Me",
+        "url": "https://open.spotify.com/album/1diluC1MnWkOX1JYvH9EG8"
+      },
+      "artists": [
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Give It All to Me",
+      "url": "https://open.spotify.com/track/4arsEo4x9lpuEb7K6dn62B"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "We're through",
         "url": "https://open.spotify.com/album/4wPDZWxj7CB4xUBLQ7hIJn"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 174000,
       "name": "We're Through",
       "url": "https://open.spotify.com/track/0rQKB1uvWhq4CAVNQxjPuj"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Give It All to Me",
-        "url": "https://open.spotify.com/album/1diluC1MnWkOX1JYvH9EG8"
-      },
-      "artists": [
-        {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Give It All to Me",
-      "url": "https://open.spotify.com/track/4arsEo4x9lpuEb7K6dn62B"
     },
     {
       "added_at": "2024-10-17 22:00:00",

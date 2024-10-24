@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Treaty Oak Revival",
-  "num_followers": 609224,
+  "num_followers": 609303,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Bruce County",
-        "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Moonshines",
-      "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "That Lonesome Song",
         "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Bruce County",
+        "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Moonshines",
+      "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Up To No Good",
         "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 133629,
       "name": "Up To No Good",
       "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Learning As I Go",
+        "url": "https://open.spotify.com/album/0tFdaemn2wol2XTfNkn3MJ"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Learning As I Go",
+      "url": "https://open.spotify.com/track/5BjSorudpG5f73ToFjJYeN"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -919,22 +935,6 @@
       "duration_ms": 235053,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Learning As I Go",
-        "url": "https://open.spotify.com/album/0tFdaemn2wol2XTfNkn3MJ"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Learning As I Go",
-      "url": "https://open.spotify.com/track/5BjSorudpG5f73ToFjJYeN"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Fire On Wheels",
-        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 156973,
-      "name": "Fire On Wheels",
-      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Straw in the Wind",
         "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 199773,
       "name": "Let the Rain Come Down",
       "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Fire On Wheels",
+        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 156973,
+      "name": "Fire On Wheels",
+      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Made It This Far",
+        "url": "https://open.spotify.com/album/4YWnZxfLD36E9tFhAfBqzx"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 164313,
+      "name": "Made It This Far",
+      "url": "https://open.spotify.com/track/59CfGhdkuJ9ufOcu43Alh7"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Dirt Road When I Die - EP",
         "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 169390,
       "name": "Might As Well Be Me",
       "url": "https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Break My Bones",
-        "url": "https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 206931,
-      "name": "Break My Bones",
-      "url": "https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Whiskey For Sale",
-        "url": "https://open.spotify.com/album/4zFP8lZxnNYAncMcNTbjYG"
+        "name": "SPITCUP",
+        "url": "https://open.spotify.com/album/3vwD4qQv0v1LIcaUAXm0iQ"
       },
       "artists": [
         {
-          "name": "Cory Marks",
-          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+          "name": "Ryan Jesse",
+          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
         }
       ],
-      "duration_ms": 191719,
-      "name": "Whiskey For Sale",
-      "url": "https://open.spotify.com/track/4qkgLpKFYOsePL2HaOCCZ8"
+      "duration_ms": 167441,
+      "name": "SPITCUP",
+      "url": "https://open.spotify.com/track/3wfuUtDoysuURJHblPxbQM"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "SPITCUP",
-        "url": "https://open.spotify.com/album/3vwD4qQv0v1LIcaUAXm0iQ"
+        "name": "Whiskey For Sale",
+        "url": "https://open.spotify.com/album/4zFP8lZxnNYAncMcNTbjYG"
       },
       "artists": [
         {
-          "name": "Ryan Jesse",
-          "url": "https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl"
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
         }
       ],
-      "duration_ms": 167441,
-      "name": "SPITCUP",
-      "url": "https://open.spotify.com/track/3wfuUtDoysuURJHblPxbQM"
+      "duration_ms": 191719,
+      "name": "Whiskey For Sale",
+      "url": "https://open.spotify.com/track/4qkgLpKFYOsePL2HaOCCZ8"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Made It This Far",
-        "url": "https://open.spotify.com/album/4YWnZxfLD36E9tFhAfBqzx"
+        "name": "Break My Bones",
+        "url": "https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5"
       },
       "artists": [
         {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
         }
       ],
-      "duration_ms": 164313,
-      "name": "Made It This Far",
-      "url": "https://open.spotify.com/track/59CfGhdkuJ9ufOcu43Alh7"
+      "duration_ms": 206931,
+      "name": "Break My Bones",
+      "url": "https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi"
     },
     {
       "added_at": "2024-10-18 04:00:00",

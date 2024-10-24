@@ -671,6 +671,32 @@
     },
     {
       "album": {
+        "name": "Caged Bird",
+        "url": "https://open.spotify.com/album/13bwEpHK21z3HgizYgS9rA"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "NAE (SA)",
+          "url": "https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs"
+        },
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540861,
+      "name": "Caged Bird - Atjazz Instrumental Remix",
+      "url": "https://open.spotify.com/track/2Q91HhHyTM6UjNzZve0LTV"
+    },
+    {
+      "album": {
         "name": "Call A Wave (Tilman's Sunset Mix)",
         "url": "https://open.spotify.com/album/3NJ5dcpWSfbfsORqYYM2C4"
       },
@@ -1465,6 +1491,28 @@
     },
     {
       "album": {
+        "name": "Eh Up",
+        "url": "https://open.spotify.com/album/410Y7KwuYmqC8lTa39YQWB"
+      },
+      "artists": [
+        {
+          "name": "Milton Chuquer",
+          "url": "https://open.spotify.com/artist/1EEtoKjbZ3GaNELq8W0JMs"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382439,
+      "name": "Eh Hup - DJ Spen Deep House Mix.",
+      "url": "https://open.spotify.com/track/0jZqKrkl4SVLJlOVhCeTJd"
+    },
+    {
+      "album": {
         "name": "Emancipa\u00e7\u00e3o (Ron Trent Remix)",
         "url": "https://open.spotify.com/album/2px1kDZ3heXoSR6AFB8DGS"
       },
@@ -1929,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7J0d2YKpU08tBhL58xHHex"
+      },
+      "artists": [
+        {
+          "name": "Joy Jenkins",
+          "url": "https://open.spotify.com/artist/1kIHyJG8u5hCI6eLlbsYAO"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/2XBavDdEVF957L6aCZB07x"
+    },
+    {
+      "album": {
         "name": "For Friends",
         "url": "https://open.spotify.com/album/2R2pvXZmY7YFfASEXBmvpS"
       },
@@ -2156,6 +2222,24 @@
       "duration_ms": 389305,
       "name": "Gary's Dreamland",
       "url": "https://open.spotify.com/track/0Ad4GdnzZZCIZrH5IvIXYa"
+    },
+    {
+      "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/13dmYtvVOwnL6a8s4wSjG5"
+      },
+      "artists": [
+        {
+          "name": "Doug Gomez",
+          "url": "https://open.spotify.com/artist/4yITT4lWMZ6Dmb5hQvyFZc"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "Get Down - Original Mix",
+      "url": "https://open.spotify.com/track/5EO3T45HgZWFq5poUC8lIB"
     },
     {
       "album": {
@@ -2779,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "Together - EP",
+        "url": "https://open.spotify.com/album/3Zt6wborj7JR8FwpLto77Z"
+      },
+      "artists": [
+        {
+          "name": "Frits Wentink",
+          "url": "https://open.spotify.com/artist/6RU8a6xLRtKJckACb5wf5D"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351233,
+      "name": "Idle Dancer",
+      "url": "https://open.spotify.com/track/23z4b7G1clRr1Oop06zbz4"
+    },
+    {
+      "album": {
         "name": "Treat You Right EP",
         "url": "https://open.spotify.com/album/1wwzsRk2UN3nErksPX440n"
       },
@@ -3208,7 +3310,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 302194,
       "name": "Let Me Tell You Somethin'",
       "url": "https://open.spotify.com/track/52H64kW05V4QvkszPdxIrv"
@@ -3332,6 +3434,24 @@
       "duration_ms": 401268,
       "name": "Like You",
       "url": "https://open.spotify.com/track/3wrnQYRWPxbiKeoY5QAN2F"
+    },
+    {
+      "album": {
+        "name": "Oliver Deutschmann presents Futureworld",
+        "url": "https://open.spotify.com/album/6XOhMv7PBvHkmGrcttFq0i"
+      },
+      "artists": [
+        {
+          "name": "Ed Davenport",
+          "url": "https://open.spotify.com/artist/3gvTHdQ2axX94jrPvh7ex9"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359846,
+      "name": "Living Rooms",
+      "url": "https://open.spotify.com/track/2E2s0jDRFRImRYgiduhOzg"
     },
     {
       "album": {
@@ -4035,6 +4155,32 @@
     },
     {
       "album": {
+        "name": "Hold On EP",
+        "url": "https://open.spotify.com/album/78z3FLSsENQHhil2sKsIDu"
+      },
+      "artists": [
+        {
+          "name": "Dav Risen",
+          "url": "https://open.spotify.com/artist/59e4uYrwNhVKQQd776qqjK"
+        },
+        {
+          "name": "LukaMusic",
+          "url": "https://open.spotify.com/artist/35JxKLIvFpuGma61pYwC9q"
+        },
+        {
+          "name": "Earful Soul",
+          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381179,
+      "name": "My Season",
+      "url": "https://open.spotify.com/track/0bRngp7VOiCWqzuoNv4EZW"
+    },
+    {
+      "album": {
         "name": "Lost Desert & Friends III",
         "url": "https://open.spotify.com/album/4I0G615tBSwurLamowdpHD"
       },
@@ -4218,6 +4364,24 @@
       "duration_ms": 412688,
       "name": "No Tantrums",
       "url": "https://open.spotify.com/track/1NT2IoopDzkGnIo2XvQfig"
+    },
+    {
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7J0d2YKpU08tBhL58xHHex"
+      },
+      "artists": [
+        {
+          "name": "Joy Jenkins",
+          "url": "https://open.spotify.com/artist/1kIHyJG8u5hCI6eLlbsYAO"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342580,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/2yL5J6zLyLx896FUbe0g84"
     },
     {
       "album": {
@@ -4853,6 +5017,32 @@
     },
     {
       "album": {
+        "name": "Ready For This Moment (Terry Hunter Remixes)",
+        "url": "https://open.spotify.com/album/0t3CtRfmnYjxN8kvOW2guL"
+      },
+      "artists": [
+        {
+          "name": "Col Lawton",
+          "url": "https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm"
+        },
+        {
+          "name": "McLevit",
+          "url": "https://open.spotify.com/artist/2UOI02nQiAOpors9CDF638"
+        },
+        {
+          "name": "Terry Hunter",
+          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252682,
+      "name": "Ready For The Moment - Terry Hunter Remix Dub",
+      "url": "https://open.spotify.com/track/60rbYVMuStWVJ4jMi0feTv"
+    },
+    {
+      "album": {
         "name": "Relax Yourself",
         "url": "https://open.spotify.com/album/48rzCIZ2b7pxhKrsvAz1PC"
       },
@@ -5250,7 +5440,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 204344,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/1hRTVpNilLWj2un5mlKUjh"
@@ -5350,6 +5540,24 @@
       "duration_ms": 417999,
       "name": "Slow Down - James Cole Remix",
       "url": "https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA"
+    },
+    {
+      "album": {
+        "name": "Solo Movements",
+        "url": "https://open.spotify.com/album/0cpLT4JAr9eZBucpAwxjtC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Francisco",
+          "url": "https://open.spotify.com/artist/1Ky6well8n2fv6JPH2tctW"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365901,
+      "name": "Solo Movements - Original Mix",
+      "url": "https://open.spotify.com/track/21YyfELDQnlhmLVdksTdAf"
     },
     {
       "album": {
@@ -5600,7 +5808,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 390625,
       "name": "Submerge",
       "url": "https://open.spotify.com/track/0cvN2gtMkN0J9DFqlhLxdg"
@@ -5774,6 +5982,28 @@
       "duration_ms": 305683,
       "name": "The Bang",
       "url": "https://open.spotify.com/track/3rrFrL5DP2VCW95bAs3xWT"
+    },
+    {
+      "album": {
+        "name": "The City (Inc Luis Radio Remix)",
+        "url": "https://open.spotify.com/album/6EMRu1JNwMXm3BXO3Pe2Ry"
+      },
+      "artists": [
+        {
+          "name": "Pietro Nicosia",
+          "url": "https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG"
+        },
+        {
+          "name": "Luis Radio",
+          "url": "https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322059,
+      "name": "The City - Luis Radio Remix",
+      "url": "https://open.spotify.com/track/5Zv58Dkvb4Q5Q4ANTIC92v"
     },
     {
       "album": {
@@ -6104,7 +6334,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 387364,
       "name": "The Sounds That Heal",
       "url": "https://open.spotify.com/track/6A6mNBNOhG8OA9LntBw4ph"
@@ -6287,6 +6517,28 @@
     },
     {
       "album": {
+        "name": "Time To Change",
+        "url": "https://open.spotify.com/album/69PCHhaAFYa6Y5bReDqwQX"
+      },
+      "artists": [
+        {
+          "name": "Peter Mac",
+          "url": "https://open.spotify.com/artist/4Tet47xDCtFbmqBNR8MySc"
+        },
+        {
+          "name": "Roque Martinez",
+          "url": "https://open.spotify.com/artist/0fb7mZY1mjqMLhvk7t2qKL"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368299,
+      "name": "Time To Change",
+      "url": "https://open.spotify.com/track/49cbxGpYQknnTIrU4aeypT"
+    },
+    {
+      "album": {
         "name": "Bossa And Swing",
         "url": "https://open.spotify.com/album/46E57gGJYwBbuc0GG6tsen"
       },
@@ -6447,6 +6699,24 @@
     },
     {
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/31iEf1uI5OfZtc9nLMIhNu"
+      },
+      "artists": [
+        {
+          "name": "Danny Tenaglia",
+          "url": "https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379345,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/1YItV941sukqTQYxGjow9L"
+    },
+    {
+      "album": {
         "name": "Channel Tres",
         "url": "https://open.spotify.com/album/01Vvrmisrvr1YOIGRn4brG"
       },
@@ -6484,6 +6754,24 @@
       "duration_ms": 236250,
       "name": "Treat You Right",
       "url": "https://open.spotify.com/track/5CbzOUi8hm8UTQoG6kYmtp"
+    },
+    {
+      "album": {
+        "name": "Lingua Franca",
+        "url": "https://open.spotify.com/album/5V0rIlNNw6bohjxrUGf2Iv"
+      },
+      "artists": [
+        {
+          "name": "Len Leise",
+          "url": "https://open.spotify.com/artist/4jNjkCHWmf2WHMc1qwfRsA"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330196,
+      "name": "Tria Bells",
+      "url": "https://open.spotify.com/track/2Y6mv3gYdBPNGotWBwEvX0"
     },
     {
       "album": {

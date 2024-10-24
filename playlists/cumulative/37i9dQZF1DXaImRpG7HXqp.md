@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-776 songs - 1 day 9 hr 44 min
+779 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 | 2023-05-12 |  |
 | [Another Birthday](https://open.spotify.com/track/3rCOGLCgNRmW3OqO49IptS) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Another Birthday](https://open.spotify.com/album/7Jd9vy8MacIdxJXzyfg7G2) | 2:26 | 2022-09-23 | 2023-05-13 |
 | [Another Perspective](https://open.spotify.com/track/7hx5wUFiy40D5nviyVCNdh) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [Another Perspective](https://open.spotify.com/album/3p8nGt4Dn5go0hOypGZCDR) | 3:16 | 2023-12-15 |  |
-| [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 | 2024-04-19 |  |
+| [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 | 2024-04-19 | 2024-10-24 |
 | [Another Year](https://open.spotify.com/track/3cpghClYBVWb7SjRZS6xtu) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Another Year](https://open.spotify.com/album/5LsS0b99IKvCpkWKvKTZ1d) | 2:07 | 2022-05-27 | 2022-09-23 |
 | [Anteayer](https://open.spotify.com/track/3qTOFnijKc0S5ddgzjr5yu) | [BeAlicia](https://open.spotify.com/artist/6WJPIJkV6uewElkY7llxso) | [Anteayer](https://open.spotify.com/album/06xdDcNCj4pbl4pQC6A4S6) | 2:27 | 2021-12-08 | 2022-04-22 |
 | [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 | 2023-05-12 |  |
@@ -348,6 +348,7 @@
 | [Keep On Moving](https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Keep On Moving](https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9) | 1:36 | 2023-03-24 | 2023-08-19 |
 | [Kenmore](https://open.spotify.com/track/4XA5ebDvEQWnJjx8FADGvv) | [Dax Warner](https://open.spotify.com/artist/4IsX7IbImt8clMeZtsIEQ9) | [Kenmore](https://open.spotify.com/album/1mMxcoGF5nnH8dsecanu0B) | 3:12 | 2023-08-10 |  |
 | [Kite](https://open.spotify.com/track/2m4SUJunHatkZtI51ba3f5) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Kite](https://open.spotify.com/album/4ggfPdW3RSf4eCDzL6EfGQ) | 2:28 | 2024-05-24 |  |
+| [Klara](https://open.spotify.com/track/3THVKiicWvkkWf29cY0Dh5) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Klara](https://open.spotify.com/album/7Jaavx1mHVXPYpv1SzE7SY) | 2:26 | 2024-10-23 |  |
 | [kleiner Regenbogen](https://open.spotify.com/track/6AZDiksXqkOKUEMZI2fnxu) | [Dax Warner](https://open.spotify.com/artist/4IsX7IbImt8clMeZtsIEQ9) | [Kleiner Regenbogen](https://open.spotify.com/album/5Vx8R9kJX3Oqy1yrlFFR4g) | 3:23 | 2021-12-08 | 2022-07-08 |
 | [Kowloon Memories](https://open.spotify.com/track/56NBmGecvxum7lVslfJ0Vo) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Kowloon Memories](https://open.spotify.com/album/6BTy6MO3S6eCm59EF6rNrH) | 1:41 | 2022-09-09 | 2023-08-19 |
 | [L'Appel Du Vide](https://open.spotify.com/track/6RKkildYBGbmIy73Lyo7TD) | [Liad Abraham](https://open.spotify.com/artist/2Y8i0N5eDGrqRbk3MJGBni) | [L'Appel Du Vide](https://open.spotify.com/album/5gyl00JfmxXEFJ0mTBkMGe) | 2:03 | 2022-07-22 | 2022-07-29 |
@@ -541,6 +542,7 @@
 | [red mountains](https://open.spotify.com/track/3GJc8dRz6wV22rBR44T5qK) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [red mountains](https://open.spotify.com/album/5V99P1HtblBNHcV5tZMrjl) | 3:08 | 2021-12-08 | 2022-07-22 |
 | [Refugio Armónico](https://open.spotify.com/track/6TnS5MjUjt7dTvU6lGfhnr) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Refugio Armónico](https://open.spotify.com/album/6ap3TPxqKJx9zRoXzddgWE) | 2:21 | 2023-08-10 | 2024-04-05 |
 | [Reise um die Welt](https://open.spotify.com/track/5U3Funw31Xlkv6dvsR4QBn) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 2:51 | 2021-12-08 | 2022-07-01 |
+| [Rejuvenate](https://open.spotify.com/track/1zUAlutOZ0V6ORWAJLSNey) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Rejuvenate](https://open.spotify.com/album/6pIZFcR4f2VlFhoI6nMFRW) | 2:11 | 2024-10-23 |  |
 | [Remaining Link](https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Remaining Link](https://open.spotify.com/album/0BEE1YWLyPm6kFnVEL9LN9) | 2:18 | 2024-02-02 |  |
 | [Remembrance](https://open.spotify.com/track/7C92YbwWfe1HfpA2bBvBsI) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [St John's Wood](https://open.spotify.com/album/1Zp1UDQDXVio09Bj1ScwO4) | 3:05 | 2022-06-17 | 2023-05-13 |
 | [Repos profond](https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Repos profond](https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp) | 2:44 | 2023-03-24 |  |
@@ -765,6 +767,7 @@
 | [Winding Round](https://open.spotify.com/track/6tAMRb5B9arxFxGwdU3AQ0) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Winding Round](https://open.spotify.com/album/0hZVB1UgQA8RYnjEx1oq8s) | 1:43 | 2024-09-03 |  |
 | [Window](https://open.spotify.com/track/7Avxe9ZBaBQ8yWk1fpYM8Y) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Window](https://open.spotify.com/album/1Qa7H30jLp6XDAxCv7M769) | 2:02 | 2023-10-27 | 2024-06-28 |
 | [windows](https://open.spotify.com/track/5KZLT2poBO9eTLjpaD7EDN) | [Elum Vance](https://open.spotify.com/artist/0Ams3Y9kvFZ7zJ0iPkIhfG) | [windows](https://open.spotify.com/album/0T3syhriHLYTW1Uskr3kGE) | 2:46 | 2021-12-08 | 2022-03-05 |
+| [Windstorm](https://open.spotify.com/track/5huZQUH26gxitprZUAtvLa) | [Erik Reno](https://open.spotify.com/artist/4QL7rtAbYIAQ3sIsffoIz0) | [Windstorm](https://open.spotify.com/album/1ZfIkXZRFgIPd12rDtd4QS) | 3:37 | 2024-10-23 |  |
 | [Winter is coming](https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Winter is coming](https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw) | 2:32 | 2023-03-10 |  |
 | [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-06-02 | 2024-05-24 |
 | [Winterwald](https://open.spotify.com/track/0Wr13ftMBRS8yp4QA7WDF4) | [Dak Pietsch](https://open.spotify.com/artist/5pP8Whe87TtxEtv8zE2Lwj) | [Karwendel](https://open.spotify.com/album/3yYhCewxc24oSmkYmzVjIw) | 3:08 | 2021-12-08 | 2022-06-17 |

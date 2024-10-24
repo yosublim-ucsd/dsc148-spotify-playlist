@@ -1,28 +1,28 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 350892,
+  "num_followers": 350970,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxKrrAAAAABZMz7zcI59y3dNY2obBDbe",
+  "snapshot_id": "ZxiJUwAAAABKuXk2qO5S7ZjVHxITb7lP",
   "tracks": [
     {
-      "added_at": "2024-01-03 18:52:26",
+      "added_at": "2024-10-23 05:27:47",
       "album": {
-        "name": "Killswitch Lullaby",
-        "url": "https://open.spotify.com/album/6vumqEmQE0Sxag2dWwhe3E"
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
       },
       "artists": [
         {
-          "name": "Flawed Mangoes",
-          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
         }
       ],
-      "duration_ms": 147096,
-      "name": "Killswitch Lullaby",
-      "url": "https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE"
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
     },
     {
       "added_at": "2024-09-04 14:51:21",
@@ -93,20 +93,20 @@
       "url": "https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr"
     },
     {
-      "added_at": "2023-12-20 05:39:30",
+      "added_at": "2024-01-03 18:52:26",
       "album": {
-        "name": "Everywhere at the End of Time (Stage 1)",
-        "url": "https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T"
+        "name": "Killswitch Lullaby",
+        "url": "https://open.spotify.com/album/6vumqEmQE0Sxag2dWwhe3E"
       },
       "artists": [
         {
-          "name": "The Caretaker",
-          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
         }
       ],
-      "duration_ms": 212213,
-      "name": "A1 - It's just a burning memory",
-      "url": "https://open.spotify.com/track/0uEec9a0RsYeQiaeyJapjY"
+      "duration_ms": 147096,
+      "name": "Killswitch Lullaby",
+      "url": "https://open.spotify.com/track/7g3g00RKlqSIe2G8KKCgsE"
     },
     {
       "added_at": "2024-07-19 20:49:05",
@@ -385,6 +385,22 @@
       "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
     },
     {
+      "added_at": "2023-12-20 05:39:30",
+      "album": {
+        "name": "Everywhere at the End of Time (Stage 1)",
+        "url": "https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T"
+      },
+      "artists": [
+        {
+          "name": "The Caretaker",
+          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
+        }
+      ],
+      "duration_ms": 212213,
+      "name": "A1 - It's just a burning memory",
+      "url": "https://open.spotify.com/track/0uEec9a0RsYeQiaeyJapjY"
+    },
+    {
       "added_at": "2023-11-23 02:41:10",
       "album": {
         "name": "New Blue Sun",
@@ -399,22 +415,6 @@
       "duration_ms": 740010,
       "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
       "url": "https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Living Room Songs",
-        "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 208589,
-      "name": "Near Light",
-      "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
     },
     {
       "added_at": "2024-06-14 04:57:45",
@@ -435,6 +435,22 @@
       "duration_ms": 268327,
       "name": "Que llueva ```",
       "url": "https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Living Room Songs",
+        "url": "https://open.spotify.com/album/69Q8uDA8C7EdKUo5oveufQ"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 208589,
+      "name": "Near Light",
+      "url": "https://open.spotify.com/track/6Xajr512QEGAZ20bqAWkyT"
     },
     {
       "added_at": "2022-03-11 05:43:48",
@@ -573,6 +589,22 @@
       "url": "https://open.spotify.com/track/0L2Q17joitlk1BxqKbbUyM"
     },
     {
+      "added_at": "2024-04-15 14:39:48",
+      "album": {
+        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
+        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        }
+      ],
+      "duration_ms": 291002,
+      "name": "Gurek",
+      "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
+    },
+    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Haunt Me",
@@ -589,20 +621,20 @@
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
     },
     {
-      "added_at": "2024-04-15 14:39:48",
+      "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Pasajes Sonoros, Instant Composition / Saxophone Solo",
-        "url": "https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
       },
       "artists": [
         {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 291002,
-      "name": "Gurek",
-      "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
+      "duration_ms": 143080,
+      "name": "Requiem for CS70 and Strings",
+      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -635,22 +667,6 @@
       "duration_ms": 121856,
       "name": "Mechanical Advantage",
       "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 143080,
-      "name": "Requiem for CS70 and Strings",
-      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -719,6 +735,30 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        },
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 530894,
+      "name": "Movement 6",
+      "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "Coconut Mango",
         "url": "https://open.spotify.com/album/5paYeeVQtrLKO68IaCCtwj"
       },
@@ -747,30 +787,6 @@
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        },
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 530894,
-      "name": "Movement 6",
-      "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -809,38 +825,6 @@
       "url": "https://open.spotify.com/track/51Lt2RN3W0u2xI0LiARCRm"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Because of a Flower",
-        "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
-      },
-      "artists": [
-        {
-          "name": "Ana Roxanne",
-          "url": "https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I"
-        }
-      ],
-      "duration_ms": 304144,
-      "name": "Camille",
-      "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
-    },
-    {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "REMNANT",
-        "url": "https://open.spotify.com/album/2GYaqE9jZ1IFdWYiFlQNQV"
-      },
-      "artists": [
-        {
-          "name": "Lorn",
-          "url": "https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5"
-        }
-      ],
-      "duration_ms": 233274,
-      "name": "SILHOUETTE",
-      "url": "https://open.spotify.com/track/4iNljnJPDFYXyaLVpr7tbe"
-    },
-    {
       "added_at": "2023-12-20 05:39:30",
       "album": {
         "name": "Everywhere at the End of Time (Stage 2)",
@@ -855,6 +839,22 @@
       "duration_ms": 282695,
       "name": "C2 - Misplaced in time",
       "url": "https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Winter's Lament",
+        "url": "https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Winter's Lament",
+      "url": "https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd"
     }
   ],
   "unique_name": "Deep Listening",

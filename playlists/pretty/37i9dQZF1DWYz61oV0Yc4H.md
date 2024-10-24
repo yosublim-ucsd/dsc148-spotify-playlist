@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYz61oV0Yc4H.md) - [plain]
 
 > Our editor’s picks for the best songs from The Indie List in 2023\. Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,702 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,699 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 
 
-1,991 songs - 4 day 11 hr 6 min
+1,997 songs - 4 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Bulletproof Love](https://open.spotify.com/track/6bGac1gBHs7kUKihrudMzq) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 3:57 | 2021-08-05 |  |
 | [Bulls In The Bronx](https://open.spotify.com/track/23UoI3jlFiWdo5jadUYo69) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:27 | 2021-08-05 |  |
 | [Bum Bum Tam Tam](https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu) | [MC Fioti](https://open.spotify.com/artist/2W6kbe0nm96COrHzNmfLLd), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Bum Bum Tam Tam](https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm) | 3:33 | 2021-08-05 |  |
+| [Bungelrave](https://open.spotify.com/track/658cX1xwwflgoUyLyKNmo0) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [Vieze Asbak III](https://open.spotify.com/album/0Xda9HeXDZmLzQAsGr5aK9) | 1:55 | 2024-10-23 |  |
 | [Burn This Moment Into the Retina of My Eye](https://open.spotify.com/track/1XaoctslrqtYjVKoGO3DGR) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [Semantics: The Benzo Chronicles](https://open.spotify.com/album/7IWQHF0tCrXGQlqrmjIyCF) | 6:24 | 2022-02-04 |  |
 | [Burning Pile](https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:22 | 2021-08-05 |  |
 | [bury a friend](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:13 | 2021-08-05 |  |
@@ -412,6 +413,7 @@
 | [Cracking](https://open.spotify.com/track/3VwgtTh9D0CubY32jdhI5U) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 1:51 | 2023-01-02 |  |
 | [Cradles](https://open.spotify.com/track/1y4jsQt7MjnZhiD1L6qFBC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/2fLkonSk9cVovvnRKKYtk5) | 3:29 | 2021-08-05 |  |
 | [Crash](https://open.spotify.com/track/6WKDtdVILJvcfqpvSQgwAQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:09 | 2023-04-14 |  |
+| [Crash96](https://open.spotify.com/track/326bBMJ92wbiAMJdCyxyZG) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 5:28 | 2024-10-23 |  |
 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 | 2021-08-05 |  |
 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 | 2021-08-05 |  |
 | [Cross My Heart And Hope To Die](https://open.spotify.com/track/28Htz40ff0WaT4gfc8CL7k) | [Harmful Logic](https://open.spotify.com/artist/2bJhXmBzIW5xTAL2LGc6iw) | [Cross My Heart And Hope To Die](https://open.spotify.com/album/4mxayRTM5hG34hcaIFWMxX) | 3:40 | 2022-02-04 |  |
@@ -520,6 +522,7 @@
 | [Drown](https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Drown](https://open.spotify.com/album/6Az1XhIF7MTkO0kr5fRJOd) | 3:54 | 2021-08-05 |  |
 | [Drunk and Out of Town](https://open.spotify.com/track/0mR1ylBZB6QqTQdFclTKt9) | [Elko](https://open.spotify.com/artist/3GTNYnTjMraxKUyc2ns7LU) | [Drunk and Out of Town](https://open.spotify.com/album/63VVmF2PRSFW1TXdxmEnEN) | 2:19 | 2021-08-05 |  |
 | [Du hast](https://open.spotify.com/track/6uEvFCaOqXyEidoO8BZbyh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/0C9p8YMtbdOkcXPPlEmZvY) | 3:54 | 2022-02-18 |  |
+| [Duality](https://open.spotify.com/track/5NoIDaacAEA4UEWn9qXIhA) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Duality](https://open.spotify.com/album/5t4AQmpVHpPk8vEoLRTlGJ) | 3:26 | 2024-10-23 |  |
 | [Duality](https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Vol\. 3: The Subliminal Verses](https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T) | 4:12 | 2021-08-05 |  |
 | [Duck Eat Duck World](https://open.spotify.com/track/0VuJkzId5KlafuZTN38P4B) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 2:10 | 2021-08-24 |  |
 | [Dumb](https://open.spotify.com/track/56gG5NdPZB1dyJJaQsgQC5) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 2:55 | 2022-09-04 |  |
@@ -620,6 +623,7 @@
 | [Fine Night](https://open.spotify.com/track/6UeUyaI0Mg6YVrleDiUzdG) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [gnb](https://open.spotify.com/album/5KWDHBSc9h4QkMTG2XS0Lz) | 5:16 | 2022-02-04 |  |
 | [Fingerbib](https://open.spotify.com/track/3kbaZC3FZTecvlSR67Sr19) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 3:48 | 2022-02-04 |  |
 | [Fire Alarm \(feat\. Snow Strippers\)](https://open.spotify.com/track/02Mqx9HzVRyfdCUpPNR6N3) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:05 | 2024-05-13 |  |
+| [Fire In My Body](https://open.spotify.com/track/0746AeHaYcU2GsG7ohLfTi) | [Indecorum](https://open.spotify.com/artist/1nDQX7M3T8BvVi3bdCQyrm) | [Sanctus](https://open.spotify.com/album/4FPf6TQDTjuSKhz33YMJlh) | 3:16 | 2024-10-23 |  |
 | [Fire, Ready, Aim](https://open.spotify.com/track/3I8Ri6tLa4QA11MMdZywtM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/1xIgeQeVlMe5fcAVpRjkaP) | 1:52 | 2021-08-05 |  |
 | [Fireprayer](https://open.spotify.com/track/5mNT4J2phEjHgpLlS1bj73) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [kiCK iiiii](https://open.spotify.com/album/1uhyYU7DFiHgW4czDH2FIb) | 3:54 | 2022-02-18 |  |
 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 | 2021-08-05 |  |
@@ -1491,6 +1495,7 @@
 | [Savage](https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 2:35 | 2021-08-05 |  |
 | [Say Hey Kid](https://open.spotify.com/track/3yxC5xscsET5npQpNIiW9R) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Powers That B](https://open.spotify.com/album/5Y04ylQjDWsawOUJXzY4YO) | 3:27 | 2021-11-30 |  |
 | [Say It Ain't So \- Original Mix](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 | 2021-08-05 |  |
+| [say it right tekkno](https://open.spotify.com/track/6if6TUsJ8CIaPaaLyQoZQB) | [TEKKNO](https://open.spotify.com/artist/0aUMVkR8QV0LSdv9VZOATn) | [say it right tekkno](https://open.spotify.com/album/3cFyVqw4udu5fvnO3mZMOS) | 2:14 | 2024-10-23 |  |
 | [Say My Name](https://open.spotify.com/track/174Ib4vgKtDBVW0GruD4FX) | [CARV](https://open.spotify.com/artist/6xenmpQHeDugzwDn9H2pSI) | [Say My Name](https://open.spotify.com/album/3sf6397zro9v4haZMNL6ka) | 6:10 | 2023-05-22 |  |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2021-08-05 |  |
 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 | 2022-04-09 |  |
@@ -1990,6 +1995,7 @@
 | [Zombie Ritual](https://open.spotify.com/track/4K3qzy3AR3Lo02ybxs90gW) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [Scream Bloody Gore](https://open.spotify.com/album/0PvGbpxBh7faAVbeZM4sIm) | 4:33 | 2021-08-05 |  |
 | [Грустная сука](https://open.spotify.com/track/18hIrODUziu3KyUxeDKlcq) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сладкая жизнь](https://open.spotify.com/album/1x5XZhwID74j0tqkcU6hCy) | 3:19 | 2021-08-05 |  |
 | [ЗАВОД](https://open.spotify.com/track/0JCG4FU6reipiFnJ0sGloH) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [ЗАВОД](https://open.spotify.com/album/3BT92x77jU94cOAqg92Ijw) | 2:03 | 2024-09-18 |  |
+| [ННД](https://open.spotify.com/track/3X412wnMLKyqctlRfhPa7Q) | [Tomorrow](https://open.spotify.com/artist/0mmG7ASfGRWIZVC492wpjs) | [ННД](https://open.spotify.com/album/0qQ8tz5aYGHVcnTpxVGgHW) | 1:27 | 2024-10-23 |  |
 | [Смерти Больше Нет](https://open.spotify.com/track/1PPXvuqGAF3UCbsveKoOIV) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8) | [Сказка](https://open.spotify.com/album/63AxG9uYC7oKufwKXf68jC) | 3:22 | 2021-08-05 |  |
 | [Судно \(Борис Рижий\)](https://open.spotify.com/track/6DONTnamNDOJdO6DzCu71p) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1vPytXXwF0VXnof89Z91Pm) | 2:21 | 2021-08-05 |  |
 | [траур](https://open.spotify.com/track/4HshIGYVQfbCfS8xPKLNcL) | [вышел покурить](https://open.spotify.com/artist/1YMUxFiaKsU85N9YolW0W9) | [север](https://open.spotify.com/album/6L6rz0eEzrl8L8YDSZglvA) | 2:15 | 2021-08-05 |  |

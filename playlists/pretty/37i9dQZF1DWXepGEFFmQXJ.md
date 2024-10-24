@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,392 likes - 99 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,484 likes - 99 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 10 | [Holding On](https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holding On](https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0) | 3:50 |
 | 11 | [twice](https://open.spotify.com/track/6mkICPxihmgy5WpdNAczTq) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [twice](https://open.spotify.com/album/4B7Q5ldXHAi3V8ERehfJvE) | 2:53 |
 | 12 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 |
-| 13 | [Hotel Bible](https://open.spotify.com/track/3UAkWAnbPGJgIXG1OsQHlD) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Hotel Bible](https://open.spotify.com/album/6KdpUp1ly6HoraKohvN5ks) | 2:54 |
+| 13 | [Hotel Bible](https://open.spotify.com/track/3UAkWAnbPGJgIXG1OsQHlD) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Hotel Bible](https://open.spotify.com/album/6KdpUp1ly6HoraKohvN5ks) | 2:53 |
 | 14 | [When I Ain't Lookin'](https://open.spotify.com/track/0des8iQjWbqSGkn89w7AWr) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Waves On A Sunset](https://open.spotify.com/album/3BZLyz9vRkmsw7Q8UyX3dm) | 3:05 |
 | 15 | [You'd Think I Was A Cowboy](https://open.spotify.com/track/4Di7R87Zkhl6i4cZw8Onh5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [You'd Think I Was A Cowboy](https://open.spotify.com/album/0J4VTtjz1Njh0K7warz890) | 2:59 |
 | 16 | [Heart, Don't Fail Me Now](https://open.spotify.com/track/2FEhGntRtV5YZtAzMTIvSq) | [Tyla Rodrigues](https://open.spotify.com/artist/5SwnYxaLFxCb2LQ7Kl7JAV), [Blake O'Connor](https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6) | [Upon Reflection](https://open.spotify.com/album/5UHrTg43vbXnxZTkDwoanC) | 4:09 |

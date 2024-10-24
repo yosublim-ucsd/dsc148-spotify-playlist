@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-634 songs - 2 day 9 hr 15 min
+636 songs - 2 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [An Index Of Metals II](https://open.spotify.com/track/1QbkWJs25FrFHLlgUhjldI) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 2:32 | 2021-10-20 | 2022-04-21 |
 | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/track/3zORM4QYkdkw8QkaFd6CPD) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/album/45KnxjCyMK5X1deAEr4MOs) | 3:13 | 2021-10-20 | 2024-04-19 |
 | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/track/4KgSkI0Xh9WBGJDD7NjabS) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [An Observation of Antimatter at Hotel Kabiki](https://open.spotify.com/album/4yqYiuUZMb85p2rE6Kg77A) | 3:13 | 2021-10-20 | 2022-07-29 |
+| [Analemma](https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Analemma](https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq) | 7:57 | 2024-10-23 |  |
 | [Analogische Memories \- Piano](https://open.spotify.com/track/4BVTqO4lgb55BJPiLivki1) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Theory of Colours \- Versions](https://open.spotify.com/album/2CJ7fsKkxcFfKxzNM4Ugde) | 4:18 | 2021-10-20 | 2022-05-29 |
 | [Analogische Memories \- Piano](https://open.spotify.com/track/7pgppFshHrhZ1fpVP1NsR3) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Theory of Colours \- Versions](https://open.spotify.com/album/6nCuaV19kMT6tcNItcQVlh) | 4:18 | 2021-10-20 | 2023-07-15 |
 | [And, We Disappear](https://open.spotify.com/track/0GFAxE9CP6pdGSA0mlcAcT) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [And, We Disappear](https://open.spotify.com/album/3sCHgW81uQJcrgkAc5LSqZ) | 4:37 | 2021-10-20 | 2022-07-28 |
@@ -135,7 +136,7 @@
 | [Cycles](https://open.spotify.com/track/6Z6hXlSOi0FLrCPgVpsrNV) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Cycles](https://open.spotify.com/album/7s6RExKiewxS5m6aFT4JXN) | 3:00 | 2021-10-20 | 2022-07-29 |
 | [Cycles](https://open.spotify.com/track/6mqaKL3SnJhtS2fqDkXOiB) | [Filterscape](https://open.spotify.com/artist/2LUZYo0X5OZRrqLmHFiSz1) | [Cycles](https://open.spotify.com/album/4WoGfkXxEjufoIDOPmRuGG) | 3:00 | 2021-10-20 | 2024-04-19 |
 | [Cypher](https://open.spotify.com/track/7vgaDsZO7WOGWmHSZ2s1kg) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Cypher](https://open.spotify.com/album/7bOmeP28bKeR9E9twCFTk7) | 7:43 | 2021-10-20 | 2022-04-21 |
-| [Daria](https://open.spotify.com/track/5ecdaJ9LiQ3UYwfXRVcV7i) | [Money Flip](https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz) | [Daria](https://open.spotify.com/album/6FBQAIM52QhWtvtu8DXSEU) | 1:46 | 2024-07-04 |  |
+| [Daria](https://open.spotify.com/track/5ecdaJ9LiQ3UYwfXRVcV7i) | [Money Flip](https://open.spotify.com/artist/6S1vdiNvRQpBQgq7jSZaZz) | [Daria](https://open.spotify.com/album/6FBQAIM52QhWtvtu8DXSEU) | 1:46 | 2024-07-04 | 2024-10-24 |
 | [Das Unheimliche](https://open.spotify.com/track/64EQZLoqKiaxjghEeaxVxQ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Das Unheimliche](https://open.spotify.com/album/3YEBwRr6N9v9RVz46Sbo9v) | 6:30 | 2021-10-20 |  |
 | [Dawn](https://open.spotify.com/track/3OLtGoMhlQNjEctWGN1yDb) | [Frieder Nagel](https://open.spotify.com/artist/48OvGoIuRRFKlccuXbW9JU) | [Dawn](https://open.spotify.com/album/5P0ozoGtmIfRWRPlsJyO26) | 4:45 | 2021-10-20 | 2023-02-13 |
 | [Dawn](https://open.spotify.com/track/5aBUWfB6OR92YMjs0QYk6k) | [Frieder Nagel](https://open.spotify.com/artist/48OvGoIuRRFKlccuXbW9JU) | [Dawn](https://open.spotify.com/album/6w3KZtjAb0dFOzioo4G83h) | 4:45 | 2021-10-20 | 2022-07-28 |
@@ -368,7 +369,7 @@
 | [My Night, My Day](https://open.spotify.com/track/3QvB6AhSmcGcajiKnANT3o) | [Olivier Alary](https://open.spotify.com/artist/7tg7utIvViIXxA4zi0vl2t), [Johannes Malfatti](https://open.spotify.com/artist/6xQOMfltktlRre6jV8wxPG) | [u,i](https://open.spotify.com/album/2XPM7NE0nzi2EKVVeMSiQS) | 5:18 | 2021-10-20 | 2024-07-02 |
 | [My Orange Life\-jacket](https://open.spotify.com/track/4yeZjih89tXzsvaktkfJU4) | [Donato Wharton](https://open.spotify.com/artist/3xqcBy0CQbU6PxxK8i0EjU) | [Built To Fall Ep](https://open.spotify.com/album/0hr1kh7DadvLUcbfJoJaxW) | 4:07 | 2021-10-20 | 2022-07-29 |
 | [Mycelia](https://open.spotify.com/track/60KXl9HyXW0SPQBMXEEGzb) | [Matthewdavid](https://open.spotify.com/artist/4KKx8fVJ0y7EcpmYZ42jPc) | [Mycelia](https://open.spotify.com/album/2TesVg8UpZu2ROJI5suGCO) | 13:16 | 2021-10-20 | 2022-07-29 |
-| [Nadir](https://open.spotify.com/track/5BG58Mt1lR3vQfZhjNSsPl) | [Bonart](https://open.spotify.com/artist/3ZGw2U265tZNbX3AWnFKzp) | [Nadir](https://open.spotify.com/album/6y5eUH6C1OsM13zDrKP7f5) | 3:47 | 2021-10-20 |  |
+| [Nadir](https://open.spotify.com/track/5BG58Mt1lR3vQfZhjNSsPl) | [Bonart](https://open.spotify.com/artist/3ZGw2U265tZNbX3AWnFKzp) | [Nadir](https://open.spotify.com/album/6y5eUH6C1OsM13zDrKP7f5) | 3:47 | 2021-10-20 | 2024-10-24 |
 | [Naini's Call](https://open.spotify.com/track/2KI2fI3aggHeBM4PGyWLvE) | [ddwy](https://open.spotify.com/artist/2WrVgrATbqKvkO3VmPSiy9) | [Sprig Songs](https://open.spotify.com/album/4ct3nDg9TPM4vURcOQ9hfd) | 6:55 | 2024-01-10 |  |
 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 | 2021-10-20 |  |
 | [Natura Sophia](https://open.spotify.com/track/3iDbgVmeRrb8lYXrtBC5TE) | [Isaac Symonds](https://open.spotify.com/artist/7mvHnjqntcNNecYAHHbdM2), [Yaehsun](https://open.spotify.com/artist/2EzEflueqj8hSyiCNSTxbB) | [Natura Sophia](https://open.spotify.com/album/32DnDFaeDJbNXqbDaGFUCS) | 4:03 | 2021-10-20 | 2022-07-29 |
@@ -470,6 +471,7 @@
 | [Silencio y Amancer](https://open.spotify.com/track/1A9iQiTMgYoc8Qky2dTDSe) | [Dyb](https://open.spotify.com/artist/2XaoeOBIkNSE1V4DeGueLn) | [Al Margen de los Sueños](https://open.spotify.com/album/2s2AevR8DMOgSr1VwFSFAX) | 4:16 | 2022-12-21 | 2023-02-16 |
 | [Silent Memories](https://open.spotify.com/track/3hzfIU0PEGUcUSHViCUybF) | [Calm Shores](https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB) | [Fall Of A Raindrop](https://open.spotify.com/album/3MO1X0bSHAOzy0FuzP44tm) | 4:11 | 2021-10-20 | 2022-04-21 |
 | [Silenzio Solare](https://open.spotify.com/track/6bHQyX0G9QEjpna830dvBt) | [Fera](https://open.spotify.com/artist/0RCFF3ElmHRKsaMmHXE3h7) | [Silenzio Solare](https://open.spotify.com/album/0RS06bmkOLmoTIgHqmyn00) | 3:03 | 2024-05-29 |  |
+| [Silver](https://open.spotify.com/track/5bAXwSGe8VudUcZCQs8avp) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Silver](https://open.spotify.com/album/1ACYcJOkXukOYC1hVwLnFq) | 2:50 | 2024-10-23 |  |
 | [Silver Plane](https://open.spotify.com/track/2ffRK4ffNcvjH3GL0Ay1Io) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Silver Plane](https://open.spotify.com/album/44N6krf8Sg39WkGF4brhMG) | 3:15 | 2021-10-20 | 2022-07-29 |
 | [Silver Plane](https://open.spotify.com/track/6LDotez7zfYGnGFTGCncky) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [Silver Plane](https://open.spotify.com/album/5nfMRvJRu7fhF9O83sRFdS) | 3:15 | 2021-10-20 | 2022-09-05 |
 | [Sky Hooks](https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Sky Hooks](https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp) | 6:03 | 2024-08-12 |  |

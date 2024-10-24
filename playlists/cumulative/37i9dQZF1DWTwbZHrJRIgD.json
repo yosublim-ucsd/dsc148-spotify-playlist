@@ -898,7 +898,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 150050,
       "name": "Chitta Suit",
       "url": "https://open.spotify.com/track/2nBcIVhZbRPBUnhV5JUNC4"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 166339,
       "name": "CHUMMA (From \"Vicky Vidya Ka Woh Wala Video\")",
       "url": "https://open.spotify.com/track/2NHsMMHSoMiIqPMQrKIZgP"
@@ -2044,6 +2044,32 @@
       "duration_ms": 183899,
       "name": "Hone Do Jo Hota Hai - From \"Kho Gaye Hum Kahan\"",
       "url": "https://open.spotify.com/track/21IwQe2rq1yPhtbXIvPMwg"
+    },
+    {
+      "album": {
+        "name": "Bhool Bhulaiyaa 3",
+        "url": "https://open.spotify.com/album/2DNzidacofd4SvmOyj620R"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Som",
+          "url": "https://open.spotify.com/artist/5zmdcf0ZaJEo0GeJbA6sh9"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224135,
+      "name": "Hukkush Phukkush",
+      "url": "https://open.spotify.com/track/7niiaqBQCpA6NkZx3hpw8w"
     },
     {
       "album": {

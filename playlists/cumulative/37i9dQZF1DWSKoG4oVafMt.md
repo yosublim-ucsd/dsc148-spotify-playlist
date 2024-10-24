@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-940 songs - 2 day 2 hr 48 min
+941 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,7 +346,7 @@
 | [Jaanu](https://open.spotify.com/track/00sshcz4IzgggX2r8bAZ89) | [Hardeep Grewal](https://open.spotify.com/artist/43H2bU3Tpcw29Ndd0J5P7B), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Jaanu](https://open.spotify.com/album/5hvXACaNTVp8WxDE7zhfc1) | 3:19 | 2022-01-18 | 2022-02-01 |
 | [Jadon Di Nazar \- From "My Way Main Te Mere Geet"](https://open.spotify.com/track/6nrhlyhAOlhReB6BwkPLMA) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf) | [Jadon Di Nazar \(From "My Way Main Te Mere Geet"\)](https://open.spotify.com/album/3YwvsKcLGH330kV3e7njGE) | 3:58 | 2022-12-01 | 2023-01-24 |
 | [Jahli Aashiq](https://open.spotify.com/track/6TRI2VjSv6T5MTYo0uhnqD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Estrellas](https://open.spotify.com/album/56bKi3MtxXf4CzkkaDZ73s) | 2:36 | 2024-02-07 | 2024-02-13 |
-| [Jannataan](https://open.spotify.com/track/3nfhaBOqvypXW2dKfXLeic) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Jannataan](https://open.spotify.com/album/4pS7yOiK9vRxVkugAR3EO9) | 2:45 | 2024-09-19 |  |
+| [Jannataan](https://open.spotify.com/track/3nfhaBOqvypXW2dKfXLeic) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Jannataan](https://open.spotify.com/album/4pS7yOiK9vRxVkugAR3EO9) | 2:45 | 2024-09-19 | 2024-10-24 |
 | [Jatt Nu Sambhle](https://open.spotify.com/track/0wEQTiybvYfDmeH5ZhIlle) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc), [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jatt Nu Sambhle](https://open.spotify.com/album/2Bc962eVz57E5j187xp5HM) | 3:30 | 2023-01-03 | 2023-02-02 |
 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 | 2022-02-03 | 2023-02-04 |
 | [JATTA IK TERE KARKE](https://open.spotify.com/track/4sFSXPcSjUwjmwlPGTWktU) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [JATTA IK TERE KARKE](https://open.spotify.com/album/5WI3fgyT2QgoFISwebIKLN) | 2:52 | 2022-02-09 | 2022-07-06 |
@@ -727,6 +727,7 @@
 | [Salah](https://open.spotify.com/track/0DnJkKc4jPRxkKEjPScxEV) | [Navjeet](https://open.spotify.com/artist/6ti9mMVGU3e9MtpFh69Knr) | [Salah](https://open.spotify.com/album/6jpBia7CP0JFIUji3fHFDQ) | 3:47 | 2022-05-26 | 2022-07-06 |
 | [Salooq \(From "MOH"\)](https://open.spotify.com/track/6fgIBVQ0GJ1kijpGL9N5Vs) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Salooq \(From "MOH"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6eUXw6BZjKb61a27JPzklk) | 5:06 | 2022-08-31 | 2023-08-22 |
 | [Sambhal Ke Chal \- From "Mahi Mera Nikka Jeha"](https://open.spotify.com/track/1F40RtB8tCM43x8Sj92biS) | [Kamal Khan](https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8), [Jaggi Singh](https://open.spotify.com/artist/65zaftDLgoj6AAEpkAp1pA) | [Sambhal Ke Chal \(From "Mahi Mera Nikka Jeha"\)](https://open.spotify.com/album/13Osk55gPTsBlDFITqlNzO) | 5:05 | 2022-06-01 | 2022-07-06 |
+| [Sanwla Rang](https://open.spotify.com/track/6GFnPkwSY4VVsB4tM3gjQw) | [Pavitar Lassoi](https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX) | [Sanwla Rang](https://open.spotify.com/album/0LHV9Vx2en3Nyj797LA8Kn) | 2:42 | 2024-10-23 |  |
 | [Sare Taare](https://open.spotify.com/track/2NqFbnikUIo8hWKlfCfxUo) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1), [Veet Baljit](https://open.spotify.com/artist/4Ax6JQQBWP2BqmmcbVvZwl) | [Teri Meri Gal Ban Gayi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JRDsfFKUbxG5yiMMZPokx) | 2:29 | 2022-08-31 | 2022-09-03 |
 | [Sath Tera](https://open.spotify.com/track/1uwwPP5m9lt8zEAkVcyca4) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA) | [Gill Skill, Vol\. 1](https://open.spotify.com/album/6A4GxzoyK2x6rm9hGvJMUw) | 2:34 | 2023-03-17 | 2023-05-06 |
 | [Satisfaction](https://open.spotify.com/track/3mb3AKxmOBZSNzYTxRBuDs) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [Satisfaction](https://open.spotify.com/album/6JzOPYjClr8eTVRvpbatmG) | 3:11 | 2022-01-11 | 2022-02-01 |

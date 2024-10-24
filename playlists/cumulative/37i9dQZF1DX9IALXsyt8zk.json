@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Unearthing up-and-coming Korean acts. (Cover: RIIZE)",
+  "description": "Unearthing up-and-coming Korean acts. (Cover: BABYMONSTER)",
   "name": "RADAR Korea",
   "tracks": [
     {
@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "CN X",
+        "url": "https://open.spotify.com/album/1jRhPtPtV52l3uUZqbYSE8"
+      },
+      "artists": [
+        {
+          "name": "Xin Seha",
+          "url": "https://open.spotify.com/artist/4kuTWggHz7FWxKVh3hdqA5"
+        },
+        {
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292535,
+      "name": "5 (feat. 9m88)",
+      "url": "https://open.spotify.com/track/7xLTI4PKBKG6kPOoXMrH1r"
+    },
+    {
+      "album": {
         "name": "FESTA",
         "url": "https://open.spotify.com/album/3dL6zwC1px9mU7R5x8RW8x"
       },
@@ -132,7 +154,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 160205,
       "name": "9 Days",
       "url": "https://open.spotify.com/track/55q5IR87NQcWjFfosyAbOS"
@@ -404,7 +426,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 180236,
       "name": "ATE THAT",
       "url": "https://open.spotify.com/track/6spCL6M22BQACNDd70Gov3"
@@ -545,6 +567,78 @@
     },
     {
       "album": {
+        "name": "BABYMONSTER - RADAR KOREA",
+        "url": "https://open.spotify.com/album/5j8wjWKH3htJWPwYMWb7QW"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34968,
+      "name": "BABYMONSTER - RADAR Korea",
+      "url": "https://open.spotify.com/track/3XnySVINw57TlEin5sSdv7"
+    },
+    {
+      "album": {
+        "name": "BABYMONSTER - RADAR KOREA",
+        "url": "https://open.spotify.com/album/5j8wjWKH3htJWPwYMWb7QW"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30630,
+      "name": "BABYMONSTER - RADAR LIVE",
+      "url": "https://open.spotify.com/track/2D3gU2EW4HPVeiCF6LnuOL"
+    },
+    {
+      "album": {
+        "name": "BABYMONSTER - RADAR KOREA",
+        "url": "https://open.spotify.com/album/5j8wjWKH3htJWPwYMWb7QW"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54921,
+      "name": "BABYMONSTER - SEE YOU SOON!",
+      "url": "https://open.spotify.com/track/51GFIbfSfcEtnwLob3pVgU"
+    },
+    {
+      "album": {
+        "name": "BABYMONSTER - RADAR KOREA",
+        "url": "https://open.spotify.com/album/5j8wjWKH3htJWPwYMWb7QW"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39739,
+      "name": "BABYMONSTER - Upcoming New Album!",
+      "url": "https://open.spotify.com/track/55yZFQyq6fTgrTEvTIc3qi"
+    },
+    {
+      "album": {
         "name": "Empty Dream",
         "url": "https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK"
       },
@@ -654,6 +748,24 @@
       "duration_ms": 189283,
       "name": "BADVILLAIN",
       "url": "https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI"
+    },
+    {
+      "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188881,
+      "name": "BATTER UP (7 ver.)",
+      "url": "https://open.spotify.com/track/2MQmaHNnCCuisRHu551ZQq"
     },
     {
       "album": {
@@ -1710,7 +1822,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 103995,
       "name": "devil",
       "url": "https://open.spotify.com/track/7sgTVyyE6mGklZaX3oiX7C"
@@ -1952,7 +2064,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 214760,
       "name": "Don\u2019t Worry, Be Happy",
       "url": "https://open.spotify.com/track/0MmlCY9mi7pzKeOLdgKNLA"
@@ -2530,10 +2642,36 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 198976,
       "name": "For all sorrow",
       "url": "https://open.spotify.com/track/7GJtyVwAj9DS0VSar0rFEK"
+    },
+    {
+      "album": {
+        "name": "Gist The Artist",
+        "url": "https://open.spotify.com/album/0toydtYJSRcPa5kAJneawP"
+      },
+      "artists": [
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195346,
+      "name": "For U (Feat. Loco, Coogie)",
+      "url": "https://open.spotify.com/track/4uta0O5DBwacQR7UzCO5Jx"
     },
     {
       "album": {
@@ -2566,7 +2704,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-12",
+      "date_removed": null,
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
@@ -2638,7 +2776,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 237000,
       "name": "Freddy",
       "url": "https://open.spotify.com/track/4NCukrisJy9l4ZMDEkBnn2"
@@ -2970,7 +3108,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 177989,
       "name": "GOOD SO BAD",
       "url": "https://open.spotify.com/track/28HVi8XtrlKauIVUxSlc6q"
@@ -3296,7 +3434,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 138293,
       "name": "Hit Me Up (feat. MINGI of ATEEZ)",
       "url": "https://open.spotify.com/track/5ODRxiap0pEztir1hOEklY"
@@ -3368,7 +3506,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 194090,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/03S9ATtLIBqudkXFQsajpQ"
@@ -3450,6 +3588,28 @@
       "duration_ms": 177853,
       "name": "How Time Flies (feat. BIGONE & Dive)",
       "url": "https://open.spotify.com/track/033StetXuelKeMeQ7JWEgI"
+    },
+    {
+      "album": {
+        "name": "How to use love (Feat. Grizzly)",
+        "url": "https://open.spotify.com/album/2cekYml9rXinoNuTRoeU9X"
+      },
+      "artists": [
+        {
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+        },
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223733,
+      "name": "How to use love (Feat. Grizzly)",
+      "url": "https://open.spotify.com/track/15YKIARKDJg9oQM7aDTAc7"
     },
     {
       "album": {
@@ -3559,6 +3719,24 @@
     },
     {
       "album": {
+        "name": "I gotta go",
+        "url": "https://open.spotify.com/album/0EeA7tMBeRvU06rYVCejpP"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "I gotta go",
+      "url": "https://open.spotify.com/track/4abT9Sa2SU1zsK2dd2Ez9r"
+    },
+    {
+      "album": {
         "name": "I KNOW YOU LOVE ME (Feat. Skinny Brown)",
         "url": "https://open.spotify.com/album/2DVTijBdYYT8c5EARXNWln"
       },
@@ -3614,7 +3792,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 180666,
       "name": "i Loved Him (feat. NO:EL)",
       "url": "https://open.spotify.com/track/2z4OltE3sBCd481f3nkp3F"
@@ -3676,7 +3854,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 179760,
       "name": "ICY ON MY NECK",
       "url": "https://open.spotify.com/track/2qPctjZaZrvUerBoLVs7b1"
@@ -3730,7 +3908,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 187280,
       "name": "illang (Firework)",
       "url": "https://open.spotify.com/track/07FyMbh9c7ciBLBZTEE7vm"
@@ -3748,7 +3926,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 182332,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk"
@@ -4147,6 +4325,24 @@
     },
     {
       "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168358,
+      "name": "LIKE THAT",
+      "url": "https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc"
+    },
+    {
+      "album": {
         "name": "Like We Turn the Pages",
         "url": "https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE"
       },
@@ -4292,7 +4488,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 181560,
       "name": "LOVE ATTACK",
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
@@ -5185,6 +5381,24 @@
     },
     {
       "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/3qTZv6tNZRR4NwCzLx5sQw"
+      },
+      "artists": [
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/4u8tjYQmrvMRzv70oZiUSa"
+    },
+    {
+      "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/3xlPKqOeXG7pSvk8tA6wco"
       },
@@ -5660,7 +5874,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 212062,
       "name": "One Kiss",
       "url": "https://open.spotify.com/track/5xKO9fHKGG5qzTCKuc9OGK"
@@ -5780,7 +5994,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 146253,
       "name": "Orange Clouds (feat. JUNNY)",
       "url": "https://open.spotify.com/track/05FOn52HhxW7HsWUx0b0Lp"
@@ -6196,7 +6410,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 154746,
       "name": "POSE!",
       "url": "https://open.spotify.com/track/3go5iX7Ad1IqlBXrIzYexX"
@@ -6312,7 +6526,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 152773,
       "name": "Q&A (Feat. g0nny)",
       "url": "https://open.spotify.com/track/1yefeOUbRIYxX7CNovxHMd"
@@ -6442,6 +6656,24 @@
       "duration_ms": 187675,
       "name": "Ready Set Go",
       "url": "https://open.spotify.com/track/6Nuc9zMEzHfhzt8oIcqOIA"
+    },
+    {
+      "album": {
+        "name": "Of All We Have Lost",
+        "url": "https://open.spotify.com/album/2zMVcW7OkakoPRTiuiOvy9"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184038,
+      "name": "remembrance candy",
+      "url": "https://open.spotify.com/track/1WV46UVrf9vLj9rpl6Ebf1"
     },
     {
       "album": {
@@ -6822,7 +7054,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 205791,
       "name": "S/S",
       "url": "https://open.spotify.com/track/4fh1IH643m7h3rYt9YJvyT"
@@ -7199,6 +7431,42 @@
     },
     {
       "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170356,
+      "name": "SHEESH",
+      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
+    },
+    {
+      "album": {
+        "name": "HERON",
+        "url": "https://open.spotify.com/album/6jAV88prHJITjKOHelr59c"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161506,
+      "name": "Shipwreck",
+      "url": "https://open.spotify.com/track/37PU3mKG2ncEMNIWqmFo6n"
+    },
+    {
+      "album": {
         "name": "Kep1going On",
         "url": "https://open.spotify.com/album/1z66tzLXZ5nI9EsJ79xSez"
       },
@@ -7316,6 +7584,24 @@
       "duration_ms": 197480,
       "name": "Sketch",
       "url": "https://open.spotify.com/track/2HXdn9Zi25cfTyjaSxoomQ"
+    },
+    {
+      "album": {
+        "name": "sky, hands, balloons",
+        "url": "https://open.spotify.com/album/4b4SVwMTIdlAvrqFJQ9iW0"
+      },
+      "artists": [
+        {
+          "name": "Cloud koh",
+          "url": "https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214756,
+      "name": "sky, hands, balloons",
+      "url": "https://open.spotify.com/track/2fOdh9tzibnea3DFJViQ7d"
     },
     {
       "album": {
@@ -7696,7 +7982,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 174676,
       "name": "Still LOVE",
       "url": "https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp"
@@ -7780,6 +8066,42 @@
       "duration_ms": 169080,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/3lWNov4VlzcBZPLRgYFcHZ"
+    },
+    {
+      "album": {
+        "name": "X-82",
+        "url": "https://open.spotify.com/album/0thPijogV4uT1nFUz0Nv5A"
+      },
+      "artists": [
+        {
+          "name": "82MAJOR",
+          "url": "https://open.spotify.com/artist/1wDstpO8XQNU6GV0S92663"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153720,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1opdEnVoRU71lZHyjgNMGJ"
+    },
+    {
+      "album": {
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246668,
+      "name": "Stuck In The Middle (7 ver.)",
+      "url": "https://open.spotify.com/track/3RbulqgQKpX4OvvESysMI1"
     },
     {
       "album": {
@@ -8170,7 +8492,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 185120,
       "name": "The flowers swayed",
       "url": "https://open.spotify.com/track/6DXI6JoLYLoN1aA4HRrRHv"
@@ -8254,6 +8576,24 @@
       "duration_ms": 194426,
       "name": "The Most",
       "url": "https://open.spotify.com/track/2zKE0UQw17joNPV8Miji2o"
+    },
+    {
+      "album": {
+        "name": "RE:D",
+        "url": "https://open.spotify.com/album/2SY05Z5Kx3BiMdCJNu3Jzi"
+      },
+      "artists": [
+        {
+          "name": "MGFF",
+          "url": "https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349333,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/7yPo1xr7BbX5XL2emnL1mK"
     },
     {
       "album": {
@@ -8409,6 +8749,24 @@
     },
     {
       "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/3BatyD1PQYv2rkHjUTC68T"
+      },
+      "artists": [
+        {
+          "name": "Ellui",
+          "url": "https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159193,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/2kjAFB7VptwuosL0WSmPV2"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/38BploYaSSuEFrk7974uX1"
       },
@@ -8518,6 +8876,24 @@
       "duration_ms": 168600,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6M9a3NEjOsAOm0IpuerCrC"
+    },
+    {
+      "album": {
+        "name": "VINYARD",
+        "url": "https://open.spotify.com/album/5fhKtZk3goKK4iTa7Nn3Gm"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207405,
+      "name": "TONIGHT",
+      "url": "https://open.spotify.com/track/2Y3U65MS3B7srxAVR7tBSm"
     },
     {
       "album": {
@@ -8906,7 +9282,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 231813,
       "name": "Villain",
       "url": "https://open.spotify.com/track/5k5npy7HGpTbzKHhu958ZJ"
@@ -9069,6 +9445,24 @@
     },
     {
       "album": {
+        "name": "SAY MY NAME",
+        "url": "https://open.spotify.com/album/2AUzmjgTKJtn4KvB35yyS7"
+      },
+      "artists": [
+        {
+          "name": "SAY MY NAME",
+          "url": "https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156173,
+      "name": "WaveWay",
+      "url": "https://open.spotify.com/track/2xc4Lw2KPK98ZgUfHh3o1D"
+    },
+    {
+      "album": {
         "name": "W.A.Y",
         "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
       },
@@ -9105,6 +9499,40 @@
     },
     {
       "album": {
+        "name": "Year 1 : We Still Loading",
+        "url": "https://open.spotify.com/album/1fkW1yc8kn27ROj1s6ebE1"
+      },
+      "artists": [
+        {
+          "name": "YOUNG POSSE",
+          "url": "https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff"
+        },
+        {
+          "name": "Los",
+          "url": "https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD"
+        },
+        {
+          "name": "Rick bridges",
+          "url": "https://open.spotify.com/artist/5TmTQv1VaF0VDAmC9eAQ2m"
+        },
+        {
+          "name": "northfacegawd",
+          "url": "https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1"
+        },
+        {
+          "name": "DJ SKY",
+          "url": "https://open.spotify.com/artist/77kV2wcADwv2t1lpV2BSSy"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276026,
+      "name": "We Still Loading (FEAT. Los, Rick Bridges, Northfacegawd, DJ SKY)",
+      "url": "https://open.spotify.com/track/0AIHkhsDd5dtHdQi4sH0E1"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/3lQ8UdMwq61T7VqevZsxoF"
       },
@@ -9116,10 +9544,28 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 175133,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/4V5dstlpmgVoDRahjKdcfM"
+    },
+    {
+      "album": {
+        "name": "Dear Hyeri, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/27qLyaon8bQXrQb4mO6Dy2"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/0CN7xUFQbPRzffogC4FgBR"
     },
     {
       "album": {
@@ -9210,7 +9656,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 181973,
       "name": "Why Not?",
       "url": "https://open.spotify.com/track/1wp4gFHcCTxn9vLddtFIiI"

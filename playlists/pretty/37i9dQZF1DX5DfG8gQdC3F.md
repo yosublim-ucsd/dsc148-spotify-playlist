@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from ROSÉ & Bruno Mars, Majid Jordan, Noeline Hofmann, Morgan Wallen and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,334 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,356 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 61 | [Worth The Double](https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Worth The Double](https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d) | 2:51 |
 | 62 | [Fugitive Summer](https://open.spotify.com/track/2q0iZAzSEPeD0YghkHYrdu) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Fate & Alcohol](https://open.spotify.com/album/6wVB0HHN4WuzbsMHAnfMIo) | 3:56 |
 | 63 | [Thought I Was Dead](https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Thought I Was Dead](https://open.spotify.com/album/4IUCrwXucmLoVO6geJ3Vjr) | 2:28 |
-| 64 | [Hotel Bible](https://open.spotify.com/track/3UAkWAnbPGJgIXG1OsQHlD) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Hotel Bible](https://open.spotify.com/album/6KdpUp1ly6HoraKohvN5ks) | 2:54 |
+| 64 | [Hotel Bible](https://open.spotify.com/track/3UAkWAnbPGJgIXG1OsQHlD) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Hotel Bible](https://open.spotify.com/album/6KdpUp1ly6HoraKohvN5ks) | 2:53 |
 | 65 | [Route 66](https://open.spotify.com/track/0c4JEW8BzPQR28UjisvEMf) | [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Irman](https://open.spotify.com/artist/6PekRKJMJZzbPCcFhjUyH1) | [If the Sun Had a Dark Side](https://open.spotify.com/album/4jAKk2fxLBXxHnaXs6oLwx) | 2:31 |
 | 66 | [Muse](https://open.spotify.com/track/7x8sZN055fsMdU8ymA92UI) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Muse](https://open.spotify.com/album/176tuOtt0Z7IIt3QTqGzVF) | 2:24 |
 | 67 | [You Ain't The Only One](https://open.spotify.com/track/2PYmLWYQKcyiDoduL1ewVO) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [You Ain't The Only One](https://open.spotify.com/album/2exj3QEbmM141MCEpjFb1q) | 2:48 |

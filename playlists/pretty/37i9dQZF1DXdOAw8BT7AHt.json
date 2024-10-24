@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Drug Church",
-  "num_followers": 467715,
+  "num_followers": 467724,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -349,7 +349,7 @@
         }
       ],
       "duration_ms": 159414,
-      "name": "Love & Co",
+      "name": "Love & Co.",
       "url": "https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q"
     },
     {
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Waiting Room",
-        "url": "https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 194833,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "HEAVY JELLY",
         "url": "https://open.spotify.com/album/2oSZ420w1kkEdXMaDaNEbt"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 164773,
       "name": "Isaac Is Typing\u2026",
       "url": "https://open.spotify.com/track/0mIekgyAGvn5vzt0wns4iP"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Waiting Room",
+        "url": "https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 194833,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Nobody\u2019s",
-        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 135897,
-      "name": "Nobody\u2019s",
-      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "A White Horse Covered In Blood",
         "url": "https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 198533,
       "name": "A White Horse Covered In Blood",
       "url": "https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Nobody\u2019s",
+        "url": "https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 135897,
+      "name": "Nobody\u2019s",
+      "url": "https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Dirty Mirror Selfie / Where Blue Light Blooms",
-        "url": "https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4"
-      },
-      "artists": [
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        }
-      ],
-      "duration_ms": 217765,
-      "name": "Dirty Mirror Selfie",
-      "url": "https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Enmore",
         "url": "https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 162182,
       "name": "Enmore",
       "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Dirty Mirror Selfie / Where Blue Light Blooms",
+        "url": "https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "duration_ms": 217765,
+      "name": "Dirty Mirror Selfie",
+      "url": "https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Mob DLA",
-        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
-      },
-      "artists": [
-        {
-          "name": "High Vis",
-          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
-        }
-      ],
-      "duration_ms": 149397,
-      "name": "Mob DLA",
-      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "1800-PAINLESS",
         "url": "https://open.spotify.com/album/2LO9zLVebJsy82VgafSc0o"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 203076,
       "name": "1800-PAINLESS",
       "url": "https://open.spotify.com/track/7yregBQ1r9Nr17IDWOIizd"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Mob DLA",
+        "url": "https://open.spotify.com/album/5e13yCtWWb0HlXbExrGWYw"
+      },
+      "artists": [
+        {
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+        }
+      ],
+      "duration_ms": 149397,
+      "name": "Mob DLA",
+      "url": "https://open.spotify.com/track/2aeOHlYvx9IIdWmyTiQelk"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Wretched Trajectory",
-        "url": "https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y"
-      },
-      "artists": [
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        }
-      ],
-      "duration_ms": 166050,
-      "name": "Wretched Trajectory",
-      "url": "https://open.spotify.com/track/607oeYyNz1K55WF6foHzus"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Gift Horse",
         "url": "https://open.spotify.com/album/2w0nLJDVilZhqTctLLem4j"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/1OSRQMJKlpIjpy3UvP9KMu"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Wretched Trajectory",
+        "url": "https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "duration_ms": 166050,
+      "name": "Wretched Trajectory",
+      "url": "https://open.spotify.com/track/607oeYyNz1K55WF6foHzus"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "wallflower",
-        "url": "https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt"
-      },
-      "artists": [
-        {
-          "name": "Calling All Captains",
-          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "wallflower",
-      "url": "https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK"
       },
@@ -1231,6 +1215,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "wallflower",
+        "url": "https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt"
+      },
+      "artists": [
+        {
+          "name": "Calling All Captains",
+          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "wallflower",
+      "url": "https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "MALICE",
         "url": "https://open.spotify.com/album/4YpGYKZv971cBElaH8Qw11"
       },
@@ -1243,26 +1243,6 @@
       "duration_ms": 175579,
       "name": "MALICE",
       "url": "https://open.spotify.com/track/2v6pc3GdlJvYQobeZKjiKj"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Walk Alone",
-        "url": "https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        },
-        {
-          "name": "Matty Mullins",
-          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
-        }
-      ],
-      "duration_ms": 195608,
-      "name": "Walk Alone",
-      "url": "https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1295,6 +1275,26 @@
       "duration_ms": 174521,
       "name": "worlds greatest emoter",
       "url": "https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Walk Alone",
+        "url": "https://open.spotify.com/album/0Cpkr1J8G7a1ntNd1ZLdyg"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        },
+        {
+          "name": "Matty Mullins",
+          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
+        }
+      ],
+      "duration_ms": 195608,
+      "name": "Walk Alone",
+      "url": "https://open.spotify.com/track/6hpIW8zOcktH6AbRuDWwjr"
     },
     {
       "added_at": "2024-10-10 17:06:38",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo",
-  "num_followers": 394754,
+  "num_followers": 394797,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Lluvia y Samba",
-        "url": "https://open.spotify.com/album/3FyrRtHlDXhkmwT8d5KScA"
-      },
-      "artists": [
-        {
-          "name": "Elvis Crespo",
-          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        },
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Lluvia y Samba",
-      "url": "https://open.spotify.com/track/1AV9KQLsAUWlUhCxbExYxz"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Back In Town",
         "url": "https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep"
       },
@@ -1207,6 +1183,22 @@
       "duration_ms": 258746,
       "name": "Jilila Kimbolo",
       "url": "https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Vivo De Tus Recuerdos",
+        "url": "https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf"
+      },
+      "artists": [
+        {
+          "name": "Nelson Arrieta",
+          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
+        }
+      ],
+      "duration_ms": 198964,
+      "name": "Vivo De Tus Recuerdos",
+      "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1227,18 +1219,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Vivo De Tus Recuerdos",
-        "url": "https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf"
+        "name": "Lluvia y Samba",
+        "url": "https://open.spotify.com/album/3FyrRtHlDXhkmwT8d5KScA"
       },
       "artists": [
         {
-          "name": "Nelson Arrieta",
-          "url": "https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF"
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
         }
       ],
-      "duration_ms": 198964,
-      "name": "Vivo De Tus Recuerdos",
-      "url": "https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw"
+      "duration_ms": 227546,
+      "name": "Lluvia y Samba",
+      "url": "https://open.spotify.com/track/1AV9KQLsAUWlUhCxbExYxz"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "El Hombre Divertido",
-        "url": "https://open.spotify.com/album/0F92RzCPf0ERu9Y4nxiqCf"
-      },
-      "artists": [
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 205814,
-      "name": "El Hombre Divertido",
-      "url": "https://open.spotify.com/track/5YJA3zbeKSvMhnqvvCNP4L"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "El Pich\u00f3n",
         "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 171200,
       "name": "El Bote",
       "url": "https://open.spotify.com/track/6wNchNOFCqymfejC9So4d1"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "El Hombre Divertido",
+        "url": "https://open.spotify.com/album/0F92RzCPf0ERu9Y4nxiqCf"
+      },
+      "artists": [
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 205814,
+      "name": "El Hombre Divertido",
+      "url": "https://open.spotify.com/track/5YJA3zbeKSvMhnqvvCNP4L"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Que No Se Acabe",
+        "url": "https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn"
+      },
+      "artists": [
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
+        },
+        {
+          "name": "Urbanda",
+          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
+        }
+      ],
+      "duration_ms": 198295,
+      "name": "Que No Se Acabe",
+      "url": "https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "15 Exitos De Pura Candela",
         "url": "https://open.spotify.com/album/34s5SEeyOMXc9MAy3jLGo6"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 244000,
       "name": "Una Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Que No Se Acabe",
-        "url": "https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn"
-      },
-      "artists": [
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
-        },
-        {
-          "name": "Urbanda",
-          "url": "https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov"
-        }
-      ],
-      "duration_ms": 198295,
-      "name": "Que No Se Acabe",
-      "url": "https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i"
     },
     {
       "added_at": "2024-08-23 04:00:00",

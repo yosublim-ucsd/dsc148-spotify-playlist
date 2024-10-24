@@ -4,7 +4,7 @@
 
 > Rock, indie, e punk dall'Italia 🎸 Santi Francesi in cover
 
-1,135 songs - 2 day 14 hr 31 min
+1,136 songs - 2 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,6 +646,7 @@
 | [Mi consuma](https://open.spotify.com/track/2iy3ER68HZMrBA8hVuFLcz) | [Tueri Damasco](https://open.spotify.com/artist/7v7fysSXW70UvLEJEUSohB) | [Mi consuma](https://open.spotify.com/album/4DgUhoesj1LSg5D6ohNTuu) | 2:38 | 2024-02-22 | 2024-03-22 |
 | [Mi Dai Fastidio](https://open.spotify.com/track/6omYaEUDoM1x4IOWk3jLHa) | [Red Room](https://open.spotify.com/artist/23EkTjOVuZv8jya1fjV4Th) | [Mi Dai Fastidio](https://open.spotify.com/album/6Et8ZuL26YLkiYAozpBUym) | 2:08 | 2024-06-27 | 2024-07-05 |
 | [MI FAI VENIRE](https://open.spotify.com/track/268VnTQdISBVKmKhplrCUS) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [MI FAI VENIRE](https://open.spotify.com/album/5wHd3qad8Ht7zOSgHI7zOu) | 2:34 | 2023-04-06 | 2023-05-19 |
+| [Mi manchi per tutto il tempo in cui mi sei mancata](https://open.spotify.com/track/13jMxAHQcOhboih1C1GdVM) | [Anna Bielli](https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo) | [Mi manchi per tutto il tempo in cui mi sei mancata](https://open.spotify.com/album/3vWmircUhfW8wSLPqBycLg) | 4:29 | 2024-10-23 |  |
 | [Mi piace quello che è vero](https://open.spotify.com/track/7rEnQc2M6jzto3d6ijNUUz) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Garage Pordenone](https://open.spotify.com/album/2YsXkYTQUjxNhR4XcU386t) | 3:25 | 2024-04-11 |  |
 | [Milano ad Agosto](https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v) | [Diorama](https://open.spotify.com/artist/1WdVEvZBCPA8BLV1WWWKlk), [I Melodrama](https://open.spotify.com/artist/59fYCgvaHksiQjZqKuidks) | [Milano ad Agosto](https://open.spotify.com/album/6z9FY2DfLruOZsiJIQil4l) | 3:40 | 2024-08-06 |  |
 | [Milano sei tossica](https://open.spotify.com/track/1jxdBO6W0M7L9AcGfM5ZeL) | [Kate Klein](https://open.spotify.com/artist/67DWV4ny2wOneRM4QoLfLO) | [Milano sei tossica](https://open.spotify.com/album/06dgmOUyGPUAgt1dvcdzZn) | 2:08 | 2023-05-11 | 2023-06-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1aGNMszxAH7iQy0tq9KDJX.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 24 songs - 1 hr 29 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 25 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,5 +32,6 @@ pretty - [cumulative](/playlists/cumulative/1aGNMszxAH7iQy0tq9KDJX.md) - [plain]
 | 22 | [Bulletproof Heart](https://open.spotify.com/track/2EGF4JrisrJ4D4HOdTyYEO) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:56 |
 | 23 | [Alien Boy](https://open.spotify.com/track/58GydyrmBCL2dSAQWbTDHE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:44 |
 | 24 | [Out of Ordinary](https://open.spotify.com/track/7cXgeethsda8KnjsfT8kGE) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 3:00 |
+| 25 | [Tattoo](https://open.spotify.com/track/66H4tD2U1SNgIRSD19m5jv) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [A Different Kind Of Truth](https://open.spotify.com/album/5ydOKnIrXsv7AziaSpRzZU) | 4:43 |
 
-Snapshot ID: `AAAAGvRmMjzGoxW28eBIWCMy0lVK/ZRg`
+Snapshot ID: `AAAAGxwPrJ1f3E6O51ZdgjvCY3VwzNDg`

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: AKRIILA, TAICHU",
-  "num_followers": 76700,
+  "num_followers": 76721,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Chakalicious",
-        "url": "https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Chakalicious",
-      "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 195163,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Chakalicious",
+        "url": "https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Chakalicious",
+      "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "1 chaka al a\u00f1o",
-        "url": "https://open.spotify.com/album/3T8geLwGkLN61CaKF6wkye"
+        "name": "Imposible",
+        "url": "https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6"
       },
       "artists": [
         {
-          "name": "Daniela BB",
-          "url": "https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 122737,
-      "name": "1 chaka al a\u00f1o",
-      "url": "https://open.spotify.com/track/6hWK8xla2aByPoDYWCpbzE"
+      "duration_ms": 187411,
+      "name": "Imposible",
+      "url": "https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1171,18 +1171,38 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Imposible",
-        "url": "https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6"
+        "name": "MAMi QU\u00c9 FUE?",
+        "url": "https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
         }
       ],
-      "duration_ms": 187411,
-      "name": "Imposible",
-      "url": "https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX"
+      "duration_ms": 167814,
+      "name": "MAMi QU\u00c9 FUE?",
+      "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "1 chaka al a\u00f1o",
+        "url": "https://open.spotify.com/album/3T8geLwGkLN61CaKF6wkye"
+      },
+      "artists": [
+        {
+          "name": "Daniela BB",
+          "url": "https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf"
+        }
+      ],
+      "duration_ms": 122737,
+      "name": "1 chaka al a\u00f1o",
+      "url": "https://open.spotify.com/track/6hWK8xla2aByPoDYWCpbzE"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1203,26 +1223,6 @@
       "duration_ms": 197312,
       "name": "Codigo Secreto",
       "url": "https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "MAMi QU\u00c9 FUE?",
-        "url": "https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS"
-      },
-      "artists": [
-        {
-          "name": "Maxiolly",
-          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 167814,
-      "name": "MAMi QU\u00c9 FUE?",
-      "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

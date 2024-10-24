@@ -10199,6 +10199,24 @@
     },
     {
       "album": {
+        "name": "Shoulders of Giants",
+        "url": "https://open.spotify.com/album/1xFA74jZYSwkUdiyornwOh"
+      },
+      "artists": [
+        {
+          "name": "Halvorsen",
+          "url": "https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138800,
+      "name": "Shoulders of Giants",
+      "url": "https://open.spotify.com/track/5X9Sq58J7nOn5HWSD1cPuz"
+    },
+    {
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8"
       },

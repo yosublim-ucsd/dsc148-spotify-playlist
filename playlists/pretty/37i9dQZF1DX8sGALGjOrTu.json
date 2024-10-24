@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 492486,
+  "num_followers": 492615,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "In Keeping Secrets Of Silent Earth: 3",
-        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "A Favor House Atlantic",
-      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "They're Only Chasing Safety",
         "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 262573,
       "name": "Reinventing Your Exit",
       "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "In Keeping Secrets Of Silent Earth: 3",
+        "url": "https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "A Favor House Atlantic",
+      "url": "https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "Define The Great Line",
+        "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 242413,
+      "name": "Writing On The Walls",
+      "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "Try This With Your Eyes Closed",
         "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 209746,
       "name": "My Darkest Hour",
       "url": "https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Define The Great Line",
-        "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 242413,
-      "name": "Writing On The Walls",
-      "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "What It Is To Burn",
-        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
-      },
-      "artists": [
-        {
-          "name": "Finch",
-          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Letters To You",
-      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "\"Watch out!\"",
         "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "On Frail Wings Of Vanity And Wax",
-        "url": "https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa"
+        "name": "What It Is To Burn",
+        "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
       },
       "artists": [
         {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+          "name": "Finch",
+          "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 185333,
-      "name": "Ambrosia",
-      "url": "https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql"
+      "duration_ms": 199600,
+      "name": "Letters To You",
+      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -767,6 +751,22 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "On Frail Wings Of Vanity And Wax",
+        "url": "https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Ambrosia",
+      "url": "https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "The Weak's End",
         "url": "https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a"
       },
@@ -779,38 +779,6 @@
       "duration_ms": 203706,
       "name": "Walls",
       "url": "https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "His Last Walk",
-        "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
-      },
-      "artists": [
-        {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Guys Like You Make Us Look Bad",
-      "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Juturna",
-        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Act Appalled",
-      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -831,6 +799,22 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "His Last Walk",
+        "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Guys Like You Make Us Look Bad",
+      "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "Bone Palace Ballet: Grand Coda",
         "url": "https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 208960,
       "name": "Bulls Make Money, Bears Make Money, Pigs Get Slaughtered",
       "url": "https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Juturna",
+        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Act Appalled",
+      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Between the Heart and the Synapse",
-        "url": "https://open.spotify.com/album/1M5DYiubn2ko8OpUs0lhEt"
-      },
-      "artists": [
-        {
-          "name": "The Receiving End Of Sirens",
-          "url": "https://open.spotify.com/artist/57fbnHozNJMl16yNzt4agV"
-        }
-      ],
-      "duration_ms": 318120,
-      "name": "Planning a Prison Break",
-      "url": "https://open.spotify.com/track/02bp2Aq5cFTUfDnOYJxuuL"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/62bbJz79Ph3Mx6hsvhg5ba"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 194333,
       "name": "Smile In Your Sleep",
       "url": "https://open.spotify.com/track/0ZPQSy5xo686GSo8ia4gaj"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Between the Heart and the Synapse",
+        "url": "https://open.spotify.com/album/1M5DYiubn2ko8OpUs0lhEt"
+      },
+      "artists": [
+        {
+          "name": "The Receiving End Of Sirens",
+          "url": "https://open.spotify.com/artist/57fbnHozNJMl16yNzt4agV"
+        }
+      ],
+      "duration_ms": 318120,
+      "name": "Planning a Prison Break",
+      "url": "https://open.spotify.com/track/02bp2Aq5cFTUfDnOYJxuuL"
     }
   ],
   "unique_name": "Chaos Anthems",

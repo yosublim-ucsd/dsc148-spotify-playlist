@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Leo Santana com Ivete Sangalo, Guilherme & Benuto, MC Jacaré e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,945,652 likes - 73 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,945,804 likes - 73 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 14 | [No Me Cansare](https://open.spotify.com/track/6eDU6kAtlOLVEkVu4st1Bt) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [No Me Cansare](https://open.spotify.com/album/2hAx6Exxe0kAI7aNmD7wSJ) | 2:42 |
 | 15 | [\#SV 04 \- Sain / RJ é trincheira](https://open.spotify.com/track/3ZeZ2lv3q4LIA31xgqzsb4) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [MOVIMENTO](https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ) | [\#SV 04 \- Sain / RJ é trincheira](https://open.spotify.com/album/5L7eEh6iVLySr6rh10bSs4) | 1:30 |
 | 16 | [Duas Mulheres](https://open.spotify.com/track/2CcNYXOMvIml8pGwZg2tgY) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Traumas e Vícios](https://open.spotify.com/album/6lUCF0fQNUTnVCdTgF8k7K) | 2:37 |
-| 17 | [Tudo Tão Novo](https://open.spotify.com/track/1bjyTD9tcb2SDKdutqOgBd) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Supernova](https://open.spotify.com/artist/2JWfylcwj7TkalxQYfJWMQ) | [Tudo Tão Novo](https://open.spotify.com/album/1EO9BquiSCsTFPer1tIaqH) | 1:54 |
+| 17 | [Tudo Tão Novo](https://open.spotify.com/track/1bjyTD9tcb2SDKdutqOgBd) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Tudo Tão Novo](https://open.spotify.com/album/1EO9BquiSCsTFPer1tIaqH) | 1:54 |
 | 18 | [Madrugada Fria](https://open.spotify.com/track/5fFoyrxVlz6a9r1NixNvAC) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Madrugada Fria](https://open.spotify.com/album/6yMB38gkNwenRRbxvwrrw3) | 2:22 |
 | 19 | [Linha Na Pipa \- Ao Vivo](https://open.spotify.com/track/6my4h1CUrLD6SmBNdacRjJ) | [João Neto & Frederico](https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W), [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [João Neto & Frederico 25 Anos Ao Vivo](https://open.spotify.com/album/29bXX26W0SaBOt1WNP4FYX) | 2:34 |
 | 20 | [Aconteceu de novo \- Ao vivo](https://open.spotify.com/track/6fEnJiSCx7eMSqNtB5EOuS) | [Munhoz & Mariano](https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN), [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju) | [Aconteceu de novo \(Ao vivo\)](https://open.spotify.com/album/3JdDJI8i8FNv3kFvlydmiP) | 2:51 |

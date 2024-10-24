@@ -2918,6 +2918,28 @@
     {
       "album": {
         "name": "Need You",
+        "url": "https://open.spotify.com/album/3M8NusuFf4YHJ0wiapG3w1"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "N\u00cfKA",
+          "url": "https://open.spotify.com/artist/5H9Gv8Ld3MwtWDm832KCAo"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200525,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/0MmY6ZSNgOHwIp6GGLAgLU"
+    },
+    {
+      "album": {
+        "name": "Need You",
         "url": "https://open.spotify.com/album/6Lquzm7GQd5ChuoSsiKyCs"
       },
       "artists": [
@@ -2932,7 +2954,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 200525,
       "name": "Need You",
       "url": "https://open.spotify.com/track/2ZarrOFUf9kn3MGaCLSQLI"

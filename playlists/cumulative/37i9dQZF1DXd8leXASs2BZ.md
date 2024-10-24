@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Ashley
 
-690 songs - 1 day 7 hr 48 min
+691 songs - 1 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Flex Love](https://open.spotify.com/track/4E62wocpzKuCkMLTbjW3xF) | [WM Loby](https://open.spotify.com/artist/0JOsssGTm0gjg3eN0O1104), [LIL JAP](https://open.spotify.com/artist/6OhIruox52vkpwHbDhGVpd) | [Flex Love](https://open.spotify.com/album/5ujHlUricO9lUPP2k1lWYf) | 3:09 | 2023-12-07 | 2024-02-09 |
 | [Flight mode](https://open.spotify.com/track/532HfsnpcvAbw7wWsYmnzU) | [EAERAN](https://open.spotify.com/artist/0PIWvAQWXVR0ExVTxnZwwK) | [Pr1sm](https://open.spotify.com/album/5pmay4uY1uGKen2YhLT3xJ) | 2:35 | 2024-09-24 | 2024-10-18 |
 | [Flight to Mumbai](https://open.spotify.com/track/7zUSBgmoKetipGxoFcHH9F) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Jeter](https://open.spotify.com/artist/6zqtOVeP8C8LOClejH6BDm), [Y ohtrixpointnever](https://open.spotify.com/artist/4zba7coFdHgCPeGTxZn1LQ) | [Flight to Mumbai](https://open.spotify.com/album/2MlNvI9eRuWneMUEyCxM67) | 2:25 | 2023-12-07 | 2024-01-19 |
+| [Floor 2 stage](https://open.spotify.com/track/2AMGt0vjQWqe3P1190xcxY) | [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI) | [Floor 2 Stage](https://open.spotify.com/album/2Fcw5qRXPSzxBrDOKCVvM6) | 3:12 | 2024-10-23 |  |
 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 | 2023-12-07 | 2024-01-17 |
 | [Flowers](https://open.spotify.com/track/70jIqx9w97Pt2Qn80X0GUI) | [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [Flowers](https://open.spotify.com/album/4QOdy7Cc0qaARmFXK4hceO) | 2:17 | 2024-02-22 | 2024-04-03 |
 | [FLY](https://open.spotify.com/track/5Ahoqsn71dZDbanhtIgBEs) | [LOM](https://open.spotify.com/artist/1EUJrEkPvE0hC3qVhl8FuT) | [FLY](https://open.spotify.com/album/05GfyVLN8MED0p9Wy3VyOz) | 2:55 | 2024-03-26 | 2024-04-24 |
@@ -454,7 +455,7 @@
 | [POINT](https://open.spotify.com/track/6XwQPvMh0tt2jf5SlyHRPk) | [Emma](https://open.spotify.com/artist/4WP818mjaoa459lfiX7yMu) | [POINT](https://open.spotify.com/album/4u9DkLqroWBSRNjbABWSRt) | 1:59 | 2024-05-28 | 2024-07-03 |
 | [Pop it](https://open.spotify.com/track/5ut4vYok16PKYqnlE0wFpH) | [Yvngboi P](https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW), [gerardparman](https://open.spotify.com/artist/4B5nMelhpP2gTR4YwY4FSi), [DNE](https://open.spotify.com/artist/72IcIjVbjE8V3fUDPfkeV3), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [PASSIVE INCOME](https://open.spotify.com/album/5YLv9j3TYKhtAajFqOOMmB) | 3:24 | 2024-02-22 | 2024-03-22 |
 | [Pray For Love Hood](https://open.spotify.com/track/2A0ZTQ1mWESJcAKd3hjdRM) | [S9UALL](https://open.spotify.com/artist/2UB8s2QYaEKmju2NRNqPMC), [KaworuMF](https://open.spotify.com/artist/70k4ZTwNeIh2fhtQQUGOAS) | [Pray For Love Hood](https://open.spotify.com/album/7jHbnEiRCkNqTJynquIUzt) | 3:08 | 2024-02-22 | 2024-03-22 |
-| [Present](https://open.spotify.com/track/3T90KH5eZibeXaZbPd6aso) | [whimsyboy](https://open.spotify.com/artist/2CX0MgEcYXDiBTBWjPnFp8) | [Present](https://open.spotify.com/album/6C2ndm5RsqrXlwltKMMWcn) | 2:54 | 2024-08-20 |  |
+| [Present](https://open.spotify.com/track/3T90KH5eZibeXaZbPd6aso) | [whimsyboy](https://open.spotify.com/artist/2CX0MgEcYXDiBTBWjPnFp8) | [Present](https://open.spotify.com/album/6C2ndm5RsqrXlwltKMMWcn) | 2:54 | 2024-08-20 | 2024-10-24 |
 | [PRIDE](https://open.spotify.com/track/5iEVrkCrTfSfGUtF0SQlh3) | [JAKEN](https://open.spotify.com/artist/3jQ0nDLHGoguLYxep5f9wt) | [PRIDE](https://open.spotify.com/album/5k0nELnETzmKXNnlo74HaB) | 3:38 | 2024-05-09 |  |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-12-07 | 2024-01-19 |
 | [promise](https://open.spotify.com/track/4j2Z8fqjloC980PgxUTT0b) | [MARSBOY](https://open.spotify.com/artist/6o3a9ssBxskS6Tw0VVxEFe), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [promise](https://open.spotify.com/album/7lqYTFsnQZyr0QARHeAPAj) | 1:50 | 2024-04-16 | 2024-05-29 |

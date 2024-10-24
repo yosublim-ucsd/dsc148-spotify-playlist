@@ -1219,6 +1219,28 @@
     },
     {
       "album": {
+        "name": "META MIXTAPE",
+        "url": "https://open.spotify.com/album/2CsZ4OSOM32Dplwhn9yXuQ"
+      },
+      "artists": [
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
+        },
+        {
+          "name": "Shao Lin",
+          "url": "https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219425,
+      "name": "EA",
+      "url": "https://open.spotify.com/track/4eqz6LHHtgGanz0V91rlLN"
+    },
+    {
+      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/0hfsRbEdvwv69Qf5ynzFpZ"
       },
@@ -2142,7 +2164,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 159953,
       "name": "Letter X",
       "url": "https://open.spotify.com/track/1eeDm7r6Q0oGhpu9KlVofe"

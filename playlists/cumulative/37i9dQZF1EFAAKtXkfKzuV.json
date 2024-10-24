@@ -229,6 +229,32 @@
     },
     {
       "album": {
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/2DOtUcaMZeiUkQ1qB5nDBb"
+      },
+      "artists": [
+        {
+          "name": "NLSN",
+          "url": "https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk"
+        },
+        {
+          "name": "JEMKA",
+          "url": "https://open.spotify.com/artist/5eeQYpsEkVTJCXPZnp5gTt"
+        },
+        {
+          "name": "RED",
+          "url": "https://open.spotify.com/artist/6UZK9xlpTAM8dUAiB2Y42b"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134285,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/1CqdtosAf3DaK6HWbee2JX"
+    },
+    {
+      "album": {
         "name": "Nico Santos",
         "url": "https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Najlepsze polskie piosenki na czasie. Cover: Lotta, Vixen",
-  "num_followers": 242399,
+  "num_followers": 242388,
   "original_name": "Polskie hity",
   "owner": {
     "name": "Spotify",
@@ -734,6 +734,10 @@
         {
           "name": "Sylwia Grzeszczak",
           "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
         }
       ],
       "duration_ms": 164117,

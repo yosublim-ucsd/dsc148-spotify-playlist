@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 506220,
+  "num_followers": 506417,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/6fsPFECJJpDQQpbh1mYtwu"
       },
@@ -1399,26 +1419,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "No Bad Vibes",
-        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        }
-      ],
-      "duration_ms": 162100,
-      "name": "No Bad Vibes",
-      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Peperuke (feat. Nes Mburu)",
         "url": "https://open.spotify.com/album/3PNSiqqwzdFfy1U5Xvkqc0"
       },
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Born In Blue",
-        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
-      },
-      "artists": [
-        {
-          "name": "Chambord",
-          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
-        },
-        {
-          "name": "Jaguar Jaguar",
-          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
-        }
-      ],
-      "duration_ms": 290737,
-      "name": "Born In Blue",
-      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Closer (feat. Bantu)",
         "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
       },
@@ -1503,42 +1483,22 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "soso (JOSEPH Remix)",
-        "url": "https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc"
+        "name": "Born In Blue",
+        "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Chambord",
+          "url": "https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ"
         },
         {
-          "name": "JOSEPH (CH)",
-          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
         }
       ],
-      "duration_ms": 291500,
-      "name": "soso - JOSEPH Remix",
-      "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "The Echo",
-        "url": "https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS"
-      },
-      "artists": [
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        },
-        {
-          "name": "The Element MT",
-          "url": "https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi"
-        }
-      ],
-      "duration_ms": 270083,
-      "name": "The Echo",
-      "url": "https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf"
+      "duration_ms": 290737,
+      "name": "Born In Blue",
+      "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1563,6 +1523,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "soso (JOSEPH Remix)",
+        "url": "https://open.spotify.com/album/2fVjZ6CbrGaZVMYXXjDjqc"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "JOSEPH (CH)",
+          "url": "https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "soso - JOSEPH Remix",
+      "url": "https://open.spotify.com/track/7aqQC9GAOSSODVk0oKJjLZ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/4Fyza19j2d7Yb3aRICfX1q"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 333658,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/1LvG5zrLHfYziFPjaNGpyw"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Echo",
+        "url": "https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "The Element MT",
+          "url": "https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi"
+        }
+      ],
+      "duration_ms": 270083,
+      "name": "The Echo",
+      "url": "https://open.spotify.com/track/0LaJAP7IkBKdGZwpnIOjIf"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Love You Got",
-        "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
       },
       "artists": [
         {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
         }
       ],
-      "duration_ms": 273600,
-      "name": "Love You Got",
-      "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
+      "duration_ms": 277567,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Asa",
-        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
+        "name": "Love You Got",
+        "url": "https://open.spotify.com/album/4JBhIRt38otXkigmi7w8YG"
       },
       "artists": [
         {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
         }
       ],
-      "duration_ms": 277567,
-      "name": "Asa",
-      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
+      "duration_ms": 273600,
+      "name": "Love You Got",
+      "url": "https://open.spotify.com/track/6Fn0PW0rmdTQ3jbpynyGIu"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2027,26 +2027,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Mogolu (Major Lazer Remix)",
-        "url": "https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK"
-      },
-      "artists": [
-        {
-          "name": "Amadou & Mariam",
-          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        }
-      ],
-      "duration_ms": 283278,
-      "name": "Mogolu - Major Lazer Remix",
-      "url": "https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Osama (Claptone Remix)",
         "url": "https://open.spotify.com/album/7c9uVaoqvliWaTRFRPwMYN"
       },
@@ -2071,6 +2051,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Mogolu (Major Lazer Remix)",
+        "url": "https://open.spotify.com/album/2m6JmTaWW6qYJbStQtIBPK"
+      },
+      "artists": [
+        {
+          "name": "Amadou & Mariam",
+          "url": "https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        }
+      ],
+      "duration_ms": 283278,
+      "name": "Mogolu - Major Lazer Remix",
+      "url": "https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33"
       },
@@ -2083,30 +2083,6 @@
       "duration_ms": 293793,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Anywhere",
-        "url": "https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "ChopLife SoundSystem",
-          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 146776,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/3qSeBxnHuBGBOi89SFb6Tf"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2155,6 +2131,30 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Anywhere",
+        "url": "https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "ChopLife SoundSystem",
+          "url": "https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 146776,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/3qSeBxnHuBGBOi89SFb6Tf"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Midnight Train",
         "url": "https://open.spotify.com/album/5dEmfqNAtmbDmH1op87pEM"
       },
@@ -2199,26 +2199,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Seve 2.0 (Luch Rework)",
-        "url": "https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s"
-      },
-      "artists": [
-        {
-          "name": "Tez Cadey",
-          "url": "https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb"
-        },
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        }
-      ],
-      "duration_ms": 396833,
-      "name": "Seve 2.0 - Luch Rework",
-      "url": "https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Andalusian (feat. Ribale Wehbe)",
         "url": "https://open.spotify.com/album/5ysZd6Tg1QMm90mLUSCCjK"
       },
@@ -2235,6 +2215,26 @@
       "duration_ms": 261463,
       "name": "Andalusian (feat. Ribale Wehbe)",
       "url": "https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Seve 2.0 (Luch Rework)",
+        "url": "https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s"
+      },
+      "artists": [
+        {
+          "name": "Tez Cadey",
+          "url": "https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb"
+        },
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 396833,
+      "name": "Seve 2.0 - Luch Rework",
+      "url": "https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2331,30 +2331,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        },
-        {
-          "name": "Albert Breaker",
-          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
-        },
-        {
-          "name": "mohalizer",
-          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Barcelonia",
         "url": "https://open.spotify.com/album/04XXrFIk5e84EOX3GTr4RH"
       },
@@ -2375,6 +2351,30 @@
       "duration_ms": 173609,
       "name": "Barcelonia",
       "url": "https://open.spotify.com/track/4Pyng2GRqbQe4ElWkcendQ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "mohalizer",
+          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2547,30 +2547,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Pinie (S\u00e9bastien L\u00e9ger Remix)",
-        "url": "https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        },
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        },
-        {
-          "name": "orbit",
-          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
-        }
-      ],
-      "duration_ms": 504000,
-      "name": "Pinie - S\u00e9bastien L\u00e9ger Remix",
-      "url": "https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "OnlyL",
         "url": "https://open.spotify.com/album/4hSZwUM3VO8bNwb1ufMra5"
       },
@@ -2595,18 +2571,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5tAPqDBxLQywIHebYNHJQ1"
+        "name": "Pinie (S\u00e9bastien L\u00e9ger Remix)",
+        "url": "https://open.spotify.com/album/4KQuhVuOk28wIXNneNKpWv"
       },
       "artists": [
         {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        },
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
         }
       ],
-      "duration_ms": 185440,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/4HOUhsdFkkqomvPgAmN0ip"
+      "duration_ms": 504000,
+      "name": "Pinie - S\u00e9bastien L\u00e9ger Remix",
+      "url": "https://open.spotify.com/track/08BG88FftRUu4t29IvEmZz"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -2631,6 +2615,22 @@
       "duration_ms": 177577,
       "name": "Real Love - Liva K Remix",
       "url": "https://open.spotify.com/track/3TyPUGvK4G8pdrM3oEWlwg"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5tAPqDBxLQywIHebYNHJQ1"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/4HOUhsdFkkqomvPgAmN0ip"
     },
     {
       "added_at": "2024-10-18 04:00:00",

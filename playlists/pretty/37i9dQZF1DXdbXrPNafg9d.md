@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Tamino
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,279,134 likes - 174 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279,236 likes - 174 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

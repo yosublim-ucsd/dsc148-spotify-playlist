@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock from independent artists every Wednesday. Cover: shego",
+  "description": "Fresh rock from independent artists every Wednesday. Cover: Taipei Houston",
   "name": "Fresh Finds Rock ",
   "tracks": [
     {
@@ -3913,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "BRAINDEAF",
+        "url": "https://open.spotify.com/album/12tUJwwZFqQofxHxvlPEsA"
+      },
+      "artists": [
+        {
+          "name": "Taipei Houston",
+          "url": "https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "BRAINDEAF",
+      "url": "https://open.spotify.com/track/32KlXs8UNZCZJeOtAcCfbc"
+    },
+    {
+      "album": {
         "name": "Bravo",
         "url": "https://open.spotify.com/album/1S3gBpEbAVnDippzerUpCO"
       },
@@ -3978,7 +3996,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 229920,
       "name": "Brighter Lights",
       "url": "https://open.spotify.com/track/7zgWp5RkmMOrl4uKY4BpIe"
@@ -7826,6 +7844,24 @@
       "duration_ms": 223800,
       "name": "Don't Tell Me What to Do",
       "url": "https://open.spotify.com/track/2DQg2eQRczmctbCCM5T1Xb"
+    },
+    {
+      "album": {
+        "name": "(un)adored",
+        "url": "https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd"
+      },
+      "artists": [
+        {
+          "name": "Le Shiv",
+          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186487,
+      "name": "Don't Try To Talk",
+      "url": "https://open.spotify.com/track/3Kc48KnKB0EQKaplpW2qYV"
     },
     {
       "album": {
@@ -13662,7 +13698,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 271058,
       "name": "I'd stay forever",
       "url": "https://open.spotify.com/track/1ENjSTAGfgBUyVZuSl4zIY"
@@ -18090,7 +18126,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 120131,
       "name": "M\u00e1s O Menos",
       "url": "https://open.spotify.com/track/30Pb2401Tp3h15nWBF0no8"
@@ -21604,6 +21640,24 @@
       "duration_ms": 173000,
       "name": "Renter Not a Buyer",
       "url": "https://open.spotify.com/track/1fV5gBweokEACTyxExRvlT"
+    },
+    {
+      "album": {
+        "name": "Replace It All",
+        "url": "https://open.spotify.com/album/3Oe0BOBfIL4zQaCvpTkWvS"
+      },
+      "artists": [
+        {
+          "name": "The Backfires",
+          "url": "https://open.spotify.com/artist/2wMknlekLTOb4vRWn61NO5"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179213,
+      "name": "Replace It All",
+      "url": "https://open.spotify.com/track/4JYfUVBWV21iLNNRqcXpvD"
     },
     {
       "album": {

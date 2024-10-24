@@ -4,7 +4,7 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Robeldo Timido
 
-195 songs - 11 hr 9 min
+196 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Drugs in tha club](https://open.spotify.com/track/1D8ejFcxDCseMHxp6LnpSp) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC), [PRETTYMF9INE](https://open.spotify.com/artist/5I3BtMCxlNTdZPcrB6l8TX) | [Drugs in tha club](https://open.spotify.com/album/3Xov5djR8sxrJ1i4YMofuH) | 2:57 | 2023-09-20 | 2023-11-18 |
 | [Drugs in tha club](https://open.spotify.com/track/2nxi7UTpkG1EPu9cW9miWw) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [Tu$ Brother$](https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC), [PRETTYMF9INE](https://open.spotify.com/artist/5I3BtMCxlNTdZPcrB6l8TX) | [Drugs in tha club](https://open.spotify.com/album/4uIEcmROGVp0XuqX6WDO9v) | 2:57 | 2023-11-15 | 2024-02-15 |
 | [Dyosa](https://open.spotify.com/track/7kAAhLfz7oCylYeDKEBQGv) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Bullet D](https://open.spotify.com/artist/5kHRmP4gj6ILjma9CPv1ju) | [Dyosa](https://open.spotify.com/album/3ao5XGohC6AVRFjA2njM5L) | 4:32 | 2023-09-20 | 2023-10-05 |
+| [EA](https://open.spotify.com/track/4eqz6LHHtgGanz0V91rlLN) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt) | [META MIXTAPE](https://open.spotify.com/album/2CsZ4OSOM32Dplwhn9yXuQ) | 3:39 | 2024-10-23 |  |
 | [Elevate](https://open.spotify.com/track/7g0PwcVq4qNuum1ex9OO0N) | [Jeff Grecia](https://open.spotify.com/artist/6Dg35SGkgpUJ2hGAYrx5Qa) | [Elevate](https://open.spotify.com/album/0hfsRbEdvwv69Qf5ynzFpZ) | 3:38 | 2023-09-20 | 2024-04-19 |
 | [Elohim](https://open.spotify.com/track/6P8aiBjZ0Ld5Wxii6ajUSV) | [Lynx](https://open.spotify.com/artist/4mQuTsax5ozo0Dg0unNLfC) | [Elohim](https://open.spotify.com/album/61hWpVqCooPz8lw0TdDOXs) | 2:26 | 2024-09-04 |  |
 | [EMPILIGHT](https://open.spotify.com/track/6liHmUVmfhbXFG45ybCr96) | [Jonas Dichoso](https://open.spotify.com/artist/6Owr8RDbHYlbDwh1EMzEVS) | [EMPILIGHT](https://open.spotify.com/album/1KDtgR9GpE4cHonerqkrPn) | 3:19 | 2023-09-20 | 2023-11-02 |
@@ -107,7 +108,7 @@
 | [Kung Tayo'y Magkasama](https://open.spotify.com/track/6R1yOtE8wWZCezNDMGkd71) | [Juan Caoile](https://open.spotify.com/artist/6kyw9sh7ryjy1GQdPYH3Yd) | [Kung Tayo'y Magkasama](https://open.spotify.com/album/3KIfo5GhGEgoR948d6qLR6) | 2:41 | 2024-09-26 |  |
 | [La Luna](https://open.spotify.com/track/5vUp3dbqvs1pGMURHVhkjY) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Ron Henley](https://open.spotify.com/artist/6eGQ0qPUlGBjmRgyQ84g3f) | [La Luna](https://open.spotify.com/album/32xyVyuVCNv9fBAHUZ7G1v) | 6:02 | 2024-10-09 |  |
 | [Lagabog](https://open.spotify.com/track/0pZ1RKuQnKK3TetoSHyx7i) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Lagabog](https://open.spotify.com/album/2eTeeKM6MBnbU67LAlPRqC) | 3:06 | 2024-01-31 | 2024-09-12 |
-| [Letter X](https://open.spotify.com/track/1eeDm7r6Q0oGhpu9KlVofe) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Letter X](https://open.spotify.com/album/4P3orLxvtiV72yVLKdY9vv) | 2:39 | 2024-09-26 |  |
+| [Letter X](https://open.spotify.com/track/1eeDm7r6Q0oGhpu9KlVofe) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Letter X](https://open.spotify.com/album/4P3orLxvtiV72yVLKdY9vv) | 2:39 | 2024-09-26 | 2024-10-24 |
 | [Lil Kasalanan Shortie](https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Lil Kasalanan Shortie](https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO) | 2:43 | 2023-11-15 |  |
 | [LOW](https://open.spotify.com/track/0WXKTXf2dX28zbpaozHcg7) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [LOW](https://open.spotify.com/album/6GudVvbJ370hfdYFDj97G9) | 4:57 | 2024-03-27 | 2024-05-09 |
 | [Low Key](https://open.spotify.com/track/6Eik0bvVyGHACEEJWqfFQl) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Low Key](https://open.spotify.com/album/6sfBOM9O439L3kClbO4aoX) | 2:43 | 2024-07-11 |  |

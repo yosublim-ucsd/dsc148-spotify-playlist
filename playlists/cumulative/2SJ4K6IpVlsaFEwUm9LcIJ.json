@@ -5843,6 +5843,24 @@
     },
     {
       "album": {
+        "name": "Paint a Room",
+        "url": "https://open.spotify.com/album/3sZZlLS1JY1MPWOGWe8mtQ"
+      },
+      "artists": [
+        {
+          "name": "Chris Cohen",
+          "url": "https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158060,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/64w8GIJRkm6zejGjxLVN3K"
+    },
+    {
+      "album": {
         "name": "Pretty Place Demos",
         "url": "https://open.spotify.com/album/2aSMfYhkI2RwV6ucurrWV2"
       },

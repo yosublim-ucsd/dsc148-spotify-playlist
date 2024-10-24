@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: STRAWBRY. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: IN PARALLEL. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 180000,
       "name": "2 Be Mine",
       "url": "https://open.spotify.com/track/02HC54rBCIgeJ8rpDUO8sp"
@@ -5254,7 +5254,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 169354,
       "name": "Boy, Empty",
       "url": "https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA"
@@ -6534,7 +6534,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 154080,
       "name": "Can't stay away",
       "url": "https://open.spotify.com/track/4fNuPuZU58dHCMMKIneLDr"
@@ -12995,6 +12995,24 @@
     },
     {
       "album": {
+        "name": "evergreen",
+        "url": "https://open.spotify.com/album/5rxZ7x6Wp2LAgDzhbw2u35"
+      },
+      "artists": [
+        {
+          "name": "Baxter",
+          "url": "https://open.spotify.com/artist/44hRRRhNR9moRvxr2wQj6u"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326166,
+      "name": "evergreen",
+      "url": "https://open.spotify.com/track/0sKxmZApSI1vzJB82XXY8l"
+    },
+    {
+      "album": {
         "name": "Evergreen / only1",
         "url": "https://open.spotify.com/album/5ZfZWao9oEDWOktQzbXXh6"
       },
@@ -18044,7 +18062,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 225000,
       "name": "help me",
       "url": "https://open.spotify.com/track/3Z0vv6Zi5FQZm1RbJh5Qwk"
@@ -18526,6 +18544,24 @@
       "duration_ms": 233766,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/3y54PvUPngWdp0zuM7SpOj"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0RtASWxCBdXCoUKjE3x8WF"
+      },
+      "artists": [
+        {
+          "name": "REMY QUINN",
+          "url": "https://open.spotify.com/artist/6OQoRzjz71ofDCQa5OTlfq"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3sJf3XoQG1TuSi3URcow8B"
     },
     {
       "album": {
@@ -20178,6 +20214,24 @@
       "duration_ms": 276405,
       "name": "I Want to Get Lost",
       "url": "https://open.spotify.com/track/6BOutsFjnBlMGrQoBlTJvi"
+    },
+    {
+      "album": {
+        "name": "i want ur love",
+        "url": "https://open.spotify.com/album/3YPWdMz2gBbokvxO9VBelW"
+      },
+      "artists": [
+        {
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "i want ur love",
+      "url": "https://open.spotify.com/track/6Lt5gqL9Ke8XksHkJBJKQV"
     },
     {
       "album": {
@@ -22977,6 +23031,24 @@
     },
     {
       "album": {
+        "name": "Let The World Go By",
+        "url": "https://open.spotify.com/album/6sc8Ui26OQO0ft7euVv4qD"
+      },
+      "artists": [
+        {
+          "name": "Jazzy A",
+          "url": "https://open.spotify.com/artist/17exlBmf1yRTEaINYS5yqf"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Let The World Go By",
+      "url": "https://open.spotify.com/track/7mfpljYaQH5Tn3gRnVKRws"
+    },
+    {
+      "album": {
         "name": "Let UwU Go",
         "url": "https://open.spotify.com/album/0XPTuN0nuRwzgbSGJod0Gg"
       },
@@ -24329,6 +24401,24 @@
     },
     {
       "album": {
+        "name": "Love to Be",
+        "url": "https://open.spotify.com/album/79hEBPfDvTigDqMKCM4CuG"
+      },
+      "artists": [
+        {
+          "name": "BAVHU",
+          "url": "https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234461,
+      "name": "Love to Be",
+      "url": "https://open.spotify.com/track/4wFu6LtUmK8MXSTDBQbiuZ"
+    },
+    {
+      "album": {
         "name": "Love Vibration",
         "url": "https://open.spotify.com/album/5xsbnw9g4cmcfKOe2UuJdL"
       },
@@ -25549,6 +25639,24 @@
     },
     {
       "album": {
+        "name": "Mega Drive",
+        "url": "https://open.spotify.com/album/1FbqOdPsjrpayMjEjlA3wL"
+      },
+      "artists": [
+        {
+          "name": "AV AV AV",
+          "url": "https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234074,
+      "name": "Mega Drive",
+      "url": "https://open.spotify.com/track/1ED3VzuGpuch83efnmQytv"
+    },
+    {
+      "album": {
         "name": "Meri Jaan",
         "url": "https://open.spotify.com/album/3r5lB6LIa9TAOthYIJXzAF"
       },
@@ -25770,7 +25878,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 241935,
       "name": "Mi Corazon",
       "url": "https://open.spotify.com/track/3w8r4jpqZWvxcMzbgZd6kC"
@@ -25984,6 +26092,24 @@
       "duration_ms": 246240,
       "name": "miss u",
       "url": "https://open.spotify.com/track/6ueVUTZPmH2sCdsR8nYioh"
+    },
+    {
+      "album": {
+        "name": "miss yr luv",
+        "url": "https://open.spotify.com/album/5f436KX0QmeczYwjLjdWUJ"
+      },
+      "artists": [
+        {
+          "name": "Flansie",
+          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279209,
+      "name": "miss yr luv",
+      "url": "https://open.spotify.com/track/2tRhNYiH2VDRfutWkLAj8V"
     },
     {
       "album": {
@@ -26890,7 +27016,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 231527,
       "name": "Moving",
       "url": "https://open.spotify.com/track/0QXWcZY9DRDS0e8Czdgdv5"
@@ -28606,6 +28732,24 @@
       "duration_ms": 152983,
       "name": "November 26",
       "url": "https://open.spotify.com/track/1Bzx8M2az8q6wnoXOhK3uw"
+    },
+    {
+      "album": {
+        "name": "NOW IT'S GONE",
+        "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143184,
+      "name": "NOW IT'S GONE",
+      "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
     },
     {
       "album": {
@@ -30478,7 +30622,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 232615,
       "name": "Pappia",
       "url": "https://open.spotify.com/track/5qM9dVnxEnSbWdSKC4mSXn"
@@ -32034,7 +32178,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 195000,
       "name": "Pu!se",
       "url": "https://open.spotify.com/track/0korDVis4AoQIH1ICWvmLB"
@@ -41795,6 +41939,24 @@
     },
     {
       "album": {
+        "name": "Tu Segredos",
+        "url": "https://open.spotify.com/album/5jnOm7Xv8UlQDnUmuDEOVS"
+      },
+      "artists": [
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Tu Segredos",
+      "url": "https://open.spotify.com/track/1WV1pLRmDLBPKWfOdITw6y"
+    },
+    {
+      "album": {
         "name": "Tuesday Morning",
         "url": "https://open.spotify.com/album/0F5vinewfHFeDJAawCcY7x"
       },
@@ -44872,7 +45034,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 187480,
       "name": "Wise Heart",
       "url": "https://open.spotify.com/track/31mRhTf3yG5kof0V0OvzN5"

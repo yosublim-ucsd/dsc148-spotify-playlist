@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > A Danada Me Ligando  e os funks mais 🔑 do Brasil\. Foto: Mc Cebezinho, DJ Oreia, Mc Tuto, Mc Kako
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,373,317 likes - 51 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,374,130 likes - 51 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 353881,
+  "num_followers": 353895,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Chinito Rulo (Remix)",
+        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
+      },
+      "artists": [
+        {
+          "name": "Shushupe",
+          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
+        },
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 187198,
+      "name": "Chinito Rulo (Remix)",
+      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Mi Naturaleza",
         "url": "https://open.spotify.com/album/5sJzgYWA8QibiK6qtF0NmO"
       },
@@ -855,22 +875,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Chinito Rulo (Remix)",
-        "url": "https://open.spotify.com/album/5Ryl5A6cqqNwTUFpwBCoOS"
+        "name": "Qu\u00e9 Bonito",
+        "url": "https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp"
       },
       "artists": [
         {
-          "name": "Shushupe",
-          "url": "https://open.spotify.com/artist/3S0VTthgRWMUNhLEmmbEa4"
-        },
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+          "name": "Primo Son",
+          "url": "https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb"
         }
       ],
-      "duration_ms": 187198,
-      "name": "Chinito Rulo (Remix)",
-      "url": "https://open.spotify.com/track/7k59WdJ7jadrBwzguDgvR8"
+      "duration_ms": 226448,
+      "name": "Qu\u00e9 Bonito",
+      "url": "https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Qu\u00e9 Bonito",
-        "url": "https://open.spotify.com/album/14OCSNKGtGObRtdf7OKidp"
-      },
-      "artists": [
-        {
-          "name": "Primo Son",
-          "url": "https://open.spotify.com/artist/4hhlnDWkZV8hvYWiHyS7kb"
-        }
-      ],
-      "duration_ms": 226448,
-      "name": "Qu\u00e9 Bonito",
-      "url": "https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Trending Tropics",
         "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 188520,
       "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
       "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Dub de Gaita",
-        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
-      },
-      "artists": [
-        {
-          "name": "Los Gaiteros de San Jacinto",
-          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
-      "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -971,8 +955,24 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "El Cafetal",
-        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
+        "name": "Dub de Gaita",
+        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
+      },
+      "artists": [
+        {
+          "name": "Los Gaiteros de San Jacinto",
+          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
+        }
+      ],
+      "duration_ms": 346280,
+      "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
+      "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Altamar",
+        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
       },
       "artists": [
         {
@@ -980,29 +980,29 @@
           "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
         }
       ],
-      "duration_ms": 244660,
-      "name": "El Cafetal",
-      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
+      "duration_ms": 289186,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
     },
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Alientos",
-        "url": "https://open.spotify.com/album/6hBvd81RW9NF5epZx07lfH"
+        "name": "Momoto",
+        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Onda Mundial",
+          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
         },
         {
-          "name": "Ghetto Kumb\u00e9",
-          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
         }
       ],
-      "duration_ms": 283636,
-      "name": "Alientos",
-      "url": "https://open.spotify.com/track/0rWM6crTli6lBYVqRvH2oW"
+      "duration_ms": 459720,
+      "name": "Momoto",
+      "url": "https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1027,22 +1027,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Momoto",
-        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
+        "name": "Alientos",
+        "url": "https://open.spotify.com/album/6hBvd81RW9NF5epZx07lfH"
       },
       "artists": [
         {
-          "name": "Onda Mundial",
-          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
         },
         {
-          "name": "Klik & Frik",
-          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+          "name": "Ghetto Kumb\u00e9",
+          "url": "https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3"
         }
       ],
-      "duration_ms": 459720,
-      "name": "Momoto",
-      "url": "https://open.spotify.com/track/6zyb9XHm1RjxaeerHo8Mv5"
+      "duration_ms": 283636,
+      "name": "Alientos",
+      "url": "https://open.spotify.com/track/0rWM6crTli6lBYVqRvH2oW"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1123,8 +1123,8 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Altamar",
-        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
+        "name": "El Cafetal",
+        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
       },
       "artists": [
         {
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
         }
       ],
-      "duration_ms": 289186,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
+      "duration_ms": 244660,
+      "name": "El Cafetal",
+      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

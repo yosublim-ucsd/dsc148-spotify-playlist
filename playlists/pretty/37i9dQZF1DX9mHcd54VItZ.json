@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=4eNZo2ayTWO8LbczPXKnZw\">Rooksein</a>",
-  "num_followers": 20441,
+  "num_followers": 20459,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -125,20 +125,20 @@
       "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
     },
     {
-      "added_at": "2024-09-12 22:00:00",
+      "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "People Change",
-        "url": "https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6"
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
       },
       "artists": [
         {
-          "name": "Lone Tree",
-          "url": "https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU"
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
         }
       ],
-      "duration_ms": 206491,
-      "name": "People Change",
-      "url": "https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x"
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -173,20 +173,20 @@
       "url": "https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq"
     },
     {
-      "added_at": "2024-07-28 19:12:15",
+      "added_at": "2024-09-12 22:00:00",
       "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+        "name": "People Change",
+        "url": "https://open.spotify.com/album/0HujnlCsE3A24hpcwjkYJ6"
       },
       "artists": [
         {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+          "name": "Lone Tree",
+          "url": "https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+      "duration_ms": 206491,
+      "name": "People Change",
+      "url": "https://open.spotify.com/track/5mLtL3i6aZvscX0HlyNK5x"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -433,6 +433,22 @@
       "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
     },
     {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Between Two Lives",
+        "url": "https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ"
+      },
+      "artists": [
+        {
+          "name": "Cutting Jade",
+          "url": "https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr"
+        }
+      ],
+      "duration_ms": 212853,
+      "name": "Ten Seconds",
+      "url": "https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi"
+    },
+    {
       "added_at": "2024-10-04 04:33:39",
       "album": {
         "name": "Moth Eater",
@@ -451,22 +467,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Between Two Lives",
-        "url": "https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ"
-      },
-      "artists": [
-        {
-          "name": "Cutting Jade",
-          "url": "https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr"
-        }
-      ],
-      "duration_ms": 212853,
-      "name": "Ten Seconds",
-      "url": "https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "96-03 The Singles",
         "url": "https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 193986,
       "name": "Hey Mister",
       "url": "https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "All Comes Round 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X"
+      },
+      "artists": [
+        {
+          "name": "Just Jinger",
+          "url": "https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Like You Madly",
+      "url": "https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9"
     },
     {
       "added_at": "2024-10-04 04:33:39",
@@ -499,18 +515,18 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "All Comes Round 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X"
+        "name": "Collected Memories",
+        "url": "https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7"
       },
       "artists": [
         {
-          "name": "Just Jinger",
-          "url": "https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo"
+          "name": "Zebra & Giraffe",
+          "url": "https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Like You Madly",
-      "url": "https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9"
+      "duration_ms": 257253,
+      "name": "The Knife",
+      "url": "https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -527,22 +543,6 @@
       "duration_ms": 174974,
       "name": "Penny Sleeps",
       "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Collected Memories",
-        "url": "https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7"
-      },
-      "artists": [
-        {
-          "name": "Zebra & Giraffe",
-          "url": "https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd"
-        }
-      ],
-      "duration_ms": 257253,
-      "name": "The Knife",
-      "url": "https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
     },
     {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "The Romantic Lure of Possum Worship",
-        "url": "https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm"
-      },
-      "artists": [
-        {
-          "name": "Tweak",
-          "url": "https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS"
-        }
-      ],
-      "duration_ms": 189973,
-      "name": "Birthday Card",
-      "url": "https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc"
-    },
-    {
       "added_at": "2024-10-04 04:33:39",
       "album": {
         "name": "ZAR",
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
+        "name": "The Romantic Lure of Possum Worship",
+        "url": "https://open.spotify.com/album/2mY84YNvTOpVFtFJ3pJZTm"
+      },
+      "artists": [
+        {
+          "name": "Tweak",
+          "url": "https://open.spotify.com/artist/5a111cSPcXfRJAbY2MdtLS"
+        }
+      ],
+      "duration_ms": 189973,
+      "name": "Birthday Card",
+      "url": "https://open.spotify.com/track/1owGgt0obwlyfCXHreFTFc"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
         "name": "Ewigheid (Remastered 2024)",
         "url": "https://open.spotify.com/album/2U8RKMXqNsceEJCC1XGaTa"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 240489,
       "name": "Alleen - Remastered 2024",
       "url": "https://open.spotify.com/track/5US58PJyctlJoImyWqsyvZ"
-    },
-    {
-      "added_at": "2024-09-06 06:15:37",
-      "album": {
-        "name": "Wasted Youth",
-        "url": "https://open.spotify.com/album/7imWELlUcoALiDL1L67PcV"
-      },
-      "artists": [
-        {
-          "name": "Ruff Majik",
-          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
-        }
-      ],
-      "duration_ms": 247553,
-      "name": "Wasted Youth",
-      "url": "https://open.spotify.com/track/0XD9UC6nzrScLTJ6tfQWAi"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -753,6 +737,22 @@
       "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
     },
     {
+      "added_at": "2024-09-06 06:15:37",
+      "album": {
+        "name": "Wasted Youth",
+        "url": "https://open.spotify.com/album/7imWELlUcoALiDL1L67PcV"
+      },
+      "artists": [
+        {
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+        }
+      ],
+      "duration_ms": 247553,
+      "name": "Wasted Youth",
+      "url": "https://open.spotify.com/track/0XD9UC6nzrScLTJ6tfQWAi"
+    },
+    {
       "added_at": "2024-08-29 22:00:00",
       "album": {
         "name": "Adrenalien",
@@ -767,6 +767,22 @@
       "duration_ms": 252500,
       "name": "Adrenalien",
       "url": "https://open.spotify.com/track/6HvUCWnri9a7LKSJ7wNJ3W"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Picture Perfect",
+        "url": "https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb"
+      },
+      "artists": [
+        {
+          "name": "Perez",
+          "url": "https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Picture Perfect",
+      "url": "https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 196213,
       "name": "Ooaa",
       "url": "https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
-        "name": "Picture Perfect",
-        "url": "https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb"
-      },
-      "artists": [
-        {
-          "name": "Perez",
-          "url": "https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Picture Perfect",
-      "url": "https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP"
     }
   ],
   "unique_name": "SA Rock ",

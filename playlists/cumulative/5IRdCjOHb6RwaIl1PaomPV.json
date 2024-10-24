@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Kito, DJ_Dave, Eera, evilgiane, and more. ",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new music from Major Lazer and Kito, plus the latest cuts from MRD, TDJ, and more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 203618,
       "name": "365",
       "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
@@ -254,6 +254,32 @@
       "duration_ms": 230512,
       "name": "40 Hour Drive",
       "url": "https://open.spotify.com/track/5KW4Fp4DEnfJyj0zFTyVHP"
+    },
+    {
+      "album": {
+        "name": "6' Pole",
+        "url": "https://open.spotify.com/album/6hmFxhEYhUvgZXLY2itcj0"
+      },
+      "artists": [
+        {
+          "name": "Safe Mind",
+          "url": "https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts"
+        },
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        },
+        {
+          "name": "LUCY (Cooper B. Handy)",
+          "url": "https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235087,
+      "name": "6' Pole",
+      "url": "https://open.spotify.com/track/4olRAKphRJyntqrtlNW65v"
     },
     {
       "album": {
@@ -790,7 +816,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 258000,
       "name": "Angel Girl - Pretty Girl Remix",
       "url": "https://open.spotify.com/track/40tV7DG6m3yb7hlDll5tFX"
@@ -962,6 +988,24 @@
       "duration_ms": 121600,
       "name": "Armour Freestyle",
       "url": "https://open.spotify.com/track/6HxZME4jCGofgEiTN254p2"
+    },
+    {
+      "album": {
+        "name": "MG Ultra",
+        "url": "https://open.spotify.com/album/3598AkUpAY95SA2t4JrotL"
+      },
+      "artists": [
+        {
+          "name": "Machine Girl",
+          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229373,
+      "name": "Ass2Mars",
+      "url": "https://open.spotify.com/track/5DRRlfDtuvHqWS0iOHA0KN"
     },
     {
       "album": {
@@ -2368,6 +2412,28 @@
       "duration_ms": 286014,
       "name": "Closure - Flexulant x BAMBII Remix feat. Rahrah Gabor & Brazy",
       "url": "https://open.spotify.com/track/3r0BqL7tEvkpO0jTRfLswN"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174325,
+      "name": "Club classics featuring bb trickz",
+      "url": "https://open.spotify.com/track/4c252FOXsYUwrSRv8g9aei"
     },
     {
       "album": {
@@ -3873,6 +3939,28 @@
     },
     {
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3xeoRV6RqcqNncAYbouD1Y"
+      },
+      "artists": [
+        {
+          "name": "SOXX",
+          "url": "https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw"
+        },
+        {
+          "name": "00ab",
+          "url": "https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165400,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2sLUiG5BYqth0WL0zMl25y"
+    },
+    {
+      "album": {
         "name": "family and friends",
         "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
       },
@@ -3960,7 +4048,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 175426,
       "name": "Favorita",
       "url": "https://open.spotify.com/track/0gwbpSOdruAYk3FETUBKif"
@@ -4072,7 +4160,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 170609,
       "name": "Flames",
       "url": "https://open.spotify.com/track/5o4vu5oH3VyseGyfMI00PU"
@@ -4854,10 +4942,32 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 142265,
       "name": "Guess",
       "url": "https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ"
+    },
+    {
+      "album": {
+        "name": "HALLOWEEN FREESTYLE",
+        "url": "https://open.spotify.com/album/4htYUjnyQYUKm4xYTnnwci"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Guapo",
+          "url": "https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111043,
+      "name": "HALLOWEEN FREESTYLE",
+      "url": "https://open.spotify.com/track/1Y2ohtaV7873XVPzpXgLRn"
     },
     {
       "album": {
@@ -5244,6 +5354,24 @@
       "duration_ms": 281379,
       "name": "HOME COMING",
       "url": "https://open.spotify.com/track/6LJQ0HYGVpdhaJjWd73d7y"
+    },
+    {
+      "album": {
+        "name": "honest times",
+        "url": "https://open.spotify.com/album/6TAcekvYpMgiTPU435hFyB"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237226,
+      "name": "honest times",
+      "url": "https://open.spotify.com/track/77rKEoPWAkXbSK4jgGnqW6"
     },
     {
       "album": {
@@ -5812,6 +5940,24 @@
       "duration_ms": 155408,
       "name": "INSTANT DEATH",
       "url": "https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy"
+    },
+    {
+      "album": {
+        "name": "into a g**",
+        "url": "https://open.spotify.com/album/1Qp4npdcYbEHsSnfGgGKpQ"
+      },
+      "artists": [
+        {
+          "name": "april27",
+          "url": "https://open.spotify.com/artist/058SQVFoFi7A55lusoKyzi"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142615,
+      "name": "into a g**",
+      "url": "https://open.spotify.com/track/3WEAKMPSsf6VvzNfTHQ7i3"
     },
     {
       "album": {
@@ -6618,7 +6764,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 122571,
       "name": "liverounds",
       "url": "https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso"
@@ -7324,7 +7470,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 255133,
       "name": "Melter",
       "url": "https://open.spotify.com/track/5MSm2ISgTkk47tFLnE8vlW"
@@ -9431,6 +9577,24 @@
     },
     {
       "album": {
+        "name": "spirallore",
+        "url": "https://open.spotify.com/album/33VF07B5h8UDxvyMGTGRbF"
+      },
+      "artists": [
+        {
+          "name": "benzii",
+          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148040,
+      "name": "riding it",
+      "url": "https://open.spotify.com/track/65ATbwWkyLQBNhhtT07Qoo"
+    },
+    {
+      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -9559,6 +9723,24 @@
     },
     {
       "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179370,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
+    },
+    {
+      "album": {
         "name": "Roll Another One",
         "url": "https://open.spotify.com/album/2Yly1s48WKRwmMeVnH9O9m"
       },
@@ -9574,6 +9756,24 @@
       "duration_ms": 131678,
       "name": "Roll Another One",
       "url": "https://open.spotify.com/track/0fk7Wcy45P1qPCZe1jcpbn"
+    },
+    {
+      "album": {
+        "name": "rollitup",
+        "url": "https://open.spotify.com/album/2XyYEnkg1VvxGQuMjby1ca"
+      },
+      "artists": [
+        {
+          "name": "lor2mg",
+          "url": "https://open.spotify.com/artist/5JmWLxL2ESIufByQzPQ9zh"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116934,
+      "name": "rollitup",
+      "url": "https://open.spotify.com/track/6Qq8STSZ0UHeEuu3PWR6EQ"
     },
     {
       "album": {
@@ -9818,7 +10018,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 202758,
       "name": "See Through You",
       "url": "https://open.spotify.com/track/67YgZAdBAl28xaqNTHapnz"
@@ -10184,7 +10384,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 223398,
       "name": "skin deep",
       "url": "https://open.spotify.com/track/5n07l5ayyNrX5wKYy4gr14"
@@ -11635,6 +11835,24 @@
     },
     {
       "album": {
+        "name": "tricked out",
+        "url": "https://open.spotify.com/album/0JY8OZIE0nH1zLja2DebUT"
+      },
+      "artists": [
+        {
+          "name": "damon r.",
+          "url": "https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "tricked out",
+      "url": "https://open.spotify.com/track/09YKWb5nzEEQ2BP3I8qYC3"
+    },
+    {
+      "album": {
         "name": "76",
         "url": "https://open.spotify.com/album/2VGNIE80oexrzlG6DWz57B"
       },
@@ -11792,7 +12010,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 225132,
       "name": "U My Everything (feat. Drake)",
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
@@ -12470,7 +12688,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 138181,
       "name": "WORLDWIDE",
       "url": "https://open.spotify.com/track/7zFkGRqHaa2KzL4l4cLIL5"
@@ -12488,7 +12706,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 173712,
       "name": "WTP",
       "url": "https://open.spotify.com/track/2QFFM9WXVKhangOz59nEn0"
@@ -12692,6 +12910,28 @@
       "duration_ms": 216981,
       "name": "Zorro",
       "url": "https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI"
+    },
+    {
+      "album": {
+        "name": "\u305f\u3060dance in the dark",
+        "url": "https://open.spotify.com/album/3sKo7hQIUI9ZOlbQ30O6Xj"
+      },
+      "artists": [
+        {
+          "name": "TDJ",
+          "url": "https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v"
+        },
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252200,
+      "name": "\u305f\u3060dance in the dark",
+      "url": "https://open.spotify.com/track/5FFsV26WTs7NVKgMTX3P9c"
     },
     {
       "album": {

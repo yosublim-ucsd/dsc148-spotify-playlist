@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 722030,
+  "num_followers": 722090,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Ensaio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 161678,
-      "name": "Beijo De Varanda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
         "name": "Saudade N\u00edvel Hard",
         "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 181846,
       "name": "Saudade N\u00edvel Hard",
       "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "De Volta aos Bares",
+        "url": "https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Pode Ir Embora - Ao Vivo",
+      "url": "https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1151,54 +1151,18 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "C\u00e9u de S\u00e3o Paulo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1BMtH8B8G43xHue4aOaabp"
+        "name": "Reflexo - Deluxe (ao Vivo)",
+        "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Bosco & Vinicius",
-          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/0hIvAJItTrCrHGO3gBQcE9"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 176155,
-      "name": "Deixa a Gente Quieto - Ao Vivo",
-      "url": "https://open.spotify.com/track/4PNi30UilK0CZi2z9wegMQ"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "De Volta aos Bares",
-        "url": "https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Pode Ir Embora - Ao Vivo",
-      "url": "https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst"
-    },
-    {
-      "added_at": "2024-09-27 03:01:00",
-      "album": {
-        "name": "Sigilo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        }
-      ],
-      "duration_ms": 165366,
-      "name": "Sigilo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
+      "duration_ms": 202474,
+      "name": "Nem Tchum - Ao Vivo",
+      "url": "https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP"
     },
     {
       "added_at": "2024-09-27 03:01:00",
@@ -1223,6 +1187,42 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
+        "name": "Ensaio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 161678,
+      "name": "Beijo De Varanda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2E8Shaw5menB7ImgCQA4th"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
+        "name": "C\u00e9u de S\u00e3o Paulo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1BMtH8B8G43xHue4aOaabp"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vinicius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/0hIvAJItTrCrHGO3gBQcE9"
+        }
+      ],
+      "duration_ms": 176155,
+      "name": "Deixa a Gente Quieto - Ao Vivo",
+      "url": "https://open.spotify.com/track/4PNi30UilK0CZi2z9wegMQ"
+    },
+    {
+      "added_at": "2024-09-27 03:01:00",
+      "album": {
         "name": "VIVA (Ao Vivo)",
         "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
       },
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-09-27 03:01:00",
       "album": {
-        "name": "Reflexo - Deluxe (ao Vivo)",
-        "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
+        "name": "Sigilo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
         }
       ],
-      "duration_ms": 202474,
-      "name": "Nem Tchum - Ao Vivo",
-      "url": "https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP"
+      "duration_ms": 165366,
+      "name": "Sigilo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx"
     },
     {
       "added_at": "2024-09-27 03:01:00",

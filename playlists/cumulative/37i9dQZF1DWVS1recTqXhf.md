@@ -4,7 +4,7 @@
 
 > Guided meditations for a variety of needs.
 
-130 songs - 15 hr 55 min
+131 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Mind and Body](https://open.spotify.com/track/3TN6sMspsyPFZclSbbCJuz) | [Mason Geer](https://open.spotify.com/artist/2GQwJWKM6O2diVRqjbScDr) | [Mind and Body](https://open.spotify.com/album/4oHiSVkekyPev8UZT32Blt) | 4:39 | 2023-08-22 |  |
 | [Mindful Minute](https://open.spotify.com/track/0gngGMecGwBDBNhY6T71qG) | [Davidji](https://open.spotify.com/artist/5xDhn69h8RGDjAuDHqUsQk) | [Becoming the Calm Amidst the Chaos](https://open.spotify.com/album/4JAnMEHp6pw5M6jTNGahy4) | 1:07 | 2023-08-22 |  |
 | [Morning Affirmations \(Guided Meditation\)](https://open.spotify.com/track/0VYJ2uZPouPzkLroCkGpwT) | [Defigo](https://open.spotify.com/artist/2jSC6WxDUjLpADzGEBYlRz) | [Morning Affirmations](https://open.spotify.com/album/0RD3l7K6NGs7E6JpSEAbZJ) | 5:02 | 2023-08-22 |  |
+| [Morning Meditation for Success](https://open.spotify.com/track/2SBIDGXR00q1EqOH6sgEL3) | [Zims Ele](https://open.spotify.com/artist/524faUIag4FGhFHGbDij0s), [Robert Pronat](https://open.spotify.com/artist/27Y0LP8ZpLgJZZJ1sEji5v) | [Morning Meditation for Success](https://open.spotify.com/album/3oizgINuuTqyYmksRSztwr) | 4:35 | 2024-10-23 |  |
 | [Pool of the Soul](https://open.spotify.com/track/0gVGe59Oew523S1dwcxrkN) | [Philip Permutt](https://open.spotify.com/artist/46HUBq8j4vz5rvVYjOGt8i) | [Meditation Workshop](https://open.spotify.com/album/0IouVLBnNn9anETwo5QvX4) | 9:30 | 2023-08-22 |  |
 | [Progressive Relaxation](https://open.spotify.com/track/4hAecESxtas2M2cgnSSBAH) | [Andrew Johnson](https://open.spotify.com/artist/7JZLd5Z6BNaOXEap8Rl8YL) | [How to Relax with Andrew Johnson](https://open.spotify.com/album/27RggNsl80RbIdonwGGN96) | 9:07 | 2024-02-20 |  |
 | [Reflection and Resolution Guided Meditation](https://open.spotify.com/track/6jLivHMnUtJ4Da1qKLU8ZI) | [Balanced Mindful Meditations](https://open.spotify.com/artist/5OnxRk1iw3695YTO2xVLsT) | [Reflection and Resolution Guided Meditation](https://open.spotify.com/album/6kpY4pHrHg6bRP4PrCF41n) | 8:12 | 2023-08-22 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 43714,
+  "num_followers": 43716,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Casino Twilight Dogs",
-        "url": "https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI"
-      },
-      "artists": [
-        {
-          "name": "Youth Group",
-          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/0rdEIRgDyH03nwzk7cbbh2"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Waves (Acoustic)",
         "url": "https://open.spotify.com/album/5BYoZ57Q8kvu7WhL00jZJ5"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 248176,
       "name": "Waves - Acoustic",
       "url": "https://open.spotify.com/track/6GL1MiIvlrAm3hTvHzQJLl"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Casino Twilight Dogs",
+        "url": "https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI"
+      },
+      "artists": [
+        {
+          "name": "Youth Group",
+          "url": "https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/0rdEIRgDyH03nwzk7cbbh2"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 214746,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
+      "duration_ms": 207906,
+      "name": "We're Going Home",
+      "url": "https://open.spotify.com/track/4odVs48WBfjEDrc1D7t5B9"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 207906,
-      "name": "We're Going Home",
-      "url": "https://open.spotify.com/track/4odVs48WBfjEDrc1D7t5B9"
+      "duration_ms": 214746,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "California",
-        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
-      },
-      "artists": [
-        {
-          "name": "Nick Cunningham",
-          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
-        }
-      ],
-      "duration_ms": 228587,
-      "name": "California",
-      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Deeper Water",
         "url": "https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 272093,
       "name": "Deeper Water",
       "url": "https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
+      },
+      "artists": [
+        {
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
+        }
+      ],
+      "duration_ms": 228587,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
     },
     {
       "added_at": "2023-11-15 02:04:48",

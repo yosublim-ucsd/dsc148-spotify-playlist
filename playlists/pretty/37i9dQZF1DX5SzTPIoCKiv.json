@@ -1,6 +1,6 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: <a href=\"spotify:artist:3SKza3YPBri1k43LB1Tqy4\">Tauren Wells</a>",
-  "num_followers": 630433,
+  "num_followers": 630568,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
         "name": "Believe For It (feat. Lauren Daigle)",
         "url": "https://open.spotify.com/album/0SW2FDavoQoJG9kGftx2MW"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 184186,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "Not Today",
-      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
+        "name": "Dream Small",
+        "url": "https://open.spotify.com/album/1tlLIwnTUvgQmc1qCR7Oxa"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "Dream Small",
+      "url": "https://open.spotify.com/track/3tIosTCaD7OxaqMmNMqK39"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
         "name": "My Foundation",
         "url": "https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 350480,
       "name": "Gracefully Broken",
       "url": "https://open.spotify.com/track/3TMFxaCtDbBGi0UeGH2dzc"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
-        "name": "Dream Small",
-        "url": "https://open.spotify.com/album/1tlLIwnTUvgQmc1qCR7Oxa"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "Dream Small",
-      "url": "https://open.spotify.com/track/3tIosTCaD7OxaqMmNMqK39"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
+        "name": "Love Has Won",
+        "url": "https://open.spotify.com/album/29mEscGC93VONgWDdVOtNW"
+      },
+      "artists": [
+        {
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Love Has Won",
+      "url": "https://open.spotify.com/track/7hdn2sjtxPwkrTN6K6yyUa"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
         "name": "Raise a Hallelujah (Studio Version)",
         "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 244040,
       "name": "Raise a Hallelujah - Studio Version",
       "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
-        "name": "Love Has Won",
-        "url": "https://open.spotify.com/album/29mEscGC93VONgWDdVOtNW"
-      },
-      "artists": [
-        {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Love Has Won",
-      "url": "https://open.spotify.com/track/7hdn2sjtxPwkrTN6K6yyUa"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
+        "name": "Let The Ground Rest",
+        "url": "https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
         "name": "Faithful",
         "url": "https://open.spotify.com/album/7ARtMK1EgWMgh3rwdmEylb"
       },
@@ -1343,6 +1359,38 @@
       "duration_ms": 320173,
       "name": "Peace Be Still",
       "url": "https://open.spotify.com/track/0ZpJVWYW5hJKGbpStrsCdD"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/7IXpRlAYAxi2mIQlDldGdi"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn"
+    },
+    {
+      "added_at": "2024-06-21 08:48:55",
+      "album": {
+        "name": "To Love a Fool",
+        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 245740,
+      "name": "The Father\u2019s House",
+      "url": "https://open.spotify.com/track/7jrsM2LoAP1bSbtp2tZDIY"
     },
     {
       "added_at": "2024-06-21 08:48:55",
@@ -1387,38 +1435,6 @@
     {
       "added_at": "2024-06-21 08:48:55",
       "album": {
-        "name": "To Love a Fool",
-        "url": "https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 245740,
-      "name": "The Father\u2019s House",
-      "url": "https://open.spotify.com/track/7jrsM2LoAP1bSbtp2tZDIY"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
-        "name": "Let The Ground Rest",
-        "url": "https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 255160,
       "name": "Come To the Table",
       "url": "https://open.spotify.com/track/1Y5YioVHxFvkyGlryt0x6O"
-    },
-    {
-      "added_at": "2024-06-21 08:48:55",
-      "album": {
-        "name": "Church (Take Me Back) / Grave",
-        "url": "https://open.spotify.com/album/0pGJxxpEZ6Vgq9Vd6GNyHE"
-      },
-      "artists": [
-        {
-          "name": "Cochren & Co.",
-          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
-        }
-      ],
-      "duration_ms": 176702,
-      "name": "Church (Take Me Back)",
-      "url": "https://open.spotify.com/track/3vvao6zCQPVB8EGajtg9dp"
     }
   ],
   "unique_name": "Christian Mix",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Cjota
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,096 likes - 76 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,334 likes - 76 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 7 | [Pouco Papo](https://open.spotify.com/track/1Aym3JK7L1rWBqhFuoC0qJ) | [Nath Fischer](https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [Pouco Papo](https://open.spotify.com/album/3m5L2aX6vQ0m1XIN0etKha) | 2:59 |
 | 8 | [FNB](https://open.spotify.com/track/5JX23868UTT3DBgj7i5yrK) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [FNB>BKB](https://open.spotify.com/album/6Y6PHaGPDkAYVuOxGfISi0) | 2:48 |
 | 9 | [Fardo Leve](https://open.spotify.com/track/2CCvvsFMwmrlUfDdPeIUox) | [Big Asher](https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU), [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Fardo Leve](https://open.spotify.com/album/4fQaHglUdBFHvA26D6mr2v) | 2:05 |
-| 10 | [Tudo Tão Novo](https://open.spotify.com/track/1bjyTD9tcb2SDKdutqOgBd) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Supernova](https://open.spotify.com/artist/2JWfylcwj7TkalxQYfJWMQ) | [Tudo Tão Novo](https://open.spotify.com/album/1EO9BquiSCsTFPer1tIaqH) | 1:54 |
+| 10 | [Tudo Tão Novo](https://open.spotify.com/track/1bjyTD9tcb2SDKdutqOgBd) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Tudo Tão Novo](https://open.spotify.com/album/1EO9BquiSCsTFPer1tIaqH) | 1:54 |
 | 11 | [Imagina esse Cenário](https://open.spotify.com/track/2fjqfFUq64thFsqfKN01kS) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 2:35 |
 | 12 | [Traumas e Vícios](https://open.spotify.com/track/6P5Y4m9pEwSaOEgh8gVRCN) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Traumas e Vícios](https://open.spotify.com/album/6lUCF0fQNUTnVCdTgF8k7K) | 2:41 |
 | 13 | [LOBO](https://open.spotify.com/track/24JtaufFKH2Ugqw14v6tv6) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Mozin](https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6), [DiCastro](https://open.spotify.com/artist/4B0PCTFMn7yjoobr2b1WKm) | [Apocalipse](https://open.spotify.com/album/2LHvSXaIRWIndoOk2U1MHM) | 3:08 |

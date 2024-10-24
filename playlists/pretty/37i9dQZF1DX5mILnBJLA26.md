@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover:  <a href="https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR?si=hT0oXbc\-SIyPn2Bh3yW5Vw">Kabza de Small</a>, <a href="https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH?si=oAnFRG7GRKu3sw981I1\_eA">Vigro Deep</a> and <a href="https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=TYQHUkxmQMybtV5ZQNRywA">DJ Maphorisa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,172 likes - 60 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,947 likes - 60 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

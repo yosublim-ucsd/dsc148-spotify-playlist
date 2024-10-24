@@ -1,6 +1,6 @@
 {
   "description": "Ein Prosit der Gem\u00fctlichkeit",
-  "num_followers": 428550,
+  "num_followers": 428580,
   "original_name": "Wiesn Party 2024",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Mama Laudaaa",
-        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
-      },
-      "artists": [
-        {
-          "name": "Almklausi",
-          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
-        },
-        {
-          "name": "Specktakel",
-          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
-        }
-      ],
-      "duration_ms": 215976,
-      "name": "Mama Laudaaa",
-      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
         "name": "Ein bisschen Aroma (Stereoact Remix)",
         "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 178540,
       "name": "Ein bisschen Aroma - Stereoact Remix",
       "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
+        "name": "Mama Laudaaa",
+        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
+      },
+      "artists": [
+        {
+          "name": "Almklausi",
+          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
+        },
+        {
+          "name": "Specktakel",
+          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
+        }
+      ],
+      "duration_ms": 215976,
+      "name": "Mama Laudaaa",
+      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "F\u00fcllkrug",
-        "url": "https://open.spotify.com/album/0hEPdluEoDlW46Q7pDTldT"
-      },
-      "artists": [
-        {
-          "name": "Aditotoro",
-          "url": "https://open.spotify.com/artist/7AYd5ec5oCdcckA0IsFSM6"
-        },
-        {
-          "name": "paulomuc",
-          "url": "https://open.spotify.com/artist/2h1bNYhXzndDwlCHHWlRnG"
-        }
-      ],
-      "duration_ms": 196538,
-      "name": "F\u00fcllkrug",
-      "url": "https://open.spotify.com/track/7wjxG3KrEHET4nzbHhlVfC"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
         "name": "Tag X (Geiles Leben Edition)",
         "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 211373,
       "name": "Geiles Leben - Madizin Single Mix",
       "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
+        "name": "F\u00fcllkrug",
+        "url": "https://open.spotify.com/album/0hEPdluEoDlW46Q7pDTldT"
+      },
+      "artists": [
+        {
+          "name": "Aditotoro",
+          "url": "https://open.spotify.com/artist/7AYd5ec5oCdcckA0IsFSM6"
+        },
+        {
+          "name": "paulomuc",
+          "url": "https://open.spotify.com/artist/2h1bNYhXzndDwlCHHWlRnG"
+        }
+      ],
+      "duration_ms": 196538,
+      "name": "F\u00fcllkrug",
+      "url": "https://open.spotify.com/track/7wjxG3KrEHET4nzbHhlVfC"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -1211,8 +1211,8 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Kabinenparty",
-        "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
       "artists": [
         {
@@ -1220,17 +1220,17 @@
           "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
         },
         {
-          "name": "Nils_Gucki",
-          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
         },
         {
-          "name": "MAKZ 38",
-          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
         }
       ],
-      "duration_ms": 142750,
-      "name": "Kabinenparty",
-      "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Auf zum Ballermann",
-        "url": "https://open.spotify.com/album/2NP14eC2JTyCjnprDgNHxR"
-      },
-      "artists": [
-        {
-          "name": "Der Partycrasher",
-          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "Auf zum Ballermann",
-      "url": "https://open.spotify.com/track/0rezO1PbE9WhVJhhkX8YOA"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
         "name": "Freitag, Samstag",
         "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
       },
@@ -1391,8 +1375,24 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
+        "name": "Auf zum Ballermann",
+        "url": "https://open.spotify.com/album/2NP14eC2JTyCjnprDgNHxR"
+      },
+      "artists": [
+        {
+          "name": "Der Partycrasher",
+          "url": "https://open.spotify.com/artist/2tua36Vl1CfaxO9VCEO7Sf"
+        }
+      ],
+      "duration_ms": 178250,
+      "name": "Auf zum Ballermann",
+      "url": "https://open.spotify.com/track/0rezO1PbE9WhVJhhkX8YOA"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
+        "name": "Kabinenparty",
+        "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
       },
       "artists": [
         {
@@ -1400,17 +1400,17 @@
           "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
         },
         {
-          "name": "Julia Engelmann",
-          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+          "name": "Nils_Gucki",
+          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
         },
         {
-          "name": "Raket One",
-          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
+          "name": "MAKZ 38",
+          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
         }
       ],
-      "duration_ms": 184160,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+      "duration_ms": 142750,
+      "name": "Kabinenparty",
+      "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
+        "name": "Mut zur Katastrophe (Gold Edition)",
+        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ott",
+          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "Regenbogenfarben",
+      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
         "name": "Ein bisschen Frieden (Stereoact #Remix)",
         "url": "https://open.spotify.com/album/4nmaiFwmUo5Pq1mXbWaIgI"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 162352,
       "name": "Ein bisschen Frieden - Stereoact #Remix",
       "url": "https://open.spotify.com/track/2htsBWFGjnCmlb1c7eKLRZ"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
-        "name": "Mut zur Katastrophe (Gold Edition)",
-        "url": "https://open.spotify.com/album/1JqPV9DwyuinpMM7FqasGU"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ott",
-          "url": "https://open.spotify.com/artist/1F30RWETubxDmbyfxeVPg7"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "Regenbogenfarben",
-      "url": "https://open.spotify.com/track/1L0zpRujG3Rgq7K1I8E3nD"
     }
   ],
   "unique_name": "Wiesn Party 2024",

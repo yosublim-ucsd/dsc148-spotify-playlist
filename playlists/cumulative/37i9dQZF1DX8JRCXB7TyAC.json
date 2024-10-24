@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 151899,
       "name": "Chhora Haryane Ala",
       "url": "https://open.spotify.com/track/04IAIuNeXUGZCJlogBfQqP"
@@ -964,6 +964,24 @@
       "duration_ms": 240024,
       "name": "Fitness",
       "url": "https://open.spotify.com/track/1HzObZPrlMd5qZuTVm2VND"
+    },
+    {
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/4LY72uiyZBD0JYyOhXjPod"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186136,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/1uLxPLyCN67HcQwaPrabTj"
     },
     {
       "album": {
@@ -1637,6 +1655,28 @@
     },
     {
       "album": {
+        "name": "Near By Me",
+        "url": "https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f"
+      },
+      "artists": [
+        {
+          "name": "Bintu Pabra",
+          "url": "https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe"
+        },
+        {
+          "name": "Kp Kundu",
+          "url": "https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184941,
+      "name": "Near By Me",
+      "url": "https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU"
+    },
+    {
+      "album": {
         "name": "No Escape",
         "url": "https://open.spotify.com/album/44GmLku7At0sHfzevpWJn7"
       },
@@ -1768,7 +1808,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 181907,
       "name": "Original Gangster",
       "url": "https://open.spotify.com/track/6yganQdeXdluMvUWwEKQLI"

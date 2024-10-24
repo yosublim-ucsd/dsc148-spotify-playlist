@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n svensk & internationell pop.",
-  "num_followers": 174150,
+  "num_followers": 174172,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxYeEQAAAAA4lNcQ+ZkqhSWwpYHzYtGc",
+  "snapshot_id": "ZxjWrQAAAADTK3GSdnZvejmWf8klw5Rb",
   "tracks": [
     {
       "added_at": "2024-10-17 22:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 199464,
       "name": "Picking Up",
       "url": "https://open.spotify.com/track/6tNIRsPksF7AO6dzE2zjlP"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "In kom en \u00e4ngel",
-        "url": "https://open.spotify.com/album/7LewFkBppvrPUZsnGLK8Hg"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "In kom en \u00e4ngel",
-      "url": "https://open.spotify.com/track/31Ck0hJs7XKo78L5kjDcpZ"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -75,6 +59,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "In kom en \u00e4ngel",
+        "url": "https://open.spotify.com/album/7LewFkBppvrPUZsnGLK8Hg"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "In kom en \u00e4ngel",
+      "url": "https://open.spotify.com/track/31Ck0hJs7XKo78L5kjDcpZ"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
         "url": "https://open.spotify.com/album/0G2qck3MgeAeBACj0q0dZR"
       },
@@ -87,22 +87,6 @@
       "duration_ms": 188800,
       "name": "V\u00e4rlden \u00e4r inte vacker (men det \u00e4r vi)",
       "url": "https://open.spotify.com/track/4kpu0HVUbw1Ozb1pV1pXIX"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "SAD ROMANCE",
-        "url": "https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF"
-      },
-      "artists": [
-        {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
-        }
-      ],
-      "duration_ms": 174861,
-      "name": "Tiden l\u00e4ker alla s\u00e5r",
-      "url": "https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -121,20 +105,20 @@
       "url": "https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-23 10:57:49",
       "album": {
-        "name": "Who Said",
-        "url": "https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM"
+        "name": "Oh, To Be Cool",
+        "url": "https://open.spotify.com/album/76oUHJreCw9z2nr561xwVF"
       },
       "artists": [
         {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
         }
       ],
-      "duration_ms": 187348,
-      "name": "Who Said",
-      "url": "https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx"
+      "duration_ms": 198800,
+      "name": "Oh, To Be Cool",
+      "url": "https://open.spotify.com/track/4AXzAOLaXRJ5fFYlX1F3QG"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -155,6 +139,22 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "\u00c4lska mig en sista g\u00e5ng",
+        "url": "https://open.spotify.com/album/0AupobRdLVg89hbnGnFBRm"
+      },
+      "artists": [
+        {
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Om & om",
+      "url": "https://open.spotify.com/track/6pWyrCOLubc9o2ONNif6K8"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -207,18 +207,34 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "\u00c4lska mig en sista g\u00e5ng",
-        "url": "https://open.spotify.com/album/0AupobRdLVg89hbnGnFBRm"
+        "name": "SAD ROMANCE",
+        "url": "https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF"
       },
       "artists": [
         {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
         }
       ],
-      "duration_ms": 210386,
-      "name": "Om & om",
-      "url": "https://open.spotify.com/track/6pWyrCOLubc9o2ONNif6K8"
+      "duration_ms": 174861,
+      "name": "Tiden l\u00e4ker alla s\u00e5r",
+      "url": "https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "OK\u00c4ND MARK",
+        "url": "https://open.spotify.com/album/2WdpOTMALyoIO3aJO95gCF"
+      },
+      "artists": [
+        {
+          "name": "Mwuana",
+          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "OK\u00c4ND MARK",
+      "url": "https://open.spotify.com/track/7sjMqzYApw0a13YEF1cSky"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -239,18 +255,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "OK\u00c4ND MARK",
-        "url": "https://open.spotify.com/album/2WdpOTMALyoIO3aJO95gCF"
+        "name": "Who Said",
+        "url": "https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM"
       },
       "artists": [
         {
-          "name": "Mwuana",
-          "url": "https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX"
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
         }
       ],
-      "duration_ms": 141714,
-      "name": "OK\u00c4ND MARK",
-      "url": "https://open.spotify.com/track/7sjMqzYApw0a13YEF1cSky"
+      "duration_ms": 187348,
+      "name": "Who Said",
+      "url": "https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -953,7 +969,7 @@
       "artists": [
         {
           "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+          "url": "https://open.spotify.com/artist/1M8QOfzsZofinnJNrgnYhh"
         }
       ],
       "duration_ms": 234886,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "These songs rocked the 10s. Cover: Bring Me The Horizon",
+  "description": "These songs rocked the 10s. Cover: Arctic Monkeys",
   "name": "10s Rock Anthems",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-14",
+      "date_removed": null,
       "duration_ms": 206866,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ"
@@ -254,6 +254,24 @@
       "duration_ms": 202213,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ"
+    },
+    {
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207356,
+      "name": "Arabella",
+      "url": "https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ"
     },
     {
       "album": {
@@ -2354,7 +2372,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 340320,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/1cAMXz9mnvrqyQLSG4KeeE"
@@ -2444,7 +2462,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 214706,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6rAXHPd18PZ6W8m9EectzH"
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 189363,
       "name": "Stoned, Alone",
       "url": "https://open.spotify.com/track/3cWAHAlvLALNA0hnqmUzsB"
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 210186,
       "name": "Thank God for Girls",
       "url": "https://open.spotify.com/track/0E2gTjYATqDoFj8lLLH4fe"

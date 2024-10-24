@@ -2,9 +2,9 @@
 
 ### [Made In Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWWekySnB4xpt)
 
-> Representando la cultura con orgullo\. Representing with pride! Cover: Danny Ocean
+> Cover: La cajera de Farmatodo
 
-164 songs - 9 hr 53 min
+165 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Hennessy](https://open.spotify.com/track/2Cz3yDcBoePfcJCYdpYZCC) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Apokalypsis](https://open.spotify.com/album/396w1nHvgP7SQvdPq4SZya) | 3:49 | 2021-12-17 | 2024-08-01 |
 | [Home Alone](https://open.spotify.com/track/7ogQ0MiP4rmNLiGvJzFmuH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Home Alone](https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4) | 2:26 | 2024-07-31 |  |
 | [Hora Loca](https://open.spotify.com/track/3lfjd8A0DkB84yrvjzkbry) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:11 | 2023-09-22 |  |
-| [La Casa en el Aire](https://open.spotify.com/track/0LB6PHCCc7LIm8eBI7P561) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [75 Años](https://open.spotify.com/album/2gaqIIm30oLeue8BaOkpWN) | 4:08 | 2021-12-17 |  |
+| [La Casa en el Aire](https://open.spotify.com/track/0LB6PHCCc7LIm8eBI7P561) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [75 Años](https://open.spotify.com/album/2gaqIIm30oLeue8BaOkpWN) | 4:08 | 2021-12-17 | 2024-10-24 |
 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 | 2021-12-17 |  |
 | [La Pulga y el Piojo](https://open.spotify.com/track/66NPq7686mbZFY5W2fOVWA) | [Serenata Guayanesa](https://open.spotify.com/artist/1G6AdxMaPnYJFHZhBsH2V9) | [Sentir de Nuestra Tierra](https://open.spotify.com/album/0HuEGb5JmFcKMSyTp5Uyd6) | 3:33 | 2021-12-17 | 2022-04-29 |
 | [La Vaca Mariposa \(El Becerrito\)](https://open.spotify.com/track/2W8sdlfr1p6TeWWZCIgcZl) | [Albita](https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a), [Rafael "Pollo" Brito](https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o) | [Albita](https://open.spotify.com/album/7Es0fexd4HhbkaVa6xeabv) | 3:59 | 2021-12-17 |  |
@@ -159,6 +159,7 @@
 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/2PJcHAySsvwdUFegqB44xH) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/51MC7PW476AnhA5Wr3Rw0t) | 4:51 | 2023-11-21 | 2024-04-19 |
 | [Una Fan Enamorada \- Salsa](https://open.spotify.com/track/5XNeals8E3mLTZO2fmVPOB) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe) | [Los Primera](https://open.spotify.com/album/5hqjRB0TZER795NKsz9tf0) | 4:51 | 2021-12-17 |  |
 | [Una Vez Más](https://open.spotify.com/track/2lucHwbjszH0cmxigzmtfd) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Grandes Exitos con Chino y Nacho](https://open.spotify.com/album/68vYBxgxScKS5KmJiCwBGe) | 3:50 | 2021-12-17 |  |
+| [Veneka](https://open.spotify.com/track/2nWlJ8gwkn5KPADD07zcmw) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Veneka](https://open.spotify.com/album/2FHeDV8HFl5GQCiEXA7Ite) | 4:14 | 2024-10-23 |  |
 | [Veronica](https://open.spotify.com/track/6r7Fr0fHtsUjfQFSbQeGeF) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/3LU1q4hdfHd60WS6yjEZZP) | 4:13 | 2022-07-01 | 2024-04-19 |
 | [Veronica](https://open.spotify.com/track/7FUC7LjVt9vJHCOxBMMgkv) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/4F2vs4bs1hsNJqRBFPFNJ2) | 4:13 | 2022-09-30 | 2022-11-14 |
 | [Veronica](https://open.spotify.com/track/2qqASN7cEog305AqjU7Bmf) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/0s8HORRvzAOMHXtWQMAsPK) | 4:17 | 2021-12-17 |  |

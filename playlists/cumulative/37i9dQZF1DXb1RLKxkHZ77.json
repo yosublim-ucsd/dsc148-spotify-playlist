@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Anyam Kayangan (From \"Kayangan\")",
+        "url": "https://open.spotify.com/album/78Vy1J9ThMw9skDM21Fjm6"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Reynauld",
+          "url": "https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222352,
+      "name": "Anyam Kayangan - From \"Kayangan\"",
+      "url": "https://open.spotify.com/track/6PaIOQqdA0qJRauamRUGQq"
+    },
+    {
+      "album": {
         "name": "Apa Makna Cinta (From \"Dan Mimpi Pun Berguguran\")",
         "url": "https://open.spotify.com/album/61gpus88fYySN2TFDKyWoi"
       },
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 224914,
       "name": "BBF",
       "url": "https://open.spotify.com/track/2PJmYqIkWa75NSgfeBYoeJ"
@@ -1610,7 +1628,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 205479,
       "name": "Biar",
       "url": "https://open.spotify.com/track/6C6VLn6fH73NfXj9ZCbgRC"
@@ -2946,7 +2964,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 255638,
       "name": "Dusta",
       "url": "https://open.spotify.com/track/7hI9NbjM8MK3ZegrTCpLgt"
@@ -5709,6 +5727,24 @@
     },
     {
       "album": {
+        "name": "Lemah",
+        "url": "https://open.spotify.com/album/2CqFFabg6MrgFbbRfcBCbW"
+      },
+      "artists": [
+        {
+          "name": "Dayang Nurfaizah",
+          "url": "https://open.spotify.com/artist/1E5aZPein8p4Jf9zkPpBsV"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244260,
+      "name": "Lemah",
+      "url": "https://open.spotify.com/track/6BKEupNTtgSalOJ8g81N9r"
+    },
+    {
+      "album": {
         "name": "Lemak Manis",
         "url": "https://open.spotify.com/album/5XBSxHqclOFKq3DtafZwFO"
       },
@@ -6227,6 +6263,24 @@
     },
     {
       "album": {
+        "name": "Memberontak",
+        "url": "https://open.spotify.com/album/7jtwkR3nYaNgcPyW2jO83F"
+      },
+      "artists": [
+        {
+          "name": "Bunkface",
+          "url": "https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Memberontak",
+      "url": "https://open.spotify.com/track/1cxcQZo6PwHluARCkqMyds"
+    },
+    {
+      "album": {
         "name": "Memori Mungkin Berulang",
         "url": "https://open.spotify.com/album/1NJavP8R7mz6fsMJ9DZDi0"
       },
@@ -6246,6 +6300,24 @@
       "duration_ms": 292978,
       "name": "Memori Mungkin Berulang",
       "url": "https://open.spotify.com/track/3pl40Ydg5n06iHaseRZvXH"
+    },
+    {
+      "album": {
+        "name": "Menang Atau Kalah (From \"Skuad X\")",
+        "url": "https://open.spotify.com/album/1E59jI874VLS8rVsa9TF5e"
+      },
+      "artists": [
+        {
+          "name": "Firdaus Rahmat",
+          "url": "https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159397,
+      "name": "Menang Atau Kalah - From \"Skuad X\"",
+      "url": "https://open.spotify.com/track/1rM8Hx1WZlxbL7BclktUG0"
     },
     {
       "album": {
@@ -7294,7 +7366,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 177897,
       "name": "Penjenayah",
       "url": "https://open.spotify.com/track/6kzPERocoSCCvzBvJTCqTT"
@@ -7760,7 +7832,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 235523,
       "name": "Rawan",
       "url": "https://open.spotify.com/track/2H6X5Vqfm6Dbn0ALy326De"
@@ -8518,7 +8590,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-24",
       "duration_ms": 210900,
       "name": "Samudera",
       "url": "https://open.spotify.com/track/4twikU46zctUWS4TqpS5aK"
@@ -8900,6 +8972,24 @@
       "duration_ms": 294293,
       "name": "Selama Ku Bernafas",
       "url": "https://open.spotify.com/track/2x8v50JevSgEgBB8SDtY9T"
+    },
+    {
+      "album": {
+        "name": "OFF GUARD",
+        "url": "https://open.spotify.com/album/0wKIcysg2raXx70ZiBRd1s"
+      },
+      "artists": [
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280305,
+      "name": "Selimut Hati",
+      "url": "https://open.spotify.com/track/2Nyt9adixzIFRjHcUqS8S3"
     },
     {
       "album": {
@@ -10224,6 +10314,24 @@
       "duration_ms": 231084,
       "name": "Ternoktah",
       "url": "https://open.spotify.com/track/5TZKS3PVVQE3QSUdGMAPIG"
+    },
+    {
+      "album": {
+        "name": "Terpatah Terluka",
+        "url": "https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214395,
+      "name": "Terpatah Terluka",
+      "url": "https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: Johnny Rotten ",
-  "num_followers": 1590560,
+  "num_followers": 1590685,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 120360,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst"
+      "duration_ms": 100600,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/35PI5Hsq17h723EbyyDFsi"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Tim (Expanded)",
-        "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
-      },
-      "artists": [
-        {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Bastards of Young - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Atomic/Atomix",
         "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Tim (Expanded)",
+        "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Bastards of Young - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
       },
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
         }
       ],
-      "duration_ms": 100600,
-      "name": "Suburban Home",
-      "url": "https://open.spotify.com/track/35PI5Hsq17h723EbyyDFsi"
+      "duration_ms": 120360,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1MPEPvmX18S9MK4RlMKIst"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk"
     },
     {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Last Scream of the Missing Neighbors",
-        "url": "https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc"
-      },
-      "artists": [
-        {
-          "name": "D.O.A.",
-          "url": "https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "That's Progress",
-      "url": "https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd"
-    },
-    {
       "added_at": "2024-01-11 00:51:37",
       "album": {
         "name": "Raw Power (Iggy Mix - 2023 Remaster)",
@@ -975,6 +959,22 @@
       "duration_ms": 256760,
       "name": "Raw Power [2023 Remaster] - Iggy Mix",
       "url": "https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Last Scream of the Missing Neighbors",
+        "url": "https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc"
+      },
+      "artists": [
+        {
+          "name": "D.O.A.",
+          "url": "https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "That's Progress",
+      "url": "https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Add It Up - 2002 Remastered Version",
+      "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Angels With Dirty Faces",
         "url": "https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 175906,
       "name": "Hong Kong Garden",
       "url": "https://open.spotify.com/track/4HkyBXACJ87bAHp7Z8UB2y"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Add It Up - 2002 Remastered Version",
-      "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
     },
     {
       "added_at": "2022-11-28 15:26:19",
