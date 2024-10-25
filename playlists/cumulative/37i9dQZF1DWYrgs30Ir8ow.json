@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd fris in Fresh Hits. Cover: Zo\u00eb Tauran",
+  "description": "Altijd fris in Fresh Hits. Cover: Gabry Ponte, Sean Paul & Natti Natasha",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -180,12 +180,12 @@
           "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Sound Of Legend",
-          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
-        },
-        {
           "name": "Ann Lee",
           "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+        },
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
         }
       ],
       "date_added": "2024-10-22",
@@ -1283,6 +1283,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Arranca (feat. Omega)",
         "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
       },
@@ -2273,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Bro Code",
+        "url": "https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131279,
+      "name": "Bro Code",
+      "url": "https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET"
+    },
+    {
+      "album": {
         "name": "Brommers Kieken",
         "url": "https://open.spotify.com/album/3AryJg88r4Hr8mSj74KaVP"
       },
@@ -2898,7 +2938,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 157086,
       "name": "Cry Baby",
       "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
@@ -6598,7 +6638,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 163760,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo"
@@ -6872,7 +6912,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 166923,
       "name": "Ik Spaar Geen Centen",
       "url": "https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE"
@@ -7480,6 +7520,24 @@
       "duration_ms": 261578,
       "name": "Kizomba (feat. Franglish, Jonna Fraser & Unleaded)",
       "url": "https://open.spotify.com/track/2yo9dRhpHG7b5AYgTGWfh5"
+    },
+    {
+      "album": {
+        "name": "Twee Stappen Voor",
+        "url": "https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146785,
+      "name": "Kleine Dingen",
+      "url": "https://open.spotify.com/track/69eLavpmDiLevHD5CWZXSo"
     },
     {
       "album": {
@@ -11528,7 +11586,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 253770,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/3OGlklVPmFmu6Tm0fQ1JpB"
@@ -12518,7 +12576,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 152615,
       "name": "Tafel Voor 2",
       "url": "https://open.spotify.com/track/0bAy8gfIx54HKQIsIiRju8"
@@ -12782,6 +12840,24 @@
       "duration_ms": 165696,
       "name": "That's A Lie",
       "url": "https://open.spotify.com/track/47YMU7asK6HPPTLB8ctVbZ"
+    },
+    {
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "album": {

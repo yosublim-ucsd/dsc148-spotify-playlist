@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2436316,
+  "num_followers": 2436288,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "all night long",
-        "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
-      },
-      "artists": [
-        {
-          "name": "Gracie Schram",
-          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
-        }
-      ],
-      "duration_ms": 194018,
-      "name": "all night long",
-      "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "I like me better",
         "url": "https://open.spotify.com/album/1S3x2EX5lMe4Z8mC7m01oz"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 192065,
       "name": "I like me better",
       "url": "https://open.spotify.com/track/0OT1xJ6XUE7EJQVpJPNu5p"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "all night long",
+        "url": "https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO"
+      },
+      "artists": [
+        {
+          "name": "Gracie Schram",
+          "url": "https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d"
+        }
+      ],
+      "duration_ms": 194018,
+      "name": "all night long",
+      "url": "https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "Listen to Your Heart",
-        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
+        "name": "All Star - Acoustic",
+        "url": "https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1"
       },
       "artists": [
         {
-          "name": "Grey Grey",
-          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
+          "name": "Nelly Hope",
+          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
         }
       ],
-      "duration_ms": 186153,
-      "name": "Listen to Your Heart",
-      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
+      "duration_ms": 230535,
+      "name": "All Star - Acoustic",
+      "url": "https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -315,34 +315,18 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "All Star - Acoustic",
-        "url": "https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1"
+        "name": "Listen to Your Heart",
+        "url": "https://open.spotify.com/album/40Z7UsGaGxxK08TxUZmFbV"
       },
       "artists": [
         {
-          "name": "Nelly Hope",
-          "url": "https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt"
+          "name": "Grey Grey",
+          "url": "https://open.spotify.com/artist/1oZEpYM1aEpLPqJdfhu10t"
         }
       ],
-      "duration_ms": 230535,
-      "name": "All Star - Acoustic",
-      "url": "https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ"
-      },
-      "artists": [
-        {
-          "name": "WestSouth",
-          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
-        }
-      ],
-      "duration_ms": 169756,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd"
+      "duration_ms": 186153,
+      "name": "Listen to Your Heart",
+      "url": "https://open.spotify.com/track/56u5Paz3eXZYMdixgL8itQ"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -363,18 +347,18 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/3cw331sEho6jzNexTUfyLQ"
       },
       "artists": [
         {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+          "name": "WestSouth",
+          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
         }
       ],
-      "duration_ms": 172454,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
+      "duration_ms": 169756,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/1Flj41v3soU4JYVlUlOyDd"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -391,6 +375,22 @@
       "duration_ms": 197357,
       "name": "she's all i wanna be",
       "url": "https://open.spotify.com/track/6Dbz3vfI07Ox7QDZTSkNuJ"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
-      },
-      "artists": [
-        {
-          "name": "Jessy Hayden",
-          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
-        }
-      ],
-      "duration_ms": 202076,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/5iDeC4ftOj2Uy3ed0vGy7x"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 169437,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4VY8ztiVMTBjDqaAXCOu9c"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/5LRVDPaNyPwACyF9ARWcbr"
+      },
+      "artists": [
+        {
+          "name": "Jessy Hayden",
+          "url": "https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi"
+        }
+      ],
+      "duration_ms": 202076,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4z1iPL7rPrCDcqcKErCArw"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "The Scientist",
-        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
+        "name": "Call Me Maybe - Acoustic",
+        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
       },
       "artists": [
         {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
         }
       ],
-      "duration_ms": 275732,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
+      "duration_ms": 210473,
+      "name": "Call Me Maybe - Acoustic",
+      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "Call Me Maybe - Acoustic",
-        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
+        "name": "The Scientist",
+        "url": "https://open.spotify.com/album/4kDxuNIvOMJrQSDthpruse"
       },
       "artists": [
         {
-          "name": "Scottie",
-          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
         }
       ],
-      "duration_ms": 210473,
-      "name": "Call Me Maybe - Acoustic",
-      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
+      "duration_ms": 275732,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/4HYRVbQHz6xOtpoh9RB3pt"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "I'm On Fire",
-        "url": "https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Dance Monkey",
         "url": "https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 197850,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/5pNvKAPlizwG6HPssbLkDo"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/0eCghBykmPeS3LMMnJpVcr"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "Sweet Nothing",
-        "url": "https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G"
-      },
-      "artists": [
-        {
-          "name": "Sighting",
-          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Sweet Nothing",
-      "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/70ToToyGxWgZ2s745s1CxV"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 197851,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/1okbqCnEzl9GUddnjNkb19"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "Sweet Nothing",
+        "url": "https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G"
+      },
+      "artists": [
+        {
+          "name": "Sighting",
+          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Sweet Nothing",
+      "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "I Was Never There",
-        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
-      },
-      "artists": [
-        {
-          "name": "Parker Clair",
-          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "I Was Never There",
-      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Too Good At Goodbyes",
         "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 170074,
       "name": "Too Good At Goodbyes",
       "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "I Was Never There",
+        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
+      },
+      "artists": [
+        {
+          "name": "Parker Clair",
+          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "I Was Never There",
+      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "Got You (Where I Want You)",
-        "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
-      },
-      "artists": [
-        {
-          "name": "Marta Jobim",
-          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Got You (Where I Want You)",
-      "url": "https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1EfRK5vjQxeRyFiDKGgNih"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 188124,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2w2pewokxDHk6bktVmz7GH"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "Got You (Where I Want You)",
+        "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
+      },
+      "artists": [
+        {
+          "name": "Marta Jobim",
+          "url": "https://open.spotify.com/artist/1mdSEV97zy0wyiCU8jfqwj"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Got You (Where I Want You)",
+      "url": "https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u"
     },
     {
       "added_at": "2024-10-18 08:01:52",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-10-18 08:01:52",
       "album": {
-        "name": "Birds of a Feather",
-        "url": "https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Birds of a Feather",
-      "url": "https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo"
-    },
-    {
-      "added_at": "2024-10-18 08:01:52",
-      "album": {
         "name": "Cupid",
         "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 181111,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
+    },
+    {
+      "added_at": "2024-10-18 08:01:52",
+      "album": {
+        "name": "Birds of a Feather",
+        "url": "https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Birds of a Feather",
+      "url": "https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo"
     },
     {
       "added_at": "2024-10-18 08:01:52",

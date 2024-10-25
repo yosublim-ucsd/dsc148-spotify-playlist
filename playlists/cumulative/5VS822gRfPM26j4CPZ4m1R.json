@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Elevator Pitch",
+        "url": "https://open.spotify.com/album/6dDTt0rf4kqLRZtKNordYT"
+      },
+      "artists": [
+        {
+          "name": "Cole Anyway",
+          "url": "https://open.spotify.com/artist/6ctBrunhwPNeeuqu8KG7Bd"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142302,
+      "name": "Elevator Pitch",
+      "url": "https://open.spotify.com/track/4x3kyg5Sz92GndMR10bZnA"
+    },
+    {
+      "album": {
         "name": "Employment",
         "url": "https://open.spotify.com/album/6ZOUvVhALXSrhYaovZmtae"
       },

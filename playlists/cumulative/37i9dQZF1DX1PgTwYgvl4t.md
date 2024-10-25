@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL?si=jzqjskzuRUaOUiS0zWW0Wg>Minister GUC</a>
 
-95 songs - 10 hr 49 min
+98 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Jesus](https://open.spotify.com/track/5tsBzcAXwo3UGRSPT4TbXV) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8) | [Lion of Judah](https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy) | 7:34 | 2024-05-09 | 2024-06-14 |
 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 | 2024-05-09 |  |
 | [Lead Me](https://open.spotify.com/track/0qsUgNIZ4gJ2AeEUjBmUv8) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Lead Me](https://open.spotify.com/album/4s1WzWFA2sLNCUGdfkdxNy) | 6:26 | 2024-08-30 |  |
+| [Little Me](https://open.spotify.com/track/3UZoiBEuHoKIb6TqJGKi7Z) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Emerge](https://open.spotify.com/album/1yewzTyF45OJ3pMYKWS5Uz) | 4:15 | 2024-10-25 |  |
 | [Logan Ti O De](https://open.spotify.com/track/6xXbKuOenaaq45LvF0VFtb) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [The Spirit of Light](https://open.spotify.com/album/7BqAuNsaQdbaxlwTXl9RLO) | 4:21 | 2024-05-09 |  |
 | [Maisha Yangu \(B'Ola\) \- Live](https://open.spotify.com/track/6JS9iqFbzf4nCRyXtIZCS2) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu \(B'Ola\) \[Live\]](https://open.spotify.com/album/4f288ErjAgfMrpxPIHvazp) | 4:13 | 2024-07-19 |  |
 | [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 | 2024-08-16 |  |
@@ -82,6 +83,7 @@
 | [Prophetic Worship, Vol\. 2](https://open.spotify.com/track/4JbkjVGb7FmKKyuN8WpkND) | [Apostle Femi Lazarus](https://open.spotify.com/artist/4bbgsyWj0hlgyUXUY9GHTp), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Prophetic Worship, Vol\. 2](https://open.spotify.com/album/6iptYi4tTiItuNB2QY84tL) | 13:15 | 2024-09-06 |  |
 | [Reign](https://open.spotify.com/track/5Ihx5hpbXnuKyT2O2pmaxw) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Reign](https://open.spotify.com/album/3nXzqLc7IGfMn3QfKbn7gy) | 8:22 | 2024-08-23 | 2024-10-18 |
 | [Rescue The Perishing](https://open.spotify.com/track/4s3qSbjkrTX48tz50UYHA7) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Rescue The Perishing](https://open.spotify.com/album/3SdyZkiUe9YG86xFsIXQYC) | 3:44 | 2024-05-24 | 2024-08-16 |
+| [Shekinah](https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Shekinah](https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj) | 7:00 | 2024-10-25 |  |
 | [Song of Angels \(The Call\)](https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Gwen Samuel](https://open.spotify.com/artist/3MKVPEAKVqjOWppgRRqIfK) | [Song of Angels \(The Call\)](https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p) | 6:09 | 2024-08-23 |  |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-05-09 |  |
 | [Spontaneous Endless Worship](https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Spontaneous Endless Worship](https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN) | 5:35 | 2024-05-09 |  |
@@ -96,6 +98,7 @@
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-05-09 |  |
 | [Yabo da Sujada \-a Worship Experience \(Live\)](https://open.spotify.com/track/0L7X9VDmvgtXVFuqO1lt7g) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Koinonia Worship Team](https://open.spotify.com/artist/3Gu1HyCRYShWIkeEM75HsP) | [Yabo da Sujada \-a Worship Experience \(Live\)](https://open.spotify.com/album/624n5JDuYk636uDrB7T9Yh) | 5:40 | 2024-07-12 | 2024-10-18 |
 | [You Are Always There](https://open.spotify.com/track/2u1XE762ploDotScizdgh5) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [In His Presence, Vol\. 2](https://open.spotify.com/album/3I2lS8vcbdBS76PfAJ4fDP) | 8:25 | 2024-05-09 |  |
+| [You Are Big](https://open.spotify.com/track/67b6GI1kkVALLH5O5IWQb7) | [Joshua Adedeji](https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh) | [You Are Big](https://open.spotify.com/album/7IuHbchUxKM8jXuwV9D3sX) | 6:20 | 2024-10-25 |  |
 | [You Are Here \- Live](https://open.spotify.com/track/0O5gv3GXR0CACUU2RMPQBu) | [FIDEL E\. William](https://open.spotify.com/artist/3ZtLx9dt1d6OMirAEMMToe) | [You Are Here \(Live\)](https://open.spotify.com/album/4ohxMX3C1PR5OkO5vVsEbf) | 5:08 | 2024-09-13 |  |
 | [You Are My God \(Live\)](https://open.spotify.com/track/1yayw49jO8k7ITlMWsIrjS) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Green Worship 1.0 \(Live\)](https://open.spotify.com/album/3C0d6kHPNfgTU9670QQtC8) | 7:28 | 2024-05-09 |  |
 | [You Are the Reason](https://open.spotify.com/track/1c0ALi1HY9oAkWpVrG1UJe) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Limits](https://open.spotify.com/album/0B2Dh7ZBqo6mvDMKNjq0FL) | 6:21 | 2024-05-09 |  |

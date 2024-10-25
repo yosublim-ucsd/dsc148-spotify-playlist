@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-266 songs - 20 hr 49 min
+267 songs - 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Challengers](https://open.spotify.com/track/5dgXKKrU6A9kccwDfANdjS) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Challengers \(Original Score\)](https://open.spotify.com/album/2NHhf3qtcoVPDEb03G8RFv) | 1:25 | 2024-05-07 |  |
 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 | 2022-05-06 |  |
 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 | 2022-05-06 |  |
+| [collect$$$save](https://open.spotify.com/track/1vMvlL0V2ulcClCfSDmZ8t) | [Gayance](https://open.spotify.com/artist/6HkmFbqw9k63LmmlBlCQic), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2), [Funkywhat](https://open.spotify.com/artist/4TJJXS1c48aAOf4XcClVYG) | [collect$$$save](https://open.spotify.com/album/1ktAR5Cnf75Cbgxii215PY) | 3:35 | 2024-10-24 |  |
 | [Colourblind](https://open.spotify.com/track/6lTMBQGYjLYWqPZjGCQnTh) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Abra](https://open.spotify.com/artist/0V3eUguJhWQgYyDHLpR1Ia) | [Gold Rush](https://open.spotify.com/album/2p6ejJvLSJjvpxPFvlmNYs) | 4:31 | 2022-12-05 | 2023-09-08 |
 | [Colourblind](https://open.spotify.com/track/7ekWSkrWplexjibTqAjJvI) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Abra](https://open.spotify.com/artist/2Wk3jBp9txJl8QiQXxY0Tu) | [Gold Rush](https://open.spotify.com/album/5SJk7kSbK1ExlrA06MxMC5) | 4:31 | 2022-05-06 | 2022-07-28 |
 | [Come Down To Us](https://open.spotify.com/track/24mRY501qetRyl5wtLVP87) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Tunes 2011\-2019](https://open.spotify.com/album/4X4cmhqFm50dk6LyTtLuv6) | 13:07 | 2023-09-07 | 2023-10-02 |
@@ -111,7 +112,7 @@
 | [Il Ballo Del Potere](https://open.spotify.com/track/1Nujfh0EUJbuzm9ILrby43) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Non Conosco Nessun Patrizio!](https://open.spotify.com/album/6xPD9DwFdzmlGxI1tjPLHt) | 3:46 | 2023-09-07 | 2023-10-02 |
 | [Incapable \(Edit\)](https://open.spotify.com/track/6rOEkBFDI1NL7lZHBTnpGk) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Incapable](https://open.spotify.com/album/0OZEb4C5dYqk6ZceFEgi5S) | 3:30 | 2023-10-27 | 2024-04-19 |
 | [Incapable \- Edit](https://open.spotify.com/track/0NkBwp6CYkUYiPeRJjlRfk) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Incapable \(Remixes\)](https://open.spotify.com/album/0ghCFyT6QNBKgTDVLY5E8b) | 3:30 | 2022-05-06 | 2022-07-29 |
-| [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 | 2022-05-06 |  |
+| [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 | 2022-05-06 | 2024-10-25 |
 | [Iron 2021](https://open.spotify.com/track/19VTLxYPvCyYpAWxsfj3ir) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/6WYxdEPp7IVNMR5uBj8dRg) | 8:43 | 2022-05-06 |  |
 | [Iron 2021](https://open.spotify.com/track/6gO9T45Ljz1rQ4GR8KZDA4) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/30PoY1KGLDKYIZzShg2zCt) | 8:43 | 2022-06-14 | 2024-04-19 |
 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 | 2022-05-06 |  |

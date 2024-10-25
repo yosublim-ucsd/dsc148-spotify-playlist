@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : M\u00e9dine",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Jeune Mort",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 245400,
       "name": "C24",
       "url": "https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy"
@@ -939,6 +939,42 @@
     },
     {
       "album": {
+        "name": "Les anges pleurent plus qu'avant",
+        "url": "https://open.spotify.com/album/5eppPHGfeUsdDrjgiPqu79"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/3CA7lyKUkVtDuaZjqYb6nH"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "Les anges pleurent plus qu'avant",
+      "url": "https://open.spotify.com/track/3K9SP7aqNAI6yRR7vk26Ty"
+    },
+    {
+      "album": {
+        "name": "LES ENFANTS MENTENT",
+        "url": "https://open.spotify.com/album/4Umt5vCol8K3X2WbMnv1QQ"
+      },
+      "artists": [
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264295,
+      "name": "LES ENFANTS MENTENT",
+      "url": "https://open.spotify.com/track/0floJuqvuAa8mj6yT9TYXg"
+    },
+    {
+      "album": {
         "name": "PS: J'\u00e9cris l'album",
         "url": "https://open.spotify.com/album/0obgTAkC3EABdA9KoJnZD1"
       },
@@ -1073,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "DEMAIN EST ANNUL\u00c9",
+        "url": "https://open.spotify.com/album/4wO5AjxTQfuyVr0H0e6coR"
+      },
+      "artists": [
+        {
+          "name": "Jeune Mort",
+          "url": "https://open.spotify.com/artist/7u8gvNEGeiNVartjPGoTtU"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160075,
+      "name": "PHOBOS",
+      "url": "https://open.spotify.com/track/3H27495JmKdKl5HisfHOvv"
+    },
+    {
+      "album": {
         "name": "Pistol Pit",
         "url": "https://open.spotify.com/album/1sRqPUY9VPf9JxpO8u0CGE"
       },
@@ -1088,7 +1142,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 156970,
       "name": "Pistol Pit",
       "url": "https://open.spotify.com/track/7pbxOvH9Cm6ZzNfVsNFQng"
@@ -1418,7 +1472,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 168510,
       "name": "Vatos #4",
       "url": "https://open.spotify.com/track/69SruWGqKCEBDoopXYcYIL"

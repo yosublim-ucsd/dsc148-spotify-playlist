@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Parkineos",
-  "num_followers": 215765,
+  "num_followers": 215763,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGI4AAAAAChCI2X1T96VvGd3izT2WNY",
+  "snapshot_id": "ZxoTkQAAAACzxg3bhhzK4VRAyvQDqBXR",
   "tracks": [
     {
       "added_at": "2024-10-17 22:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "coraz\u00f3n part\u00edo",
-        "url": "https://open.spotify.com/album/0Qy7BUbS7rD4VaIYm3QwvL"
-      },
-      "artists": [
-        {
-          "name": "tarchi",
-          "url": "https://open.spotify.com/artist/3hQ7aT3GTzf9jNYh80UBo3"
-        }
-      ],
-      "duration_ms": 101917,
-      "name": "coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/2iGlLyQBdzt319UImwEmm7"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "tus ojos olvidaron llorar",
         "url": "https://open.spotify.com/album/2E5WFtqfKuXJeLe6QBARP4"
       },
@@ -55,6 +39,26 @@
       "duration_ms": 160282,
       "name": "tus ojos olvidaron llorar",
       "url": "https://open.spotify.com/track/63JJDMsbkFsBHfJHldg9vj"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Humedad Valenciana",
+        "url": "https://open.spotify.com/album/5wcgJVPQgrk3OOwpA8pTgC"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "Parkineos",
+          "url": "https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf"
+        }
+      ],
+      "duration_ms": 178288,
+      "name": "Humedad Valenciana",
+      "url": "https://open.spotify.com/track/47Nkil9fb7rBt0cxda2HbP"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -95,22 +99,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Humedad Valenciana",
-        "url": "https://open.spotify.com/album/5wcgJVPQgrk3OOwpA8pTgC"
+        "name": "epistolares",
+        "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
       },
       "artists": [
         {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "Parkineos",
-          "url": "https://open.spotify.com/artist/1cMiNxpdh0mP5WFnPvr4xf"
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
         }
       ],
-      "duration_ms": 178288,
-      "name": "Humedad Valenciana",
-      "url": "https://open.spotify.com/track/47Nkil9fb7rBt0cxda2HbP"
+      "duration_ms": 117000,
+      "name": "NANA \u30d5\u30ea\u30fc\u30af\u7248",
+      "url": "https://open.spotify.com/track/503phegRRv73fsUcnjv9YI"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -155,18 +155,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "epistolares",
-        "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
+        "name": "digital",
+        "url": "https://open.spotify.com/album/5hTdN9SyFP2RbYUDrbVdfg"
       },
       "artists": [
         {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+          "name": "adore",
+          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+        },
+        {
+          "name": "Kill Eva",
+          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
         }
       ],
-      "duration_ms": 117000,
-      "name": "NANA \u30d5\u30ea\u30fc\u30af\u7248",
-      "url": "https://open.spotify.com/track/503phegRRv73fsUcnjv9YI"
+      "duration_ms": 127384,
+      "name": "digital",
+      "url": "https://open.spotify.com/track/0UYqOY6AXRxYHOIkL3TIbs"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -191,26 +195,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "digital",
-        "url": "https://open.spotify.com/album/5hTdN9SyFP2RbYUDrbVdfg"
-      },
-      "artists": [
-        {
-          "name": "adore",
-          "url": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
-        },
-        {
-          "name": "Kill Eva",
-          "url": "https://open.spotify.com/artist/6hKH8NJ9tDDqDEOWtiUntb"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "digital",
-      "url": "https://open.spotify.com/track/0UYqOY6AXRxYHOIkL3TIbs"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "SCARYHOT",
         "url": "https://open.spotify.com/album/5cBry92oiYAS2CmcCRXzbU"
       },
@@ -223,6 +207,26 @@
       "duration_ms": 129000,
       "name": "SCARYHOT",
       "url": "https://open.spotify.com/track/0CGubjzk4lT6gqaomfcKxy"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "El Grimorio",
+        "url": "https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Olor a perfume caro y tabaco",
+      "url": "https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -255,22 +259,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "ADEL^NTOS ^^7^ 24",
-        "url": "https://open.spotify.com/album/0zpibo9izCAhRcnxE71HdZ"
+        "name": "10percs",
+        "url": "https://open.spotify.com/album/5ffWOu69p9fUosQcolZbmE"
       },
       "artists": [
         {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
         },
         {
-          "name": "1adaaaan",
-          "url": "https://open.spotify.com/artist/15QI4MM8AddXriohJwHHo4"
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
-      "duration_ms": 117986,
-      "name": "SOY TU MAM\u00c1",
-      "url": "https://open.spotify.com/track/30ZrnkSH9Hkw6uLBr5LBjs"
+      "duration_ms": 126810,
+      "name": "10percs",
+      "url": "https://open.spotify.com/track/2V90V4Q8v9C19fKOakLUA8"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -295,22 +299,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "El Grimorio",
-        "url": "https://open.spotify.com/album/2Vz5j2BUiV1j1hvlpxnN72"
+        "name": "ADEL^NTOS ^^7^ 24",
+        "url": "https://open.spotify.com/album/0zpibo9izCAhRcnxE71HdZ"
       },
       "artists": [
         {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
         },
         {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+          "name": "1adaaaan",
+          "url": "https://open.spotify.com/artist/15QI4MM8AddXriohJwHHo4"
         }
       ],
-      "duration_ms": 161454,
-      "name": "Olor a perfume caro y tabaco",
-      "url": "https://open.spotify.com/track/6zIJaBIjllZpehbTkcurFV"
+      "duration_ms": 117986,
+      "name": "SOY TU MAM\u00c1",
+      "url": "https://open.spotify.com/track/30ZrnkSH9Hkw6uLBr5LBjs"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -331,26 +335,6 @@
       "duration_ms": 196021,
       "name": "Chama",
       "url": "https://open.spotify.com/track/57T2OCgiu5OEP2RUHRBZuY"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "10percs",
-        "url": "https://open.spotify.com/album/5ffWOu69p9fUosQcolZbmE"
-      },
-      "artists": [
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 126810,
-      "name": "10percs",
-      "url": "https://open.spotify.com/track/2V90V4Q8v9C19fKOakLUA8"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -379,6 +363,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "Heaven Is A Place On Earth",
+        "url": "https://open.spotify.com/album/6ygyRATKFx7jhF4A96v8IX"
+      },
+      "artists": [
+        {
+          "name": "UMBRA",
+          "url": "https://open.spotify.com/artist/1Fmx9ikFyywYVTyP28OMUr"
+        }
+      ],
+      "duration_ms": 125032,
+      "name": "Heaven Is A Place On Earth",
+      "url": "https://open.spotify.com/track/1MOnF73Cw0F9kDB2QEakgN"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "venier_rmx165bpm",
         "url": "https://open.spotify.com/album/29I76NDyjWvTDfBoLs1Vmj"
       },
@@ -403,22 +403,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Choka",
-        "url": "https://open.spotify.com/album/4T7yiJnwyoSIMhcvi0OXf5"
+        "name": "Kulo Tenassi Deluxe",
+        "url": "https://open.spotify.com/album/68phYLPYbMoENxIarPPJks"
       },
       "artists": [
         {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "Kabasaki",
-          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
         }
       ],
-      "duration_ms": 145617,
-      "name": "Choka",
-      "url": "https://open.spotify.com/track/4CoZiQeDRaTMwZnhei5D0d"
+      "duration_ms": 114222,
+      "name": "Kulo Tenassi",
+      "url": "https://open.spotify.com/track/0X6DyAYPKofkItsbad1rdA"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -439,50 +435,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Heaven Is A Place On Earth",
-        "url": "https://open.spotify.com/album/6ygyRATKFx7jhF4A96v8IX"
+        "name": "Choka",
+        "url": "https://open.spotify.com/album/4T7yiJnwyoSIMhcvi0OXf5"
       },
       "artists": [
         {
-          "name": "UMBRA",
-          "url": "https://open.spotify.com/artist/1Fmx9ikFyywYVTyP28OMUr"
-        }
-      ],
-      "duration_ms": 125032,
-      "name": "Heaven Is A Place On Earth",
-      "url": "https://open.spotify.com/track/1MOnF73Cw0F9kDB2QEakgN"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Kulo Tenassi Deluxe",
-        "url": "https://open.spotify.com/album/68phYLPYbMoENxIarPPJks"
-      },
-      "artists": [
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
         {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
         }
       ],
-      "duration_ms": 114222,
-      "name": "Kulo Tenassi",
-      "url": "https://open.spotify.com/track/0X6DyAYPKofkItsbad1rdA"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "para siempre(\uff61>\ufe4f<)",
-        "url": "https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 150902,
-      "name": "para siempre(\uff61>\ufe4f<)",
-      "url": "https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp"
+      "duration_ms": 145617,
+      "name": "Choka",
+      "url": "https://open.spotify.com/track/4CoZiQeDRaTMwZnhei5D0d"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -503,18 +471,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "AERIAL DISPLAY",
-        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
+        "name": "para siempre(\uff61>\ufe4f<)",
+        "url": "https://open.spotify.com/album/6a2xobMbJhGbFVK9rWseSi"
       },
       "artists": [
         {
-          "name": "NICO B.",
-          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
         }
       ],
-      "duration_ms": 106071,
-      "name": "GALGO",
-      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
+      "duration_ms": 150902,
+      "name": "para siempre(\uff61>\ufe4f<)",
+      "url": "https://open.spotify.com/track/5Ir8RQngyI0ny6Aq4zhAVp"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -535,42 +503,6 @@
       "duration_ms": 177391,
       "name": "Nunca Volver\u00e1",
       "url": "https://open.spotify.com/track/5WdgPdIyyZoFztGaYKH1DY"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Big Fish",
-        "url": "https://open.spotify.com/album/0alF5dX6vmk8WaAEa2EWFT"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "Kabasaki",
-          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Big Fish",
-      "url": "https://open.spotify.com/track/37CK6tuEnqZjIPLpuyS0pv"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Plastic Boy",
-        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
-      },
-      "artists": [
-        {
-          "name": "RUVENRUVEN",
-          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -611,6 +543,58 @@
       "duration_ms": 168750,
       "name": "ME DUELE TANTO",
       "url": "https://open.spotify.com/track/2XDhKrxadd2eZ8VJYKKEs3"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "coraz\u00f3n part\u00edo",
+        "url": "https://open.spotify.com/album/0Qy7BUbS7rD4VaIYm3QwvL"
+      },
+      "artists": [
+        {
+          "name": "tarchi",
+          "url": "https://open.spotify.com/artist/3hQ7aT3GTzf9jNYh80UBo3"
+        }
+      ],
+      "duration_ms": 101917,
+      "name": "coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/2iGlLyQBdzt319UImwEmm7"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Plastic Boy",
+        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
+      },
+      "artists": [
+        {
+          "name": "RUVENRUVEN",
+          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/0alF5dX6vmk8WaAEa2EWFT"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/37CK6tuEnqZjIPLpuyS0pv"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -751,6 +735,26 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "LA MANO",
+        "url": "https://open.spotify.com/album/5bCKTho60Tv0HFkXpos0MN"
+      },
+      "artists": [
+        {
+          "name": "Bik\u00f4k\u00f4",
+          "url": "https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV"
+        },
+        {
+          "name": "Crystal Murray",
+          "url": "https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "LA MANO",
+      "url": "https://open.spotify.com/track/69vuRjKOEnszQRw6xjflW7"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "guardian angel",
         "url": "https://open.spotify.com/album/46lr95nzgntYPq8cin5kN8"
       },
@@ -831,26 +835,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "LA MANO",
-        "url": "https://open.spotify.com/album/5bCKTho60Tv0HFkXpos0MN"
-      },
-      "artists": [
-        {
-          "name": "Bik\u00f4k\u00f4",
-          "url": "https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV"
-        },
-        {
-          "name": "Crystal Murray",
-          "url": "https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "LA MANO",
-      "url": "https://open.spotify.com/track/69vuRjKOEnszQRw6xjflW7"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Lo Que Dijiste",
         "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
       },
@@ -911,22 +895,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "QUE ME MATO",
-        "url": "https://open.spotify.com/album/7EDNw1daaBgqnJji0ricXo"
-      },
-      "artists": [
-        {
-          "name": "NICO B.",
-          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
-        }
-      ],
-      "duration_ms": 131573,
-      "name": "QUE ME MATO",
-      "url": "https://open.spotify.com/track/0DoUT6q8Fn4IisjHlUndCU"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Versus",
         "url": "https://open.spotify.com/album/5mxGCBOZQ6Lwq8n8QawYTp"
       },
@@ -947,6 +915,22 @@
       "duration_ms": 149230,
       "name": "SUPERBETA",
       "url": "https://open.spotify.com/track/3eLGreGXBaAtBqvJnJg44E"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "QUE ME MATO",
+        "url": "https://open.spotify.com/album/7EDNw1daaBgqnJji0ricXo"
+      },
+      "artists": [
+        {
+          "name": "NICO B.",
+          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
+        }
+      ],
+      "duration_ms": 131573,
+      "name": "QUE ME MATO",
+      "url": "https://open.spotify.com/track/0DoUT6q8Fn4IisjHlUndCU"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1179,6 +1163,30 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "EL CAMINO DEL DELULU",
+        "url": "https://open.spotify.com/album/4B1pgdPZ7pCvEJaiL4Be7E"
+      },
+      "artists": [
+        {
+          "name": "pobre lucca",
+          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
+        },
+        {
+          "name": "Talla",
+          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+        }
+      ],
+      "duration_ms": 114004,
+      "name": "SOY UN PERRO",
+      "url": "https://open.spotify.com/track/35Ls1OuREdhnniJBmOROve"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "ya fue",
         "url": "https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR"
       },
@@ -1239,6 +1247,38 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "Blindado",
+        "url": "https://open.spotify.com/album/2jS4f0Mxo8VOkJOhxBhTlr"
+      },
+      "artists": [
+        {
+          "name": "iloveyoubrazzy",
+          "url": "https://open.spotify.com/artist/2bdXAwgfD3yGsf25Ba0UBs"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Blindado",
+      "url": "https://open.spotify.com/track/0Lh4O9WBaE2sfshCUQh0mU"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "AERIAL DISPLAY",
+        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
+      },
+      "artists": [
+        {
+          "name": "NICO B.",
+          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
+        }
+      ],
+      "duration_ms": 106071,
+      "name": "GALGO",
+      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "q va",
         "url": "https://open.spotify.com/album/13ok1B7al93YHrV9oigsz2"
       },
@@ -1255,22 +1295,6 @@
       "duration_ms": 106187,
       "name": "q va",
       "url": "https://open.spotify.com/track/5kSqeEBSagTzrtVAsOPfN5"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Blindado",
-        "url": "https://open.spotify.com/album/2jS4f0Mxo8VOkJOhxBhTlr"
-      },
-      "artists": [
-        {
-          "name": "iloveyoubrazzy",
-          "url": "https://open.spotify.com/artist/2bdXAwgfD3yGsf25Ba0UBs"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Blindado",
-      "url": "https://open.spotify.com/track/0Lh4O9WBaE2sfshCUQh0mU"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1319,30 +1343,6 @@
       "duration_ms": 154777,
       "name": "SALIR A MORIR",
       "url": "https://open.spotify.com/track/0Qsx96RjkG13Ok1meUAGal"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "EL CAMINO DEL DELULU",
-        "url": "https://open.spotify.com/album/4B1pgdPZ7pCvEJaiL4Be7E"
-      },
-      "artists": [
-        {
-          "name": "pobre lucca",
-          "url": "https://open.spotify.com/artist/4JbQJha6cddW2i4dyS7UkA"
-        },
-        {
-          "name": "Talla",
-          "url": "https://open.spotify.com/artist/0xt6sVefZnVDysMgz4RzHI"
-        },
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
-        }
-      ],
-      "duration_ms": 114004,
-      "name": "SOY UN PERRO",
-      "url": "https://open.spotify.com/track/35Ls1OuREdhnniJBmOROve"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "teeec",
+        "url": "https://open.spotify.com/album/4mmqEcQ8JmpJYIajuPOYFz"
+      },
+      "artists": [
+        {
+          "name": "fuchi",
+          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
+        }
+      ],
+      "duration_ms": 128032,
+      "name": "te espero en el club Pt. 1",
+      "url": "https://open.spotify.com/track/1Tv2x6g2zoAy2HYo1845tM"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "Rituales",
         "url": "https://open.spotify.com/album/12aUm7ohtYlLLu8S0sh1Uk"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "teeec",
-        "url": "https://open.spotify.com/album/4mmqEcQ8JmpJYIajuPOYFz"
-      },
-      "artists": [
-        {
-          "name": "fuchi",
-          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
-        }
-      ],
-      "duration_ms": 128032,
-      "name": "te espero en el club Pt. 1",
-      "url": "https://open.spotify.com/track/1Tv2x6g2zoAy2HYo1845tM"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Te Hice una Cancion! (Remix)",
         "url": "https://open.spotify.com/album/3fnDyewfo2fePIieMGfzb1"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 193714,
       "name": "Te Hice una Cancion! - Remix",
       "url": "https://open.spotify.com/track/3Q7YQ7Y0pWsSCQtEYcO3ZG"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "FOREVER YOUNG",
+        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
+      },
+      "artists": [
+        {
+          "name": "Mejiias",
+          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
+        }
+      ],
+      "duration_ms": 235384,
+      "name": "Im Forever",
+      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1507,22 +1523,6 @@
       "duration_ms": 139200,
       "name": "Ying Yang",
       "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "FOREVER YOUNG",
-        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
-      },
-      "artists": [
-        {
-          "name": "Mejiias",
-          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
-        }
-      ],
-      "duration_ms": 235384,
-      "name": "Im Forever",
-      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1763,26 +1763,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "LA \u00daLTIMA VEZ",
-        "url": "https://open.spotify.com/album/44Ie5UhDAc4fag3GuKIiFS"
+        "name": "Cocky!",
+        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
       },
       "artists": [
         {
-          "name": "Peta",
-          "url": "https://open.spotify.com/artist/44j7jMydQOjraZEyfdwYNs"
-        },
-        {
-          "name": "Gozzo",
-          "url": "https://open.spotify.com/artist/6HDR2lQmTURDW8wfd7Gbz4"
-        },
-        {
-          "name": "JNull",
-          "url": "https://open.spotify.com/artist/6n4XUJWTCbESSDDmeomYDn"
+          "name": "marinadorciud",
+          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
         }
       ],
-      "duration_ms": 166285,
-      "name": "LA \u00daLTIMA VEZ",
-      "url": "https://open.spotify.com/track/3sMfOFfme1YIEx3PNCL8zC"
+      "duration_ms": 163636,
+      "name": "Cocky!",
+      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1807,18 +1799,26 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Cocky!",
-        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
+        "name": "LA \u00daLTIMA VEZ",
+        "url": "https://open.spotify.com/album/44Ie5UhDAc4fag3GuKIiFS"
       },
       "artists": [
         {
-          "name": "marinadorciud",
-          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
+          "name": "Peta",
+          "url": "https://open.spotify.com/artist/44j7jMydQOjraZEyfdwYNs"
+        },
+        {
+          "name": "Gozzo",
+          "url": "https://open.spotify.com/artist/6HDR2lQmTURDW8wfd7Gbz4"
+        },
+        {
+          "name": "JNull",
+          "url": "https://open.spotify.com/artist/6n4XUJWTCbESSDDmeomYDn"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Cocky!",
-      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
+      "duration_ms": 166285,
+      "name": "LA \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/3sMfOFfme1YIEx3PNCL8zC"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "ALAS Y GARRAS",
-        "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
-      },
-      "artists": [
-        {
-          "name": "Andrea Mir",
-          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "TE MISSEO",
-      "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "No Hab\u00eda Choice",
         "url": "https://open.spotify.com/album/3BxvaH2NoNQJcybK9fQzOM"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 171245,
       "name": "No Hab\u00eda Choice",
       "url": "https://open.spotify.com/track/57ig3SMp9E3Zj7h8CeCZyV"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "ALAS Y GARRAS",
+        "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
+      },
+      "artists": [
+        {
+          "name": "Andrea Mir",
+          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "TE MISSEO",
+      "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
     }
   ],
   "unique_name": "helium",

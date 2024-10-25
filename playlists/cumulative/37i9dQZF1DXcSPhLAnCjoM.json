@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Hymne \u00e0 l'amour\" de C\u00e9line Dion est le Grand Hit de la semaine.",
+  "description": "\"Recommence-moi\" de Santa est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 167273,
       "name": "Comment on s'aime",
       "url": "https://open.spotify.com/track/0wXS05bMuXsKhDKnNrKfQo"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 165775,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
@@ -2656,7 +2656,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 236013,
       "name": "Ne saute pas",
       "url": "https://open.spotify.com/track/52PntWUVJcnAWm1lk0XYnU"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-13",
+      "date_removed": null,
       "duration_ms": 146253,
       "name": "On est plein",
       "url": "https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL"
@@ -2964,7 +2964,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 188093,
       "name": "Promets-moi",
       "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"
@@ -3365,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158066,
+      "name": "Ton amoureuse",
+      "url": "https://open.spotify.com/track/3GlDnq2U3v4cWdTYDWfw65"
+    },
+    {
+      "album": {
         "name": "Ton regard",
         "url": "https://open.spotify.com/album/1988pIjDPXPRwSLJQHIKvH"
       },
@@ -3509,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "Tu vas me quitter encore longtemps ?",
+        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231213,
+      "name": "Tu vas me quitter encore longtemps ?",
+      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
+    },
+    {
+      "album": {
         "name": "99 Nights (Edition Deluxe)",
         "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
       },
@@ -3632,6 +3668,24 @@
       "duration_ms": 207520,
       "name": "\u00eatre biennn",
       "url": "https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE"
+    },
+    {
+      "album": {
+        "name": "\u00d4 travers",
+        "url": "https://open.spotify.com/album/4ONcUIWMX3t41Aju8oQCr9"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161912,
+      "name": "\u00d4 travers",
+      "url": "https://open.spotify.com/track/2GK0yEfMHJg7pXloAtVQSb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM"

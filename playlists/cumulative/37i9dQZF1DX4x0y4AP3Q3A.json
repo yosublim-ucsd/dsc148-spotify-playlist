@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Potwory I Ludzie",
+  "description": "Najlepsi i najlepiej rockuj\u0105cy na polskiej scenie. Cover: Cool Kids Of Death",
   "name": "Tylko Polski Rock",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 181672,
       "name": "Antylopy & Lwy",
       "url": "https://open.spotify.com/track/3mZSN65mRWoGXDvF9O7X4H"
+    },
+    {
+      "album": {
+        "name": "THAT'S NOT ME ANYMORE",
+        "url": "https://open.spotify.com/album/5dqpi9m7C3JMXrUaFJ9ifz"
+      },
+      "artists": [
+        {
+          "name": "Angry Sad Boys",
+          "url": "https://open.spotify.com/artist/3SE3gnbwB5TpovsmnIURwi"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "AT LEAST I'VE TRIED",
+      "url": "https://open.spotify.com/track/7hOPaVCMJ8c7vtrvAHJwgl"
     },
     {
       "album": {
@@ -304,7 +322,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 335474,
       "name": "Bogowie Nocy",
       "url": "https://open.spotify.com/track/0UEpfuQ9NLIo8dbeJ3gNLd"
@@ -586,6 +604,24 @@
       "duration_ms": 251187,
       "name": "Co\u015b mnie goni nieustannie",
       "url": "https://open.spotify.com/track/1ApVpr19NSuQyxjh8ypO42"
+    },
+    {
+      "album": {
+        "name": "Cycki, Kebab, Amarena",
+        "url": "https://open.spotify.com/album/4eKMMKiN1YCRVvk5H5HWKB"
+      },
+      "artists": [
+        {
+          "name": "Nocny Kochanek",
+          "url": "https://open.spotify.com/artist/1S9WnjiTrLaqPCJ8gWSWWq"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251679,
+      "name": "Cycki, Kebab, Amarena",
+      "url": "https://open.spotify.com/track/3RqEI5xZ5bq89EWePWY6BG"
     },
     {
       "album": {
@@ -1078,7 +1114,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 240166,
       "name": "I DON'T KNOW",
       "url": "https://open.spotify.com/track/4VvvuzCAwWIJ4uzjqoZGxM"
@@ -1132,7 +1168,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 189100,
       "name": "Ikarus",
       "url": "https://open.spotify.com/track/4QdbnS4PhL7pTW6bRAMe2s"
@@ -1234,6 +1270,24 @@
       "duration_ms": 184988,
       "name": "Jedziemy na zlot",
       "url": "https://open.spotify.com/track/5PAR7g9gOMQlknjdoqdkCr"
+    },
+    {
+      "album": {
+        "name": "jesie\u0144",
+        "url": "https://open.spotify.com/album/0rtvPNIcC9wyHtiZp4PGzI"
+      },
+      "artists": [
+        {
+          "name": "zimno",
+          "url": "https://open.spotify.com/artist/3pqdOTn75NMKByM896Mfbw"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215142,
+      "name": "jesie\u0144",
+      "url": "https://open.spotify.com/track/4Cib638ZYa7PDWlXcHSkz1"
     },
     {
       "album": {
@@ -1789,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "moje serce krwawi morzem cudzych \u0142ez",
+        "url": "https://open.spotify.com/album/631PdVHCJZyK2TUSoKvDyW"
+      },
+      "artists": [
+        {
+          "name": "wi\u015bniosz",
+          "url": "https://open.spotify.com/artist/4UcIjZwZDS7epHIoNUtwzu"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145048,
+      "name": "moje serce krwawi morzem cudzych \u0142ez",
+      "url": "https://open.spotify.com/track/1NQh4fhP4S1YAmoIPruHia"
+    },
+    {
+      "album": {
         "name": "Motylek",
         "url": "https://open.spotify.com/album/5M9eEwGNT5R5Azo2xsFCpr"
       },
@@ -1804,6 +1876,24 @@
       "duration_ms": 185817,
       "name": "Motylek",
       "url": "https://open.spotify.com/track/0LcMM89OMKsUHEYxZZGXxr"
+    },
+    {
+      "album": {
+        "name": "M\u00f3j Q\u0144",
+        "url": "https://open.spotify.com/album/6JW5QGO4ZVXMJbXShsVaDX"
+      },
+      "artists": [
+        {
+          "name": "Potock",
+          "url": "https://open.spotify.com/artist/6OGxr27KhARDYWLfyQcF2D"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178426,
+      "name": "M\u00f3j Q\u0144",
+      "url": "https://open.spotify.com/track/3T78wy2ZSkBdpnE8AimF6M"
     },
     {
       "album": {
@@ -1836,7 +1926,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 159233,
       "name": "na chwil\u0119",
       "url": "https://open.spotify.com/track/3Sh7RhmYa3lnF9gVC0Ql5m"
@@ -2134,7 +2224,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 130832,
       "name": "nie, no i c\u00f3\u017c",
       "url": "https://open.spotify.com/track/3uC6WiiUMH7lhGDRMXl1qT"
@@ -2152,7 +2242,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 236578,
       "name": "Nieba",
       "url": "https://open.spotify.com/track/2PSOtkjzZIHmDNfkmvyzvW"
@@ -2231,6 +2321,46 @@
     },
     {
       "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/4kIay6aCm5O99xmf2AA9G9"
+      },
+      "artists": [
+        {
+          "name": "D\u017cej D\u017cej",
+          "url": "https://open.spotify.com/artist/01bIFKC0sSuP5grYjUPOjH"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251786,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/5HWDQ57pqzmliBhEpUElra"
+    },
+    {
+      "album": {
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/2saDF5ycn5yW3q6lZzhJHo"
+      },
+      "artists": [
+        {
+          "name": "Cool Kids Of Death",
+          "url": "https://open.spotify.com/artist/4illxVu43vK6CgfzDhfunc"
+        },
+        {
+          "name": "Belmondo",
+          "url": "https://open.spotify.com/artist/3LDKqGmw6GyxO81YdtMAgl"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302768,
+      "name": "Origami",
+      "url": "https://open.spotify.com/track/19skR3dXGeaNv5o0b7sT0E"
+    },
+    {
+      "album": {
         "name": "Ozdoba",
         "url": "https://open.spotify.com/album/1uuP3ZrDR1pSgg01lkH2Kc"
       },
@@ -2278,7 +2408,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 196115,
       "name": "Panika",
       "url": "https://open.spotify.com/track/7xNoTSO2C9lFY9OUh2JI5Q"
@@ -2699,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "Salonowe Lwy",
+        "url": "https://open.spotify.com/album/7DF5XtoL8AeC9yqWtyEdlR"
+      },
+      "artists": [
+        {
+          "name": "Martini Police",
+          "url": "https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199408,
+      "name": "Salonowe Lwy",
+      "url": "https://open.spotify.com/track/5LV1kG1dHEgtY1juNHtxBB"
+    },
+    {
+      "album": {
         "name": "SAM",
         "url": "https://open.spotify.com/album/5MKhs8GSZrLqagicj8po4r"
       },
@@ -3067,6 +3215,28 @@
     },
     {
       "album": {
+        "name": "Chod\u017amy na \u0142aweczk\u0119",
+        "url": "https://open.spotify.com/album/08plV2YkI2tR5gRrlJ9YC6"
+      },
+      "artists": [
+        {
+          "name": "Zab\u0142ocki Osobi\u015bcie",
+          "url": "https://open.spotify.com/artist/0dZDa1WM4m0jHQwP46uQq2"
+        },
+        {
+          "name": "Czes\u0142aw \u015apiewa",
+          "url": "https://open.spotify.com/artist/5rDWHA1JYXY31soG6Os9cY"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "Szkoda \u017cycia",
+      "url": "https://open.spotify.com/track/40KmiQLqWqV1Qe4HH3fFBF"
+    },
+    {
+      "album": {
         "name": "Sztandar",
         "url": "https://open.spotify.com/album/0rNqpU70noBLgotPNPrHNw"
       },
@@ -3136,7 +3306,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 239433,
       "name": "THAT'S NOT ME",
       "url": "https://open.spotify.com/track/1QwhSbeQ0xzanK8doQij0W"
@@ -3718,7 +3888,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 222439,
       "name": "Zabawne?",
       "url": "https://open.spotify.com/track/1L0tgCI2eY1S8GPfYvQHY4"

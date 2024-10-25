@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: ISSUGI & GRADIS NICE
 
-1,166 songs - 2 day 11 hr 47 min
+1,168 songs - 2 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [BUCHINUKERU](https://open.spotify.com/track/0wwNHoW0cocUiNw8ULMgpr) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [BUCHINUKERU](https://open.spotify.com/album/3dNldcT6rr3YF24ULEsIru) | 3:02 | 2024-03-27 | 2024-04-19 |
 | [BUCHINUKERU](https://open.spotify.com/track/2TCyfVDce0Ftvz9baInjcy) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [BUCHINUKERU](https://open.spotify.com/album/4eKCXqZvwAUzYKihxBUcKk) | 3:02 | 2024-03-26 | 2024-05-02 |
 | [BURN \(feat\. FKD\)](https://open.spotify.com/track/6TDsO7nMPinpsidMGdFKEX) | [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [BURN \(feat\. FKD\)](https://open.spotify.com/album/2LqejZMocKOwTzxbwUaG0L) | 3:33 | 2024-10-15 | 2024-10-23 |
+| [Business](https://open.spotify.com/track/20EF6W7Egi1d1rUEboe5MB) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [TAD](https://open.spotify.com/album/6eGfXkLZC1h6PBftRMEzZs) | 2:21 | 2024-10-24 |  |
 | [Bussin'](https://open.spotify.com/track/57qstzbbD7PZ6Em649gLjj) | [Ja¥Da](https://open.spotify.com/artist/4NEe9L2w6hCQB8boWIvyV5), [D\-RAM](https://open.spotify.com/artist/6fPFcDd394Ozh1s8WdMCtk) | [Bussin'](https://open.spotify.com/album/28dsx2yP9sMU55mlfX6W1V) | 3:08 | 2024-09-17 | 2024-09-25 |
 | [BUSY feat\. BENXNI, TAHITI](https://open.spotify.com/track/29Vubf1qt7NmbsgjrEIuC9) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2), [TAHITI](https://open.spotify.com/artist/11Ihrdsc07m7HGvqmbGCbp) | [BUSY feat\. BENXNI, TAHITI](https://open.spotify.com/album/4fJsaKjr4KkZwdsH3eFxSp) | 2:21 | 2024-07-09 | 2024-07-17 |
 | [byun G \(feat\. JUMADIBA & LIL SOFT TENNIS\)](https://open.spotify.com/track/1FQjo0haV5MxhLwYdpE7pq) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [byun G \(feat\. JUMADIBA & LIL SOFT TENNIS\)](https://open.spotify.com/album/43leCvMIEvY3QtcWyN8qEM) | 3:15 | 2024-09-17 | 2024-10-23 |
@@ -329,6 +330,7 @@
 | [FLASH](https://open.spotify.com/track/3vs2T06rOSjiieKHkgrRkb) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [FLASH](https://open.spotify.com/album/5T8F62YDxArVIPzttBa2yH) | 3:36 | 2023-12-12 | 2024-01-10 |
 | [Floor 2 stage](https://open.spotify.com/track/2AMGt0vjQWqe3P1190xcxY) | [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI) | [Floor 2 Stage](https://open.spotify.com/album/2Fcw5qRXPSzxBrDOKCVvM6) | 3:12 | 2024-10-23 |  |
 | [FLY](https://open.spotify.com/track/6BkXrlhT0eJYc6ingXKM0P) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb), [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW) | [FLY](https://open.spotify.com/album/0jVGbk26C3NaEdLRO7SIyA) | 3:00 | 2024-02-06 | 2024-02-28 |
+| [FLY](https://open.spotify.com/track/0y2viBvXtPSmEH0j7t1AMD) | [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [THE GRIFFIN TAPES](https://open.spotify.com/album/4YMGw7zIbk27pQo3kIrCoI) | 2:32 | 2024-10-24 |  |
 | [Focus](https://open.spotify.com/track/3Isd3NqkaQQ9UCiwmNWLmR) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [ineedmorebux](https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW) | [As Usual](https://open.spotify.com/album/4j9sefX0lu6uQIXy1VOzf6) | 2:23 | 2023-12-26 | 2023-12-30 |
 | [Focus](https://open.spotify.com/track/7obYc4xBA9qHuOOckPHKHH) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [ineedmorebux](https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW) | [As Usual](https://open.spotify.com/album/1QE6N5297Mp5hywrz0exhy) | 2:23 | 2023-12-28 | 2024-01-12 |
 | [footbath](https://open.spotify.com/track/4apaTspsNn2F9rT0cdq7dp) | [CHAPAH](https://open.spotify.com/artist/48I0npVZVKzmMzS4ovC5ZG) | [half of it](https://open.spotify.com/album/3tcj0Ec0L5dl0yGkq2s0F0) | 2:47 | 2024-02-14 | 2024-02-23 |

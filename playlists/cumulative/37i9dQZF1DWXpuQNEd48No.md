@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: FEROZI
 
-300 songs - 15 hr 36 min
+301 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Cigarette](https://open.spotify.com/track/5eUpBQYXRIyNfLFqRW5nwQ) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Cigarette](https://open.spotify.com/album/2wVwJZiXVsQ9tIm2mum83F) | 2:40 | 2023-12-14 |  |
 | [Circle](https://open.spotify.com/track/5d3cpUagWngKLiIwtHSLKV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Circle](https://open.spotify.com/album/6cEaAwxDU0JPzApMzVFcEZ) | 3:14 | 2023-08-30 | 2023-09-28 |
 | [Concentrate Drill](https://open.spotify.com/track/7BRxPnK4rwOf01MMCUljSI) | [Chota Puthar Aala](https://open.spotify.com/artist/4UU6mpKAEYiMTEf7J5Zgp7), [Sumit Seedpuriya](https://open.spotify.com/artist/2Ts3AzZrjd3LNIQhjYQxQS) | [Concentrate Drill](https://open.spotify.com/album/4odgsg6ibpmkxaQNbLUov1) | 4:17 | 2024-07-03 | 2024-07-09 |
-| [Confuse](https://open.spotify.com/track/5nXadOAptwlFI7desJ3P1e) | [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Confuse](https://open.spotify.com/album/4oLOKpv3T6F7GoE6Q8rRGQ) | 2:39 | 2024-09-16 |  |
+| [Confuse](https://open.spotify.com/track/5nXadOAptwlFI7desJ3P1e) | [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Confuse](https://open.spotify.com/album/4oLOKpv3T6F7GoE6Q8rRGQ) | 2:39 | 2024-09-16 | 2024-10-25 |
 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 | 2023-10-18 |  |
 | [Criminal](https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Criminal](https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel) | 3:51 | 2023-11-09 |  |
 | [DAD](https://open.spotify.com/track/3gMWtZT62pIpVY6JZAmjrU) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [DAD](https://open.spotify.com/album/46D35bKFH47ZVfaaTgQE3C) | 3:19 | 2023-03-28 | 2023-05-24 |
@@ -98,6 +98,7 @@
 | [Ego Killer](https://open.spotify.com/track/6WhqcM5yOeBNvbtpKJfm2Z) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Ego Killer](https://open.spotify.com/album/7lxM6bndvrEx8pFd8FLYjm) | 3:08 | 2024-05-09 |  |
 | [Eicher Messi \- Mafioso Chapter 1](https://open.spotify.com/track/3XgviOJM1jRGtuL8i9sl0c) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo), [Yeh Proof](https://open.spotify.com/artist/0xuzAcmzyzVoKqRgA9oF4D) | [Eicher Messi \(Mafioso Chapter 1\)](https://open.spotify.com/album/4sLu1nx66FK0T2VQrHEvVF) | 3:10 | 2023-06-16 | 2023-07-12 |
 | [Elaan](https://open.spotify.com/track/3dzkMcvRVdDfnfcSXZyD9j) | [Monty Sehrawat](https://open.spotify.com/artist/6WpldzFXzmtrk0RydeZrL4), [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Elaan](https://open.spotify.com/album/2qrRnBtC5ojTsEvmepGiVe) | 3:13 | 2023-12-14 | 2024-04-06 |
+| [Expelled](https://open.spotify.com/track/0ELzctzDOxFi8eSGREvQum) | [ADDI KALYAN](https://open.spotify.com/artist/6s3N1jFz2YrJPCEvbF5gDN), [Varun Rana](https://open.spotify.com/artist/34bsUwR2hSCqyem7PH2s05) | [Expelled](https://open.spotify.com/album/5OKWtPFNxhuGaRjxZBeF3n) | 2:36 | 2024-10-23 |  |
 | [Extend Mag](https://open.spotify.com/track/4rnNQakQukmfI9v8eWBXuh) | [SB The Haryanvi](https://open.spotify.com/artist/5HmjeHpOiFOpeHQVwqJNOc), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB), [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj) | [Extend Mag](https://open.spotify.com/album/1a7zFMClsGzUiLJYEhTl1Y) | 2:35 | 2023-06-16 | 2023-07-12 |
 | [Eyes 44](https://open.spotify.com/track/1DFTaua4jLEU4XPDfYLAa2) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Eyes 44](https://open.spotify.com/album/4klfeFNyR2zuPf2r5r1Wns) | 2:57 | 2024-02-06 |  |
 | [Farida Drip](https://open.spotify.com/track/3mInEHbMdIsY7E4czvxloZ) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [Farida Drip](https://open.spotify.com/album/2bBOwF7NrAR5Y74C8d5diO) | 4:11 | 2024-09-30 |  |

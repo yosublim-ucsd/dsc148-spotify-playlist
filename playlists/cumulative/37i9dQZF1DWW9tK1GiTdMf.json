@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "musica da gridare \ud83d\udde3\ufe0f NASKA in cover",
+  "description": "musica da gridare \ud83d\udde3\ufe0f Sad Twins in cover",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -1773,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "anni interi",
+        "url": "https://open.spotify.com/album/30H4X9TjVfih0ZS8AvvsHa"
+      },
+      "artists": [
+        {
+          "name": "3win$",
+          "url": "https://open.spotify.com/artist/6K3XJR65jyl05A6rx2s0fY"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176675,
+      "name": "anni interi",
+      "url": "https://open.spotify.com/track/4JqjVcGh2ZOGZCKSxgpRHx"
+    },
+    {
+      "album": {
         "name": "Ansia",
         "url": "https://open.spotify.com/album/5YAcr4KpQK8UkMhoY1WYem"
       },
@@ -2342,6 +2360,24 @@
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+    },
+    {
+      "album": {
+        "name": "FLUOSEXXX",
+        "url": "https://open.spotify.com/album/20CZadiEfsxesFHbZWNxS5"
+      },
+      "artists": [
+        {
+          "name": "FLUOSEXXX",
+          "url": "https://open.spotify.com/artist/1ejTIvvUeDlzh43gbsw95u"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165223,
+      "name": "BANG! BANG! BANG!",
+      "url": "https://open.spotify.com/track/66BKiNpVXsWIKNKckw7EOQ"
     },
     {
       "album": {
@@ -3502,6 +3538,32 @@
       "duration_ms": 160236,
       "name": "Che ce ne fotte",
       "url": "https://open.spotify.com/track/2jXqI9XFWwGS735IF4VJy3"
+    },
+    {
+      "album": {
+        "name": "che maleducata!",
+        "url": "https://open.spotify.com/album/23xMt7oAprAH8Diztu3QrN"
+      },
+      "artists": [
+        {
+          "name": "maxwell da costa",
+          "url": "https://open.spotify.com/artist/7fBNjQ2hEvNyisqpp8o4ZT"
+        },
+        {
+          "name": "Kr1",
+          "url": "https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej"
+        },
+        {
+          "name": "SIC",
+          "url": "https://open.spotify.com/artist/0Hj8b0XnX4W9Kufo4XKu6v"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146909,
+      "name": "che maleducata!",
+      "url": "https://open.spotify.com/track/2xjHdFcbCpYAbWoHyF5eg5"
     },
     {
       "album": {
@@ -6907,6 +6969,24 @@
     },
     {
       "album": {
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/42dIAVaCBtWaV3Ppc0Jpd3"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/1eXhw6R7CRTzWYvY5f7hNL"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/58t84zHOAYjODbXuCU3duu"
+    },
+    {
+      "album": {
         "name": "FAMMI MALE",
         "url": "https://open.spotify.com/album/0iD0mIHGkUWzQlGsHDsvpq"
       },
@@ -8883,6 +8963,28 @@
     },
     {
       "album": {
+        "name": "ho finito le lacrime",
+        "url": "https://open.spotify.com/album/7GFZpx3MnYFEGsZ90nCliA"
+      },
+      "artists": [
+        {
+          "name": "Strazjo",
+          "url": "https://open.spotify.com/artist/6Z7ZiNVw86KDb2vGNs0aKy"
+        },
+        {
+          "name": "+sudore",
+          "url": "https://open.spotify.com/artist/6BZkzIw31SNqxISpdWnetC"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135132,
+      "name": "ho finito le lacrime",
+      "url": "https://open.spotify.com/track/2QoNAvLcSRTHKe3dy5cYyZ"
+    },
+    {
+      "album": {
         "name": "Ho perso",
         "url": "https://open.spotify.com/album/6SSVT3Ad07f8VjIiFq219k"
       },
@@ -9667,6 +9769,24 @@
     },
     {
       "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/2lRiudeKqb9xgWDNRgYTno"
+      },
+      "artists": [
+        {
+          "name": "ALLERTA!",
+          "url": "https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220223,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/34y3duNKZmxUihOpZaiItl"
+    },
+    {
+      "album": {
         "name": "RICORDI",
         "url": "https://open.spotify.com/album/0Ql6IRvABQQW1b3rk1Kd2m"
       },
@@ -9824,6 +9944,28 @@
       "duration_ms": 199301,
       "name": "IRSB",
       "url": "https://open.spotify.com/track/7atwRZgIdrIKUF5LqRrRNE"
+    },
+    {
+      "album": {
+        "name": "IT\u2019S JUST ME",
+        "url": "https://open.spotify.com/album/12QlRy3DV7DBuvNlR7ur8j"
+      },
+      "artists": [
+        {
+          "name": "Dreik",
+          "url": "https://open.spotify.com/artist/5hd7uzdSgIlrJmZRPfLkSi"
+        },
+        {
+          "name": "Blak",
+          "url": "https://open.spotify.com/artist/6IH1y7lDZ4f5emA2chtADV"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164914,
+      "name": "IT\u2019S JUST ME",
+      "url": "https://open.spotify.com/track/1uvcSWH2wGIOSZGktSUHBM"
     },
     {
       "album": {
@@ -16341,6 +16483,24 @@
     },
     {
       "album": {
+        "name": "Redline",
+        "url": "https://open.spotify.com/album/6rJtv5AeDuIBqHMUmtLOJC"
+      },
+      "artists": [
+        {
+          "name": "Anfysia",
+          "url": "https://open.spotify.com/artist/24zKteupvWQ4W1YG7F5dll"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "Redline",
+      "url": "https://open.spotify.com/track/6qMK0DEWHt40xhYYNTNPWW"
+    },
+    {
+      "album": {
         "name": "REQUIEM",
         "url": "https://open.spotify.com/album/2W09xIZ63nBstT9nLW2mAu"
       },
@@ -18537,6 +18697,24 @@
     },
     {
       "album": {
+        "name": "SPELLS II",
+        "url": "https://open.spotify.com/album/4p2K1Y9A6BKOPfwT4JKfSt"
+      },
+      "artists": [
+        {
+          "name": "Your Grave",
+          "url": "https://open.spotify.com/artist/2G8rF6L56shIM67jSKgXhm"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169421,
+      "name": "SPELLS II",
+      "url": "https://open.spotify.com/track/6UmU5St6nM181n2e40AMks"
+    },
+    {
+      "album": {
         "name": "Spent\u00f8 & Stanc\u00f8",
         "url": "https://open.spotify.com/album/0JbnMskkKVUFFIczLSidmw"
       },
@@ -20288,6 +20466,24 @@
       "duration_ms": 169560,
       "name": "TOY BOY",
       "url": "https://open.spotify.com/track/7AjDCxjAG0o2i8B2aS3J1M"
+    },
+    {
+      "album": {
+        "name": "TRA LE TUE BRACCIA",
+        "url": "https://open.spotify.com/album/0tApMpKF0AO7jShDQQigdq"
+      },
+      "artists": [
+        {
+          "name": "Peri",
+          "url": "https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166928,
+      "name": "TRA LE TUE BRACCIA",
+      "url": "https://open.spotify.com/track/0N8cT6YiNauT1WzAgZmXmE"
     },
     {
       "album": {

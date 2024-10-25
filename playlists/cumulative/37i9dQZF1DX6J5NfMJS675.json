@@ -1421,6 +1421,28 @@
     },
     {
       "album": {
+        "name": "Be My Fantasy",
+        "url": "https://open.spotify.com/album/7nhNULM70P10042Qous9Gu"
+      },
+      "artists": [
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        },
+        {
+          "name": "FOLUAL",
+          "url": "https://open.spotify.com/artist/50xEou9cTjanfYp46mLhBw"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340869,
+      "name": "Be My Fantasy",
+      "url": "https://open.spotify.com/track/1EJIHSPyJxrIeI5tmv7Aap"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
       },
@@ -3063,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/4KqPOX1HxCmoDWjHErXD4h"
+      },
+      "artists": [
+        {
+          "name": "Endica",
+          "url": "https://open.spotify.com/artist/1KtGPlm0CUKG51IwTy2fC8"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295694,
+      "name": "Darkness - Extended Mix",
+      "url": "https://open.spotify.com/track/7C6DCd0L6BE74d4wnXDwBj"
+    },
+    {
+      "album": {
         "name": "Darkness Falls",
         "url": "https://open.spotify.com/album/0jKYzvWcpUZErGjZCcQPHL"
       },
@@ -4286,6 +4326,32 @@
       "duration_ms": 190866,
       "name": "Escape",
       "url": "https://open.spotify.com/track/3zOj4iZqK4qU1OfcCGGk8i"
+    },
+    {
+      "album": {
+        "name": "Escape From Planet Monday",
+        "url": "https://open.spotify.com/album/6jCSQjMDY7imZ95OUQNdeD"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "LUSU",
+          "url": "https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "Escape From Planet Monday",
+      "url": "https://open.spotify.com/track/2IqFYZ4Vocia7PmzEZh67r"
     },
     {
       "album": {
@@ -6639,6 +6705,42 @@
     },
     {
       "album": {
+        "name": "I'm From Holland",
+        "url": "https://open.spotify.com/album/2GPgkNnsPkXdL9k9kFeJxx"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231857,
+      "name": "I'm From Holland",
+      "url": "https://open.spotify.com/track/2qJvo0PQfsR3DGsWXYqvmo"
+    },
+    {
+      "album": {
+        "name": "I'm Still Me",
+        "url": "https://open.spotify.com/album/5TgS7mejgsxBIguADrWyqQ"
+      },
+      "artists": [
+        {
+          "name": "Jody 6",
+          "url": "https://open.spotify.com/artist/0E8BC8YVaBgXflTlmNnH5Y"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216888,
+      "name": "I'm Still Me",
+      "url": "https://open.spotify.com/track/37GZqtn0tbxY4AOs3NNWHz"
+    },
+    {
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3rcMEaH5c4wJv3LUF1LJnb"
       },
@@ -6835,6 +6937,28 @@
     },
     {
       "album": {
+        "name": "Inhuman Programming",
+        "url": "https://open.spotify.com/album/0wSUatnxOK76nXwUsxOOAr"
+      },
+      "artists": [
+        {
+          "name": "Raden (UK)",
+          "url": "https://open.spotify.com/artist/6BW1auskrxNZ5Ap83LtamK"
+        },
+        {
+          "name": "Bouras",
+          "url": "https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372183,
+      "name": "Inhuman Programming - Original Mix",
+      "url": "https://open.spotify.com/track/0CHbq6alKqfZnD7r2uNJGm"
+    },
+    {
+      "album": {
         "name": "Inhuman Signal EP",
         "url": "https://open.spotify.com/album/7aIwEzqADKqVQNVb8xvBTa"
       },
@@ -6850,6 +6974,24 @@
       "duration_ms": 366530,
       "name": "Inhuman Signal",
       "url": "https://open.spotify.com/track/4Ov0miNXa4W5LY9yROd5xQ"
+    },
+    {
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/6YDvnrnQeEqVvBwL7c9Rmk"
+      },
+      "artists": [
+        {
+          "name": "UMEK",
+          "url": "https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317333,
+      "name": "Injected with a Poison",
+      "url": "https://open.spotify.com/track/2HIcYdOYQ2yaRGumU8QAzl"
     },
     {
       "album": {
@@ -7497,6 +7639,24 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/2W5kjVC9CVTFp12LAKw2K5"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192352,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/0T3cGxD64iCMuXH4u7QHcH"
+    },
+    {
+      "album": {
         "name": "Libertas",
         "url": "https://open.spotify.com/album/21FfwcpsfChqIhPltOQzHx"
       },
@@ -7672,6 +7832,24 @@
       "duration_ms": 390000,
       "name": "Little Hero",
       "url": "https://open.spotify.com/track/73Z9bB6pDnpj4pQhzScrWm"
+    },
+    {
+      "album": {
+        "name": "Little Something",
+        "url": "https://open.spotify.com/album/7hd7hRSH3OkQ9WlONwLgZq"
+      },
+      "artists": [
+        {
+          "name": "EFESIAN",
+          "url": "https://open.spotify.com/artist/1fZOavLEMJtVzDcFGVPHWC"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213356,
+      "name": "Little Something",
+      "url": "https://open.spotify.com/track/6iLj7AAB7KtOUWoWYppuEk"
     },
     {
       "album": {
@@ -8745,6 +8923,28 @@
     },
     {
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/37RHLRLT4dP5ZQ12U00Jmt"
+      },
+      "artists": [
+        {
+          "name": "Franco Smith",
+          "url": "https://open.spotify.com/artist/2uDxGjpjAlx0drkaBZnHs7"
+        },
+        {
+          "name": "TimiR",
+          "url": "https://open.spotify.com/artist/03LgiH4bqQvv0WQvf6grai"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197822,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/4ahhbuJZwhrlsrmwBDhnes"
+    },
+    {
+      "album": {
         "name": "Nautilus",
         "url": "https://open.spotify.com/album/2fE3Nl6uBc2W5ex4H1QXxn"
       },
@@ -8782,7 +8982,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 389624,
       "name": "Nebelberg",
       "url": "https://open.spotify.com/track/3XKUyc0aRA8p0UbrP5SNmh"
@@ -13658,6 +13858,24 @@
       "duration_ms": 363889,
       "name": "Time",
       "url": "https://open.spotify.com/track/65avt9HtCTofE3r4sYGs48"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/3ZKx4jSwCsLLsaJoil6wp9"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200287,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5GprKgWvoGYGq7nXnjCt0O"
     },
     {
       "album": {

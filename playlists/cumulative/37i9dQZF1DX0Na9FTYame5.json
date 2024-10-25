@@ -107,6 +107,50 @@
     },
     {
       "album": {
+        "name": "7 LEERE ZIMMER (feat. Henning May)",
+        "url": "https://open.spotify.com/album/2qDDjSZ24ITB4ah9LCBCBc"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Henning May",
+          "url": "https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "7 LEERE ZIMMER (feat. Henning May)",
+      "url": "https://open.spotify.com/track/2t5zRm6bgu4TRvmELiEsDV"
+    },
+    {
+      "album": {
+        "name": "Akhirah",
+        "url": "https://open.spotify.com/album/03FgDDOodv6plMesbVdF2c"
+      },
+      "artists": [
+        {
+          "name": "NAVACHA",
+          "url": "https://open.spotify.com/artist/3CzTaj0KPnnjizkzxRNJym"
+        },
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Akhirah",
+      "url": "https://open.spotify.com/track/12Vl8CoS1ijQF1eJjqnSvS"
+    },
+    {
+      "album": {
         "name": "AMA DOREN",
         "url": "https://open.spotify.com/album/05pc4LDuUnuroq0J9yFmUO"
       },
@@ -118,7 +162,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 161250,
       "name": "AMA DOREN",
       "url": "https://open.spotify.com/track/31IhzT94l1iqqTcwohZzbY"
@@ -286,7 +330,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 146927,
       "name": "Bis ins Grab",
       "url": "https://open.spotify.com/track/6DidG1r0xh9EuZtCC3Snnq"
@@ -366,6 +410,24 @@
       "duration_ms": 170579,
       "name": "Breaking your heart",
       "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
+    },
+    {
+      "album": {
+        "name": "Daddy Issues",
+        "url": "https://open.spotify.com/album/6p2zgYa7Su9vIJlmg0GmgB"
+      },
+      "artists": [
+        {
+          "name": "ANTHI",
+          "url": "https://open.spotify.com/artist/6IkHFTRWPXeoJqL5DLcL6u"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155555,
+      "name": "Daddy Issues",
+      "url": "https://open.spotify.com/track/79MvFIuO9ehGPKzpD3ERWv"
     },
     {
       "album": {
@@ -522,6 +584,24 @@
       "duration_ms": 150320,
       "name": "Duftkerzen",
       "url": "https://open.spotify.com/track/6vGei0kn5k3Z5kwDugLNvi"
+    },
+    {
+      "album": {
+        "name": "Egal",
+        "url": "https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k"
+      },
+      "artists": [
+        {
+          "name": "ZAVET",
+          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139410,
+      "name": "Egal",
+      "url": "https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1"
     },
     {
       "album": {
@@ -722,7 +802,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 148861,
       "name": "Family",
       "url": "https://open.spotify.com/track/5Qn965LX8QQGrpWUVN3Hcf"
@@ -1124,7 +1204,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 137986,
       "name": "Ich schw\u00f6r bei Gott",
       "url": "https://open.spotify.com/track/2bicGF7dHTbCynG3cgD485"
@@ -1212,7 +1292,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 126450,
       "name": "Irgendwas klopft",
       "url": "https://open.spotify.com/track/4IjCVfzb1JQJ8KKkhXllVl"
@@ -1350,7 +1430,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 173000,
       "name": "Lautlos",
       "url": "https://open.spotify.com/track/2Y0jnnVN1KDg8On65Rw2Hk"
@@ -1844,7 +1924,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 101714,
       "name": "Normal ist",
       "url": "https://open.spotify.com/track/57S16PUBDXaKLYpEH9V4L5"
@@ -2024,6 +2104,28 @@
       "duration_ms": 135645,
       "name": "Princess Treatment",
       "url": "https://open.spotify.com/track/16QzeM0c7wf4TgyXSVFlji"
+    },
+    {
+      "album": {
+        "name": "RED CUPS (feat. Paula Hartmann)",
+        "url": "https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206259,
+      "name": "RED CUPS (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs"
     },
     {
       "album": {

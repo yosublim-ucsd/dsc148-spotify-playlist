@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Zuchu",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Nandy & Harmonize",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 205714,
       "name": "Disconnect (feat. Marioo)",
       "url": "https://open.spotify.com/track/5QH75Csj5dy5eJA66cyOZ4"
@@ -3756,7 +3756,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 211067,
       "name": "Lonely (feat. Nandy)",
       "url": "https://open.spotify.com/track/7iO2DALT0B86XvNRqA4pES"
@@ -4296,7 +4296,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 191221,
       "name": "Mchuchu",
       "url": "https://open.spotify.com/track/4yDggExRPsd917Kewd2bP1"
@@ -6691,6 +6691,28 @@
     },
     {
       "album": {
+        "name": "Pisi",
+        "url": "https://open.spotify.com/album/1mp2vUSOmcgGJlfrRtZxV7"
+      },
+      "artists": [
+        {
+          "name": "Moni Centrozone",
+          "url": "https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230780,
+      "name": "Pisi",
+      "url": "https://open.spotify.com/track/788uP7aH98lMiRYIadYW6h"
+    },
+    {
+      "album": {
         "name": "Pita Kule",
         "url": "https://open.spotify.com/album/0NHnGLPDGZKXhtnB6ouLZv"
       },
@@ -7643,6 +7665,32 @@
     },
     {
       "album": {
+        "name": "Sir God (feat. D Voice & Billnass)",
+        "url": "https://open.spotify.com/album/1Dr2rDsA0rsiTOaDahpuX2"
+      },
+      "artists": [
+        {
+          "name": "Chege",
+          "url": "https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB"
+        },
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        },
+        {
+          "name": "Billnass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283538,
+      "name": "Sir God (feat. D Voice & Billnass)",
+      "url": "https://open.spotify.com/track/2BVmswbLRnULCTiAkpTdwO"
+    },
+    {
+      "album": {
         "name": "Sishindwi",
         "url": "https://open.spotify.com/album/1B9XPvItUHd9JNVRTMm2iU"
       },
@@ -8499,6 +8547,24 @@
     },
     {
       "album": {
+        "name": "UNANCHEKESHA (Move On)",
+        "url": "https://open.spotify.com/album/1L5NOPux4D5m7hYSXJl4IU"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173196,
+      "name": "UNANCHEKESHA (Move On)",
+      "url": "https://open.spotify.com/track/0SEeJFBZhAo4u9IpG03bLX"
+    },
+    {
+      "album": {
         "name": "Unanifaa",
         "url": "https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW"
       },
@@ -8510,7 +8576,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 198761,
       "name": "Unanifaa",
       "url": "https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t"
@@ -8620,6 +8686,28 @@
       "duration_ms": 183719,
       "name": "Uridhike",
       "url": "https://open.spotify.com/track/7cc2RrsWpynqV1fYTZw02F"
+    },
+    {
+      "album": {
+        "name": "Usemi Sina (feat. Harmonize)",
+        "url": "https://open.spotify.com/album/5KeeqL8MAeTyiRCodK8PQV"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172274,
+      "name": "Usemi Sina (feat. Harmonize)",
+      "url": "https://open.spotify.com/track/62A4OmPLPI7xZQHtF4kfCQ"
     },
     {
       "album": {

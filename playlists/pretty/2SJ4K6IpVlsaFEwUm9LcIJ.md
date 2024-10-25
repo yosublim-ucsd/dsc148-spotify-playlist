@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 21,827 likes - 58 songs - 3 hr 15 min
+[margeaux](https://open.spotify.com/user/1220511975) - 21,830 likes - 62 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,11 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 54 | [CLONES](https://open.spotify.com/track/5M0Y1xCKHmyH1zWnHOnOkC) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 3:02 |
 | 55 | [MOTION SICKNESS](https://open.spotify.com/track/3V5s3euCe2CWbNVLfgKnQT) | [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [BERETTA](https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2) | 1:45 |
 | 56 | [Mournin' Glory Story](https://open.spotify.com/track/0gpGBZAX9ASpInrBXcg1te) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Harry](https://open.spotify.com/album/1lQCkCt8zS3ZWSIE0YAmKW) | 2:12 |
-| 57 | [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 |
-| 58 | [Wishing Well](https://open.spotify.com/track/64w8GIJRkm6zejGjxLVN3K) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Paint a Room](https://open.spotify.com/album/3sZZlLS1JY1MPWOGWe8mtQ) | 2:38 |
+| 57 | [obvious](https://open.spotify.com/track/786jy4LS2o1DIPIcul4y7D) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [harvest sky / obvious](https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz) | 2:15 |
+| 58 | [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 |
+| 59 | [Wishing Well](https://open.spotify.com/track/64w8GIJRkm6zejGjxLVN3K) | [Chris Cohen](https://open.spotify.com/artist/2OYDcH3MLWeNjj7gQVUbEF) | [Paint a Room](https://open.spotify.com/album/3sZZlLS1JY1MPWOGWe8mtQ) | 2:38 |
+| 60 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
+| 61 | [She Is Staggering](https://open.spotify.com/track/6hFaRjM7c0QizkgMkZsdwg) | [Polaris](https://open.spotify.com/artist/1ZOKm4ZfrMPjTynDt99aCp) | [Music From The Adventures Of Pete & Pete](https://open.spotify.com/album/1cqCEa8ldM7nwcEINzz8MA) | 3:08 |
+| 62 | [B](https://open.spotify.com/track/7t1FUkqJRdQdNrkjwfhq2H) | [Lync](https://open.spotify.com/artist/31fnC8wbw2ZBITgOp6KKoY) | [These Are Not Fall Colors](https://open.spotify.com/album/3Is1zxmfs8xXPL8QnB27kd) | 4:30 |
 
-Snapshot ID: `AAALONF1/TIHicPm3828RxScChlfSn+P`
+Snapshot ID: `AAALPYQf1QOQ1qFGFk/t+oPlAREO+rbP`

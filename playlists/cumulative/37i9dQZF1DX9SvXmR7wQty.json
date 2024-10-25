@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Ah les crocodiles",
+        "url": "https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165386,
+      "name": "Ah les crocodiles",
+      "url": "https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY"
+    },
+    {
+      "album": {
         "name": "A la bien mix party - 10 ans apr\u00e8s",
         "url": "https://open.spotify.com/album/1LWkPHi9tZSJ0qhJxPGlQx"
       },
@@ -13826,7 +13844,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 184573,
       "name": "DOUTE (feat. Zamdane)",
       "url": "https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk"

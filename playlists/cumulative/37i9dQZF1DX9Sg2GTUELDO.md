@@ -2,15 +2,16 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: Gin Lee
+> 感受超級女聲力量。Cover: Cath黃妍
 
-392 songs - 23 hr 33 min
+397 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Not\) The First Take](https://open.spotify.com/track/00rmlPiMRD8qNpPoXAZ0zO) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [\(Not\) The First Take](https://open.spotify.com/album/3PnoTvsSiqMpFQJ215F0Jm) | 3:34 | 2024-06-27 |  |
 | [\*\~Silencio...Shh](https://open.spotify.com/track/4GEH1FbhEEgnt2NNpHoPYA) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [\*\~Silencio...Shh](https://open.spotify.com/album/4sdDj0R43l053n4BF8UZ1G) | 3:24 | 2024-06-27 |  |
 | [// Undecided //](https://open.spotify.com/track/77q738e2rR8Vmeeiodw1Qg) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [// Undecided //](https://open.spotify.com/album/0VqQP8uElVLV1UUJbzcfIm) | 3:02 | 2024-06-27 |  |
+| [0.1秒後的世界](https://open.spotify.com/track/6HOzptW6b05V4AFp3nBOCf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [0.1秒後的世界](https://open.spotify.com/album/4OzlVA1SKFZCmsXgCALaft) | 4:41 | 2024-10-24 |  |
 | [00000](https://open.spotify.com/track/4PlgRchPnureM5ZuatWHds) | [李靖筠](https://open.spotify.com/artist/3ZeztAMgHGcYuZoWHA9XAH) | [00000](https://open.spotify.com/album/0djwOHn83BBmQfwEIjlYmH) | 3:06 | 2024-06-27 |  |
 | [1 step at a time](https://open.spotify.com/track/5OWPByz3yIouPj6rmFBZIE) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [1 step at a time](https://open.spotify.com/album/636IBCgeztGgfsNQRGJyUk) | 3:07 | 2024-06-27 |  |
 | [13歲的天堂](https://open.spotify.com/track/5LcIqdmlb3K7Ae1P4vG7SP) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [13歲的天堂](https://open.spotify.com/album/7HFUcLKSmLAp7ack1JRlqX) | 4:07 | 2024-06-27 |  |
@@ -30,6 +31,7 @@
 | [Calm Down 練功](https://open.spotify.com/track/2gUzkd6La9jsY4JKtVlzNh) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [HATCHING](https://open.spotify.com/album/1tDBarEBsnMLa12YqDgCGR) | 3:26 | 2024-06-27 |  |
 | [Chosen Family](https://open.spotify.com/track/501E0fjo0yGBWmHyUh6Tvb) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Chosen Family](https://open.spotify.com/album/2Xc5OPcEckqdRFg3fjdf1j) | 3:52 | 2024-06-27 |  |
 | [CityPop](https://open.spotify.com/track/22DT55qhBCDKnPRPoZcX7n) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [CityPop](https://open.spotify.com/album/0meRRieqHjIXJCCt6KtLBZ) | 3:47 | 2024-06-27 |  |
+| [Click Me](https://open.spotify.com/track/6h4tfxlz3XAH9Zd9S2uDbp) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [Click Me](https://open.spotify.com/album/6IrMlbffMmvBvTUpFuqyH9) | 3:09 | 2024-10-24 |  |
 | [Closer to Hell](https://open.spotify.com/track/4eFQHYCWctyJr4dwymVbAI) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Closer to Hell](https://open.spotify.com/album/6sq7O63sKs2NPbK3bPqZJg) | 2:45 | 2024-06-27 |  |
 | [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 | 2024-06-27 |  |
 | [Count to Ten](https://open.spotify.com/track/5CNTjgYjyyPCCX88BREdR3) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Count to Ten](https://open.spotify.com/album/5thxOFFHP4gPBefIQ14iSu) | 2:59 | 2024-06-27 |  |
@@ -108,6 +110,7 @@
 | [Pretty Good](https://open.spotify.com/track/2Pja6ToXXOLBrEtA5p8VMX) | [XiX](https://open.spotify.com/artist/4GoZP54zjLUTt2HICmYOGU) | [Pretty Good](https://open.spotify.com/album/0Yd0AcHFMaPlSWuGvxwddu) | 3:15 | 2024-07-11 |  |
 | [Rain Rain地](https://open.spotify.com/track/4WUGpD1TqdEpmxbXJJ0KjM) | [趙展彤 VAL](https://open.spotify.com/artist/0YyOn3pvKeT1LKWKowx1OG) | [Rain Rain地](https://open.spotify.com/album/0tGR8WnNCTIBkWlNDh7arS) | 3:10 | 2024-06-27 |  |
 | [Ride It Out](https://open.spotify.com/track/72Gt3dMTL2sQvjzJ9WU5Dn) | [Vincy Chan](https://open.spotify.com/artist/1ehwpBADazgPy9ypV77FMx) | [Ride It Out](https://open.spotify.com/album/1M0RzGTeOkCoJohtc22lLG) | 3:20 | 2024-06-27 |  |
+| [ROAD TRIP](https://open.spotify.com/track/0qSJHU8SGFsrwRljZXtE3E) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [ROAD TRIP](https://open.spotify.com/album/1FobP1HybSdf9EccLZYQO0) | 1:11 | 2024-10-24 |  |
 | [Rose de blanc](https://open.spotify.com/track/1MOD1RQR4mSvCpkfm2BeHb) | [BudD](https://open.spotify.com/artist/7JEGiZnqvVmIL6l8F2R1F4) | [Rose de blanc](https://open.spotify.com/album/62ZELWfmFVH72n0dPt6XoX) | 4:26 | 2024-06-27 |  |
 | [Sexy Dangerous](https://open.spotify.com/track/1WSJkeHNwlhRrG1qAO0aCk) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [Sexy Dangerous](https://open.spotify.com/album/3XwX6rgsOzRWPADfuKsyO2) | 3:04 | 2024-06-27 |  |
 | [Shattered](https://open.spotify.com/track/0Jzfsn3VpuF1VbwCtla7Xw) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Shattered](https://open.spotify.com/album/2X2UpyyPSNVj6Qveao987x) | 5:45 | 2024-06-27 |  |
@@ -204,6 +207,7 @@
 | [告白前先看天氣預報](https://open.spotify.com/track/1GAfR4IbqnlcPjPTEX9Dsj) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [告白前先看天氣預報](https://open.spotify.com/album/4Y0y0ILM5EqAwMvp7Fzx1Z) | 3:39 | 2024-07-18 |  |
 | [告訴我](https://open.spotify.com/track/5b1hpRooJQCl54vA4IdIHb) | [Mag Lam](https://open.spotify.com/artist/2fTmvcWWFIP66KlIvWlnlL) | [告訴我](https://open.spotify.com/album/6qc4jiRnIPC6ge4JzQHpLm) | 3:50 | 2024-06-27 |  |
 | [呼吸有害](https://open.spotify.com/track/4t53NE3uBLkTwW9rUgiHC8) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1) | [呼吸有害](https://open.spotify.com/album/3He2V83TzOwwyrdCJTeJeR) | 3:12 | 2024-06-27 |  |
+| [咖啡 鴛鴦 奶茶](https://open.spotify.com/track/7aqI5ATOG8piRo9KUcg1cS) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [咖啡 鴛鴦 奶茶](https://open.spotify.com/album/0vPYjgjYouCbseFYCOLg6S) | 3:47 | 2024-10-24 |  |
 | [哀傷的作者](https://open.spotify.com/track/70kyyZ3E9L2s6v7VRm2SKw) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [4891](https://open.spotify.com/album/4AUjutEcpzppUrcGgPWogs) | 3:31 | 2024-06-27 |  |
 | [哭泣健康指南](https://open.spotify.com/track/28uHoC2GJULmTcFTnkJFb9) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [哭泣健康指南](https://open.spotify.com/album/6694y89ReLyXxCWhonU9O8) | 4:06 | 2024-06-27 |  |
 | [唱到痛的情歌](https://open.spotify.com/track/0q7RTQxeqcR3ADu5r9KY3t) | [Jade Kwan](https://open.spotify.com/artist/5mzNf31zfzrdyD8x9fzcd4) | [唱到痛的情歌](https://open.spotify.com/album/7aqhLgMWp7Hdj8hDYT8gKX) | 4:46 | 2024-06-27 |  |
@@ -292,6 +296,7 @@
 | [早班火车](https://open.spotify.com/track/1EcowIc3wzTKE7QvTv6ZdO) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [早班火车](https://open.spotify.com/album/3ayE6QjjnMfnCDqWcCLBHW) | 3:08 | 2024-06-27 |  |
 | [明天地圖](https://open.spotify.com/track/2iEd5WJ1n39q7yJj7DcDWc) | [Kandy Wong](https://open.spotify.com/artist/2kKFAbFu6uyh4tEm0Jj4Yu) | [明天地圖](https://open.spotify.com/album/0PN0rSi2kREFXsROg2bOUP) | 3:26 | 2024-06-27 |  |
 | [時光厚禮](https://open.spotify.com/track/06wjY1pkC94519dnAOKBMo) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [時光厚禮](https://open.spotify.com/album/5V6MCo6MM2h7lEnNLedxBX) | 3:51 | 2024-06-27 |  |
+| [時間關係](https://open.spotify.com/track/23JHP9KXlC21MQqxq44NbJ) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [時間關係](https://open.spotify.com/album/4KHnwAkZR2yb85Bd88ICkQ) | 3:12 | 2024-10-24 |  |
 | [晚安](https://open.spotify.com/track/5B0dpesJPb574EQ1IZRaZI) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [晚安](https://open.spotify.com/album/1rLxg9V4iarogkTTVirOHy) | 2:21 | 2024-06-27 |  |
 | [暫時沒有名字](https://open.spotify.com/track/4btQWswfWNAYZGewc7Pcvp) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [WHAT'S INSIDE THE ROOM?](https://open.spotify.com/album/2NjR7iPutuICxDC92jZOog) | 3:04 | 2024-06-27 |  |
 | [最佳女團友](https://open.spotify.com/track/4mLb60a5HNxElBf7DmGzgL) | [Beanies](https://open.spotify.com/artist/7qSIVdLkdZZd7U3FHueB0r) | [最佳女團友](https://open.spotify.com/album/7z5DvPbUPAQ2cuDG63XF42) | 3:56 | 2024-06-27 |  |

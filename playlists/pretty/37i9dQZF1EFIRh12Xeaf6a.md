@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,908 likes - 272 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,907 likes - 272 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -242,10 +242,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 232 | [Everybody's Got the Spirit](https://open.spotify.com/track/3onIUSoy6dz7G21ERbu89u) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:45 |
 | 233 | [Don't Let Me Stand In Your Way](https://open.spotify.com/track/5YqYDmO1QdP5drVwBXlj3c) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [Skeeter Davis: The Pop Hits Collection, Volume 1](https://open.spotify.com/album/4tKf2yoF7uLEVrKEeS4r6S) | 2:23 |
 | 234 | [Happy Times \(Are Here to Stay\)](https://open.spotify.com/track/2z17jBMgPaVHEZNs0fNXAy) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Bless You](https://open.spotify.com/album/6gy2D5F0e7UtIgPHLh6GtF) | 2:29 |
-| 235 | [In My Baby's Eyes](https://open.spotify.com/track/32zbUpQkKszTiXse7wr1Ke) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:09 |
-| 236 | [I Couldn't Say No](https://open.spotify.com/track/5XjAnwPn0pAga4vnRA1fez) | [Connie Stevens](https://open.spotify.com/artist/5dg9jB2sji4asJtjihC9AE) | [Essential Masters](https://open.spotify.com/album/4GvvQNXXMuR5I56ga19Yn4) | 2:35 |
-| 237 | [Holla At Your Boy](https://open.spotify.com/track/7koTyURobzyxyIEQ3gOW4o) | [Drag\-On](https://open.spotify.com/artist/2NsAJcAM18AExiMWKLKzuH) | [Hell And Back](https://open.spotify.com/album/3EZTfR8RXwAd5n5cryLVd5) | 3:13 |
-| 238 | [Keep Your Love Locked](https://open.spotify.com/track/1v5veLMvnLZ8mpjIn1gUZv) | [Paul Petersen](https://open.spotify.com/artist/7fUZIscY5nNdeSdetfeBNC) | [All the Hits and More](https://open.spotify.com/album/4cUnVhereIi8xjUYejh7Qm) | 2:11 |
+| 235 | [Keep Your Love Locked](https://open.spotify.com/track/1v5veLMvnLZ8mpjIn1gUZv) | [Paul Petersen](https://open.spotify.com/artist/7fUZIscY5nNdeSdetfeBNC) | [All the Hits and More](https://open.spotify.com/album/4cUnVhereIi8xjUYejh7Qm) | 2:11 |
+| 236 | [In My Baby's Eyes](https://open.spotify.com/track/32zbUpQkKszTiXse7wr1Ke) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:09 |
+| 237 | [I Couldn't Say No](https://open.spotify.com/track/5XjAnwPn0pAga4vnRA1fez) | [Connie Stevens](https://open.spotify.com/artist/5dg9jB2sji4asJtjihC9AE) | [Essential Masters](https://open.spotify.com/album/4GvvQNXXMuR5I56ga19Yn4) | 2:35 |
+| 238 | [Holla At Your Boy](https://open.spotify.com/track/7koTyURobzyxyIEQ3gOW4o) | [Drag\-On](https://open.spotify.com/artist/2NsAJcAM18AExiMWKLKzuH) | [Hell And Back](https://open.spotify.com/album/3EZTfR8RXwAd5n5cryLVd5) | 3:13 |
 | 239 | [Where Does Love Go](https://open.spotify.com/track/4ZdoDBFOzhUXKrK7J3F70U) | [Charles Boyer](https://open.spotify.com/artist/6LBUGX8ISsCGQwxPfqgNCk) | [Romantic Songs of Love](https://open.spotify.com/album/03kbmQbvDIjVo4YZsoGTqR) | 2:59 |
 | 240 | [My Golden Chance](https://open.spotify.com/track/57rmNbG3bPXZJzUZwPks2Z) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 1:51 |
 | 241 | [Soulful Times](https://open.spotify.com/track/1xexSIykM6EN38RVMbnoIN) | [Jackie Mittoo](https://open.spotify.com/artist/6UTUjmko5raD927Hbx960a) | [Rides On](https://open.spotify.com/album/5xOeUNUjdfLd6FcqkeoN6D) | 4:56 |
@@ -281,4 +281,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 271 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 272 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbflPgAAAABdYbv+xuHxJvWzyPT3dyoz`
+Snapshot ID: `Abfq3gAAAACaanmYrvoK9/5liq+oQ1Vq`

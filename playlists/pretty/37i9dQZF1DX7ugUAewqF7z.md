@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,210 likes - 239 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,230 likes - 239 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 139 | [일어나](https://open.spotify.com/track/2LxL8Lq0AD7DzwsqH9sTd0) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV) | 4:28 |
 | 140 | [여행을 떠나요](https://open.spotify.com/track/1pfPCfU2VhUDeGvmICPPKA) | [Cho Yong Pil](https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA) | [45TH ANNIVERSARY CONCERT HELLO](https://open.spotify.com/album/7joDrhz7vXTcrBO6kaZjEK) | 5:23 |
 | 141 | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu) | 3:48 |
-| 142 | [아리랑](https://open.spotify.com/track/29VFnFHW1a3eO2nmVWzoRO) | [SG Wannabe](https://open.spotify.com/artist/5pzvcP5d2vSpy7YJucF4Bb) | [The Sentimental Chord](https://open.spotify.com/album/5UpmaEi9seqjoa9ZF7LPCw) | 4:50 |
+| 142 | [아리랑](https://open.spotify.com/track/29VFnFHW1a3eO2nmVWzoRO) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [The Sentimental Chord](https://open.spotify.com/album/5UpmaEi9seqjoa9ZF7LPCw) | 4:50 |
 | 143 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 |
 | 144 | [You and I](https://open.spotify.com/track/1UwVpY94ycUvPPcEGaitou) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Couple on the Backtrack \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6ca5HPYJlOSeaPtIJ3Z9Ep) | 4:13 |
 | 145 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |

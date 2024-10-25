@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-565 songs - 1 day 3 hr 29 min
+566 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Prova pra Eu Ver \- Ao Vivo](https://open.spotify.com/track/1oF49UW9i72g2GJBmpxhp8) | [Débora Vitória](https://open.spotify.com/artist/01YaVyADj1RRc04lQ65QCy) | [Débora Vitória \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/3kMFsETlyrHhLqCDBQ94aC) | 2:37 | 2023-12-30 |  |
 | [Provas de Amor \(Psicografado\)](https://open.spotify.com/track/0lhaiy0jS0svOdvUEiaDdD) | [Mateus Camillo](https://open.spotify.com/artist/36SK9M4qewJfoCmbbjnpzP) | [Eu e Você](https://open.spotify.com/album/7h6CWCea9P6SLDkL9dhdiP) | 2:38 | 2023-12-30 |  |
 | [Pézin Na Rua \- Ao Vivo No Rio De Janeiro / 2019](https://open.spotify.com/track/75qv4qnNhOyZXzq2fHBjdI) | [João Gabriel](https://open.spotify.com/artist/6cuYN8aZLQ1ZSKkJJwi2eY), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [No Morro \(Ao Vivo No Rio De Janeiro / 2019\)](https://open.spotify.com/album/5mgO08IoSpp5C1BrqdDVyr) | 2:41 | 2023-12-30 |  |
+| [Quando Perde Um Amor](https://open.spotify.com/track/4m2ELhmVHZXtXpu9pI5CNf) | [Gabi & Rapha](https://open.spotify.com/artist/0wFCZHWqWZeqZGxnEPCaBD) | [Quando Perde Um Amor](https://open.spotify.com/album/3fMiMx2cV7ReHQnnTDVJix) | 3:29 | 2024-10-24 |  |
 | [Quebra Esse Gelo](https://open.spotify.com/track/2gv7ZKtzi7dHVoLFpAM6DE) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Nossa História](https://open.spotify.com/album/5o6ge5nutV05dTdfP8wUF5) | 2:56 | 2023-12-30 | 2024-06-08 |
 | [Quebra Esse Gelo](https://open.spotify.com/track/4zqD3641QULpTGKiQaGfqa) | [Leo & Junior](https://open.spotify.com/artist/5fPYgkuPrNbPxyjGXGSCKn) | [A Nossa História](https://open.spotify.com/album/7FQLDUqC75tCfP6orsmoml) | 2:56 | 2024-06-07 |  |
 | [Quem Ama Não Enjoa](https://open.spotify.com/track/1bM5FYtACTXbvOXjmMFXAD) | [Ricardo e João Fernando](https://open.spotify.com/artist/150zwD7rTVIEK5wO25gYez) | [Sorte](https://open.spotify.com/album/6qA6sLVPiPqgPLkpQ1j0Oh) | 2:23 | 2023-12-30 |  |

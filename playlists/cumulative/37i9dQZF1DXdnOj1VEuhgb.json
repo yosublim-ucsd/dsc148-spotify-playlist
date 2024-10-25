@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "9mm",
+        "url": "https://open.spotify.com/album/48z19Z1hAbwHucnqX1UemL"
+      },
+      "artists": [
+        {
+          "name": "Cash Flow",
+          "url": "https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk"
+        },
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197242,
+      "name": "9mm",
+      "url": "https://open.spotify.com/track/4X5si99I9YSbJ12g2yL6gh"
+    },
+    {
+      "album": {
         "name": "A La Carte",
         "url": "https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD"
       },
@@ -1287,6 +1309,28 @@
     },
     {
       "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/5H6tDCCQ2QK3OftBeWT0Ze"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158208,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/1TP5FtFJoaQkL1k0FOfizI"
+    },
+    {
+      "album": {
         "name": "Bruce Lee",
         "url": "https://open.spotify.com/album/1NS2YJ0BYgzM6V4RvGxmUW"
       },
@@ -2267,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "ELJF",
+        "url": "https://open.spotify.com/album/1XBzpP2NxTZxBVQxGoF188"
+      },
+      "artists": [
+        {
+          "name": "Jefe",
+          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145522,
+      "name": "ELJF",
+      "url": "https://open.spotify.com/track/7buaashi0m3aWO90fRreVh"
+    },
+    {
+      "album": {
         "name": "ERASMUS",
         "url": "https://open.spotify.com/album/7aXVIANzjYPDUpdgml4uYd"
       },
@@ -2282,7 +2344,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 72230,
       "name": "ERASMUS",
       "url": "https://open.spotify.com/track/5FjyVOsKmVR85QwJXp90oi"
@@ -2402,7 +2464,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 180680,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/74DINrGM1LeuauHZYELfDg"
@@ -2596,7 +2658,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 190442,
       "name": "GANG",
       "url": "https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3"
@@ -2984,6 +3046,24 @@
       "duration_ms": 136170,
       "name": "GTA",
       "url": "https://open.spotify.com/track/5TBpN90TfbPWcPhzMTeE2w"
+    },
+    {
+      "album": {
+        "name": "G\u00f6rev Gibi Ya\u015fa",
+        "url": "https://open.spotify.com/album/2F9y4BHmsOVHeOhddw3QqF"
+      },
+      "artists": [
+        {
+          "name": "Allame",
+          "url": "https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129130,
+      "name": "G\u00f6rev Gibi Ya\u015fa",
+      "url": "https://open.spotify.com/track/2RATsCDoBcGqG9iZNT9qQQ"
     },
     {
       "album": {
@@ -3982,7 +4062,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 170333,
       "name": "\u0130stanbul",
       "url": "https://open.spotify.com/track/2Hq67R7N7oGz4OEQFMwgcH"
@@ -5074,7 +5154,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 270462,
       "name": "Lab Cypher",
       "url": "https://open.spotify.com/track/1zY2T7z0ODzjtcDkYzmAIJ"
@@ -6631,6 +6711,24 @@
     },
     {
       "album": {
+        "name": "PRENSES",
+        "url": "https://open.spotify.com/album/44BLCsDbownvFI59OzlBgX"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129923,
+      "name": "PRENSES",
+      "url": "https://open.spotify.com/track/2Kr6T3wiXhfA4AsHisn11m"
+    },
+    {
+      "album": {
         "name": "PROBLEM",
         "url": "https://open.spotify.com/album/5O4QvHmAzleLNEtGCK1cLG"
       },
@@ -6664,10 +6762,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 133563,
       "name": "Promilim Y\u00fcksek",
       "url": "https://open.spotify.com/track/7rP7Cf8BMGCQlPBmcxPObM"
+    },
+    {
+      "album": {
+        "name": "Pus*y Magnet",
+        "url": "https://open.spotify.com/album/1rqS6TcjErjXnddaNhfUkg"
+      },
+      "artists": [
+        {
+          "name": "Stabil",
+          "url": "https://open.spotify.com/artist/3XjAYzwW3zGIi0OetnEIvU"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132516,
+      "name": "Pus*y Magnet",
+      "url": "https://open.spotify.com/track/7nllCYpEu99mu8T6mlqUOz"
     },
     {
       "album": {
@@ -7487,6 +7603,24 @@
     },
     {
       "album": {
+        "name": "Senle Ben",
+        "url": "https://open.spotify.com/album/1EHtaUDiYBycqYDhHyPZog"
+      },
+      "artists": [
+        {
+          "name": "Ero",
+          "url": "https://open.spotify.com/artist/1MeqFJRoXLAjOdqXlJaPwQ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145173,
+      "name": "Senle Ben",
+      "url": "https://open.spotify.com/track/0APrifqDZH9Ip6Nnmitin6"
+    },
+    {
+      "album": {
         "name": "SEVG\u0130",
         "url": "https://open.spotify.com/album/6V4Lw81mboujvK3S7hJvou"
       },
@@ -7640,7 +7774,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 172427,
       "name": "SIMARIK",
       "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"
@@ -8345,6 +8479,24 @@
     },
     {
       "album": {
+        "name": "Ucubeler",
+        "url": "https://open.spotify.com/album/1XWZW11ohfj9iFYwHYz6NH"
+      },
+      "artists": [
+        {
+          "name": "Joker",
+          "url": "https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123341,
+      "name": "Ucubeler",
+      "url": "https://open.spotify.com/track/0MzO6ISeqQsHCSEtyzck2m"
+    },
+    {
+      "album": {
         "name": "EL CHAVO",
         "url": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY"
       },
@@ -8822,7 +8974,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 168266,
       "name": "Yerli Plaka",
       "url": "https://open.spotify.com/track/1kI1NiHbVZVmYJA78k0IAy"

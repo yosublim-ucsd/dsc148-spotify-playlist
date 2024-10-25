@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-454 songs - 1 day 5 hr 47 min
+455 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Thank You \(Acoustic Version\)](https://open.spotify.com/track/0V75pOC9kDcSy94Ch3ChQ0) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [Thank You \(Acoustic Version\)](https://open.spotify.com/album/4BK2pzxYpwVqeuGosGCHBf) | 3:41 | 2022-12-01 | 2022-12-27 |
 | [The Joy of Sorrow](https://open.spotify.com/track/0nKYNPW9tiUDRdGyf4CfOn) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [The Joy of Sorrow](https://open.spotify.com/album/5uhdRrxgzqO1UXrszdnYiB) | 3:27 | 2022-06-02 | 2022-07-29 |
 | [The Joy Of Sorrow](https://open.spotify.com/track/78oPAwgoMFL9QxnueTuNwy) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [The Joy Of Sorrow](https://open.spotify.com/album/0xShV7TaXhCZ2WTwwFtwT9) | 3:27 | 2022-07-28 | 2023-04-25 |
+| [Time](https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Time](https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ) | 3:23 | 2024-10-24 |  |
 | [Twisted](https://open.spotify.com/track/3Qg03Ze6ifmmAGznwr1Xm5) | [Electrico](https://open.spotify.com/artist/4DxELhGCnHXSqYwq6fbcmv) | [Twisted](https://open.spotify.com/album/6T13N7kZpv449TROnEk40y) | 3:17 | 2022-06-16 | 2022-06-23 |
 | [Wendy](https://open.spotify.com/track/3bUkwiKvAcajKu34YD3xA2) | [Zheng Jianxing](https://open.spotify.com/artist/7i9rpL6vAfqTh1nyVN2t35) | [Wendy](https://open.spotify.com/album/5fcK9S9J1KSMaVqPQrKfoN) | 4:02 | 2022-11-17 | 2022-12-02 |
 | [What if..?](https://open.spotify.com/track/4Bia9GoL6kHh0By80gxB6k) | [MiLK](https://open.spotify.com/artist/0NgRZYjBqL5GG9NVxiYLKS) | [What if..? \(Side A\)](https://open.spotify.com/album/7G6FUjpT0xLFIaiZHLQR63) | 5:15 | 2022-07-15 | 2022-07-21 |
@@ -139,7 +140,7 @@
 | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe) | 4:07 | 2023-01-05 | 2023-05-05 |
 | [剛好的孤單著](https://open.spotify.com/track/093ZGcsUogX3eju1IERqOj) | [Ken Deng 肯鄧](https://open.spotify.com/artist/67WEyeIvKyJEX30EzqrXoC) | [偷心總動員](https://open.spotify.com/album/1LMAlj23koO7SFSnaUfgko) | 2:54 | 2023-08-24 | 2023-09-08 |
 | [剩溫柔 \- 不插電女聲版](https://open.spotify.com/track/6WSqephSR18iUFmCURLP2j) | [葉柔](https://open.spotify.com/artist/3kCo5hH1MFJ4EgXARlmWb0) | [剩溫柔 \(不插電女聲版\)](https://open.spotify.com/album/2wAQgB430huvGALyVvyy9J) | 4:32 | 2022-12-15 | 2022-12-24 |
-| [匱乏的模樣](https://open.spotify.com/track/7K93H3QtwVAf6ixz8MowYU) | [蘇研之](https://open.spotify.com/artist/4cbEBwZICHpVIBPo9hgCdD) | [匱乏的模樣](https://open.spotify.com/album/1O06XZ6hFapcznJ8atwJqH) | 5:21 | 2024-10-17 |  |
+| [匱乏的模樣](https://open.spotify.com/track/7K93H3QtwVAf6ixz8MowYU) | [蘇研之](https://open.spotify.com/artist/4cbEBwZICHpVIBPo9hgCdD) | [匱乏的模樣](https://open.spotify.com/album/1O06XZ6hFapcznJ8atwJqH) | 5:21 | 2024-10-17 | 2024-10-25 |
 | [十五樓](https://open.spotify.com/track/40JfpFsic8BhYjJ0ZuHGdr) | [陳卓](https://open.spotify.com/artist/4b1OGhW4UMm5KeCgW7eeYh) | [十五樓](https://open.spotify.com/album/1LrHJbx1ppmbd4ug8vz6rZ) | 4:28 | 2022-06-30 | 2022-07-08 |
 | [十歲](https://open.spotify.com/track/08J5OVk3OFg8NK2KEoqF7u) | [Hsiao Hung\-Jen](https://open.spotify.com/artist/4nJSlwFDAtGvoNW8cmvacD) | [十歲](https://open.spotify.com/album/1vXpNDoFk4p0Kv02k2sB2z) | 2:54 | 2024-05-09 | 2024-05-17 |
 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 | 2022-06-10 |  |

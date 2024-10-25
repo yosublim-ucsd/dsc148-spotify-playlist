@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Lambrini Girls",
+  "description": "The best new music from the wide world of punk. Cover: Amyl and The Sniffers",
   "name": "All New Punk",
   "tracks": [
     {
@@ -3955,6 +3955,24 @@
     },
     {
       "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/75VOo99VB8d2rRUGM9E1Hb"
+      },
+      "artists": [
+        {
+          "name": "The Clockworks",
+          "url": "https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204282,
+      "name": "BLAH BLAH BLAH",
+      "url": "https://open.spotify.com/track/1EWaBYnZvoLdLNMSl6FTLZ"
+    },
+    {
+      "album": {
         "name": "blame me for everything",
         "url": "https://open.spotify.com/album/1t8JBCtRzQaHY6ZQXEt3Z1"
       },
@@ -7726,7 +7744,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 127373,
       "name": "COPS",
       "url": "https://open.spotify.com/track/03zwQPyJoitvT5QgFdKbAc"
@@ -8622,7 +8640,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 166000,
       "name": "De Pie",
       "url": "https://open.spotify.com/track/0cAN9HtV8TX50Z5DQLWvzq"
@@ -9780,7 +9798,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 192395,
       "name": "Do It Badly",
       "url": "https://open.spotify.com/track/7oNg2im6AdZ6N87dElHPj0"
@@ -14066,7 +14084,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 184000,
       "name": "GOOD LUCK",
       "url": "https://open.spotify.com/track/0tpgBwAcizI4TgYhA5s3xb"
@@ -14886,6 +14904,24 @@
       "duration_ms": 135821,
       "name": "Hate Thy Neighbour",
       "url": "https://open.spotify.com/track/7bQZH9U2SaSBIb775NoCPt"
+    },
+    {
+      "album": {
+        "name": "Hate Yachts Not Dinghies",
+        "url": "https://open.spotify.com/album/62OQfyL6XeHV2IBa43XCYA"
+      },
+      "artists": [
+        {
+          "name": "Hyphen",
+          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Hate Yachts Not Dinghies",
+      "url": "https://open.spotify.com/track/0dOlBidVMh6BvouAQeerSn"
     },
     {
       "album": {
@@ -17940,7 +17976,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 148592,
       "name": "It Follows",
       "url": "https://open.spotify.com/track/3aLHgrcJX9oWdMDGnk2wzH"
@@ -18142,7 +18178,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 240174,
       "name": "IT'S OVER",
       "url": "https://open.spotify.com/track/28jaQGVzB1zIOALmPC1b4P"
@@ -18254,6 +18290,24 @@
       "duration_ms": 175158,
       "name": "jealous",
       "url": "https://open.spotify.com/track/5eGOoxRihFW5IflS1wLEio"
+    },
+    {
+      "album": {
+        "name": "Jerkin'",
+        "url": "https://open.spotify.com/album/4IiBgaY6BeDdBrB1vLyRtF"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/1nosPEKWYKACcauB4zF0mK"
     },
     {
       "album": {
@@ -19859,6 +19913,24 @@
     },
     {
       "album": {
+        "name": "SORRY, IT'S OVER",
+        "url": "https://open.spotify.com/album/778WQjOQqXj3568XqOsyi7"
+      },
+      "artists": [
+        {
+          "name": "The OBGMs",
+          "url": "https://open.spotify.com/artist/3Sp7HTc7BNbSx0SPiHVeRI"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234775,
+      "name": "LIAR",
+      "url": "https://open.spotify.com/track/2mzAh7BDbWeuk2uALklXST"
+    },
+    {
+      "album": {
         "name": "Licking on a Knife for Fun",
         "url": "https://open.spotify.com/album/6YLu3SPZRdXbxfW4VP5NUk"
       },
@@ -20748,6 +20820,28 @@
       "duration_ms": 253377,
       "name": "Love And Pain",
       "url": "https://open.spotify.com/track/7cqu8HAnerp6pOPRlRzLyG"
+    },
+    {
+      "album": {
+        "name": "love bombs",
+        "url": "https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2"
+      },
+      "artists": [
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        },
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205357,
+      "name": "love bombs",
+      "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
     },
     {
       "album": {
@@ -22633,6 +22727,24 @@
     },
     {
       "album": {
+        "name": "MOTH KIDS",
+        "url": "https://open.spotify.com/album/4TwV7IEjl0qKYMr9Hh3fhs"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219035,
+      "name": "MOTH KIDS",
+      "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/0UzkkyZr2P80OnYgsDGUU5"
       },
@@ -23392,6 +23504,24 @@
       "duration_ms": 153600,
       "name": "NEW! Christianity",
       "url": "https://open.spotify.com/track/2h48pUPKbkXCH0z2BqgUyQ"
+    },
+    {
+      "album": {
+        "name": "There Goes the Neighbourhood (Deluxe)",
+        "url": "https://open.spotify.com/album/0exZKm1k9gk5V1owetaARB"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Newsnight",
+      "url": "https://open.spotify.com/track/652vT4wVdO6EdBG2LmaumF"
     },
     {
       "album": {
@@ -25302,7 +25432,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 193800,
       "name": "Over The Edge",
       "url": "https://open.spotify.com/track/6Thvx1ybJkLoLP23swTxqT"
@@ -26731,6 +26861,24 @@
     },
     {
       "album": {
+        "name": "No Idea",
+        "url": "https://open.spotify.com/album/2woP0hGYVJxHx50wa5GF5Q"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/6enEw0wPdbUqLNRVo8M5zV"
+    },
+    {
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
       },
@@ -26804,6 +26952,24 @@
       "duration_ms": 150138,
       "name": "PTS.DUP",
       "url": "https://open.spotify.com/track/3jRS2ItbdoucLPNWFbvr0E"
+    },
+    {
+      "album": {
+        "name": "pull me under",
+        "url": "https://open.spotify.com/album/0aMbI90N0BoZZcV1V6c2qU"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187387,
+      "name": "pull me under",
+      "url": "https://open.spotify.com/track/4Piqo1vWTIupDr7GIQ4sNz"
     },
     {
       "album": {
@@ -32030,7 +32196,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 253946,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/6556dVFzfiI5MK1lb2PH5t"
@@ -34814,7 +34980,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 187864,
       "name": "Think About His Mother",
       "url": "https://open.spotify.com/track/5nKXKW2j1YnS1kA90OwtZj"

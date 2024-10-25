@@ -848,10 +848,28 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 350733,
       "name": "Masta I.C.",
       "url": "https://open.spotify.com/track/3XmgQMloJfa6mhCi4D2tBn"
+    },
+    {
+      "album": {
+        "name": "Masta I.C. - EP",
+        "url": "https://open.spotify.com/album/4nx15DvzObukboid8HIkHX"
+      },
+      "artists": [
+        {
+          "name": "Mic Geronimo",
+          "url": "https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257573,
+      "name": "Masta I.C. (Instrumental)",
+      "url": "https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7"
     },
     {
       "album": {

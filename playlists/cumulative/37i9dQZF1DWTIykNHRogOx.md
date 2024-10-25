@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Le meilleur de la chanson française actuelle\. Photo : Clou
+> Le meilleur de la chanson française actuelle\. Photo : Pépite & Janie
 
-87 songs - 4 hr 53 min
+88 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,12 +61,13 @@
 | [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [Les rois du désespoir](https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Les rois du désespoir](https://open.spotify.com/album/7eCOVuXXXrZdxSLZeEAn8s) | 2:48 | 2024-09-05 |  |
 | [Longtemps](https://open.spotify.com/track/4CBquCNpWBMWSF1hzlLBtv) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/1BcBAcp829SmQLmIZV9adb) | 2:55 | 2024-10-17 |  |
+| [Luxembourg](https://open.spotify.com/track/392kafx6I9FFgx0eUNHA1n) | [Oldelaf](https://open.spotify.com/artist/7GBufLo5czrJHbWuo6gD7P) | [Saint\-Valentin](https://open.spotify.com/album/4K9Gdg4S0RSzy8IhfU32Cd) | 4:00 | 2024-10-24 |  |
 | [Ma jeunesse](https://open.spotify.com/track/4V35BujGypFe8OzBwmSsbS) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Ma jeunesse](https://open.spotify.com/album/2RCuQSryCXllyUPREA6DzR) | 3:00 | 2024-10-10 |  |
 | [Ma mère](https://open.spotify.com/track/6hCsNW3jamyjGIsiQUmPgn) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA), [Albin de la Simone](https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC) | [Ma mère](https://open.spotify.com/album/0MoVGzK68HgZ8vAT3jAEBW) | 3:03 | 2024-06-27 | 2024-08-30 |
 | [Manquer à quelqu'un quelque part](https://open.spotify.com/track/3ziKYDEXy8qG50W0mvYtAs) | [Clarika](https://open.spotify.com/artist/286N26F5niRQqjn3PeqFjH) | [Danse encore](https://open.spotify.com/album/0xRbi5yizZ5215IUA0HnNW) | 3:15 | 2024-06-27 | 2024-07-19 |
 | [Marcher droit](https://open.spotify.com/track/5QcbSS53QWUHTiKDYBHuHM) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Marcher droit](https://open.spotify.com/album/1HwrjAGvdyfIvl3RCRBEfp) | 4:01 | 2024-09-26 |  |
 | [Mode d'emploi](https://open.spotify.com/track/3EsRNFcFTVtCyHYtVhMa4P) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Mode d'emploi](https://open.spotify.com/album/1WxJGF9ruFXR0wroN8DWHN) | 3:30 | 2024-06-27 |  |
-| [Mon épaule](https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mon épaule](https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b) | 2:43 | 2024-06-27 |  |
+| [Mon épaule](https://open.spotify.com/track/5nzGstfDNJdV1LvN7rehAN) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mon épaule](https://open.spotify.com/album/0Durz9Xr5OHJJG7P8NT67b) | 2:43 | 2024-06-27 | 2024-10-25 |
 | [N'importe quoi](https://open.spotify.com/track/7Auw0vXuqafNZGYmBpU4PX) | [REB](https://open.spotify.com/artist/6wAoRA0lIGIzF1SmduUg32) | [N'importe quoi](https://open.spotify.com/album/6wl99feAZHWDAHZkgQMnnw) | 2:56 | 2024-06-27 | 2024-07-19 |
 | [Nu](https://open.spotify.com/track/3OIphEv3puN6zaWG4ms5n0) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Nu](https://open.spotify.com/album/5y3lwreP0Z0WItPNC2zOyi) | 2:26 | 2024-07-25 |  |
 | [Old Friend](https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Old Friend](https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg) | 2:37 | 2024-10-23 |  |

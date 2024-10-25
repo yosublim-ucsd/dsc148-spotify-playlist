@@ -1,12 +1,12 @@
 {
   "description": "Editor's picks of freshest Pakistani discoveries you have not heard before. Cover: Ali Raza, AliSoomroMusic",
-  "num_followers": 8847,
+  "num_followers": 8845,
   "original_name": "Fresh Finds Pakistan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxjIywAAAAAxohrQfJAyHjUIuOZk+TcH",
+  "snapshot_id": "Zxn6RAAAAABchYYAlCrG6Rs8pQze+Bx+",
   "tracks": [
     {
       "added_at": "2024-10-23 09:58:35",
@@ -285,6 +285,58 @@
       "url": "https://open.spotify.com/track/15RnJMUkiOyDJwVjkCfgri"
     },
     {
+      "added_at": "2024-10-24 07:41:56",
+      "album": {
+        "name": "Na Aana",
+        "url": "https://open.spotify.com/album/1ROznC0oiHzBRnCzJWPyzI"
+      },
+      "artists": [
+        {
+          "name": "Hareem Rashid",
+          "url": "https://open.spotify.com/artist/4tp7OYDn1UdgWEnr3AJiFi"
+        }
+      ],
+      "duration_ms": 197900,
+      "name": "Na Aana",
+      "url": "https://open.spotify.com/track/34ZIXyGEOVVS1cw6hxttsb"
+    },
+    {
+      "added_at": "2024-10-24 07:41:56",
+      "album": {
+        "name": "Silsilay",
+        "url": "https://open.spotify.com/album/4SKIBJfZjuQRwk5ruvSKGE"
+      },
+      "artists": [
+        {
+          "name": "Sherazam",
+          "url": "https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Silsilay",
+      "url": "https://open.spotify.com/track/0d2FesqeTmXlvaqpg26tYx"
+    },
+    {
+      "added_at": "2024-10-24 07:41:56",
+      "album": {
+        "name": "Heer",
+        "url": "https://open.spotify.com/album/3YiqeB6tWyEr8vHveTita7"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/4AyKPZ1b7lUlsAOb3aG6tC"
+    },
+    {
       "added_at": "2024-10-23 09:58:35",
       "album": {
         "name": "Khuaab",
@@ -369,6 +421,26 @@
       "url": "https://open.spotify.com/track/1oXlByGEQzUnXeTONSRHko"
     },
     {
+      "added_at": "2024-10-24 07:41:56",
+      "album": {
+        "name": "Hard times",
+        "url": "https://open.spotify.com/album/3qt1ThJ6bpzYsLnoSniEMn"
+      },
+      "artists": [
+        {
+          "name": "Uzair Khan",
+          "url": "https://open.spotify.com/artist/0UXqgy03ysCiZSmnWseRIn"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Hard times",
+      "url": "https://open.spotify.com/track/3Bw0WkPkSFU6cBNQq60uRG"
+    },
+    {
       "added_at": "2024-10-23 09:58:35",
       "album": {
         "name": "Zaroori Hai",
@@ -419,26 +491,6 @@
     {
       "added_at": "2024-10-23 09:58:35",
       "album": {
-        "name": "Gulaab",
-        "url": "https://open.spotify.com/album/4FG6lDwYZQrGGvk2KMHvXr"
-      },
-      "artists": [
-        {
-          "name": "Izzchughtai",
-          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
-        },
-        {
-          "name": "Shehryar Khan",
-          "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "Gulaab",
-      "url": "https://open.spotify.com/track/5MLckXKxjkRHdVsg0pIet1"
-    },
-    {
-      "added_at": "2024-10-23 09:58:35",
-      "album": {
         "name": "No Chains",
         "url": "https://open.spotify.com/album/1QK2tWwkyZrygF5kJzfFih"
       },
@@ -455,26 +507,6 @@
       "duration_ms": 198623,
       "name": "No Chains",
       "url": "https://open.spotify.com/track/2TepBvkHw8K0B8MqRT1HuF"
-    },
-    {
-      "added_at": "2024-10-23 09:58:35",
-      "album": {
-        "name": "STARGO TOR",
-        "url": "https://open.spotify.com/album/74XkyRanNGj0TwsiTRtSBt"
-      },
-      "artists": [
-        {
-          "name": "Zahoor",
-          "url": "https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD"
-        },
-        {
-          "name": "Bilaal Avaz",
-          "url": "https://open.spotify.com/artist/78Vd3fFv8wCebUf1Bq5hwa"
-        }
-      ],
-      "duration_ms": 155307,
-      "name": "STARGO TOR",
-      "url": "https://open.spotify.com/track/5XbgKymthy6ZYHz2VqBYOL"
     },
     {
       "added_at": "2024-10-23 09:58:35",
@@ -863,22 +895,6 @@
     {
       "added_at": "2024-10-23 09:58:35",
       "album": {
-        "name": "26",
-        "url": "https://open.spotify.com/album/4tB88mTRB8JM8YgNImNXhI"
-      },
-      "artists": [
-        {
-          "name": "SHERRY",
-          "url": "https://open.spotify.com/artist/2jBLgixVIe3718HCpO4kE0"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "26",
-      "url": "https://open.spotify.com/track/37HOIHwtaQRAIkLGct4Qg2"
-    },
-    {
-      "added_at": "2024-10-23 09:58:35",
-      "album": {
         "name": "Laapata",
         "url": "https://open.spotify.com/album/0CZsTH22cpfksj5bHmBbTx"
       },
@@ -1171,30 +1187,6 @@
       "duration_ms": 180000,
       "name": "Ghar Aaja",
       "url": "https://open.spotify.com/track/067YSOlyXIegM18n2wTeKV"
-    },
-    {
-      "added_at": "2024-10-23 09:58:35",
-      "album": {
-        "name": "Hasrat",
-        "url": "https://open.spotify.com/album/3rqciCsdHEau3b4ad0dCgh"
-      },
-      "artists": [
-        {
-          "name": "Muheet Khan",
-          "url": "https://open.spotify.com/artist/7JJ5y1QW0tDTlc3ZjKbcE9"
-        },
-        {
-          "name": "SarpDansh",
-          "url": "https://open.spotify.com/artist/2EnfibPipqcjvyRiNrbHTN"
-        },
-        {
-          "name": "Illuminhadi",
-          "url": "https://open.spotify.com/artist/5XAv2ZKaRm5PHhWAMFFkSf"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Hasrat",
-      "url": "https://open.spotify.com/track/7q3LVwL5p3kG5QX6pVALUm"
     },
     {
       "added_at": "2024-10-23 09:58:35",
@@ -1511,22 +1503,6 @@
     {
       "added_at": "2024-10-23 09:58:35",
       "album": {
-        "name": "Jaan Meri",
-        "url": "https://open.spotify.com/album/459RlFSbuonkwqMyoa4OWF"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Zawar",
-          "url": "https://open.spotify.com/artist/2L4qELrDflJYHlRe9f6KbJ"
-        }
-      ],
-      "duration_ms": 160404,
-      "name": "Jaan Meri",
-      "url": "https://open.spotify.com/track/2ApxAy1MVKIiyHCUM6oBAD"
-    },
-    {
-      "added_at": "2024-10-23 09:58:35",
-      "album": {
         "name": "Downfall",
         "url": "https://open.spotify.com/album/2KuyT4q7FK11K6OqIhIWvn"
       },
@@ -1779,26 +1755,6 @@
       "duration_ms": 175210,
       "name": "Rukna Na",
       "url": "https://open.spotify.com/track/1ge2rBUvqN6LNyJGDrp1S8"
-    },
-    {
-      "added_at": "2024-10-23 09:58:35",
-      "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/68dAQdEd55fJ4xdIQqWV1r"
-      },
-      "artists": [
-        {
-          "name": "Awais Amjad",
-          "url": "https://open.spotify.com/artist/0E88xbJhwY36tkrrBGXN3p"
-        },
-        {
-          "name": "Qasim Habib",
-          "url": "https://open.spotify.com/artist/327fh6yaPi1XzB08z6lP8y"
-        }
-      ],
-      "duration_ms": 274615,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/1hr9RwnjacmVFO2qHOFq2w"
     },
     {
       "added_at": "2024-10-23 09:58:35",

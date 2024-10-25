@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=hsb5g5ZaS96PhuAcn2Y47g\">Nasty C</a>, <a href=\"https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR?si=fDmwHpAiRvWBC-ueta-cbQ\">KindlyNxsh</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi?si=ItIVH8UdR6ybemQQ0TuPXQ\">Tony Dayimane</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -10119,6 +10119,24 @@
     },
     {
       "album": {
+        "name": "RED OCTOBER: INDUCTION",
+        "url": "https://open.spotify.com/album/31FhPubbJtiby6fhz26nh6"
+      },
+      "artists": [
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196166,
+      "name": "MLAZI Baby",
+      "url": "https://open.spotify.com/track/7GMmEOfNbu3E09h3aBRlwG"
+    },
+    {
+      "album": {
         "name": "Mnike",
         "url": "https://open.spotify.com/album/4WAsW6RHyJkCaUfe1FaK4L"
       },
@@ -10806,7 +10824,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 162716,
       "name": "Ngeke",
       "url": "https://open.spotify.com/track/74tEosyCxNM64SenyBN06f"
@@ -12337,6 +12355,28 @@
     },
     {
       "album": {
+        "name": "By Design",
+        "url": "https://open.spotify.com/album/5d64uHig8qHuwdX3d0bJO4"
+      },
+      "artists": [
+        {
+          "name": "Frank Casino",
+          "url": "https://open.spotify.com/artist/4wVM2SOjXuCEUuTi7lln9x"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Pretty MF",
+      "url": "https://open.spotify.com/track/5KP8VpmEFzt70V3Zuf2CJ3"
+    },
+    {
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3TUlvIylVs6ZIVAiB1nvSe"
       },
@@ -12773,6 +12813,28 @@
     },
     {
       "album": {
+        "name": "Loyal To The Plug : The Life & Times Of Don Kilograms",
+        "url": "https://open.spotify.com/album/6WHgxLiN57AC7KZm7eUtuj"
+      },
+      "artists": [
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237410,
+      "name": "Real Is Rare (feat. Nasty C)",
+      "url": "https://open.spotify.com/track/5fR8jaCoCB932SimKIcGrr"
+    },
+    {
+      "album": {
         "name": "Pi\u00e8ce De R\u00e9sistance",
         "url": "https://open.spotify.com/album/7t0p4OruJQr1txqiPC55jj"
       },
@@ -12802,7 +12864,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 185306,
       "name": "RED FLAG",
       "url": "https://open.spotify.com/track/71Wnaxqwazv4KuSSY4tFxY"
@@ -15514,7 +15576,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 160000,
       "name": "Tell - A - Friend",
       "url": "https://open.spotify.com/track/27zfVARnin6yqIicq7C2cA"
@@ -15536,6 +15598,28 @@
       "duration_ms": 198013,
       "name": "Tell the Youth",
       "url": "https://open.spotify.com/track/4nerLV1JSJrsBG8yKCgHc9"
+    },
+    {
+      "album": {
+        "name": "Telly",
+        "url": "https://open.spotify.com/album/1z5bNapZnBVaXzTGbcJgLn"
+      },
+      "artists": [
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "Telly",
+      "url": "https://open.spotify.com/track/6MOIqaJai7o7NQ4jCbDbLI"
     },
     {
       "album": {
@@ -17188,7 +17272,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 266666,
       "name": "Up To You",
       "url": "https://open.spotify.com/track/2JLm7OPi9VHU0E8ouGGohg"

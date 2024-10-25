@@ -620,7 +620,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 220383,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
@@ -4580,6 +4580,24 @@
       "duration_ms": 200533,
       "name": "What a Feeling",
       "url": "https://open.spotify.com/track/0iSWAT0EL8TwmzcgBjKMh6"
+    },
+    {
+      "album": {
+        "name": "What Am I Gonna Do On Sundays?",
+        "url": "https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209213,
+      "name": "What Am I Gonna Do On Sundays?",
+      "url": "https://open.spotify.com/track/0WttB2xYS66VopJmwD1UzF"
     },
     {
       "album": {

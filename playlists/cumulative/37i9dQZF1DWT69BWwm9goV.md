@@ -4,7 +4,7 @@
 
 > A collection of songs from Spotify's original video series OUTSIDE, plus more of our favorite tracks from featured artists\. Cover: Carin León
 
-38 songs - 1 hr 54 min
+40 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,10 +25,12 @@
 | [Drifting \- \(Spotify OUTSIDE Version\) \- Live from West Hollywood, CA](https://open.spotify.com/track/2PUXoqVN9bh9QEZaVsb8fe) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Drifting \(Spotify OUTSIDE Version\) \- Live from West Hollywood, CA](https://open.spotify.com/album/2v6nZikT0egtkKZXkFhlnc) | 4:16 | 2024-07-24 |  |
 | [estella//](https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 1:58 | 2024-04-02 |  |
 | [Flip a Coin \- Spotify OUTSIDE Version \- Live from Burnet, TX](https://open.spotify.com/track/2Hc0gzPRXrmUleRpUwX0sb) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Flip a Coin \(Spotify OUTSIDE Version \- Live from Burnet, TX\)](https://open.spotify.com/album/3SLqSzzUoodKo22UfEOGUd) | 3:32 | 2024-04-02 |  |
+| [For Cryin' Out Loud! \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/7AeSEZgpU02dXrVSM32QFc) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud! \(Spotify OUTSIDE Version\) \[Live from Los Angeles, CA\]](https://open.spotify.com/album/3V9duXb3ewSmDoh3qm16XO) | 3:58 | 2024-10-24 |  |
 | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/track/2PRuqeZxJNYdnSdPym47kF) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/album/2AcsiMcYpsiL3wsZytd14m) | 2:26 | 2024-04-02 |  |
 | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/track/4XflKK88OP3lWpwrQxg3ll) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Gravity \- Live from Spotify Green Screen](https://open.spotify.com/album/2lRF5yXvrn9obPYMbsH2ho) | 3:04 | 2024-04-02 | 2024-10-23 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-04-02 |  |
 | [keep a window open// \(Spotify OUTSIDE Version\) \- Live from Lake Mills, WI](https://open.spotify.com/track/5tZ4CiFTKrcyT2ZQ9Fnges) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [keep a window open// \(Spotify OUTSIDE Version\) \- Live from Lake Mills, WI](https://open.spotify.com/album/4MQ9OhxmmRFMUw91r8bxnP) | 2:46 | 2024-04-02 |  |
+| [Lotus Eater](https://open.spotify.com/track/2E1C3NlPA0AfmiFJE4MTXT) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 3:51 | 2024-10-24 |  |
 | [Low Sun](https://open.spotify.com/track/1siRw9E67ouBWsORObDuhZ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 3:08 | 2024-06-26 |  |
 | [Low Sun \- \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc) | 2:57 | 2024-06-26 |  |
 | [Needs](https://open.spotify.com/track/6sg284TefDkBpFh0317Agp) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 2:26 | 2024-04-02 | 2024-10-23 |

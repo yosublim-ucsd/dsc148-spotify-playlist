@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Anella Herim
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,743 likes - 35 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,747 likes - 35 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

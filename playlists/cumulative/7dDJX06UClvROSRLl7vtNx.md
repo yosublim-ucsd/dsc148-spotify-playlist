@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-608 songs - 1 day 2 hr 32 min
+609 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Nightingale](https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Kayla](https://open.spotify.com/artist/6FHqXSFTmhWlgERTHLD9ct) | [Nightingale](https://open.spotify.com/album/5UpHekXcg2yEn2XMplYVWy) | 3:48 | 2023-09-22 | 2024-07-05 |
 | [No Diggity](https://open.spotify.com/track/6Q9ls4l10fcTNeHdEq3kB1) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl) | [No Diggity](https://open.spotify.com/album/4wn83uhoIh22NqHGiQ5xJr) | 2:42 | 2023-10-19 | 2024-05-10 |
 | [No Other Love](https://open.spotify.com/track/6tekbBbL0YC854BVqGC61a) | [Geoff Duncan](https://open.spotify.com/artist/1oXBhBpbEfp8p2mp5ipx2N), [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs) | [No Other Love](https://open.spotify.com/album/0hFUQbYgL26iBhkqXLxk99) | 2:10 | 2024-09-13 |  |
+| [No Regrets](https://open.spotify.com/track/0t3wlK1LOLTbAso7NclwUG) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [No Regrets](https://open.spotify.com/album/7IQ2BD204CnsH3uaG2Fy0O) | 2:19 | 2024-10-24 |  |
 | [No Sleep](https://open.spotify.com/track/0qSq3cOECG9x2xGDAXs4n2) | [T'art](https://open.spotify.com/artist/5MiPgWTGNMQXaSx00kV5iW), [Lyubov Kay](https://open.spotify.com/artist/51Tc5HIzPZ3eEsuovFtMFr) | [No Sleep](https://open.spotify.com/album/2dEMmIDTijQeBPWa98HDW8) | 3:34 | 2024-02-16 | 2024-05-13 |
 | [Nobody](https://open.spotify.com/track/47wkD7lkoD8gTJmGUupxwj) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Loé](https://open.spotify.com/artist/7MuRRLYh8g8uTtqU77NW9q) | [Nobody](https://open.spotify.com/album/2FKLLgJXy6CUQAkia8G2hf) | 2:23 | 2024-05-05 | 2024-05-21 |
 | [Nothing Compares](https://open.spotify.com/track/71buKiy5zu2zUm0PBrsIZ4) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Joey Busse](https://open.spotify.com/artist/6ctUI0LDXR8CatDPqGzXYB) | [Nothing Compares](https://open.spotify.com/album/4kzfJcvLN1mgcOgrehDX7m) | 1:59 | 2024-01-07 | 2024-05-13 |

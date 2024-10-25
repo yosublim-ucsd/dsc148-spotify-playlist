@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK?si=SOwtrhu8R1qkXuYD_pqr3A>Preye Odede</a>",
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ?si=USJt32zsRgCkN7bfZyv2_w>Tjsarx</a>",
   "name": "Testify",
   "tracks": [
     {
@@ -1689,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Jesus & Lamba",
+        "url": "https://open.spotify.com/album/1hWJ2l28sPV38rqL7SsCha"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161590,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/0PXT9PA9lp3dpBu8YKBKvZ"
+    },
+    {
+      "album": {
         "name": "Everything (Amen)",
         "url": "https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7"
       },
@@ -3016,7 +3034,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 354572,
       "name": "Imela (feat. Enitan Adaba)",
       "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"

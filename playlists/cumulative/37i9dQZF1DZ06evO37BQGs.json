@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Kill Your Own",
+        "url": "https://open.spotify.com/album/101Y1ApCSBWHyuJBSB46Sd"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "Destroy",
+      "url": "https://open.spotify.com/track/1Yv6kBTgSxICjXVQDMZYRA"
+    },
+    {
+      "album": {
         "name": "Ideas Above Our Station",
         "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 188893,
       "name": "Don't Forget",
       "url": "https://open.spotify.com/track/0SVuU8e4VVa4TewIiy2szE"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 214573,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/3sCvA4gQ5RCHcUvJCD0m1L"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 152826,
       "name": "Live Fast, Die Ugly",
       "url": "https://open.spotify.com/track/6r7ReUGIIAW0F2KPI39ktr"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 190266,
       "name": "Savanna",
       "url": "https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k"

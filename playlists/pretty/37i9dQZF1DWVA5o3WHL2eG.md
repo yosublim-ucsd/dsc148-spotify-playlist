@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,095 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,102 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [HellSehen](https://open.spotify.com/track/6dxqzbgOQqBfbRNXW2S0Tk) | [Mieze Katz](https://open.spotify.com/artist/6Pf7y8pFDDEQ9TOIlaBpT0), [Eva Briegel](https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj), [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol), [Mia.](https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn) | [HellSehen](https://open.spotify.com/album/5hQesg4QQ4rBLZMWoZiRJW) | 3:01 |
 | 24 | [La Batteria](https://open.spotify.com/track/09GeLKK8IwFBEUVzLlhVQ0) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [La Batteria](https://open.spotify.com/album/5fWRKpCVzmZ0a7hDdBB4ru) | 2:40 |
 | 25 | [ich weiß, dass du das weißt](https://open.spotify.com/track/4Lz4wDl7cNPpoTexcV15tL) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [ich weiß, dass du das weißt](https://open.spotify.com/album/0YABVXhXX56gkRfYqxzmZp) | 2:35 |
-| 26 | [pokémon](https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen ep](https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK) | 2:52 |
-| 27 | [It Happens Either Way](https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [It Happens Either Way](https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3) | 3:32 |
+| 26 | [It Happens Either Way](https://open.spotify.com/track/0ZW2nJK0ewQWwqiJLAHC20) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [It Happens Either Way](https://open.spotify.com/album/6ennEJseUsMTUYqjgSTws3) | 3:32 |
+| 27 | [pokémon](https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen ep](https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK) | 2:52 |
 | 28 | [Der Moment archiviert](https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Der Moment archiviert](https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1) | 2:36 |
 | 29 | [Feel zu spät](https://open.spotify.com/track/1ZX6OhzVKjYe51XRnBe3yu) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Feel zu spät](https://open.spotify.com/album/7gnkgzRsyk0XaQGOcfmmn4) | 3:07 |
 | 30 | [l.o.v.e.](https://open.spotify.com/track/0gqjiN4uy0hjfZy4WvZNia) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [l.o.v.e.](https://open.spotify.com/album/6VguxmxAC2heOkIl9euhhp) | 3:05 |

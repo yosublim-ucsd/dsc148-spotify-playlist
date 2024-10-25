@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Wizkid",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist. Cover: Skepta, Flo Milli",
   "name": "Who We Be",
   "tracks": [
     {
@@ -2911,6 +2911,32 @@
     },
     {
       "album": {
+        "name": "Black and British (feat. Little Simz & Benjamin AD)",
+        "url": "https://open.spotify.com/album/3xKODZhuOxgS6hNQGlSKL6"
+      },
+      "artists": [
+        {
+          "name": "Wretch 32",
+          "url": "https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Benjamin A.D",
+          "url": "https://open.spotify.com/artist/4UWmplYALfjUhWM6jZ8ftN"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261510,
+      "name": "Black and British (feat. Little Simz & Benjamin AD)",
+      "url": "https://open.spotify.com/track/2CB92kx3Vrgkohe2UC2A4l"
+    },
+    {
+      "album": {
         "name": "Black Beatles",
         "url": "https://open.spotify.com/album/7hjYk958TkhvAhwrKDIAuc"
       },
@@ -3230,6 +3256,24 @@
       "duration_ms": 456480,
       "name": "Born Slippy (Nuxx)",
       "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
+    },
+    {
+      "album": {
+        "name": "Boss B*tch",
+        "url": "https://open.spotify.com/album/61IbVta6kRXQBoqEdVeizJ"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147605,
+      "name": "Boss B*tch",
+      "url": "https://open.spotify.com/track/0uMk3cDDhfJySp5tjoZ9fW"
     },
     {
       "album": {
@@ -4141,7 +4185,7 @@
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 176399,
+      "duration_ms": 174545,
       "name": "Charlie Sloth",
       "url": "https://open.spotify.com/track/4HKhE9L4dY6Y9LfKRr2ISn"
     },
@@ -7098,7 +7142,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 128399,
       "name": "Escape",
       "url": "https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh"
@@ -11012,7 +11056,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 189357,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/5e8euQ8kelEedWMuulWG5O"
@@ -11738,7 +11782,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 229999,
       "name": "In The Night (feat. Jorja Smith & Amaarae)",
       "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
@@ -12402,7 +12446,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
@@ -13508,7 +13552,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 171428,
       "name": "LIFESTYLE",
       "url": "https://open.spotify.com/track/50v9IKJoA8b1Qqx7wwdZzf"
@@ -14902,6 +14946,28 @@
       "duration_ms": 206694,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4E6KYlUY2wTVciZz9kwnBG"
+    },
+    {
+      "album": {
+        "name": "UP & RUNNIN6",
+        "url": "https://open.spotify.com/album/5EomOd5HdWMyenGsSv61D2"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "MEMORIES (feat. Ir Sais)",
+      "url": "https://open.spotify.com/track/0x4XJlRaDsOMkIjzvXCFLz"
     },
     {
       "album": {
@@ -19139,6 +19205,24 @@
     },
     {
       "album": {
+        "name": "Prada or Celine",
+        "url": "https://open.spotify.com/album/2sE10E4MWavzGEUsrHEOPd"
+      },
+      "artists": [
+        {
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140368,
+      "name": "Prada or Celine",
+      "url": "https://open.spotify.com/track/7oL71KKGB790hTgoDaK14a"
+    },
+    {
+      "album": {
         "name": "Prague",
         "url": "https://open.spotify.com/album/5ErvLAoAruWhuaR20mwQPC"
       },
@@ -19306,6 +19390,28 @@
       "duration_ms": 177730,
       "name": "Prettier",
       "url": "https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd"
+    },
+    {
+      "album": {
+        "name": "Pretty & Bouji",
+        "url": "https://open.spotify.com/album/4VmYH0OOZkV3AOoGyVhFgZ"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        },
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "Pretty & Bouji",
+      "url": "https://open.spotify.com/track/1PYDD9APjyk0rByimDl5F0"
     },
     {
       "album": {
@@ -22617,6 +22723,28 @@
     },
     {
       "album": {
+        "name": "Stratford Job Centre",
+        "url": "https://open.spotify.com/album/38ayhfcDwNwk2hrHas9ajO"
+      },
+      "artists": [
+        {
+          "name": "Zino Vinci",
+          "url": "https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK"
+        },
+        {
+          "name": "tendai",
+          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185967,
+      "name": "Stratford Job Centre",
+      "url": "https://open.spotify.com/track/3Ja2ytWoDshniPFbztBo6p"
+    },
+    {
+      "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/6UwxCr559vsWAmVC6WkrI3"
       },
@@ -23464,7 +23592,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 176469,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/5rL3pBAs8eR8UCIpHfMwSm"
@@ -25850,7 +25978,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 114545,
       "name": "Weh She Wan",
       "url": "https://open.spotify.com/track/6V335uEK9wyZMkh2id1x3Q"
@@ -27060,7 +27188,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 150760,
       "name": "YAYO",
       "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"

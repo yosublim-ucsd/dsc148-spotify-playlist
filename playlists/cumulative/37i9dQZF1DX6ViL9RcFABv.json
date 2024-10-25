@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Mickael Carreira",
+  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira",
   "name": "Pop PT",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 214190,
       "name": "Amor de Ferro",
       "url": "https://open.spotify.com/track/7LET87zmdD3hHXmijQwR9r"
+    },
+    {
+      "album": {
+        "name": "Amor De Ganga",
+        "url": "https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT"
+      },
+      "artists": [
+        {
+          "name": "Miguel Luz",
+          "url": "https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206908,
+      "name": "Amor De Ganga",
+      "url": "https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz"
     },
     {
       "album": {
@@ -532,7 +550,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 132106,
       "name": "Coimbra Tem Mais Encanto",
       "url": "https://open.spotify.com/track/6QG4L3zBD0PBIHsPhGM0Bm"
@@ -860,7 +878,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 186162,
       "name": "Diz-Me Como",
       "url": "https://open.spotify.com/track/4dc3yCOyQSpH1aSVx5ioUZ"
@@ -918,7 +936,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 195782,
       "name": "Dois Dedos de Testa",
       "url": "https://open.spotify.com/track/2EZpQC4js7nOZmysa2001d"
@@ -1074,6 +1092,24 @@
       "duration_ms": 187057,
       "name": "Estrago",
       "url": "https://open.spotify.com/track/7oqQ5UI5vBioYH4KNDOHJI"
+    },
+    {
+      "album": {
+        "name": "Eu Deixei",
+        "url": "https://open.spotify.com/album/7HtM9TMo6vqHcwJZFKbSik"
+      },
+      "artists": [
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Eu Deixei",
+      "url": "https://open.spotify.com/track/4HccSOoWxrXU5Ysor3yD9k"
     },
     {
       "album": {
@@ -1376,7 +1412,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 181900,
       "name": "H\u00e1 Sempre Uma M\u00fasica",
       "url": "https://open.spotify.com/track/1dqbBoLNdmUUOhTfPPsBcE"
@@ -1467,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "10:56 (Branco)",
+        "url": "https://open.spotify.com/album/2EsbHiZhhZkGSXukGC2k72"
+      },
+      "artists": [
+        {
+          "name": "Khiaro",
+          "url": "https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176243,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/5NMMTzbGgo0DlzavWqlSe2"
+    },
+    {
+      "album": {
         "name": "Laurinda",
         "url": "https://open.spotify.com/album/3p1la8zojsWwFz4H4Ha2Q1"
       },
@@ -1486,7 +1540,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 188080,
       "name": "Laurinda",
       "url": "https://open.spotify.com/track/3drskGBsZCSm5r2t16a29G"
@@ -2059,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Riqueza",
+        "url": "https://open.spotify.com/album/6J1fR0ADIjsYAUabOVy9am"
+      },
+      "artists": [
+        {
+          "name": "GNTK",
+          "url": "https://open.spotify.com/artist/7u624YO8mvaIZBR63Ixfx0"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229428,
+      "name": "Riqueza",
+      "url": "https://open.spotify.com/track/7uAPXH7RXCpfoT1jez4ASm"
+    },
+    {
+      "album": {
         "name": "Ritinha",
         "url": "https://open.spotify.com/album/3YM8Dt8trP0u9B4nQlHYel"
       },
@@ -2498,6 +2570,24 @@
       "duration_ms": 172586,
       "name": "\u00c2mbar",
       "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
+    },
+    {
+      "album": {
+        "name": "\u00daltimo Esfor\u00e7o",
+        "url": "https://open.spotify.com/album/6MHGpH9jWamp1WKPsssgpZ"
+      },
+      "artists": [
+        {
+          "name": "Umbelino",
+          "url": "https://open.spotify.com/artist/2F5ZWFm3CDZ95LgLWIksUW"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199048,
+      "name": "\u00daltimo Esfor\u00e7o",
+      "url": "https://open.spotify.com/track/1WShOxlHNjiCvaAQAJ8Epp"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-1,754 songs - 3 day 23 hr 52 min
+1,755 songs - 3 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Bardot](https://open.spotify.com/track/00tUE6zCYP3B4Kb4fL76Kd) | [FC Baseball](https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD) | [Bėgti laiptais](https://open.spotify.com/album/1o0OoS4di5BrZfdLLxxUBP) | 3:27 | 2023-10-28 | 2023-10-30 |
 | [Bateliai](https://open.spotify.com/track/49Li0GSpdrMoZQYzDfOUFv) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Pasaka](https://open.spotify.com/album/5qNv5pwpkoWahhan3t528U) | 2:24 | 2023-03-11 | 2023-07-20 |
 | [Be Right Back \(feat\. Embody & VASSY\)](https://open.spotify.com/track/4NRc8wP5hfO9bL2dG6KLAs) | [Jovani](https://open.spotify.com/artist/6jx9UX4W6wVbifcN8U246U), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [Be Right Back \(feat\. Embody & VASSY\)](https://open.spotify.com/album/5LlvpbU2ae6TWxkrRRkEvS) | 3:15 | 2021-05-23 | 2021-07-31 |
+| [BE SPAUDÌMO](https://open.spotify.com/track/4QC4TU9bzctQ4wILdHxfdm) | [OG Version](https://open.spotify.com/artist/0Y2zzjMum7MSOCvI0GNbv5) | [BE SPAUDÌMO](https://open.spotify.com/album/6iKDaWSolWQvtnrmhRhqiW) | 2:44 | 2024-10-24 |  |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6fRxMU4LWwyaSSowV441IU) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/4jGaPN2gEpKciN02ZKRShT) | 3:47 | 2021-04-23 | 2021-05-13 |
 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 | 2024-04-06 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-01-20 | 2024-04-07 |
@@ -769,7 +770,7 @@
 | [Kvailiai](https://open.spotify.com/track/0N5P0sG3g8NnUl258drqdU) | [Furytto](https://open.spotify.com/artist/53xjuOkCa7byXggNs2VZOw) | [Kvailiai](https://open.spotify.com/album/6Y2qg1vYTsCpuxkVZgTBRX) | 1:56 | 2023-09-02 | 2023-09-07 |
 | [kvėpuoti nustosiu](https://open.spotify.com/track/2b6Y2noM5n4i4J1jXCJUd5) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [DEBESIMIS BRAIDYTI](https://open.spotify.com/album/48M4JnKlrmi3WU3KOJr6cO) | 3:26 | 2022-11-12 | 2022-11-16 |
 | [Kvėpuoti Nustosiu](https://open.spotify.com/track/3YYU51BqPjZjoWBYezWUXs) | [Justinas Jarutis](https://open.spotify.com/artist/56OLtN2Eqc3fMT40ehCj5d) | [Kvėpuoti Nustosiu](https://open.spotify.com/album/0uPdsYSnFpP9kMsiuPN0vr) | 3:26 | 2022-11-09 | 2022-11-13 |
-| [Kylančių Rankų](https://open.spotify.com/track/1diFo0lFWFR8EWrc6ZIVpu) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Sutemos](https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A) | 2:06 | 2024-06-01 |  |
+| [Kylančių Rankų](https://open.spotify.com/track/1diFo0lFWFR8EWrc6ZIVpu) | [Jessica Shy](https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu) | [Sutemos](https://open.spotify.com/album/74FyZptrNJEkUd2r2lkv5A) | 2:06 | 2024-06-01 | 2024-10-25 |
 | [l e t \. g o \. m y \. h a n d \(with Bas & 6LACK\)](https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 4:26 | 2021-05-16 | 2021-05-19 |
 | [L'altra dimensione](https://open.spotify.com/track/36ONZ2CvV8KsLPapNPGTqa) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:06 | 2021-05-25 | 2022-06-11 |
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU) | 3:08 | 2021-11-16 | 2021-11-21 |

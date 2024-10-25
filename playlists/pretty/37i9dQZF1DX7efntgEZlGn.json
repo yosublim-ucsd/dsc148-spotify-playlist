@@ -1,13 +1,29 @@
 {
   "description": "Fresh Gospel tracks to make you move and bop your head in Praise",
-  "num_followers": 4891,
+  "num_followers": 4894,
   "original_name": "Trinity Connect ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv8wPAAAAAC2GlKO+3cObgav2IgVcuVl",
+  "snapshot_id": "ZxrfvAAAAAD2kTY0wp8krqtSHk1n4L1V",
   "tracks": [
+    {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "Raha",
+        "url": "https://open.spotify.com/album/65B7lsrYs7HppuK8UDhAXE"
+      },
+      "artists": [
+        {
+          "name": "Janet Otieno",
+          "url": "https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Raha",
+      "url": "https://open.spotify.com/track/2qVI132gcLtLPa08PWQvQr"
+    },
     {
       "added_at": "2023-10-12 20:59:00",
       "album": {

@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Vrijplaats",
+        "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233579,
+      "name": "Het Is Genoeg",
+      "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
+    },
+    {
+      "album": {
         "name": "Het Komt Wel Goed",
         "url": "https://open.spotify.com/album/5UDg7wDgkbBQjMI5G3dd9H"
       },
@@ -1464,6 +1482,24 @@
       "duration_ms": 155133,
       "name": "Ik Hou Van Mij",
       "url": "https://open.spotify.com/track/7sXPkx4uP9nGazTEe4VpIe"
+    },
+    {
+      "album": {
+        "name": "Ik Was Amper 16 Jaar",
+        "url": "https://open.spotify.com/album/0v6neXuDhCvbs0OQmABhvA"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 van Duin",
+          "url": "https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198273,
+      "name": "Ik Was Amper 16 Jaar",
+      "url": "https://open.spotify.com/track/11COH0WOgKJiFQBmJiqTU4"
     },
     {
       "album": {
@@ -1998,7 +2034,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 126642,
       "name": "Mee",
       "url": "https://open.spotify.com/track/3DFmhtFDIbZLLwepdg6aC4"
@@ -3242,7 +3278,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 178005,
       "name": "Wie Zal Je Ooit Vergeten",
       "url": "https://open.spotify.com/track/50EJs9YhrdEFWrDRkBqEtW"

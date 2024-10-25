@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCTlBmRGkS1.md) - [plain]
 
 > 都市型音楽フェス「<a href="https://metrock.jp/">METROPOLITAN ROCK FESTIVAL 2024</a>」（METROCK2024）の出演アーティストを特集。5月11日（土）\- 12日（日）大阪府 海とのふれあい広場、5月18日（土）\-19日（日）東京都 若洲公園にて開催！
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,410 likes - 69 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,413 likes - 69 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCTlBmRGkS1.md) - [plain]
 | 60 | [ノンフィクション](https://open.spotify.com/track/27itIXRcQloT2xGge33rv3) | [松下洸平](https://open.spotify.com/artist/7awpVoD0w1oBBCDeGckNd1) | [R&ME](https://open.spotify.com/album/1d5Knm4BUcPigqlS98ocn3) | 3:37 |
 | 61 | [CHAOS](https://open.spotify.com/track/0zeE7GWhYlWink9gQgAsQ6) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [CHAOS](https://open.spotify.com/album/7jo87kWPoxGUeoBCYxTztz) | 3:39 |
 | 62 | [最高だZ](https://open.spotify.com/track/1lqGqJG44Qxez5uI0RxIg4) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [慈愚挫愚 四 \-最高\-](https://open.spotify.com/album/5fwmfrX8KCApF1fzPnINOJ) | 3:01 |
-| 63 | [ゾーンに入ってます。](https://open.spotify.com/track/7Gyo1DkvQnidw0eChSbtLS) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ゾーンに入ってます。](https://open.spotify.com/album/65tRwgSrUjZ52S2gRlfJVe) | 2:32 |
+| 63 | [ゾーンに入ってます。](https://open.spotify.com/track/7Gyo1DkvQnidw0eChSbtLS) | [MHRJ](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ゾーンに入ってます。](https://open.spotify.com/album/65tRwgSrUjZ52S2gRlfJVe) | 2:32 |
 | 64 | [シェイキン月給日](https://open.spotify.com/track/0qGv9mKmTVmZzlYEiWYyi5) | [ザ・リーサルウェポンズ](https://open.spotify.com/artist/3Dz65nhsZWTW5pa3ydfahH) | [Back To The 80's](https://open.spotify.com/album/1tdO7g9z895DZ44iYrLAzm) | 3:08 |
 | 65 | [Ga\-oh](https://open.spotify.com/track/4hMd1AjgA16lgCd5ginTrZ) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [Ga\-oh](https://open.spotify.com/album/65sjrEMklzh30vFVo7ZQ4T) | 5:17 |
 | 66 | [拾](https://open.spotify.com/track/6z4zOacA3wBwSc6Q0uW9Hh) | [quu](https://open.spotify.com/artist/6gtXm4h1egZ0ge7jvMiQzi) | [拾](https://open.spotify.com/album/70kLCDPIN75ePmYkj884kc) | 7:50 |

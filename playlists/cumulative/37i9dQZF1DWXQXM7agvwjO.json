@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sound from Asia. Cover: KIKI (Thailand)",
+  "description": "Hottest indie sound from Asia. Cover: SOS (Philippines)",
   "name": ".ORG",
   "tracks": [
     {
@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Dance on the Shoreline",
+        "url": "https://open.spotify.com/album/6kxz8fmF1Fq1mllkaOrnzI"
+      },
+      "artists": [
+        {
+          "name": "L\u00dcCY",
+          "url": "https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286666,
+      "name": "99",
+      "url": "https://open.spotify.com/track/0TEZhoK0jSuJRxaXqWHZyZ"
+    },
+    {
+      "album": {
         "name": "We all know we will fail",
         "url": "https://open.spotify.com/album/2qA6Vo1U3fZthJPbIUxm0x"
       },
@@ -388,7 +406,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 207249,
       "name": "A Band used to be young",
       "url": "https://open.spotify.com/track/2V7BHb2wSiJgwd0FGMBeIF"
@@ -1277,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Amore",
+        "url": "https://open.spotify.com/album/6VrDDrNj9gvyw5bfqoL3t0"
+      },
+      "artists": [
+        {
+          "name": "SOS",
+          "url": "https://open.spotify.com/artist/6sYQTuRBvPAaQ9Ba5ca1Yc"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242027,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/1R0ebRYYiqXdqV3HIL23ag"
+    },
+    {
+      "album": {
         "name": "Tremendous Events in Your Life",
         "url": "https://open.spotify.com/album/1U33VH2MaE1VZrdVqvISSt"
       },
@@ -1498,6 +1534,24 @@
       "duration_ms": 212750,
       "name": "Anthems For A Seventeen Year-Old Girl - From \"I Saw the TV Glow\"",
       "url": "https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC"
+    },
+    {
+      "album": {
+        "name": "Anti \u221e Hero",
+        "url": "https://open.spotify.com/album/61uE81t3kSjEmDS2GPIkZ6"
+      },
+      "artists": [
+        {
+          "name": "Mighfar Suganda",
+          "url": "https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210634,
+      "name": "Anti \u221e Hero",
+      "url": "https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY"
     },
     {
       "album": {
@@ -2270,7 +2324,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 180000,
       "name": "Balter Baby",
       "url": "https://open.spotify.com/track/04AFP81ttUR9OTtXnxApNb"
@@ -3661,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "burn for you",
+        "url": "https://open.spotify.com/album/4C1g8RkRQMxZ49zveIpXsN"
+      },
+      "artists": [
+        {
+          "name": "polaroid police",
+          "url": "https://open.spotify.com/artist/18AaPbifDMnc2J9hNKR43D"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "burn for you",
+      "url": "https://open.spotify.com/track/7oydQ62zY3d8alCLxFlUGD"
+    },
+    {
+      "album": {
         "name": "Burning",
         "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
       },
@@ -4044,7 +4116,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 201022,
       "name": "Candlelight - Spotify Singles",
       "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
@@ -5188,7 +5260,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 175884,
       "name": "Coolest Coward",
       "url": "https://open.spotify.com/track/0WiclOyyuYPOfxXPGI1SD7"
@@ -5206,7 +5278,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 132986,
       "name": "Crawl",
       "url": "https://open.spotify.com/track/37DAC9LSqcr4Lv2hFHxutm"
@@ -7084,7 +7156,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 207686,
       "name": "Eleven - Alternate Version",
       "url": "https://open.spotify.com/track/1pwhINWGuysBs8IsI2LtuO"
@@ -7920,6 +7992,28 @@
       "duration_ms": 161217,
       "name": "Feeling Free",
       "url": "https://open.spotify.com/track/4sE3YbKB2AktlZd6vMFoCS"
+    },
+    {
+      "album": {
+        "name": "Feeling OK?",
+        "url": "https://open.spotify.com/album/48DU61VhABrimGzYxRRye0"
+      },
+      "artists": [
+        {
+          "name": "babychair",
+          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
+        },
+        {
+          "name": "Pa!nter",
+          "url": "https://open.spotify.com/artist/3TLkCvPSwrTgS5vb7TkZ2T"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153756,
+      "name": "Feeling OK?",
+      "url": "https://open.spotify.com/track/4O2akgNKwNVSYwvnzYAwfg"
     },
     {
       "album": {
@@ -13992,7 +14086,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 201176,
       "name": "LosE tO yOu",
       "url": "https://open.spotify.com/track/6lTJOAfoSWVgRpCPiztujD"
@@ -15158,6 +15252,28 @@
       "duration_ms": 248571,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/0oNip00viM5wjLuAJQQiGc"
+    },
+    {
+      "album": {
+        "name": "I Dig You",
+        "url": "https://open.spotify.com/album/118ouAtcHqDD7t7YV2hD1O"
+      },
+      "artists": [
+        {
+          "name": "\u6050\u9f8d\u7684\u76ae",
+          "url": "https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J"
+        },
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Meteor Shower",
+      "url": "https://open.spotify.com/track/4U04CJyjD2HzMjHMBnVn0h"
     },
     {
       "album": {
@@ -18051,6 +18167,24 @@
     },
     {
       "album": {
+        "name": "Percuma",
+        "url": "https://open.spotify.com/album/0qoIXLzbwW0yQnxpEZ1Hul"
+      },
+      "artists": [
+        {
+          "name": "Skandal",
+          "url": "https://open.spotify.com/artist/47pnhmb1nlXrpMvUDLW5vm"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140129,
+      "name": "Percuma",
+      "url": "https://open.spotify.com/track/2lZMGEtbbKjX31lylqe3go"
+    },
+    {
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/69i0JGTuHXXxD3M0c3F3Mh"
       },
@@ -20082,6 +20216,24 @@
       "duration_ms": 283500,
       "name": "Secret",
       "url": "https://open.spotify.com/track/2Rh1kYN9pPDzedA1UTtJsR"
+    },
+    {
+      "album": {
+        "name": "See You Again",
+        "url": "https://open.spotify.com/album/0ZLWgSSenkkVi2QLbu21Xx"
+      },
+      "artists": [
+        {
+          "name": "Azhr",
+          "url": "https://open.spotify.com/artist/1XoQClD6pvwGhLXBLHQ5x3"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219718,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/6MOFpVMe7RU4khlbezH2WY"
     },
     {
       "album": {
@@ -24938,7 +25090,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 189176,
       "name": "Vapour",
       "url": "https://open.spotify.com/track/7Kb5Jy0V8aeO7vOo4qS7LP"
@@ -25156,6 +25308,24 @@
       "duration_ms": 221674,
       "name": "Walk Your Heart Home",
       "url": "https://open.spotify.com/track/1nbquISEGb21tsBdVlaP6V"
+    },
+    {
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/01LxuZpEF7GvsfAytHRbxt"
+      },
+      "artists": [
+        {
+          "name": "paranoid void",
+          "url": "https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263423,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/7q9dOX2Jm8EKVTJ8jGvOY8"
     },
     {
       "album": {
@@ -26138,7 +26308,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 138100,
       "name": "Why Did You?",
       "url": "https://open.spotify.com/track/7JlKhLY76xx7aG2YJk5Vbr"
@@ -27608,7 +27778,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 176720,
       "name": "\u0e2d\u0e22\u0e39\u0e48\u0e14\u0e35\u0e46\u0e01\u0e47\u0e2d\u0e48\u0e2d\u0e19\u0e41\u0e2d (My Weakness is You)",
       "url": "https://open.spotify.com/track/5Kw1ljNGHNZy8xmPn81QyH"
@@ -29912,6 +30082,24 @@
       "duration_ms": 206624,
       "name": "\u91d1\u725b\u5ea7\u7684\u7262\u9a37",
       "url": "https://open.spotify.com/track/73elZdrJuihtqrMAW0MGVp"
+    },
+    {
+      "album": {
+        "name": "shhh, it's under my bed",
+        "url": "https://open.spotify.com/album/58L0TIIk2t14KKVSxgjyB2"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236757,
+      "name": "\u9577\u591c\u8cfd\u8dd1 Nights",
+      "url": "https://open.spotify.com/track/0DTfdzLVkHO4Mjv8IiF7xs"
     },
     {
       "album": {

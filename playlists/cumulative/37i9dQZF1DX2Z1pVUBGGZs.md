@@ -2,9 +2,9 @@
 
 ### [Our Generation](https://open.spotify.com/playlist/37i9dQZF1DX2Z1pVUBGGZs)
 
-> a playlist without boundaries, featuring alfie templeman  ☁️  art: @doolittleillustrations
+> a playlist without boundaries, featuring artemas  ☁️  art: @doolittleillustrations
 
-232 songs - 11 hr 31 min
+240 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bird cage blue and yellow](https://open.spotify.com/track/3qhyW08FypET71F65dYZZc) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Songs of Origin](https://open.spotify.com/album/2l9etGpqZ3uyqa5I2xozjv) | 3:14 | 2024-09-27 | 2024-10-18 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-27 | 2024-09-21 |
 | [Black Girls Wanna Have Fun](https://open.spotify.com/track/2S9Mi8kKLdfD5Xu0ypYKb5) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [Black Girls Wanna Have Fun](https://open.spotify.com/album/2B9StN4ktbzDyz0ZDHUbWm) | 1:45 | 2024-06-27 | 2024-08-30 |
+| [Bloom](https://open.spotify.com/track/38AqcVgPDXEb0PtBltxCin) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Bloom](https://open.spotify.com/album/17LhwJlAlvNZqufsVPGUQi) | 3:35 | 2024-10-24 |  |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-23 | 2024-10-04 |
 | [Blue](https://open.spotify.com/track/08dq5IUNfwGsB8XdyXzLJJ) | [Ziggy 2000](https://open.spotify.com/artist/1QTanwqlZCwb5kbYbkFI2r) | [Blue](https://open.spotify.com/album/7sM3EjIPx3j5n3M0T0qjAt) | 3:36 | 2024-08-08 | 2024-10-04 |
 | [bones on the beach](https://open.spotify.com/track/1F9rwXbQ2dxZ72mC17ovLY) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 3:27 | 2024-08-29 |  |
@@ -52,6 +53,7 @@
 | [Can’t Walk Away](https://open.spotify.com/track/71SJspddigbl3qqVoMcRfJ) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ) | [Can’t Walk Away](https://open.spotify.com/album/7z4kMicNtUOGHDbj6ygnSn) | 2:51 | 2024-07-18 | 2024-10-11 |
 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 | 2024-06-27 | 2024-09-21 |
 | [cdjs](https://open.spotify.com/track/2qgmQQJRpDIIyu0bv82Szf) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [cdjs](https://open.spotify.com/album/71jWfGnL4TQw6CstgmOVJo) | 3:08 | 2024-10-17 |  |
+| [Chicago](https://open.spotify.com/track/3gDPvCx5hIoi4hFlJqeRqQ) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [wasn’t a fighting kid](https://open.spotify.com/album/6VzjjK4yMX1z1dUaOp5K1B) | 3:12 | 2024-10-24 |  |
 | [City's Violent \(intro\)](https://open.spotify.com/track/5Dpz3UsomG2zlY8DBLLFNR) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [City's Violent](https://open.spotify.com/album/27MzU2VIkyf1PTrdcA3bUA) | 2:07 | 2024-07-04 | 2024-07-12 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-27 | 2024-09-13 |
 | [Cocoon](https://open.spotify.com/track/6FTXzaE0mrimbEIp4NuZNH) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Cocoon](https://open.spotify.com/album/3lrZiTjmoBOseURTwpz0jn) | 3:37 | 2024-06-27 | 2024-09-27 |
@@ -74,6 +76,7 @@
 | [Don't Do Well Alone](https://open.spotify.com/track/1E3l1pjDVsdVmyHcbBwvB5) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Don't Do Well Alone](https://open.spotify.com/album/03dAFgKbuDVNLxMPopWAxI) | 3:21 | 2024-08-08 | 2024-10-04 |
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-06-27 | 2024-07-05 |
 | [Dumb Bitch Juice](https://open.spotify.com/track/3GREjwadOvBZW448ULa6TC) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:31 | 2024-06-27 | 2024-07-19 |
+| [ellen](https://open.spotify.com/track/3U3zzmV6yzOBH7VXACj9Wv) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [ellen](https://open.spotify.com/album/2y2QxfED6sOXy7W4hBS0nQ) | 2:56 | 2024-10-24 |  |
 | [erase u](https://open.spotify.com/track/6PhuO3Usi63YmV8H7jBpU7) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [erase u](https://open.spotify.com/album/74Ho6d5Ftge7QFc4LDMwlM) | 3:03 | 2024-09-12 |  |
 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 | 2024-10-03 |  |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-04 | 2024-10-04 |
@@ -89,6 +92,7 @@
 | [flower in the garden](https://open.spotify.com/track/7kkAVEF8aavSigJxOqfzEc) | [frances mistry](https://open.spotify.com/artist/3TRbyotWz0d84ZS6LaaZpG) | [messages](https://open.spotify.com/album/15jKATHdfpOdhIxNqfWk0H) | 3:26 | 2024-06-27 | 2024-08-09 |
 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 | 2024-09-20 |  |
 | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/album/1CTAbh7U5e7KzKQAfX7aNx) | 2:07 | 2024-09-20 |  |
+| [Genevieve](https://open.spotify.com/track/7fFGr8y59vJ0gsfb8M3PjR) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Gramophone](https://open.spotify.com/album/0zllmTob4r60F5Fb6KfTZb) | 3:39 | 2024-10-24 |  |
 | [girls just wanna have fun](https://open.spotify.com/track/2E6akA4GVkpu5jDDzbYH7d) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [girls just wanna have fun](https://open.spotify.com/album/4ggpeldcot5lj39pHKZUrh) | 2:31 | 2024-07-11 | 2024-09-06 |
 | [Good Life](https://open.spotify.com/track/2hfio2XOQfd430f5ZQGLYh) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Good Life](https://open.spotify.com/album/0AJuv1YmUczcH5Y2YRLfkd) | 2:19 | 2024-08-23 | 2024-09-13 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-06-27 | 2024-09-13 |
@@ -127,9 +131,11 @@
 | [köln](https://open.spotify.com/track/1EBE9YbvhTefyMF5IXi6Hx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [köln](https://open.spotify.com/album/132pEALpHb1vZ01npvRw4t) | 2:30 | 2024-06-27 | 2024-07-19 |
 | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 | 2024-08-29 |  |
 | [laundry detergent](https://open.spotify.com/track/1pB8PSQShsmbOlsBGKwSnJ) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [laundry detergent](https://open.spotify.com/album/0gMy51MYjFPXUqkfHYrAFo) | 2:58 | 2024-06-27 | 2024-08-09 |
+| [LEECHES](https://open.spotify.com/track/0z8xJVAhCfvnKYBYUEDxwx) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [LEECHES](https://open.spotify.com/album/64cspqz4nY2zwEMgab2utT) | 2:31 | 2024-10-24 |  |
 | [Light](https://open.spotify.com/track/6I6DpmYoLOk6i6AYHw4BWk) | [NiNE8](https://open.spotify.com/artist/0b3ISAJg1jwifewBgTwTHG) | [Light](https://open.spotify.com/album/6OEsxLD2Zjs96w34rvgdOd) | 3:50 | 2024-06-27 | 2024-08-09 |
 | [Like Honey](https://open.spotify.com/track/2BHjccS8tjcww3NwIgbMIz) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Like Honey](https://open.spotify.com/album/0trNw0ZdkN4za0xh96II1F) | 3:28 | 2024-10-03 |  |
 | [LIL❀THINGS](https://open.spotify.com/track/2nL7RJfoM4ff4okIiwNcVZ) | [CARSTEN2X](https://open.spotify.com/artist/0Un2To5Ct6WgajC9z1xDud), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [LIL❀THINGS](https://open.spotify.com/album/7Fyf6MyMLJxi34RICHfPRl) | 3:11 | 2024-08-02 | 2024-08-23 |
+| [Little Italy](https://open.spotify.com/track/7vAaKxAmT9WjALNoyySkts) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Little Italy](https://open.spotify.com/album/41BvV1WnJ6vgyPm5T03qVs) | 2:26 | 2024-10-24 |  |
 | [Long Way Back](https://open.spotify.com/track/441Jf2ya0yn0L39am4qk8c) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1) | [Long Way Back](https://open.spotify.com/album/2BmUoSfihM32BuPmk76OLG) | 3:36 | 2024-09-20 |  |
 | [Look At That Woman](https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Look At That Woman](https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij) | 2:43 | 2024-06-27 | 2024-08-03 |
 | [Losing Me To You](https://open.spotify.com/track/0Xm19zngTsuPnXgpgC34cM) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [HATE FOR ANOTHER DAY](https://open.spotify.com/album/0WI4E0vSZy2zYGB7EKNPDJ) | 3:07 | 2024-08-15 | 2024-09-06 |
@@ -211,6 +217,7 @@
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-06-27 | 2024-08-09 |
 | [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 | 2024-07-11 | 2024-10-11 |
 | [tears](https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [tears](https://open.spotify.com/album/4NCgay1BBCiIn6kl3F1S0P) | 2:07 | 2024-06-27 | 2024-09-27 |
+| [Ten to Twelve](https://open.spotify.com/track/2Ud3f1b6RYEZOCtZ2MrJav) | [Bug Eyed](https://open.spotify.com/artist/3TXIv7fmIXavggO3n0AUtL) | [Ten to Twelve](https://open.spotify.com/album/1Z8Ec1C3Z9BRI4RO4Polum) | 3:12 | 2024-10-24 |  |
 | [The Big Leagues](https://open.spotify.com/track/350fMBx2Q0iGVBblBri46j) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [The Big Leagues](https://open.spotify.com/album/2lE1xTqPNmvbO1G3MnTttE) | 2:45 | 2024-08-23 |  |
 | [The Go Down](https://open.spotify.com/track/4r1IIs9keKHVRO7KSlnxCh) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [The Go Down](https://open.spotify.com/album/439ekKZJmgH7sWLk6Ze4JH) | 2:10 | 2024-07-04 | 2024-10-04 |
 | [the good life](https://open.spotify.com/track/6F8oCl5sKW7DHiuUehOn14) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [the good life](https://open.spotify.com/album/0MaY3tf3BOTeWlyaWBA438) | 3:05 | 2024-08-02 | 2024-09-06 |
@@ -238,6 +245,7 @@
 | [Yard](https://open.spotify.com/track/1C2TixzCNkUiSqJqkOckor) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Yard](https://open.spotify.com/album/2tJx1gxkXtuCXHWz3G8bib) | 3:08 | 2024-10-03 |  |
 | [You Don't Remember Me](https://open.spotify.com/track/4XjU4hwBk4KOajDgDQX4yq) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Securely Insecure](https://open.spotify.com/album/1OetRpfHW0L7PYoo4UBnDb) | 3:52 | 2024-08-02 | 2024-10-18 |
 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 | 2024-06-27 | 2024-07-12 |
+| [you say that i'm crazy](https://open.spotify.com/track/3U18vzIuVwMGzR4raHhVVS) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [you say that i'm crazy](https://open.spotify.com/album/6hHqkUdrHqBZAe77duY9q9) | 2:26 | 2024-10-24 |  |
 | [your street](https://open.spotify.com/track/7t1T1V2B6QfjVMetEnPqGi) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn) | [\[pieces\]](https://open.spotify.com/album/1Zyaib9XbRk2MISYpU1c5J) | 3:14 | 2024-09-05 |  |
 | [ZOMBIE](https://open.spotify.com/track/5xBX9Wx8eU9ZBHzKyBVWQZ) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [ZOMBIE](https://open.spotify.com/album/6FJ3tswJyG8KFyKcILyy99) | 1:58 | 2024-09-05 | 2024-10-18 |
 

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Mi Primer Disco",
+        "url": "https://open.spotify.com/album/6MId66gnUSs3HFD5tyZPGQ"
+      },
+      "artists": [
+        {
+          "name": "Jonaz",
+          "url": "https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196648,
+      "name": "Bailando Con el Diablo",
+      "url": "https://open.spotify.com/track/4xY0VSiude1VWZ81Q26QCq"
+    },
+    {
+      "album": {
         "name": "Calypso",
         "url": "https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 194367,
       "name": "Calle 24",
       "url": "https://open.spotify.com/track/5Y6uVaq47UMT6IuPFmYAaM"
@@ -218,7 +236,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 203631,
       "name": "Canci\u00f3n Embrujada",
       "url": "https://open.spotify.com/track/6DnZOGTxbJdo2G81FZ5ikt"
@@ -460,6 +478,24 @@
       "duration_ms": 142333,
       "name": "Dr\u00e1cula \u201dYe-ye\u201d",
       "url": "https://open.spotify.com/track/28mq9dICF4XavmY50cyOgX"
+    },
+    {
+      "album": {
+        "name": "Arwrarwrirwrarwro (Banda Sonora Original de la Cuarta Temporada)",
+        "url": "https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula",
+      "url": "https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV"
     },
     {
       "album": {
@@ -1250,7 +1286,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 134040,
       "name": "Morticia",
       "url": "https://open.spotify.com/track/6CR1IovzNEA8qPUlxqlSkh"
@@ -1628,6 +1664,24 @@
       "duration_ms": 211960,
       "name": "Satan Swing",
       "url": "https://open.spotify.com/track/2yPDTHmS3FEAcDb5S0TVYD"
+    },
+    {
+      "album": {
+        "name": "#Cancionero (En Vivo)",
+        "url": "https://open.spotify.com/album/0QbS32TDKjKdx513bxWnlp"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239880,
+      "name": "Satan Swing - En Vivo",
+      "url": "https://open.spotify.com/track/7cfDvgHa9vxFEUnLwJNaBG"
     },
     {
       "album": {

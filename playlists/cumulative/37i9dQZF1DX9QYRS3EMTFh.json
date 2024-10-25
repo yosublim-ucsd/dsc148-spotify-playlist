@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kalibwoy",
+  "description": "Les hits dancehall du moment. Photo : Maureen x Blaiz Fayah",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -314,7 +314,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 138394,
       "name": "ANDIRANS",
       "url": "https://open.spotify.com/track/6a05xZZ1ezAEJnE0H0vG3Z"
@@ -2279,6 +2279,24 @@
     },
     {
       "album": {
+        "name": "Dating Szn",
+        "url": "https://open.spotify.com/album/0POPtgxngG9xYy2ogbHqVK"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175698,
+      "name": "Dating Szn",
+      "url": "https://open.spotify.com/track/36VdMAYdbvsPDxq9w4fehv"
+    },
+    {
+      "album": {
         "name": "DBG",
         "url": "https://open.spotify.com/album/4asYPug3TrWrrl3mRO086k"
       },
@@ -2500,6 +2518,24 @@
       "duration_ms": 138947,
       "name": "Doliprane",
       "url": "https://open.spotify.com/track/5kYcmyTVwXoLSQpsBF0J03"
+    },
+    {
+      "album": {
+        "name": "Don Dada",
+        "url": "https://open.spotify.com/album/2dMrWdh4gdZ04DirCduOTy"
+      },
+      "artists": [
+        {
+          "name": "Bamby",
+          "url": "https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128009,
+      "name": "Don Dada",
+      "url": "https://open.spotify.com/track/6NyolyYpZ6eOhXdsUeIOkw"
     },
     {
       "album": {
@@ -5749,6 +5785,32 @@
     },
     {
       "album": {
+        "name": "Money Pull Up",
+        "url": "https://open.spotify.com/album/6OntrtGTUwdWI0aH3Codpn"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Dj Glad",
+          "url": "https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128399,
+      "name": "Money Pull Up",
+      "url": "https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg"
+    },
+    {
+      "album": {
         "name": "Monte \u00e0 bord",
         "url": "https://open.spotify.com/album/317J7ZmNjRzvlcEVclpC5K"
       },
@@ -6810,7 +6872,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 140458,
       "name": "Pon Di Ting",
       "url": "https://open.spotify.com/track/6FmvDclq7Ka4xPlxi28g45"
@@ -9064,7 +9126,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 148000,
       "name": "UNCLE",
       "url": "https://open.spotify.com/track/4kri0tYpk1eIktB2FeUE1g"

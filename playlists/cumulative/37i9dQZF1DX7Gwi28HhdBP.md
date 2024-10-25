@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG?si=Fb6e5tIGQQm56MBOHnHkaw">  كزابيرو </a>
 
-272 songs - 19 hr 52 min
+273 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,12 +77,13 @@
 | [El Keif](https://open.spotify.com/track/4aS9Acxyh86lpyN0sE1IRa) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Tarek El Sheikh](https://open.spotify.com/artist/7nvYEkt93I958ZuboIGgNi) | [Noaata Beida](https://open.spotify.com/album/12ngwNxLOjTaOOsIHZCkib) | 3:45 | 2022-07-14 | 2024-04-19 |
 | [EL Keif](https://open.spotify.com/track/1LttGAXVFilgpA74BxSndf) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Tarek El\-Sheikh](https://open.spotify.com/artist/146oFMnWlkqlpiGVHY5MUU) | [Noaata Beida](https://open.spotify.com/album/2bgL3UrqM8knBxaedpoZbE) | 3:45 | 2021-12-16 |  |
 | [El Leila Eid](https://open.spotify.com/track/1v6xHWH5koUiYp1PYYDjGS) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [El Leila Eid](https://open.spotify.com/album/3Vao3BYiDmnLLtoLJa8HoU) | 3:08 | 2022-05-01 | 2023-08-03 |
-| [El Mal3ab Wase3](https://open.spotify.com/track/6aXn3QBR6fm087bEIqm85z) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [El Mal3ab Wase3](https://open.spotify.com/album/587Jslmgif2pEcpKCSkULK) | 3:41 | 2024-02-16 |  |
+| [El Mal3ab Wase3](https://open.spotify.com/track/6aXn3QBR6fm087bEIqm85z) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [El Mal3ab Wase3](https://open.spotify.com/album/587Jslmgif2pEcpKCSkULK) | 3:41 | 2024-02-16 | 2024-10-25 |
 | [El Maslahgeya Ketro](https://open.spotify.com/track/0Uw03NrGewuuUxcbGZNwxe) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [El Maslahgeya Ketro](https://open.spotify.com/album/31qVpsuUS8UUrAagCKWEij) | 5:33 | 2021-12-16 | 2022-07-28 |
 | [El Metsaltan](https://open.spotify.com/track/22VUSiX5N1MfmxwavOJIDJ) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [El Ostaz](https://open.spotify.com/album/3J8t51g0S9Gwa6xUfGwlzU) | 6:05 | 2021-12-16 | 2022-12-21 |
 | [El Moled](https://open.spotify.com/track/1aJsfHOZbXVt5rRrGYS7Lz) | [Ahmed El Soghayar](https://open.spotify.com/artist/6BFeXuqeEwOAUu3tqmbrQe) | [Tebkey Ya Ein](https://open.spotify.com/album/4QFnAyN7DvUMiIkjey2TM7) | 10:18 | 2021-12-16 | 2023-01-13 |
 | [El Nas El Ray'ah](https://open.spotify.com/track/2m66UK6UWcoo73unfkdSff) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5), [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [El Nas El Ray'ah](https://open.spotify.com/album/6fKDnl05iZZFfNDHgupgYO) | 3:31 | 2021-12-16 | 2022-12-21 |
 | [El Nas Elly Fouq](https://open.spotify.com/track/4na1EO4wZ7W5lG9yueKyhZ) | [Sayed El Sheikh](https://open.spotify.com/artist/54QPr3wGRc4hAM2JrDviGm) | [Fi El Mahkama](https://open.spotify.com/album/1NN9PmRSHHJCrHyfyaFfYa) | 8:14 | 2021-12-16 | 2023-05-12 |
+| [El Volt El 3aly](https://open.spotify.com/track/3plhjP2mv6p6jsfkFA7LZF) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [El Volt El 3aly](https://open.spotify.com/album/7cHYfNdJOpIFmGvjbynIp3) | 4:00 | 2024-10-25 |  |
 | [ElSo7ab Yala](https://open.spotify.com/track/4StABzuf6ZgFibqFSNEjmp) | [Misho Gamal](https://open.spotify.com/artist/6w4zJXRxkPD5Z1onGcEfet) | [ElSo7ab Yala](https://open.spotify.com/album/07r7JWc9srIQL0IYtUI86J) | 4:31 | 2021-12-16 | 2023-05-12 |
 | [Ely Meny Mezaleny](https://open.spotify.com/track/7yHt74yOh2Oc6MPyLdUzlE) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ahmed Shiba Cocktail](https://open.spotify.com/album/1k0LL1fgNsewKfbPUTpQwD) | 6:07 | 2021-12-16 | 2022-12-21 |
 | [Etal tetkayef](https://open.spotify.com/track/5GNfSTV6ioiX3n9oIpyM6c) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Etal tetkayef](https://open.spotify.com/album/2JFefxJ5kwKa5YPjs8qvGj) | 4:17 | 2023-04-20 | 2024-08-12 |

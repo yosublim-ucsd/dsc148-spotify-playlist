@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: IRONBOY
+> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: YOUNGOHM
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,969 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,958 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [พี่ก็รู้](https://open.spotify.com/track/37BOGNFiFipyHllBoQz1mt) | [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [พี่ก็รู้](https://open.spotify.com/album/7voWCwTeHJO98C9mpbXvh5) | 3:05 |
-| 2 | [กลับกับผมได้ไหม?](https://open.spotify.com/track/1EYYGgYbBd94Ws6mF8etG1) | [Bogey](https://open.spotify.com/artist/3jyyG8EihuppZucFGnyKY8), [Chxid!](https://open.spotify.com/artist/0EqiTQKKBV3wUAy7TS09gL), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [กลับกับผมได้ไหม?](https://open.spotify.com/album/3a8DWQaRcWkkgAz3x1WRn6) | 3:08 |
-| 3 | [คนแปลกหน้า](https://open.spotify.com/track/1yNZTg3VP0uksLKPsSSdDx) | [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [Pretty \(SAD\) Boy](https://open.spotify.com/album/51ugVoyZBCXOxf8hCJd1e7) | 3:42 |
-| 4 | [Bad Girls Like You](https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Bad Girls Like You](https://open.spotify.com/album/5Nc9aGRxGkut2IrN0Dmxss) | 3:06 |
-| 5 | [ส้มตีน](https://open.spotify.com/track/6WlDVuAPTTNHvAIa8G4G06) | [JV.JARVIS](https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz), [CDGuntee](https://open.spotify.com/artist/6hzuCOHEv2eDQrxfQWFbp7), [Sirpoppa](https://open.spotify.com/artist/2RKv2lORS7omWEHRWweLqp) | [ไทมุง \(Thaimoong\)](https://open.spotify.com/album/40CaOK2z61yi2TIUfl8xpZ) | 3:43 |
+| 1 | [ONE GIRL](https://open.spotify.com/track/021QfEXbcQjwwUHmXuDswD) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ONE GIRL](https://open.spotify.com/album/64UN1Mt9T5qVw21N7JVpEA) | 4:22 |
+| 2 | [RAPSTAR](https://open.spotify.com/track/3LJdM5B8POsS6aG4ri5TQ3) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [RAPSTAR](https://open.spotify.com/album/5k4H423NlDI2jyhN3cENua) | 3:00 |
+| 3 | [Bad Girls Like You](https://open.spotify.com/track/23EDUpNbiKcDwhUf9kBRo8) | [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [Bad Girls Like You](https://open.spotify.com/album/5Nc9aGRxGkut2IrN0Dmxss) | 3:06 |
+| 4 | [กลับกับผมได้ไหม?](https://open.spotify.com/track/1EYYGgYbBd94Ws6mF8etG1) | [Bogey](https://open.spotify.com/artist/3jyyG8EihuppZucFGnyKY8), [Chxid!](https://open.spotify.com/artist/0EqiTQKKBV3wUAy7TS09gL), [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [กลับกับผมได้ไหม?](https://open.spotify.com/album/3a8DWQaRcWkkgAz3x1WRn6) | 3:08 |
+| 5 | [พี่ก็รู้](https://open.spotify.com/track/37BOGNFiFipyHllBoQz1mt) | [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [พี่ก็รู้](https://open.spotify.com/album/7voWCwTeHJO98C9mpbXvh5) | 3:05 |
 | 6 | [SORRY](https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [DREAMGALS](https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB) | 3:17 |
-| 7 | [ลั่นไก](https://open.spotify.com/track/4gfNL0Jjz8zBey4uhkZJnG) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [ลั่นไก](https://open.spotify.com/album/6hGXwJn1KChiBfMhAKrju1) | 3:39 |
-| 8 | [ONE GIRL](https://open.spotify.com/track/021QfEXbcQjwwUHmXuDswD) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [2T FLOW](https://open.spotify.com/artist/1ymRpNPlxJRVT00kmJk8AZ), [BlackHeart](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ONE GIRL](https://open.spotify.com/album/64UN1Mt9T5qVw21N7JVpEA) | 4:22 |
-| 9 | [ความเชื่อ](https://open.spotify.com/track/4TjMY4TknLq3LkVe4pvTM6) | [G\-Bear](https://open.spotify.com/artist/5B3DHZuVuSCKONCjAEaoib), [MaiMhon](https://open.spotify.com/artist/4eFeCIHTS2zPKAOPdaKTxg) | [ความเชื่อ](https://open.spotify.com/album/3EgcYSLPcoiqaa7m9LSjML) | 3:54 |
-| 10 | [เธอเป็นของฉันแล้ว](https://open.spotify.com/track/1xLIirkup3VJ2MtcQDXeAO) | [Archy](https://open.spotify.com/artist/19vBE89Dl5CQo01T9bdHsJ) | [เธอเป็นของฉันแล้ว](https://open.spotify.com/album/3OO4fvO0hXUULEhX4ezUwK) | 3:29 |
-| 11 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 |
-| 12 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 |
+| 7 | [คนแปลกหน้า](https://open.spotify.com/track/1yNZTg3VP0uksLKPsSSdDx) | [IRONBOY](https://open.spotify.com/artist/7GLqyoZnu5jGVWvGBulrne), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [Pretty \(SAD\) Boy](https://open.spotify.com/album/51ugVoyZBCXOxf8hCJd1e7) | 3:42 |
+| 8 | [ที่สุดเลย](https://open.spotify.com/track/36czGZFR3xI0F38AiZ0Xdq) | [Rifle](https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [ที่สุดเลย](https://open.spotify.com/album/07zp9Mnc758xpFKTCIyhYE) | 3:25 |
+| 9 | [ลั่นไก](https://open.spotify.com/track/4gfNL0Jjz8zBey4uhkZJnG) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [ลั่นไก](https://open.spotify.com/album/6hGXwJn1KChiBfMhAKrju1) | 3:39 |
+| 10 | [เด็กอินเตอร์](https://open.spotify.com/track/6koztzfSaFalbFxpiaFpjk) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ธาตุทองซาวด์](https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK) | 3:27 |
+| 11 | [เธอเป็นของฉันแล้ว](https://open.spotify.com/track/1xLIirkup3VJ2MtcQDXeAO) | [Archy](https://open.spotify.com/artist/19vBE89Dl5CQo01T9bdHsJ) | [เธอเป็นของฉันแล้ว](https://open.spotify.com/album/3OO4fvO0hXUULEhX4ezUwK) | 3:29 |
+| 12 | [ความเชื่อ](https://open.spotify.com/track/4TjMY4TknLq3LkVe4pvTM6) | [G\-Bear](https://open.spotify.com/artist/5B3DHZuVuSCKONCjAEaoib), [MaiMhon](https://open.spotify.com/artist/4eFeCIHTS2zPKAOPdaKTxg) | [ความเชื่อ](https://open.spotify.com/album/3EgcYSLPcoiqaa7m9LSjML) | 3:54 |
 | 13 | [อย่าพูดเลย](https://open.spotify.com/track/3kAYQ3h8m9ca7bpJzviqUl) | [4BANG](https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK) | [Phranakorn Music](https://open.spotify.com/album/6gZfOlDZSyYfEmDSjpSRlQ) | 2:37 |
 | 14 | [Swipe Your Tears Out](https://open.spotify.com/track/3iuKOttVPboBh7eO1S2yOg) | [LAZYHOLIC](https://open.spotify.com/artist/47ni85HaUaSCCkDLkmJouA) | [Swipe Your Tears Out](https://open.spotify.com/album/7BRMncrJNGkwuBVsNQ3x5F) | 3:18 |
 | 15 | [FROM NOW IT'S MY TURN](https://open.spotify.com/track/1d6pYOpVosI1e2gQwE0OlM) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [FROM NOW IT'S MY TURN](https://open.spotify.com/album/76nhn0zfwMGJgCsj41d6hP) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 49 | [อย่าอยู่เพราะเห็นใจ \(feat\. Only Monday\)](https://open.spotify.com/track/6nq8USZIpU2oc7x5vxThHu) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [อย่าอยู่เพราะเห็นใจ \(feat\. Only Monday\)](https://open.spotify.com/album/6368pIXTmYj3JO0tF6C0Yg) | 4:27 |
 | 50 | [ฉบับท้ายสุด](https://open.spotify.com/track/6OTlqL40FtkkwBEjiQSiDT) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [ฉบับท้ายสุด](https://open.spotify.com/album/1mBxtzaoEjfBJrKoiDe8xi) | 2:31 |
 
-Snapshot ID: `ZxI5QgAAAAAHczPum7KyiQLZrVttQbvV`
+Snapshot ID: `ZxojxgAAAACI7iKpACHFv7fTnAIUoDab`

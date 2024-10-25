@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: GLAY ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,033 likes - 99 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,038 likes - 99 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xQj9GaDkMP.md) - [plain]
 | 61 | [wanna Be A Dreammaker \- Straight Run](https://open.spotify.com/track/4sjG6vmpP6LdgBqCwb5e8O) | [globe](https://open.spotify.com/artist/5O6t6gb6MeNqzOBAq1oLad) | [wanna Be A Dreammaker](https://open.spotify.com/album/76E6w3iptkt2QKkbtCx8wE) | 5:33 |
 | 62 | [Power](https://open.spotify.com/track/2m9ocQWWnvlym8ZdxAlpZJ) | [Pocket Biscuits](https://open.spotify.com/artist/440bRdM7PVWhSoOtDiIWPL) | [THANKS 20th Edition ～Pocket Biscuits Single Collection+](https://open.spotify.com/album/0AvFt9BUkEOs5Bz4yqVPJc) | 4:53 |
 | 63 | [めざせポケモンマスター](https://open.spotify.com/track/5rguyGUoFOAXp8aSEeZBX3) | [Rica Matsumoto](https://open.spotify.com/artist/72GURBGvhqtUrJctxI6tE9) | [ポケモンTVアニメ主題歌 BEST OF BEST OF BEST 1997\-2023 \(Selected Edition\)](https://open.spotify.com/album/6VW7oDVEYEBAGk9V0AOedH) | 4:11 |
-| 64 | [東京](https://open.spotify.com/track/1IGeBjvexuJhrhKdOB4ytq) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [くるりの20回転](https://open.spotify.com/album/5yFjIPfaY8r4HDa64loKdk) | 5:33 |
+| 64 | [東京](https://open.spotify.com/track/1IGeBjvexuJhrhKdOB4ytq) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [くるりの２０回転](https://open.spotify.com/album/5yFjIPfaY8r4HDa64loKdk) | 5:33 |
 | 65 | [陽はまたのぼりくりかえす](https://open.spotify.com/track/3DKTDOOHd2YS9tB8TmYcVy) | [Dragon Ash](https://open.spotify.com/artist/2wDlv5Qp9pffOqnO4vdn8L) | [陽はまたのぼりくりかえす](https://open.spotify.com/album/5yUgXqVH9pSvDpUJi0WkSj) | 7:13 |
 | 66 | [球根](https://open.spotify.com/track/6Y8ufRaiBKrtuK1roOhfB3) | [THE YELLOW MONKEY](https://open.spotify.com/artist/1xCdTZ5Wu70H6YwsmpgmHg) | [球根](https://open.spotify.com/album/5oIGwNjumfEQr57ea9ZFum) | 5:37 |
 | 67 | [G.W.D](https://open.spotify.com/track/0dtghVBbAUTjgHURS8yrvV) | [Thee Michelle Gun Elephant](https://open.spotify.com/artist/2DBcgbvakjiv4Yi9bRyjVX) | [G.W.D](https://open.spotify.com/album/2AecKnxnCmJLUo0kefA6rm) | 4:03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Sabanis",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Ivi Adamou",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 228527,
       "name": "Ase Me Na Figo",
       "url": "https://open.spotify.com/track/1SD0AfukNn0hkPghXD4YGG"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 163548,
       "name": "Eksomologisi",
       "url": "https://open.spotify.com/track/63RHt7uxnzmGQwUceuo6iT"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 170526,
       "name": "Eleftheri Ptosi",
       "url": "https://open.spotify.com/track/1H0kDa1Cm7NdL6kwEd5j0K"
@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Iroas Ise",
+        "url": "https://open.spotify.com/album/6M0pY9mFCyV0F0JOaUO4HF"
+      },
+      "artists": [
+        {
+          "name": "Nikiforos",
+          "url": "https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229081,
+      "name": "Iroas Ise",
+      "url": "https://open.spotify.com/track/5GR7jdfBTJSQPRYdcB4DdZ"
+    },
+    {
+      "album": {
         "name": "Kalokeri",
         "url": "https://open.spotify.com/album/35fSplKWXGIGtROvgDzSul"
       },
@@ -772,7 +790,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 204705,
       "name": "Kathestos",
       "url": "https://open.spotify.com/track/4fOSyDqPqV1AnVZfj44f6z"
@@ -812,6 +830,24 @@
       "duration_ms": 255430,
       "name": "Lekes",
       "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
+    },
+    {
+      "album": {
+        "name": "Logia",
+        "url": "https://open.spotify.com/album/67ZfumS9xEJSvImcnUxCev"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158969,
+      "name": "Logia",
+      "url": "https://open.spotify.com/track/1UudyGXBTV2WxnULbhYXtp"
     },
     {
       "album": {
@@ -946,6 +982,32 @@
       "duration_ms": 261474,
       "name": "Na Pernas",
       "url": "https://open.spotify.com/track/26NCpU53AnjX6J148Xdsis"
+    },
+    {
+      "album": {
+        "name": "Nikises",
+        "url": "https://open.spotify.com/album/0Fu04JGmgZV2EM3fZHwFsB"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Koutsavakis",
+          "url": "https://open.spotify.com/artist/2N3NhoOodUZklC4W87Jyxu"
+        },
+        {
+          "name": "Lefteris Pantazis",
+          "url": "https://open.spotify.com/artist/5ZCCZxsnf0NCy3LBpPtH9Q"
+        },
+        {
+          "name": "XRISTINA KITSOULI",
+          "url": "https://open.spotify.com/artist/29sIVAnR1n6YeLhS8rHNky"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Nikises",
+      "url": "https://open.spotify.com/track/1N5289ic1M2dNcyJWHwY92"
     },
     {
       "album": {
@@ -1397,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Skoteine Mou Erota",
+        "url": "https://open.spotify.com/album/44Yy04tr3fuqM278nG4wuO"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254579,
+      "name": "Skoteine Mou Erota",
+      "url": "https://open.spotify.com/track/2ne8nKFYuYTUnhsUAtELii"
+    },
+    {
+      "album": {
         "name": "Sou Eho Agapi Megali",
         "url": "https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8"
       },
@@ -1426,7 +1506,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 252415,
       "name": "Sta Logia Meiname",
       "url": "https://open.spotify.com/track/2hXyNWr0wVh7qoraVXOrB1"
@@ -1608,6 +1688,24 @@
       "duration_ms": 167310,
       "name": "Tipota Tiheo",
       "url": "https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH"
+    },
+    {
+      "album": {
+        "name": "Parea Me Ton Pano - Live",
+        "url": "https://open.spotify.com/album/2l6v9zoA8e61cZ0DAHsVth"
+      },
+      "artists": [
+        {
+          "name": "Panos Kiamos",
+          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263635,
+      "name": "Trelos Gia Sena - Den Tha Figeis Makria - Katse Kai Metra - 2024 Live",
+      "url": "https://open.spotify.com/track/47Mwkz2SSCReqoC74u86Az"
     },
     {
       "album": {

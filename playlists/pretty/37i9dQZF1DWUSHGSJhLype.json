@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Grelo\n",
-  "num_followers": 555750,
+  "num_followers": 556235,
   "original_name": "PURO SUCO DO BRASIL",
   "owner": {
     "name": "Spotify",
@@ -72,12 +72,12 @@
           "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
         },
         {
-          "name": "MC Jo\u00e3ozinho VT",
-          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
-        },
-        {
           "name": "MC Leozinho ZS",
           "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
         }
       ],
       "duration_ms": 266666,
@@ -287,6 +287,26 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
+        "name": "Confia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        },
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        }
+      ],
+      "duration_ms": 159322,
+      "name": "Lapada Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
         "name": "Vamo de Pagodin",
         "url": "https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q"
       },
@@ -311,46 +331,6 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
-        "name": "Confia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rqK6xBQRRn9jBrHRQ3J2w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        },
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "duration_ms": 159322,
-      "name": "Lapada Dela - Ao Vivo",
-      "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
-        "name": "Ser T\u00e3o Eu - Parte 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/22bVPTAJLywADdmwbyA60a"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        },
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        }
-      ],
-      "duration_ms": 161798,
-      "name": "Arriadin por Tu - Ao Vivo",
-      "url": "https://open.spotify.com/track/1R4g4jxHARgfesI2g9H59g"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
         "name": "Clack Bum",
         "url": "https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 141230,
       "name": "Clack Bum",
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
+        "name": "Ser T\u00e3o Eu - Parte 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/22bVPTAJLywADdmwbyA60a"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "duration_ms": 161798,
+      "name": "Arriadin por Tu - Ao Vivo",
+      "url": "https://open.spotify.com/track/1R4g4jxHARgfesI2g9H59g"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -443,42 +443,6 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
-        "name": "T\u00e1 OK",
-        "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        }
-      ],
-      "duration_ms": 92093,
-      "name": "T\u00e1 OK",
-      "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
-        "name": "Amor Na Praia",
-        "url": "https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 156150,
-      "name": "Amor Na Praia",
-      "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
         "name": "MTG NA IMAGINA\u00c7\u00c3O (TOPO SESSIONS VOL. 1)",
         "url": "https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk"
       },
@@ -499,6 +463,46 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL"
+      },
+      "artists": [
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 192755,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
+        "name": "T\u00e1 OK",
+        "url": "https://open.spotify.com/album/41iAYv4hU3BL86F0sOTvqp"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 92093,
+      "name": "T\u00e1 OK",
+      "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
         "name": "Toca Que Eu Quero Ouvir",
         "url": "https://open.spotify.com/album/1FN14esKWwt7bRRrdWDOHW"
       },
@@ -515,6 +519,22 @@
       "duration_ms": 137293,
       "name": "Im\u00e3 de Problema",
       "url": "https://open.spotify.com/track/7HrDxxY2b7vOKxJHtqdXN6"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
+        "name": "Amor Na Praia",
+        "url": "https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 156150,
+      "name": "Amor Na Praia",
+      "url": "https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -559,26 +579,6 @@
       "duration_ms": 133610,
       "name": "Dia de Fluxo",
       "url": "https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
-        "name": "Pega Cabuloso (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/6uRV64iVNlNYDSjIq2ZD0o"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 137066,
-      "name": "Pega Cabuloso - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4A59ygOlOd3V0GbyEmUxKs"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -663,22 +663,22 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
-        "name": "Barbie",
-        "url": "https://open.spotify.com/album/6MNtIXqAF51SJfAyETEtjL"
+        "name": "Pega Cabuloso (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/6uRV64iVNlNYDSjIq2ZD0o"
       },
       "artists": [
         {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
         },
         {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
         }
       ],
-      "duration_ms": 192755,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/6s1kzj4EbhFLXbuAGJbhbn"
+      "duration_ms": 137066,
+      "name": "Pega Cabuloso - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4A59ygOlOd3V0GbyEmUxKs"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -791,18 +791,18 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
-        "name": "A Cara das Vaquejadas 3.0",
-        "url": "https://open.spotify.com/album/3LqVn74biJ7PU2vFeZTAFh"
+        "name": "Decretos Reais, Vol. 2",
+        "url": "https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf"
       },
       "artists": [
         {
-          "name": "Thullio Milion\u00e1rio",
-          "url": "https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7"
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 133360,
-      "name": "Casca de Bala",
-      "url": "https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y"
+      "duration_ms": 166774,
+      "name": "Le\u00e3o",
+      "url": "https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
-        "name": "Decretos Reais, Vol. 2",
-        "url": "https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf"
+        "name": "A Cara das Vaquejadas 3.0",
+        "url": "https://open.spotify.com/album/3LqVn74biJ7PU2vFeZTAFh"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Thullio Milion\u00e1rio",
+          "url": "https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7"
         }
       ],
-      "duration_ms": 166774,
-      "name": "Le\u00e3o",
-      "url": "https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO"
+      "duration_ms": 133360,
+      "name": "Casca de Bala",
+      "url": "https://open.spotify.com/track/5mJcnekfy4DEpAZ6uAHM7Y"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
-        "name": "Pra Quebrar a Cara",
-        "url": "https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W"
-      },
-      "artists": [
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        }
-      ],
-      "duration_ms": 163892,
-      "name": "A Gente Se Entrega",
-      "url": "https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
         "name": "Virado No Pagode (Ao Vivo)",
         "url": "https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 176247,
       "name": "Matadinha De Saudade - Ao Vivo",
       "url": "https://open.spotify.com/track/3XqhtjiycwDxCpGqUFTtlW"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
+        "name": "Pra Quebrar a Cara",
+        "url": "https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 163892,
+      "name": "A Gente Se Entrega",
+      "url": "https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
-        "name": "2 Descaradinhos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4IuKk2IULwLhudSQfPSl5H"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 183461,
-      "name": "2 Descaradinhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/4fIPjhzrwNrPJ1IYTSXNzE"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
         "name": "Pane no Sistema",
         "url": "https://open.spotify.com/album/2dmlFvtOu5sd5ktVMiNMNZ"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 214090,
       "name": "Pane no Sistema",
       "url": "https://open.spotify.com/track/7GjAXYuxjuXPbQJzRnNdob"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
+        "name": "2 Descaradinhos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4IuKk2IULwLhudSQfPSl5H"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 183461,
+      "name": "2 Descaradinhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/4fIPjhzrwNrPJ1IYTSXNzE"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
-        "name": "S\u00f3 um Pagode (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 141388,
-      "name": "S\u00f3 um Pagode - Ao Vivo",
-      "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
         "name": "Another One",
         "url": "https://open.spotify.com/album/6YUzlok3fkR6EemFvtA3MZ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 187562,
       "name": "Posturado E Calmo",
       "url": "https://open.spotify.com/track/15nTZqWfpXZk9Xh043Ognh"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
+        "name": "S\u00f3 um Pagode (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4RTvrQ9CgC2jhjOBya0RaZ"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 141388,
+      "name": "S\u00f3 um Pagode - Ao Vivo",
+      "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "S\u00e3o Amores",
-      "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
         "name": "Pode Cr\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 163584,
       "name": "085 - Ao Vivo",
       "url": "https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "S\u00e3o Amores",
+      "url": "https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -1395,6 +1395,26 @@
       "duration_ms": 174545,
       "name": "Aquele Love",
       "url": "https://open.spotify.com/track/4AcwJhodfCcIymJL8ZjeUV"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
+        "name": "Golzinho Vermelho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Golzinho Vermelho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -1431,22 +1451,18 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
-        "name": "Golzinho Vermelho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7ua7P2NJBNVH5Jej9PVMv3"
+        "name": "Botadinha Saliente",
+        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
       },
       "artists": [
         {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
         }
       ],
-      "duration_ms": 155050,
-      "name": "Golzinho Vermelho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Htol3nnPzphX76oORiNHb"
+      "duration_ms": 158000,
+      "name": "Botadinha Saliente",
+      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -1479,6 +1495,26 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
+        "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
+        "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        }
+      ],
+      "duration_ms": 171100,
+      "name": "Cama Repetida",
+      "url": "https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
         "name": "Halls na L\u00edngua",
         "url": "https://open.spotify.com/album/21gJooS1uexxzD1qkDcw09"
       },
@@ -1491,22 +1527,6 @@
       "duration_ms": 192320,
       "name": "Halls na L\u00edngua",
       "url": "https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
-        "name": "Botadinha Saliente",
-        "url": "https://open.spotify.com/album/0cX66lTggji6J1JC7hvDHG"
-      },
-      "artists": [
-        {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Botadinha Saliente",
-      "url": "https://open.spotify.com/track/0qYW2jULeN9giEty0ee9Fy"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -1547,26 +1567,6 @@
       "duration_ms": 167786,
       "name": "Macetando",
       "url": "https://open.spotify.com/track/1T9dxi40GuNW3gNRHwk8P4"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
-        "name": "Sofr\u00eancia Ou Fuleragem? (Ao Vivo / Parte 2)",
-        "url": "https://open.spotify.com/album/54W7v0wwVhbrc4HfwtsutS"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 171100,
-      "name": "Cama Repetida",
-      "url": "https://open.spotify.com/track/0wuj2T6IZtotux1Jjluo7m"
     },
     {
       "added_at": "2024-10-22 16:21:40",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2024-10-22 16:21:40",
       "album": {
-        "name": "DAN\u00c7A PRA ME PROVOCAR",
-        "url": "https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq"
-      },
-      "artists": [
-        {
-          "name": "DJ JO\u00c3O PEREIRA",
-          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
-        },
-        {
-          "name": "MC Koringa",
-          "url": "https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt"
-        }
-      ],
-      "duration_ms": 157216,
-      "name": "DAN\u00c7A PRA ME PROVOCAR",
-      "url": "https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb"
-    },
-    {
-      "added_at": "2024-10-22 16:21:40",
-      "album": {
         "name": "Um Motivo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Jbocf3BxMYN1EDVEgCwaC"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 196991,
       "name": "Um Motivo - Ao Vivo",
       "url": "https://open.spotify.com/track/3jLMpiytGnXBKgjp5T4xJv"
+    },
+    {
+      "added_at": "2024-10-22 16:21:40",
+      "album": {
+        "name": "DAN\u00c7A PRA ME PROVOCAR",
+        "url": "https://open.spotify.com/album/4JtRus7fWmpFCHpkw4htzq"
+      },
+      "artists": [
+        {
+          "name": "DJ JO\u00c3O PEREIRA",
+          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
+        },
+        {
+          "name": "MC Koringa",
+          "url": "https://open.spotify.com/artist/1pk1stIyHnuK6lXZ8QiNKt"
+        }
+      ],
+      "duration_ms": 157216,
+      "name": "DAN\u00c7A PRA ME PROVOCAR",
+      "url": "https://open.spotify.com/track/2dhy51z7h0oyCvSCWXyRHb"
     },
     {
       "added_at": "2024-10-22 16:21:40",

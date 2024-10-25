@@ -2,7 +2,7 @@
 
 ### [La Gran Carrera x House of Nfluence  ](https://open.spotify.com/playlist/37i9dQZF1DX63fzxvjWR0V)
 
-> Vive la experiencia única de House of Nfluence: música, deporte y adrenalina en La Gran Carrera de la CDMX
+> Vive la experiencia única de House of Nfluence: música, deporte y adrenalina en La Gran Carrera de la CDMX con NEON16 Sports e Influur.
 
 105 songs - 5 hr 37 min
 

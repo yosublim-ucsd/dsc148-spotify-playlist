@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Elaine
+> The best in South African and international R&B\. Cover: WATERS
 
-392 songs - 20 hr 39 min
+395 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [CATCH ME](https://open.spotify.com/track/77sOagZT4DSsXJpsmjOu9p) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL) | [HEARTBREAK HOTEL](https://open.spotify.com/album/5mHX0g8QrHMGlqC0CB2Xt5) | 3:00 | 2024-03-14 | 2024-09-12 |
 | [Chance On Me](https://open.spotify.com/track/29oGxEonYfzcToe8ebsG8t) | [Dato Seiko](https://open.spotify.com/artist/34jz5y6fUn79rbgNdpkAUz), [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Chance On Me](https://open.spotify.com/album/2e7TQAmpZGLv3PP9wUGx3G) | 3:54 | 2024-05-31 | 2024-09-03 |
 | [CHERIMOYA \- BONUS](https://open.spotify.com/track/0k4S8MgCg1CKWUy5hNV8GA) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL) | 2:09 | 2024-02-14 | 2024-02-23 |
-| [Cherry Bomb](https://open.spotify.com/track/2Nfml3S2osWYggrmEpcsEo) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:32 | 2024-09-11 |  |
+| [Cherry Bomb](https://open.spotify.com/track/2Nfml3S2osWYggrmEpcsEo) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Luna](https://open.spotify.com/album/3edbe7CGUZvGnHYN9K1jkP) | 3:32 | 2024-09-11 | 2024-10-25 |
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-09-26 |  |
 | [Circles](https://open.spotify.com/track/1YZC8SZJin71ZfItySfe5I) | [Angie Santana](https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT) | [Full Circle](https://open.spotify.com/album/3mV8iTF8vMvT0WLvjDKze6) | 3:01 | 2023-10-12 | 2023-10-27 |
 | [Clarity](https://open.spotify.com/track/1llE1R8w9ikAbGEr32u5CX) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg) | [Clarity](https://open.spotify.com/album/5nfnp4M0TXAdqN4cFL8R7r) | 4:14 | 2024-05-16 | 2024-06-14 |
@@ -174,7 +174,7 @@
 | [Infinity](https://open.spotify.com/track/1Ss0B3AuWkqqpdz8bLU9mn) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Infinity](https://open.spotify.com/album/2ho4rd64wGodDKv3nKojlU) | 2:39 | 2023-10-12 | 2024-03-15 |
 | [Infrared](https://open.spotify.com/track/3xxi5TsXAXbUolqCVzJZnz) | [VtheVowel](https://open.spotify.com/artist/1Bas48Gj8Q0nKgrx4Dm25X), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu) | [Infrared](https://open.spotify.com/album/0ZyahY5BHdxVILmfEULG9O) | 3:35 | 2024-04-12 | 2024-06-14 |
 | [INSIDE YOUR HEAD](https://open.spotify.com/track/3D9MGLPOC3PnfoXBM5OLrQ) | [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [WAVES: Vol\. 1](https://open.spotify.com/album/408oJGEwEhyIXOInWdRTcn) | 3:45 | 2024-10-11 |  |
-| [Involved](https://open.spotify.com/track/4oVUImT0hkgyjH989I1U4u) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX) | [THJ Radio Vol\. 1](https://open.spotify.com/album/11ZhB00zBhxQkxJOHJ4Q2a) | 2:30 | 2024-09-11 |  |
+| [Involved](https://open.spotify.com/track/4oVUImT0hkgyjH989I1U4u) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX) | [THJ Radio Vol\. 1](https://open.spotify.com/album/11ZhB00zBhxQkxJOHJ4Q2a) | 2:30 | 2024-09-11 | 2024-10-25 |
 | [IQINISO](https://open.spotify.com/track/03wM9MDUWJT6D901sRFvcT) | [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [OHLAZA](https://open.spotify.com/album/4Ly6AteRRNVC3fcPyqkoag) | 2:43 | 2024-09-26 |  |
 | [It Aint Me](https://open.spotify.com/track/74NvwSDJtsFGBPqcgodmMT) | [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf), [Chaise William](https://open.spotify.com/artist/2nYUNL1u2iruJZ80oPy5Rx) | [It Ain't Me](https://open.spotify.com/album/0q7MlqQeZu1eCvtUcuFMot) | 3:08 | 2024-06-27 | 2024-09-03 |
 | [It's Nearly Over](https://open.spotify.com/track/1N2D3apgTeJJ2anfr6tWfP) | [Femi Tahiru](https://open.spotify.com/artist/7Kf8nVYjut9xA328Xqs6gm) | [It's Nearly Over](https://open.spotify.com/album/0tSZ2SZSF7R7xYf69CD5Iy) | 3:18 | 2023-10-12 | 2023-10-20 |
@@ -297,7 +297,7 @@
 | [Scat Song](https://open.spotify.com/track/6Mn1OrTRtv9mLrmMxuY7Qy) | [Tom Saison](https://open.spotify.com/artist/0YdklH2cgy2TVLni1ttkbD), [Keamo](https://open.spotify.com/artist/5bJ61OiBNaDpQcjSpa8Ltu) | [For Those Who Failed At Love](https://open.spotify.com/album/6XOzVyOJbE3JLrqM1Jd50I) | 3:35 | 2024-05-31 | 2024-09-03 |
 | [Sechaba](https://open.spotify.com/track/0q2vUIhpebVKVyDMluQ9Nr) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Now You Know Me](https://open.spotify.com/album/6xZiG6DJDawqJaTfd0aoPt) | 4:13 | 2024-07-11 | 2024-09-03 |
 | [See What I See](https://open.spotify.com/track/4rHHlFa6WXLZo2XEDQbeZW) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Our Broken Hearts Mend](https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B) | 3:33 | 2024-08-15 | 2024-09-03 |
-| [she won't stay long](https://open.spotify.com/track/0xKpRdMGpgl2Odh599Eaje) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [she won't stay long](https://open.spotify.com/album/2zjZ3TKtFovDQDveYwNPNP) | 3:34 | 2024-09-11 |  |
+| [she won't stay long](https://open.spotify.com/track/0xKpRdMGpgl2Odh599Eaje) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [she won't stay long](https://open.spotify.com/album/2zjZ3TKtFovDQDveYwNPNP) | 3:34 | 2024-09-11 | 2024-10-25 |
 | [She'll Be OK](https://open.spotify.com/track/1Aqw1EAisB2KYrE8m4pQqN) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be OK](https://open.spotify.com/album/04XpFnF73mrCeMAyjqFTYg) | 2:10 | 2023-11-23 | 2024-01-26 |
 | [She'll Be Ok](https://open.spotify.com/track/0jTkg3fBydDh9jLEFMzigq) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK) | [She'll Be Ok](https://open.spotify.com/album/0e6YzmXeaJawQCn44jlqyV) | 2:10 | 2023-10-12 | 2023-11-29 |
 | [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 |  |
@@ -305,9 +305,11 @@
 | [show u luv](https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [see u soon](https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5) | 2:40 | 2024-07-25 | 2024-09-03 |
 | [Shows N Hoes](https://open.spotify.com/track/0sTAmXCitR7fOKkVUOZAzD) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [Shows N Hoes](https://open.spotify.com/album/1YsHvmgHdbPy1td3LVNzAX) | 4:14 | 2023-10-12 | 2023-10-27 |
 | [Signs](https://open.spotify.com/track/0yHNLPBhDeJrFDPBhG2r77) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Signs](https://open.spotify.com/album/11TdYCMmkPj3rQsoEepaTO) | 3:12 | 2024-04-25 | 2024-09-12 |
+| [Sink In](https://open.spotify.com/track/6OiQNUMCLXJtJxOmUsoyFA) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sink In](https://open.spotify.com/album/6q5HmSWBX2lbGH3SCSZOIe) | 2:16 | 2024-10-24 |  |
 | [Six](https://open.spotify.com/track/4a2BfqsSyoyzVe8SABy8zI) | [Roho](https://open.spotify.com/artist/2los7qqYBBSB6dlJ8PQ9hd) | [Ephemeral](https://open.spotify.com/album/6wGvshyHfaFLhajJX3zhPJ) | 3:12 | 2024-02-14 | 2024-02-23 |
 | [Slide](https://open.spotify.com/track/3pPbdtSgh9eo4PkJfD3k5Z) | [Chante](https://open.spotify.com/artist/3Hep5FnEEhtEUODQxyGFKg), [Hersh](https://open.spotify.com/artist/5dAvLMQBZsRlXgFvzOI3C2) | [Slide](https://open.spotify.com/album/32ryB9TH0GW5Wq1b6bRitj) | 3:07 | 2024-05-31 | 2024-09-03 |
 | [SLIDE](https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:54 | 2024-09-11 |  |
+| [Smaak To Love \(Lamza\)](https://open.spotify.com/track/4o8T5mUyp77nDbM1UkDRd3) | [ZULO](https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp) | [Smaak To Love \(Lamza\)](https://open.spotify.com/album/0IDXfOJbWNw4LbWEPWrc1F) | 2:45 | 2024-10-24 |  |
 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:07 | 2023-10-12 | 2024-02-09 |
 | [Smoke + Mirrors](https://open.spotify.com/track/01XlfD9gD7LPpm65rhSPQh) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [Smoke + Mirrors](https://open.spotify.com/album/6QmEMg5ikjjN5XVAwFvH9W) | 2:02 | 2024-03-01 | 2024-06-14 |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2024-02-14 | 2024-02-23 |
@@ -399,6 +401,7 @@
 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-11-23 | 2024-04-19 |
 | [You will pay](https://open.spotify.com/track/2rVtdP9tWK5nQuupjRZCoy) | [Shannon](https://open.spotify.com/artist/0cpRAqLFfaS1wgflVWtd4S) | [You will pay](https://open.spotify.com/album/6B7qf6X243GICZqaVBtLZO) | 2:49 | 2024-04-12 | 2024-07-27 |
 | [You Wouldn't Understand](https://open.spotify.com/track/1GVI17KHbG7sblOmYuNQI9) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [You Still Don't Know Me](https://open.spotify.com/album/4A7UfGpc5sgcx0ajwjtfLO) | 2:33 | 2024-02-14 | 2024-02-23 |
+| [Your Eyes](https://open.spotify.com/track/6Kq8CVqQbccS3rPVXhBMMp) | [WATERS](https://open.spotify.com/artist/131TscYap0HoOu1UIUsg2b) | [Your Eyes](https://open.spotify.com/album/578pNlsAdRnAko1XXmwTg0) | 3:48 | 2024-10-24 |  |
 | [Zero](https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Zero](https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc) | 2:56 | 2024-02-08 | 2024-05-10 |
 
 \*This playlist was first scraped on 2023-10-18. Prior content cannot be recovered.

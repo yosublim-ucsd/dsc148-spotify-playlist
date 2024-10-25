@@ -4,7 +4,7 @@
 
 > Más vivo que nunca, más nuestro que siempre\. Foto: Las Pastillas del Abuelo y EMI.
 
-318 songs - 19 hr 41 min
+320 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [El Negro](https://open.spotify.com/track/09FGzfEnIn0BY009Ni7tzN) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [EMI](https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1) | [El Negro](https://open.spotify.com/album/6q9iams2yWgUlFo4hG2gO3) | 4:29 | 2024-10-18 |  |
 | [El Universo](https://open.spotify.com/track/2JMbzzP96kNdlqTkC0AH1H) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Universo](https://open.spotify.com/album/1el0RylfiPTbyyQaafzNEy) | 2:16 | 2023-06-09 | 2023-07-10 |
 | [El Universo](https://open.spotify.com/track/3c9QxMLyZu53C2PBoanbyV) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 2:16 | 2023-07-07 | 2024-02-16 |
+| [Ella](https://open.spotify.com/track/03rP1rTGhyN1ilrkipznem) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Ella](https://open.spotify.com/album/0o29eImdlk0jJDyXGtjVhm) | 4:14 | 2024-10-24 |  |
 | [Ella Va](https://open.spotify.com/track/4wrjm9IaqhiYadQ52OuW1w) | [Massacre](https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA) | [Ella Va / La Cita](https://open.spotify.com/album/0UdeKyctv1o2zCtIPG67DX) | 3:32 | 2023-04-28 | 2023-07-08 |
 | [En este barco](https://open.spotify.com/track/5B01Fnm4PeiufRUSnmhqC4) | [Arbolito](https://open.spotify.com/artist/7pa4Z64S1qU90QytnRJgoJ) | [En este barco](https://open.spotify.com/album/5udDSHfYBJMpvQ6O6ZufQu) | 4:02 | 2023-06-02 | 2023-06-17 |
 | [En la Vereda del Sol](https://open.spotify.com/track/4cyCrbeYfe7xEozbfG2n23) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [En la Vereda del Sol](https://open.spotify.com/album/6wR1dGuhXYzNdJbAFpTX3F) | 3:41 | 2022-07-08 |  |
@@ -257,6 +258,7 @@
 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 | 2023-05-05 | 2024-05-11 |
 | [Regresar al Cuerpo](https://open.spotify.com/track/71u7FtnJxZPqvdHqzyo8qS) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Regresar al Cuerpo](https://open.spotify.com/album/60kAJYfszVgUglDQDoCZiK) | 3:03 | 2023-11-17 | 2024-02-24 |
 | [Reloj De Plastilina](https://open.spotify.com/track/39TSahzhyETcOxJSoXyFoi) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Reloj De Plastilina](https://open.spotify.com/album/6FGgUO2s8saavc4DGHvvzf) | 2:36 | 2024-03-22 | 2024-09-21 |
+| [Rock es rock!](https://open.spotify.com/track/7mearCDj7s3ztuwX3BS6Ph) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Rock es rock! / Hijos de la tempestad / Cuando sane tu corazón / Mujer Amante](https://open.spotify.com/album/2N5ILDgxaUUz8MftHtymYb) | 3:51 | 2024-10-24 |  |
 | [Rola de Primera](https://open.spotify.com/track/6DPQLhYRp5PJrhgk2OWVJE) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Rola de Primera](https://open.spotify.com/album/4Weh68myPcgmZtGITPYIi1) | 3:37 | 2023-10-26 | 2024-03-16 |
 | [Rompela](https://open.spotify.com/track/3BSA7eRvD25S4oX4rdngpU) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [La Lógica del Escorpión](https://open.spotify.com/album/0k2JGzYRZQC3s3ZNTcyHoA) | 1:44 | 2024-09-12 |  |
 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 | 2022-07-08 |  |

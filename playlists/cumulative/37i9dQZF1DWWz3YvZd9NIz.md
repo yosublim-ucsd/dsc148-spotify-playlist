@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-216 songs - 10 hr 47 min
+217 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Anyplace, Anywhere, Anytime \(Hardstyle Mix\)](https://open.spotify.com/track/6dHfWCHrgS2edtCqfMDnrf) | [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [ARK8](https://open.spotify.com/artist/6kTcTX6mM97SiF8D64B6AT) | [Anyplace, Anywhere, Anytime \(Hardstyle Mix\)](https://open.spotify.com/album/4LjPuviAC9iGENpSNZ2jZv) | 2:27 | 2023-06-15 | 2024-10-07 |
 | [Apologize](https://open.spotify.com/track/5m64MJ6lS6LfY48Noi7uSr) | [Quickdrop](https://open.spotify.com/artist/5zwFj25Ky9akUZjQHuaDDa), [ZĒL](https://open.spotify.com/artist/2mG994xKMaqHoyyI1ByyUL) | [Apologize](https://open.spotify.com/album/4JTsq0MtyoDGGljuVNnoLO) | 3:40 | 2024-01-18 | 2024-02-09 |
 | [Apologize \- Hardstyle Remix](https://open.spotify.com/track/089FqgSQaS1oacHI0jLHBP) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [DJ Ross](https://open.spotify.com/artist/70yj8eIE94z38CM2kfsXQL), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Apologize \(Hardstyle Remix\)](https://open.spotify.com/album/3wjGKwaZvfZnWqOfVgzkme) | 2:44 | 2023-04-06 | 2023-04-18 |
-| [Arabian Nights](https://open.spotify.com/track/4i4KAZzbz2LIf9AoZNqp6t) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Bram Boender](https://open.spotify.com/artist/1VUCpVmcvvkZ9W65lm7Wob) | [Arabian Nights](https://open.spotify.com/album/2uun19aNDXcQxa1Pa827hX) | 3:17 | 2024-03-28 |  |
+| [Arabian Nights](https://open.spotify.com/track/4i4KAZzbz2LIf9AoZNqp6t) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Bram Boender](https://open.spotify.com/artist/1VUCpVmcvvkZ9W65lm7Wob) | [Arabian Nights](https://open.spotify.com/album/2uun19aNDXcQxa1Pa827hX) | 3:17 | 2024-03-28 | 2024-10-25 |
 | [Around the World \(La la La\)](https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Around the World \(La la La\)](https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj) | 2:33 | 2022-12-05 |  |
 | [Axel F](https://open.spotify.com/track/4Aq5dvUPgdaEEvaEGl2NLz) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV) | [Axel F](https://open.spotify.com/album/2J08oRYPpbgtskY3mRD1bJ) | 3:13 | 2023-01-26 |  |
 | [Axel F \- Hardstyle Version](https://open.spotify.com/track/1C1LUNAqsWNFPCO72KGZNp) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [Axel F \(Hardstyle Version\)](https://open.spotify.com/album/3s0sRHXF2NM37B2bs236qG) | 2:33 | 2022-12-05 | 2023-01-27 |
@@ -31,6 +31,7 @@
 | [Bad Habits](https://open.spotify.com/track/7JLHaZFkxdOlq4Fzkc6pxh) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Bad Habits](https://open.spotify.com/album/4VNyPO6EhBSKg83IMLchl3) | 3:07 | 2023-04-13 | 2023-05-12 |
 | [Bailando](https://open.spotify.com/track/37DUuymoNwvzuxmlsIeUEB) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [TESFY](https://open.spotify.com/artist/2ElvCuSMCZ357wrmbDvz2C), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/55D7V1U0QxSauay1loyOsS) | 2:40 | 2023-06-29 | 2023-07-22 |
 | [Barbie Girl RMX](https://open.spotify.com/track/3GnXG8EvUeuo0IWH3kXFec) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Barbie Girl RMX](https://open.spotify.com/album/5ZgTuCjlxomuHqtRnFt9OR) | 2:56 | 2023-08-16 | 2023-10-01 |
+| [Be My Lover](https://open.spotify.com/track/4m5JH6q0ldwKW7s2YpcM3B) | [The Saints](https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc) | [Be My Lover](https://open.spotify.com/album/4hjneqKJ7b03mh48bqlAlB) | 2:21 | 2024-10-23 |  |
 | [Because The Night](https://open.spotify.com/track/6T4pigGxYcBBOi6q4pdTDl) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:21 | 2022-12-05 | 2023-01-13 |
 | [Because The Night](https://open.spotify.com/track/3nDEjp2MvXJuqtUsv8GuyQ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Because The Night](https://open.spotify.com/album/0Pr4CwdrkRVjEjPxqoyx1G) | 3:21 | 2024-07-19 | 2024-07-27 |
 | [BELIEVE](https://open.spotify.com/track/5wbOCSgL2J390XSAv2cagW) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [BassWar & CaoX](https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX) | [BELIEVE](https://open.spotify.com/album/4PVQayLg2VKRGKRkCGacjv) | 3:00 | 2024-03-07 |  |

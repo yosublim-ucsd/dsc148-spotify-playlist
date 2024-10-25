@@ -9105,6 +9105,24 @@
     },
     {
       "album": {
+        "name": "Loveseat",
+        "url": "https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230909,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/2eHo0df4b8eRW63X6N8Hxs"
+    },
+    {
+      "album": {
         "name": "Everything You've Come To Expect (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
       },

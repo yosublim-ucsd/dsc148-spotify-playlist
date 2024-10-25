@@ -2,9 +2,9 @@
 
 ### [Altar JP](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Qrion
+> 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Two Shell
 
-969 songs - 2 day 23 hr 42 min
+973 songs - 2 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Annahme](https://open.spotify.com/track/7fLAk1YHPsssZvDenhUVar) | [DJ Sodeyama](https://open.spotify.com/artist/2LkFycxJtKRxeCmtekJZdk) | [Annahme](https://open.spotify.com/album/4CIDiUzcZ8ffOCDJhqJxYv) | 6:56 | 2023-03-16 | 2023-03-21 |
 | [Anthem](https://open.spotify.com/track/32j6yW6LbubEqw6Mkm6CLr) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [NO MOON](https://open.spotify.com/album/0jjpIghhdru6YcD8S5JyZD) | 6:37 | 2023-03-16 | 2023-04-09 |
 | [Aperleye](https://open.spotify.com/track/03fbr5KYWTq1MXwwLrMJpd) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Aperleye](https://open.spotify.com/album/4bhrGkl2AOQSYrsh4z60a0) | 4:34 | 2024-01-11 | 2024-05-17 |
+| [Arachnids](https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Arachnids](https://open.spotify.com/album/3CFGpQT03aFenbXwHdnusQ) | 4:11 | 2024-10-24 |  |
 | [Are You Asleep](https://open.spotify.com/track/0NlD7sv0IzX4frMC3WopqC) | [Gonno](https://open.spotify.com/artist/3eLdh9SdubcpgHghdab5fV) | [The Noughties](https://open.spotify.com/album/31xRwMBtHK1aRYqxv3RQmP) | 8:29 | 2024-01-11 | 2024-04-13 |
 | [ARTIFACT](https://open.spotify.com/track/4FIlbZJyd2kOrSB6jx2SR8) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [TRACKER](https://open.spotify.com/album/7Jd8BFJbmI6DTcmyOX7R16) | 5:08 | 2024-04-04 | 2024-05-10 |
 | [As the World Unravels](https://open.spotify.com/track/40LOyWdB5w7ZZCNewaNozi) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [As the World Unravels](https://open.spotify.com/album/39Gb8qR5egzgnYDX1F7KOy) | 2:33 | 2024-08-08 | 2024-09-27 |
@@ -79,6 +80,7 @@
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-18 | 2024-09-20 |
 | [barla \- SHINICHI OSAWA REMIX](https://open.spotify.com/track/19LbN6WxOXuuCk1oKvA94G) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla \(SHINICHI OSAWA REMIX\)](https://open.spotify.com/album/0FkuCLlXRDMcC7KFbQs8O0) | 4:33 | 2023-05-19 | 2023-06-07 |
 | [barla \- SHINICHI OSAWA REMIX](https://open.spotify.com/track/1u2ve7Ju0PMxjIYAAnRzIP) | [bala](https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp), [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3), [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc) | [barla \(SHINICHI OSAWA REMIX\)](https://open.spotify.com/album/0u1zCmHt9n4jX7FZIxeztc) | 4:33 | 2023-05-25 | 2023-09-29 |
+| [be gentle with me](https://open.spotify.com/track/1XEYRXmLvTdTfGR1ZKhPf7) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Two Shell](https://open.spotify.com/album/4jZZgPpyDqLuTq0LKgXwK6) | 3:51 | 2024-10-24 |  |
 | [Beat](https://open.spotify.com/track/5EtVn1y2XUqEryzhaNq1nu) | [Coldhot](https://open.spotify.com/artist/178wLpflQu05EwRZZVg18E) | [Beat](https://open.spotify.com/album/1W7FBQt4Q9DqZnI2HYGnbl) | 3:26 | 2024-05-23 | 2024-06-14 |
 | [Beee\-Hive](https://open.spotify.com/track/7I2ViRmeZhDSxNBTSwLMXa) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH) | [Beee\-Hive](https://open.spotify.com/album/5OLSia3v0gJn2bKuDMWcWT) | 4:38 | 2023-06-09 | 2023-09-29 |
 | [Beirut](https://open.spotify.com/track/30k9KWmDgRtnffbPim1nSR) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ) | [Subtle](https://open.spotify.com/album/2AOptu4dzltO34HxCx8iqf) | 3:28 | 2024-08-23 | 2024-10-05 |
@@ -399,6 +401,7 @@
 | [Hold And Command](https://open.spotify.com/track/0X3EsKj57v9nUgxJYBy2rM) | [Jeff Mills](https://open.spotify.com/artist/2eIDAcLKnWc4D350YyzvgS) | [The Eye Witness](https://open.spotify.com/album/3Q2ZOfHbApcVPpLBw8AVwk) | 6:03 | 2024-07-04 | 2024-07-12 |
 | [hollatchu](https://open.spotify.com/track/4uYOA92uCIEShlFD7YoHiU) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz), [YUNGMORPHEUS](https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy) | [hollatchu](https://open.spotify.com/album/6v2Carq39870pglhzZeHqx) | 4:02 | 2023-03-30 | 2023-06-17 |
 | [Home](https://open.spotify.com/track/3Unshf7Oguqu9kuCXWsIUg) | [Maurice Lessing](https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r) | [Home](https://open.spotify.com/album/7bQ1ECZni7uBx1o44CC3er) | 3:56 | 2023-03-16 | 2023-05-05 |
+| [Hopecore](https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Hopecore](https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12) | 3:00 | 2024-10-24 |  |
 | [How Does It Make You Feel](https://open.spotify.com/track/6tQWs8upU20Ry9RfKlRikl) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [How Does It Make You Feel \(Part of Dekmantel Ten: A Decade of Dekmantel Festival\)](https://open.spotify.com/album/2hSQVfb97oRqZ3bujQs2eX) | 5:08 | 2024-09-12 |  |
 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 | 2023-08-24 | 2023-12-09 |
 | [How Music Makes You Feel Better \- Edit](https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [How Music Makes You Feel Better](https://open.spotify.com/album/4mUY2PlUa8qducN1OyWu4w) | 3:21 | 2023-09-28 | 2024-01-27 |
@@ -780,6 +783,7 @@
 | [Spirit](https://open.spotify.com/track/0AqXi9bRQnWclsJr0CEGHK) | [Karizma](https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb) | [Spirit](https://open.spotify.com/album/5nz3aQdOFKqmsi1ReBIx64) | 6:19 | 2024-10-18 |  |
 | [Sport Cut](https://open.spotify.com/track/29vU5LPbgEvbyooRCog9LA) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 2:56 | 2023-05-19 | 2023-08-18 |
 | [Spring](https://open.spotify.com/track/1yD1YZMizn5MnINHhN4Hwr) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Spring](https://open.spotify.com/album/0xHQKa8pDmELqR2fOd3y31) | 4:22 | 2023-03-16 | 2023-06-09 |
+| [Star Cloud 777](https://open.spotify.com/track/6pmNaFfT8b669r4dqrDP87) | [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Dekmantel Ten: A Decade of Dekmantel Festival](https://open.spotify.com/album/48ezof9jggAnQLPnNbTnkZ) | 5:38 | 2024-10-24 |  |
 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 | 2024-02-29 | 2024-06-07 |
 | [Steady Pace](https://open.spotify.com/track/42Nbp4cNwh3VbncOXjnEkM) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Steady Pace](https://open.spotify.com/album/2naM3YdOoS51bK0mOTjP5R) | 2:26 | 2023-10-26 | 2024-03-22 |
 | [Step By Step \- Amtrac Remix](https://open.spotify.com/track/34ylsV3aBInkVBplkiNL5a) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW) | [Step By Step Remixes](https://open.spotify.com/album/5H8qhibkvbDxg9YzM4SjFS) | 5:21 | 2023-06-09 | 2023-08-12 |

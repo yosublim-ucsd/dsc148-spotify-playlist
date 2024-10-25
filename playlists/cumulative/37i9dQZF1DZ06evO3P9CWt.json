@@ -1242,6 +1242,24 @@
     {
       "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/6azBEVsWyRCxu27zpPXFC0"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "Me Usa",
+      "url": "https://open.spotify.com/track/1a6QCz2SptwO4nfj0pHzN4"
+    },
+    {
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
       },
       "artists": [
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 240400,
       "name": "Me Usa",
       "url": "https://open.spotify.com/track/6MOYPvxZK3vkwZDLUcAunH"
@@ -1714,6 +1732,28 @@
     {
       "album": {
         "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/6azBEVsWyRCxu27zpPXFC0"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Will Love",
+          "url": "https://open.spotify.com/artist/5v4WaaxxvQalTyeTF4e2Nj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133669,
+      "name": "Rubi",
+      "url": "https://open.spotify.com/track/3BCEDcGbeGpPeRcryMnbdR"
+    },
+    {
+      "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
         "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
       },
       "artists": [
@@ -1728,7 +1768,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 133669,
       "name": "Rubi",
       "url": "https://open.spotify.com/track/5Ih7yhSHs3F0NY10Pvr7Xq"

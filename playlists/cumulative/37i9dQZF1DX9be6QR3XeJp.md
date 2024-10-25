@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Jamilah Barry
+> Discover your new favourite artists from UK&IE\. Cover: Wilfy D
 
-284 songs - 15 hr 14 min
+285 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Dark Days](https://open.spotify.com/track/1YptJwVc5cXAH1hul0nzXw) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/0tXbRDVR9O9pY7rbpA3YQf) | 3:05 | 2022-02-18 |  |
 | [Dark Days](https://open.spotify.com/track/7s3g6VVfYaqmyL24uzJSEV) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/0loPUxfGgHCAGJlOHbTmEq) | 3:05 | 2023-04-27 | 2024-04-19 |
 | [Dark Days](https://open.spotify.com/track/7wLy2immx4tw3qgiH7ZogP) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Dark Days](https://open.spotify.com/album/6JXI3CvEjelCxeKZW3zndN) | 3:05 | 2022-07-28 | 2023-04-30 |
+| [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 | 2024-10-24 |  |
 | [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/10Ja383QJKvslux3bE8Ke0) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/3kfoQafwQQuUkr3MCSalLS) | 3:25 | 2022-10-20 | 2024-04-19 |
 | [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/60XUrkTOflNBTG2792rfxv) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:25 | 2022-07-28 | 2022-10-23 |
 | [Desperate and Lovely, in Desperate Need of Love](https://open.spotify.com/track/3CqxeMggZlQ2TBipZO0St5) | [Lynks Afrikka](https://open.spotify.com/artist/47EdbsS4fuxKNkO5beb2Qi) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/4UKOFv0i3LNSZ87HNQH0S9) | 3:25 | 2022-02-18 |  |

@@ -4,7 +4,7 @@
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: Uncle Waffles
 
-247 songs - 17 hr 6 min
+248 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 | 2022-05-23 | 2022-08-05 |
 | [Feel Your Body](https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [BUTiFLY](https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3) | 3:33 | 2023-10-12 | 2024-05-10 |
 | [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/track/6a9kJHRxqrkMM1l9LWedor) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/album/3T7tj0HMdpXPMnV8XFsW4f) | 2:36 | 2022-11-10 | 2022-12-17 |
+| [Find Somebody \(feat\. Nomsa & Julian King\)](https://open.spotify.com/track/6cifGAf11bXtiXPIhgs9bV) | [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [Nomsa](https://open.spotify.com/artist/3Ma7L63asdT6qnDCvIWEsk), [Julian King](https://open.spotify.com/artist/6iCQiGKKx504GNcMSVWvVj) | [Find Somebody \(feat\. Nomsa & Julian King\)](https://open.spotify.com/album/61XcgAlOQrQ8vVyqFrEnhR) | 3:02 | 2024-10-24 |  |
 | [Gas City](https://open.spotify.com/track/6BplH7R9tKDPu0lVqxGPk7) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [MORI](https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I) | [JAPANESE AMAPIANO](https://open.spotify.com/album/1HWNAyuS01dk3hyspkwyyk) | 4:25 | 2023-11-22 | 2023-11-24 |
 | [Geo Masso](https://open.spotify.com/track/4Upo49eZ0eVIzxh5vJXDvg) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj) | [Geo Masso](https://open.spotify.com/album/4yJENcgamf67p9eO7PL2lL) | 3:06 | 2023-05-08 | 2023-06-16 |
 | [Get Busy \(Mshikashika\)](https://open.spotify.com/track/5kTKXAvNPxUjvHybQmhwpo) | [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Get Busy \(Mshikashika\)](https://open.spotify.com/album/51t31jOVRJMnffJmXTbR3L) | 3:49 | 2023-12-08 | 2024-05-17 |

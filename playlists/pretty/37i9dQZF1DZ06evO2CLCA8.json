@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 837,
+  "num_followers": 835,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxbrAAAAAACo8WmVT/MjZ9WPFCbePK+4",
+  "snapshot_id": "Zxg8gAAAAADMoCHpfhWrXZ0dOAN/w6Fa",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Gonna Get It!",
-        "url": "https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 144173,
-      "name": "I Need To Know",
-      "url": "https://open.spotify.com/track/2NNpI1bOvnhXcACZ4IdiM3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long After Dark",
         "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 217960,
       "name": "You Got Lucky",
       "url": "https://open.spotify.com/track/5eMZ3EPIMGoWlrrVhxatdv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're Gonna Get It!",
+        "url": "https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 144173,
+      "name": "I Need To Know",
+      "url": "https://open.spotify.com/track/2NNpI1bOvnhXcACZ4IdiM3"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Gonna Get It!",
-        "url": "https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "Listen To Her Heart",
-      "url": "https://open.spotify.com/track/1cfnrxKDTz0kcKVL5EclFG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 218666,
       "name": "Even The Losers",
       "url": "https://open.spotify.com/track/5SdMXQmfV4OZx5O05986d3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're Gonna Get It!",
+        "url": "https://open.spotify.com/album/6q5l0EKkX5ZITkSUy5SObw"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Listen To Her Heart",
+      "url": "https://open.spotify.com/track/1cfnrxKDTz0kcKVL5EclFG"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Two Worlds (French TV) / Straight Into Darkness (French TV)",
-        "url": "https://open.spotify.com/album/5abbGvmbifA3b4vNkj0Ckr"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 230040,
-      "name": "Between Two Worlds - French TV",
-      "url": "https://open.spotify.com/track/3HmisVTXuiyKuw36VWM8XA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Up (I've Had Enough)",
         "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
       },
@@ -363,6 +347,38 @@
       "duration_ms": 249093,
       "name": "Jammin' Me",
       "url": "https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long After Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 235213,
+      "name": "Never Be You",
+      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Between Two Worlds (French TV) / Straight Into Darkness (French TV)",
+        "url": "https://open.spotify.com/album/5abbGvmbifA3b4vNkj0Ckr"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 230040,
+      "name": "Between Two Worlds - French TV",
+      "url": "https://open.spotify.com/track/3HmisVTXuiyKuw36VWM8XA"
     },
     {
       "added_at": null,
@@ -408,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 235213,
-      "name": "Never Be You",
-      "url": "https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe"
+      "duration_ms": 207626,
+      "name": "Deliver Me",
+      "url": "https://open.spotify.com/track/4xmroGDZVdNHrNSLkzlMCz"
     },
     {
       "added_at": null,
@@ -472,41 +488,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 207626,
-      "name": "Deliver Me",
-      "url": "https://open.spotify.com/track/4xmroGDZVdNHrNSLkzlMCz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turning Point / Between Two Worlds / Straight Into Darkness",
-        "url": "https://open.spotify.com/album/6uwrkSfRYrIDrCZe508e97"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Turning Point - Original Drums Version",
-      "url": "https://open.spotify.com/track/4UJKr8qWBnfmRpMxy0zkaW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call Me the Breeze (Live at the Fillmore, 1997)",
-        "url": "https://open.spotify.com/album/3N2lkbS3TAAhdplbHvTJv3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 358461,
-      "name": "Call Me the Breeze - Live at the Fillmore, 1997",
-      "url": "https://open.spotify.com/track/1OGCx6z4xbV7oPryuLx8mP"
+      "duration_ms": 215746,
+      "name": "Finding Out",
+      "url": "https://open.spotify.com/track/7inFhF3HVAyQT4MrllufYO"
     },
     {
       "added_at": null,
@@ -527,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
+        "name": "Call Me the Breeze (Live at the Fillmore, 1997)",
+        "url": "https://open.spotify.com/album/3N2lkbS3TAAhdplbHvTJv3"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 215746,
-      "name": "Finding Out",
-      "url": "https://open.spotify.com/track/7inFhF3HVAyQT4MrllufYO"
+      "duration_ms": 358461,
+      "name": "Call Me the Breeze - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/1OGCx6z4xbV7oPryuLx8mP"
     },
     {
       "added_at": null,
@@ -559,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mojo",
-        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+        "name": "Long After Dark (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
       },
       "artists": [
         {
@@ -568,9 +552,25 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 250520,
-      "name": "Something Good Coming",
-      "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
+      "duration_ms": 228320,
+      "name": "Straight Into Darkness",
+      "url": "https://open.spotify.com/track/6Cr9cPkaLOryGUbUaPyGMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turning Point / Between Two Worlds / Straight Into Darkness",
+        "url": "https://open.spotify.com/album/6uwrkSfRYrIDrCZe508e97"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Turning Point - Original Drums Version",
+      "url": "https://open.spotify.com/track/4UJKr8qWBnfmRpMxy0zkaW"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Something Good Coming",
+      "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Long After Dark (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
       },
@@ -600,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 228320,
-      "name": "Straight Into Darkness",
-      "url": "https://open.spotify.com/track/6Cr9cPkaLOryGUbUaPyGMb"
+      "duration_ms": 217560,
+      "name": "We Stand A Chance",
+      "url": "https://open.spotify.com/track/7HTamvqtLGblR6jVKelhdW"
     },
     {
       "added_at": null,
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 217560,
-      "name": "We Stand A Chance",
-      "url": "https://open.spotify.com/track/7HTamvqtLGblR6jVKelhdW"
+      "duration_ms": 209960,
+      "name": "The Same Old You",
+      "url": "https://open.spotify.com/track/3FwJMmGsejYganIJHizQGP"
     },
     {
       "added_at": null,
@@ -703,42 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pack Up The Plantation: Live!",
-        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 145201,
-      "name": "Needles And Pins - Live At The The Forum/1981",
-      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Long After Dark (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "The Same Old You",
-      "url": "https://open.spotify.com/track/3FwJMmGsejYganIJHizQGP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 260972,
       "name": "Insider",
       "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pack Up The Plantation: Live!",
+        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 145201,
+      "name": "Needles And Pins - Live At The The Forum/1981",
+      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Live Anthology",
-        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Alright for Now - Live",
-      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Promises",
         "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 237440,
       "name": "Nightwatchman",
       "url": "https://open.spotify.com/track/7xXplDt8DI9L2kmZvVSzZ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Live Anthology",
+        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Alright for Now - Live",
+      "url": "https://open.spotify.com/track/24PCWkrRVYdt6b7TT9gd6s"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

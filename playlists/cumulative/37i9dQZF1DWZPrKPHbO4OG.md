@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-79 songs - 5 hr 28 min
+80 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [O Sheth \(DJ Remix\)](https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(DJ Remix\)](https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK) | 3:04 | 2023-07-04 |  |
 | [O Sheth \(DJ Remix\)](https://open.spotify.com/track/7ITHuDARXa6FguyC7wexSc) | [Praniket Khune](https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ), [Sandhya Keshe](https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak), [Umesh Gawali](https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR) | [O Sheth \(DJ Remix\)](https://open.spotify.com/album/0AzqFLiFxolHnxCPR54XGT) | 3:04 | 2024-02-27 | 2024-03-07 |
 | [Once More Laav](https://open.spotify.com/track/0hBCD8MaqZhHij5VnbFjTB) | [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Once More Laav](https://open.spotify.com/album/6QjpZdG3TjiDpLoG2RIYdP) | 2:57 | 2023-07-04 |  |
+| [Pailwaan](https://open.spotify.com/track/0m2ka0jFqUkfv32FI990AS) | [Brahmaa](https://open.spotify.com/artist/1XkpRyYwCOXr1nUlVSE8KU), [Adarsh Shinde](https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3) | [Pailwaan](https://open.spotify.com/album/3Zea6Fd6xXSBYGD5C8ckRG) | 3:57 | 2024-10-24 |  |
 | [Patil Aala](https://open.spotify.com/track/3VJ7TQBLzhxeuycUilml6P) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Zenda](https://open.spotify.com/album/7gWdJghoAQWCKVQQ0Tb0IZ) | 3:57 | 2023-12-20 | 2024-04-19 |
 | [Patil Aala](https://open.spotify.com/track/7gb8tP4sFXyFNxn2I6eEjV) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Zenda](https://open.spotify.com/album/2SDX8VUb6xrQ5zUyu22zmO) | 3:57 | 2023-07-04 | 2024-01-02 |
 | [Patil Aala](https://open.spotify.com/track/6EdZ7a4LCQhKgiFLG0lzMu) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Zenda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3oCYJ9yh2VfLl5lBVfGeIq) | 3:57 | 2024-03-28 |  |

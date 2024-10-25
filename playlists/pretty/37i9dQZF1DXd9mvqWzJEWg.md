@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv?si=EPsWCsX3Qba1NT3wMj5G9Q">Still That Combo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,700 likes - 65 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,748 likes - 65 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

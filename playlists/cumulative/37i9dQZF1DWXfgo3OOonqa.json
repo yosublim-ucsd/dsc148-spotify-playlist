@@ -241,6 +241,28 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1fHkJhbUoChpMjx8uy8KFV"
+      },
+      "artists": [
+        {
+          "name": "Tasha17k",
+          "url": "https://open.spotify.com/artist/3QgpgRgnODIPgu5NDEkcgd"
+        },
+        {
+          "name": "Viktor Ax",
+          "url": "https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115195,
+      "name": "100 Prozent",
+      "url": "https://open.spotify.com/track/1iVbA7EUvjM9IAB8GH2Tah"
+    },
+    {
+      "album": {
         "name": "100GUMMA",
         "url": "https://open.spotify.com/album/2kvfqvkycPcvxMicn6mi2z"
       },
@@ -1002,7 +1024,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 157974,
       "name": "95",
       "url": "https://open.spotify.com/track/3n3hEYCg8grGCoRZA4yjWE"
@@ -1902,7 +1924,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 173714,
       "name": "Ambassador",
       "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
@@ -3650,7 +3672,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 132480,
       "name": "BARCELONA",
       "url": "https://open.spotify.com/track/0TrDjsenmLHhggbbTYjzW6"
@@ -5239,6 +5261,32 @@
     },
     {
       "album": {
+        "name": "Burna Boy",
+        "url": "https://open.spotify.com/album/3VnYNpptu0Nbatuhz2nglz"
+      },
+      "artists": [
+        {
+          "name": "25",
+          "url": "https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc"
+        },
+        {
+          "name": "Philippe",
+          "url": "https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW"
+        },
+        {
+          "name": "Fu3go",
+          "url": "https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Burna Boy",
+      "url": "https://open.spotify.com/track/2F2ZiGOzgHJ1uAlzDjoNlV"
+    },
+    {
+      "album": {
         "name": "Buzz Down",
         "url": "https://open.spotify.com/album/4RNZwTdAsRLcx80bweMYnS"
       },
@@ -5910,7 +5958,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 151207,
       "name": "CHICANO",
       "url": "https://open.spotify.com/track/3jE8a467SmeFRnkK176hAQ"
@@ -6982,7 +7030,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 141857,
       "name": "DALE",
       "url": "https://open.spotify.com/track/23i4tv2yimgQiOi4a4sy0W"
@@ -8260,7 +8308,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 136965,
       "name": "Du (Krossa alla f\u00f6nster)",
       "url": "https://open.spotify.com/track/3JxPZv8cFAqksKfIbaw38S"
@@ -8628,7 +8676,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 163692,
       "name": "D\u00c5RHUS",
       "url": "https://open.spotify.com/track/1SKJEblmOgIvPR6hzoEXeb"
@@ -9584,7 +9632,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 110400,
       "name": "Faller",
       "url": "https://open.spotify.com/track/52rYBxmWsmouJrq4rpbHQJ"
@@ -9890,7 +9938,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 155294,
       "name": "FEELING",
       "url": "https://open.spotify.com/track/4RxR3ZXHpcsMSgYXDIKdSm"
@@ -10200,7 +10248,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 196853,
       "name": "Fokus",
       "url": "https://open.spotify.com/track/2gOw09j1y8pnUFtOIgrSQi"
@@ -10266,7 +10314,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 165633,
       "name": "Former",
       "url": "https://open.spotify.com/track/0ocolN1xERjnGsH3kDC8Yd"
@@ -12261,6 +12309,24 @@
     },
     {
       "album": {
+        "name": "HAJAR",
+        "url": "https://open.spotify.com/album/07gXpimp1G0L5couPLDqD4"
+      },
+      "artists": [
+        {
+          "name": "Treeze",
+          "url": "https://open.spotify.com/artist/7hZDZfokZxVjYsydfPvC3K"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139682,
+      "name": "HAJAR",
+      "url": "https://open.spotify.com/track/0pW7YGlsz0BASX58H6sLHi"
+    },
+    {
+      "album": {
         "name": "Hala Hala (Hot Girl Summer)",
         "url": "https://open.spotify.com/album/7DvPbkRiePbdTQ8IzEf17Q"
       },
@@ -12390,7 +12456,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 116969,
       "name": "Handen (feat. L1NA)",
       "url": "https://open.spotify.com/track/4kf9So4rQx0CjmgjoP01aA"
@@ -12880,7 +12946,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 127706,
       "name": "HEMSK",
       "url": "https://open.spotify.com/track/2yWyVyZwv87UDeDqYyx9Dh"
@@ -13195,6 +13261,24 @@
     },
     {
       "album": {
+        "name": "HOLD UP",
+        "url": "https://open.spotify.com/album/5FWdWr7uv3EwmMx8UlyqsJ"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139065,
+      "name": "HOLD UP",
+      "url": "https://open.spotify.com/track/2J38DVGTR8RV4jLVdDmtQv"
+    },
+    {
+      "album": {
         "name": "Holy Father",
         "url": "https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu"
       },
@@ -13304,7 +13388,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 129130,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/7mCwLCmzwwSE4sXykpKGAJ"
@@ -13866,7 +13950,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 152000,
       "name": "IBIZA",
       "url": "https://open.spotify.com/track/4POdzwp6hDWk0OMH2gNE6v"
@@ -15642,7 +15726,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 165942,
       "name": "KeKe (what would DBE say?)",
       "url": "https://open.spotify.com/track/56zjHlSBHuVBey7pNNlpqt"
@@ -16146,6 +16230,28 @@
       "duration_ms": 139200,
       "name": "Komplicerat",
       "url": "https://open.spotify.com/track/3RCbGcSsPFNn6NbFbLc8QT"
+    },
+    {
+      "album": {
+        "name": "komvig\u00e5rhem",
+        "url": "https://open.spotify.com/album/0qpYt3Uf2US1KPlFMfqHDw"
+      },
+      "artists": [
+        {
+          "name": "DR",
+          "url": "https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA"
+        },
+        {
+          "name": "TUTTOLENTE",
+          "url": "https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147999,
+      "name": "komvig\u00e5rhem",
+      "url": "https://open.spotify.com/track/6NVc60MXwlYUF8GcevTI9s"
     },
     {
       "album": {
@@ -17544,6 +17650,32 @@
       "duration_ms": 125753,
       "name": "LOGGA UT",
       "url": "https://open.spotify.com/track/6WZ0e4BsFb5tmGQeaOsuco"
+    },
+    {
+      "album": {
+        "name": "LOGGAR IN",
+        "url": "https://open.spotify.com/album/6rqeeE6xtBVDltmcrezPhg"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw"
+        },
+        {
+          "name": "JMK",
+          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
+        },
+        {
+          "name": "NLAZE",
+          "url": "https://open.spotify.com/artist/5h1oIUlcTnrbzA1x6OCn6L"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166857,
+      "name": "LOGGAR IN",
+      "url": "https://open.spotify.com/track/5Ly6UshNtRVDeHYf5aQK7Q"
     },
     {
       "album": {
@@ -19226,7 +19358,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 126461,
       "name": "Marina",
       "url": "https://open.spotify.com/track/0TcUPwh0Khnavu06gRelsN"
@@ -19466,7 +19598,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 176000,
       "name": "Medell\u00edn",
       "url": "https://open.spotify.com/track/3Nk5Q7giZdRoq1gi71dQYe"
@@ -20797,6 +20929,24 @@
     },
     {
       "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/4bDLZydqX0bN0POKRb0Plp"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "MURDERERS",
+      "url": "https://open.spotify.com/track/5F0ZpIeAJ0hdtkgnQgBhSZ"
+    },
+    {
+      "album": {
         "name": "MUSIK ELLER METALL",
         "url": "https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS"
       },
@@ -21242,7 +21392,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 165137,
       "name": "NICE GUY",
       "url": "https://open.spotify.com/track/2Yabo6ygKGjh4itVTYXCXM"
@@ -23764,7 +23914,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 156000,
       "name": "Prime Time",
       "url": "https://open.spotify.com/track/5bLwRc80wnYTYRxIE0pxPl"
@@ -24868,7 +25018,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 149032,
       "name": "SAGAN OM MILLEN",
       "url": "https://open.spotify.com/track/3rer4mvpdqJSrFZBm9UJ57"
@@ -26826,7 +26976,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 126545,
       "name": "SPEKTAKEL",
       "url": "https://open.spotify.com/track/5QizKrIc1qjmjBjUnyay6b"
@@ -26936,7 +27086,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 158400,
       "name": "Stalledr\u00e4ng",
       "url": "https://open.spotify.com/track/5IISOE7rvmHMjhGrt57slY"
@@ -27662,7 +27812,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 154482,
       "name": "SVETT & BLOD",
       "url": "https://open.spotify.com/track/1cKnZEEP0lVQAI1WR9LPTN"
@@ -28140,7 +28290,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 140689,
       "name": "S\u00d6KER SVAR",
       "url": "https://open.spotify.com/track/2z5HuzZiR4U7u9gMWjFgbZ"
@@ -28520,7 +28670,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 176495,
       "name": "Tappar kontroll",
       "url": "https://open.spotify.com/track/3JzsfvZ8mUk0zW3thtxnx7"
@@ -28732,7 +28882,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 173000,
       "name": "Tenk Inte",
       "url": "https://open.spotify.com/track/2pqQRRFqx4N2vgUpyNCjeZ"
@@ -29474,7 +29624,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 143608,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/1AciNI6rEr7yQvp2hwds0b"
@@ -31826,7 +31976,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 155160,
       "name": "Welou (Better Days)",
       "url": "https://open.spotify.com/track/2byIKlBKUlVFnnKIq5Vc6B"
@@ -31910,6 +32060,28 @@
       "duration_ms": 126720,
       "name": "WHINA",
       "url": "https://open.spotify.com/track/1xiAPeAOOXjOhVEFQY3Am3"
+    },
+    {
+      "album": {
+        "name": "WIFI",
+        "url": "https://open.spotify.com/album/3OJREvr4W4bECjuSPRvump"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173392,
+      "name": "WIFI",
+      "url": "https://open.spotify.com/track/4iGFsAwSbgmBpn9CmPTYVD"
     },
     {
       "album": {
@@ -32698,7 +32870,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 139100,
       "name": "\u00c4lskar & Hatar \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/5W2S0ISDrUGubkzo0Nja24"
@@ -32760,7 +32932,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 146400,
       "name": "\u00c4nnu en dag",
       "url": "https://open.spotify.com/track/6I9IHT1nhfPhm2l6eCSxs4"

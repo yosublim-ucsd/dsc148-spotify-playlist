@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap og den vibe  <a href="spotify:artist:1YwMnnHvnG64fJxYSVwmN6">Branco</a> på deluxe 💎
+> dk rap og den vibe...<a href="spotify:artist:4a88Q5HOh8FSXQ1gPcQu2U">Kimbo</a> med album ude 💎
 
-246 songs - 10 hr 37 min
+250 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10/10](https://open.spotify.com/track/58Jj3c8s3JHbHw424dK2bv) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Blåregn / 10/10](https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh) | 2:18 | 2024-05-23 | 2024-06-22 |
 | [2 Kanoner](https://open.spotify.com/track/0cqiuOOf7cZvp3dTq1AQmA) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/3OJwewaRbFMwueVlJpfssy) | 2:40 | 2024-04-18 | 2024-05-03 |
 | [2 Kanoner](https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p) | 2:40 | 2023-09-21 | 2024-04-19 |
+| [2 Sider](https://open.spotify.com/track/0H0YR67BTGnCM45tmqvt2Z) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [2 Sider](https://open.spotify.com/album/6ZDIPlUNce9ZHxIzT0b4ka) | 2:16 | 2024-10-24 |  |
 | [33](https://open.spotify.com/track/5pRUX652p9FfIQVmJNtz9d) | [ATYPISK](https://open.spotify.com/artist/3L1jDbMK9J4Rd6XVv0KDjS), [Vince Keys](https://open.spotify.com/artist/4udv1bgrUxxKrVg566urM6) | [33](https://open.spotify.com/album/5Ytdk3d0W8f27FngQnDFqC) | 2:30 | 2024-10-03 |  |
 | [4 LIFE](https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [4 LIFE](https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL) | 2:46 | 2024-09-05 |  |
 | [4 LIFE](https://open.spotify.com/track/3oR0iJiqjO5onYOs8ThQa1) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [4 LIFE](https://open.spotify.com/album/2ZSarbwHOnvmj19c4jiVey) | 2:28 | 2023-09-21 | 2024-05-14 |
@@ -102,6 +103,7 @@
 | [For Livet](https://open.spotify.com/track/5viIhkqgleyQyxIqPIMvYe) | [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh) | [For Livet](https://open.spotify.com/album/42x2AI6qbiBJYx89oOZMJg) | 2:59 | 2024-08-29 |  |
 | [Forfra](https://open.spotify.com/track/6bsOIoszGUGP0I8GK028PS) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [Forfra](https://open.spotify.com/album/74pSxfFnIuhpN2NYgrvVfh) | 2:54 | 2024-03-07 | 2024-04-05 |
 | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW) | 2:40 | 2023-10-12 | 2024-09-13 |
+| [Fundamentalt \(feat\. KESI\)](https://open.spotify.com/track/4P7QKDFvuqcCJhUMEzX06Z) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Det Gyldne Snit](https://open.spotify.com/album/3vyD0ISit04iXRKGjfnqP3) | 2:27 | 2024-10-24 |  |
 | [Fungerer](https://open.spotify.com/track/35pRKsTd60JHRRl1GH2W5i) | [Zay](https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z) | [Fungerer](https://open.spotify.com/album/4qSZPlNs2Jh7eib2Geb7AR) | 2:56 | 2024-06-27 |  |
 | [Følelser \(feat\. Jamaika\)](https://open.spotify.com/track/3nDcLRg4XZW1ubYHqS7gGX) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [En dag giver alt nok mening… \(DELUXE\)](https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM) | 2:29 | 2024-02-15 | 2024-10-04 |
 | [FØRSTE MØDE](https://open.spotify.com/track/2wsrfdApbrHB5OlPdwJqyz) | [AMAL](https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD) | [FØRSTE MØDE](https://open.spotify.com/album/4wXmOKjr5zYQqktDAQyHKe) | 2:49 | 2023-10-12 | 2023-11-11 |
@@ -122,6 +124,7 @@
 | [Helwa \(feat\. PAY & Xabski\)](https://open.spotify.com/track/3jdWYmiOaDfs7urzqN0sSk) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Ny Art](https://open.spotify.com/album/6Wk9GkksYDxUvEgt8jRh1Z) | 3:09 | 2023-09-21 | 2023-11-11 |
 | [Holddamagle](https://open.spotify.com/track/6mCX1dL0vG71HxcI1OdRBe) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [PÅ GEN5YN](https://open.spotify.com/album/1UwgdrQVaJBueo48c2GM8x) | 1:52 | 2024-06-27 | 2024-09-13 |
 | [HONEYMOON](https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [HONEYMOON](https://open.spotify.com/album/5Dgf2urRgPtWByAz7hILGA) | 2:39 | 2023-09-21 | 2023-12-14 |
+| [Hustlers Ambition](https://open.spotify.com/track/4XdCz4OmpJG8boHyXaeg7v) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Hustlers Ambition](https://open.spotify.com/album/2UHksnhp9qVmHqXM8GKPCS) | 2:01 | 2024-10-24 |  |
 | [Hva Du På \(feat\. Gilli\)](https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [De Her Timer](https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo) | 2:38 | 2024-05-30 |  |
 | [hva status](https://open.spotify.com/track/4uD38j8IHpg5g8LFOlV1XV) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 2:57 | 2023-09-21 | 2024-02-23 |
 | [Hvad Vi Vil](https://open.spotify.com/track/0dH7vsh51sKniPT5H2kSCW) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Hvad Vi Vil](https://open.spotify.com/album/5GFIXuuthiNh3WbmuUoomk) | 3:31 | 2024-02-29 | 2024-05-14 |
@@ -253,6 +256,7 @@
 | [xoxo \(feat\. ICEKIID\)](https://open.spotify.com/track/1QYu15XcUvIzbniUykHudF) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [nu hvor vi er her](https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc) | 3:01 | 2023-09-21 | 2024-01-19 |
 | [Young Habibi \(feat\. Lamin\)](https://open.spotify.com/track/1LzZuD8TsgFC8kG5DoocWb) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:22 | 2023-09-21 | 2023-12-14 |
 | [Zoo \(feat\. Branco\)](https://open.spotify.com/track/4uSOMRmjHHwxF5CoSCKiAQ) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Zoo \(feat\. Branco\)](https://open.spotify.com/album/5Fev5JoZyULNiMeVArH7RA) | 2:30 | 2023-09-21 | 2024-02-23 |
+| [Zugzwang](https://open.spotify.com/track/3YxUsqFWqZDRICQ7Epg3qb) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Liberosis](https://open.spotify.com/album/5BX8fA8Jiaw8ZwoIIQ3xT2) | 3:20 | 2024-10-24 |  |
 | [Året Ud \(feat\. KESI & Noah Carter\)](https://open.spotify.com/track/2aehSqz7mLvJ4Sp7UtpN5m) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Året Ud \(feat\. KESI & Noah Carter\)](https://open.spotify.com/album/0II9bww0pk1x5lPvocJRbl) | 2:29 | 2024-04-18 |  |
 
 \*This playlist was first scraped on 2023-09-26. Prior content cannot be recovered.

@@ -8750,7 +8750,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 131999,
       "name": "Faturo Bastante - 1",
       "url": "https://open.spotify.com/track/67wAlplk4JhnILf1taFTG6"
@@ -22810,6 +22810,28 @@
       "duration_ms": 197979,
       "name": "T\u00e3o Bem",
       "url": "https://open.spotify.com/track/3gtpRPrT8H0xAfHH4f3xhb"
+    },
+    {
+      "album": {
+        "name": "T\u00e3o Quente",
+        "url": "https://open.spotify.com/album/2jqozhmbvoeFGkOfW0c7MD"
+      },
+      "artists": [
+        {
+          "name": "LETS",
+          "url": "https://open.spotify.com/artist/1CPx6hzE0zvUB8BWICgb4d"
+        },
+        {
+          "name": "gusta",
+          "url": "https://open.spotify.com/artist/7f7q6HGmtuHRYh76nArZwd"
+        }
+      ],
+      "date_added": "2024-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "T\u00e3o Quente",
+      "url": "https://open.spotify.com/track/6MpK6QzDyojBB8XJQnft7O"
     },
     {
       "album": {

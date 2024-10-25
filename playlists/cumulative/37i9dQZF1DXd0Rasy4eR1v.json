@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 113142,
       "name": "26",
       "url": "https://open.spotify.com/track/37HOIHwtaQRAIkLGct4Qg2"
@@ -5484,7 +5484,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 274615,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/1hr9RwnjacmVFO2qHOFq2w"
@@ -6362,7 +6362,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 127058,
       "name": "Gulaab",
       "url": "https://open.spotify.com/track/5MLckXKxjkRHdVsg0pIet1"
@@ -6735,6 +6735,28 @@
     },
     {
       "album": {
+        "name": "Hard times",
+        "url": "https://open.spotify.com/album/3qt1ThJ6bpzYsLnoSniEMn"
+      },
+      "artists": [
+        {
+          "name": "Uzair Khan",
+          "url": "https://open.spotify.com/artist/0UXqgy03ysCiZSmnWseRIn"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Hard times",
+      "url": "https://open.spotify.com/track/3Bw0WkPkSFU6cBNQq60uRG"
+    },
+    {
+      "album": {
         "name": "Harkalay",
         "url": "https://open.spotify.com/album/1N6dxbYWMi9p5hyxbdKPJH"
       },
@@ -6824,7 +6846,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 218400,
       "name": "Hasrat",
       "url": "https://open.spotify.com/track/7q3LVwL5p3kG5QX6pVALUm"
@@ -6898,6 +6920,28 @@
       "duration_ms": 142450,
       "name": "heart $ick",
       "url": "https://open.spotify.com/track/4HqTwljlZlbHb3BNb2BkBi"
+    },
+    {
+      "album": {
+        "name": "Heer",
+        "url": "https://open.spotify.com/album/3YiqeB6tWyEr8vHveTita7"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/4AyKPZ1b7lUlsAOb3aG6tC"
     },
     {
       "album": {
@@ -7860,7 +7904,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 160404,
       "name": "Jaan Meri",
       "url": "https://open.spotify.com/track/2ApxAy1MVKIiyHCUM6oBAD"
@@ -11556,6 +11600,24 @@
       "duration_ms": 170000,
       "name": "N. M. D",
       "url": "https://open.spotify.com/track/47AjJrGrOCaqxXbEIMWNq9"
+    },
+    {
+      "album": {
+        "name": "Na Aana",
+        "url": "https://open.spotify.com/album/1ROznC0oiHzBRnCzJWPyzI"
+      },
+      "artists": [
+        {
+          "name": "Hareem Rashid",
+          "url": "https://open.spotify.com/artist/4tp7OYDn1UdgWEnr3AJiFi"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197900,
+      "name": "Na Aana",
+      "url": "https://open.spotify.com/track/34ZIXyGEOVVS1cw6hxttsb"
     },
     {
       "album": {
@@ -15533,6 +15595,24 @@
     },
     {
       "album": {
+        "name": "Silsilay",
+        "url": "https://open.spotify.com/album/4SKIBJfZjuQRwk5ruvSKGE"
+      },
+      "artists": [
+        {
+          "name": "Sherazam",
+          "url": "https://open.spotify.com/artist/36BLIKK4GrUzHNiM1t5dqN"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Silsilay",
+      "url": "https://open.spotify.com/track/0d2FesqeTmXlvaqpg26tYx"
+    },
+    {
+      "album": {
         "name": "Sit Back",
         "url": "https://open.spotify.com/album/6tVVx8YDJuHBQuWVUds2sJ"
       },
@@ -15922,7 +16002,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 155307,
       "name": "STARGO TOR",
       "url": "https://open.spotify.com/track/5XbgKymthy6ZYHz2VqBYOL"

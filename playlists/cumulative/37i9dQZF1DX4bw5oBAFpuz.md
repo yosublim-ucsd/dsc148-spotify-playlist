@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-483 songs - 1 day 3 hr 54 min
+484 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Embrace](https://open.spotify.com/track/2mnuH6wQXWl2x50JcRmHlz) | [Dazzled Kid](https://open.spotify.com/artist/5qxWXQ3Dgux2hrMKN2sz4h) | [Fire Needs Air](https://open.spotify.com/album/6kcr08oAUCpEyGmaNC3zeC) | 2:45 | 2024-08-29 | 2024-09-28 |
 | [Embrace](https://open.spotify.com/track/3pJHB3hEoZbBQGtodxU0xM) | [Dazzled Kid](https://open.spotify.com/artist/5qxWXQ3Dgux2hrMKN2sz4h) | [Fire Needs Air](https://open.spotify.com/album/2dxp5vmUww5VZpbJVkwZTw) | 2:45 | 2023-04-25 | 2024-03-11 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-02-23 | 2023-04-26 |
-| [Even If It’s Lonely](https://open.spotify.com/track/0Uauh4xXNy0WnApqZN3jK6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Even If It’s Lonely](https://open.spotify.com/album/3ZDtwBVvtZnYPmUinHUrF3) | 4:05 | 2024-04-11 |  |
+| [Even If It’s Lonely](https://open.spotify.com/track/0Uauh4xXNy0WnApqZN3jK6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Even If It’s Lonely](https://open.spotify.com/album/3ZDtwBVvtZnYPmUinHUrF3) | 4:05 | 2024-04-11 | 2024-10-25 |
 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 | 2023-02-23 |  |
 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 | 2023-02-23 |  |
 | [Everybody's Changing](https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:35 | 2024-03-21 | 2024-04-19 |
@@ -287,6 +287,7 @@
 | [No Worries](https://open.spotify.com/track/1T6928Jai5vaFUIP7XhXhS) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/3721OxBl0D7wkRrKhfJl03) | 3:29 | 2024-04-11 |  |
 | [No Worries](https://open.spotify.com/track/0Q95QAw0HKaykvMZA3tMOb) | [Simon Webbe](https://open.spotify.com/artist/3P6nMEGXn0hzBlMndKfLQH) | [Sanctuary](https://open.spotify.com/album/4zlJk4dH9eE5wQGOrKvKhs) | 3:29 | 2023-02-23 | 2024-04-19 |
 | [Nobody Just Like You](https://open.spotify.com/track/6c1LPZcvGFR61iNceP77q9) | [Human Nature](https://open.spotify.com/artist/72BTmmAO3QfETWlFjwjfJ1) | [Nobody Just Like You](https://open.spotify.com/album/1T17JPPFnkMa9hd9fkqblx) | 2:44 | 2023-02-23 | 2024-08-03 |
+| [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-10-24 |  |
 | [Not Our Fault](https://open.spotify.com/track/0q7EANvg9S0AUFaE7iINZB) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/5Nc2dtfzKdxu7ri2YbMSGZ) | 4:31 | 2023-05-01 | 2024-01-24 |
 | [Not Our Fault](https://open.spotify.com/track/1LTtiJn18l2cYDjYxK3OQU) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/1IOX8G95QttETwSCr0EI4k) | 4:31 | 2023-04-25 | 2023-05-10 |
 | [Not Our Fault](https://open.spotify.com/track/6QuwHuwgucbVeqJBlIWD0h) | [Thomas Geelens](https://open.spotify.com/artist/0fOACSuV2yErGIXJvBsIZz) | [Not Our Fault](https://open.spotify.com/album/5H7nCfkt7ovBwVG7LqU2xA) | 4:31 | 2024-01-16 | 2024-03-21 |

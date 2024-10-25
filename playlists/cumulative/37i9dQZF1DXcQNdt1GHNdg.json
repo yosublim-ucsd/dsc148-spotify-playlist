@@ -237,6 +237,32 @@
     },
     {
       "album": {
+        "name": "Assault",
+        "url": "https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt"
+      },
+      "artists": [
+        {
+          "name": "Manavgeet Gill",
+          "url": "https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl"
+        },
+        {
+          "name": "Kanji Porh",
+          "url": "https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt"
+        },
+        {
+          "name": "Sobit",
+          "url": "https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137608,
+      "name": "Assault",
+      "url": "https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y"
+    },
+    {
+      "album": {
         "name": "Bad Company",
         "url": "https://open.spotify.com/album/0rsXdSK6e9S9YT5DjZPaLC"
       },
@@ -1816,7 +1842,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 182000,
       "name": "Richie Rich",
       "url": "https://open.spotify.com/track/5OxAMzahUJ6vfpKe1sMSO4"

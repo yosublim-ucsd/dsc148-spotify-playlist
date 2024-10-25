@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Pink Velvet Theatre",
+        "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203960,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA"
+    },
+    {
+      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
       },
@@ -1583,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/0O32VuAQRu1yxK8kYGw13E"
+      },
+      "artists": [
+        {
+          "name": "Wulf",
+          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/3UeVin0MUnhQdSRF4pxgfn"
+    },
+    {
+      "album": {
         "name": "broken by you",
         "url": "https://open.spotify.com/album/3xGBQIPJYhqeSkTF53Jr70"
       },
@@ -1890,6 +1926,28 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "Cero (feat. Namayana Women's Choir)",
+        "url": "https://open.spotify.com/album/5hUO1e8Nglh6Fk8E6ouWrh"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "Namayana Women's Choir",
+          "url": "https://open.spotify.com/artist/5VaB3puDBDbNGldxINR9rJ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182891,
+      "name": "Cero (feat. Namayana Women's Choir)",
+      "url": "https://open.spotify.com/track/3K3Iw3FsrP364vSkAHzWjm"
     },
     {
       "album": {
@@ -3134,10 +3192,28 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 166786,
       "name": "Drown Me in Your River",
       "url": "https://open.spotify.com/track/0I7ppo2wo6EOz1sz00krtP"
+    },
+    {
+      "album": {
+        "name": "A Little Light in the Dark",
+        "url": "https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166786,
+      "name": "Drown Me in your River",
+      "url": "https://open.spotify.com/track/1o25xpJ1yVFWWG7CzulsUM"
     },
     {
       "album": {
@@ -8774,7 +8850,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 278920,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/0c40h1i6GGmEtOONFq9fKD"
@@ -9792,6 +9868,24 @@
       "duration_ms": 141971,
       "name": "Red Flags",
       "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
+    },
+    {
+      "album": {
+        "name": "miroir / Red Light",
+        "url": "https://open.spotify.com/album/6k86lCqjXPJfucjK3FVbzO"
+      },
+      "artists": [
+        {
+          "name": "CHARLES",
+          "url": "https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157930,
+      "name": "Red Light",
+      "url": "https://open.spotify.com/track/3Bkd4gTLmlGGtvlTq4HQm7"
     },
     {
       "album": {
@@ -11777,6 +11871,24 @@
     },
     {
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/3FXPxeOBN8uVH4t7S0wyqq"
+      },
+      "artists": [
+        {
+          "name": "TEUN",
+          "url": "https://open.spotify.com/artist/2HYKtKJ5ZbUaz3BoDpRSYv"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212600,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/0v5ONlukgdvGPYs9k6oRg4"
+    },
+    {
+      "album": {
         "name": "The Feeling of Letting Go",
         "url": "https://open.spotify.com/album/3E878reFrILfVxZifIlTwr"
       },
@@ -12598,6 +12710,24 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "album": {
+        "name": "We're Gonna Be Okay",
+        "url": "https://open.spotify.com/album/6gGP8SyIyRCAxsMhk11HY5"
+      },
+      "artists": [
+        {
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179300,
+      "name": "We're Gonna Be Okay",
+      "url": "https://open.spotify.com/track/2gZ3Twqqirs6A2Xf1mBubH"
     },
     {
       "album": {

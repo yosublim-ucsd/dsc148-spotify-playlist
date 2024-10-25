@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG?si=Fb6e5tIGQQm56MBOHnHkaw">  كزابيرو </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,992 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,093 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [الهيبه والمعلمه](https://open.spotify.com/track/4ZBU2xMc5mS9Xcd0KhFRNg) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [الهيبه والمعلمه](https://open.spotify.com/album/0HDv4GxxBzxQjpE3Mn1zyt) | 5:23 |
-| 2 | [Araneb](https://open.spotify.com/track/66ePUJkM4HfatBhEqt8SV7) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG), [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t) | [Araneb](https://open.spotify.com/album/2MupzDktPdiY2LwP5mbo1u) | 2:56 |
-| 3 | [يا حبر بدرى لسه](https://open.spotify.com/track/1EzV91uHDaDuyBoAABz6kR) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [يا حبر بدرى لسه](https://open.spotify.com/album/3EmNxHXYXt2ArGVq9dqGCG) | 4:15 |
+| 1 | [El Volt El 3aly](https://open.spotify.com/track/3plhjP2mv6p6jsfkFA7LZF) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [El Volt El 3aly](https://open.spotify.com/album/7cHYfNdJOpIFmGvjbynIp3) | 4:00 |
+| 2 | [الهيبه والمعلمه](https://open.spotify.com/track/4ZBU2xMc5mS9Xcd0KhFRNg) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [الهيبه والمعلمه](https://open.spotify.com/album/0HDv4GxxBzxQjpE3Mn1zyt) | 5:23 |
+| 3 | [Araneb](https://open.spotify.com/track/66ePUJkM4HfatBhEqt8SV7) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG), [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t) | [Araneb](https://open.spotify.com/album/2MupzDktPdiY2LwP5mbo1u) | 2:56 |
 | 4 | [إحنا البلد](https://open.spotify.com/track/73Y0J7zh5hSXg1VBICyzx0) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [إحنا البلد](https://open.spotify.com/album/0uKPJwneURKke432itVCCY) | 4:34 |
 | 5 | [هنخربها](https://open.spotify.com/track/46b56o9gUwcgJRXBhIDNTK) | [Amina](https://open.spotify.com/artist/5oqJdJiiqwYKUk1U4kFB2w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [هنخربها](https://open.spotify.com/album/4FrsIKy8Zo8uXTc91brfIb) | 5:16 |
 | 6 | [Bengeeb El Ersh](https://open.spotify.com/track/62D5s9IRc8VfL0ETMcU8HY) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Bengeeb El Ersh](https://open.spotify.com/album/3oZJnznFcqpbuwHqsAyKri) | 3:18 |
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 13 | [Rozma](https://open.spotify.com/track/6Xwcz7MnRx2ULy94FEaPXK) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG), [Nourine](https://open.spotify.com/artist/4iArKSuVFF3i9FfnDBPM3K) | [Rozma](https://open.spotify.com/album/5zbqTtpHlYIahxnvZFqJAf) | 2:48 |
 | 14 | [Yoom El Ghorba](https://open.spotify.com/track/2oXlQeY8OSZcbPSaIzL1rC) | [Hamdy Batshan](https://open.spotify.com/artist/7lRa9SS2F03TMvpRbT44cX), [Ahmed Hamama](https://open.spotify.com/artist/6tBsU69wBs1rLXpHtX1NB1) | [Yoom El Ghorba](https://open.spotify.com/album/6efDLOYNt1jx38q1WBfVef) | 3:20 |
 | 15 | [Alby Ma3ak](https://open.spotify.com/track/6P4OUrP9UwjTakaoOJ4njV) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Alby Ma3ak](https://open.spotify.com/album/5MoX8FjhsUEt9AxbZ5RIki) | 3:35 |
-| 16 | [El Mal3ab Wase3](https://open.spotify.com/track/6aXn3QBR6fm087bEIqm85z) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [El Mal3ab Wase3](https://open.spotify.com/album/587Jslmgif2pEcpKCSkULK) | 3:41 |
-| 17 | [اسف يا نفسي](https://open.spotify.com/track/0a5RhyjwXaSOsv5KyNzISr) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [اسف يا نفسي](https://open.spotify.com/album/2kIBZ9uvmCaxjCGNT9kVyH) | 4:36 |
-| 18 | [رايقة رايقة](https://open.spotify.com/track/2rCx7525ytyjPPqLwVyqjc) | [Hamada El Leithy](https://open.spotify.com/artist/3l9SjFdMWrYsIDtFxanbzm), [Amr Salama](https://open.spotify.com/artist/4GcegYRULZV2bEkSgl01Wk) | [رايقة رايقة](https://open.spotify.com/album/20hlcAIrpd2bg8IURWAFxG) | 3:28 |
-| 19 | [موال أبني](https://open.spotify.com/track/5yq1ZsPm7pw4TCusBYd7XA) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [موال أبني](https://open.spotify.com/album/0xFuTSpYxHqMqd2jooATdv) | 2:30 |
+| 16 | [اسف يا نفسي](https://open.spotify.com/track/0a5RhyjwXaSOsv5KyNzISr) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [اسف يا نفسي](https://open.spotify.com/album/2kIBZ9uvmCaxjCGNT9kVyH) | 4:36 |
+| 17 | [رايقة رايقة](https://open.spotify.com/track/2rCx7525ytyjPPqLwVyqjc) | [Hamada El Leithy](https://open.spotify.com/artist/3l9SjFdMWrYsIDtFxanbzm), [Amr Salama](https://open.spotify.com/artist/4GcegYRULZV2bEkSgl01Wk) | [رايقة رايقة](https://open.spotify.com/album/20hlcAIrpd2bg8IURWAFxG) | 3:28 |
+| 18 | [موال أبني](https://open.spotify.com/track/5yq1ZsPm7pw4TCusBYd7XA) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [موال أبني](https://open.spotify.com/album/0xFuTSpYxHqMqd2jooATdv) | 2:30 |
+| 19 | [يا حبر بدرى لسه](https://open.spotify.com/track/1EzV91uHDaDuyBoAABz6kR) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [يا حبر بدرى لسه](https://open.spotify.com/album/3EmNxHXYXt2ArGVq9dqGCG) | 4:15 |
 | 20 | [الباشا](https://open.spotify.com/track/2KkuXDZWQlwFa8QKeATHH2) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [الباشا](https://open.spotify.com/album/31MkClRO6l5z3eSdoxX4nR) | 3:08 |
 | 21 | [Rakam Wahd Fel Grah](https://open.spotify.com/track/6Mp7U4S9GLWsAyRXd0wWwI) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [Rakam Wahd Fel Grah](https://open.spotify.com/album/5CdROjZfNXC290fVbqQEb6) | 3:03 |
 | 22 | [كبير كبير انا ايوة كبير](https://open.spotify.com/track/1nFuVbs2Nrc4YctsmJCRUu) | [عدوية شعبان عبد الرحيم](https://open.spotify.com/artist/05qj74OxicZQjvEiU2ywXp) | [كبير كبير انا ايوة كبير](https://open.spotify.com/album/34NPTEoOIUHb45ZxyQ3Y4T) | 5:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 49 | [Ya Naker Kheiry](https://open.spotify.com/track/5otYW9ofdZVlXjgQVAo00B) | [Hamza El Saghier](https://open.spotify.com/artist/4Dk2CowpetfKQGv6psvWFr) | [Ya Naker Kheiry](https://open.spotify.com/album/5DeCycvx4r7sHCc1Z7kNNv) | 4:08 |
 | 50 | [خدت من جدعنتى ايه](https://open.spotify.com/track/534vrlGPt8HIvwLI4NtFFS) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [خدت من جدعنتى ايه](https://open.spotify.com/album/5aeinXTBjK1OBDOwSZ5gbm) | 6:20 |
 
-Snapshot ID: `Zwh/xQAAAADddVzcNIT7jd3Ijz8J8K+1`
+Snapshot ID: `ZxrfqQAAAAA5jJYu0cWnQgZo47kdqXwo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: Wicked
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,985 likes - 79 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,049 likes - 79 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

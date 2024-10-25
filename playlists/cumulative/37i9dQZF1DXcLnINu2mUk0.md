@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto:  Ivandro, LUDMILLA
 
-649 songs - 1 day 10 hr 36 min
+650 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Acabar Na Cama](https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso) | [Hugo Pina](https://open.spotify.com/artist/2BKFTDHOy7xXbeibvKsOHu) | [Acabar Na Cama](https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ) | 2:36 | 2023-05-11 | 2023-06-09 |
 | [Acabou](https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN) | [MEGGY](https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd), [Joy Jnr](https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt) | [Acabou](https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr) | 3:32 | 2023-01-27 | 2023-02-17 |
 | [Acalma a Alma](https://open.spotify.com/track/0iflJ9xdeYbwgDwzx6PqUW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Acalma a Alma](https://open.spotify.com/album/4LtGjHnhhSqKbPQsD6sXDB) | 2:40 | 2023-01-20 | 2023-02-10 |
-| [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 | 2024-04-18 |  |
+| [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 | 2024-04-18 | 2024-10-25 |
 | [Acredita](https://open.spotify.com/track/0QMxCv5qL8vwMl7bzH01BB) | [Dilson](https://open.spotify.com/artist/23ghAzuoE80qxROFQQ1twm) | [Acredita](https://open.spotify.com/album/3MoOc4Mfh0lQFEeaoQMwxr) | 3:04 | 2023-11-10 | 2023-11-18 |
 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 | 2022-12-02 | 2022-12-13 |
 | [After Hours](https://open.spotify.com/track/4orKcwZBZMdGXrNxilo8Jt) | [TAY](https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp) | [After Hours](https://open.spotify.com/album/0pn34Jy1gpmSxndfxRgk2W) | 3:10 | 2023-07-20 | 2023-08-04 |
@@ -40,7 +40,7 @@
 | [AHORA](https://open.spotify.com/track/5o7ZLRlTl9LuUzQvzDFJLU) | [La Dianna](https://open.spotify.com/artist/3Kh3D2QUAQUreGlBnyF7UD), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [AHORA](https://open.spotify.com/album/3rslRwi4PXo3aamFuHgaa2) | 3:08 | 2023-03-30 | 2023-04-21 |
 | [Alaska \(feat\. Lil Noon\)](https://open.spotify.com/track/1ipbuOPR6zoE5KS4r7OI1B) | [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [Alaska \(feat\. Lil Noon\)](https://open.spotify.com/album/5yFe19c0ujPY5LbRS86qEW) | 2:16 | 2022-11-18 | 2022-12-24 |
 | [Aleluia](https://open.spotify.com/track/6uCHzPdg4soaXghzZcmloN) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Aleluia](https://open.spotify.com/album/6kXdYalPHFucKRbnK0KzTD) | 3:31 | 2023-04-20 | 2023-05-26 |
-| [Alma do Negócio](https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D) | [Alma do Negócio](https://open.spotify.com/album/4svZmg7skhs6TKJb18e0Tv) | 2:40 | 2024-07-25 |  |
+| [Alma do Negócio](https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D) | [Alma do Negócio](https://open.spotify.com/album/4svZmg7skhs6TKJb18e0Tv) | 2:40 | 2024-07-25 | 2024-10-25 |
 | [Alter Ego](https://open.spotify.com/track/1bxBGvKAVZ3VM0MZvCaMiL) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Alter Ego](https://open.spotify.com/album/3ljjAqXl7v44JEnRpYjhMY) | 2:21 | 2023-07-27 | 2023-08-18 |
 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 | 2023-07-27 |  |
 | [Amar De Novo](https://open.spotify.com/track/2sDhRWH2VrOYdYwmmUciAo) | [Jay Arghh](https://open.spotify.com/artist/7o2higvi9ddnRkkeexfCw5), [Nelson Nhachungue](https://open.spotify.com/artist/3vDKB1JXTy4KJteAUoh4yZ) | [Amar De Novo](https://open.spotify.com/album/0aIYlO8e2HHdye8mHIBLMA) | 3:04 | 2023-04-20 | 2023-05-12 |
@@ -344,6 +344,7 @@
 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 | 2022-11-11 | 2024-02-09 |
 | [MAIS ALTO](https://open.spotify.com/track/5BGlwfNhojchI4UT19QYoZ) | [CHLOE](https://open.spotify.com/artist/2sohJUFgwhJEjrbm4QzSfW), [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1) | [BAGAGEM](https://open.spotify.com/album/2XPfsQ1uOAIOMVSmAOwVnz) | 3:38 | 2023-04-13 | 2023-05-12 |
 | [Mais ninguém](https://open.spotify.com/track/44DxgrWuzS8uEwY2AYiOuI) | [Mr\. Soulja](https://open.spotify.com/artist/49YlHm1LIWvjkppEdv3UOQ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Mais ninguém](https://open.spotify.com/album/4b0J2g25IZhyz3IXmn7gFy) | 2:59 | 2023-06-29 | 2023-07-07 |
+| [Mais Que Ouro](https://open.spotify.com/track/5nYqioolhxHIsfIEoCPs3E) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Mais Que Ouro](https://open.spotify.com/album/2k5Ldk223sveMZ4I6TzuSK) | 2:08 | 2024-10-24 |  |
 | [Mais Um](https://open.spotify.com/track/0xTGck7kcQuE5FKaV76Ge3) | [Maison Vërt](https://open.spotify.com/artist/3Cy9Lx1rIFy8alkXjVLq9S), [Birou](https://open.spotify.com/artist/6MZjeFl9psA2ncl3ennNbx), [Frank Lucas](https://open.spotify.com/artist/6tpjAPaF1K2nDrixml8l0R) | [Mais Um](https://open.spotify.com/album/18Lz9SXvBWL9KpFxg1PRUx) | 2:36 | 2023-11-10 | 2024-01-19 |
 | [Mais Uma Vez](https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK) | [B.E.R.A](https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk) | [Mais Uma Vez](https://open.spotify.com/album/2Cy2WpJjRQ4ZMxqEcK4srx) | 3:57 | 2023-02-10 | 2023-02-24 |
 | [mal\-me\-quer](https://open.spotify.com/track/6r1oBhMARlpEotia4lbhqo) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i) | [mal\-me\-quer](https://open.spotify.com/album/3ByBw1099rBcfs0QPqE1M8) | 1:47 | 2023-01-06 | 2023-01-21 |

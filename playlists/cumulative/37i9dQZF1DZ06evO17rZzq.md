@@ -4,7 +4,7 @@
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 18 min
+88 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Espardell \- Original Mix](https://open.spotify.com/track/7k52apZFJbnF1RFjBMp8Rs) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Casa Ibiza Renovacion](https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M) | 9:40 | 2023-12-13 | 2024-06-16 |
 | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/track/3kFRPjcHAlQrfHytP6kR61) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Femme Fatale \(feat\. Coi Leray & Kaliii\)](https://open.spotify.com/album/2S0pVYtrczvAfcw8d8BHUc) | 3:10 | 2024-04-06 |  |
 | [Fiesta Del Sol \- Original Mix](https://open.spotify.com/track/3BH3Mh4ataTqgjAUdX6CzF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Fiesta Del Sol Y Luna](https://open.spotify.com/album/3pO9Vo4kW2UbCxA8Gok9AR) | 5:00 | 2024-06-15 | 2024-06-16 |
-| [Flush Em](https://open.spotify.com/track/53hdiPtasasa17cyJFDvyw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Flush Em](https://open.spotify.com/album/3BiLSwYY5MYLOhpyzOWPqY) | 3:16 | 2024-09-21 |  |
+| [Flush Em](https://open.spotify.com/track/3p7YpF8O3osTzx6i5ZxEI3) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Throwing Bows](https://open.spotify.com/album/4eK0tskh6kKkNny0wRrqg3) | 3:16 | 2024-10-25 |  |
+| [Flush Em](https://open.spotify.com/track/53hdiPtasasa17cyJFDvyw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Flush Em](https://open.spotify.com/album/3BiLSwYY5MYLOhpyzOWPqY) | 3:16 | 2024-09-21 | 2024-10-25 |
 | [Formentera \- Original Mix](https://open.spotify.com/track/1afeg0sP5XBOXAWKWbFXkQ) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Casa Ibiza Renovacion](https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M) | 9:04 | 2023-12-29 | 2024-05-13 |
 | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/track/68RKVxLFkC3jqS43GUWtCy) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Gas You Up \(feat\. Hunxho\)](https://open.spotify.com/album/2Eqz4StSB2s5FUa0jemV1h) | 2:51 | 2024-06-17 |  |
 | [Gelatin Coated \- Original Mix](https://open.spotify.com/track/2UyDM4ZkCAThoYz6Uxz1yW) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Groovy Psychedelic Downtempo & Chill out V7](https://open.spotify.com/album/3sw4MuCG3Uc2NYQBYZEn7q) | 9:26 | 2024-03-19 | 2024-03-22 |

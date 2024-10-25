@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-154 songs - 10 hr 24 min
+155 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Podcast](https://open.spotify.com/track/7uCA0lY4vsR98wcAwATSCO) | [mamakiss](https://open.spotify.com/artist/5itRWli5gwKtm3WHcxeSGJ) | [Brunch Time](https://open.spotify.com/album/2ZOl7gmy5ShGP0yLESQu6Q) | 3:47 | 2022-05-26 | 2024-04-19 |
 | [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 | 2024-05-16 |  |
 | [Pupus Harapan](https://open.spotify.com/track/1ABvISIP8cNOF3T8krbYC7) | [Groovebox Story](https://open.spotify.com/artist/4bHOW2FNQ5JAEWBAQoVQB5) | [Pop diKota \(SRM 10th Anniversary\)](https://open.spotify.com/album/200pEAgk87ajUpHGty4MDJ) | 3:38 | 2022-05-26 |  |
+| [Pura Pura Bahagia \- Japanese Version](https://open.spotify.com/track/76r78vQ7H7SQkrNpRAL6ma) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Morning in Osaka](https://open.spotify.com/album/54ms2CNMhAc2Ssio38mxOC) | 3:42 | 2024-10-24 |  |
 | [rehabilitasi.](https://open.spotify.com/track/6vhnz5MiMTbk42oUoYnCh7) | [Aftertones](https://open.spotify.com/artist/48ltWo8j0jJsy7Ly2XDgqc) | [Softboi](https://open.spotify.com/album/4d7cclZUEfdz0fHFPg0GRG) | 4:28 | 2022-05-26 |  |
 | [RIDE ON TIME](https://open.spotify.com/track/7a6Gj71tooMRmxcZwdGNnh) | [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r), [evening cinema](https://open.spotify.com/artist/6NQ3DibpWMigY2cXJr9KYv) | [RIDE ON TIME](https://open.spotify.com/album/5nS4tUBMNOf9ZX8bd5bgbl) | 4:35 | 2022-05-26 |  |
 | [Romansa Kekasih](https://open.spotify.com/track/7cY6bGhvPzsqq1yQmmylSy) | [Putra Timur](https://open.spotify.com/artist/1sqVvE1GPRtHy8LGhQh4Hu) | [Romansa Kekasih](https://open.spotify.com/album/7HgY2o91u6FNAXpGKmBFgm) | 4:23 | 2023-07-06 |  |
@@ -152,7 +153,7 @@
 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 | 2024-01-06 |  |
 | [โรคแอบชอบ](https://open.spotify.com/track/77yWW5kFvEnOknfGeKSl6I) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [Super Serious](https://open.spotify.com/album/4QCpZmpuRq2ulKKBeHxNfa) | 4:01 | 2022-05-26 | 2024-04-19 |
 | [โรคแอบชอบ \(Love Fever\)](https://open.spotify.com/track/5iDMOWPzjW8ZgSY5cjqdmM) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [โรคแอบชอบ \(Love Fever\)](https://open.spotify.com/album/3zOMdMTh1BYNMigeo4eQP0) | 4:01 | 2022-05-26 |  |
-| [ใจเกเร](https://open.spotify.com/track/3oYQXrsOO8I2V7lnrhVQz1) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [เรือนแพ ชุดที่ 6](https://open.spotify.com/album/2I9sAfirDryTyaWzd5iSgy) | 3:48 | 2024-01-06 |  |
+| [ใจเกเร](https://open.spotify.com/track/3oYQXrsOO8I2V7lnrhVQz1) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [เรือนแพ ชุดที่ 6](https://open.spotify.com/album/2I9sAfirDryTyaWzd5iSgy) | 3:48 | 2024-01-06 | 2024-10-25 |
 | [七夕の夜、君に逢いたい](https://open.spotify.com/track/6I250T7L2iSmpdB41Q1BIo) | [Five Ⅱ Four](https://open.spotify.com/artist/5zFs0F6FatcZAYPlTDitgT), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [七夕の夜、君に逢いたい](https://open.spotify.com/album/6pTHVdpiYlq1KM67Z6eEXP) | 4:52 | 2024-01-06 | 2024-09-28 |
 | [不標準情人](https://open.spotify.com/track/5TlQjk6LfvsGbnNOR555va) | [Freckle](https://open.spotify.com/artist/0LWVgqTRkGQkN6Txprc6LF), [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [不標準情人](https://open.spotify.com/album/5ue5bCo48QRPUOi7y8Egj1) | 4:35 | 2022-05-26 |  |
 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/1BhjeUl8YkY20lfmpmwfAj) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久 20](https://open.spotify.com/album/0vKhnsFBuItT2ufOlX9RAi) | 4:05 | 2022-05-26 | 2024-04-19 |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-08-11",
-  "description": "This is Maaya Sakamoto. The essential tracks, all in one playlist.",
-  "name": "This Is Maaya Sakamoto",
+  "description": "This is \u5742\u672c\u771f\u7dbe. The essential tracks, all in one playlist.",
+  "name": "This Is \u5742\u672c\u771f\u7dbe",
   "tracks": [
     {
       "album": {
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 283997,
       "name": "\u30b9\u30af\u30e9\u30c3\u30d5\u309a~\u5225\u308c\u306e\u8a69",
       "url": "https://open.spotify.com/track/1emTsOgvferh5g2qRoxQmN"
@@ -1580,6 +1580,24 @@
       "duration_ms": 321524,
       "name": "\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/2QAMaoGBY8nmoAhNRuDvNn"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30c4\u30d0\u30b5\u30fb\u30af\u30ed\u30cb\u30af\u30eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Future Soundscape I",
+        "url": "https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94300,
+      "name": "\u30eb\u30fc\u30d7\uff08TV\u30b5\u30a4\u30ba\uff09",
+      "url": "https://open.spotify.com/track/75DeafwYz6hIhKIGR56Ic8"
     },
     {
       "album": {

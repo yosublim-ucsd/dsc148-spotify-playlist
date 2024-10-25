@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "Escolha Certa",
+        "url": "https://open.spotify.com/album/6L6UkrRofzCpptkrx3FO5n"
+      },
+      "artists": [
+        {
+          "name": "Explode Nova Era",
+          "url": "https://open.spotify.com/artist/3FfFShdeE7YqrfMH2Cls2H"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Escolha Certa",
+      "url": "https://open.spotify.com/track/1Wu9G4qXDoxFwgbEzYoMmw"
+    },
+    {
+      "album": {
         "name": "Faixa Rosa (feat. Mc Carol)",
         "url": "https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz"
       },
@@ -934,7 +956,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 122317,
       "name": "Inten\u00e7\u00e3o do Vapo Vapo",
       "url": "https://open.spotify.com/track/6I9j9YXfkomRrD4rzcwqko"
@@ -1094,7 +1116,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 163636,
       "name": "Me Olha e Me Respeita",
       "url": "https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4"

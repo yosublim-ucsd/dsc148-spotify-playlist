@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Feliciana",
+  "description": "Il meglio dell'R&B italiano. Cover: YOF",
   "name": "anima R&B",
   "tracks": [
     {
@@ -2777,6 +2777,28 @@
     },
     {
       "album": {
+        "name": "Dazzled Prince",
+        "url": "https://open.spotify.com/album/7IUOY2xHSaUQj51XbtO4UK"
+      },
+      "artists": [
+        {
+          "name": "Puka Shell's Bling",
+          "url": "https://open.spotify.com/artist/1asNZP2giwLI7reZVQUCSu"
+        },
+        {
+          "name": "Caio's Hub",
+          "url": "https://open.spotify.com/artist/1uEw0nvBRqjakUzj77qH0n"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281578,
+      "name": "Dazzled Prince",
+      "url": "https://open.spotify.com/track/27T3eU2RWpAWu0SdR8jbTz"
+    },
+    {
+      "album": {
         "name": "Decidere non so",
         "url": "https://open.spotify.com/album/7H8VWlGlfTpcjtwh4jF7HE"
       },
@@ -4326,7 +4348,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 177723,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/1UvidmTdCoLM1gUB4INwWs"
@@ -5162,7 +5184,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 161926,
       "name": "invidiosa",
       "url": "https://open.spotify.com/track/6cygIx1k0KcUjGlJXY65Ra"
@@ -6953,6 +6975,24 @@
     },
     {
       "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/6iEciEURpyky6O3yswFcRC"
+      },
+      "artists": [
+        {
+          "name": "YOF",
+          "url": "https://open.spotify.com/artist/0usaEYYH1Wqj1aIGNvuCc4"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225619,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/6Ls80JLIa598r1HcZmLsP0"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/6FyyqpFQV4ozDqKwzgT3cI"
       },
@@ -7120,7 +7160,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 165904,
       "name": "mozzicone",
       "url": "https://open.spotify.com/track/1sfRtz5iKbpzOxAWluRhLW"
@@ -7421,6 +7461,28 @@
     },
     {
       "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/0K1BwtPMtI7Ohv8VLcqzt4"
+      },
+      "artists": [
+        {
+          "name": "Martino",
+          "url": "https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/7hBHGaopLsZAcZ36wJpL1t"
+    },
+    {
+      "album": {
         "name": "Giorni che esplodono",
         "url": "https://open.spotify.com/album/1EL0DnhlJFQudSGdAwsHEl"
       },
@@ -7636,7 +7698,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 148039,
       "name": "non ce la faccio pi\u00f9",
       "url": "https://open.spotify.com/track/156ef7hqu2bt0yxsIPZI6h"
@@ -8202,7 +8264,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 273956,
       "name": "O.G.",
       "url": "https://open.spotify.com/track/3ohHzYLKYRmvOIEq5QngJJ"
@@ -9658,7 +9720,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 211165,
       "name": "Rom'antica",
       "url": "https://open.spotify.com/track/2MUDmWgfJtAma6br0HOqnG"
@@ -10268,6 +10330,24 @@
       "duration_ms": 202800,
       "name": "Sei Diventata",
       "url": "https://open.spotify.com/track/2tGfmcXRFhHnTM1rgDodWF"
+    },
+    {
+      "album": {
+        "name": "Self Care",
+        "url": "https://open.spotify.com/album/4S5XKP7TGVOPAgWjkZDyT1"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236614,
+      "name": "Self Care",
+      "url": "https://open.spotify.com/track/2bbhOJTCVkmYh010FsUqQV"
     },
     {
       "album": {
@@ -10886,7 +10966,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 189432,
       "name": "sotto le luci della citt\u00e0",
       "url": "https://open.spotify.com/track/1iZjzatPanC3xcqiljUF47"
@@ -12240,7 +12320,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 232941,
       "name": "Un altro Caff\u00e8",
       "url": "https://open.spotify.com/track/2Y1UU3K1Hi34Vw9QBZjhxv"
@@ -12414,7 +12494,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 193411,
       "name": "UOCCHIE",
       "url": "https://open.spotify.com/track/7JVApJWNWo6sihWeWLv5Kr"

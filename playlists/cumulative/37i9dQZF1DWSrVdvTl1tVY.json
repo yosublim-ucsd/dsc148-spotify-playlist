@@ -702,7 +702,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 211653,
       "name": "And 1",
       "url": "https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn"
@@ -8725,6 +8725,28 @@
     },
     {
       "album": {
+        "name": "La Santa",
+        "url": "https://open.spotify.com/album/5RWwj0Z3WDYmBSvVacIjQA"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Onemenor02",
+          "url": "https://open.spotify.com/artist/4MTZ8fohTxtA66OPDZHoFj"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149769,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/1JWCzNYRYMbt8m39RVc0Wd"
+    },
+    {
+      "album": {
         "name": "La Trumpeta",
         "url": "https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd"
       },
@@ -12288,7 +12310,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 200314,
       "name": "Pelota",
       "url": "https://open.spotify.com/track/6e1n2hJalQwUKjwosm5iwZ"
@@ -15056,6 +15078,28 @@
       "duration_ms": 149291,
       "name": "Still In Love",
       "url": "https://open.spotify.com/track/6pqWRtYrwcsjNG3OaoPhWj"
+    },
+    {
+      "album": {
+        "name": "Still My Baby",
+        "url": "https://open.spotify.com/album/6EVF8CNSpbv235ZGEh2NRn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191233,
+      "name": "Still My Baby",
+      "url": "https://open.spotify.com/track/5B5onCeur5UE2jbTCCkUiK"
     },
     {
       "album": {

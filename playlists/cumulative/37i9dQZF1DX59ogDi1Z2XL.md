@@ -4,7 +4,7 @@
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake 🦉
 
-1,667 songs - 3 day 5 hr 16 min
+1,667 songs - 3 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,7 @@
 | [FEEL SOME](https://open.spotify.com/track/7zNOuK59mxVV4bpw5whTgc) | [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY), [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [3050 DEGREEZ: Condamné à l'Excellence](https://open.spotify.com/album/1N2S2joB3PmUVI6FmY04sz) | 2:30 | 2022-11-25 | 2022-12-24 |
 | [Femoral](https://open.spotify.com/track/7D5f0B3P0rx1ZlH8LnCVi2) | [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF), [Finn](https://open.spotify.com/artist/0kUXMuI3MV2N8vIfk8hLfb) | [Femoral](https://open.spotify.com/album/2cB0gsf0T4Vn6BNMvU507L) | 3:12 | 2024-09-06 | 2024-09-21 |
 | [Fenty](https://open.spotify.com/track/2jhrlYw2rUsrCtBuIa9Zc5) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fenty](https://open.spotify.com/album/7EsSmzg4lNubNUIzEjsV4v) | 2:58 | 2022-10-21 | 2023-03-25 |
-| [Ferris Wheel](https://open.spotify.com/track/3SoilStUg8K4yg7n3cAqu1) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Ferris Wheel](https://open.spotify.com/album/4uCwFNtQ358UqDAo1Bw0ax) | 2:40 | 2024-10-18 |  |
+| [Ferris Wheel](https://open.spotify.com/track/3SoilStUg8K4yg7n3cAqu1) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Ferris Wheel](https://open.spotify.com/album/4uCwFNtQ358UqDAo1Bw0ax) | 2:25 | 2024-10-18 |  |
 | [Fifty Bop](https://open.spotify.com/track/3c84kdRlOHHe6xFv1XEJsO) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC) | [The Eternal Now](https://open.spotify.com/album/6nFkw5CEZ1aCwCKO7m2Dqh) | 2:32 | 2024-07-26 | 2024-09-21 |
 | [Fight or Flight \(Playtime's Over\)](https://open.spotify.com/track/0gwPIeDyqsM2nXVQOJeBv2) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Fight or Flight \(Playtime's Over\)](https://open.spotify.com/album/2Tzsn9PvVjWnSB7583IXut) | 2:29 | 2024-02-23 | 2024-06-22 |
 | [Figure of Speech](https://open.spotify.com/track/2NSq58JxsJE1k7h6BVeDDQ) | [Freddy Printz](https://open.spotify.com/artist/15L89B5Jg0z67nBZZxDH36) | [The Candidate](https://open.spotify.com/album/6b2SU7BJlvf0bAZyb7e9bw) | 2:14 | 2022-06-03 | 2022-08-20 |

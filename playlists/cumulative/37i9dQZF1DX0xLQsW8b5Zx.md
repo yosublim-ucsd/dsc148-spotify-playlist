@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-210 songs - 9 hr 17 min
+211 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Rock'n'Roll](https://open.spotify.com/track/1aOsvbDBO3yzjQtnahkGG6) | [PatC Miller And The Tailshakers](https://open.spotify.com/artist/0xKxb8ktWxhoAiEGBNJ7CG) | [Come On Roll](https://open.spotify.com/album/4IbYvsIRqmfWO5XxMEkvlJ) | 2:51 | 2022-07-05 | 2022-07-10 |
 | [Rock\-a\-Cha](https://open.spotify.com/track/33G6G0xbQmKm9uQuBTW6sK) | [Jack Rabbit Slim](https://open.spotify.com/artist/3nDZWi1wEZpaiEEa9jFLwI) | [From the Waist Down](https://open.spotify.com/album/6PpVaRCUlMLnO5Evrp3rxj) | 2:01 | 2022-05-06 |  |
 | [Rockabilly Banjo](https://open.spotify.com/track/0WmZudZaLf7WYOMFD2GGZk) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Gotta Have The Rumble](https://open.spotify.com/album/642jWZ7p8JKY7s5biYPK5o) | 3:13 | 2022-05-06 | 2022-07-28 |
-| [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 | 2022-05-06 |  |
+| [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 | 2022-05-06 | 2024-10-25 |
 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 | 2022-09-02 |  |
 | [Rockabilly Music](https://open.spotify.com/track/19BdP6aAgXHPLIciPpp2se) | [Ray Campi](https://open.spotify.com/artist/1dCuGaCG60TlWCLjFJ69N3) | [Hollywood Cats](https://open.spotify.com/album/4p0KnYi1AI7t7VnK3nPptK) | 1:56 | 2022-05-06 | 2022-07-25 |
 | [Rockabilly Music](https://open.spotify.com/track/4xYBy6RwEKICh1uOF4btL1) | [Ray Campi](https://open.spotify.com/artist/1dCuGaCG60TlWCLjFJ69N3) | [The Hollywood Cats](https://open.spotify.com/album/1VdfOWvihZbRkJGy34NXkk) | 1:56 | 2022-09-02 | 2022-11-13 |
@@ -197,6 +197,7 @@
 | [That'll Be The Day](https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:30 | 2022-07-05 | 2024-04-19 |
 | [That'll Be The Day](https://open.spotify.com/track/69F1iyhE7ef4iRCaeCzjeT) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:15 | 2022-09-02 | 2022-11-14 |
 | [That'll Be The Day](https://open.spotify.com/track/5Y9RqvAKUyLfEPWCjAqjsO) | [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Cruising Klassiker](https://open.spotify.com/album/53WS8rHtBrU1UI24xK9Uzp) | 2:16 | 2022-05-06 | 2022-07-29 |
+| [The Fool](https://open.spotify.com/track/4DGWTmh53h5Qm68FboVSMF) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Rockabilly Classics](https://open.spotify.com/album/57iN9SJYBZ7CkbVYATSDLG) | 2:46 | 2024-10-23 |  |
 | [The Fool](https://open.spotify.com/track/0JcE8h38d6tTuse4IkPLXn) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Presenting Sandford Clark](https://open.spotify.com/album/5QCtTTUmVu4BaPOlupFecs) | 2:47 | 2023-07-07 | 2023-09-18 |
 | [Tiger Twist \- 2007 Remaster](https://open.spotify.com/track/0WZiGJT2NawjIySdHLzhMx) | [Teddy & The Tigers](https://open.spotify.com/artist/1vKtKEWbJ3NcT14A49sBbb) | [Burn It Up](https://open.spotify.com/album/7mqE83mgUVFGH58PShzMBg) | 2:05 | 2022-05-06 | 2023-02-04 |
 | [Tutti Frutti](https://open.spotify.com/track/0JLR1Y2HdwzNrt3UTqujwg) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [The Very Best Of Little Richard](https://open.spotify.com/album/3LXNSUpx48PQxUn2StRqfu) | 2:24 | 2022-05-06 | 2022-07-29 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxWZgAAAAAAETlGKuA5IFK/ZahwtQtkD",
+  "snapshot_id": "Zxg8gAAAAAAKu6494RlzkU65qYuw1OoW",
   "tracks": [
     {
       "added_at": null,
@@ -18,6 +18,10 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 163386,
@@ -106,6 +110,10 @@
         {
           "name": "Louise Bush",
           "url": "https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 210320,
@@ -194,6 +202,10 @@
         {
           "name": "Matthew Ineleo",
           "url": "https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 72626,
@@ -282,6 +294,10 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 162826,

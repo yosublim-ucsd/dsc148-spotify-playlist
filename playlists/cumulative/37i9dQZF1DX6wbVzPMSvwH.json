@@ -819,6 +819,32 @@
     },
     {
       "album": {
+        "name": "Djakarta",
+        "url": "https://open.spotify.com/album/0M8VdQEeFGKbuJ1LutcvmX"
+      },
+      "artists": [
+        {
+          "name": "Laleilmanino",
+          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
+        },
+        {
+          "name": "Diskoria",
+          "url": "https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG"
+        },
+        {
+          "name": "C\u00e9cil Yang",
+          "url": "https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236149,
+      "name": "Djakarta",
+      "url": "https://open.spotify.com/track/4rfdBCU8fRgmtwpuR0rCOQ"
+    },
+    {
+      "album": {
         "name": "Menari Dengan Bayangan",
         "url": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
       },

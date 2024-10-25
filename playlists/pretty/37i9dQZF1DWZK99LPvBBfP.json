@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 291763,
+  "num_followers": 291883,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Higher Than the Sun - Higher Than the Orb Mix",
+      "url": "https://open.spotify.com/track/23UR03W03HWH1HFcF4rz9Z"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Leave The World Behind",
         "url": "https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 410493,
       "name": "Leave The World Behind",
       "url": "https://open.spotify.com/track/73jg7bVVMpht7GF1QYVkl5"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Higher Than the Sun - Higher Than the Orb Mix",
-      "url": "https://open.spotify.com/track/23UR03W03HWH1HFcF4rz9Z"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Acqua E Viento",
+        "url": "https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g"
+      },
+      "artists": [
+        {
+          "name": "Tullio De Piscopo",
+          "url": "https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Stop Bajon - Club Mix",
+      "url": "https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Watch The Sunrise",
         "url": "https://open.spotify.com/album/1Md7ZeYEBe2lkEnxMxFpeZ"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 372493,
       "name": "Watch The Sunrise - Extended Vocal",
       "url": "https://open.spotify.com/track/0gkPk0ZveKo3407ahJtsgB"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Acqua E Viento",
-        "url": "https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g"
-      },
-      "artists": [
-        {
-          "name": "Tullio De Piscopo",
-          "url": "https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk"
-        }
-      ],
-      "duration_ms": 434000,
-      "name": "Stop Bajon - Club Mix",
-      "url": "https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B"
     },
     {
       "added_at": "2024-03-22 15:59:52",

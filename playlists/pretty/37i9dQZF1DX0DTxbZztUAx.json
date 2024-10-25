@@ -1,390 +1,562 @@
 {
-  "description": "Find love. Find success. Find yourself. Listen to the music from and inspired by The Perfect Find, now streaming on Netflix. ",
-  "num_followers": 5572,
-  "original_name": "The Perfect Find Official Playlist",
+  "description": "Survival takes everything. Listen to the music from Beauty in Black, now streaming on Netflix. ",
+  "num_followers": 5594,
+  "original_name": "Tyler Perry's Beauty in Black Official Playlist ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkKRLwAAAAChW/o/P88fOQIFw9Jf8+oS",
+  "snapshot_id": "ZxqStQAAAACBDJ46DvKNBJREsl9mshcA",
   "tracks": [
     {
-      "added_at": "2023-06-23 07:00:00",
+      "added_at": "2024-10-24 07:00:00",
       "album": {
-        "name": "Louis and Friends",
-        "url": "https://open.spotify.com/album/3kEj79dO3HIi8MBPmCO0cx"
+        "name": "Buckzz Flow",
+        "url": "https://open.spotify.com/album/2f16689m1hfRWRnsMQ2Pcb"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "duration_ms": 153287,
+      "name": "Buckzz Flow",
+      "url": "https://open.spotify.com/track/3Vwx8Tghqn1HrsBPEKrr7j"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Made, Vol. 6 - How It Is",
+        "url": "https://open.spotify.com/album/5ywzbYgLfCUZbg1A5GgUQz"
+      },
+      "artists": [
+        {
+          "name": "Hunnit",
+          "url": "https://open.spotify.com/artist/1cRYeRzp53EbYDxqbtgirQ"
+        }
+      ],
+      "duration_ms": 101429,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/3JTO4KYBMY9MYfXhUWXoUw"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Finally Rich",
+        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
         },
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Lil Reese",
+          "url": "https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS"
+        }
+      ],
+      "duration_ms": 293840,
+      "name": "I Don't Like",
+      "url": "https://open.spotify.com/track/1h6kgem1ai8vUgO1rZOwfB"
+    },
+    {
+      "added_at": "2024-10-24 18:32:21",
+      "album": {
+        "name": "Tyler Perry's Beauty in Black: Part 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2"
+      },
+      "artists": [
+        {
+          "name": "WOW JONES & JIMIJAME$",
+          "url": "https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN"
+        }
+      ],
+      "duration_ms": 86965,
+      "name": "Chords Of Kimmie Pt. 1",
+      "url": "https://open.spotify.com/track/2zXVMJ2tMQc5tEtWzYLlVV"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Big Dawg",
+        "url": "https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY"
+      },
+      "artists": [
+        {
+          "name": "Quise.B",
+          "url": "https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S"
+        }
+      ],
+      "duration_ms": 162697,
+      "name": "Big Dawg",
+      "url": "https://open.spotify.com/track/37aFxQiftFFyxJM0KBSgvz"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Gameshow 2",
+        "url": "https://open.spotify.com/album/3LvzuVOMTPG3UKiHAGhSgV"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Pete Jacques",
+          "url": "https://open.spotify.com/artist/3BIb65BCWhFNe8vxDxn7hH"
+        }
+      ],
+      "duration_ms": 136597,
+      "name": "Winner Party",
+      "url": "https://open.spotify.com/track/1qZ2JOPdIVBb69ed1ggZ4a"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Made, Vol. 3 - Too Much",
+        "url": "https://open.spotify.com/album/2dPTOSSMwGY4pfeJwEGEpF"
+      },
+      "artists": [
+        {
+          "name": "Bebe O'Hare",
+          "url": "https://open.spotify.com/artist/2R91IlKb6uIfHJyeIWheZA"
         },
         {
-          "name": "Sy Oliver & His Orchestra",
-          "url": "https://open.spotify.com/artist/0Y0kqoEdmURT48Od9DA8WC"
+          "name": "Bjay McFly",
+          "url": "https://open.spotify.com/artist/1el33W8TlbzE4SzYxd3tT5"
         }
       ],
-      "duration_ms": 192733,
-      "name": "You Can't Lose A Broken Heart - Single Version",
-      "url": "https://open.spotify.com/track/1WtNOhka87fGmyzJZ7bYGe"
+      "duration_ms": 123093,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/2lkKJ5GepBz5BgXCsW8AH7"
     },
     {
-      "added_at": "2023-06-23 07:00:00",
+      "added_at": "2024-10-24 07:00:00",
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/4xYP2ZFGzopGDOWwJRVHUe"
+        "name": "Tyler Perry's Beauty in Black: Part 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2"
       },
       "artists": [
         {
-          "name": "OKENYO",
-          "url": "https://open.spotify.com/artist/5J4lfhk7TjyGm6d3T0pqyV"
+          "name": "Max Mill",
+          "url": "https://open.spotify.com/artist/7IDjHlFsyvjBRPRDscvL7J"
         }
       ],
-      "duration_ms": 74940,
-      "name": "Act Now",
-      "url": "https://open.spotify.com/track/0W84bd5U779XxiiH0xtjd1"
+      "duration_ms": 170640,
+      "name": "Demon on My Shoulder",
+      "url": "https://open.spotify.com/track/5zugQN3u0hNDfGfgaLXKUl"
     },
     {
-      "added_at": "2023-06-23 07:00:00",
+      "added_at": "2024-10-24 07:00:00",
       "album": {
-        "name": "Good Kisser",
-        "url": "https://open.spotify.com/album/3RqeKO1rshRB82vEMnR1nN"
+        "name": "Lavish",
+        "url": "https://open.spotify.com/album/4ZDhZ6acHrbsQOcFn35Pgu"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Max Mill",
+          "url": "https://open.spotify.com/artist/7IDjHlFsyvjBRPRDscvL7J"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Good Kisser",
-      "url": "https://open.spotify.com/track/3CX3WMBg6lzWk72bYL29vP"
+      "duration_ms": 162000,
+      "name": "Amends",
+      "url": "https://open.spotify.com/track/5lRsEuEmeqOUVoklpjEzqq"
     },
     {
-      "added_at": "2023-06-23 07:00:00",
+      "added_at": "2024-10-24 07:00:00",
       "album": {
-        "name": "Mozart: The Complete Piano Concertos",
-        "url": "https://open.spotify.com/album/2nQrU9bzH5RyBAjzfpGrAb"
+        "name": "The Warned About",
+        "url": "https://open.spotify.com/album/3A5mfMQrgEJpR5QcwrqTSS"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "The Bad Bad Things",
+          "url": "https://open.spotify.com/artist/1GWjLloQcnRn7Dz1fejWn6"
+        }
+      ],
+      "duration_ms": 241266,
+      "name": "There Will Be Blood",
+      "url": "https://open.spotify.com/track/0Be0iIN0m7WFQ6z1dwUsW2"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Do It To 'Em",
+        "url": "https://open.spotify.com/album/76KZTnUXK5qhVEIBETfrsi"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/7MAYnYg1vzBWlernC66UTZ"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Do It To 'Em",
+      "url": "https://open.spotify.com/track/0vvv6GXDyHGsXHZvlVKAhG"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Let That Money Talk",
+        "url": "https://open.spotify.com/album/3TNbtNoKWigq8Yx0XVzGfF"
+      },
+      "artists": [
+        {
+          "name": "Quise.B",
+          "url": "https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "My Drip",
+      "url": "https://open.spotify.com/track/4OJYpUVqcmLg6p9dyGjDDb"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Let That Money Talk",
+        "url": "https://open.spotify.com/album/3TNbtNoKWigq8Yx0XVzGfF"
+      },
+      "artists": [
+        {
+          "name": "Quise.B",
+          "url": "https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S"
+        }
+      ],
+      "duration_ms": 131428,
+      "name": "Let That Money Talk",
+      "url": "https://open.spotify.com/track/4Rr5kLG92HxdBtBJXq8Q81"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Double Dutch",
+        "url": "https://open.spotify.com/album/15cCv0AsrPG2SHmltMdMhO"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/7MAYnYg1vzBWlernC66UTZ"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Super Soaker",
+      "url": "https://open.spotify.com/track/1HUTEPsfVoWw3UbIS7ajD1"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Big Dawg",
+        "url": "https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY"
+      },
+      "artists": [
+        {
+          "name": "Quise.B",
+          "url": "https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S"
+        }
+      ],
+      "duration_ms": 118607,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/6oygSHfl61zwl7FFPsof4P"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Inter Alia",
+        "url": "https://open.spotify.com/album/456ZHuyvmEayTD8xVVJoyA"
+      },
+      "artists": [
+        {
+          "name": "Naomi August",
+          "url": "https://open.spotify.com/artist/0ugau1619EhsPubruVDXAh"
+        }
+      ],
+      "duration_ms": 166197,
+      "name": "If You Love It",
+      "url": "https://open.spotify.com/track/7oFfQisb6SrEAHofz4rJpe"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Do It To 'Em",
+        "url": "https://open.spotify.com/album/76KZTnUXK5qhVEIBETfrsi"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/7MAYnYg1vzBWlernC66UTZ"
+        }
+      ],
+      "duration_ms": 134049,
+      "name": "Buss It",
+      "url": "https://open.spotify.com/track/73b2nyZY6hIOUpUIa4W69g"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Big Dawg",
+        "url": "https://open.spotify.com/album/4uIiMf6WOhs57xm5aIYGlY"
+      },
+      "artists": [
+        {
+          "name": "Quise.B",
+          "url": "https://open.spotify.com/artist/0FGzfbYDbpcsrCQDsrdK8S"
+        }
+      ],
+      "duration_ms": 112437,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1cqTyjGUsdOOkbCCPtWrfE"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Tyler Perry's Beauty in Black: Part 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2"
+      },
+      "artists": [
+        {
+          "name": "WOW JONES & JIMIJAME$",
+          "url": "https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Blood Runs Deep",
+      "url": "https://open.spotify.com/track/4hP6yMHRvp1ysIiEUrWVsG"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Parlay",
+        "url": "https://open.spotify.com/album/6U3Qnk7WQgJ8X3OkGbX7EO"
+      },
+      "artists": [
+        {
+          "name": "Ishmusic",
+          "url": "https://open.spotify.com/artist/4LrLnA9391jvy62Wlybrm4"
         },
         {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+          "name": "Chugg Jamal",
+          "url": "https://open.spotify.com/artist/6c2F5h7B99l6YgzxG46eDz"
+        }
+      ],
+      "duration_ms": 161626,
+      "name": "Parlay",
+      "url": "https://open.spotify.com/track/2BStgy3c1EpQZUVejAShm2"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Love Wins",
+        "url": "https://open.spotify.com/album/1SNPtq3qgNVzaAAA7P8cYx"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Bonagura",
+          "url": "https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "I'm Done",
+      "url": "https://open.spotify.com/track/5OROt6Kq0NgDBk5t3A9ecs"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "So Hood",
+        "url": "https://open.spotify.com/album/2RaHojQNThjljyiUswColj"
+      },
+      "artists": [
+        {
+          "name": "Juwon",
+          "url": "https://open.spotify.com/artist/6MHshInQw0WmiW4iui0j8T"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "So Hood",
+      "url": "https://open.spotify.com/track/0PWXLW5VCA0BqogBhNK5ZA"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Up On Us",
+        "url": "https://open.spotify.com/album/48oT4RYXR1aCWxpvBb04vP"
+      },
+      "artists": [
+        {
+          "name": "Lil Nuu",
+          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
+        }
+      ],
+      "duration_ms": 179349,
+      "name": "Up On Us",
+      "url": "https://open.spotify.com/track/2SPa91MdtTxBJy85uarkli"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Snake Eyes",
+        "url": "https://open.spotify.com/album/4FrZqEBPv8KCSBsgzXdtIc"
+      },
+      "artists": [
+        {
+          "name": "The Regulators",
+          "url": "https://open.spotify.com/artist/2ijIBVKNxaVL42km0cfbJi"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Smilin' with Snake Eyes",
+      "url": "https://open.spotify.com/track/77aZlC6jhti07xv9JVriIm"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Top Back",
+        "url": "https://open.spotify.com/album/05JJH4NecXBnskIuTyl4Se"
+      },
+      "artists": [
+        {
+          "name": "Naomi August",
+          "url": "https://open.spotify.com/artist/0ugau1619EhsPubruVDXAh"
+        }
+      ],
+      "duration_ms": 140491,
+      "name": "Top Back",
+      "url": "https://open.spotify.com/track/2Tv7Ef5fRh8TnGp154zisH"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Flow Widdit",
+        "url": "https://open.spotify.com/album/4wxpZE78d0xO3A7Lcv0jh5"
+      },
+      "artists": [
+        {
+          "name": "Nick Jordan",
+          "url": "https://open.spotify.com/artist/0qhVlsnPIrOB8QYW3Clz07"
+        }
+      ],
+      "duration_ms": 134545,
+      "name": "Flow Widdit",
+      "url": "https://open.spotify.com/track/2syDFZtUeMvSOLqy7oSt9A"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Famous No Where",
+        "url": "https://open.spotify.com/album/3tJudQKnMacPG0oDEiIQmN"
+      },
+      "artists": [
+        {
+          "name": "Hunnit",
+          "url": "https://open.spotify.com/artist/1cRYeRzp53EbYDxqbtgirQ"
         },
         {
-          "name": "Murray Perahia",
-          "url": "https://open.spotify.com/artist/4EEQIAJoeN1V30MqFFtXxB"
+          "name": "Mucho",
+          "url": "https://open.spotify.com/artist/3YfNMbc4wYmEWug01GZGET"
         }
       ],
-      "duration_ms": 418866,
-      "name": "Piano Concerto No. 21 in C Major, K. 467 \"Elvira Madigan\": II. Andante",
-      "url": "https://open.spotify.com/track/4UoTkpYwG0GfMiZ6VaUtrz"
+      "duration_ms": 203904,
+      "name": "Hella Bandz",
+      "url": "https://open.spotify.com/track/5wczjID12AjJdvFCGfkQV3"
     },
     {
-      "added_at": "2023-06-23 07:00:00",
+      "added_at": "2024-10-24 07:00:00",
       "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/6sWz3hjGjLYCtcnPPuRe9i"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "duration_ms": 141888,
+      "name": "Fabric",
+      "url": "https://open.spotify.com/track/4lBHRYH1xFGPqZVkrl26df"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Do It To 'Em",
+        "url": "https://open.spotify.com/album/76KZTnUXK5qhVEIBETfrsi"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/7MAYnYg1vzBWlernC66UTZ"
+        }
+      ],
+      "duration_ms": 163525,
+      "name": "Freak Love",
+      "url": "https://open.spotify.com/track/1nAV87cdjTkBhBDociyAPp"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Poppin",
+        "url": "https://open.spotify.com/album/3qpKCrcgeQMNliCtSH9Oae"
+      },
+      "artists": [
+        {
+          "name": "Jo Stunnah",
+          "url": "https://open.spotify.com/artist/3YYw4TNcibgOzRx0XWfIXi"
+        }
+      ],
+      "duration_ms": 133162,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/1roj4a6clyNV7vSn3vkPXr"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Brand New Reason",
+        "url": "https://open.spotify.com/album/1liXMXQmbQQnB8xXBHqdv0"
+      },
+      "artists": [
+        {
+          "name": "The Salty Dogs",
+          "url": "https://open.spotify.com/artist/6Jkj2rAfvW5x563aQR1PqW"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Another Day In A Small Town",
+      "url": "https://open.spotify.com/track/3B1zj88YhiYFSLGf0Kty2A"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "DIRTY",
+        "url": "https://open.spotify.com/album/5tPCTpO4A0Rce05xijhIJT"
+      },
+      "artists": [
+        {
+          "name": "TANGELA",
+          "url": "https://open.spotify.com/artist/0tDUYf6Kgwje2xTRlJZMwU"
+        }
+      ],
+      "duration_ms": 159838,
+      "name": "DIRTY",
+      "url": "https://open.spotify.com/track/3MyJ8iwiZOEqhBneh6NBAm"
+    },
+    {
+      "added_at": "2024-10-24 07:00:00",
+      "album": {
+        "name": "Tyler Perry's Beauty in Black: Part 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1n2blKH2CmVB2uGaLuRtN2"
+      },
+      "artists": [
+        {
+          "name": "WOW JONES & JIMIJAME$",
+          "url": "https://open.spotify.com/artist/6l9oqZw8rtykuMYxNyLDjN"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+          "name": "Lambert 'Stereo' Waldrip",
+          "url": "https://open.spotify.com/artist/7fYRvGjEjpBZSvLcQACP1Q"
         }
       ],
-      "duration_ms": 242096,
-      "name": "Leave The Door Open",
-      "url": "https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/3h7LsoHuTDBCrgcz96xkKx"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 143976,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/3YBDlGnQOIRfZLGU29zFj9"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Darling, Je Vous Aime Beaucoup - Remastered",
-      "url": "https://open.spotify.com/track/2nkXPjW9QGeEEhvC0HL0yp"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "The 1944 Swing Band",
-        "url": "https://open.spotify.com/album/2gI8WiIGLUxa7g2IfrIUDo"
-      },
-      "artists": [
-        {
-          "name": "Jan Garber & His Orchestra",
-          "url": "https://open.spotify.com/artist/4WCPNU0JzpQFYXkrkStKKT"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Apache Dance",
-      "url": "https://open.spotify.com/track/6IEUhOTIpAnGmqldhramLn"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "Ronald Dregan",
-        "url": "https://open.spotify.com/album/3w9W3fAOdt8eDPD748VsqV"
-      },
-      "artists": [
-        {
-          "name": "Mac Dre",
-          "url": "https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Feelin' Myself",
-      "url": "https://open.spotify.com/track/4pOwXHMGYZbsXQMhYnetHG"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "Back To Back",
-        "url": "https://open.spotify.com/album/1J0KuFjzTYeVLLV5Jqtan9"
-      },
-      "artists": [
-        {
-          "name": "The Jets",
-          "url": "https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "You Got It All",
-      "url": "https://open.spotify.com/track/23x0iKY1oRBQVM8ka2s2bF"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 124960,
-      "name": "Thou Swell",
-      "url": "https://open.spotify.com/track/4zDRKxcJ4jkJAPSY7SzpcY"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
-      },
-      "artists": [
-        {
-          "name": "Sweet Sable",
-          "url": "https://open.spotify.com/artist/6QYdqWktIVMdOnG9mYo5Zm"
-        }
-      ],
-      "duration_ms": 259173,
-      "name": "Old Time's Sake",
-      "url": "https://open.spotify.com/track/2uBjAVHNUlUYJUdnpyJ53a"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Chain of Fools",
-      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "Time (is)",
-      "url": "https://open.spotify.com/track/6l82XaHZyodfRvNo85Pdqr"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "Hook It Up",
-        "url": "https://open.spotify.com/album/2aeguMTdaeFMqMYfHwfREz"
-      },
-      "artists": [
-        {
-          "name": "Ediblehead",
-          "url": "https://open.spotify.com/artist/0HBKiIrzWD0KL9soS6dZOJ"
-        }
-      ],
-      "duration_ms": 193436,
-      "name": "Hook It Up",
-      "url": "https://open.spotify.com/track/4mfLnatRIFnG6FwF2qx0dZ"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/3zuoynFUwVMW9cUl7V5I0q"
-      },
-      "artists": [
-        {
-          "name": "Guy",
-          "url": "https://open.spotify.com/artist/2IBPIcSkvQZyoaVfoyZKE8"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Wanna Get With U",
-      "url": "https://open.spotify.com/track/0Vp56gzB5TWuZ1o3owrHu5"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
-      },
-      "artists": [
-        {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 260776,
-      "name": "Like I Want You",
-      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "School Daze (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4J3xFfnjMRpHtyf5PjILtT"
-      },
-      "artists": [
-        {
-          "name": "Tisha Campbell",
-          "url": "https://open.spotify.com/artist/2HOOjUvKpL2l8gXMfWEf39"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "Be Alone Tonight - From The \"School Daze\" Soundtrack",
-      "url": "https://open.spotify.com/track/1m2ktp2wYI6qCXkQMteLj2"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/7a02wvFNIpYpZwKNNresGG"
-      },
-      "artists": [
-        {
-          "name": "Oran Juice Jones",
-          "url": "https://open.spotify.com/artist/1xcuvl9Q3S7Q3b2b0dTJca"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/7FesdPPnPPE70f4Xyjv71H"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 271560,
-      "name": "Miss You Most (At Christmas Time)",
-      "url": "https://open.spotify.com/track/1uQRAiaDstq15Vd52ryoI7"
-    },
-    {
-      "added_at": "2023-06-23 07:00:00",
-      "album": {
-        "name": "The Fontane's Sing",
-        "url": "https://open.spotify.com/album/5eBIHlsQyKeLpgUABGqivS"
-      },
-      "artists": [
-        {
-          "name": "The Fontane Sisters",
-          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Missouri Waltz",
-      "url": "https://open.spotify.com/track/5Lc0vzGdZ8W63D7mOLyz0y"
+      "duration_ms": 92237,
+      "name": "You is a Dark Cloud",
+      "url": "https://open.spotify.com/track/6lKuXGOquwUx7RJaQo9lwL"
     }
   ],
-  "unique_name": "The Perfect Find Official Playlist",
+  "unique_name": "Tyler Perry's Beauty in Black Official Playlist ",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0DTxbZztUAx"
 }

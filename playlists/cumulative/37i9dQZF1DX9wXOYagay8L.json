@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/4wJoiQmG43ZNUSvlj6uDYv?si=6-fBrKMITCus2FGdp2ZMfA\">Zamajobe</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/1RAmAUTyapevk2ViYBPcCM?si=0FgdfrUZRLmnQDyNC57oiw\">Naima Kay</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -1717,6 +1717,32 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/42AfeCgoySA2x4SLAi3vMf"
+      },
+      "artists": [
+        {
+          "name": "Larny",
+          "url": "https://open.spotify.com/artist/0L6Ho5lbphAPTc80JlSCwa"
+        },
+        {
+          "name": "Mlindo The Vocalist",
+          "url": "https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI"
+        },
+        {
+          "name": "Meez Musician",
+          "url": "https://open.spotify.com/artist/5wOYN6pXsAh2LVv12Crwc5"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341937,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/7mQzeMtJyWbRxhQyxLZyKM"
+    },
+    {
+      "album": {
         "name": "DALI",
         "url": "https://open.spotify.com/album/2Q1BggmUs89ICC9hGNcamV"
       },
@@ -2080,6 +2106,24 @@
       "duration_ms": 215706,
       "name": "ekuphileni, (feat. J'Something)",
       "url": "https://open.spotify.com/track/6Ynwhp39hofsG13VYr1qDj"
+    },
+    {
+      "album": {
+        "name": "Elimpopo",
+        "url": "https://open.spotify.com/album/30YkoGZzzMPZtPJ3rsUWgd"
+      },
+      "artists": [
+        {
+          "name": "Meez Musician",
+          "url": "https://open.spotify.com/artist/5wOYN6pXsAh2LVv12Crwc5"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192558,
+      "name": "Elimpopo",
+      "url": "https://open.spotify.com/track/3EBGuc65n2uxHr6NDIYecS"
     },
     {
       "album": {
@@ -5262,6 +5306,28 @@
       "duration_ms": 297000,
       "name": "Kulakwe",
       "url": "https://open.spotify.com/track/6aUiXtqc9Qu1nQcousv2pa"
+    },
+    {
+      "album": {
+        "name": "Kumnandi",
+        "url": "https://open.spotify.com/album/0obP9K0JXs9HAIUC3yuLPu"
+      },
+      "artists": [
+        {
+          "name": "Naima Kay",
+          "url": "https://open.spotify.com/artist/1RAmAUTyapevk2ViYBPcCM"
+        },
+        {
+          "name": "Zolani Mahola",
+          "url": "https://open.spotify.com/artist/6jxoWZAKOFQ91TKHIJbjaC"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250437,
+      "name": "Kumnandi",
+      "url": "https://open.spotify.com/track/0rFqgMLpaC1BNbNejnvSVV"
     },
     {
       "album": {

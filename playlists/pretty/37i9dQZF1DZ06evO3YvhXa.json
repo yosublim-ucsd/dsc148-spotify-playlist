@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 398015,
+  "num_followers": 398087,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxWZgAAAAAB1VLoYlSGDTxSFHdaTCvO0",
+  "snapshot_id": "Zxg8gAAAAABTzfiSrLM3AQZdkNlWerXs",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Picture of My Life",
+      "url": "https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deeper Underground",
         "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 190476,
       "name": "Deeper Underground",
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Picture of My Life",
-      "url": "https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "All Good In The Hood",
-      "url": "https://open.spotify.com/track/6lYDFEsQRgCDj0cBKodzG0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emergency on Planet Earth (Remastered)",
         "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 512280,
       "name": "Blow Your Mind",
       "url": "https://open.spotify.com/track/5rzmEiv5KA1OskLzcqRDFK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "All Good In The Hood",
+      "url": "https://open.spotify.com/track/6lYDFEsQRgCDj0cBKodzG0"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Summer Girl",
-      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
+      "duration_ms": 238533,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
+      "duration_ms": 331800,
+      "name": "Summer Girl",
+      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
     },
     {
       "added_at": null,

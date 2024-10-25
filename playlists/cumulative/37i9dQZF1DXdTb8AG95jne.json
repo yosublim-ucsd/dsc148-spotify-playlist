@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Cloud koh(\uad6c\ub984)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: YdBB(\uc720\ub2e4\ube48\ubc34\ub4dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1666,6 +1666,24 @@
       "duration_ms": 245091,
       "name": "Bullseye",
       "url": "https://open.spotify.com/track/72klky41z2aZ5ft5YAxlDy"
+    },
+    {
+      "album": {
+        "name": "IGNITE",
+        "url": "https://open.spotify.com/album/7DG2868ELzq0vyfRKadbDx"
+      },
+      "artists": [
+        {
+          "name": "YdBB",
+          "url": "https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/6lhkk6BanA5aIc7FMIu8kN"
     },
     {
       "album": {
@@ -12490,7 +12508,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 188040,
       "name": "To. the Moon",
       "url": "https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00"

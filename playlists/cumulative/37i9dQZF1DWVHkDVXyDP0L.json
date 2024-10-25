@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Lucian Rice",
+  "description": "New and local indie noise. Cover: A. Swayze & The Ghosts",
   "name": "Local Noise",
   "tracks": [
     {
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 222857,
       "name": "all you ever wanted",
       "url": "https://open.spotify.com/track/3e5Naa5Me3ayj6zdalxgh4"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 176600,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/53GZvXAcR9tgpHD9qhR8Jm"
@@ -464,6 +464,24 @@
       "duration_ms": 191700,
       "name": "Big Dreams",
       "url": "https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG"
+    },
+    {
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/5w8bTiMgsEUfvzHC1aqi25"
+      },
+      "artists": [
+        {
+          "name": "High Tropics",
+          "url": "https://open.spotify.com/artist/5ZAx5s0XKuGjKMikU9GCrC"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198317,
+      "name": "Black And Blue",
+      "url": "https://open.spotify.com/track/0l8Hl8nBG5YjVZqrl4A0QV"
     },
     {
       "album": {
@@ -748,7 +766,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 175494,
       "name": "Catacombs",
       "url": "https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k"
@@ -932,6 +950,24 @@
       "duration_ms": 233027,
       "name": "Colours of My Daydream",
       "url": "https://open.spotify.com/track/30PWjgRrPk1Rv7vNqJG6Qa"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/5kNnDPzRyOxmxylN7WJclA"
+      },
+      "artists": [
+        {
+          "name": "Reilly Sams",
+          "url": "https://open.spotify.com/artist/74phVWKzY9ecQtyA4i3Ggn"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252772,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5KQctzMCx1xS0WJjjaCHc0"
     },
     {
       "album": {
@@ -1263,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "(un)adored",
+        "url": "https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd"
+      },
+      "artists": [
+        {
+          "name": "Le Shiv",
+          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186487,
+      "name": "Don't Try To Talk",
+      "url": "https://open.spotify.com/track/3Kc48KnKB0EQKaplpW2qYV"
+    },
+    {
+      "album": {
         "name": "In The Shade",
         "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
       },
@@ -1296,7 +1350,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 201131,
       "name": "Dr. Frankenstein",
       "url": "https://open.spotify.com/track/3KUaGrSL8EzIZiHi9PeI5g"
@@ -1480,7 +1534,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 180704,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0C9BgLXXFuyNcxGzfZXhfT"
@@ -1898,7 +1952,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 150403,
       "name": "Ghost of Bendigo",
       "url": "https://open.spotify.com/track/1OTsqG6GfpUXkAX5kQGHql"
@@ -1956,6 +2010,24 @@
       "duration_ms": 221004,
       "name": "Greatest Hit",
       "url": "https://open.spotify.com/track/04AwWTQpmjc8Pln67jxou6"
+    },
+    {
+      "album": {
+        "name": "GROW UP / NIC SICK",
+        "url": "https://open.spotify.com/album/0RS2SeovHE8h3EyCNAPwat"
+      },
+      "artists": [
+        {
+          "name": "CHEAP-SKATE",
+          "url": "https://open.spotify.com/artist/3c3StjVdJb72LvLknQfbEC"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255916,
+      "name": "GROW UP / NIC SICK",
+      "url": "https://open.spotify.com/track/0vxH5NujQ15KPwgmGgiKLV"
     },
     {
       "album": {
@@ -2503,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/238u1n8IgczzXXiGWkiKOn"
+      },
+      "artists": [
+        {
+          "name": "The Cheaks",
+          "url": "https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216742,
+      "name": "Is This A Robbery",
+      "url": "https://open.spotify.com/track/0Qpk2lc8yEQK1xayGwQWWa"
+    },
+    {
+      "album": {
         "name": "Soft",
         "url": "https://open.spotify.com/album/5B50COyPfSTlnVomPVwtBY"
       },
@@ -2536,6 +2626,24 @@
       "duration_ms": 166312,
       "name": "I\u2019m Sure You\u2019ve Heard",
       "url": "https://open.spotify.com/track/0Pi1tFmFEwxGFNQYjNLjjd"
+    },
+    {
+      "album": {
+        "name": "Jerkin'",
+        "url": "https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
     },
     {
       "album": {
@@ -2640,7 +2748,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 235046,
       "name": "Last Amour",
       "url": "https://open.spotify.com/track/2eHn2iYwPwXCAVVmGep6Hu"
@@ -2850,6 +2958,28 @@
       "duration_ms": 180723,
       "name": "Loser",
       "url": "https://open.spotify.com/track/32lp8fy60jhiM1uPr4h8sO"
+    },
+    {
+      "album": {
+        "name": "love bombs",
+        "url": "https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2"
+      },
+      "artists": [
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        },
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205357,
+      "name": "love bombs",
+      "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
     },
     {
       "album": {
@@ -3538,7 +3668,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 190533,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
@@ -4183,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "Scared Of The Dog",
+        "url": "https://open.spotify.com/album/4jpvZ7ztAyQ7ZHlA1xyJA5"
+      },
+      "artists": [
+        {
+          "name": "Off Judy",
+          "url": "https://open.spotify.com/artist/1YGPOmIYJf8UjZvrnmxKAW"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161848,
+      "name": "Scared Of The Dog",
+      "url": "https://open.spotify.com/track/5caxlhOAQN2XN5BKKp0gtf"
+    },
+    {
+      "album": {
         "name": "Towards the Sun",
         "url": "https://open.spotify.com/album/3F3rp5JZyHObOhgEyN2Uqx"
       },
@@ -4284,7 +4432,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 201208,
       "name": "She's Cruel",
       "url": "https://open.spotify.com/track/42ZVLDH2wgSPrds62KoDN7"
@@ -4342,6 +4490,24 @@
       "duration_ms": 306224,
       "name": "Siberia",
       "url": "https://open.spotify.com/track/1w1nnGhf73p35nG99WLuRn"
+    },
+    {
+      "album": {
+        "name": "Let's Live a Life Better Than This",
+        "url": "https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe"
+      },
+      "artists": [
+        {
+          "name": "A. Swayze & The Ghosts",
+          "url": "https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "Sick Kinda WRLD",
+      "url": "https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J"
     },
     {
       "album": {
@@ -4540,6 +4706,24 @@
       "duration_ms": 158006,
       "name": "Spain",
       "url": "https://open.spotify.com/track/4xKk9AP1wEbK9N5WmScRMK"
+    },
+    {
+      "album": {
+        "name": "SPIDER",
+        "url": "https://open.spotify.com/album/5hltpFfRqXB2KML5a3adGh"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161586,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/72rz0gf2wyg1wFcZ0qD5xi"
     },
     {
       "album": {
@@ -5177,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "Tighter",
+        "url": "https://open.spotify.com/album/1YEq8z9GK0RYCAPSztDhZ0"
+      },
+      "artists": [
+        {
+          "name": "Bones and Jones",
+          "url": "https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172711,
+      "name": "Tighter",
+      "url": "https://open.spotify.com/track/4etQ8poZ0EaIKMoFJpORk4"
+    },
+    {
+      "album": {
         "name": "Time Will Try",
         "url": "https://open.spotify.com/album/1lOZkHSqxR1hQrf3dzFVKs"
       },
@@ -5260,7 +5462,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 197840,
       "name": "Troubled Views",
       "url": "https://open.spotify.com/track/47AMRoA5Dwr1O8tIO5ZH9c"
@@ -5314,7 +5516,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 214640,
       "name": "Want You Here",
       "url": "https://open.spotify.com/track/3VFR3r7wW9Fcc8Bqt7Zbpa"

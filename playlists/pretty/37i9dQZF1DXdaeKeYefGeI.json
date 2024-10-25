@@ -1,12 +1,12 @@
 {
   "description": "Wat kan het Nederlands toch mooi zijn. Cover: Ernst Jansz",
-  "num_followers": 28669,
+  "num_followers": 28692,
   "original_name": "Mooi Nederlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxdS6AAAAABf4iaNqBjbWdeWDJ8UrJaj",
+  "snapshot_id": "ZxrDYAAAAABg8XwQl6OdcJkMJblDaVDY",
   "tracks": [
     {
       "added_at": "2024-10-22 07:23:20",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-10-22 07:23:20",
       "album": {
+        "name": "Eigenlijk",
+        "url": "https://open.spotify.com/album/5NFhfDJdvvY2F1OyF6HYNl"
+      },
+      "artists": [
+        {
+          "name": "Geejee",
+          "url": "https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH"
+        }
+      ],
+      "duration_ms": 183141,
+      "name": "Vraag",
+      "url": "https://open.spotify.com/track/2sE1jPiettUbErPUZZCLgI"
+    },
+    {
+      "added_at": "2024-10-22 07:23:20",
+      "album": {
         "name": "Vaderdag (deel 2)",
         "url": "https://open.spotify.com/album/3SA3Wh7wmIS8K3xUtzVIUD"
       },
@@ -105,6 +121,22 @@
       "url": "https://open.spotify.com/track/6XVsIYpztiNeakFrzMSD9R"
     },
     {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Ik Was Amper 16 Jaar",
+        "url": "https://open.spotify.com/album/0v6neXuDhCvbs0OQmABhvA"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 van Duin",
+          "url": "https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF"
+        }
+      ],
+      "duration_ms": 198273,
+      "name": "Ik Was Amper 16 Jaar",
+      "url": "https://open.spotify.com/track/11COH0WOgKJiFQBmJiqTU4"
+    },
+    {
       "added_at": "2024-10-22 07:23:20",
       "album": {
         "name": "Boudewijn De Groot",
@@ -135,22 +167,6 @@
       "duration_ms": 249186,
       "name": "Lindeboom",
       "url": "https://open.spotify.com/track/3XEMH6bcN5yI3ALWRwyfcq"
-    },
-    {
-      "added_at": "2024-10-22 07:23:20",
-      "album": {
-        "name": "Eigenlijk",
-        "url": "https://open.spotify.com/album/5NFhfDJdvvY2F1OyF6HYNl"
-      },
-      "artists": [
-        {
-          "name": "Geejee",
-          "url": "https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH"
-        }
-      ],
-      "duration_ms": 183141,
-      "name": "Vraag",
-      "url": "https://open.spotify.com/track/2sE1jPiettUbErPUZZCLgI"
     },
     {
       "added_at": "2024-10-22 07:23:20",
@@ -199,6 +215,22 @@
       "duration_ms": 283361,
       "name": "Liefde Van Later",
       "url": "https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Vrijplaats",
+        "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        }
+      ],
+      "duration_ms": 233579,
+      "name": "Het Is Genoeg",
+      "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
     },
     {
       "added_at": "2024-10-22 07:23:20",
@@ -347,22 +379,6 @@
       "duration_ms": 315173,
       "name": "Als De Dag Van Toen",
       "url": "https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt"
-    },
-    {
-      "added_at": "2024-10-22 07:23:20",
-      "album": {
-        "name": "Neem Me Mee",
-        "url": "https://open.spotify.com/album/6YmoIcfsjJVggNYE7gzPwk"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 van Duin",
-          "url": "https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF"
-        }
-      ],
-      "duration_ms": 174149,
-      "name": "Neem Me Mee",
-      "url": "https://open.spotify.com/track/5lVqvFE37CbpD75XnAIhPn"
     },
     {
       "added_at": "2024-10-22 07:23:20",
@@ -531,18 +547,18 @@
     {
       "added_at": "2024-10-22 07:23:20",
       "album": {
-        "name": "Wie Zal Je Ooit Vergeten",
-        "url": "https://open.spotify.com/album/63xt6zuAjPG1nn26n7JHSb"
+        "name": "Neem Me Mee",
+        "url": "https://open.spotify.com/album/6YmoIcfsjJVggNYE7gzPwk"
       },
       "artists": [
         {
-          "name": "Henny Thijssen",
-          "url": "https://open.spotify.com/artist/71MAww1vIzu0Akrk631fNB"
+          "name": "Andr\u00e9 van Duin",
+          "url": "https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF"
         }
       ],
-      "duration_ms": 178005,
-      "name": "Wie Zal Je Ooit Vergeten",
-      "url": "https://open.spotify.com/track/50EJs9YhrdEFWrDRkBqEtW"
+      "duration_ms": 174149,
+      "name": "Neem Me Mee",
+      "url": "https://open.spotify.com/track/5lVqvFE37CbpD75XnAIhPn"
     },
     {
       "added_at": "2024-10-22 07:23:20",
@@ -807,22 +823,6 @@
     {
       "added_at": "2024-10-22 07:23:20",
       "album": {
-        "name": "De Lucht Is Van Iedereen",
-        "url": "https://open.spotify.com/album/3VVl5laRKmRBnYmgC33iBP"
-      },
-      "artists": [
-        {
-          "name": "Judith Agaath",
-          "url": "https://open.spotify.com/artist/0ndMUxZdOrcswYg4RbcxWM"
-        }
-      ],
-      "duration_ms": 220208,
-      "name": "De Lucht Is Van Iedereen",
-      "url": "https://open.spotify.com/track/1Xyk4wxYztTaLecw1VE9mR"
-    },
-    {
-      "added_at": "2024-10-22 07:23:20",
-      "album": {
         "name": "De Weg",
         "url": "https://open.spotify.com/album/7n9NfMSnYi59u7vGSelWAn"
       },
@@ -871,22 +871,6 @@
       "duration_ms": 164757,
       "name": "Oceaan",
       "url": "https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr"
-    },
-    {
-      "added_at": "2024-10-22 07:23:20",
-      "album": {
-        "name": "Tollen en Turen",
-        "url": "https://open.spotify.com/album/4sJHZP585SYperxQ6ml7DJ"
-      },
-      "artists": [
-        {
-          "name": "HELEEN",
-          "url": "https://open.spotify.com/artist/2JGuxN1UnFTeBxEzu0uXMF"
-        }
-      ],
-      "duration_ms": 126642,
-      "name": "Mee",
-      "url": "https://open.spotify.com/track/3DFmhtFDIbZLLwepdg6aC4"
     },
     {
       "added_at": "2024-10-22 07:23:20",
@@ -1143,6 +1127,22 @@
       "duration_ms": 294720,
       "name": "Lente Me",
       "url": "https://open.spotify.com/track/1JSrkd77iGJMYwTUBdX5Xs"
+    },
+    {
+      "added_at": "2024-10-22 07:23:20",
+      "album": {
+        "name": "De Lucht Is Van Iedereen",
+        "url": "https://open.spotify.com/album/3VVl5laRKmRBnYmgC33iBP"
+      },
+      "artists": [
+        {
+          "name": "Judith Agaath",
+          "url": "https://open.spotify.com/artist/0ndMUxZdOrcswYg4RbcxWM"
+        }
+      ],
+      "duration_ms": 220208,
+      "name": "De Lucht Is Van Iedereen",
+      "url": "https://open.spotify.com/track/1Xyk4wxYztTaLecw1VE9mR"
     },
     {
       "added_at": "2024-10-22 07:23:20",

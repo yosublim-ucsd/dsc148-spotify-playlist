@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Emma Hoet",
+  "description": "The best French indie tracks right now. Cover : Oscar Anton",
   "name": "Made in France",
   "tracks": [
     {
@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 135560,
       "name": "Bonifacio",
       "url": "https://open.spotify.com/track/2kTCB0grV2QxiX46zuzEr3"
@@ -4458,6 +4458,24 @@
       "duration_ms": 261359,
       "name": "L'Extase",
       "url": "https://open.spotify.com/track/5i2QFAqpm3T2RDIHH4Th0d"
+    },
+    {
+      "album": {
+        "name": "Azur",
+        "url": "https://open.spotify.com/album/66YX19AoDHON2I2jpACw5a"
+      },
+      "artists": [
+        {
+          "name": "Romain Muller",
+          "url": "https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158985,
+      "name": "L'Himalaya",
+      "url": "https://open.spotify.com/track/3epMEAUfhbcf4CNgpz846d"
     },
     {
       "album": {

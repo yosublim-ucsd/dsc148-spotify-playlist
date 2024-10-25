@@ -2,7 +2,7 @@
 
 ### [The ACS](https://open.spotify.com/playlist/37i9dQZF1DXdeMORbC1XNa)
 
-> The African & Caribbean diaspora united\. Cover: Tyla
+> The African & Caribbean diaspora united\. Cover: Wizkid, Brent Faiyaz
 
 545 songs - 1 day 4 hr 27 min
 

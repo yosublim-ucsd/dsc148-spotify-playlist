@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "Al Ponto / Tweet Tweet",
+        "url": "https://open.spotify.com/album/0LrG9kfoh3U2862mU7JmLJ"
+      },
+      "artists": [
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        },
+        {
+          "name": "Jukka Eskola",
+          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221126,
+      "name": "Al Ponto",
+      "url": "https://open.spotify.com/track/0KvncMYji5nBEBdeJERT0l"
+    },
+    {
+      "album": {
         "name": "Dior in Nera",
         "url": "https://open.spotify.com/album/3CfN0fU9XaC41kb2aYXPly"
       },
@@ -354,7 +376,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 301893,
       "name": "At Leroy's",
       "url": "https://open.spotify.com/track/5P9AzOae0KiwY4mF2424XR"
@@ -1207,6 +1229,32 @@
     },
     {
       "album": {
+        "name": "Dual Reality",
+        "url": "https://open.spotify.com/album/4OfXATKmaacfuYy1iiTfDR"
+      },
+      "artists": [
+        {
+          "name": "Aki Himanen",
+          "url": "https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS"
+        },
+        {
+          "name": "Aleksi Kinnunen",
+          "url": "https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU"
+        },
+        {
+          "name": "Eero Tikkanen",
+          "url": "https://open.spotify.com/artist/0Sbr3E6U0bCvZL8gp5ZWb6"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407893,
+      "name": "Dual Reality",
+      "url": "https://open.spotify.com/track/6VdVHKzIhGXdApmMr3Qmam"
+    },
+    {
+      "album": {
         "name": "Duke",
         "url": "https://open.spotify.com/album/5Ypwfjq7GbjGHXYiKeLxeN"
       },
@@ -1790,6 +1838,28 @@
       "duration_ms": 232146,
       "name": "Hokema",
       "url": "https://open.spotify.com/track/17wYr1FmHfRvCBtjE8lfcR"
+    },
+    {
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/2aHWDO9S4MxpIimIY3kI0y"
+      },
+      "artists": [
+        {
+          "name": "Martin S\u00f6derbacka",
+          "url": "https://open.spotify.com/artist/3JtYreYiC9MctpDka3f76Y"
+        },
+        {
+          "name": "Eevalotta Matikainen",
+          "url": "https://open.spotify.com/artist/4BMBFOOEt7dAogWYVD6fK3"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337706,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/6nRHHBNgiiYiUHdqaM5aWx"
     },
     {
       "album": {

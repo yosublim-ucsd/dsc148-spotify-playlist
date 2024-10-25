@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 192934,
       "name": "Contact",
       "url": "https://open.spotify.com/track/5ludDBASLNjFINkMhMs8Al"
@@ -5194,7 +5194,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 180952,
       "name": "I Talk To Water (With Perry Farrell) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7"
@@ -7707,6 +7707,32 @@
     },
     {
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2K5l5X07mVNjRbJ0myFG9X"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219768,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/6nuqo0u5Ex03YMRL0SdyLs"
+    },
+    {
+      "album": {
         "name": "Ocean Drive",
         "url": "https://open.spotify.com/album/7zvBu5tW5d286WfktO4bRV"
       },
@@ -9162,7 +9188,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 310819,
       "name": "RIDERS ON THE STORM",
       "url": "https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2"
@@ -9184,7 +9210,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 222594,
       "name": "Ringo - Miss Monique Remix",
       "url": "https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c"
@@ -9738,7 +9764,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 254032,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX"

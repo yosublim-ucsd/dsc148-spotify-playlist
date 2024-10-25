@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Iqhbal, Selfi Yamma
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,322 likes - 85 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,352 likes - 85 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Anugerah Cinta](https://open.spotify.com/track/6dr1zYGUfWPtxYcEcSNb05) | [Iqhbal](https://open.spotify.com/artist/5rFdYocq7VQtYWQ2IBf59M), [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Anugerah Cinta](https://open.spotify.com/album/4nkfcqn1QoczR6L3oEZARZ) | 8:22 |
-| 2 | [Rindu Tapi Jauh \- Live Ska Reggae](https://open.spotify.com/track/4wxu9KzFOFifxJAh3V8iTj) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Rindu Tapi Jauh \(Live Ska Reggae\)](https://open.spotify.com/album/20lrZtjVOwF9jeLq6eyx5S) | 4:47 |
+| 1 | [Rindu Tapi Jauh \- Live Ska Reggae](https://open.spotify.com/track/4wxu9KzFOFifxJAh3V8iTj) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Rindu Tapi Jauh \(Live Ska Reggae\)](https://open.spotify.com/album/20lrZtjVOwF9jeLq6eyx5S) | 4:47 |
+| 2 | [Anugerah Cinta](https://open.spotify.com/track/6dr1zYGUfWPtxYcEcSNb05) | [Iqhbal](https://open.spotify.com/artist/5rFdYocq7VQtYWQ2IBf59M), [Selfi Yamma](https://open.spotify.com/artist/6EnWjs5UyF9P3HMs9vhL2p) | [Anugerah Cinta](https://open.spotify.com/album/4nkfcqn1QoczR6L3oEZARZ) | 8:22 |
 | 3 | [Samira](https://open.spotify.com/track/2UNIOm160O0c3EHq3kKy2I) | [King nassar](https://open.spotify.com/artist/2SsGOU0OZ5ElIz6PN7aSYg) | [Samira](https://open.spotify.com/album/2Jb7eQXavnheWW3j0Wz0Ap) | 5:09 |
 | 4 | [Satu Rasa Cinta](https://open.spotify.com/track/2LkIEQEtMp4agDn68uJ4OF) | [Riri Chantika](https://open.spotify.com/artist/45QLgbqjuDQzHSagWxx7VX) | [Satu Rasa Cinta](https://open.spotify.com/album/6hjsEcQfDliKpxh1totuC6) | 4:54 |
 | 5 | [Sinar Pelangi](https://open.spotify.com/track/668dgOwLrtua1DLaITJsYb) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Projector Band](https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L) | [Sinar Pelangi](https://open.spotify.com/album/6P94jF7Fw16uVZXxw4G14o) | 4:10 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 | 84 | [Egois](https://open.spotify.com/track/4avHigwVYoL7TD48EhcNFK) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Egois](https://open.spotify.com/album/4wnJOz5Oeg9tVK7MonAwnt) | 4:17 |
 | 85 | [Cuma Kamu](https://open.spotify.com/track/2QnaLtjWrC4UMMVU6IspOo) | [Rhoma Irama](https://open.spotify.com/artist/4rlC2lgVD1tfilqgJxEPIW), [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Cuma Kamu](https://open.spotify.com/album/7mrO78qasVB2HQ17sywB3u) | 4:04 |
 
-Snapshot ID: `ZxFCkAAAAACllZThOUibdIMVGMuWGb4p`
+Snapshot ID: `Zxp9EAAAAACGpHO6WCfoYXXyeFDSLl0/`

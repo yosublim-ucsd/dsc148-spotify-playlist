@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "indie & indiepop in het Nederlands. Cover: FULCO",
+  "description": "indie & indiepop in het Nederlands. Cover: Wende",
   "name": "indiepuntnl",
   "tracks": [
     {
@@ -334,10 +334,28 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 205133,
       "name": "Dokter Phil",
       "url": "https://open.spotify.com/track/7maIOPhJPKi28mGgoD8S00"
+    },
+    {
+      "album": {
+        "name": "Drijfzand",
+        "url": "https://open.spotify.com/album/7ppndnAeYPCnO4YkpjLQeC"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178547,
+      "name": "Drijfzand",
+      "url": "https://open.spotify.com/track/4FQYVoqLzGiMFMKKWu4BNs"
     },
     {
       "album": {
@@ -460,7 +478,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 238137,
       "name": "Gloeien",
       "url": "https://open.spotify.com/track/6SRbUAMpKHSRAJ6XpZERJy"
@@ -514,10 +532,28 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 184576,
       "name": "haat",
       "url": "https://open.spotify.com/track/0Nkdy8Lb6KBPcxeIGHRMYs"
+    },
+    {
+      "album": {
+        "name": "Vrijplaats",
+        "url": "https://open.spotify.com/album/4bYrHZemjTOwBqK8x4JnGq"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233579,
+      "name": "Het Is Genoeg",
+      "url": "https://open.spotify.com/track/4PZFKzgOwQsJ0ekn7rtWQl"
     },
     {
       "album": {
@@ -885,6 +921,24 @@
     },
     {
       "album": {
+        "name": "Koortsdroom",
+        "url": "https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG"
+      },
+      "artists": [
+        {
+          "name": "Vic Willems",
+          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162039,
+      "name": "Koortsdroom (Nooit Spijt)",
+      "url": "https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0"
+    },
+    {
+      "album": {
         "name": "Koude Kermis",
         "url": "https://open.spotify.com/album/3Ve9qOBRn7LGDOWeXsZUkR"
       },
@@ -1016,7 +1070,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 168841,
       "name": "MASQUERADE",
       "url": "https://open.spotify.com/track/4lItc3a4LKpKeTlpKvlj4r"
@@ -1092,7 +1146,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 202749,
       "name": "Mijn Naam is Niemand",
       "url": "https://open.spotify.com/track/5I4AagJIE3YslYmASx2QRb"
@@ -1342,6 +1396,24 @@
       "duration_ms": 262554,
       "name": "Salmari & Kreeft",
       "url": "https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN"
+    },
+    {
+      "album": {
+        "name": "Schip",
+        "url": "https://open.spotify.com/album/71FXgXXsQ4evMqRWsvxSsg"
+      },
+      "artists": [
+        {
+          "name": "YRSA",
+          "url": "https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154859,
+      "name": "Schip",
+      "url": "https://open.spotify.com/track/0prmFYgEnM3C1DydcWaPD3"
     },
     {
       "album": {
@@ -1798,6 +1870,24 @@
       "duration_ms": 161428,
       "name": "Zo Licht Als Een Veertje",
       "url": "https://open.spotify.com/track/0ItuxgKyxZ9PfYuzcVwVDW"
+    },
+    {
+      "album": {
+        "name": "drift",
+        "url": "https://open.spotify.com/album/713lZ7AF55fEFSQgcttj9y"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Zonder handen rijden",
+      "url": "https://open.spotify.com/track/2lVKoxQgBNqJwCE1SeLFKl"
     },
     {
       "album": {

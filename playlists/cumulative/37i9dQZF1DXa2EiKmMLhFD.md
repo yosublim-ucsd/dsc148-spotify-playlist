@@ -2,7 +2,7 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari .Feast,  Mahalini serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari .ROSÈ, Bruno Mars, LISA serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
 248 songs - 15 hr 30 min
 

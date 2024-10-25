@@ -4,7 +4,7 @@
 
 > Fresh Gospel tracks to make you move and bop your head in Praise
 
-82 songs - 4 hr 56 min
+83 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Pressure](https://open.spotify.com/track/3avVX1w6NdckUgIBL6s6bA) | [Muhanjii](https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq) | [Lost in Translation](https://open.spotify.com/album/3GMOrfNSGWRFBHH9WjcmIX) | 3:02 | 2022-04-13 | 2023-09-23 |
 | [Rada Safi](https://open.spotify.com/track/6w4RIy7cpJCY52DSfTeFdB) | [Garvey Royal](https://open.spotify.com/artist/16Kak1UGaE15pDnmAhdH2N), [Timeless Noel](https://open.spotify.com/artist/5NdCpoI2mGRLFZEuR3oxKE) | [Dancehall Royalty](https://open.spotify.com/album/2y8wX65LAWt7pZefN4lyRr) | 3:05 | 2022-04-13 |  |
 | [Rada!](https://open.spotify.com/track/42hNeofs70B4RNLFQQylsu) | [Karwirwa Laura](https://open.spotify.com/artist/7zUicfuuQ82TkhpQp1AXvA), [Stonee Jiwe](https://open.spotify.com/artist/7fBagWqtKxfG3Zxr7H38Eb) | [Rada!](https://open.spotify.com/album/0FYVz8qoGeSnA52VosS6tu) | 3:09 | 2022-04-13 |  |
+| [Raha](https://open.spotify.com/track/2qVI132gcLtLPa08PWQvQr) | [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY) | [Raha](https://open.spotify.com/album/65B7lsrYs7HppuK8UDhAXE) | 3:28 | 2024-10-25 |  |
 | [Sai Sai](https://open.spotify.com/track/2F0tznyLelKeeMWZ56srtS) | [JOSH XTRA](https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe) | [Sai Sai](https://open.spotify.com/album/1SYiz7Byni0BIZjkrFbssj) | 3:35 | 2022-04-13 | 2024-06-14 |
 | [Secret Agenda](https://open.spotify.com/track/4pqiEhBDAO49UNYZkA5OD9) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Secret Agenda](https://open.spotify.com/album/6UIjHzdbqYtMSCfccGDx0j) | 3:39 | 2023-02-06 |  |
 | [Shukrani](https://open.spotify.com/track/0rlCvJeYrVmei9ZcySimqk) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shukrani](https://open.spotify.com/album/350ih6c5bnbgPAYcX13FUO) | 3:57 | 2024-10-04 |  |

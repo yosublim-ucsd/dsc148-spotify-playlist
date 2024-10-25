@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 117296,
+  "num_followers": 117302,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxWZgAAAAABjj3q6PlbnHbBzkh7+iY/c",
+  "snapshot_id": "Zxg8gAAAAACxL+JXnk69H5bYqpQ0mkxT",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Ride",
-        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
+        "name": "How Do You Like Me Now?!",
+        "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 165693,
-      "name": "American Ride",
-      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
+      "duration_ms": 223466,
+      "name": "You Shouldn't Kiss Me Like This",
+      "url": "https://open.spotify.com/track/5taqvRgn1DdZ117p2DhPXQ"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Do You Like Me Now?!",
-        "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
+        "name": "American Ride",
+        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 223466,
-      "name": "You Shouldn't Kiss Me Like This",
-      "url": "https://open.spotify.com/track/5taqvRgn1DdZ117p2DhPXQ"
+      "duration_ms": 165693,
+      "name": "American Ride",
+      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Let the Old Man In",
-        "url": "https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 172994,
-      "name": "Don't Let the Old Man In",
-      "url": "https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toby Keith",
         "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 184533,
       "name": "He Ain't Worth Missing",
       "url": "https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Let the Old Man In",
+        "url": "https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 172994,
+      "name": "Don't Let the Old Man In",
+      "url": "https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pull My Chain",
-        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "My List",
-      "url": "https://open.spotify.com/track/5WFDseVq6n2LnKQMByCYnj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 229800,
       "name": "Does That Blue Moon Ever Shine On You",
       "url": "https://open.spotify.com/track/4qjQGcyqNd6fKWFADrdFRF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pull My Chain",
+        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "My List",
+      "url": "https://open.spotify.com/track/5WFDseVq6n2LnKQMByCYnj"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drinks After Work",
-        "url": "https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Drinks After Work",
-      "url": "https://open.spotify.com/track/3Q74BN3z8lQIkiBC80zd07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Walkin'",
         "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 260933,
       "name": "We Were In Love",
       "url": "https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drinks After Work",
+        "url": "https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Drinks After Work",
+      "url": "https://open.spotify.com/track/3Q74BN3z8lQIkiBC80zd07"
     },
     {
       "added_at": null,

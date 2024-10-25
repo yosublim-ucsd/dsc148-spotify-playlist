@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your future favourite pop stars, fresh for the UK. Cover: Chloe Qisha",
+  "description": "Your future favourite pop stars, fresh for the UK. Cover: Alessi Rose",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/17LhwJlAlvNZqufsVPGUQi"
+      },
+      "artists": [
+        {
+          "name": "aimei \u5a9a",
+          "url": "https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/38AqcVgPDXEb0PtBltxCin"
+    },
+    {
+      "album": {
         "name": "break me",
         "url": "https://open.spotify.com/album/0Ggs1jxnP1Sby1NLum8mRu"
       },
@@ -358,7 +376,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 252703,
       "name": "BT45",
       "url": "https://open.spotify.com/track/0r30NQF5cjXjTrxIw1f4Iw"
@@ -682,7 +700,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 183043,
       "name": "erase u",
       "url": "https://open.spotify.com/track/6PhuO3Usi63YmV8H7jBpU7"
@@ -700,7 +718,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 149683,
       "name": "Erase You",
       "url": "https://open.spotify.com/track/6FATUHeXuMpHg0u0UPnVD5"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 153609,
       "name": "everything that lacks in me",
       "url": "https://open.spotify.com/track/5bClS9J3zmoi9bDDlHi8WK"
@@ -1085,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Hey Arthur!",
+        "url": "https://open.spotify.com/album/4bHgCso2O62quFXiyydKWr"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hill",
+          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166753,
+      "name": "Hey Arthur!",
+      "url": "https://open.spotify.com/track/1eAL6SURJYr5yko6FClNDO"
+    },
+    {
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab"
       },
@@ -1175,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/0pmbFZq9Fkm4f26uyaWxSO"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192811,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/4nvg5uqQ1uGAZVxnPTkwEX"
+    },
+    {
+      "album": {
         "name": "IDOL",
         "url": "https://open.spotify.com/album/1u600odm5reUOVxzAV8zOH"
       },
@@ -1190,6 +1244,24 @@
       "duration_ms": 173748,
       "name": "IDOL",
       "url": "https://open.spotify.com/track/0mnq2lTY2XvbZB8ioo7kCS"
+    },
+    {
+      "album": {
+        "name": "imsochillandcool",
+        "url": "https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206095,
+      "name": "imsochillandcool",
+      "url": "https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF"
     },
     {
       "album": {
@@ -1521,6 +1593,24 @@
     },
     {
       "album": {
+        "name": "One Eye Open",
+        "url": "https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212994,
+      "name": "One Eye Open",
+      "url": "https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2"
+    },
+    {
+      "album": {
         "name": "Out of Body",
         "url": "https://open.spotify.com/album/128ykHJFCEiD0lfdyQ9RW2"
       },
@@ -1712,7 +1802,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 220666,
       "name": "right person, wrong time",
       "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
@@ -2169,7 +2259,7 @@
       "artists": [
         {
           "name": "Perrie",
-          "url": "https://open.spotify.com/artist/1M8QOfzsZofinnJNrgnYhh"
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
         }
       ],
       "date_added": "2024-10-04",

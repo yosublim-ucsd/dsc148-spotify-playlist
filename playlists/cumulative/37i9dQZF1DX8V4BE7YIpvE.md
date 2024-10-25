@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-118 songs - 6 hr 11 min
+119 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Comets](https://open.spotify.com/track/0cpdd5Mes64WIBVsTHLsfr) | [Moxin](https://open.spotify.com/artist/21i1EconrVQRBtLQ8j1CLJ), [Kabes](https://open.spotify.com/artist/483Rl4WY6iIJ9czOrOgymb), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Comets](https://open.spotify.com/album/60iorWok6qsipEMMIxyMzd) | 2:31 | 2024-09-05 |  |
 | [Coming Home](https://open.spotify.com/track/3lDdclRD0pjJwhHjXjErEn) | [Alex Boychuk](https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU) | [Coming Home](https://open.spotify.com/album/4Msz8zKMwr7HpFNBaj9t4l) | 3:16 | 2024-09-05 |  |
 | [Control](https://open.spotify.com/track/6U5tKIdc3A0wKWWGMaewUh) | [BlueShip](https://open.spotify.com/artist/1DYailuCflxcgXm1QbE1Y9) | [Control](https://open.spotify.com/album/3LfHuzDwMkSjoNJd1WOvtC) | 2:40 | 2024-06-06 |  |
+| [Cosmic Day](https://open.spotify.com/track/1s4xrw85W0VP1PVqShROPM) | [Retrophoria](https://open.spotify.com/artist/0NkBsV2lsvsJJXOMx1zRgf) | [Cosmic Day](https://open.spotify.com/album/3VkwNM1BM4nKHIUDTPokC9) | 3:42 | 2024-10-24 |  |
 | [Crystals](https://open.spotify.com/track/3tlcvdh3LigtCJSIiBRsYm) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Crystals](https://open.spotify.com/album/34mVTs9yworrS1TzaPXtZR) | 2:53 | 2024-06-06 | 2024-08-11 |
 | [Dangerous](https://open.spotify.com/track/3vpWdSUYrG0tQJIUaftD5l) | [Karaff](https://open.spotify.com/artist/3tuKRJBVdoY7LSA3kDKYc0) | [Dangerous](https://open.spotify.com/album/0UowNq8BRyHLiAIn2ODQqC) | 3:24 | 2024-06-06 |  |
 | [Darkwave](https://open.spotify.com/track/2Z39vhTrNHXhbGLl9SnIjc) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Darkwave](https://open.spotify.com/album/5GBXBeG59ekMEGyeJ2HXOd) | 3:09 | 2024-06-06 | 2024-06-21 |

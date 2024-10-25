@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 123428,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/0TVNasZT7dOG7EJAxilDx1"
@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 157935,
       "name": "clouded",
       "url": "https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 102352,
       "name": "Dippin' Toes",
       "url": "https://open.spotify.com/track/7ralH7l4bA0HBkABnmADuS"
@@ -587,6 +587,32 @@
     },
     {
       "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/6c1f28v4fH9t5lQ4xa1AO2"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        },
+        {
+          "name": "Vibe Provide Collective",
+          "url": "https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120603,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/2QCuFQMtOre4xzLglVQAOP"
+    },
+    {
+      "album": {
         "name": "Give Me a Slice",
         "url": "https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD"
       },
@@ -616,7 +642,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Glowing Tears",
       "url": "https://open.spotify.com/track/32m44mzFzkX6id2ERis5qj"
@@ -778,7 +804,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 128409,
       "name": "keeping up appearances",
       "url": "https://open.spotify.com/track/0NLSPdAfVk8ArLAH0XqTWJ"
@@ -938,7 +964,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 176470,
       "name": "mermaid melodies",
       "url": "https://open.spotify.com/track/5zO8OlM8WBi7ve7o8zlQ6A"
@@ -992,7 +1018,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 123400,
       "name": "mixture",
       "url": "https://open.spotify.com/track/61Ghb129p1GQJwe0R1HMA5"

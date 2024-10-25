@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Along Came Polly",
+        "url": "https://open.spotify.com/album/6A1l7h4BlXBurKORHhl3Rb"
+      },
+      "artists": [
+        {
+          "name": "Reb\u016bke",
+          "url": "https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389038,
+      "name": "Along Came Polly",
+      "url": "https://open.spotify.com/track/6fL2wAZuNKGpze9E3SINnW"
+    },
+    {
+      "album": {
         "name": "Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix)",
         "url": "https://open.spotify.com/album/7md037HhJVbNKMR6V2y4JE"
       },
@@ -445,6 +463,24 @@
     },
     {
       "album": {
+        "name": "B-Sides",
+        "url": "https://open.spotify.com/album/39C0lar5IGZVwPXhO0ZYvI"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323221,
+      "name": "Another Dimension",
+      "url": "https://open.spotify.com/track/6JvxvazbCGARCcZKm8qsCf"
+    },
+    {
+      "album": {
         "name": "Another Life (Remixes)",
         "url": "https://open.spotify.com/album/59Kzou8grlp6UqVVL1HoT4"
       },
@@ -518,7 +554,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 342626,
       "name": "Aran",
       "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
@@ -2144,7 +2180,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 478080,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
@@ -2520,7 +2556,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 206000,
       "name": "Drop It Down",
       "url": "https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE"
@@ -2835,6 +2871,36 @@
     },
     {
       "album": {
+        "name": "Fallen Leaf (Massano Remix)",
+        "url": "https://open.spotify.com/album/2zTkmAbVGPwkQt64YgbGfb"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        },
+        {
+          "name": "Be No Rain",
+          "url": "https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt"
+        },
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222412,
+      "name": "Fallen Leaf - Massano Remix",
+      "url": "https://open.spotify.com/track/2ieWEolVlmDArvTcW4hjJ3"
+    },
+    {
+      "album": {
         "name": "Famax (Goom Gum Remix)",
         "url": "https://open.spotify.com/album/6NaIUD5NH59gzeSYwkkI8V"
       },
@@ -3032,7 +3098,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 373750,
       "name": "Free (My Mind)",
       "url": "https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq"
@@ -3501,6 +3567,32 @@
     },
     {
       "album": {
+        "name": "Heartless (Fideles Remix)",
+        "url": "https://open.spotify.com/album/4LGF8fGOXESW7F2YZeHsL0"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Fideles",
+          "url": "https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378078,
+      "name": "Heartless - Fideles Remix",
+      "url": "https://open.spotify.com/track/5BrwxI9AW4hnPBMshABftQ"
+    },
+    {
+      "album": {
         "name": "Heaven (Oliver Schories Club Mix)",
         "url": "https://open.spotify.com/album/2n0qGGx3bVrgRBTu3P3Stn"
       },
@@ -3854,6 +3946,44 @@
       "duration_ms": 340114,
       "name": "Hypnotised",
       "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
+    },
+    {
+      "album": {
+        "name": "I Adore You (Argy & Mor Avrahami Remix)",
+        "url": "https://open.spotify.com/album/55sqzykLVw2AEUbOH7Qa8c"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "MOR AVRAHAMI",
+          "url": "https://open.spotify.com/artist/3YCZuziGO28DcGaVWtGbtw"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171562,
+      "name": "I Adore You - Argy & Mor Avrahami Remix",
+      "url": "https://open.spotify.com/track/1id7bLyYAy6xa2YeHUJo3F"
     },
     {
       "album": {
@@ -7299,6 +7429,40 @@
     },
     {
       "album": {
+        "name": "Say What",
+        "url": "https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27"
+      },
+      "artists": [
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "chuala",
+          "url": "https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181593,
+      "name": "Say What",
+      "url": "https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal"
+    },
+    {
+      "album": {
         "name": "Serendipity",
         "url": "https://open.spotify.com/album/6ddinwnruM1OHC70UzZxiQ"
       },
@@ -7408,7 +7572,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 404000,
       "name": "She Likes",
       "url": "https://open.spotify.com/track/6mfHJzb7C3EO1c8K3Jd6aC"
@@ -7434,7 +7598,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 254032,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/2scX5RdL0wByroF3sCBzDX"
@@ -7664,7 +7828,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 421306,
       "name": "Singularity",
       "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
@@ -8786,6 +8950,28 @@
       "duration_ms": 220046,
       "name": "TOO COOL TO BE CARELESS",
       "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
+    },
+    {
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/6B882clcxY7DVqLyM2C1qA"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/18ziluGpmsuMf9PcFLvv3G"
     },
     {
       "album": {

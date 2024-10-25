@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "CADU entra na zona. ",
+  "description": "Waze entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 152470,
       "name": "Afogado em M\u00e1goas",
       "url": "https://open.spotify.com/track/3s6wmQNEtIPg8naKzU2hz2"
@@ -2979,6 +2979,32 @@
     },
     {
       "album": {
+        "name": "Cofre Vazio",
+        "url": "https://open.spotify.com/album/2lOZlUe0xdNE7aouSdYy3e"
+      },
+      "artists": [
+        {
+          "name": "For\u00e7a Suprema",
+          "url": "https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3"
+        },
+        {
+          "name": "Sp Deville",
+          "url": "https://open.spotify.com/artist/1wHB76zF5xN5iRX6Gcstsb"
+        },
+        {
+          "name": "Van Sophie",
+          "url": "https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250639,
+      "name": "Cofre Vazio",
+      "url": "https://open.spotify.com/track/09hxvqKxvMKrCRS9PEY6PK"
+    },
+    {
+      "album": {
         "name": "Coisas na Cabe\u00e7a",
         "url": "https://open.spotify.com/album/5a82H0UW4hecXTZWD713Aq"
       },
@@ -4016,7 +4042,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 144878,
       "name": "EM CIMA",
       "url": "https://open.spotify.com/track/4Gz9huMp0XpPQdgd5phJFZ"
@@ -6296,7 +6322,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 112709,
       "name": "Konkluson - Freestyle",
       "url": "https://open.spotify.com/track/5dlHfGongNwbUx2oLWE0HC"
@@ -7042,6 +7068,28 @@
       "duration_ms": 233658,
       "name": "MAIS DO QUE ISSO",
       "url": "https://open.spotify.com/track/1Z22t9j79dSpffq7ioTJ6w"
+    },
+    {
+      "album": {
+        "name": "Mais Que Ouro",
+        "url": "https://open.spotify.com/album/2k5Ldk223sveMZ4I6TzuSK"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        },
+        {
+          "name": "Chris Beats Zn",
+          "url": "https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128576,
+      "name": "Mais Que Ouro",
+      "url": "https://open.spotify.com/track/5nYqioolhxHIsfIEoCPs3E"
     },
     {
       "album": {

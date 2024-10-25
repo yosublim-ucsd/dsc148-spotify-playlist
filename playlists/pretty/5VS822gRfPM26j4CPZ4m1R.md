@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,218 likes - 539 songs - 1 day 8 hr 13 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,220 likes - 540 songs - 1 day 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -547,5 +547,6 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 | 537 | [On Edge](https://open.spotify.com/track/5joJ2RbMO3jlQpgbN3m6Ay) | [Antonio Barret](https://open.spotify.com/artist/3jtRUMSuGAGh58k0zWQOyP), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [On Edge](https://open.spotify.com/album/4i5kwe4vbjH0nxDNJVSKWW) | 3:50 |
 | 538 | [Breath Hold](https://open.spotify.com/track/4JcyMeWwmvTHBBJNxtFfhp) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Temporary Fiction](https://open.spotify.com/album/1SB9N45PdLVqswBBz1ge4F) | 3:33 |
 | 539 | [Fore to the Come](https://open.spotify.com/track/1M2M9XKJqLBh53vFNZaTJ3) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Temporary Fiction \(Remixes\)](https://open.spotify.com/album/25eWkFEsyo1Rt6DB92oFFt) | 2:21 |
+| 540 | [Elevator Pitch](https://open.spotify.com/track/4x3kyg5Sz92GndMR10bZnA) | [Cole Anyway](https://open.spotify.com/artist/6ctBrunhwPNeeuqu8KG7Bd) | [Elevator Pitch](https://open.spotify.com/album/6dDTt0rf4kqLRZtKNordYT) | 2:22 |
 
-Snapshot ID: `AAALhFT0txC4n95ixewYdC36WvICdRIC`
+Snapshot ID: `AAALhYuK5UQvIcFvWLwPwNbXVubQAWNB`

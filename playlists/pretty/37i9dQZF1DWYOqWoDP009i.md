@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 
 > The best and finest 70s Funk\. Cover: Kool & The Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,174 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,176 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYOqWoDP009i.md) - [plain]
 | 53 | [Stella](https://open.spotify.com/track/5toCGMeGM6SNSXZWrvE5YV) | [Bridge](https://open.spotify.com/artist/4PpzoPLf3OsCHtcmp2nWgD) | [Crying for Love](https://open.spotify.com/album/0zu2QK68l2znILZ6tTXxB3) | 3:36 |
 | 54 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 |
 | 55 | [Under the Influence of a Groove](https://open.spotify.com/track/2pedYJdZaM9gyyHEPr1UIH) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [This Boot Is Made For Fonk\-N](https://open.spotify.com/album/5rNtC4AU5oXXY8N2CneWCW) | 8:39 |
-| 56 | [Open Sesame \- Part 1](https://open.spotify.com/track/2wsVvmGSp46TlbTeGt7EGo) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Open Sesame \(Expanded Edition\)](https://open.spotify.com/album/1W97hgeJQ5c9DyX1PvNXXn) | 3:46 |
+| 56 | [Open Sesame \(Groove With The Genie\) \- Pt.1](https://open.spotify.com/track/2wsVvmGSp46TlbTeGt7EGo) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Open Sesame \(Expanded Edition\)](https://open.spotify.com/album/1W97hgeJQ5c9DyX1PvNXXn) | 3:46 |
 | 57 | [Mighty Mighty](https://open.spotify.com/track/3wBQZHjzqHBW5pamM09tyX) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5cXtmT9ap3avo2lz9kEYbg) | 3:02 |
 | 58 | [Freedom Road](https://open.spotify.com/track/3e216tlft4wkIvYphoE2vm) | [The Pharaohs](https://open.spotify.com/artist/6rfmM7dZAV1O2loXczWgo1) | [Awakening](https://open.spotify.com/album/1B4yhjadIa3RH5d1TuLOWp) | 5:56 |
 | 59 | [Blame It on the Boogie](https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/46yTC334aJI4QTv4lkzj3a) | 3:34 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "100% British - 100% R&B. Cover: Jamilah Barry",
+  "description": "100% British - 100% R&B. Cover: Nia Smith",
   "name": "R&B UK",
   "tracks": [
     {
@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 215249,
       "name": "Escape Plan",
       "url": "https://open.spotify.com/track/2QtQLiOD8Wy6iG7pRiyrfN"
@@ -3186,7 +3186,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 159292,
       "name": "Lights Camera",
       "url": "https://open.spotify.com/track/4vwqmgzfGY1dJkU2uXa1dg"
@@ -3226,6 +3226,24 @@
       "duration_ms": 168146,
       "name": "Little Blue Moon",
       "url": "https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we"
+    },
+    {
+      "album": {
+        "name": "Little Red Car",
+        "url": "https://open.spotify.com/album/1ZdroWalq1Na6S8kNq5YUX"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192440,
+      "name": "Little Red Car",
+      "url": "https://open.spotify.com/track/4EV0TdemWsnCfsokT6zfZA"
     },
     {
       "album": {
@@ -4634,6 +4652,24 @@
       "duration_ms": 199615,
       "name": "Self",
       "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
+    },
+    {
+      "album": {
+        "name": "self respect",
+        "url": "https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V"
+      },
+      "artists": [
+        {
+          "name": "Nolais",
+          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209525,
+      "name": "self respect",
+      "url": "https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD"
     },
     {
       "album": {

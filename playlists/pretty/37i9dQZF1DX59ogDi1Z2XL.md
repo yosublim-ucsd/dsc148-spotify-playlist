@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,453 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,479 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 36 | [Parades Photos](https://open.spotify.com/track/7wc9odIwuIGgPnRpEHEd5B) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Bonhomme Pendu 4 \(Chapitre Perdu\)](https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it) | 3:58 |
 | 37 | [Fill My Cup](https://open.spotify.com/track/4YXBnv9WCRhnYd8irETyyw) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Fill My Cup](https://open.spotify.com/album/3uzewsiX0tcerjOV72fm7x) | 2:38 |
 | 38 | [fashion week](https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [fashion week](https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl) | 1:54 |
-| 39 | [Ferris Wheel](https://open.spotify.com/track/3SoilStUg8K4yg7n3cAqu1) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Ferris Wheel](https://open.spotify.com/album/4uCwFNtQ358UqDAo1Bw0ax) | 2:40 |
+| 39 | [Ferris Wheel](https://open.spotify.com/track/3SoilStUg8K4yg7n3cAqu1) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Ferris Wheel](https://open.spotify.com/album/4uCwFNtQ358UqDAo1Bw0ax) | 2:25 |
 | 40 | [I Remember, I Remember](https://open.spotify.com/track/1xJqkQWja5OV8hN9eCPmhW) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [I Remember, I Remember](https://open.spotify.com/album/3I5PqA3m5b6Jp6VX4pfwz5) | 2:40 |
 | 41 | [Main Component](https://open.spotify.com/track/5B5ZjQeXRnpW3LAKgxQ6J7) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Main Component](https://open.spotify.com/album/16sfgfQlQkzc7EIKvg9onO) | 2:18 |
 | 42 | [Never Fold](https://open.spotify.com/track/3qXKedpMh4zUFRUljwHT8C) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Never Fold](https://open.spotify.com/album/68deIdFlxBeQw5f7ymxIdV) | 4:48 |

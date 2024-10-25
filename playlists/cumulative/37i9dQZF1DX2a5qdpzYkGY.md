@@ -4,12 +4,12 @@
 
 > a journey through ephemeral moments
 
-283 songs - 23 hr 7 min
+284 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 5 18 2 5 18](https://open.spotify.com/track/6z4gkvnKeiOOjKG6ZN0Zyn) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [11 5 18 2 5 18](https://open.spotify.com/album/4RN4j6MUCjqIIBW5gpWqpy) | 11:39 | 2022-04-14 | 2022-07-29 |
-| [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 | 2023-05-12 |  |
+| [1978](https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ) | [Do Make Say Think](https://open.spotify.com/artist/1WudHeuEN3d18SXVos95mc) | [Do Make Say Think](https://open.spotify.com/album/4wdTsdXzJJddL3FwHmJHDy) | 10:29 | 2023-05-12 | 2024-10-25 |
 | [1981](https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [1981](https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin) | 4:14 | 2022-02-15 |  |
 | [A Fullness Of Light In Your Soul \(feat\. Perfume Genius\)](https://open.spotify.com/track/4dAHSkg4cg3Bxd61enbbLi) | [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [A Fullness Of Light In Your Soul \(feat\. Perfume Genius\)](https://open.spotify.com/album/3L8nP0ZUuB4laRYM1q2a6z) | 9:55 | 2021-10-06 | 2022-07-29 |
 | [A Fullness Of Light In Your Soul \(feat\. Perfume Genius\)](https://open.spotify.com/track/7vTuEAkTS10sLKzs81j7l9) | [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [This is a Mindfulness Drill: A Reimagining of Richard Youngs' 'Sapphie'](https://open.spotify.com/album/3myZW6iqu7h5Qd0THPOp00) | 9:55 | 2021-10-06 | 2022-08-24 |
@@ -214,6 +214,7 @@
 | [Ruler Rebel \[X\. aTunde Adjuah Remix\]](https://open.spotify.com/track/2vz8hdT8tywDdq4z8uBVi0) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [The Emancipation Procrastination](https://open.spotify.com/album/7Iuool6Ua5SDdWUCifWDCA) | 5:53 | 2021-10-06 | 2024-04-19 |
 | [Sadboys2020](https://open.spotify.com/track/3MtAOH2nJoLMeKFkEN8PuG) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Honk If You're Sad](https://open.spotify.com/album/24YxXPFVExwXvkDkjVGzvC) | 4:00 | 2022-06-29 | 2022-07-28 |
 | [Sadboys2020](https://open.spotify.com/track/520KaBSGkWfUkPTqN6MDTm) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Honk If You're Sad](https://open.spotify.com/album/7hfF5ThQJ3JPuQ4EWqDzZj) | 4:00 | 2022-06-29 | 2022-08-05 |
+| [Samo](https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H) | [Emanuele Triglia](https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp), [Davide Savarese](https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf), [QWALE](https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh), [Francesco Fratini](https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB), [Vincenzo Lato](https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV) | [Moon Kin](https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm) | 2:36 | 2024-10-24 |  |
 | [Satellite Fades](https://open.spotify.com/track/2NFNEPPA4yc3yVcpVVJeir) | [Ceiling Spirits](https://open.spotify.com/artist/49k2eYCb3x1hQm4Fbu74DB) | [Ceiling Spirits](https://open.spotify.com/album/3zqiAM0evKv6jqdkS4z9x4) | 5:24 | 2024-01-11 | 2024-03-22 |
 | [Send Your Name To Mars](https://open.spotify.com/track/5FAnr3QSEL1An4ClKU4Fcb) | [Lorenzo Morresi](https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2) | [Send Your Name To Mars](https://open.spotify.com/album/5KoKEk7X1hgOOJQrptamZX) | 4:16 | 2021-10-06 | 2022-07-29 |
 | [Sing a Silent Gospel](https://open.spotify.com/track/02RFBrIISkDbPdyeLh0Dh0) | [Badge Époque Ensemble](https://open.spotify.com/artist/08E0CO6MC1ykoQP5VQt4hL), [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA), [Dorothea Paas](https://open.spotify.com/artist/43PJplvsEukrxqpOwEGByn) | [Sing a Silent Gospel](https://open.spotify.com/album/3rwxWj8cfVDV4HGOz7Mn78) | 6:19 | 2021-10-06 | 2022-07-28 |

@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHKwaI4GfH9xYKIIa9ffDlZnA5HZtY",
+  "snapshot_id": "AAAHLRjqRsYad+iXAk4Ct1q8EtWowMv9",
   "tracks": [
     {
       "added_at": "2024-10-03 23:09:16",
@@ -71,6 +71,22 @@
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "added_at": "2024-10-24 22:45:39",
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/4OhMS4hoH70xpg9a7EZiSm"
+      },
+      "artists": [
+        {
+          "name": "Behani",
+          "url": "https://open.spotify.com/artist/7vvFgDuVPeMioTFO7acxy0"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/71SddLdFquZypKutuzoipz"
     },
     {
       "added_at": "2024-09-20 00:36:32",
@@ -151,6 +167,22 @@
       "duration_ms": 185560,
       "name": "Is It Ever Gonna Make Sense",
       "url": "https://open.spotify.com/track/7FbLFGKk2OBewYOgCa3cbT"
+    },
+    {
+      "added_at": "2024-10-24 22:33:39",
+      "album": {
+        "name": "wasn\u2019t a fighting kid",
+        "url": "https://open.spotify.com/album/6VzjjK4yMX1z1dUaOp5K1B"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 192521,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/3gDPvCx5hIoi4hFlJqeRqQ"
     },
     {
       "added_at": "2024-08-30 05:37:39",

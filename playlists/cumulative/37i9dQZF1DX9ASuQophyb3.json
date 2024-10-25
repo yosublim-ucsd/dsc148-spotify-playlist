@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak:  Melike \u015eahin ",
+  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Afra  ",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Deli Gibi Seviyorum",
+        "url": "https://open.spotify.com/album/4essjMvGbfxJXi6U4WyS6r"
+      },
+      "artists": [
+        {
+          "name": "Ahmet Hatipo\u011flu",
+          "url": "https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132042,
+      "name": "Deli Gibi Seviyorum",
+      "url": "https://open.spotify.com/track/5XxrX23t1iTDbHYCVqgXRJ"
+    },
+    {
+      "album": {
         "name": "Denizler Derya",
         "url": "https://open.spotify.com/album/2GkdmyUO37FrB3ia4XAbVX"
       },
@@ -963,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Koca D\u00fcnya",
+        "url": "https://open.spotify.com/album/5LFciOK381uamGyiw52mgF"
+      },
+      "artists": [
+        {
+          "name": "Reynmen",
+          "url": "https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149987,
+      "name": "Koca D\u00fcnya",
+      "url": "https://open.spotify.com/track/7BOOCYAsCdzVG7utgeCVr7"
+    },
+    {
+      "album": {
         "name": "K\u00f6m\u00fcr",
         "url": "https://open.spotify.com/album/1Cbcf1YvsNrMZs3pxYLHoD"
       },
@@ -1072,6 +1108,24 @@
       "duration_ms": 180743,
       "name": "MESELA",
       "url": "https://open.spotify.com/track/2K2jYYM9W8ndtP6PUxy2pc"
+    },
+    {
+      "album": {
+        "name": "Mevzu Derin",
+        "url": "https://open.spotify.com/album/1NVVh17oO9OQDmja5mPMTV"
+      },
+      "artists": [
+        {
+          "name": "\u0130kilem",
+          "url": "https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Mevzu Derin",
+      "url": "https://open.spotify.com/track/5VGWEPtPUKqjQwGO1Pyz2r"
     },
     {
       "album": {
@@ -1224,7 +1278,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 129088,
       "name": "Rak\u0131ya Meze Olal\u0131m",
       "url": "https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r"
@@ -1278,7 +1332,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 167000,
       "name": "Sen de S\u00f6yle",
       "url": "https://open.spotify.com/track/6Oj739ULJky8zu7oBew45O"
@@ -1460,6 +1514,28 @@
       "duration_ms": 209136,
       "name": "Tek Ba\u015f\u0131ma",
       "url": "https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ"
+    },
+    {
+      "album": {
+        "name": "Ufak Ufak ( Prod\u00fckt\u00f6r Genco Ar\u0131 )",
+        "url": "https://open.spotify.com/album/7ymv9rExQjWkW0QfrVMoJ4"
+      },
+      "artists": [
+        {
+          "name": "Melek Mosso",
+          "url": "https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj"
+        },
+        {
+          "name": "Genco Ar\u0131",
+          "url": "https://open.spotify.com/artist/58PCTeH2HDJNLkLwAwEeMu"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189645,
+      "name": "Ufak Ufak ( Prod\u00fckt\u00f6r Genco Ar\u0131 )",
+      "url": "https://open.spotify.com/track/7xMnDtpd1mYUnQz3kJPiz3"
     },
     {
       "album": {
@@ -1714,7 +1790,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 138068,
       "name": "Yeniden Sevemem",
       "url": "https://open.spotify.com/track/3EhcSZYykFJoMPhG0hWBKO"
@@ -1876,7 +1952,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 153000,
       "name": "\u00d6mr\u00fcm",
       "url": "https://open.spotify.com/track/0ergOoWEYjObq6mVvLDXNU"

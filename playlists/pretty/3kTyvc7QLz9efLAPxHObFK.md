@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,790 songs - 4 day 0 hr 0 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,793 songs - 4 day 0 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1798,5 +1798,8 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1788 | [Hercules](https://open.spotify.com/track/5snNv32doCTxKCYp3O0lPK) | [Gram](https://open.spotify.com/artist/3WtLwZYH0N8mqSaUjEW1kF) | [Hercules](https://open.spotify.com/album/7eJzbG3L4Jlb0hjVGajoL1) | 3:15 |
 | 1789 | [I CAN TAKE YOU THERE](https://open.spotify.com/track/4uYkxNpJGBcNr5jc4SEw6x) | [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [I CAN TAKE YOU THERE](https://open.spotify.com/album/4BnE4qdmD1Z9Dx2a7COyUj) | 1:34 |
 | 1790 | [S3XY BEAT](https://open.spotify.com/track/5uy2chCb2NFkUbJ3cZJIZb) | [R3T3P](https://open.spotify.com/artist/6SE1rirTZFq7eZa4VRoDJN) | [S3XY BEAT](https://open.spotify.com/album/6EpChXAAqnF6kLQrZYjKKN) | 2:24 |
+| 1791 | [CAN'T STOP WON'T STOP](https://open.spotify.com/track/5RryqMI5aokTEdcrFEjAMQ) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [CAN'T STOP WON'T STOP](https://open.spotify.com/album/5T9esNqz99018bZFPrdMNV) | 2:42 |
+| 1792 | [FREAKSHOW](https://open.spotify.com/track/1dm2RSzrFVDBgQDvJFBBZl) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [FREAKSHOW](https://open.spotify.com/album/6XDI0v0mfddr3Pr2vQdZD6) | 2:42 |
+| 1793 | [YOU AND I \- RAVE LOVE LIVE EDIT](https://open.spotify.com/track/1cS93RYSTrNOgrxiFINgDZ) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [RAVE LOVE PT.2](https://open.spotify.com/album/3p3wFoUkTRpFah1PqWWfTK) | 2:51 |
 
-Snapshot ID: `AAAHMWOPou06sh/LnNX0V1OwVzG4Slrf`
+Snapshot ID: `AAAHNChGd2tidkrMccv2iRnMkbWmcs1p`

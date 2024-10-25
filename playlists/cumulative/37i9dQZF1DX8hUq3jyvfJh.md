@@ -4,7 +4,7 @@
 
 > Escute Mc Luanna e mais mulheres no volume máximo! Co\-curadoria com <a href="spotify:playlist:37i9dQZF1DZ06evO45TXx1">Mc Luanna</a>.
 
-1,215 songs - 2 day 14 hr 18 min
+1,216 songs - 2 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,7 @@
 | [Faminta](https://open.spotify.com/track/5kvP2foAVQeYWxvozMLYgv) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 3:37 | 2023-05-03 | 2023-06-01 |
 | [Fantasmas de Nós](https://open.spotify.com/track/4G0kxdE8SQsQbTScG02kWY) | [bia balugani](https://open.spotify.com/artist/1UPnWfEg8eRQB38APaumd1) | [Fantasmas de Nós](https://open.spotify.com/album/4RoNIzFfgHwJyvbmF5lZKm) | 3:46 | 2024-05-06 | 2024-06-06 |
 | [Farol](https://open.spotify.com/track/3pEImjcVgLqkvdbx4SdUBF) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Nosso Lar](https://open.spotify.com/album/5PMug3ykgU4deQQo2dkmXk) | 3:09 | 2022-09-01 | 2022-10-06 |
-| [Faturo Bastante \- 1](https://open.spotify.com/track/67wAlplk4JhnILf1taFTG6) | [MaBapp](https://open.spotify.com/artist/7GNt5XtPdChjW3R9pKSa2U) | [FATURO BASTANTE \(1\)](https://open.spotify.com/album/68HaXVLqHxwa3Nim7ysjY2) | 2:11 | 2024-10-08 |  |
+| [Faturo Bastante \- 1](https://open.spotify.com/track/67wAlplk4JhnILf1taFTG6) | [MaBapp](https://open.spotify.com/artist/7GNt5XtPdChjW3R9pKSa2U) | [FATURO BASTANTE \(1\)](https://open.spotify.com/album/68HaXVLqHxwa3Nim7ysjY2) | 2:11 | 2024-10-08 | 2024-10-25 |
 | [Favelinha](https://open.spotify.com/track/3qjjTCINpvCRG22lFWUeod) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Favelinha](https://open.spotify.com/album/46iB1eRPEXsHE2IqPr1qHd) | 1:42 | 2023-08-02 | 2023-09-07 |
 | [Faz Assim](https://open.spotify.com/track/2qCSK0uuTnTBYa18SlSzyM) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Faz Assim](https://open.spotify.com/album/1qmvJynSDGx7sHhH0JO6Gf) | 3:37 | 2023-08-02 | 2024-03-07 |
 | [Faz Parte Do Meu Show](https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Faz Parte Do Meu Show](https://open.spotify.com/album/4YyhntF13f93ty7GdhyjI1) | 2:43 | 2023-10-04 | 2024-03-07 |
@@ -1144,6 +1144,7 @@
 | [Tá Melhor que Antes \- Ao Vivo](https://open.spotify.com/track/6pP5twEqrKYVlBiNvaV9kM) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 2:26 | 2023-04-05 | 2023-07-06 |
 | [TÁ TODO MUNDO MAL](https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [TÁ TODO MUNDO MAL](https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR) | 3:21 | 2023-02-01 | 2023-04-06 |
 | [Tão Bem](https://open.spotify.com/track/3gtpRPrT8H0xAfHH4f3xhb) | [Doralyce](https://open.spotify.com/artist/2y04NODkS9eKJV33k3VZBU) | [Dassalu](https://open.spotify.com/album/6x8n0iGSeiG79InFBDmVpt) | 3:17 | 2023-07-05 | 2023-08-03 |
+| [Tão Quente](https://open.spotify.com/track/6MpK6QzDyojBB8XJQnft7O) | [LETS](https://open.spotify.com/artist/1CPx6hzE0zvUB8BWICgb4d), [gusta](https://open.spotify.com/artist/7f7q6HGmtuHRYh76nArZwd) | [Tão Quente](https://open.spotify.com/album/2jqozhmbvoeFGkOfW0c7MD) | 2:36 | 2024-10-11 |  |
 | [Tô A Fim De Namorar](https://open.spotify.com/track/47LdfSGkGgTBS3AA9AwTIn) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Tô A Fim De Namorar](https://open.spotify.com/album/7yBSkGqjfXF2OpI2q05Uxb) | 2:41 | 2022-01-11 | 2022-02-04 |
 | [Tô de Partida](https://open.spotify.com/track/7gc0tC7esGv0TuudwFifgV) | [Karinah](https://open.spotify.com/artist/2fmAUYDODPfZav0wlyGnNb), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Tô de Partida](https://open.spotify.com/album/50f6RFDOEIod99NJVc274S) | 3:30 | 2022-05-04 | 2022-06-01 |
 | [Tô Dentro \- Ao Vivo](https://open.spotify.com/track/572e1p3tMlEruOwhsNjThd) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 2:52 | 2023-05-31 | 2023-07-06 |

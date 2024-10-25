@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Berq",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Sofie Royer",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -804,7 +804,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 171628,
       "name": "BLESSED",
       "url": "https://open.spotify.com/track/2cPqx00sDnkXgxHg9fSZQj"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 158137,
       "name": "Charade",
       "url": "https://open.spotify.com/track/6g0kIfHxJCpNVFh8vROprd"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 167466,
       "name": "Dies das",
       "url": "https://open.spotify.com/track/6ZOChTjEfZJosOhwKck4oE"
@@ -2999,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "Indoor Sport",
+        "url": "https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187010,
+      "name": "Indoor Sport",
+      "url": "https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk"
+    },
+    {
+      "album": {
         "name": "Pr\u00e9face",
         "url": "https://open.spotify.com/album/3rl3hmwkjUzD3S6CRnubvv"
       },
@@ -3496,7 +3514,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 205053,
       "name": "Major Love",
       "url": "https://open.spotify.com/track/31pvTbaEbnoP9iQBdKycYq"
@@ -4447,6 +4465,24 @@
     },
     {
       "album": {
+        "name": "berq",
+        "url": "https://open.spotify.com/album/0IuwP0usnrJ9wU5PEyELdn"
+      },
+      "artists": [
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147811,
+      "name": "PIROUETTEN",
+      "url": "https://open.spotify.com/track/3Vw4SxsPsVwG4xwK3Il0mP"
+    },
+    {
+      "album": {
         "name": "Pistazieneis",
         "url": "https://open.spotify.com/album/4j7WNx3I81WGPiadrrCOtB"
       },
@@ -5221,6 +5257,28 @@
     },
     {
       "album": {
+        "name": "sterne (sehen)",
+        "url": "https://open.spotify.com/album/14zt5jp4HcpFO5ulBfmK08"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "sterne (sehen)",
+      "url": "https://open.spotify.com/track/3T89eCrITaSdRKovtzqzUR"
+    },
+    {
+      "album": {
         "name": "STILL",
         "url": "https://open.spotify.com/album/7fDHX5PvCaeZd9RYdhwB25"
       },
@@ -5232,7 +5290,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 136482,
       "name": "STILL",
       "url": "https://open.spotify.com/track/1Vp0bkf6uEF72RMiPdsdn3"
@@ -5304,7 +5362,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 149211,
       "name": "sweatshop",
       "url": "https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ"
@@ -5406,7 +5464,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 235059,
       "name": "That Girl Is Rollercoaster",
       "url": "https://open.spotify.com/track/1XS9BH8bASVM1Vnr8XbSzG"
@@ -5700,7 +5758,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 181225,
       "name": "und du suchst noch \u00fcberall, alles was mal von mir war",
       "url": "https://open.spotify.com/track/5wOPYSiXuK3kpcf3ZH1BkM"
@@ -6350,7 +6408,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 140999,
       "name": "wir haben's \u00fcberlebt",
       "url": "https://open.spotify.com/track/4N2xigWIV1NWcMe6HRdalt"

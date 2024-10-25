@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan gems in one playlist. Cover: Coopy Bly",
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Joshua Baraka",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 187139,
       "name": "Bailando - Latin Urbano Remix",
       "url": "https://open.spotify.com/track/3D7q9QbalMOtCBNAsgLjY8"
@@ -3325,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
+    },
+    {
+      "album": {
         "name": "AFRICAN MUSIC (Deluxe)",
         "url": "https://open.spotify.com/album/7HDi7WEWMN9ZhnNPo2lMx8"
       },
@@ -3486,6 +3504,24 @@
       "duration_ms": 180638,
       "name": "MAD - INFINITY REMIX",
       "url": "https://open.spotify.com/track/4Yjd8cctVhkhYFgugKv2fp"
+    },
+    {
+      "album": {
+        "name": "With the Gs",
+        "url": "https://open.spotify.com/album/2iImAl76wIIxKAmg5oR0Pg"
+      },
+      "artists": [
+        {
+          "name": "Tungi",
+          "url": "https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130011,
+      "name": "Mademoiselle",
+      "url": "https://open.spotify.com/track/7m5dhRTG7iw0rdbiBUpgWy"
     },
     {
       "album": {
@@ -7176,7 +7212,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 164563,
       "name": "YANSIGALAMU",
       "url": "https://open.spotify.com/track/20AU478BGEdpmVuTJdqqsn"

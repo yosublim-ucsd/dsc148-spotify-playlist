@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-809 songs - 1 day 19 hr 25 min
+811 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Chasing Parties](https://open.spotify.com/track/6HspvxNi6wRqeZLPShEa5W) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Chasing Parties](https://open.spotify.com/album/6Sk7DuhjwpTKr00fbdQBQP) | 2:44 | 2019-08-27\* | 2019-11-11 |
 | [Cheap Queen](https://open.spotify.com/track/2U5Q0eGC03syuUie76vROa) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Cheap Queen](https://open.spotify.com/album/3IbecwxaNaaP9lt5sDTxAH) | 2:41 | 2019-08-27\* | 2020-02-12 |
 | [Chemical X](https://open.spotify.com/track/6NndAdLoSF1fcFtbRlGMLt) | [UNDREAM](https://open.spotify.com/artist/0HODHLn6ujo4Zmu17oF4HF), [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Chemical X](https://open.spotify.com/album/14XsugJWmxVLrI4P0sZhh8) | 2:58 | 2021-04-13 | 2022-07-30 |
+| [Chicago](https://open.spotify.com/track/3gDPvCx5hIoi4hFlJqeRqQ) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [wasn’t a fighting kid](https://open.spotify.com/album/6VzjjK4yMX1z1dUaOp5K1B) | 3:12 | 2024-10-24 |  |
 | [Chlorine \(Mexico City\)](https://open.spotify.com/track/4hhc1rMxhTFbTRf9gCFgyR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Mexico City\)](https://open.spotify.com/album/0aQZjurM8n5Fw7G55zDUyp) | 3:58 | 2019-08-27\* | 2019-11-11 |
 | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/track/5KyDKBcR0BEeLylGRDTCwF) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Cold Nights \(feat\. Stan Walker & Larissa Lambert\)](https://open.spotify.com/album/3hgBfbjG4TGdfjoqQZLjQi) | 3:06 | 2022-07-14 |  |
 | [Cold Summer](https://open.spotify.com/track/19itjIyWlRC8tzjRoHrsY2) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Cold Summer](https://open.spotify.com/album/0Muy06qfQDJet1xcZXnIzE) | 2:53 | 2019-08-27\* | 2019-11-11 |
@@ -167,6 +168,7 @@
 | [Demons](https://open.spotify.com/track/0KW2JqqbzkzlebDjXI62OB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Demons](https://open.spotify.com/album/0Y1lSBX381MOjxt5n72vN0) | 2:45 | 2020-01-17 | 2021-05-12 |
 | [Demons](https://open.spotify.com/track/0Y5nfKx3OnZWPIO0vHbinL) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/2aH7vOX17njaGz6Th2e8kK) | 2:59 | 2019-10-11 | 2021-05-12 |
 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 | 2023-05-09 |  |
+| [Diamonds](https://open.spotify.com/track/71SddLdFquZypKutuzoipz) | [Behani](https://open.spotify.com/artist/7vvFgDuVPeMioTFO7acxy0) | [Diamonds](https://open.spotify.com/album/4OhMS4hoH70xpg9a7EZiSm) | 2:40 | 2024-10-24 |  |
 | [Didn't Break It Enough](https://open.spotify.com/track/7zAPuRyZGRLPSGNnaj1H7X) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Didn't Break It Enough](https://open.spotify.com/album/2Zd8vhZtRzFkNWe2GQrc1v) | 3:01 | 2019-08-31 | 2020-04-06 |
 | [Didn't Mean to Kill a Man](https://open.spotify.com/track/1wbd3pC2wOXt83GxyUBa9k) | [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Paul Couture](https://open.spotify.com/artist/3mnV8nHkDFtgj44qwt4rVt) | [Charly](https://open.spotify.com/album/4GosWvtTy9cLfJIFbF2Pow) | 3:09 | 2022-10-21 | 2022-11-14 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 |  |

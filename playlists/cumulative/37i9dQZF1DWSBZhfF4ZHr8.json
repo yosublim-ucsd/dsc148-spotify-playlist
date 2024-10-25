@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Joseph Kamel & Mentissa",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Louane",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -678,7 +678,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 199160,
       "name": "Hyper",
       "url": "https://open.spotify.com/track/0np3gb4z1uCPbMzLPYVnoE"
@@ -1187,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "C\u0153ur papillon",
+        "url": "https://open.spotify.com/album/0EJqRM0ONZPOlTaPquF9J1"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259920,
+      "name": "Mauvais r\u00eave - 28 ans",
+      "url": "https://open.spotify.com/track/5yKtALi0PDiaPCQsng8CN5"
+    },
+    {
+      "album": {
         "name": "Mon coeur s'emballe",
         "url": "https://open.spotify.com/album/2uvaskU3CUJ0J52tIgNSnd"
       },
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 186868,
       "name": "Mon coeur s'emballe",
       "url": "https://open.spotify.com/track/4qHuDZFSevonIz8UO6mGTM"
@@ -1603,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Recommence-moi (Version hymne de la promo 2024)",
+        "url": "https://open.spotify.com/album/35gjX59noxxDreblcjF2vG"
+      },
+      "artists": [
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Recommence-moi (Version hymne de la promo 2024)",
+      "url": "https://open.spotify.com/track/2pmouGx109C0GKJ8hb39B4"
+    },
+    {
+      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz"
       },
@@ -1751,6 +1787,28 @@
     },
     {
       "album": {
+        "name": "soleil",
+        "url": "https://open.spotify.com/album/2Qekmf7UNnDE83P1waFV9x"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        },
+        {
+          "name": "P3GASE",
+          "url": "https://open.spotify.com/artist/5gp2bynafc2IgEWzOBAbIe"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159377,
+      "name": "soleil",
+      "url": "https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK"
+    },
+    {
+      "album": {
         "name": "Pas de seum pour le summer",
         "url": "https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA"
       },
@@ -1852,7 +1910,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 187844,
       "name": "Tant pis",
       "url": "https://open.spotify.com/track/6n7hzVFg5Xn7VCthjITRsW"

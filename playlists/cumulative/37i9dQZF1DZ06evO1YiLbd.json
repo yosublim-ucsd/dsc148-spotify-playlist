@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-12-24",
-  "description": "This is \u6797\u3086\u3046\u304d. The essential tracks, all in one playlist.",
-  "name": "This Is \u6797\u3086\u3046\u304d",
+  "description": "This is Yuki Hayashi. The essential tracks, all in one playlist.",
+  "name": "This Is Yuki Hayashi",
   "tracks": [
     {
       "album": {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 81666,
       "name": "From Me to You",
       "url": "https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb"
@@ -662,6 +662,24 @@
       "duration_ms": 113302,
       "name": "Our Journey (feat. AKKOGORILLA)",
       "url": "https://open.spotify.com/track/1UqpL7fkplOA3fqFEKtTRk"
+    },
+    {
+      "album": {
+        "name": "My Hero Academia: Season 7 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4byfDUJb8WNsQuCnz2elG1"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166066,
+      "name": "Quintuble",
+      "url": "https://open.spotify.com/track/09hawwfdE4t6tMJcqB4boW"
     },
     {
       "album": {
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 132866,
       "name": "\u30aa\u30fc\u30eb\uff65\u30d5\u30a9\u30fc\uff65\u30ef\u30f3",
       "url": "https://open.spotify.com/track/0fW6pNl1nIgPWaUaCnn4LZ"
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 199866,
       "name": "\u6b6f\u8eca",
       "url": "https://open.spotify.com/track/3kMYYFcPC0rgig7GC1Fbm8"

@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 345353,
       "name": "2000 Species of Cacti",
       "url": "https://open.spotify.com/track/5BSYgwYUzz0ZAet4uPhjkE"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 269298,
       "name": "Bay Beh",
       "url": "https://open.spotify.com/track/6bLKfy7O2AZxos4DsHa8oo"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 335238,
       "name": "Da Luna (Mobin Master Remix Edit)",
       "url": "https://open.spotify.com/track/326amxVZ0bnnZH8KPUlUky"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 508120,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Down with Tha",
+        "url": "https://open.spotify.com/album/1BdGSrhS9QvdavkUPk5Hpw"
+      },
+      "artists": [
+        {
+          "name": "Waze & Odyssey",
+          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427282,
+      "name": "Down With Tha",
+      "url": "https://open.spotify.com/track/1eIRfWpUX00kO1Dn7JzTTv"
+    },
+    {
+      "album": {
         "name": "Defected Presents House Masters - Junior Jack",
         "url": "https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw"
       },
@@ -786,10 +804,28 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 265450,
       "name": "Four Flute Tunes",
       "url": "https://open.spotify.com/track/6QOgI2bK5BGc42cVZYtnfs"
+    },
+    {
+      "album": {
+        "name": "TANZPARTEI II (Mixtape)",
+        "url": "https://open.spotify.com/album/6lvniwPO6u3mkNTN3tSQcR"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151599,
+      "name": "Friday (Alone Right Now)",
+      "url": "https://open.spotify.com/track/3hx5rxhEbaSIoHY1erGnby"
     },
     {
       "album": {
@@ -902,7 +938,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 166384,
       "name": "Ginger (Feel Good)",
       "url": "https://open.spotify.com/track/0lDb4lRcpgiH698Y1tavNi"
@@ -1044,6 +1080,24 @@
       "duration_ms": 450706,
       "name": "Green Gold - Original Mix",
       "url": "https://open.spotify.com/track/4oNNWgfEscsqSbMFwmaYeo"
+    },
+    {
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2qW5OsFApVV4uFsXSHu1YF"
+      },
+      "artists": [
+        {
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232676,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/1Q09LzROZCdwuPtvtKGd0f"
     },
     {
       "album": {
@@ -1249,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Innervision",
+        "url": "https://open.spotify.com/album/0c1IjRlbbLHHzCuha28nKw"
+      },
+      "artists": [
+        {
+          "name": "Jacques Lu Cont",
+          "url": "https://open.spotify.com/artist/4SINYGzldpKMExpCjseS9o"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180975,
+      "name": "Innervision",
+      "url": "https://open.spotify.com/track/0jseLFYTtQ86JoTAQBlU2T"
+    },
+    {
+      "album": {
         "name": "Another Chemical Love Story",
         "url": "https://open.spotify.com/album/1lBxw3WDeUdQyo2YiB4SVr"
       },
@@ -1286,7 +1358,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 384923,
       "name": "It Could\u2019ve Been You",
       "url": "https://open.spotify.com/track/5hJZkfZ6tZQ7cD7U5q36Su"
@@ -1746,7 +1818,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 277867,
       "name": "Midnight Getaway",
       "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
@@ -1917,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "New Millenium",
+        "url": "https://open.spotify.com/album/2sIYtRB8z9CPfU6hQAgAK8"
+      },
+      "artists": [
+        {
+          "name": "Topazz",
+          "url": "https://open.spotify.com/artist/46Ypf6yVzj7hnEwhoe6JOg"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "New Millenium - Freezy Jam Radio Edit",
+      "url": "https://open.spotify.com/track/1E5MMjNmW1wu89PGPdZvcx"
+    },
+    {
+      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/6cUtlYLQKwgJUFL9frOWTF"
       },
@@ -1946,7 +2036,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 255940,
       "name": "Not Quite There Yet",
       "url": "https://open.spotify.com/track/0EX0CP2EnRWSE3oQ4GVzcE"
@@ -1968,6 +2058,24 @@
       "duration_ms": 439261,
       "name": "Now Are We Made Or Are We Made Man",
       "url": "https://open.spotify.com/track/1veItRr9Vqrl4OZzW6we72"
+    },
+    {
+      "album": {
+        "name": "Hot Waves Compilation Vol. Two",
+        "url": "https://open.spotify.com/album/0w7UCEWHt0uggzleqISZ7p"
+      },
+      "artists": [
+        {
+          "name": "Lee M Kelsall",
+          "url": "https://open.spotify.com/artist/5I8FMo1nYAsVrLAjTYc3Up"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428226,
+      "name": "On The Road - Matt Fear Remix",
+      "url": "https://open.spotify.com/track/31ebQLtNlxtuTsyEyl1TCD"
     },
     {
       "album": {
@@ -2092,7 +2200,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 193885,
       "name": "Please Be Mine",
       "url": "https://open.spotify.com/track/6S5dsmCHrJccV7gK5frnxy"
@@ -2114,10 +2222,32 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 466564,
       "name": "Point - Audiojack Remix",
       "url": "https://open.spotify.com/track/1KLJbPjIfLfNOFdxq74Flv"
+    },
+    {
+      "album": {
+        "name": "Contemporary Part One",
+        "url": "https://open.spotify.com/album/3BE74bKCN2dVmfjjVqw4iM"
+      },
+      "artists": [
+        {
+          "name": "Oliver Dollar",
+          "url": "https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3"
+        },
+        {
+          "name": "Austin Ato",
+          "url": "https://open.spotify.com/artist/6sCrZwNbMhp1iahiiFQY66"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208050,
+      "name": "Portamento Track",
+      "url": "https://open.spotify.com/track/5MSWa4radIlrmNR58r1Chr"
     },
     {
       "album": {
@@ -2266,7 +2396,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 371400,
       "name": "Rhode House",
       "url": "https://open.spotify.com/track/3cljuFqEFmwEPAV1zpVSJP"
@@ -2374,7 +2504,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 179864,
       "name": "something will happen",
       "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
@@ -2435,6 +2565,28 @@
     },
     {
       "album": {
+        "name": "Space Fruit Vineyard (Remixed)",
+        "url": "https://open.spotify.com/album/3XY21xmQRlD0p1df67OSPl"
+      },
+      "artists": [
+        {
+          "name": "Japanese Television",
+          "url": "https://open.spotify.com/artist/5LLn18vxU1UTY1ypouVGNW"
+        },
+        {
+          "name": "Gabe Gurnsey",
+          "url": "https://open.spotify.com/artist/1tZeQ8pR2cJc1nFtaFeCdu"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220329,
+      "name": "Space Fruit Vineyard - Gabe Gurnsey Remix",
+      "url": "https://open.spotify.com/track/1DPHnMXpnwaTgne4oLkcry"
+    },
+    {
+      "album": {
         "name": "Lollipop EP",
         "url": "https://open.spotify.com/album/0ttuqdNulqfHcqasUN0cHe"
       },
@@ -2472,6 +2624,24 @@
       "duration_ms": 217920,
       "name": "Steam Train",
       "url": "https://open.spotify.com/track/0QqJ9vfcj9p43zRar2KhRY"
+    },
+    {
+      "album": {
+        "name": "Still Riding",
+        "url": "https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219152,
+      "name": "Still Riding",
+      "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"
     },
     {
       "album": {
@@ -2609,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Swiss Sensation",
+        "url": "https://open.spotify.com/album/4GYcaieVtUoEV7piq7JPpo"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227214,
+      "name": "Swiss Sensation",
+      "url": "https://open.spotify.com/track/6NJO9Eg83rZwRIdLS0dFTQ"
+    },
+    {
+      "album": {
         "name": "Rumba EP",
         "url": "https://open.spotify.com/album/4R2hwzUEoNQIHbBZ6M5Uo7"
       },
@@ -2685,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "Midnight Magic",
+        "url": "https://open.spotify.com/album/0Q4wxYt0XEQivBsu6dTwjE"
+      },
+      "artists": [
+        {
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "The Faun enters the New Age",
+      "url": "https://open.spotify.com/track/0bB2ppfeVZEZJOHKYaXqLS"
+    },
+    {
+      "album": {
         "name": "Buzzin' Fly Vol 1 EP",
         "url": "https://open.spotify.com/album/0q5krZLF5rH5DsOBZyp2dl"
       },
@@ -2739,6 +2945,24 @@
     },
     {
       "album": {
+        "name": "Total Unison EP",
+        "url": "https://open.spotify.com/album/5GV8PdHjVQmj3bXY0zIXUQ"
+      },
+      "artists": [
+        {
+          "name": "D Stone",
+          "url": "https://open.spotify.com/artist/54G5Bq4yKz8mwGYFsffne9"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484470,
+      "name": "Total Unison",
+      "url": "https://open.spotify.com/track/3e5hFqFf5iltTKxhCIavOM"
+    },
+    {
+      "album": {
         "name": "Touch Me Again",
         "url": "https://open.spotify.com/album/7JOcBzvAvNU304fGX6fqZf"
       },
@@ -2750,10 +2974,28 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 230800,
       "name": "Touch Me Again - Edit",
       "url": "https://open.spotify.com/track/2Rsv8eFIjEo8sixxdf9aBV"
+    },
+    {
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/170r20694xYdxI75j19g6q"
+      },
+      "artists": [
+        {
+          "name": "Muslimgauze",
+          "url": "https://open.spotify.com/artist/7bO9rUH5Yd2Td8S1TMoBUP"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386283,
+      "name": "Untitled 1985 - Victor Shan/Gerd Janson Rave mix",
+      "url": "https://open.spotify.com/track/3npzM5cYdzTTWtwE2cK8N2"
     },
     {
       "album": {
@@ -2790,6 +3032,24 @@
       "duration_ms": 344921,
       "name": "VoX",
       "url": "https://open.spotify.com/track/6R6PioJAemBmPGc2RbhitG"
+    },
+    {
+      "album": {
+        "name": "Want My Love",
+        "url": "https://open.spotify.com/album/07JjhUiTinOcb02BCBd2QL"
+      },
+      "artists": [
+        {
+          "name": "Mineo",
+          "url": "https://open.spotify.com/artist/1pgSJtH1TwIAxeSn4vSJJR"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205075,
+      "name": "Want My Love",
+      "url": "https://open.spotify.com/track/1Jg65EDU6dZXiqjRb1OXlE"
     },
     {
       "album": {
@@ -2870,6 +3130,24 @@
       "duration_ms": 238228,
       "name": "What U Want - Edit",
       "url": "https://open.spotify.com/track/6NvjuIDIoOx0LKVoiJ5VQa"
+    },
+    {
+      "album": {
+        "name": "EN-GIRO",
+        "url": "https://open.spotify.com/album/6wraJpj5A19P6paIdaK1IJ"
+      },
+      "artists": [
+        {
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345219,
+      "name": "Y6Y9",
+      "url": "https://open.spotify.com/track/5vK6q2ezSUYIfxR9OXBlDM"
     },
     {
       "album": {

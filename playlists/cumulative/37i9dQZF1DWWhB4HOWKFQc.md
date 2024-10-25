@@ -2,7 +2,7 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Nyoman Paul
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Idgitaf
 
 799 songs - 2 day 0 hr 8 min
 

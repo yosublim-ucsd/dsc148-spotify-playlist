@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trannos, Billy Sio ",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: VLOSPA",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -555,6 +555,24 @@
     },
     {
       "album": {
+        "name": "Big Moves (Vol. 5)",
+        "url": "https://open.spotify.com/album/747EY8D8c4okD7qyfWOKNt"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166138,
+      "name": "Big Moves - Vol. 5",
+      "url": "https://open.spotify.com/track/01CrjNySWaln8aBVJA1MAg"
+    },
+    {
+      "album": {
         "name": "TOPBOY 2",
         "url": "https://open.spotify.com/album/1vAde1dIOlmEuT2UqK2EyK"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 201093,
       "name": "DIDGERIDOO",
       "url": "https://open.spotify.com/track/0eKVBdxBNs9vgG3Yi4Ccqj"
@@ -1138,6 +1156,32 @@
       "duration_ms": 145920,
       "name": "Ecstasy",
       "url": "https://open.spotify.com/track/0UraJ35Eb2OvSCxT9ydVyq"
+    },
+    {
+      "album": {
+        "name": "Eforia",
+        "url": "https://open.spotify.com/album/4QXbIx0AstIuqtFKCqRhje"
+      },
+      "artists": [
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136111,
+      "name": "Eforia",
+      "url": "https://open.spotify.com/track/5x2xRWcmjgkDkvShlGKkuR"
     },
     {
       "album": {
@@ -2012,7 +2056,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 167832,
       "name": "Killer Instict",
       "url": "https://open.spotify.com/track/0JqVQLDT3Y21rTZwGrdjlu"
@@ -2972,7 +3016,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 149243,
       "name": "OTAN LEIPEIS",
       "url": "https://open.spotify.com/track/539ZkoZfOt9DdoOjbyKwr9"
@@ -3537,6 +3581,28 @@
     },
     {
       "album": {
+        "name": "Sexy Lady",
+        "url": "https://open.spotify.com/album/5ZQByv7evQ03YpUYH8fUFu"
+      },
+      "artists": [
+        {
+          "name": "Miccap",
+          "url": "https://open.spotify.com/artist/3E69lOJmmam9z4hYjHzaeb"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Sexy Lady",
+      "url": "https://open.spotify.com/track/0uNOPjIB2uBEQznfxmOMdJ"
+    },
+    {
+      "album": {
         "name": "EYE OF THE TIGER",
         "url": "https://open.spotify.com/album/61sB6y1OGLHk585htCrZET"
       },
@@ -4078,7 +4144,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 134400,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/454F8uQt4IlAvBvh54CRrG"

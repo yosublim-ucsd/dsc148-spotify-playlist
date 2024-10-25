@@ -2,40 +2,40 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Satine
+> La pop française annonce la couleur\. Photo : RORI
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,191 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,195 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 |
+| 1 | [Jalousie](https://open.spotify.com/track/2hgCNYw8TW4w073ByEBnGW) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Jalousie](https://open.spotify.com/album/66edblwvSbM907hRkXBXxO) | 2:50 |
 | 2 | [Hyperactive](https://open.spotify.com/track/5hE51jiGMi0W2z2F1Ixvy9) | [Olivia Stone](https://open.spotify.com/artist/4mMTY96feLo3gtXjxfL6KI) | [Hyperactive](https://open.spotify.com/album/344YOeLbhdA4H3VdHuJiDL) | 2:24 |
 | 3 | [ptn de bpm](https://open.spotify.com/track/3anfyeUByPwQqQJA09N5qv) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [ptn de bpm](https://open.spotify.com/album/4pLUZiEUynP3kkzPXqZvYq) | 2:39 |
 | 4 | [Madame](https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Curriculum Vitae](https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF) | 3:31 |
 | 5 | [T'es pas sexy](https://open.spotify.com/track/2mcCyO4TaJ6oblNZehxYzF) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [T'es pas sexy](https://open.spotify.com/album/2zvv8XQSz2Mkc7PsP9ZDXw) | 2:29 |
-| 6 | [Jalousie](https://open.spotify.com/track/2hgCNYw8TW4w073ByEBnGW) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Jalousie](https://open.spotify.com/album/66edblwvSbM907hRkXBXxO) | 2:50 |
+| 6 | [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 |
 | 7 | [À la folie](https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur \(EP.I\)](https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w) | 2:42 |
 | 8 | [Julia](https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx) | 2:38 |
 | 9 | [H24](https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [H24](https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz) | 3:36 |
 | 10 | [Allô Maman](https://open.spotify.com/track/7tNd1NnEBszKvvq2u0o53f) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Allô Maman](https://open.spotify.com/album/6kVmOGyzXmxtydPABFdDgO) | 2:40 |
 | 11 | [Alex](https://open.spotify.com/track/5R7dHttk73af39FRw0o9Vd) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations tendres et violentes](https://open.spotify.com/album/4o9lDSTNgHl7awjtrJ2ocu) | 3:10 |
-| 12 | [Nique le champagne](https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [Nique le champagne](https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z) | 2:24 |
-| 13 | [Les bonbons](https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Les bonbons](https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI) | 2:51 |
+| 12 | [Les bonbons](https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Les bonbons](https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI) | 2:51 |
+| 13 | [Nique le champagne](https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [Nique le champagne](https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z) | 2:24 |
 | 14 | [être biennn](https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [CRASH CŒUR](https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK) | 3:27 |
 | 15 | [Bad boy malheureux](https://open.spotify.com/track/2k97hRZibwZ37AqZK94hDN) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Bad boy malheureux](https://open.spotify.com/album/0ICKCzueAH2mN4nCbUr1eD) | 2:54 |
 | 16 | [Rater une rupture pour les nuls](https://open.spotify.com/track/14u2iSpjGbeMKO4xBUBXMD) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Rater une rupture pour les nuls](https://open.spotify.com/album/7rnvFhaTNyEvTrU9vzYotg) | 4:54 |
 | 17 | [Les Armes](https://open.spotify.com/track/2WEexWKjumCknzB41qU2UV) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Les Armes](https://open.spotify.com/album/7lWeyEno9C9MCDlOEFeGq1) | 3:07 |
 | 18 | [Rester Pur.e](https://open.spotify.com/track/553SFuQ2AzrnvsXI2f5VtH) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Rester Pur.e](https://open.spotify.com/album/2b2JfK1MXqXW95DB7kexYp) | 3:07 |
 | 19 | [Dos à dos](https://open.spotify.com/track/3LbBdZRxB64YyATKxU9dnu) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Dos à dos](https://open.spotify.com/album/7ej2K36nBFm3LQJ0KhDk5V) | 3:20 |
-| 20 | [TOUT PERDU](https://open.spotify.com/track/1ChwhWgYzBfbRLevdFFFql) | [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [TOUT PERDU](https://open.spotify.com/album/1E2lZ16kLL0r0db688qhuI) | 2:45 |
-| 21 | [JSR](https://open.spotify.com/track/5ih6mWnWdN5G1HjeFw67Sj) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [JSR](https://open.spotify.com/album/47sHlsJMsznaO1HqISEbs4) | 2:03 |
+| 20 | [JSR](https://open.spotify.com/track/5ih6mWnWdN5G1HjeFw67Sj) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [JSR](https://open.spotify.com/album/47sHlsJMsznaO1HqISEbs4) | 2:03 |
+| 21 | [TOUT PERDU](https://open.spotify.com/track/1ChwhWgYzBfbRLevdFFFql) | [Orlane](https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF) | [TOUT PERDU](https://open.spotify.com/album/1E2lZ16kLL0r0db688qhuI) | 2:45 |
 | 22 | [Toute seule](https://open.spotify.com/track/3AUFJBCkOtXq72YJoA7zut) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs](https://open.spotify.com/album/4TfpdOT8R7jwpZbUwsKWkN) | 3:17 |
 | 23 | [Mille morceaux](https://open.spotify.com/track/1RL1DA4TEX4bWriUBuTqSf) | [Basile Palace](https://open.spotify.com/artist/4ASHH7WSwXwrGF8R3TLfAh) | [Mille morceaux](https://open.spotify.com/album/4DWdVyBWJzf6YKrtHKLTOD) | 3:03 |
 | 24 | [30 ans](https://open.spotify.com/track/5zS56FbnzjCkGtQhgFxjYB) | [Doowy](https://open.spotify.com/artist/3jUx2DQWz07IKsro3PXKu4) | [30 ans](https://open.spotify.com/album/3CbHShF8YlQHLClqf27Oz1) | 2:41 |
 | 25 | [boomerang](https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [boomerang](https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY) | 2:57 |
-| 26 | [Nuit d'hiver](https://open.spotify.com/track/7E7A4Bjp1W8RU1FnldFfEx) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Nuit d'hiver](https://open.spotify.com/album/1sEQ4PyefTPD5JGaEBAPEH) | 3:08 |
-| 27 | [Différent](https://open.spotify.com/track/0rsQzwBrn9RrjEyjfNVvbb) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Différent](https://open.spotify.com/album/2PE9Pv9u514of30rXW3s4I) | 2:30 |
-| 28 | [Un peu trop](https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:34 |
+| 26 | [Un peu trop](https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights \(Edition Deluxe\)](https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD) | 2:34 |
+| 27 | [Nuit d'hiver](https://open.spotify.com/track/7E7A4Bjp1W8RU1FnldFfEx) | [Princesse](https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw) | [Nuit d'hiver](https://open.spotify.com/album/1sEQ4PyefTPD5JGaEBAPEH) | 3:08 |
+| 28 | [Différent](https://open.spotify.com/track/0rsQzwBrn9RrjEyjfNVvbb) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Différent](https://open.spotify.com/album/2PE9Pv9u514of30rXW3s4I) | 2:30 |
 | 29 | [La fête](https://open.spotify.com/track/1MWvuaca5jEoW7mw886I6h) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [Héroïne](https://open.spotify.com/album/02l79HbBs95Zn1QiUau0On) | 2:54 |
 | 30 | [Playboy](https://open.spotify.com/track/6yM7BqM060fqEvVN6ukugK) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Les Extraordinaires Histoires d'Amour de St Graal](https://open.spotify.com/album/62JxbuSVRrQQy2MeqJNuXh) | 2:23 |
 | 31 | [Tant mieux](https://open.spotify.com/track/1BgR63pmy3zqwIibDPepuU) | [Pierre Guénard](https://open.spotify.com/artist/1QO4qcZJORpIuWc1IREzkX) | [Tant mieux](https://open.spotify.com/album/06pEfIyN7FWw5pMYmUMJoA) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Elle](https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Elle](https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi) | 3:27 |
 | 50 | [Mélancolie](https://open.spotify.com/track/3Ndb2yAdF5B5mLocz7iIyf) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Mélancolie](https://open.spotify.com/album/1Md5rUEu50jUGKPatnGv1I) | 3:41 |
 
-Snapshot ID: `ZxGI4AAAAABIrxcql9jlECS/Eq/NgMtM`
+Snapshot ID: `ZxrDYAAAAACPeDlgtkaZpe+8s6OP2izV`

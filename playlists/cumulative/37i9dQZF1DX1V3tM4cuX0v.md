@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> Найпопулярніші пісні сьогодення\. Обкладинка: Океан Ельзи
+> Найпопулярніші пісні сьогодення\. Обкладинка: ROSÉ & Bruno Mars
 
 72 songs - 3 hr 28 min
 

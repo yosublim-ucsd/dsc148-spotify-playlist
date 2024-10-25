@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: sept-oct 2024 (previous playlists archived on my profile) (image source: @therapist_kirby on IG)",
-  "num_followers": 21827,
+  "num_followers": 21830,
   "original_name": "what dreams may come",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALONF1/TIHicPm3828RxScChlfSn+P",
+  "snapshot_id": "AAALPYQf1QOQ1qFGFk/t+oPlAREO+rbP",
   "tracks": [
     {
       "added_at": "2024-09-07 23:53:02",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/0gpGBZAX9ASpInrBXcg1te"
     },
     {
+      "added_at": "2024-10-24 15:45:19",
+      "album": {
+        "name": "harvest sky / obvious",
+        "url": "https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 135667,
+      "name": "obvious",
+      "url": "https://open.spotify.com/track/786jy4LS2o1DIPIcul4y7D"
+    },
+    {
       "added_at": "2024-10-22 19:29:57",
       "album": {
         "name": "HOPELESSNESS",
@@ -963,6 +979,54 @@
       "duration_ms": 158060,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/64w8GIJRkm6zejGjxLVN3K"
+    },
+    {
+      "added_at": "2024-10-24 15:45:27",
+      "album": {
+        "name": "ROCKMAN",
+        "url": "https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 179370,
+      "name": "ROCKMAN",
+      "url": "https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL"
+    },
+    {
+      "added_at": "2024-10-24 17:35:58",
+      "album": {
+        "name": "Music From The Adventures Of Pete & Pete",
+        "url": "https://open.spotify.com/album/1cqCEa8ldM7nwcEINzz8MA"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/1ZOKm4ZfrMPjTynDt99aCp"
+        }
+      ],
+      "duration_ms": 188120,
+      "name": "She Is Staggering",
+      "url": "https://open.spotify.com/track/6hFaRjM7c0QizkgMkZsdwg"
+    },
+    {
+      "added_at": "2024-10-24 17:36:40",
+      "album": {
+        "name": "These Are Not Fall Colors",
+        "url": "https://open.spotify.com/album/3Is1zxmfs8xXPL8QnB27kd"
+      },
+      "artists": [
+        {
+          "name": "Lync",
+          "url": "https://open.spotify.com/artist/31fnC8wbw2ZBITgOp6KKoY"
+        }
+      ],
+      "duration_ms": 270813,
+      "name": "B",
+      "url": "https://open.spotify.com/track/7t1FUkqJRdQdNrkjwfhq2H"
     }
   ],
   "unique_name": "what dreams may come",

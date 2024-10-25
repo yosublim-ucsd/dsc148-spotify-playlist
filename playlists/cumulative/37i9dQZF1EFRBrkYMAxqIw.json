@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241768,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu"
+    },
+    {
+      "album": {
         "name": "Famous for a Day",
         "url": "https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M"
       },

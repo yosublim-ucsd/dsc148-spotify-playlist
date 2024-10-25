@@ -220,7 +220,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 186191,
       "name": "Accidentally (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
@@ -8808,6 +8808,28 @@
       "duration_ms": 176516,
       "name": "Still Up",
       "url": "https://open.spotify.com/track/72FcNQ4PJNAWEaNS2lgpty"
+    },
+    {
+      "album": {
+        "name": "What Happens After",
+        "url": "https://open.spotify.com/album/374kRLUEswPACwvirpCPG1"
+      },
+      "artists": [
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/6rF5VIN5txpH264rYC1UVh"
     },
     {
       "album": {

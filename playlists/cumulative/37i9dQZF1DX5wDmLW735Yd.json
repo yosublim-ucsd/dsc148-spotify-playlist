@@ -2051,6 +2051,32 @@
     },
     {
       "album": {
+        "name": "Break The Cycle",
+        "url": "https://open.spotify.com/album/3fmDlwCdrrweAQSSOeqkNB"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Break The Cycle",
+      "url": "https://open.spotify.com/track/0efgmVpvoA8QUbowptA5J4"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/25u6Jd11wYorlIrHAksRtH"
       },
@@ -2190,7 +2216,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 145438,
       "name": "Bring Me Joy",
       "url": "https://open.spotify.com/track/7f8EzmXuroHbrt9K8sLSEz"
@@ -2706,7 +2732,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 167600,
       "name": "Click Click Click",
       "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
@@ -2872,6 +2898,32 @@
       "duration_ms": 273106,
       "name": "Code Red - 94 Extended Remix",
       "url": "https://open.spotify.com/track/7yL3wCDOfjfvs7gYvh0DSO"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/2G8OZPlwKrzWxkEEfWbbFV"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5Hp4Q5prxVLlWi0GcUApIM"
     },
     {
       "album": {
@@ -3145,6 +3197,28 @@
     },
     {
       "album": {
+        "name": "Curtain Call",
+        "url": "https://open.spotify.com/album/4yzoYL0O0VSACgnOytIqS5"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "ARTAN",
+          "url": "https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201071,
+      "name": "Curtain Call",
+      "url": "https://open.spotify.com/track/2FpKhOSjXEIsML61zNDibJ"
+    },
+    {
+      "album": {
         "name": "Red Collection",
         "url": "https://open.spotify.com/album/7pV81VtXM04sZNBfzZkDkT"
       },
@@ -3178,7 +3252,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 158965,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/3WLkk22rygJ3whtqu0OXIZ"
@@ -5678,7 +5752,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 161379,
       "name": "Gideon's Charge (feat. KINGH) - Edit",
       "url": "https://open.spotify.com/track/7t0WZ9eqHbwicqu3XcCD5x"
@@ -6800,7 +6874,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 166206,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/6iF5E6zMaAYu1LHlepossi"
@@ -8950,7 +9024,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 224827,
       "name": "Loved You So",
       "url": "https://open.spotify.com/track/0eAikblA7zLjI1ygfuQI1b"
@@ -11139,6 +11213,24 @@
     },
     {
       "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/0pSnRC8TDE1j7B04j7QIq3"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/5o4ekLO60BhAf4s9LhefCL"
+    },
+    {
+      "album": {
         "name": "Phantasm",
         "url": "https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx"
       },
@@ -11430,6 +11522,28 @@
       "duration_ms": 153558,
       "name": "Punk",
       "url": "https://open.spotify.com/track/729B5zjWEZ1GPow5IzTJhJ"
+    },
+    {
+      "album": {
+        "name": "Push The Tempo",
+        "url": "https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161829,
+      "name": "Push The Tempo",
+      "url": "https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih"
     },
     {
       "album": {
@@ -14624,6 +14738,36 @@
       "duration_ms": 156890,
       "name": "The Corner (feat. Joe Devlin)",
       "url": "https://open.spotify.com/track/4IXaBsfsyE1OIcM2zF8ns0"
+    },
+    {
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/3cPlIoKj0mGfn4gOJGf1Ms"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168929,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/2XwfwHvM8iqvWL5bZWbo86"
     },
     {
       "album": {

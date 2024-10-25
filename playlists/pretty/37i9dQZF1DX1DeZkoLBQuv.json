@@ -1,6 +1,6 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 8199,
+  "num_followers": 8209,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Por Amor a N\u00f3s",
+      "url": "https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "O Natal de Todos N\u00f3s",
         "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
@@ -647,18 +663,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+        "name": "Natal Real",
+        "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
       },
       "artists": [
         {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Novo Tom",
+          "url": "https://open.spotify.com/artist/45y2879LBmuzrx4krY6vQh"
+        },
+        {
+          "name": "Vitrine UNASP",
+          "url": "https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK"
         }
       ],
-      "duration_ms": 283933,
-      "name": "Por Amor a N\u00f3s",
-      "url": "https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw"
+      "duration_ms": 256217,
+      "name": "Natal Real",
+      "url": "https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -683,26 +703,6 @@
       "duration_ms": 282500,
       "name": "Como Um de N\u00f3s - Ao Vivo",
       "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Natal Real",
-        "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
-      },
-      "artists": [
-        {
-          "name": "Novo Tom",
-          "url": "https://open.spotify.com/artist/45y2879LBmuzrx4krY6vQh"
-        },
-        {
-          "name": "Vitrine UNASP",
-          "url": "https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK"
-        }
-      ],
-      "duration_ms": 256217,
-      "name": "Natal Real",
-      "url": "https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 267911,
-      "name": "O Melhor Presente",
-      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Folk Christmas",
         "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Seu Nome",
-        "url": "https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ"
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
       "artists": [
         {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
         }
       ],
-      "duration_ms": 191735,
-      "name": "Seu Nome",
-      "url": "https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr"
+      "duration_ms": 267911,
+      "name": "O Melhor Presente",
+      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
+        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
+      },
+      "artists": [
+        {
+          "name": "Perlla",
+          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Vem Chegando o Natal",
+      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
-        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
+        "name": "Seu Nome",
+        "url": "https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ"
       },
       "artists": [
         {
-          "name": "Perlla",
-          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Vem Chegando o Natal",
-      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
+      "duration_ms": 191735,
+      "name": "Seu Nome",
+      "url": "https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr"
     },
     {
       "added_at": "2023-12-22 03:00:00",

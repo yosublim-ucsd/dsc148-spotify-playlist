@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,079 songs - 9 day 13 hr 8 min
+4,080 songs - 9 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,7 +951,7 @@
 | [DON'T GET TOO COMFORTABLE](https://open.spotify.com/track/48earCyJNOWoCFdLqqZg43) | [Runyu Qian](https://open.spotify.com/artist/4ImAOESUJEOZ44ubwuoj1X) | [FUSS!ON](https://open.spotify.com/album/1IvtjWdVqvI7bTtgmp5e98) | 2:31 | 2023-12-31 | 2024-01-08 |
 | [Don't Go Solo on Me](https://open.spotify.com/track/5bfcGEl3QrVjW5Ntz4nOPO) | [David G Cross](https://open.spotify.com/artist/7HLWe6STJoi2O3AkbzUwjK) | [Don't Go Solo on Me](https://open.spotify.com/album/0Z3kusbysTRdWh6NWMGhvv) | 2:50 | 2023-12-16 | 2023-12-24 |
 | [Don't Hate The Party](https://open.spotify.com/track/2xpnrZ4rekdmYVHc2z4iv4) | [Limón Limón](https://open.spotify.com/artist/4MVAkLAHeIy5ZmDgonbn70) | [Don't Hate The Party](https://open.spotify.com/album/4mOpec4pumMLBjcdFoVbuw) | 3:48 | 2022-05-18 | 2022-06-05 |
-| [Don't Hurt Me So Bad!](https://open.spotify.com/track/3do3e2wWrmaOL4k1qHgmls) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Beautiful Blue Collar Boy](https://open.spotify.com/album/2aHcfVB0ys5PQ7OTGlB6RR) | 3:16 | 2024-10-12 |  |
+| [Don't Hurt Me So Bad!](https://open.spotify.com/track/3do3e2wWrmaOL4k1qHgmls) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Beautiful Blue Collar Boy](https://open.spotify.com/album/2aHcfVB0ys5PQ7OTGlB6RR) | 3:16 | 2024-10-12 | 2024-10-25 |
 | [Don't Know Why](https://open.spotify.com/track/603Xjm60SSuB9mIGPyPSwh) | [Band of Coyotes](https://open.spotify.com/artist/2q1a1UBuTh6weuuYsS4ibO) | [Don't Know Why](https://open.spotify.com/album/7MMgfnybFH5tFtk3coCGlH) | 4:42 | 2020-01-06 | 2020-02-08 |
 | [Don't Let Go](https://open.spotify.com/track/1Uia9GCd5KW2z9PfxWTEcD) | [Malavika](https://open.spotify.com/artist/1TCfnoI5nqmdISEbaZSpFZ) | [Don't Let Go](https://open.spotify.com/album/3KAoxgNxgNaQ0kEmCw39nd) | 2:34 | 2023-01-09 | 2023-02-12 |
 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/2Yzk4hvqynJjGsRX3VwK7e) | [Griffin Robillard](https://open.spotify.com/artist/0dQuSumyBpohSxSWm97raN) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/40873zmITAYrlXtEVhA6JV) | 3:31 | 2022-03-30 | 2022-04-20 |
@@ -1637,7 +1637,7 @@
 | [I AM BEAUTIFUL](https://open.spotify.com/track/6F2hDZzsdlK4GuQtirYQ0R) | [ZØYA ](https://open.spotify.com/artist/7l78f3ti1vKrEORMmQV3fg) | [I AM BEAUTIFUL](https://open.spotify.com/album/4aftly5LFjVeLmhYVviX7e) | 3:56 | 2024-05-31 | 2024-08-20 |
 | [I Am Coming For You](https://open.spotify.com/track/3e0xZ7l7UJxb7jFnN5K4rk) | [Kala Ragan](https://open.spotify.com/artist/6XbDGsHxHAtOsbFVLHI5hG) | [Dreamscape Money](https://open.spotify.com/album/2wcrUIttxMq3pto4ZZrHqn) | 2:54 | 2023-12-08 | 2023-12-16 |
 | [I Am Not Family](https://open.spotify.com/track/7KpSmrCf8mC3JjukTiScK6) | [Erniemon](https://open.spotify.com/artist/0fBQdHDzq576xfmR2CKOhP) | [The First Cut](https://open.spotify.com/album/7fU0BDU46AzHC00S1bkugF) | 3:15 | 2024-07-13 | 2024-07-25 |
-| [I Breakdown](https://open.spotify.com/track/36k0MzsuLWlQchd6MHlmWY) | [Veda](https://open.spotify.com/artist/19kItlJC4xbvwxqEjrwMZr), [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [I Breakdown](https://open.spotify.com/album/5EYo35pMkpGpFG0upy3RAX) | 4:01 | 2024-10-13 |  |
+| [I Breakdown](https://open.spotify.com/track/36k0MzsuLWlQchd6MHlmWY) | [Veda](https://open.spotify.com/artist/19kItlJC4xbvwxqEjrwMZr), [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [I Breakdown](https://open.spotify.com/album/5EYo35pMkpGpFG0upy3RAX) | 4:01 | 2024-10-13 | 2024-10-25 |
 | [I Burn a Little](https://open.spotify.com/track/7dSSmkrsTYOFEfk4CSJGGo) | [Pri](https://open.spotify.com/artist/66PARtZr2CSygE5OZ4T3CP), [Padre Tóxico](https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ) | [I Burn a Little](https://open.spotify.com/album/7gk1eny8yrQxJDlE8vWH6D) | 3:06 | 2022-02-18 | 2022-03-07 |
 | [I Came to Slay](https://open.spotify.com/track/4p9pPnJGi0LjyfHMM2DL5P) | [Olivia Thai](https://open.spotify.com/artist/1HtyYQkdkuViivGvneQxRq) | [I Came to Slay](https://open.spotify.com/album/0hi9HskOm9yay3MZ8C6ATm) | 3:53 | 2020-06-25 | 2020-07-13 |
 | [I Can Be Anything](https://open.spotify.com/track/5UsH0oaGy5SVDQ0EwFTHrB) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Anything](https://open.spotify.com/album/6QrSFrfbdUYm3jKgZcecGQ) | 3:16 | 2024-10-20 |  |
@@ -2311,6 +2311,7 @@
 | [Millón](https://open.spotify.com/track/3PTE4LCizzTWjWo35Y1gor) | [icekream](https://open.spotify.com/artist/2gaIPiqlafTVwapOByHeVQ), [El Larra](https://open.spotify.com/artist/7aLAtWfohbbcHoShGOc5zx) | [Millón](https://open.spotify.com/album/4rW9z4QLyufvGXO3CZqhOE) | 3:29 | 2023-06-30 | 2023-07-22 |
 | [Mind](https://open.spotify.com/track/0jBxkAlmWf5guSfGBQ71eC) | [Nmk](https://open.spotify.com/artist/6aizC3ZT7Nj4D8UfxhaQEJ) | [Mind](https://open.spotify.com/album/73qqjTW6DXxrs1XSFDtJ2a) | 2:50 | 2022-11-25 | 2022-12-17 |
 | [Mind](https://open.spotify.com/track/4ty0m7E3pvNPxpwAAyYJxH) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG) | [Mind](https://open.spotify.com/album/6VVsvx4Nu8vfU1AvRbjrEc) | 3:30 | 2024-01-20 | 2024-02-01 |
+| [Mind Over Matter](https://open.spotify.com/track/3mEn0fMXi2fSSnfoOtBUwK) | [Tom Morgan](https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c) | [Mind Over Matter](https://open.spotify.com/album/55jz74Xvyxd6nAT5861n9f) | 3:07 | 2024-10-24 |  |
 | [Mind Your Ps and Qs](https://open.spotify.com/track/4aIPCiMgbLvU82l71YDnA9) | [Tim Churchill](https://open.spotify.com/artist/2jnzUEh4K3BFgWyfj66WcX) | [Mind Your Ps and Qs](https://open.spotify.com/album/7m1kLXQyf8zJIOEQgkyCui) | 3:38 | 2022-11-18 | 2022-12-10 |
 | [Mine](https://open.spotify.com/track/5rf26vOVPkiwbqRSJ99zvs) | [Ch@to](https://open.spotify.com/artist/6OJwgcps8fBpEgpA8OcGLI) | [Mine](https://open.spotify.com/album/6yaK7mXMlN2bbhz9UjW5Zj) | 3:07 | 2024-05-18 | 2024-06-01 |
 | [Mine](https://open.spotify.com/track/3mYikPpav7ZbeT3Pel0s6K) | [Stasi](https://open.spotify.com/artist/3wLTDOZ4engaaky0x6s8tR) | [Mine](https://open.spotify.com/album/2Y4NkvjZDlb0YqscCmdyvd) | 2:58 | 2022-11-04 | 2022-11-27 |

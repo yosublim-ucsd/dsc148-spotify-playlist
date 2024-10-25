@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 958,
+  "num_followers": 960,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -939,8 +939,8 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Las 4 Estaciones, vol. 11",
-        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
+        "name": "La fiesta de cumplea\u00f1os",
+        "url": "https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
         }
       ],
-      "duration_ms": 50651,
-      "name": "Osos de Paseo",
-      "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
+      "duration_ms": 97044,
+      "name": "Cocinar",
+      "url": "https://open.spotify.com/track/3dwP741BSojLKWENmU5hHb"
     }
   ],
   "unique_name": "Cantando con tus Favoritos",

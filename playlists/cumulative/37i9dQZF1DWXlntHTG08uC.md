@@ -4,7 +4,7 @@
 
 > 528 hertz solfeggio frequency, tones and music for deep sleep and restful nights.
 
-243 songs - 11 hr 38 min
+244 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Deep Sleep \- 528 Hz](https://open.spotify.com/track/1LLhJ3WMNRPERXF5zWj9ix) | [Velodrome](https://open.spotify.com/artist/4Xv4mNOYUc05QngjAvNUWB) | [Deep Sleep \- 528 Hz](https://open.spotify.com/album/2at58qmgUzo8irr7U7ZEHK) | 2:39 | 2023-02-08 |  |
 | [Depth Of Emotion 528 Hz](https://open.spotify.com/track/7J5vYDLAW44v2f7X8hJomU) | [Nordic Spa Music](https://open.spotify.com/artist/000g1xoERW2wrJusJdfBpf) | [Depth Of Emotion 528 Hz](https://open.spotify.com/album/5r4e4yC8EXKVLllop6iXw4) | 3:25 | 2023-04-06 |  |
 | [Distant 528 Hz](https://open.spotify.com/track/6ECIrwN9QtDtIoU30fq0GN) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Distant 528 Hz](https://open.spotify.com/album/1tvvuIdNDoUwZvAUedbzmw) | 3:03 | 2023-08-07 |  |
-| [Distant Shores](https://open.spotify.com/track/7g6FnYrGcwTSSlTVLA0gFh) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Solar Wind](https://open.spotify.com/album/16wm7HaUsJXzFIbW2yTTfi) | 2:57 | 2023-02-08 |  |
+| [Distant Shores](https://open.spotify.com/track/7g6FnYrGcwTSSlTVLA0gFh) | [Molecular Clouds](https://open.spotify.com/artist/20rsbWn7H0xVTJZFCmJ6bc) | [Solar Wind](https://open.spotify.com/album/16wm7HaUsJXzFIbW2yTTfi) | 2:57 | 2023-02-08 | 2024-10-25 |
 | [Dream Point](https://open.spotify.com/track/3dvk6zdpRyL44x8opSvNHc) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [69,3 Hz Atmospheres for Sleep and Relaxation](https://open.spotify.com/album/2BAIMHPZMgBgXlB7JWLw8l) | 2:47 | 2023-02-08 |  |
 | [Drifting \- 528Hz](https://open.spotify.com/track/7E8QuZRLdYzjXAGicz2j7O) | [Kenton](https://open.spotify.com/artist/3GFWDsoRkUif3Xnlj9Wxk8) | [Drifting \- 528Hz](https://open.spotify.com/album/6eKeVnVIvw1tkW5FIjAoyO) | 2:50 | 2024-03-13 | 2024-08-31 |
 | [Elixir Tones 528 Hz](https://open.spotify.com/track/0OT3rxx9KYCmL5s0V1byQO) | [Baroque Modernist](https://open.spotify.com/artist/5uXsIKri6D2vNv9V1EdGet) | [Elixir Tones 528 Hz](https://open.spotify.com/album/4WGcplD9sWZUWJ5qPWvE3s) | 2:38 | 2024-05-11 |  |
@@ -249,6 +249,7 @@
 | [Twilight Promise 528 Hz](https://open.spotify.com/track/5FAcwR9AB9AnqbFUjWxJby) | [Delayed Dreams](https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ) | [Awoken 528 Hz](https://open.spotify.com/album/0xw8bDKvLIKxQVitWoWJsI) | 3:45 | 2024-07-13 |  |
 | [unwinding mind 528 Hz](https://open.spotify.com/track/4ygQzLDawyji6Q0VxhQDfV) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [solfeggio frequencies: clearing the mind](https://open.spotify.com/album/7taDIIEzVvJjZfwpoRndRx) | 3:12 | 2023-02-08 |  |
 | [Very Gentle 528 Hz](https://open.spotify.com/track/36lK0alPIzF9mV22hNkCIL) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [528 Hz Sleep & Relaxation](https://open.spotify.com/album/4qaU7LnjZmjwmwF3ar9p4U) | 3:05 | 2023-04-06 |  |
+| [Voyage to the Unknown 528Hz](https://open.spotify.com/track/4pAJz6Xtdthj4m31ANPbWt) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Voyage to the Unknown 528Hz](https://open.spotify.com/album/3lY4ZecL52LH8HsYjCqzea) | 3:11 | 2024-10-24 |  |
 | [Warm Light 528 Hz](https://open.spotify.com/track/0K63aGIdMRvLiODv0Joaxe) | [Mindra](https://open.spotify.com/artist/3YfVff4wWeiUd5Cmbl3VLm) | [Warm Light EP](https://open.spotify.com/album/4nCc1RosiutNoEOx33MWcC) | 2:33 | 2023-08-07 |  |
 | [Wonder 528 Hz](https://open.spotify.com/track/7j5Wcm2ZV4UPnkl7aPGBvY) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Wonder 528 Hz](https://open.spotify.com/album/1BwKXX9j4ReqD0mTT0FQfh) | 3:10 | 2024-07-13 |  |
 

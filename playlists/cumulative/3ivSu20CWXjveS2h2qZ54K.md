@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-1,945 songs - 4 day 11 hr 42 min
+1,950 songs - 4 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-11 | 2024-10-19 |
 | [Aren't We One?](https://open.spotify.com/track/0d54bbfZEOiJjUYw01I528) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Aren't We One?](https://open.spotify.com/album/2OhusavZtXPF8ZTI2ucECI) | 4:00 | 2024-09-18 | 2024-09-28 |
 | [Arena x mis Venas](https://open.spotify.com/track/71XarJNXdqnpCPdCkBWkqB) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF), [Otro](https://open.spotify.com/artist/5WLKVJGJWUubfyG8KSfuvK) | [Arena x mis Venas](https://open.spotify.com/album/1gGTholtzoCEZfQ29miWdK) | 3:06 | 2024-10-03 | 2024-10-12 |
+| [arghHhh!](https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [arghHhh!](https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH) | 4:13 | 2024-10-24 |  |
 | [Arizona](https://open.spotify.com/track/6KZRKGq6hj18WkbgXxcRcZ) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Arizona](https://open.spotify.com/album/28NzUxruxXkGAGOOdgEPPU) | 3:24 | 2024-08-30 | 2024-09-07 |
 | [Arm's Length](https://open.spotify.com/track/5NuUKKMA2qsltM1DnSJZLL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 3:58 | 2024-08-02 | 2024-08-10 |
 | [armadura](https://open.spotify.com/track/3Ehn6qVmLjZOowfGi1IfKH) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw), [RUPTURA](https://open.spotify.com/artist/6Hdt0Q0JJlupDL0FZ7S0aY) | [Mierda](https://open.spotify.com/album/3KNO7m54ErBB1LF2dXaoxQ) | 2:44 | 2024-05-10 | 2024-05-18 |
@@ -520,6 +521,7 @@
 | [Edge of Something](https://open.spotify.com/track/3iYHKHqzhc1XNuHVmYvcQL) | [Neva Dinova](https://open.spotify.com/artist/3L22OjRkj5Psvqmsn2Q8Ds) | [Edge of Something](https://open.spotify.com/album/37M1IwWCe7vsu6h8z10D7o) | 3:24 | 2024-08-08 | 2024-08-20 |
 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-06 | 2024-09-14 |
 | [Ejército de salvación](https://open.spotify.com/track/4JOW9maQP5BmpcYKD0wLvj) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [Ejército de salvación](https://open.spotify.com/album/037aP0BcYoZgdG1NMULXuH) | 6:45 | 2024-09-27 | 2024-10-05 |
+| [eko](https://open.spotify.com/track/6sYHbjCEkgv43h51Cx86ot) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [eko](https://open.spotify.com/album/7eKyBS8bK0jnfIWByYDrzB) | 3:43 | 2024-10-24 |  |
 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 | 2024-05-24 | 2024-06-12 |
 | [El amor es una cosa](https://open.spotify.com/track/5Xb6EBNQJchUI9pfGGfdBq) | [Amarillo Fiesta](https://open.spotify.com/artist/1WtAt5aQmMPP12o51x97kY) | [El amor es una cosa](https://open.spotify.com/album/6OauSVNzqu7pItbKrSdA2n) | 2:59 | 2024-07-01 | 2024-07-13 |
 | [el borde del mundo \- Canción Original de la película “El 47”](https://open.spotify.com/track/6a6oU1HNcSTsOyzWZLcwL7) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [el borde del mundo \- Canción Original de la película “El 47”](https://open.spotify.com/album/6gEWPynIqmCBGiQWCL5FC7) | 4:07 | 2024-09-06 | 2024-09-14 |
@@ -1113,6 +1115,7 @@
 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 | 2024-05-31 | 2024-06-12 |
 | [MI ERA](https://open.spotify.com/track/4ei1EfQRDAS2dmmXlFRIdj) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg) | [MI ERA](https://open.spotify.com/album/1yWoDeQGbTFMY8SsaRCJd3) | 1:54 | 2024-07-26 | 2024-08-10 |
 | [Mi Mujer](https://open.spotify.com/track/1HBDjOSwJqdQrgVIhGfudZ) | [María Peláe](https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq) | [Mi Mujer](https://open.spotify.com/album/2va1iA1TEeoh2F4tdaqGOm) | 2:31 | 2024-05-17 | 2024-05-25 |
+| [MI ROSTRO](https://open.spotify.com/track/15SFqYHsArxZLJVdQHxYg6) | [caracazador](https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca) | [REPÚBLICA](https://open.spotify.com/album/5Dnn8i5SsS07et9uMuYUcD) | 4:22 | 2024-10-24 |  |
 | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 | 2024-10-03 | 2024-10-12 |
 | [MIAU](https://open.spotify.com/track/56yrg4v6jR84zWgfmp7Vnw) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl), [Fran Laoren](https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [MIAU](https://open.spotify.com/album/4myIYFgyU6L1hXHVkpdTvP) | 3:08 | 2024-06-21 | 2024-06-29 |
 | [MICHALÓ](https://open.spotify.com/track/54hGxwAhwQlRadAPl90Kes) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [MICHALÓ](https://open.spotify.com/album/3MOKpo5JFzcTk8UTkMhx33) | 3:01 | 2024-09-13 | 2024-09-21 |
@@ -1164,6 +1167,7 @@
 | [Nacimos tarde](https://open.spotify.com/track/55nOkKaZaRk7pW6kpdtlZf) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa), [Sandra Delaporte](https://open.spotify.com/artist/1ebl7jsmFzfv8isOqNsvQ3) | [Nacimos tarde](https://open.spotify.com/album/7v6NMueascAfKdSWNKxr5N) | 2:50 | 2024-06-28 | 2024-07-13 |
 | [NADA](https://open.spotify.com/track/2XZ0eMe9GXVtdK8RKi7pvn) | [León Benavente](https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6) | [NADA](https://open.spotify.com/album/1fOV0N3C4oaKeOsJVp6bRA) | 3:14 | 2024-06-21 | 2024-06-29 |
 | [Nada Importa Tanto](https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Nada Importa Tanto](https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4) | 2:59 | 2024-06-28 | 2024-07-13 |
+| [Nada Nuevo](https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [Las Huidas](https://open.spotify.com/album/2nj0oHnEEi5mS8GwX7TqwD) | 2:57 | 2024-10-24 |  |
 | [Nanai](https://open.spotify.com/track/27RqUQHGAv4bB3AOu03cvo) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Nanai](https://open.spotify.com/album/4oi0Rf2NsjMhPvljHIsFfa) | 2:29 | 2024-06-13 | 2024-06-22 |
 | [Nancy](https://open.spotify.com/track/6O88oaMnwyZNcLG0XSueK8) | [Tindersticks](https://open.spotify.com/artist/3dmSPhg0tdao8ePj4pySJ5) | [Nancy](https://open.spotify.com/album/5eff3BiDTLLmCWqUVhAWd3) | 3:35 | 2024-06-19 | 2024-06-29 |
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-17 | 2024-05-25 |
@@ -1223,6 +1227,7 @@
 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-09-13 | 2024-09-21 |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 | 2024-10-23 |  |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-28 | 2024-07-13 |
+| [Normal](https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X) | 2:30 | 2024-10-24 |  |
 | [Nosoutros](https://open.spotify.com/track/2Hvgqy9Bxpa35gbLTCQeO8) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs), [Russian Red](https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw) | [Nosoutros](https://open.spotify.com/album/5uoOT70tJxcnNEwPhSJfXc) | 1:21 | 2024-09-20 | 2024-09-28 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-10 | 2024-05-18 |
 | [Not This Time](https://open.spotify.com/track/325Y0u0dmETOSwgdM4fLAj) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Not This Time](https://open.spotify.com/album/5EW8gVkac63mqb7X8qwqJe) | 3:21 | 2024-09-06 | 2024-09-14 |

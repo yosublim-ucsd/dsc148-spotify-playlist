@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: White\-B
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,171 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,182 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 16 | [Tour](https://open.spotify.com/track/4v2DWcJS8tXPMqq9SKX5R5) | [Gutta192](https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe) | [Tour](https://open.spotify.com/album/2m3epZUipMloYX7ubIeORv) | 3:23 |
 | 17 | [Ceci n'est pas une chanson triste](https://open.spotify.com/track/4vFsK1nytpiiq0pT6m1dQ3) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Ceci n'est pas une chanson triste](https://open.spotify.com/album/7oJcVkwvFeRpLXABS2FZuX) | 3:50 |
 | 18 | [Zoo](https://open.spotify.com/track/7qdSLZGhJSBjB0Ohr37Xt1) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Zoo](https://open.spotify.com/album/2LaE5HhyNSP5eGOswyxPxK) | 3:00 |
-| 19 | [Americry](https://open.spotify.com/track/5sMDwrLHTaW8D8hdr7tplv) | [Sael](https://open.spotify.com/artist/5wh4pv8RXDdikTBTaV1Rk3), [Coby](https://open.spotify.com/artist/6Qc96byIWUrGk7BHxfvK4F) | [Americry](https://open.spotify.com/album/1DrXmjHECYEQOesivVdorL) | 3:28 |
+| 19 | [Americry](https://open.spotify.com/track/5sMDwrLHTaW8D8hdr7tplv) | [Sael](https://open.spotify.com/artist/5wh4pv8RXDdikTBTaV1Rk3), [Coby](https://open.spotify.com/artist/4ePlgaslVMhoVvmO9MyOcr) | [Americry](https://open.spotify.com/album/1DrXmjHECYEQOesivVdorL) | 3:28 |
 | 20 | [June](https://open.spotify.com/track/6Vo5ENxOavBnY9xANmMqi7) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [June](https://open.spotify.com/album/3RTNMOpBYxZqtdlU64gMIa) | 2:18 |
 | 21 | [7 Vie Là](https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN) | [Frank'emcy](https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G), [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [7 Vie Là](https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9) | 3:35 |
 | 22 | [GENERAL FINESSE FREESTYLE](https://open.spotify.com/track/5NgnOkOSKphYngPzkx4wlQ) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [GENERAL FINESSE FREESTYLE](https://open.spotify.com/album/2CEZwsIJ6Eu5D6CHScYhZh) | 2:23 |

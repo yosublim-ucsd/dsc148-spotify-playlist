@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Emma Hoet
+> The best French indie tracks right now\. Cover : Oscar Anton
 
-541 songs - 1 day 5 hr 33 min
+542 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Blinds](https://open.spotify.com/track/5heIFh4Abh0PfvoFviNuc5) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Blinds](https://open.spotify.com/album/5n40ewDmIxFxsBFTSHyQh8) | 2:45 | 2024-02-01 | 2024-07-12 |
 | [Bloqué](https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Bloqué](https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG) | 3:11 | 2021-12-16 | 2022-04-08 |
 | [blueberry stains](https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [postcard from L.A.](https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5) | 3:06 | 2022-07-28 | 2022-09-23 |
-| [Bonifacio](https://open.spotify.com/track/2kTCB0grV2QxiX46zuzEr3) | [Romain Muller](https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu) | [Bonifacio](https://open.spotify.com/album/1XT5heZfUmmMANHgafkGwA) | 2:15 | 2024-09-12 |  |
+| [Bonifacio](https://open.spotify.com/track/2kTCB0grV2QxiX46zuzEr3) | [Romain Muller](https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu) | [Bonifacio](https://open.spotify.com/album/1XT5heZfUmmMANHgafkGwA) | 2:15 | 2024-09-12 | 2024-10-25 |
 | [Bonsaï](https://open.spotify.com/track/53zqXpNLN6WHnYChphcm8Z) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Cliff Schneider](https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD) | [L'hiver au soleil](https://open.spotify.com/album/2O6Jo9HP7NVRUTmD9xoTO4) | 3:00 | 2024-10-17 |  |
 | [Boom Boom](https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Boom Boom](https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA) | 3:29 | 2021-12-16 | 2022-02-04 |
 | [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 | 2023-03-23 | 2023-04-28 |
@@ -242,6 +242,7 @@
 | [Konami](https://open.spotify.com/track/4CJ4WBeEZZVFulKVS6zmqz) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Konami](https://open.spotify.com/album/5Jp2HWoJEBkYtNuZXFE1pB) | 2:48 | 2023-02-02 | 2023-03-03 |
 | [L'an prochain](https://open.spotify.com/track/5KcrRKstOkD5USI4wA2hEV) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9), [Jules Jaconelli](https://open.spotify.com/artist/5vQd9dKRdEZFKuMjtF4qoJ) | [L'an prochain](https://open.spotify.com/album/6kExkDePwNliVyZfXLRscx) | 3:20 | 2023-06-22 | 2024-04-05 |
 | [L'Extase](https://open.spotify.com/track/5i2QFAqpm3T2RDIHH4Th0d) | [Pirogue](https://open.spotify.com/artist/5tgaa8U6nLhdyPCsfd8p7L) | [L'Extase](https://open.spotify.com/album/2S8WIfDf1jFkha6jKyUTQy) | 4:21 | 2022-03-10 | 2022-04-15 |
+| [L'Himalaya](https://open.spotify.com/track/3epMEAUfhbcf4CNgpz846d) | [Romain Muller](https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu) | [Azur](https://open.spotify.com/album/66YX19AoDHON2I2jpACw5a) | 2:38 | 2024-10-24 |  |
 | [L'hiver au soleil](https://open.spotify.com/track/0tsgyl2zDMFzRVayuTkxgu) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g), [Cliff Schneider](https://open.spotify.com/artist/3r9fnMom1FUF3WTxtV2lqD) | [L'hiver au soleil](https://open.spotify.com/album/6SuLnEJouQJ0otH9PN6orv) | 3:12 | 2024-07-11 | 2024-10-18 |
 | [L'imbécile](https://open.spotify.com/track/0RcaTIQtHiyJjlllYoCLAz) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW) | [Carambolages](https://open.spotify.com/album/5UF124cCkyEHbPzvlPFJMp) | 2:40 | 2023-10-26 | 2024-06-28 |
 | [L'été](https://open.spotify.com/track/3BsWBBgjhc9Iaqh74ffpTf) | [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [L'été](https://open.spotify.com/album/7xTNZ0EmI8hmzZLFwQRUAB) | 3:20 | 2023-10-05 | 2023-10-27 |

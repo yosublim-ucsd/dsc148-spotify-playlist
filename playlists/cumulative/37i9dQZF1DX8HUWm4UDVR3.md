@@ -2,7 +2,7 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Satine
+> La pop française annonce la couleur\. Photo : RORI
 
 233 songs - 11 hr 34 min
 

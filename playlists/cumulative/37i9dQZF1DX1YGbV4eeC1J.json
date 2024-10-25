@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Otile Brown",
+  "description": "What is your love language? Say it in Swahili.  Cover: Barnaba",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1456,6 +1456,24 @@
       "duration_ms": 210309,
       "name": "Inauma",
       "url": "https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb"
+    },
+    {
+      "album": {
+        "name": "Itakuwaje",
+        "url": "https://open.spotify.com/album/2iRNMnHtUMbySqQWCpGbov"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223058,
+      "name": "Itakuwaje",
+      "url": "https://open.spotify.com/track/6KaOabG3gQtpXkcjIrZpFO"
     },
     {
       "album": {
@@ -2946,7 +2964,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 217134,
       "name": "Nibusu (feat. Yammi)",
       "url": "https://open.spotify.com/track/4dVzMCH149RdkaqROrsATS"
@@ -4285,6 +4303,28 @@
     },
     {
       "album": {
+        "name": "Usemi Sina (feat. Harmonize)",
+        "url": "https://open.spotify.com/album/5KeeqL8MAeTyiRCodK8PQV"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172274,
+      "name": "Usemi Sina (feat. Harmonize)",
+      "url": "https://open.spotify.com/track/62A4OmPLPI7xZQHtF4kfCQ"
+    },
+    {
+      "album": {
         "name": "Water & Wine",
         "url": "https://open.spotify.com/album/69EiMwVvOIn2fOmahwyPNC"
       },
@@ -4300,7 +4340,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 181176,
       "name": "Usiongee (feat. Phina)",
       "url": "https://open.spotify.com/track/4rXQwPTSGcXIl26JrSafBP"

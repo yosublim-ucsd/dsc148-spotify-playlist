@@ -4,7 +4,7 @@
 
 > ang lalim
 
-178 songs - 11 hr 16 min
+180 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [favorite lesson](https://open.spotify.com/track/4sclvawl5PVjt5oXRcPbF2) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [favorite lesson](https://open.spotify.com/album/4c6mzbbKDCZWc4WUbTHqKG) | 3:25 | 2023-10-18 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-10-18 |  |
 | [gabay](https://open.spotify.com/track/7JiQIPsBtzU8MjWw0g9isG) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [gabay](https://open.spotify.com/album/7D6n1U40yTbKpbBNN1zuKb) | 3:30 | 2023-10-18 |  |
+| [Gabriel](https://open.spotify.com/track/2xc2MkE3KzL7Bp0tCglMYG) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Gabriel](https://open.spotify.com/album/7Cx9zjpHJnfuOqZ7e5afjh) | 2:48 | 2024-10-24 |  |
 | [Ginanun Lang](https://open.spotify.com/track/7mZ6itQWKDWZ6q9eP9YkH8) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Ginanun Lang](https://open.spotify.com/album/5L247ssRY8wCZRYIrrSCAe) | 2:59 | 2023-10-18 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2024-06-05 |  |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-10-18 |  |
@@ -163,6 +164,7 @@
 | [Someone To Stay](https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Revival](https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC) | 4:14 | 2023-10-18 |  |
 | [Star](https://open.spotify.com/track/73Zoq6Z5lXVJPAERw2s9fp) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [See You in My 19th Life, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/70RhkQek9C6hFNJaXccyWU) | 3:41 | 2023-10-18 |  |
 | [Take A Chance With Me](https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 5:03 | 2023-11-10 | 2024-06-06 |
+| [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-24 |  |
 | [The Fate Of The One Not Chosen](https://open.spotify.com/track/3vuMrOt51GvnIuI61HwSvw) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [The Fate Of The One Not Chosen](https://open.spotify.com/album/1JGW6r7XiIfGurgJQxNNUo) | 3:35 | 2023-10-18 |  |
 | [the space between us](https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [the space between us](https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx) | 4:13 | 2023-11-10 | 2024-06-06 |
 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2023-10-18 |  |

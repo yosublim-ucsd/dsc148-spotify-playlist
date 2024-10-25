@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover: Gin Lee",
+  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover: Cath\u9ec3\u598d",
   "name": "\u8d85\u7d1a\u5973\u8072",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 182538,
       "name": "// Undecided //",
       "url": "https://open.spotify.com/track/77q738e2rR8Vmeeiodw1Qg"
+    },
+    {
+      "album": {
+        "name": "0.1\u79d2\u5f8c\u7684\u4e16\u754c",
+        "url": "https://open.spotify.com/album/4OzlVA1SKFZCmsXgCALaft"
+      },
+      "artists": [
+        {
+          "name": "Panther Chan",
+          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "0.1\u79d2\u5f8c\u7684\u4e16\u754c",
+      "url": "https://open.spotify.com/track/6HOzptW6b05V4AFp3nBOCf"
     },
     {
       "album": {
@@ -398,6 +416,24 @@
       "duration_ms": 227248,
       "name": "CityPop",
       "url": "https://open.spotify.com/track/22DT55qhBCDKnPRPoZcX7n"
+    },
+    {
+      "album": {
+        "name": "Click Me",
+        "url": "https://open.spotify.com/album/6IrMlbffMmvBvTUpFuqyH9"
+      },
+      "artists": [
+        {
+          "name": "\u66fe\u6a02\u5f64",
+          "url": "https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189113,
+      "name": "Click Me",
+      "url": "https://open.spotify.com/track/6h4tfxlz3XAH9Zd9S2uDbp"
     },
     {
       "album": {
@@ -1838,6 +1874,24 @@
       "duration_ms": 200988,
       "name": "Ride It Out",
       "url": "https://open.spotify.com/track/72Gt3dMTL2sQvjzJ9WU5Dn"
+    },
+    {
+      "album": {
+        "name": "ROAD TRIP",
+        "url": "https://open.spotify.com/album/1FobP1HybSdf9EccLZYQO0"
+      },
+      "artists": [
+        {
+          "name": "COLLAR",
+          "url": "https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71546,
+      "name": "ROAD TRIP",
+      "url": "https://open.spotify.com/track/0qSJHU8SGFsrwRljZXtE3E"
     },
     {
       "album": {
@@ -3589,6 +3643,24 @@
     },
     {
       "album": {
+        "name": "\u5496\u5561 \u9d1b\u9d26 \u5976\u8336",
+        "url": "https://open.spotify.com/album/0vPYjgjYouCbseFYCOLg6S"
+      },
+      "artists": [
+        {
+          "name": "Cath Wong",
+          "url": "https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227982,
+      "name": "\u5496\u5561 \u9d1b\u9d26 \u5976\u8336",
+      "url": "https://open.spotify.com/track/7aqI5ATOG8piRo9KUcg1cS"
+    },
+    {
+      "album": {
         "name": "4891",
         "url": "https://open.spotify.com/album/4AUjutEcpzppUrcGgPWogs"
       },
@@ -5174,6 +5246,24 @@
       "duration_ms": 231371,
       "name": "\u6642\u5149\u539a\u79ae",
       "url": "https://open.spotify.com/track/06wjY1pkC94519dnAOKBMo"
+    },
+    {
+      "album": {
+        "name": "\u6642\u9593\u95dc\u4fc2",
+        "url": "https://open.spotify.com/album/4KHnwAkZR2yb85Bd88ICkQ"
+      },
+      "artists": [
+        {
+          "name": "Gigi Cheung",
+          "url": "https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "\u6642\u9593\u95dc\u4fc2",
+      "url": "https://open.spotify.com/track/23JHP9KXlC21MQqxq44NbJ"
     },
     {
       "album": {

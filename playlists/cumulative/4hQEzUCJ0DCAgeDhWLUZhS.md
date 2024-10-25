@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-443 songs - 1 day 2 hr 6 min
+444 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [One Little Lie](https://open.spotify.com/track/4y8NnGih7SRWSf7kDMeEqK) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Everything Opposite](https://open.spotify.com/album/4W9hKpdYHa0hcuGh57btOW) | 3:15 | 2020-10-10\* | 2021-02-25 |
 | [Our Love](https://open.spotify.com/track/6j652760j2wctFstQmai4R) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Our Love](https://open.spotify.com/album/7CaFWcgWzWAE8ZwOszn6Og) | 3:09 | 2020-10-10\* | 2021-05-13 |
 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 | 2021-11-04 |  |
+| [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-24 |  |
 | [Pacifier \- Remastered](https://open.spotify.com/track/5Zd74Pz4U7VZJLFCxWvBaA) | [Shihad](https://open.spotify.com/artist/3HmMT81W29LjSKNjl1Iy1s) | [The General Electric \(Remastered\)](https://open.spotify.com/album/7zHH0kIm7Kcj8dw4LRTMjn) | 4:03 | 2020-12-18 | 2022-03-18 |
 | [Parents Get High \(feat\. Meg Washington\)](https://open.spotify.com/track/5QEeJZYPCM0siUjXI6124P) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Parents Get High \(feat\. Meg Washington\)](https://open.spotify.com/album/6oeQwQvR0m31pt7FjxoHW8) | 3:12 | 2022-06-16 |  |
 | [Party Ghost](https://open.spotify.com/track/72CCtQNYzdvIQHYbCHeD9n) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Party Ghost](https://open.spotify.com/album/2UHQxrTwRzVY1ZAfOHyDew) | 2:47 | 2022-04-28 |  |

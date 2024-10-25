@@ -4,7 +4,7 @@
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-294 songs - 22 hr 59 min
+295 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Body to Body Boogie](https://open.spotify.com/track/1ekgElqYKaEM5gKukZtRr7) | [Funk Rimini](https://open.spotify.com/artist/0gGVmvsVn6KNyOUACCBMRm) | [Statale Adriatica](https://open.spotify.com/album/1w9qPeXCg4jP2sd869NRa0) | 6:25 | 2023-10-01 |  |
 | [Buonanotte Fiorellino](https://open.spotify.com/track/3wBQw06Qv5rWbNWBnGtY07) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Rimmel](https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K) | 2:05 | 2023-09-07 | 2023-10-02 |
 | [Buy Yourself friends](https://open.spotify.com/track/4kR4TenQVl9u5Emckj0fmX) | [Dan Shake](https://open.spotify.com/artist/7wxLYZxFPf1HWPIaGesxAg) | [Shake Edits 1](https://open.spotify.com/album/6AnMnkiTrAAISLnkoHEpMk) | 8:16 | 2021-09-01 | 2022-07-29 |
+| [C'eravamo tanto amati](https://open.spotify.com/track/0r1OdZ6m6KkWOxGBmitYM3) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [C'eravamo tanto amati \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Vby81gGnSIgHfO2Rfabpo) | 3:09 | 2024-10-24 |  |
 | [Cabrio Mango](https://open.spotify.com/track/7jrJd2hRB3vDYX93SRiGad) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Tonic Edits Vol\. 5](https://open.spotify.com/album/16bCZJbli0FGp8tszt1uZl) | 5:21 | 2021-09-01 | 2022-07-28 |
 | [Cadenza dinamica](https://open.spotify.com/track/55Xx64xvLRRBovto3yaryX) | [Giuliano Sorgini](https://open.spotify.com/artist/7Kmplk6Rgd6m2JgwUoESRX) | [Lavoro e tempo libero](https://open.spotify.com/album/5VWALGguSmp9l3FN2BWcNP) | 2:08 | 2023-10-01 |  |
 | [Calling Out \(feat\. Dames Brown\) \- 12" Mix](https://open.spotify.com/track/6nfYXTZfmJMM56AfTV4mF4) | [Sophie Lloyd](https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF), [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B) | [Calling Out \(feat\. Dames Brown\) \[12" Mix\]](https://open.spotify.com/album/2ZAIcJo3D6FN7ACpDTh77x) | 7:57 | 2021-09-01 | 2023-09-08 |

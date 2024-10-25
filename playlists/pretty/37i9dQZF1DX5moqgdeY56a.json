@@ -1,6 +1,6 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 48873,
+  "num_followers": 48905,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
@@ -647,8 +647,8 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "No Lo Pod\u00eda Hacer Mejor",
-        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+        "name": "El Comienzo del Final",
+        "url": "https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 178980,
-      "name": "No Lo Pod\u00eda Hacer Mejor",
-      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+      "duration_ms": 173816,
+      "name": "El Comienzo del Final",
+      "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -715,8 +715,8 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "El Comienzo del Final",
-        "url": "https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g"
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
         }
       ],
-      "duration_ms": 173816,
-      "name": "El Comienzo del Final",
-      "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
     },
     {
       "added_at": "2024-04-09 17:24:23",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-09 17:24:23",
       "album": {
-        "name": "Y Tenerte Otra Vez",
-        "url": "https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Me Falta Valor",
-      "url": "https://open.spotify.com/track/1iYxVSMiWDZczjbBUal78L"
-    },
-    {
-      "added_at": "2024-04-09 17:24:23",
-      "album": {
         "name": "No Soy de Nadie",
         "url": "https://open.spotify.com/album/5qoV1zhw6RCAfjnu9gwJFt"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 237830,
       "name": "El Autob\u00fas",
       "url": "https://open.spotify.com/track/6qURriyKzYaFVzufY51LDj"
+    },
+    {
+      "added_at": "2024-04-09 17:24:23",
+      "album": {
+        "name": "Y Tenerte Otra Vez",
+        "url": "https://open.spotify.com/album/7C39ojSex18aQIX8cDVd7F"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Me Falta Valor",
+      "url": "https://open.spotify.com/track/1iYxVSMiWDZczjbBUal78L"
     },
     {
       "added_at": "2024-04-09 17:24:23",

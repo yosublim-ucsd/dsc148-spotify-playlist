@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 6488,
+  "num_followers": 6491,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxWZgAAAAAC49bvReTNmSfSr55t7dtjI",
+  "snapshot_id": "Zxg8gAAAAACOcTFZxmsD5WUEwRok/lZW",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Entre Tus LLamas (El Tunche)",
-      "url": "https://open.spotify.com/track/2cmcgsLAcUKc62FrsWvEZu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 248784,
       "name": "Los Finos",
       "url": "https://open.spotify.com/track/2VZF5V2UtGkcxVsynxLxoE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Entre Tus LLamas (El Tunche)",
+      "url": "https://open.spotify.com/track/2cmcgsLAcUKc62FrsWvEZu"
     },
     {
       "added_at": null,
@@ -372,9 +372,25 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 112080,
-      "name": "Un Mensaje para Ti (\u00c1ngel)",
-      "url": "https://open.spotify.com/track/2XsAeAj9nSUX1T1HHnQ7PU"
+      "duration_ms": 219533,
+      "name": "Viejas Historias",
+      "url": "https://open.spotify.com/track/1VCM5UQzfLxJgmgaFlYRrx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "Love N' Shit",
+      "url": "https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "Love N' Shit",
-      "url": "https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos la Gente (Somos 2)",
         "url": "https://open.spotify.com/album/1ahfHigpORAaxqpRS6qAM8"
       },
@@ -436,9 +436,25 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 219533,
-      "name": "Viejas Historias",
-      "url": "https://open.spotify.com/track/1VCM5UQzfLxJgmgaFlYRrx"
+      "duration_ms": 112080,
+      "name": "Un Mensaje para Ti (\u00c1ngel)",
+      "url": "https://open.spotify.com/track/2XsAeAj9nSUX1T1HHnQ7PU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Simplemente",
+      "url": "https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7"
     },
     {
       "added_at": null,
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Simplemente",
-      "url": "https://open.spotify.com/track/5vSazQapaO0msTsRXSbdU7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rutas",
         "url": "https://open.spotify.com/album/2R1OQoBjl5F50MGEEXqWDd"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 256092,
       "name": "Rutas",
       "url": "https://open.spotify.com/track/5DOYgPZq11EUB4T4DxNWvK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "El Tunel del Amor",
+      "url": "https://open.spotify.com/track/0n5FF2PC3STxUgPFtCHrsN"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "El Tunel del Amor",
-      "url": "https://open.spotify.com/track/0n5FF2PC3STxUgPFtCHrsN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/25wwomOyVO7rJvF28zwrpA"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 283374,
       "name": "2020",
       "url": "https://open.spotify.com/track/3SJaiCgPfI6L9WymQkjivV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos de Resurrecci\u00f3n",
+        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 157524,
+      "name": "La Ultima Canci\u00f3n. \u00c1mame - Bonus Track",
+      "url": "https://open.spotify.com/track/0uGerlDGcEVGRvFLtFJsmf"
     },
     {
       "added_at": null,
@@ -603,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos de Resurrecci\u00f3n",
-        "url": "https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN"
+        "name": "Despierten",
+        "url": "https://open.spotify.com/album/1qWSjGC7gRdMMcJoowJTK7"
       },
       "artists": [
         {
@@ -612,9 +628,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 157524,
-      "name": "La Ultima Canci\u00f3n. \u00c1mame - Bonus Track",
-      "url": "https://open.spotify.com/track/0uGerlDGcEVGRvFLtFJsmf"
+      "duration_ms": 374797,
+      "name": "Despierten",
+      "url": "https://open.spotify.com/track/4bnaFMP9HTgIFVTBXJM0ju"
     },
     {
       "added_at": null,
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Despierten",
-        "url": "https://open.spotify.com/album/1qWSjGC7gRdMMcJoowJTK7"
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 374797,
-      "name": "Despierten",
-      "url": "https://open.spotify.com/track/4bnaFMP9HTgIFVTBXJM0ju"
+      "duration_ms": 196766,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/2dRiSTQQFw2mvXMJMRsMNi"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 196766,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/2dRiSTQQFw2mvXMJMRsMNi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos la Gente (Somos Uno)",
         "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
       },
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Dilo por M\u00ed",
-      "url": "https://open.spotify.com/track/4T0jO89hVCnA2TNNnBUTUY"
+      "duration_ms": 261213,
+      "name": "Salva Mi Mente",
+      "url": "https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9n",
-          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Haz el Amor",
-      "url": "https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX"
       },
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9n",
+          "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Haz el Amor",
+      "url": "https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somos la Gente (Somos Uno)",
         "url": "https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv"
       },
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 261213,
-      "name": "Salva Mi Mente",
-      "url": "https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w"
+      "duration_ms": 250920,
+      "name": "Dilo por M\u00ed",
+      "url": "https://open.spotify.com/track/4T0jO89hVCnA2TNNnBUTUY"
     },
     {
       "added_at": null,

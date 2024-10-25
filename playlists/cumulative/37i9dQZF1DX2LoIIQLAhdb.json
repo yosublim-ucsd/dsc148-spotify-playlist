@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Rsko",
   "name": "R&Bae",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 150703,
       "name": "4 \u00c9toiles",
       "url": "https://open.spotify.com/track/47CDhaY1rg0DS1d0MZXfRZ"
@@ -128,6 +128,24 @@
       "duration_ms": 198252,
       "name": "Aller retour",
       "url": "https://open.spotify.com/track/4wduvsRDvehncCMardqsQ6"
+    },
+    {
+      "album": {
+        "name": "Alli\u00e9es",
+        "url": "https://open.spotify.com/album/2nw6TpQGN46cfC9IecyfV2"
+      },
+      "artists": [
+        {
+          "name": "Mibsy",
+          "url": "https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "Alli\u00e9es",
+      "url": "https://open.spotify.com/track/1tOGpuxggC1Zt08X1X7R9U"
     },
     {
       "album": {
@@ -806,7 +824,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 164386,
       "name": "Busy Boy",
       "url": "https://open.spotify.com/track/27my7pY6JVe1niLzUKxAaA"
@@ -4342,7 +4360,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 164326,
       "name": "No",
       "url": "https://open.spotify.com/track/6tHxflNONnyE2AgVdOnimc"
@@ -4608,6 +4626,24 @@
       "duration_ms": 152000,
       "name": "Oublie ton ex",
       "url": "https://open.spotify.com/track/1yphWz5bG21tINheF4Ud9R"
+    },
+    {
+      "album": {
+        "name": "En chemin II",
+        "url": "https://open.spotify.com/album/3guI5LNHiG7JE59DuAlyiQ"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186280,
+      "name": "Oublier",
+      "url": "https://open.spotify.com/track/4Oz5nbenyDDb9AaeNDzZMw"
     },
     {
       "album": {
@@ -4952,7 +4988,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 152666,
       "name": "PCC",
       "url": "https://open.spotify.com/track/0AmXnj4D4xD5ngtsbzLRM8"
@@ -5184,6 +5220,32 @@
       "duration_ms": 189795,
       "name": "Pray for me",
       "url": "https://open.spotify.com/track/2c1ASssfom79tTydcurJwp"
+    },
+    {
+      "album": {
+        "name": "Prie Pour Moi",
+        "url": "https://open.spotify.com/album/7GQlUc3nmWlRkCtQU74Cup"
+      },
+      "artists": [
+        {
+          "name": "Good Nation",
+          "url": "https://open.spotify.com/artist/0PhzQyacoc63MStTa2Yik1"
+        },
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        },
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "Prie Pour Moi",
+      "url": "https://open.spotify.com/track/24crm1CmCOg633efjOSduY"
     },
     {
       "album": {
@@ -5560,7 +5622,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 164307,
       "name": "Saison des pluies",
       "url": "https://open.spotify.com/track/6AUmKnJD1X3b73p0CuXsBE"
@@ -6067,6 +6129,28 @@
     },
     {
       "album": {
+        "name": "SPECIAL",
+        "url": "https://open.spotify.com/album/6pMzJiuXyTW3Gx5p6aS0c5"
+      },
+      "artists": [
+        {
+          "name": "Feejoke",
+          "url": "https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i"
+        },
+        {
+          "name": "kadiata",
+          "url": "https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "SPECIAL",
+      "url": "https://open.spotify.com/track/45PAHYgD8cwdnzS1drgjGR"
+    },
+    {
+      "album": {
         "name": "SPECIALE",
         "url": "https://open.spotify.com/album/4wZMPmutewDauGR8Yv4wxF"
       },
@@ -6202,6 +6286,24 @@
       "duration_ms": 162971,
       "name": "T'avais raison",
       "url": "https://open.spotify.com/track/1xlVMFQ2d7ceUYjUOp431H"
+    },
+    {
+      "album": {
+        "name": "T'essaies Pas",
+        "url": "https://open.spotify.com/album/5iHayQ10U75yUExpuf05xC"
+      },
+      "artists": [
+        {
+          "name": "Angelcy",
+          "url": "https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164954,
+      "name": "T'essaies Pas",
+      "url": "https://open.spotify.com/track/2Mwl6yoADqOaRCf7aiYXmL"
     },
     {
       "album": {

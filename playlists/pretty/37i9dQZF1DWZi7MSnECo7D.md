@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Mundo Video, Ana Frango Elétrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,399 likes - 76 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,382 likes - 76 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

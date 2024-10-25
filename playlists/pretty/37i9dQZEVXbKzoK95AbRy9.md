@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,432 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,508 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 30 | [Apaguei Pra Todos \- Ao Vivo](https://open.spotify.com/track/65vJAh07BdwurqR9SRa6f8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Ferrugem 10 Anos, Vol\. 1: O Início \(Ao Vivo\)](https://open.spotify.com/album/4S9yXoEJxk13SHsFsnYLcm) | 3:18 |
 | 31 | [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 |
 | 32 | [Sempre na Simplicidade](https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP) | [Sempre na Simplicidade](https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow) | 5:00 |
-| 33 | [Eu sou Cantor Não Sou Bandido](https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8) | [Eu sou Cantor Não Sou Bandido](https://open.spotify.com/album/2hP5V6Xu71tHrg7bmlSS89) | 4:26 |
+| 33 | [Eu sou Cantor Não Sou Bandido](https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP) | [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT) | [Eu sou Cantor Não Sou Bandido](https://open.spotify.com/album/2hP5V6Xu71tHrg7bmlSS89) | 4:26 |
 | 34 | [Vida de Artista](https://open.spotify.com/track/7BLjPZwgbxQSLZ4rWbboJY) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [Deejhay RB](https://open.spotify.com/artist/6VOn8xBJH73S7DN8VBAoaN) | [Vida de Artista](https://open.spotify.com/album/2gMhGYe4x6O1vDG9AUjIwW) | 3:16 |
 | 35 | [Mulher Foda \- Ao Vivo](https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cantando Sua História \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/4mXp1YcjxA9i8PrIdpM8dH) | 2:42 |
 | 36 | [Cara da Midia](https://open.spotify.com/track/68qzO9uhrv6zwONksdHYuj) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [Dj Luan MPC](https://open.spotify.com/artist/6Xjde3MJ6198WTe9Chv4Ii), [DJ PEPI](https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC) | [Sem Música](https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Sabe que os mlk é drake, não é bigode não](https://open.spotify.com/track/2qgt9GiXVhFIXTA3OdHDUG) | [2T.](https://open.spotify.com/artist/1Q8WSMv0yYl2ae0AO4k6qc) | [Sabe que os mlk é drake, não é bigode não](https://open.spotify.com/album/4buDvRwoTFedRtSbCgZwMB) | 3:00 |
 | 50 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
 
-Snapshot ID: `LqxkSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lq21yAAAAAAAAAAAAAAAAAAAAAAAAGVu`

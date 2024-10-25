@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "These are the eclectic sounds of now. Cover: Hildegard",
+  "description": "These are the eclectic sounds of now. Cover: Jack J",
   "name": "Alt Here",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 408690,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6"
@@ -702,6 +702,24 @@
       "duration_ms": 262266,
       "name": "Bothering Me",
       "url": "https://open.spotify.com/track/74St96khEjAVTgMKDze3dr"
+    },
+    {
+      "album": {
+        "name": "what is this?!",
+        "url": "https://open.spotify.com/album/0SVbpGRP3CIJIMjXmdDFQD"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136875,
+      "name": "bounce",
+      "url": "https://open.spotify.com/track/2j7eNmpJfj0wpT5oi9uW0v"
     },
     {
       "album": {
@@ -1207,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS"
+    },
+    {
+      "album": {
         "name": "david",
         "url": "https://open.spotify.com/album/6MNMvxkiPfHkCxUYVM1dcj"
       },
@@ -1352,10 +1388,28 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 180941,
       "name": "Do It All Again",
       "url": "https://open.spotify.com/track/0Wa2qkfYlHDfx1iGKTaCuU"
+    },
+    {
+      "album": {
+        "name": "B-Sides & Rarities",
+        "url": "https://open.spotify.com/album/3g2C48fAFPPlAPRpq90Zf0"
+      },
+      "artists": [
+        {
+          "name": "Fig",
+          "url": "https://open.spotify.com/artist/0FF0nQYlJCWgL0ALxhZdyQ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243178,
+      "name": "Do You_",
+      "url": "https://open.spotify.com/track/0Do7s3ndo6kBn8bBcoMf4Z"
     },
     {
       "album": {
@@ -1370,7 +1424,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 201496,
       "name": "Dollhouse",
       "url": "https://open.spotify.com/track/11abIlUngaaYA2H6GxXFwi"
@@ -1554,6 +1608,24 @@
       "duration_ms": 157105,
       "name": "Everyone",
       "url": "https://open.spotify.com/track/6VSTXvovE1EejMEahljTKv"
+    },
+    {
+      "album": {
+        "name": "Falling Down a Well / Born Without a Smile",
+        "url": "https://open.spotify.com/album/2ad6OJI02AHDOXDCCdf9Sg"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173825,
+      "name": "Falling Down a Well",
+      "url": "https://open.spotify.com/track/6y4eFBfaADWBdUMq4HlrOC"
     },
     {
       "album": {
@@ -1979,6 +2051,24 @@
     },
     {
       "album": {
+        "name": "Graucha Max",
+        "url": "https://open.spotify.com/album/41rULKRqkYBboKmWkZmekn"
+      },
+      "artists": [
+        {
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335474,
+      "name": "Graucha Max",
+      "url": "https://open.spotify.com/track/4waOZsInxjKYnh6UF1V255"
+    },
+    {
+      "album": {
         "name": "He's My Man",
         "url": "https://open.spotify.com/album/04HqGBwmXnxvxHHTEms7cR"
       },
@@ -2142,7 +2232,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 153166,
       "name": "How did you learn to love?",
       "url": "https://open.spotify.com/track/1abCYZCZFuJV5oOzlPSWkQ"
@@ -2178,7 +2268,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 515500,
       "name": "I Guess Time Just Makes Fools of Us All",
       "url": "https://open.spotify.com/track/4xeFxp27NAtRoUrNcgVD9k"
@@ -2676,7 +2766,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 166237,
       "name": "Lemon Juice",
       "url": "https://open.spotify.com/track/0WLhXSmp8D33oPPL9IfrJX"
@@ -3178,6 +3268,24 @@
       "duration_ms": 231708,
       "name": "Method Actor",
       "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
+    },
+    {
+      "album": {
+        "name": "Might As Well Be Watching",
+        "url": "https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203424,
+      "name": "Might As Well Be Watching",
+      "url": "https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9"
     },
     {
       "album": {
@@ -3937,6 +4045,24 @@
     },
     {
       "album": {
+        "name": "Rebel Soul",
+        "url": "https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Rebel Soul",
+      "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"
+    },
+    {
+      "album": {
         "name": "What A Devastating Turn of Events",
         "url": "https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr"
       },
@@ -4162,6 +4288,24 @@
       "duration_ms": 254295,
       "name": "She Will Destroy You - 2024 Remaster",
       "url": "https://open.spotify.com/track/6kaaRaJwSW0E7yWf709zej"
+    },
+    {
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb"
     },
     {
       "album": {
@@ -4580,7 +4724,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 77558,
       "name": "sumo",
       "url": "https://open.spotify.com/track/2VtbcOBR0LJBijzD7vteEG"
@@ -4678,7 +4822,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 182933,
       "name": "Talkie Talkie, Charlie Charlie",
       "url": "https://open.spotify.com/track/5rZCmL3GEG95x2BwVw2oTp"
@@ -5385,6 +5529,24 @@
     },
     {
       "album": {
+        "name": "Viagra",
+        "url": "https://open.spotify.com/album/49JW9xFUTXqr58ZBnLjFZ1"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251826,
+      "name": "Viagra",
+      "url": "https://open.spotify.com/track/14I5n4dTGVIB4Y995Rl5sC"
+    },
+    {
+      "album": {
         "name": "\u00c9XODO",
         "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
@@ -5548,7 +5710,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 168176,
       "name": "What\u2019s It Take to Be a Star?",
       "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"

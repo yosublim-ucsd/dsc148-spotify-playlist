@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu?si=1o9-vzRJSWqE7TPL5OXo-Q\">Tamlyn Wessels</a> ",
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=GOJerxRRSFaYUZOGS0tQBg\">Dodo Nyoka</a> &  <a href=\"https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=Dau7p9ANSo6tFeHQdYfRjw\">Karlien Van Jaarsveld</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -582,6 +582,24 @@
       "duration_ms": 176750,
       "name": "Buffel Van Buffelsfontein",
       "url": "https://open.spotify.com/track/5GJpKxfcdkXtZvC62fPLXU"
+    },
+    {
+      "album": {
+        "name": "By Die Dam",
+        "url": "https://open.spotify.com/album/4vlClvEqxXba4pYE8E2tSZ"
+      },
+      "artists": [
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188357,
+      "name": "By Die Dam",
+      "url": "https://open.spotify.com/track/5e7VN92fFQVhndeT1rXGGB"
     },
     {
       "album": {
@@ -2038,6 +2056,24 @@
       "duration_ms": 148776,
       "name": "Klaar Gesmeek",
       "url": "https://open.spotify.com/track/22HyJsOfW7MAhyIPXpjXA8"
+    },
+    {
+      "album": {
+        "name": "Klaar Geweet",
+        "url": "https://open.spotify.com/album/7N01zBaGFsnny2RS96Aqoz"
+      },
+      "artists": [
+        {
+          "name": "Lisie Basson",
+          "url": "https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207313,
+      "name": "Klaar Geweet",
+      "url": "https://open.spotify.com/track/2SXJNxbFGUnMx4AFBNnLAI"
     },
     {
       "album": {
@@ -3738,7 +3774,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 214624,
       "name": "Stadig",
       "url": "https://open.spotify.com/track/3qdqbjYUNv3QYIBchTSaUq"
@@ -3858,7 +3894,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 190796,
       "name": "Stoutgat",
       "url": "https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL"

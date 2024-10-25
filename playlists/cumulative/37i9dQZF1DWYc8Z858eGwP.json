@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=LIvjpBufTzuEnfsCe5ul3g\">Manana</a>, <a href=\"https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=egylZMFXTKKjxV-LkmPxCQ\">Shallipopi</a> and <a href=\"https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=Hb4fENpGRRW4g9bWlLEXHA\">Joshua Baraka</a>",
+  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover:  <a href=\"https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=Hb4fENpGRRW4g9bWlLEXHA\">Joshua Baraka</a>",
   "name": "RADAR Africa",
   "tracks": [
     {
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-19",
+      "date_removed": null,
       "duration_ms": 170666,
       "name": "Extra Pressure",
       "url": "https://open.spotify.com/track/5psM7zuqtSaMnLr9WzI4s5"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 234545,
       "name": "Jioni",
       "url": "https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w"
@@ -3964,6 +3964,24 @@
       "duration_ms": 233920,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/3YbWbLKexX7qyDjWxs4s9h"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
     },
     {
       "album": {
@@ -6792,7 +6810,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 175000,
       "name": "Tompa",
       "url": "https://open.spotify.com/track/2t449BUtzwIsr0DlbTvcLJ"

@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 208780,
       "name": "Blue Lemonade",
       "url": "https://open.spotify.com/track/22Q2ZddeCMNPaZDdDBgQz9"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 191375,
       "name": "Cat's Nap zzZ (feat. Utopi)",
       "url": "https://open.spotify.com/track/1lfmSCkroWDyBXJsdcRW3H"
@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "19.99",
+        "url": "https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164920,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq"
+    },
+    {
+      "album": {
         "name": "No MBTI",
         "url": "https://open.spotify.com/album/6Cov5vJwPPSEaLyd9Gog8R"
       },
@@ -1804,6 +1822,24 @@
       "duration_ms": 200973,
       "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
       "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"
+    },
+    {
+      "album": {
+        "name": "Oneureul Gieokhaja (Ingatlah Hari Ini) - Original Soundtrack Cinta Tak Seindah Drama Korea",
+        "url": "https://open.spotify.com/album/28GoAqZtvVBLerde573OJD"
+      },
+      "artists": [
+        {
+          "name": "Shakira Jasmine",
+          "url": "https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227428,
+      "name": "Oneureul Gieokhaja (Ingatlah Hari Ini) - Original Soundtrack Cinta Tak Seindah Drama Korea",
+      "url": "https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3"
     },
     {
       "album": {
@@ -2260,7 +2296,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 157386,
       "name": "Strawberry Smoothie",
       "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
@@ -2452,6 +2488,28 @@
       "duration_ms": 192274,
       "name": "Tutorial",
       "url": "https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V"
+    },
+    {
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/2dnjFIjZWbpZKs5JYCBsnh"
+      },
+      "artists": [
+        {
+          "name": "ZHOUMI",
+          "url": "https://open.spotify.com/artist/2xrUYKqC1VxHd16IiPxOUH"
+        },
+        {
+          "name": "HENDERY",
+          "url": "https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229320,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/4NxTbQeq4MI4YIo6vtf43v"
     },
     {
       "album": {

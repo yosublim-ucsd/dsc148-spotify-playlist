@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Decide",
+        "url": "https://open.spotify.com/album/2UykEHV5O7fBUIo03sMtsi"
+      },
+      "artists": [
+        {
+          "name": "Shutdown",
+          "url": "https://open.spotify.com/artist/40s4gmRbRxJFQ2w4mVCub3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109920,
+      "name": "Decide",
+      "url": "https://open.spotify.com/track/6nTkuZVtaU8bCLCrnVqJY7"
+    },
+    {
+      "album": {
         "name": "Hardcore Pride",
         "url": "https://open.spotify.com/album/0o0RkPPVu3z5cE1WtZt9vS"
       },

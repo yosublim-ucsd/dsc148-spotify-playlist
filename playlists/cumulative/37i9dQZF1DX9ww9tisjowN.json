@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Cover: YOASOBI",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Cover: Creepy Nuts",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 155601,
       "name": "abon",
       "url": "https://open.spotify.com/track/6JrnGrFFPMF0VSi1mp5X0R"
+    },
+    {
+      "album": {
+        "name": "Across Universe",
+        "url": "https://open.spotify.com/album/0xVwlwLU5HqnArd4JvajGE"
+      },
+      "artists": [
+        {
+          "name": "BPM15Q",
+          "url": "https://open.spotify.com/artist/4kDBfLqLmHdtDG3BcTA21r"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168199,
+      "name": "Across Universe",
+      "url": "https://open.spotify.com/track/4UMIcGA3hFeE2QxD0Tmtfy"
     },
     {
       "album": {
@@ -4326,7 +4344,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 202209,
       "name": "PAIN KILLER",
       "url": "https://open.spotify.com/track/5jq0a8bH5oQUqvlssMlrpS"
@@ -6742,7 +6760,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 203552,
       "name": "\u3069\u3046\u3067\u3082\u3044\u3044\u8a71\u304c\u3057\u305f\u3044",
       "url": "https://open.spotify.com/track/5neukhTvTU38FpGUjpjW6q"
@@ -6989,6 +7007,24 @@
     },
     {
       "album": {
+        "name": "\u3082\u3046\u3044\u3044\u3088",
+        "url": "https://open.spotify.com/album/2O6Ndu8lo4d1Ov7wz7bNGO"
+      },
+      "artists": [
+        {
+          "name": "Kocchi no Kento",
+          "url": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177959,
+      "name": "\u3082\u3046\u3044\u3044\u3088",
+      "url": "https://open.spotify.com/track/3uTffiZnTs9Zwfg0uIQ4Zw"
+    },
+    {
+      "album": {
         "name": "\u3084\u3063\u3061\u3083\u3063\u305f\u308f",
         "url": "https://open.spotify.com/album/2R3BmVGXanFTzQmsMS9zmi"
       },
@@ -7116,6 +7152,24 @@
       "duration_ms": 259053,
       "name": "\u30a2\u30a4\u30e0\u30e6\u30a2\u30d2\u30fc\u30ed\u30fc",
       "url": "https://open.spotify.com/track/3qLF8tsuoFkpVVqBQyTgM8"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/1eYYfunGohknNjEJxwBsej"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239800,
+      "name": "\u30a2\u30a6\u30c8\u30e9\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/1rrI0xYaXYTyWtgf5ZtGPg"
     },
     {
       "album": {
@@ -7775,6 +7829,24 @@
     },
     {
       "album": {
+        "name": "\u30c1\u30f3\u30c1\u30ed\u30ea\u30ba\u30e0",
+        "url": "https://open.spotify.com/album/4rpktLSw3eBxnEwbic3oql"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203987,
+      "name": "\u30c1\u30f3\u30c1\u30ed\u30ea\u30ba\u30e0",
+      "url": "https://open.spotify.com/track/2hKK5pNejF3vDtB4k7c8Dd"
+    },
+    {
+      "album": {
         "name": "\u30c7\u30a3\u30a2",
         "url": "https://open.spotify.com/album/5N8xSxpW6ufBnobt5iMMXs"
       },
@@ -8014,7 +8086,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 165000,
       "name": "\u30d3\u30d3\u30c7\u30d0",
       "url": "https://open.spotify.com/track/0ShUHmWaz48KgyjaOG7Tpv"
@@ -8746,7 +8818,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 197853,
       "name": "\u30eb\u30eb",
       "url": "https://open.spotify.com/track/1n2wGY2QlnhueSVOrZXsgF"
@@ -10000,10 +10072,32 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 213888,
       "name": "\u672c\u5f53\u3060\u3088",
       "url": "https://open.spotify.com/track/4fnskJdNDDh27vBhsvXChn"
+    },
+    {
+      "album": {
+        "name": "\u685c\u65e5\u548c\u3068\u30bf\u30a4\u30e0\u30de\u30b7\u30f3 with \u521d\u97f3\u30df\u30af\uff0f\u521d\u590f",
+        "url": "https://open.spotify.com/album/2vxWLmD9gv9RDgL4SM71Wg"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        },
+        {
+          "name": "\u521d\u97f3\u30df\u30af",
+          "url": "https://open.spotify.com/artist/5yRZVGcu9VCt8L1Bjzhi5R"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331560,
+      "name": "\u685c\u65e5\u548c\u3068\u30bf\u30a4\u30e0\u30de\u30b7\u30f3 with \u521d\u97f3\u30df\u30af",
+      "url": "https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY"
     },
     {
       "album": {

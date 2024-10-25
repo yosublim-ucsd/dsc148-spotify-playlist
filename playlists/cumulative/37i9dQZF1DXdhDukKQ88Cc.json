@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "dk rap og den vibe  <a href=\"spotify:artist:1YwMnnHvnG64fJxYSVwmN6\">Branco</a> p\u00e5 deluxe \ud83d\udc8e",
+  "description": "dk rap og den vibe...<a href=\"spotify:artist:4a88Q5HOh8FSXQ1gPcQu2U\">Kimbo</a> med album ude \ud83d\udc8e",
   "name": "100 DK",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 160615,
       "name": "2 Kanoner",
       "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
+    },
+    {
+      "album": {
+        "name": "2 Sider",
+        "url": "https://open.spotify.com/album/6ZDIPlUNce9ZHxIzT0b4ka"
+      },
+      "artists": [
+        {
+          "name": "Toko",
+          "url": "https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136350,
+      "name": "2 Sider",
+      "url": "https://open.spotify.com/track/0H0YR67BTGnCM45tmqvt2Z"
     },
     {
       "album": {
@@ -1877,6 +1895,28 @@
     },
     {
       "album": {
+        "name": "Det Gyldne Snit",
+        "url": "https://open.spotify.com/album/3vyD0ISit04iXRKGjfnqP3"
+      },
+      "artists": [
+        {
+          "name": "Kimbo",
+          "url": "https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147098,
+      "name": "Fundamentalt (feat. KESI)",
+      "url": "https://open.spotify.com/track/4P7QKDFvuqcCJhUMEzX06Z"
+    },
+    {
+      "album": {
         "name": "Fungerer",
         "url": "https://open.spotify.com/album/4qSZPlNs2Jh7eib2Geb7AR"
       },
@@ -2266,6 +2306,24 @@
       "duration_ms": 159359,
       "name": "HONEYMOON",
       "url": "https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY"
+    },
+    {
+      "album": {
+        "name": "Hustlers Ambition",
+        "url": "https://open.spotify.com/album/2UHksnhp9qVmHqXM8GKPCS"
+      },
+      "artists": [
+        {
+          "name": "Eezy",
+          "url": "https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121889,
+      "name": "Hustlers Ambition",
+      "url": "https://open.spotify.com/track/4XdCz4OmpJG8boHyXaeg7v"
     },
     {
       "album": {
@@ -4876,6 +4934,24 @@
       "duration_ms": 150526,
       "name": "Zoo (feat. Branco)",
       "url": "https://open.spotify.com/track/4uSOMRmjHHwxF5CoSCKiAQ"
+    },
+    {
+      "album": {
+        "name": "Liberosis",
+        "url": "https://open.spotify.com/album/5BX8fA8Jiaw8ZwoIIQ3xT2"
+      },
+      "artists": [
+        {
+          "name": "Faza",
+          "url": "https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200215,
+      "name": "Zugzwang",
+      "url": "https://open.spotify.com/track/3YxUsqFWqZDRICQ7Epg3qb"
     },
     {
       "album": {

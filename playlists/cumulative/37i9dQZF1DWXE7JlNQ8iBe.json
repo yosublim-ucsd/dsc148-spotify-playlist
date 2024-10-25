@@ -609,24 +609,6 @@
     },
     {
       "album": {
-        "name": "\"Por Siempre\"",
-        "url": "https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q"
-      },
-      "artists": [
-        {
-          "name": "Amparo Ochoa",
-          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
-        }
-      ],
-      "date_added": "2022-10-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 310013,
-      "name": "La Calaca",
-      "url": "https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU"
-    },
-    {
-      "album": {
         "name": "Nuevos Retros",
         "url": "https://open.spotify.com/album/2EWXBn0wNaSo8dS9sU7esL"
       },
@@ -642,6 +624,24 @@
       "duration_ms": 143653,
       "name": "La Calaca",
       "url": "https://open.spotify.com/track/1gwDC9eihTyON6HKr9O8NR"
+    },
+    {
+      "album": {
+        "name": "\"Por Siempre\" Lo Mejor de Amparo Ochoa (Remasterizada 2006)",
+        "url": "https://open.spotify.com/album/1H9VCendIQLE3QFcKDwQ5Q"
+      },
+      "artists": [
+        {
+          "name": "Amparo Ochoa",
+          "url": "https://open.spotify.com/artist/0qk9IE3icvkYLRii8qAko8"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310013,
+      "name": "La Calaca - Remasterizada 2006",
+      "url": "https://open.spotify.com/track/7hmDplqSftS7uQMxsEY9BU"
     },
     {
       "album": {

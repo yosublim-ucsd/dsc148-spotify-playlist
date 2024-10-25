@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 136614,
       "name": "Alexis",
       "url": "https://open.spotify.com/track/5P5Xe5Mgv9jCSKE8ZBWoBi"
@@ -590,6 +590,24 @@
       "duration_ms": 211882,
       "name": "CARRY ON - \u300a\u8d85\u7d1a\u738b\u724c\u68d2\u7403\u968a\u300b\u7247\u982d\u66f2",
       "url": "https://open.spotify.com/track/46xtb42bgOLycrg95a39Qk"
+    },
+    {
+      "album": {
+        "name": "\u9017\u7559",
+        "url": "https://open.spotify.com/album/5Kcer3lHGIcKDYYY9fHuua"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "cat person",
+      "url": "https://open.spotify.com/track/0VcQoQtOdG3Rnf4nwslinR"
     },
     {
       "album": {
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 173793,
       "name": "The Same Title \u72d7\u8840",
       "url": "https://open.spotify.com/track/0pXsKHPFzl8XYAXsfxFzpi"
@@ -4602,7 +4620,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 202002,
       "name": "\u4e00\u8d77\u8d70\uff01",
       "url": "https://open.spotify.com/track/2b9XMsjvBEN4ryqXw3mMzA"
@@ -4926,7 +4944,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 247223,
       "name": "\u4e82\u6d41",
       "url": "https://open.spotify.com/track/238p15Fz5TneRm52TNoVL8"
@@ -7934,7 +7952,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 134794,
       "name": "\u6307\u91dd",
       "url": "https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1"
@@ -9268,7 +9286,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 136753,
       "name": "\u71b1\u88402024",
       "url": "https://open.spotify.com/track/16biEsDRCnWwiUDlIylDlQ"
@@ -10110,7 +10128,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 139178,
       "name": "\u81ea\u7531\u7684\u98a8",
       "url": "https://open.spotify.com/track/1uONk3vGhr6wyxSOSPxSRb"
@@ -10334,7 +10352,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 183478,
       "name": "\u898b\u5230\u59b3\u5f8c",
       "url": "https://open.spotify.com/track/7i0xdGyjCGIXgSTFBLbuTK"

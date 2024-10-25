@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover:  Kaleb J",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover:  Raisa",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 203356,
       "name": "3..2..1",
       "url": "https://open.spotify.com/track/5HhDOVqVmGWGCcQRbsN21j"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 333044,
       "name": "Durasi",
       "url": "https://open.spotify.com/track/0OuVSjnPMcTjwIZUcrT6r4"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 231995,
       "name": "Gemercik Asmara",
       "url": "https://open.spotify.com/track/3wA8KBsBcCkAAF9ZDZLkKQ"
@@ -1462,6 +1462,28 @@
       "duration_ms": 247193,
       "name": "Hari Itu",
       "url": "https://open.spotify.com/track/06wZo8NQVbOkNKXfYb5X3s"
+    },
+    {
+      "album": {
+        "name": "TEATER NESTAPA",
+        "url": "https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        },
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Hey Tunggu Dulu",
+      "url": "https://open.spotify.com/track/4cWvKdsd9egRGO4CnwFqEg"
     },
     {
       "album": {
@@ -1967,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "KECANDUAN",
+        "url": "https://open.spotify.com/album/3ocKWS6k7vfXQYVx8ahmxI"
+      },
+      "artists": [
+        {
+          "name": "SAMSONS",
+          "url": "https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217053,
+      "name": "KECANDUAN",
+      "url": "https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx"
+    },
+    {
+      "album": {
         "name": "Kehilanganmu",
         "url": "https://open.spotify.com/album/5G4bm1QpyhBjGv6B1kZ7Us"
       },
@@ -2430,7 +2470,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 279442,
       "name": "Lost Stars - From \"Laura Movie\"",
       "url": "https://open.spotify.com/track/4KcG3ogn7rTXJzkErtyNKf"
@@ -3174,7 +3214,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 233959,
       "name": "Raja dan Ratu",
       "url": "https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu"
@@ -3268,6 +3308,24 @@
       "duration_ms": 247007,
       "name": "Sadrah",
       "url": "https://open.spotify.com/track/33UIshRVxXEBzITjCzo6al"
+    },
+    {
+      "album": {
+        "name": "POTRET (Live at Aquarius Studio)",
+        "url": "https://open.spotify.com/album/3YJiPrrxqY9tyuVCoDj58K"
+      },
+      "artists": [
+        {
+          "name": "POTRET",
+          "url": "https://open.spotify.com/artist/5E0ZEllVLvhodbjpK5k9s1"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269990,
+      "name": "Salah - Live at Aquarius Studio",
+      "url": "https://open.spotify.com/track/2KsQDj3kEFCQVjGk8rTHV0"
     },
     {
       "album": {
@@ -3390,7 +3448,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 220758,
       "name": "Sekarang Esok Selamanya - From \"Laura Movie\"",
       "url": "https://open.spotify.com/track/2QWz4xWsXCys3V1HFA7R8p"
@@ -3416,6 +3474,28 @@
       "duration_ms": 290578,
       "name": "Selagi Punya Waktu",
       "url": "https://open.spotify.com/track/04VpbxCYIwfDHCqq2JqQFW"
+    },
+    {
+      "album": {
+        "name": "Selalu Untuk Selamanya",
+        "url": "https://open.spotify.com/album/1ghY5gSCHR6xzUtzUloihW"
+      },
+      "artists": [
+        {
+          "name": "Hanin Dhiya",
+          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
+        },
+        {
+          "name": "Stevan Pasaribu",
+          "url": "https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245223,
+      "name": "Selalu Untuk Selamanya",
+      "url": "https://open.spotify.com/track/0c133r0IkodWNwKgaUFeJt"
     },
     {
       "album": {
@@ -3677,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Senyumin Dulu Aja",
+        "url": "https://open.spotify.com/album/6ZHe5db0j2FZrxuu6tqsb2"
+      },
+      "artists": [
+        {
+          "name": "VIDI",
+          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155581,
+      "name": "Senyumin Dulu Aja",
+      "url": "https://open.spotify.com/track/2DpWJsNrCjkXkk7aW3lC9A"
+    },
+    {
+      "album": {
         "name": "Sepenuh Hati",
         "url": "https://open.spotify.com/album/1SCxm7IxbHVv9my7yM832a"
       },
@@ -3710,7 +3808,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 214309,
       "name": "Serigala",
       "url": "https://open.spotify.com/track/1z9nHs7kyjtrcgNVhJcFmw"
@@ -3822,6 +3920,24 @@
       "duration_ms": 183103,
       "name": "Sheepish",
       "url": "https://open.spotify.com/track/7IWyM1A6Vx3bYPpmVUG0l3"
+    },
+    {
+      "album": {
+        "name": "Si Paling Mahir",
+        "url": "https://open.spotify.com/album/0MLJXJNbm6XtlrWqPZ9vpE"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255888,
+      "name": "Si Paling Mahir",
+      "url": "https://open.spotify.com/track/13PG6EwYObFHU3hMWT5HBt"
     },
     {
       "album": {
@@ -4598,10 +4714,28 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 177906,
       "name": "Watak Utama",
       "url": "https://open.spotify.com/track/6lyWbnQ85nWXJt6SYQgQW6"
+    },
+    {
+      "album": {
+        "name": "Yang Baru",
+        "url": "https://open.spotify.com/album/35tySmLnfKYopvjYa2OoWM"
+      },
+      "artists": [
+        {
+          "name": "Yovie & Nuno",
+          "url": "https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194150,
+      "name": "Yang Baru",
+      "url": "https://open.spotify.com/track/4c1wBkdJEgqfs10hYnghBY"
     },
     {
       "album": {

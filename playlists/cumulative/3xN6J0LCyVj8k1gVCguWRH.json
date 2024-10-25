@@ -17962,7 +17962,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 196080,
       "name": "Don't Hurt Me So Bad!",
       "url": "https://open.spotify.com/track/3do3e2wWrmaOL4k1qHgmls"
@@ -31058,7 +31058,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 241666,
       "name": "I Breakdown",
       "url": "https://open.spotify.com/track/36k0MzsuLWlQchd6MHlmWY"
@@ -43932,6 +43932,24 @@
       "duration_ms": 210000,
       "name": "Mind",
       "url": "https://open.spotify.com/track/4ty0m7E3pvNPxpwAAyYJxH"
+    },
+    {
+      "album": {
+        "name": "Mind Over Matter",
+        "url": "https://open.spotify.com/album/55jz74Xvyxd6nAT5861n9f"
+      },
+      "artists": [
+        {
+          "name": "Tom Morgan",
+          "url": "https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187093,
+      "name": "Mind Over Matter",
+      "url": "https://open.spotify.com/track/3mEn0fMXi2fSSnfoOtBUwK"
     },
     {
       "album": {

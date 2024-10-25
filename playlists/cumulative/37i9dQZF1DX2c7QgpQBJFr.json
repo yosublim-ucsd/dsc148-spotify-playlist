@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Ancora",
+        "url": "https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v"
+      },
+      "artists": [
+        {
+          "name": "Mediterraneo",
+          "url": "https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179104,
+      "name": "Ancora",
+      "url": "https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW"
+    },
+    {
+      "album": {
         "name": "Anni Luce",
         "url": "https://open.spotify.com/album/4LTmcKBhBw9lj2MVAWcZnU"
       },
@@ -1259,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Farla Facile",
+        "url": "https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8"
+      },
+      "artists": [
+        {
+          "name": "Anna and Vulkan",
+          "url": "https://open.spotify.com/artist/338OK54trmorxC1704hKpD"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234908,
+      "name": "Farla Facile",
+      "url": "https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx"
+    },
+    {
+      "album": {
         "name": "DEVOTA",
         "url": "https://open.spotify.com/album/7i3oRIjhcZAb9wjqVLzbfE"
       },
@@ -1648,10 +1684,32 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 198566,
       "name": "If I Let A White Man Cut My Hair",
       "url": "https://open.spotify.com/track/73AfE9BlV8eE2J5Lbe8weo"
+    },
+    {
+      "album": {
+        "name": "IL BALLO DEGLI DEI",
+        "url": "https://open.spotify.com/album/4QkkHtO0LRorWjEqxEcPr3"
+      },
+      "artists": [
+        {
+          "name": "HERMES",
+          "url": "https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm"
+        },
+        {
+          "name": "Raffucs",
+          "url": "https://open.spotify.com/artist/4VmZQVUEWM65SsJf6W3qDo"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191465,
+      "name": "IL BALLO DEGLI DEI",
+      "url": "https://open.spotify.com/track/6w6Yfa3O5G23Lc6iJB0db2"
     },
     {
       "album": {
@@ -1674,6 +1732,24 @@
       "duration_ms": 148995,
       "name": "il mio miglior nemico",
       "url": "https://open.spotify.com/track/65oHYt1kcURRA9sSGwB5mt"
+    },
+    {
+      "album": {
+        "name": "il tuo posto nel mondo",
+        "url": "https://open.spotify.com/album/3wIz0ZCssynXC1vsYCuqGj"
+      },
+      "artists": [
+        {
+          "name": "Loomy",
+          "url": "https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183448,
+      "name": "il tuo posto nel mondo",
+      "url": "https://open.spotify.com/track/6Bkk58VWPVoPMxBG7VFS49"
     },
     {
       "album": {
@@ -1740,6 +1816,24 @@
       "duration_ms": 129600,
       "name": "Imperdonabile",
       "url": "https://open.spotify.com/track/3jd0rNu8g7J7j2CWON0YPm"
+    },
+    {
+      "album": {
+        "name": "insonnia",
+        "url": "https://open.spotify.com/album/7FZyxHxuNHP81BGI4FrYnn"
+      },
+      "artists": [
+        {
+          "name": "Neverbh",
+          "url": "https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "insonnia",
+      "url": "https://open.spotify.com/track/5xaII2RPf9KXPwPSbIdhKK"
     },
     {
       "album": {
@@ -1834,7 +1928,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 152000,
       "name": "L'amore che vuoi tu",
       "url": "https://open.spotify.com/track/6lmcQUoJ8onxTO9xntqWT3"
@@ -2667,6 +2761,28 @@
     },
     {
       "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/0K1BwtPMtI7Ohv8VLcqzt4"
+      },
+      "artists": [
+        {
+          "name": "Martino",
+          "url": "https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/7hBHGaopLsZAcZ36wJpL1t"
+    },
+    {
+      "album": {
         "name": "No Me Llames",
         "url": "https://open.spotify.com/album/049aJ3Z6SANuykZlKsZs06"
       },
@@ -2936,7 +3052,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 213658,
       "name": "Ottovolanti",
       "url": "https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse"
@@ -3309,6 +3425,24 @@
     },
     {
       "album": {
+        "name": "prima dell'alba",
+        "url": "https://open.spotify.com/album/6wcSGeGRc4jntrQg419uHK"
+      },
+      "artists": [
+        {
+          "name": "Ottobre",
+          "url": "https://open.spotify.com/artist/5X5IPqmCHjrWRShSmQ60Sp"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172875,
+      "name": "prima dell'alba",
+      "url": "https://open.spotify.com/track/2NsSeFDGxErU743AqkBdIP"
+    },
+    {
+      "album": {
         "name": "pugnale",
         "url": "https://open.spotify.com/album/0pLQPcAenfatBUnPjYQu12"
       },
@@ -3320,7 +3454,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 120365,
       "name": "pugnale",
       "url": "https://open.spotify.com/track/0zBnqDWkGtWDMYOjnm7wts"
@@ -3360,6 +3494,28 @@
       "duration_ms": 165709,
       "name": "quasi nuda",
       "url": "https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk"
+    },
+    {
+      "album": {
+        "name": "TUTTA VITA",
+        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180856,
+      "name": "Quei ricordi l\u00e0",
+      "url": "https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ"
     },
     {
       "album": {
@@ -3664,6 +3820,24 @@
       "duration_ms": 186644,
       "name": "Se Rimani",
       "url": "https://open.spotify.com/track/5YZcqaB36XOX867kYP7sn8"
+    },
+    {
+      "album": {
+        "name": "Self Care",
+        "url": "https://open.spotify.com/album/4S5XKP7TGVOPAgWjkZDyT1"
+      },
+      "artists": [
+        {
+          "name": "Palmaria",
+          "url": "https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236614,
+      "name": "Self Care",
+      "url": "https://open.spotify.com/track/2bbhOJTCVkmYh010FsUqQV"
     },
     {
       "album": {
@@ -4114,7 +4288,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 179815,
       "name": "TAPINDERQ (FACCIO CORNA)",
       "url": "https://open.spotify.com/track/2VjH2Bck5o4fO39OJunEyt"
@@ -4312,7 +4486,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 158620,
       "name": "VICOLI DI NAPOLI",
       "url": "https://open.spotify.com/track/6COpU6FKsiocTOCsn3aEkj"
@@ -4374,6 +4548,24 @@
       "duration_ms": 165500,
       "name": "Vodka fragola (feat. Atipica)",
       "url": "https://open.spotify.com/track/2f2iz5a5LuPlIFT2569Dcs"
+    },
+    {
+      "album": {
+        "name": "VOGLIONO ESSERE ME",
+        "url": "https://open.spotify.com/album/0bKZXBDyTVBSfmk5cKGDOY"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129461,
+      "name": "VOGLIONO ESSERE ME",
+      "url": "https://open.spotify.com/track/6zP3dYR5MQB8vj1QPAsgoX"
     },
     {
       "album": {

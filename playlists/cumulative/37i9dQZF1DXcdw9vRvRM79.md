@@ -4,7 +4,7 @@
 
 > Gentle music and soft rain sounds to help calm you down and settle in for relaxing sleep.
 
-147 songs - 7 hr 21 min
+149 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Oliono Forest Sound Bath](https://open.spotify.com/track/3m7xaoSVwB16C5OU8Jy780) | [Lars Peters](https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx) | [Oliono Forest Sound Bath](https://open.spotify.com/album/15XhmBVsNJGEEuqHA39yuf) | 2:40 | 2024-01-25 |  |
 | [On Quietude](https://open.spotify.com/track/5JiXbtZhm8I6O62S3NHqzi) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [On Quietude](https://open.spotify.com/album/5Rdpc4zu0Mv5401DI3V7qB) | 2:48 | 2024-03-01 |  |
 | [One In All \(Rainforest 432 Hz\)](https://open.spotify.com/track/1mRrap2H5etyXZaOXRRCRc) | [Nayanni](https://open.spotify.com/artist/2dx6xmAZP2n29B0nf6uh3J) | [One In All \(Rainforest 432 Hz\)](https://open.spotify.com/album/5nrwQhD3xxOrnXjmZZccth) | 3:02 | 2023-10-26 |  |
+| [Peace](https://open.spotify.com/track/2TWXbfh28wZfeD7tvdysd9) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Peace](https://open.spotify.com/album/3qfYDbvue5LJxdajzGfPCK) | 2:58 | 2024-10-24 |  |
 | [Pravaah](https://open.spotify.com/track/77Fh1GDyA2ZW5NCe9yCTR8) | [Hashree](https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G) | [Pravaah](https://open.spotify.com/album/6GaachOqzYq44kStPLeLBd) | 2:46 | 2023-09-28 |  |
 | [Quiet Times](https://open.spotify.com/track/6AVTXGRYp1EjemAzrOzQLl) | [Zen Anani](https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2) | [Quiet Times](https://open.spotify.com/album/67iYR0oPfvpKrh43DkgcFf) | 2:11 | 2024-09-06 |  |
 | [Rain Cleanse](https://open.spotify.com/track/3s90wLosZi7wuOowbk8qKn) | [Lucien Mørk](https://open.spotify.com/artist/1a1r1rGzRmzZ45ybcsEAJn) | [Infinite](https://open.spotify.com/album/50DJ6XR4dN48VOyFkn1QP1) | 2:41 | 2023-09-28 |  |
@@ -124,6 +125,7 @@
 | [Resonated](https://open.spotify.com/track/6mJ2jGd01xZZ07PNW0rypK) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Resonated](https://open.spotify.com/album/7H9nGdRXUSlxTmdFJCO3P7) | 2:40 | 2023-10-20 |  |
 | [Retrospection](https://open.spotify.com/track/4An4WDJ8b9GX9oR6qOiIyY) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Retrospection](https://open.spotify.com/album/2gVUUXlyossh8kZYUaKZYH) | 2:55 | 2023-09-28 |  |
 | [Returning to the Moment \(in the Rain\)](https://open.spotify.com/track/3UqcyeFWIvvZRp8gHvqzsH) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Returning to the Moment & Circle of Solitude](https://open.spotify.com/album/15OItHbcXHD0A2Rs9leWEh) | 4:04 | 2023-11-18 |  |
+| [Ribbons](https://open.spotify.com/track/6kjWUFqBaHgI0MlxfBoMts) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Ribbons](https://open.spotify.com/album/4ve1Y2XzjYxz0XtgVDcAlm) | 3:03 | 2024-10-24 |  |
 | [Sacral Sound Bath \(528 Hz\)](https://open.spotify.com/track/0ZUIbpVQ1J9Rr7rMdSpLzx) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Sacral Sound Bath \(528 Hz\)](https://open.spotify.com/album/3JptFEwX1TtkenkiYeqixQ) | 2:38 | 2023-11-18 |  |
 | [Sacred Pace \(Nature\)](https://open.spotify.com/track/39KoJUlRJvGyQGidDoRBGV) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Sacred Pace](https://open.spotify.com/album/39GPeST40NH8GOEU5UmXWd) | 2:39 | 2023-09-28 |  |
 | [Secret rain](https://open.spotify.com/track/13vyFHuzr8CESb0xLfZL07) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Secret rain](https://open.spotify.com/album/6gB2fiZgkECdWwpGiu9oKm) | 3:30 | 2023-09-28 | 2023-10-10 |

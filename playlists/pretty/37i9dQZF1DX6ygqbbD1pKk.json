@@ -1,6 +1,6 @@
 {
   "description": "Todos tus \u00e9xitos favoritos de Disney.",
-  "num_followers": 180247,
+  "num_followers": 180282,
   "original_name": "Disney Hits Latino",
   "owner": {
     "name": "Spotify",
@@ -1738,6 +1738,10 @@
         {
           "name": "Jemaine Clement",
           "url": "https://open.spotify.com/artist/1Ymky4GOgYA1NI96FCY8yE"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 185466,

@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Pilot\(파일럿\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-940 songs - 2 day 9 hr 3 min
+941 songs - 2 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [Once, More Than Anyone](https://open.spotify.com/track/4x6MZH5XsfnHH3D4fTiU8L) | [Baek Yeseul](https://open.spotify.com/artist/7GE4KJsseSG0G1848UQpro) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.23](https://open.spotify.com/album/2x3aDNlIC5WjRkWaN5KNEm) | 3:26 | 2022-12-19 | 2023-02-25 |
 | [One & Only](https://open.spotify.com/track/0OscC9CHC43zGPjgBnPH0i) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Tracer \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/3TKxlepvqeI5uEgePDUIxI) | 3:34 | 2022-02-03 | 2022-05-04 |
 | [One Hundred Love](https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Romantic Doctor 3 OST Part.5](https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF) | 3:56 | 2023-06-02 | 2023-11-03 |
+| [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/track/05jWq9zYFhzVlAyId8rEN3) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Oneureul Gieokhaja \(Ingatlah Hari Ini\) \- Original Soundtrack Cinta Tak Seindah Drama Korea](https://open.spotify.com/album/28GoAqZtvVBLerde573OJD) | 3:47 | 2024-10-24 |  |
 | [Only For You](https://open.spotify.com/track/7h2iFoe2WNPIPJQDQmOur5) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [No Gain No Love, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/31OFrN0a9IRvMomKL3oan0) | 3:29 | 2024-10-02 |  |
 | [Only Longing Grows](https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.15](https://open.spotify.com/album/58uielBksTKu8wfbWBfJxC) | 3:53 | 2022-07-25 | 2022-11-17 |
 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 | 2023-07-17 | 2023-11-18 |

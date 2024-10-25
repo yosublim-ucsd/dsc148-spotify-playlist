@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 32806,
+  "num_followers": 32812,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Magic Gouyad #3",
-        "url": "https://open.spotify.com/album/7ydEyjwDsDDH0tdoRKnwZA"
-      },
-      "artists": [
-        {
-          "name": "R Dydy",
-          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
-        }
-      ],
-      "duration_ms": 304352,
-      "name": "Magic Gouyad #3",
-      "url": "https://open.spotify.com/track/32SZRFOF9JUQRxAIOfaEkd"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "I'll Yayad (Pretty Bumpy)",
         "url": "https://open.spotify.com/album/0N1TfneesRkQpizfFqsvvF"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 267586,
       "name": "I'll Yayad - Pretty Bumpy",
       "url": "https://open.spotify.com/track/3PJiAnUAuy8FqnyMs85BkW"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Magic Gouyad #3",
+        "url": "https://open.spotify.com/album/7ydEyjwDsDDH0tdoRKnwZA"
+      },
+      "artists": [
+        {
+          "name": "R Dydy",
+          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
+        }
+      ],
+      "duration_ms": 304352,
+      "name": "Magic Gouyad #3",
+      "url": "https://open.spotify.com/track/32SZRFOF9JUQRxAIOfaEkd"
     },
     {
       "added_at": "2024-10-11 04:00:00",

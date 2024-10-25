@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 170624,
       "name": "396 Hz Freedom Heard in Lauterbrunnen",
       "url": "https://open.spotify.com/track/6O9GlPmNo9g0fZF9jdW2nw"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 158400,
       "name": "396 Hz Open Mind",
       "url": "https://open.spotify.com/track/2IDuOFkmxNV2Udp8p8oEf7"
@@ -1759,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "Grounded 396 Hz",
+        "url": "https://open.spotify.com/album/7y5ZfzwnEBMeMnR21gHSrJ"
+      },
+      "artists": [
+        {
+          "name": "Solfonia Dreamweaver",
+          "url": "https://open.spotify.com/artist/4FlIVXufr8qUuH3LjiJA5f"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Grounded 396 Hz",
+      "url": "https://open.spotify.com/track/07NOLxKDtne8AfVPQxrzlL"
+    },
+    {
+      "album": {
         "name": "Grounding",
         "url": "https://open.spotify.com/album/0vFCQHF8lMnmjjehplMToz"
       },
@@ -1774,6 +1792,24 @@
       "duration_ms": 204000,
       "name": "Grounding (396 Hz)",
       "url": "https://open.spotify.com/track/6h4PAVYbTtZHul8qVMEvni"
+    },
+    {
+      "album": {
+        "name": "Healer (396 Hz)",
+        "url": "https://open.spotify.com/album/2Z8tew4krtu645IRI3Z87U"
+      },
+      "artists": [
+        {
+          "name": "Lamb & Mountain",
+          "url": "https://open.spotify.com/artist/2WMPnzmwca8VGFhFIDmXSJ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166556,
+      "name": "Healer (396 Hz)",
+      "url": "https://open.spotify.com/track/3nrPm67MQFHFAL9eCbq3JZ"
     },
     {
       "album": {
@@ -1806,7 +1842,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 157090,
       "name": "Instantly 396 Hz",
       "url": "https://open.spotify.com/track/3O95CstCtVc4Wy7vOBN6y5"

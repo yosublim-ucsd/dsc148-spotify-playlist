@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,556 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,651 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 14 | [Kanka De Ohle](https://open.spotify.com/track/04q9KIf4RgMyBHH5FmJIOU) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Goreyan Naal Lagdi Zameen Jatt Di](https://open.spotify.com/album/0umKWUtsijnA7OU35IxCxY) | 3:30 |
 | 15 | [Murder](https://open.spotify.com/track/2mF6e4kHyg5bZHud5btnmJ) | [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Murder](https://open.spotify.com/album/2hFJ6Nj2c9zXM4bFvdXwBn) | 2:53 |
 | 16 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 |
-| 17 | [I Wish \(From "Pendu Boyz"\)](https://open.spotify.com/track/0KaRiO1uAtJemzUsxiuDEc) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Pendu Boyz](https://open.spotify.com/artist/77gJmotGj52JsPMGuFuvBW) | [I Wish \(From "Pendu Boyz"\)](https://open.spotify.com/album/4BfaidXSbgIq5DYLnSO3sy) | 2:14 |
-| 18 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |
-| 19 | [DOWNTOWN](https://open.spotify.com/track/7uw41oKgDSTE9Uq0yRNCmS) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Aziz](https://open.spotify.com/artist/5bKxXk1dtq9h6JwHUksEVU) | [DOWNTOWN](https://open.spotify.com/album/5fnwo2fKkhLtBAQ1P5H9MD) | 2:34 |
-| 20 | [Richie Rich](https://open.spotify.com/track/5OxAMzahUJ6vfpKe1sMSO4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [In Your Thoughts](https://open.spotify.com/album/6YAIfEP5AwiMV7pFt6gVGg) | 3:02 |
+| 17 | [Assault](https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Assault](https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt) | 2:17 |
+| 18 | [I Wish \(From "Pendu Boyz"\)](https://open.spotify.com/track/0KaRiO1uAtJemzUsxiuDEc) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Pendu Boyz](https://open.spotify.com/artist/77gJmotGj52JsPMGuFuvBW) | [I Wish \(From "Pendu Boyz"\)](https://open.spotify.com/album/4BfaidXSbgIq5DYLnSO3sy) | 2:14 |
+| 19 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |
+| 20 | [DOWNTOWN](https://open.spotify.com/track/7uw41oKgDSTE9Uq0yRNCmS) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Aziz](https://open.spotify.com/artist/5bKxXk1dtq9h6JwHUksEVU) | [DOWNTOWN](https://open.spotify.com/album/5fnwo2fKkhLtBAQ1P5H9MD) | 2:34 |
 | 21 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 |
 | 22 | [315](https://open.spotify.com/track/3RRA9krpuvRVMQVPObOkhH) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Deep Harry](https://open.spotify.com/artist/3CBgusVsS3fDEdPdUFYzpK) | [315](https://open.spotify.com/album/4k9UsTgIbbnFbGzSOHhykG) | 3:15 |
 | 23 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 |
 | 50 | [Gangland](https://open.spotify.com/track/4UY2GSXlMHfrfvPbBdlRDv) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Mankirt Aulakh \- Best Hits](https://open.spotify.com/album/1xp8NLdS2cGOKnqaNAGzgA) | 2:48 |
 
-Snapshot ID: `ZxiWHgAAAABxucG/RI4fn6V7YT/LDBYC`
+Snapshot ID: `ZxnwkgAAAACo6oC2b5DWMkK+sxcSxXYb`

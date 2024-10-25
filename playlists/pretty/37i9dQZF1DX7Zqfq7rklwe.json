@@ -1,29 +1,13 @@
 {
-  "description": "Suomen suurin ja paras rock-soittolista \u2620\ufe0f Kannessa Linkin Park.",
-  "num_followers": 31011,
+  "description": "Suomen suurin ja paras rock-soittolista \u2620\ufe0f Kannessa The Rasmus.",
+  "num_followers": 31015,
   "original_name": "VOLUME SUOMI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxin2gAAAADyO0TJWifoCd50trYmDWHs",
+  "snapshot_id": "Zxq1jAAAAABP2+Y1r0HbWblW5y5ShPsf",
   "tracks": [
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
-        "name": "Fading Like A Flower",
-        "url": "https://open.spotify.com/album/6DLoD9w8S2Wn0PO3vhGCvY"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 174080,
-      "name": "Fading Like A Flower",
-      "url": "https://open.spotify.com/track/4xK9z7D3vuGsnywy7vqUvL"
-    },
     {
       "added_at": "2024-10-23 07:38:02",
       "album": {
@@ -43,6 +27,54 @@
     {
       "added_at": "2024-10-23 07:38:02",
       "album": {
+        "name": "H.e.a.t II",
+        "url": "https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ"
+      },
+      "artists": [
+        {
+          "name": "H.E.A.T",
+          "url": "https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd"
+        }
+      ],
+      "duration_ms": 246826,
+      "name": "Dangerous Ground",
+      "url": "https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj"
+    },
+    {
+      "added_at": "2024-10-23 07:38:02",
+      "album": {
+        "name": "Fading Like A Flower",
+        "url": "https://open.spotify.com/album/6DLoD9w8S2Wn0PO3vhGCvY"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 174080,
+      "name": "Fading Like A Flower",
+      "url": "https://open.spotify.com/track/4xK9z7D3vuGsnywy7vqUvL"
+    },
+    {
+      "added_at": "2024-10-24 21:01:00",
+      "album": {
+        "name": "Rest In Pieces",
+        "url": "https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 176249,
+      "name": "Rest In Pieces",
+      "url": "https://open.spotify.com/track/5r0b7F3MGee7IMeJxP1TKP"
+    },
+    {
+      "added_at": "2024-10-23 07:38:02",
+      "album": {
         "name": "Devilry of Ecstasy",
         "url": "https://open.spotify.com/album/0I8tTyfyVf3DHw9xHu5zym"
       },
@@ -55,6 +87,22 @@
       "duration_ms": 206250,
       "name": "Devilry of Ecstasy",
       "url": "https://open.spotify.com/track/719WQ11ocVYYq2Hd2FKcgJ"
+    },
+    {
+      "added_at": "2024-10-24 21:01:00",
+      "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/4jI2TKGEjUjjnLjlpGYie6"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Sin\u00e4 2.0",
+      "url": "https://open.spotify.com/track/5D3lENK3mXnB9vkXgVGFYS"
     },
     {
       "added_at": "2024-10-23 07:38:02",
@@ -71,6 +119,38 @@
       "duration_ms": 322339,
       "name": "Deutschland",
       "url": "https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0"
+    },
+    {
+      "added_at": "2024-10-24 21:01:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5RBq6t8pSxpgqwAH2PKRJl"
+      },
+      "artists": [
+        {
+          "name": "Cyan Kicks",
+          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0BlV2ff2JmDf0fj3t8v9VV"
+    },
+    {
+      "added_at": "2024-10-23 07:38:02",
+      "album": {
+        "name": "Beneath The Dark Waters",
+        "url": "https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ"
+      },
+      "artists": [
+        {
+          "name": "Horizon Ignited",
+          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Beneath The Dark Waters",
+      "url": "https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI"
     },
     {
       "added_at": "2024-10-23 07:38:02",
@@ -91,8 +171,8 @@
     {
       "added_at": "2024-10-23 07:38:02",
       "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+        "name": "Heavy Is the Crown",
+        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
       },
       "artists": [
         {
@@ -100,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+      "duration_ms": 167012,
+      "name": "Heavy Is the Crown",
+      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
     },
     {
       "added_at": "2024-10-23 07:38:02",
@@ -175,22 +255,6 @@
     {
       "added_at": "2024-10-23 07:38:02",
       "album": {
-        "name": "Beneath The Dark Waters",
-        "url": "https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ"
-      },
-      "artists": [
-        {
-          "name": "Horizon Ignited",
-          "url": "https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "Beneath The Dark Waters",
-      "url": "https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
         "name": "Kylie",
         "url": "https://open.spotify.com/album/0B42NGSmFbRlxb6RCvtvsk"
       },
@@ -221,6 +285,22 @@
       "url": "https://open.spotify.com/track/5pUUbkb7pDgq1V2WDmU1b8"
     },
     {
+      "added_at": "2024-10-24 21:01:00",
+      "album": {
+        "name": "Neon Inferno",
+        "url": "https://open.spotify.com/album/75k7eiWA8rEGhmViParevn"
+      },
+      "artists": [
+        {
+          "name": "One Morning Left",
+          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+        }
+      ],
+      "duration_ms": 213028,
+      "name": "Tokyo Love",
+      "url": "https://open.spotify.com/track/3RgaZ9OAFzH3w58KKfIHoa"
+    },
+    {
       "added_at": "2024-10-23 07:38:02",
       "album": {
         "name": "Popular Monster",
@@ -235,6 +315,78 @@
       "duration_ms": 220537,
       "name": "Popular Monster",
       "url": "https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij"
+    },
+    {
+      "added_at": "2024-10-23 07:38:02",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/4Yo4Cc6YbANSJjb6BEb87g"
+      },
+      "artists": [
+        {
+          "name": "Fear Of Domination",
+          "url": "https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq"
+        }
+      ],
+      "duration_ms": 262045,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/747GeWvELWeEc7VFFIo7eJ"
+    },
+    {
+      "added_at": "2024-10-23 07:38:02",
+      "album": {
+        "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
+        "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        },
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        },
+        {
+          "name": "Aaron Pauley",
+          "url": "https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5"
+        }
+      ],
+      "duration_ms": 208054,
+      "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
+      "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
+    },
+    {
+      "added_at": "2024-10-23 07:38:02",
+      "album": {
+        "name": "DArkSide",
+        "url": "https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 164790,
+      "name": "DArkSide",
+      "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
+    },
+    {
+      "added_at": "2024-10-23 07:38:02",
+      "album": {
+        "name": "Kiila",
+        "url": "https://open.spotify.com/album/6XVLqIhFe5hbWso0IN5eVA"
+      },
+      "artists": [
+        {
+          "name": "Apulanta",
+          "url": "https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "Pahempi toistaan",
+      "url": "https://open.spotify.com/track/5373WQjhIPPJ8XGTCZLDfJ"
     },
     {
       "added_at": "2024-10-23 07:38:02",
@@ -287,22 +439,6 @@
     {
       "added_at": "2024-10-23 07:38:02",
       "album": {
-        "name": "Haamukirjoitus",
-        "url": "https://open.spotify.com/album/7mmTem3c0cqFyED5zerjhk"
-      },
-      "artists": [
-        {
-          "name": "Viikate",
-          "url": "https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "Haamukirjoitus",
-      "url": "https://open.spotify.com/track/2VsChldNUjT45aH8Ag4jWi"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
         "name": "MelancHoly",
         "url": "https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf"
       },
@@ -315,22 +451,6 @@
       "duration_ms": 218000,
       "name": "MelancHoly",
       "url": "https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
-        "name": "SUPERCHARGED",
-        "url": "https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 203640,
-      "name": "Ok, But This Is The Last Time",
-      "url": "https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO"
     },
     {
       "added_at": "2024-10-23 07:38:02",
@@ -365,20 +485,20 @@
       "url": "https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT"
     },
     {
-      "added_at": "2024-10-23 07:38:02",
+      "added_at": "2024-10-24 21:01:00",
       "album": {
-        "name": "H.e.a.t II",
-        "url": "https://open.spotify.com/album/0NEPDWFsJHcRIF6fKEiSHZ"
+        "name": "The Relapse",
+        "url": "https://open.spotify.com/album/1KTUELdA4xjZQo6DxJC33P"
       },
       "artists": [
         {
-          "name": "H.E.A.T",
-          "url": "https://open.spotify.com/artist/7M4PCSo5DDasGginrPHSDd"
+          "name": "Von Hertzen Brothers",
+          "url": "https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG"
         }
       ],
-      "duration_ms": 246826,
-      "name": "Dangerous Ground",
-      "url": "https://open.spotify.com/track/5nBqdZlIRLfgUIACfFVHlj"
+      "duration_ms": 329433,
+      "name": "The Relapse",
+      "url": "https://open.spotify.com/track/1Ga1OdmYWKCKYkpyNHaxcZ"
     },
     {
       "added_at": "2024-10-23 07:38:02",
@@ -429,10 +549,10 @@
       "url": "https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe"
     },
     {
-      "added_at": "2024-10-23 07:38:02",
+      "added_at": "2024-10-24 21:01:00",
       "album": {
-        "name": "Heavy Is the Crown",
-        "url": "https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq"
+        "name": "Over Each Other",
+        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
       },
       "artists": [
         {
@@ -440,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 167012,
-      "name": "Heavy Is the Crown",
-      "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
     },
     {
       "added_at": "2024-10-23 07:38:02",
@@ -487,38 +607,6 @@
     {
       "added_at": "2024-10-23 07:38:02",
       "album": {
-        "name": "Speed of Darkness",
-        "url": "https://open.spotify.com/album/69XGchdZikgzpYsLLv6XkG"
-      },
-      "artists": [
-        {
-          "name": "D-A-D",
-          "url": "https://open.spotify.com/artist/2I6gQ8HicF6er2NgjfkwGd"
-        }
-      ],
-      "duration_ms": 249109,
-      "name": "Speed of Darkness",
-      "url": "https://open.spotify.com/track/1AMyBmX7JwpBldnMbBcPUR"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
-        "name": "Pulssi",
-        "url": "https://open.spotify.com/album/5uECxuk1klwIvhrVVTYbE7"
-      },
-      "artists": [
-        {
-          "name": "Turmion K\u00e4til\u00f6t",
-          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
-        }
-      ],
-      "duration_ms": 219805,
-      "name": "Pulssi",
-      "url": "https://open.spotify.com/track/38UDmjZUayxYdxmZTzFAvX"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
         "name": "Frankenstein's Wife",
         "url": "https://open.spotify.com/album/5XQRzumlwkrrVlbl7yGMae"
       },
@@ -555,22 +643,6 @@
     {
       "added_at": "2024-10-23 07:38:02",
       "album": {
-        "name": "Michael, the Knight",
-        "url": "https://open.spotify.com/album/54RkiHxYAKpisnJnAtBr25"
-      },
-      "artists": [
-        {
-          "name": "One Morning Left",
-          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
-        }
-      ],
-      "duration_ms": 210208,
-      "name": "Michael, the Knight",
-      "url": "https://open.spotify.com/track/4pZNDJqmNB68cFlTE3VCrz"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
         "name": "Fear of the Dark (2015 Remaster)",
         "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
       },
@@ -599,22 +671,6 @@
       "duration_ms": 168282,
       "name": "slay ur enemies",
       "url": "https://open.spotify.com/track/7aGGAZBZgdSRt49j7m38Zk"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
-        "name": "Don't you say I didn't warn you",
-        "url": "https://open.spotify.com/album/28wJZ8CEiYBeuLxXC74Hrg"
-      },
-      "artists": [
-        {
-          "name": "Cyan Kicks",
-          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Don't you say I didn't warn you",
-      "url": "https://open.spotify.com/track/6aKMgFfuDfGrTRZ8Mp2T2n"
     },
     {
       "added_at": "2024-10-23 07:38:02",
@@ -679,22 +735,6 @@
       "duration_ms": 198460,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/5T2BjLvvf2OuOayhv2V9IG"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
-        "name": "Ascension Day",
-        "url": "https://open.spotify.com/album/4ev1RRP4QZVJSouEmyai19"
-      },
-      "artists": [
-        {
-          "name": "Von Hertzen Brothers",
-          "url": "https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG"
-        }
-      ],
-      "duration_ms": 306613,
-      "name": "Ascension Day",
-      "url": "https://open.spotify.com/track/4sscLguEDlCH2EfaS2FAYk"
     },
     {
       "added_at": "2024-10-23 07:38:02",
@@ -931,30 +971,6 @@
     {
       "added_at": "2024-10-23 07:38:02",
       "album": {
-        "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
-        "url": "https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        },
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        },
-        {
-          "name": "Aaron Pauley",
-          "url": "https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5"
-        }
-      ],
-      "duration_ms": 208054,
-      "name": "One Foot In The Grave (feat. Aaron Pauley of Of Mice & Men)",
-      "url": "https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
         "name": "Back With A Bang",
         "url": "https://open.spotify.com/album/1OFd5G0pxS0BRsWr3HdV6N"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 213520,
       "name": "Back With A Bang",
       "url": "https://open.spotify.com/track/1F5x8GlQ5XKG29jBzIlSlM"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
-        "name": "DArkSide",
-        "url": "https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 164790,
-      "name": "DArkSide",
-      "url": "https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE"
     },
     {
       "added_at": "2024-10-23 07:38:02",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-10-23 07:38:02",
       "album": {
-        "name": "Kiila",
-        "url": "https://open.spotify.com/album/6XVLqIhFe5hbWso0IN5eVA"
-      },
-      "artists": [
-        {
-          "name": "Apulanta",
-          "url": "https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "Pahempi toistaan",
-      "url": "https://open.spotify.com/track/5373WQjhIPPJ8XGTCZLDfJ"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
         "name": "Living in America (US version)",
         "url": "https://open.spotify.com/album/4Rg5Rh0uFB2v0uURm7S0d5"
       },
@@ -1179,22 +1163,6 @@
     {
       "added_at": "2024-10-23 07:38:02",
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/4Yo4Cc6YbANSJjb6BEb87g"
-      },
-      "artists": [
-        {
-          "name": "Fear Of Domination",
-          "url": "https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq"
-        }
-      ],
-      "duration_ms": 262045,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/747GeWvELWeEc7VFFIo7eJ"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/6Rbxgt8xNmnc6xHlXSRxQM"
       },
@@ -1207,22 +1175,6 @@
       "duration_ms": 249105,
       "name": "Arms Around Me",
       "url": "https://open.spotify.com/track/301CeEA0GFGthMXOI3YXbc"
-    },
-    {
-      "added_at": "2024-10-23 07:38:02",
-      "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn"
     },
     {
       "added_at": "2024-10-23 07:38:02",

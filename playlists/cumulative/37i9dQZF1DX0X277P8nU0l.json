@@ -379,6 +379,28 @@
     },
     {
       "album": {
+        "name": "Avalanches (DARGZ Remix)",
+        "url": "https://open.spotify.com/album/4gWEHyZ1c04hZlO1Cp97cz"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        },
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165957,
+      "name": "Avalanches - DARGZ Remix",
+      "url": "https://open.spotify.com/track/0E8iffVZuT4fS2EoD6io6d"
+    },
+    {
+      "album": {
         "name": "Back In Love",
         "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
       },
@@ -692,6 +714,24 @@
       "duration_ms": 212502,
       "name": "Bop Ba",
       "url": "https://open.spotify.com/track/2kohdOn9SEqiWlkIkOChy2"
+    },
+    {
+      "album": {
+        "name": "Flower of the soul (full bloom)",
+        "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143268,
+      "name": "Borrow mine",
+      "url": "https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5"
     },
     {
       "album": {
@@ -4148,7 +4188,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 186133,
       "name": "SNL",
       "url": "https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV"
@@ -4568,7 +4608,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 217773,
       "name": "Talk To You",
       "url": "https://open.spotify.com/track/464MDDbfUXvqVdeibpG5Lg"

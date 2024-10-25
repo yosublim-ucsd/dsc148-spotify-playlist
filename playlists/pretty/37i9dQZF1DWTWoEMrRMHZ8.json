@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Sued Nunes",
-  "num_followers": 347708,
+  "num_followers": 347701,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -379,30 +379,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Pouca Bobagem",
-        "url": "https://open.spotify.com/album/0ZCtDkmyUzI6rEqowlSwEq"
-      },
-      "artists": [
-        {
-          "name": "Dani Cruz",
-          "url": "https://open.spotify.com/artist/0A1Etysucm5HMKnMG3ygrr"
-        },
-        {
-          "name": "Carol Porto",
-          "url": "https://open.spotify.com/artist/7k2Nsq0KcaursuxcNcZis1"
-        },
-        {
-          "name": "Daniela Fernandes",
-          "url": "https://open.spotify.com/artist/5G4w6QaAI9ARRHaPB3LJnJ"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Pouca Bobagem",
-      "url": "https://open.spotify.com/track/6HuTblOraBoMTQ6BCbLgiX"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
       },
@@ -435,6 +411,30 @@
       "duration_ms": 192108,
       "name": "All Star - Ao Vivo",
       "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Pouca Bobagem",
+        "url": "https://open.spotify.com/album/0ZCtDkmyUzI6rEqowlSwEq"
+      },
+      "artists": [
+        {
+          "name": "Dani Cruz",
+          "url": "https://open.spotify.com/artist/0A1Etysucm5HMKnMG3ygrr"
+        },
+        {
+          "name": "Carol Porto",
+          "url": "https://open.spotify.com/artist/7k2Nsq0KcaursuxcNcZis1"
+        },
+        {
+          "name": "Daniela Fernandes",
+          "url": "https://open.spotify.com/artist/5G4w6QaAI9ARRHaPB3LJnJ"
+        }
+      ],
+      "duration_ms": 185250,
+      "name": "Pouca Bobagem",
+      "url": "https://open.spotify.com/track/6HuTblOraBoMTQ6BCbLgiX"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 142011,
-      "name": "Apesar de Agora",
-      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Multicolorida",
         "url": "https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 256344,
       "name": "Multicolorida",
       "url": "https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 142011,
+      "name": "Apesar de Agora",
+      "url": "https://open.spotify.com/track/7t5vyu2pZ4rnrJ6azywIaD"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Trem das Onze",
+        "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Takai",
+          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Trem Das Onze",
+      "url": "https://open.spotify.com/track/7u1BKrV09dgcNdpcK6BXTY"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Uma nova hist\u00f3ria",
         "url": "https://open.spotify.com/album/6dmkpr3VWbOluaJ5eyvY5y"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 159434,
       "name": "Uma nova hist\u00f3ria",
       "url": "https://open.spotify.com/track/2KHtLExG4RWkxSa9uzSBmF"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Trem das Onze",
-        "url": "https://open.spotify.com/album/0DCvEEUzdaB3i56XrcRgPo"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Takai",
-          "url": "https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Trem Das Onze",
-      "url": "https://open.spotify.com/track/7u1BKrV09dgcNdpcK6BXTY"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Terna Transforma\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4LkR6hEEiHWkK7N36CjFOA"
+        "name": "Baiana Baianinha",
+        "url": "https://open.spotify.com/album/5RAuH6ihqfeuRjp8RzCWaH"
       },
       "artists": [
         {
-          "name": "Guil\u00e9",
-          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
-        },
-        {
-          "name": "Ossuna Braza",
-          "url": "https://open.spotify.com/artist/77gn5npwqf0nbfbgiqnMA3"
+          "name": "Sofia Pitta",
+          "url": "https://open.spotify.com/artist/37VgvjyVydckXZJUFOuNY0"
         }
       ],
-      "duration_ms": 280256,
-      "name": "Terna Transforma\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1BxqbiThmXOjDdgiGUCeC0"
+      "duration_ms": 225000,
+      "name": "Baiana Baianinha",
+      "url": "https://open.spotify.com/track/0hfRYnxJr8tUKBELhkAyXQ"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1139,18 +1135,38 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Baiana Baianinha",
-        "url": "https://open.spotify.com/album/5RAuH6ihqfeuRjp8RzCWaH"
+        "name": "Terna Transforma\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4LkR6hEEiHWkK7N36CjFOA"
       },
       "artists": [
         {
-          "name": "Sofia Pitta",
-          "url": "https://open.spotify.com/artist/37VgvjyVydckXZJUFOuNY0"
+          "name": "Guil\u00e9",
+          "url": "https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl"
+        },
+        {
+          "name": "Ossuna Braza",
+          "url": "https://open.spotify.com/artist/77gn5npwqf0nbfbgiqnMA3"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Baiana Baianinha",
-      "url": "https://open.spotify.com/track/0hfRYnxJr8tUKBELhkAyXQ"
+      "duration_ms": 280256,
+      "name": "Terna Transforma\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1BxqbiThmXOjDdgiGUCeC0"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "duration_ms": 232714,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1171,22 +1187,6 @@
       "duration_ms": 269374,
       "name": "Iy\u00e1 Mesan",
       "url": "https://open.spotify.com/track/12qwubySXFcZGfLczELOiV"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/6oxI4U6ahuwziH0vuhY7hi"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        }
-      ],
-      "duration_ms": 232714,
-      "name": "AURORA",
-      "url": "https://open.spotify.com/track/15EVDrisvrVYHuf0qjclQp"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "A Calma Acalma",
-        "url": "https://open.spotify.com/album/1wMB5ZetaZy8rKtzM0yx4c"
-      },
-      "artists": [
-        {
-          "name": "J\u00d8Y Brandt",
-          "url": "https://open.spotify.com/artist/2YRTxRv98WvCsjK4wXtgxk"
-        }
-      ],
-      "duration_ms": 197635,
-      "name": "A Calma Acalma",
-      "url": "https://open.spotify.com/track/40D0bFvyl9ypjQvhjlZ5w4"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Um Milh\u00e3o",
         "url": "https://open.spotify.com/album/0vDrIN3zNc2VRYaNjNZluh"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 192500,
       "name": "Um Milh\u00e3o",
       "url": "https://open.spotify.com/track/1y14MpzSZA8JMEQhQXooy2"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "A Calma Acalma",
+        "url": "https://open.spotify.com/album/1wMB5ZetaZy8rKtzM0yx4c"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8Y Brandt",
+          "url": "https://open.spotify.com/artist/2YRTxRv98WvCsjK4wXtgxk"
+        }
+      ],
+      "duration_ms": 197635,
+      "name": "A Calma Acalma",
+      "url": "https://open.spotify.com/track/40D0bFvyl9ypjQvhjlZ5w4"
     },
     {
       "added_at": "2024-10-18 03:00:00",

@@ -209,6 +209,24 @@
     },
     {
       "album": {
+        "name": "AIWA",
+        "url": "https://open.spotify.com/album/0QL7eQbf5f935ww9GVQisq"
+      },
+      "artists": [
+        {
+          "name": "THIRST",
+          "url": "https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105172,
+      "name": "AIWA",
+      "url": "https://open.spotify.com/track/2PhjL9HTU2o6TM0CgYCcyr"
+    },
+    {
+      "album": {
         "name": "AKTIV",
         "url": "https://open.spotify.com/album/5DLiNZwFKKIRU8yZVwvE7b"
       },

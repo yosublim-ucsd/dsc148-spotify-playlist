@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L?si=sJYYM4ekTjGJJk1J0rLgRA>Dj Horphuray</a>",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE?si=AMHkr_RMSn6pOcyYhzhilQ>Chizie</a>",
   "name": "Youth Service",
   "tracks": [
     {
@@ -2909,6 +2909,28 @@
     },
     {
       "album": {
+        "name": "Close to your heart",
+        "url": "https://open.spotify.com/album/105k38qJ7nB810q8kvsBRy"
+      },
+      "artists": [
+        {
+          "name": "Kole Light",
+          "url": "https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui"
+        },
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153437,
+      "name": "Close to your heart",
+      "url": "https://open.spotify.com/track/39FHha4rtCHneBKKPXTWW2"
+    },
+    {
+      "album": {
         "name": "Cock & Bull",
         "url": "https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi"
       },
@@ -4405,6 +4427,32 @@
     },
     {
       "album": {
+        "name": "Egbon",
+        "url": "https://open.spotify.com/album/0OElJWnLAlupvFzDrtK6MN"
+      },
+      "artists": [
+        {
+          "name": "DJ Ernesty",
+          "url": "https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj"
+        },
+        {
+          "name": "Shenom Again",
+          "url": "https://open.spotify.com/artist/0sdIfiCXsN6Z2vfn7gZV3q"
+        },
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98952,
+      "name": "Egbon",
+      "url": "https://open.spotify.com/track/6LeJ9QowoML8dKw2Fh2gm4"
+    },
+    {
+      "album": {
         "name": "El-Roi",
         "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
       },
@@ -4664,6 +4712,24 @@
       "duration_ms": 169000,
       "name": "Energy",
       "url": "https://open.spotify.com/track/7Gx1vqpMlIubCjumPzommm"
+    },
+    {
+      "album": {
+        "name": "Jesus & Lamba",
+        "url": "https://open.spotify.com/album/1hWJ2l28sPV38rqL7SsCha"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161590,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/0PXT9PA9lp3dpBu8YKBKvZ"
     },
     {
       "album": {
@@ -5116,6 +5182,32 @@
       "duration_ms": 173400,
       "name": "Father And Son (True Love)",
       "url": "https://open.spotify.com/track/1rC8W1I7Z3GJZkfBVZEIN9"
+    },
+    {
+      "album": {
+        "name": "Father We Declare",
+        "url": "https://open.spotify.com/album/3rL19E0P92E592NhhgycgN"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "Churemi",
+          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140281,
+      "name": "Father We Declare",
+      "url": "https://open.spotify.com/track/6fDCxjnAQbcizv2yvzztGY"
     },
     {
       "album": {
@@ -7761,6 +7853,24 @@
     },
     {
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199404,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/15lMgmcxp8giTCSFg4KW0N"
       },
@@ -8194,6 +8304,28 @@
       "duration_ms": 278444,
       "name": "I Really Want You to Know",
       "url": "https://open.spotify.com/track/38gMEX4SPeJN5Z2FM7mcPs"
+    },
+    {
+      "album": {
+        "name": "I Want To See You",
+        "url": "https://open.spotify.com/album/69qfCg1up2LPx9iLfwshtL"
+      },
+      "artists": [
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170186,
+      "name": "I Want To See You",
+      "url": "https://open.spotify.com/track/3p6i5Nvr0I68LwbVWkTj7N"
     },
     {
       "album": {
@@ -8816,7 +8948,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 159428,
       "name": "In You",
       "url": "https://open.spotify.com/track/6bsrCda8VgcBLtI5c3HCyn"
@@ -13482,6 +13614,24 @@
     {
       "album": {
         "name": "Only You",
+        "url": "https://open.spotify.com/album/1asaOf1MnDnA1m8yqo2Tsu"
+      },
+      "artists": [
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161818,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7aV505QqvikC9q8oFEihV0"
+    },
+    {
+      "album": {
+        "name": "Only You",
         "url": "https://open.spotify.com/album/4LwEbqVCww5PSSdryxEaS6"
       },
       "artists": [
@@ -13518,6 +13668,28 @@
       "duration_ms": 312980,
       "name": "Only You Satisfy",
       "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
+    },
+    {
+      "album": {
+        "name": "Onyeoma",
+        "url": "https://open.spotify.com/album/4EzOBmRMcOfMLM6XqlaU4A"
+      },
+      "artists": [
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Onyeoma",
+      "url": "https://open.spotify.com/track/5NyAEi2WfqOc1MikRm3YSF"
     },
     {
       "album": {
@@ -15699,6 +15871,32 @@
     },
     {
       "album": {
+        "name": "STREET CHURCH (UNVL' 24)",
+        "url": "https://open.spotify.com/album/4x3zS8naDNLmVysnDH3V2G"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Pillar YRR",
+          "url": "https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd"
+        },
+        {
+          "name": "Majemu",
+          "url": "https://open.spotify.com/artist/5w4AeRwjaVNl2Gb44iqjHD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188252,
+      "name": "STREET CHURCH - UNVL' 24",
+      "url": "https://open.spotify.com/track/7j5D0PUY7PFb54jcUKxLHr"
+    },
+    {
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/1RsK0Gb8POxRt08RCVD0mD"
       },
@@ -16168,6 +16366,24 @@
       "duration_ms": 153608,
       "name": "Taking Care",
       "url": "https://open.spotify.com/track/2bok7kaFYeLkFGrzlXuaoF"
+    },
+    {
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
     },
     {
       "album": {
@@ -18152,6 +18368,24 @@
       "duration_ms": 195970,
       "name": "You",
       "url": "https://open.spotify.com/track/2Q6WliuKomF2fN9ZkVhrdh"
+    },
+    {
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/3c1EAtqsXXiKpBRHJ9pdjh"
+      },
+      "artists": [
+        {
+          "name": "Drakare",
+          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/3UlWPQHAlgn62eZUuiMaNB"
     },
     {
       "album": {

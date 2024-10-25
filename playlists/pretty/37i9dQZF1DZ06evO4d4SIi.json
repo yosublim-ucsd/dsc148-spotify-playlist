@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 38834,
+  "num_followers": 38868,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxWZgAAAAAA5dqqHEwlnvMie4E7kuxjW",
+  "snapshot_id": "Zxg8gAAAAADfqmO+5yhsmgru3+udLobs",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble Town",
-        "url": "https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 184174,
-      "name": "Trouble Town",
-      "url": "https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dream: Living The Dream (Deluxe)",
         "url": "https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 207804,
       "name": "The Ride (feat. Jordan Davis)",
       "url": "https://open.spotify.com/track/1WeXDyy9jM3bX5ZdN0IvFV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble Town",
+        "url": "https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 184174,
+      "name": "Trouble Town",
+      "url": "https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr"
     },
     {
       "added_at": null,

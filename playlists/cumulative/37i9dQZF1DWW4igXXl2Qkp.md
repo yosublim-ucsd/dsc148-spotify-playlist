@@ -4,7 +4,7 @@
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:3OrXU7Z906hHdbG5fTQ6Ef">Lil Bean</a>
 
-1,464 songs - 2 day 15 hr 20 min
+1,464 songs - 2 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -712,7 +712,7 @@
 | [Last Laugh](https://open.spotify.com/track/5xZuFADmP2SXXQUJEJL7Tv) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last Laugh](https://open.spotify.com/album/6saP11UTdkJ9SaIS2125Ng) | 2:55 | 2023-11-29 | 2024-01-17 |
 | [Last laugh](https://open.spotify.com/track/0Nw5ZlshQVPqQvIohg8QGp) | [Ceechynaa](https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg) | [Last laugh](https://open.spotify.com/album/66KkpUCqEUPwxN8tYGSrBX) | 2:55 | 2023-08-24 | 2023-09-21 |
 | [Last Minute Trips](https://open.spotify.com/track/6wcQu66dXYDoh0ke9tmvYj) | [Azizi Gibson](https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP) | [Last Minute Trips](https://open.spotify.com/album/2tmvA9yyds9HQa5T4c9Xmg) | 2:58 | 2021-12-01 | 2022-01-14 |
-| [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 2:32 | 2024-10-17 |  |
+| [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 1:40 | 2024-10-17 |  |
 | [LAST SUMMER...](https://open.spotify.com/track/4hbGrx8msw7LOa3OFhzbTf) | [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp), [KJ Focus](https://open.spotify.com/artist/3jU3YuMkUx6VOXOuRm9Ozb) | [LAST SUMMER](https://open.spotify.com/album/1226jmllv5To2StZyFzqK1) | 3:13 | 2024-07-17 |  |
 | [Last Time Speaking](https://open.spotify.com/track/3qhnypWslWY0hWbXiEi1eW) | [Rot Ken](https://open.spotify.com/artist/64WnGi9H0Xc2RCGbjYAFd5), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [oksurf](https://open.spotify.com/artist/7p6kSroBqiTLRWSd1yBpun) | [Kenny World Deluxe](https://open.spotify.com/album/186G03iM52cPFJdKvgDjRd) | 3:01 | 2024-03-20 | 2024-04-19 |
 | [Latex](https://open.spotify.com/track/6D0SnFFpPlzdLyVThkN1EG) | [Niyah DeNae](https://open.spotify.com/artist/4N3HWX1fkh6FE6zQqfBJaV) | [Latex](https://open.spotify.com/album/4Dp6FQfLI3EQ2MIUEn51RX) | 1:54 | 2024-06-19 | 2024-06-27 |

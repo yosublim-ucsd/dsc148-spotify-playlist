@@ -2,7 +2,7 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Iqhbal, Selfi Yamma
+> Dendang Dangdut teratas\. Cover: Maulana Ardiansyah
 
 203 songs - 16 hr 0 min
 

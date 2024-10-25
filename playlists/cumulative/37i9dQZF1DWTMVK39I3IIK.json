@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:1FdCucmAi2Z2N4hOThl4Zl\">Pauline</a>",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8 <a href=\"spotify:artist:0dMc2FDDeU7OzAn5EsYKuU\">\u00d8sten</a> har nyt album ude\u2764\ufe0f\u200d\ud83d\udd25",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -1685,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182860,
+      "name": "Sang Til Min Far",
+      "url": "https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ"
+    },
+    {
+      "album": {
         "name": "Sang Til Min Mor",
         "url": "https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll"
       },
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 236624,
       "name": "Se Mig",
       "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"

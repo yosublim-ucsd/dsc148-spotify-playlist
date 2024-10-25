@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: KISS OF LIFE\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: JAEHYUN\(재현\)\)
 
-762 songs - 1 day 16 hr 35 min
+763 songs - 1 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 | 2024-03-08 | 2024-03-15 |
 | [On Your Mind](https://open.spotify.com/track/7zbuLxauVIXbIGx14PxAWJ) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [Emi Choi](https://open.spotify.com/artist/7CBR3nH5wFYRbmNAuxZdcU) | [Seoul Vibes Pt.19](https://open.spotify.com/album/69pBAUK07wgu9anA6MKBQ5) | 2:42 | 2022-04-19 | 2022-07-24 |
 | [Once \(feat\. J.O.Y\)](https://open.spotify.com/track/5DKXbkV2NsCOFBOWZILA2L) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Once](https://open.spotify.com/album/6LqHI2g0taFCS72SOZFXDP) | 3:10 | 2022-09-30 | 2022-10-06 |
-| [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 | 2022-06-09 |  |
+| [ONCE AGAIN](https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [Our Blues, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO) | 2:49 | 2022-06-09 | 2024-10-25 |
 | [One Day \(Feat\. Colde\)](https://open.spotify.com/track/4q6skuN6lZHi1AwwniIj7o) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Colde\(콜드\)](https://open.spotify.com/artist/4ZHF0gNlIJoP7CeKBj7QWX) | [Blended Noise](https://open.spotify.com/album/7EB0Fr3m45Il2lmxA4I87O) | 3:15 | 2022-04-19 | 2022-04-21 |
 | [One Moment](https://open.spotify.com/track/3TYs2qtL4hCfZbMypOHYvQ) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Seasonal Hiatus](https://open.spotify.com/album/0aIwKONwBn7YD25RrM4445) | 3:38 | 2023-02-24 | 2023-05-04 |
 | [ONE MORE TRY](https://open.spotify.com/track/0HvNZx5oLXzAVCmK8igIvo) | [JOE CHO](https://open.spotify.com/artist/7cvx4BWUCi18EeMxvwc9aA) | [ONE MORE TRY](https://open.spotify.com/album/6VROGt4mH0zMjBJmUB99XV) | 2:53 | 2022-04-22 | 2022-04-28 |
@@ -699,6 +699,7 @@
 | [UFO \(Feat\. Seori\)](https://open.spotify.com/track/3RIDQ0NiYcV896kb0mWz3k) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Inside Out](https://open.spotify.com/album/3xA110ttA5PDmnDIBoyb7b) | 3:19 | 2022-04-19 | 2022-07-28 |
 | [uleum](https://open.spotify.com/track/595KCHsr2IGHS3iykdPyta) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [uleum](https://open.spotify.com/album/3KHDiSRpFQg50qplOfznpw) | 3:51 | 2022-04-19 | 2022-04-21 |
 | [Unbreak](https://open.spotify.com/track/1UQHcilrljYHCBHEHg8eMi) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Unbreak](https://open.spotify.com/album/5cW2CezifOIFXI599yiVcJ) | 3:19 | 2024-07-19 | 2024-09-07 |
+| [Unconditional](https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Unconditional](https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9) | 3:04 | 2024-10-24 |  |
 | [Undo](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:48 | 2022-07-04 | 2022-08-19 |
 | [UoU](https://open.spotify.com/track/1Er4Us9efoj7yyAZQ7CNd4) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [UoU](https://open.spotify.com/album/5OuzEfhlKMTT2gAXJZqyGp) | 2:36 | 2024-09-05 | 2024-09-20 |
 | [Up Late](https://open.spotify.com/track/0zGHkO156T5MNaYmaS7fNP) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:53 | 2023-11-17 | 2023-11-23 |

@@ -2087,6 +2087,36 @@
     },
     {
       "album": {
+        "name": "FIYA SELECTA (feat. Toya Delazy)",
+        "url": "https://open.spotify.com/album/14ptodXF2R41xxDgNvloV4"
+      },
+      "artists": [
+        {
+          "name": "Sam Binga",
+          "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "Toya Delazy",
+          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156108,
+      "name": "FIYA SELECTA (feat. Toya Delazy)",
+      "url": "https://open.spotify.com/track/0CkYrIQRRCQKxV1EmN6JxK"
+    },
+    {
+      "album": {
         "name": "flight fm",
         "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
       },
@@ -4683,6 +4713,24 @@
     },
     {
       "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/0pSnRC8TDE1j7B04j7QIq3"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/5o4ekLO60BhAf4s9LhefCL"
+    },
+    {
+      "album": {
         "name": "Pictures In My Head",
         "url": "https://open.spotify.com/album/2Tz3N0ksvhYiVu6qcgW4wm"
       },
@@ -5372,7 +5420,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 192314,
       "name": "Rig Fairy (feat. Kelvin 373, Selecta J-Man and Aries) - VIP",
       "url": "https://open.spotify.com/track/5a97fAfJIHN6GfwwcVUNzA"
@@ -5664,7 +5712,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 167068,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW"

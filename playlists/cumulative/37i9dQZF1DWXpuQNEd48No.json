@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 159000,
       "name": "Confuse",
       "url": "https://open.spotify.com/track/5nXadOAptwlFI7desJ3P1e"
@@ -1942,6 +1942,28 @@
       "duration_ms": 193433,
       "name": "Elaan",
       "url": "https://open.spotify.com/track/3dzkMcvRVdDfnfcSXZyD9j"
+    },
+    {
+      "album": {
+        "name": "Expelled",
+        "url": "https://open.spotify.com/album/5OKWtPFNxhuGaRjxZBeF3n"
+      },
+      "artists": [
+        {
+          "name": "ADDI KALYAN",
+          "url": "https://open.spotify.com/artist/6s3N1jFz2YrJPCEvbF5gDN"
+        },
+        {
+          "name": "Varun Rana",
+          "url": "https://open.spotify.com/artist/34bsUwR2hSCqyem7PH2s05"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156816,
+      "name": "Expelled",
+      "url": "https://open.spotify.com/track/0ELzctzDOxFi8eSGREvQum"
     },
     {
       "album": {

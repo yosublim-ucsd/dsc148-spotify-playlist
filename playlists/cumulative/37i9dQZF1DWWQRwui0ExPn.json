@@ -11602,7 +11602,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 178440,
       "name": "Believe - Instrumental",
       "url": "https://open.spotify.com/track/53Cls86VDCYr9iU3SxMEcX"
@@ -19474,7 +19474,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 98250,
       "name": "Casa Bah\u00eda",
       "url": "https://open.spotify.com/track/4QNIqOJahWZfEU3JiKNxTf"
@@ -23282,6 +23282,24 @@
       "duration_ms": 155950,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/4o2KcGCD2uZ6Nu0vnMLnhz"
+    },
+    {
+      "album": {
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/4LpnijAb8blgBpVbETtl2v"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/0PPlANVj1pw5InVorVuJv9"
     },
     {
       "album": {
@@ -46386,7 +46404,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 152030,
       "name": "Glow",
       "url": "https://open.spotify.com/track/7JGMIK6MNkDEoCSsdABXII"
@@ -56494,7 +56512,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 108000,
       "name": "in the attic",
       "url": "https://open.spotify.com/track/55nJbJ4cRgZbdnNwYNoWIE"
@@ -61782,6 +61800,24 @@
       "duration_ms": 156000,
       "name": "Keepin On",
       "url": "https://open.spotify.com/track/0YEaeG8JpKhgy0qRe7sNqZ"
+    },
+    {
+      "album": {
+        "name": "keeping up appearances",
+        "url": "https://open.spotify.com/album/6UMpw0PMtV73MOhsU5ohJ6"
+      },
+      "artists": [
+        {
+          "name": "Zupa Fitz",
+          "url": "https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128409,
+      "name": "keeping up appearances",
+      "url": "https://open.spotify.com/track/0NLSPdAfVk8ArLAH0XqTWJ"
     },
     {
       "album": {
@@ -81022,7 +81058,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 144000,
       "name": "Never Going Back",
       "url": "https://open.spotify.com/track/1EPgfVfxPaaispfsgXBXcs"
@@ -101570,7 +101606,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 149647,
       "name": "Seagull Blues",
       "url": "https://open.spotify.com/track/4NKXXADxxBYbhDfOcFrNnv"
@@ -105992,7 +106028,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 132000,
       "name": "Slow Drive",
       "url": "https://open.spotify.com/track/3Fi2M2hOIIzfOCHuTip2Pp"
@@ -121328,7 +121364,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-03",
+      "date_removed": null,
       "duration_ms": 106666,
       "name": "Through Fire",
       "url": "https://open.spotify.com/track/0iqxnHrMDQd1OR0UDj79Oe"

@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Médine
+> Les plus belles plumes rap français du moment\. Photo : Jeune Mort
 
-75 songs - 4 hr 15 min
+78 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Apnée \(feat\. Sheldon\)](https://open.spotify.com/track/4HBElMde9FrnY8AOlr1m4t) | [Maydo](https://open.spotify.com/artist/1JGcG0hGyvwIobPI8kvEAr), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [Apnée \(feat\. Sheldon\)](https://open.spotify.com/album/0lsmvSGUHUhbtPxkG6vnGe) | 3:06 | 2024-10-17 |  |
 | [Avec des mots](https://open.spotify.com/track/7o47hpUDZUXFdYJDfkb4gQ) | [Davodka](https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn), [Sinik](https://open.spotify.com/artist/1ONnyhQBTnkvg4QmI97hJg) | [Avec des mots](https://open.spotify.com/album/2nzd04FMf4BJ2jqoBMSLsu) | 3:12 | 2024-06-27 |  |
 | [BÂTEAU DANS LE CIEL](https://open.spotify.com/track/6H0QahVmwkQVJXFMxbikNV) | [Skary](https://open.spotify.com/artist/1m04l4V9GnBbWwZ587BmKP), [Wysko](https://open.spotify.com/artist/6533hbKiWuH4KSU2RwZlmy), [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [LE HORLA](https://open.spotify.com/album/0zzkrEonDjv3ZVSSek36I4) | 3:13 | 2024-06-27 | 2024-07-19 |
-| [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 | 2024-06-27 |  |
+| [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 | 2024-06-27 | 2024-10-25 |
 | [CAMP D'ENTRAÎNEMENT](https://open.spotify.com/track/5vTB5o92ygTGye1MaTOhWs) | [Jungle Jack](https://open.spotify.com/artist/36HOtWiV4nn0luNGSn2xAT), [Mairo](https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg) | [JUNGLE DES ILLUSIONS VOL 2](https://open.spotify.com/album/3tFfZvWj3GYjONfRlTkMzc) | 3:56 | 2024-08-29 | 2024-10-11 |
 | [CERCLE FERMÉ \- SOS FREESTYLE](https://open.spotify.com/track/5rhwgQSglUardhzznwgHTw) | [Selug](https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi), [$enar](https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5) | [CERCLE FERMÉ \- SOS FREESTYLE](https://open.spotify.com/album/2RdrOCuQna46cYGiKntWFP) | 1:54 | 2024-06-27 | 2024-09-13 |
 | [Chef tribal](https://open.spotify.com/track/3O02qkF8L7v3o4yzuw1iNU) | [Double Zulu](https://open.spotify.com/artist/3p5keqAzDnuOoAVya8laK6), [Just Music Beats](https://open.spotify.com/artist/5AcC1DGW2hYT1n4nu5jaWQ) | [Last Man Standing](https://open.spotify.com/album/3nQRRS5h0T38vTbdeKuadh) | 2:31 | 2024-09-26 | 2024-10-11 |
@@ -53,6 +53,8 @@
 | [Le plan B](https://open.spotify.com/track/2fLtZwOTINAaYP6bJefpUX) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [Bitume Caviar \(Vol.1\)](https://open.spotify.com/album/3Fr9OWBaK5i1nZh0BT38jN) | 2:41 | 2024-06-27 | 2024-09-20 |
 | [Le Plat](https://open.spotify.com/track/0ZctGizLJmhyC5Y75FTj4y) | [Costa](https://open.spotify.com/artist/4wMo1eZWwlJeWoBtIqZYXX) | [Le Plat](https://open.spotify.com/album/1ara8MlWtiMUSQDQNHPEaJ) | 2:35 | 2024-07-25 | 2024-10-11 |
 | [Ledger \(feat\. PLK\)](https://open.spotify.com/track/01EyucDcdBiixZdeGkmXmz) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 | 2024-06-27 |  |
+| [Les anges pleurent plus qu'avant](https://open.spotify.com/track/3K9SP7aqNAI6yRR7vk26Ty) | [Bonobo](https://open.spotify.com/artist/3CA7lyKUkVtDuaZjqYb6nH) | [Les anges pleurent plus qu'avant](https://open.spotify.com/album/5eppPHGfeUsdDrjgiPqu79) | 2:56 | 2024-10-24 |  |
+| [LES ENFANTS MENTENT](https://open.spotify.com/track/0floJuqvuAa8mj6yT9TYXg) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [LES ENFANTS MENTENT](https://open.spotify.com/album/4Umt5vCol8K3X2WbMnv1QQ) | 4:24 | 2024-10-24 |  |
 | [Les vivants qui s'enterrent](https://open.spotify.com/track/2v7ObR4MZtMiWjvGtFt8R8) | [Eesah Yasuke](https://open.spotify.com/artist/12w3AFOBfSycL4YP2nnEOC) | [PS: J'écris l'album](https://open.spotify.com/album/0obgTAkC3EABdA9KoJnZD1) | 4:19 | 2024-06-27 | 2024-09-27 |
 | [Madame](https://open.spotify.com/track/5zxTyelb42bd7QXzJuGNp9) | [IZAID](https://open.spotify.com/artist/1uXtKoRnSL2151WEZFN9Ab) | [Madame](https://open.spotify.com/album/6qaLbepFBV2ZECcBDWBD3j) | 2:27 | 2024-06-27 |  |
 | [No Choice](https://open.spotify.com/track/7FX9fJFJL1BSgrWKZ3zrhX) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn), [Le Shoush](https://open.spotify.com/artist/3pBS7ZKUIPG82BxrOVRaFH) | [No Choice](https://open.spotify.com/album/5RHher7IXArSsZGvXHUFui) | 2:22 | 2024-06-27 | 2024-07-27 |
@@ -60,7 +62,8 @@
 | [Olympien](https://open.spotify.com/track/62aBHWpAqVlvXsmKDwVXfp) | [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Tous ces ongles rongés](https://open.spotify.com/album/67ocT0IRwTaGyjiWycPNLV) | 1:47 | 2024-10-03 |  |
 | [Paix](https://open.spotify.com/track/3qWNQvfLnnkg9K3ZvOmYkK) | [Souli](https://open.spotify.com/artist/6j2mAzLfu9ZMjd4rwCRjjn) | [Paix](https://open.spotify.com/album/6EIhSo6iCjDUprlXSYx1Lf) | 2:59 | 2024-10-03 |  |
 | [pardon](https://open.spotify.com/track/76KHkoyMPy4wBPzIPVKtqN) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [merci](https://open.spotify.com/album/011E6jHkQZ1A9MVHtYLy3b) | 2:55 | 2024-07-11 |  |
-| [Pistol Pit](https://open.spotify.com/track/7pbxOvH9Cm6ZzNfVsNFQng) | [Mr Kayz](https://open.spotify.com/artist/3j2HryhkXkBgOKlfI7ZpDs), [Just Music Beats](https://open.spotify.com/artist/5AcC1DGW2hYT1n4nu5jaWQ) | [Pistol Pit](https://open.spotify.com/album/1sRqPUY9VPf9JxpO8u0CGE) | 2:36 | 2024-09-26 |  |
+| [PHOBOS](https://open.spotify.com/track/3H27495JmKdKl5HisfHOvv) | [Jeune Mort](https://open.spotify.com/artist/7u8gvNEGeiNVartjPGoTtU) | [DEMAIN EST ANNULÉ](https://open.spotify.com/album/4wO5AjxTQfuyVr0H0e6coR) | 2:40 | 2024-10-24 |  |
+| [Pistol Pit](https://open.spotify.com/track/7pbxOvH9Cm6ZzNfVsNFQng) | [Mr Kayz](https://open.spotify.com/artist/3j2HryhkXkBgOKlfI7ZpDs), [Just Music Beats](https://open.spotify.com/artist/5AcC1DGW2hYT1n4nu5jaWQ) | [Pistol Pit](https://open.spotify.com/album/1sRqPUY9VPf9JxpO8u0CGE) | 2:36 | 2024-09-26 | 2024-10-25 |
 | [Plaine des Asphodèles](https://open.spotify.com/track/4feZ8pmKWjttSJnq2hYxjc) | [Primero](https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7) | [Plaine des Asphodèles](https://open.spotify.com/album/4KgrJ6VLq2xYsY7OF3wTRB) | 2:36 | 2024-08-29 |  |
 | [PLAYBOI CARTI](https://open.spotify.com/track/1tzaO7UkR3tk9PXJXMKTMo) | [Metah](https://open.spotify.com/artist/0Dr1nbwa1KW5wHYUCsrnAF) | [ILL'](https://open.spotify.com/album/1L1sWMW7RJLHlQiLQQqLiX) | 2:38 | 2024-07-04 | 2024-07-27 |
 | [Plus fort](https://open.spotify.com/track/7wLy1EDhsCY4k7rymb9L4E) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC) | [Plus fort que l'orage](https://open.spotify.com/album/4LdYnCjNvxtjOOuP90Vszy) | 2:30 | 2024-06-27 |  |
@@ -77,7 +80,7 @@
 | [Un monde meilleur](https://open.spotify.com/track/7J2n6JG3yiHU0VxyPbiyQV) | [Sentin’l](https://open.spotify.com/artist/49eWq2JOL6lBj9ELT70IWi), [Yamoy](https://open.spotify.com/artist/39pzhf6yFUFgGzUdwk4sne) | [Unique & ordinaire, Vol\. 2](https://open.spotify.com/album/5r5IoJl8UNIiUxbrGL7Zw1) | 3:30 | 2024-09-19 | 2024-10-18 |
 | [Une fois ou deux](https://open.spotify.com/track/3ibta0jnNl7NuRNNFkVnTd) | [Civil](https://open.spotify.com/artist/696uf26etJndy1oI0wiFYm) | [Une fois ou deux](https://open.spotify.com/album/0TkgjvxCimgBWYE8vEHtBA) | 2:57 | 2024-06-27 | 2024-07-05 |
 | [UNIVERS SONS](https://open.spotify.com/track/51snU4dNsRwzDE2R2T4NIV) | [Deemax](https://open.spotify.com/artist/3mnPgDAZ5fsnyeq6EMpGGt) | [À MA PLACE \- Version Complète](https://open.spotify.com/album/5yMmEs0xyfSN6AqgFPxEl5) | 3:42 | 2024-08-22 | 2024-09-27 |
-| [Vatos \#4](https://open.spotify.com/track/69SruWGqKCEBDoopXYcYIL) | [Mehdi Miklo](https://open.spotify.com/artist/4ZKVDoSZmED2oG5XpABWeB) | [Vatos \#4](https://open.spotify.com/album/2oZgVKMzMz90NmFqrqPBXC) | 2:48 | 2024-09-26 |  |
+| [Vatos \#4](https://open.spotify.com/track/69SruWGqKCEBDoopXYcYIL) | [Mehdi Miklo](https://open.spotify.com/artist/4ZKVDoSZmED2oG5XpABWeB) | [Vatos \#4](https://open.spotify.com/album/2oZgVKMzMz90NmFqrqPBXC) | 2:48 | 2024-09-26 | 2024-10-25 |
 | [Vernissage](https://open.spotify.com/track/2yF364s6VEUTx1Hs4Nyytf) | [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Dose héroïque](https://open.spotify.com/album/54aPS3jDEYjVOZo8KO9AIq) | 3:12 | 2024-06-27 | 2024-08-30 |
 | [Vérité 7](https://open.spotify.com/track/5xm8SYHo9JsqAK8uL7fyeB) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j) | [Vérité 7](https://open.spotify.com/album/0LlqvuC4mIyal7gFaqifH1) | 5:54 | 2024-06-27 | 2024-07-19 |
 | [À La Faveur De L'automne](https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Cesium](https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm) | 5:41 | 2024-06-27 |  |

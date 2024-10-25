@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25791,
+  "num_followers": 25789,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABhQpGhWvfoQ6+4ClY6p8RwnwiXpI7l",
+  "snapshot_id": "AABhRZ8pPdd7uFOo37BynYLK1ICOL/67",
   "tracks": [
     {
       "added_at": "2024-10-21 13:56:48",
@@ -120,7 +120,7 @@
       },
       "artists": [
         {
-          "name": "Yero",
+          "name": "YERO",
           "url": "https://open.spotify.com/artist/6Sz80zYH0Fo5d5mT1gavlO"
         },
         {
@@ -923,6 +923,62 @@
       "duration_ms": 173130,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/67BQGSouTl01SuJGOJgc5R"
+    },
+    {
+      "added_at": "2024-10-24 21:56:51",
+      "album": {
+        "name": "We Will Never Change",
+        "url": "https://open.spotify.com/album/4ZORrv6sq9J4p2BLINLQDy"
+      },
+      "artists": [
+        {
+          "name": "The Kudu",
+          "url": "https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ"
+        },
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD"
+        },
+        {
+          "name": "JVZEL",
+          "url": "https://open.spotify.com/artist/1YGqQWe9iOGuA9QwYab3LE"
+        }
+      ],
+      "duration_ms": 170328,
+      "name": "We Will Never Change",
+      "url": "https://open.spotify.com/track/2nd2RnXbaAM2DiFf2RKppI"
+    },
+    {
+      "added_at": "2024-10-24 21:56:51",
+      "album": {
+        "name": "The Spark",
+        "url": "https://open.spotify.com/album/0KcdIN0fPifxEfhMSk5jcZ"
+      },
+      "artists": [
+        {
+          "name": "Winterfresh",
+          "url": "https://open.spotify.com/artist/5CEQDOtEb9UftqMWwoJXrL"
+        }
+      ],
+      "duration_ms": 169218,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/5aANECHv1iasCTI23nQoKI"
+    },
+    {
+      "added_at": "2024-10-24 21:56:50",
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/6vUgVc7GxcH04OZmc2dDX4"
+      },
+      "artists": [
+        {
+          "name": "RYKR",
+          "url": "https://open.spotify.com/artist/6HY7tSOFayF9DIKI2zGpp3"
+        }
+      ],
+      "duration_ms": 339047,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2skGLmzkZKB8yEwlXuZVcs"
     },
     {
       "added_at": "2024-10-21 13:56:48",

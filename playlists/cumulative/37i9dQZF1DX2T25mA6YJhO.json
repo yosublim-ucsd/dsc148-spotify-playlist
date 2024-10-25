@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Aiko el grupo.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Carolina Durante.",
   "name": "Rock 2024",
   "tracks": [
     {
@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "47 segundos",
+        "url": "https://open.spotify.com/album/0UMnyvVJoeUq2bq5B7zIli"
+      },
+      "artists": [
+        {
+          "name": "Pinpilinpussies",
+          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47013,
+      "name": "47 segundos",
+      "url": "https://open.spotify.com/track/3Syzg1YcZtlafx4hTtNrLu"
+    },
+    {
+      "album": {
         "name": "5 MESES",
         "url": "https://open.spotify.com/album/5qN6vm6Z4nW90l4m072RoY"
       },
@@ -96,6 +114,24 @@
       "duration_ms": 199797,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/2O9IemDWvMSVmBnhjX3zxe"
+    },
+    {
+      "album": {
+        "name": "Si molesto, os vais",
+        "url": "https://open.spotify.com/album/41EFYkiiDgiOg44Ekx2fg0"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251328,
+      "name": "A la luz de la luna",
+      "url": "https://open.spotify.com/track/4b9ZJYE4He1r2aH9aVs76I"
     },
     {
       "album": {
@@ -258,7 +294,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 304693,
       "name": "Angel Genetics",
       "url": "https://open.spotify.com/track/27JBVGR4cIeWEzU39zIRJl"
@@ -316,6 +352,24 @@
       "duration_ms": 230250,
       "name": "Arder en Fuego",
       "url": "https://open.spotify.com/track/3JHcfsP9SZP77qZ7ueGbuk"
+    },
+    {
+      "album": {
+        "name": "arghHhh!",
+        "url": "https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253106,
+      "name": "arghHhh!",
+      "url": "https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n"
     },
     {
       "album": {
@@ -388,7 +442,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 183652,
       "name": "Bats - Bonus Track",
       "url": "https://open.spotify.com/track/1MrCEloTvLxizWYBaCsJcF"
@@ -1118,7 +1172,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 144846,
       "name": "Finales Alternativos",
       "url": "https://open.spotify.com/track/5Iz3b8J09zstCwndwYPaOJ"
@@ -1238,6 +1292,24 @@
       "duration_ms": 172599,
       "name": "Hago lo que quiero",
       "url": "https://open.spotify.com/track/3ovVn2nRqhzrIIUJsUnDl8"
+    },
+    {
+      "album": {
+        "name": "Hamburguesas",
+        "url": "https://open.spotify.com/album/2KH4h632xtY2Y0u9C4I7Jw"
+      },
+      "artists": [
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184631,
+      "name": "Hamburguesas",
+      "url": "https://open.spotify.com/track/6FUFVQrn1RvyydcLsL4xdJ"
     },
     {
       "album": {
@@ -1758,7 +1830,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 207659,
       "name": "Mala Vista",
       "url": "https://open.spotify.com/track/5svguBFCLPgdXe0qGhFxSQ"
@@ -2164,6 +2236,24 @@
       "duration_ms": 184984,
       "name": "No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
+    },
+    {
+      "album": {
+        "name": "Ya decidir\u00e9 ma\u00f1ana",
+        "url": "https://open.spotify.com/album/2PAgSFHOvDwQzHxAbX0zgM"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139733,
+      "name": "No quiero verte",
+      "url": "https://open.spotify.com/track/2NOPXflMMHUDA1jcwcQbTe"
     },
     {
       "album": {
@@ -2662,10 +2752,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 234067,
       "name": "Que arda Madriz",
       "url": "https://open.spotify.com/track/6kiSbGU14JU9wgcWqQhQAn"
+    },
+    {
+      "album": {
+        "name": "Quiero Saber",
+        "url": "https://open.spotify.com/album/4YVwm1cQG7D96z6MObjwUl"
+      },
+      "artists": [
+        {
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169453,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4apfAbVAi8AtDgc77naDNq"
     },
     {
       "album": {
@@ -2788,7 +2896,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 138666,
       "name": "Ruido Blanco",
       "url": "https://open.spotify.com/track/3EraDTviXLjFiv4lCqqVR5"
@@ -2994,7 +3102,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 114004,
       "name": "SOY UN PERRO",
       "url": "https://open.spotify.com/track/35Ls1OuREdhnniJBmOROve"
@@ -3496,6 +3604,28 @@
       "duration_ms": 171740,
       "name": "Y no lo ves",
       "url": "https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi"
+    },
+    {
+      "album": {
+        "name": "Ya Estoy Mayor",
+        "url": "https://open.spotify.com/album/6DEnljjYwXMgCu37ejugHP"
+      },
+      "artists": [
+        {
+          "name": "Kings of the Beach",
+          "url": "https://open.spotify.com/artist/4o7LzHKShbYcK8fAV1hjrg"
+        },
+        {
+          "name": "Los Nastys",
+          "url": "https://open.spotify.com/artist/69A2sqnfhejKPYM4BGlrc7"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181975,
+      "name": "Ya Estoy Mayor",
+      "url": "https://open.spotify.com/track/6bwh3lirkVVXAeGDSmAY6q"
     },
     {
       "album": {

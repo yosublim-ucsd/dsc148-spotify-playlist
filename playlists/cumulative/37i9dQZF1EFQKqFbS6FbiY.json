@@ -7757,6 +7757,24 @@
     },
     {
       "album": {
+        "name": "Quando Perde Um Amor",
+        "url": "https://open.spotify.com/album/3fMiMx2cV7ReHQnnTDVJix"
+      },
+      "artists": [
+        {
+          "name": "Gabi & Rapha",
+          "url": "https://open.spotify.com/artist/0wFCZHWqWZeqZGxnEPCaBD"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209219,
+      "name": "Quando Perde Um Amor",
+      "url": "https://open.spotify.com/track/4m2ELhmVHZXtXpu9pI5CNf"
+    },
+    {
+      "album": {
         "name": "A Nossa Hist\u00f3ria",
         "url": "https://open.spotify.com/album/5o6ge5nutV05dTdfP8wUF5"
       },

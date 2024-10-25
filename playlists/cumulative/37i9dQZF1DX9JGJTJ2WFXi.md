@@ -4,7 +4,7 @@
 
 > Meditate with the frequency of the Root Chakra, used by many to help with anxiety and negativity.
 
-132 songs - 6 hr 21 min
+134 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [396 Hz Elevate Yourself](https://open.spotify.com/track/1sfNnXfDQ03ASW0r5xAwex) | [Healing Touch](https://open.spotify.com/artist/3tSf7BvYRcSPRTsDDKmfVV) | [396 Hz Elevate Yourself](https://open.spotify.com/album/57spa8LqOHs1jG4lqkC8lp) | 3:07 | 2024-05-11 |  |
 | [396 Hz Endless Dream](https://open.spotify.com/track/1uhhQzim9TCtUhjh6CR6oZ) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [Reconnection](https://open.spotify.com/album/4d7nXul9yQTDRhXFGry3EL) | 3:01 | 2023-03-10 |  |
 | [396 Hz Ethereal Sinewave Exploration](https://open.spotify.com/track/4IvGb4s7d3lKABeISc82tN) | [Sage Tranquility Hz](https://open.spotify.com/artist/4Hjn3TNiu6uNl4CVIJIC46) | [396 Hz Ethereal Sinewave Exploration](https://open.spotify.com/album/5wgv6MJbASGguEJjgWEiTi) | 3:01 | 2023-11-30 |  |
-| [396 Hz Freedom Heard in Lauterbrunnen](https://open.spotify.com/track/6O9GlPmNo9g0fZF9jdW2nw) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [396 Hz Freedom Heard in Lauterbrunnen](https://open.spotify.com/album/6k1vy4PLC49SJnHs8q7ZCd) | 2:50 | 2024-03-13 |  |
+| [396 Hz Freedom Heard in Lauterbrunnen](https://open.spotify.com/track/6O9GlPmNo9g0fZF9jdW2nw) | [Kevin Hutchins](https://open.spotify.com/artist/4Urq9nM4xsgb0YitpivOLe) | [396 Hz Freedom Heard in Lauterbrunnen](https://open.spotify.com/album/6k1vy4PLC49SJnHs8q7ZCd) | 2:50 | 2024-03-13 | 2024-10-25 |
 | [396 Hz Glistening Aethereal](https://open.spotify.com/track/4oTNsJWhzLoKCdd24XYj8O) | [Sacred Vibrational Sense](https://open.spotify.com/artist/5d7zpEJw3hhXugS5UFTQvg) | [396 Hz Glistening Aethereal](https://open.spotify.com/album/7cQbwYWoxmjdvaOqGFtpfB) | 2:23 | 2024-03-13 |  |
 | [396 Hz Glow](https://open.spotify.com/track/0pYXtmfyspcdKngB848yl2) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 3:07 | 2023-03-10 | 2024-08-28 |
 | [396 Hz Gratitude](https://open.spotify.com/track/7s3NRXVuOotGHikCjCBQ3J) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [396 Hz Gratitude](https://open.spotify.com/album/6ru7XsFIuGWhLwaYz3UArj) | 2:45 | 2023-08-07 |  |
@@ -56,7 +56,7 @@
 | [396 Hz Lumilull](https://open.spotify.com/track/4pBwOCd1vhAn9QF37tnPT6) | [Stardust Waves](https://open.spotify.com/artist/3K1Lkycummq31rCDkrnZPv) | [396 Hz Lumilull](https://open.spotify.com/album/2PfxcJKwWKwchQCPyUDeFn) | 2:49 | 2024-08-27 |  |
 | [396 Hz Melody of Release](https://open.spotify.com/track/214fMDZSTdIftSeAT2X3tF) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [396 Hz Melody of Release](https://open.spotify.com/album/3STTxTkcmKqhNCXlALuGea) | 2:40 | 2024-07-13 |  |
 | [396 Hz Merging Frequencies](https://open.spotify.com/track/7Fy4K88RSLiunr5yYiuqD0) | [Celliophone](https://open.spotify.com/artist/6sDhNL1dc3l5O68faOoDTQ) | [396 Hz Merging Frequencies](https://open.spotify.com/album/7LLtiecDJZmrTsySKFnl62) | 3:06 | 2023-11-30 |  |
-| [396 Hz Open Mind](https://open.spotify.com/track/2IDuOFkmxNV2Udp8p8oEf7) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 2:38 | 2023-03-10 |  |
+| [396 Hz Open Mind](https://open.spotify.com/track/2IDuOFkmxNV2Udp8p8oEf7) | [Solfeggio Dreams](https://open.spotify.com/artist/23sVmJfw1dF0MTIAkIO0bn) | [396 Hz Soundscapes for Mindfulness](https://open.spotify.com/album/3iA0cOUPyMJDONnUYlTLsQ) | 2:38 | 2023-03-10 | 2024-10-25 |
 | [396 Hz Peace and Tranquility](https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32) | [Seraphic Binaural Wisdom](https://open.spotify.com/artist/0HlDANrsQmbtySRs1OA3bY) | [396 Hz Peace and Tranquility](https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo) | 3:01 | 2023-03-10 | 2024-05-12 |
 | [396 Hz Prelude](https://open.spotify.com/track/2mk8HVkdqcVW4vmcY9qSmd) | [Hertz Harmony](https://open.spotify.com/artist/1LQ6dIMZP4sNgA9hoE1PBT) | [396 Hz Prelude](https://open.spotify.com/album/0BwXD6XcHs7n2XH50OO0MN) | 2:52 | 2024-05-11 |  |
 | [396 Hz Radiance](https://open.spotify.com/track/4EhYSPcNRklcVEQBLlfIYL) | [Cloud Waves](https://open.spotify.com/artist/3awsbRupCUGnE0dw6U049n) | [396 Hz Radiance](https://open.spotify.com/album/2rfyXaXjX0Whrc4bnAIEFV) | 2:53 | 2023-09-21 |  |
@@ -105,9 +105,11 @@
 | [Flow of the Forest 396 Hz](https://open.spotify.com/track/7rz3PDMn8GCKn3IpUsrgCd) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Night Solfeggio for the Mind](https://open.spotify.com/album/1WUP0qojbqgfTDiouUyyB0) | 3:54 | 2023-03-10 |  |
 | [Foundational \- 396 Hz](https://open.spotify.com/track/66XocM7YWZwPjcdsuB3r7U) | [Amaia Bescós](https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx) | [Foundational](https://open.spotify.com/album/097P8j0w7upxrbfXxBAYPl) | 2:44 | 2024-07-23 |  |
 | [Fresh Start](https://open.spotify.com/track/5B396k96KkOIHaVAOXZhUW) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Wellness Portal](https://open.spotify.com/album/19nYyLIiUYfGOtDDVIRoA9) | 2:34 | 2023-03-10 | 2023-12-01 |
+| [Grounded 396 Hz](https://open.spotify.com/track/07NOLxKDtne8AfVPQxrzlL) | [Solfonia Dreamweaver](https://open.spotify.com/artist/4FlIVXufr8qUuH3LjiJA5f) | [Grounded 396 Hz](https://open.spotify.com/album/7y5ZfzwnEBMeMnR21gHSrJ) | 2:07 | 2024-10-24 |  |
 | [Grounding \(396 Hz\)](https://open.spotify.com/track/6h4PAVYbTtZHul8qVMEvni) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Grounding](https://open.spotify.com/album/0vFCQHF8lMnmjjehplMToz) | 3:24 | 2023-11-30 |  |
+| [Healer \(396 Hz\)](https://open.spotify.com/track/3nrPm67MQFHFAL9eCbq3JZ) | [Lamb & Mountain](https://open.spotify.com/artist/2WMPnzmwca8VGFhFIDmXSJ) | [Healer \(396 Hz\)](https://open.spotify.com/album/2Z8tew4krtu645IRI3Z87U) | 2:46 | 2024-10-24 |  |
 | [Healing Sleep \(396 Hz\)](https://open.spotify.com/track/1mPQd0uPfFLdH3r8m8IfdV) | [Night Whisperer](https://open.spotify.com/artist/3AisymC691EsyYYKjPNSG6) | [Healing Sleep](https://open.spotify.com/album/5ipmmUltHfJSwnfUvxHYHA) | 3:02 | 2023-03-10 | 2023-08-08 |
-| [Instantly 396 Hz](https://open.spotify.com/track/3O95CstCtVc4Wy7vOBN6y5) | [The Girl In The Treehouse](https://open.spotify.com/artist/2iy6v1PCzX45MbvTK5moRc) | [Instantly 396 Hz](https://open.spotify.com/album/6wfHNiLEPw8dp9z2ZJnUe8) | 2:37 | 2023-09-21 |  |
+| [Instantly 396 Hz](https://open.spotify.com/track/3O95CstCtVc4Wy7vOBN6y5) | [The Girl In The Treehouse](https://open.spotify.com/artist/2iy6v1PCzX45MbvTK5moRc) | [Instantly 396 Hz](https://open.spotify.com/album/6wfHNiLEPw8dp9z2ZJnUe8) | 2:37 | 2023-09-21 | 2024-10-25 |
 | [Katora 396 Hz](https://open.spotify.com/track/5606R6H1aWq66SaY1fbyiO) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [Katora 396 Hz](https://open.spotify.com/album/4LVElDKkbFu1V2kxQGcbCO) | 2:48 | 2023-03-10 |  |
 | [Key to a Peaceful Universe 396Hz](https://open.spotify.com/track/3wvo0II472fELu6Y4cq3KT) | [Balanced Resonances](https://open.spotify.com/artist/1NaTgQgoB7SBLTiso71iKn) | [Key to a Peaceful Universe 396Hz](https://open.spotify.com/album/6OpARo79X4cxkR8Q7lawGF) | 2:50 | 2023-03-10 |  |
 | [Liberated 396Hz](https://open.spotify.com/track/3IFgQ44aHWmxq0flFMQWLO) | [Ionospheric Echoes](https://open.spotify.com/artist/1s3L4tbvBCviBV7K71SAxZ) | [Liberated 396Hz](https://open.spotify.com/album/6J0EZIS4YChKH1IVHki4dT) | 2:34 | 2023-08-07 |  |

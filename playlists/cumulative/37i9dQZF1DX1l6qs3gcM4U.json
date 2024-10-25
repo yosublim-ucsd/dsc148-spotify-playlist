@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Nice Life ",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -1586,6 +1586,28 @@
       "duration_ms": 224354,
       "name": "Como Antes",
       "url": "https://open.spotify.com/track/0dAZ5dCofHy6rquqU6YG29"
+    },
+    {
+      "album": {
+        "name": "Lobo da Labo",
+        "url": "https://open.spotify.com/album/2ZFqRM7JIZZWT1awS0NQZ9"
+      },
+      "artists": [
+        {
+          "name": "Labo Music",
+          "url": "https://open.spotify.com/artist/4lpDn6K0BLYyCJExpa9diL"
+        },
+        {
+          "name": "J Levy",
+          "url": "https://open.spotify.com/artist/4dqiY8fEeGgJQmypUXYTcZ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204721,
+      "name": "Companhia",
+      "url": "https://open.spotify.com/track/7AD5BM9mGIlaZq6yO6QDMy"
     },
     {
       "album": {
@@ -3208,7 +3230,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 132495,
       "name": "I Feel",
       "url": "https://open.spotify.com/track/5WvRopVTRgfSNK5NFS7Eyf"
@@ -3594,7 +3616,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 185016,
       "name": "Karma - Kriolu Version",
       "url": "https://open.spotify.com/track/37OwL4VPwKjyqu0VaqEizD"
@@ -4174,7 +4196,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 174342,
       "name": "Marilia Mendon\u00e7a",
       "url": "https://open.spotify.com/track/7fi9jQkoaLn4xVvjR4ZoQ1"
@@ -7639,6 +7661,28 @@
     },
     {
       "album": {
+        "name": "Toda Poderosa",
+        "url": "https://open.spotify.com/album/5bbmjS2XRR0frABhRP4L2o"
+      },
+      "artists": [
+        {
+          "name": "Skuco",
+          "url": "https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6"
+        },
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250912,
+      "name": "Toda Poderosa",
+      "url": "https://open.spotify.com/track/7KZytVRDmgTZ4NiKhc2fQ9"
+    },
+    {
+      "album": {
         "name": "Todas Querem",
         "url": "https://open.spotify.com/album/1Kv0lFcnyblaqWBEcciSeM"
       },
@@ -8502,6 +8546,24 @@
       "duration_ms": 248000,
       "name": "Voc\u00ea Me Kuia",
       "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
+    },
+    {
+      "album": {
+        "name": "Voc\u00ea Prometeu",
+        "url": "https://open.spotify.com/album/5nS7Ja5m7XfBnT7FIlM02F"
+      },
+      "artists": [
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "Voc\u00ea Prometeu",
+      "url": "https://open.spotify.com/track/5pBB81JzrfWe7Egt34pF59"
     },
     {
       "album": {

@@ -1299,6 +1299,28 @@
     },
     {
       "album": {
+        "name": "Pailwaan",
+        "url": "https://open.spotify.com/album/3Zea6Fd6xXSBYGD5C8ckRG"
+      },
+      "artists": [
+        {
+          "name": "Brahmaa",
+          "url": "https://open.spotify.com/artist/1XkpRyYwCOXr1nUlVSE8KU"
+        },
+        {
+          "name": "Adarsh Shinde",
+          "url": "https://open.spotify.com/artist/5rz9Rq9OG7jQiSm2nmTfd3"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "Pailwaan",
+      "url": "https://open.spotify.com/track/0m2ka0jFqUkfv32FI990AS"
+    },
+    {
+      "album": {
         "name": "Zenda",
         "url": "https://open.spotify.com/album/7gWdJghoAQWCKVQQ0Tb0IZ"
       },

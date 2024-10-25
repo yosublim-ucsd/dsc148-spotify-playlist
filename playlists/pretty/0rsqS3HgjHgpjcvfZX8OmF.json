@@ -1,13 +1,29 @@
 {
-  "description": "The best and latest rock and alternative. Cover: Japandroids",
+  "description": "The best and latest rock and alternative. Cover: U2",
   "num_followers": 9893,
   "original_name": "New Rock Music",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAcMPir6hlApSgjMV40FbC1NoRk85uV",
+  "snapshot_id": "AAAcM31bpVGjZ2aWOJ6a+lYlMJbIkbg2",
   "tracks": [
+    {
+      "added_at": "2024-10-24 18:27:38",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/1hegGWYQg8BIOxUYOiLV39"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 269766,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/0cZLr41IF4Gocxfja74isP"
+    },
     {
       "added_at": "2024-10-18 15:39:56",
       "album": {

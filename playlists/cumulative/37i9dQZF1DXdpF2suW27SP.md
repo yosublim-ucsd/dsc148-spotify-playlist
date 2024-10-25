@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> CADU entra na zona.
+> Waze entra na zona.
 
-640 songs - 1 day 10 hr 5 min
+642 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [ACESSO](https://open.spotify.com/track/2YKBixZOIzcSPA4rCDrsVl) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [ACESSO](https://open.spotify.com/album/2KmVmwL9hqQbtnhySbl11R) | 2:23 | 2024-03-22 | 2024-04-12 |
 | [Acorda Ò Zé](https://open.spotify.com/track/139lGHAO6XTJboUSJMhRin) | [Bezegol](https://open.spotify.com/artist/6lCt4RGbnTCT1NN2lEENh5) | [Acorda Ò Zé](https://open.spotify.com/album/1XtZ1MC82D9yt9mnBL2o0H) | 3:35 | 2024-02-09 | 2024-03-08 |
 | [Acordar](https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Acordar](https://open.spotify.com/album/1tWREZzrDTdmy0ADiiI18b) | 3:17 | 2024-05-23 |  |
-| [Afogado em Mágoas](https://open.spotify.com/track/3s6wmQNEtIPg8naKzU2hz2) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Afogado em Mágoas](https://open.spotify.com/album/5RT64x6PUKZUQztG04PjvP) | 2:32 | 2024-10-10 |  |
+| [Afogado em Mágoas](https://open.spotify.com/track/3s6wmQNEtIPg8naKzU2hz2) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Afogado em Mágoas](https://open.spotify.com/album/5RT64x6PUKZUQztG04PjvP) | 2:32 | 2024-10-10 | 2024-10-25 |
 | [AGORA NAW](https://open.spotify.com/track/6fvEKv2cUPOGkhEgrfUZtc) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [AGORA NAW](https://open.spotify.com/album/26cFeiHhHMIUHAaOohOjNx) | 2:55 | 2023-01-20 | 2023-02-10 |
 | [Aguarela](https://open.spotify.com/track/7IiXV9rM2px5hoeoL912KW) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Iluminado](https://open.spotify.com/album/5fbYIdwgZSukUtH9iZ3xeq) | 3:17 | 2023-06-08 | 2023-08-04 |
 | [Alaska \(feat\. Lil Noon\)](https://open.spotify.com/track/1ipbuOPR6zoE5KS4r7OI1B) | [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [Lil Noon](https://open.spotify.com/artist/3e4WPDmHpNiXhaAy8tGfRs) | [Alaska \(feat\. Lil Noon\)](https://open.spotify.com/album/5yFe19c0ujPY5LbRS86qEW) | 2:16 | 2022-11-18 | 2022-12-24 |
@@ -151,6 +151,7 @@
 | [Cobiçada](https://open.spotify.com/track/3MjcFuYFqd6gQsKiE3Uy6z) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [No Tempo Certo](https://open.spotify.com/album/2wQAg7iLjQKZGSpitJPJZI) | 3:12 | 2024-04-05 |  |
 | [Cobras e Serpentes](https://open.spotify.com/track/7mCgHTgHjdSA35JQ0xo3hR) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Cobras e Serpentes](https://open.spotify.com/album/48QBkKQXF03sto0InqW32W) | 3:30 | 2022-11-18 | 2023-03-31 |
 | [Cobras e Serpentes](https://open.spotify.com/track/4wnjljijwFWk5YrhXcXmVq) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [Cobras e Serpentes](https://open.spotify.com/album/0F1hyH0FKjNCrCCYmM9Ff1) | 3:30 | 2022-07-16 | 2022-11-18 |
+| [Cofre Vazio](https://open.spotify.com/track/09hxvqKxvMKrCRS9PEY6PK) | [Força Suprema](https://open.spotify.com/artist/5aHBo7aTtbveyygEOFqOX3), [Sp Deville](https://open.spotify.com/artist/1wHB76zF5xN5iRX6Gcstsb), [Van Sophie](https://open.spotify.com/artist/7kj0eH1FPO3YJP1pTTsrkG) | [Cofre Vazio](https://open.spotify.com/album/2lOZlUe0xdNE7aouSdYy3e) | 4:10 | 2024-10-24 |  |
 | [Coisas na Cabeça](https://open.spotify.com/track/5K91m4uOhos4AhyLhb6Ilc) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Coisas na Cabeça](https://open.spotify.com/album/5a82H0UW4hecXTZWD713Aq) | 3:31 | 2023-04-20 | 2023-11-11 |
 | [Colãs](https://open.spotify.com/track/3LTGo62z4pb6YldRQY1C5j) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Colãs](https://open.spotify.com/album/4Xs96MIepiCpo8lBnnfDEv) | 3:13 | 2023-08-10 |  |
 | [COMEKIÉ](https://open.spotify.com/track/4gyWu8AItixWLu0ZeYbskJ) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [COMEKIÉ](https://open.spotify.com/album/0pUJBfF8R8sXPRL4aYVzaK) | 2:51 | 2024-04-18 | 2024-05-17 |
@@ -202,7 +203,7 @@
 | [EASPORTSFC 24](https://open.spotify.com/track/4SCS2z4mG5Jl6LRzD4H1Pk) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx) | [EASPORTSFC 24](https://open.spotify.com/album/4Kpjwyi1aIoW3t10FI75Ul) | 2:40 | 2023-09-28 | 2023-11-11 |
 | [El Chapo](https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [El Chapo](https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw) | 4:01 | 2024-09-19 |  |
 | [ELA QUERIA MAIS](https://open.spotify.com/track/4tAMEP8kPju61BoZtj0whg) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [MINA D'OURO](https://open.spotify.com/album/7uTknfX0WjeP7j1ucunTrF) | 2:15 | 2023-04-06 | 2023-07-07 |
-| [EM CIMA](https://open.spotify.com/track/4Gz9huMp0XpPQdgd5phJFZ) | [PiMP WiLLIAM](https://open.spotify.com/artist/5oZcIrge17ygyt5U7ZxhA9) | [EM CIMA](https://open.spotify.com/album/4LphmO8FAfM8ZC2nWatxPc) | 2:24 | 2024-09-26 |  |
+| [EM CIMA](https://open.spotify.com/track/4Gz9huMp0XpPQdgd5phJFZ) | [PiMP WiLLIAM](https://open.spotify.com/artist/5oZcIrge17ygyt5U7ZxhA9) | [EM CIMA](https://open.spotify.com/album/4LphmO8FAfM8ZC2nWatxPc) | 2:24 | 2024-09-26 | 2024-10-25 |
 | [Energy](https://open.spotify.com/track/0OuWQsF76w2jXQxOpvWfxn) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF) | [Energy](https://open.spotify.com/album/5h9LXGGTR6RiAGRbeY8PI7) | 3:58 | 2023-04-20 | 2023-06-02 |
 | [Entre Nós](https://open.spotify.com/track/2rdxhGC4hD97rwGn7SA0UM) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Entre Nós](https://open.spotify.com/album/7hK8tp2hartNZYIdAk7qwk) | 3:12 | 2023-04-06 | 2023-06-16 |
 | [Entre os Dois \(feat\. Julinho Ksd \)](https://open.spotify.com/track/5OcuLlg5EdDE01ZGbQaIIa) | [Kosmo Da Gun](https://open.spotify.com/artist/1FOT6e8G1FnUBH1LDNX0X1), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Entre os Dois \(feat\. Julinho Ksd \)](https://open.spotify.com/album/17wFwqW7zLXEFqx59NmIqS) | 3:21 | 2022-11-25 | 2023-11-11 |
@@ -312,7 +313,7 @@
 | [Ki Sabi](https://open.spotify.com/track/0LSqNawb5VspBagrAyLDk6) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Ki Sabi](https://open.spotify.com/album/5WfhZRAzVuqBEUgvbjwWY4) | 2:37 | 2023-12-15 | 2024-01-26 |
 | [King da Zona](https://open.spotify.com/track/6VbkZwBoLvmtIYLY6n7L4x) | [Fínix MG](https://open.spotify.com/artist/7dwz1nJE4Twe22y0rnYg8u) | [King da Zona](https://open.spotify.com/album/1Ot25y2IsintVNCF3d3Gj8) | 2:01 | 2024-04-05 | 2024-04-26 |
 | [King2da](https://open.spotify.com/track/5KaIAg0fCOhn3U3fz03hLY) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5) | [KING2DA](https://open.spotify.com/album/1DZQHJ3GZWAQtdkvKAqU2p) | 2:51 | 2023-01-06 | 2023-01-27 |
-| [Konkluson \- Freestyle](https://open.spotify.com/track/5dlHfGongNwbUx2oLWE0HC) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Konkluson \(Freestyle\)](https://open.spotify.com/album/3aGmWrf6AXHkaFxJ66DtgZ) | 1:52 | 2024-10-10 |  |
+| [Konkluson \- Freestyle](https://open.spotify.com/track/5dlHfGongNwbUx2oLWE0HC) | [Landim](https://open.spotify.com/artist/3OUfbyxrlqldajHHi7MGMh) | [Konkluson \(Freestyle\)](https://open.spotify.com/album/3aGmWrf6AXHkaFxJ66DtgZ) | 1:52 | 2024-10-10 | 2024-10-25 |
 | [LA](https://open.spotify.com/track/6nQAd0SXizbw60FO184XBX) | [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [LA](https://open.spotify.com/album/0kQ5kJQeoszu34F5wMz7iG) | 3:55 | 2024-09-12 | 2024-10-11 |
 | [Labirinto](https://open.spotify.com/track/40wj75OMEAqknzWfIaAirC) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW), [JÜRA](https://open.spotify.com/artist/7tfbeKMXzuNuL25n1plxH9) | [Balanço](https://open.spotify.com/album/6ZjznsfvWwuODmsepHwG93) | 2:36 | 2023-08-10 | 2023-09-01 |
 | [LACAZETTE CU DELE ALLI](https://open.spotify.com/track/66ZF8N3u5bzCNfEqUAqznX) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [LACAZETTE CU DELE ALLI](https://open.spotify.com/album/06RZURNUWuzGqwnEB0H1Yi) | 3:15 | 2023-08-17 | 2023-09-15 |
@@ -348,6 +349,7 @@
 | [Magia](https://open.spotify.com/track/7D6vr0BLYUoxumyckR4ZJy) | [GNTK](https://open.spotify.com/artist/7u624YO8mvaIZBR63Ixfx0), [N Fly](https://open.spotify.com/artist/0OakNsnVlzuZuDuz6jPyEd) | [Magia](https://open.spotify.com/album/1R3IUSqqHWJmBlPQRjQvRO) | 3:13 | 2024-03-29 | 2024-04-12 |
 | [MAGMA](https://open.spotify.com/track/64ZPHSuYKwGe1BcpqIaZ18) | [Mirai](https://open.spotify.com/artist/343oeu5WwCY3D2d4OLN5FC) | [MAGMA](https://open.spotify.com/album/15HBiiQkrAkj0IMx7RxXej) | 3:14 | 2024-06-20 | 2024-07-12 |
 | [MAIS DO QUE ISSO](https://open.spotify.com/track/1Z22t9j79dSpffq7ioTJ6w) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [RUA OU GLAMOUR](https://open.spotify.com/album/3OFgqINBp0lVtU3CMxCVtN) | 3:53 | 2024-09-26 |  |
+| [Mais Que Ouro](https://open.spotify.com/track/5nYqioolhxHIsfIEoCPs3E) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Mais Que Ouro](https://open.spotify.com/album/2k5Ldk223sveMZ4I6TzuSK) | 2:08 | 2024-10-24 |  |
 | [Mais Uma Vez](https://open.spotify.com/track/3Oql2mB8DEtzzuAVFFPpHG) | [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Mais Uma Vez](https://open.spotify.com/album/6XwhLnbx0ixfuoJJZvXB8S) | 2:39 | 2023-04-20 | 2023-05-12 |
 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 | 2022-07-16 | 2022-12-09 |
 | [Mama Ka Bu Txora](https://open.spotify.com/track/5CEghr9OYpFrCZurmxJThm) | [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi), [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Mama Ka Bu Txora](https://open.spotify.com/album/3pIB5eUZkMs51KRDsWjswx) | 4:00 | 2022-12-02 | 2023-04-21 |

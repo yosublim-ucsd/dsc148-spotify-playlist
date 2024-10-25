@@ -1,6 +1,6 @@
 {
   "description": "Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA",
-  "num_followers": 581992,
+  "num_followers": 582049,
   "original_name": "Pulando da Cama",
   "owner": {
     "name": "Spotify",
@@ -669,7 +669,7 @@
         },
         {
           "name": "Mabel",
-          "url": "https://open.spotify.com/artist/4ilhzwc5QbNIGlLQfLUZWP"
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         },
         {
           "name": "24kGoldn",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-10-17 21:48:11",
       "album": {
+        "name": "Sunshine (From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d)",
+        "url": "https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Sunshine - From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d",
+      "url": "https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp"
+    },
+    {
+      "added_at": "2024-10-17 21:48:11",
+      "album": {
         "name": "last day on earth",
         "url": "https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 155361,
       "name": "Unlearn (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
-    },
-    {
-      "added_at": "2024-10-17 21:48:11",
-      "album": {
-        "name": "Sunshine (From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d)",
-        "url": "https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Sunshine - From the Motion Picture \u201cRon\u2019s Gone Wrong\u201d",
-      "url": "https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp"
     },
     {
       "added_at": "2024-10-17 21:48:11",

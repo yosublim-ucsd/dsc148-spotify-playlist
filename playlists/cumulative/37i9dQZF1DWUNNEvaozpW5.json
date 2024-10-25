@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 207124,
       "name": "4 Impulsos M\u00e1s",
       "url": "https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2"
@@ -572,6 +572,24 @@
       "duration_ms": 257053,
       "name": "Amargo Ata\u00fad",
       "url": "https://open.spotify.com/track/4tijOvigzqwBTNpkJKzGjo"
+    },
+    {
+      "album": {
+        "name": "406",
+        "url": "https://open.spotify.com/album/6Exg7eOc74YG4IoFotHuvJ"
+      },
+      "artists": [
+        {
+          "name": "MATEO ERA\u00d1A",
+          "url": "https://open.spotify.com/artist/1sDUoF8qwvVEcTYv2MYwLk"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195659,
+      "name": "Amor al aire",
+      "url": "https://open.spotify.com/track/6212NqCTqhlXD1lliUMbbT"
     },
     {
       "album": {
@@ -3032,7 +3050,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 205957,
       "name": "El mar y la nada",
       "url": "https://open.spotify.com/track/7JthbNMW9fMTkzn8v83Ldd"
@@ -3237,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "El \u00daltimo Suspiro",
+        "url": "https://open.spotify.com/album/1ts1D5tLGj4gBTlRpW2LvX"
+      },
+      "artists": [
+        {
+          "name": "Tregua",
+          "url": "https://open.spotify.com/artist/0QyjXX8EpgTjviNMNk0dqK"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200582,
+      "name": "El \u00daltimo Suspiro",
+      "url": "https://open.spotify.com/track/0GQQd4DqtnNxvyi99e1Zxn"
+    },
+    {
+      "album": {
         "name": "Ellos Dicen Mierda",
         "url": "https://open.spotify.com/album/0QjDaIXJLrgirtJMFWIu8R"
       },
@@ -3328,7 +3364,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 245533,
       "name": "En Blanco Y Negro",
       "url": "https://open.spotify.com/track/0FJBWXOa9tYcJCxv1YxP9H"
@@ -4321,6 +4357,24 @@
     },
     {
       "album": {
+        "name": "La colisi\u00f3n",
+        "url": "https://open.spotify.com/album/1d87PfMyraIwKnhdcw4zFJ"
+      },
+      "artists": [
+        {
+          "name": "Bendita Calamidad",
+          "url": "https://open.spotify.com/artist/6u2d3A39wMFGadMiZgkF8U"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245963,
+      "name": "La colisi\u00f3n",
+      "url": "https://open.spotify.com/track/7dT87SEGdcOKdDARXLcgwZ"
+    },
+    {
+      "album": {
         "name": "Su (Demos y Rarezas)",
         "url": "https://open.spotify.com/album/2yQoq7j051We620UNfKhSe"
       },
@@ -4716,7 +4770,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 206426,
       "name": "La Selva",
       "url": "https://open.spotify.com/track/7wrcBkeoO6zXglCUrmwqqy"
@@ -4824,7 +4878,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 343000,
       "name": "Ladridos del perro m\u00e1gico",
       "url": "https://open.spotify.com/track/2NGiLDSvs8OrETbUHzqNct"
@@ -5298,7 +5352,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 202092,
       "name": "Luna de Hiel",
       "url": "https://open.spotify.com/track/6RK2IW7xA7lR9Lr2irXPiX"
@@ -5844,7 +5898,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 182877,
       "name": "Mi mejor momento",
       "url": "https://open.spotify.com/track/5uL8xCBHneH0lB9RlmRfqY"
@@ -8399,6 +8453,24 @@
     },
     {
       "album": {
+        "name": "Trance gil chill paella",
+        "url": "https://open.spotify.com/album/02xSZqE6zhOHEwQpvFfvl5"
+      },
+      "artists": [
+        {
+          "name": "Los Toreros Muertos",
+          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230926,
+      "name": "Trance gil chill paella",
+      "url": "https://open.spotify.com/track/77T7LBWBGqm4HBjyKeka17"
+    },
+    {
+      "album": {
         "name": "Transparente",
         "url": "https://open.spotify.com/album/72UIoQszjedP3huV9UBtoE"
       },
@@ -8652,7 +8724,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 293466,
       "name": "Una noche de amor desesperada",
       "url": "https://open.spotify.com/track/685pSRiL9NEQYt0gRZ46L9"

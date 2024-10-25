@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 215070,
+  "num_followers": 215218,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "El Primer D\u00eda del Resto de Mi Vida - Directo Primera Fila",
+      "url": "https://open.spotify.com/track/3ozuHMral4k7ALNOgPdxQ8"
+    },
+    {
+      "added_at": "2024-08-01 22:06:14",
+      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
-    },
-    {
-      "added_at": "2024-08-01 22:06:14",
-      "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "El Primer D\u00eda del Resto de Mi Vida - Directo Primera Fila",
-      "url": "https://open.spotify.com/track/3ozuHMral4k7ALNOgPdxQ8"
     },
     {
       "added_at": "2024-08-01 22:06:14",
@@ -699,22 +699,18 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/19FjT2Eq5zuZqscnwhjNFH"
+        "name": "Primera Fila Sasha Benny Erik",
+        "url": "https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv"
       },
       "artists": [
         {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        },
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Sasha, Benny y Erik",
+          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Ya No Vives en M\u00ed (Primera Fila) (feat. Carlos Rivera) - En Vivo",
-      "url": "https://open.spotify.com/track/0Ac7gnJokivhO4ZKNVib7r"
+      "duration_ms": 213186,
+      "name": "Cada Beso - Primera Fila",
+      "url": "https://open.spotify.com/track/7LXoq0tHtpL3szSsqagc7K"
     },
     {
       "added_at": "2024-08-01 22:06:14",
@@ -743,22 +739,6 @@
     {
       "added_at": "2024-08-01 22:06:14",
       "album": {
-        "name": "Primera Fila Sasha Benny Erik",
-        "url": "https://open.spotify.com/album/0DB9SvuVNpmScrd8InA3jv"
-      },
-      "artists": [
-        {
-          "name": "Sasha, Benny y Erik",
-          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
-        }
-      ],
-      "duration_ms": 213186,
-      "name": "Cada Beso - Primera Fila",
-      "url": "https://open.spotify.com/track/7LXoq0tHtpL3szSsqagc7K"
-    },
-    {
-      "added_at": "2024-08-01 22:06:14",
-      "album": {
         "name": "Primera Fila Flans",
         "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 254266,
       "name": "Las Mil y una Noches - Primera Fila Flans (En Vivo)",
       "url": "https://open.spotify.com/track/3V47MeZFqKMxBlxaF3wqRq"
+    },
+    {
+      "added_at": "2024-08-01 22:06:14",
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/19FjT2Eq5zuZqscnwhjNFH"
+      },
+      "artists": [
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Ya No Vives en M\u00ed (Primera Fila) (feat. Carlos Rivera) - En Vivo",
+      "url": "https://open.spotify.com/track/0Ac7gnJokivhO4ZKNVib7r"
     },
     {
       "added_at": "2024-08-01 22:06:14",

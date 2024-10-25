@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 chaka al año](https://open.spotify.com/track/6hWK8xla2aByPoDYWCpbzE) | [Daniela BB](https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf) | [1 chaka al año](https://open.spotify.com/album/3T8geLwGkLN61CaKF6wkye) | 2:02 | 2024-09-13 |  |
+| [1 chaka al año](https://open.spotify.com/track/6hWK8xla2aByPoDYWCpbzE) | [Daniela BB](https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf) | [1 chaka al año](https://open.spotify.com/album/3T8geLwGkLN61CaKF6wkye) | 2:02 | 2024-09-13 | 2024-10-25 |
 | [1 Día Fue Oro](https://open.spotify.com/track/4iXo1iXeaMNEZCz7xXFhxq) | [COQUE](https://open.spotify.com/artist/4pEPJG5zQJnKoggS6NsjRN) | [1 Día Fue Oro](https://open.spotify.com/album/59tkZYXby48ff575GQM4wp) | 2:59 | 2024-05-24 | 2024-06-15 |
 | [4 Favores](https://open.spotify.com/track/03SoqbCZhhiomtLUcF3xs6) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [4 Favores](https://open.spotify.com/album/5slWzJL029pVeEL5qDTkMB) | 1:50 | 2023-06-29 | 2023-10-08 |
 | [Aborrecía](https://open.spotify.com/track/1rxnMP6oWWhWrD11sYqw87) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [Aborrecía](https://open.spotify.com/album/4dTKosdwxPvbpBIVSO7pVd) | 2:51 | 2023-06-29 | 2023-10-08 |
@@ -189,7 +189,7 @@
 | [PA QUÉ PUuu](https://open.spotify.com/track/6LieYtwlDRlIusYZsYA4tw) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [PA QUÉ PUuu](https://open.spotify.com/album/2io6YasDpSkIaF2TLDuAYO) | 1:59 | 2022-10-28 | 2022-12-16 |
 | [Pa' La Playa](https://open.spotify.com/track/09w0xAsYZXE6M8oImjFsfz) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Pa' La Playa](https://open.spotify.com/album/3b1gr4gRpXTdcp6oqnwM6y) | 2:32 | 2022-05-13 | 2022-06-08 |
 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 | 2022-12-09 |  |
-| [Palmas](https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [Palmas](https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl) | 2:51 | 2022-05-13 | 2024-10-02 |
+| [Palmas](https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [Palmas](https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl) | 2:51 | 2022-05-13 |  |
 | [Palmas](https://open.spotify.com/track/6OuB9oT6tP6bWANlpkBEgj) | [Yanian Lich](https://open.spotify.com/artist/23ofkmba0Mxa4IaESdqYLZ) | [Palmas](https://open.spotify.com/album/4QT1lorjk4ZmtGi4LCG5iz) | 3:04 | 2022-11-18 | 2022-12-10 |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2022-05-13 |  |
 | [PARTY TETEO](https://open.spotify.com/track/4vJJKzfLfLEOGHG4b1G9Y1) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [PARTY TETEO](https://open.spotify.com/album/75mKvZIBX3KpW1AQVGWxmm) | 3:41 | 2023-10-06 | 2024-05-04 |

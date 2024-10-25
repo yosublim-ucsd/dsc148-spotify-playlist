@@ -1009,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Emerge",
+        "url": "https://open.spotify.com/album/1yewzTyF45OJ3pMYKWS5Uz"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255272,
+      "name": "Little Me",
+      "url": "https://open.spotify.com/track/3UZoiBEuHoKIb6TqJGKi7Z"
+    },
+    {
+      "album": {
         "name": "The Spirit of Light",
         "url": "https://open.spotify.com/album/7BqAuNsaQdbaxlwTXl9RLO"
       },
@@ -1509,6 +1527,28 @@
     },
     {
       "album": {
+        "name": "Shekinah",
+        "url": "https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420025,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
+    },
+    {
+      "album": {
         "name": "Song of Angels (The Call)",
         "url": "https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p"
       },
@@ -1782,6 +1822,24 @@
       "duration_ms": 505960,
       "name": "You Are Always There",
       "url": "https://open.spotify.com/track/2u1XE762ploDotScizdgh5"
+    },
+    {
+      "album": {
+        "name": "You Are Big",
+        "url": "https://open.spotify.com/album/7IuHbchUxKM8jXuwV9D3sX"
+      },
+      "artists": [
+        {
+          "name": "Joshua Adedeji",
+          "url": "https://open.spotify.com/artist/31BZDZpornRbe3joXJ35vh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380500,
+      "name": "You Are Big",
+      "url": "https://open.spotify.com/track/67b6GI1kkVALLH5O5IWQb7"
     },
     {
       "album": {

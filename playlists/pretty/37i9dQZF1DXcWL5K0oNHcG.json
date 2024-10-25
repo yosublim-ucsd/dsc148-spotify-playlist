@@ -1,13 +1,37 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Cord Martin\n. Artwork: Joy Yamusangie.",
-  "num_followers": 226511,
+  "num_followers": 226561,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw/hPAAAAAAbm42XzLDru2HYjikCFo8L",
+  "snapshot_id": "ZxnGQAAAAABS2KMu1xuXfICnqtsfg7kA",
   "tracks": [
+    {
+      "added_at": "2024-10-24 04:00:00",
+      "album": {
+        "name": "End of the Night",
+        "url": "https://open.spotify.com/album/1qB5N68R51SyKhBM0YYeo9"
+      },
+      "artists": [
+        {
+          "name": "Suwon Yim",
+          "url": "https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku"
+        },
+        {
+          "name": "Rob Christian",
+          "url": "https://open.spotify.com/artist/5GmTnqtSTio7KExuVLfw4W"
+        },
+        {
+          "name": "Noam Guerrier Freud",
+          "url": "https://open.spotify.com/artist/4J8d02pVRo442FXueyMbsn"
+        }
+      ],
+      "duration_ms": 239142,
+      "name": "End of the Night",
+      "url": "https://open.spotify.com/track/5lwhzayX0WViHZhq4x3c49"
+    },
     {
       "added_at": "2024-10-16 15:52:28",
       "album": {
@@ -23,6 +47,42 @@
       "duration_ms": 271282,
       "name": "Time Brings About Change",
       "url": "https://open.spotify.com/track/7mD7bQy4KWhOcwqDJJSrjP"
+    },
+    {
+      "added_at": "2024-10-24 04:00:00",
+      "album": {
+        "name": "One Way Valet",
+        "url": "https://open.spotify.com/album/1Kipz6yvRad15LtPKjDeiI"
+      },
+      "artists": [
+        {
+          "name": "Low Poly Cactus",
+          "url": "https://open.spotify.com/artist/4JCLFRwINNq1g4Je8mRod2"
+        },
+        {
+          "name": "PRNDL",
+          "url": "https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU"
+        }
+      ],
+      "duration_ms": 373586,
+      "name": "One Way Valet",
+      "url": "https://open.spotify.com/track/49O3n997PT8zf289ByXchw"
+    },
+    {
+      "added_at": "2024-10-24 04:00:00",
+      "album": {
+        "name": "Master Changes",
+        "url": "https://open.spotify.com/album/4fzEe7EVM4gltNuBoF2ZZj"
+      },
+      "artists": [
+        {
+          "name": "Mackwood",
+          "url": "https://open.spotify.com/artist/30wolDXX2isw1IdyMGvGBD"
+        }
+      ],
+      "duration_ms": 366106,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/5NQK1UdmuO7xzitDbruoyH"
     },
     {
       "added_at": "2024-10-16 15:52:28",
@@ -697,22 +757,6 @@
       "url": "https://open.spotify.com/track/0y4Lvo22ISPrr44LUes28r"
     },
     {
-      "added_at": "2024-07-24 04:00:00",
-      "album": {
-        "name": "Not Real People",
-        "url": "https://open.spotify.com/album/7hepxRy2Sm9yrGoM2aWakU"
-      },
-      "artists": [
-        {
-          "name": "oreglo",
-          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
-        }
-      ],
-      "duration_ms": 418640,
-      "name": "opedge",
-      "url": "https://open.spotify.com/track/5Tzwhyt2mCcnCjlD1r5Fri"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Alone",
@@ -761,22 +805,6 @@
       "url": "https://open.spotify.com/track/1MPhm34zwp1Tgsg4yrsHy0"
     },
     {
-      "added_at": "2024-06-19 00:00:00",
-      "album": {
-        "name": "weird",
-        "url": "https://open.spotify.com/album/1utJR0ualmXBUTM1ej4SrQ"
-      },
-      "artists": [
-        {
-          "name": "Solomon Fox",
-          "url": "https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj"
-        }
-      ],
-      "duration_ms": 95409,
-      "name": "weird",
-      "url": "https://open.spotify.com/track/5xnHCTo3Ia2QDNxcu6URPr"
-    },
-    {
       "added_at": "2024-07-24 04:00:00",
       "album": {
         "name": "My Type",
@@ -807,22 +835,6 @@
       "duration_ms": 236202,
       "name": "Africa",
       "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
-    },
-    {
-      "added_at": "2024-06-26 13:03:24",
-      "album": {
-        "name": "Until I See You Again",
-        "url": "https://open.spotify.com/album/5eUlJQADurMPkv9rCBMPuA"
-      },
-      "artists": [
-        {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/6K8QOMTGa8UqH6iylaR0g2"
-        }
-      ],
-      "duration_ms": 299990,
-      "name": "Until I See You Again",
-      "url": "https://open.spotify.com/track/5LgKohqhX8LwJtAd0FRCo2"
     },
     {
       "added_at": "2024-07-31 15:49:26",
@@ -943,22 +955,6 @@
       "duration_ms": 296226,
       "name": "Alpha Bete",
       "url": "https://open.spotify.com/track/4c72L4HOOYGQuWLM1xZuPR"
-    },
-    {
-      "added_at": "2024-06-19 00:00:00",
-      "album": {
-        "name": "TRUE STORY",
-        "url": "https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 237516,
-      "name": "Baby Ngimanzi Wuthando",
-      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

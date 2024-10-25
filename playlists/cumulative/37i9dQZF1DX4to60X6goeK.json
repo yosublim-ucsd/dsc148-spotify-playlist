@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Break That",
+        "url": "https://open.spotify.com/album/79roqcXJvDjeXbBUvCkTsj"
+      },
+      "artists": [
+        {
+          "name": "Georgie Riot",
+          "url": "https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156582,
+      "name": "Break That",
+      "url": "https://open.spotify.com/track/2JTJ4Zw4idBpwZx9orjWyR"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/12Z4sBhuca9BVndk8bxZ0j"
       },
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 184065,
       "name": "Forever Changes",
       "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
@@ -3217,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/661T7Q1xowT66rUQcNQImr"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188965,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/511645viu8hqZNiUcvrPyg"
+    },
+    {
+      "album": {
         "name": "Nightmares",
         "url": "https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK"
       },
@@ -3228,7 +3264,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 181032,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1"

@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-122 songs - 6 hr 24 min
+123 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bach baliye](https://open.spotify.com/track/509WQBvemcYvF3rSGhmWCu) | [Jassi Sohal](https://open.spotify.com/artist/45fT4owqYRKTnrtLiAN9wZ) | [Bach baliye](https://open.spotify.com/album/7ulrr7fTSBI9b6J9UbDvB0) | 2:37 | 2024-10-01 |  |
 | [Badmashi \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/23WL7wGsgqhINOShpCxdK5) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Badmashi \(feat\. Gurlez Akhtar\)](https://open.spotify.com/album/0N2q3zfrzjDL8xHKuoqir3) | 2:38 | 2021-12-18 | 2023-07-27 |
 | [Bai Bai](https://open.spotify.com/track/4FuQxMZP3ToPrc17Jdh4r1) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Bai Bai](https://open.spotify.com/album/3n9c8TFKnM3Mb0P6W4Lhii) | 4:33 | 2021-12-18 |  |
-| [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2022-01-10 |  |
+| [Bijlee Bijlee](https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Bijlee Bijlee](https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8) | 2:48 | 2022-01-10 | 2024-10-25 |
 | [Bijlee Bijlee](https://open.spotify.com/track/6rypIt9X1x9Okl0mgCdoVV) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Happy Chocolate Day 2022](https://open.spotify.com/album/64MPIq8mztoup1uwycI8dw) | 2:48 | 2022-07-05 | 2022-07-30 |
 | [Birth Place](https://open.spotify.com/track/0mMgQvjuwTwRXyByCx5y5t) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Birth Place](https://open.spotify.com/album/1dmKo05M5rTeUGGZAmUFXk) | 3:05 | 2021-12-18 | 2022-01-11 |
 | [Bitch I'm Back](https://open.spotify.com/track/2mKvEIvd912eg3FZ8WamMS) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2021-12-18 |  |
@@ -47,6 +47,7 @@
 | [Gal Sun](https://open.spotify.com/track/7kUNwrzscc83PhP8mnOwz6) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr), [The Kidd](https://open.spotify.com/artist/69NQgCPPwq05n5zewAYd8c) | [Gal Sun](https://open.spotify.com/album/09FgdndDRPfUCq7mhwdt82) | 3:33 | 2022-05-05 | 2024-08-21 |
 | [Gallan Kardi](https://open.spotify.com/track/7bWIRK3emiP8UwH6fpDfuu) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [Jawaani Jaaneman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4G3LgNCIT4yHn2pF4AfrsR) | 3:14 | 2021-12-18 | 2022-01-11 |
 | [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 | 2024-09-28 |  |
+| [Glassy](https://open.spotify.com/track/0IeIYYW7KFt5sKbAVAwuyX) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [RESUME](https://open.spotify.com/album/46JNBkfOGwjJ5HS39wNWrX) | 3:03 | 2024-10-24 |  |
 | [Gutt](https://open.spotify.com/track/6WwlMsdEoHYH6cM9SLGmTF) | [Sippy Gill](https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Circus](https://open.spotify.com/album/1JvUk6aapPqW8fgFLpDJCc) | 3:00 | 2024-10-16 |  |
 | [HOBBIES](https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:48 | 2023-07-31 | 2023-12-19 |
 | [It Ain't Legal](https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 3:34 | 2022-07-05 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: BabyChiefDoIt
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,210,011 likes - 101 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210,133 likes - 101 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 23 | [Over Active](https://open.spotify.com/track/1IwkAA6ZTiLJ0VaOLmgXm1) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT), [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Over Active](https://open.spotify.com/album/7p8gp1KRYIfbmzhqcfGcD5) | 2:15 |
 | 24 | [If I'm Scared](https://open.spotify.com/track/6WIsXkA2hqn8akCV3SG4ka) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Hella Greedy](https://open.spotify.com/album/2EuvkUe8SavQcxrRmolxtk) | 2:52 |
 | 25 | [Boogieman](https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Boogieman](https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh) | 2:11 |
-| 26 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 2:32 |
+| 26 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 1:40 |
 | 27 | [Trench Baby](https://open.spotify.com/track/1s6sNhPiGVdi40Dni1Litg) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Post Traumatic](https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT) | 2:28 |
 | 28 | [Survival Of The Fittest \(feat\. Future\)](https://open.spotify.com/track/2sdK4Bpasg8Ti0MTpCUFFd) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 2:55 |
 | 29 | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/track/6LTPUmfdE0Jdm29yvVAKA6) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [AR \(feat\. BigXthaPlug\)](https://open.spotify.com/album/7BoZu4OGWTN1WfJiLczq3V) | 3:16 |

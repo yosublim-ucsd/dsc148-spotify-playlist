@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il top dello street rap italiano \ud83d\udd25 Cover: Simba La Rue",
+  "description": "Il top dello street rap italiano \ud83d\udd25 Cover: Capo Plaza",
   "name": "Street Culto",
   "tracks": [
     {
@@ -2367,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Borse Herm\u00e8s",
+        "url": "https://open.spotify.com/album/4K4WFgRUEfOrPD4ioCBppM"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159745,
+      "name": "Borse Herm\u00e8s",
+      "url": "https://open.spotify.com/track/1MRDqKrcGYLw883LuVmDjy"
+    },
+    {
+      "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
       },
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 89164,
       "name": "Cassetta di Sicurezza",
       "url": "https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v"
@@ -4613,6 +4631,28 @@
     },
     {
       "album": {
+        "name": "Etc (feat. Nardo Wick)",
+        "url": "https://open.spotify.com/album/1gHHbM7rsEjkl4P6eQ7CKp"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128450,
+      "name": "Etc (feat. Nardo Wick)",
+      "url": "https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG"
+    },
+    {
+      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -5941,6 +5981,32 @@
     },
     {
       "album": {
+        "name": "Hania",
+        "url": "https://open.spotify.com/album/0U6RdT49ira25w1MOncuRv"
+      },
+      "artists": [
+        {
+          "name": "Accaoui",
+          "url": "https://open.spotify.com/artist/0ZH9vErkeklBVpizfUWo6M"
+        },
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182957,
+      "name": "Hania",
+      "url": "https://open.spotify.com/track/15RAs4OBrCzCelLxwl1Qeg"
+    },
+    {
+      "album": {
         "name": "Hebs",
         "url": "https://open.spotify.com/album/0yNWGKvITLUfl9wufIjo4W"
       },
@@ -6062,7 +6128,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 216960,
       "name": "HOT",
       "url": "https://open.spotify.com/track/0QwWAqI4UglxEiVObWCKvh"
@@ -6906,7 +6972,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 186000,
       "name": "L'ODIO",
       "url": "https://open.spotify.com/track/0j4mqZ20hc7FnMCKlGGn6Q"
@@ -8428,7 +8494,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 152783,
       "name": "Mississippi Drive (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/3cX3mdvcLfvSShxKfXIr8T"
@@ -11766,7 +11832,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 151515,
       "name": "Soldi Arrotolati (feat. ANNA)",
       "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
@@ -11836,6 +11902,28 @@
       "duration_ms": 173408,
       "name": "SON FATTO COS\u00cc",
       "url": "https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX"
+    },
+    {
+      "album": {
+        "name": "No Pressure, No Diamonds",
+        "url": "https://open.spotify.com/album/5gRvTwwvyRN2vYNBM9hmQu"
+      },
+      "artists": [
+        {
+          "name": "Faneto",
+          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190380,
+      "name": "Sotto Pressione (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4Ln4T8IJbEQRH9V0jtrAr8"
     },
     {
       "album": {
@@ -12695,6 +12783,32 @@
     },
     {
       "album": {
+        "name": "CON I MIEI OCCHI",
+        "url": "https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Dele",
+          "url": "https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151348,
+      "name": "TIK TOK (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/7GJtNxsYTi0LwJG6SA4tjO"
+    },
+    {
+      "album": {
         "name": "Tiki Taka",
         "url": "https://open.spotify.com/album/0ZvK5lmB4C7JJ0Xop61lwa"
       },
@@ -12932,7 +13046,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 180424,
       "name": "TOP SECRET (feat. Papa V)",
       "url": "https://open.spotify.com/track/3moH6gwEN3x5CxJRNffvPn"
@@ -13076,6 +13190,28 @@
       "duration_ms": 152142,
       "name": "TRAPHOUSE (feat. Massimo Pericolo)",
       "url": "https://open.spotify.com/track/6WuGf5uKp3zOEv70OuErP7"
+    },
+    {
+      "album": {
+        "name": "SMETTO QUANDO VOGLIO",
+        "url": "https://open.spotify.com/album/5pc9ZCyCeEvMdW0aDSmMou"
+      },
+      "artists": [
+        {
+          "name": "Sapobully",
+          "url": "https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE"
+        },
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "TRAPSTAR",
+      "url": "https://open.spotify.com/track/6twvGhYeRiinaHcKq2wUI0"
     },
     {
       "album": {

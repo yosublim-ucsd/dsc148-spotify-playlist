@@ -4,7 +4,7 @@
 
 > Este es el Reggae, al sur del continente americano\. Foto: Dancing Mood
 
-260 songs - 17 hr 15 min
+261 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bebamos de las Copas Lindas](https://open.spotify.com/track/0stjjSmOBJfmBvVL8qd7jy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Bebamos de las Copas Lindas](https://open.spotify.com/album/1Cn8QXjbDdiDEJst9nmWqV) | 3:27 | 2024-09-27 |  |
 | [Blues for Robin](https://open.spotify.com/track/1amEsAgR9loL4QfCogIfrN) | [Mr PC Ska Jazz](https://open.spotify.com/artist/1PyQqHVbuB2SQwc96QjjsC) | [Blues for Robin](https://open.spotify.com/album/79hknAqGjYgjs5g8pNBYVX) | 5:31 | 2022-05-06 | 2022-07-22 |
 | [Buen Día](https://open.spotify.com/track/4pyVpSIVTjtqbm8YczHvea) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Buen Día](https://open.spotify.com/album/3qmxnjvgxIJ6b7Q4lt7r2B) | 3:39 | 2022-05-06 | 2022-07-24 |
-| [Buena Suerte](https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Humo](https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE) | 3:59 | 2022-05-06 |  |
+| [Buena Suerte](https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Humo](https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE) | 3:59 | 2022-05-06 | 2024-10-25 |
 | [Busca el Poder](https://open.spotify.com/track/480GtPpNqz2crSxW91USAT) | [Skunk Dojo](https://open.spotify.com/artist/3DyHw2EIdDDW0XpW5EjGAd) | [Busca el Poder](https://open.spotify.com/album/2SOaTxDTXwO98rpYR2y85p) | 3:37 | 2024-10-03 |  |
 | [Camino](https://open.spotify.com/track/6xubp8IMFJZa4xZylMXwYo) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Riddim](https://open.spotify.com/artist/5nisdlB1NfT6t8WI0ZMdMD), [Natalia Ramírez](https://open.spotify.com/artist/1s4O7vhYHnEw8eA3tg9yV4), [Pety](https://open.spotify.com/artist/1KIAFzs3T8c4RanxT9GjZL) | [Camino](https://open.spotify.com/album/0hXVulgHCX0EmJ8JUssR8E) | 3:41 | 2022-05-06 | 2022-07-29 |
 | [Campo Fértil](https://open.spotify.com/track/76eprM2bmafflgXekoYVdZ) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [Alquímica](https://open.spotify.com/album/5IFNiViGeutEPzqWq0M0LY) | 4:09 | 2022-05-06 | 2022-07-25 |
@@ -229,6 +229,7 @@
 | [Take Me to the Stars](https://open.spotify.com/track/0L9YyBg37GmbajbyEs7YZU) | [Tempranos](https://open.spotify.com/artist/492Ggq79DwN14yeaPKnUhW) | [Tempranos](https://open.spotify.com/album/4eVtVdKSJHWlLZqt2qosWp) | 2:27 | 2022-05-06 | 2022-06-20 |
 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 | 2022-05-06 |  |
 | [Te Prefiero](https://open.spotify.com/track/7K7tKqnRzLoEQdquvGzZ6n) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Te Prefiero](https://open.spotify.com/album/31U37FecJ7YymWxaPXP18P) | 3:02 | 2024-03-15 |  |
+| [Te Tenía Al Lado](https://open.spotify.com/track/5eRm3Ga3wYFqKwx7Zh5akk) | [Amilcar Nadal](https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Te Tenía Al Lado](https://open.spotify.com/album/0q7PxAckGzubpud6qjX8v1) | 3:36 | 2024-10-24 |  |
 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 | 2022-05-06 |  |
 | [The Chicken](https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Groovin' High](https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2) | 7:15 | 2022-05-06 |  |
 | [The Lady in Red](https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [The Lady in Red](https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd) | 3:45 | 2022-05-06 |  |

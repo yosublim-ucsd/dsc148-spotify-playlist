@@ -4,7 +4,7 @@
 
 > Disfruta del más fino R&B hecho en español\. Alvaro Diaz y NATHY PELUSO en portada.
 
-442 songs - 23 hr 7 min
+442 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 | 2023-05-26 |  |
 | [Mon Amour](https://open.spotify.com/track/2mzvkKpEMFYTfLJeXVH0Ua) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Mon Amour](https://open.spotify.com/album/0qDwe9X4mjDhLqakQczewu) | 2:54 | 2022-01-21 | 2023-07-08 |
 | [Musiquita Triste](https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Musiquita Triste](https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN) | 3:24 | 2024-03-29 | 2024-10-12 |
-| [mykonos 2007](https://open.spotify.com/track/0xyRce9mMcNenSVh1iGd1Y) | [ABHIR](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0) | [mykonos 2007](https://open.spotify.com/album/5ajiP8HP6IZvxG7gZ4dlqi) | 3:25 | 2024-07-26 |  |
+| [mykonos 2007](https://open.spotify.com/track/0xyRce9mMcNenSVh1iGd1Y) | [ABHIR](https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0) | [mykonos 2007](https://open.spotify.com/album/5ajiP8HP6IZvxG7gZ4dlqi) | 3:08 | 2024-07-26 |  |
 | [Más Na](https://open.spotify.com/track/7fybIO8OfDYAnIwOLzbVsL) | [La Pardo](https://open.spotify.com/artist/7A7tqMkAiUwzExnkR7KuBU) | [Más Na](https://open.spotify.com/album/4ZtOej9M3GMZSUDWN3dgwD) | 2:02 | 2024-01-19 | 2024-02-29 |
 | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Na Pa Ti \(feat\. Kofi\)](https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr) | 2:53 | 2022-05-12 | 2023-01-27 |
 | [Nada Más](https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Nada Más](https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz) | 3:23 | 2023-01-17 | 2023-11-11 |

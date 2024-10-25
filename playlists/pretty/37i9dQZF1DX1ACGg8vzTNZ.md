@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,759 likes - 42 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,788 likes - 42 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 15 | [Patterns, Erase \- Simeon Walker Rework](https://open.spotify.com/track/1Biw7PpA3W0wCSl4PPspsa) | [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5), [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Dear, Piano](https://open.spotify.com/album/1MrAfbbO15n2Y1odaVOt9u) | 4:31 |
 | 16 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 |
 | 17 | [CRISALIDE 6](https://open.spotify.com/track/6F7cBxzxPOzrqP1Ry4z5Rb) | [Puppi](https://open.spotify.com/artist/3w0occdi5ODOkZz1KYuwFc) | [CRISALIDE](https://open.spotify.com/album/4jtWceBbJher3aLxTY9bl2) | 4:21 |
-| 18 | [Ocean Sonata For Harp](https://open.spotify.com/track/2BtNSFBVrY9QTSPwGCFJ7N) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Katie Buckley](https://open.spotify.com/artist/7B6Nb2RQKAVeARfDDPJGH9) | [Ocean Sonata For Harp](https://open.spotify.com/album/6fCXKF0TxDdjQJjPNvpbw0) | 1:59 |
+| 18 | [Ocean Sonata For Harp](https://open.spotify.com/track/2BtNSFBVrY9QTSPwGCFJ7N) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Ocean Sonata For Harp](https://open.spotify.com/album/6fCXKF0TxDdjQJjPNvpbw0) | 1:59 |
 | 19 | [Suite in D IV \(Dreamland\)](https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [Suite in D IV \(Dreamland\)](https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP) | 2:54 |
 | 20 | [The long wait](https://open.spotify.com/track/5myWqn2hTYUvHzFM2bdp5r) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [The long wait](https://open.spotify.com/album/0fkCVJKKAS7ORhbMoiV8R9) | 2:56 |
 | 21 | [Paint](https://open.spotify.com/track/6PC9beJbKsb3PMIBPbHtc7) | [Matthew Wilcock](https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf) | [Paint & Dance](https://open.spotify.com/album/6R3DQm91XrjzIX1X0VnyLF) | 2:09 |

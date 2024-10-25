@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 327000,
       "name": "Sam Hall",
       "url": "https://open.spotify.com/track/37rKTGqIjBzF0GcubuIDE9"
@@ -2878,6 +2878,28 @@
       "duration_ms": 186534,
       "name": "They Call Me The Breeze",
       "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5"
+    },
+    {
+      "album": {
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "This Has Gotta Stop",
+      "url": "https://open.spotify.com/track/4Cz032U4qrWCrjuqMoFWFq"
     },
     {
       "album": {

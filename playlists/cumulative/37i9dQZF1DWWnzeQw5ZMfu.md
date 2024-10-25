@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-239 songs - 18 hr 36 min
+240 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Fields Of Gold \- Live In Berlin/2010](https://open.spotify.com/track/6zaIkr8o1DVxBIr4rgrvXC) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Royal Philharmonic Concert Orchestra](https://open.spotify.com/artist/0KF6aZe84u9WE8JaLdvLLY), [Steven Mercurio](https://open.spotify.com/artist/1tVeyHElHwol59M1EPwQHD) | [Live In Berlin](https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu) | 3:35 | 2022-04-29 | 2023-08-19 |
 | [Footloose \- Live at John F\. Kennedy Stadium, 13th July 1985](https://open.spotify.com/track/1wM7Y8fdOTJD9ZaHHfi1MS) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(Live at John F\. Kennedy Stadium, 13th July 1985\)](https://open.spotify.com/album/3YjGruzbQxfOVRre3ZaFFZ) | 4:14 | 2022-04-29 | 2023-01-22 |
 | [Footloose \- Live at Live Aid, John F\. Kennedy Stadium, 13th July 1985](https://open.spotify.com/track/4Y5QFo0iMJ7j1zpzVjGt9D) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Live Aid \(Live, 13th July 1985\)](https://open.spotify.com/album/5Ke7S3qdSjC6on0xfVkAss) | 4:14 | 2022-04-14 | 2022-07-29 |
+| [For Cryin' Out Loud! \(Spotify OUTSIDE Version\) \- Live from Los Angeles, CA](https://open.spotify.com/track/7AeSEZgpU02dXrVSM32QFc) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud! \(Spotify OUTSIDE Version\) \[Live from Los Angeles, CA\]](https://open.spotify.com/album/3V9duXb3ewSmDoh3qm16XO) | 3:58 | 2024-10-24 |  |
 | [For the First Time \- Live At The Aviva Stadium, Dublin](https://open.spotify.com/track/4llNwotltjRfm312AvF7vn) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 5:04 | 2022-04-14 |  |
 | [Forever Young](https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Stark Naked and Absolutely Live](https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43) | 5:43 | 2022-04-14 |  |
 | [Formation \- Homecoming Live](https://open.spotify.com/track/6oHexA34fw1WfswjIEA1hd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [HOMECOMING: THE LIVE ALBUM](https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x) | 4:22 | 2022-04-29 | 2023-08-19 |
@@ -179,7 +180,7 @@
 | [Sisters Are Doin' It for Themselves \- Live at Live 8, Hyde Park, London, 2nd July 2005](https://open.spotify.com/track/1Z8ebfG3iPccjrgeqV9G8h) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 4:26 | 2022-04-14 | 2022-07-21 |
 | [Slave to Love \- Live at Live Aid, Wembley Stadium, 13th July 1985](https://open.spotify.com/track/12tg7YyxM5PWXz66U2kyrU) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Live Aid \(Live, 13th July 1985\)](https://open.spotify.com/album/5Ke7S3qdSjC6on0xfVkAss) | 3:41 | 2022-04-14 | 2022-07-29 |
 | [Slow / Love to Love You Baby \(From the Infinite Disco Livestream\)](https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3) | 3:13 | 2023-11-03 | 2024-04-19 |
-| [Slow / Love to Love You Baby \- From the Infinite Disco Livestream](https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ) | 3:13 | 2022-04-14 |  |
+| [Slow / Love to Love You Baby \- From the Infinite Disco Livestream](https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ) | 3:13 | 2022-04-14 | 2024-10-25 |
 | [Slow Dancing in a Burning Room \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4OT8GH9u9Gx7ydJ49ULunN) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 5:19 | 2022-04-14 |  |
 | [Smooth Operator \- Live](https://open.spotify.com/track/1ztxPjZDC6K616WTPMzsaz) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Live](https://open.spotify.com/album/6DTMoVIMoY5Yr5Y89xetvE) | 4:16 | 2022-04-14 | 2022-07-29 |
 | [Smooth Operator \- Live](https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Live](https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF) | 4:16 | 2022-04-29 | 2024-04-19 |

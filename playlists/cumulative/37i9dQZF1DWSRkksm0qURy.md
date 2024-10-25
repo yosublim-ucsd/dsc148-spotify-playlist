@@ -4,7 +4,7 @@
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-101 songs - 4 hr 55 min
+103 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [417 Hz The Sound of Change](https://open.spotify.com/track/1qeh0tOIWtFyuX4WHbuxhp) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [417 Hz The Sound of Change](https://open.spotify.com/album/7BIS1H7kHlyX6dD653LGas) | 2:44 | 2024-03-13 |  |
 | [417 Hz Timeless](https://open.spotify.com/track/4VMWQ3W7dj0IdGibhdQKlX) | [Francorchamps](https://open.spotify.com/artist/11fWJjHq0q210RYCK5sSDh) | [417 Hz Timeless](https://open.spotify.com/album/0Ht0PmmDktxvvfptwGPVwD) | 3:00 | 2023-03-10 |  |
 | [417 Hz Timeless Tranquility](https://open.spotify.com/track/5RvtcQOmt23MJJbOzaB3NC) | [Floating On Clouds](https://open.spotify.com/artist/0A6cVdn2JhwPmYnBQrXRSK) | [417 Hz Timeless Tranquility](https://open.spotify.com/album/1uHC3ucNzK3TJ8wPDgChH4) | 3:16 | 2024-04-07 |  |
+| [417 Hz Transformative Reverberation](https://open.spotify.com/track/4L5l33yzWxu0N0H98E9SQL) | [Wolves Club](https://open.spotify.com/artist/62QRG3Vco7ANXWeJm7pUAh) | [417 Hz Transformative Reverberation](https://open.spotify.com/album/5OkWKq2K0HvO08tLaw1MJC) | 2:12 | 2024-10-24 |  |
 | [417 Hz Unity Healing](https://open.spotify.com/track/4SsyJ6wO0IJi2iZyj7K2xo) | [Edda Prado](https://open.spotify.com/artist/0PAg1jsa3Fn4R8XmcoYUWc) | [417 Hz Unity Healing](https://open.spotify.com/album/5SdV03KnGJdl7ougERDrx5) | 3:12 | 2023-08-07 |  |
 | [417 Hz Universal Connection](https://open.spotify.com/track/2HDiVxgo4sVBVVrn0mq7Jm) | [Whispering Zephyr](https://open.spotify.com/artist/3MOYIimCFE7oV8SkK3mbux) | [417 Hz Universal Connection](https://open.spotify.com/album/2dnm0nbaI7inyT7QbnH8Dc) | 3:07 | 2024-04-07 |  |
 | [417 Hz – Talentueuse](https://open.spotify.com/track/4sUwwyop662EyG9YuSAMWg) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Talentueuse](https://open.spotify.com/album/34cHAvwkGQnYto6Ze7Hii3) | 2:19 | 2023-03-10 |  |
@@ -88,6 +89,7 @@
 | [Park Place 417 Hz](https://open.spotify.com/track/5Dgpop0URLSWPMFOeQCJGt) | [Aziz Kirkin](https://open.spotify.com/artist/7BPMsxBuGDkaKlsYWR38kS) | [Park Place 417 Hz](https://open.spotify.com/album/3uILqU6ZXWhAZIzszNkebF) | 2:56 | 2023-03-10 | 2024-08-28 |
 | [Positive Change 417 Hz](https://open.spotify.com/track/2g1wqopvxaP9aaJmGMNRFa) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Positive Change 417 Hz & Returning 852 Hz](https://open.spotify.com/album/4j3ea1tblHSGCqbw24dDUs) | 3:08 | 2023-03-10 |  |
 | [Re\-Balance \(417 Hz\)](https://open.spotify.com/track/0WD1WX5K3QRIRH4hHOzZh8) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Sacred Healing](https://open.spotify.com/album/4QLBC4WpLRzrYLFzt52ZuP) | 2:46 | 2023-03-10 |  |
+| [Sacral \(417 Hz\)](https://open.spotify.com/track/2hI0gta3mQaxNOgTu6oV9q) | [Synaptc Waves](https://open.spotify.com/artist/1B6lhoVCQSa0yrnhvfNXZJ) | [Sacral \(417 Hz\)](https://open.spotify.com/album/6bzVzb9EELBE0lYTru6Ccq) | 2:37 | 2024-10-24 |  |
 | [Sacral Chakra](https://open.spotify.com/track/0oi2M0sczCixiYTa9TGPw6) | [Wellness Portal](https://open.spotify.com/artist/6t5G5UjoSmisKCSYhdI0gs) | [Crystal Bowls for Meditation](https://open.spotify.com/album/4YR5sX9NeIhMZpaBxeleTD) | 3:22 | 2023-03-10 | 2024-08-28 |
 | [Sacral Chakra \(Svadhisthara\)](https://open.spotify.com/track/4HN5mnyKtVylZL1uX7Lj96) | [Llewellyn](https://open.spotify.com/artist/61MAx7qEOF3nonLvS6mxFm) | [Reiki Sleep](https://open.spotify.com/album/4XIkIaHTGorID0HBpxJO4k) | 1:59 | 2023-03-10 | 2024-03-14 |
 | [Sacral Chakra \(Swadhisthana\) \- 3 Octaves D](https://open.spotify.com/track/6z2qtq2eACS3o2TPfLIpul) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 | 2023-03-10 | 2023-09-22 |

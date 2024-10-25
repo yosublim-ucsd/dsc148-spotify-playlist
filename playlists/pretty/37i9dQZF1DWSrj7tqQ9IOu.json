@@ -1,35 +1,15 @@
 {
-  "description": "The best French indie tracks right now. Cover : Emma Hoet",
-  "num_followers": 406189,
+  "description": "The best French indie tracks right now. Cover : Oscar Anton",
+  "num_followers": 406204,
   "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGI4AAAAAD0qS0cr7WUR79ifZpBVDbZ",
+  "snapshot_id": "ZxrDYAAAAACjXiZ5k2Rsy6SS5+hpt4/1",
   "tracks": [
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "MOLITOR 24",
-        "url": "https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9"
-      },
-      "artists": [
-        {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
-        },
-        {
-          "name": "Molitor",
-          "url": "https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Sucr\u00e9 Sal\u00e9",
-      "url": "https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Monde Nouveau",
         "url": "https://open.spotify.com/album/2v016SMb35ARN5QFIxKwUA"
@@ -45,7 +25,7 @@
       "url": "https://open.spotify.com/track/4ug44FLXT8LAfXc7WSUkha"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Sunset Park (Extended version)",
         "url": "https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY"
@@ -65,23 +45,27 @@
       "url": "https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Il Faudra Bien",
-        "url": "https://open.spotify.com/album/0oLHRQFyXLMjVrHW3Lxejo"
+        "name": "MOLITOR 24",
+        "url": "https://open.spotify.com/album/4YHAsfQRvDHhBbe2S7RBA9"
       },
       "artists": [
         {
-          "name": "Victor Marc",
-          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        },
+        {
+          "name": "Molitor",
+          "url": "https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo"
         }
       ],
-      "duration_ms": 183097,
-      "name": "Il Faudra Bien",
-      "url": "https://open.spotify.com/track/2NEL9RbgWhmFl0zeQpyLB6"
+      "duration_ms": 162333,
+      "name": "Sucr\u00e9 Sal\u00e9",
+      "url": "https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Amber Eyes",
         "url": "https://open.spotify.com/album/67JTOVjd0Ya8S2EgzpoLl4"
@@ -101,7 +85,7 @@
       "url": "https://open.spotify.com/track/6DrkAx1pj4KdRTfDsmWcEP"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Juste toi et moi",
         "url": "https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW"
@@ -117,7 +101,7 @@
       "url": "https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Mirages",
         "url": "https://open.spotify.com/album/40AfbK7kPIClq6ixLA3Zpe"
@@ -137,7 +121,39 @@
       "url": "https://open.spotify.com/track/39GSGgJ2HJ2SOV6TPvoCRN"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Il Faudra Bien",
+        "url": "https://open.spotify.com/album/0oLHRQFyXLMjVrHW3Lxejo"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "duration_ms": 183097,
+      "name": "Il Faudra Bien",
+      "url": "https://open.spotify.com/track/2NEL9RbgWhmFl0zeQpyLB6"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Matcha Queen",
+        "url": "https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5"
+      },
+      "artists": [
+        {
+          "name": "Yoa",
+          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
+        }
+      ],
+      "duration_ms": 190761,
+      "name": "Matcha Queen",
+      "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "un million de petits chocs",
         "url": "https://open.spotify.com/album/2IC2gH3S0XVQvug7M3rFjS"
@@ -177,7 +193,39 @@
       "url": "https://open.spotify.com/track/7df0w01vdDcboukwMPjjPV"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Azur",
+        "url": "https://open.spotify.com/album/66YX19AoDHON2I2jpACw5a"
+      },
+      "artists": [
+        {
+          "name": "Romain Muller",
+          "url": "https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu"
+        }
+      ],
+      "duration_ms": 158985,
+      "name": "L'Himalaya",
+      "url": "https://open.spotify.com/track/3epMEAUfhbcf4CNgpz846d"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Oddy",
+        "url": "https://open.spotify.com/album/1FWvTmqkkjyCTYDEIqMOMA"
+      },
+      "artists": [
+        {
+          "name": "Fellini F\u00e9lin",
+          "url": "https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Oddy",
+      "url": "https://open.spotify.com/track/4oCzdV9GagnXw40awTB99H"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "L'hiver au soleil",
         "url": "https://open.spotify.com/album/2O6Jo9HP7NVRUTmD9xoTO4"
@@ -197,71 +245,7 @@
       "url": "https://open.spotify.com/track/53zqXpNLN6WHnYChphcm8Z"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Matcha Queen",
-        "url": "https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5"
-      },
-      "artists": [
-        {
-          "name": "Yoa",
-          "url": "https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy"
-        }
-      ],
-      "duration_ms": 190761,
-      "name": "Matcha Queen",
-      "url": "https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Oddy",
-        "url": "https://open.spotify.com/album/1FWvTmqkkjyCTYDEIqMOMA"
-      },
-      "artists": [
-        {
-          "name": "Fellini F\u00e9lin",
-          "url": "https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Oddy",
-      "url": "https://open.spotify.com/track/4oCzdV9GagnXw40awTB99H"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "May the Robots Do It Better",
-        "url": "https://open.spotify.com/album/6DRIzLicuX2GBIGooXAwOZ"
-      },
-      "artists": [
-        {
-          "name": "Jil Is Lucky",
-          "url": "https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku"
-        }
-      ],
-      "duration_ms": 174068,
-      "name": "Life Goes on When All Falls Down",
-      "url": "https://open.spotify.com/track/2nEwgI2vuYe6gW0SF92EJr"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/6zNUofPP2SkaBZ0Eg9AtIt"
-      },
-      "artists": [
-        {
-          "name": "Lilly Wood and The Prick",
-          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
-        }
-      ],
-      "duration_ms": 203080,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/64TQd94FEEFJbpnYs9Jfqd"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Yeux Mouill\u00e9s",
         "url": "https://open.spotify.com/album/7r2nGFND4HHvz0a9Ku2ayi"
@@ -277,7 +261,43 @@
       "url": "https://open.spotify.com/track/0YYwIhNaJbBwwvifbjZwck"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Funambule",
+        "url": "https://open.spotify.com/album/4sioMrTmkoAX1kpQB2R2cz"
+      },
+      "artists": [
+        {
+          "name": "Mahom",
+          "url": "https://open.spotify.com/artist/3GO2chm7Si2LKxukpSrP3K"
+        },
+        {
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "Funambule",
+      "url": "https://open.spotify.com/track/25Iv3PI72AyxdboNYxuKGK"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "May the Robots Do It Better",
+        "url": "https://open.spotify.com/album/6DRIzLicuX2GBIGooXAwOZ"
+      },
+      "artists": [
+        {
+          "name": "Jil Is Lucky",
+          "url": "https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku"
+        }
+      ],
+      "duration_ms": 174068,
+      "name": "Life Goes on When All Falls Down",
+      "url": "https://open.spotify.com/track/2nEwgI2vuYe6gW0SF92EJr"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "\u00c9motions satur\u00e9es (feat. TheFrenchKris)",
         "url": "https://open.spotify.com/album/1g1N1xWro8IfsjIWzBmcbK"
@@ -301,43 +321,23 @@
       "url": "https://open.spotify.com/track/6MtVYXOK4RIlJ6ty6HIAem"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Funambule",
-        "url": "https://open.spotify.com/album/4sioMrTmkoAX1kpQB2R2cz"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/6zNUofPP2SkaBZ0Eg9AtIt"
       },
       "artists": [
         {
-          "name": "Mahom",
-          "url": "https://open.spotify.com/artist/3GO2chm7Si2LKxukpSrP3K"
-        },
-        {
-          "name": "LUIZA",
-          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
         }
       ],
-      "duration_ms": 228292,
-      "name": "Funambule",
-      "url": "https://open.spotify.com/track/25Iv3PI72AyxdboNYxuKGK"
+      "duration_ms": 203080,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/64TQd94FEEFJbpnYs9Jfqd"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "When You Keep Running",
-        "url": "https://open.spotify.com/album/3VpZm610YUtXe1AzOLbIqY"
-      },
-      "artists": [
-        {
-          "name": "Victor Marc",
-          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
-        }
-      ],
-      "duration_ms": 243827,
-      "name": "When You Keep Running",
-      "url": "https://open.spotify.com/track/4BK2Ahjaain3jpUeOWaIfO"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Les pieds dans l'eau",
         "url": "https://open.spotify.com/album/1GNw3IWHOkIKbWhdwRmt72"
@@ -357,55 +357,7 @@
       "url": "https://open.spotify.com/track/2re9Xr1N9N5ZipYc7bLd2Q"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Rock Machine",
-        "url": "https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Venus",
-      "url": "https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "\u00c9TINCELLE",
-        "url": "https://open.spotify.com/album/5yLyi7Kj9XgMVZNQmkrVPI"
-      },
-      "artists": [
-        {
-          "name": "BLOWSOM",
-          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
-        }
-      ],
-      "duration_ms": 215550,
-      "name": "\u00c9TINCELLE",
-      "url": "https://open.spotify.com/track/7uEmOsvfEkKYuaM3lm3dCG"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Love from the Other Side",
-        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 249405,
-      "name": "Love from the Other Side",
-      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/0J92jWQySAfKXhXApETKR0"
@@ -433,7 +385,55 @@
       "url": "https://open.spotify.com/track/7jSlSSgWxKkFctkSpYUHTv"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "\u00c9TINCELLE",
+        "url": "https://open.spotify.com/album/5yLyi7Kj9XgMVZNQmkrVPI"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "duration_ms": 215550,
+      "name": "\u00c9TINCELLE",
+      "url": "https://open.spotify.com/track/7uEmOsvfEkKYuaM3lm3dCG"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "When You Keep Running",
+        "url": "https://open.spotify.com/album/3VpZm610YUtXe1AzOLbIqY"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "duration_ms": 243827,
+      "name": "When You Keep Running",
+      "url": "https://open.spotify.com/track/4BK2Ahjaain3jpUeOWaIfO"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Rock Machine",
+        "url": "https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "I see you up tomorrow",
         "url": "https://open.spotify.com/album/2XDwROWOGBYPQ7ZX7CVB3j"
@@ -453,39 +453,7 @@
       "url": "https://open.spotify.com/track/4tdwnzkNsPyb3MAFnhuETN"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "R\u00eave parti",
-        "url": "https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9"
-      },
-      "artists": [
-        {
-          "name": "Lescop",
-          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
-        }
-      ],
-      "duration_ms": 203186,
-      "name": "Exotica",
-      "url": "https://open.spotify.com/track/0BOXrnQCeHGkl2AraB6OLn"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Flegme",
-        "url": "https://open.spotify.com/album/0YH5sQoVXmhOsEc1FYP0WJ"
-      },
-      "artists": [
-        {
-          "name": "Val\u00e8re",
-          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Minuit sur le balcon",
-      "url": "https://open.spotify.com/track/4r34G94IzRbRU57xfbUCAH"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Any Way (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
@@ -505,23 +473,7 @@
       "url": "https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "SANTS",
-        "url": "https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e9ment Froissart",
-          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
-        }
-      ],
-      "duration_ms": 135040,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Storytelling",
         "url": "https://open.spotify.com/album/4ci3JRgERR0EXh4mlQaL7r"
@@ -537,23 +489,39 @@
       "url": "https://open.spotify.com/track/5MhO98gtLl7YBTkHstcIn7"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Oh Why",
-        "url": "https://open.spotify.com/album/45Z8Fq7iWwQdcHzIOgMhyf"
+        "name": "SANTS",
+        "url": "https://open.spotify.com/album/50h53iM2tfUGmeCfSCvp6N"
       },
       "artists": [
         {
-          "name": "Jil Is Lucky",
-          "url": "https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku"
+          "name": "Cl\u00e9ment Froissart",
+          "url": "https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt"
         }
       ],
-      "duration_ms": 167114,
-      "name": "Oh Why",
-      "url": "https://open.spotify.com/track/43uSB7AO2UNDR6fx3NDhs1"
+      "duration_ms": 135040,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/1yDWoHnVvqylR1KzqNsf2H"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Flegme",
+        "url": "https://open.spotify.com/album/0YH5sQoVXmhOsEc1FYP0WJ"
+      },
+      "artists": [
+        {
+          "name": "Val\u00e8re",
+          "url": "https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Minuit sur le balcon",
+      "url": "https://open.spotify.com/track/4r34G94IzRbRU57xfbUCAH"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Golden Bay",
         "url": "https://open.spotify.com/album/0VQBTgExKApYJMMOE3tufu"
@@ -569,43 +537,7 @@
       "url": "https://open.spotify.com/track/7hB9Efd9KkapvHfjpzPUu8"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Bonifacio",
-        "url": "https://open.spotify.com/album/1XT5heZfUmmMANHgafkGwA"
-      },
-      "artists": [
-        {
-          "name": "Romain Muller",
-          "url": "https://open.spotify.com/artist/2kNosEaCDLK4OdSzpZWaDu"
-        }
-      ],
-      "duration_ms": 135560,
-      "name": "Bonifacio",
-      "url": "https://open.spotify.com/track/2kTCB0grV2QxiX46zuzEr3"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Mustang",
-        "url": "https://open.spotify.com/album/5TbZYxVjfV7v8nDlgzyU11"
-      },
-      "artists": [
-        {
-          "name": "Kazy Lambist",
-          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
-        },
-        {
-          "name": "Nelly Lawson",
-          "url": "https://open.spotify.com/artist/7sRBFpHYPL981CBLDkNAWD"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Mustang",
-      "url": "https://open.spotify.com/track/33l4on0m8p7CMD4nFl9m7Z"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Tiger Teeth (Feat Just Jack)",
         "url": "https://open.spotify.com/album/77uPMhEIcxwNmgPJbtzzeT"
@@ -625,7 +557,91 @@
       "url": "https://open.spotify.com/track/4zeiLDJJP9HaILAu0k9iOF"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/5TbZYxVjfV7v8nDlgzyU11"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Nelly Lawson",
+          "url": "https://open.spotify.com/artist/7sRBFpHYPL981CBLDkNAWD"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/33l4on0m8p7CMD4nFl9m7Z"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Oh Why",
+        "url": "https://open.spotify.com/album/45Z8Fq7iWwQdcHzIOgMhyf"
+      },
+      "artists": [
+        {
+          "name": "Jil Is Lucky",
+          "url": "https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku"
+        }
+      ],
+      "duration_ms": 167114,
+      "name": "Oh Why",
+      "url": "https://open.spotify.com/track/43uSB7AO2UNDR6fx3NDhs1"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "R\u00eave parti",
+        "url": "https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9"
+      },
+      "artists": [
+        {
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        }
+      ],
+      "duration_ms": 203186,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/0BOXrnQCeHGkl2AraB6OLn"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Baby, Come Over Tonight",
+        "url": "https://open.spotify.com/album/3UEEg6yw0frHPjYnIeX52M"
+      },
+      "artists": [
+        {
+          "name": "Later.",
+          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "Baby, Come Over Tonight",
+      "url": "https://open.spotify.com/track/6NBOxEUNUwZkKZFft4xopF"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Love from the Other Side",
+        "url": "https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 249405,
+      "name": "Love from the Other Side",
+      "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "The world of yesterday",
         "url": "https://open.spotify.com/album/3j2tB7H1Ez1HHP8dO1e5nr"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Elle",
         "url": "https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi"
@@ -661,71 +677,7 @@
       "url": "https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Baby, Come Over Tonight",
-        "url": "https://open.spotify.com/album/3UEEg6yw0frHPjYnIeX52M"
-      },
-      "artists": [
-        {
-          "name": "Later.",
-          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "Baby, Come Over Tonight",
-      "url": "https://open.spotify.com/track/6NBOxEUNUwZkKZFft4xopF"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/6DkQTJbcWwmwLxfVpqiACv"
-      },
-      "artists": [
-        {
-          "name": "Pearl & The Oysters",
-          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
-        }
-      ],
-      "duration_ms": 226514,
-      "name": "Big Time",
-      "url": "https://open.spotify.com/track/2HYk48orNTSJ8HD5fwRUis"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Vivant",
-        "url": "https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD"
-      },
-      "artists": [
-        {
-          "name": "Malik Djoudi",
-          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
-        }
-      ],
-      "duration_ms": 197497,
-      "name": "Pas vraiment",
-      "url": "https://open.spotify.com/track/1Nl4KaC3oa5HTqvzLOdkQh"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "The Wedding Song",
-        "url": "https://open.spotify.com/album/3xCtnDqANlHrTRpmLvLLPN"
-      },
-      "artists": [
-        {
-          "name": "Magon",
-          "url": "https://open.spotify.com/artist/2DKfWpojFynlSO7kxt2ov0"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "The Wedding Song",
-      "url": "https://open.spotify.com/track/0UEmqhF4ae0ELXYjGkogDq"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "family and friends",
         "url": "https://open.spotify.com/album/6y6YITcW11LC9K83uH6XYR"
@@ -741,23 +693,7 @@
       "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "FVTVRVM",
-        "url": "https://open.spotify.com/album/2BxOeDV8tqsRRqIS5fk9QE"
-      },
-      "artists": [
-        {
-          "name": "Naive New Beaters",
-          "url": "https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4"
-        }
-      ],
-      "duration_ms": 160005,
-      "name": "Love Scares",
-      "url": "https://open.spotify.com/track/2eEKfCcbnCmpevVJfmqcPU"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "SIXTEEN WONDERS",
         "url": "https://open.spotify.com/album/778Og5tR0wLAoV4bRkhtQU"
@@ -773,58 +709,10 @@
       "url": "https://open.spotify.com/track/1KwH6IwyksTOagfHQm6VpX"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Quitter la ville",
-        "url": "https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms"
-      },
-      "artists": [
-        {
-          "name": "Laura Cahen",
-          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
-        }
-      ],
-      "duration_ms": 245644,
-      "name": "Quitter la ville",
-      "url": "https://open.spotify.com/track/2o1egEONubbMeEjYZyjZip"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Cruise Control",
-        "url": "https://open.spotify.com/album/1G1fL98A0Qso16gmgO0lP3"
-      },
-      "artists": [
-        {
-          "name": "Pearl & The Oysters",
-          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
-        }
-      ],
-      "duration_ms": 181150,
-      "name": "Cruise Control",
-      "url": "https://open.spotify.com/track/6FRA5jRHUHUirMHgQHItDe"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Adieu Cl\u00e9mence",
-        "url": "https://open.spotify.com/album/177gthcj7t6BiQGjx9uMTS"
-      },
-      "artists": [
-        {
-          "name": "Tao Mon Amour",
-          "url": "https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h"
-        }
-      ],
-      "duration_ms": 180624,
-      "name": "Adieu Cl\u00e9mence",
-      "url": "https://open.spotify.com/track/3DC35Xkl9RYiRF7gvIFsKI"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Viens on prend le temps",
-        "url": "https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA"
+        "name": "Vivant",
+        "url": "https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD"
       },
       "artists": [
         {
@@ -832,12 +720,44 @@
           "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
         }
       ],
-      "duration_ms": 176743,
-      "name": "Viens on prend le temps",
-      "url": "https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj"
+      "duration_ms": 197497,
+      "name": "Pas vraiment",
+      "url": "https://open.spotify.com/track/1Nl4KaC3oa5HTqvzLOdkQh"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "The Wedding Song",
+        "url": "https://open.spotify.com/album/3xCtnDqANlHrTRpmLvLLPN"
+      },
+      "artists": [
+        {
+          "name": "Magon",
+          "url": "https://open.spotify.com/artist/2DKfWpojFynlSO7kxt2ov0"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "The Wedding Song",
+      "url": "https://open.spotify.com/track/0UEmqhF4ae0ELXYjGkogDq"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/6DkQTJbcWwmwLxfVpqiACv"
+      },
+      "artists": [
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        }
+      ],
+      "duration_ms": 226514,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/2HYk48orNTSJ8HD5fwRUis"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "La Mer",
         "url": "https://open.spotify.com/album/25M1bUCa54IDjgv1Axa6ay"
@@ -853,23 +773,87 @@
       "url": "https://open.spotify.com/track/1o0iPjV4Hb1zx845PUv2vp"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Never Be The Same Again",
-        "url": "https://open.spotify.com/album/3laWOTgQfRtBB0cCTIxigl"
+        "name": "Quitter la ville",
+        "url": "https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms"
       },
       "artists": [
         {
-          "name": "Evergreen",
-          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
+          "name": "Laura Cahen",
+          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
         }
       ],
-      "duration_ms": 131666,
-      "name": "Never Be The Same Again",
-      "url": "https://open.spotify.com/track/0KEM91LS41CerPQRop8FaP"
+      "duration_ms": 245644,
+      "name": "Quitter la ville",
+      "url": "https://open.spotify.com/track/2o1egEONubbMeEjYZyjZip"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Viens on prend le temps",
+        "url": "https://open.spotify.com/album/7q3GG7E7Lf3Dlvk5XZ9MYA"
+      },
+      "artists": [
+        {
+          "name": "Malik Djoudi",
+          "url": "https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF"
+        }
+      ],
+      "duration_ms": 176743,
+      "name": "Viens on prend le temps",
+      "url": "https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "FVTVRVM",
+        "url": "https://open.spotify.com/album/2BxOeDV8tqsRRqIS5fk9QE"
+      },
+      "artists": [
+        {
+          "name": "Naive New Beaters",
+          "url": "https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4"
+        }
+      ],
+      "duration_ms": 160005,
+      "name": "Love Scares",
+      "url": "https://open.spotify.com/track/2eEKfCcbnCmpevVJfmqcPU"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Adieu Cl\u00e9mence",
+        "url": "https://open.spotify.com/album/177gthcj7t6BiQGjx9uMTS"
+      },
+      "artists": [
+        {
+          "name": "Tao Mon Amour",
+          "url": "https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h"
+        }
+      ],
+      "duration_ms": 180624,
+      "name": "Adieu Cl\u00e9mence",
+      "url": "https://open.spotify.com/track/3DC35Xkl9RYiRF7gvIFsKI"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/1G1fL98A0Qso16gmgO0lP3"
+      },
+      "artists": [
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        }
+      ],
+      "duration_ms": 181150,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/6FRA5jRHUHUirMHgQHItDe"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/6jkcoS61cyIwJ3LTcXuEEs"
@@ -883,6 +867,22 @@
       "duration_ms": 156307,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/0sIB4AFz7FGN0nef89hsRD"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Never Be The Same Again",
+        "url": "https://open.spotify.com/album/3laWOTgQfRtBB0cCTIxigl"
+      },
+      "artists": [
+        {
+          "name": "Evergreen",
+          "url": "https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS"
+        }
+      ],
+      "duration_ms": 131666,
+      "name": "Never Be The Same Again",
+      "url": "https://open.spotify.com/track/0KEM91LS41CerPQRop8FaP"
     }
   ],
   "unique_name": "Made in France",

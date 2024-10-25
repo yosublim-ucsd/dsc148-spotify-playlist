@@ -803,6 +803,24 @@
     },
     {
       "album": {
+        "name": "Mirasol",
+        "url": "https://open.spotify.com/album/4K1X6LZLGRSOXBBaGAqvft"
+      },
+      "artists": [
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207567,
+      "name": "Mirasol",
+      "url": "https://open.spotify.com/track/7zLBGK5lDf5cnAA3ea4xR9"
+    },
+    {
+      "album": {
         "name": "Misteryoso",
         "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
       },

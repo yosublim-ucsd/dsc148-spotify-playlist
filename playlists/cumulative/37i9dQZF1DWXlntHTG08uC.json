@@ -2626,7 +2626,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 177692,
       "name": "Distant Shores",
       "url": "https://open.spotify.com/track/7g6FnYrGcwTSSlTVLA0gFh"
@@ -4344,6 +4344,24 @@
       "duration_ms": 185142,
       "name": "Very Gentle 528 Hz",
       "url": "https://open.spotify.com/track/36lK0alPIzF9mV22hNkCIL"
+    },
+    {
+      "album": {
+        "name": "Voyage to the Unknown 528Hz",
+        "url": "https://open.spotify.com/album/3lY4ZecL52LH8HsYjCqzea"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191563,
+      "name": "Voyage to the Unknown 528Hz",
+      "url": "https://open.spotify.com/track/4pAJz6Xtdthj4m31ANPbWt"
     },
     {
       "album": {

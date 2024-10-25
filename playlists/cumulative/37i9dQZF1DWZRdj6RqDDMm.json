@@ -507,7 +507,7 @@
         },
         {
           "name": "Kusah",
-          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+          "url": "https://open.spotify.com/artist/3DZxhsblcLSOG4RNUA1kFs"
         }
       ],
       "date_added": "2023-10-27",
@@ -1149,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "Close to your heart",
+        "url": "https://open.spotify.com/album/105k38qJ7nB810q8kvsBRy"
+      },
+      "artists": [
+        {
+          "name": "Kole Light",
+          "url": "https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui"
+        },
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153437,
+      "name": "Close to your heart",
+      "url": "https://open.spotify.com/track/39FHha4rtCHneBKKPXTWW2"
+    },
+    {
+      "album": {
         "name": "Come",
         "url": "https://open.spotify.com/album/7zoGeEprSXQEAIrHxuMuJo"
       },
@@ -1182,7 +1204,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 142666,
       "name": "Comfort me",
       "url": "https://open.spotify.com/track/3e35HnDENOkg77SBrmOhsa"
@@ -1924,6 +1946,24 @@
       "duration_ms": 156749,
       "name": "Even If",
       "url": "https://open.spotify.com/track/7AJowvYX5w6D5iHOtDQS5w"
+    },
+    {
+      "album": {
+        "name": "Everlasting Lover",
+        "url": "https://open.spotify.com/album/3UmXBgnnclK4xEtkJYI14W"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Everlasting Lover",
+      "url": "https://open.spotify.com/track/2clp7xKK7Zaa2fdHQ8IVAV"
     },
     {
       "album": {
@@ -2694,6 +2734,32 @@
       "duration_ms": 164702,
       "name": "Halle",
       "url": "https://open.spotify.com/track/4GWt6P16WBQQFK4VXsPbX8"
+    },
+    {
+      "album": {
+        "name": "Halle",
+        "url": "https://open.spotify.com/album/6iMag6WolYLTNHYU2P8Mle"
+      },
+      "artists": [
+        {
+          "name": "Tevinnmusic",
+          "url": "https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB"
+        },
+        {
+          "name": "SOD MUSIQ",
+          "url": "https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY"
+        },
+        {
+          "name": "Jayclassic",
+          "url": "https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Halle",
+      "url": "https://open.spotify.com/track/2sXiwh0GsUlj6Cvbs0IpVJ"
     },
     {
       "album": {
@@ -3675,6 +3741,24 @@
     },
     {
       "album": {
+        "name": "Love N Affection",
+        "url": "https://open.spotify.com/album/732lY6LAYoQmjzRwHlqmh1"
+      },
+      "artists": [
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141262,
+      "name": "Love N Affection",
+      "url": "https://open.spotify.com/track/493qzSA0HnoeETKYxsvruk"
+    },
+    {
+      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7HYm3t0UoKBFI2n0xRIrUE"
       },
@@ -4050,7 +4134,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 374309,
       "name": "Miracles Are Happening - Live",
       "url": "https://open.spotify.com/track/1raBBLaxzvHiQL7IbFiCM9"
@@ -4104,7 +4188,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 171874,
       "name": "More Dearly",
       "url": "https://open.spotify.com/track/1rHlV075lP6ITJ8h5qS4Qt"
@@ -4700,7 +4784,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 185660,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/2wy1zSbwuM7fZFY8ZKrueJ"
@@ -5062,6 +5146,28 @@
       "duration_ms": 312980,
       "name": "Only You Satisfy",
       "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"
+    },
+    {
+      "album": {
+        "name": "Onyeoma",
+        "url": "https://open.spotify.com/album/4EzOBmRMcOfMLM6XqlaU4A"
+      },
+      "artists": [
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Onyeoma",
+      "url": "https://open.spotify.com/track/5NyAEi2WfqOc1MikRm3YSF"
     },
     {
       "album": {
@@ -5640,7 +5746,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 147599,
       "name": "Ridiculous",
       "url": "https://open.spotify.com/track/3J967S1DPNnUrUaS4bzcfh"
@@ -5886,6 +5992,28 @@
       "duration_ms": 139764,
       "name": "Say",
       "url": "https://open.spotify.com/track/5HXD6yjXXItBmHxXx1cCpc"
+    },
+    {
+      "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/259NTqeyuk7D0UUdJir5L6"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Claire Tahillah",
+          "url": "https://open.spotify.com/artist/3pvcDxrjlcsAX25m3nRQRl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175315,
+      "name": "Second Wind",
+      "url": "https://open.spotify.com/track/1K05Ph2s7acSkdOwa62Zrv"
     },
     {
       "album": {
@@ -6231,6 +6359,28 @@
     },
     {
       "album": {
+        "name": "Talitha Cumi",
+        "url": "https://open.spotify.com/album/6j8hQPOak7FiZOPnVtkgdX"
+      },
+      "artists": [
+        {
+          "name": "Moses Eze",
+          "url": "https://open.spotify.com/artist/4S4H6Q2AjmqM9tEIeFRbMm"
+        },
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223636,
+      "name": "Talitha Cumi",
+      "url": "https://open.spotify.com/track/6Baw9x5l0YMhpo1vEmUECh"
+    },
+    {
+      "album": {
         "name": "Ah Yami",
         "url": "https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy"
       },
@@ -6358,7 +6508,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 164210,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7"
@@ -6658,6 +6808,28 @@
       "duration_ms": 160239,
       "name": "THIS YEAR (Blessings) - Remix",
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
+    },
+    {
+      "album": {
+        "name": "Thuamatin",
+        "url": "https://open.spotify.com/album/3jqC8tzJyEbd48LDkFwjsP"
+      },
+      "artists": [
+        {
+          "name": "JoeKings",
+          "url": "https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR"
+        },
+        {
+          "name": "Temple",
+          "url": "https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Thuamatin",
+      "url": "https://open.spotify.com/track/6hBqoQYzaOpcWPDZo9K5TB"
     },
     {
       "album": {

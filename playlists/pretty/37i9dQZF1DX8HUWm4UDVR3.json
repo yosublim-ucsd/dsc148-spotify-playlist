@@ -1,95 +1,15 @@
 {
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Satine",
-  "num_followers": 38191,
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : RORI",
+  "num_followers": 38195,
   "original_name": "Couleur Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGI4AAAAABIrxcql9jlECS/Eq/NgMtM",
+  "snapshot_id": "ZxrDYAAAAACPeDlgtkaZpe+8s6OP2izV",
   "tracks": [
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "L'id\u00e9e de toi",
-        "url": "https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf"
-      },
-      "artists": [
-        {
-          "name": "Satine",
-          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
-        }
-      ],
-      "duration_ms": 122117,
-      "name": "L'id\u00e9e de toi",
-      "url": "https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Hyperactive",
-        "url": "https://open.spotify.com/album/344YOeLbhdA4H3VdHuJiDL"
-      },
-      "artists": [
-        {
-          "name": "Olivia Stone",
-          "url": "https://open.spotify.com/artist/4mMTY96feLo3gtXjxfL6KI"
-        }
-      ],
-      "duration_ms": 144667,
-      "name": "Hyperactive",
-      "url": "https://open.spotify.com/track/5hE51jiGMi0W2z2F1Ixvy9"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "ptn de bpm",
-        "url": "https://open.spotify.com/album/4pLUZiEUynP3kkzPXqZvYq"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
-        }
-      ],
-      "duration_ms": 159173,
-      "name": "ptn de bpm",
-      "url": "https://open.spotify.com/track/3anfyeUByPwQqQJA09N5qv"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Curriculum Vitae",
-        "url": "https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF"
-      },
-      "artists": [
-        {
-          "name": "Lancelot",
-          "url": "https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs"
-        }
-      ],
-      "duration_ms": 211255,
-      "name": "Madame",
-      "url": "https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "T'es pas sexy",
-        "url": "https://open.spotify.com/album/2zvv8XQSz2Mkc7PsP9ZDXw"
-      },
-      "artists": [
-        {
-          "name": "Mauvaise Bouche",
-          "url": "https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo"
-        }
-      ],
-      "duration_ms": 149080,
-      "name": "T'es pas sexy",
-      "url": "https://open.spotify.com/track/2mcCyO4TaJ6oblNZehxYzF"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Jalousie",
         "url": "https://open.spotify.com/album/66edblwvSbM907hRkXBXxO"
@@ -105,7 +25,87 @@
       "url": "https://open.spotify.com/track/2hgCNYw8TW4w073ByEBnGW"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Hyperactive",
+        "url": "https://open.spotify.com/album/344YOeLbhdA4H3VdHuJiDL"
+      },
+      "artists": [
+        {
+          "name": "Olivia Stone",
+          "url": "https://open.spotify.com/artist/4mMTY96feLo3gtXjxfL6KI"
+        }
+      ],
+      "duration_ms": 144667,
+      "name": "Hyperactive",
+      "url": "https://open.spotify.com/track/5hE51jiGMi0W2z2F1Ixvy9"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "ptn de bpm",
+        "url": "https://open.spotify.com/album/4pLUZiEUynP3kkzPXqZvYq"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "duration_ms": 159173,
+      "name": "ptn de bpm",
+      "url": "https://open.spotify.com/track/3anfyeUByPwQqQJA09N5qv"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Curriculum Vitae",
+        "url": "https://open.spotify.com/album/1dLy2Ga5RBZJXqx9pGVVbF"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs"
+        }
+      ],
+      "duration_ms": 211255,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/3jVyvWR2utzufpdw2ZoHkT"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "T'es pas sexy",
+        "url": "https://open.spotify.com/album/2zvv8XQSz2Mkc7PsP9ZDXw"
+      },
+      "artists": [
+        {
+          "name": "Mauvaise Bouche",
+          "url": "https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo"
+        }
+      ],
+      "duration_ms": 149080,
+      "name": "T'es pas sexy",
+      "url": "https://open.spotify.com/track/2mcCyO4TaJ6oblNZehxYzF"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "L'id\u00e9e de toi",
+        "url": "https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf"
+      },
+      "artists": [
+        {
+          "name": "Satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "duration_ms": 122117,
+      "name": "L'id\u00e9e de toi",
+      "url": "https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Cr\u00e8vecoeur (EP.I)",
         "url": "https://open.spotify.com/album/3Wfhc1AVsVNBIm6xH3OV9w"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/4cz2iE5LTbWykMKJ7m07XL"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Aliocha Schneider",
         "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "H24",
         "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "All\u00f4 Maman",
         "url": "https://open.spotify.com/album/6kVmOGyzXmxtydPABFdDgO"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/7tNd1NnEBszKvvq2u0o53f"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Pulsations tendres et violentes",
         "url": "https://open.spotify.com/album/4o9lDSTNgHl7awjtrJ2ocu"
@@ -193,23 +193,7 @@
       "url": "https://open.spotify.com/track/5R7dHttk73af39FRw0o9Vd"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Nique le champagne",
-        "url": "https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z"
-      },
-      "artists": [
-        {
-          "name": "Satine",
-          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
-        }
-      ],
-      "duration_ms": 144615,
-      "name": "Nique le champagne",
-      "url": "https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Les bonbons",
         "url": "https://open.spotify.com/album/6NAzRGJOPpOUs24BLpzdsI"
@@ -225,7 +209,23 @@
       "url": "https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Nique le champagne",
+        "url": "https://open.spotify.com/album/3aOAxYXLucWSIfUhdAdt3Z"
+      },
+      "artists": [
+        {
+          "name": "Satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "duration_ms": 144615,
+      "name": "Nique le champagne",
+      "url": "https://open.spotify.com/track/6ZmJ0qoGH9doeb9z8Ziyl9"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "CRASH C\u0152UR",
         "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/0O2eT2YAfna5HFTFz1ibKE"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Bad boy malheureux",
         "url": "https://open.spotify.com/album/0ICKCzueAH2mN4nCbUr1eD"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/2k97hRZibwZ37AqZK94hDN"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Rater une rupture pour les nuls",
         "url": "https://open.spotify.com/album/7rnvFhaTNyEvTrU9vzYotg"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/14u2iSpjGbeMKO4xBUBXMD"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Les Armes",
         "url": "https://open.spotify.com/album/7lWeyEno9C9MCDlOEFeGq1"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/2WEexWKjumCknzB41qU2UV"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Rester Pur.e",
         "url": "https://open.spotify.com/album/2b2JfK1MXqXW95DB7kexYp"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/553SFuQ2AzrnvsXI2f5VtH"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Dos \u00e0 dos",
         "url": "https://open.spotify.com/album/7ej2K36nBFm3LQJ0KhDk5V"
@@ -321,23 +321,7 @@
       "url": "https://open.spotify.com/track/3LbBdZRxB64YyATKxU9dnu"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "TOUT PERDU",
-        "url": "https://open.spotify.com/album/1E2lZ16kLL0r0db688qhuI"
-      },
-      "artists": [
-        {
-          "name": "Orlane",
-          "url": "https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF"
-        }
-      ],
-      "duration_ms": 165986,
-      "name": "TOUT PERDU",
-      "url": "https://open.spotify.com/track/1ChwhWgYzBfbRLevdFFFql"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "JSR",
         "url": "https://open.spotify.com/album/47sHlsJMsznaO1HqISEbs4"
@@ -353,7 +337,23 @@
       "url": "https://open.spotify.com/track/5ih6mWnWdN5G1HjeFw67Sj"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "TOUT PERDU",
+        "url": "https://open.spotify.com/album/1E2lZ16kLL0r0db688qhuI"
+      },
+      "artists": [
+        {
+          "name": "Orlane",
+          "url": "https://open.spotify.com/artist/1rdoaK2hCE8hLoOjKXSDNF"
+        }
+      ],
+      "duration_ms": 165986,
+      "name": "TOUT PERDU",
+      "url": "https://open.spotify.com/track/1ChwhWgYzBfbRLevdFFFql"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Haut les coeurs",
         "url": "https://open.spotify.com/album/4TfpdOT8R7jwpZbUwsKWkN"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/3AUFJBCkOtXq72YJoA7zut"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Mille morceaux",
         "url": "https://open.spotify.com/album/4DWdVyBWJzf6YKrtHKLTOD"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/1RL1DA4TEX4bWriUBuTqSf"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "30 ans",
         "url": "https://open.spotify.com/album/3CbHShF8YlQHLClqf27Oz1"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/5zS56FbnzjCkGtQhgFxjYB"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "boomerang",
         "url": "https://open.spotify.com/album/2TfKNF59cB0dW7z1glQeiY"
@@ -417,39 +417,7 @@
       "url": "https://open.spotify.com/track/1MDGRQiCy0bOIsh3wo2ReD"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Nuit d'hiver",
-        "url": "https://open.spotify.com/album/1sEQ4PyefTPD5JGaEBAPEH"
-      },
-      "artists": [
-        {
-          "name": "Princesse",
-          "url": "https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw"
-        }
-      ],
-      "duration_ms": 188998,
-      "name": "Nuit d'hiver",
-      "url": "https://open.spotify.com/track/7E7A4Bjp1W8RU1FnldFfEx"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/2PE9Pv9u514of30rXW3s4I"
-      },
-      "artists": [
-        {
-          "name": "Lord Esperanza",
-          "url": "https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN"
-        }
-      ],
-      "duration_ms": 150996,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/0rsQzwBrn9RrjEyjfNVvbb"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "99 Nights (Edition Deluxe)",
         "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
@@ -465,7 +433,39 @@
       "url": "https://open.spotify.com/track/3yhun6KOBDXbOscvC4FCiF"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Nuit d'hiver",
+        "url": "https://open.spotify.com/album/1sEQ4PyefTPD5JGaEBAPEH"
+      },
+      "artists": [
+        {
+          "name": "Princesse",
+          "url": "https://open.spotify.com/artist/6btazhSPWJjAUX7Qvk8CEw"
+        }
+      ],
+      "duration_ms": 188998,
+      "name": "Nuit d'hiver",
+      "url": "https://open.spotify.com/track/7E7A4Bjp1W8RU1FnldFfEx"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/2PE9Pv9u514of30rXW3s4I"
+      },
+      "artists": [
+        {
+          "name": "Lord Esperanza",
+          "url": "https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN"
+        }
+      ],
+      "duration_ms": 150996,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/0rsQzwBrn9RrjEyjfNVvbb"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "H\u00e9ro\u00efne",
         "url": "https://open.spotify.com/album/02l79HbBs95Zn1QiUau0On"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/1MWvuaca5jEoW7mw886I6h"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Les Extraordinaires Histoires d'Amour de St Graal",
         "url": "https://open.spotify.com/album/62JxbuSVRrQQy2MeqJNuXh"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/6yM7BqM060fqEvVN6ukugK"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Tant mieux",
         "url": "https://open.spotify.com/album/06pEfIyN7FWw5pMYmUMJoA"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/1BgR63pmy3zqwIibDPepuU"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Passe temps",
         "url": "https://open.spotify.com/album/5ABIkEsRQ99GUxSgBKk5ZR"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/31RrSOLsLYx9CsHlC11x5V"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Comme Will",
         "url": "https://open.spotify.com/album/2rmd0gLPanM23MgOrhoPAh"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/2HNDyfBNhMrX6BU1gC2zLP"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "La Bonne",
         "url": "https://open.spotify.com/album/1eidhPlH5ZrDoXMkKCtz2l"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/7uf5csCaX1FpfTdpySUjbK"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Pas de week-end \u00e0 Rome",
         "url": "https://open.spotify.com/album/3hVIRArhc4PV0hU5nD0J2p"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/5aiyAEJ2vvBI7mXw911glG"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Les histoires tristes me collent au corps",
         "url": "https://open.spotify.com/album/1An8Iq7N30VqKjuEmyPcJU"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/7L532sGPiyGrz1I9V0lhTK"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "J'assume",
         "url": "https://open.spotify.com/album/0DcCpwaaGTwPhKZTdiZp7u"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/3sEOZuQzFqsXGDY9Oh6AF3"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Le collectionneur",
         "url": "https://open.spotify.com/album/6D7C48WlnzUf3Hcjv9AgIL"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/4uHRGbSeUqHVxOZBaHRkAM"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "j'ai tout rang\u00e9...",
         "url": "https://open.spotify.com/album/3kvOWzmsHnZAwc9xJDTbKA"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/1uAxGjL6zMQrG3WH4kZqBd"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Gratte-ciel",
         "url": "https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Hollywood Boulevard",
         "url": "https://open.spotify.com/album/0j5otONxZQfmsOz1pVZ9jX"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/5JC29enMuSB0uAXhZTTu41"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Tu me plais",
         "url": "https://open.spotify.com/album/7psZewDZnQ8KU77x5zjNoV"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/2gXGAKs0YNFxl4Nsv62lWj"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Amertume",
         "url": "https://open.spotify.com/album/7q3XF5A9rc8IzGBSb6JUlX"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/5gq6AxT0hDXKkfjsupliAz"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Rem\u00e8de",
         "url": "https://open.spotify.com/album/72VmknY0m1lZLO4JWylzUI"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/63UVH4oV3GfD0yy3N1hxY8"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Ange",
         "url": "https://open.spotify.com/album/7E1zfjwFcZOTW31kS5jgYE"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/1axbD73aCHMmio2zbQOaRN"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "adr\u00e9naline",
         "url": "https://open.spotify.com/album/3HqL2VcIr2wVY0ifn3mEE4"
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/5IdqgPeVVFwjqlQyTaT52z"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Soleil (Rouge)",
         "url": "https://open.spotify.com/album/5u1eIgnQxqCaQIWuq1PbNC"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/2RAxX7vRZweXfEss35YTya"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Avant la fin de l'\u00e9t\u00e9",
         "url": "https://open.spotify.com/album/5IUukxrkXQzps5JU7AOqP0"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/1ZyraWusX0DqD6sW3tBI4d"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "Elle",
         "url": "https://open.spotify.com/album/4QKk0rsyMubYfOx3KHb5oi"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6"
     },
     {
-      "added_at": "2024-10-17 22:00:00",
+      "added_at": "2024-10-24 22:00:00",
       "album": {
         "name": "M\u00e9lancolie",
         "url": "https://open.spotify.com/album/1Md5rUEu50jUGKPatnGv1I"

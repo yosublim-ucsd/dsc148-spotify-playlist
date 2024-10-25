@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Emilia
+> The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Alejandro Sanz
 
-839 songs - 1 day 20 hr 50 min
+841 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/track/7LRpdP6rxYXPgh9dfjWEat) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Espina De Rosa \- Spotify Singles](https://open.spotify.com/album/7Hr9xc5g0bm0POgzqC1YHc) | 2:04 | 2022-10-27 | 2023-05-26 |
 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2023-04-14 | 2023-06-03 |
 | [Este Loko](https://open.spotify.com/track/75kntiN9imnekH6siBHc0x) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Este Loko](https://open.spotify.com/album/4V3FlnhiKbllFkqt9mxNnW) | 3:20 | 2022-02-02 | 2023-05-26 |
+| [Esto Se Jodió](https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Esto Se Jodió](https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY) | 2:39 | 2024-10-25 |  |
 | [está brillando la ciudad](https://open.spotify.com/track/6VFukssRvVuR8VFcDw2CLA) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK), [NEON16](https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8) | [está brillando la ciudad](https://open.spotify.com/album/2BTIl77asxdM9Ubm1C3N9B) | 3:05 | 2023-12-01 | 2024-07-03 |
 | [EVEREST](https://open.spotify.com/track/497xqIv6ndofwfQ65sfXPP) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [EVEREST](https://open.spotify.com/album/426nP0DkAy4SyJEO3UPgV3) | 2:12 | 2023-03-17 | 2023-06-01 |
 | [EXCESOS](https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:07 | 2023-10-20 |  |
@@ -579,6 +580,7 @@
 | [Pa'Onde Vamos \(feat\. Rayo Musica\)](https://open.spotify.com/track/5mOwvA7MywQmmXwNjdyoc9) | [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ), [David Tort](https://open.spotify.com/artist/7Mlrzwh665lRUOEV1ZWyWu), [Markem](https://open.spotify.com/artist/3VvZPymXIq8iBqakRqsTfE), [Rayo Musica](https://open.spotify.com/artist/3zvFWdnryOC5aUkN0XDbwz) | [Pa'Onde Vamos \(feat\. Rayo Musica\)](https://open.spotify.com/album/4WwmlVmdZpJrOi4bVawujz) | 3:07 | 2023-02-17 | 2023-06-01 |
 | [Pain Killer](https://open.spotify.com/track/3NNVwBkV8vxlKBAe2l8dJs) | [Poloo](https://open.spotify.com/artist/3YkiWrlonFPswrvoietLc7) | [Pain Killer](https://open.spotify.com/album/60S4LOa16FeOAJATl9tlTU) | 2:50 | 2023-06-01 | 2023-06-23 |
 | [PAKATA](https://open.spotify.com/track/59rRvUjxSrKnimSsg678f9) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [PAKATA](https://open.spotify.com/album/1DJ8Ix9b7yJhtrqus02M3w) | 2:56 | 2022-02-02 | 2023-05-26 |
+| [Palmeras en el jardín](https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Palmeras en el jardín](https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX) | 3:00 | 2024-10-25 |  |
 | [Palpita](https://open.spotify.com/track/7q5Ts16ekgrDJDL2S2QaJ0) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Palpita](https://open.spotify.com/album/603fRSffKcKusaqnmhXos5) | 2:31 | 2023-09-01 | 2024-07-03 |
 | [PANTIES Y BRASIERES](https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [PANTIES Y BRASIERES](https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf) | 3:17 | 2023-01-26 | 2023-06-01 |
 | [Para No Verte Más](https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Para No Verte Más](https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG) | 3:17 | 2023-03-02 | 2023-06-02 |

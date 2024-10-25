@@ -455,6 +455,32 @@
     },
     {
       "album": {
+        "name": "Assault",
+        "url": "https://open.spotify.com/album/5Bcvt4DnYTfJUrrq1aRvYt"
+      },
+      "artists": [
+        {
+          "name": "Manavgeet Gill",
+          "url": "https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl"
+        },
+        {
+          "name": "Kanji Porh",
+          "url": "https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt"
+        },
+        {
+          "name": "Sobit",
+          "url": "https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137608,
+      "name": "Assault",
+      "url": "https://open.spotify.com/track/373YKVi1jskf5VEOQLHe2y"
+    },
+    {
+      "album": {
         "name": "At The Afterparty",
         "url": "https://open.spotify.com/album/3XhhCe9VFT7Ai41MbdabBj"
       },
@@ -750,7 +776,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 196661,
       "name": "Bitches Come Bitches Go",
       "url": "https://open.spotify.com/track/2uGzPy406BZ1JadntKqZNh"
@@ -1198,7 +1224,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 137333,
       "name": "Daily Doze",
       "url": "https://open.spotify.com/track/13uUR5aEo8TkXCmBTzWcAM"
@@ -1282,6 +1308,24 @@
       "duration_ms": 123726,
       "name": "Das Kon",
       "url": "https://open.spotify.com/track/1AbiSrDcgzcgQTFWhjwbwm"
+    },
+    {
+      "album": {
+        "name": "Hustle N Flow",
+        "url": "https://open.spotify.com/album/1Dfofzn6G1OLp3ZKjz0oEr"
+      },
+      "artists": [
+        {
+          "name": "Mahi Musik",
+          "url": "https://open.spotify.com/artist/4C9FG0V4P9wGggesIigNCP"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/04wY6gPf3ACO9nxvpPuyE9"
     },
     {
       "album": {
@@ -1624,10 +1668,28 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 132000,
       "name": "Flex Talk",
       "url": "https://open.spotify.com/track/2J48PmzsSxcvfp9wPrGILu"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0VBmAkhVowYTZh11BKwOfz"
+      },
+      "artists": [
+        {
+          "name": "Lovkirat",
+          "url": "https://open.spotify.com/artist/6s6Jd98Ae1dheI7cotGo0o"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135464,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/7lBsNJXJrF9LntwZGtAVgm"
     },
     {
       "album": {
@@ -1840,6 +1902,24 @@
       "duration_ms": 190153,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
+    },
+    {
+      "album": {
+        "name": "Hustle N Flow",
+        "url": "https://open.spotify.com/album/1Dfofzn6G1OLp3ZKjz0oEr"
+      },
+      "artists": [
+        {
+          "name": "Mahi Musik",
+          "url": "https://open.spotify.com/artist/4C9FG0V4P9wGggesIigNCP"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "Glock",
+      "url": "https://open.spotify.com/track/3Tew8PRnaVMwIX1UERZK0L"
     },
     {
       "album": {
@@ -2606,7 +2686,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 118357,
       "name": "Legendary Freestyle",
       "url": "https://open.spotify.com/track/0AVNOaVtmev9Vgu5g7BgYR"
@@ -2834,6 +2914,24 @@
       "duration_ms": 170322,
       "name": "MAJHE AALE",
       "url": "https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov"
+    },
+    {
+      "album": {
+        "name": "Many Men",
+        "url": "https://open.spotify.com/album/4TK7lw6o6y7HXKLbepxn2L"
+      },
+      "artists": [
+        {
+          "name": "NseeB",
+          "url": "https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181140,
+      "name": "Many Men",
+      "url": "https://open.spotify.com/track/4z2V6jTd4VagqPexBQXPKA"
     },
     {
       "album": {
@@ -3866,7 +3964,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 136421,
       "name": "Scenario",
       "url": "https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol"
@@ -4001,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "Sifar Safar",
+        "url": "https://open.spotify.com/album/3QNOBqIMylNpZXZ8OtFoC2"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180344,
+      "name": "Sifar Safar",
+      "url": "https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx"
+    },
+    {
+      "album": {
         "name": "Careless Way",
         "url": "https://open.spotify.com/album/3mVvd2p4FsLvLRzbIeKhCR"
       },
@@ -4078,7 +4194,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 142978,
       "name": "Surrey Hood",
       "url": "https://open.spotify.com/track/46kktmX3vKQ4VDRnk8B4lN"

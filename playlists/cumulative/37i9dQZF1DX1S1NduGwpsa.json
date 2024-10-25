@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Ludivine Issambourg",
+  "description": "The best jazz new releases. Cover: Gregory Porter",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 281266,
       "name": "Celia",
       "url": "https://open.spotify.com/track/2xce6kP4q1FLWzOBs2NAJN"
@@ -3260,7 +3260,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 404162,
       "name": "Dumplings For Dinner",
       "url": "https://open.spotify.com/track/6IuI0BO2IDAIgpSaWMCERn"
@@ -5089,6 +5089,32 @@
     },
     {
       "album": {
+        "name": "Brightlight",
+        "url": "https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        },
+        {
+          "name": "Guy Moskovich",
+          "url": "https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246634,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/347Fpu96gIJPsNrAO2bj9g"
+    },
+    {
+      "album": {
         "name": "Timba a la Americana",
         "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
       },
@@ -5256,6 +5282,24 @@
       "duration_ms": 291693,
       "name": "I Cover the Waterfront",
       "url": "https://open.spotify.com/track/6gzE7AzP73YongOc8OU56N"
+    },
+    {
+      "album": {
+        "name": "I Don\u2019t Mind",
+        "url": "https://open.spotify.com/album/6QbmGqAoE5zgRf0SXcpu0d"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252240,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/0QsXt6buqw7bJHqhlEIF4h"
     },
     {
       "album": {
@@ -5994,7 +6038,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 298614,
       "name": "J.T.",
       "url": "https://open.spotify.com/track/2f8F9sQWO0HJMBCWtaCq5Q"
@@ -7962,7 +8006,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 201186,
       "name": "My Future",
       "url": "https://open.spotify.com/track/6U47K1QjLeN3lcaWVb48SQ"
@@ -9234,6 +9278,32 @@
       "duration_ms": 159715,
       "name": "Pink Panther",
       "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
+    },
+    {
+      "album": {
+        "name": "La Travers\u00e9e",
+        "url": "https://open.spotify.com/album/1RCwDHAsJWfQrWkAnmzaA8"
+      },
+      "artists": [
+        {
+          "name": "Gautier Garrigue",
+          "url": "https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO"
+        },
+        {
+          "name": "Vincent Le Quang",
+          "url": "https://open.spotify.com/artist/1OYTDlhZCQNaW3617FkdvY"
+        },
+        {
+          "name": "Emile Parisien",
+          "url": "https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494840,
+      "name": "Plage Du Troc",
+      "url": "https://open.spotify.com/track/3FyCAzvAF415wP8wQO0bbd"
     },
     {
       "album": {
@@ -10700,7 +10770,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 263649,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/5t9OXfSNOOc8F5JdO1OI6g"
@@ -12735,6 +12805,24 @@
     },
     {
       "album": {
+        "name": "We Have All The Time In The World (Cam Blackwood & Swindle Version)",
+        "url": "https://open.spotify.com/album/6qKI6X5pITMNVyQyxrvRhp"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196178,
+      "name": "We Have All The Time In The World - Cam Blackwood & Swindle Version",
+      "url": "https://open.spotify.com/track/3MYTlTdvrrsvRdFS06spdY"
+    },
+    {
+      "album": {
         "name": "We See",
         "url": "https://open.spotify.com/album/5oC7C15KIldHY8FAjw4NgW"
       },
@@ -12812,6 +12900,44 @@
       "duration_ms": 159386,
       "name": "West Coast Blues",
       "url": "https://open.spotify.com/track/0iwOlDvcknjVHDuOjMiDB1"
+    },
+    {
+      "album": {
+        "name": "What a Wonderful World",
+        "url": "https://open.spotify.com/album/6RGwaZntDOG1Gpbgj3sDng"
+      },
+      "artists": [
+        {
+          "name": "Bob Thiele",
+          "url": "https://open.spotify.com/artist/1wYPhZg9lFjhOWiCXd9023"
+        },
+        {
+          "name": "Kimberose",
+          "url": "https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL"
+        },
+        {
+          "name": "Pierre G\u00e9nisson",
+          "url": "https://open.spotify.com/artist/0tF4SmLJvn3gTurPM8TWC2"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        },
+        {
+          "name": "Beno\u00eet Dunoyer de Segonzac",
+          "url": "https://open.spotify.com/artist/3mbRNmlcVU32pfZmkA5tDN"
+        },
+        {
+          "name": "Fabrice Moreau",
+          "url": "https://open.spotify.com/artist/1Tj9jgsZ1tynAuVwXDh1Yo"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399120,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/0xa1ynYZnVIepICluJXPdr"
     },
     {
       "album": {

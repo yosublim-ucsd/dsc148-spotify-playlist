@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Diantara Kata",
+        "url": "https://open.spotify.com/album/1dgr7AUFb8kbP45M6dhpBe"
+      },
+      "artists": [
+        {
+          "name": "Syahravi",
+          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253331,
+      "name": "Diantara Kata",
+      "url": "https://open.spotify.com/track/4LnuU4KBYfy6Cg4CEJ23Pu"
+    },
+    {
+      "album": {
         "name": "Detik Waktu #2 : Perjalanan Karya Cipta Candra Darusman",
         "url": "https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB"
       },

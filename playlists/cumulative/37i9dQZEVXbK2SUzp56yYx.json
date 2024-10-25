@@ -3872,7 +3872,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 187842,
       "name": "Hypnodancer",
       "url": "https://open.spotify.com/track/7wnmLScYurZbketCXxyWBw"
@@ -9940,7 +9940,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 72352,
       "name": "X-TALI",
       "url": "https://open.spotify.com/track/6yIkBXij6NSjmRGRpQupqO"
@@ -13023,6 +13023,24 @@
     },
     {
       "album": {
+        "name": "\u041b\u044e\u0431\u044f\u0442 \u0441\u0443\u043a\u0438",
+        "url": "https://open.spotify.com/album/0UzC3UJeN8hjKypgYEgvyN"
+      },
+      "artists": [
+        {
+          "name": "T.A. Loc",
+          "url": "https://open.spotify.com/artist/4vfJAXPi7TumQoEJXWdENP"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246073,
+      "name": "\u041b\u044e\u0431\u044f\u0442 \u0441\u0443\u043a\u0438",
+      "url": "https://open.spotify.com/track/7iTyMRXGbIyGAprE9RMkGR"
+    },
+    {
+      "album": {
         "name": "\u041b\u0443\u0447\u0448\u0435\u0435",
         "url": "https://open.spotify.com/album/2DWXadKuYuBloK0UAnenIH"
       },
@@ -13034,7 +13052,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 246685,
       "name": "\u041b\u044e\u0431\u044f\u0442 \u0441\u0443\u043a\u0438",
       "url": "https://open.spotify.com/track/0wvKFdz3tEOoevKHXRPEV1"

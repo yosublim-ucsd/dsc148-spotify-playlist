@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "100 Bira",
+        "url": "https://open.spotify.com/album/03GEHmN4XYj9KVgZSHwPJk"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "100 Bira",
+      "url": "https://open.spotify.com/track/4t5PnkYhRBBuqtRaiy3mxV"
+    },
+    {
+      "album": {
         "name": "100 SHOTS",
         "url": "https://open.spotify.com/album/4YzGFWj75uBuBRHDtgy04f"
       },
@@ -7154,7 +7172,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 103500,
       "name": "FREAKS (VIP MIX)",
       "url": "https://open.spotify.com/track/22gcIJWHWYl06UG8J4bIqX"
@@ -8223,6 +8241,28 @@
     },
     {
       "album": {
+        "name": "F\u00d6R FULL",
+        "url": "https://open.spotify.com/album/46MIJcCQQDQQ33mlqv10oL"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        },
+        {
+          "name": "Bang\u00e5rden",
+          "url": "https://open.spotify.com/artist/4C21ZKaA4EX1PRXoNsAV7c"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "F\u00d6R FULL",
+      "url": "https://open.spotify.com/track/10K0ziLUpMBX8u5zvV2RDL"
+    },
+    {
+      "album": {
         "name": "F\u00f6rl\u00e5t",
         "url": "https://open.spotify.com/album/6E5iPzpkbM0anf7uylwdbr"
       },
@@ -8472,6 +8512,24 @@
       "duration_ms": 186080,
       "name": "Gaz",
       "url": "https://open.spotify.com/track/0Lg5AjgoXg3HchcYypa86h"
+    },
+    {
+      "album": {
+        "name": "GE DOM VAD DOM T\u00c5L",
+        "url": "https://open.spotify.com/album/3tlPDdgLz6mlWlvL9Lxd3w"
+      },
+      "artists": [
+        {
+          "name": "K\u00e5ren",
+          "url": "https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150391,
+      "name": "GE DOM VAD DOM T\u00c5L",
+      "url": "https://open.spotify.com/track/0gMpxKNQo8tCIcWcx9ihYi"
     },
     {
       "album": {
@@ -10551,6 +10609,24 @@
     },
     {
       "album": {
+        "name": "HOT SHOT",
+        "url": "https://open.spotify.com/album/0eEWGEISXFaRTUREX9p2pv"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "HOT SHOT",
+      "url": "https://open.spotify.com/track/1Ev1t3KFhZDYGb4tb8Wu5K"
+    },
+    {
+      "album": {
         "name": "House Party",
         "url": "https://open.spotify.com/album/5OVi0XkGbwNOKSTumWQ3yH"
       },
@@ -11802,7 +11878,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 174807,
       "name": "JAG KOMMER",
       "url": "https://open.spotify.com/track/0SIjGBXIKhJwB4f39SQMne"
@@ -13205,6 +13281,24 @@
     },
     {
       "album": {
+        "name": "LANDET RUNT",
+        "url": "https://open.spotify.com/album/5qWfiIGLT5bndg6HHJdnPE"
+      },
+      "artists": [
+        {
+          "name": "vem e du",
+          "url": "https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131412,
+      "name": "LANDET RUNT",
+      "url": "https://open.spotify.com/track/0iS1wFoFeZapLpdTgfHvXG"
+    },
+    {
+      "album": {
         "name": "Laserdunk",
         "url": "https://open.spotify.com/album/1be6ErU0VND611x5famMUr"
       },
@@ -13292,7 +13386,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 134226,
       "name": "LAVISH 2.0",
       "url": "https://open.spotify.com/track/6HhMBB9ALXKnRn6ZsVdIFD"
@@ -13746,6 +13840,28 @@
       "duration_ms": 163886,
       "name": "LIVET P\u00c5 EN PINNE",
       "url": "https://open.spotify.com/track/5fvrpWPEDhM6IDyKb56ySV"
+    },
+    {
+      "album": {
+        "name": "Ljuger jag f\u00f6r mig sj\u00e4lv igen?",
+        "url": "https://open.spotify.com/album/1ODJZ5v5iVTJsJ4VVrXUBC"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "DJ BERIT",
+          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135854,
+      "name": "Ljuger jag f\u00f6r mig sj\u00e4lv igen?",
+      "url": "https://open.spotify.com/track/3GNugq8Z47vv3t8M9WsfyC"
     },
     {
       "album": {
@@ -14594,7 +14710,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 113162,
       "name": "MIDSOMMARSOL",
       "url": "https://open.spotify.com/track/6gppqZzdAJHSjzCFsvYbjI"
@@ -16868,7 +16984,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 156750,
       "name": "PSYKOPAT",
       "url": "https://open.spotify.com/track/513HKBUyCIwv1zXOLmEYCM"
@@ -18304,6 +18420,28 @@
       "duration_ms": 126545,
       "name": "Ride Or Die - LIZOT Remix",
       "url": "https://open.spotify.com/track/15p0l0UpbazlOWtSfB4RyT"
+    },
+    {
+      "album": {
+        "name": "RIDER GENOM STORMEN",
+        "url": "https://open.spotify.com/album/1hsKA0teHPi3wzSbpmLiph"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148141,
+      "name": "RIDER GENOM STORMEN",
+      "url": "https://open.spotify.com/track/7HCbDvMjml1tPMPB4VqA67"
     },
     {
       "album": {
@@ -24132,7 +24270,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 156000,
       "name": "VAR SKA VI SOVA INATT",
       "url": "https://open.spotify.com/track/7A69TKqddxlN2XmJcEFG76"
@@ -24376,7 +24514,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 131142,
       "name": "VD",
       "url": "https://open.spotify.com/track/2n6diDbOJs2UGMYY4qKwV2"

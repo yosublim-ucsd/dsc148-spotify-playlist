@@ -1,6 +1,6 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 60408,
+  "num_followers": 60403,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Jesus At The Gay Bar",
-        "url": "https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K"
-      },
-      "artists": [
-        {
-          "name": "Cub Sport",
-          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
-        }
-      ],
-      "duration_ms": 207875,
-      "name": "Always Got The Love",
-      "url": "https://open.spotify.com/track/7b6qmu1okgI61UixU29UcK"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Asthma (Billy Lemos Remix)",
         "url": "https://open.spotify.com/album/6B6rU9XSET1u4U3pzeEXnn"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 123979,
       "name": "Asthma - Billy Lemos Remix",
       "url": "https://open.spotify.com/track/7CpGmUMgrTTldy5yuhd1Bh"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Jesus At The Gay Bar",
+        "url": "https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K"
+      },
+      "artists": [
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "duration_ms": 207875,
+      "name": "Always Got The Love",
+      "url": "https://open.spotify.com/track/7b6qmu1okgI61UixU29UcK"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Hurt This Bad",
         "url": "https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 172800,
       "name": "Hurt This Bad",
       "url": "https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1299,18 +1299,26 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "WEEKEND AT BERNIES",
-        "url": "https://open.spotify.com/album/5Iiwj7WkT0Kew0cdc0Daxa"
+        "name": "Those Tears",
+        "url": "https://open.spotify.com/album/6ZXS1NJdKgSnmspaQ69v8v"
       },
       "artists": [
         {
-          "name": "Jack Panther",
-          "url": "https://open.spotify.com/artist/2uSgBrZHrd1cZDZKZX0PDN"
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        },
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC"
         }
       ],
-      "duration_ms": 184040,
-      "name": "WEEKEND AT BERNIES",
-      "url": "https://open.spotify.com/track/34iAb7yWcKdHkWwm33k2Ip"
+      "duration_ms": 222676,
+      "name": "Those Tears",
+      "url": "https://open.spotify.com/track/3YH2FpulAMIsnJjUcFUL9T"
     }
   ],
   "unique_name": "Pool Party (2)",

@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Day",
+        "url": "https://open.spotify.com/album/3VkwNM1BM4nKHIUDTPokC9"
+      },
+      "artists": [
+        {
+          "name": "Retrophoria",
+          "url": "https://open.spotify.com/artist/0NkBsV2lsvsJJXOMx1zRgf"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222283,
+      "name": "Cosmic Day",
+      "url": "https://open.spotify.com/track/1s4xrw85W0VP1PVqShROPM"
+    },
+    {
+      "album": {
         "name": "Crystals",
         "url": "https://open.spotify.com/album/34mVTs9yworrS1TzaPXtZR"
       },

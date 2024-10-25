@@ -1809,6 +1809,32 @@
     },
     {
       "album": {
+        "name": "Find Somebody (feat. Nomsa & Julian King)",
+        "url": "https://open.spotify.com/album/61XcgAlOQrQ8vVyqFrEnhR"
+      },
+      "artists": [
+        {
+          "name": "Dr. Chaii",
+          "url": "https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og"
+        },
+        {
+          "name": "Nomsa",
+          "url": "https://open.spotify.com/artist/3Ma7L63asdT6qnDCvIWEsk"
+        },
+        {
+          "name": "Julian King",
+          "url": "https://open.spotify.com/artist/6iCQiGKKx504GNcMSVWvVj"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182148,
+      "name": "Find Somebody (feat. Nomsa & Julian King)",
+      "url": "https://open.spotify.com/track/6cifGAf11bXtiXPIhgs9bV"
+    },
+    {
+      "album": {
         "name": "JAPANESE AMAPIANO",
         "url": "https://open.spotify.com/album/1HWNAyuS01dk3hyspkwyyk"
       },

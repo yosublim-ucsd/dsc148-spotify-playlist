@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 293295,
       "name": "2000 Blacks Got to Be Free - Edit",
       "url": "https://open.spotify.com/track/6lI0dzCFeR86ijHg3SGSNP"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 475573,
       "name": "Best In Me - Manoo's Soulful Remix",
       "url": "https://open.spotify.com/track/4vNn81nN56geSqjsw0NZr3"
@@ -698,6 +698,28 @@
       "duration_ms": 266273,
       "name": "Bring Me Joy",
       "url": "https://open.spotify.com/track/6Divhr8qzx944oINsXthUM"
+    },
+    {
+      "album": {
+        "name": "Caged Bird",
+        "url": "https://open.spotify.com/album/13bwEpHK21z3HgizYgS9rA"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "NAE (SA)",
+          "url": "https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483543,
+      "name": "Caged Bird - Full Vocal Media Mix",
+      "url": "https://open.spotify.com/track/7kBi4WKREPySvKSkfbTnqx"
     },
     {
       "album": {
@@ -1098,7 +1120,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 530459,
       "name": "Crossroads - Vocal Mix",
       "url": "https://open.spotify.com/track/22PwkCs6NcnI2tW6IbaC3x"
@@ -1590,10 +1612,32 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 722920,
       "name": "Elle (Main Version)",
       "url": "https://open.spotify.com/track/3kh0d71fQj75IyeOhKDPlA"
+    },
+    {
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1QENZAuYIf0wAXwZrTBbKM"
+      },
+      "artists": [
+        {
+          "name": "DJ E-Clyps",
+          "url": "https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ"
+        },
+        {
+          "name": "Tasha LaRae",
+          "url": "https://open.spotify.com/artist/4yv33AoLdVc941YbA92CLZ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221991,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/0oa66icSKEwocNbRcGY52J"
     },
     {
       "album": {
@@ -1656,7 +1700,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 669373,
       "name": "Feelin Good - Danny \"Buddah\" Morales Edit",
       "url": "https://open.spotify.com/track/7yk8FvOQke3AcTFltnX6YI"
@@ -2001,6 +2045,50 @@
     },
     {
       "album": {
+        "name": "Free Me (Groove Assassin Remix)",
+        "url": "https://open.spotify.com/album/0xNn006mgw6WmaLIMB8ARp"
+      },
+      "artists": [
+        {
+          "name": "10th Street Assembly",
+          "url": "https://open.spotify.com/artist/4ZawuQwsrRF4sACSk3DkwT"
+        },
+        {
+          "name": "Groove Assassin",
+          "url": "https://open.spotify.com/artist/7lWkd9SSRnKJVd8E0mELLG"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232365,
+      "name": "Free Me - Groove Assassin Remix",
+      "url": "https://open.spotify.com/track/4eEYNJeaQNlKVVkJYtHxlO"
+    },
+    {
+      "album": {
+        "name": "Gabriel",
+        "url": "https://open.spotify.com/album/3yZcSjo5wlJ2CzIFYPtxbU"
+      },
+      "artists": [
+        {
+          "name": "Travis Emmons",
+          "url": "https://open.spotify.com/artist/1gQou2nfkVjww2lOEBTGLF"
+        },
+        {
+          "name": "Trice Be",
+          "url": "https://open.spotify.com/artist/04yg9GkPRs16El4FGBdFfT"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472258,
+      "name": "Gabriel",
+      "url": "https://open.spotify.com/track/79aDNSN85CmvaPCGkAsYOL"
+    },
+    {
+      "album": {
         "name": "Defenders of Justice",
         "url": "https://open.spotify.com/album/1b2ldZLK6wz09zyT70z6jB"
       },
@@ -2190,7 +2278,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 243512,
       "name": "Git On Up (feat. Mike Dunn & Josh Milan)",
       "url": "https://open.spotify.com/track/54pvawCSVkgwTt1Hj144hb"
@@ -2671,6 +2759,28 @@
     },
     {
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7aYMQBrftVJXq6GBIWJQqc"
+      },
+      "artists": [
+        {
+          "name": "Husky",
+          "url": "https://open.spotify.com/artist/1BQ5NhlyhxAO1CdRYGHmQe"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253489,
+      "name": "Hold Me - Husky's Beach Club Mix",
+      "url": "https://open.spotify.com/track/0idI34SkVcjqgiYz82jpuN"
+    },
+    {
+      "album": {
         "name": "Virgin Ubiquity: Remixed",
         "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
@@ -3068,7 +3178,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 229464,
       "name": "I Never Knew Love - Made In Detroit Mix",
       "url": "https://open.spotify.com/track/2PLQlE2zQKT3JfH3lWhIrz"
@@ -3288,7 +3398,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 419000,
       "name": "If She Only Knew",
       "url": "https://open.spotify.com/track/4uYEhYjwMCPCuqPbUz6MOm"
@@ -3361,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "Is It True?",
+        "url": "https://open.spotify.com/album/5Q5JOnIIrTSXPnWJXkF253"
+      },
+      "artists": [
+        {
+          "name": "Ernesto & The Basement Gospel",
+          "url": "https://open.spotify.com/artist/3ms98XTpJt0rXpOWPOfS6J"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210636,
+      "name": "Is It True? - Radio Mix",
+      "url": "https://open.spotify.com/track/2aRZSM2blNUnjoJOtwfvts"
+    },
+    {
+      "album": {
         "name": "It's Alright (Felix Dickinson Remix)",
         "url": "https://open.spotify.com/album/5TQkvWjd14kFdZMYJ15GJx"
       },
@@ -3405,6 +3533,28 @@
     },
     {
       "album": {
+        "name": "It's Getting Started",
+        "url": "https://open.spotify.com/album/4vTDwOuQBDewmFuyMiFlTL"
+      },
+      "artists": [
+        {
+          "name": "Seb Skalski",
+          "url": "https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253437,
+      "name": "It's Getting Started - House Mix",
+      "url": "https://open.spotify.com/track/0bVjATa9Koj6mQgGMcXAXr"
+    },
+    {
+      "album": {
         "name": "It's Over Now",
         "url": "https://open.spotify.com/album/2OTynXGD4thV4JRXfKpCPf"
       },
@@ -3446,6 +3596,28 @@
       "duration_ms": 182750,
       "name": "It's Quiet Now (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
+    },
+    {
+      "album": {
+        "name": "Secret World of Gravity",
+        "url": "https://open.spotify.com/album/07QIZoBtl9IQ6pHxBOI94V"
+      },
+      "artists": [
+        {
+          "name": "Timmy Regisford",
+          "url": "https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH"
+        },
+        {
+          "name": "Soul Jay",
+          "url": "https://open.spotify.com/artist/55l7Vl5OWzGX5aVEPM539i"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273003,
+      "name": "Jaiva",
+      "url": "https://open.spotify.com/track/0t354TlNr7mxHMFJQaXljc"
     },
     {
       "album": {
@@ -3688,6 +3860,28 @@
       "duration_ms": 449523,
       "name": "Let It Fall - Harlum Mix",
       "url": "https://open.spotify.com/track/3ZqgxQ8dBG11dQ5Khp9UvJ"
+    },
+    {
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/6muhgHXi8PjHQ9TnBt0Kkt"
+      },
+      "artists": [
+        {
+          "name": "Franck Roger",
+          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435714,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/4kg0OerpECR4Qbg0nfLfdN"
     },
     {
       "album": {
@@ -4545,6 +4739,28 @@
     },
     {
       "album": {
+        "name": "Hold On EP",
+        "url": "https://open.spotify.com/album/78z3FLSsENQHhil2sKsIDu"
+      },
+      "artists": [
+        {
+          "name": "Dav Risen",
+          "url": "https://open.spotify.com/artist/59e4uYrwNhVKQQd776qqjK"
+        },
+        {
+          "name": "Artwork Sounds",
+          "url": "https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356000,
+      "name": "No Greater Love",
+      "url": "https://open.spotify.com/track/3gLvGIs2WpksAAoVDSNEwO"
+    },
+    {
+      "album": {
         "name": "Nothing But Happiness",
         "url": "https://open.spotify.com/album/7hOKlaq1VW154vHsI6yYyh"
       },
@@ -4864,6 +5080,32 @@
       "duration_ms": 319060,
       "name": "Reach Up - Original Mix",
       "url": "https://open.spotify.com/track/7AB802Sv78ZnmkgfSj8YdN"
+    },
+    {
+      "album": {
+        "name": "Ready For This Moment (Terry Hunter Remixes)",
+        "url": "https://open.spotify.com/album/0t3CtRfmnYjxN8kvOW2guL"
+      },
+      "artists": [
+        {
+          "name": "Col Lawton",
+          "url": "https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm"
+        },
+        {
+          "name": "McLevit",
+          "url": "https://open.spotify.com/artist/2UOI02nQiAOpors9CDF638"
+        },
+        {
+          "name": "Terry Hunter",
+          "url": "https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376790,
+      "name": "Ready For The Moment - Terry Hunter Remix",
+      "url": "https://open.spotify.com/track/3y3zYtcKlhcH9LZn8JfCJe"
     },
     {
       "album": {
@@ -5366,7 +5608,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 642782,
       "name": "Swimming Places",
       "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
@@ -5606,7 +5848,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 538613,
       "name": "The Word Is Love - Silks Orginal Anthem Mix",
       "url": "https://open.spotify.com/track/1HrA0bW2Gv09RLqgdq6SWu"
@@ -5822,7 +6064,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 238000,
       "name": "Touch Me - Original Sugarsoul Mix",
       "url": "https://open.spotify.com/track/4P1gkpnK81Rqi4XrqE794Z"
@@ -6208,7 +6450,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 502764,
       "name": "What Would You Do? (feat. Andr\u00e9s & Amp Fiddler) - Two Soul Fusion Extended Remix",
       "url": "https://open.spotify.com/track/3FveN91PgDsWiyVg0wZ4TN"
@@ -6281,6 +6523,24 @@
     },
     {
       "album": {
+        "name": "With You (Reelsoul Remix)",
+        "url": "https://open.spotify.com/album/3KKp3nTEymGNRRVvKFfOpQ"
+      },
+      "artists": [
+        {
+          "name": "Terry Dexter",
+          "url": "https://open.spotify.com/artist/0tcTyQkSJfYkSk8cZPEZxj"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425806,
+      "name": "With You - Reelsoul Vocal Mix",
+      "url": "https://open.spotify.com/track/7lbTtimsikR5aIYNsCBc2m"
+    },
+    {
+      "album": {
         "name": "Voices & Visions",
         "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
@@ -6296,7 +6556,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 419400,
       "name": "Wizeman (feat. Imaani)",
       "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
@@ -6362,6 +6622,32 @@
       "duration_ms": 208906,
       "name": "You Bring Joy - Radio Edit",
       "url": "https://open.spotify.com/track/10z9yFjjary6BlvgFaujhP"
+    },
+    {
+      "album": {
+        "name": "You Can Win",
+        "url": "https://open.spotify.com/album/7y5iApVpQcZsQhxl3lpBf1"
+      },
+      "artists": [
+        {
+          "name": "Earful Soul",
+          "url": "https://open.spotify.com/artist/4WTiFRg9jNDg6oW97e9wq2"
+        },
+        {
+          "name": "Poizen",
+          "url": "https://open.spotify.com/artist/0HVGgDfCRnKEfeGpRzxNvC"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431495,
+      "name": "You Can Win",
+      "url": "https://open.spotify.com/track/2OxjkBtBAwF3QBVEIlOLwR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-1,794 songs - 4 day 0 hr 15 min
+1,797 songs - 4 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Can't Get You Outta My Head](https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Can't Get You Outta My Head](https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ) | 2:36 | 2024-04-09 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6DYf6xNgm9ICquH8W0bd8I) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Nicole Alexa Choo](https://open.spotify.com/artist/5XSnwCQ3t9cTAg5BqchS4W) | [Can't Help Falling In Love](https://open.spotify.com/album/3auD6CFKlMPcCZtL1Szvhk) | 4:00 | 2023-02-13 |  |
 | [Can't Stop Raving \[feat\. TEA & DJ Noriken\] \- DJ Noriken Remix](https://open.spotify.com/track/6wAOwFCsmHrhNYEIsWMiig) | [KO3](https://open.spotify.com/artist/1ioBfZldZvVAcqD3KXXTXy), [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK), [tea](https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4), [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [N+CODE](https://open.spotify.com/album/7nybmeSPmHySV7jC2Y4Bnx) | 5:46 | 2024-01-27 |  |
+| [CAN'T STOP WON'T STOP](https://open.spotify.com/track/5RryqMI5aokTEdcrFEjAMQ) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [CAN'T STOP WON'T STOP](https://open.spotify.com/album/5T9esNqz99018bZFPrdMNV) | 2:42 | 2024-10-24 |  |
 | [Can't Tame Her](https://open.spotify.com/track/00avYRBBsOUEig7VNdNMbP) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [YEGDEG](https://open.spotify.com/artist/4aotXG6ar08mkSPcyUwxtp), [24/7 Hardcore](https://open.spotify.com/artist/13HaJU1EgDEuPrJO6XgiFu) | [Can't Tame Her EP](https://open.spotify.com/album/5I6AUcEoCRh4VPtkGUFg7h) | 3:12 | 2024-06-04 |  |
 | [Cancel Cultuur \- S\-Kill Remix](https://open.spotify.com/track/2rQJcSftMJQkvxSslNEm55) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [Nigel Sean](https://open.spotify.com/artist/4INB4fkjhrcvgOrhkNtaxT), [Storm Verhage](https://open.spotify.com/artist/3ZkOcWVKmyPV0jE4UZ7Xjs) | [Cancel Cultuur \(S\-Kill Remix\)](https://open.spotify.com/album/2PenPBhiMhigiHDtXGcpZh) | 2:12 | 2024-03-08 |  |
 | [Caramelldansen](https://open.spotify.com/track/1v7aZHBUwKxeCgmpe6fVUH) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [DJ BERIT](https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI) | [Caramelldansen](https://open.spotify.com/album/1T0okEHDf6UivFaFTD4ciY) | 2:02 | 2023-10-20 |  |
@@ -603,6 +604,7 @@
 | [FRANKENSTEIN](https://open.spotify.com/track/61btrLgdpdtxaebtu9I3l0) | [ALBINO](https://open.spotify.com/artist/0ZEaOlMqKyqXsHuLl3Su9b) | [FRANKENSTEIN](https://open.spotify.com/album/49UPiJnKecReg8fpQpKejO) | 4:01 | 2024-10-11 |  |
 | [FREAK](https://open.spotify.com/track/0kuqEsTBch85rvpl48SgmZ) | [Malok](https://open.spotify.com/artist/4NQLpIqkmTLrI16VEM1WEY) | [FREAK](https://open.spotify.com/album/0l2JDEEbBviDh8mKEEJIl5) | 2:13 | 2024-08-06 |  |
 | [Freaks](https://open.spotify.com/track/5ar09Jwqg3MwPpAip6WaBk) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Freaks](https://open.spotify.com/album/1qsunA2Wk6W5M3IMnuyS3a) | 3:52 | 2022-09-06 |  |
+| [FREAKSHOW](https://open.spotify.com/track/1dm2RSzrFVDBgQDvJFBBZl) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [FREAKSHOW](https://open.spotify.com/album/6XDI0v0mfddr3Pr2vQdZD6) | 2:42 | 2024-10-24 |  |
 | [Freaky Boy](https://open.spotify.com/track/0tole2T6k9IZQOrHYXUJjX) | [Ender](https://open.spotify.com/artist/4dm7VRRO7tspAt2XuwEMNw) | [Freaky Boy](https://open.spotify.com/album/3VX183SSIxltAqqIZv34IA) | 2:37 | 2024-05-03 |  |
 | [Free To Fly](https://open.spotify.com/track/4atzHpbNPrr1fheYMoF2VX) | [Jade Key](https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb), [Charmae](https://open.spotify.com/artist/6YwsIfJahtVO1AUlVumEs8) | [Free To Fly](https://open.spotify.com/album/5ZKF5IHJdvfZnucWmk906y) | 3:16 | 2022-02-14 |  |
 | [FREE YOUR MIND](https://open.spotify.com/track/0w7JbHxSw9d665gSID8Iwy) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [FREE YOUR MIND](https://open.spotify.com/album/35H7GvoK81gzlkSIcfIRyC) | 3:19 | 2023-03-21 |  |
@@ -1787,6 +1789,7 @@
 | [You Ain't Telling Me Shit](https://open.spotify.com/track/3eccAxEJG48KjYCT1rqBUC) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [You Ain't Telling Me Shit](https://open.spotify.com/album/1kWRE5YZW0onMi01j5M2da) | 2:54 | 2022-09-14 |  |
 | [YOU AND I](https://open.spotify.com/track/4l5bnfhYrJiN5a6foPvR0m) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [RAVE LOVE](https://open.spotify.com/album/0jR0Be5fQFR88vVUDBahWs) | 2:49 | 2023-04-16 |  |
 | [YOU AND I](https://open.spotify.com/track/3CmZLArSdppIyTGQiQkZjX) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [YOU AND I](https://open.spotify.com/album/0Cl6QUemj8zkcm1oLdstuf) | 3:14 | 2024-09-15 |  |
+| [YOU AND I \- RAVE LOVE LIVE EDIT](https://open.spotify.com/track/1cS93RYSTrNOgrxiFINgDZ) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [RAVE LOVE PT.2](https://open.spotify.com/album/3p3wFoUkTRpFah1PqWWfTK) | 2:51 | 2024-10-25 |  |
 | [You Are Mine](https://open.spotify.com/track/20szXJYQkLyuYRFkP0fWuG) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [You Are Mine](https://open.spotify.com/album/3y5GWG3zwX6mqybmEOUZJY) | 4:06 | 2023-09-22 |  |
 | [You Are Mine \- Illuszion Remix](https://open.spotify.com/track/1Mz2Vm4sgKEOb7PJjNYLy2) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [illuszion](https://open.spotify.com/artist/1SxMLa74v5XKzGwdxWNhgp) | [You Are Mine \(Illuszion Remix\)](https://open.spotify.com/album/568NOj3iqG15twFjO88p88) | 2:34 | 2023-07-14 |  |
 | [You Can't See](https://open.spotify.com/track/5Tj5sDDsR87XVuaiikHW3q) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa) | [You Can't See](https://open.spotify.com/album/2ZQTb4VFMoElqmzHbPLycj) | 4:01 | 2023-03-31 |  |

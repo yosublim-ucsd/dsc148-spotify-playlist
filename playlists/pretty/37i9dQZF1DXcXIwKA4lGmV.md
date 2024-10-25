@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXIwKA4lGmV.md) - [plain]
 
 > Songs all about cleaning up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,204 likes - 33 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,206 likes - 33 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Clean Up](https://open.spotify.com/track/1D33HYMtMhZ9KvBdgOHZEU) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Start Singing with Barney](https://open.spotify.com/album/3AxlaORIaUzvFupsxC06yh) | 0:33 |
+| 1 | [Clean Up](https://open.spotify.com/track/1D33HYMtMhZ9KvBdgOHZEU) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Start Singing with Barney](https://open.spotify.com/album/3AxlaORIaUzvFupsxC06yh) | 0:33 |
 | 2 | [Cleanup Song](https://open.spotify.com/track/6MDIYpxszXLSjzXSttR83O) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [We Did It! Dora's Greatest Hits](https://open.spotify.com/album/2PsQyBDm80E6A8fypVFRpE) | 1:08 |
 | 3 | [Oh My Goodness, Look At This Mess!](https://open.spotify.com/track/0f9SOXX5YZr7NEMIjlIrWl) | [Sweet Honey In The Rock](https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA) | [Still The Same Me](https://open.spotify.com/album/1i33KQ49Ns9MCvkLHpGOvP) | 3:19 |
 | 4 | [Clean Up!](https://open.spotify.com/track/5DmFTIXDKISut46X50RJWX) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Classroom Songs](https://open.spotify.com/album/2Nrljq7rYGd2SvyRplYnfA) | 1:33 |

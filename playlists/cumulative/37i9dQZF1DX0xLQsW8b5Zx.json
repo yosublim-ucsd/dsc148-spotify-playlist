@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 200146,
       "name": "Rockabilly Blues (Texas 1955)",
       "url": "https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum"
@@ -3448,6 +3448,24 @@
       "duration_ms": 136560,
       "name": "That'll Be The Day",
       "url": "https://open.spotify.com/track/5Y9RqvAKUyLfEPWCjAqjsO"
+    },
+    {
+      "album": {
+        "name": "Rockabilly Classics",
+        "url": "https://open.spotify.com/album/57iN9SJYBZ7CkbVYATSDLG"
+      },
+      "artists": [
+        {
+          "name": "Sanford Clark",
+          "url": "https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/4DGWTmh53h5Qm68FboVSMF"
     },
     {
       "album": {

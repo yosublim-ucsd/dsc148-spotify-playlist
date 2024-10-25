@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: JADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,029 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,098 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 38 | [Midnight Cowboy](https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Midnight Cowboy](https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral) | 3:31 |
 | 39 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 |
 | 40 | [Loud](https://open.spotify.com/track/7J73DwQWOPFVhxcCzxNzCj) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration \(Deluxe\)](https://open.spotify.com/album/2SclrCGehY3IuaVhp3MJpP) | 2:19 |
-| 41 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/1M8QOfzsZofinnJNrgnYhh) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 |
+| 41 | [You Go Your Way](https://open.spotify.com/track/35jE2icc2pV4QDgbJiYMUe) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [You Go Your Way](https://open.spotify.com/album/5TfDNyXTjan0eZhELfj1jx) | 3:54 |
 | 42 | [Alias](https://open.spotify.com/track/6YI3WUU7YmDs8OnLBp77wS) | [NEEA RIVER](https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw) | [Alias](https://open.spotify.com/album/1qylSFIrvQHWzKJl9ac6Do) | 2:46 |
 | 43 | [Dirty Pleasures \(feat\. Jake Shears\)](https://open.spotify.com/track/3uxsluuL27pxNO2PQz1phW) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Paradise](https://open.spotify.com/album/1jWcipGHDLJ94RMB2XUhgK) | 5:32 |
 | 44 | [No Comma](https://open.spotify.com/track/33Wh5qaiRVWuVIDnGGNlHh) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [No Comma](https://open.spotify.com/album/1OXQGYsWEZSYN3G3EYgqG4) | 2:41 |

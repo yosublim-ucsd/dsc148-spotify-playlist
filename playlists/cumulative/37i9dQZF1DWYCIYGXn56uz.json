@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Il Tre",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: CLARA",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 142615,
       "name": "30\u00baC",
       "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 167338,
       "name": "ESTATE 80",
       "url": "https://open.spotify.com/track/5QJ2FsEt4kvkEbGW37L1VO"
@@ -3216,6 +3216,24 @@
       "duration_ms": 170400,
       "name": "FINO ALLE 6",
       "url": "https://open.spotify.com/track/3tXM57Khcgj7Az8sW7pWnA"
+    },
+    {
+      "album": {
+        "name": "Finta Nostalgia",
+        "url": "https://open.spotify.com/album/3gK3RvsiYudYqt8s2YujEg"
+      },
+      "artists": [
+        {
+          "name": "Matteo Romano",
+          "url": "https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190645,
+      "name": "Finta Nostalgia",
+      "url": "https://open.spotify.com/track/0HgYbQTaAgxC3M2JlBR2Rn"
     },
     {
       "album": {
@@ -3906,7 +3924,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 188785,
       "name": "HO VOGLIA DI TE",
       "url": "https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp"
@@ -4178,6 +4196,24 @@
       "duration_ms": 174084,
       "name": "IL TUO NOME",
       "url": "https://open.spotify.com/track/06EPMnqTKs55qGoprXYAxz"
+    },
+    {
+      "album": {
+        "name": "il tuo posto nel mondo",
+        "url": "https://open.spotify.com/album/3wIz0ZCssynXC1vsYCuqGj"
+      },
+      "artists": [
+        {
+          "name": "Loomy",
+          "url": "https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183448,
+      "name": "il tuo posto nel mondo",
+      "url": "https://open.spotify.com/track/6Bkk58VWPVoPMxBG7VFS49"
     },
     {
       "album": {
@@ -5289,6 +5325,24 @@
     },
     {
       "album": {
+        "name": "Megapixel - URANO",
+        "url": "https://open.spotify.com/album/4nvmZ5EqjvSBiurFRFOSOl"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Aloia",
+          "url": "https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170640,
+      "name": "Megapixel - URANO",
+      "url": "https://open.spotify.com/track/1lA9F7QGuekEPyZlPZbAo7"
+    },
+    {
+      "album": {
         "name": "melodrama",
         "url": "https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd"
       },
@@ -5300,7 +5354,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 147053,
       "name": "melodrama",
       "url": "https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C"
@@ -5340,7 +5394,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 173842,
       "name": "Menomale che c'\u00e8 il mare",
       "url": "https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU"
@@ -5600,7 +5654,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 173416,
       "name": "Mille Notti",
       "url": "https://open.spotify.com/track/0Jp5rqBHsyyAtNrjCodjDj"
@@ -5876,6 +5930,28 @@
       "duration_ms": 166214,
       "name": "Niente da perdere",
       "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
+    },
+    {
+      "album": {
+        "name": "TUTTA VITA",
+        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201022,
+      "name": "Noi che",
+      "url": "https://open.spotify.com/track/7zbqvufSc2prIsfU1DbV1J"
     },
     {
       "album": {
@@ -6428,6 +6504,32 @@
       "duration_ms": 195000,
       "name": "Ogni Volta Che Ti Penso",
       "url": "https://open.spotify.com/track/7rOLgYuO5vBxVCWITRTJyP"
+    },
+    {
+      "album": {
+        "name": "OLVIDAR",
+        "url": "https://open.spotify.com/album/01lDydLrjpaQc1PvoAsOk8"
+      },
+      "artists": [
+        {
+          "name": "Pepe",
+          "url": "https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE"
+        },
+        {
+          "name": "Keynoise",
+          "url": "https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL"
+        },
+        {
+          "name": "Lemonero",
+          "url": "https://open.spotify.com/artist/4a5pL9uZ7FEDK2MlCEoLd0"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "OLVIDAR",
+      "url": "https://open.spotify.com/track/4TM9hQYnxaP99LBGgpx4DZ"
     },
     {
       "album": {
@@ -7072,7 +7174,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 157090,
       "name": "PILLS",
       "url": "https://open.spotify.com/track/2L95Nk8SGXzP26qBqhVJ5F"
@@ -7232,7 +7334,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 196535,
       "name": "Poteva piovere",
       "url": "https://open.spotify.com/track/5V8uyik5T6uzBEuVfqsAPc"
@@ -7477,6 +7579,28 @@
     },
     {
       "album": {
+        "name": "TUTTA VITA",
+        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180856,
+      "name": "Quei ricordi l\u00e0",
+      "url": "https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ"
+    },
+    {
+      "album": {
         "name": "Radar",
         "url": "https://open.spotify.com/album/6DT9PVf7rJdfv91IO4n6cJ"
       },
@@ -7582,7 +7706,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 151800,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/329qNAEH6BYfCFC62j158Z"
@@ -8074,6 +8198,24 @@
       "duration_ms": 135384,
       "name": "SEI NELL'ARIA",
       "url": "https://open.spotify.com/track/2klE3JOlRzSvvbf61r064C"
+    },
+    {
+      "album": {
+        "name": "SEMPRE LA STESSA STORIA",
+        "url": "https://open.spotify.com/album/6bwPjNrhhIQPKjZ7enMKSo"
+      },
+      "artists": [
+        {
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/05kigUQCchmbJDmhDiYiS0"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155363,
+      "name": "SEMPRE LA STESSA STORIA",
+      "url": "https://open.spotify.com/track/0LiFSV7rfijFu8O7JztShL"
     },
     {
       "album": {
@@ -9130,7 +9272,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 186640,
       "name": "Tornami addosso (Eccoti)",
       "url": "https://open.spotify.com/track/66VL2v7M9qVqZlmf4WVloP"
@@ -9424,7 +9566,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 155482,
       "name": "Ultimo addio",
       "url": "https://open.spotify.com/track/4E6p6inBpalGEPkxQAFBy2"
@@ -10116,7 +10258,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 132571,
       "name": "Wemmino",
       "url": "https://open.spotify.com/track/0S2cH6G7ZMu2Ru5y7HWRHR"

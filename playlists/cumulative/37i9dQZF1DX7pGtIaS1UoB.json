@@ -3093,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "\u5982\u679c\u6708\u4eae\u6703\u8aaa\u8a71",
+        "url": "https://open.spotify.com/album/14Obw8mKb6Ko18PDc9Tkaz"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Wang",
+          "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182150,
+      "name": "\u5982\u679c\u6708\u4eae\u4f1a\u8bf4\u8bdd",
+      "url": "https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp"
+    },
+    {
+      "album": {
         "name": "\u59b3\u770b\u9019\u662f\u6211\u7684\u5973\u670b\u53cb",
         "url": "https://open.spotify.com/album/6586J9hr3zPm1I1jo8yFiP"
       },
@@ -4896,7 +4914,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 199001,
       "name": "\u66fc\u714e\u7cd5",
       "url": "https://open.spotify.com/track/5sllnFvJeEIi6Nahng3FBX"

@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-78 songs - 3 hr 59 min
+79 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Loose 90](https://open.spotify.com/track/5PzKdQgLZQcDgEGY8RxDbb) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Singles Eight](https://open.spotify.com/album/0uNQfrzNbhWEtIdcpM5Qrb) | 2:12 | 2024-06-24 |  |
 | [low tide.](https://open.spotify.com/track/1SMgKIJA4UfYkxGC8LnHTD) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [low tide.](https://open.spotify.com/album/53eMXtGFXbZL6iVfKV9HL6) | 1:52 | 2024-06-26 |  |
 | [Made Man \- Instrumental](https://open.spotify.com/track/2ElHYDWjYh9eKM7EQHB3SV) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [NY's Finest \(Instrumentals\)](https://open.spotify.com/album/31VK3KHWIzRvFF53trFJTr) | 4:12 | 2024-06-24 |  |
-| [Masta I.C.](https://open.spotify.com/track/3XmgQMloJfa6mhCi4D2tBn) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE), [Royal Flush](https://open.spotify.com/artist/4ihZJgEVoshKe606OAK4xE) | [The Natural](https://open.spotify.com/album/6H6rN4w9PdLZrI9Wql5qUC) | 5:50 | 2024-06-24 |  |
+| [Masta I.C.](https://open.spotify.com/track/3XmgQMloJfa6mhCi4D2tBn) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE), [Royal Flush](https://open.spotify.com/artist/4ihZJgEVoshKe606OAK4xE) | [The Natural](https://open.spotify.com/album/6H6rN4w9PdLZrI9Wql5qUC) | 5:50 | 2024-06-24 | 2024-10-25 |
+| [Masta I.C\. \(Instrumental\)](https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE) | [Masta I.C\. \- EP](https://open.spotify.com/album/4nx15DvzObukboid8HIkHX) | 4:17 | 2024-10-24 |  |
 | [McCoy](https://open.spotify.com/track/2go8ClPo7rUZiVwTYjslUO) | [Swans of London](https://open.spotify.com/artist/6dxwRzHWBjutEenT5gV6L8) | [In Rainbows](https://open.spotify.com/album/2WPUYjAwgoEHaHJvBARs2O) | 3:43 | 2024-06-24 |  |
 | [Meteora](https://open.spotify.com/track/40TYtRpNh71p9XOZGuZMKG) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Meteora](https://open.spotify.com/album/5V4S34m3yD3KGoiTEzrKmu) | 2:18 | 2024-06-24 |  |
 | [Midnight Conversation](https://open.spotify.com/track/6Nmf2Y6jMrFBRzLZLlweYk) | [Bloodmasta Cut](https://open.spotify.com/artist/2rh01sSbOkGqeTUDKunM25), [Chihuahua Hill Records](https://open.spotify.com/artist/59yqsATafBhdCjqickKMzf) | [Midnight Conversation](https://open.spotify.com/album/0FqxV2DNQGekOTO5ScARG1) | 2:12 | 2024-06-24 |  |

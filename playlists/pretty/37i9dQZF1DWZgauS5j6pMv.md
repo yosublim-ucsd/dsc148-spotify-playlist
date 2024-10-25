@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: MonoNeon
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,682 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,768 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 39 | [Live It Up](https://open.spotify.com/track/2vQba2IJ5M9PDtY8qJ4KSb) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Live It Up](https://open.spotify.com/album/13b4XCQdlFs1V38vEVsxlI) | 2:40 |
 | 40 | [LOVEなシーン](https://open.spotify.com/track/4estL78KTBFufDAXcqwCO6) | [Seiya Matsumuro](https://open.spotify.com/artist/6iGygjPmoB9TLSjhWHhdqQ), [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [LOVEなシーン](https://open.spotify.com/album/0ZDyXn23bL5gr9DnGev03Z) | 5:19 |
 | 41 | [STEP BY STEP](https://open.spotify.com/track/0IORRm54p9PaFUejiXdjxB) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [STEP BY STEP](https://open.spotify.com/album/76ZPln9Fip9hBnvs0Z7xal) | 3:29 |
-| 42 | [Album of the Year \#1 Funkateer](https://open.spotify.com/track/7DzAcPjNMTXjygZixhmTZy) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Bootdullivan](https://open.spotify.com/artist/2BJ9wQSxjoHLm4jjeR3goW), [Myra Washington](https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho) | [Album of the Year \#1 Funkateer](https://open.spotify.com/album/6JWmvgSevSOBTuUtUmSJqK) | 4:15 |
+| 42 | [Album of the Year \#1 Funkateer](https://open.spotify.com/track/7DzAcPjNMTXjygZixhmTZy) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [Bootdullivan](https://open.spotify.com/artist/2BJ9wQSxjoHLm4jjeR3goW), [Myra Washington](https://open.spotify.com/artist/4ajqCfjC2IXQds6NlmKQVp) | [Album of the Year \#1 Funkateer](https://open.spotify.com/album/6JWmvgSevSOBTuUtUmSJqK) | 4:15 |
 | 43 | [Hit Man](https://open.spotify.com/track/72w7lsGmb61HaFkXahpwGo) | [Jackson Breit](https://open.spotify.com/artist/4Y6wyjvVZtxzzXILoDEulZ) | [Hit Man](https://open.spotify.com/album/1gfzAzi7KZOpVd5RVmW65M) | 4:00 |
 | 44 | [This Must Be The Place](https://open.spotify.com/track/0recPimKvrGzvi3Fr6x1fj) | [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv) | [Touch My Soul](https://open.spotify.com/album/08N9IgrPVylNF3EANm2M2p) | 4:58 |
 | 45 | [Tell Me](https://open.spotify.com/track/4RqGyEEl4UdiecuoPy8FGk) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6), [The Honeynut Horns](https://open.spotify.com/artist/2REx34XFbTKj0O7I36qWUd) | [Tell Me](https://open.spotify.com/album/7eMYlCwVwGdQJG9SxkNgyr) | 3:39 |

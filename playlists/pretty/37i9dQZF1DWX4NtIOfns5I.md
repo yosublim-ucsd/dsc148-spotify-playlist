@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > someone who'll love me the way that I am 💭
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,626 likes - 107 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,777 likes - 107 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

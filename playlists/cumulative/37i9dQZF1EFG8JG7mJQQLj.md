@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-497 songs - 1 day 4 hr 34 min
+498 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Don't Look Down](https://open.spotify.com/track/3cA7Xne5Zp9HEo69oOqLMc) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 1:37 | 2024-01-29 |  |
 | [Don't Stay](https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT) | 3:09 | 2024-02-01 |  |
 | [Don't Stay](https://open.spotify.com/track/6bAg2UMsWtNB9lc7riAjHK) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Don’t Stay](https://open.spotify.com/album/6vQFNDMeMUQJJ8SVgm35MZ) | 3:38 | 2024-01-29 | 2024-02-02 |
+| [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 | 2024-10-24 |  |
 | [Dope \(feat\. JID\)](https://open.spotify.com/track/3VEL2iEZ8udM0evRe3Bj2u) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:38 | 2024-01-29 |  |
 | [Dream](https://open.spotify.com/track/7kAykEQsPsC67ML8qQmOSW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:31 | 2024-01-29 |  |
 | [DRIP](https://open.spotify.com/track/1Yf7Iq8YpgY0zfzY60uL0W) | [Bored Brothers](https://open.spotify.com/artist/16zFyEdp4556oFYkPYv3GZ), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [DRIP](https://open.spotify.com/album/7z6cQwJu1fpSLUqDePWb7h) | 2:50 | 2024-01-29 |  |
@@ -464,7 +465,7 @@
 | [Waking Up](https://open.spotify.com/track/1GQO5U0Sx74BUoH1faCUWC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 6:07 | 2024-01-29 |  |
 | [want that too](https://open.spotify.com/track/5BLxf0dPOTKMFFgUEp8M6T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:10 | 2024-01-29 |  |
 | [Wanted](https://open.spotify.com/track/3fT6xqEkC1jm4mHjOyXbKw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:16 | 2024-01-29 |  |
-| [Wanted](https://open.spotify.com/track/1qUwV6QCa06WyvH89eeCW5) | [Rise Up Children's Choir](https://open.spotify.com/artist/4ubm9Rvg1vip1AhBNvnEcy) | [Wanted](https://open.spotify.com/album/7mzYY4dNHM6exwuUhHBRZZ) | 2:29 | 2024-10-17 |  |
+| [Wanted](https://open.spotify.com/track/1qUwV6QCa06WyvH89eeCW5) | [Rise Up Children's Choir](https://open.spotify.com/artist/4ubm9Rvg1vip1AhBNvnEcy) | [Wanted](https://open.spotify.com/album/7mzYY4dNHM6exwuUhHBRZZ) | 2:29 | 2024-10-17 | 2024-10-25 |
 | [We Got Us \(From "Songland"\)](https://open.spotify.com/track/0atHkREVqo4abF3jq0Zpi6) | [Brandin Jay](https://open.spotify.com/artist/6DDkY2dyl6CxbDK9h4nkVf) | [We Got Us \(From "Songland"\)](https://open.spotify.com/album/574gbvmiQQtysH6vU4CUiA) | 3:28 | 2024-01-29 |  |
 | [We Need Love \- from Songland](https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [We Need Love \(from Songland\)](https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c) | 2:39 | 2024-01-29 |  |
 | [We Remain \- From “The Hunger Games: Catching Fire” Soundtrack](https://open.spotify.com/track/0G3iJ1r5SSv7nUBNCgBmwF) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [We Remain \(From "The Hunger Games: Catching Fire" Soundtrack\)](https://open.spotify.com/album/1eV7Ibmg1o9TVRfOB71l6f) | 4:00 | 2024-01-29 |  |
@@ -489,8 +490,8 @@
 | [Wild Life](https://open.spotify.com/track/4zD9RBG51Lj8bnQwolLnyu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 4:27 | 2024-01-29 |  |
 | [Wildfire](https://open.spotify.com/track/40MNdK1qPu8kDB0cSI51ds) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:19 | 2024-01-29 |  |
 | [Wings](https://open.spotify.com/track/2Kz5qeXifBxE0zmuoVchlM) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Fire Within \(Deluxe\)](https://open.spotify.com/album/6ig2k0oiH2AXm8MugikskB) | 4:12 | 2024-01-29 |  |
-| [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/0BTGKEEaehTuLJVEJe1U3B) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 2:55 | 2024-01-29 | 2024-10-23 |
-| [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/0jKTqmGVLgbeP5GpOJVCrp) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [4 \(The Pink Album\)](https://open.spotify.com/album/1pMHhe4WlERO69FvVOaB3y) | 2:55 | 2024-02-06 |  |
+| [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/0BTGKEEaehTuLJVEJe1U3B) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [4 \(The Pink Album\)](https://open.spotify.com/album/22r4tcO40GeOVicXUS2D9s) | 2:55 | 2024-01-29 |  |
+| [Wish You Were Here \(feat\. Khalid\)](https://open.spotify.com/track/0jKTqmGVLgbeP5GpOJVCrp) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [4 \(The Pink Album\)](https://open.spotify.com/album/1pMHhe4WlERO69FvVOaB3y) | 2:55 | 2024-02-06 | 2024-10-25 |
 | [Won't Stop](https://open.spotify.com/track/5ZEY2HUEstaLlhxGoWmzCE) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 5:02 | 2024-01-29 |  |
 | [Won't Walk Away](https://open.spotify.com/track/4TOvwLHReu2LywMpfoUcSJ) | [Lemar](https://open.spotify.com/artist/7uztWv5UVx4hwcJXCtRyDV) | [The Reason](https://open.spotify.com/album/21rolf1dBBSNqsEZqC7L7l) | 3:41 | 2024-01-29 |  |
 | [Words as Weapons](https://open.spotify.com/track/5dhVen8NZSxwjQuZAqU7Sa) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Words as Weapons](https://open.spotify.com/album/5UBqu6PBcuFGx8t2SccBUb) | 3:53 | 2024-01-29 | 2024-02-02 |

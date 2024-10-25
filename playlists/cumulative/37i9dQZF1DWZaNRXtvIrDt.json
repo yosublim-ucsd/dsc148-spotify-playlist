@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. \nCover: RONA",
+  "description": "A new world of alternative electronic music. Cover: Skeleten",
   "name": "Portal",
   "tracks": [
     {
@@ -60,6 +60,28 @@
       "duration_ms": 190644,
       "name": "1+1=11 - Edit",
       "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
+    },
+    {
+      "album": {
+        "name": "100% PURE FRIENDS",
+        "url": "https://open.spotify.com/album/3VGYFUaUGMYGN45A7t04Ob"
+      },
+      "artists": [
+        {
+          "name": "1NN3R53LF",
+          "url": "https://open.spotify.com/artist/2AWI5hYBOw1MYWjWxEHfsM"
+        },
+        {
+          "name": "Zafty",
+          "url": "https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191337,
+      "name": "100% PURE FRIENDS",
+      "url": "https://open.spotify.com/track/42ZteLkTX5bxDJjgk9BJ4x"
     },
     {
       "album": {
@@ -204,6 +226,24 @@
       "duration_ms": 286222,
       "name": "4 My Ladies",
       "url": "https://open.spotify.com/track/2anqDovtfF9nE8gnRQh4Do"
+    },
+    {
+      "album": {
+        "name": "4303",
+        "url": "https://open.spotify.com/album/7DOC2DDC7HLk9Bh9semWdW"
+      },
+      "artists": [
+        {
+          "name": "FUKHED",
+          "url": "https://open.spotify.com/artist/5BqpnSBznM8TZgqiCYRW2w"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164173,
+      "name": "4303",
+      "url": "https://open.spotify.com/track/4NBlHzUDn45XrXHOw09APx"
     },
     {
       "album": {
@@ -994,6 +1034,24 @@
       "duration_ms": 274046,
       "name": "Aperleye",
       "url": "https://open.spotify.com/track/03fbr5KYWTq1MXwwLrMJpd"
+    },
+    {
+      "album": {
+        "name": "Arachnids",
+        "url": "https://open.spotify.com/album/3CFGpQT03aFenbXwHdnusQ"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251304,
+      "name": "Arachnids",
+      "url": "https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu"
     },
     {
       "album": {
@@ -2064,7 +2122,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 212266,
       "name": "booboo",
       "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
@@ -2238,7 +2296,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 154666,
       "name": "BREAK IT DOWN (ON THE BASSLINE)",
       "url": "https://open.spotify.com/track/1poGDt4f2MB2q9m1lsBwAB"
@@ -2672,7 +2730,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 316615,
       "name": "Casi O",
       "url": "https://open.spotify.com/track/3LgC5z3d6IEpS7ACGZJhsA"
@@ -4178,7 +4236,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 246956,
       "name": "Drift",
       "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
@@ -6583,6 +6641,24 @@
     },
     {
       "album": {
+        "name": "Hopecore",
+        "url": "https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180219,
+      "name": "Hopecore",
+      "url": "https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV"
+    },
+    {
+      "album": {
         "name": "HORSE MOM",
         "url": "https://open.spotify.com/album/53NveX5n9BNu6cTXSsuYcf"
       },
@@ -6594,7 +6670,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 190535,
       "name": "HORSE MOM",
       "url": "https://open.spotify.com/track/3OnGfPJyPy1vlK3BTE7cun"
@@ -7050,7 +7126,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 152679,
       "name": "If U Like Me - Edit",
       "url": "https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H"
@@ -7308,7 +7384,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 229853,
       "name": "IOU (with BRUX)",
       "url": "https://open.spotify.com/track/5yFBIENkIOeJY1mkjxKG3o"
@@ -7584,7 +7660,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 260997,
       "name": "just stand there",
       "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
@@ -8928,7 +9004,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 202258,
       "name": "Midnight Ritual",
       "url": "https://open.spotify.com/track/5E6xYcS1fouZPYANBDMKQU"
@@ -9306,7 +9382,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 244839,
       "name": "My Forever (feat. Cecile Believe)",
       "url": "https://open.spotify.com/track/3yWtcvy5j3kbWW2TnI4jie"
@@ -10364,7 +10440,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 234832,
       "name": "Pearl",
       "url": "https://open.spotify.com/track/1l4fsop2H0buZdcYaa7KM1"
@@ -10466,7 +10542,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
@@ -10886,7 +10962,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 176105,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
@@ -11054,7 +11130,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 232374,
       "name": "Reason Why (feat. Kim Petras and BC Kingdom)",
       "url": "https://open.spotify.com/track/1I4fm6R1YbcLE3DIut2yWu"
@@ -11811,6 +11887,28 @@
     },
     {
       "album": {
+        "name": "Senseless",
+        "url": "https://open.spotify.com/album/2WlnVdiqmlKpu0elP95n02"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Georgie Winchester",
+          "url": "https://open.spotify.com/artist/4hGuPtl3s6oIY1B8P64Qpj"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219216,
+      "name": "Senseless",
+      "url": "https://open.spotify.com/track/4lTBsmVpYwcNe3i2RC5oMR"
+    },
+    {
+      "album": {
         "name": "separation anxiety",
         "url": "https://open.spotify.com/album/7o9t3adexgpcxrEeEp8Dut"
       },
@@ -12066,7 +12164,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 195293,
       "name": "side by side (feat. Empress Of) [rebirth]",
       "url": "https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx"
@@ -13387,6 +13485,24 @@
     },
     {
       "album": {
+        "name": "Strawberry Hotel",
+        "url": "https://open.spotify.com/album/3Z15B9bbxGXA6QJAa6kJMR"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203493,
+      "name": "Techno Shinkansen",
+      "url": "https://open.spotify.com/track/3CpTPBDnJckCkLM2gJusZf"
+    },
+    {
+      "album": {
         "name": "Playing Robots Into Heaven",
         "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
       },
@@ -13634,6 +13750,24 @@
       "duration_ms": 190720,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/0DsQ0M6qf1aJvZmktDwxy8"
+    },
+    {
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/30o58TAcxQucSZexOT4y7C"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208934,
+      "name": "The Seed",
+      "url": "https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE"
     },
     {
       "album": {
@@ -13954,6 +14088,24 @@
       "duration_ms": 224839,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/0FlYCmQM5q3TcdvwRT53Tt"
+    },
+    {
+      "album": {
+        "name": "Touch The Vibe",
+        "url": "https://open.spotify.com/album/04FEDPnkep9dDTJ5BGaei2"
+      },
+      "artists": [
+        {
+          "name": "CC:DISCO!",
+          "url": "https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441783,
+      "name": "Touch The Vibe",
+      "url": "https://open.spotify.com/track/3WRPjoawrmZUiSsV4V0SHy"
     },
     {
       "album": {
@@ -14330,6 +14482,24 @@
       "duration_ms": 269640,
       "name": "Verde (Jennifer Loveless Remix)",
       "url": "https://open.spotify.com/track/6fpJ7wTHo36RrNkh5UwcZE"
+    },
+    {
+      "album": {
+        "name": "Viagra",
+        "url": "https://open.spotify.com/album/49JW9xFUTXqr58ZBnLjFZ1"
+      },
+      "artists": [
+        {
+          "name": "Skeleten",
+          "url": "https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251826,
+      "name": "Viagra",
+      "url": "https://open.spotify.com/track/14I5n4dTGVIB4Y995Rl5sC"
     },
     {
       "album": {

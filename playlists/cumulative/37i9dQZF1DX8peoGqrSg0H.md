@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: PERSES
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว อัปเดตทุกสัปดาห์\. ศิลปิน: Billkin
 
-587 songs - 1 day 10 hr 52 min
+590 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [17 นาที](https://open.spotify.com/track/1CfKHIQhgKrUMAkj4VwI4J) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [mints](https://open.spotify.com/artist/6mehI8OceoNGRHfevtc4l0) | [17 นาที](https://open.spotify.com/album/5SJUJTC3angIZd2p8kmBUR) | 3:35 | 2022-05-26 | 2022-12-16 |
 | [1987](https://open.spotify.com/track/5xKPYDrSEwyRRtlxEOi0lQ) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [1987](https://open.spotify.com/album/1cxw73GpBf6KWNYQxqiH5D) | 4:16 | 2023-11-02 | 2023-11-10 |
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2022-05-26 | 2022-07-31 |
-| [ACHOO!](https://open.spotify.com/track/05zDlZ0l2C458XxmxsDqEG) | [Pimma PiXXiE](https://open.spotify.com/artist/0uDmGfh8e3dXJEmJ6jKQXg) | [ACHOO!](https://open.spotify.com/album/4nMd8PPdDUcnT2uyJJ8Oxe) | 3:08 | 2024-10-10 |  |
+| [Absence \(ช่องว่างหัวใจ\)](https://open.spotify.com/track/5z6QCQ55sTrpQnzlqD4s61) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l) | [Absence \(ช่องว่างหัวใจ\)](https://open.spotify.com/album/5kPWSqBaaiSxbvrzslwcqV) | 3:35 | 2024-10-24 |  |
+| [ACHOO!](https://open.spotify.com/track/05zDlZ0l2C458XxmxsDqEG) | [Pimma PiXXiE](https://open.spotify.com/artist/0uDmGfh8e3dXJEmJ6jKQXg) | [ACHOO!](https://open.spotify.com/album/4nMd8PPdDUcnT2uyJJ8Oxe) | 3:08 | 2024-10-10 | 2024-10-25 |
 | [ACTION](https://open.spotify.com/track/2MaB2AGKCvcwhF7A7WPaae) | [AR3NA](https://open.spotify.com/artist/3Z1xhsM4bQE28mcnQhiOJA) | [ACTION](https://open.spotify.com/album/6rHZhVtDDMBPhDyQ4n4Ydx) | 3:25 | 2023-12-07 | 2023-12-15 |
 | [Aftercry](https://open.spotify.com/track/0lWlgVOKrCpa1AQfvlIZqM) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Aftercry](https://open.spotify.com/album/0EzeQWsY83xRG35HMF1wsG) | 3:51 | 2024-07-29 | 2024-08-23 |
 | [ALALA \(To The Top\)](https://open.spotify.com/track/77Sye1USZZ2xmy18ln7dWe) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [ALALA \(To The Top\) \- Single](https://open.spotify.com/album/2sLjFbcHqYmFW0ue0Ivlwl) | 3:06 | 2024-01-11 | 2024-02-01 |
@@ -209,7 +210,7 @@
 | [ความพยายามอยู่ที่ไหน \(Please Try Again\)](https://open.spotify.com/track/5Mkz9wO3zxHfQ5WPYLGL9e) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [ความพยายามอยู่ที่ไหน \(Please Try Again\) \- Single](https://open.spotify.com/album/6K2zKb33MJ8I4aYe3bYgio) | 3:30 | 2023-10-05 | 2023-10-20 |
 | [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/track/4CBRdY0RexCvMi0GoyDiZc) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [pY\-1](https://open.spotify.com/artist/2OaPa926aKd12rYVXJWSEW) | [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/album/5UJzWrNNyLDbnNe21eoGOm) | 3:38 | 2024-08-08 | 2024-08-16 |
 | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\)](https://open.spotify.com/track/7fY7jCjncVuEsDYzvdHl7h) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\) \- Single](https://open.spotify.com/album/0BeN3k5p6Hct7DUxVFGrqn) | 3:54 | 2024-07-04 |  |
-| [คอลเซนเตอร์](https://open.spotify.com/track/5B31ax059orLDjMmt23z4L) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [คอลเซนเตอร์](https://open.spotify.com/album/0DXPpVfsFRMBpSWNtHNRvb) | 4:23 | 2024-10-17 |  |
+| [คอลเซนเตอร์](https://open.spotify.com/track/5B31ax059orLDjMmt23z4L) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [คอลเซนเตอร์](https://open.spotify.com/album/0DXPpVfsFRMBpSWNtHNRvb) | 4:23 | 2024-10-17 | 2024-10-25 |
 | [คาเฟอีน \(My Caffeine\)](https://open.spotify.com/track/5snqSVol9lu4kZWa9eHdin) | [Mercury Goldfish](https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb) | [คาเฟอีน](https://open.spotify.com/album/2n144mh5bLRanWiqkGxdSN) | 3:01 | 2022-05-26 | 2022-06-10 |
 | [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2022-05-26 | 2022-11-18 |
 | [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/track/4Cg2XGrrrczeZRPOnlAG67) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [คิด\(แต่ไม่\)ถึง \(Same Page?\)](https://open.spotify.com/album/2GFOBIiJ4Lpmwo6HpXxLBD) | 4:26 | 2022-05-26 | 2022-09-01 |
@@ -424,7 +425,7 @@
 | [สู้ชีวิต แต่ชีวิตสู้กลับ \(Hang in There!\)](https://open.spotify.com/track/6JVtp9kQzGiCNYVpoLFILn) | [UP n AWAY](https://open.spotify.com/artist/0MiktauYVOxwrJbNxGMQIF) | [สู้ชีวิต แต่ชีวิตสู้กลับ \(Hang in There!\)](https://open.spotify.com/album/1EkS7qvW0UxW2dLcjaN8eD) | 3:40 | 2022-11-11 | 2022-12-02 |
 | [ส่งเพลงนี้มาบอกฝันดี \- See You In My Dreams](https://open.spotify.com/track/3qWSUZsTAS2Al3f0uAENUC) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [ส่งเพลงนี้มาบอกฝันดี \(See You In My Dreams\)](https://open.spotify.com/album/7zEqCYajmXEXLH2v6ulsvv) | 2:10 | 2022-05-26 | 2022-06-03 |
 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 | 2024-05-16 |  |
-| [หนึ่งในมาช้า](https://open.spotify.com/track/5b80Ugh1bPrVK84JK4hYgi) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [หนึ่งในมาช้า](https://open.spotify.com/album/3I09i71ENf6fZSnRmjj7L3) | 3:34 | 2024-10-10 |  |
+| [หนึ่งในมาช้า](https://open.spotify.com/track/5b80Ugh1bPrVK84JK4hYgi) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [หนึ่งในมาช้า](https://open.spotify.com/album/3I09i71ENf6fZSnRmjj7L3) | 3:34 | 2024-10-10 | 2024-10-25 |
 | [หมอนอิง \(Anything\)](https://open.spotify.com/track/6qViN8HVfSTzTxcC83ITQn) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [หมอนอิง \(Anything\)](https://open.spotify.com/album/6yh6HALGG7Mib5l0CKBQKL) | 3:38 | 2023-07-06 | 2024-03-15 |
 | [หยดน้ำตา \(Tears\)](https://open.spotify.com/track/0mItaHP6FLRrRO6xrWwJc1) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [หยดน้ำตา \(Tears\)](https://open.spotify.com/album/7FroKiN2tQtn7BtmZGhFsm) | 3:24 | 2023-03-09 | 2024-09-13 |
 | [หยอก หยอก](https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หยอก หยอก](https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M) | 2:59 | 2022-05-26 | 2022-10-27 |
@@ -453,6 +454,7 @@
 | [อยู่เฉยๆ ก็น่ารัก \(Please Be Mine\)](https://open.spotify.com/track/6lrMGW46YadQYHzD6mzz4E) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [อยู่เฉยๆ ก็น่ารัก \(Please Be Mine\) \- Single](https://open.spotify.com/album/4IJ0gjuhqJoGQlwJiEMHH9) | 2:59 | 2023-08-10 | 2024-04-19 |
 | [อย่ากระโตกกระตาก \(SHH!\)](https://open.spotify.com/track/1bmGDIqV9ihU8yUbdOWHcO) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi) | [อย่ากระโตกกระตาก \(SHH!\)](https://open.spotify.com/album/0ne1FuRRBHkrsnJEy5STNA) | 3:09 | 2024-06-27 | 2024-07-05 |
 | [อย่าดื้อดิ \- Kissed](https://open.spotify.com/track/0G7rz6YlugHKHUKRtxhpvO) | [Marc Tatchapon](https://open.spotify.com/artist/6bgJVFxXoLzHewXZmpdpGs) | [อย่าดื้อดิ \(Kissed\)](https://open.spotify.com/album/3ypShxK5YV0oVRpC0Tl7N9) | 2:28 | 2023-01-26 | 2023-02-03 |
+| [อย่าตอบ \(Drunk Text\)](https://open.spotify.com/track/34sbuqIjki92FozLCtR9yW) | [JAYLERR](https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F) | [อย่าตอบ \(Drunk Text\)](https://open.spotify.com/album/2vAS6XWgumbA6MuwhSPgsj) | 3:12 | 2024-10-24 |  |
 | [อย่าบ่อย \(ex.\)](https://open.spotify.com/track/6UYeUljrHzUsAvBvskvE6T) | [MOJIKO](https://open.spotify.com/artist/64zApZE6dGsd5gGGaRIX5l) | [อย่าบ่อย \(ex.\)](https://open.spotify.com/album/7ecadfo8zPKykCMqhJ1Awf) | 4:25 | 2022-06-16 | 2022-06-24 |
 | [อย่าอยู่เลย](https://open.spotify.com/track/61faGyAiv8zqm0EUUpRYma) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [อย่าอยู่เลย](https://open.spotify.com/album/2CjUPTshiticCHDqPKpsbK) | 3:46 | 2022-08-25 | 2022-09-16 |
 | [อันฟอล \(Unfollow\)](https://open.spotify.com/track/4pdAtlscBYq6vGuaS6QtDI) | [Slow Sundae](https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma) | [อันฟอล \(Unfollow\)](https://open.spotify.com/album/7KzeuaG3GNOXdqWO8k2RY1) | 3:12 | 2022-09-15 | 2022-09-30 |
@@ -553,6 +555,7 @@
 | [โคตรพิเศษ \- From แปลรักฉันด้วยใจเธอ](https://open.spotify.com/track/4oQTocMZdjXkVz6GaPw7Gz) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:57 | 2022-07-28 | 2022-08-26 |
 | [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/track/14ka5GWsuyhdFk4X83YRij) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [โคตรไม่แฟร์ \(just friend\)](https://open.spotify.com/album/2hDOB63qOPVwAiJSVvZHtl) | 3:20 | 2023-02-02 | 2023-02-24 |
 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 | 2022-05-26 | 2024-01-19 |
+| [โอน้อยออก \(Truth or Dare\)](https://open.spotify.com/track/3JDHYk07aecvjfD0sGtSw5) | [Wizzle](https://open.spotify.com/artist/2rHK5FSYTL0mwcSrh6NXBy) | [โอน้อยออก \(Truth or Dare\)](https://open.spotify.com/album/4ZZNajw0mJqgRii3twhyDQ) | 4:06 | 2024-10-24 |  |
 | [โอ้ความรัก](https://open.spotify.com/track/2VtEXjR6lKIGBafyHYLbiN) | [Tippsy](https://open.spotify.com/artist/49oJblk17bkNV5DeZhd3OG) | [โอ้ความรัก](https://open.spotify.com/album/7EZylrDrTITMzf3Vx2l4Dk) | 3:47 | 2022-07-01 | 2022-07-08 |
 | [โฮ่ง! \(SUGOI\)](https://open.spotify.com/track/2XjzXB9tMakPdN0u5PWzy1) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [โฮ่ง! \(SUGOI\) \- Single](https://open.spotify.com/album/2qDdLdNKIiCxvTM2XQJ8VE) | 2:59 | 2024-09-12 | 2024-09-27 |
 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 | 2024-03-07 |  |

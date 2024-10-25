@@ -2,9 +2,9 @@
 
 ### [Electropop](https://open.spotify.com/playlist/37i9dQZF1DX1JKB9ugFP7X)
 
-> Lo mejor del pop electrónico latino.
+> Lo mejor del pop electrónico latino\. Foto: Javiera Mena
 
-159 songs - 10 hr 13 min
+160 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [No Van a Parar \- Remix](https://open.spotify.com/track/3zY3SqG8uQdD2zhNQi98NY) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9), [Martin Gardoqui](https://open.spotify.com/artist/6fJ0uVfgglq5vO0UBwX3Am), [Matias Larrosa](https://open.spotify.com/artist/4eVyhOHPhAuM9rvjNhJ6kG) | [Desconfiguración, Vol\. 2](https://open.spotify.com/album/1yFI2RRP9WaDO0XqdtwXaX) | 7:28 | 2023-09-08 | 2024-10-19 |
 | [No Ves Tal Vez \- Evlay Remix](https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [No Ves Tal Vez \(Evlay Remix\)](https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku) | 5:13 | 2023-09-08 | 2024-10-19 |
 | [Noche de Vampiros](https://open.spotify.com/track/4D6XViAmoJGuz6SqPOP0me) | [Trashu](https://open.spotify.com/artist/36LxoJzKgytSD3TWMN54vY) | [Noche de Vampiros](https://open.spotify.com/album/2T2TvM0TON3sdK0TOofI5n) | 3:05 | 2023-09-08 | 2024-10-19 |
+| [Nuestro Vuelo](https://open.spotify.com/track/0P3ABqtwEYh7mHstHzDBnA) | [BADS](https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3) | [Nuestro Vuelo](https://open.spotify.com/album/57hOmfTXjTKvZ0kqBUcpzI) | 2:50 | 2024-10-24 |  |
 | [PACTO](https://open.spotify.com/track/0CIRCBcH8KbFrRxYQPQR9v) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Criss J.](https://open.spotify.com/artist/7K2LttekmuGSgw1Hy1wGDe) | [PACTO](https://open.spotify.com/album/0dKbnLynYN0dv4VB1KSB9S) | 2:54 | 2024-01-19 | 2024-10-19 |
 | [PAGA DIOS](https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAGA DIOS](https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit) | 2:16 | 2023-09-08 | 2024-10-19 |
 | [Palabras al Viento](https://open.spotify.com/track/1hDifwaU9Ki87hLzfYWCmT) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Palabras al Viento](https://open.spotify.com/album/0xugnChzVurySnB23bgA7M) | 3:35 | 2024-10-18 |  |

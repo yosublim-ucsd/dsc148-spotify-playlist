@@ -1,6 +1,6 @@
 {
   "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & The Lion King.",
-  "num_followers": 5408549,
+  "num_followers": 5408906,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
@@ -50,6 +50,10 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 163386,
@@ -262,6 +266,10 @@
         {
           "name": "Louise Bush",
           "url": "https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 210320,

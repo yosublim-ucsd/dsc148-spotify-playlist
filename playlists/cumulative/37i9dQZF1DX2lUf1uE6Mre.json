@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 138866,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 133932,
       "name": "Bauch Beine Po",
       "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 144500,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/3EZUSLfczqLsAs3Uxitand"
@@ -542,6 +542,24 @@
       "duration_ms": 146086,
       "name": "Black Yamaha",
       "url": "https://open.spotify.com/track/3pI1UxUSaClJYRWEB2YRRE"
+    },
+    {
+      "album": {
+        "name": "Blanco",
+        "url": "https://open.spotify.com/album/240k016C0Y5yZ6HBbiXe0W"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151293,
+      "name": "Blanco",
+      "url": "https://open.spotify.com/track/4rA41YUfp4ZXdmbBoiDJhG"
     },
     {
       "album": {
@@ -880,7 +898,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 155355,
       "name": "Dale",
       "url": "https://open.spotify.com/track/4JeRA6jqXpChOxN0Gnd4tP"
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 161883,
       "name": "Ekipa",
       "url": "https://open.spotify.com/track/7K4sgsFvhwPpgEHE54li5Z"
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 162500,
       "name": "Eurosport",
       "url": "https://open.spotify.com/track/1IncGnjnnKmBkFw0vIf0lV"
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 142608,
       "name": "Malaga",
       "url": "https://open.spotify.com/track/7wc5sF6gVT8KCeamMlcMWf"
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 145027,
       "name": "Papaya",
       "url": "https://open.spotify.com/track/7JPVbntiN50pjt6zgHUp1C"
@@ -2349,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/5cSEvN4TBHPfIciw8Ln05p"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147226,
+      "name": "Rauch",
+      "url": "https://open.spotify.com/track/6v1b9nidriM4UBfN7KToko"
+    },
+    {
+      "album": {
         "name": "REIN GEHEN",
         "url": "https://open.spotify.com/album/3hG7yeaG6Jwnfzpsh7kf7Z"
       },
@@ -2382,7 +2418,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 155000,
       "name": "RiRi",
       "url": "https://open.spotify.com/track/7vkMCaQtCRzXs1uKafkoUJ"
@@ -2548,6 +2584,28 @@
       "duration_ms": 123428,
       "name": "sonnenschein",
       "url": "https://open.spotify.com/track/6uEZAuUuR0N1K85493kxK6"
+    },
+    {
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/7i8ZqYTk9x4AnroVEvF3Uz"
+      },
+      "artists": [
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152241,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7FKW2DK9dvY80XR4yjdyBH"
     },
     {
       "album": {
@@ -2851,6 +2909,24 @@
     },
     {
       "album": {
+        "name": "Whine",
+        "url": "https://open.spotify.com/album/189vyuLhrhYsxLIkqvQuFR"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139705,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/17oiBKFtiAfnRqqZMChngT"
+    },
+    {
+      "album": {
         "name": "Wie beim ersten Mal",
         "url": "https://open.spotify.com/album/3lHE9xS4KWC3UnZFoVN9KE"
       },
@@ -2880,7 +2956,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 184500,
       "name": "Wie Du",
       "url": "https://open.spotify.com/track/1N1coNchKY1dQniPSnAJs5"
@@ -3010,7 +3086,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 153893,
       "name": "XALAZ XALAZ",
       "url": "https://open.spotify.com/track/4gQzqSqZvdOvsUeCyn4t4Y"

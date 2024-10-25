@@ -1,6 +1,6 @@
 {
   "description": "Songs all about cleaning up.",
-  "num_followers": 3204,
+  "num_followers": 3206,
   "original_name": "Clean Up",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "Barney",
           "url": "https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
         }
       ],
       "duration_ms": 33493,

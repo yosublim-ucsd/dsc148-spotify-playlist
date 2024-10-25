@@ -1199,6 +1199,28 @@
     },
     {
       "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/0E4oO3SgpGQu0CGt7GyX6v"
+      },
+      "artists": [
+        {
+          "name": "Jeruson",
+          "url": "https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss"
+        },
+        {
+          "name": "$carce",
+          "url": "https://open.spotify.com/artist/71LOuajUcL1fBqE6rA1nTc"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197938,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/34tuP4nFoFi0l43l5g2gJd"
+    },
+    {
+      "album": {
         "name": "Destination Jaffna",
         "url": "https://open.spotify.com/album/1Y5iSPqCC9PtHBFK260axX"
       },
@@ -2166,6 +2188,24 @@
       "duration_ms": 244000,
       "name": "Iraivi",
       "url": "https://open.spotify.com/track/4wFirzSvCLnSQ6nwtsluYT"
+    },
+    {
+      "album": {
+        "name": "Irave",
+        "url": "https://open.spotify.com/album/1GaGloMbXbuLRvOHqcNbHR"
+      },
+      "artists": [
+        {
+          "name": "Azer farzy",
+          "url": "https://open.spotify.com/artist/1Ypyejd2CL9WwdQZaLIjeC"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201254,
+      "name": "Irave",
+      "url": "https://open.spotify.com/track/3pDGt2dpOJJhW9QMSYHK2f"
     },
     {
       "album": {
@@ -5170,7 +5210,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 138523,
       "name": "OORO",
       "url": "https://open.spotify.com/track/0gJyRJTtghZEfOz9dJIcv2"

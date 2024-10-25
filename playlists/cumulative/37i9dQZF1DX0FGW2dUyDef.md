@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Afra
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Dedublüman x Can Kazaz
 
 78 songs - 3 hr 53 min
 

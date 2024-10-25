@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
-  "num_followers": 175018,
+  "num_followers": 175198,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/4uAMrL2VP2EYpDR16HTbyI"
-      },
-      "artists": [
-        {
-          "name": "Lava Gulls",
-          "url": "https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t"
-        }
-      ],
-      "duration_ms": 224552,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/1TelNX4qCZJ9RukqQN35rD"
-    },
-    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "Under the Sun",
@@ -515,6 +499,22 @@
       "duration_ms": 277042,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/4uAMrL2VP2EYpDR16HTbyI"
+      },
+      "artists": [
+        {
+          "name": "Lava Gulls",
+          "url": "https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t"
+        }
+      ],
+      "duration_ms": 224552,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/1TelNX4qCZJ9RukqQN35rD"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "forever isn't true",
-        "url": "https://open.spotify.com/album/0GZ3SjoOzDn92LYPJgIwW8"
-      },
-      "artists": [
-        {
-          "name": "rexlity",
-          "url": "https://open.spotify.com/artist/6NGwHXK7pxQF4J2mxG4o86"
-        },
-        {
-          "name": "widx.",
-          "url": "https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un"
-        }
-      ],
-      "duration_ms": 92727,
-      "name": "forever isn't true",
-      "url": "https://open.spotify.com/track/4gUhkp8eWg2Fxupfeuygc2"
-    },
-    {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
         "name": "Aprender a Ser: Extended",
         "url": "https://open.spotify.com/album/0mYAqeT6oxqrGv1mnt56zN"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 231560,
       "name": "El mar me ve\u00eda",
       "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "forever isn't true",
+        "url": "https://open.spotify.com/album/0GZ3SjoOzDn92LYPJgIwW8"
+      },
+      "artists": [
+        {
+          "name": "rexlity",
+          "url": "https://open.spotify.com/artist/6NGwHXK7pxQF4J2mxG4o86"
+        },
+        {
+          "name": "widx.",
+          "url": "https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un"
+        }
+      ],
+      "duration_ms": 92727,
+      "name": "forever isn't true",
+      "url": "https://open.spotify.com/track/4gUhkp8eWg2Fxupfeuygc2"
     },
     {
       "added_at": "2024-04-03 15:21:45",
@@ -701,20 +701,24 @@
       "url": "https://open.spotify.com/track/0fcstqCLW7NLjqfsIgD1fw"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-10-16 02:02:35",
       "album": {
-        "name": "Circle Games",
-        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+        "name": "Nocturnos",
+        "url": "https://open.spotify.com/album/1MRUtV8mhRa3UrNp7HjRA9"
       },
       "artists": [
         {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+          "name": "Ismael Pinkler",
+          "url": "https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx"
+        },
+        {
+          "name": "Nicol\u00e1s Bacal",
+          "url": "https://open.spotify.com/artist/4O07zL2JRvvUnaUYA1q4lp"
         }
       ],
-      "duration_ms": 217475,
-      "name": "Junkie",
-      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
+      "duration_ms": 327750,
+      "name": "Teclas P\u00e1lidas",
+      "url": "https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm"
     },
     {
       "added_at": "2024-09-18 04:00:00",
@@ -731,6 +735,22 @@
       "duration_ms": 471667,
       "name": "Endless Beyond",
       "url": "https://open.spotify.com/track/4ub4EbgH4bQAViw3TriseI"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Circle Games",
+        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 217475,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -785,26 +805,6 @@
       "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
-      "added_at": "2024-10-16 02:02:35",
-      "album": {
-        "name": "Nocturnos",
-        "url": "https://open.spotify.com/album/1MRUtV8mhRa3UrNp7HjRA9"
-      },
-      "artists": [
-        {
-          "name": "Ismael Pinkler",
-          "url": "https://open.spotify.com/artist/3EDLCEnPXba2OItpKW1Drx"
-        },
-        {
-          "name": "Nicol\u00e1s Bacal",
-          "url": "https://open.spotify.com/artist/4O07zL2JRvvUnaUYA1q4lp"
-        }
-      ],
-      "duration_ms": 327750,
-      "name": "Teclas P\u00e1lidas",
-      "url": "https://open.spotify.com/track/6RZTCEiP1BFBsBIRqFsYLm"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "retrofit",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/5155fLceNWyzwO0Q67dkln"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Se clavan",
-        "url": "https://open.spotify.com/album/5QckQGcQi4k1mVmAwi6PdG"
-      },
-      "artists": [
-        {
-          "name": "Le Parody",
-          "url": "https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF"
-        }
-      ],
-      "duration_ms": 215712,
-      "name": "Se clavan",
-      "url": "https://open.spotify.com/track/2SEGqHgTRUSFOOhiJrFH5r"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Meet Your Shadow",
@@ -891,6 +875,22 @@
       "duration_ms": 224960,
       "name": "Meet Your Shadow",
       "url": "https://open.spotify.com/track/3PyI7m3K7HY5XjMqjPw4XF"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Se clavan",
+        "url": "https://open.spotify.com/album/5QckQGcQi4k1mVmAwi6PdG"
+      },
+      "artists": [
+        {
+          "name": "Le Parody",
+          "url": "https://open.spotify.com/artist/7ls2WeFdaXVNgCq5zWKDjF"
+        }
+      ],
+      "duration_ms": 215712,
+      "name": "Se clavan",
+      "url": "https://open.spotify.com/track/2SEGqHgTRUSFOOhiJrFH5r"
     },
     {
       "added_at": "2024-09-18 04:00:00",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "A Diosa (Non potho reposare)",
-        "url": "https://open.spotify.com/album/57Nnl27zPUTcv1ZQ8Ip32f"
-      },
-      "artists": [
-        {
-          "name": "Vieri Cervelli Montel",
-          "url": "https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL"
-        }
-      ],
-      "duration_ms": 600010,
-      "name": "A Diosa (Non potho reposare)",
-      "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
-    },
-    {
       "added_at": "2024-03-20 13:59:17",
       "album": {
         "name": "L4TA",
@@ -1183,6 +1167,22 @@
       "duration_ms": 68110,
       "name": "wearywatergod",
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "A Diosa (Non potho reposare)",
+        "url": "https://open.spotify.com/album/57Nnl27zPUTcv1ZQ8Ip32f"
+      },
+      "artists": [
+        {
+          "name": "Vieri Cervelli Montel",
+          "url": "https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL"
+        }
+      ],
+      "duration_ms": 600010,
+      "name": "A Diosa (Non potho reposare)",
+      "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1203,22 +1203,6 @@
       "duration_ms": 172453,
       "name": "Detach",
       "url": "https://open.spotify.com/track/0Las26koi1XNMPme6fOxcD"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Plays Stewart Copeland",
-        "url": "https://open.spotify.com/album/0jNrPsoL9SCu7oBffUJuzm"
-      },
-      "artists": [
-        {
-          "name": "Elbtonal Percussion",
-          "url": "https://open.spotify.com/artist/4jU6qaM5xefdW9O12GXX7L"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "The Mud Lions",
-      "url": "https://open.spotify.com/track/69mRQWc56zEKt1YLQZLANw"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1251,6 +1235,22 @@
       "duration_ms": 535000,
       "name": "Palloon",
       "url": "https://open.spotify.com/track/1e96C1vkds1XDSZpHxFClZ"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Plays Stewart Copeland",
+        "url": "https://open.spotify.com/album/0jNrPsoL9SCu7oBffUJuzm"
+      },
+      "artists": [
+        {
+          "name": "Elbtonal Percussion",
+          "url": "https://open.spotify.com/artist/4jU6qaM5xefdW9O12GXX7L"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "The Mud Lions",
+      "url": "https://open.spotify.com/track/69mRQWc56zEKt1YLQZLANw"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/2mYWLaFIr3hNuG0jugydkz"
     },
     {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Vaporwave Tactical",
-        "url": "https://open.spotify.com/album/6H53eDZ20n28AOGUNzxZUv"
-      },
-      "artists": [
-        {
-          "name": "Neon Hologram",
-          "url": "https://open.spotify.com/artist/208jyj0Ok2YxZovEXivefA"
-        }
-      ],
-      "duration_ms": 119788,
-      "name": "Vaporize",
-      "url": "https://open.spotify.com/track/72tsEmvUXRR7MxFFCNxTIh"
-    },
-    {
       "added_at": "2024-08-07 03:33:24",
       "album": {
         "name": "Sundown Muse",
@@ -1319,6 +1303,22 @@
       "duration_ms": 261004,
       "name": "Sundown Muse",
       "url": "https://open.spotify.com/track/7H3KKn8XnIipixGjNGvK7m"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Vaporwave Tactical",
+        "url": "https://open.spotify.com/album/6H53eDZ20n28AOGUNzxZUv"
+      },
+      "artists": [
+        {
+          "name": "Neon Hologram",
+          "url": "https://open.spotify.com/artist/208jyj0Ok2YxZovEXivefA"
+        }
+      ],
+      "duration_ms": 119788,
+      "name": "Vaporize",
+      "url": "https://open.spotify.com/track/72tsEmvUXRR7MxFFCNxTIh"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/1UaVb9HcsL0T1UGA2I8nRj"
-      },
-      "artists": [
-        {
-          "name": "Tomin",
-          "url": "https://open.spotify.com/artist/0YMLTyB0Y3pZLxKK2tXcTj"
-        }
-      ],
-      "duration_ms": 337906,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/1KiXq3sy3txoXdNilTFqmd"
-    },
-    {
       "added_at": "2024-10-16 02:02:35",
       "album": {
         "name": "Cure For Tranquility",
@@ -1523,6 +1507,22 @@
       "duration_ms": 238808,
       "name": "Cr\u00edo Cuervos",
       "url": "https://open.spotify.com/track/7BzBWpuPhYhCnQYdOYDlpj"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/3mjk1mqDJ2u6M6vrlveVB0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Klauser",
+          "url": "https://open.spotify.com/artist/4sWjBSpXZSBhodRXeVadNL"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Trying To Get That Sound",
+      "url": "https://open.spotify.com/track/5dwgYnZkWcSavE0ryWvSgy"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1545,6 +1545,22 @@
       "url": "https://open.spotify.com/track/676csBHpEkLxunlWpYtAT3"
     },
     {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/1UaVb9HcsL0T1UGA2I8nRj"
+      },
+      "artists": [
+        {
+          "name": "Tomin",
+          "url": "https://open.spotify.com/artist/0YMLTyB0Y3pZLxKK2tXcTj"
+        }
+      ],
+      "duration_ms": 337906,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/1KiXq3sy3txoXdNilTFqmd"
+    },
+    {
       "added_at": "2024-09-18 04:00:00",
       "album": {
         "name": "Within",
@@ -1559,22 +1575,6 @@
       "duration_ms": 161840,
       "name": "Air",
       "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/3mjk1mqDJ2u6M6vrlveVB0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Klauser",
-          "url": "https://open.spotify.com/artist/4sWjBSpXZSBhodRXeVadNL"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Trying To Get That Sound",
-      "url": "https://open.spotify.com/track/5dwgYnZkWcSavE0ryWvSgy"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1597,22 +1597,6 @@
       "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "ethic",
-        "url": "https://open.spotify.com/album/2zoZ7macP6k4Wd3Rw37QZI"
-      },
-      "artists": [
-        {
-          "name": "Nohys(yoonsangXLeeJunoh)",
-          "url": "https://open.spotify.com/artist/3zMfe80CmhuBPvV8Wvk3kA"
-        }
-      ],
-      "duration_ms": 129524,
-      "name": "init.",
-      "url": "https://open.spotify.com/track/5poF74If353m5g0i48T3lQ"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Cosmic Flute Rides Again",
@@ -1629,20 +1613,40 @@
       "url": "https://open.spotify.com/track/4rBeiV1Nd9QbvPgJZHkN74"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
+      "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "Apolithoma",
-        "url": "https://open.spotify.com/album/6tEfpip2YrwT6b2b1ta896"
+        "name": "ethic",
+        "url": "https://open.spotify.com/album/2zoZ7macP6k4Wd3Rw37QZI"
       },
       "artists": [
         {
-          "name": "Veslemes",
-          "url": "https://open.spotify.com/artist/6raPumVw0R3R7vMOStGRON"
+          "name": "Nohys(yoonsangXLeeJunoh)",
+          "url": "https://open.spotify.com/artist/3zMfe80CmhuBPvV8Wvk3kA"
         }
       ],
-      "duration_ms": 316928,
-      "name": "Port Mattare",
-      "url": "https://open.spotify.com/track/7nUIqQb602NKPhy8ZcLtlp"
+      "duration_ms": 129524,
+      "name": "init.",
+      "url": "https://open.spotify.com/track/5poF74If353m5g0i48T3lQ"
+    },
+    {
+      "added_at": "2024-10-16 02:02:35",
+      "album": {
+        "name": "Cure For Tranquility",
+        "url": "https://open.spotify.com/album/7lxzTxQtz8EQx7znrdFoj3"
+      },
+      "artists": [
+        {
+          "name": "Tucci",
+          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
+        },
+        {
+          "name": "Haski",
+          "url": "https://open.spotify.com/artist/6m9QZEedOBp18M0D7mM9Tz"
+        }
+      ],
+      "duration_ms": 174787,
+      "name": "No Lo Son",
+      "url": "https://open.spotify.com/track/5svoaG4SG3ZZ99Yl5vpe4C"
     },
     {
       "added_at": "2024-10-16 02:02:35",
@@ -1685,24 +1689,20 @@
       "url": "https://open.spotify.com/track/1fDlUQZ1AqOVgXdE7zmj0c"
     },
     {
-      "added_at": "2024-10-16 02:02:35",
+      "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "Cure For Tranquility",
-        "url": "https://open.spotify.com/album/7lxzTxQtz8EQx7znrdFoj3"
+        "name": "Apolithoma",
+        "url": "https://open.spotify.com/album/6tEfpip2YrwT6b2b1ta896"
       },
       "artists": [
         {
-          "name": "Tucci",
-          "url": "https://open.spotify.com/artist/5s5AualH5soDJ619wrZ2IW"
-        },
-        {
-          "name": "Haski",
-          "url": "https://open.spotify.com/artist/6m9QZEedOBp18M0D7mM9Tz"
+          "name": "Veslemes",
+          "url": "https://open.spotify.com/artist/6raPumVw0R3R7vMOStGRON"
         }
       ],
-      "duration_ms": 174787,
-      "name": "No Lo Son",
-      "url": "https://open.spotify.com/track/5svoaG4SG3ZZ99Yl5vpe4C"
+      "duration_ms": 316928,
+      "name": "Port Mattare",
+      "url": "https://open.spotify.com/track/7nUIqQb602NKPhy8ZcLtlp"
     },
     {
       "added_at": "2024-10-09 01:34:34",

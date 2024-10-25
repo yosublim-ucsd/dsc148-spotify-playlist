@@ -549,6 +549,28 @@
     },
     {
       "album": {
+        "name": "Raag Jhinjhoti by Ronu Majumdar",
+        "url": "https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI"
+      },
+      "artists": [
+        {
+          "name": "Ronu Majumdar",
+          "url": "https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P"
+        },
+        {
+          "name": "Ojas Adhiya",
+          "url": "https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1284254,
+      "name": "Raag Jhinjhoti 7.5 beats",
+      "url": "https://open.spotify.com/track/0nY3sZQ0seYfr64U0YWWw7"
+    },
+    {
+      "album": {
         "name": "Jugalbandi II",
         "url": "https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40"
       },

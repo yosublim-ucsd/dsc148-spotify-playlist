@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,819 likes - 95 songs - 4 hr 16 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,819 likes - 95 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 2:32 |
+| 1 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 1:40 |
 | 2 | [TROLLIN'](https://open.spotify.com/track/63T2RxfAIE3xFoQX9QvHza) | [Big Moochie Grape](https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa) | [TROLLIN'](https://open.spotify.com/album/7r1OGEAEnZNv76t9jB5kcx) | 2:31 |
 | 3 | [LIVE AND LET DIE](https://open.spotify.com/track/0EaTgcYikwnfkAmybrinn5) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [LIVE AND LET DIE](https://open.spotify.com/album/4FhOSZGWH8aOEtwT2XyenM) | 2:05 |
 | 4 | [Turn Up The Flame](https://open.spotify.com/track/24ASg9u0yaDQB2jKhU4Kdn) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Turn Up The Flame](https://open.spotify.com/album/3k4JzsekugZULGW2mNceS6) | 3:00 |

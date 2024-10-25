@@ -2599,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "Nobya",
+        "url": "https://open.spotify.com/album/5Bhm5NsqTDSjBdUzoWripN"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378995,
+      "name": "Nobya",
+      "url": "https://open.spotify.com/track/6eBIvH2ARm4psC3kkbARSn"
+    },
+    {
+      "album": {
         "name": "Nowhere",
         "url": "https://open.spotify.com/album/2Nw8VXMKMd6YFDiHkPexJo"
       },

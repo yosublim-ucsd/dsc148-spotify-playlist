@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 121155,
       "name": "Alter Ego",
       "url": "https://open.spotify.com/track/1cgV9sNe6Is6PAKWWNYXxK"
@@ -1657,6 +1657,28 @@
     },
     {
       "album": {
+        "name": "Leo Ni Leo",
+        "url": "https://open.spotify.com/album/4ZdSD7eR8W62uMscMMhLZd"
+      },
+      "artists": [
+        {
+          "name": "MansuLi",
+          "url": "https://open.spotify.com/artist/6VOOF46Lijbw5bWBQqy8x5"
+        },
+        {
+          "name": "Jay Moe",
+          "url": "https://open.spotify.com/artist/5406S7GwLPP57ul2qF8QyM"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "Leo Ni Leo",
+      "url": "https://open.spotify.com/track/1qSR9BFCODz6yDMKgimJqQ"
+    },
+    {
+      "album": {
         "name": "Let It Burn",
         "url": "https://open.spotify.com/album/2E7xLOgHzFwPRmamiT9cnz"
       },
@@ -1850,7 +1872,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 163298,
       "name": "Mali Safi",
       "url": "https://open.spotify.com/track/6fTviZad3Hk5QQ8zeZki98"
@@ -2074,6 +2096,28 @@
       "duration_ms": 163636,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/144nZKc5hqgdY5f0BoLP4r"
+    },
+    {
+      "album": {
+        "name": "MISOSI",
+        "url": "https://open.spotify.com/album/1btoUYxL8fMN1XYhvuBYS4"
+      },
+      "artists": [
+        {
+          "name": "andro cph",
+          "url": "https://open.spotify.com/artist/73SDhoD9uvsXXbfUO3GXP6"
+        },
+        {
+          "name": "Machalii Watundu",
+          "url": "https://open.spotify.com/artist/0ciUe3L4sONX5euPrKgAG8"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248625,
+      "name": "MISOSI",
+      "url": "https://open.spotify.com/track/1hpQ4Wg223QTSkg2PNP0Ob"
     },
     {
       "album": {
@@ -2990,6 +3034,28 @@
       "duration_ms": 244800,
       "name": "Pisi",
       "url": "https://open.spotify.com/track/0DDlGP9kex4sdfrMMCnm7W"
+    },
+    {
+      "album": {
+        "name": "Pisi",
+        "url": "https://open.spotify.com/album/1mp2vUSOmcgGJlfrRtZxV7"
+      },
+      "artists": [
+        {
+          "name": "Moni Centrozone",
+          "url": "https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230780,
+      "name": "Pisi",
+      "url": "https://open.spotify.com/track/788uP7aH98lMiRYIadYW6h"
     },
     {
       "album": {
@@ -4186,7 +4252,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 210991,
       "name": "Wapi Huko",
       "url": "https://open.spotify.com/track/4ALRkQz2dbmZI666ErjSRG"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Astro in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Kid Yugi in cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -462,7 +462,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 230965,
       "name": "64 BARRE DI VERIT\u00c0 (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/4cMCuC4B7crtuZ7E67xsGV"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 200592,
       "name": "Al\u00e9 (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL"
@@ -2153,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "Borse Herm\u00e8s",
+        "url": "https://open.spotify.com/album/4K4WFgRUEfOrPD4ioCBppM"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159745,
+      "name": "Borse Herm\u00e8s",
+      "url": "https://open.spotify.com/track/1MRDqKrcGYLw883LuVmDjy"
+    },
+    {
+      "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
       },
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 128000,
       "name": "Cerchio",
       "url": "https://open.spotify.com/track/7ziLqtC6tXHbzu8tWVtC2M"
@@ -3638,7 +3656,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 174146,
       "name": "CUORI SPEZZATI",
       "url": "https://open.spotify.com/track/55h9la9ICtndO2PgH8U5E1"
@@ -3770,7 +3788,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 148363,
       "name": "DI CAPRIO (feat. Niky Savage)",
       "url": "https://open.spotify.com/track/34IZ1Uu91IxjGbGRtW4c63"
@@ -3922,6 +3940,24 @@
       "duration_ms": 195345,
       "name": "Don't Cry No More (feat. Geolier)",
       "url": "https://open.spotify.com/track/2vxtac8KET2UTMfT0d0awA"
+    },
+    {
+      "album": {
+        "name": "Donna",
+        "url": "https://open.spotify.com/album/0yugiV59QadnQxtXExqjXb"
+      },
+      "artists": [
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179072,
+      "name": "Donna",
+      "url": "https://open.spotify.com/track/5t0pLWfUeP5fYVxKaMB2MD"
     },
     {
       "album": {
@@ -4370,6 +4406,28 @@
       "duration_ms": 196613,
       "name": "EPISODIO D'AMORE",
       "url": "https://open.spotify.com/track/1IkzT4wzFJRbFOmKOSqTen"
+    },
+    {
+      "album": {
+        "name": "Etc (feat. Nardo Wick)",
+        "url": "https://open.spotify.com/album/1gHHbM7rsEjkl4P6eQ7CKp"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128450,
+      "name": "Etc (feat. Nardo Wick)",
+      "url": "https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG"
     },
     {
       "album": {
@@ -5773,6 +5831,36 @@
     },
     {
       "album": {
+        "name": "CON I MIEI OCCHI",
+        "url": "https://open.spotify.com/album/6JWyzXSxNZzmJzBBAviLcR"
+      },
+      "artists": [
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dele",
+          "url": "https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177545,
+      "name": "HEETS (feat. Geolier)",
+      "url": "https://open.spotify.com/track/7heTgNdtbRD4n0Vg8rGYXo"
+    },
+    {
+      "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
@@ -5994,7 +6082,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 191999,
       "name": "I LOVE IT (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
@@ -8098,6 +8186,32 @@
       "duration_ms": 128266,
       "name": "mi @mi o \u00e8 f@ke",
       "url": "https://open.spotify.com/track/3W2tsZcoDxmNQaw61Kz1rb"
+    },
+    {
+      "album": {
+        "name": "ESCI DAL TUNNEL",
+        "url": "https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129655,
+      "name": "MI PIACCIONO LE ARMI",
+      "url": "https://open.spotify.com/track/3yFgWoossjlaJ919XDCG4C"
     },
     {
       "album": {
@@ -10216,6 +10330,24 @@
       "duration_ms": 154382,
       "name": "Per Un Fra (feat. Ernia)",
       "url": "https://open.spotify.com/track/0HDzbi541smhqa0MmgXP27"
+    },
+    {
+      "album": {
+        "name": "Per un paio di dollari",
+        "url": "https://open.spotify.com/album/62GrAgEymztEQlcnOVRNGf"
+      },
+      "artists": [
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181374,
+      "name": "Per un paio di dollari",
+      "url": "https://open.spotify.com/track/6ay7V0EJQ43hrNgYI3E2tg"
     },
     {
       "album": {

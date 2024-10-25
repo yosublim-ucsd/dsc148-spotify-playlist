@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-328 songs - 17 hr 23 min
+332 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Are You Lonesome Like Me?](https://open.spotify.com/track/7eXefSw0omrWAzAj9bPHdg) | [The Feminine Complex](https://open.spotify.com/artist/01KjnhCy6NazKcRifV68Mm) | [Livin' Love](https://open.spotify.com/album/0k5SeppJRa4SbJnaISfFqf) | 2:52 | 2024-04-25 | 2024-05-16 |
 | [Asante Kwa Wazazi](https://open.spotify.com/track/6Zaqb7DJnPFrnkSukMmPWM) | [Marehemu George Mukabi](https://open.spotify.com/artist/5Tv7EcBYZgPCHZrcX4GNBQ) | [Sengula Nakupenda](https://open.spotify.com/album/7HYKaE9lKDRvTfaMPePJkF) | 2:50 | 2024-07-26 | 2024-09-08 |
 | [Auntie's Lock/Infinitum](https://open.spotify.com/track/08mLKO1adBkvaaJyCsEahC) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Laura Darlington](https://open.spotify.com/artist/67OokTsDsLUvJI6oIxCigq) | [Los Angeles](https://open.spotify.com/album/0q8xcjDnjM60zXr8UdSDfu) | 2:44 | 2024-09-07 | 2024-09-11 |
+| [B](https://open.spotify.com/track/7t1FUkqJRdQdNrkjwfhq2H) | [Lync](https://open.spotify.com/artist/31fnC8wbw2ZBITgOp6KKoY) | [These Are Not Fall Colors](https://open.spotify.com/album/3Is1zxmfs8xXPL8QnB27kd) | 4:30 | 2024-10-24 |  |
 | [Baby Lef Marah](https://open.spotify.com/track/0amK3uqJKw5AJ9CgeJArTz) | [S.E\. Rogie](https://open.spotify.com/artist/1W8vgcN29v8ChWmlpZQ3Ai) | [The Sounds of S.E\. Rogie](https://open.spotify.com/album/1Ovz1OhylAnhQ2kLf65obf) | 3:10 | 2024-06-25 | 2024-07-12 |
 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 | 2024-03-12 | 2024-05-16 |
 | [Beginning](https://open.spotify.com/track/3ySR4omemna2bEDRSen2nr) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 1:39 | 2024-05-16 | 2024-07-12 |
@@ -205,6 +206,7 @@
 | [None But Shining Hours](https://open.spotify.com/track/5kHCk2CS3RURF57SUqU1Xt) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 2:43 | 2024-04-25 | 2024-05-16 |
 | [Nothing Stays the Same](https://open.spotify.com/track/7tH71zPFewHULQb6SR5Mma) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [The Menace](https://open.spotify.com/album/17U67UOLzyWQpfa4a9Hwr9) | 2:44 | 2024-01-13 | 2024-03-10 |
 | [Now Run](https://open.spotify.com/track/7ALUnPM5mtsqszopfjVhGA) | [Pencil Legs](https://open.spotify.com/artist/1vjVjrMopGFYfuvczWXXM4) | [Now Run](https://open.spotify.com/album/6IAZhO3ys5Y6DH3ivqotbb) | 2:45 | 2024-09-30 | 2024-10-02 |
+| [obvious](https://open.spotify.com/track/786jy4LS2o1DIPIcul4y7D) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [harvest sky / obvious](https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz) | 2:15 | 2024-10-24 |  |
 | [October](https://open.spotify.com/track/5swPCgRa6RqUe4mJHUkr6m) | [Laura Watling](https://open.spotify.com/artist/73MW73mdadOqPIwHhukqCZ) | [Early Morning Walk](https://open.spotify.com/album/0TCfgeda9Ok07MIZDEvwxZ) | 3:06 | 2024-09-30 |  |
 | [Of Up And Coming Monarchs](https://open.spotify.com/track/7LLK9N77v699ZyY3X88sjX) | [Pedro The Lion](https://open.spotify.com/artist/4ApdWjZjftqD77Vh6qDbCr) | [It's Hard To Find A Friend \(Remastered\)](https://open.spotify.com/album/2mwUmDzFVzwlgibfYH38GR) | 3:03 | 2024-09-27 | 2024-10-12 |
 | [Oh, Bessie!](https://open.spotify.com/track/1Br5qvzmRrON6cEVypOdH0) | [The Teeth](https://open.spotify.com/artist/6mPVyXVEtodJcnf9AhjCHN) | [Carry the Wood](https://open.spotify.com/album/0c4kPuNaOn0tlWFtB5l493) | 2:29 | 2024-08-12 | 2024-09-08 |
@@ -241,6 +243,7 @@
 | [Reunion](https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ) | [Korea Girl](https://open.spotify.com/artist/1Z5bekaSxinwyB2pxG6pks) | [The Complete Discography](https://open.spotify.com/album/5rQPHWyiLu7mkHIb3p8F5r) | 4:21 | 2024-09-23 |  |
 | [River](https://open.spotify.com/track/5d3ArMtXKdeBwBv9DCbA7W) | [玉木宏樹](https://open.spotify.com/artist/6UfotY8b9W0EPzqlwpfx7z) | [Bhagwan Shree Rajneesh](https://open.spotify.com/album/3W2sfOVM41xfJRZSd0WXdD) | 5:48 | 2024-09-27 |  |
 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 | 2024-05-16 | 2024-07-12 |
+| [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 | 2024-10-24 |  |
 | [Rounded](https://open.spotify.com/track/1nmvQPoa895Ix8DLtvM0W7) | [Perko](https://open.spotify.com/artist/14Fh7pVruBYhqcFVmiVU9M) | [Rounded](https://open.spotify.com/album/7teCjVkvFEvhnLBp2V2AfO) | 5:43 | 2024-10-10 |  |
 | [Routiner](https://open.spotify.com/track/3ZoxV3vTrQGR5hcMND9sfs) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [Routiner / Postcard](https://open.spotify.com/album/76F53xQ0kSoAd9tgNFOg2o) | 3:22 | 2024-09-24 |  |
 | [Rude Girl on Rotation](https://open.spotify.com/track/4EhV8FoOtNW8QfUelPoDhF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Lady On The Cusp](https://open.spotify.com/album/018Fb0iL812xrL5tR6MOzX) | 2:40 | 2024-07-12 | 2024-09-08 |
@@ -253,6 +256,7 @@
 | [Sepiatone](https://open.spotify.com/track/2jymt1GBsUjaFNNOYDfRDo) | [Sepiatone](https://open.spotify.com/artist/04Urn5thSune3deFvSCPmk) | [In Sepiatone](https://open.spotify.com/album/1Zenx1StQqmVXFiBbVgvzz) | 2:30 | 2024-09-07 |  |
 | [Serenade](https://open.spotify.com/track/2lQPJWfiPr1v3Yy9y8EfQK) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 2:58 | 2024-07-25 | 2024-09-08 |
 | [Shaded Tree](https://open.spotify.com/track/7IEpUKhnn41bBFb1RF8aBr) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shaded Tree](https://open.spotify.com/album/2cV0Yn07F5F3eU4siaQcQo) | 3:23 | 2024-09-30 |  |
+| [She Is Staggering](https://open.spotify.com/track/6hFaRjM7c0QizkgMkZsdwg) | [Polaris](https://open.spotify.com/artist/1ZOKm4ZfrMPjTynDt99aCp) | [Music From The Adventures Of Pete & Pete](https://open.spotify.com/album/1cqCEa8ldM7nwcEINzz8MA) | 3:08 | 2024-10-24 |  |
 | [She's Leaving You](https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [She's Leaving You](https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp) | 4:38 | 2024-06-25 | 2024-07-12 |
 | [She's the One](https://open.spotify.com/track/4inw6roamzcaRD8v15Y0bu) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 3:09 | 2024-05-30 | 2024-07-12 |
 | [Shikako Maru Ten](https://open.spotify.com/track/3NCzYu2GXu4iJE286d7x6T) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Shikako Maru Ten](https://open.spotify.com/album/5Y0rxm6JM2RAqm1k5aam2Y) | 3:18 | 2024-01-31 | 2024-03-10 |

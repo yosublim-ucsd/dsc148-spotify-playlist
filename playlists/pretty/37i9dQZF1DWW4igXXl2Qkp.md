@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:3OrXU7Z906hHdbG5fTQ6Ef">Lil Bean</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,087 likes - 85 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,164 likes - 85 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 72 | [Rocksteady](https://open.spotify.com/track/4kJXMh8UNRxQlEqWZR5VIz) | [Niambi](https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6) | [Rocksteady](https://open.spotify.com/album/1IP3pF4OpdVEeIeMbkSezV) | 2:36 |
 | 73 | [undecided'](https://open.spotify.com/track/3tdTzfiK5MMntCzwqZocuU) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [undecided'](https://open.spotify.com/album/3R6bCb3Lrl1PU07Q4pxB3h) | 1:36 |
 | 74 | [afrovay](https://open.spotify.com/track/0u8ONlIp5Ww8GpjsAFLQ7I) | [Vayda](https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H) | [VAYTRIX](https://open.spotify.com/album/2eJUaD1yTAjsLn9Sg1eED2) | 1:58 |
-| 75 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 2:32 |
+| 75 | [Last Ones Left](https://open.spotify.com/track/0ByHioNNYiqlQuPgqq9DI5) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Last Ones Left](https://open.spotify.com/album/6SM9m97WCQJFQpIOtyliD1) | 1:40 |
 | 76 | [Yukon Gold](https://open.spotify.com/track/4AhznCPwJC1rtmi5uHR9Km) | [Ché](https://open.spotify.com/artist/5T7ee6VL2z54vMk5MYxNNk) | [Yukon Gold](https://open.spotify.com/album/2SUnlUazK4vsJBOAwwE3Ia) | 3:23 |
 | 77 | [BACK HOME \- Bonus Track](https://open.spotify.com/track/0xHGxZSV1fqdxOK3sOnYc6) | [Donte Thomas](https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor), [Malik Elijah](https://open.spotify.com/artist/1go10OxHP4fyGsyWfJcFEh), [MyFavoriteColor](https://open.spotify.com/artist/4ahfNEIO8NuGCgMhMzRv33) | [an APPLE a day \(Deluxe Edition\)](https://open.spotify.com/album/5fIw6VeBYItjz8HgZdWQPE) | 4:16 |
 | 78 | [Wrist](https://open.spotify.com/track/3E58VxfZbhHsU5PjNof1pI) | [Rob the Bank](https://open.spotify.com/artist/71j9zpBeJVBnPLE5kIzJrE), [Ozer](https://open.spotify.com/artist/3J0qyBq8miao9sTXOlAkWp), [YGTUT](https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU) | [Wrist](https://open.spotify.com/album/1UWK9F4hYvvLoUUl0KieGs) | 4:13 |

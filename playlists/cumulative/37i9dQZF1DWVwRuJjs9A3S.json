@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All the highlights from the world of indie! Cover: M\u00d8",
+  "description": "All the highlights from the world of indie! Cover: Say Lou Lou",
   "name": "Indie Highlights",
   "tracks": [
     {
@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Antikens Under",
+        "url": "https://open.spotify.com/album/4JZT3spMaO9JZv83nr3hfy"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Johansson",
+          "url": "https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245867,
+      "name": "Antikens Under",
+      "url": "https://open.spotify.com/track/0NjXIUaR5epf2jmOOUV5fD"
+    },
+    {
+      "album": {
         "name": "Any Way (feat. Maggie Rogers)",
         "url": "https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF"
       },
@@ -466,6 +484,50 @@
       "duration_ms": 157366,
       "name": "Apple featuring the japanese house",
       "url": "https://open.spotify.com/track/1PJe42QnCMD6JqhcooaWzc"
+    },
+    {
+      "album": {
+        "name": "Apple of My Eye",
+        "url": "https://open.spotify.com/album/3M5JKVdMXbOF1pZwlwAtUt"
+      },
+      "artists": [
+        {
+          "name": "N.I.K",
+          "url": "https://open.spotify.com/artist/5ZxZX70VVUDqKeK0TI1D2l"
+        },
+        {
+          "name": "Alvian",
+          "url": "https://open.spotify.com/artist/3BTDxFVCNkEpVkB2B8cEdr"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124210,
+      "name": "Apple of My Eye",
+      "url": "https://open.spotify.com/track/76bzTMnzA5GY007uUcC6rb"
+    },
+    {
+      "album": {
+        "name": "What A Relief",
+        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182110,
+      "name": "As Good As It Gets",
+      "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
     },
     {
       "album": {
@@ -1173,7 +1235,7 @@
     },
     {
       "album": {
-        "name": "Del av dig",
+        "name": "Del av dig (Edit)",
         "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
       },
       "artists": [
@@ -1186,7 +1248,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 221418,
-      "name": "Del av dig",
+      "name": "Del av dig - Edit",
       "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
     },
     {
@@ -1441,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "DYGA",
+        "url": "https://open.spotify.com/album/0DumS1Ogwx249qNNoL1SAX"
+      },
+      "artists": [
+        {
+          "name": "SCARLET",
+          "url": "https://open.spotify.com/artist/284gfU2jTQOAWk8WJgYKUj"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188583,
+      "name": "DYGA",
+      "url": "https://open.spotify.com/track/0BQbEDDi4lW8bBMEv1XWau"
+    },
+    {
+      "album": {
         "name": "Dying Light",
         "url": "https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH"
       },
@@ -1637,6 +1717,42 @@
     },
     {
       "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/6hs5fef4nuhd4nEb2tzk6y"
+      },
+      "artists": [
+        {
+          "name": "Emma H\u00e5\u00e5rd",
+          "url": "https://open.spotify.com/artist/7efUZcMGY04yOrQbW7fpRI"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "EXIT",
+      "url": "https://open.spotify.com/track/7q9xa6dfbTKXhmnXxQtJXe"
+    },
+    {
+      "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261005,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+    },
+    {
+      "album": {
         "name": "Fakest Bitch",
         "url": "https://open.spotify.com/album/1eT1mmPEaaB7llhGwITJti"
       },
@@ -1706,6 +1822,24 @@
       "duration_ms": 256066,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+    },
+    {
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ"
     },
     {
       "album": {
@@ -1800,6 +1934,28 @@
       "duration_ms": 182416,
       "name": "Flyga Fram",
       "url": "https://open.spotify.com/track/35buTrFZ00h0svO032k1m2"
+    },
+    {
+      "album": {
+        "name": "forever on my mind",
+        "url": "https://open.spotify.com/album/3PTXIacmqhTYHyO4txzx7p"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173812,
+      "name": "forever on my mind",
+      "url": "https://open.spotify.com/track/7Mgl85DExMmXZQK63YoyBJ"
     },
     {
       "album": {
@@ -2601,6 +2757,28 @@
     },
     {
       "album": {
+        "name": "I'm on your team",
+        "url": "https://open.spotify.com/album/1e7jZCaYQ6UyyrENaP4VOT"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "I'm on your team",
+      "url": "https://open.spotify.com/track/6vHmrQXC2dACfRAQ4jivTF"
+    },
+    {
+      "album": {
         "name": "I'm the first who needs to get out of my way",
         "url": "https://open.spotify.com/album/1HqeoUusdVUweDPUymdrat"
       },
@@ -2782,6 +2960,24 @@
       "duration_ms": 159250,
       "name": "Jackrabbit",
       "url": "https://open.spotify.com/track/4YJwViRMJjbnCmBCtBAaZM"
+    },
+    {
+      "album": {
+        "name": "Noof Belfast \u2013 Nybro City",
+        "url": "https://open.spotify.com/album/5WstAcClR0wOb8M18QSEKz"
+      },
+      "artists": [
+        {
+          "name": "Avantgardet",
+          "url": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244013,
+      "name": "Jag Vill Inte Va Med",
+      "url": "https://open.spotify.com/track/4XcVFMu1a1DMVxriUSSqps"
     },
     {
       "album": {
@@ -3108,6 +3304,24 @@
       "duration_ms": 185258,
       "name": "Leave a Little Love Behind",
       "url": "https://open.spotify.com/track/4Nk8zZ9TEjBb4NHgPHNq6k"
+    },
+    {
+      "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231490,
+      "name": "Leaveyourlove",
+      "url": "https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w"
     },
     {
       "album": {
@@ -3476,6 +3690,24 @@
       "duration_ms": 257851,
       "name": "martingale",
       "url": "https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e"
+    },
+    {
+      "album": {
+        "name": "En popprinsessas dagbok",
+        "url": "https://open.spotify.com/album/21lahm7AKPNx4uxiJh7kq0"
+      },
+      "artists": [
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157106,
+      "name": "Mascara",
+      "url": "https://open.spotify.com/track/6cpNXgi5hDLvH2U3sQErnf"
     },
     {
       "album": {
@@ -3865,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "N\u00e4ra (tills d\u00f6den skiljer oss \u00e5t) kanske...",
+        "url": "https://open.spotify.com/album/3b0sXy1KXT6yCpTnqsV93R"
+      },
+      "artists": [
+        {
+          "name": "Tolleby",
+          "url": "https://open.spotify.com/artist/3oU8vjtO6xFtZmHorhRI7F"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215062,
+      "name": "N\u00e4ra (tills d\u00f6den skiljer oss \u00e5t) kanske...",
+      "url": "https://open.spotify.com/track/6q21tm64mQM6klFPAJCSOY"
+    },
+    {
+      "album": {
         "name": "October Moon",
         "url": "https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp"
       },
@@ -3916,6 +4166,24 @@
       "duration_ms": 180720,
       "name": "Old Life",
       "url": "https://open.spotify.com/track/1BCWmRqByLwKXQkf28aqWf"
+    },
+    {
+      "album": {
+        "name": "Omen",
+        "url": "https://open.spotify.com/album/0BIrzL2CQ7XB9fNTkJUsGL"
+      },
+      "artists": [
+        {
+          "name": "alad\u00e5b",
+          "url": "https://open.spotify.com/artist/2JOxrsxnCxt0hp6sIN6xf0"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275208,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/4ct7YkbAS6GfTubthEDqtP"
     },
     {
       "album": {
@@ -4010,6 +4278,24 @@
       "duration_ms": 196133,
       "name": "Orkanen",
       "url": "https://open.spotify.com/track/7AxSlCWEB5vT5FK9RMzOxs"
+    },
+    {
+      "album": {
+        "name": "Other Girls",
+        "url": "https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198334,
+      "name": "Other Girls",
+      "url": "https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do"
     },
     {
       "album": {
@@ -4175,6 +4461,28 @@
     },
     {
       "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        },
+        {
+          "name": "Emilie Nicolas",
+          "url": "https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Pornography",
+      "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
+    },
+    {
+      "album": {
         "name": "arken/prismor",
         "url": "https://open.spotify.com/album/0w84MKny8k6Usfod8gDVxD"
       },
@@ -4190,6 +4498,24 @@
       "duration_ms": 248000,
       "name": "prismor",
       "url": "https://open.spotify.com/track/3qR6U22OHQY7YykVUrGZSV"
+    },
+    {
+      "album": {
+        "name": "Provocateur",
+        "url": "https://open.spotify.com/album/7IIqR1U6AyKVYrLQeEbczI"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "Provocateur",
+      "url": "https://open.spotify.com/track/4WM16ujAuOr9QGwPkBT8u4"
     },
     {
       "album": {
@@ -4781,6 +5107,24 @@
     },
     {
       "album": {
+        "name": "behind every beautiful thing",
+        "url": "https://open.spotify.com/album/67at8OghnAlTfzw8sgtb1B"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Should've Dressed for the Event",
+      "url": "https://open.spotify.com/track/2WWUQS3BBdfgqlC8cn3lPK"
+    },
+    {
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/5LjNNbanhRjsMn0g0lyrOD"
       },
@@ -4933,6 +5277,24 @@
     },
     {
       "album": {
+        "name": "Bl\u00e5 Timmar",
+        "url": "https://open.spotify.com/album/0vmnKdMbPBNuuKEc4WZHBj"
+      },
+      "artists": [
+        {
+          "name": "Mattis",
+          "url": "https://open.spotify.com/artist/0JMKOzAe77KyZ7oouH0CxK"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143680,
+      "name": "Sockerbitar",
+      "url": "https://open.spotify.com/track/1RkGkZi7Z887WHUJbLC6K1"
+    },
+    {
+      "album": {
         "name": "Som En Sol",
         "url": "https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7"
       },
@@ -5059,6 +5421,24 @@
     },
     {
       "album": {
+        "name": "Stockholm brinner",
+        "url": "https://open.spotify.com/album/7AOWEjRukVK9xgxNNv3qZT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Fr\u00f6berg",
+          "url": "https://open.spotify.com/artist/28rcX29N6hHPAhlD4JmjOc"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247360,
+      "name": "Stockholm brinner",
+      "url": "https://open.spotify.com/track/2ZLrHZTegwnUKYWjQxQkfW"
+    },
+    {
+      "album": {
         "name": "Feeling Mignon",
         "url": "https://open.spotify.com/album/3VyjmGBCmx7AGEmPook14n"
       },
@@ -5110,6 +5490,28 @@
       "duration_ms": 170383,
       "name": "Supersad",
       "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
+    },
+    {
+      "album": {
+        "name": "Supersonic P*$$y (Better Than Your Dreams) [Shadi G Remix]",
+        "url": "https://open.spotify.com/album/0wT3e81qEIN3kVDpeWjq1q"
+      },
+      "artists": [
+        {
+          "name": "Bishat",
+          "url": "https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr"
+        },
+        {
+          "name": "Shadi G",
+          "url": "https://open.spotify.com/artist/2vi2Nl9GZnMiCFxdlLT98D"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168950,
+      "name": "Supersonic P*$$y (Better Than Your Dreams) - Shadi G Remix",
+      "url": "https://open.spotify.com/track/3RU2luMdAh9w58OPLwcp8R"
     },
     {
       "album": {
@@ -5450,6 +5852,24 @@
       "duration_ms": 200589,
       "name": "THINGS BEHIND THINGS BEHIND THINGS",
       "url": "https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj"
+    },
+    {
+      "album": {
+        "name": "Think about you",
+        "url": "https://open.spotify.com/album/3UIiIAJLo1jnSHTKhBw1lZ"
+      },
+      "artists": [
+        {
+          "name": "Van Dame",
+          "url": "https://open.spotify.com/artist/0jliO9N9vKNE5BhW5iK9BC"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241629,
+      "name": "Think about you",
+      "url": "https://open.spotify.com/track/2fGcflMTRcNGLCiMHkaiBv"
     },
     {
       "album": {
@@ -5959,6 +6379,24 @@
     },
     {
       "album": {
+        "name": "Wish I Could Hold You",
+        "url": "https://open.spotify.com/album/68YhnCOjvveRByOAc1w2GR"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232866,
+      "name": "Wish I Could Hold You",
+      "url": "https://open.spotify.com/track/6oP3Lock2adIgvHb1Sr9wu"
+    },
+    {
+      "album": {
         "name": "Half truths from a broken heart",
         "url": "https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz"
       },
@@ -6104,6 +6542,24 @@
       "duration_ms": 189822,
       "name": "Young-Girl (Illusion)",
       "url": "https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d"
+    },
+    {
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205146,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
     },
     {
       "album": {

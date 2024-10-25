@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 555516,
+  "num_followers": 555629,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "The Road I'm On",
-        "url": "https://open.spotify.com/album/2LoZ43O8cJ277FZLoGn8UU"
-      },
-      "artists": [
-        {
-          "name": "Ranji",
-          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
-        },
-        {
-          "name": "Bingo Bango",
-          "url": "https://open.spotify.com/artist/44luJjfcUtxqDXGs3d9emu"
-        }
-      ],
-      "duration_ms": 260868,
-      "name": "The Road I'm On",
-      "url": "https://open.spotify.com/track/4mA8VXKSpyfTZ66uuyQnw7"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Ameno",
         "url": "https://open.spotify.com/album/4JDtYMAj4gRrKAdWXuGqTT"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 156827,
       "name": "Ameno",
       "url": "https://open.spotify.com/track/7MDppFVchHTvTRvr4q69z8"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "The Road I'm On",
+        "url": "https://open.spotify.com/album/2LoZ43O8cJ277FZLoGn8UU"
+      },
+      "artists": [
+        {
+          "name": "Ranji",
+          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
+        },
+        {
+          "name": "Bingo Bango",
+          "url": "https://open.spotify.com/artist/44luJjfcUtxqDXGs3d9emu"
+        }
+      ],
+      "duration_ms": 260868,
+      "name": "The Road I'm On",
+      "url": "https://open.spotify.com/track/4mA8VXKSpyfTZ66uuyQnw7"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -447,30 +447,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Sympathize",
-        "url": "https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk"
-      },
-      "artists": [
-        {
-          "name": "Ranji",
-          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
-        },
-        {
-          "name": "Davee",
-          "url": "https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2"
-        },
-        {
-          "name": "Ela",
-          "url": "https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj"
-        }
-      ],
-      "duration_ms": 308785,
-      "name": "Sympathize",
-      "url": "https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Aliyu",
         "url": "https://open.spotify.com/album/7LN85I2vF2ogylhUePHpsY"
       },
@@ -491,6 +467,50 @@
       "duration_ms": 231000,
       "name": "Aliyu",
       "url": "https://open.spotify.com/track/6UO97Q5Rbg7iLAcIiAIZHr"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "All Gone",
+        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
+      },
+      "artists": [
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        },
+        {
+          "name": "Jacob",
+          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
+        }
+      ],
+      "duration_ms": 229436,
+      "name": "All Gone",
+      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Sympathize",
+        "url": "https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk"
+      },
+      "artists": [
+        {
+          "name": "Ranji",
+          "url": "https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p"
+        },
+        {
+          "name": "Davee",
+          "url": "https://open.spotify.com/artist/4bPPMaeetFSybJAoj46xc2"
+        },
+        {
+          "name": "Ela",
+          "url": "https://open.spotify.com/artist/13wo29ljmUgZlFZB2py2vj"
+        }
+      ],
+      "duration_ms": 308785,
+      "name": "Sympathize",
+      "url": "https://open.spotify.com/track/6X3DD4NUiJaOtPTt98QIkP"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -551,26 +571,6 @@
       "duration_ms": 267107,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/70JpMCSGSHQ0gB1IARwoL1"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "All Gone",
-        "url": "https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o"
-      },
-      "artists": [
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Jacob",
-          "url": "https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN"
-        }
-      ],
-      "duration_ms": 229436,
-      "name": "All Gone",
-      "url": "https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -811,30 +811,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Drivin Me Insane",
-        "url": "https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Carrera",
-          "url": "https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX"
-        },
-        {
-          "name": "Memento Mori",
-          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
-        },
-        {
-          "name": "Umali",
-          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
-        }
-      ],
-      "duration_ms": 195724,
-      "name": "Drivin Me Insane",
-      "url": "https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Rise The Remixes",
         "url": "https://open.spotify.com/album/7aJEOvh6tSmx81Sz7OVQg3"
       },
@@ -859,6 +835,30 @@
       "duration_ms": 427605,
       "name": "We are Psychedelic - GMS Remix",
       "url": "https://open.spotify.com/track/3qehmGY1DnlBI5W9iFlUhR"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Drivin Me Insane",
+        "url": "https://open.spotify.com/album/2KLnSWDwZMrQuYogkMGURT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Carrera",
+          "url": "https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX"
+        },
+        {
+          "name": "Memento Mori",
+          "url": "https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR"
+        },
+        {
+          "name": "Umali",
+          "url": "https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D"
+        }
+      ],
+      "duration_ms": 195724,
+      "name": "Drivin Me Insane",
+      "url": "https://open.spotify.com/track/12kEO1dRdm31qliqSTQylT"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "STAY (HEDEGAARD Remix)",
-        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 147718,
-      "name": "STAY - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Mystical Experience",
         "url": "https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 550985,
       "name": "Mystical Experience",
       "url": "https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "STAY (HEDEGAARD Remix)",
+        "url": "https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 147718,
+      "name": "STAY - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
+        "name": "Extra-Terra",
+        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
+      },
+      "artists": [
+        {
+          "name": "GRAViiTY",
+          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
+        }
+      ],
+      "duration_ms": 231269,
+      "name": "Extra-Terra",
+      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
         "name": "Music Is My Remedy",
         "url": "https://open.spotify.com/album/4BXnjRvqUm9CD8DL7VoU7v"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 306857,
       "name": "Music Is My Remedy",
       "url": "https://open.spotify.com/track/6jzgprpVQTyDlNHD8E8jEI"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Extra-Terra",
-        "url": "https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4"
-      },
-      "artists": [
-        {
-          "name": "GRAViiTY",
-          "url": "https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY"
-        }
-      ],
-      "duration_ms": 231269,
-      "name": "Extra-Terra",
-      "url": "https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Gracias a la Vida",
-        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
-      },
-      "artists": [
-        {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
-        }
-      ],
-      "duration_ms": 348274,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/3R5bwfK41PlcujliH2X2UZ"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 215142,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/2peA9evFHZedrys82CcDr4"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Gracias a la Vida",
+        "url": "https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        }
+      ],
+      "duration_ms": 348274,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Negev",
-        "url": "https://open.spotify.com/album/1s2JLwfuLJKZhzZPi17mdo"
-      },
-      "artists": [
-        {
-          "name": "Animato",
-          "url": "https://open.spotify.com/artist/3EbiMr7AC6OqfPcrEHPVtL"
-        },
-        {
-          "name": "Pettra",
-          "url": "https://open.spotify.com/artist/2qzM98SPNta8roSgqVfG7D"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Negev",
-      "url": "https://open.spotify.com/track/5FA74wCrHIAQ43TDbPqKbp"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
         "name": "Carmen",
         "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 243428,
       "name": "Carmen",
       "url": "https://open.spotify.com/track/4k5X5M6WGGWNvcXVqqHuMR"
+    },
+    {
+      "added_at": "2024-09-27 04:00:00",
+      "album": {
+        "name": "Negev",
+        "url": "https://open.spotify.com/album/1s2JLwfuLJKZhzZPi17mdo"
+      },
+      "artists": [
+        {
+          "name": "Animato",
+          "url": "https://open.spotify.com/artist/3EbiMr7AC6OqfPcrEHPVtL"
+        },
+        {
+          "name": "Pettra",
+          "url": "https://open.spotify.com/artist/2qzM98SPNta8roSgqVfG7D"
+        }
+      ],
+      "duration_ms": 480000,
+      "name": "Negev",
+      "url": "https://open.spotify.com/track/5FA74wCrHIAQ43TDbPqKbp"
     },
     {
       "added_at": "2024-09-27 04:00:00",

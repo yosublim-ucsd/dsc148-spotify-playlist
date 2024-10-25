@@ -4,7 +4,7 @@
 
 > Cause I'm a person just like you but I got better things to do.
 
-130 songs - 4 hr 26 min
+131 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Coll\-Edge](https://open.spotify.com/track/00h43Zi1NyfhRUG7QqatNv) | [Good Clean Fun](https://open.spotify.com/artist/67G4Qrj2sRB05bYjofHWc2) | [Positively Positive](https://open.spotify.com/album/5nuGVuiXvDDJeFVT8hGloY) | 2:27 | 2021-07-09 |  |
 | [Counter](https://open.spotify.com/track/7oHzJnspW5lvQrb5EEZiTp) | [Path Of Resistance](https://open.spotify.com/artist/7rwAzWCZf9UexTAHgIeypU) | [Who Dares Wins](https://open.spotify.com/album/0AppmnvZHcZBTHDXl0vLvR) | 2:03 | 2021-07-09 |  |
 | [Death Disguised As Salvation](https://open.spotify.com/track/3ra3moWwtFEGzn2TP24bEk) | [Until The End](https://open.spotify.com/artist/4z6EdG9lHbRCFE3Q6FgKxy) | [Blood In the Ink](https://open.spotify.com/album/1twP5Gk7IMmkmqsKWduDqA) | 2:53 | 2021-07-09 |  |
+| [Decide](https://open.spotify.com/track/6nTkuZVtaU8bCLCrnVqJY7) | [Shutdown](https://open.spotify.com/artist/40s4gmRbRxJFQ2w4mVCub3) | [Decide](https://open.spotify.com/album/2UykEHV5O7fBUIo03sMtsi) | 1:49 | 2024-10-25 |  |
 | [Drug Free Nation \- Demo Version](https://open.spotify.com/track/0hmTZ9IWbcaBxHk3TtZb5Q) | [Ten Yard Fight](https://open.spotify.com/artist/3SCf9Y2HTbV2LmafwL8EFb) | [Hardcore Pride](https://open.spotify.com/album/0o0RkPPVu3z5cE1WtZt9vS) | 1:45 | 2021-07-09 |  |
 | [Drug Free Youth](https://open.spotify.com/track/0VTGbOufszLeiMrHy30K1d) | [Zero Boys](https://open.spotify.com/artist/3tasoNLQ6d3uNBGrC1LEOD) | [Vicious Circle](https://open.spotify.com/album/4X9WgineT3A4GzLwYGiNi2) | 1:07 | 2021-07-09 | 2024-04-19 |
 | [Drug Free Youth](https://open.spotify.com/track/5Pp40s4lab7DSNEiYMC1tI) | [Zero Boys](https://open.spotify.com/artist/3tasoNLQ6d3uNBGrC1LEOD) | [Vicious Circle](https://open.spotify.com/album/7pWmTmYrjaDc3MUTKkl1g5) | 1:07 | 2021-07-09 |  |

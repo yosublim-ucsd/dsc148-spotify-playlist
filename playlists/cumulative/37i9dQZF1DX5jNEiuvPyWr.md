@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : EDGE
+> Le meilleur du rap français version cloud\. Photo : HOUDI
 
-441 songs - 21 hr 35 min
+443 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [7DUMATIN](https://open.spotify.com/track/7FUj9qDOg4ak69PUih6QiA) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [Reset/Start](https://open.spotify.com/album/5esIkU96v4JHvpNGqprjQo) | 2:40 | 2023-04-27 | 2023-09-08 |
 | [A perte](https://open.spotify.com/track/5wmyF6drfu8jkNZ0JPNvKZ) | [Billi](https://open.spotify.com/artist/4c0fM3fOFU8S3xM2JzGq88) | [A perte](https://open.spotify.com/album/79CEfpo0U9HpHpJn56B4mK) | 3:12 | 2024-09-26 |  |
 | [A toute vitesse](https://open.spotify.com/track/4phmBSG3bn6OC5Cs6QunPl) | [Seizur](https://open.spotify.com/artist/0T78Z9fFMf6PfPYMybM0ZF) | [A toute vitesse](https://open.spotify.com/album/1tFG0ErIbNpLaT9OeufOI4) | 2:52 | 2022-12-01 | 2023-02-10 |
+| [A.D.N](https://open.spotify.com/track/2DrjbrGDb6s1RlAfs8kwvn) | [Remastered](https://open.spotify.com/artist/6uvSVi5xnoa5UyD4E5Ik7r), [Mandyspie](https://open.spotify.com/artist/1EKlBG4TgOac9aboMbphiM), [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [A.D.N](https://open.spotify.com/album/6QbCOOjR8N3AKhaBVVNhdQ) | 2:37 | 2024-10-24 |  |
 | [A7](https://open.spotify.com/track/2wYqPFq90ncbRAuQdqzaZM) | [La formule](https://open.spotify.com/artist/5YGnhKKWnnlfVGHzwO9Vly), [BlackTria](https://open.spotify.com/artist/56GVzeiYe2ZH3iiNMkmbQs) | [46.96.](https://open.spotify.com/album/7IxL0jXySiOuAfl95Zy0uz) | 2:41 | 2022-09-29 | 2022-10-28 |
 | [Aaliyah](https://open.spotify.com/track/0nR4wEOdxieaU7gX5W4zxj) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [Anhédonie](https://open.spotify.com/album/3GlInzLWZqAf3dkxO5CzEE) | 2:42 | 2024-05-16 |  |
 | [Adieu](https://open.spotify.com/track/1ilokYv1QbIr23OtZ44qZx) | [Softo](https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp) | [Adieu](https://open.spotify.com/album/52kcqfFjbEpWi94R4xbWFM) | 2:43 | 2023-07-13 | 2023-07-19 |
@@ -70,7 +71,7 @@
 | [bohème.](https://open.spotify.com/track/4qgxoRgaWlHeFTKISGes2f) | [Idrane](https://open.spotify.com/artist/7lnlpCPA31jrYPAVNVR3JV) | [Arkoydaki](https://open.spotify.com/album/7F15V1PMXT4QPt5euw9HOf) | 2:56 | 2024-04-25 | 2024-06-07 |
 | [Bonjour quand même](https://open.spotify.com/track/1ozKwcj59fq7PYjyi3NWbe) | [Tsune](https://open.spotify.com/artist/3xQSe5wUqOUFcF5GWlziQb) | [Bonjour quand même](https://open.spotify.com/album/1pLz5qmhYnHt4kUkAW0zfr) | 3:30 | 2023-08-10 | 2023-09-29 |
 | [BORDEL](https://open.spotify.com/track/2zsHwRpE74couNe2TM97vl) | [Araujo](https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP) | [BORDEL](https://open.spotify.com/album/1OYNMkOWvo55wG2Pl39NLh) | 2:47 | 2023-04-27 | 2023-05-26 |
-| [BOTTEGA](https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB) | [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [23 \-](https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI) | 3:07 | 2023-11-30 |  |
+| [BOTTEGA](https://open.spotify.com/track/4N3H6Pe1BHEKGMx2U3vIjB) | [Khali](https://open.spotify.com/artist/0rqQfmTWtmxzlrNmnruQXS) | [23 \-](https://open.spotify.com/album/5ncfRnCt3xSTJMnoAgplCI) | 3:07 | 2023-11-30 | 2024-10-25 |
 | [Boulevard des Belges](https://open.spotify.com/track/7KFpc05eZ24c3DTDwY8ER4) | [Rifa](https://open.spotify.com/artist/7syrxKncMH592h3hwq0elv) | [Boulevard des Belges](https://open.spotify.com/album/4k6uAkPyFAcOAWIhRdgwUM) | 3:06 | 2023-03-02 | 2023-04-21 |
 | [Boulot dodo](https://open.spotify.com/track/6uZw5oZjjbef3fb1Nm3Frl) | [GS](https://open.spotify.com/artist/5rtvBFj4IeWDwKjf9cmeKv) | [Boulot dodo](https://open.spotify.com/album/6D1MCxFBPdeF74Swz2YHyE) | 2:44 | 2024-03-07 | 2024-05-03 |
 | [Boyka](https://open.spotify.com/track/5sEaPVHq9bCxFaz0W2poeC) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Boyka](https://open.spotify.com/album/652TTQxvvWs3BIOUGY5q4d) | 3:41 | 2022-07-14 | 2022-09-23 |
@@ -225,7 +226,7 @@
 | [La Fin](https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY) | [Koss](https://open.spotify.com/artist/1cTINVmi2me8JBpCwR2K16) | [La Fin](https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef) | 3:14 | 2022-10-06 | 2022-10-21 |
 | [LA LUNE](https://open.spotify.com/track/6qz8nDdpuW5RvrDjzcYAwa) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [MOTEL STUDIO 2](https://open.spotify.com/album/27bVtUy9JrOK0QCK0P7PAQ) | 2:33 | 2024-07-11 |  |
 | [LA MAIN SUR LE COEUR](https://open.spotify.com/track/4ov5a5J11JtqmqVxT652ox) | [Gemen](https://open.spotify.com/artist/38Ey7an6lpTlez98WKnAd2) | [LA MAIN SUR LE COEUR](https://open.spotify.com/album/2RzJrWCoHC3NHqtAdunKsK) | 2:38 | 2024-09-12 | 2024-10-18 |
-| [La paume](https://open.spotify.com/track/45F4WSxrwyULSeEXH0NDoV) | [YUNG POOR ALO](https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds) | [La paume](https://open.spotify.com/album/3tlJROX0yLLiBttCwU1VfL) | 2:37 | 2024-07-04 |  |
+| [La paume](https://open.spotify.com/track/45F4WSxrwyULSeEXH0NDoV) | [YUNG POOR ALO](https://open.spotify.com/artist/4n9g9O44xmv7k4ET9NLvds) | [La paume](https://open.spotify.com/album/3tlJROX0yLLiBttCwU1VfL) | 2:37 | 2024-07-04 | 2024-10-25 |
 | [La pierre](https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Wilma](https://open.spotify.com/album/7BR6OZQh1ZtXgXUQxHgw3X) | 3:00 | 2022-11-24 | 2023-01-20 |
 | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/track/0AyUide4aAlvuQB76Zj4GR) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ), [Huda](https://open.spotify.com/artist/5NnVq8GhEz24ecoViL85Do) | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/album/0FqPmjoAhmyG0uYEyf33qr) | 2:43 | 2024-08-08 | 2024-10-11 |
 | [LA VIE EN ROSE](https://open.spotify.com/track/7A1dN4Vg7qyIdTBBvh04FV) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [LA VIE EN ROSE](https://open.spotify.com/album/2GS9ArL2nvGfO7zUyUFtYZ) | 3:00 | 2023-08-24 | 2023-11-24 |
@@ -260,6 +261,7 @@
 | [M'y revoilà \(feat\. So La Lune\)](https://open.spotify.com/track/5TFrDVXvqGrYaFwRt5Wrf1) | [Savage Toddy](https://open.spotify.com/artist/6eZmUcps7ec36kCUw0LLWw), [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Né spécial](https://open.spotify.com/album/6G2n483g1GNVq9AHLNKtEO) | 2:49 | 2024-09-26 |  |
 | [M3 \(feat\. Tiakola\)](https://open.spotify.com/track/0MkTS97rxyZjvzcWtoaFYe) | [Théodore](https://open.spotify.com/artist/1LVM8ye1ivMW71OmS264u2), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [ASWAD](https://open.spotify.com/album/0SZlUHqgkPZV8dwhD7EDZ6) | 2:41 | 2022-07-14 | 2022-10-28 |
 | [Ma Nana](https://open.spotify.com/track/5gbxLiDOBUTIEKpIxKMeNe) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo) | [Ma Nana](https://open.spotify.com/album/5incGx0xEG2Hh6SlBZjAZP) | 3:05 | 2022-07-14 | 2022-10-14 |
+| [Ma vie d'avant](https://open.spotify.com/track/0L1I6VmStVwKx4R5ZsOlMN) | [AMIN](https://open.spotify.com/artist/0CA8jbz5CnyVRLR807BskD) | [Vents & Marées](https://open.spotify.com/album/3AginXbPLe3Uf0G1h0PawE) | 3:05 | 2024-10-24 |  |
 | [Maintenant](https://open.spotify.com/track/6GWn6SRhsIURDEGlHkocs1) | [Nixon](https://open.spotify.com/artist/4WlaVjaeMW3N0HpUuhwBq9), [La Miellerie](https://open.spotify.com/artist/0nC7vC1zxC0uRXwEeGKIs9), [G.A THE PLUG](https://open.spotify.com/artist/2k7ABfzD1GWajBZGNGVCPV) | [Maintenant](https://open.spotify.com/album/6uKnkUVqbDtgT8HQMu83R0) | 3:10 | 2024-04-04 | 2024-06-07 |
 | [Maintenant](https://open.spotify.com/track/7dqUEX8cUv22oiK6UHFZMn) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:01 | 2022-07-14 | 2022-11-18 |
 | [Makeup](https://open.spotify.com/track/35MhSTXjGaO1dOMKd7WdKV) | [Max DLG](https://open.spotify.com/artist/7sI6IzovX4PHV7Lqw9SsCw) | [Makeup](https://open.spotify.com/album/11ibFDueN32scqYIGwAX51) | 3:10 | 2023-12-08 | 2024-01-12 |

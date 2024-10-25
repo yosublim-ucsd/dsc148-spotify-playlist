@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "La nuova scena indie italiana! Cover: Giovanni Toscano",
+  "description": "La nuova scena indie italiana! Cover: Alek",
   "name": "Scuola Indie",
   "tracks": [
     {
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 167628,
       "name": "Amore fai presto!",
       "url": "https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 164444,
       "name": "Canterino",
       "url": "https://open.spotify.com/track/1SfPYnnRSfYJnwOBbziCyn"
@@ -518,6 +518,24 @@
       "duration_ms": 174120,
       "name": "Cartine",
       "url": "https://open.spotify.com/track/5mJTdLjHkmSKUpuVHu5bGQ"
+    },
+    {
+      "album": {
+        "name": "catramen",
+        "url": "https://open.spotify.com/album/1Uu6rPp1cKEvNU3OMFomY2"
+      },
+      "artists": [
+        {
+          "name": "TFR",
+          "url": "https://open.spotify.com/artist/67fpSSxFCzrocAWkKw4Kyn"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194909,
+      "name": "catramen",
+      "url": "https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g"
     },
     {
       "album": {
@@ -875,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Estate Inverno",
+        "url": "https://open.spotify.com/album/6j4lubgJZ3exogp0Jt0tJp"
+      },
+      "artists": [
+        {
+          "name": "Aria",
+          "url": "https://open.spotify.com/artist/23ViK4DcmVkaLub6z4VLgW"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Estate Inverno",
+      "url": "https://open.spotify.com/track/4Vv6gdijmH1LPOI24IRyWe"
+    },
+    {
+      "album": {
         "name": "problemi di <3",
         "url": "https://open.spotify.com/album/7HmTgGbqO9YCqilo26IuLZ"
       },
@@ -1074,7 +1110,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 167451,
       "name": "Fratello",
       "url": "https://open.spotify.com/track/7HGdifYN6emWwGIC5QtHSr"
@@ -1110,7 +1146,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 161501,
       "name": "GARAGE MARE",
       "url": "https://open.spotify.com/track/4TU0PgLtOxkSKv1wytyu5N"
@@ -1754,7 +1790,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Milano ad Agosto",
       "url": "https://open.spotify.com/track/67R8ZjmvZPbJeS0xVzaH9v"
@@ -1920,7 +1956,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 160291,
       "name": "Non ci penso",
       "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
@@ -2154,7 +2190,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 213658,
       "name": "Ottovolanti",
       "url": "https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse"
@@ -2266,7 +2302,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 157624,
       "name": "Penso Penso Penso",
       "url": "https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68"
@@ -2284,7 +2320,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 185562,
       "name": "Periferia",
       "url": "https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh"
@@ -2302,7 +2338,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 261092,
       "name": "piangerepiangerepiangere",
       "url": "https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0"
@@ -2410,7 +2446,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 156666,
       "name": "Preda",
       "url": "https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc"
@@ -3040,7 +3076,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 159586,
       "name": "SUPERORGASMO",
       "url": "https://open.spotify.com/track/76oSCqmn2ur4jxICmp5ZKz"
@@ -3220,7 +3256,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 166216,
       "name": "U mari",
       "url": "https://open.spotify.com/track/2eeSKDRJPFmgx2t0EYHGRM"
@@ -3289,6 +3325,24 @@
     },
     {
       "album": {
+        "name": "Un'ora di sole",
+        "url": "https://open.spotify.com/album/3FzC9bahybfQ8RoaIrKKol"
+      },
+      "artists": [
+        {
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156857,
+      "name": "Un'ora di sole",
+      "url": "https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy"
+    },
+    {
+      "album": {
         "name": "Una come te",
         "url": "https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK"
       },
@@ -3347,6 +3401,28 @@
     },
     {
       "album": {
+        "name": "Venere e Giove",
+        "url": "https://open.spotify.com/album/4ATJjmSbvh3YQyTqSZ1Kcy"
+      },
+      "artists": [
+        {
+          "name": "Malamore",
+          "url": "https://open.spotify.com/artist/1wxWynt3FCNUdWwfyxnO9C"
+        },
+        {
+          "name": "Maestro Pellegrini",
+          "url": "https://open.spotify.com/artist/5MREq5pXt2KrVNONoU9w8p"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198275,
+      "name": "Venere e Giove",
+      "url": "https://open.spotify.com/track/5MzhYEq01NPQb7roGsLOSZ"
+    },
+    {
+      "album": {
         "name": "Vigliacco",
         "url": "https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS"
       },
@@ -3376,7 +3452,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-25",
       "duration_ms": 181848,
       "name": "vita lenta",
       "url": "https://open.spotify.com/track/0aahD9Yf5nH1Y0jUhCgNdC"

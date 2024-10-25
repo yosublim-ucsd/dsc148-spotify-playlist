@@ -4,7 +4,7 @@
 
 > Playlist
 
-531 songs - 1 day 7 hr 45 min
+532 songs - 1 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Eclectic Circus Show](https://open.spotify.com/track/2l0GOFOEw3PCj5eRboTtqW) | [Sleepy Gaucho](https://open.spotify.com/artist/2Z0oy5DFzgh7kzFBV4Qa3x) | [Sueños Que Sobran](https://open.spotify.com/album/6nZbtlkiDmpxWxVNpyNMgz) | 3:47 | 2023-10-25 |  |
 | [Eclectic Circus Show](https://open.spotify.com/track/3Ga5R1WhXd8q3ADxWil2bT) | [Sleepy Gaucho](https://open.spotify.com/artist/2Z0oy5DFzgh7kzFBV4Qa3x) | [Eclectic Circus Show](https://open.spotify.com/album/4Jl9qGrG2fPIGV5CpjwOPQ) | 3:47 | 2023-10-25 |  |
 | [Electric Company](https://open.spotify.com/track/1WA6GJ6q0ZlCHUOZ0QY1dw) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Care 2 Share](https://open.spotify.com/album/2NmeIWHpmlrfETl2PkZZJa) | 4:03 | 2023-10-25 |  |
+| [Elevator Pitch](https://open.spotify.com/track/4x3kyg5Sz92GndMR10bZnA) | [Cole Anyway](https://open.spotify.com/artist/6ctBrunhwPNeeuqu8KG7Bd) | [Elevator Pitch](https://open.spotify.com/album/6dDTt0rf4kqLRZtKNordYT) | 2:22 | 2024-10-24 |  |
 | [Employment](https://open.spotify.com/track/10xpWRJA7DJ7Tos01xlp00) | [Layten Kramer](https://open.spotify.com/artist/6N7SiBlq090aRlRDJl8mFL) | [Employment](https://open.spotify.com/album/6ZOUvVhALXSrhYaovZmtae) | 3:25 | 2023-10-25 |  |
 | [Equal Trouble](https://open.spotify.com/track/7Jb5HMSHWwAVAqfApS54Iq) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Equal Trouble](https://open.spotify.com/album/4q7YKgej4p7syDMAPpTedg) | 4:02 | 2023-10-25 |  |
 | [Everybody Dies](https://open.spotify.com/track/0beSRwRNdB94fYPRyydznN) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Peer 2 Peer](https://open.spotify.com/album/0yj7MLtNm1dfYoiqU0hONP) | 3:48 | 2023-10-25 |  |

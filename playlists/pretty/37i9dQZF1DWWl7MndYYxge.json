@@ -1,63 +1,15 @@
 {
   "description": "Le meilleur des ann\u00e9es 80 en 80 titres.",
-  "num_followers": 756235,
+  "num_followers": 756325,
   "original_name": "Ann\u00e9es 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZmxqxAAAAAD9oSnsa2uRwLR4WXi7GBrG",
+  "snapshot_id": "ZxpA0AAAAAB4wuP0Sx6Tiqaevx0jAlNQ",
   "tracks": [
     {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "Evidemment",
-        "url": "https://open.spotify.com/album/4zvdx4wNv0IZiQmVKIODRN"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "Ella, elle l'a",
-      "url": "https://open.spotify.com/track/3XM3TD08DSAzl84yasWP1x"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "'80s Pop #1's",
-        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
-      },
-      "artists": [
-        {
-          "name": "Michael Sembello",
-          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Maniac - From \"Flashdance\" Soundtrack",
-      "url": "https://open.spotify.com/track/4jqCold0GXW9c40QyOGD8S"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "L'aventurier",
-        "url": "https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 231960,
-      "name": "L'aventurier",
-      "url": "https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "True Colors: The Best Of Cyndi Lauper",
         "url": "https://open.spotify.com/album/3ob0XVPoKBjrOjg0mf3zN3"
@@ -73,7 +25,7 @@
       "url": "https://open.spotify.com/track/459EpH5UZgE6fMNPMLOgMF"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Femme Lib\u00e9r\u00e9e",
         "url": "https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi"
@@ -89,23 +41,23 @@
       "url": "https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
-        "name": "99 Luftballons",
-        "url": "https://open.spotify.com/album/0V8ETNFjMiaCoG45ZPWsUs"
+        "name": "80s 100 Hits",
+        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
       },
       "artists": [
         {
-          "name": "Nena",
-          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
         }
       ],
-      "duration_ms": 233000,
-      "name": "99 Luftballons",
-      "url": "https://open.spotify.com/track/6HA97v4wEGQ5TUClRM0XLc"
+      "duration_ms": 228440,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Le son des ann\u00e9es 80",
         "url": "https://open.spotify.com/album/4cQIJjzFnwSFIQjz3MFkol"
@@ -121,7 +73,23 @@
       "url": "https://open.spotify.com/track/0S4dVpqBLnBFj4wdB4UDMd"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "99 Luftballons",
+        "url": "https://open.spotify.com/album/0V8ETNFjMiaCoG45ZPWsUs"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "99 Luftballons",
+      "url": "https://open.spotify.com/track/6HA97v4wEGQ5TUClRM0XLc"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -137,7 +105,39 @@
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "Evidemment",
+        "url": "https://open.spotify.com/album/4zvdx4wNv0IZiQmVKIODRN"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "Ella, elle l'a",
+      "url": "https://open.spotify.com/track/3XM3TD08DSAzl84yasWP1x"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "'80s Pop #1's",
+        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Maniac - From \"Flashdance\" Soundtrack",
+      "url": "https://open.spotify.com/track/4jqCold0GXW9c40QyOGD8S"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
@@ -177,55 +177,23 @@
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
-        "name": "Le coup de folie",
-        "url": "https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K"
+        "name": "L'aventurier",
+        "url": "https://open.spotify.com/album/7bO2aXCaoPZi6ozNSWFwy6"
       },
       "artists": [
         {
-          "name": "Thierry Pastor",
-          "url": "https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH"
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
         }
       ],
-      "duration_ms": 217135,
-      "name": "Le coup de folie",
-      "url": "https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S"
+      "duration_ms": 231960,
+      "name": "L'aventurier",
+      "url": "https://open.spotify.com/track/2UC5XnHA1Wn9FjQmbjNca9"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "80s 100 Hits",
-        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "I'm So Excited",
-      "url": "https://open.spotify.com/track/53NWOfQXdEmbHqg5FGeXlG"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "Hunting High and Low",
-        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "At The Close Of A Century",
         "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
@@ -241,7 +209,39 @@
       "url": "https://open.spotify.com/track/7fjcn8o8kZuPBW2WvFxXVQ"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "Le coup de folie",
+        "url": "https://open.spotify.com/album/1PzNZnVIDlvl4GDtCb6E3K"
+      },
+      "artists": [
+        {
+          "name": "Thierry Pastor",
+          "url": "https://open.spotify.com/artist/2pwVe1rARBwb9VVjcL8XpH"
+        }
+      ],
+      "duration_ms": 217135,
+      "name": "Le coup de folie",
+      "url": "https://open.spotify.com/track/7nWMVmzfodNQ5Ezj29yJ3S"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "Hunting High and Low",
+        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "The Very Best Of Soft Cell [International Version (Excluding UK & Eire)]",
         "url": "https://open.spotify.com/album/0PpEc22k6vwTw82PVIukeT"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/6eTZyUjg4ZoGElNcAINIwJ"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Le Train De Mes Souvenirs",
         "url": "https://open.spotify.com/album/6oub6ygmprxb8y1QG8pDc9"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/05OmZz1tixVBtXMx3cb4oc"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "The OMD Singles",
         "url": "https://open.spotify.com/album/3uWvHMePGRYbZ1rNKZrprz"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/3WIg3fd3W8I5HU8g3Y6P0k"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Libert\u00e9",
         "url": "https://open.spotify.com/album/7Jsx6b2L9AshOKrTFkrNQu"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/7MFWYTlrC81IGpb0Jwgdu7"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "The Game (2011 Remaster)",
         "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
         "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5Qc9yw34BRN9n8pi5YKZ2D"
@@ -389,23 +389,23 @@
       "url": "https://open.spotify.com/track/030RDC2ayPOUM32F9IH7eE"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
-        "name": "In The Army Now - The Collection",
-        "url": "https://open.spotify.com/album/15v7lAf1Hfp2eqgKsD80cg"
+        "name": "MacGruber",
+        "url": "https://open.spotify.com/album/0ZacOBwzregRuuOf6Bn7Zp"
       },
       "artists": [
         {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+          "name": "Quarterflash",
+          "url": "https://open.spotify.com/artist/3VJakY5Yw5phAOF4Bada5v"
         }
       ],
-      "duration_ms": 281146,
-      "name": "In The Army Now",
-      "url": "https://open.spotify.com/track/6TPAhgpBvhMIDUzmDnWJmj"
+      "duration_ms": 232533,
+      "name": "Harden My Heart",
+      "url": "https://open.spotify.com/track/0qa47H0UtlOFq9TLSVrv9R"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Bananarama (Collector's Edition)",
         "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
@@ -437,23 +437,39 @@
       "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
-        "name": "Chacun fait (C'qui lui plait)",
-        "url": "https://open.spotify.com/album/0I18V9PWrPOG3JmOkLyysm"
+        "name": "80's Megadance",
+        "url": "https://open.spotify.com/album/1rDMCZMT30bpLxy9DVV7iE"
       },
       "artists": [
         {
-          "name": "Chagrin D'amour",
-          "url": "https://open.spotify.com/artist/1LTi4SuPK0G9juYKxU6AAG"
+          "name": "Ryan Paris",
+          "url": "https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC"
         }
       ],
-      "duration_ms": 249280,
-      "name": "Chacun fait (c'qui lui plait)",
-      "url": "https://open.spotify.com/track/5TpIQ1tVlPnm4SHObswUU6"
+      "duration_ms": 232946,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/1k5EPmpHGaifp9eCTXD1V8"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "Macumba",
+        "url": "https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8"
+      },
+      "artists": [
+        {
+          "name": "Jean-Pierre Mader",
+          "url": "https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI"
+        }
+      ],
+      "duration_ms": 219835,
+      "name": "Macumba",
+      "url": "https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Synchronicity (Remastered 2003)",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
@@ -469,23 +485,39 @@
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
-        "name": "Vinyles 80's : The Best Of",
-        "url": "https://open.spotify.com/album/2eGbGjobP1GT5btM5SlD4L"
+        "name": "L'Autre",
+        "url": "https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM"
       },
       "artists": [
         {
-          "name": "Sabrina",
-          "url": "https://open.spotify.com/artist/3RPvO8agSVIgo2gbNwsLfo"
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
         }
       ],
-      "duration_ms": 234123,
-      "name": "Boys (Summertime Love)",
-      "url": "https://open.spotify.com/track/4DhFKDNG7R94j5UVhd2hnG"
+      "duration_ms": 322760,
+      "name": "D\u00e9senchant\u00e9e",
+      "url": "https://open.spotify.com/track/15XYdD283tK9iyJzL738bn"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "Kick (Remastered 2011)",
+        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Dure limite (Remasteris\u00e9 en 2015)",
         "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
@@ -501,7 +533,7 @@
       "url": "https://open.spotify.com/track/7p5Na4GvFzP6M7i1ti2YRJ"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
@@ -517,7 +549,7 @@
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "La collection 81-89",
         "url": "https://open.spotify.com/album/2iT1EvHl2FccugMI211gnF"
@@ -537,23 +569,7 @@
       "url": "https://open.spotify.com/track/2i353bK8WrQbJ3wfR6IYWm"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "Never for Ever",
-        "url": "https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 209933,
-      "name": "Babooshka",
-      "url": "https://open.spotify.com/track/53Mz9H5UvWMQUXHZnaZYKQ"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
@@ -569,55 +585,7 @@
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "Macumba",
-        "url": "https://open.spotify.com/album/3eCBdjnw41nMqz89Kno8H8"
-      },
-      "artists": [
-        {
-          "name": "Jean-Pierre Mader",
-          "url": "https://open.spotify.com/artist/0d7c7amZ8BhgmJ55z7foVI"
-        }
-      ],
-      "duration_ms": 219835,
-      "name": "Macumba",
-      "url": "https://open.spotify.com/track/6tgOsCso6nMCRg5EtgixZ2"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "The Essential Kenny Loggins",
-        "url": "https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Footloose - From \"Footloose\" Soundtrack",
-      "url": "https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Jeanne Mas",
         "url": "https://open.spotify.com/album/6TPcySRXzqREzKh3LaGzxn"
@@ -633,7 +601,39 @@
       "url": "https://open.spotify.com/track/4SHIlbYaTolnXdAFAcHGY7"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "The Essential Kenny Loggins",
+        "url": "https://open.spotify.com/album/68ZonGoyvksZu4sqqNXect"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/4YR6Dextuoc3I8nJ0XgzKI"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Comeblack",
         "url": "https://open.spotify.com/album/18pd7kQMiCqyz0001xg4xV"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/0qlZQGo9f7Ea24PPLnXq2R"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "White Feathers",
         "url": "https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/6WEBIVqiEsevfgJefTyuQQ"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
@@ -713,39 +713,7 @@
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "L'Autre",
-        "url": "https://open.spotify.com/album/2P7i0qBBgJPxc01wRQU2DM"
-      },
-      "artists": [
-        {
-          "name": "Myl\u00e8ne Farmer",
-          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
-        }
-      ],
-      "duration_ms": 322760,
-      "name": "D\u00e9senchant\u00e9e",
-      "url": "https://open.spotify.com/track/15XYdD283tK9iyJzL738bn"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 258040,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Fran\u00e7ois",
         "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
@@ -761,7 +729,23 @@
       "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 258040,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "The Works (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/7K6YvloaUMP4rnQQVzdBEo"
@@ -777,7 +761,7 @@
       "url": "https://open.spotify.com/track/3Au6174rC3JSzZN5BhCl3D"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "In the Heat of the Night",
         "url": "https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6"
@@ -793,7 +777,7 @@
       "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Sarbacane (Remastered)",
         "url": "https://open.spotify.com/album/7e7sLjpyMxBeF6UyHl57Ul"
@@ -804,28 +788,12 @@
           "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 247173,
-      "name": "Sarbacane - Remastered",
-      "url": "https://open.spotify.com/track/3joYxf5x8kQv2eEpZg6jCm"
+      "duration_ms": 353266,
+      "name": "C'est \u00e9crit - Remastered",
+      "url": "https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "La Bamba / Charlena",
-        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Disco Essentials",
         "url": "https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz"
@@ -841,7 +809,7 @@
       "url": "https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Rita Mitsouko",
         "url": "https://open.spotify.com/album/6QAwEZobDncmTn1wgu7J3k"
@@ -857,7 +825,23 @@
       "url": "https://open.spotify.com/track/43THPstJP6RXLMd7ryXyNf"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "La Bamba / Charlena",
+        "url": "https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Welcome To The Pleasuredome",
         "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
@@ -873,23 +857,7 @@
       "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "Best of El\u00e9gance (Le meilleur des ann\u00e9es 80)",
-        "url": "https://open.spotify.com/album/6dFWawruhNdBsnoqWSsPDD"
-      },
-      "artists": [
-        {
-          "name": "Elegance",
-          "url": "https://open.spotify.com/artist/3HUwCiLTmeqIjL0Nne32xU"
-        }
-      ],
-      "duration_ms": 259027,
-      "name": "Vacances j'oublie tout - Version originale 1982",
-      "url": "https://open.spotify.com/track/4CnnzgLEJUULotAm74v4yn"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
@@ -905,7 +873,7 @@
       "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Quand la musique est bonne",
         "url": "https://open.spotify.com/album/3yMtfupTbgavO0AxQbt3UZ"
@@ -921,7 +889,7 @@
       "url": "https://open.spotify.com/track/6QSwxzWUeF0w4N7qRxonbb"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
@@ -937,7 +905,7 @@
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Hits Back",
         "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
@@ -953,103 +921,7 @@
       "url": "https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "80s 100 Hits",
-        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
-      },
-      "artists": [
-        {
-          "name": "The Weather Girls",
-          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "It's Raining Men",
-      "url": "https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "The Very Best Of Kool & The Gang",
-        "url": "https://open.spotify.com/album/52ZOtET6twyVA0ZBlDG2RP"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "Get Down On It - Single Version",
-      "url": "https://open.spotify.com/track/1OsCKwNZxph96EkNusILRy"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/4wyIhW3v0MeP9jIElOMiXR"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 277373,
-      "name": "The Sweetest Taboo",
-      "url": "https://open.spotify.com/track/4KJzJxpqE5aR4zj8LiH652"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "A Rendez-Vous With Julien Clerc",
-        "url": "https://open.spotify.com/album/1BBkJnf0MLDGRcMzEsal7C"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        }
-      ],
-      "duration_ms": 180106,
-      "name": "M\u00e9lissa",
-      "url": "https://open.spotify.com/track/4YkRb6KIi03YSfGuTDJrZG"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
-      "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Encore un dernier baiser",
         "url": "https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN"
@@ -1065,7 +937,55 @@
       "url": "https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "80s 100 Hits",
+        "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
+      },
+      "artists": [
+        {
+          "name": "The Weather Girls",
+          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "It's Raining Men",
+      "url": "https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "The Very Best Of Kool & The Gang",
+        "url": "https://open.spotify.com/album/52ZOtET6twyVA0ZBlDG2RP"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/1OsCKwNZxph96EkNusILRy"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Words",
         "url": "https://open.spotify.com/album/3FCGXFULVQiKJkFvo6hMFo"
@@ -1081,7 +1001,39 @@
       "url": "https://open.spotify.com/track/1HPJOoIVdUPuaebxzMrVaD"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Primitive Love",
         "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
@@ -1097,7 +1049,7 @@
       "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Upstairs at Eric's",
         "url": "https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3"
@@ -1113,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5JOVSWohrjXW0BFTboh8XO"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Ainsi Soit Je",
         "url": "https://open.spotify.com/album/2Y4MGWQ2mCJ9Fr7gcEd8S0"
@@ -1129,7 +1081,7 @@
       "url": "https://open.spotify.com/track/2WT5SeljRZ4zBP5Inc6Gs9"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "War (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/4Saua162eaEOksYc8TrB74"
@@ -1145,7 +1097,7 @@
       "url": "https://open.spotify.com/track/4nuUssdgKFy2QyYHHNkZQW"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Chinese Wall",
         "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
@@ -1165,7 +1117,7 @@
       "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
@@ -1181,7 +1133,7 @@
       "url": "https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Raise!",
         "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
@@ -1197,7 +1149,7 @@
       "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Speak and Spell (Deluxe)",
         "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
@@ -1213,7 +1165,7 @@
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Best of Rose Laurens",
         "url": "https://open.spotify.com/album/6pUqfX67nw1tfhexViqAjF"
@@ -1229,7 +1181,7 @@
       "url": "https://open.spotify.com/track/57MunCijhIhsiwxaWMPskb"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/4mlLyipdL0el8wcsxTm6Co"
@@ -1245,7 +1197,7 @@
       "url": "https://open.spotify.com/track/59UwJzRHzH92UeXCZx2Kb6"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Evidemment",
         "url": "https://open.spotify.com/album/4zvdx4wNv0IZiQmVKIODRN"
@@ -1261,7 +1213,23 @@
       "url": "https://open.spotify.com/track/2IAq7NOjlLVe6bnu0YwdOV"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "Mystery Girl",
+        "url": "https://open.spotify.com/album/1UPcuqLY9PC99fQAqWgrSU"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/6r20M5DWYdIoCDmDViBxuz"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/6N9PS4QXF1D0OWPk0Sxtb4"
@@ -1277,7 +1245,23 @@
       "url": "https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "Belle Ile En Mer",
+        "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
+      },
+      "artists": [
+        {
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
+        }
+      ],
+      "duration_ms": 313253,
+      "name": "Les nuits sans Kim Wilde",
+      "url": "https://open.spotify.com/track/3ouAcZO3iJBB9NqDJqCR5s"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Hello, I Must Be Going! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M"
@@ -1293,7 +1277,7 @@
       "url": "https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf"
     },
     {
-      "added_at": "2024-05-31 14:50:23",
+      "added_at": "2024-10-24 12:42:56",
       "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
@@ -1307,6 +1291,22 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2024-10-24 12:42:56",
+      "album": {
+        "name": "The Mike Oldfield Collection",
+        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "Moonlight Shadow",
+      "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
     }
   ],
   "unique_name": "Ann\u00e9es 80",

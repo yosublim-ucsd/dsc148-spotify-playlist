@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-866 songs - 1 day 15 hr 6 min
+867 songs - 1 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [HIGHLY INSULTED](https://open.spotify.com/track/76wgL5yfNiX3tpwLofH4rt) | [катя милтей](https://open.spotify.com/artist/7ghBdIc5Lj3pbAvTa0Xums) | [HIGHLY INSULTED](https://open.spotify.com/album/0bEUjC4d1dOH8Spxv8Tzdm) | 3:17 | 2024-07-12 | 2024-07-19 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-26 | 2024-03-03 |
 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-05-14 | 2024-05-24 |
-| [Hypnodancer](https://open.spotify.com/track/7wnmLScYurZbketCXxyWBw) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [Hypnodancer](https://open.spotify.com/album/57ZWNvbHVAVxROSeHVD0Fs) | 3:07 | 2024-10-11 |  |
+| [Hypnodancer](https://open.spotify.com/track/7wnmLScYurZbketCXxyWBw) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [Hypnodancer](https://open.spotify.com/album/57ZWNvbHVAVxROSeHVD0Fs) | 3:07 | 2024-10-11 | 2024-10-25 |
 | [I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 5:08 | 2024-01-29 | 2024-02-09 |
 | [I GOT U](https://open.spotify.com/track/39uQdNywrxrH1ZjfOFc72n) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [I GOT U](https://open.spotify.com/album/4zo7PO4aB50EFFZqerSER4) | 2:43 | 2024-06-25 | 2024-07-10 |
 | [I Like It](https://open.spotify.com/track/3YBjR4X2CXbUcbpFTPSfSk) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 | 2024-08-06 | 2024-08-08 |
@@ -500,7 +500,7 @@
 | [wutiwant \- SLOWD](https://open.spotify.com/track/6bxukxNnfPyph0sqhnGhpW) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutuwant](https://open.spotify.com/album/5RHag2eLXmiwg1nuUSvXll) | 1:46 | 2024-09-19 | 2024-10-06 |
 | [X\-SLIDE](https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li) | [X\-SLIDE](https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32) | 1:19 | 2024-06-25 | 2024-08-01 |
 | [X\-SLIDE \- Ultra Slowed](https://open.spotify.com/track/0iaa1DkqOki4FFGq3QjGs3) | [2KE](https://open.spotify.com/artist/2vPnS0IpayC2RVFuQA08R4), [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li) | [X\-SLIDE](https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32) | 2:06 | 2024-07-24 | 2024-08-01 |
-| [X\-TALI](https://open.spotify.com/track/6yIkBXij6NSjmRGRpQupqO) | [MXCCREE](https://open.spotify.com/artist/7qIgmxSjoXEeifSVDh8nIt), [DJ GL3CHEKY](https://open.spotify.com/artist/1dX1zejt24Ojiu0lX4T1ZM) | [X\-TALI](https://open.spotify.com/album/6dNugoBYWvUDQDtLurImhw) | 1:12 | 2024-09-20 | 2024-10-07 |
+| [X\-TALI](https://open.spotify.com/track/6yIkBXij6NSjmRGRpQupqO) | [MXCCREE](https://open.spotify.com/artist/7qIgmxSjoXEeifSVDh8nIt), [DJ GL3CHEKY](https://open.spotify.com/artist/1dX1zejt24Ojiu0lX4T1ZM) | [X\-TALI](https://open.spotify.com/album/6dNugoBYWvUDQDtLurImhw) | 1:12 | 2024-09-20 |  |
 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2024-02-03 | 2024-02-07 |
 | [Yo Bunny](https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe) | [prodbycpkshawn](https://open.spotify.com/artist/4lSMHN0hTQWFJchmKwHE7Z), [Ugly Andz.](https://open.spotify.com/artist/6o33ajgtOTzJPKrgvQR9pW) | [Yo Bunny](https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2) | 1:50 | 2024-07-06 | 2024-07-10 |
 | [You Didn’t Know](https://open.spotify.com/track/0nD9zX0pnjOGhwZbCtMSGR) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Shoba Narayan](https://open.spotify.com/artist/5LNiqorupgMehK3ewlUCvj), [Patina Miller](https://open.spotify.com/artist/1V5Hq88OkI5tpsh1EKxStp), [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 3:08 | 2024-02-14 | 2024-02-28 |
@@ -651,7 +651,8 @@
 | [Люби меня долго \- Remix](https://open.spotify.com/track/3OlLdzegoBMwTi6Qo8IK32) | [Irina Dubtsova](https://open.spotify.com/artist/674TqX6581VEbWnsUcmo1L), [EXNLXDE](https://open.spotify.com/artist/0Wfkj2wyIuVPzmvh0tRmf5) | [Люби меня долго \(Remix\)](https://open.spotify.com/album/2lgFji6z5kkbOOzr7LgzdF) | 2:02 | 2024-10-08 |  |
 | [люби меня, алина](https://open.spotify.com/track/2w0VyjxphvyEPY9qYIFstk) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [Еби меня, малышка](https://open.spotify.com/album/5RVPHbOi70uxrgvpzJkc1D) | 1:37 | 2024-08-29 | 2024-09-17 |
 | [Любовь](https://open.spotify.com/track/6Dwahul5BIUfUiKYir2FXz) | [Dolphin](https://open.spotify.com/artist/2pktDyTJxrLJo7dL2qT1pA) | [Глубина резкости](https://open.spotify.com/album/70GQe37gMb2QhVLfkzdCHt) | 4:19 | 2024-03-01 | 2024-03-27 |
-| [Любят суки](https://open.spotify.com/track/0wvKFdz3tEOoevKHXRPEV1) | [T.A\. Loc](https://open.spotify.com/artist/4vfJAXPi7TumQoEJXWdENP) | [Лучшее](https://open.spotify.com/album/2DWXadKuYuBloK0UAnenIH) | 4:06 | 2024-10-13 |  |
+| [Любят суки](https://open.spotify.com/track/7iTyMRXGbIyGAprE9RMkGR) | [T.A\. Loc](https://open.spotify.com/artist/4vfJAXPi7TumQoEJXWdENP) | [Любят суки](https://open.spotify.com/album/0UzC3UJeN8hjKypgYEgvyN) | 4:06 | 2024-10-24 |  |
+| [Любят суки](https://open.spotify.com/track/0wvKFdz3tEOoevKHXRPEV1) | [T.A\. Loc](https://open.spotify.com/artist/4vfJAXPi7TumQoEJXWdENP) | [Лучшее](https://open.spotify.com/album/2DWXadKuYuBloK0UAnenIH) | 4:06 | 2024-10-13 | 2024-10-25 |
 | [Мажоры](https://open.spotify.com/track/4EDZzfLnMPVihXHmdVxOh4) | [LIL MORTY](https://open.spotify.com/artist/09W1Zh2IfOs6YYEiKgYY1K) | [Мажоры](https://open.spotify.com/album/0rOZF6Rq3Lyy9NPIHZoIYA) | 2:10 | 2024-07-20 | 2024-07-27 |
 | [Майами](https://open.spotify.com/track/3YY8gp6IDGySRIfnsgaKRR) | [Игорь Цыба](https://open.spotify.com/artist/02Gn2Lbcdednu9WM1T12nz), [Ицык Цыпер](https://open.spotify.com/artist/3itorhtp2xgFl1iMPwvAGs) | [Майами](https://open.spotify.com/album/2OPGGzX2izLNHMmsuxrGuK) | 1:57 | 2024-01-29 | 2024-02-01 |
 | [мальчик](https://open.spotify.com/track/2tSOz2c3qqs8jOdlyMvHww) | [кис\-кис](https://open.spotify.com/artist/4jIvmo6hfAQ04NSOWPVVA3) | [Магазин игрушек для взрослых](https://open.spotify.com/album/5aMa4f9Jn8BANK62xzWywu) | 3:02 | 2024-09-14 | 2024-10-20 |

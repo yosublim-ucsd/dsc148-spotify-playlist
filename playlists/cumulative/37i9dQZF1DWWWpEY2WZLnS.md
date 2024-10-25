@@ -2,7 +2,7 @@
 
 ### [Dembow Pegao](https://open.spotify.com/playlist/37i9dQZF1DWWWpEY2WZLnS)
 
-> Los éxitos del Dembow\. Portada: Lomiiel
+> Los éxitos del Dembow\. Portada: Yailín La Más Viral
 
 372 songs - 18 hr 5 min
 

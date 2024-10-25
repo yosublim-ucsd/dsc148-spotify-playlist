@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Safia Nolin
 
-2,901 songs - 6 day 10 hr 19 min
+2,902 songs - 6 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Afterglow \- Version française](https://open.spotify.com/track/5FCjSDlpPTvWi3FrYtvqjn) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Afterglow \(Version française\)](https://open.spotify.com/album/2HbDNIo7FgrRx9udYU1637) | 3:27 | 2022-07-08 | 2022-07-30 |
 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-19 | 2024-06-08 |
 | [Ah ahah](https://open.spotify.com/track/0BidF0EwXUq4H5NUf7RCZN) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Ah ahah](https://open.spotify.com/album/5s48YxF4E2bOlA4xWg8Bjn) | 2:39 | 2024-08-02 | 2024-09-28 |
+| [Ah les crocodiles](https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Ah les crocodiles](https://open.spotify.com/album/0WxicFS99fD7dwj7ZP4SsT) | 2:45 | 2024-10-18 |  |
 | [AH T'ES DANS CA](https://open.spotify.com/track/15OupWjVaBE60ctMTJaheW) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [A la bien mix party \- 10 ans après](https://open.spotify.com/album/1LWkPHi9tZSJ0qhJxPGlQx) | 3:03 | 2024-08-02 | 2024-09-14 |
 | [Ailleurs](https://open.spotify.com/track/44UzxavsbtsP9FW2xVpuvz) | [Marieme](https://open.spotify.com/artist/2GcthSTguQ2Xbbq03jb1fP), [Eman](https://open.spotify.com/artist/0yqE9TqhKhWiUEeas8Z0hJ), [Webster](https://open.spotify.com/artist/28PFzVunbZTdeOjTBRzMTK), [Soké](https://open.spotify.com/artist/4HYe7OSSq29AU6g2szcIWI) | [Marième](https://open.spotify.com/album/0imKDEWMsjlhf0SjOWjg1z) | 4:40 | 2022-03-25 | 2022-04-09 |
 | [Aime\-toi comme ça](https://open.spotify.com/track/5SzGHd14DCHNBwQkIn3sjK) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Aime\-toi comme ça](https://open.spotify.com/album/5k9tDcwpT4GITmyCMLUA57) | 3:42 | 2023-01-27 | 2023-02-11 |
@@ -709,7 +710,7 @@
 | [Double vie décadente](https://open.spotify.com/track/4dAfZzp86jPkANLeKJfbDB) | [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf), [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Aequanimitas](https://open.spotify.com/album/49c4wopLmVaZHHG2Wr0WKh) | 4:04 | 2024-05-24 | 2024-06-01 |
 | [Doudou](https://open.spotify.com/track/7CTP8zjKDI25DGibdzEIS7) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Doudou](https://open.spotify.com/album/0BpbF8kQVKg165nMZLF6DG) | 3:24 | 2023-02-10 | 2023-02-25 |
 | [Doudou](https://open.spotify.com/track/1cgRpYVOkYnxomkDpYLyba) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Cartel : volume 1 & 2](https://open.spotify.com/album/5YPvyAo9EUi0gIv8oEprFc) | 3:01 | 2021-12-31 | 2022-01-22 |
-| [DOUTE \(feat\. Zamdane\)](https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Arabian Heartbreak](https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK) | 3:04 | 2024-09-20 |  |
+| [DOUTE \(feat\. Zamdane\)](https://open.spotify.com/track/6TTdUXf9Va6d1MZ39WKQhk) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Arabian Heartbreak](https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK) | 3:04 | 2024-09-20 | 2024-10-25 |
 | [Doux](https://open.spotify.com/track/5JPj0yjiqe7B3kzGYN900F) | [Sarah Villeneuve](https://open.spotify.com/artist/2KKuXLeQXtuOKKiWP1xdRE) | [Doux](https://open.spotify.com/album/7wBkEWvGeAvdQBeVV5uG4o) | 4:00 | 2022-04-01 | 2022-04-09 |
 | [Doué](https://open.spotify.com/track/5RA8lfUpypk40aqp1CIYSQ) | [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [EGO](https://open.spotify.com/album/451uEKAXSbMJ5Pry6mIANM) | 2:47 | 2022-10-21 | 2022-11-05 |
 | [DOWN](https://open.spotify.com/track/2FLFmCpVrGBTp0C85BaFWL) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [DOWN](https://open.spotify.com/album/4PN3DB5DCWhfnKL8MPmmJV) | 2:45 | 2022-11-25 | 2022-12-24 |
