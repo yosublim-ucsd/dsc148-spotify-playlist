@@ -1,13 +1,29 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: David Guetta & Ava Max",
-  "num_followers": 193022,
+  "description": "The hottest new pop with all the drops. Cover: aespa",
+  "num_followers": 193184,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAAATWgewbQAlR1rdTI4/CSAS",
+  "snapshot_id": "ZxsXwAAAAADVaOAIme5LkgZ7YxHXqTn9",
   "tracks": [
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p"
+    },
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
@@ -33,20 +49,24 @@
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "3AM (LA LA LA)",
-        "url": "https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj"
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
       },
       "artists": [
         {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
         }
       ],
-      "duration_ms": 173731,
-      "name": "SO TRU",
-      "url": "https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT"
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -65,6 +85,162 @@
       "url": "https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/3cPlIoKj0mGfn4gOJGf1Ms"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 168929,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/2XwfwHvM8iqvWL5bZWbo86"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Believe (Shooting Stars)",
+        "url": "https://open.spotify.com/album/79WFgZm35smuyjipo6fouj"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Believe (Shooting Stars)",
+      "url": "https://open.spotify.com/track/7fJdto9euM593wybpCdEPV"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Alto",
+          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "3AM (LA LA LA)",
+        "url": "https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 173731,
+      "name": "SO TRU",
+      "url": "https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "barbz",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "duration_ms": 145968,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/0jUgrbJG2BgcBfCB5fwr8w"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "duration_ms": 141123,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5VoByKp0qo2OVO1ehyPtSa"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Tension II",
@@ -79,62 +255,6 @@
       "duration_ms": 154706,
       "name": "Someone For Me",
       "url": "https://open.spotify.com/track/0qtp2Bplcb5To1fPnkgX7B"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "When We Were Young",
-        "url": "https://open.spotify.com/album/6ObZ3nHhjB3DlCYzX34y2a"
-      },
-      "artists": [
-        {
-          "name": "David Puentez",
-          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
-        }
-      ],
-      "duration_ms": 150476,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/4uBLWWJIvBKpbykWRPtXrq"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Bruce Wayne",
-        "url": "https://open.spotify.com/album/6FyOAKp8oyrpe5wchMf9Jr"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 131203,
-      "name": "Bruce Wayne",
-      "url": "https://open.spotify.com/track/3AyUhZkvbQ8ZBSq3hbWrhp"
-    },
-    {
-      "added_at": "2024-10-14 10:37:56",
-      "album": {
-        "name": "CAVE (with Tove Lo)",
-        "url": "https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 180409,
-      "name": "CAVE (with Tove Lo)",
-      "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
     },
     {
       "added_at": "2024-10-14 10:37:56",
@@ -171,6 +291,98 @@
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "When We Were Young",
+        "url": "https://open.spotify.com/album/6ObZ3nHhjB3DlCYzX34y2a"
+      },
+      "artists": [
+        {
+          "name": "David Puentez",
+          "url": "https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v"
+        }
+      ],
+      "duration_ms": 150476,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/4uBLWWJIvBKpbykWRPtXrq"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/2cQaAt8RZtWYFSaPLGXaBF"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 155697,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/5T5AS42m32tKpFLfibRSqy"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Bruce Wayne",
+        "url": "https://open.spotify.com/album/6FyOAKp8oyrpe5wchMf9Jr"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 131203,
+      "name": "Bruce Wayne",
+      "url": "https://open.spotify.com/track/3AyUhZkvbQ8ZBSq3hbWrhp"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Push The Tempo",
+        "url": "https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "duration_ms": 161829,
+      "name": "Push The Tempo",
+      "url": "https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih"
+    },
+    {
+      "added_at": "2024-10-14 10:37:56",
+      "album": {
+        "name": "CAVE (with Tove Lo)",
+        "url": "https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 180409,
+      "name": "CAVE (with Tove Lo)",
+      "url": "https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm"
     },
     {
       "added_at": "2024-10-14 10:37:56",

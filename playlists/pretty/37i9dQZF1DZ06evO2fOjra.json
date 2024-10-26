@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 502665,
+  "num_followers": 502842,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAAtbVGshm2TecrQieSifpma",
+  "snapshot_id": "ZxmOAAAAAADLI9nqjlsNDerbyBBMm9XT",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Word Up! (The Remixes)",
-        "url": "https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF"
+        "name": "Take A Look In The Mirror",
+        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 172666,
-      "name": "Word Up!",
-      "url": "https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq"
+      "duration_ms": 197906,
+      "name": "Y'all Want a Single",
+      "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take A Look In The Mirror",
-        "url": "https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh"
+        "name": "Word Up! (The Remixes)",
+        "url": "https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 197906,
-      "name": "Y'all Want a Single",
-      "url": "https://open.spotify.com/track/1AzMYJm6qTAullM3UKuPY9"
+      "duration_ms": 172666,
+      "name": "Word Up!",
+      "url": "https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Serenity of Suffering",
-        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
+        "name": "See You On the Other Side",
+        "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Rotting In Vain",
-      "url": "https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2"
+      "duration_ms": 254760,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/6B1uhU0w4fk7nNeylg41Xq"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "See You On the Other Side",
-        "url": "https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF"
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 254760,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/6B1uhU0w4fk7nNeylg41Xq"
+      "duration_ms": 213000,
+      "name": "Rotting In Vain",
+      "url": "https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2"
     },
     {
       "added_at": null,

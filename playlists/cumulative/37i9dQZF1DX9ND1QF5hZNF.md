@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-182 songs - 9 hr 33 min
+183 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Hamacadame](https://open.spotify.com/track/6LRY3cFPXnM9WXKXrKPKJr) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0), [Tour De Manège](https://open.spotify.com/artist/6NgwMiz1Dwsktnn8p8yujE) | [Special Tropical](https://open.spotify.com/album/57kMxecY2JpHaDVVtq3mnH) | 2:54 | 2023-05-12 | 2023-12-02 |
 | [Havana](https://open.spotify.com/track/2TMkbettqxII64hN78QemR) | [Sunwaves](https://open.spotify.com/artist/6KcoE2oco22TIP1YOQmgBm) | [Havana](https://open.spotify.com/album/1VPkd0jllnBLNs6GOq7474) | 2:56 | 2024-08-08 |  |
 | [hello](https://open.spotify.com/track/2TWUe5nUlFPlpAz1wa2xgC) | [flooww](https://open.spotify.com/artist/1sb0nFSQlTFxm99qMwVRux) | [hello](https://open.spotify.com/album/5W3f79N5K3AXzCOOlfdoCa) | 2:22 | 2024-08-29 |  |
+| [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 | 2024-10-25 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/7L3AkxTIVosuV9q251kjfC) | [TEEMID](https://open.spotify.com/artist/6zGCrS2y63IEUJfyn9Bpuc) | [Here Comes The Sun](https://open.spotify.com/album/5jJnOGvtWwesdgCChnE5Go) | 2:25 | 2023-10-05 | 2024-02-03 |
 | [Hey Maria \- Elderbrook Remix](https://open.spotify.com/track/7v7teR4FtyiZzkc1tX2a4V) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Hey Maria \- EP](https://open.spotify.com/album/4zb7p3vznnnhJaihdKtxR6) | 3:33 | 2022-12-20 | 2023-05-13 |
 | [Highs & Lows](https://open.spotify.com/track/2oakI4aTZTOXPjL2jy4b94) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Highs & Lows](https://open.spotify.com/album/2WltsSNLIaFLNkXwM8M2XR) | 3:04 | 2022-12-20 | 2023-05-13 |

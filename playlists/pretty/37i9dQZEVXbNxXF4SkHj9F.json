@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "num_followers": 128129,
+  "num_followers": 128311,
   "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lq21yAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lq8HSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "Whiplash - The 5th Mini Album",
         "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 207347,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -81,23 +97,7 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 207347,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "SYNK : PARALLEL LINE - Special Digital Single",
         "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
@@ -129,23 +129,7 @@
       "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "I'LL LIKE YOU",
-        "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 176854,
-      "name": "Cherish (My Love)",
-      "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "Fourever",
         "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
@@ -161,63 +145,23 @@
       "url": "https://open.spotify.com/track/1k68vKHNQXU5CHqcM7Yp7N"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+        "name": "I'LL LIKE YOU",
+        "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 206019,
-      "name": "Standing Next to You",
-      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+      "duration_ms": 176854,
+      "name": "Cherish (My Love)",
+      "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 182840,
-      "name": "Smeraldo Garden Marching Band (feat. Loco)",
-      "url": "https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "3D : The Remixes",
-        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 201812,
-      "name": "3D (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -237,7 +181,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -246,14 +190,34 @@
         {
           "name": "Jimin",
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         }
       ],
-      "duration_ms": 223301,
-      "name": "Closer Than This",
-      "url": "https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk"
+      "duration_ms": 182840,
+      "name": "Smeraldo Garden Marching Band (feat. Loco)",
+      "url": "https://open.spotify.com/track/1agDCV4zQqaFwJQNsTgmL1"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "CRAZY (Party Remixes 1)",
         "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
@@ -269,7 +233,7 @@
       "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -280,12 +244,32 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 144624,
-      "name": "Rebirth (Intro)",
-      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
+      "duration_ms": 223301,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/6qafqn8bBMy7t5c5WqpyRk"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "2nd Mini Album 'Algorithm's Blossom'",
         "url": "https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT"
@@ -301,23 +285,23 @@
       "url": "https://open.spotify.com/track/1lTBkwEm0wim9RsMXqtqWy"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
         }
       ],
-      "duration_ms": 160688,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+      "duration_ms": 174146,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -337,26 +321,10 @@
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "FACE",
-        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
       "artists": [
         {
@@ -364,28 +332,28 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 212241,
-      "name": "Like Crazy",
-      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+      "duration_ms": 144624,
+      "name": "Rebirth (Intro)",
+      "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC"
@@ -401,7 +369,103 @@
       "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "Moonlit Floor",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 78492,
+      "name": "Interlude : Showtime",
+      "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "SEVENTEEN 12th Mini Album 'SPILL THE FEELS'",
         "url": "https://open.spotify.com/album/4xggkS8rdsJL3dgji8zW6W"
@@ -421,103 +485,7 @@
       "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "Moonlit Floor",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 78492,
-      "name": "Interlude : Showtime",
-      "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "How Sweet",
-        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
-      },
-      "artists": [
-        {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "How Sweet",
-      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC"
@@ -533,87 +501,23 @@
       "url": "https://open.spotify.com/track/4b2fMv44GAYpsDSK4ihbsI"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+        "name": "How Sweet",
+        "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 199626,
-      "name": "Kill It",
-      "url": "https://open.spotify.com/track/60u6wNYu9GySSZIXZl3cBY"
+      "duration_ms": 219026,
+      "name": "How Sweet",
+      "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "Pump Up The Volume!",
-        "url": "https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 179386,
-      "name": "Pump Up The Volume!",
-      "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "MUSE (WONDER ver.)",
-        "url": "https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 171995,
-      "name": "Who (Rock Remix)",
-      "url": "https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "MUSE (WONDER ver.)",
-        "url": "https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 184075,
-      "name": "Who (Acoustic Remix)",
-      "url": "https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 171743,
-      "name": "double take",
-      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "Fourever",
         "url": "https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9"
@@ -629,87 +533,23 @@
       "url": "https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 242484,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "SAILING",
-        "url": "https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 290095,
-      "name": "How can I love the heartbreak, you're the one I love",
-      "url": "https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "MUSE (WONDER ver.)",
-        "url": "https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who (Instrumental)",
-      "url": "https://open.spotify.com/track/1Px44tw80Q4rcCl8FxDGOi"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "MUSE (WANDER ver.)",
-        "url": "https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 166809,
-      "name": "Who (Shibuyakei Remix)",
-      "url": "https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "MUSE (WANDER ver.)",
-        "url": "https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 177953,
-      "name": "Who (Beautiful Mind Remix)",
-      "url": "https://open.spotify.com/track/2isRbZIIU4PqPrECffn7QO"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "THE BEST DAY2",
         "url": "https://open.spotify.com/album/1LDHf4VNXPeb7Q99QznE4h"
@@ -725,7 +565,87 @@
       "url": "https://open.spotify.com/track/18x0Z8JUwLA2LhgsIHbNy3"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "Pump Up The Volume!",
+        "url": "https://open.spotify.com/album/2umFPxDbxvmTOnGjfGcttm"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 179386,
+      "name": "Pump Up The Volume!",
+      "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "SAILING",
+        "url": "https://open.spotify.com/album/7C0Ci0alKWwwXPIFYEdVcn"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 290095,
+      "name": "How can I love the heartbreak, you're the one I love",
+      "url": "https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "NEMONEMO",
+        "url": "https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL"
+      },
+      "artists": [
+        {
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "NEMONEMO",
+      "url": "https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "MUSE (WONDER ver.)",
+        "url": "https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 184075,
+      "name": "Who (Acoustic Remix)",
+      "url": "https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "Band Aid",
         "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
@@ -741,26 +661,10 @@
       "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
-        "name": "MEOW",
-        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 172073,
-      "name": "MEOW",
-      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
-    },
-    {
-      "added_at": "2024-10-24 12:45:44",
-      "album": {
-        "name": "MUSE (WANDER ver.)",
-        "url": "https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS"
+        "name": "MUSE (WONDER ver.)",
+        "url": "https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9"
       },
       "artists": [
         {
@@ -768,12 +672,12 @@
           "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 188498,
-      "name": "Who (Funky Remix)",
-      "url": "https://open.spotify.com/track/7KZNgri6Jxw88FAfATw6i9"
+      "duration_ms": 171995,
+      "name": "Who (Rock Remix)",
+      "url": "https://open.spotify.com/track/1MC8JLPV4fbvVBqvGSLoDf"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "ASTERUM : 134-1",
         "url": "https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS"
@@ -789,7 +693,87 @@
       "url": "https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 151373,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 171743,
+      "name": "double take",
+      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "MUSE (WONDER ver.)",
+        "url": "https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who (Instrumental)",
+      "url": "https://open.spotify.com/track/1Px44tw80Q4rcCl8FxDGOi"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
       "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/700oyQvND1pNIADYqOkrre"
@@ -805,36 +789,52 @@
       "url": "https://open.spotify.com/track/3vnaEaDxMKdBhqA1t0uAwl"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
-        "name": "Warmth",
-        "url": "https://open.spotify.com/album/700oyQvND1pNIADYqOkrre"
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
       },
       "artists": [
         {
-          "name": "Lim Young Woong",
-          "url": "https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 235333,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2PlsVMcOn6ujc2UEYs2Yat"
+      "duration_ms": 199626,
+      "name": "Kill It",
+      "url": "https://open.spotify.com/track/60u6wNYu9GySSZIXZl3cBY"
     },
     {
-      "added_at": "2024-10-24 12:45:44",
+      "added_at": "2024-10-25 21:01:20",
       "album": {
-        "name": "NEMONEMO",
-        "url": "https://open.spotify.com/album/6FLiJ4318RtpA5lYWJt2cL"
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
       },
       "artists": [
         {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 178026,
-      "name": "NEMONEMO",
-      "url": "https://open.spotify.com/track/4UwsXGVppRRJpKBHy0mtyK"
+      "duration_ms": 283160,
+      "name": "You Were Beautiful",
+      "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
+    },
+    {
+      "added_at": "2024-10-25 21:01:20",
+      "album": {
+        "name": "MUSE (WANDER ver.)",
+        "url": "https://open.spotify.com/album/4wfwJUghbK2z2iaz65U7VS"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 166809,
+      "name": "Who (Shibuyakei Remix)",
+      "url": "https://open.spotify.com/track/1ySWoGgrduSzvtJ3PUzO41"
     }
   ],
   "unique_name": "Top 50 - South Korea",

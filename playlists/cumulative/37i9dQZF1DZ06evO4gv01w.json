@@ -1863,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/6WXRDcHhPvdHZ2euLWGldM"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246351,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/6J6MRQCFntHLHUovYUFJC6"
+    },
+    {
+      "album": {
         "name": "Kindred Spirits",
         "url": "https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme"
       },

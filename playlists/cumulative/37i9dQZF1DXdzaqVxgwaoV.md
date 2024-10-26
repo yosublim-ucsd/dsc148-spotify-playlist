@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-303 songs - 18 hr 31 min
+304 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [María Teresa](https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:36 | 2023-11-09 |  |
 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 | 2023-02-03 |  |
 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS) | 3:19 | 2023-02-03 | 2024-09-02 |
+| [Me Critican](https://open.spotify.com/track/1nI8zW47NC5oiUeRdHIffD) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [el combo de mulalo](https://open.spotify.com/artist/3LxhNCkiq5PdP9uwtMFirl) | [Parrandero y Contentoso](https://open.spotify.com/album/7t3NeXK9jFRK42Z8dab5Tm) | 3:34 | 2024-10-25 |  |
 | [Me Sobran las Palabras](https://open.spotify.com/track/0zIERn4aP7d0eVBIhwyPwW) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Marca Registrada del Binomio de Oro](https://open.spotify.com/album/7aDqowxLLL5VH6M9R9zEHa) | 4:30 | 2024-09-01 |  |
 | [Me Tocó Perderte](https://open.spotify.com/track/2nrbEUO1fIZ72I6Jdf1m8h) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Historia Musical de los Chiches Vallenatos: Éxitos Originales](https://open.spotify.com/album/2qh8LusIx7ql4E5FGY8DAt) | 4:11 | 2024-09-01 |  |
 | [Me Tragaba Tus Mentiras](https://open.spotify.com/track/0Z2KrRMIL80GrzQUmXsLeu) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [No Hay Porqué Esperar](https://open.spotify.com/album/37ipB2Anm6xNkDUu8nubbX) | 2:56 | 2023-02-03 | 2024-09-02 |
@@ -230,7 +231,7 @@
 | [Pedacito de Mi Vida](https://open.spotify.com/track/7tlRIkYOBsmcVAjGGzgHTD) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [A Santa Bárbara..\. ¡Que Viva Chango!](https://open.spotify.com/album/09JAUsbiYp4oHukB0P7dYE) | 2:53 | 2023-11-09 | 2024-04-19 |
 | [Pedacito de Mi Vida](https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo) | [Los Lideres](https://open.spotify.com/artist/42FkXaqeCMzkbTCZC52TFn) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:00 | 2024-09-01 |  |
 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 | 2023-11-09 |  |
-| [Pirulino](https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs) | [Los Golden Boys](https://open.spotify.com/artist/3AxVllGtE7wlIXF27v0VLh), [Benny Marquez](https://open.spotify.com/artist/1cBYkrPHoiePBxeSOhLM9J) | [Éxitos los Golden Boys](https://open.spotify.com/album/1YPFIDExp0udyyzB0Ax1RO) | 2:38 | 2023-12-20 |  |
+| [Pirulino](https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs) | [Los Golden Boys](https://open.spotify.com/artist/3AxVllGtE7wlIXF27v0VLh), [Benny Marquez](https://open.spotify.com/artist/1cBYkrPHoiePBxeSOhLM9J) | [Éxitos los Golden Boys](https://open.spotify.com/album/1YPFIDExp0udyyzB0Ax1RO) | 2:38 | 2023-12-20 | 2024-10-26 |
 | [Plegaria](https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Rescatando los Éxitos Originales de Long Play](https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51) | 3:27 | 2023-12-20 | 2024-07-16 |
 | [Pobre y Sincero](https://open.spotify.com/track/1yhED0FBKVrLiOKOCYlkar) | [Olider Montana](https://open.spotify.com/artist/2RtSSs1N2mOsGE6ojLrW49) | [Pobre y Sincero](https://open.spotify.com/album/5a6O3hJLxCLjHASaAbTtdY) | 2:41 | 2023-02-03 | 2024-09-02 |
 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 | 2023-11-09 | 2024-04-19 |

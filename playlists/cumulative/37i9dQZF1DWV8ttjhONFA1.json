@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Hipnotica.",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Santiago Alonso y Camila Buch",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Avistaje",
+        "url": "https://open.spotify.com/album/61r2wVtHITqadHn7mFMRkt"
+      },
+      "artists": [
+        {
+          "name": "Facundo Grand\u00edo",
+          "url": "https://open.spotify.com/artist/4Wkm55LBgLyt4MQh78QqJK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "Avistaje",
+      "url": "https://open.spotify.com/track/0n2d6pc9NFZeIg6qQAKc8g"
+    },
+    {
+      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -592,7 +610,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 152381,
       "name": "Ba\u00f1era",
       "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
@@ -1823,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "ESE FUEGO",
+        "url": "https://open.spotify.com/album/3cPLck90fdefJW3PdLsB1M"
+      },
+      "artists": [
+        {
+          "name": "Luna Sujatovich",
+          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
+        },
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208888,
+      "name": "Due\u00f1a de mis D\u00edas",
+      "url": "https://open.spotify.com/track/4FpmYvXTUbcfZINi4gt5eF"
+    },
+    {
+      "album": {
         "name": "D\u00eda Especial",
         "url": "https://open.spotify.com/album/769NNJgkByGNAMpogVfFCR"
       },
@@ -1896,6 +1936,24 @@
       "duration_ms": 216770,
       "name": "El Dato - Vivo La Plata",
       "url": "https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7"
+    },
+    {
+      "album": {
+        "name": "Del otro lado",
+        "url": "https://open.spotify.com/album/34o49o7XS7KTEVc379Zz1y"
+      },
+      "artists": [
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183918,
+      "name": "El Desastre",
+      "url": "https://open.spotify.com/track/720C5RPAKsNi5GqKlwOYcL"
     },
     {
       "album": {
@@ -2308,7 +2366,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 150200,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/6VD8rUInU3YGMlpeTosHUV"
@@ -2500,7 +2558,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 179483,
       "name": "GEMA",
       "url": "https://open.spotify.com/track/1jKPIak5kub6DM3xUToVSb"
@@ -3378,7 +3436,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 158934,
       "name": "ME FUI DE LA FIESTA",
       "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
@@ -3538,7 +3596,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 198035,
       "name": "Miento",
       "url": "https://open.spotify.com/track/6i90M2ASVt5RvZbU4LL18S"
@@ -3941,6 +3999,24 @@
     },
     {
       "album": {
+        "name": "Nuestro Vuelo",
+        "url": "https://open.spotify.com/album/57hOmfTXjTKvZ0kqBUcpzI"
+      },
+      "artists": [
+        {
+          "name": "BADS",
+          "url": "https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170848,
+      "name": "Nuestro Vuelo",
+      "url": "https://open.spotify.com/track/0P3ABqtwEYh7mHstHzDBnA"
+    },
+    {
+      "album": {
         "name": "Nueva forma",
         "url": "https://open.spotify.com/album/5pHns47VudPY5LcyMZHCrF"
       },
@@ -4162,7 +4238,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 136864,
       "name": "PARAISO",
       "url": "https://open.spotify.com/track/2W5fiXSkXIvmbvHsNjqJTD"
@@ -4499,6 +4575,28 @@
     },
     {
       "album": {
+        "name": "Probablemente",
+        "url": "https://open.spotify.com/album/0jFDfnZtOocGwzxIIBpX8B"
+      },
+      "artists": [
+        {
+          "name": "Santiago Alonso",
+          "url": "https://open.spotify.com/artist/6yw8LNuc6B8uELY2TUwrSw"
+        },
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194278,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/4NGjlVVIzQeRYvrHMTatOp"
+    },
+    {
+      "album": {
         "name": "Azul Es Donde Siempre Estoy",
         "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
       },
@@ -4586,6 +4684,32 @@
       "duration_ms": 177873,
       "name": "Quereme Siempre",
       "url": "https://open.spotify.com/track/5eT8Why2mqdiI73Os1BLk9"
+    },
+    {
+      "album": {
+        "name": "Quieto",
+        "url": "https://open.spotify.com/album/2dqfvBw8Vgw98JL6CpqS41"
+      },
+      "artists": [
+        {
+          "name": "Farol",
+          "url": "https://open.spotify.com/artist/3kBISQeVHtMyOH3Va7UXqu"
+        },
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        },
+        {
+          "name": "Francisco Sola",
+          "url": "https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Quieto",
+      "url": "https://open.spotify.com/track/6L6GbSoWzfm0ZDZGsskkN5"
     },
     {
       "album": {
@@ -4710,7 +4834,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 176763,
       "name": "Se pierde en el amor",
       "url": "https://open.spotify.com/track/3rlLxxoAjtHRP7WNpCDkhw"

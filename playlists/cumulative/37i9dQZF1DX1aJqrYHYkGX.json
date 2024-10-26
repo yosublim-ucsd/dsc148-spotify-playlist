@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 156325,
       "name": "Amarujala",
       "url": "https://open.spotify.com/track/5awpjUOAFfA8BXMB2IaMeg"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 180978,
       "name": "Fill My Soul",
       "url": "https://open.spotify.com/track/5Nq4PiczI37zqNSufnRwGq"
@@ -768,6 +768,24 @@
       "duration_ms": 157500,
       "name": "Floating Air",
       "url": "https://open.spotify.com/track/1BzIJLDKXbKjYkwz5de0u4"
+    },
+    {
+      "album": {
+        "name": "Flute In Green",
+        "url": "https://open.spotify.com/album/4le1Gxt5IqgQaIf7btaAIJ"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Flute In Green",
+      "url": "https://open.spotify.com/track/0kG7pRwPm4r6nBUGqnLQyd"
     },
     {
       "album": {
@@ -858,10 +876,28 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170181,
       "name": "Garden of Tranquility - Studio Edit",
       "url": "https://open.spotify.com/track/3kqiXiHTpo3P8DHVT2tzhY"
+    },
+    {
+      "album": {
+        "name": "Grounding",
+        "url": "https://open.spotify.com/album/5Do97UOdHnE2zG1IGsesZ6"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Grounding",
+      "url": "https://open.spotify.com/track/0lR3KWoaXzVNZqSz4tbJ5R"
     },
     {
       "album": {
@@ -1423,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "Miquella's Pond",
+        "url": "https://open.spotify.com/album/3xNGgYYAuqKTmEwDQbSfoA"
+      },
+      "artists": [
+        {
+          "name": "A Place Of Solace",
+          "url": "https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "Miquella's Pond",
+      "url": "https://open.spotify.com/track/3i43trjHW3NbxY3ICtHm8p"
+    },
+    {
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/3WZnQkHKY2L0g4lE0sAVwF"
       },
@@ -1492,10 +1546,46 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 264493,
       "name": "Mount Tamalpais",
       "url": "https://open.spotify.com/track/75ieHQmSai5SQ7VRNOIIxP"
+    },
+    {
+      "album": {
+        "name": "Muddy Rains",
+        "url": "https://open.spotify.com/album/13jtaDCpvRBt61XCUlXaUf"
+      },
+      "artists": [
+        {
+          "name": "Meson Winds",
+          "url": "https://open.spotify.com/artist/7hSvvdm6NWFrkDzIGUx8o1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187310,
+      "name": "Muddy Rains",
+      "url": "https://open.spotify.com/track/4LsLLNSVQxccaIva5Fd041"
+    },
+    {
+      "album": {
+        "name": "Myst",
+        "url": "https://open.spotify.com/album/0VNZufO97XSgW8opQTf5Cx"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273600,
+      "name": "Myst Spa",
+      "url": "https://open.spotify.com/track/0OmmF4wh2lsng54rmIGDu6"
     },
     {
       "album": {
@@ -1546,7 +1636,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 186352,
       "name": "Northern Drifts",
       "url": "https://open.spotify.com/track/3CSr2eXclVz84rZs8nrwvL"
@@ -1782,6 +1872,24 @@
       "duration_ms": 241740,
       "name": "Rain",
       "url": "https://open.spotify.com/track/7MPpnDEGdFZoql1hZvzX0q"
+    },
+    {
+      "album": {
+        "name": "Rare Astra",
+        "url": "https://open.spotify.com/album/1XdZM894doi2XbdZsVCZZL"
+      },
+      "artists": [
+        {
+          "name": "Bright Lens",
+          "url": "https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Rare Astra",
+      "url": "https://open.spotify.com/track/5JqwjWauNVttvtXHDLn7E3"
     },
     {
       "album": {
@@ -2072,7 +2180,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 149000,
       "name": "Serene Breath - Studio Edit",
       "url": "https://open.spotify.com/track/2ihzQGdQHS2sGw08o6lMId"
@@ -2090,7 +2198,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 240006,
       "name": "Shaantipoorn Bageecha",
       "url": "https://open.spotify.com/track/3qqvBjzXGgeyGCTJ5x3OXu"
@@ -2386,7 +2494,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 177081,
       "name": "Temple By The Water",
       "url": "https://open.spotify.com/track/6YrcMJ3CIo1fZj7nduxhHv"

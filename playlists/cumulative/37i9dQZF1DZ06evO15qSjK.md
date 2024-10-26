@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-125 songs - 6 hr 11 min
+126 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Ella Baila Sola](https://open.spotify.com/track/4O9rnTPi9UyuRRk5t5Hzv3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Ella Baila Sola](https://open.spotify.com/album/1LWW5qn4Mctei9DCFh9yAh) | 2:17 | 2023-08-27 | 2023-10-05 |
 | [End of Beginning](https://open.spotify.com/track/1rrYeJowAbOZDC01qXuLHv) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [End of Beginning](https://open.spotify.com/album/1uS4K4InEf7LIC6uPcsB70) | 2:39 | 2024-06-30 | 2024-08-03 |
 | [Enemy](https://open.spotify.com/track/0fEB4S6ZyFlRKNvFWRKO03) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 2:28 | 2023-02-16 | 2024-04-26 |
-| [Espresso](https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Espresso](https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX) | 2:34 | 2024-08-06 |  |
+| [Espresso](https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Espresso](https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX) | 2:34 | 2024-08-06 | 2024-10-26 |
 | [exes](https://open.spotify.com/track/5f2A8qXU1hKsIFvjB4oiQL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [exes](https://open.spotify.com/album/577IAxz4OQ4KsF0b4BKXYJ) | 2:40 | 2024-06-23 | 2024-10-25 |
 | [Eyes Closed](https://open.spotify.com/track/5HRiQ866cU6pxo8YoTltLk) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 3:05 | 2023-07-15 | 2024-06-01 |
 | [Fancy Like](https://open.spotify.com/track/0zvvCso2UalzEEc8MLJPFx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:21 | 2023-02-16 |  |
@@ -113,6 +113,7 @@
 | [The Middle](https://open.spotify.com/track/02hItgiP8fFBLHCJ4fhhUy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 38](https://open.spotify.com/album/45kCF1eONbksVLaWkorZLF) | 2:49 | 2023-02-16 |  |
 | [This Is Halloween](https://open.spotify.com/track/2kKLdZHp3Tfj140BgnbiuJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:27 | 2023-11-10 | 2023-12-14 |
 | [Thriller](https://open.spotify.com/track/4wlwlAi9yyJkRpZA0NTXaS) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:51 | 2023-11-10 |  |
+| [Thunder](https://open.spotify.com/track/7KrJI4fnTBGYIWzkEuCi1V) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 2:35 | 2024-10-26 |  |
 | [Together This Christmas](https://open.spotify.com/track/4OIkrSOfVnU9bbqbeUrLVR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Together This Christmas](https://open.spotify.com/album/0nNoA3KJ2VfzJHgkWDcIxz) | 2:46 | 2023-11-10 | 2023-12-14 |
 | [TOO MUCH](https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [TOO MUCH](https://open.spotify.com/album/22BHyOK36cLz85X5AbAoku) | 2:10 | 2024-03-09 | 2024-07-29 |
 | [Training Season](https://open.spotify.com/track/3pBAUZNudmb6DbnhlTyNgm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Training Season](https://open.spotify.com/album/6yTP07jdb8B9wflHFaVPNf) | 3:11 | 2024-05-26 | 2024-09-20 |

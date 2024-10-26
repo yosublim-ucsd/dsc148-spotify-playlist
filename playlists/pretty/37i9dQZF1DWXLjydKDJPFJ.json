@@ -1,6 +1,6 @@
 {
   "description": "Compare, prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 405177,
+  "num_followers": 405328,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 201322,
       "name": "On D Gas",
       "url": "https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 202443,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
         "name": "En Tu Perra Vida",
         "url": "https://open.spotify.com/album/3yNcCCNhUhkz9gSpzz1WkI"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/5whWBmGn90pVWhexc88Scc"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
-        "name": "Sin Pagar Renta",
-        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 202443,
-      "name": "Sin Pagar Renta",
-      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
-      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 186280,
       "name": "Se Muri\u00f3 De Amor",
       "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
+        "name": "Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
+      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "Corleone",
-        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 203829,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 213159,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 203829,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "A Todo Galope",
-        "url": "https://open.spotify.com/album/7kYO9wfvxwhrxQRINgBDj8"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 176693,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/0aPRt8ARHfeQx1nbFnpTzy"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
         "name": "Bodas De Enga\u00f1o",
         "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 212360,
       "name": "Viernes Sin Tu Amor",
       "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
+        "name": "A Todo Galope",
+        "url": "https://open.spotify.com/album/7kYO9wfvxwhrxQRINgBDj8"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 176693,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/0aPRt8ARHfeQx1nbFnpTzy"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 203794,
-      "name": "La Pregunta del Mill\u00f3n",
-      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
+      "duration_ms": 165733,
+      "name": "Voy A Llorar Por Ti",
+      "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "Siempre Imitado, Jamas Igualado",
-        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
       "artists": [
         {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 165733,
-      "name": "Voy A Llorar Por Ti",
-      "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
+      "duration_ms": 203794,
+      "name": "La Pregunta del Mill\u00f3n",
+      "url": "https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "Las N\u00famero 1...",
-        "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 225040,
-      "name": "Necesito Decirte",
-      "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
         "name": "Con Ganas De T\u00ed",
         "url": "https://open.spotify.com/album/5A7OXdZt9pNJbhjdelWlpr"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 230493,
       "name": "Para Qu\u00e9 Me Enga\u00f1o",
       "url": "https://open.spotify.com/track/21iasXJSZKXlpxPJLaIdep"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
+        "name": "Las N\u00famero 1...",
+        "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Necesito Decirte",
+      "url": "https://open.spotify.com/track/2b9rnsD5EzKMr6JBcNg7vE"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
+        "name": "En Las Buenas Y En Las Malas",
+        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 192560,
+      "name": "Con Ese Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
         "name": "Soy VIP",
         "url": "https://open.spotify.com/album/3sIb7P0k12l1IaThmLPzkV"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 181109,
       "name": "Soy VIP",
       "url": "https://open.spotify.com/track/4Kn7o7LfvnQS9khdDgm05a"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
-        "name": "En Las Buenas Y En Las Malas",
-        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 192560,
-      "name": "Con Ese Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "No Es Mentira (Version Norte\u00f1a)",
-        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "La Noche Que Murio Chicago",
-        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
       },
       "artists": [
         {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 161226,
-      "name": "La Noche Que Murio Chicago",
-      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
+      "duration_ms": 200061,
+      "name": "No Es Mentira (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -1735,6 +1719,22 @@
       "duration_ms": 152776,
       "name": "Borracho Enamorado",
       "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
+        "name": "La Noche Que Murio Chicago",
+        "url": "https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 161226,
+      "name": "La Noche Que Murio Chicago",
+      "url": "https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "M\u00edranos Ahora",
-        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "M\u00edranos Ahora",
-      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
         "name": "Beso - Spotify Singles",
         "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
       },
@@ -1835,18 +1819,18 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "El Amor Que Nunca Fue",
-        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
+        "name": "M\u00edranos Ahora",
+        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
       },
       "artists": [
         {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 204360,
-      "name": "Basta Ya",
-      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
+      "duration_ms": 198933,
+      "name": "M\u00edranos Ahora",
+      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -1863,6 +1847,22 @@
       "duration_ms": 180208,
       "name": "S\u00edmbolo Sexual",
       "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
+        "name": "El Amor Que Nunca Fue",
+        "url": "https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 158918,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
         "name": "Amor, Familia Y Respeto",
         "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
       },
@@ -2003,6 +1987,22 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 158918,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
         "name": "Aqu\u00ed Est\u00e1n!..",
         "url": "https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF"
       },
@@ -2015,6 +2015,22 @@
       "duration_ms": 209293,
       "name": "Acepto Mi Derrota",
       "url": "https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
+        "name": "La Loca (En Vivo)",
+        "url": "https://open.spotify.com/album/2pnFsIcDwMEVqmG5MjDp19"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 246251,
+      "name": "La Loca (En Vivo)",
+      "url": "https://open.spotify.com/track/0BwKXoaR2Sq2UYoCkOEWOP"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -2035,22 +2051,6 @@
       "duration_ms": 160040,
       "name": "Cobijas Ajenas",
       "url": "https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
-        "name": "La Loca (En Vivo)",
-        "url": "https://open.spotify.com/album/2pnFsIcDwMEVqmG5MjDp19"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 246251,
-      "name": "La Loca (En Vivo)",
-      "url": "https://open.spotify.com/track/0BwKXoaR2Sq2UYoCkOEWOP"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
         "name": "Necesito Decirte",
         "url": "https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 207725,
       "name": "Necesito Decirte",
       "url": "https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "La Leona y El Carcomido",
-        "url": "https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 153478,
-      "name": "La Leona y El Carcomido",
-      "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -2363,6 +2347,22 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
+        "name": "La Leona y El Carcomido",
+        "url": "https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 153478,
+      "name": "La Leona y El Carcomido",
+      "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
         "name": "20 Rancheras",
         "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
       },
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "L\u00e1grimas de Amor",
-        "url": "https://open.spotify.com/album/5VJ36S10Y9X2saFbhDoKqZ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Jr.",
-          "url": "https://open.spotify.com/artist/5Tk6wpyWDTfk9uCLJmtfZI"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Pero Esta Vez Llor\u00e9",
-      "url": "https://open.spotify.com/track/1Wniq2BL6lBlmqVRtbcL2U"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
         "name": "Morenita Labios Rojos",
         "url": "https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 179146,
       "name": "Soy Para Ti",
       "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
+        "name": "L\u00e1grimas de Amor",
+        "url": "https://open.spotify.com/album/5VJ36S10Y9X2saFbhDoKqZ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Jr.",
+          "url": "https://open.spotify.com/artist/5Tk6wpyWDTfk9uCLJmtfZI"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Pero Esta Vez Llor\u00e9",
+      "url": "https://open.spotify.com/track/1Wniq2BL6lBlmqVRtbcL2U"
     },
     {
       "added_at": "2024-10-23 16:17:29",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2024-10-23 16:17:29",
       "album": {
-        "name": "PERLA",
-        "url": "https://open.spotify.com/album/3IDUICe2L61aOFidmYYm3i"
-      },
-      "artists": [
-        {
-          "name": "Los Del North Texas",
-          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
-        }
-      ],
-      "duration_ms": 142168,
-      "name": "PERLA",
-      "url": "https://open.spotify.com/track/43KSN4b74MOJEGyp0Tf0CD"
-    },
-    {
-      "added_at": "2024-10-23 16:17:29",
-      "album": {
         "name": "En Efecto",
         "url": "https://open.spotify.com/album/2Uc44YK6diInkr4ro3gpnX"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 223027,
       "name": "En Efecto",
       "url": "https://open.spotify.com/track/5P0Xi9ZFJwJEWQ1mKw7Ren"
+    },
+    {
+      "added_at": "2024-10-23 16:17:29",
+      "album": {
+        "name": "PERLA",
+        "url": "https://open.spotify.com/album/3IDUICe2L61aOFidmYYm3i"
+      },
+      "artists": [
+        {
+          "name": "Los Del North Texas",
+          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
+        }
+      ],
+      "duration_ms": 142168,
+      "name": "PERLA",
+      "url": "https://open.spotify.com/track/43KSN4b74MOJEGyp0Tf0CD"
     },
     {
       "added_at": "2024-10-23 16:17:29",

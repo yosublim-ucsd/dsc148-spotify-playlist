@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154983,
+      "name": "American Idiot (Alt. Version) - Demo",
+      "url": "https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1"
+    },
+    {
+      "album": {
         "name": "Angel Numbers",
         "url": "https://open.spotify.com/album/4QgETdX1QjaF27i2OrSNqB"
       },
@@ -704,7 +722,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 199507,
       "name": "Aztec Death Whistle",
       "url": "https://open.spotify.com/track/3cXkBtO5htBKiM05H0PQ7F"
@@ -2851,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189897,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF"
+    },
+    {
+      "album": {
         "name": "Easy Now",
         "url": "https://open.spotify.com/album/02bVPxzxY5E5yCmCuupRQT"
       },
@@ -3689,6 +3725,24 @@
     },
     {
       "album": {
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/67irzOwU4RwSbevSJTfYIH"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167987,
+      "name": "Full Bloom",
+      "url": "https://open.spotify.com/track/2KZcwDKvYrk829QBoMdZkt"
+    },
+    {
+      "album": {
         "name": "Beware",
         "url": "https://open.spotify.com/album/3yXRbwxo1mnwFLAiA9Heo5"
       },
@@ -3960,7 +4014,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 320424,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6xJgwxAvkxGC2Oi8BbYlXx"
@@ -4054,7 +4108,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 187118,
       "name": "Halo",
       "url": "https://open.spotify.com/track/7GR2rTqKGbHS7ey5Fsnag8"
@@ -4116,6 +4170,24 @@
       "duration_ms": 173172,
       "name": "Happier in Hell",
       "url": "https://open.spotify.com/track/10f37GwVRBjLor95DnQuwo"
+    },
+    {
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269766,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR"
     },
     {
       "album": {
@@ -5056,7 +5128,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 184761,
       "name": "Imminent Redemption",
       "url": "https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B"
@@ -5956,7 +6028,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 273173,
       "name": "Lost All Control",
       "url": "https://open.spotify.com/track/3SpgVxU0XD36PbECvAl9z6"
@@ -7293,6 +7365,32 @@
     },
     {
       "album": {
+        "name": "One Last Dance (From \"Venom: The Last Dance\")",
+        "url": "https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150636,
+      "name": "One Last Dance (From \"Venom: The Last Dance\")",
+      "url": "https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK"
+    },
+    {
+      "album": {
         "name": "Churches",
         "url": "https://open.spotify.com/album/3zCRGOg6XKOtJAsvZPSiHG"
       },
@@ -7496,10 +7594,28 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 189904,
       "name": "Out Of Pocket (feat. Jesse Leach of Killswitch Engage)",
       "url": "https://open.spotify.com/track/2t3xnm5SUolpUFIsIfCFFr"
+    },
+    {
+      "album": {
+        "name": "Over Each Other",
+        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
     },
     {
       "album": {
@@ -8154,6 +8270,24 @@
       "duration_ms": 258648,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "album": {
+        "name": "Rest In Pieces",
+        "url": "https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176249,
+      "name": "Rest In Pieces",
+      "url": "https://open.spotify.com/track/5r0b7F3MGee7IMeJxP1TKP"
     },
     {
       "album": {
@@ -9260,6 +9394,28 @@
       "duration_ms": 234220,
       "name": "Stay [Feat. Patrick Wilson]",
       "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
+    },
+    {
+      "album": {
+        "name": "Stay In Your Grave (feat. Alice Cooper)",
+        "url": "https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139538,
+      "name": "Stay In Your Grave (feat. Alice Cooper)",
+      "url": "https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7"
     },
     {
       "album": {
@@ -11232,7 +11388,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 208640,
       "name": "Watch The Fire",
       "url": "https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR"
@@ -11940,7 +12096,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 276076,
       "name": "Zombie (Wild Coming Out)",
       "url": "https://open.spotify.com/track/21k6owSOcKiNOwzmq69wTn"

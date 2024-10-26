@@ -538,7 +538,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 160209,
       "name": "Altough",
       "url": "https://open.spotify.com/track/79lELM73k1T31gV9tdVVc6"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 117934,
       "name": "Artifact",
       "url": "https://open.spotify.com/track/2vi4MXSr5taqNZEmpvA7w9"
@@ -2849,6 +2849,24 @@
     },
     {
       "album": {
+        "name": "dreamer",
+        "url": "https://open.spotify.com/album/5BpBhwWIOvIePyrPrWFWfH"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150602,
+      "name": "dreamer",
+      "url": "https://open.spotify.com/track/50wBtdwuGSO0L5X9Q7eppN"
+    },
+    {
+      "album": {
         "name": "dreams",
         "url": "https://open.spotify.com/album/3VQuvegVDWXkELr2p5nvIP"
       },
@@ -3770,6 +3788,24 @@
       "duration_ms": 104470,
       "name": "Give in to you",
       "url": "https://open.spotify.com/track/2GYrasXjMJuZKD5WMKrLHs"
+    },
+    {
+      "album": {
+        "name": "Give Me a Slice",
+        "url": "https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD"
+      },
+      "artists": [
+        {
+          "name": "Amai Beats",
+          "url": "https://open.spotify.com/artist/0NtUCeUWjMMexOZfBoWnOp"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Give Me a Slice",
+      "url": "https://open.spotify.com/track/6AYCQxs3mSt5XtjINwPwDQ"
     },
     {
       "album": {
@@ -4736,6 +4772,24 @@
       "duration_ms": 191647,
       "name": "in too deep",
       "url": "https://open.spotify.com/track/0KbBe4XeOkWuPSr287AHnb"
+    },
+    {
+      "album": {
+        "name": "In Wilderness",
+        "url": "https://open.spotify.com/album/31LCTDDjTJkDFdbGY3UkGT"
+      },
+      "artists": [
+        {
+          "name": "foursite",
+          "url": "https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "In Wilderness",
+      "url": "https://open.spotify.com/track/3KlAhnNVRJIO7WFCFWVSNb"
     },
     {
       "album": {
@@ -10622,7 +10676,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 156655,
       "name": "Till We Meet Again",
       "url": "https://open.spotify.com/track/7FO6HcOd00BjnCRJDj3Pk8"
@@ -10640,7 +10694,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 162014,
       "name": "time off",
       "url": "https://open.spotify.com/track/0kYT2AkKMQpZsPa4UWMyAa"

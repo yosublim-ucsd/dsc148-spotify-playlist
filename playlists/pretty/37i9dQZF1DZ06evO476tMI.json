@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 615489,
+  "num_followers": 615563,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAADzseYAavWykAkoYVrnWVoR",
+  "snapshot_id": "ZxmOAAAAAABeN57Gh6vREGBuZtlbLdmu",
   "tracks": [
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Will Save the Day (Live in Kings Park Stadium, Durban, South Africa - November 8, 1994)",
-        "url": "https://open.spotify.com/album/5CIxmIO8r4UFKiDAzWWW3m"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 376986,
-      "name": "Love Will Save the Day - Live in Kings Park Stadium, Durban, South Africa - November 8, 1994",
-      "url": "https://open.spotify.com/track/2NhCRAq3klQmpZqshC5bU7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Your Baby Tonight",
         "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
@@ -863,22 +847,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney The Greatest Hits",
-        "url": "https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg"
+        "name": "Love Will Save the Day (Live in Kings Park Stadium, Durban, South Africa - November 8, 1994)",
+        "url": "https://open.spotify.com/album/5CIxmIO8r4UFKiDAzWWW3m"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Jermaine Jackson",
-          "url": "https://open.spotify.com/artist/1VDurPMbOKrNU8mcMP4X1P"
         }
       ],
-      "duration_ms": 260000,
-      "name": "If You Say My Eyes Are Beautiful (with Jermaine Jackson)",
-      "url": "https://open.spotify.com/track/66RwIlYInGwQB4BokNhRnd"
+      "duration_ms": 376986,
+      "name": "Love Will Save the Day - Live in Kings Park Stadium, Durban, South Africa - November 8, 1994",
+      "url": "https://open.spotify.com/track/2NhCRAq3klQmpZqshC5bU7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 301573,
+      "name": "The Prince Of Egypt (When You Believe)",
+      "url": "https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg"
     }
   ],
   "unique_name": "This Is Whitney Houston",

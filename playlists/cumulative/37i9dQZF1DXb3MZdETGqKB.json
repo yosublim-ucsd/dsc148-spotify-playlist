@@ -1181,6 +1181,32 @@
     },
     {
       "album": {
+        "name": "Cold Blues",
+        "url": "https://open.spotify.com/album/4tn5qaeFYiS56VHm49Lh3G"
+      },
+      "artists": [
+        {
+          "name": "DR. Moriarity",
+          "url": "https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Dionysus the God",
+          "url": "https://open.spotify.com/artist/4A6RhBJpQcfZeG7VlP2uf4"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274707,
+      "name": "Cold Blues",
+      "url": "https://open.spotify.com/track/0sO16Fj8Mj9ztczfbxF7dy"
+    },
+    {
+      "album": {
         "name": "Sidecar",
         "url": "https://open.spotify.com/album/64o0omYS856v58Mm7rMvDp"
       },
@@ -1686,7 +1712,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170374,
       "name": "Find Somebody New",
       "url": "https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY"
@@ -1972,7 +1998,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 216413,
       "name": "Give Praises",
       "url": "https://open.spotify.com/track/6Sa3ga6JEhzguGcmH4cAJV"

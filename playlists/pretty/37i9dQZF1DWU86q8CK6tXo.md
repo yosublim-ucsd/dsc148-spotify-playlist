@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Cher and her favorite female voices at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,669 likes - 72 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,674 likes - 72 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 51 | [Love Come Through](https://open.spotify.com/track/4ly7j7VqnX4RpnXUBBalFz) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Come Through](https://open.spotify.com/album/5aOmshhkUIF5SdGB8xgVGI) | 3:19 |
 | 52 | [Chrome](https://open.spotify.com/track/4zh2G1zGXAZUYs5X4FKSRA) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Chrome](https://open.spotify.com/album/5fh2Gvkv8SaLkKO7S4aGVe) | 3:10 |
 | 53 | [Slugger](https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Slugger](https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z) | 3:00 |
-| 54 | [Anything For You](https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Anything For You](https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u) | 4:24 |
-| 55 | [Different Color Stones](https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Different Color Stones](https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl) | 2:21 |
+| 54 | [Different Color Stones](https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Different Color Stones](https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl) | 2:21 |
+| 55 | [Anything For You](https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Anything For You](https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u) | 4:24 |
 | 56 | [FEEL IT](https://open.spotify.com/track/46ghb0YdtspAFUtmxtNgNo) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [FEEL IT](https://open.spotify.com/album/7IaC6AWHeywSSnIe4NAxup) | 3:04 |
 | 57 | [Golden Child](https://open.spotify.com/track/0DoAoxKQmd4sKnY1p2EAyC) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Golden Child](https://open.spotify.com/album/1Dd74K8QIBvDUb1QdHwYtu) | 3:37 |
 | 58 | [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 |
-| 59 | [I already dug your grave](https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [FK IT](https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7) | 3:04 |
-| 60 | [To Tell You The Truth](https://open.spotify.com/track/3vgdTBd541sOtok3Pa450z) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [To Tell You The Truth](https://open.spotify.com/album/0savSqjUPqCB7tTyHSn5Gz) | 3:42 |
+| 59 | [To Tell You The Truth](https://open.spotify.com/track/3vgdTBd541sOtok3Pa450z) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [To Tell You The Truth](https://open.spotify.com/album/0savSqjUPqCB7tTyHSn5Gz) | 3:42 |
+| 60 | [I already dug your grave](https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [FK IT](https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7) | 3:04 |
 | 61 | [Kiss My \(Ah\)](https://open.spotify.com/track/5zgyVeHTCXBnLGI3xRvb0s) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Kiss My \(Ah\)](https://open.spotify.com/album/4LtELtq7yXRdE5A8jNIef0) | 2:18 |
 | 62 | [Once](https://open.spotify.com/track/5uhQXkZanADlKhiU3qBkHq) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Once](https://open.spotify.com/album/5sqwDUiuPv5Sdyc1F0WRR6) | 2:52 |
 | 63 | [Little Bug](https://open.spotify.com/track/2GAuyIDWQznZyRU3CGyDFy) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Little Bug](https://open.spotify.com/album/6MzWuLcg9fAsHXEOcIDgY8) | 3:20 |

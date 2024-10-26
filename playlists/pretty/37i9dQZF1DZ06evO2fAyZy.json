@@ -1,12 +1,12 @@
 {
   "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
-  "num_followers": 86578,
+  "num_followers": 86677,
   "original_name": "This Is Kelsea Ballerini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAB049Z3QZI9YeWoOqI5AAlA",
+  "snapshot_id": "ZxmOAAAAAACofXHcGCf5C26Gme7VUF0Y",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "They Don't Know",
-        "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
       },
       "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 204106,
-      "name": "First Time Again",
-      "url": "https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk"
+      "duration_ms": 174360,
+      "name": "Xo",
+      "url": "https://open.spotify.com/track/2sYJeORxYzEQItfa9VmiwZ"
     },
     {
       "added_at": null,
@@ -771,18 +767,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
       },
       "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
         {
           "name": "Kelsea Ballerini",
           "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 174360,
-      "name": "Xo",
-      "url": "https://open.spotify.com/track/2sYJeORxYzEQItfa9VmiwZ"
+      "duration_ms": 204106,
+      "name": "First Time Again",
+      "url": "https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk"
     },
     {
       "added_at": null,

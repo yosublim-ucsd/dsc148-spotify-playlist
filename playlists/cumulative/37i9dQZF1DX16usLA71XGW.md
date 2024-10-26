@@ -2,9 +2,9 @@
 
 ### [Malkia](https://open.spotify.com/playlist/37i9dQZF1DX16usLA71XGW)
 
-> East Africa queens in their music bag\. Cover: Xenia Manasseh
+> East Africa queens in their music bag\. Cover: Sérah Phenom
 
-151 songs - 8 hr 3 min
+152 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Ntaawa](https://open.spotify.com/track/0gwOZ0bsxcHkXjdewTVC4I) | [JOWY LANDA](https://open.spotify.com/artist/2SynZgOgEzrqmPhtkr6q9X) | [Ntaawa](https://open.spotify.com/album/5uKZ39gh0m85av50uFH7vE) | 2:22 | 2024-01-29 |  |
 | [Ntatoboa](https://open.spotify.com/track/71drzL1qpGHCctFj1EFJ1w) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Ntatoboa](https://open.spotify.com/album/7bBH8FtqTy2kh0tntqCRjK) | 3:49 | 2024-05-17 |  |
 | [Nyumbani](https://open.spotify.com/track/4kHQ3Yo16DFn5HudDRT4MW) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520), [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [NYUMBANI](https://open.spotify.com/album/3O5Iv6cDY2chRPfcFPEl4s) | 2:00 | 2022-09-01 | 2024-01-30 |
-| [Ode to the Lovers \- Remix](https://open.spotify.com/track/7dZQSYvu059lRlXbLDFKxP) | [Faith Kimani](https://open.spotify.com/artist/3B5MbmvxoqmqByCtU4temj), [PrayzzZ](https://open.spotify.com/artist/5Ni78B29oJO7nKxaT89BL6) | [Ode to the Lovers \(Remix\)](https://open.spotify.com/album/6J785OewERpK1KcxMWK8LB) | 3:24 | 2024-05-30 |  |
+| [Ode to the Lovers \- Remix](https://open.spotify.com/track/7dZQSYvu059lRlXbLDFKxP) | [Faith Kimani](https://open.spotify.com/artist/3B5MbmvxoqmqByCtU4temj), [PrayzzZ](https://open.spotify.com/artist/5Ni78B29oJO7nKxaT89BL6) | [Ode to the Lovers \(Remix\)](https://open.spotify.com/album/6J785OewERpK1KcxMWK8LB) | 3:24 | 2024-05-30 | 2024-10-26 |
 | [Omutima](https://open.spotify.com/track/4uDqe7prnIPYPU2wq1VsVW) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [Omutima](https://open.spotify.com/album/61wC1nlhsMQeNVSCDEZDhY) | 2:43 | 2022-07-18 | 2024-05-18 |
 | [Omwami](https://open.spotify.com/track/30vOxrrv6DscZqziG7DFic) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [The One Omwami](https://open.spotify.com/album/77dA9HhOrTOGx1mtsJqGtj) | 4:11 | 2024-05-24 |  |
 | [Omwenge](https://open.spotify.com/track/0MseyNtnkNbEt6lIbMFhjn) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [Omwenge](https://open.spotify.com/album/1xyRIpZigEgRdjDNNunzZT) | 3:45 | 2023-09-21 |  |
@@ -114,6 +114,7 @@
 | [Poison](https://open.spotify.com/track/0tHwaQYWrerlG3WlkrLACX) | [Nyax](https://open.spotify.com/artist/609q0eLCXxneCVx3w6j6W5) | [2Young4Love](https://open.spotify.com/album/4RbPPMKU4YBIbv0RTg2QLC) | 3:01 | 2022-07-18 | 2024-04-19 |
 | [Pomoni](https://open.spotify.com/track/6XKvZYp4RFUynZf6XUXrEC) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [Moonsoon](https://open.spotify.com/album/7LTHIDC5Ui2HzF50HTeOzD) | 3:16 | 2024-03-07 |  |
 | [Praises to Mama](https://open.spotify.com/track/2zLlJmbsJfec7NX7cUjlpY) | [Cathy Matete](https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX) | [Praises to Mama](https://open.spotify.com/album/44oSU6bHazwBL0dUovMxRH) | 4:10 | 2022-07-18 | 2023-08-18 |
+| [Prove](https://open.spotify.com/track/7BGanhtym8l2UmUnCYCxyr) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 1:25 | 2024-10-25 |  |
 | [Pwita](https://open.spotify.com/track/6y1tOPuICUUq5f5yMUphnU) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Pwita](https://open.spotify.com/album/6QsCgfgZ8Z53yNlq8oXMVU) | 3:24 | 2024-08-29 |  |
 | [Ra\(Mna\)fiki](https://open.spotify.com/track/3xjATULksJEFygp6yZHXmt) | [Joy Njokey](https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF) | [TAKE ONE](https://open.spotify.com/album/6Khcp9V99TSaKTsS2Qnq5D) | 3:12 | 2024-05-30 |  |
 | [Raha](https://open.spotify.com/track/5L9ABMBidJ9jzZLJEM8ShZ) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Raha](https://open.spotify.com/album/1wroced4483UjUHEPZXfzA) | 3:14 | 2023-06-01 |  |

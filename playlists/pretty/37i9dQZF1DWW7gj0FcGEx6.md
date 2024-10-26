@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,112 likes - 227 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,131 likes - 227 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 19 | [You Knew](https://open.spotify.com/track/24OoQEToYc8mjMEyvptY6T) | [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Girl Haunts Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29pZbUCJmvKBSa6iTczKEm) | 1:24 |
 | 20 | [Jellyfish](https://open.spotify.com/track/3XBpnyK546ZdM0w2QBYof2) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7lL4G46M9Pxu5wnkSRnoj7) | 1:40 |
 | 21 | [Killer Heat Suite](https://open.spotify.com/track/2hG4QenRwieCio8bnFxHPG) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e) | [Killer Heat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4bNe1b9Ycnx50d4DGZZ6MA) | 3:32 |
-| 22 | [Scherzo for a Flightless Bird \(The Penguin Theme\) \- from "The Penguin"](https://open.spotify.com/track/7sQAaSaESzHulF3xt0aLtE) | [Mick Giacchino](https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0) | [Scherzo for a Flightless Bird \(The Penguin Theme\) \[from "The Penguin"\]](https://open.spotify.com/album/21sLLNt7hoR9ceMYUKIJ9C) | 3:14 |
+| 22 | [Scherzo for a Flightless Bird \(The Penguin Theme\)](https://open.spotify.com/track/7sQAaSaESzHulF3xt0aLtE) | [Mick Giacchino](https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0) | [Scherzo for a Flightless Bird \(The Penguin Theme\) \[from "The Penguin"\]](https://open.spotify.com/album/21sLLNt7hoR9ceMYUKIJ9C) | 3:14 |
 | 23 | [Uprising Ending](https://open.spotify.com/track/6KACuXAi0TR3zoVXebB76J) | [Cho Young\-Wuk](https://open.spotify.com/artist/0qUHwGKZS1Q1hTe2Zbt2L6) | [Uprising \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6HZHK6M97lJjHWPBAhOiIX) | 5:11 |
 | 24 | [Sudden Death \- Main Title](https://open.spotify.com/track/7eByZcYR5iXNmzF1zKnlVA) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Sudden Death \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/6lM3Pee6BPwG3eUqfbYOXm) | 3:06 |
 | 25 | [I Could Use a Boost](https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [The Wild Robot \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i) | 3:07 |

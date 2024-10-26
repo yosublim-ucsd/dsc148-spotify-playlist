@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 387160,
       "name": "Baby, We're Ascending",
       "url": "https://open.spotify.com/track/3Nn6tQg6gYqCMZR0IpiiFJ"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Bearded Fireworm",
       "url": "https://open.spotify.com/track/4M8eiodme1wpFvyVujDz9m"
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 298490,
       "name": "Deceltica",
       "url": "https://open.spotify.com/track/2eSYJNS1tIahDojepc8rF5"
@@ -5822,7 +5822,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Flips and Flops, Drips and Drops",
       "url": "https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3"
@@ -7434,6 +7434,24 @@
       "duration_ms": 264000,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/0VpSjr6ouIqQYU53y2rOfr"
+    },
+    {
+      "album": {
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
     },
     {
       "album": {
@@ -18634,7 +18652,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 160000,
       "name": "Yu",
       "url": "https://open.spotify.com/track/00EGZT3cVfYHUKEONXdk3Q"

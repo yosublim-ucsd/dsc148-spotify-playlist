@@ -938,7 +938,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 215215,
       "name": "Em Coma",
       "url": "https://open.spotify.com/track/7Cvut5AmV0X1O7Xtg8Nd7H"
@@ -1952,6 +1952,24 @@
       "duration_ms": 229320,
       "name": "Nada Vai Me Parar",
       "url": "https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW"
+    },
+    {
+      "album": {
+        "name": "Nas Chagas",
+        "url": "https://open.spotify.com/album/4gfLB4BV8Efs5Hogfy42tW"
+      },
+      "artists": [
+        {
+          "name": "Resgate",
+          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256390,
+      "name": "Nas Chagas",
+      "url": "https://open.spotify.com/track/1Dtc1417eHoEbMRsS4M0uE"
     },
     {
       "album": {

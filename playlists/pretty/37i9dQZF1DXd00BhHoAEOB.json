@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 73400,
+  "num_followers": 73418,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,18 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "Grecia",
-        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 200118,
-      "name": "Grecia",
-      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/36xQ9CL4lcoZ6pK4mA89pJ"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -595,18 +587,26 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
+        "name": "Grecia",
+        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/36xQ9CL4lcoZ6pK4mA89pJ"
+      "duration_ms": 200118,
+      "name": "Grecia",
+      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -719,38 +719,6 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "Chavela Vargas. Sus 40 Grandes Canciones",
-        "url": "https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 202359,
-      "name": "Que te vaya bonito",
-      "url": "https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
-        "name": "Calle Sin Salida",
-        "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 170240,
-      "name": "Calle Sin Salida",
-      "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
       },
@@ -763,6 +731,22 @@
       "duration_ms": 211680,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/40Zju5o9KUlk51Vvwqa7mB"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
+        "name": "Chavela Vargas. Sus 40 Grandes Canciones",
+        "url": "https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 202359,
+      "name": "Que te vaya bonito",
+      "url": "https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -783,6 +767,22 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
+        "name": "Calle Sin Salida",
+        "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "Calle Sin Salida",
+      "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
         "name": "Sembrando Flores",
         "url": "https://open.spotify.com/album/2L4pDxKqvwuJ6mr03Kc1I8"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 316520,
       "name": "Sembrando Flores",
       "url": "https://open.spotify.com/track/6LYLxRDlZ6TZApHD7oNddu"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5DaEYh5UYRug3BhszGYsvY"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
         "name": "Que Sepan Todos",
         "url": "https://open.spotify.com/album/3XuM6n6eTaUVFfoem4AJx5"
       },
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5DaEYh5UYRug3BhszGYsvY"
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
       },
       "artists": [
         {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
         }
       ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/3XZdg2qjBuumJJPOKAgQgu"
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -975,6 +975,22 @@
       "duration_ms": 265720,
       "name": "Siempre Te Busqu\u00e9",
       "url": "https://open.spotify.com/track/7a75CWRq82AGSHdL5Qw515"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 226746,
+      "name": "Marchita",
+      "url": "https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -1035,6 +1051,22 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
+        "name": "El Primer Rayo de Sol - EP",
+        "url": "https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ"
+      },
+      "artists": [
+        {
+          "name": "Monocordio",
+          "url": "https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU"
+        }
+      ],
+      "duration_ms": 289893,
+      "name": "Me Haces Existir",
+      "url": "https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
         "name": "Tu Amor No Vale un Bolero",
         "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
@@ -1051,22 +1083,6 @@
       "duration_ms": 206710,
       "name": "Tu Amor No Vale un Bolero",
       "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
-        "name": "El Primer Rayo de Sol - EP",
-        "url": "https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ"
-      },
-      "artists": [
-        {
-          "name": "Monocordio",
-          "url": "https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU"
-        }
-      ],
-      "duration_ms": 289893,
-      "name": "Me Haces Existir",
-      "url": "https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -1099,22 +1115,6 @@
       "duration_ms": 151953,
       "name": "Ni una Gota de Amor",
       "url": "https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2c45X7DHudMAL9hec42DhL"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 226746,
-      "name": "Marchita",
-      "url": "https://open.spotify.com/track/1ib007yU04BbbwTV1fkPTi"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/4M5M5qXVRSieQR6QMf3PQ1"
+      },
+      "artists": [
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe"
+        },
+        {
+          "name": "Jack Lahana",
+          "url": "https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "Adentro",
+      "url": "https://open.spotify.com/track/0xq1O6ihCy7Y6U2gBEGdPt"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
         "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
         "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
       },
@@ -1231,30 +1255,6 @@
       "duration_ms": 188654,
       "name": "Navegar",
       "url": "https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
-        "name": "Adentro",
-        "url": "https://open.spotify.com/album/4M5M5qXVRSieQR6QMf3PQ1"
-      },
-      "artists": [
-        {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe"
-        },
-        {
-          "name": "Jack Lahana",
-          "url": "https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "Adentro",
-      "url": "https://open.spotify.com/track/0xq1O6ihCy7Y6U2gBEGdPt"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
+        "name": "Habr\u00e1",
+        "url": "https://open.spotify.com/album/0PYQK8hFeRgTgb0P4GAPZf"
+      },
+      "artists": [
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        }
+      ],
+      "duration_ms": 187945,
+      "name": "Habr\u00e1",
+      "url": "https://open.spotify.com/track/5Ne4Y841FWmpmPDGL60FXH"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
         "name": "Sabor a Mar",
         "url": "https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v"
       },
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2024-08-14 15:57:12",
       "album": {
-        "name": "Habr\u00e1",
-        "url": "https://open.spotify.com/album/0PYQK8hFeRgTgb0P4GAPZf"
-      },
-      "artists": [
-        {
-          "name": "Pilar Cabrera",
-          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
-        }
-      ],
-      "duration_ms": 187945,
-      "name": "Habr\u00e1",
-      "url": "https://open.spotify.com/track/5Ne4Y841FWmpmPDGL60FXH"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
         "name": "Vuelas Tan Lindo",
         "url": "https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 158500,
       "name": "Vuelas Tan Lindo",
       "url": "https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS"
+    },
+    {
+      "added_at": "2024-08-14 15:57:12",
+      "album": {
+        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
+        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r"
     },
     {
       "added_at": "2024-08-14 15:57:12",
@@ -1379,22 +1395,6 @@
       "duration_ms": 274773,
       "name": "Jurame - Remasterizado",
       "url": "https://open.spotify.com/track/0vt3qE8odeBMTPy0tm5sF8"
-    },
-    {
-      "added_at": "2024-08-14 15:57:12",
-      "album": {
-        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
-        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 188920,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r"
     },
     {
       "added_at": "2024-08-14 15:57:12",

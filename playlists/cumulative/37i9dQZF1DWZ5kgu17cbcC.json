@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "American Dad! Greatest Hits",
+        "url": "https://open.spotify.com/album/5YrB7WXoV5Smf8VoRXi4qD"
+      },
+      "artists": [
+        {
+          "name": "American Dad! Cast",
+          "url": "https://open.spotify.com/artist/2CSVljFM7BwGQjCCjjrAH8"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93944,
+      "name": "Good Morning U.S.A. - Main Title Theme",
+      "url": "https://open.spotify.com/track/5zqEtv7hgqhMTpFGRFZSpE"
+    },
+    {
+      "album": {
         "name": "Great Expectations (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1CBi1xXd60BA6ReHdCsxYN"
       },

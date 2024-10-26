@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: M\u0142ody Leszcz, Molehead, PAWLACZ",
+  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Hubert.",
   "name": "alt rap",
   "tracks": [
     {
@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 173840,
       "name": "balkon",
       "url": "https://open.spotify.com/track/2pOcIVZIESdbgnXKt2wlow"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 193710,
       "name": "Bejbi Blue",
       "url": "https://open.spotify.com/track/5s8AqevzP83wWa5gWb54KS"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 161777,
       "name": "czapka",
       "url": "https://open.spotify.com/track/6EYkyZ1NqxqD8qhZAgwXBt"
@@ -1018,6 +1018,36 @@
       "duration_ms": 226129,
       "name": "Danuta odbiera Nobla - 1989 Musical",
       "url": "https://open.spotify.com/track/0YxsNbQcemKZ5SKthdOvlP"
+    },
+    {
+      "album": {
+        "name": "Deadpool",
+        "url": "https://open.spotify.com/album/5pj1BjV9EqCCG0xVFVWI7p"
+      },
+      "artists": [
+        {
+          "name": "Ko\u015bciey",
+          "url": "https://open.spotify.com/artist/1RH77lN0aqyLvmiiiUvkpG"
+        },
+        {
+          "name": "Boryn",
+          "url": "https://open.spotify.com/artist/5AdmifGjkkz3Bg2bK05NQq"
+        },
+        {
+          "name": "Mada",
+          "url": "https://open.spotify.com/artist/7asAvALnQz42AEYavWUZUV"
+        },
+        {
+          "name": "Dj Qmak",
+          "url": "https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "Deadpool",
+      "url": "https://open.spotify.com/track/5Lj9prDmsVxOVMLoksEgNl"
     },
     {
       "album": {
@@ -1104,6 +1134,24 @@
       "duration_ms": 160888,
       "name": "Determinacja",
       "url": "https://open.spotify.com/track/5cZR3OzaO0YRCPVqvkQb0U"
+    },
+    {
+      "album": {
+        "name": "DM",
+        "url": "https://open.spotify.com/album/1CEieYFtzbLrCmb3Os825e"
+      },
+      "artists": [
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/2EwQaHnQWJK8zWv9W44FsE"
     },
     {
       "album": {
@@ -1517,6 +1565,28 @@
     },
     {
       "album": {
+        "name": "GRUU",
+        "url": "https://open.spotify.com/album/4WhbcbQLIDy4i4rRDaYTsO"
+      },
+      "artists": [
+        {
+          "name": "Bedzik",
+          "url": "https://open.spotify.com/artist/2rLulWQ79BASTjvtgbggmT"
+        },
+        {
+          "name": "cytryn",
+          "url": "https://open.spotify.com/artist/5woKSxr6bGG4MfZJN4GBRP"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "GRUU",
+      "url": "https://open.spotify.com/track/79ZRkT7VAVAIj2uZde1QTF"
+    },
+    {
+      "album": {
         "name": "GRUUVSTEP",
         "url": "https://open.spotify.com/album/08vh7X5H0uGLo3oaesbIqm"
       },
@@ -1586,6 +1656,24 @@
       "duration_ms": 170704,
       "name": "HAWK",
       "url": "https://open.spotify.com/track/2HwCGU6t0x8rMmlOVlwV6w"
+    },
+    {
+      "album": {
+        "name": "Hi?-Pop 2000",
+        "url": "https://open.spotify.com/album/3oiOXX5s0887nk3UwsOkI7"
+      },
+      "artists": [
+        {
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Hi?-Pop 2000",
+      "url": "https://open.spotify.com/track/0wRPRXDOWnajQUTLpoxBQC"
     },
     {
       "album": {
@@ -1875,6 +1963,32 @@
     },
     {
       "album": {
+        "name": "Kareem",
+        "url": "https://open.spotify.com/album/1AihUTvXDpna9easqXXGh2"
+      },
+      "artists": [
+        {
+          "name": "PAL SECAM",
+          "url": "https://open.spotify.com/artist/5vvqUDRm52q6oGcYiCjlng"
+        },
+        {
+          "name": "Waha",
+          "url": "https://open.spotify.com/artist/1hnKUpiJqmV70t72Tr7Aub"
+        },
+        {
+          "name": "Teielte",
+          "url": "https://open.spotify.com/artist/4zKoRVXYWUNUAdUYtlZirU"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130946,
+      "name": "Kareem",
+      "url": "https://open.spotify.com/track/6sDmyBheArmMn3Z5wzwuRk"
+    },
+    {
+      "album": {
         "name": "EKSKLUZYWNY G\u0141\u00d3D",
         "url": "https://open.spotify.com/album/7LOKcNjVJnmyRlCzYPRjXE"
       },
@@ -2140,7 +2254,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 414266,
       "name": "Little T",
       "url": "https://open.spotify.com/track/3CP07GCmZgjM9JqfMv42VH"
@@ -2426,7 +2540,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 150911,
       "name": "NA STARCIE",
       "url": "https://open.spotify.com/track/42nOlTNEb7QkbuxyGqkMXR"
@@ -2610,7 +2724,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 138857,
       "name": "Niech zgina si\u0119 blok",
       "url": "https://open.spotify.com/track/3j4XPg70PPv91xbyoiiESo"
@@ -2898,6 +3012,36 @@
       "duration_ms": 231846,
       "name": "Par\u0119 S\u0142\u00f3w",
       "url": "https://open.spotify.com/track/3QVJppchxDLnbx52on7RKb"
+    },
+    {
+      "album": {
+        "name": "Pe\u0142zaj\u0105ca \u015bmier\u0107 (AE73)",
+        "url": "https://open.spotify.com/album/4nyDY5mmsJ0HgocblyvrLX"
+      },
+      "artists": [
+        {
+          "name": "SYMPTOM",
+          "url": "https://open.spotify.com/artist/0dI0i3ATLzXr4ktHfAW0C7"
+        },
+        {
+          "name": "bartek koko",
+          "url": "https://open.spotify.com/artist/5312y2NGMiLLi755wrlMSD"
+        },
+        {
+          "name": "FAV Fillomatic",
+          "url": "https://open.spotify.com/artist/2QpU0M4VA7uKhuNy1zBn6m"
+        },
+        {
+          "name": "DJ Cutahead",
+          "url": "https://open.spotify.com/artist/6MovydASW2zl87TtIH3BXz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137375,
+      "name": "Pe\u0142zaj\u0105ca \u015bmier\u0107 (AE73)",
+      "url": "https://open.spotify.com/track/1s8D9rp9Vxohu2Dyb8yKV2"
     },
     {
       "album": {
@@ -3761,6 +3905,24 @@
     },
     {
       "album": {
+        "name": "sutra",
+        "url": "https://open.spotify.com/album/4dJ4NQ8BDX2DT2yBJ6oOPc"
+      },
+      "artists": [
+        {
+          "name": "Erwik",
+          "url": "https://open.spotify.com/artist/1IiRcsh4LaL0NVGv4eOV3r"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131612,
+      "name": "sutra",
+      "url": "https://open.spotify.com/track/0JxG9b6Crl9PTcLghGS45a"
+    },
+    {
+      "album": {
         "name": "lato 2024",
         "url": "https://open.spotify.com/album/46UkVFbOjbq6vwX4GKaU6L"
       },
@@ -3888,7 +4050,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 158331,
       "name": "TO JU\u017b CZAS",
       "url": "https://open.spotify.com/track/1aYuCt4HQuAwGa4h9DoB4b"

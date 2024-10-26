@@ -2638,7 +2638,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 111173,
       "name": "Barista",
       "url": "https://open.spotify.com/track/0xIroxQpcjA2z9u1dnHb7C"
@@ -4614,7 +4614,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 121345,
       "name": "candlelight",
       "url": "https://open.spotify.com/track/2X6DKsYGYiPYCn0iezQja7"
@@ -5104,7 +5104,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 145394,
       "name": "chamomile",
       "url": "https://open.spotify.com/track/4n8PIPGIm5s0E9J4adZLiA"
@@ -5212,7 +5212,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 163925,
       "name": "Cheerful Times",
       "url": "https://open.spotify.com/track/6ZrHxqXFpqLQ33ki9KhbRP"
@@ -9630,7 +9630,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 158666,
       "name": "empty heads",
       "url": "https://open.spotify.com/track/78CZWFmBaPAWNmm1k14Vis"
@@ -11028,7 +11028,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 137142,
       "name": "Findings",
       "url": "https://open.spotify.com/track/46dzk7cORXnFdegl7aNK3I"
@@ -11688,7 +11688,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 159000,
       "name": "Fluffity",
       "url": "https://open.spotify.com/track/22iHU9AESPMxf6aaI2OKd3"
@@ -12527,6 +12527,24 @@
     },
     {
       "album": {
+        "name": "ghee",
+        "url": "https://open.spotify.com/album/2u7bj6y7s28vB8Vsa0QhCg"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ghee",
+      "url": "https://open.spotify.com/track/2tIuYjDRwnJfJEt4uDEjRl"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/3X6tebSYE2bQJLuNDAsFqa"
       },
@@ -13165,6 +13183,28 @@
     },
     {
       "album": {
+        "name": "Guidance",
+        "url": "https://open.spotify.com/album/05G1VArVvJLKx1G2ns5jvP"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        },
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "Guidance",
+      "url": "https://open.spotify.com/track/1SRSlz0WFjWuKO7sxZgiO5"
+    },
+    {
+      "album": {
         "name": "Gummy Bear",
         "url": "https://open.spotify.com/album/5exRvu223wIgpQGQHmfZM6"
       },
@@ -13176,7 +13216,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 112636,
       "name": "Gummy Bear",
       "url": "https://open.spotify.com/track/3qVOYICdZrcsOq9UYqefxz"
@@ -15183,6 +15223,24 @@
     },
     {
       "album": {
+        "name": "imstillfallingfor",
+        "url": "https://open.spotify.com/album/0L7lZEjd0QxY2ApHlwmUbZ"
+      },
+      "artists": [
+        {
+          "name": "ELEWAKA",
+          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "imstillfallingfor",
+      "url": "https://open.spotify.com/track/2hug5L1Q26tKppSYubogeh"
+    },
+    {
+      "album": {
         "name": "In a Dream",
         "url": "https://open.spotify.com/album/6Eg5hzk362dbo7tQUde33a"
       },
@@ -16710,7 +16768,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 196170,
       "name": "labels",
       "url": "https://open.spotify.com/track/3EUBnInz36WkQMT1VDZL9n"
@@ -16994,6 +17052,24 @@
       "duration_ms": 119916,
       "name": "late night walking",
       "url": "https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a"
+    },
+    {
+      "album": {
+        "name": "late nights",
+        "url": "https://open.spotify.com/album/4MyA7lyAneHYWnuR9S7NeA"
+      },
+      "artists": [
+        {
+          "name": "Slowday",
+          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157021,
+      "name": "late nights",
+      "url": "https://open.spotify.com/track/7eFgCZQYH6fHKxwn6HPMas"
     },
     {
       "album": {
@@ -17746,7 +17822,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 172339,
       "name": "like a leaf",
       "url": "https://open.spotify.com/track/7naGf82z8qfKkWhS7NkLUJ"
@@ -17934,7 +18010,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 140270,
       "name": "Liquid Moment",
       "url": "https://open.spotify.com/track/0l6oPvmPJ8b7PV2Oh0XkLI"
@@ -19154,7 +19230,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 174545,
       "name": "lullabi",
       "url": "https://open.spotify.com/track/3o4CP6tTnBcQMIEsCS9rME"
@@ -19444,7 +19520,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 145116,
       "name": "Maca",
       "url": "https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE"
@@ -23157,6 +23233,28 @@
     },
     {
       "album": {
+        "name": "Offtheground",
+        "url": "https://open.spotify.com/album/0rWhDhsdGGTGfEPERoyd3U"
+      },
+      "artists": [
+        {
+          "name": "takeo",
+          "url": "https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf"
+        },
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133953,
+      "name": "Offtheground",
+      "url": "https://open.spotify.com/track/1M2vwDBnixHHtg8lcs9xxa"
+    },
+    {
+      "album": {
         "name": "Oh way",
         "url": "https://open.spotify.com/album/08uaZ1l5vbhkoCLYrtN8FI"
       },
@@ -25542,7 +25640,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 168750,
       "name": "Rejuvenation",
       "url": "https://open.spotify.com/track/55f29miNKik4J99fPadtrF"
@@ -26618,7 +26716,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 107426,
       "name": "Scratched CD-RW",
       "url": "https://open.spotify.com/track/2BFuxcqMUjNdzp86o9qNMz"
@@ -28450,7 +28548,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 118400,
       "name": "Something Different",
       "url": "https://open.spotify.com/track/1QxHlIxKVTiNX4Vj38ejLo"
@@ -28796,7 +28894,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 168434,
       "name": "souli",
       "url": "https://open.spotify.com/track/3kGmHk4Lwe4EncLPHkokap"
@@ -28836,6 +28934,24 @@
       "duration_ms": 130832,
       "name": "Sound Of Dreams",
       "url": "https://open.spotify.com/track/3AaPJMNA1GTfYSJkCKZgPE"
+    },
+    {
+      "album": {
+        "name": "sound of the wind",
+        "url": "https://open.spotify.com/album/6UP1QqWn75Q38Y2aL13IIi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "sound of the wind",
+      "url": "https://open.spotify.com/track/5NFupUpx1mo7VpOOySnNLd"
     },
     {
       "album": {
@@ -29576,7 +29692,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 128970,
       "name": "Street Light",
       "url": "https://open.spotify.com/track/7jDnKToNs76wyPpZWI40s9"
@@ -31070,7 +31186,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 144680,
       "name": "tandem",
       "url": "https://open.spotify.com/track/6OAfoGP4aLfPtjyS06XxIs"

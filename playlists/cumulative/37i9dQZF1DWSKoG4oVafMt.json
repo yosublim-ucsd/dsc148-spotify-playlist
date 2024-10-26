@@ -354,7 +354,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 139125,
       "name": "About Me",
       "url": "https://open.spotify.com/track/0oqt3ItMRc96uSNqk78baA"
@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 237333,
       "name": "Dil Tu Jaan Tu",
       "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
@@ -6080,6 +6080,32 @@
       "duration_ms": 182934,
       "name": "Hi Bye",
       "url": "https://open.spotify.com/track/2KhgkUOwNVBQUGSkeaNzW8"
+    },
+    {
+      "album": {
+        "name": "Ho Gya Pyar",
+        "url": "https://open.spotify.com/album/3XAIeDSgTDOyo4qLn8DLkW"
+      },
+      "artists": [
+        {
+          "name": "Ranjit Bawa",
+          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Ho Gya Pyar",
+      "url": "https://open.spotify.com/track/5oGOu1atZwbioN0MgNVio2"
     },
     {
       "album": {
@@ -9850,6 +9876,32 @@
       "duration_ms": 174000,
       "name": "Love War",
       "url": "https://open.spotify.com/track/2D6mhQD1MUVf7vDQGySwtg"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/3Z7v66nO09B9NMl3qaAhgN"
+      },
+      "artists": [
+        {
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        },
+        {
+          "name": "Ryan Sandhu",
+          "url": "https://open.spotify.com/artist/4DZwIJffAv7FZMKYxnoP1H"
+        },
+        {
+          "name": "Daddy Beats",
+          "url": "https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/2JW5AjQUZg69oqM8bt6SJA"
     },
     {
       "album": {

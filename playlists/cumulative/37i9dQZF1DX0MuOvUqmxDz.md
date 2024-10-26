@@ -4,7 +4,7 @@
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Dasha
 
-324 songs - 17 hr 35 min
+326 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Back Home Christmas](https://open.spotify.com/track/2rEVJTkweG9QW6HPXyDJI4) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Back Home Christmas](https://open.spotify.com/album/14nKYXwTDf1eZoEdnWD501) | 3:39 | 2022-11-11 | 2024-08-22 |
 | [Beautiful Star of Bethlehem](https://open.spotify.com/track/7FFXfYeF3H1IsSUbwyk3kC) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Beautiful Star of Bethlehem](https://open.spotify.com/album/64TNhQ20gsVJBPaoZatLmx) | 3:26 | 2023-11-24 | 2023-12-19 |
 | [Believe](https://open.spotify.com/track/3GRrReIVJ4C71ajUvk7O1e) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Believe](https://open.spotify.com/album/0Wr6JfWQD7bzK7ipLyeiOD) | 3:19 | 2021-12-16 | 2022-11-18 |
+| [Blue Christmas](https://open.spotify.com/track/3p47LAxCgFOSmgj20WqBdH) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Blue Christmas](https://open.spotify.com/album/51qIyccjvJCDMNW2L5K7xi) | 2:08 | 2024-10-25 |  |
 | [Blue Christmas](https://open.spotify.com/track/4hjZLWozJ5kmqnjAGV7nBC) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Blue Christmas](https://open.spotify.com/album/6eF0Qn1pCKtgRP1ChIvijA) | 2:50 | 2022-10-28 | 2023-10-28 |
 | [Blue Christmas](https://open.spotify.com/track/7bPW9SCgNTkATn4bogwQyW) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Blue Christmas](https://open.spotify.com/album/1wQDiRoDF4Y0SGLHG8BdVi) | 2:08 | 2023-10-27 |  |
 | [Blue Christmas](https://open.spotify.com/track/60eELuQwcjoTbJKcgJLfo8) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Blue Christmas](https://open.spotify.com/album/4eXDJg77YaPvyNZ8AKVxxq) | 2:15 | 2021-12-16 | 2022-11-12 |
@@ -142,6 +143,7 @@
 | [I Wish You Love This Christmas](https://open.spotify.com/track/101eLmM2mbLBoMiUHUt2dE) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [I Wish You Love This Christmas](https://open.spotify.com/album/2dCQm6TS3KkIkx97KQmCNs) | 2:17 | 2021-12-16 | 2022-10-08 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/2rxbx11NAXpp9y9Ls7cQww) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [I'll Be Home for Christmas](https://open.spotify.com/album/6PZInxcShh2bfAcoWntKkO) | 3:07 | 2021-12-16 | 2024-08-22 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/5RMuRiyV5fVzQriQjGyIhp) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Cody Johnson Christmas](https://open.spotify.com/album/0cLuZfaaFMtFmMIadVO0z8) | 4:05 | 2021-12-16 |  |
+| [I'll Be Home For Christmas](https://open.spotify.com/track/1GjuT0FXHHve3t5CzqU9Wd) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [I'll Be Home For Christmas](https://open.spotify.com/album/3obmcueQA0HPnQcUmYykic) | 3:20 | 2024-10-25 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/2TgckUnL0YZX4CQ5LKcjVF) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [I'll Be Home for Christmas](https://open.spotify.com/album/4nQbwU5bY6C0yRSD9N0ayp) | 3:15 | 2022-11-25 | 2023-10-28 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/0V2Anxn5pgRHZElbYbCip0) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [I'll Be Home for Christmas](https://open.spotify.com/album/3sJ5zX6tqTL3Mjo9NIkWri) | 3:11 | 2021-12-16 | 2022-11-12 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/7K3i0GUuw4tdIy2BtXVqtW) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Unwrapped \- EP](https://open.spotify.com/album/5UxCYp9ugSxlZtp7TIaJoV) | 3:27 | 2021-12-16 | 2022-11-18 |

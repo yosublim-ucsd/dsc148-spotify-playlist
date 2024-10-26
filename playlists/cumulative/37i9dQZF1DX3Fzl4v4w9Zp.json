@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Billy Strings",
+  "description": "Keep your finger on the pulse of Americana. Cover: Amythyst Kiah",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -3219,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "Still + Bright",
+        "url": "https://open.spotify.com/album/5OPn3sKvPQZ1Hg6hSLiE78"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220106,
+      "name": "Empire Of Love",
+      "url": "https://open.spotify.com/track/2TnL6neU2UC1Ti224dOT1n"
+    },
+    {
+      "album": {
         "name": "Empty Trainload Of Sky",
         "url": "https://open.spotify.com/album/5ojEvbXKOHXughEQcGoUwD"
       },
@@ -3990,6 +4008,24 @@
       "duration_ms": 196533,
       "name": "Fox Hunt",
       "url": "https://open.spotify.com/track/32TjTdbpM9dv5gBVFXbU8S"
+    },
+    {
+      "album": {
+        "name": "Surprise No. 1",
+        "url": "https://open.spotify.com/album/4nuK9bdzH9Bx6wTWjUY31q"
+      },
+      "artists": [
+        {
+          "name": "Palmyra",
+          "url": "https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256549,
+      "name": "Fried",
+      "url": "https://open.spotify.com/track/0pI5F58IanA3z0rJJGsMqg"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
-  "num_followers": 43684,
+  "num_followers": 43685,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAAs+b+W3aeQ9Sl88o4rpV9m",
+  "snapshot_id": "ZxmOAAAAAACbJuplpHx9Kuif73QkZwds",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 238333,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
+      "duration_ms": 204026,
+      "name": "Nuclear",
+      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demolition",
-        "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
       },
       "artists": [
         {
@@ -516,25 +516,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 204026,
-      "name": "Nuclear",
-      "url": "https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Crystal Ship (Live from Paris, France. 2023)",
-        "url": "https://open.spotify.com/album/09SHTEHk5HU1pxeSm2oIJM"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 189401,
-      "name": "The Crystal Ship - Live from Paris, France. 2023",
-      "url": "https://open.spotify.com/track/7lzXvgARS4vug24Zk4xMHC"
+      "duration_ms": 238333,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
     },
     {
       "added_at": null,
@@ -559,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Demolition",
         "url": "https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q"
       },
@@ -587,6 +555,38 @@
       "duration_ms": 178706,
       "name": "Chin Up, Cheer Up",
       "url": "https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Crystal Ship (Live from Paris, France. 2023)",
+        "url": "https://open.spotify.com/album/09SHTEHk5HU1pxeSm2oIJM"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 189401,
+      "name": "The Crystal Ship - Live from Paris, France. 2023",
+      "url": "https://open.spotify.com/track/7lzXvgARS4vug24Zk4xMHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE"
     },
     {
       "added_at": null,
@@ -704,7 +704,7 @@
       "added_at": null,
       "album": {
         "name": "Ryan Adams",
-        "url": "https://open.spotify.com/album/69K1Pef7hoy91Q81F6WPey"
+        "url": "https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3"
       },
       "artists": [
         {
@@ -714,7 +714,7 @@
       ],
       "duration_ms": 234893,
       "name": "Gimme Something Good",
-      "url": "https://open.spotify.com/track/4bhspHrFFCtl1wSt74KcxL"
+      "url": "https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Man In Me (Live from Bristol, UK. 2023)",
-        "url": "https://open.spotify.com/album/6Kxh7vRBvv2iTz2Ux3EeaE"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 218527,
-      "name": "The Man In Me - Live from Bristol, UK. 2023.",
-      "url": "https://open.spotify.com/track/4aSrRsfy7Da0ToUZkfg9Gq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wasted Years (Live from Glasgow, UK. 2023)",
         "url": "https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs"
       },
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Hell",
-        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+        "name": "The Man In Me (Live from Bristol, UK. 2023)",
+        "url": "https://open.spotify.com/album/6Kxh7vRBvv2iTz2Ux3EeaE"
       },
       "artists": [
         {
@@ -792,41 +776,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 318586,
-      "name": "The Shadowlands",
-      "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "London Calling (Live from London, UK. 2023)",
-        "url": "https://open.spotify.com/album/4ofCLLMFuWdkd9OxmaKFkV"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 256683,
-      "name": "London Calling - Live from London, UK. 2023",
-      "url": "https://open.spotify.com/track/0y7Zb8fAua487G50WZiH5C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Do Not Feel Like Being Good",
-        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 195440,
-      "name": "How Much Light",
-      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
+      "duration_ms": 218527,
+      "name": "The Man In Me - Live from Bristol, UK. 2023.",
+      "url": "https://open.spotify.com/track/4aSrRsfy7Da0ToUZkfg9Gq"
     },
     {
       "added_at": null,
@@ -847,6 +799,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Is Hell",
+        "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 318586,
+      "name": "The Shadowlands",
+      "url": "https://open.spotify.com/track/2uW4Jr8JOkYtpfQwG5YXcj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Do Not Feel Like Being Good",
+        "url": "https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "How Much Light",
+      "url": "https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sword & Stone",
         "url": "https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 169573,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "London Calling (Live from London, UK. 2023)",
+        "url": "https://open.spotify.com/album/4ofCLLMFuWdkd9OxmaKFkV"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 256683,
+      "name": "London Calling - Live from London, UK. 2023",
+      "url": "https://open.spotify.com/track/0y7Zb8fAua487G50WZiH5C"
     }
   ],
   "unique_name": "This Is Ryan Adams",

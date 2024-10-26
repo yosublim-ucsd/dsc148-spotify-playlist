@@ -1,6 +1,6 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 129875,
+  "num_followers": 129977,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
-        }
-      ],
-      "duration_ms": 246237,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Seduction",
         "url": "https://open.spotify.com/album/132qZxDylYwv3vvUA3AH7D"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 238053,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/6gWHevH6rJOaLpRYIVQWll"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "duration_ms": 246237,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Songs From The Night Before",
-        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
-      },
-      "artists": [
-        {
-          "name": "David Sanborn",
-          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "Rikke",
-      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 302506,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Songs From The Night Before",
+        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
+      },
+      "artists": [
+        {
+          "name": "David Sanborn",
+          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "Rikke",
+      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Le Tour d'Amour",
-        "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
-      },
-      "artists": [
-        {
-          "name": "Boulevard Pacific",
-          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "Le Tour d'Amour",
-      "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Face To Face (US Version)",
         "url": "https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Island Life",
-        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
+        "name": "Le Tour d'Amour",
+        "url": "https://open.spotify.com/album/0bT3CNQPw1ZjiTbC4cWlo8"
       },
       "artists": [
         {
-          "name": "Ken Navarro",
-          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+          "name": "Boulevard Pacific",
+          "url": "https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE"
         }
       ],
-      "duration_ms": 288666,
-      "name": "Island Life",
-      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
+      "duration_ms": 200640,
+      "name": "Le Tour d'Amour",
+      "url": "https://open.spotify.com/track/0tHzz8mldvPxA2lmw8dfnn"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -879,6 +863,22 @@
       "duration_ms": 286093,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Island Life",
+        "url": "https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb"
+      },
+      "artists": [
+        {
+          "name": "Ken Navarro",
+          "url": "https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a"
+        }
+      ],
+      "duration_ms": 288666,
+      "name": "Island Life",
+      "url": "https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "Kisses In The Rain",
+        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 280240,
+      "name": "Grover's Groove",
+      "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 257373,
       "name": "Here With You",
       "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "Kisses In The Rain",
-        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 280240,
-      "name": "Grover's Groove",
-      "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
     },
     {
       "added_at": "2024-05-28 08:19:13",

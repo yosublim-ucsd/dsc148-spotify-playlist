@@ -4,7 +4,7 @@
 
 > Goes best with small chops and party jollof
 
-151 songs - 7 hr 40 min
+152 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Ogechi \(feat\. Davido\) \- Remix](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 | 2024-06-27 |  |
 | [Ohemaa](https://open.spotify.com/track/0kRy7nW9uIdvBK0Xr90U9W) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Ohemaa](https://open.spotify.com/album/0gOlMRtoFxvMUAfyLtIJ1h) | 4:05 | 2022-02-11 | 2023-04-15 |
 | [Ole](https://open.spotify.com/track/6wuN1XZESVxWp72Luqfh9P) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Ole](https://open.spotify.com/album/0rQjFXsqyI6eD0I6p3idA0) | 2:44 | 2024-08-30 |  |
+| [One & Only](https://open.spotify.com/track/3g1ap9E3iRZzlya84LRhwt) | [Kiyagi](https://open.spotify.com/artist/175itjZJLOZ4toEeb4Y0Yj) | [One & Only](https://open.spotify.com/album/0QmRBHLzLp4b78JIjzOEue) | 3:03 | 2024-10-25 |  |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:22 | 2022-02-11 | 2024-04-19 |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:22 | 2022-02-11 | 2022-11-13 |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/5gsvgZuxT41OWmH03SBT8J) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:22 | 2024-04-19 |  |

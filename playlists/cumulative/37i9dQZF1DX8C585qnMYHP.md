@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists and labels\. Astoria on cover\. Artwork by Thami Nabil
 
-1,907 songs - 6 day 5 hr 48 min
+1,908 songs - 6 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,7 +505,7 @@
 | [Emptiness Follows \(Dreams of Our Love\)](https://open.spotify.com/track/6zaIYGW4whKe85V6d3FP8h) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Emptiness Follows](https://open.spotify.com/album/7BjL3EfbYyA0x88w5uPXr7) | 4:28 | 2022-06-29 | 2022-09-01 |
 | [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 | 2023-02-01 | 2023-03-23 |
 | [En El Bosque](https://open.spotify.com/track/4BZU3KLHn3PzgA4EREWX4l) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Nocturnina](https://open.spotify.com/album/6jSvr6MVCXunzOMKoOxaEE) | 6:34 | 2021-01-31 | 2022-03-10 |
-| [En Paralelo](https://open.spotify.com/track/6TvMOIcWQWIBEVtyWR1svc) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Vidrio](https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv) | 2:51 | 2024-10-02 |  |
+| [En Paralelo](https://open.spotify.com/track/6TvMOIcWQWIBEVtyWR1svc) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Vidrio](https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv) | 2:51 | 2024-10-02 | 2024-10-26 |
 | [Encara ens surten flors](https://open.spotify.com/track/16ronPbNho39fu0YkofbfG) | [Ölivia Musyk](https://open.spotify.com/artist/0ct266OoMe1T1JoQpJKuhg), [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Encara ens surten flors](https://open.spotify.com/album/0Ypf2c0JFsSmtk4hO63K8b) | 1:59 | 2022-05-18 | 2022-07-28 |
 | [Encaustic Witches](https://open.spotify.com/track/3ycKsBJiPbVqnT7gosjyky) | [anrimeal](https://open.spotify.com/artist/1JiJqqAzQNmDRW2OBkqy8b) | [Could Divine](https://open.spotify.com/album/2hG1l4hQSTKtVr58DaQd0p) | 3:20 | 2020-12-03 | 2021-01-15 |
 | [Encounter](https://open.spotify.com/track/2B5GG4yCNY46uszAA8xGyB) | [MeSo](https://open.spotify.com/artist/6JWiO1GpBwxybssaf6OUJe) | [Encounter](https://open.spotify.com/album/295imTGl6y0k7idGTb7nCO) | 3:58 | 2023-04-12 | 2023-08-02 |
@@ -585,6 +585,7 @@
 | [First Love](https://open.spotify.com/track/1ut0EWm5tnCKMbjIA4g9nO) | [Visionist](https://open.spotify.com/artist/7FnYYWkKnxLYQEYRz6dptV) | [I'm Fine, Part II](https://open.spotify.com/album/2zKaVWHb3by275IqewgZM6) | 3:05 | 2021-03-11 | 2022-01-13 |
 | [Fishermen Lost](https://open.spotify.com/track/3bAUIY59XLTzx3pLO8t3P9) | [Wanderwelle](https://open.spotify.com/artist/2042fteQud87cIM8K6VARW) | [All Hands Bury The Cliffs At Sea](https://open.spotify.com/album/0PxPgYaRsqhf83G7FHfoRC) | 4:56 | 2023-03-15 | 2023-05-11 |
 | [Fl00te](https://open.spotify.com/track/4VzgVbE9BXj64auEFfQIUb) | [Zouj](https://open.spotify.com/artist/2YsUJXkWJgXeuma5IB9lmo) | [Fl00te](https://open.spotify.com/album/72g8dF0RDZqINbL8Av99kg) | 2:19 | 2021-06-09 | 2021-08-07 |
+| [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 | 2024-10-25 |  |
 | [Flavors of Water](https://open.spotify.com/track/6BkeDiri6se6sdUe2H3Vpy) | [Ryan Pollie](https://open.spotify.com/artist/5cZo7U5yKYEWzcaR8ZKhNw) | [The Fridge](https://open.spotify.com/album/2p5QMmabdBughqus8HKrTa) | 3:11 | 2023-02-15 | 2023-03-29 |
 | [Fleeting Aspirations](https://open.spotify.com/track/56mJ8GeDzw84fJzFSWZWMj) | [SPURME](https://open.spotify.com/artist/6vwlV3wAgLZpXIWfRvA0ao), [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc) | [Fleeting Aspirations](https://open.spotify.com/album/1zeQypyWzg9F1vVevBKjsP) | 12:22 | 2022-07-27 | 2022-09-01 |
 | [Fleur en polyéthylène](https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr) | [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [Bizou](https://open.spotify.com/album/274PDh5BGP9Bk2u3DoFcuj) | 3:04 | 2024-04-24 | 2024-08-22 |

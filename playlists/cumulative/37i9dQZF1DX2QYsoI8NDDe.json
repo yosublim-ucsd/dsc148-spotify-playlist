@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "DIAMANTES VVS1",
+        "url": "https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "Amor Propio",
+      "url": "https://open.spotify.com/track/5WCl1F8tCPDECysU3yrwQ9"
+    },
+    {
+      "album": {
         "name": "Que No Se Apague La M\u00fasica",
         "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
       },
@@ -464,7 +482,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 168000,
       "name": "Anitta \"Fresita\"",
       "url": "https://open.spotify.com/track/2WX1remNuBAAqQCYwzxhbC"
@@ -666,6 +684,24 @@
       "duration_ms": 179773,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/5YH0im36TvDjT5CN2VsHHK"
+    },
+    {
+      "album": {
+        "name": "Barba Roja",
+        "url": "https://open.spotify.com/album/2h2xSixS13I4bzooLfgFc2"
+      },
+      "artists": [
+        {
+          "name": "Angel Sauceda",
+          "url": "https://open.spotify.com/artist/7aeVRZsc7JRvt7QrMa3CJP"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "Barba Roja",
+      "url": "https://open.spotify.com/track/0KA3KHouC1755ZwZDxMWhs"
     },
     {
       "album": {
@@ -1301,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Cowboy Rockstar",
+        "url": "https://open.spotify.com/album/6psrrgPReXbW0UTui5H8W0"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165641,
+      "name": "Cowboy Rockstar",
+      "url": "https://open.spotify.com/track/7d5uMAljrHXbnubvVY7msG"
+    },
+    {
+      "album": {
         "name": "Cualquiera",
         "url": "https://open.spotify.com/album/16vHdBZVkR1NwZYuehXK5i"
       },
@@ -1406,7 +1460,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 176285,
       "name": "CUIDADITO",
       "url": "https://open.spotify.com/track/3mvAYoRe4GhiTBcUUZRsFe"
@@ -2126,7 +2180,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 178826,
       "name": "Entre la Guerra y el Amor",
       "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
@@ -3160,6 +3214,28 @@
       "duration_ms": 252440,
       "name": "La Gran Se\u00f1ora",
       "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
+    },
+    {
+      "album": {
+        "name": "La Loca",
+        "url": "https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96"
+      },
+      "artists": [
+        {
+          "name": "Karina Sofia",
+          "url": "https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "La Loca",
+      "url": "https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD"
     },
     {
       "album": {
@@ -4704,10 +4780,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 179160,
       "name": "NI MUERTA",
       "url": "https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64"
+    },
+    {
+      "album": {
+        "name": "Ni Pedo",
+        "url": "https://open.spotify.com/album/1V9Cd1r9p6u1oDGuHriLsF"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142955,
+      "name": "Ni Pedo",
+      "url": "https://open.spotify.com/track/3WLdR3ObZtUiFwZgr8n7pE"
     },
     {
       "album": {
@@ -5834,7 +5928,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 150413,
       "name": "Puro Pinche Pari (PPP)",
       "url": "https://open.spotify.com/track/0KV2Dy7DpMXI6C7bBGCdgu"
@@ -7628,7 +7722,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 176768,
       "name": "Uno de los Buenos",
       "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
@@ -7729,6 +7823,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Con DC",
+        "url": "https://open.spotify.com/album/0WoAtQOZEwpwFCMCZXsdwu"
+      },
+      "artists": [
+        {
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151901,
+      "name": "When I was your Man - En Vivo",
+      "url": "https://open.spotify.com/track/4uD5lKiR8j3rVLVzCsEzSq"
+    },
+    {
+      "album": {
         "name": "Sagitario",
         "url": "https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd"
       },
@@ -7744,6 +7856,24 @@
       "duration_ms": 224906,
       "name": "Y Aqu\u00ed Estoy",
       "url": "https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha"
+    },
+    {
+      "album": {
+        "name": "Y Que Tal Si Te Escapas Del Cielo",
+        "url": "https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211750,
+      "name": "Y Que Tal Si Te Escapas Del Cielo",
+      "url": "https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T"
     },
     {
       "album": {
@@ -7794,7 +7924,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 178378,
       "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
       "url": "https://open.spotify.com/track/1KYrci9yociotmNJ2sYHPF"

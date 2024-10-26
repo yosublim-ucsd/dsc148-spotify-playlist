@@ -1,6 +1,6 @@
 {
   "description": "when life gives you lemons \u00af\\_(\u30c4)_/\u00af",
-  "num_followers": 116718,
+  "num_followers": 116720,
   "original_name": "Lemonade",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-10-10 22:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 177212,
-      "name": "lacy",
-      "url": "https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W"
-    },
-    {
-      "added_at": "2024-10-10 22:00:00",
-      "album": {
         "name": "A Collection of Fleeting Moments and Daydreams",
         "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 57495,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV"
+    },
+    {
+      "added_at": "2024-10-10 22:00:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 177212,
+      "name": "lacy",
+      "url": "https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W"
     },
     {
       "added_at": "2024-10-10 22:00:00",

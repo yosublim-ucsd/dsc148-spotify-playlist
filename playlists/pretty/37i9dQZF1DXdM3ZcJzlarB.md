@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: motty & S3BZS
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,018 likes - 99 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,020 likes - 99 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 7 | [Love \- Mixed](https://open.spotify.com/track/0WmOlBPDRr8gROqyRr3065) | [Hernan Martinez \(AR\)](https://open.spotify.com/artist/5YYQbfMoQLnDWwc9977eNU) | [MetroDance Fractals Diciembre 14/12/2023 MDF008 \(DJ Mix\)](https://open.spotify.com/album/7saroFReXC5yLRYatL4A9D) | 6:08 |
 | 8 | [Cerca](https://open.spotify.com/track/0GzgKVNy4E1E2R16zkKGOr) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cerca](https://open.spotify.com/album/1TUM8Vh8ZWkNfHc7LENZnP) | 3:11 |
 | 9 | [CORBETA](https://open.spotify.com/track/7ftUOMEXNxMlttm4wBr0Es) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [Joaquin Catriel](https://open.spotify.com/artist/3DcweuVidzAfVGEo8EX8Lz) | [CORBETA HALCÓN](https://open.spotify.com/album/3vgvdOaQWfpwYvCfHzf2KZ) | 5:15 |
-| 10 | [7 Years](https://open.spotify.com/track/75erprL1Lw7amMLGmtcdgw) | [Harper Quinn](https://open.spotify.com/artist/2KCFfLc955WPt59FGHaitm), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [7 Years](https://open.spotify.com/album/4N4swhnGOK3DE6DPBM2dLy) | 2:32 |
+| 10 | [7 Years](https://open.spotify.com/track/75erprL1Lw7amMLGmtcdgw) | [Harper Quinn](https://open.spotify.com/artist/2lVKwJVZ4tda1UcfXqIpQN), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [7 Years](https://open.spotify.com/album/4N4swhnGOK3DE6DPBM2dLy) | 2:32 |
 | 11 | [Arenales 2984](https://open.spotify.com/track/4HnLWM4wXJIaqItvM5NofI) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Jdr](https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh) | [Arenales 2984](https://open.spotify.com/album/23ven5o2tmccqzRJ2ETSu4) | 2:48 |
 | 12 | [Hypnotic \- Original Mix](https://open.spotify.com/track/51i9iRJKkJe4MIDifV2OYs) | [Paul \(AR\)](https://open.spotify.com/artist/1HlaPjfSvC73YiHc3HH9eO) | [Hypnotic](https://open.spotify.com/album/0XME6kWqZQ3A6KIafuf3RX) | 6:19 |
 | 13 | [Ringaro](https://open.spotify.com/track/1iBns0pRA9xhhQwru8l4HF) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE) | [Ringaro](https://open.spotify.com/album/3g6APTOvHsTLFdirpGWtez) | 4:33 |

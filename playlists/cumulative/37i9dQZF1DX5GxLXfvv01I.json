@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-10-28",
-  "description": "Music from and inspired by Wendell & Wild, curated by Tunde Adebimpe of TV on the Radio. Watch now on Netflix.",
-  "name": "Wendell & Wild Official Playlist",
+  "description": "Let the battles begin. Listen to the music from Rhythm & Flow, streaming on Netflix. ",
+  "name": "Rhythm & Flow Official Playlist",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 133706,
       "name": "...And Loyalty Is A Nuisance Child",
       "url": "https://open.spotify.com/track/0PDQRG9ogXCApqBNF6TmOb"
@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Rhythm + Flow: Music Videos Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/78Q83AajxXeJIuLgrMOBdF"
+      },
+      "artists": [
+        {
+          "name": "Troyman",
+          "url": "https://open.spotify.com/artist/0hfCvrogjeBd9cTtAYTyCs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/2Ox9ZdCzb7rHAW1DpHXRyZ"
+    },
+    {
+      "album": {
         "name": "Another Tear (2022 Remaster)",
         "url": "https://open.spotify.com/album/4Ka8Hqwfw1X01hlit2QtNC"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 381299,
       "name": "Another Tear (2022 Remaster)",
       "url": "https://open.spotify.com/track/27bk6lMaDP3Wd3d78ru3oB"
@@ -88,7 +106,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 133767,
       "name": "Beep Beep",
       "url": "https://open.spotify.com/track/4TH1GFk1VUpIVRxrxGpntC"
@@ -124,7 +142,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 259750,
       "name": "Board Up",
       "url": "https://open.spotify.com/track/7lPHOnjC7z6FdxIVcdx1sn"
@@ -142,10 +160,28 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 160426,
       "name": "Boot",
       "url": "https://open.spotify.com/track/4IyJB9qgAYMup5WotzSgAG"
+    },
+    {
+      "album": {
+        "name": "Rhythm + Flow: Music Videos Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/78Q83AajxXeJIuLgrMOBdF"
+      },
+      "artists": [
+        {
+          "name": "BigMouf' Bo",
+          "url": "https://open.spotify.com/artist/68f0cOIxj2q4YSMrWoE0IF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167627,
+      "name": "Capitol Hill",
+      "url": "https://open.spotify.com/track/77qi9gdi66aVXsYKKLGWZT"
     },
     {
       "album": {
@@ -160,7 +196,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 135466,
       "name": "Choose Your Fighter",
       "url": "https://open.spotify.com/track/6tL8gSH1BWB5noSIac3uGZ"
@@ -178,7 +214,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 66719,
       "name": "Chops",
       "url": "https://open.spotify.com/track/2wsd1Xk3SBZQLDsGGBDpRf"
@@ -196,7 +232,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 272040,
       "name": "Cold Well-Lit Place",
       "url": "https://open.spotify.com/track/2gwSKfYV6MgEhGnu3gVDmV"
@@ -214,7 +250,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 184517,
       "name": "Coming Correct Is Cheaper",
       "url": "https://open.spotify.com/track/5OAhpmAMMm0tv93CF5E8TZ"
@@ -232,7 +268,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 345427,
       "name": "Cranes In The Sky",
       "url": "https://open.spotify.com/track/7cBzwYUbsPYQjpdTruTdMW"
@@ -250,7 +286,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 133250,
       "name": "Ctrl Freak",
       "url": "https://open.spotify.com/track/2B3UbKRkE9zNDrLFU2fKpj"
@@ -268,7 +304,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 294826,
       "name": "Cult of Personality",
       "url": "https://open.spotify.com/track/5e3YOg6fIkP0wD5TyxcHOH"
@@ -322,7 +358,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 457600,
       "name": "Denial",
       "url": "https://open.spotify.com/track/1jkXblR8Hx9WxvYo9LNPw2"
@@ -344,7 +380,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 283705,
       "name": "Every Thing Is Over",
       "url": "https://open.spotify.com/track/7JAo1d99SEqlKLqKwSFdzM"
@@ -362,7 +398,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 249426,
       "name": "Fall First",
       "url": "https://open.spotify.com/track/575m8eKKXa0bkR6haOzVPt"
@@ -380,7 +416,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167398,
       "name": "For The Homey's",
       "url": "https://open.spotify.com/track/5iLpXhpUmQxBCV7Nll47Ny"
@@ -398,7 +434,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 168640,
       "name": "Freakin Out",
       "url": "https://open.spotify.com/track/4rlcRCVPt5h4F8RSOa1IEp"
@@ -416,7 +452,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 168749,
       "name": "Gay Agenda",
       "url": "https://open.spotify.com/track/6FLQlqcePtPoYnxuURqVb5"
@@ -434,7 +470,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 195280,
       "name": "Germfree Adolescence",
       "url": "https://open.spotify.com/track/6gI41jiMeH9k4E6FaQkwnx"
@@ -452,7 +488,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 219306,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
@@ -470,7 +506,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 187720,
       "name": "Goodbye Horses",
       "url": "https://open.spotify.com/track/7I5eQZFdlPV8LZWH2FeqaW"
@@ -488,7 +524,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 153453,
       "name": "I Am a Poseur",
       "url": "https://open.spotify.com/track/78Kve43aUj99QZCoIIK48h"
@@ -506,7 +542,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 212933,
       "name": "I Can Dream",
       "url": "https://open.spotify.com/track/4gBIByPcSgrLWJC7wk7u19"
@@ -531,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Rhythm + Flow: Music Videos Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/78Q83AajxXeJIuLgrMOBdF"
+      },
+      "artists": [
+        {
+          "name": "Londynn B",
+          "url": "https://open.spotify.com/artist/6a1696QGUkDJgGuJHwS3zS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139834,
+      "name": "I Can't Change",
+      "url": "https://open.spotify.com/track/2InphnG0WRIWRJraRb4g1i"
+    },
+    {
+      "album": {
         "name": "Free Fall from Space",
         "url": "https://open.spotify.com/album/1o6DslTsIChyGQlJIZM6er"
       },
@@ -542,7 +596,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 315880,
       "name": "I'm Dead",
       "url": "https://open.spotify.com/track/7iZcO3nZZfx32MgT3Emy5W"
@@ -560,7 +614,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 202853,
       "name": "I've Seen Footage",
       "url": "https://open.spotify.com/track/7nCONy10IHp7XD3oYZ0lcx"
@@ -578,10 +632,46 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 339626,
       "name": "Just What I Needed",
       "url": "https://open.spotify.com/track/2JrnsQPYEHS3YrU6iEX2zl"
+    },
+    {
+      "album": {
+        "name": "Rhythm + Flow Soundtrack: The Final Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3s6cdn3pMduTnseHCBSem1"
+      },
+      "artists": [
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131842,
+      "name": "Last Supper",
+      "url": "https://open.spotify.com/track/2Ooc9uSuB5hiy3rIcfmJgK"
+    },
+    {
+      "album": {
+        "name": "Rhythm + Flow: Music Videos Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/78Q83AajxXeJIuLgrMOBdF"
+      },
+      "artists": [
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155643,
+      "name": "Let Migo",
+      "url": "https://open.spotify.com/track/2qv3krJvmqlriVEF8cFTzC"
     },
     {
       "album": {
@@ -596,7 +686,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 199626,
       "name": "Ma and Pa",
       "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
@@ -614,7 +704,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 275960,
       "name": "Mama! There's a Spider in My Room",
       "url": "https://open.spotify.com/track/5mzDhXi1Cdf1a7ViIfo7mt"
@@ -632,10 +722,28 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 298144,
       "name": "Market Cornered",
       "url": "https://open.spotify.com/track/6iGMrewY1DJtfj50Hlcknb"
+    },
+    {
+      "album": {
+        "name": "Rhythm + Flow: Music Videos Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/78Q83AajxXeJIuLgrMOBdF"
+      },
+      "artists": [
+        {
+          "name": "Caleb Colossus",
+          "url": "https://open.spotify.com/artist/7cOTCz22kfYcnrFnAPNl2O"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152181,
+      "name": "Michelangelo",
+      "url": "https://open.spotify.com/track/3UKu6HHxpON40fhu9E2VCT"
     },
     {
       "album": {
@@ -650,10 +758,64 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 181600,
       "name": "Miles Apart",
       "url": "https://open.spotify.com/track/3RazUMVvAmhlmoPrCY95Jo"
+    },
+    {
+      "album": {
+        "name": "Rhythm + Flow: Music Videos Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/78Q83AajxXeJIuLgrMOBdF"
+      },
+      "artists": [
+        {
+          "name": "Sam Be Yourself",
+          "url": "https://open.spotify.com/artist/74Q5jFTGhbAoP8awjjoAEA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162431,
+      "name": "My Whole Life",
+      "url": "https://open.spotify.com/track/4ZeuCG4w14ZpVWv8aOcNvy"
+    },
+    {
+      "album": {
+        "name": "Rhythm + Flow Soundtrack: The Final Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3s6cdn3pMduTnseHCBSem1"
+      },
+      "artists": [
+        {
+          "name": "Flawless Real Talk",
+          "url": "https://open.spotify.com/artist/2rexhkVQtyLPp2cSvmy2rh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152766,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/7x6Vx2nCLMSXnx5QBWl7Os"
+    },
+    {
+      "album": {
+        "name": "Rhythm + Flow Soundtrack: The Final Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3s6cdn3pMduTnseHCBSem1"
+      },
+      "artists": [
+        {
+          "name": "Londynn B",
+          "url": "https://open.spotify.com/artist/6a1696QGUkDJgGuJHwS3zS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196545,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/4K2x14WjW8HzMr1LPfBWuB"
     },
     {
       "album": {
@@ -668,7 +830,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 134257,
       "name": "Poseur",
       "url": "https://open.spotify.com/track/13GMvznHq9OotzYUmghSbS"
@@ -686,10 +848,28 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 109949,
       "name": "Racist, Sexist Boy",
       "url": "https://open.spotify.com/track/6CSLL3sOgYIMSRj69mkGSI"
+    },
+    {
+      "album": {
+        "name": "Rhythm + Flow: Music Videos Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/78Q83AajxXeJIuLgrMOBdF"
+      },
+      "artists": [
+        {
+          "name": "Ali Tomineek",
+          "url": "https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166052,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/0mNOBMrdUx3ZOA5W2qPAio"
     },
     {
       "album": {
@@ -704,7 +884,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 252095,
       "name": "River",
       "url": "https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi"
@@ -722,7 +902,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 141546,
       "name": "Rot In the Doghouse",
       "url": "https://open.spotify.com/track/1W9QZolI15mIPJIvFIkX5S"
@@ -740,7 +920,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 115040,
       "name": "Sailin' On",
       "url": "https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o"
@@ -758,7 +938,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 159308,
       "name": "Say It (To My Face)",
       "url": "https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt"
@@ -776,7 +956,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 325360,
       "name": "See-Saw",
       "url": "https://open.spotify.com/track/3xqqUrphX5Cj26sCVG9uBk"
@@ -794,7 +974,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 288773,
       "name": "Soul In A Jar",
       "url": "https://open.spotify.com/track/54Biz1kZa4d9fXZdgdaHqN"
@@ -812,7 +992,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 126173,
       "name": "St. Augustine",
       "url": "https://open.spotify.com/track/5YYk4iwugHmZogtUvFVTXh"
@@ -830,10 +1010,28 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 125240,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/3pmlLEyIP75XR6yHbb82MV"
+    },
+    {
+      "album": {
+        "name": "Rhythm + Flow Soundtrack: The Final Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/3s6cdn3pMduTnseHCBSem1"
+      },
+      "artists": [
+        {
+          "name": "Troyman",
+          "url": "https://open.spotify.com/artist/0hfCvrogjeBd9cTtAYTyCs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149974,
+      "name": "Streetlight",
+      "url": "https://open.spotify.com/track/2IRTjvSF79KHkvQEyEbn2L"
     },
     {
       "album": {
@@ -848,10 +1046,28 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 192746,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/43oYjiz2EkXnTra3qmHl5d"
+    },
+    {
+      "album": {
+        "name": "Rhythm + Flow: Music Videos Episode (Music From The Netflix Original Series)",
+        "url": "https://open.spotify.com/album/78Q83AajxXeJIuLgrMOBdF"
+      },
+      "artists": [
+        {
+          "name": "Flawless Real Talk",
+          "url": "https://open.spotify.com/artist/2rexhkVQtyLPp2cSvmy2rh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149039,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3G7jT2ZAu7jWa4SbmjnSgl"
     },
     {
       "album": {
@@ -866,7 +1082,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 396226,
       "name": "Who Rize Above",
       "url": "https://open.spotify.com/track/4GlYEuj1GwAhFE8nZdrUIR"
@@ -902,7 +1118,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 279293,
       "name": "Wolf Like Me",
       "url": "https://open.spotify.com/track/03wKMRNYVvw6s9nm4I4jUS"
@@ -920,7 +1136,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
@@ -938,7 +1154,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 169813,
       "name": "Young, Gifted, Black, in Leather",
       "url": "https://open.spotify.com/track/0DQpx4vZsdZCvRHSuoZrYe"

@@ -8201,6 +8201,28 @@
     },
     {
       "album": {
+        "name": "La Sin Sentimientos",
+        "url": "https://open.spotify.com/album/484u6fF8lHgT6h83LuXmgH"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "BLANKO",
+          "url": "https://open.spotify.com/artist/2tsxhfhrjoqKy2okihHP0x"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179772,
+      "name": "La Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4RlwjtqpZN6TC3ILPLrI9G"
+    },
+    {
+      "album": {
         "name": "La Single",
         "url": "https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc"
       },

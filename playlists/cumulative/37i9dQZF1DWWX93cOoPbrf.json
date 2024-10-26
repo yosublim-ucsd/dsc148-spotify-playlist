@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de la cosecha 2024. Banda MS, Los 2 de la S en portada.",
+  "description": "Lo m\u00e1s fresco de la cosecha 2024. Luis Mexia, Edgardo Nu\u00f1ez en portada.",
   "name": "Corridos 2024",
   "tracks": [
     {
@@ -751,6 +751,28 @@
     },
     {
       "album": {
+        "name": "Ajustad\u00f3n",
+        "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159685,
+      "name": "Ajustad\u00f3n",
+      "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
+    },
+    {
+      "album": {
         "name": "Al C\u00e9sar Lo Que Es Del C\u00e9sar",
         "url": "https://open.spotify.com/album/4WxxnnMwaYjTZnjdxOCnnZ"
       },
@@ -1100,7 +1122,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 153340,
       "name": "Amigos Mis Huevos",
       "url": "https://open.spotify.com/track/6cVfc0pJRwGEilrqDICBSl"
@@ -8105,6 +8127,24 @@
     },
     {
       "album": {
+        "name": "El Favorito (Chalo Araujo)",
+        "url": "https://open.spotify.com/album/1ql3NEHuyb6HH9lxzgQJFs"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143680,
+      "name": "El Favorito (Chalo Araujo)",
+      "url": "https://open.spotify.com/track/0gThcCWyJO0kiob48Peye5"
+    },
+    {
+      "album": {
         "name": "El Fieston",
         "url": "https://open.spotify.com/album/3XHXxnzLAemR2oCIZhcQpd"
       },
@@ -9116,7 +9156,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 196740,
       "name": "El Le\u00f3n En Su Manada",
       "url": "https://open.spotify.com/track/2PwnhIoZKlj3PpaifyXt0W"
@@ -10480,7 +10520,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 154899,
       "name": "El Primo",
       "url": "https://open.spotify.com/track/5I5E8vmGVyYpAo8w70EbWQ"
@@ -19925,6 +19965,24 @@
     },
     {
       "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Mucho Relajo",
+      "url": "https://open.spotify.com/track/1fx2FDN9dMvAagk8oSQk9Z"
+    },
+    {
+      "album": {
         "name": "Mujeres al Tiro",
         "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
       },
@@ -21996,7 +22054,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 190000,
       "name": "Pudrir en Dinero",
       "url": "https://open.spotify.com/track/5W0iUVa5nrDOOz8OpGLP25"
@@ -22674,6 +22732,28 @@
       "duration_ms": 163794,
       "name": "Rico Y Soltero",
       "url": "https://open.spotify.com/track/5ZgPDnDflO2fFLAuF6b4LL"
+    },
+    {
+      "album": {
+        "name": "Rolex Medusa",
+        "url": "https://open.spotify.com/album/4TzU5aaXkieHC6r6sWUYuQ"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171525,
+      "name": "Rolex Medusa",
+      "url": "https://open.spotify.com/track/52defVJm9YFsnxniPp7LVC"
     },
     {
       "album": {

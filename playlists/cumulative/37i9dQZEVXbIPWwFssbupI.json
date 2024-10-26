@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE"
@@ -11994,7 +11994,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 165000,
       "name": "En p\u00e9tard",
       "url": "https://open.spotify.com/track/09euCRsvlEzWORyg4rFmcZ"
@@ -12839,6 +12839,24 @@
     },
     {
       "album": {
+        "name": "LA VIE CONTINUE",
+        "url": "https://open.spotify.com/album/1voTzxUp5Dbx4TlgT27nHX"
+      },
+      "artists": [
+        {
+          "name": "Maes",
+          "url": "https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "FC BEAUDOTTES",
+      "url": "https://open.spotify.com/track/0PdmMS73RZkMDA0q4MeiQK"
+    },
+    {
+      "album": {
         "name": "FC BEAUDOTTES",
         "url": "https://open.spotify.com/album/6MGmB00JB6Bg2VP7bB19LX"
       },
@@ -12850,7 +12868,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 185142,
       "name": "FC BEAUDOTTES",
       "url": "https://open.spotify.com/track/3ARYsADbIsYYMbAIfYjqvK"
@@ -27306,7 +27324,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 235746,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/2lftd3hyoAZ0DdxwyUqBw5"
@@ -27324,7 +27342,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 236400,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/33ee2rByDAPDqYwPeXvhYY"
@@ -27816,7 +27834,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 201750,
       "name": "Parler tout bas",
       "url": "https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx"
@@ -28384,7 +28402,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 217259,
       "name": "Petit g\u00e9nie",
       "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
@@ -29170,6 +29188,28 @@
       "duration_ms": 213680,
       "name": "POP (feat. Guy2bezbar)",
       "url": "https://open.spotify.com/track/4IaKD3xuTWise6IxscuDHY"
+    },
+    {
+      "album": {
+        "name": "POP (feat. La Mano 1.9)",
+        "url": "https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216261,
+      "name": "POP (feat. La Mano 1.9)",
+      "url": "https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq"
     },
     {
       "album": {

@@ -660,7 +660,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 261548,
       "name": "Alca",
       "url": "https://open.spotify.com/track/0DFD4uX6Cren6jRN8U8QHK"
@@ -8392,7 +8392,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 194932,
       "name": "Like a sunflower",
       "url": "https://open.spotify.com/track/0uARpzmvoZtUAhcVzK0zR5"
@@ -8468,6 +8468,24 @@
       "duration_ms": 213666,
       "name": "Line of sight",
       "url": "https://open.spotify.com/track/4tUFxXSNCayPjtYoF3kI7T"
+    },
+    {
+      "album": {
+        "name": "Little Dancer",
+        "url": "https://open.spotify.com/album/2j7MY2bBXeXsS03wyXBg5X"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30f3 (CV:\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/6bCnjbtGE5vO3Pyk6lUSay"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202961,
+      "name": "Little Dancer",
+      "url": "https://open.spotify.com/track/7MeHx6CIcASFd7jH1bWHHh"
     },
     {
       "album": {
@@ -11408,7 +11426,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 233653,
       "name": "Plastic Showcase",
       "url": "https://open.spotify.com/track/3ojYkHSPk2lrVAtQzpoOcY"
@@ -11722,6 +11740,24 @@
       "duration_ms": 234583,
       "name": "PSYCHO:LOGY",
       "url": "https://open.spotify.com/track/62BaD9fEhYmzRQxM3peM0O"
+    },
+    {
+      "album": {
+        "name": "QUEEN",
+        "url": "https://open.spotify.com/album/44LudOcruib8E2QoacG6I8"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187908,
+      "name": "QUEEN",
+      "url": "https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk"
     },
     {
       "album": {
@@ -20348,7 +20384,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 182515,
       "name": "\u30af\u30e9\u30f3\u30b7\u30c3\u30af",
       "url": "https://open.spotify.com/track/2Bl5D08JrQTfY1OcZwsm3d"
@@ -21314,6 +21350,24 @@
       "duration_ms": 323072,
       "name": "\u30b9\u30d4\u30ab",
       "url": "https://open.spotify.com/track/5rbMpWcf6xIlvWR57XpuK2"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30d4\u30e9",
+        "url": "https://open.spotify.com/album/3Tl1aOfLjepiqOlS5C6ycF"
+      },
+      "artists": [
+        {
+          "name": "sekai",
+          "url": "https://open.spotify.com/artist/7fnGQtfTGswQS3T0tMZ0xZ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "\u30b9\u30d4\u30e9",
+      "url": "https://open.spotify.com/track/2ktgX4jvR2u35XHPiIQXJP"
     },
     {
       "album": {
@@ -23051,6 +23105,24 @@
     },
     {
       "album": {
+        "name": "\u30db\u30ed\u30a6",
+        "url": "https://open.spotify.com/album/716VqzwOdkvB6Sy38ItzDK"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30e6\u30a4",
+          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166633,
+      "name": "\u30db\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/68h5GA0fhtfMy3elaTKJBP"
+    },
+    {
+      "album": {
         "name": "\u30db\u30ef\u30a4\u30c8\u30ce\u30a4\u30ba",
         "url": "https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG"
       },
@@ -24284,7 +24356,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 209566,
       "name": "\u4e07\u91cc\u4e00\u7a7a",
       "url": "https://open.spotify.com/track/67zTlm5W9722uvTJ75IbsC"
@@ -28520,6 +28592,24 @@
       "duration_ms": 227845,
       "name": "\u7720\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u9593\u6700\u5927\u98a8\u901f",
+        "url": "https://open.spotify.com/album/523ONZQRLAZx4uWUXhHDp6"
+      },
+      "artists": [
+        {
+          "name": "halca",
+          "url": "https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "\u77ac\u9593\u6700\u5927\u98a8\u901f",
+      "url": "https://open.spotify.com/track/4FK1BoqkDQB31WGQkAlnNP"
     },
     {
       "album": {

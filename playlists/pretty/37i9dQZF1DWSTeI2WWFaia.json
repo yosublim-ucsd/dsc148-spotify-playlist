@@ -1,15 +1,79 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Cordae",
-  "num_followers": 1590588,
+  "num_followers": 1590562,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAACeNOgFOjoTHo4OYaHoaSOa",
+  "snapshot_id": "ZxsXwAAAAAANVwnTOfkxNK2kp9ugEjZ/",
   "tracks": [
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
+        "url": "https://open.spotify.com/album/2hGVmhbARvihNo7UQsna9W"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 169560,
+      "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/6dD6xEnhXhLWZTZAFVwmQK"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Dead Flowers",
+        "url": "https://open.spotify.com/album/5QGC83kl3rf64o5HJTbOhX"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Antt Beatz",
+          "url": "https://open.spotify.com/artist/3HySPBanVbKZsn6bOZSZl8"
+        }
+      ],
+      "duration_ms": 173559,
+      "name": "Dead Flowers",
+      "url": "https://open.spotify.com/track/16GGfhlRk60bRAy64GG2QR"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Ecstasy (Freestyle)",
+        "url": "https://open.spotify.com/album/4l5ytI2ykKixML9AQwbL9X"
+      },
+      "artists": [
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 117562,
+      "name": "Ecstasy (Freestyle)",
+      "url": "https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "euphoria",
         "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
@@ -25,59 +89,7 @@
       "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 200786,
-      "name": "Stickz N Stonez",
-      "url": "https://open.spotify.com/track/1tTKy8pW1dMaXJm7bYrSzA"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "VOIR DIRE",
-        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 113186,
-      "name": "Vin Skully",
-      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Studio Fit Riddim",
-        "url": "https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv"
-      },
-      "artists": [
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 102765,
-      "name": "Studio Fit Riddim",
-      "url": "https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Saturday Mornings (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
@@ -97,23 +109,79 @@
       "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "meet the grahams",
-        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 392138,
-      "name": "meet the grahams",
-      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+      "duration_ms": 200786,
+      "name": "Stickz N Stonez",
+      "url": "https://open.spotify.com/track/1tTKy8pW1dMaXJm7bYrSzA"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "VOIR DIRE",
+        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 113186,
+      "name": "Vin Skully",
+      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Studio Fit Riddim",
+        "url": "https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 102765,
+      "name": "Studio Fit Riddim",
+      "url": "https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "How to Impress God",
+        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "How to Impress God",
+      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
@@ -133,31 +201,7 @@
       "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Unreal",
-        "url": "https://open.spotify.com/album/6UEImviFrAqrlOJTznObgc"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Stove God Cooks",
-          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
-        }
-      ],
-      "duration_ms": 128291,
-      "name": "Unreal",
-      "url": "https://open.spotify.com/track/3CeVm8Lr9sb9o4FhJGlyMl"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "3333",
         "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
@@ -173,43 +217,7 @@
       "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Get Away!",
-        "url": "https://open.spotify.com/album/6gA57qSGAw9duJ9ARZuN4a"
-      },
-      "artists": [
-        {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
-        },
-        {
-          "name": "Rome Streetz",
-          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
-        }
-      ],
-      "duration_ms": 108972,
-      "name": "Get Away!",
-      "url": "https://open.spotify.com/track/5EJEGd1jy1bGqf43YVybA8"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 157853,
-      "name": "3001",
-      "url": "https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
@@ -225,7 +233,39 @@
       "url": "https://open.spotify.com/track/7u1P36qRqrSNrXAp98cyp1"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "meet the grahams",
+        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 392138,
+      "name": "meet the grahams",
+      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "The Drive Home (Clean Version)",
+        "url": "https://open.spotify.com/album/6Hg7S5WSBU3yiochCMaXLk"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 160784,
+      "name": "Entry #149",
+      "url": "https://open.spotify.com/track/3jlIKHFVJTPqjaUGgAt0Rk"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Realest (with Eminem)",
         "url": "https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P"
@@ -245,7 +285,39 @@
       "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 157853,
+      "name": "3001",
+      "url": "https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "CA$HMERE TEAR$",
+        "url": "https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "CA$HMERE TEAR$",
+      "url": "https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "The Genuine Articulate",
         "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
@@ -265,7 +337,7 @@
       "url": "https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "And Then You Pray For Me",
         "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
@@ -293,23 +365,7 @@
       "url": "https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "97",
-      "url": "https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "For All The Dogs Scary Hours Edition",
         "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
@@ -325,71 +381,7 @@
       "url": "https://open.spotify.com/track/5Mc8XDfGQCMkOEZm9rS1cE"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "BLUE LIPS",
-        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 291038,
-      "name": "oHio (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Please Don't Cry",
-        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Niko Brim",
-          "url": "https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r"
-        }
-      ],
-      "duration_ms": 164656,
-      "name": "Raw (feat. Lil Wayne & Niko Brim)",
-      "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Might Delete Later",
         "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
@@ -413,7 +405,87 @@
       "url": "https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "97",
+      "url": "https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "BLUE LIPS",
+        "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 291038,
+      "name": "oHio (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Niko Brim",
+          "url": "https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r"
+        }
+      ],
+      "duration_ms": 164656,
+      "name": "Raw (feat. Lil Wayne & Niko Brim)",
+      "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Jesus Arms",
         "url": "https://open.spotify.com/album/4QjcM4k9VD5V1C0yUurNRa"
@@ -437,7 +509,7 @@
       "url": "https://open.spotify.com/track/15jV5VEoSZ6TjabNqOE8m2"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Define My Name",
         "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
@@ -457,7 +529,7 @@
       "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Set The Tone (Guns & Roses)",
         "url": "https://open.spotify.com/album/4KUIIO52OLcKyV6wCbbtEc"
@@ -477,7 +549,7 @@
       "url": "https://open.spotify.com/track/1Xevt8UUzfEm17ewfSdsiF"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Samurai",
         "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
@@ -493,7 +565,23 @@
       "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Squeeze 1St 2",
+        "url": "https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Squeeze 1St 2",
+      "url": "https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Ferraris in The Rain (feat. ScHoolboy Q)",
         "url": "https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg"
@@ -513,23 +601,7 @@
       "url": "https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Squeeze 1St 2",
-        "url": "https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Squeeze 1St 2",
-      "url": "https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Dope Sellers",
         "url": "https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb"
@@ -549,31 +621,7 @@
       "url": "https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "STABBED & SHOT 2",
-        "url": "https://open.spotify.com/album/5TQOBBsanvWHldiUnPSy54"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        },
-        {
-          "name": "V Don",
-          "url": "https://open.spotify.com/artist/2uzaOMszD2lvSWPKjaYaTq"
-        }
-      ],
-      "duration_ms": 117076,
-      "name": "1st Of April",
-      "url": "https://open.spotify.com/track/2X6r29vCzhuSp9SBkXJLbp"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
@@ -589,7 +637,7 @@
       "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
@@ -613,75 +661,7 @@
       "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Buried Alive",
-        "url": "https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 122413,
-      "name": "Buried Alive",
-      "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Beverly Drive",
-        "url": "https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 248551,
-      "name": "Beverly Drive",
-      "url": "https://open.spotify.com/track/0OkPSNqgtzOZUiXXQmHKWX"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 190067,
-      "name": "Never Die (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Palaces",
-      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "High Stakes",
         "url": "https://open.spotify.com/album/278eJmPZyqR91OIXYQrfWq"
@@ -701,7 +681,91 @@
       "url": "https://open.spotify.com/track/1h0LgY5z2F9CIfYU4fdXlH"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Beverly Drive",
+        "url": "https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 248551,
+      "name": "Beverly Drive",
+      "url": "https://open.spotify.com/track/0OkPSNqgtzOZUiXXQmHKWX"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Buried Alive",
+        "url": "https://open.spotify.com/album/7weKMGw4crGVeeKQJ6lQ94"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 122413,
+      "name": "Buried Alive",
+      "url": "https://open.spotify.com/track/17hgE2h9PhLC6RJuFm2BEQ"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Palaces",
+      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 190067,
+      "name": "Never Die (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Peerless",
         "url": "https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T"
@@ -721,7 +785,7 @@
       "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "DBZ",
         "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
@@ -749,23 +813,7 @@
       "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Balut",
-        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 207507,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Different Space",
         "url": "https://open.spotify.com/album/2xIvCqgbhZGenjk9BLcueX"
@@ -789,7 +837,27 @@
       "url": "https://open.spotify.com/track/2VBoEzOyOj2LS7ste20pHb"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "plz don\u2019t cut my wings (feat. Earl Sweatshirt)",
+      "url": "https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Welcome 2 Collegrove",
         "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
@@ -813,27 +881,7 @@
       "url": "https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Burning Desire",
-        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "plz don\u2019t cut my wings (feat. Earl Sweatshirt)",
-      "url": "https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Magic 3",
         "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
@@ -849,7 +897,7 @@
       "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Scared Money",
         "url": "https://open.spotify.com/album/7nmiiO0GYNkExhZveP4pOD"
@@ -869,7 +917,7 @@
       "url": "https://open.spotify.com/track/0IchVBfnDKMhViGonBA3j4"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Not Now I'm Busy",
         "url": "https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2"
@@ -893,7 +941,7 @@
       "url": "https://open.spotify.com/track/6R7huB68Jl4HRYzDj5UOV7"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Moving Day",
         "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
@@ -907,86 +955,6 @@
       "duration_ms": 170602,
       "name": "Moving Day",
       "url": "https://open.spotify.com/track/4qDDIXfhFPCJd5OzKa6Bun"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Muggsy Bogues",
-        "url": "https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Muggsy Bogues",
-      "url": "https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Burning Desire",
-        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 108281,
-      "name": "Burning Desire",
-      "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "shadowbox",
-        "url": "https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ"
-      },
-      "artists": [
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 128780,
-      "name": "grindstone",
-      "url": "https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "MiNt cHoCoLaTe (feat. Conway The Machine)",
-        "url": "https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA"
-      },
-      "artists": [
-        {
-          "name": "1999 WRITE THE FUTURE",
-          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "MiNt cHoCoLaTe (feat. Conway the Machine)",
-      "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
     }
   ],
   "unique_name": "Spilled Ink",

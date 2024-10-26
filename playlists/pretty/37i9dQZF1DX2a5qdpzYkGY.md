@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,415 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,417 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 33 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 |
 | 34 | [Genesis](https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Genesis](https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3) | 3:19 |
 | 35 | [Gurek](https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Pasajes Sonoros, Instant Composition / Saxophone Solo](https://open.spotify.com/album/3lYdLGOzBxqr7HdJFJyLfV) | 4:51 |
-| 36 | [Breaking Up](https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Dream of Delphi](https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG) | 2:00 |
-| 37 | [Who Is Still Dreaming?](https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z) | [June11](https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4) | [11000 Dreams](https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8) | 3:32 |
+| 36 | [Who Is Still Dreaming?](https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z) | [June11](https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4) | [11000 Dreams](https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8) | 3:32 |
+| 37 | [Breaking Up](https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Dream of Delphi](https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG) | 2:00 |
 | 38 | [Maximum Black](https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 7:38 |
-| 39 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
-| 40 | [Highway Brain Planet \(Credits\)](https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR) | [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Second Spring OST](https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI) | 2:31 |
+| 39 | [Highway Brain Planet \(Credits\)](https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR) | [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Second Spring OST](https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI) | 2:31 |
+| 40 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
 | 41 | [Theme from 'Behind the Curtain'](https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Skalpel](https://open.spotify.com/album/6fEN3yig9kpmZ0oiJbFRuE) | 4:11 |
 | 42 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 |
 | 43 | [Materia](https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 3:08 |

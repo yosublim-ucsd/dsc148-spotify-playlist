@@ -1,13 +1,45 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 135718,
+  "num_followers": 135864,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxKalQAAAAAhTVjKuNSCic2BghbNArYg",
+  "snapshot_id": "ZxtDWAAAAADVrJ/DGaZSZmFjRucarn5H",
   "tracks": [
+    {
+      "added_at": "2024-10-25 07:06:00",
+      "album": {
+        "name": "Hold Still",
+        "url": "https://open.spotify.com/album/0MgpMLfL1RdVqZWztwKu06"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 169455,
+      "name": "Hold Still",
+      "url": "https://open.spotify.com/track/1PzAY3nwLxJ1pc27ceNFTj"
+    },
+    {
+      "added_at": "2024-10-25 07:06:00",
+      "album": {
+        "name": "Middle of The Night",
+        "url": "https://open.spotify.com/album/3JZIOJUYGiJ6tKhx80UW7X"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        }
+      ],
+      "duration_ms": 132826,
+      "name": "Middle of The Night",
+      "url": "https://open.spotify.com/track/4AWNGXhcT1eQhEajvO6yZl"
+    },
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
@@ -75,6 +107,26 @@
       "duration_ms": 146735,
       "name": "LIMERENCE",
       "url": "https://open.spotify.com/track/02NjZRiplUsrBgoa3shbKE"
+    },
+    {
+      "added_at": "2024-10-25 07:06:00",
+      "album": {
+        "name": "Smoke + Mirrors (Remix)",
+        "url": "https://open.spotify.com/album/4Q5IBAmOTbs1O0IZsEWkIU"
+      },
+      "artists": [
+        {
+          "name": "Leo Waters",
+          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 168628,
+      "name": "Smoke + Mirrors (Remix)",
+      "url": "https://open.spotify.com/track/2llhKemeYEaIH5gOiE9o4R"
     },
     {
       "added_at": "2024-10-18 17:27:49",
@@ -181,6 +233,22 @@
       "url": "https://open.spotify.com/track/0EtT4Y1KYAx5oZgCzBOyo0"
     },
     {
+      "added_at": "2024-10-25 07:06:00",
+      "album": {
+        "name": "Soul On Fire",
+        "url": "https://open.spotify.com/album/76MCbADCF4wMTika7FpgZK"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "Soul On Fire",
+      "url": "https://open.spotify.com/track/6xEkgmEvZMwkyPNTjeVKL3"
+    },
+    {
       "added_at": "2024-07-26 08:11:06",
       "album": {
         "name": "Tempt Me",
@@ -229,6 +297,22 @@
       "url": "https://open.spotify.com/track/6Y8fg2jrxBDzMijRIUCSoL"
     },
     {
+      "added_at": "2024-10-25 07:06:00",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/3JksmbqVD1Nj94ptBNDpBH"
+      },
+      "artists": [
+        {
+          "name": "Yvng Ev",
+          "url": "https://open.spotify.com/artist/2fm64bFy2cks8y7SEMyTXN"
+        }
+      ],
+      "duration_ms": 119999,
+      "name": "Dangerously In Love",
+      "url": "https://open.spotify.com/track/7M5COssVtV99IUsU1HxHzS"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "SAVIOR",
@@ -275,6 +359,26 @@
       "duration_ms": 149338,
       "name": "Not Mine",
       "url": "https://open.spotify.com/track/0s0HQde8B10UnQJGFDEqmI"
+    },
+    {
+      "added_at": "2024-10-25 07:06:00",
+      "album": {
+        "name": "story to TELL",
+        "url": "https://open.spotify.com/album/3MIx3qRkqB9SEP4EXu21p9"
+      },
+      "artists": [
+        {
+          "name": "Snoozegod",
+          "url": "https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG"
+        },
+        {
+          "name": "dim.",
+          "url": "https://open.spotify.com/artist/6gu1kyhltIYnwqWIEjO5Jy"
+        }
+      ],
+      "duration_ms": 123342,
+      "name": "story to TELL",
+      "url": "https://open.spotify.com/track/1mTa2MvvpFPDMs7Ed0EpNZ"
     },
     {
       "added_at": "2024-10-18 17:27:49",

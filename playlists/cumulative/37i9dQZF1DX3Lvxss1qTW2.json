@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover: FOLA",
+  "description": "The future hits of today. \nCover: Magixx",
   "name": "Bubblin'",
   "tracks": [
     {
@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 146129,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
@@ -547,6 +547,28 @@
     },
     {
       "album": {
+        "name": "Okada Airlines",
+        "url": "https://open.spotify.com/album/0tryWtXDmIsGPK53e9DBTH"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181111,
+      "name": "Bus Stop Remix (with Young Jonn)",
+      "url": "https://open.spotify.com/track/7Evfsvdd1x1MEysQyEE7fK"
+    },
+    {
+      "album": {
         "name": "Busy & Broke",
         "url": "https://open.spotify.com/album/2beprFW3yOohVHvReH74ei"
       },
@@ -580,7 +602,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 169697,
       "name": "Caesar",
       "url": "https://open.spotify.com/track/389USH7geO3gexdNf7IBSj"
@@ -988,7 +1010,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 159010,
       "name": "EGOWO",
       "url": "https://open.spotify.com/track/6gdDLIe1QvzRWccKs2CrJ9"
@@ -1068,7 +1090,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 166963,
       "name": "EWE",
       "url": "https://open.spotify.com/track/5pdmg7p3LIyU07vlLFI7w4"
@@ -1266,7 +1288,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 91428,
       "name": "Finish Me (AEIOU)",
       "url": "https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS"
@@ -1444,7 +1466,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 134838,
       "name": "Gbemi",
       "url": "https://open.spotify.com/track/4yH24p2mpo5nDWU3oHANWH"
@@ -1605,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166720,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q"
+    },
+    {
+      "album": {
         "name": "Haibo Freestyle",
         "url": "https://open.spotify.com/album/4XsBdsCxQXl6QzeuLxbIeb"
       },
@@ -1652,7 +1692,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 126993,
       "name": "Hardest Babe",
       "url": "https://open.spotify.com/track/645fiSovmhWhotSv00WcHT"
@@ -1829,6 +1869,28 @@
     },
     {
       "album": {
+        "name": "JAILER (feat. Victony)",
+        "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235294,
+      "name": "JAILER (feat. Victony)",
+      "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
+    },
+    {
+      "album": {
         "name": "Jehovah",
         "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
       },
@@ -1884,7 +1946,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 155254,
       "name": "Jogodo",
       "url": "https://open.spotify.com/track/5I0j0gw2TMhjcii9EW2VOH"
@@ -2066,7 +2128,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 134913,
       "name": "Lamba",
       "url": "https://open.spotify.com/track/42RqCNmjZKd1b0rmwbHPIW"
@@ -2132,6 +2194,24 @@
       "duration_ms": 166430,
       "name": "Left Right - Remix",
       "url": "https://open.spotify.com/track/3qVrEW61X44OTkV4WtG722"
+    },
+    {
+      "album": {
+        "name": "Lemme Know",
+        "url": "https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Lemme Know",
+      "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
     },
     {
       "album": {
@@ -2364,6 +2444,28 @@
       "duration_ms": 156238,
       "name": "L\u00e8t\u00f3",
       "url": "https://open.spotify.com/track/2ubBk71A4eKuKEiMB7Hwa6"
+    },
+    {
+      "album": {
+        "name": "Diamond & Roses",
+        "url": "https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159587,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe"
     },
     {
       "album": {
@@ -2648,7 +2750,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 175008,
       "name": "Netfliss",
       "url": "https://open.spotify.com/track/5yzcy1jrlYF0BWG2m0imUE"
@@ -2898,7 +3000,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 186146,
       "name": "ON MY MIND - OMM",
       "url": "https://open.spotify.com/track/6TqQQ3h7HPmg7piQ7D6rbM"
@@ -3036,7 +3138,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 100812,
       "name": "PON MY MIND",
       "url": "https://open.spotify.com/track/61Fgo7az4lKB2sVPxhoCCO"
@@ -3394,7 +3496,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 123350,
       "name": "Sofri",
       "url": "https://open.spotify.com/track/4IsTrczvo6vUTXD0qguKkz"
@@ -3430,7 +3532,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 178144,
       "name": "Soul",
       "url": "https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws"
@@ -3474,6 +3576,24 @@
       "duration_ms": 144999,
       "name": "Stay Wise",
       "url": "https://open.spotify.com/track/7M3WKySNnVWCUCi85cmLAd"
+    },
+    {
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
     },
     {
       "album": {
@@ -3781,6 +3901,28 @@
     },
     {
       "album": {
+        "name": "Vibes on Vibes (feat. Olamide)",
+        "url": "https://open.spotify.com/album/77fRTsdTQ9zVQdLZxW86jQ"
+      },
+      "artists": [
+        {
+          "name": "Liya",
+          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185927,
+      "name": "Vibes on Vibes (feat. Olamide)",
+      "url": "https://open.spotify.com/track/4rxFF4dNlg86J29KCedZGO"
+    },
+    {
+      "album": {
         "name": "Vibration",
         "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
       },
@@ -3986,7 +4128,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 174349,
       "name": "Wonda Boy",
       "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
@@ -4080,7 +4222,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 195789,
       "name": "YBIL (You Believe in Love) (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/6bF1EypRS76xVjKe9fho5C"

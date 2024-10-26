@@ -2,7 +2,7 @@
 
 ### [Balec !](https://open.spotify.com/playlist/37i9dQZF1DWXEtW1CELnqL)
 
-> Roule ma poule.
+> Laisse go.
 
 189 songs - 11 hr 1 min
 

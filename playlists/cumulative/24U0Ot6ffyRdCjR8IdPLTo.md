@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-318 songs - 17 hr 31 min
+318 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Get Enough](https://open.spotify.com/track/2QGVj6Gukz71eqk8UivKbO) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Get Enough](https://open.spotify.com/album/0yBDwRaxVDcpoNtxDJogOm) | 3:23 | 2023-08-28 | 2023-10-07 |
 | [ghost](https://open.spotify.com/track/0GcLkedOfpccI5VpIHhWUx) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ghost](https://open.spotify.com/album/4YTP4MQzeigSP2l9asDz0r) | 2:09 | 2024-01-10 | 2024-01-27 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2021-12-06 | 2023-08-16 |
-| [Girlhood, Godhood](https://open.spotify.com/track/50arhjErqvGjMz07YgebJx) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Girlhood, Godhood](https://open.spotify.com/album/3Zq5xW18jIthd3jr4jt7ga) | 2:24 | 2024-06-21 |  |
+| [Girlhood, Godhood](https://open.spotify.com/track/50arhjErqvGjMz07YgebJx) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Girlhood, Godhood](https://open.spotify.com/album/3Zq5xW18jIthd3jr4jt7ga) | 2:55 | 2024-06-21 |  |
 | [Give You Love](https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Give You Love](https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG) | 3:03 | 2023-08-15 | 2023-08-29 |
 | [Glass on the Shelf](https://open.spotify.com/track/0coaS3vPUhouAAWWhZtXYx) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Mark Diamond](https://open.spotify.com/artist/7Il2FrLyoQt0JlyhJRDL1c) | [Glass on the Shelf](https://open.spotify.com/album/31ig3AL64lmrzBDbuTRdJa) | 3:40 | 2023-08-15 | 2023-08-29 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2023-08-15 | 2023-08-29 |

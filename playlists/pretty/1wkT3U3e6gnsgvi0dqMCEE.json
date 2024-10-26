@@ -1,12 +1,12 @@
 {
   "description": "All of your favourites, new favourites, live favourites and unearthed soon to be favourites.  <a href=\"https://www.umusic.ca/collections/rediscover\">here</a>",
-  "num_followers": 3704,
+  "num_followers": 3701,
   "original_name": "UMUSIC Rediscover",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAACT+kmpQzQWfeIoLbGHhCraeTwzo4c",
+  "snapshot_id": "AAACV6QXVqlgZkXqGpQLBcP+FzYtPlNy",
   "tracks": [
     {
       "added_at": "2024-09-27 19:23:05",
@@ -57,10 +57,30 @@
       "url": "https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6"
     },
     {
-      "added_at": "2024-10-11 14:18:08",
+      "added_at": "2024-10-25 14:52:06",
       "album": {
-        "name": "Modern Times Rock 'n' Roll (2024 Mix)",
-        "url": "https://open.spotify.com/album/70BdluKXapYjT5DaTlh9In"
+        "name": "Take Me to the Beach (feat. Baker Boy)",
+        "url": "https://open.spotify.com/album/6qe9TokikN4yu5VaPRSouw"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Baker Boy",
+          "url": "https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK"
+        }
+      ],
+      "duration_ms": 185352,
+      "name": "Take Me to the Beach (feat. Baker Boy)",
+      "url": "https://open.spotify.com/track/0VuXOl99YyPwY0EiqP7cS2"
+    },
+    {
+      "added_at": "2024-10-25 14:52:36",
+      "album": {
+        "name": "Queen I (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2vSW70hwFzUyFd4Mlgap0J"
       },
       "artists": [
         {
@@ -68,9 +88,49 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 108373,
-      "name": "Modern Times Rock 'n\u2019 Roll - 2024 Mix",
-      "url": "https://open.spotify.com/track/4KJllBnrtAxxkHMBO1dk6A"
+      "duration_ms": 229252,
+      "name": "Keep Yourself Alive - De Lane Lea Demo / 2024 Mix",
+      "url": "https://open.spotify.com/track/1zOJvOAzlLUtBDAHXwOBbn"
+    },
+    {
+      "added_at": "2024-10-25 14:52:59",
+      "album": {
+        "name": "L.A. Is My Lady (Deluxe Edition / 2024 Mix)",
+        "url": "https://open.spotify.com/album/4Ca98FQtAMzv5h1SiFZjX8"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 196493,
+      "name": "L.A. Is My Lady - 2024 Mix",
+      "url": "https://open.spotify.com/track/1ICfHpchiAJ9jfClA4hzHu"
+    },
+    {
+      "added_at": "2024-10-25 14:53:19",
+      "album": {
+        "name": "Symphony of Lungs - BBC Proms at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/6qaCznAyIPlFLBbbh2vHub"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        {
+          "name": "Jules Buckley",
+          "url": "https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX"
+        }
+      ],
+      "duration_ms": 551970,
+      "name": "Cosmic Love - BBC Proms at the Royal Albert Hall",
+      "url": "https://open.spotify.com/track/2aisf4mcN6SdM2Z4Pjekb2"
     },
     {
       "added_at": "2024-10-18 09:31:16",
@@ -143,6 +203,22 @@
       "duration_ms": 251066,
       "name": "Le blues d'la m\u00e9tropole - Edition Remix\u00e9e",
       "url": "https://open.spotify.com/track/0yRkEh3ZjjdK5Uf3yeCXIA"
+    },
+    {
+      "added_at": "2024-10-11 14:18:08",
+      "album": {
+        "name": "Modern Times Rock 'n' Roll (2024 Mix)",
+        "url": "https://open.spotify.com/album/70BdluKXapYjT5DaTlh9In"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 108373,
+      "name": "Modern Times Rock 'n\u2019 Roll - 2024 Mix",
+      "url": "https://open.spotify.com/track/4KJllBnrtAxxkHMBO1dk6A"
     },
     {
       "added_at": "2024-09-27 19:23:05",

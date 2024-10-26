@@ -1,13 +1,61 @@
 {
-  "description": "Alternative indie music etc. Cover: Roy Blair",
-  "num_followers": 748780,
+  "description": "Alternative indie music etc. Cover: Paris Texas",
+  "num_followers": 748785,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zv+EYAAAAACcTnrVZ45jZwpn7Is2Gagq",
+  "snapshot_id": "ZxvTQQAAAABdNeOqyNhGDPJbHuP4HoPK",
   "tracks": [
+    {
+      "added_at": "2024-10-25 17:20:01",
+      "album": {
+        "name": "Faye",
+        "url": "https://open.spotify.com/album/3qe3gmY897fHbzxk2qi5iG"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "duration_ms": 129860,
+      "name": "Faye",
+      "url": "https://open.spotify.com/track/47ym2apEPQYsntkjeFUiQp"
+    },
+    {
+      "added_at": "2024-10-25 17:20:01",
+      "album": {
+        "name": "May It Never Falter",
+        "url": "https://open.spotify.com/album/3tuFrjiGVuKMYiX7eY3s4P"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 132176,
+      "name": "EVERYDOG HAS ITS DAY",
+      "url": "https://open.spotify.com/track/3rLuup3EQbo8Tr6IBg0Dmc"
+    },
+    {
+      "added_at": "2024-10-25 17:20:01",
+      "album": {
+        "name": "R\u00f6kKOut",
+        "url": "https://open.spotify.com/album/32bEo3cJKXrBQNTf9aHnTY"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 232498,
+      "name": "R\u00f6kKOut",
+      "url": "https://open.spotify.com/track/4zfgnW5p7C2QAFauTn09Mh"
+    },
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
@@ -39,6 +87,26 @@
       "duration_ms": 130588,
       "name": "rush",
       "url": "https://open.spotify.com/track/0kICcAeTYemPAAtBvDpttb"
+    },
+    {
+      "added_at": "2024-10-25 17:20:01",
+      "album": {
+        "name": "Business Core",
+        "url": "https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        },
+        {
+          "name": "fish narc",
+          "url": "https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "5a7",
+      "url": "https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP"
     },
     {
       "added_at": "2024-09-14 15:49:54",
@@ -75,6 +143,38 @@
     {
       "added_at": "2024-10-04 06:00:00",
       "album": {
+        "name": "Magic I Want U",
+        "url": "https://open.spotify.com/album/6eNdafiqQJJmyrXFDoTWiM"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 298181,
+      "name": "Magic I Want U",
+      "url": "https://open.spotify.com/track/3BHymW78YPy7i2CWVljoe9"
+    },
+    {
+      "added_at": "2024-10-25 17:20:01",
+      "album": {
+        "name": "Apollon",
+        "url": "https://open.spotify.com/album/0udUblWUl05uR1ELebTbra"
+      },
+      "artists": [
+        {
+          "name": "Ghost Mountain",
+          "url": "https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Apollon",
+      "url": "https://open.spotify.com/track/4hyFwrL9rNfrk5sG8iKctd"
+    },
+    {
+      "added_at": "2024-10-04 06:00:00",
+      "album": {
         "name": "Boy Toy",
         "url": "https://open.spotify.com/album/4y309EcmaqipImcRdFlX5s"
       },
@@ -91,22 +191,6 @@
       "duration_ms": 142961,
       "name": "Pretend Friend",
       "url": "https://open.spotify.com/track/42hPDiwTOSPAPUL51FRNhp"
-    },
-    {
-      "added_at": "2024-10-04 06:00:00",
-      "album": {
-        "name": "Magic I Want U",
-        "url": "https://open.spotify.com/album/6eNdafiqQJJmyrXFDoTWiM"
-      },
-      "artists": [
-        {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
-        }
-      ],
-      "duration_ms": 298181,
-      "name": "Magic I Want U",
-      "url": "https://open.spotify.com/track/3BHymW78YPy7i2CWVljoe9"
     },
     {
       "added_at": "2024-10-04 06:00:00",
@@ -129,6 +213,22 @@
       "url": "https://open.spotify.com/track/19EcSX4wzVmDRP8vUUndey"
     },
     {
+      "added_at": "2024-10-25 17:20:01",
+      "album": {
+        "name": "Heaven On Urf",
+        "url": "https://open.spotify.com/album/1O2MMHe75Di4nX8EObRjBL"
+      },
+      "artists": [
+        {
+          "name": "BLACKSTARKIDS",
+          "url": "https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E"
+        }
+      ],
+      "duration_ms": 229109,
+      "name": "SHOOT THE MESSENGER",
+      "url": "https://open.spotify.com/track/2oVW220Ey4dQDaj4SfNHGl"
+    },
+    {
       "added_at": "2024-08-23 05:00:00",
       "album": {
         "name": "TWENTY SENSATIONS",
@@ -143,6 +243,22 @@
       "duration_ms": 142451,
       "name": "TWENTY SENSATIONS",
       "url": "https://open.spotify.com/track/3gDkef52OXhgDrxlAdcvTK"
+    },
+    {
+      "added_at": "2024-10-25 17:20:01",
+      "album": {
+        "name": "Camouflage",
+        "url": "https://open.spotify.com/album/01IzHcbrHB3S2SH4G4I18u"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "duration_ms": 184023,
+      "name": "Camouflage",
+      "url": "https://open.spotify.com/track/45ybqd2Egw9NyJeCRYjMx4"
     },
     {
       "added_at": "2024-09-14 15:49:54",

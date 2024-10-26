@@ -6,8 +6,48 @@
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZtD7hQs1dkHjnLfqictzL3/1ii5/F",
+  "snapshot_id": "AAAZthdDXzRrUv5+yYHKhWyyg0MTmQOm",
   "tracks": [
+    {
+      "added_at": "2024-10-25 15:09:06",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/3slTbKjs9faxtbTTVV3kwN"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "duration_ms": 213599,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/6DCyeSglUl6dX2GcWF5frs"
+    },
+    {
+      "added_at": "2024-10-25 15:08:42",
+      "album": {
+        "name": "The Afters",
+        "url": "https://open.spotify.com/album/52YddbCu6iVIQJNbFsmiMq"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Dani Thorne",
+          "url": "https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "The Afters",
+      "url": "https://open.spotify.com/track/34ssUS2jFkRR25Eg01CmP3"
+    },
     {
       "added_at": "2024-10-18 16:28:31",
       "album": {

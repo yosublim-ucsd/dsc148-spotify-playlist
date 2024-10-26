@@ -2,9 +2,9 @@
 
 ### [Rap francophone](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: SDM
+> Le rap francophone est en forme\. Photo: White\-B
 
-205 songs - 10 hr 35 min
+206 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Chop \- Nouvelle École](https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [À l'abri](https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53) | 3:15 | 2023-03-03 | 2023-08-26 |
 | [Chrome Hearts](https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Hiver à Paris](https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA) | 2:49 | 2023-03-03 | 2023-08-19 |
 | [Ciao](https://open.spotify.com/track/7hGyQqjhVw2LbCr2oZ4rUS) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ciao](https://open.spotify.com/album/5gbcnNg4JK4qaR6BYtdUwv) | 3:36 | 2023-03-17 | 2024-03-02 |
-| [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-07-19 |  |
+| [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-07-19 | 2024-10-26 |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo) | 3:12 | 2023-06-23 | 2024-01-20 |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-24 | 2023-06-29 |
 | [Coeur De Pirate](https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Coeur De Pirate](https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY) | 3:00 | 2023-03-03 | 2023-12-16 |
@@ -109,6 +109,7 @@
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2023-03-03 | 2023-06-17 |
 | [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jolie \(feat\. Ninho\)](https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2) | 2:39 | 2023-03-03 | 2024-04-06 |
 | [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 | 2023-03-03 | 2023-11-11 |
+| [Jungle](https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:01 | 2024-10-25 |  |
 | [J’crois qu’ils ont pas compris](https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Capitaine fait de l'art](https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT) | 2:10 | 2024-08-27 |  |
 | [KENZO NIGO \- Sur moi](https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [LA VIE RAPIDE EARLY ACCESS](https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq) | 3:25 | 2023-07-07 | 2023-10-14 |
 | [La fessée](https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La fessée](https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet) | 3:57 | 2023-12-08 | 2024-04-19 |

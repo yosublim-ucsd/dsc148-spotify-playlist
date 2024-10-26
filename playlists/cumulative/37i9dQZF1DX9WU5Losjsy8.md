@@ -4,7 +4,7 @@
 
 > Ein Prosit der Gemütlichkeit
 
-151 songs - 7 hr 40 min
+152 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bumsbar](https://open.spotify.com/track/62NrIrsxxNXJVvtRivWYjM) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ), [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz) | [Bumsbar](https://open.spotify.com/album/5scHLxNmarpll2bsmIP9ny) | 2:30 | 2023-07-14 | 2023-12-08 |
 | [Can You English Please](https://open.spotify.com/track/3WzhNUlB14b15XLDm2dQHi) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Mitten in die Scheibe](https://open.spotify.com/album/0CrQz7CcWSBMlgJGDHcQdS) | 2:47 | 2023-07-14 | 2024-04-19 |
 | [Ciao 3 Tage Blau](https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS) | [David Dichter](https://open.spotify.com/artist/74h8vjazetNDShaoBT7Oxj), [Inki Nici](https://open.spotify.com/artist/6XImI4RFNKNPL82h8eRTxP), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Ciao 3 Tage Blau](https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw) | 3:08 | 2023-07-14 | 2024-08-31 |
+| [Dann leg ich Schlager auf](https://open.spotify.com/track/21YH3LX7O0uayHWOmDGPbL) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q), [Tim Toupet](https://open.spotify.com/artist/6bt8AKXF0E1m0IoI0o5I4N) | [Dann leg ich Schlager auf](https://open.spotify.com/album/3Hod9KyrcwiuI6SWzspYAg) | 2:51 | 2024-10-18 |  |
 | [Das geht ab \- Wir feiern die ganze Nacht](https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb) | [Die Atzen](https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu) | [Atzen Musik Vol.1, 2 & 3](https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh) | 3:29 | 2023-07-14 |  |
 | [Delfin](https://open.spotify.com/track/4jAHH8WkHiJQP9JlW2PlEi) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Delfin](https://open.spotify.com/album/1mJVITyXpxZqITt9O5iS5i) | 2:55 | 2023-07-14 | 2024-01-19 |
 | [Delfin](https://open.spotify.com/track/5WJEoex0MzOYDk66Knt2iz) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig) | [Delfin](https://open.spotify.com/album/2iQfLRK1JiGkgIHcbtgyGY) | 2:55 | 2023-12-19 | 2024-04-19 |
@@ -117,7 +118,7 @@
 | [Mozart \(Ciao Niveau\)](https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Mozart \(Ciao Niveau\)](https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB) | 2:52 | 2024-04-30 |  |
 | [Nachbarn](https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Nachbarn](https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea) | 3:01 | 2023-07-14 |  |
 | [Neverland](https://open.spotify.com/track/7HJ7K2RacfpaX2DTEvwYpS) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Neverland](https://open.spotify.com/album/2bDZ4TekRc3saVb0O1G7ik) | 3:32 | 2024-02-15 | 2024-06-19 |
-| [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 | 2023-07-14 |  |
+| [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Nie mehr Alkohol \- freie Getränke](https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y) | 3:24 | 2023-07-14 | 2024-10-26 |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/2ZqVzQrbA3FuXKOUBBqpRy) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3MS34bdsyJSrdMnbEac3pn) | 2:44 | 2024-02-15 | 2024-04-19 |
 | [Nimm mich mit ins Paradies](https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu) | [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Nimm mich mit ins Paradies](https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm) | 2:44 | 2023-07-14 | 2024-01-19 |
 | [Oben ohne](https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ) | [Oben ohne](https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M) | 2:59 | 2024-03-22 |  |

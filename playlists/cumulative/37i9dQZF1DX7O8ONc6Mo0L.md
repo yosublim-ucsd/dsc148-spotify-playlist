@@ -2,9 +2,9 @@
 
 ### [Gospel Acústico](https://open.spotify.com/playlist/37i9dQZF1DX7O8ONc6Mo0L)
 
-> Relaxe com hinos acústicos\. Foto: Ton Carfi
+> Relaxe com hinos acústicos\. Foto: Débora Buzas, Isaias Saad
 
-161 songs - 11 hr 56 min
+162 songs - 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Até o Fim](https://open.spotify.com/track/5pYCKUDdBvxK8Zhxr4ywri) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Até o Fim](https://open.spotify.com/album/1adgtw24sgeeH5kEWz2Yyv) | 3:45 | 2022-09-02 | 2023-02-25 |
 | [Até Que Tu Sejas o Primeiro \- Acústico](https://open.spotify.com/track/1JiUNbAkkAtmCQLuKcdGSc) | [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao), [Arco e Flecha](https://open.spotify.com/artist/2MnCgdwSL1ujfSHwIvjjmm) | [Acústico, Vol\. 2](https://open.spotify.com/album/0OcToYPbbdIO4d6p7SJZ2n) | 6:26 | 2022-09-02 | 2023-03-18 |
 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 | 2022-09-02 |  |
-| [Caim e Abel \- Acústico](https://open.spotify.com/track/76PkcV3zkKw7d2LOOwb9BC) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [MAYTHÊ](https://open.spotify.com/artist/6mCUkPiHI1H069swpE1OEi) | [Caim e Abel \(Acústico\)](https://open.spotify.com/album/5oCbHUIdqXs7PjJZmlowdB) | 3:38 | 2024-06-28 |  |
+| [Caim e Abel \- Acústico](https://open.spotify.com/track/76PkcV3zkKw7d2LOOwb9BC) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [MAYTHÊ](https://open.spotify.com/artist/6mCUkPiHI1H069swpE1OEi) | [Caim e Abel \(Acústico\)](https://open.spotify.com/album/5oCbHUIdqXs7PjJZmlowdB) | 3:38 | 2024-06-28 | 2024-10-26 |
 | [Calvário \- Acústico](https://open.spotify.com/track/1iDULS2J3cedW8dNWk0XXX) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k), [Priscila Olly](https://open.spotify.com/artist/5hK2DFyP32D2bS9oQzbwzy) | [Calvário \(Acústico\)](https://open.spotify.com/album/4hqJjhLBxT06bavOHts4ei) | 5:32 | 2022-09-02 | 2022-10-01 |
 | [Carta de Deus \- Ao Vivo](https://open.spotify.com/track/0w9aIkvIjBIStv0AIQrf1O) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Carta de Deus \(Ao Vivo\)](https://open.spotify.com/album/5Oj7rg1N453qQUBEix1afa) | 5:08 | 2024-06-28 |  |
 | [Celebrate Your Life](https://open.spotify.com/track/5q1B7rJb1YBAUSSG8yhzg6) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Secrets](https://open.spotify.com/album/2MwdKmNNzCnMap8cGFyoh7) | 4:31 | 2023-06-16 | 2023-08-19 |
@@ -83,6 +83,7 @@
 | [Florescer](https://open.spotify.com/track/0YukDUvWMxW2FPuceeTNT0) | [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Jacqueline Palheiro](https://open.spotify.com/artist/0KsrPvrENzZp3EvN3YAi9w) | [Florescer](https://open.spotify.com/album/1JlMVDkzH54t0v8kz148LG) | 6:20 | 2023-12-22 |  |
 | [Formoso És \- Acústico](https://open.spotify.com/track/3aEqPmCyU6HaoVmtrsmFCa) | [Dunamis Music](https://open.spotify.com/artist/1qtVabPP0TkBR3UyFHL7Ce), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Formoso És \(Acústico\)](https://open.spotify.com/album/3VrYf1WUs45obGKYZzUb70) | 4:38 | 2023-05-26 |  |
 | [Grande É o Senhor](https://open.spotify.com/track/5kRbuUv8904cbMwhGmQsE3) | [Bereia Music](https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4), [Lucas Goes](https://open.spotify.com/artist/6FS6gCbdyM0guva0tNopay) | [Grande É o Senhor](https://open.spotify.com/album/3w8C9IwPG42g22aOFflszr) | 4:13 | 2024-04-26 |  |
+| [Grande é o Senhor \- Ao Vivo Acústico](https://open.spotify.com/track/0MqA8iyuwOWym2tWj5qOJc) | [Débora Buzas](https://open.spotify.com/artist/6K6aHuOnmEhMwRlmgP6HA7), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Grande é o Senhor \(Ao Vivo Acústico\)](https://open.spotify.com/album/0ATcc09leJRsSbZQMe0eOk) | 4:06 | 2024-10-25 |  |
 | [Guarda Meu Coração](https://open.spotify.com/track/7qB7nGQGewMFdMhSFLzbCY) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Ao Orar 2](https://open.spotify.com/album/2HIM1K64rbESXM2BmrJQIl) | 3:41 | 2023-02-03 | 2023-10-14 |
 | [Impressionante \- Acústico](https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn) | [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Impressionante \(Acústico\)](https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p) | 5:31 | 2023-02-03 |  |
 | [Intimidade \- Ao Vivo](https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Intimidade \(Ao Vivo\)](https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T) | 3:39 | 2022-09-02 | 2024-06-29 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1078204,
+  "num_followers": 1078257,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAADiGuvR9Cf/UBes9b5pYahE",
+  "snapshot_id": "ZxmOAAAAAAC/4j3qr9Nd1FCLi0d9EsL2",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 303813,
-      "name": "Walking After You",
-      "url": "https://open.spotify.com/track/7pS2OVdIWviLpz5GOtJLzz"
+      "duration_ms": 83800,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 83800,
-      "name": "Doll",
-      "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
+      "duration_ms": 303813,
+      "name": "Walking After You",
+      "url": "https://open.spotify.com/track/7pS2OVdIWviLpz5GOtJLzz"
     },
     {
       "added_at": null,

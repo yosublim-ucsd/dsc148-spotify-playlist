@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Linkin Park",
+  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Amira Elfeky",
   "name": "VOLUME",
   "tracks": [
     {
@@ -386,6 +386,24 @@
       "duration_ms": 159832,
       "name": "<maybe> it's my fault",
       "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
+    },
+    {
+      "album": {
+        "name": "DARK SIDE OF THE BRAIN",
+        "url": "https://open.spotify.com/album/3poxfySpYvMDmsyyefE1Xw"
+      },
+      "artists": [
+        {
+          "name": "FLAT BLACK",
+          "url": "https://open.spotify.com/artist/7dZynKGWc8X8jsdH0WLuzo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257420,
+      "name": "A BIT OF LIGHTNING",
+      "url": "https://open.spotify.com/track/6nec44wvnLf92ohS4ODUfA"
     },
     {
       "album": {
@@ -914,7 +932,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 162805,
       "name": "ALL IN MY HEAD",
       "url": "https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV"
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 204053,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/6KZRKGq6hj18WkbgXxcRcZ"
@@ -5708,7 +5726,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 184909,
       "name": "Delusion:All",
       "url": "https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3"
@@ -6763,6 +6781,24 @@
     },
     {
       "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189897,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF"
+    },
+    {
+      "album": {
         "name": "Earn It",
         "url": "https://open.spotify.com/album/5iPPJrnEto3sGfm7pyws7s"
       },
@@ -7678,7 +7714,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 227554,
       "name": "Feel Like That (feat. Bradley Nowell)",
       "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
@@ -9251,6 +9287,24 @@
     },
     {
       "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/1hegGWYQg8BIOxUYOiLV39"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269766,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/0cZLr41IF4Gocxfja74isP"
+    },
+    {
+      "album": {
         "name": "Zig",
         "url": "https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk"
       },
@@ -9480,7 +9534,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -9871,6 +9925,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195770,
+      "name": "Honey - Single Version",
+      "url": "https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK"
+    },
+    {
+      "album": {
         "name": "Horses In A Dream",
         "url": "https://open.spotify.com/album/6Ca8lM5YZmtmQJZqFl9GpY"
       },
@@ -9918,7 +9990,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 179800,
       "name": "Hotel Lights",
       "url": "https://open.spotify.com/track/5kROR2oGzCpvI49c9fOS6K"
@@ -11069,6 +11141,24 @@
     },
     {
       "album": {
+        "name": "Jerkin'",
+        "url": "https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
+    },
+    {
+      "album": {
         "name": "Survival Mode",
         "url": "https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4"
       },
@@ -11298,7 +11388,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 268005,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/2GBeNjgz5HSvBkE7dRryxk"
@@ -12144,7 +12234,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 193969,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/2cbyRKhKPAqCEhBl8OXdAY"
@@ -12507,6 +12597,24 @@
     },
     {
       "album": {
+        "name": "Live Without It",
+        "url": "https://open.spotify.com/album/2CRwZC57AFDKsaz9gfSlZu"
+      },
+      "artists": [
+        {
+          "name": "Hinder",
+          "url": "https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208178,
+      "name": "Live Without It",
+      "url": "https://open.spotify.com/track/512WleoOsqH7fBTtfCUXMQ"
+    },
+    {
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
       },
@@ -12554,7 +12662,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 241579,
       "name": "Lonely is the Muse",
       "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
@@ -13413,6 +13521,24 @@
     },
     {
       "album": {
+        "name": "Meditations",
+        "url": "https://open.spotify.com/album/2BRSukoWknGgMermHbSVt6"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184163,
+      "name": "Meditations",
+      "url": "https://open.spotify.com/track/2XaZcy1CBRqfEpvy4JuJLr"
+    },
+    {
+      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
       },
@@ -13500,7 +13626,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 202479,
       "name": "Mi Tormenta (feat. DannyLux)",
       "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
@@ -14608,7 +14734,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 183529,
       "name": "NO HOSTAGES",
       "url": "https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F"
@@ -15197,6 +15323,32 @@
     },
     {
       "album": {
+        "name": "One Last Dance (From \"Venom: The Last Dance\")",
+        "url": "https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150636,
+      "name": "One Last Dance (From \"Venom: The Last Dance\")",
+      "url": "https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK"
+    },
+    {
+      "album": {
         "name": "Darkbloom",
         "url": "https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm"
       },
@@ -15542,10 +15694,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 172500,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/3NcheXileql4RI8n6sLumL"
+    },
+    {
+      "album": {
+        "name": "Over Each Other",
+        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
     },
     {
       "album": {
@@ -16094,7 +16264,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 244233,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG"
@@ -16632,6 +16802,24 @@
       "duration_ms": 201341,
       "name": "QWERTY",
       "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
+    },
+    {
+      "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/7uEqTi7T7zyRxdhsLCoqp9"
+      },
+      "artists": [
+        {
+          "name": "Seven Hours After Violet",
+          "url": "https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/2FMNCmWngbfBYBoUSeeKM4"
     },
     {
       "album": {
@@ -17418,7 +17606,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 190552,
       "name": "Sad In Carolina",
       "url": "https://open.spotify.com/track/477WW3uWDlPpMYR0ahASPh"
@@ -19253,6 +19441,28 @@
     },
     {
       "album": {
+        "name": "Stay In Your Grave (feat. Alice Cooper)",
+        "url": "https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139538,
+      "name": "Stay In Your Grave (feat. Alice Cooper)",
+      "url": "https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7"
+    },
+    {
+      "album": {
         "name": "Stick to Silence",
         "url": "https://open.spotify.com/album/0yAfmA16uaH56VfgXuhjuu"
       },
@@ -19923,6 +20133,24 @@
     },
     {
       "album": {
+        "name": "ONE MORE TIME... PART-2",
+        "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219389,
+      "name": "TAKE ME IN",
+      "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
+    },
+    {
+      "album": {
         "name": "Take Shape (feat. Billy Corgan)",
         "url": "https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS"
       },
@@ -20054,6 +20282,32 @@
       "duration_ms": 233000,
       "name": "Taunt Me",
       "url": "https://open.spotify.com/track/4p5S0Yn39eWAkHNJ6LuK77"
+    },
+    {
+      "album": {
+        "name": "Te'Kill'Ya",
+        "url": "https://open.spotify.com/album/29kd82BQka5Gs290XCHC4G"
+      },
+      "artists": [
+        {
+          "name": "GXTP",
+          "url": "https://open.spotify.com/artist/7aJ0lXaVRlmeij1J0NrrFK"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219189,
+      "name": "Te'Kill'Ya",
+      "url": "https://open.spotify.com/track/2FY3V309Dc0X6VS8OWFxC9"
     },
     {
       "album": {
@@ -20575,6 +20829,24 @@
     },
     {
       "album": {
+        "name": "SHOCK TO THE SYSTEM (PART ONE)",
+        "url": "https://open.spotify.com/album/3Phx7bXkyoGS0O39giHiXS"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240725,
+      "name": "THE DAM",
+      "url": "https://open.spotify.com/track/4zD1UlSWZ1YvG9pJmjVXZ8"
+    },
+    {
+      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/2Lk43Ib2RErp5YVfbJDo7H"
       },
@@ -20876,7 +21148,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 225224,
       "name": "The Future Is A Foreign Land",
       "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
@@ -21398,6 +21670,24 @@
       "duration_ms": 395716,
       "name": "The Summoning",
       "url": "https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B"
+    },
+    {
+      "album": {
+        "name": "The Night the Zombies Came",
+        "url": "https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223866,
+      "name": "The Vegas Suite",
+      "url": "https://open.spotify.com/track/304fddzE78zrBtZv42biyB"
     },
     {
       "album": {
@@ -22074,7 +22364,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
@@ -23983,6 +24273,24 @@
     },
     {
       "album": {
+        "name": "Will You Love Me When I\u2019m Dead",
+        "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193798,
+      "name": "Will You Love Me When I\u2019m Dead",
+      "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
+    },
+    {
+      "album": {
         "name": "Win Win",
         "url": "https://open.spotify.com/album/4cZMnC7tAJ4WOAZz93WL1g"
       },
@@ -24548,6 +24856,24 @@
       "duration_ms": 185008,
       "name": "Your Master",
       "url": "https://open.spotify.com/track/3EuAXH9UnjcejNj49VKVIs"
+    },
+    {
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242662,
+      "name": "YOUtopia",
+      "url": "https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx"
     },
     {
       "album": {

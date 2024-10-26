@@ -1,29 +1,13 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1313,
+  "num_followers": 1312,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAACOGqVVCeOcEJnZv/Vay2Ht",
+  "snapshot_id": "ZxmOAAAAAAC21I1oFREE+mZMIKqqxcAH",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunshine (Ken Andrews Mix)",
-        "url": "https://open.spotify.com/album/4gPIIrIqMXeWMXB2LxDSDh"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 199873,
-      "name": "Sunshine - Ken Andrews Mix",
-      "url": "https://open.spotify.com/track/3mUByfqX0hDl8VfSI0Hnp5"
-    },
     {
       "added_at": null,
       "album": {
@@ -156,9 +140,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 234686,
-      "name": "Diorama",
-      "url": "https://open.spotify.com/track/2P4WDJAjCHHUULO7wnzzvC"
+      "duration_ms": 194010,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX"
     },
     {
       "added_at": null,
@@ -220,9 +204,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+      "duration_ms": 234686,
+      "name": "Diorama",
+      "url": "https://open.spotify.com/track/2P4WDJAjCHHUULO7wnzzvC"
     },
     {
       "added_at": null,
@@ -336,9 +320,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 157221,
-      "name": "Kibo",
-      "url": "https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg"
+      "duration_ms": 223875,
+      "name": "Chrome Neon Jesus",
+      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
     },
     {
       "added_at": null,
@@ -352,9 +336,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 226886,
-      "name": "Digital Self",
-      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,
@@ -400,9 +384,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 223875,
-      "name": "Chrome Neon Jesus",
-      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
+      "duration_ms": 157221,
+      "name": "Kibo",
+      "url": "https://open.spotify.com/track/5iQPGnGBClKTf4pHdhNuAg"
     },
     {
       "added_at": null,
@@ -416,9 +400,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 224214,
-      "name": "Cold Case",
-      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
+      "duration_ms": 226886,
+      "name": "Digital Self",
+      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
     },
     {
       "added_at": null,

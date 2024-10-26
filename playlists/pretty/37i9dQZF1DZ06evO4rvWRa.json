@@ -1,37 +1,13 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1640658,
+  "num_followers": 1640677,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAACqjiXe+ABRJiJ0L3PAY7V7",
+  "snapshot_id": "ZxmOAAAAAACY6UQ1Yx5+GIYtg4XUHPRk",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Children of the Sun",
-        "url": "https://open.spotify.com/album/1fpWGsEKLeyf5rk6HkpBu4"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        }
-      ],
-      "duration_ms": 197912,
-      "name": "Children of the Sun",
-      "url": "https://open.spotify.com/track/7L3Y2DoJ1RMicH5X2GnFEZ"
-    },
     {
       "added_at": null,
       "album": {
@@ -919,6 +895,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Children of the Sun",
+        "url": "https://open.spotify.com/album/1fpWGsEKLeyf5rk6HkpBu4"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "duration_ms": 197912,
+      "name": "Children of the Sun",
+      "url": "https://open.spotify.com/track/7L3Y2DoJ1RMicH5X2GnFEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't You Hold Me Down",
         "url": "https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ"
       },
@@ -935,26 +935,6 @@
       "duration_ms": 132597,
       "name": "Don't You Hold Me Down",
       "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake A Smile",
-        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 168118,
-      "name": "Fake A Smile",
-      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
     },
     {
       "added_at": null,
@@ -999,6 +979,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake A Smile",
+        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 168118,
+      "name": "Fake A Smile",
+      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heading Home",
         "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
       },
@@ -1019,6 +1019,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walkerverse Pt. I & II",
+        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 145824,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hello World",
         "url": "https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 171585,
       "name": "Hello World",
       "url": "https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 145824,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B"
     },
     {
       "added_at": null,
@@ -1091,26 +1091,6 @@
       "duration_ms": 161097,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/0CSLSbNaWiSnaXQ5h5lmWm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walkerverse Pt. I & II",
-        "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sophie Simmons",
-          "url": "https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy"
-        }
-      ],
-      "duration_ms": 129024,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/2ECNBJ0b112QmhoBHKq8O6"
     }
   ],
   "unique_name": "This Is Alan Walker",

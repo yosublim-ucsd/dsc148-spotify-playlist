@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 100165,
       "name": "Cien Por Uno",
       "url": "https://open.spotify.com/track/77XT1VtbANgAeFac7qyCsI"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 202105,
       "name": "Como Sea",
       "url": "https://open.spotify.com/track/5K42LXYdwB905rlqgDA6Qg"
@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 244878,
       "name": "Cxrtier",
       "url": "https://open.spotify.com/track/4d1VlTfnv3hn488JmtH3h7"
@@ -3237,6 +3237,24 @@
     },
     {
       "album": {
+        "name": "Es La Hora",
+        "url": "https://open.spotify.com/album/1ubaszU0AtWQL82uYKnaSo"
+      },
+      "artists": [
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226516,
+      "name": "Es La Hora",
+      "url": "https://open.spotify.com/track/1srxm85ipeTn89EZACaWEF"
+    },
+    {
+      "album": {
         "name": "Especies",
         "url": "https://open.spotify.com/album/38MDL6mhsLPxRBd4nGN1Gk"
       },
@@ -3476,6 +3494,24 @@
       "duration_ms": 156254,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/6JkjgPrTLBAD1fBh1OOfDQ"
+    },
+    {
+      "album": {
+        "name": "Flow Leyenda",
+        "url": "https://open.spotify.com/album/22zga9v4YH6DXtvpu9YIvw"
+      },
+      "artists": [
+        {
+          "name": "Flaco Flow y Melanina",
+          "url": "https://open.spotify.com/artist/7HYiFaf8421jcAZtEHIuv2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194042,
+      "name": "Flow Leyenda",
+      "url": "https://open.spotify.com/track/2HUzFoPdLNQFYSz7g4POhP"
     },
     {
       "album": {
@@ -4288,6 +4324,24 @@
       "duration_ms": 207000,
       "name": "La Cuadra",
       "url": "https://open.spotify.com/track/2rC7SeiSdTXyOEjireVlnf"
+    },
+    {
+      "album": {
+        "name": "KUSTOM",
+        "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130110,
+      "name": "LA ELITE",
+      "url": "https://open.spotify.com/track/2Fn7ArECH8Sgy4uXQYp4lh"
     },
     {
       "album": {
@@ -6276,7 +6330,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 186350,
       "name": "Ni Te Pienso",
       "url": "https://open.spotify.com/track/1DZB8ftk4ZtXykrIhH3lkr"
@@ -7737,6 +7791,28 @@
     },
     {
       "album": {
+        "name": "Rosario / \u201cQue Bueno Es Tenerte\u201d",
+        "url": "https://open.spotify.com/album/7skavgAUpwqlVd1svrsOZI"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194507,
+      "name": "Rosario / \u201cQue Bueno Es Tenerte\u201d",
+      "url": "https://open.spotify.com/track/1Gqbvr9teof5F8vj7aBft4"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1o Caos",
         "url": "https://open.spotify.com/album/1al5KY3S4Ik2DM5j8Hw1yt"
       },
@@ -7790,6 +7866,24 @@
       "duration_ms": 164000,
       "name": "Sadman (feat. El ultimo del tren)",
       "url": "https://open.spotify.com/track/0h8ePz8yylHQ6xHZIqoD5y"
+    },
+    {
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "SANGRE X SANGRE",
+      "url": "https://open.spotify.com/track/4iURr626VPcfRbY0jOdND7"
     },
     {
       "album": {
@@ -9326,7 +9420,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 164583,
       "name": "Vida Desordenada",
       "url": "https://open.spotify.com/track/5LnjZovOsKPiJaxwf7VKrH"

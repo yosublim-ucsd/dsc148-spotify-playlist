@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 174786,
       "name": "Escape The Lights",
       "url": "https://open.spotify.com/track/4IgEKifQfV8rHPFfTzwr45"
@@ -4488,6 +4488,28 @@
       "duration_ms": 193103,
       "name": "Punching Holes",
       "url": "https://open.spotify.com/track/0IX0Pj2FKvvWrZUz26J3ZB"
+    },
+    {
+      "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/5KRYfMMz8GEFXU1vDt4hiy"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153558,
+      "name": "Punk",
+      "url": "https://open.spotify.com/track/729B5zjWEZ1GPow5IzTJhJ"
     },
     {
       "album": {

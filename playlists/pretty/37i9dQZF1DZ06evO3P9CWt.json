@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279395,
+  "num_followers": 279404,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAABQaZiqGk49qDf5Xy18XN1Q",
+  "snapshot_id": "ZxmOAAAAAADPk3ojSrCsYoNVkm/wNmbe",
   "tracks": [
     {
       "added_at": null,
@@ -391,30 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO FLUXO",
-        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+        "name": "PRISCILLA",
+        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
-        },
-        {
-          "name": "Mc Alleff",
-          "url": "https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l"
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 174213,
-      "name": "BRUXARIA 3000",
-      "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
+      "duration_ms": 136037,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa"
     },
     {
       "added_at": null,
@@ -455,22 +447,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRISCILLA",
-        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
       "artists": [
         {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "Mc Alleff",
+          "url": "https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l"
         },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 136037,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa"
+      "duration_ms": 174213,
+      "name": "BRUXARIA 3000",
+      "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Nunca Fui Embora - PARTE 1",
-        "url": "https://open.spotify.com/album/4LketVVipjzizVzYqTojSE"
-      },
-      "artists": [
-        {
-          "name": "Fresno",
-          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 199629,
-      "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
-      "url": "https://open.spotify.com/track/1543cODQhOSwvHkYy0SoKm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 173265,
       "name": "Derretida - Brunoso Remix",
       "url": "https://open.spotify.com/track/7CzUp49fXwsYP4CgQNfDSh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu Nunca Fui Embora - PARTE 1",
+        "url": "https://open.spotify.com/album/4LketVVipjzizVzYqTojSE"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 199629,
+      "name": "Eu Te Amo / Eu Te Odeio (I\u00d4-I\u00d4)",
+      "url": "https://open.spotify.com/track/1543cODQhOSwvHkYy0SoKm"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LolOLove (feat. Pabllo Vittar)",
-        "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 160480,
-      "name": "LolOLove (feat. Pabllo Vittar)",
-      "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -771,22 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEREIA",
-        "url": "https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb"
+        "name": "LolOLove (feat. Pabllo Vittar)",
+        "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
       },
       "artists": [
         {
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
         },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 155454,
-      "name": "SEREIA",
-      "url": "https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp"
+      "duration_ms": 160480,
+      "name": "LolOLove (feat. Pabllo Vittar)",
+      "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
     },
     {
       "added_at": null,
@@ -803,6 +783,26 @@
       "duration_ms": 155597,
       "name": "A Lua",
       "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SEREIA",
+        "url": "https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb"
+      },
+      "artists": [
+        {
+          "name": "Lia Clark",
+          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "SEREIA",
+      "url": "https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp"
     },
     {
       "added_at": null,

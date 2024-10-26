@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 329224,
+  "num_followers": 329278,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAACwwvDBVkdDqBhXjVI5IZ3u",
+  "snapshot_id": "ZxmOAAAAAADhDeKromOBtHvS3uOI7DeI",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Que Sumar",
-        "url": "https://open.spotify.com/album/7wr3AzQlVI3VjUWDXrsMHN"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 203160,
-      "name": "Hay Que Sumar",
-      "url": "https://open.spotify.com/track/0p0urtbzvRdBqKwhMiAxgP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Al Estilo Rancheron",
         "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
       },
@@ -599,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Paro de Compas",
-        "url": "https://open.spotify.com/album/06uan3WECvzE09VBRJAQk7"
+        "name": "Hay Que Sumar",
+        "url": "https://open.spotify.com/album/7wr3AzQlVI3VjUWDXrsMHN"
       },
       "artists": [
         {
@@ -608,9 +592,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 221881,
-      "name": "Un Paro de Compas",
-      "url": "https://open.spotify.com/track/0TeXv8uLdYvB8perDrv5ZW"
+      "duration_ms": 203160,
+      "name": "Hay Que Sumar",
+      "url": "https://open.spotify.com/track/0p0urtbzvRdBqKwhMiAxgP"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 189769,
       "name": "Me Estoy Acostumbrando",
       "url": "https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Paro de Compas",
+        "url": "https://open.spotify.com/album/06uan3WECvzE09VBRJAQk7"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 221881,
+      "name": "Un Paro de Compas",
+      "url": "https://open.spotify.com/track/0TeXv8uLdYvB8perDrv5ZW"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 166038,
+      "name": "En Fin",
+      "url": "https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cholos al Punto",
         "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
       },
@@ -683,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+        "name": "M\u00e1s de una Raz\u00f3n",
+        "url": "https://open.spotify.com/album/5PdSIlAXNjO9QW5v2Qt95Z"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 166038,
-      "name": "En Fin",
-      "url": "https://open.spotify.com/track/6IwbsApBfzCMFDmxmTp8Wo"
+      "duration_ms": 198129,
+      "name": "M\u00e1s de una Raz\u00f3n",
+      "url": "https://open.spotify.com/track/252gVdTF9yJpgPi5lT4q92"
     },
     {
       "added_at": null,
@@ -715,22 +731,6 @@
       "duration_ms": 137560,
       "name": "El Que Quiere Puede",
       "url": "https://open.spotify.com/track/4MGkZ1KQBirBI04UAo76pn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s de una Raz\u00f3n",
-        "url": "https://open.spotify.com/album/5PdSIlAXNjO9QW5v2Qt95Z"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 198129,
-      "name": "M\u00e1s de una Raz\u00f3n",
-      "url": "https://open.spotify.com/track/252gVdTF9yJpgPi5lT4q92"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gallo Jugado",
-        "url": "https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 173172,
-      "name": "Gallo Jugado",
-      "url": "https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Caminos de la Vida (Spotify Singles)",
         "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 328115,
       "name": "Los Caminos de la Vida - Spotify Singles",
       "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gallo Jugado",
+        "url": "https://open.spotify.com/album/0fKc963dUVq6ZGdvIuQUxY"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 173172,
+      "name": "Gallo Jugado",
+      "url": "https://open.spotify.com/track/2Gsf7CIYK2NlGxuI4oFuuK"
     },
     {
       "added_at": null,
@@ -847,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Aprend\u00ed",
-        "url": "https://open.spotify.com/album/5i6SBi9wrC7ZisUrFS1mUm"
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
       },
       "artists": [
-        {
-          "name": "Adrian Chaparro",
-          "url": "https://open.spotify.com/artist/3Y4EQUPoAoMmzHwq4LUYtl"
-        },
         {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 165701,
-      "name": "Lo Que Aprend\u00ed",
-      "url": "https://open.spotify.com/track/5gIrCawFmzM39O3D8l8EN7"
+      "duration_ms": 209701,
+      "name": "Nomas las Mujeres Quedan - En Vivo",
+      "url": "https://open.spotify.com/track/3vKRkXyUCDs7mExHkcz9pg"
     }
   ],
   "unique_name": "This Is Los Dos Carnales",

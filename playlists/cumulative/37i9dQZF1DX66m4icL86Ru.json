@@ -5123,6 +5123,28 @@
     },
     {
       "album": {
+        "name": "I Hate Your Ex-Girlfriend (feat. Doechii)",
+        "url": "https://open.spotify.com/album/1qOm9MfWnGxA4EPdKeDSXs"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143829,
+      "name": "I Hate Your Ex-Girlfriend (feat. Doechii)",
+      "url": "https://open.spotify.com/track/6l8Qzewg2rhEgfyaoJRRTJ"
+    },
+    {
+      "album": {
         "name": "Everything Sucks",
         "url": "https://open.spotify.com/album/6JP1xbkFnacGAvrIWW5pzF"
       },
@@ -10234,7 +10256,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"

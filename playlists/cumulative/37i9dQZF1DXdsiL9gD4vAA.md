@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-178 songs - 16 hr 0 min
+179 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/5UlX0IDXTIRSjxoKwA7hua) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log](https://open.spotify.com/album/6GQxHAADW2hxsE4HU10REy) | 4:47 | 2024-04-18 |  |
 | [Ab Ke Jo Baat Hui](https://open.spotify.com/track/2X4UCsahzz3JwvBbkBGf0a) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Ab Ke Jo Baat Hui](https://open.spotify.com/album/0GQaL3F3EnwP5chmApJMA9) | 7:08 | 2023-07-25 |  |
 | [Ab Ke Jo Baat Hui](https://open.spotify.com/track/4AzCXSgvjUiEbkr7mBvpNO) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Ab Ke Jo Baat Hui](https://open.spotify.com/album/0AzQXg1jQISWHBnF4SHg3d) | 7:08 | 2023-12-12 | 2024-04-19 |
+| [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2scoQVbLVrjswa8lycsyCG), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 | 2024-10-25 |  |
 | [Agar Talash Karun](https://open.spotify.com/track/1YQOVnwr0DA9EotDneK265) | [Sougata Banerjee](https://open.spotify.com/artist/1eF9TwBnbfEFQZvC98Lg56) | [Agar Talash Karun](https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6) | 6:30 | 2023-03-23 |  |
 | [Ahista](https://open.spotify.com/track/629XoimVGH8GCzqrWnBXVT) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Made For Each Other](https://open.spotify.com/album/2u1N3D1QoFdxHZmNPAPY9g) | 7:13 | 2021-12-01 |  |
 | [Ahista](https://open.spotify.com/track/6vIII4miUMUjCYtluFwbnP) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [The Legend Forever \- Pankaj Udhas \- Vol.1](https://open.spotify.com/album/45ctARvK5Rph0MaAcCwJ8Z) | 7:13 | 2023-01-24 | 2024-04-19 |
@@ -27,7 +28,7 @@
 | [Ajnabee](https://open.spotify.com/track/03sWVHENonT3oJ99JKiWGb) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ajnabee](https://open.spotify.com/album/4UGDdDJ84KQ0V7zzEPoaay) | 5:26 | 2023-06-19 |  |
 | [Ajnabee](https://open.spotify.com/track/7EWviiiEH3oeS3D8gUKBnE) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA) | [Ajnabee](https://open.spotify.com/album/7fXLbnKX7f1K2cFwmsekWT) | 5:26 | 2023-12-12 | 2024-04-19 |
 | [Ajnabi Shehar Mein](https://open.spotify.com/track/0uXpXoYmYQJn7wIzP3Kllp) | [Ashok Khosla](https://open.spotify.com/artist/2fIO95bqKqcruVFfBV9fkb) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:33 | 2024-02-07 |  |
-| [Ap Se Mil Ke Hum](https://open.spotify.com/track/2Db2KrPmGAMHuxWRUDusBw) | [Leo Twins](https://open.spotify.com/artist/6pFaaeIt3kbdx8Xrgk0fUP), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Ap Se Mil Ke Hum](https://open.spotify.com/album/6zSih1hDqwitiWJ38tbmtZ) | 3:51 | 2024-01-25 |  |
+| [Ap Se Mil Ke Hum](https://open.spotify.com/track/2Db2KrPmGAMHuxWRUDusBw) | [Leo Twins](https://open.spotify.com/artist/6pFaaeIt3kbdx8Xrgk0fUP), [Zeeshan Ali](https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92) | [Ap Se Mil Ke Hum](https://open.spotify.com/album/6zSih1hDqwitiWJ38tbmtZ) | 3:51 | 2024-01-25 | 2024-10-26 |
 | [Awara](https://open.spotify.com/track/5ECnRRG6R0dNL1MpJ9lSeu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Horizon](https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg) | 6:22 | 2021-12-01 | 2023-07-20 |
 | [Beete Rishte Talash Karti Hai](https://open.spotify.com/track/6E2BUkw4XCghytulGBrbNI) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 0:33 | 2023-09-14 | 2024-04-19 |
 | [Beete Rishte Talash Karti Hai](https://open.spotify.com/track/6cQFfIR4FenzBP1tztktJL) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Gulzars Nazm Vol.2](https://open.spotify.com/album/6mtRHyLK4jWGNjse3byVu1) | 0:33 | 2024-04-18 |  |

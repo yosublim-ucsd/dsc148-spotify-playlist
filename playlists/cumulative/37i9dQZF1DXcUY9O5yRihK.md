@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Laufey
 
-145 songs - 7 hr 19 min
+146 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 | 2023-09-22 | 2024-04-19 |
 | [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-07-28 |  |
 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2023-01-06 |  |
+| [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 | 2024-10-25 |  |
 | [boo hoo](https://open.spotify.com/track/42Dvo910Rj43IijSxDFQTy) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [boo hoo](https://open.spotify.com/album/6IbJjpmcM4ewdqYjiSHCJM) | 2:46 | 2024-06-21 |  |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 |  |
 | [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 | 2024-06-28 |  |
@@ -96,7 +97,7 @@
 | [Old With You](https://open.spotify.com/track/2XPLk9RyWawxFmVDQsC0ke) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 3:26 | 2023-08-04 |  |
 | [ON THE LINE](https://open.spotify.com/track/5e8saCEDfJ2szwaG5gTLwI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [GLOW EP](https://open.spotify.com/album/666rdJ8snX6R5lT24Owcau) | 2:30 | 2024-02-09 | 2024-09-10 |
 | [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 | 2023-01-06 |  |
-| [Only You](https://open.spotify.com/track/4urtcS0F3G3NjD2oUeE1GN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Only You](https://open.spotify.com/album/501EHSpUgSp10zVTT1PeQj) | 3:08 | 2024-07-26 |  |
+| [Only You](https://open.spotify.com/track/4urtcS0F3G3NjD2oUeE1GN) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Only You](https://open.spotify.com/album/501EHSpUgSp10zVTT1PeQj) | 3:08 | 2024-07-26 | 2024-10-26 |
 | [outside the party, inside the dream](https://open.spotify.com/track/1LcwYCQ78z4PvLiU2Qt3XV) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [outside the party, inside the dream](https://open.spotify.com/album/6r70ZDnApSWdvzHz3pQUVc) | 3:08 | 2023-01-06 | 2024-06-29 |
 | [paris](https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [paris](https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak) | 2:29 | 2024-06-28 |  |
 | [Party Sickness](https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Party Sickness](https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf) | 3:49 | 2023-01-06 | 2024-03-23 |

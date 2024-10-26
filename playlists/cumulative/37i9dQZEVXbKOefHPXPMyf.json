@@ -9178,7 +9178,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 120052,
       "name": "CHAPA",
       "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
@@ -11590,7 +11590,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 223442,
       "name": "Cu\u00eddamela Bien",
       "url": "https://open.spotify.com/track/0WNgUUri9HDc4WUvkvHqT5"
@@ -15484,7 +15484,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 187000,
       "name": "Elvira & Tony",
       "url": "https://open.spotify.com/track/6JuYPGtQHFfC1Xbuu1PyY2"
@@ -20956,7 +20956,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 187426,
       "name": "History",
       "url": "https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso"
@@ -22164,7 +22164,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 179013,
       "name": "I Want to Write You a Song",
       "url": "https://open.spotify.com/track/608R6FvRtAqf2dvgKMzebP"
@@ -26328,7 +26328,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 219040,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj"
@@ -29378,7 +29378,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 123157,
       "name": "Media Hora",
       "url": "https://open.spotify.com/track/6JDf3oDiHpOaWAw7a0GgA5"
@@ -31458,7 +31458,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 229106,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/0UAB340gAcSMk3r0a8PTag"
@@ -33274,7 +33274,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 216752,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr"
@@ -39073,6 +39073,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Pecao",
+        "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230073,
+      "name": "Qu\u00e9 Pecao",
+      "url": "https://open.spotify.com/track/456U68M8lIymkz56Zroxh8"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Prefieres?",
         "url": "https://open.spotify.com/album/75TTjGjlpLgV3o2m7gnQq3"
       },
@@ -40980,7 +41002,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
@@ -44014,7 +44036,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 256706,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt"
@@ -50501,6 +50523,28 @@
     },
     {
       "album": {
+        "name": "VAPO NO SETOR",
+        "url": "https://open.spotify.com/album/6h4Lw0QisEuuAwmnMQvbse"
+      },
+      "artists": [
+        {
+          "name": "DJ ANXVAR",
+          "url": "https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ"
+        },
+        {
+          "name": "MC LONE",
+          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67596,
+      "name": "VAPO NO SETOR",
+      "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"
+    },
+    {
+      "album": {
         "name": "100 % Mexicano",
         "url": "https://open.spotify.com/album/1mlBiMy6nLtiqMsFdjD73K"
       },
@@ -53650,7 +53694,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 237933,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2afCBiru10AFckfOa49wIa"

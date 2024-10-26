@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,442 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,450 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 45 | [Cuando Salí De Cuba](https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira](https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM) | 2:59 |
 | 46 | [Patria y Vida \- Salsa](https://open.spotify.com/track/6AfRpMDQsXierL7fSMHvEO) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [El Funky](https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm), [Maykel Osorbo](https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [Patria y Vida \(Salsa\)](https://open.spotify.com/album/5VM9rbI3btwMg0aCMmteIF) | 4:05 |
 | 47 | [Tres Días De Carnaval](https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Tremendo Cache](https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN) | 4:59 |
-| 48 | [Nadie Se Salva De La Rumba](https://open.spotify.com/track/75ujCf7ZZCV65jPJCCZuZp) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tremendo Trio](https://open.spotify.com/album/0JcJKvFjM0HiIaIbxuqTDq) | 5:47 |
+| 48 | [Sazón](https://open.spotify.com/track/5zUxfJLKT4bLFWR1ck6evc) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:51 |
 | 49 | [Esperaré](https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira](https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM) | 2:32 |
-| 50 | [Sazón](https://open.spotify.com/track/5zUxfJLKT4bLFWR1ck6evc) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:51 |
+| 50 | [Nadie Se Salva De La Rumba](https://open.spotify.com/track/75ujCf7ZZCV65jPJCCZuZp) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Tremendo Trio](https://open.spotify.com/album/0JcJKvFjM0HiIaIbxuqTDq) | 5:47 |
 
-Snapshot ID: `Zxg8gAAAAADFKRi8BS5nxszAdoeLwaUt`
+Snapshot ID: `ZxmOAAAAAAAtw45bW5vMjGjNk6WAHcKl`

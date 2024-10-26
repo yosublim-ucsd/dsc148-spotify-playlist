@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 200044,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/5brVyVzaMQT3Qtrsc0nvBx"
@@ -916,6 +916,24 @@
       "duration_ms": 329596,
       "name": "Cheve",
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+    },
+    {
+      "album": {
+        "name": "Chicken Garaage",
+        "url": "https://open.spotify.com/album/60vxrbii465Dp2fdM3IiAa"
+      },
+      "artists": [
+        {
+          "name": "Objekt",
+          "url": "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401413,
+      "name": "Chicken Garaage",
+      "url": "https://open.spotify.com/track/4voWFU5XAE1s13LheHhrhJ"
     },
     {
       "album": {

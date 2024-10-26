@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover: <a href="spotify:artist:6zuKZ8dwAsS828nS4xyZ9y">Lydia Laird</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,808 likes - 55 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,812 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 23 | [Money Can't Buy](https://open.spotify.com/track/3a7J6TQmiM9TGl0wH3VMLO) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Money Can't Buy](https://open.spotify.com/album/11XwCnnUL2NEAwCIfGK27n) | 2:45 |
 | 24 | [under my feet](https://open.spotify.com/track/5ZFml8vC3lmHZq9NmEOScr) | [Elenee](https://open.spotify.com/artist/78ik45hdCuCyQ1gyiFEueX) | [under my feet](https://open.spotify.com/album/0MZEHlwQH2TSIbx0WqFOxX) | 3:47 |
 | 25 | [You're Not Done Yet](https://open.spotify.com/track/5fo0Ow9uxDjnpTWZu7KG7S) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [You're Not Done Yet](https://open.spotify.com/album/3v1DcuGyWkgDi4lM36cee2) | 4:17 |
-| 26 | [Me Baby](https://open.spotify.com/track/66RYCW347hwspDLHzDSnIG) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Me Baby](https://open.spotify.com/album/1Poa1A7jmMyLw05HbZFolK) | 2:05 |
+| 26 | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/track/66RYCW347hwspDLHzDSnIG) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/album/1Poa1A7jmMyLw05HbZFolK) | 2:05 |
 | 27 | [Never Walk Away](https://open.spotify.com/track/586ogBGKCa2puPpyAxfCR1) | [Taylor Holland Armstrong](https://open.spotify.com/artist/5I5UvpmpcsTd7tln4yuCgm) | [Never Walk Away](https://open.spotify.com/album/2q60CSeV7klcijURDWfTVu) | 3:42 |
 | 28 | [Let's Build A House](https://open.spotify.com/track/6rDA22IVMyv0t2knSa4ROE) | [Good Weather Forecast](https://open.spotify.com/artist/4HkAv0IL2kiVIC4CylhUer), [Real Life Guys](https://open.spotify.com/artist/7seL1mF4LajINchp4Ax5s5) | [Let's Build A House](https://open.spotify.com/album/2YBFk3aM0OTxompx4kXmYJ) | 2:09 |
 | 29 | [love me for me](https://open.spotify.com/track/6DuqxR2yFyq2UEfjN15mQl) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [love me for me](https://open.spotify.com/album/1qRgpqzGTmJEG5S3h7KbPp) | 2:58 |

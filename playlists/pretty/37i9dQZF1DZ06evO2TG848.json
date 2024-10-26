@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 22086,
+  "num_followers": 22087,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAACHpzOitrW8AFPwkybzqPhp",
+  "snapshot_id": "ZxmOAAAAAACMwuzydO3YVo1u4Wi8C5HA",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nueve",
-        "url": "https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU"
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
       },
       "artists": [
-        {
-          "name": "Massacre",
-          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
-        },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 300809,
-      "name": "Mariposa",
-      "url": "https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL"
+      "duration_ms": 91480,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"
     },
     {
       "added_at": null,
@@ -639,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 91480,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camino",
         "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 100933,
       "name": "Ella",
       "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nueve",
+        "url": "https://open.spotify.com/album/0Rv9mZr81HlTZ9UgsjhtNU"
+      },
+      "artists": [
+        {
+          "name": "Massacre",
+          "url": "https://open.spotify.com/artist/0UAAJKwQZz8jVDoVtly8NA"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 300809,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/52IViXynTZLAIvnrr8XLYL"
     },
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
       "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 174586,
-      "name": "Cordon de Plata",
-      "url": "https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7"
+      "duration_ms": 170919,
+      "name": "Yarar\u00e1",
+      "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
     },
     {
       "added_at": null,
@@ -755,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUR",
-        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
       },
       "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 170919,
-      "name": "Yarar\u00e1",
-      "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
+      "duration_ms": 174586,
+      "name": "Cordon de Plata",
+      "url": "https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7"
     },
     {
       "added_at": null,
@@ -879,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qhapaq \u00d1an",
-        "url": "https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce"
+        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 164560,
-      "name": "Sue\u00f1o del Matungo",
-      "url": "https://open.spotify.com/track/6UYsBywcQnWSgRF6sEpXpN"
+      "duration_ms": 180306,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
     },
     {
       "added_at": null,
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
+        "name": "Qhapaq \u00d1an",
+        "url": "https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 180306,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
+      "duration_ms": 164560,
+      "name": "Sue\u00f1o del Matungo",
+      "url": "https://open.spotify.com/track/6UYsBywcQnWSgRF6sEpXpN"
     },
     {
       "added_at": null,

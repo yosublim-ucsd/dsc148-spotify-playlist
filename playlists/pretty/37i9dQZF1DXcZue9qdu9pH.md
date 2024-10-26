@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,489 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,508 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 18 | [What They Heard](https://open.spotify.com/track/5p0kXDP56ztkjc0AtaWLSI) | [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [TIHANE](https://open.spotify.com/artist/5JTJtMCQcHtL2JbOVnyI0B) | [What They Heard](https://open.spotify.com/album/1DXa0J0noqp6f4ntFehsmZ) | 3:30 |
 | 19 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 |
 | 20 | [Time Allows](https://open.spotify.com/track/2pksmPxpgVX3ocBYtQwqFV) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:51 |
-| 21 | [what about us](https://open.spotify.com/track/2fNDML0aFVVowxSRcEv7FV) | [Donado Stone](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 2:37 |
+| 21 | [what about us](https://open.spotify.com/track/2fNDML0aFVVowxSRcEv7FV) | [DENO](https://open.spotify.com/artist/66R7M4gMnPcpY0ZstEU4FD) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 2:37 |
 | 22 | [SAYSHEDO](https://open.spotify.com/track/0Wh4nSocGrb1BZJiDvQlNq) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [SAYSHEDO](https://open.spotify.com/album/6lR5MnvtmNMazttWd0OBzW) | 1:54 |
 | 23 | [4 AM](https://open.spotify.com/track/3IKhzC08BuwN0YVpMdZFHe) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [4 AM](https://open.spotify.com/album/5O7F4MV99gG4bJvuPKCCbT) | 2:21 |
 | 24 | [Restore](https://open.spotify.com/track/5I6M34H6mOxG9ulDRZJLIz) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Jay James](https://open.spotify.com/artist/03NiOycjVSDIuglwWSl4BH) | [Restore](https://open.spotify.com/album/0JJ9lKygS0p1pZfLn7Bzc6) | 2:27 |

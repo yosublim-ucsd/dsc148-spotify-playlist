@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,636 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,954 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,20 +27,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 17 | [Judas Effect](https://open.spotify.com/track/5ybk0RVtJLh63xcoMyLoTQ) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Lionheart](https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd) | 3:12 |
 | 18 | [Iris](https://open.spotify.com/track/7h7DK2ZHIe4w0id8qkNqla) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Ethereality](https://open.spotify.com/album/6zk1WNC7YNM9qgAxWY98qW) | 3:38 |
 | 19 | [21 Nächte wach](https://open.spotify.com/track/77clSTvlbXYs0ZTvPzmJF3) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [21 Nächte wach](https://open.spotify.com/album/6caZhxBvEwyK4Am6qdSZXx) | 2:42 |
-| 20 | [Heridas](https://open.spotify.com/track/5O7my5b6fnKebvMftWecuS) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Heridas](https://open.spotify.com/album/2c3APE4YSB4M7KCjeniApS) | 2:20 |
-| 21 | [Estoy bien](https://open.spotify.com/track/290htD7mglMzB7IIWPUpLn) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estoy bien](https://open.spotify.com/album/4tv1eEZOeen4PSciKyUEx5) | 2:43 |
-| 22 | [don't let me take my time](https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [don't let me take my time](https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in) | 2:40 |
-| 23 | [level7 \(demo\)](https://open.spotify.com/track/4MANod8oMUPPAm4wokn5AV) | [OSAKA](https://open.spotify.com/artist/5soAIOjDZMDEn1VxZEbVA4) | [level7 \(demo\)](https://open.spotify.com/album/4YNQmLQeAIJT7G2KZ7Pc9Z) | 1:31 |
-| 24 | [Vuela Más Alto](https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Vuela Más Alto](https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY) | 2:39 |
-| 25 | [It's In My Head](https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [It's In My Head](https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO) | 3:01 |
-| 26 | [99](https://open.spotify.com/track/1136nfwNfK1P1f7YkcqWHU) | [blawhitt](https://open.spotify.com/artist/4Z04808YXRo0Y1PlvDXycM) | [99](https://open.spotify.com/album/1dhq356MIu4BQeUvpOpZm6) | 2:05 |
-| 27 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
-| 28 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo) | 3:29 |
-| 29 | [Sapphire](https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY) | [juhvahn](https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ), [Perpetualll](https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB) | [Sapphire](https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug) | 2:34 |
-| 30 | [I Do What He Say I Do](https://open.spotify.com/track/3YwGpoqOSybDTDSEYk6em2) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 5:32 |
-| 31 | [Roseglass](https://open.spotify.com/track/2d1bUoHwDY2cRJVea0zCj2) | [House of Harm](https://open.spotify.com/artist/52LAFBBP0K0Q4ONm8r8OVX) | [Roseglass](https://open.spotify.com/album/5sSbBgb0iJDjknZE06LQLQ) | 4:40 |
-| 32 | [Gallowdance \- Slowed](https://open.spotify.com/track/6wmsU8dzx0vvrzR635WpTM) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Gallowdance \- Slowed](https://open.spotify.com/album/7MfXO0FB6bZVtvM45ausJI) | 1:30 |
-| 33 | [Phantom](https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Shades of Violet](https://open.spotify.com/album/4Q9C7ysyx6CpjhlaJuKVhi) | 3:18 |
+| 20 | [Música d e s a s t r e](https://open.spotify.com/track/6YYhdzZmiuR7TwZKTMyEOY) | [La Bande\-Son Imaginaire](https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7) | [Synthesizer magazine](https://open.spotify.com/album/6gH0bTT7KHvAEs1CzZ1KN9) | 4:10 |
+| 21 | [Heridas](https://open.spotify.com/track/5O7my5b6fnKebvMftWecuS) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Heridas](https://open.spotify.com/album/2c3APE4YSB4M7KCjeniApS) | 2:20 |
+| 22 | [Estoy bien](https://open.spotify.com/track/290htD7mglMzB7IIWPUpLn) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estoy bien](https://open.spotify.com/album/4tv1eEZOeen4PSciKyUEx5) | 2:43 |
+| 23 | [don't let me take my time](https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [don't let me take my time](https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in) | 2:40 |
+| 24 | [level7 \(demo\)](https://open.spotify.com/track/4MANod8oMUPPAm4wokn5AV) | [OSAKA](https://open.spotify.com/artist/5soAIOjDZMDEn1VxZEbVA4) | [level7 \(demo\)](https://open.spotify.com/album/4YNQmLQeAIJT7G2KZ7Pc9Z) | 1:31 |
+| 25 | [Vuela Más Alto](https://open.spotify.com/track/4WnJOzCOoMzVlY7ASHARDT) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Vuela Más Alto](https://open.spotify.com/album/1sORGxMepZpWMzZyc8iPpY) | 2:39 |
+| 26 | [It's In My Head](https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [It's In My Head](https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO) | 3:01 |
+| 27 | [99](https://open.spotify.com/track/1136nfwNfK1P1f7YkcqWHU) | [blawhitt](https://open.spotify.com/artist/4Z04808YXRo0Y1PlvDXycM) | [99](https://open.spotify.com/album/1dhq356MIu4BQeUvpOpZm6) | 2:05 |
+| 28 | [i walk this earth all by myself](https://open.spotify.com/track/6oofvZ4K8vBHnCT1oKERcd) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:25 |
+| 29 | [Disorder \- 2007 Remaster](https://open.spotify.com/track/38wCbVfMreML5ZhF5iQuKA) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo) | 3:29 |
+| 30 | [Sapphire](https://open.spotify.com/track/1zjM0yzhtbRRwj5rD897fY) | [juhvahn](https://open.spotify.com/artist/4IfApBEW6RQ9uogE7cuZnJ), [Perpetualll](https://open.spotify.com/artist/18vd25otIXXeNS0BHiCHRB) | [Sapphire](https://open.spotify.com/album/1hJGyISdlrBHHv0YBSe1Ug) | 2:34 |
+| 31 | [I Do What He Say I Do](https://open.spotify.com/track/3YwGpoqOSybDTDSEYk6em2) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 5:32 |
+| 32 | [Roseglass](https://open.spotify.com/track/2d1bUoHwDY2cRJVea0zCj2) | [House of Harm](https://open.spotify.com/artist/52LAFBBP0K0Q4ONm8r8OVX) | [Roseglass](https://open.spotify.com/album/5sSbBgb0iJDjknZE06LQLQ) | 4:40 |
+| 33 | [Gallowdance \- Slowed](https://open.spotify.com/track/6wmsU8dzx0vvrzR635WpTM) | [fam0uz](https://open.spotify.com/artist/5L9XA5GDsOOKNZfeOO8lmo) | [Gallowdance \- Slowed](https://open.spotify.com/album/7MfXO0FB6bZVtvM45ausJI) | 1:30 |
 | 34 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 35 | [Suffocation \- Slowed](https://open.spotify.com/track/15uq77MdhAjrnBuumngIsz) | [noturgf](https://open.spotify.com/artist/32ENZVmItiETXMCYfM1bbS) | [Suffocation \(Slowed\)](https://open.spotify.com/album/7wblFnt47oJLJXxNJrIb3e) | 1:04 |
 | 36 | [MOTHS](https://open.spotify.com/track/2dT5M4bdibcfjLiqfzawi1) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/6YhEVN0VrEINMMLZlkiOv1) | 1:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 99 | [I Wish I Was You \- Twin Tribes Remix](https://open.spotify.com/track/62ZO1zdoApFON2JrBNi0Js) | [Creux Lies](https://open.spotify.com/artist/4njFqWD04BTvOrYBXuzv6i), [Twin Tribes](https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl) | [I Wish I Was You \(Twin Tribes Remix\)](https://open.spotify.com/album/0MBCszjF6PH5hbB3pnl7Vm) | 3:59 |
 | 100 | [A Forest](https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8) | 5:54 |
 
-Snapshot ID: `ZuPVHAAAAAB6h1ES/OMXCN3c+gdsr1mW`
+Snapshot ID: `Zxsz4AAAAADebP0cqCUdN4MW6oHcXq5F`

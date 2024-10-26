@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-281 songs - 17 hr 41 min
+283 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Alone Again](https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Alone Again](https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq) | 3:48 | 2021-08-20 | 2023-01-04 |
 | [American Sun](https://open.spotify.com/track/3D19d5EYdkY71Y4eZiTZWR) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [American Sun](https://open.spotify.com/album/0CCifzFS5hhc0DS5kZKcPr) | 3:38 | 2021-08-20 |  |
 | [ANGEL SONG \(feat\. David Draiman\)](https://open.spotify.com/track/10J9wmpH6Wktr7n1RTl4Qt) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 3:06 | 2024-09-17 |  |
+| [ANGEL SONG \(feat\. David Draiman\) \- JD Remix](https://open.spotify.com/track/277CoCMi131Y6rSzYHedmc) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1), [Justin Deblieck](https://open.spotify.com/artist/2CmMsTebsSkh2VGIB4XpSz) | [ANGEL SONG EP](https://open.spotify.com/album/7AqZSGdWNVVB4plnu1dsxH) | 3:46 | 2024-10-25 |  |
 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 | 2022-01-24 |  |
 | [Anti\-Everything](https://open.spotify.com/track/2JKNnH7OFhyPNLF90PoEDB) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Mis\-An\-Thrope](https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1) | 3:14 | 2022-01-24 |  |
 | [Armageddon](https://open.spotify.com/track/2vGdoV7Cp8HcLTtFVaXkOw) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Armageddon](https://open.spotify.com/album/2upzE8LFUkusltO5v5SeTV) | 3:33 | 2023-05-19 |  |
@@ -196,6 +197,7 @@
 | [Pull Harder on the Strings of Your Martyr](https://open.spotify.com/track/0UXaslpoA81no74N7U56U9) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 4:51 | 2023-05-17 |  |
 | [Pure Evil](https://open.spotify.com/track/51QDLswsqMjczerR1uROzk) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [Isolation](https://open.spotify.com/album/31lb2wh2yhT8I8DHdBKS7r) | 4:11 | 2022-07-25 | 2023-01-04 |
 | [Redneck](https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 3:40 | 2022-01-24 | 2023-01-04 |
+| [Rest In Pieces](https://open.spotify.com/track/5r0b7F3MGee7IMeJxP1TKP) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Rest In Pieces](https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq) | 2:56 | 2024-10-25 |  |
 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 | 2021-08-20 |  |
 | [Roadkill](https://open.spotify.com/track/28QEJ42cRjtEr5x9Pa2KxU) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Special Effects](https://open.spotify.com/album/63uxYglJtSneGlHf5MKWfl) | 2:56 | 2022-07-25 | 2023-01-04 |
 | [Roses](https://open.spotify.com/track/3q3faMChxzP9nSgVt7TUs8) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk) | [Roses](https://open.spotify.com/album/1lc7xhA7TwSwxO7TLoJqRP) | 3:21 | 2023-05-19 |  |

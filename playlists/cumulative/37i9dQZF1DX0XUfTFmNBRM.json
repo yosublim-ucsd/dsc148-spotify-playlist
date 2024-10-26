@@ -3273,6 +3273,32 @@
     },
     {
       "album": {
+        "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
+        "url": "https://open.spotify.com/album/02dVq1hK3asFuUjL0ulsGu"
+      },
+      "artists": [
+        {
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        },
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212108,
+      "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
+      "url": "https://open.spotify.com/track/1PALLCSlHwAI4upY3sMg8u"
+    },
+    {
+      "album": {
         "name": "Jaanam (From \"Bad Newz\")",
         "url": "https://open.spotify.com/album/75lhBPvfb1RqeiuRZ6hOHN"
       },
@@ -5787,6 +5813,24 @@
     },
     {
       "album": {
+        "name": "Out of Control",
+        "url": "https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "O Beliya",
+      "url": "https://open.spotify.com/track/2mdwuBtT1alepau9g6GwnC"
+    },
+    {
+      "album": {
         "name": "O Maahi (From \"Dunki\")",
         "url": "https://open.spotify.com/album/011VDmbOf50dqxmLnkdsoC"
       },
@@ -8258,7 +8302,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 258148,
       "name": "Tu Kya Jaane",
       "url": "https://open.spotify.com/track/1pbj0csFgmhGh7AuSMsOCZ"
@@ -8406,7 +8450,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 277500,
       "name": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/06LCamFUOtImIKi9mFRKiD"

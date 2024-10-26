@@ -1,12 +1,12 @@
 {
-  "description": "Sonidos latinos para relajarse a cualquier hora del d\u00eda. Foto: Be\u00e9le",
-  "num_followers": 170198,
+  "description": "Sonidos latinos para relajarse a cualquier hora del d\u00eda. Foto: Criss & Ronny y Kapo",
+  "num_followers": 170296,
   "original_name": "Vibra Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxKNrAAAAADPLgWb020WhMZeON3N/1Cr",
+  "snapshot_id": "ZxsLMAAAAABNiTZIEGF3fEcp0r4z/4ZB",
   "tracks": [
     {
       "added_at": "2024-08-23 21:45:59",
@@ -23,6 +23,30 @@
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "added_at": "2024-10-25 03:06:24",
+      "album": {
+        "name": "LA MORAL",
+        "url": "https://open.spotify.com/album/2I4d4LqdDeCse8ZYiWHBGC"
+      },
+      "artists": [
+        {
+          "name": "Criss & Ronny",
+          "url": "https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "La Colectiva \u00c9lite",
+          "url": "https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "EL STICKER",
+      "url": "https://open.spotify.com/track/51fjeEQR84knHbPr7aLZNA"
     },
     {
       "added_at": "2024-10-18 00:16:28",
@@ -211,22 +235,6 @@
       "duration_ms": 309280,
       "name": "Passoa",
       "url": "https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0"
-    },
-    {
-      "added_at": "2024-09-27 01:28:49",
-      "album": {
-        "name": "QUE NO SE ASUSTEN",
-        "url": "https://open.spotify.com/album/0RxredQ3vRckANRSDGgE61"
-      },
-      "artists": [
-        {
-          "name": "Jhay P",
-          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
-        }
-      ],
-      "duration_ms": 169200,
-      "name": "ESA SE\u00d1ORA",
-      "url": "https://open.spotify.com/track/6TakRkJbqdcSWXNOS05QAq"
     },
     {
       "added_at": "2024-08-23 21:45:59",

@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 159683,
+  "num_followers": 159727,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -627,26 +627,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs"
-      },
-      "artists": [
-        {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        }
-      ],
-      "duration_ms": 184457,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Did I Forget Something?",
         "url": "https://open.spotify.com/album/2WKt0r7oaf63dDG7t8aAMu"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 191724,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs"
+      },
+      "artists": [
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        }
+      ],
+      "duration_ms": 184457,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1095,6 +1095,30 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
+        "name": "We No Care",
+        "url": "https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9"
+      },
+      "artists": [
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG"
+        },
+        {
+          "name": "Sola",
+          "url": "https://open.spotify.com/artist/48Ndw6JlG5UMDTwuvCqr0u"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "We No Care",
+      "url": "https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
         "name": "Polygon (Circadian Remix)",
         "url": "https://open.spotify.com/album/3vDKBvfbL1AXuFt3utoNjm"
       },
@@ -1119,26 +1143,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "We No Care",
-        "url": "https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9"
+        "name": "Dubplate SZN",
+        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
       },
       "artists": [
         {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG"
+          "name": "Lens",
+          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
         },
         {
-          "name": "Sola",
-          "url": "https://open.spotify.com/artist/48Ndw6JlG5UMDTwuvCqr0u"
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
         },
         {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
         }
       ],
-      "duration_ms": 249600,
-      "name": "We No Care",
-      "url": "https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF"
+      "duration_ms": 190344,
+      "name": "Dubplate SZN",
+      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1203,22 +1227,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Destiny Part II",
-        "url": "https://open.spotify.com/album/42KPhKTX0egGiml5nk0AJU"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Destiny Part II",
-      "url": "https://open.spotify.com/track/4WPl1vqx0GIEKY62i517Xh"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Cuppa Tea",
         "url": "https://open.spotify.com/album/7iD9PHXnNZ6QBug89ipPqU"
       },
@@ -1235,26 +1243,18 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Dubplate SZN",
-        "url": "https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2"
+        "name": "Destiny Part II",
+        "url": "https://open.spotify.com/album/42KPhKTX0egGiml5nk0AJU"
       },
       "artists": [
         {
-          "name": "Lens",
-          "url": "https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz"
-        },
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Jman",
-          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
         }
       ],
-      "duration_ms": 190344,
-      "name": "Dubplate SZN",
-      "url": "https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2"
+      "duration_ms": 226285,
+      "name": "Destiny Part II",
+      "url": "https://open.spotify.com/track/4WPl1vqx0GIEKY62i517Xh"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "Serum's Gaff: Part 2",
-        "url": "https://open.spotify.com/album/1Fhe8fyScfP8NMkxoTkX0a"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Manic Miner",
-      "url": "https://open.spotify.com/track/1BInUSYRSism3j1mZfTpvT"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Rudeboy",
         "url": "https://open.spotify.com/album/3v0fWFBlLysKoEOk7Kuhqr"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 174171,
       "name": "Rudeboy",
       "url": "https://open.spotify.com/track/0XT8UILzCWoXZMvfmo8iNw"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "Serum's Gaff: Part 2",
+        "url": "https://open.spotify.com/album/1Fhe8fyScfP8NMkxoTkX0a"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Manic Miner",
+      "url": "https://open.spotify.com/track/1BInUSYRSism3j1mZfTpvT"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "So Different",
-        "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
-      },
-      "artists": [
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        },
-        {
-          "name": "TOYZZ",
-          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "So Different",
-      "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
-    },
-    {
-      "added_at": "2024-10-24 23:00:00",
-      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/4whr45Olu7a2aO7GLEVWWP"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 185142,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/3UGNkp6UluxzrztoMu9q1C"
+    },
+    {
+      "added_at": "2024-10-24 23:00:00",
+      "album": {
+        "name": "So Different",
+        "url": "https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        },
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "So Different",
+      "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
     },
     {
       "added_at": "2024-10-24 23:00:00",
@@ -1563,22 +1563,26 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "SMASH",
-        "url": "https://open.spotify.com/album/4LGXuGSQlQOiNZ7Cz0pyoM"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/46pWepYfmFsjoZIOQMz1GD"
       },
       "artists": [
         {
-          "name": "Nika D",
-          "url": "https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG"
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
         },
         {
-          "name": "Savant",
-          "url": "https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8"
+          "name": "Tempza",
+          "url": "https://open.spotify.com/artist/4L3I92jE3sohrZafi1UNdC"
+        },
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
         }
       ],
-      "duration_ms": 234731,
-      "name": "SMASH",
-      "url": "https://open.spotify.com/track/6EaQGkgNcYrcjEGUfnAWL9"
+      "duration_ms": 167068,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW"
     }
   ],
   "unique_name": "Proper Naughty ",

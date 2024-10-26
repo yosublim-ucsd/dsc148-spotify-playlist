@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Wretch 32
 
-1,965 songs - 4 day 2 hr 44 min
+1,966 songs - 4 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1758,6 +1758,7 @@
 | [Thug Affection](https://open.spotify.com/track/5f6t2fFJqHeFvrA5eIiGEj) | [ShaSimone](https://open.spotify.com/artist/0R9Z8Eu8CF5KN4zLJSRFJw) | [Thug Affection](https://open.spotify.com/album/15hdZlgPNQ8q6JvdmlMbtM) | 3:23 | 2022-07-29 | 2023-03-09 |
 | [Thug With Me \(feat\. Mozzy\)](https://open.spotify.com/track/6FwxOkqxFE4jfdlhwZHQee) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Thug With Me \(feat\. Mozzy\)](https://open.spotify.com/album/07RvxP2fujZX30ogCsHPel) | 2:53 | 2024-02-23 | 2024-04-19 |
 | [Thuggish Ruggish](https://open.spotify.com/track/5XocEmft2tBiwjjvd9cccc) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [The Familiar Stranger](https://open.spotify.com/album/31r2AedXvvd13nNpVRfcC6) | 3:56 | 2020-10-16 | 2020-11-13 |
+| [Tijuana](https://open.spotify.com/track/5Jxp8PEjJ46pD2tUitmbqn) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Tijuana](https://open.spotify.com/album/4X7ju5samDdZ3uzMTOZWbB) | 3:04 | 2024-10-25 |  |
 | [Time](https://open.spotify.com/track/21b8gyn3RP0bHWtiylT4oj) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Time](https://open.spotify.com/album/6glVQprJySU1PtEh1XERab) | 3:12 | 2022-10-27 | 2022-12-10 |
 | [Time](https://open.spotify.com/track/5r4AZGGgbEDWefGkbVlPSA) | [JLS](https://open.spotify.com/artist/243YAVpKIE6F0sdWAT3Ll2) | [Time](https://open.spotify.com/album/3DgvgxsP6nP008ujkkYyZ8) | 3:30 | 2021-02-22 | 2021-03-26 |
 | [Time](https://open.spotify.com/track/7EhxwkOsIY4IIIU6D920Np) | [Zeph](https://open.spotify.com/artist/5yjP3l4wzZ2vYrMqA0Odj6) | [Time](https://open.spotify.com/album/7wIYHr2LYcfj5WvIOh64aK) | 2:22 | 2020-11-03 | 2020-11-28 |

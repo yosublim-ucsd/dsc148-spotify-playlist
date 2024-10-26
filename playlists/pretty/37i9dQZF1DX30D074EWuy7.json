@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 30768,
+  "num_followers": 30784,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Contenta tu",
-        "url": "https://open.spotify.com/album/64ZwWE2DOvHUq58xUY5iCv"
-      },
-      "artists": [
-        {
-          "name": "Marco Castello",
-          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
-        }
-      ],
-      "duration_ms": 275093,
-      "name": "Av\u00f2",
-      "url": "https://open.spotify.com/track/1u2dWJ4qiZfdE88ZJ29DAD"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 156838,
       "name": "Samo",
       "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Contenta tu",
+        "url": "https://open.spotify.com/album/64ZwWE2DOvHUq58xUY5iCv"
+      },
+      "artists": [
+        {
+          "name": "Marco Castello",
+          "url": "https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm"
+        }
+      ],
+      "duration_ms": 275093,
+      "name": "Av\u00f2",
+      "url": "https://open.spotify.com/track/1u2dWJ4qiZfdE88ZJ29DAD"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "Petali",
+        "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
+      },
+      "artists": [
+        {
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+        }
+      ],
+      "duration_ms": 217872,
+      "name": "Lei balla sola",
+      "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "IMMA TATARANNI Sostituto Procuratore, Seconda Stagione (Colonna sonora originale della Serie TV)",
         "url": "https://open.spotify.com/album/73FP2aV57Q08P4HlV2QdYN"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 177124,
       "name": "Perdiamoci",
       "url": "https://open.spotify.com/track/6Gl9tNQtgzQwAcFg17KcqA"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "Petali",
-        "url": "https://open.spotify.com/album/518L57Dsoghg11ivCZHLRp"
-      },
-      "artists": [
-        {
-          "name": "Simona Molinari",
-          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
-        }
-      ],
-      "duration_ms": 217872,
-      "name": "Lei balla sola",
-      "url": "https://open.spotify.com/track/36KtplF9itOd0tFVN1HYuf"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Quando le canzoni finiscono",
-        "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
-      },
-      "artists": [
-        {
-          "name": "Carlo Corallo",
-          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
-        },
-        {
-          "name": "Funk Shui Project",
-          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
-        }
-      ],
-      "duration_ms": 238043,
-      "name": "Un giardino",
-      "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Milestones - Un Incontro In Jazz",
         "url": "https://open.spotify.com/album/7CvHJLd6qmyVhoIRnwlbNQ"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 438346,
       "name": "Senza Fine",
       "url": "https://open.spotify.com/track/1vp31dl868PovF1oReS716"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Quando le canzoni finiscono",
+        "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
+      },
+      "artists": [
+        {
+          "name": "Carlo Corallo",
+          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
+        },
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        }
+      ],
+      "duration_ms": 238043,
+      "name": "Un giardino",
+      "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Ora beat!",
-        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
-      },
-      "artists": [
-        {
-          "name": "Stefano Torossi",
-          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
-        }
-      ],
-      "duration_ms": 125572,
-      "name": "Bighellonando",
-      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Opera prima (Including Ice One Remix)",
         "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 254494,
       "name": "Oltremare",
       "url": "https://open.spotify.com/track/7tTicfv9pQrdK2SGy644Kb"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Ora beat!",
+        "url": "https://open.spotify.com/album/3tkErn9EJIiHVtDJ2xOWbj"
+      },
+      "artists": [
+        {
+          "name": "Stefano Torossi",
+          "url": "https://open.spotify.com/artist/0gQMsmHT9YZJYIQxM1yJmM"
+        }
+      ],
+      "duration_ms": 125572,
+      "name": "Bighellonando",
+      "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Cucoma Combo",
-        "url": "https://open.spotify.com/album/1XI0hx81wGuRxJIXGBJJub"
-      },
-      "artists": [
-        {
-          "name": "Cucoma Combo",
-          "url": "https://open.spotify.com/artist/3jPDOej0c2cX9ghGS2d9Oc"
-        }
-      ],
-      "duration_ms": 250625,
-      "name": "Aguacate",
-      "url": "https://open.spotify.com/track/7EX4fqPGqMSuT5NR9SqQvy"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Sfiorire",
         "url": "https://open.spotify.com/album/66nuFnF4fEJ1Vl5y34yltA"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 236881,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "Cucoma Combo",
+        "url": "https://open.spotify.com/album/1XI0hx81wGuRxJIXGBJJub"
+      },
+      "artists": [
+        {
+          "name": "Cucoma Combo",
+          "url": "https://open.spotify.com/artist/3jPDOej0c2cX9ghGS2d9Oc"
+        }
+      ],
+      "duration_ms": 250625,
+      "name": "Aguacate",
+      "url": "https://open.spotify.com/track/7EX4fqPGqMSuT5NR9SqQvy"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "NON-BACKGROUND MUSIC",
+        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
+      },
+      "artists": [
+        {
+          "name": "72-HOUR POST FIGHT",
+          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
+        }
+      ],
+      "duration_ms": 280537,
+      "name": "CANDLEFACE THEME",
+      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "Senza Fine",
         "url": "https://open.spotify.com/album/2trPbGJmjDnMWH0QICdpq3"
       },
@@ -1543,6 +1559,30 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "Racconti mediterranei",
+        "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Marc Johnson",
+          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
+        },
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+        }
+      ],
+      "duration_ms": 454173,
+      "name": "Canzone di Nausicaa",
+      "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "Over and again",
         "url": "https://open.spotify.com/album/09hQ2xW97PIaEotvrgGfCH"
       },
@@ -1571,46 +1611,6 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Racconti mediterranei",
-        "url": "https://open.spotify.com/album/4GWgCiFuTFmnoPgjMkiuO2"
-      },
-      "artists": [
-        {
-          "name": "Enrico Pieranunzi",
-          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
-        },
-        {
-          "name": "Marc Johnson",
-          "url": "https://open.spotify.com/artist/3AT9157jK9F2gMSViMdRUH"
-        },
-        {
-          "name": "Gabriele Mirabassi",
-          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
-        }
-      ],
-      "duration_ms": 454173,
-      "name": "Canzone di Nausicaa",
-      "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "NON-BACKGROUND MUSIC",
-        "url": "https://open.spotify.com/album/05gsbxcGDXKKUEX2oAuahF"
-      },
-      "artists": [
-        {
-          "name": "72-HOUR POST FIGHT",
-          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
-        }
-      ],
-      "duration_ms": 280537,
-      "name": "CANDLEFACE THEME",
-      "url": "https://open.spotify.com/track/41YcKoZizBFkK5ATTkLewm"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
         "name": "Something In Our Way",
         "url": "https://open.spotify.com/album/3gFETZs7VBLDGCIakDFE7x"
       },
@@ -1623,46 +1623,6 @@
       "duration_ms": 336666,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/5ULXaeY21pBRmXlRUshUHX"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "Norma (Arr. for Jazz Orchestra)",
-        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
-      },
-      "artists": [
-        {
-          "name": "Orchestra Jazz del Mediterraneo",
-          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Paolo Silvestri",
-          "url": "https://open.spotify.com/artist/211mBSaPYcZCx1F9sfDsVr"
-        }
-      ],
-      "duration_ms": 584075,
-      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
-      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
-    },
-    {
-      "added_at": "2024-10-11 14:32:01",
-      "album": {
-        "name": "The Tales Of Doctor 3",
-        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
-      },
-      "artists": [
-        {
-          "name": "Doctor 3",
-          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
-        }
-      ],
-      "duration_ms": 422573,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1695,6 +1655,30 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
+        "name": "Norma (Arr. for Jazz Orchestra)",
+        "url": "https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl"
+      },
+      "artists": [
+        {
+          "name": "Orchestra Jazz del Mediterraneo",
+          "url": "https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Paolo Silvestri",
+          "url": "https://open.spotify.com/artist/211mBSaPYcZCx1F9sfDsVr"
+        }
+      ],
+      "duration_ms": 584075,
+      "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
+      "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
         "name": "Julia de Palma In Concert",
         "url": "https://open.spotify.com/album/3Jwv7FkYyegDB5Pl6V8pQL"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 283977,
       "name": "Bugiardo, incosciente",
       "url": "https://open.spotify.com/track/3DXgG3Nncn1x9qrpZHZl0V"
+    },
+    {
+      "added_at": "2024-10-11 14:32:01",
+      "album": {
+        "name": "The Tales Of Doctor 3",
+        "url": "https://open.spotify.com/album/4pZ8j1ZhDspPrC6LPDc7zI"
+      },
+      "artists": [
+        {
+          "name": "Doctor 3",
+          "url": "https://open.spotify.com/artist/65Ajl7IOuvOWs7CPUADD4Y"
+        }
+      ],
+      "duration_ms": 422573,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/3WtoXFfPhUpfz0CyG9FuZ3"
     },
     {
       "added_at": "2024-10-11 14:32:01",
@@ -1959,22 +1959,18 @@
     {
       "added_at": "2024-10-11 14:32:01",
       "album": {
-        "name": "Nauplia",
-        "url": "https://open.spotify.com/album/0kOi2BR2cvfhtqBi7e7CqR"
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
       },
       "artists": [
         {
-          "name": "Maria Pia De Vito",
-          "url": "https://open.spotify.com/artist/2WdJBOMuv70FribaCLT5vE"
-        },
-        {
-          "name": "Rita Marcotulli",
-          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
         }
       ],
-      "duration_ms": 248240,
-      "name": "Come un ritratto",
-      "url": "https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts"
+      "duration_ms": 289634,
+      "name": "Transe Napolitaine",
+      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
     }
   ],
   "unique_name": "Jazz Italia",

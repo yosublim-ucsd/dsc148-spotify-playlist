@@ -6,8 +6,24 @@
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAApcSfcnnOsaHuDzcp6xVwfdCmMnhKm",
+  "snapshot_id": "AAAphFF7bTfsXWZxXAF8hewdxskBXeTM",
   "tracks": [
+    {
+      "added_at": "2024-10-26 00:01:12",
+      "album": {
+        "name": "Hair Weave Killa",
+        "url": "https://open.spotify.com/album/2zw6aqTPBFOcXDck69cEqM"
+      },
+      "artists": [
+        {
+          "name": "LoverBoy Vo",
+          "url": "https://open.spotify.com/artist/76ofV12XwAo2FztJOVbA5u"
+        }
+      ],
+      "duration_ms": 168095,
+      "name": "Hair Weave Killa",
+      "url": "https://open.spotify.com/track/4ySAJpxHElx1PBU49XeDW4"
+    },
     {
       "added_at": "2024-08-12 20:19:27",
       "album": {
@@ -103,6 +119,22 @@
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+    },
+    {
+      "added_at": "2024-10-26 00:00:55",
+      "album": {
+        "name": "Unanswered",
+        "url": "https://open.spotify.com/album/0FEOKPXmxgofum02BTxGWy"
+      },
+      "artists": [
+        {
+          "name": "Maggie Reitan",
+          "url": "https://open.spotify.com/artist/53DXlWD6ae0k30EAV6t5rk"
+        }
+      ],
+      "duration_ms": 219554,
+      "name": "Unanswered",
+      "url": "https://open.spotify.com/track/0tfqaujsjUExihc2saPJfJ"
     },
     {
       "added_at": "2024-08-12 20:22:20",
@@ -1485,6 +1517,26 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
+      "added_at": "2024-10-25 18:01:55",
+      "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/66nE1s7izyxBfOcjLDNe3G"
+      },
+      "artists": [
+        {
+          "name": "NoahUI",
+          "url": "https://open.spotify.com/artist/4NYJ4kUX3shxZyNoRPghZw"
+        },
+        {
+          "name": "Liliia Kysil",
+          "url": "https://open.spotify.com/artist/1nsnffy3kSwQAoNeHSlAY3"
+        }
+      ],
+      "duration_ms": 238229,
+      "name": "World Alarm",
+      "url": "https://open.spotify.com/track/7ctOPfT8jyxbtKSwQbvjFI"
+    },
+    {
       "added_at": "2024-10-18 15:25:31",
       "album": {
         "name": "Spells Me Under",
@@ -1499,6 +1551,42 @@
       "duration_ms": 286000,
       "name": "Spells Me Under",
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
+    },
+    {
+      "added_at": "2024-10-25 12:58:19",
+      "album": {
+        "name": "miss my flight",
+        "url": "https://open.spotify.com/album/5NAi7nNYLEx4KuGCs7ctUt"
+      },
+      "artists": [
+        {
+          "name": "Yana Rose",
+          "url": "https://open.spotify.com/artist/5pC28dnohJ0RhlvlZkYJQ5"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "miss my flight",
+      "url": "https://open.spotify.com/track/5nE25XQ9GiS0JxhoSBkZ8q"
+    },
+    {
+      "added_at": "2024-10-25 12:50:41",
+      "album": {
+        "name": "Bluffin'",
+        "url": "https://open.spotify.com/album/71s5ZI8chP2OlzuJNwUbLe"
+      },
+      "artists": [
+        {
+          "name": "Yarni",
+          "url": "https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr"
+        },
+        {
+          "name": "Amber Temple",
+          "url": "https://open.spotify.com/artist/1xbYMG7HkDWXC8xtx1y7QJ"
+        }
+      ],
+      "duration_ms": 188806,
+      "name": "Bluffin'",
+      "url": "https://open.spotify.com/track/1iDJYkQow3VIQ8RkbA0pKm"
     },
     {
       "added_at": "2024-10-22 14:58:01",
@@ -1551,6 +1639,22 @@
       "duration_ms": 240000,
       "name": "Golden Day",
       "url": "https://open.spotify.com/track/6Y6P1CK1E6awpyT3TeyQaD"
+    },
+    {
+      "added_at": "2024-10-25 12:48:01",
+      "album": {
+        "name": "Summerset, Vol. 2",
+        "url": "https://open.spotify.com/album/58lz7FZHQmif63Pd5s7mg7"
+      },
+      "artists": [
+        {
+          "name": "J. Paris",
+          "url": "https://open.spotify.com/artist/1J6V86xKTSp4vPkNuR0Asx"
+        }
+      ],
+      "duration_ms": 204210,
+      "name": "once again",
+      "url": "https://open.spotify.com/track/7zSbSZnW57BZWeSpuwezdn"
     },
     {
       "added_at": "2024-10-11 12:40:26",
@@ -1623,6 +1727,70 @@
       "duration_ms": 140124,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/4xVDmOcIJL1I8A70eULgvG"
+    },
+    {
+      "added_at": "2024-10-25 06:01:56",
+      "album": {
+        "name": "Reels",
+        "url": "https://open.spotify.com/album/3vovQzDQIUPNDb2NU3h0Rb"
+      },
+      "artists": [
+        {
+          "name": "Mountains Majesty",
+          "url": "https://open.spotify.com/artist/57oyMIJkmAfl41JTnIls2o"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "Reels",
+      "url": "https://open.spotify.com/track/6G9Htf4OGVTcls9zJfboKr"
+    },
+    {
+      "added_at": "2024-10-25 06:01:35",
+      "album": {
+        "name": "HTGR (Hit The Ground Running)",
+        "url": "https://open.spotify.com/album/7LIBd9VeTxmyce4zGQlI3b"
+      },
+      "artists": [
+        {
+          "name": "Lyric Rachae",
+          "url": "https://open.spotify.com/artist/3kbq8FjJHteOwz94bqWnyh"
+        }
+      ],
+      "duration_ms": 141911,
+      "name": "HTGR (Hit The Ground Running)",
+      "url": "https://open.spotify.com/track/4MVYESoxrOl4Q5PzfoSohq"
+    },
+    {
+      "added_at": "2024-10-25 06:01:51",
+      "album": {
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/6yHgdmrJ0ebFFeOzqOI6p0"
+      },
+      "artists": [
+        {
+          "name": "Ryan McCormick",
+          "url": "https://open.spotify.com/artist/4lE2IuobiiBcdtX15YrEhH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sonic Boom",
+      "url": "https://open.spotify.com/track/6FY8QIgWzVEVB5YL2lk2lz"
+    },
+    {
+      "added_at": "2024-10-25 06:01:42",
+      "album": {
+        "name": "Janeliasoul",
+        "url": "https://open.spotify.com/album/3EkkIF6qGePwxukQwkkTnS"
+      },
+      "artists": [
+        {
+          "name": "JaneliaSoul",
+          "url": "https://open.spotify.com/artist/7acLtX4zNSLHWoFjWsKaBY"
+        }
+      ],
+      "duration_ms": 172068,
+      "name": "Ibadan",
+      "url": "https://open.spotify.com/track/53s2f89yvUvo3j8tDYEq9e"
     },
     {
       "added_at": "2024-10-24 18:10:50",
@@ -2211,38 +2379,6 @@
       "duration_ms": 197000,
       "name": "Tied To You",
       "url": "https://open.spotify.com/track/1ADA4esDt0WOq5cpOHRT8a"
-    },
-    {
-      "added_at": "2024-10-14 23:32:53",
-      "album": {
-        "name": "Hold Tight",
-        "url": "https://open.spotify.com/album/0YeN1Ug8pkXggdCg0ITvsD"
-      },
-      "artists": [
-        {
-          "name": "Bronx Soul Collective",
-          "url": "https://open.spotify.com/artist/780eu4RGJcEvncrGnujoiW"
-        }
-      ],
-      "duration_ms": 196439,
-      "name": "Hold Tight",
-      "url": "https://open.spotify.com/track/4q7Vak7esNrzPQeDGT42qE"
-    },
-    {
-      "added_at": "2024-10-14 23:32:32",
-      "album": {
-        "name": "Hood Boy Blues",
-        "url": "https://open.spotify.com/album/0SvHUIWaTmwacy2EsyAznf"
-      },
-      "artists": [
-        {
-          "name": "Xero Music",
-          "url": "https://open.spotify.com/artist/4XWdJYXmR4TY2gwnapByZd"
-        }
-      ],
-      "duration_ms": 202736,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/4hVwfXGthJSmD5XOUHAUMF"
     },
     {
       "added_at": "2024-10-15 23:17:06",

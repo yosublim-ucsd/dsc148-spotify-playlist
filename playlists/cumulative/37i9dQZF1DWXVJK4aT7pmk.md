@@ -2,9 +2,9 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover \- Yo Yo Honey Singh
+> Catch the hottest Punjabi tracks\. Cover \- Gurnazar
 
-120 songs - 6 hr 12 min
+121 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [One Love](https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [One Love](https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ) | 2:39 | 2024-01-04 |  |
 | [Peaches \(feat\. Anne\-Marie\)](https://open.spotify.com/track/6oEAcSY98NPIgD9UumQwIg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Peaches \(feat\. Anne\-Marie\)](https://open.spotify.com/album/0xHc4bohhqKvRNGwwzsAr9) | 3:09 | 2024-01-04 | 2024-01-25 |
 | [Rhyme Ain’t Done](https://open.spotify.com/track/49aQ9RbGCOEu8oxkYr8Ous) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:01 | 2024-08-23 |  |
-| [Rubicon](https://open.spotify.com/track/3xsUWTwx4m4cYgpueIPOWi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Rubicon](https://open.spotify.com/album/78eM6G2sL4H255Zq1UslaJ) | 4:11 | 2024-01-04 |  |
+| [Rubicon](https://open.spotify.com/track/3xsUWTwx4m4cYgpueIPOWi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Rubicon](https://open.spotify.com/album/78eM6G2sL4H255Zq1UslaJ) | 4:11 | 2024-01-04 | 2024-10-26 |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2024-01-04 |  |
 | [Salute](https://open.spotify.com/track/0w2wUGseVPOTjYVp3ZbBlf) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Salute](https://open.spotify.com/album/1QXDxsneMDb6sD2995j8FM) | 3:23 | 2024-01-04 | 2024-02-20 |
 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 | 2024-01-04 |  |
@@ -113,6 +113,7 @@
 | [Take It Easy](https://open.spotify.com/track/5si4xdFplkXAydKfFe1xXa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Four You](https://open.spotify.com/album/5IVcvfVOLEPMJ4PKqPaq2w) | 3:30 | 2024-01-04 | 2024-09-21 |
 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 | 2024-01-04 |  |
 | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Tauba Tauba \(From "Bad Newz"\)](https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY) | 3:27 | 2024-07-19 |  |
+| [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 | 2024-10-25 |  |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2024-01-04 |  |
 | [Todh](https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Todh](https://open.spotify.com/album/1Bizgnf47ZtwxKiQtTDMrx) | 3:56 | 2024-01-04 |  |
 | [Top Class / Overseas](https://open.spotify.com/track/4BDOA9pV0yLClbR3v37ekI) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 4:48 | 2024-02-19 | 2024-04-13 |

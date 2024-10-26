@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 54883,
+  "num_followers": 54891,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAADa8v/hlHLM7lsvt8dlmX/a",
+  "snapshot_id": "ZxmOAAAAAADzS79XOYqzN5L8ucWzyVok",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
-      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This is Acoustic (Live Session / Acoustic Version)",
         "url": "https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84"
       },
@@ -399,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
       },
       "artists": [
         {
@@ -408,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 193520,
-      "name": "Half-Life",
-      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
+      "duration_ms": 181266,
+      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
     },
     {
       "added_at": null,
@@ -431,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 350920,
+      "name": "Follow the Sound of My Voice",
+      "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/6FxKKFxevg8HASgFpIOj8E"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 207373,
       "name": "Torches",
       "url": "https://open.spotify.com/track/1p9mCPuPV9FGa0jnJYk0IA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5txx1olGftHbwwArf49YPX"
     },
     {
       "added_at": null,
@@ -472,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 350920,
-      "name": "Follow the Sound of My Voice",
-      "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
+      "duration_ms": 193520,
+      "name": "Half-Life",
+      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 287893,
       "name": "Bad Husband (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5txx1olGftHbwwArf49YPX"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Friend For Life (with Medium Build)",
         "url": "https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n"
       },
@@ -567,18 +583,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
       },
       "artists": [
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Rowan Drake",
+          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
+        },
+        {
+          "name": "SAINT KID",
+          "url": "https://open.spotify.com/artist/6wNRpXdQs13mKyXxyVFvxP"
         }
       ],
-      "duration_ms": 197040,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
+      "duration_ms": 138533,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/0QBR1dAYhg9dugYCiUWpeR"
     },
     {
       "added_at": null,
@@ -639,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "Sunoco",
+      "url": "https://open.spotify.com/track/05zzpRAJpM1gY21d49AEZC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Oxygen",
         "url": "https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0"
       },
@@ -651,30 +691,6 @@
       "duration_ms": 305093,
       "name": "American Oxygen",
       "url": "https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Rowan Drake",
-          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
-        },
-        {
-          "name": "SAINT KID",
-          "url": "https://open.spotify.com/artist/6wNRpXdQs13mKyXxyVFvxP"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/0QBR1dAYhg9dugYCiUWpeR"
     },
     {
       "added_at": null,
@@ -715,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "Upstate Boys",
+      "url": "https://open.spotify.com/track/69uKWbuh2iSwLlRDvR8OX2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VHS 2.0",
         "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
       },
@@ -727,22 +759,6 @@
       "duration_ms": 233013,
       "name": "Kerosene Dreams",
       "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "Sunoco",
-      "url": "https://open.spotify.com/track/05zzpRAJpM1gY21d49AEZC"
     },
     {
       "added_at": null,
@@ -787,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/5evWeMP1meoQ6dcMrFFjg4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Songs Drug Songs",
         "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
       },
@@ -803,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "Upstate Boys",
-      "url": "https://open.spotify.com/track/69uKWbuh2iSwLlRDvR8OX2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Your Town",
         "url": "https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 306613,
       "name": "Your Town",
       "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "I'm Not Really Here",
-      "url": "https://open.spotify.com/track/0Np34uzd2oP17sO73NTLM3"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 198026,
-      "name": "Fallout",
-      "url": "https://open.spotify.com/track/5evWeMP1meoQ6dcMrFFjg4"
+      "duration_ms": 198626,
+      "name": "I'm Not Really Here",
+      "url": "https://open.spotify.com/track/2CxUw9KnY5VHugLbBZiCAF"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Townies",
-        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Women's Jeans",
-      "url": "https://open.spotify.com/track/5UFlZdTUkIMPIcprjw69KG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORION",
         "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
       },
@@ -975,6 +959,26 @@
       "duration_ms": 173373,
       "name": "CONFIDENCE (feat. K.Flay)",
       "url": "https://open.spotify.com/track/1fE6majCQyShaXTPqJsdar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
+      },
+      "artists": [
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
     }
   ],
   "unique_name": "This Is X Ambassadors",

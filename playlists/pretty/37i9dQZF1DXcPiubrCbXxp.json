@@ -1,12 +1,12 @@
 {
   "description": "that 50s kinda feeling, cover: Laufey",
-  "num_followers": 64735,
+  "num_followers": 64759,
   "original_name": "crushed velvet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAABpcZyD8AZTOZtSjbusCWSw",
+  "snapshot_id": "ZxsXwAAAAAC/2MJwibSQYe7o63YxbUmr",
   "tracks": [
     {
       "added_at": "2024-07-09 14:14:53",
@@ -23,6 +23,38 @@
       "duration_ms": 213213,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "I Think They Call This Love",
+        "url": "https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "I Think They Call This Love",
+      "url": "https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk"
+    },
+    {
+      "added_at": "2024-07-09 14:14:53",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 187130,
+      "name": "Picture You",
+      "url": "https://open.spotify.com/track/2Pspo5BWPcTnMHMstLFRHV"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -43,22 +75,6 @@
     {
       "added_at": "2024-07-09 14:14:53",
       "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 187130,
-      "name": "Picture You",
-      "url": "https://open.spotify.com/track/2Pspo5BWPcTnMHMstLFRHV"
-    },
-    {
-      "added_at": "2024-07-09 14:14:53",
-      "album": {
         "name": "Leave Before The Lights Come On",
         "url": "https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 152613,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "I Think They Call This Love",
-        "url": "https://open.spotify.com/album/5GubtQSUJnwMlF6G7gX3QE"
-      },
-      "artists": [
-        {
-          "name": "Elliot James Reay",
-          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "I Think They Call This Love",
-      "url": "https://open.spotify.com/track/6ezlyxouJ9WcHU8WdtHlgk"
     },
     {
       "added_at": "2024-07-09 14:14:53",

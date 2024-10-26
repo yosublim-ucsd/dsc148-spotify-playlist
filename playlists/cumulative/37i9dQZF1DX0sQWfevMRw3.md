@@ -4,7 +4,7 @@
 
 > DET GÅR UPP O NER!!
 
-1,227 songs - 2 day 3 hr 16 min
+1,228 songs - 2 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [COUNT ON ME](https://open.spotify.com/track/2406rZaj8MPRBsKRYQQm8T) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [Miki the Skykid](https://open.spotify.com/artist/5eYiZ9TdLVHgCAtAhZcMnT) | [COUNT ON ME](https://open.spotify.com/album/281y9UrRTNmJLuUBsDLFzu) | 2:20 | 2021-12-16 | 2022-06-09 |
 | [COUNTRYBRUD](https://open.spotify.com/track/6xCbc6HKvpbuVA3qezMXFs) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Woodie](https://open.spotify.com/artist/0qrmko0TC9xE41TtCejiTx) | [COUNTRYBRUD](https://open.spotify.com/album/1aaIw45Ljv2FBprjgbJGj8) | 2:19 | 2023-10-12 | 2023-11-24 |
 | [Crystallise](https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Crystallise](https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK) | 3:02 | 2022-03-24 | 2022-04-15 |
+| [Da La Larna](https://open.spotify.com/track/2Xa33Z47iIVzWU9wqcGiQK) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [Da La Larna](https://open.spotify.com/album/5ktnrIlwFjoD7c4AyZsqzm) | 2:26 | 2024-10-25 |  |
 | [DALAHÄST](https://open.spotify.com/track/4K6UD1eJnHx8GydkO9Rxbx) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DALAHÄST](https://open.spotify.com/album/5WjZg92rq4cMLVuSlZ0bMD) | 2:03 | 2024-05-30 | 2024-08-23 |
 | [Dance Tonight](https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm) | [Dance Tonight](https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV) | 2:57 | 2021-12-16 | 2022-08-26 |
 | [Dance Until We Die](https://open.spotify.com/track/3UX5bcccqDs6KYxqmeHvYb) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [Dance Until We Die](https://open.spotify.com/album/7mmsP9uS2XOt70OnCdh43O) | 2:02 | 2022-04-01 | 2022-08-26 |

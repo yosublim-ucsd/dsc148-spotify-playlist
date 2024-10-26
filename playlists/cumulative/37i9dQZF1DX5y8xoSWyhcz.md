@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,261 songs - 2 day 16 hr 54 min
+1,262 songs - 2 day 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Alonica](https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/4CeQZSPYxRCFhibNMSXdwu) | 3:58 | 2024-04-19 |  |
 | [Alonica](https://open.spotify.com/track/3T3pJzBLz5TH7x1Fgdgkbp) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/7owkJnuBJhDX0TwPFEEoYr) | 3:58 | 2023-07-08 | 2023-10-02 |
 | [already homesick](https://open.spotify.com/track/1hCxLetka2FvYWqD7PKLo3) | [Moira Bren](https://open.spotify.com/artist/422xP5Q6bsAN0oE1abWA9r) | [already homesick](https://open.spotify.com/album/1CxvZ6ZrNma1OHi8AIHJeG) | 2:29 | 2021-05-29 | 2021-10-02 |
+| [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-25 |  |
 | [always](https://open.spotify.com/track/5VyDhDfrTZuywIydd5R7j2) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [always](https://open.spotify.com/album/4LTNyTHaPmgBwzR3JWKhst) | 2:52 | 2020-10-29\* | 2021-01-06 |
 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 | 2022-02-18 | 2022-07-30 |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2021-07-17 | 2021-10-09 |
@@ -515,7 +516,7 @@
 | [how i'm feeling](https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [how i'm feeling](https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC) | 2:51 | 2021-01-09 | 2021-03-14 |
 | [HOW?!](https://open.spotify.com/track/0qA3Wf6XZnPyRb8hwTLXZK) | [Reu](https://open.spotify.com/artist/2ksghJMZXmtumSG2Whgk1a) | [HOW?!](https://open.spotify.com/album/7ie4b1iR1xqoTSmsfHRv6e) | 2:33 | 2024-09-06 |  |
 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2022-02-25 | 2022-06-25 |
-| [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 | 2024-08-16 |  |
+| [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 | 2024-08-16 | 2024-10-26 |
 | [Hurdles](https://open.spotify.com/track/09U6OMOn9ALQ7wX1Ly6VqV) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Hurdles](https://open.spotify.com/album/2XCte5k29fj1O7MDlwqwVH) | 3:24 | 2022-09-09 | 2024-01-04 |
 | [Hurricane](https://open.spotify.com/track/5ipnKWzT9dxir2vQre0Y77) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Hurricane](https://open.spotify.com/album/5ktsvvarrUwWYE33hgPWw9) | 3:13 | 2022-07-08 | 2023-01-21 |
 | [hurt like it should](https://open.spotify.com/track/1GeQUUhVdGjPZTSONOhkmr) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [hurt like it should](https://open.spotify.com/album/2z9tnFVrBzgvj1NR98ccBY) | 3:23 | 2024-03-22 | 2024-05-18 |

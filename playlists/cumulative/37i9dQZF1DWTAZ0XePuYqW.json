@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-19",
-  "description": "That's that big energy. Cover: SadBoi",
+  "description": "That's that big energy. Cover: Young Franco & Kah-Lo",
   "name": "Bounce",
   "tracks": [
     {
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 176300,
       "name": "Body Favors",
       "url": "https://open.spotify.com/track/3HXJprUl96Zl86ejtvVbLu"
@@ -2585,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "Final Boss",
+        "url": "https://open.spotify.com/album/3Lw8q30CGNUizoa05LGvY0"
+      },
+      "artists": [
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Final Boss",
+      "url": "https://open.spotify.com/track/3Mr14q2s9iTtgg2h7qiXQn"
+    },
+    {
+      "album": {
         "name": "Finest",
         "url": "https://open.spotify.com/album/45VpiqeoRBGTgTzIR0b6sd"
       },
@@ -3652,6 +3670,32 @@
       "duration_ms": 115725,
       "name": "Ick",
       "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
+    },
+    {
+      "album": {
+        "name": "Immaculate",
+        "url": "https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "Immaculate",
+      "url": "https://open.spotify.com/track/21XJd63KiArnOgo39sJezL"
     },
     {
       "album": {
@@ -7862,7 +7906,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 176898,
       "name": "Vent",
       "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"

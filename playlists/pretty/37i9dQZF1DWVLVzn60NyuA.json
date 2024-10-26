@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 448258,
+  "num_followers": 448255,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 172597,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 192417,
       "name": "Fountains (with Tems)",
       "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Active",
+        "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 172597,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "WAHALA (FEAT. OLAMIDE)",
-        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "WAHALA (feat. Olamide)",
-      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Finesse",
         "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "WAHALA (FEAT. OLAMIDE)",
+        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "WAHALA (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Bailando en la Lluvia",
-        "url": "https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 173748,
-      "name": "Bailando en la Lluvia",
-      "url": "https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Sounds From The Other Side",
         "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 211293,
       "name": "Come Closer (feat. Drake)",
       "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Bailando en la Lluvia",
+        "url": "https://open.spotify.com/album/7HEnLz9KmBGY9XXkErt7Lk"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 173748,
+      "name": "Bailando en la Lluvia",
+      "url": "https://open.spotify.com/track/3rHKDLHodKbyOpTa8EthS5"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -1251,30 +1251,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Essence (feat. Justin Bieber & Tems)",
-        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 263288,
-      "name": "Essence (feat. Justin Bieber & Tems)",
-      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Business (feat. Naza)",
         "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
       },
@@ -1295,6 +1271,30 @@
       "duration_ms": 170435,
       "name": "Business (feat. Naza)",
       "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Essence (feat. Justin Bieber & Tems)",
+        "url": "https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 263288,
+      "name": "Essence (feat. Justin Bieber & Tems)",
+      "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 140166,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Qui sait ? (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 190786,
       "name": "Qui sait ? (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 140166,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -1943,6 +1943,26 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "So Distant (feat. Tayc)",
+        "url": "https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA"
+      },
+      "artists": [
+        {
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 174059,
+      "name": "So Distant (feat. Tayc)",
+      "url": "https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "Waistline",
         "url": "https://open.spotify.com/album/6EdcTJXFmTNBtPbujaXYJ6"
       },
@@ -1979,26 +1999,6 @@
       "duration_ms": 213913,
       "name": "LV N ATTN feat. Wizkid",
       "url": "https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
-        "name": "So Distant (feat. Tayc)",
-        "url": "https://open.spotify.com/album/6MmGLXuskvMkbBBDIKCSoA"
-      },
-      "artists": [
-        {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 174059,
-      "name": "So Distant (feat. Tayc)",
-      "url": "https://open.spotify.com/track/3AV3S6DiIsj1Nbs8Grf3Bp"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2075,18 +2075,22 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id"
+        "name": "Touch It (Remix)",
+        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
       "artists": [
         {
-          "name": "Kidda",
-          "url": "https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 194558,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ"
+      "duration_ms": 181973,
+      "name": "Touch It - Remix",
+      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2115,22 +2119,18 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Touch It (Remix)",
-        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Kidda",
+          "url": "https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj"
         }
       ],
-      "duration_ms": 181973,
-      "name": "Touch It - Remix",
-      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+      "duration_ms": 194558,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2399,6 +2399,22 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 192320,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 146776,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/3qSeBxnHuBGBOi89SFb6Tf"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 192320,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "PINK SUMMER",
-        "url": "https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 208471,
-      "name": "GIRLS WANNA HAVE FUN",
-      "url": "https://open.spotify.com/track/2vjiaAgTaB32W1PNYYaFdZ"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Eve Bounce",
         "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 204631,
       "name": "Eve Bounce - Remix",
       "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "PINK SUMMER",
+        "url": "https://open.spotify.com/album/4j33fN2BPocBEJTsguqRPl"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 208471,
+      "name": "GIRLS WANNA HAVE FUN",
+      "url": "https://open.spotify.com/track/2vjiaAgTaB32W1PNYYaFdZ"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2635,26 +2635,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "MAS DUSHI",
-        "url": "https://open.spotify.com/album/5yjHjSmo3ouZQdYu910Vpd"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
-        }
-      ],
-      "duration_ms": 158130,
-      "name": "MAS DUSHI",
-      "url": "https://open.spotify.com/track/3q1ji65PsbwM9nAAheWEYL"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "TE QUIERO",
         "url": "https://open.spotify.com/album/1VBdiqMYdsazDcUBDBPTRL"
       },
@@ -2671,6 +2651,26 @@
       "duration_ms": 193596,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/5wuUYQbVwJSLPvt4Ra7VUx"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "MAS DUSHI",
+        "url": "https://open.spotify.com/album/5yjHjSmo3ouZQdYu910Vpd"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+        }
+      ],
+      "duration_ms": 158130,
+      "name": "MAS DUSHI",
+      "url": "https://open.spotify.com/track/3q1ji65PsbwM9nAAheWEYL"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2843,6 +2843,22 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
         "name": "Jessy",
         "url": "https://open.spotify.com/album/7rrA3YP0m7l5kwDt89MBKz"
       },
@@ -2867,22 +2883,6 @@
     {
       "added_at": "2024-10-24 12:33:20",
       "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
         "name": "Habri Porta",
         "url": "https://open.spotify.com/album/61gJqPymaMSdlFuE1U42qg"
       },
@@ -2895,22 +2895,6 @@
       "duration_ms": 146279,
       "name": "Habri Porta",
       "url": "https://open.spotify.com/track/4JCRG0LXlKiifVhAMJDnR9"
-    },
-    {
-      "added_at": "2024-10-24 12:33:20",
-      "album": {
-        "name": "Yes Man",
-        "url": "https://open.spotify.com/album/3wn0w7eJJd52doQgthOjr1"
-      },
-      "artists": [
-        {
-          "name": "Joshua J",
-          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Yes Man",
-      "url": "https://open.spotify.com/track/0ubSevtIKpsMbuSdPQAUfo"
     },
     {
       "added_at": "2024-10-24 12:33:20",
@@ -2935,6 +2919,22 @@
       "duration_ms": 210922,
       "name": "No Fear (feat. Damian Marley & Nicky Jam)",
       "url": "https://open.spotify.com/track/5B1QxXc3XWgJ3dg2ULj7Aa"
+    },
+    {
+      "added_at": "2024-10-24 12:33:20",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 156927,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
     }
   ],
   "unique_name": "Summer Vibes",

@@ -1,6 +1,6 @@
 {
   "description": "The best dance hits in South Africa and across the globe. Cover: KMAT",
-  "num_followers": 74344,
+  "num_followers": 74360,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2024-10-24 23:00:00",
       "album": {
-        "name": "QMA (feat. Zethu & Kuthathu)",
+        "name": "QMA (feat. Ze2 & Kuthathu)",
         "url": "https://open.spotify.com/album/46MjznyFZbFUA2pFNWuCwm"
       },
       "artists": [
@@ -20,8 +20,8 @@
           "url": "https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d"
         },
         {
-          "name": "Zethu",
-          "url": "https://open.spotify.com/artist/57vYco0DcK6SiwQyJOf2Zx"
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
         },
         {
           "name": "KUTHATHU",
@@ -29,7 +29,7 @@
         }
       ],
       "duration_ms": 344000,
-      "name": "QMA (feat. Zethu & Kuthathu)",
+      "name": "QMA (feat. Ze2 & Kuthathu)",
       "url": "https://open.spotify.com/track/12sbuKdjDUAcDbq1sC4ovU"
     },
     {
@@ -402,10 +402,6 @@
         {
           "name": "FiNE",
           "url": "https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS"
-        },
-        {
-          "name": "Nomvula",
-          "url": "https://open.spotify.com/artist/2RDyMOiOVpbariMDmc0i38"
         },
         {
           "name": "Nomvula SA",

@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 136405,
       "name": "Bellakorea",
       "url": "https://open.spotify.com/track/7Aahl5rn7L2lAkqLspfeJT"
@@ -6013,6 +6013,28 @@
     },
     {
       "album": {
+        "name": "MIRALA",
+        "url": "https://open.spotify.com/album/6Mceu7aQRzVzP9dx8tUd2T"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146633,
+      "name": "MIRALA",
+      "url": "https://open.spotify.com/track/3ps5MDjfpA3wAbKMitNWgM"
+    },
+    {
+      "album": {
         "name": "Mis Ojos Lloran Por Ti",
         "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
       },
@@ -7964,7 +7986,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 153721,
       "name": "Potra",
       "url": "https://open.spotify.com/track/0kbJDGleMNNv4vFk74duqH"
@@ -10048,7 +10070,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 203529,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/3G0KI415vuf6TJ2YWA73S3"
@@ -10442,6 +10464,32 @@
       "duration_ms": 189466,
       "name": "Tussi",
       "url": "https://open.spotify.com/track/4vjVdfdBHnUiaFCcUa3gfn"
+    },
+    {
+      "album": {
+        "name": "TUTTIFRUTTI",
+        "url": "https://open.spotify.com/album/26UtlA2Hwdbzhr3Bao6fkB"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "TUTTIFRUTTI",
+      "url": "https://open.spotify.com/track/0i7EUy2qdtpKapeJjXgqSJ"
     },
     {
       "album": {
@@ -11134,6 +11182,24 @@
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "album": {
+        "name": "X-100",
+        "url": "https://open.spotify.com/album/2in5hvGyyMAySTPlnZg8gw"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119879,
+      "name": "X-100",
+      "url": "https://open.spotify.com/track/3lg0bdrf3ayL5mc7uDHpss"
     },
     {
       "album": {

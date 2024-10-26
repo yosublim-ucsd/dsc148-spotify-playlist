@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Delfina Dib en Portada
 
-339 songs - 16 hr 54 min
+340 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Oveja Negra](https://open.spotify.com/track/21g1tdWEHKqsZj5OWfi4Pb) | [Sombrahh](https://open.spotify.com/artist/4dmREIz2avuMDu7jOz4l1W) | [Sombrahh](https://open.spotify.com/album/0KV2HbglTxFo6bCqDyoo1U) | 3:34 | 2021-12-13 | 2023-07-01 |
 | [Oye lo que traigo](https://open.spotify.com/track/3oIocMhyo5YBxp3xuMDrn6) | [Arianna Puello](https://open.spotify.com/artist/19Xm04ZiVtOB6J2Ti5vXhL) | [Gancho Perfecto](https://open.spotify.com/album/0N1yI86d5ZXqxtZk5jl1l5) | 4:56 | 2021-12-13 | 2023-07-01 |
 | [P0rn0 Gr@t1$](https://open.spotify.com/track/6T4P9BZoObMWZgkWAnxPRq) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Niña Buena](https://open.spotify.com/album/1kmpefOeR8l3dasGIUbIgd) | 2:36 | 2023-12-01 | 2024-01-20 |
+| [Pa Siempre](https://open.spotify.com/track/65sMAyF7tXskGL5XEELoVI) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [PULSIÓN](https://open.spotify.com/album/2SOH8upnFGSOjXh44qHi4E) | 2:53 | 2024-10-25 |  |
 | [Pareparqué](https://open.spotify.com/track/3NqgVmQ8DmG4TDUNQ8yK8u) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6IspoSEx7IJBzP0nKYyiZr) | 3:13 | 2022-10-16 | 2023-07-01 |
 | [Pareparqué](https://open.spotify.com/track/5SkCbS0Xx6xRFZoGcfRHIn) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm) | [Pareparqué](https://open.spotify.com/album/6KhNdwFgUNhVj3rUg1uvUH) | 3:13 | 2021-12-13 | 2023-01-12 |
 | [Perfidia](https://open.spotify.com/track/599NXRZRBlMZcAEqCk1cBt) | [Elane](https://open.spotify.com/artist/2eFUnvJtf63hm3BVkh191I) | [Perfidia](https://open.spotify.com/album/2lGuZr0GuC81OktPfqh564) | 2:07 | 2021-12-13 | 2023-03-11 |
@@ -314,7 +315,7 @@
 | [Tiempos Felices](https://open.spotify.com/track/4lS1HxKXFMinRnsz6PqywA) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Nax](https://open.spotify.com/artist/2tywCc8kh9RzR0XY8HYekn) | [Tiempos Felices](https://open.spotify.com/album/7AHNb6VALxScuuUYcmd90L) | 3:21 | 2023-12-15 | 2024-04-06 |
 | [TIKI TAKA](https://open.spotify.com/track/731NNSNXS57BuFlBWyUuuH) | [FUFU](https://open.spotify.com/artist/1DKBefRmhv8L6YNZUrwOQ6), [TALE$](https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU) | [7Z7](https://open.spotify.com/album/3RtE5spt4kZB1Q8nHB3tWD) | 2:34 | 2023-03-03 | 2024-07-19 |
 | [Toda La Noche](https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Toda La Noche](https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH) | 2:42 | 2023-02-24 | 2024-03-16 |
-| [Toda Perra Mugrosa](https://open.spotify.com/track/2no18yKAUmqkJG2fxUZ7bz) | [La Gallo 3:20](https://open.spotify.com/artist/3vMfBXxAZ9iG2u0VjNZ0IA), [norek](https://open.spotify.com/artist/1FmEWwOZLr0u0PWHVUXL0j) | [Toda Perra Mugrosa](https://open.spotify.com/album/6Ep14yIKFjYEP0J6yTJWnO) | 2:09 | 2023-09-15 |  |
+| [Toda Perra Mugrosa](https://open.spotify.com/track/2no18yKAUmqkJG2fxUZ7bz) | [La Gallo 3:20](https://open.spotify.com/artist/3vMfBXxAZ9iG2u0VjNZ0IA), [norek](https://open.spotify.com/artist/1FmEWwOZLr0u0PWHVUXL0j) | [Toda Perra Mugrosa](https://open.spotify.com/album/6Ep14yIKFjYEP0J6yTJWnO) | 2:09 | 2023-09-15 | 2024-10-26 |
 | [Todos Miran](https://open.spotify.com/track/5ACszI7ZhA9v1QoZTzb89M) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Todos Miran](https://open.spotify.com/album/69utMBJtVih7ERUx75s4dx) | 2:27 | 2024-06-07 | 2024-06-22 |
 | [Todxs lxs cuerpxs](https://open.spotify.com/track/31QL88tRXrt1HauyNoyxs4) | [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [KEVS](https://open.spotify.com/artist/7raTkac2KWLDPLyqBS0kqj) | [Todxs lxs cuerpxs](https://open.spotify.com/album/6FUGcy9fgsWJBJQeDhkr9g) | 2:33 | 2024-03-01 |  |
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-12-13 | 2024-02-10 |

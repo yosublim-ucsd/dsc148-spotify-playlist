@@ -1,6 +1,6 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Protoje",
-  "num_followers": 2237266,
+  "num_followers": 2237402,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
+        "name": "Dread & Terrible",
+        "url": "https://open.spotify.com/album/4zYr71y5wIjnoizuJ4o6ZK"
+      },
+      "artists": [
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        }
+      ],
+      "duration_ms": 234586,
+      "name": "Here Comes Trouble",
+      "url": "https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
         "name": "Home (with Stick Figure)",
         "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 210182,
       "name": "Home (with Stick Figure)",
       "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
-        "name": "Dread & Terrible",
-        "url": "https://open.spotify.com/album/4zYr71y5wIjnoizuJ4o6ZK"
-      },
-      "artists": [
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Here Comes Trouble",
-      "url": "https://open.spotify.com/track/5Wwr2S7QZTR5PVJn6jhgdk"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Chronology",
-        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
+        "name": "Parables",
+        "url": "https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985"
       },
       "artists": [
         {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
         }
       ],
-      "duration_ms": 252125,
-      "name": "Skankin' Sweet",
-      "url": "https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE"
+      "duration_ms": 251026,
+      "name": "She's Royal",
+      "url": "https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Parables",
-        "url": "https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985"
+        "name": "Chronology",
+        "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
       },
       "artists": [
         {
-          "name": "Tarrus Riley",
-          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
         }
       ],
-      "duration_ms": 251026,
-      "name": "She's Royal",
-      "url": "https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY"
+      "duration_ms": 252125,
+      "name": "Skankin' Sweet",
+      "url": "https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "In The Streets To Africa",
-        "url": "https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc"
-      },
-      "artists": [
-        {
-          "name": "Richie Spice",
-          "url": "https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP"
-        }
-      ],
-      "duration_ms": 225506,
-      "name": "Youth Dem Cold",
-      "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/6V4eAv3rPLeQhAO8RnOKFs"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 207573,
       "name": "One Day",
       "url": "https://open.spotify.com/track/5JlqbEj7Bbh2RdZgcO5kJE"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "In The Streets To Africa",
+        "url": "https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc"
+      },
+      "artists": [
+        {
+          "name": "Richie Spice",
+          "url": "https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP"
+        }
+      ],
+      "duration_ms": 225506,
+      "name": "Youth Dem Cold",
+      "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
+        "name": "Gunman",
+        "url": "https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "duration_ms": 233093,
+      "name": "Gunman",
+      "url": "https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
         "name": "Forward I Will Go",
         "url": "https://open.spotify.com/album/56tMQe3320UxHWkAJdYcNt"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 179732,
       "name": "Forward I Will Go",
       "url": "https://open.spotify.com/track/4KrOo78db1JDkVVdVSL0ou"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
-        "name": "Gunman",
-        "url": "https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR"
-      },
-      "artists": [
-        {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
-        }
-      ],
-      "duration_ms": 233093,
-      "name": "Gunman",
-      "url": "https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/37HnYAB2wsNldbGHpOGkwi"
-      },
-      "artists": [
-        {
-          "name": "Raging Fyah",
-          "url": "https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N"
-        }
-      ],
-      "duration_ms": 233920,
-      "name": "Dash Wata",
-      "url": "https://open.spotify.com/track/31Qgsts9pDVcocBJRS7lVl"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/09dXLJqAXCOCrsFNZv9NzC"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 158784,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4lelv8PEcOEpSxZGsYZWil"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/37HnYAB2wsNldbGHpOGkwi"
+      },
+      "artists": [
+        {
+          "name": "Raging Fyah",
+          "url": "https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N"
+        }
+      ],
+      "duration_ms": 233920,
+      "name": "Dash Wata",
+      "url": "https://open.spotify.com/track/31Qgsts9pDVcocBJRS7lVl"
     },
     {
       "added_at": "2024-08-05 20:56:06",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-08-05 20:56:06",
       "album": {
-        "name": "The Best Of Ziggy Marley & The Melody Makers",
-        "url": "https://open.spotify.com/album/5qPo9GTYNkMFfe40oUL7VZ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley & The Melody Makers",
-          "url": "https://open.spotify.com/artist/3Z2jmNAP2UaGa8lPpi54wD"
-        }
-      ],
-      "duration_ms": 298266,
-      "name": "Look Who's Dancing",
-      "url": "https://open.spotify.com/track/01qt1C3CQlfjCgGPMWmPfW"
-    },
-    {
-      "added_at": "2024-08-05 20:56:06",
-      "album": {
         "name": "COCONUT WATA (SIP)",
         "url": "https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 185720,
       "name": "COCONUT WATA (SIP)",
       "url": "https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo"
+    },
+    {
+      "added_at": "2024-08-05 20:56:06",
+      "album": {
+        "name": "The Best Of Ziggy Marley & The Melody Makers",
+        "url": "https://open.spotify.com/album/5qPo9GTYNkMFfe40oUL7VZ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley & The Melody Makers",
+          "url": "https://open.spotify.com/artist/3Z2jmNAP2UaGa8lPpi54wD"
+        }
+      ],
+      "duration_ms": 298266,
+      "name": "Look Who's Dancing",
+      "url": "https://open.spotify.com/track/01qt1C3CQlfjCgGPMWmPfW"
     }
   ],
   "unique_name": "One Love",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=4eNZo2ayTWO8LbczPXKnZw\">Rooksein</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5?si=yo-vYpHMTMWctqxLmUH_zw\">GSTRiNG</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 252500,
       "name": "Adrenalien",
       "url": "https://open.spotify.com/track/6HvUCWnri9a7LKSJ7wNJ3W"
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 182589,
       "name": "Dans Deur Die Donker",
       "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
@@ -2631,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Even If",
+        "url": "https://open.spotify.com/album/1aEDybLnWMu8VrRIr8op62"
+      },
+      "artists": [
+        {
+          "name": "Zondagkraal",
+          "url": "https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138727,
+      "name": "Even If",
+      "url": "https://open.spotify.com/track/3hafu7svrimt7vpensLKie"
+    },
+    {
+      "album": {
         "name": "Everlasting",
         "url": "https://open.spotify.com/album/1EgJlERi45NG1kkLNTjnDj"
       },
@@ -3274,6 +3292,24 @@
       "duration_ms": 302019,
       "name": "Glide Stride",
       "url": "https://open.spotify.com/track/5TKySOZAIyhdpzwN01SDux"
+    },
+    {
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/31hmeXBXOXIMHdf9zRjm4l"
+      },
+      "artists": [
+        {
+          "name": "Sheron",
+          "url": "https://open.spotify.com/artist/5X3VNTPiT7hHQ59FiRn2ph"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190929,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/06UYzvJAsJNAfSdfWqbuE3"
     },
     {
       "album": {
@@ -4479,6 +4515,24 @@
     },
     {
       "album": {
+        "name": "Kiss Me Hard",
+        "url": "https://open.spotify.com/album/1U7stlcv1Z4m4UDSRei2vM"
+      },
+      "artists": [
+        {
+          "name": "Anica Kiana",
+          "url": "https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172549,
+      "name": "Kiss Me Hard",
+      "url": "https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL"
+    },
+    {
+      "album": {
         "name": "Klein W\u00eareld",
         "url": "https://open.spotify.com/album/0ICYpf8GssQkw1ZjX0b10s"
       },
@@ -5547,6 +5601,24 @@
     },
     {
       "album": {
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
+    },
+    {
+      "album": {
         "name": "My Name Is Freedom",
         "url": "https://open.spotify.com/album/1JG8bied0mmLZIxrhNYrk4"
       },
@@ -5692,6 +5764,24 @@
       "duration_ms": 291576,
       "name": "Neon Bloodstains",
       "url": "https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I"
+    },
+    {
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/7lU2Xu7bZ8IGgCuEhz5TUN"
+      },
+      "artists": [
+        {
+          "name": "Rewind",
+          "url": "https://open.spotify.com/artist/1ZLUXsroXgx9oOq1cnTXgt"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228434,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/7IdzKD9PrLnU7H8WOjgp0U"
     },
     {
       "album": {
@@ -5915,6 +6005,24 @@
     },
     {
       "album": {
+        "name": "Oliver Tambo",
+        "url": "https://open.spotify.com/album/57MRp3TE28E55l9VtnlBmW"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168352,
+      "name": "Oliver Tambo",
+      "url": "https://open.spotify.com/track/4c9ADuZ16t4rkPJCakRxLz"
+    },
+    {
+      "album": {
         "name": "ONE",
         "url": "https://open.spotify.com/album/6I10aJiMRq2h1jqF1zhYtF"
       },
@@ -6038,7 +6146,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 196213,
       "name": "Ooaa",
       "url": "https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8"
@@ -6352,7 +6460,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 245866,
       "name": "Picture Perfect",
       "url": "https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP"
@@ -7346,6 +7454,24 @@
       "duration_ms": 240449,
       "name": "Skylight",
       "url": "https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68"
+    },
+    {
+      "album": {
+        "name": "Slaaploos",
+        "url": "https://open.spotify.com/album/4uJwRJs5AuVHLG4ZyQKKEr"
+      },
+      "artists": [
+        {
+          "name": "Chaos in September",
+          "url": "https://open.spotify.com/artist/1QIKbDFwChMYbFP9rSKMHZ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243745,
+      "name": "Slaaploos",
+      "url": "https://open.spotify.com/track/5d7d5sqBxji4ywBBDfsOUq"
     },
     {
       "album": {
@@ -9154,7 +9280,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 247553,
       "name": "Wasted Youth",
       "url": "https://open.spotify.com/track/0XD9UC6nzrScLTJ6tfQWAi"
@@ -9400,7 +9526,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 192339,
       "name": "Wild Shit",
       "url": "https://open.spotify.com/track/5IfKQAL3Ul0RfCLxxV7tty"
@@ -9606,7 +9732,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 207899,
       "name": "ZAR",
       "url": "https://open.spotify.com/track/3tPhyCjhQLvEBbUbOPHHmv"

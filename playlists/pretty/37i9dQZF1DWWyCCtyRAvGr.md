@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,922 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,991 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 30 | [Come on and Go with Me](https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 5:55 |
 | 31 | [I'm On My Way \- Remastered Version](https://open.spotify.com/track/4bumK8exgbZjFOSHtB1hIO) | [Christine Perfect](https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/6N1tpNJcWopCVvXZ1M7Tb2) | 3:09 |
 | 32 | [12:15 Slow Goonbash Blues](https://open.spotify.com/track/4zy2Th0CDzOyNwbTODygmj) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 9:26 |
-| 33 | [Finest Lovin' Man \- 2008 Remaster](https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 4:42 |
-| 34 | [Down Home Blues](https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Right Time](https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ) | 4:36 |
+| 33 | [Down Home Blues](https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Right Time](https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ) | 4:36 |
+| 34 | [Finest Lovin' Man \- 2008 Remaster](https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 4:42 |
 | 35 | [Dirt Road Blues \- 2022 Remix](https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 3:34 |
 | 36 | [Blues In "A"](https://open.spotify.com/track/6qXGPlkW4paWUiKUai43Mj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG) | 10:25 |
 | 37 | [I Loved Another Woman](https://open.spotify.com/track/5Lh4aGwVSl2bBR4W5mBr9V) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/4gJDG1h0eFxWeYIVJsT8ks) | 2:55 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 65 | [She's Long, She's Tall \(She Weeps Like A Willow Tree\) \- Live At Cafe Au\-Go\-Go/1966](https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Live At The Cafe Au\-Go\-Go](https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd) | 3:20 |
 | 66 | [Laundromat Blues \- Mono Mix](https://open.spotify.com/track/272P3DN547Z4CNFNdLV4SD) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 3:08 |
 | 67 | [Midnight in Mississippi '22](https://open.spotify.com/track/31rHw7L2PnXw53oNzH1FgI) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Midnight in Mississippi '22](https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt) | 3:58 |
-| 68 | [Connecticut Blues](https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:26 |
-| 69 | [Gone For Good](https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 2:58 |
+| 68 | [Gone For Good](https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 2:58 |
+| 69 | [Connecticut Blues](https://open.spotify.com/track/3iQxKD67vxkRxUWHEXqGRg) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Outdated Emotion](https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z) | 2:26 |
 | 70 | [Like a Ship](https://open.spotify.com/track/0RuwLMVBuMHF19cDYnGNFp) | [John Primer](https://open.spotify.com/artist/1CePnHlc38UfIQovWgyzKP) | [Keep on Lovin' the Blues](https://open.spotify.com/album/1tMXPwrzgheCnI2QGY5Ypm) | 4:23 |
 | 71 | [The Celebrated Walkin' Blues](https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 8:50 |
 | 72 | [Rainy Day Blues](https://open.spotify.com/track/4cT1FBosydctEQmi4vnjrB) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Songbird](https://open.spotify.com/album/1bHvOpk7jC42aYFqjdPwJv) | 5:31 |

@@ -1,6 +1,6 @@
 {
   "description": "catch a vibe \ud83c\udf39",
-  "num_followers": 67256,
+  "num_followers": 67255,
   "original_name": "crush",
   "owner": {
     "name": "Spotify",
@@ -497,6 +497,26 @@
       "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
+      "added_at": "2024-10-10 13:00:00",
+      "album": {
+        "name": "Hmm (feat. Popcaan)",
+        "url": "https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 163369,
+      "name": "Hmm (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU"
+    },
+    {
       "added_at": "2024-09-02 06:16:10",
       "album": {
         "name": "Comin\u2019 Around Again",
@@ -527,26 +547,6 @@
       "duration_ms": 148573,
       "name": "Wasted Eyes",
       "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
-    },
-    {
-      "added_at": "2024-10-10 13:00:00",
-      "album": {
-        "name": "Hmm (feat. Popcaan)",
-        "url": "https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 163369,
-      "name": "Hmm (feat. Popcaan)",
-      "url": "https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU"
     },
     {
       "added_at": "2024-09-02 06:16:10",
@@ -605,26 +605,6 @@
       "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
     },
     {
-      "added_at": "2024-10-10 13:00:00",
-      "album": {
-        "name": "falling or flying (Deluxe)",
-        "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 126009,
-      "name": "Lately Remix (feat. Craig David)",
-      "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
-    },
-    {
       "added_at": "2024-09-02 06:16:10",
       "album": {
         "name": "I Suppose",
@@ -647,6 +627,26 @@
       "duration_ms": 222600,
       "name": "I Suppose",
       "url": "https://open.spotify.com/track/7qRCVfjifWMt3q2MVfV8mV"
+    },
+    {
+      "added_at": "2024-10-10 13:00:00",
+      "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 126009,
+      "name": "Lately Remix (feat. Craig David)",
+      "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
     },
     {
       "added_at": "2024-09-02 06:16:10",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-09-02 06:16:10",
       "album": {
-        "name": "just want u to feel something",
-        "url": "https://open.spotify.com/album/2r5DAHu0DCVj3mrlKvLuP8"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 170151,
-      "name": "just want u to feel something",
-      "url": "https://open.spotify.com/track/0vv46oAg2S7DFKNvQ4kkst"
-    },
-    {
-      "added_at": "2024-09-02 06:16:10",
-      "album": {
         "name": "pretend",
         "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 170676,
       "name": "pretend",
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
+      "added_at": "2024-09-02 06:16:10",
+      "album": {
+        "name": "just want u to feel something",
+        "url": "https://open.spotify.com/album/2r5DAHu0DCVj3mrlKvLuP8"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 170151,
+      "name": "just want u to feel something",
+      "url": "https://open.spotify.com/track/0vv46oAg2S7DFKNvQ4kkst"
     },
     {
       "added_at": "2024-09-02 06:16:10",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-09-02 06:16:10",
       "album": {
+        "name": "VOYCONTODO",
+        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 137114,
+      "name": "VOYCONTODO",
+      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
+    },
+    {
+      "added_at": "2024-09-02 06:16:10",
+      "album": {
         "name": "Bando Stone and The New World",
         "url": "https://open.spotify.com/album/1jzqiffupvhniPZB4aBNEv"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 229999,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/2EUHzaq7xrJNMayRzaoH9Z"
-    },
-    {
-      "added_at": "2024-09-02 06:16:10",
-      "album": {
-        "name": "VOYCONTODO",
-        "url": "https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 137114,
-      "name": "VOYCONTODO",
-      "url": "https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf"
     },
     {
       "added_at": "2024-09-02 06:16:10",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-09-02 06:16:10",
       "album": {
-        "name": "Supersonic",
-        "url": "https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK"
-      },
-      "artists": [
-        {
-          "name": "Tash",
-          "url": "https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR"
-        }
-      ],
-      "duration_ms": 161711,
-      "name": "Supersonic",
-      "url": "https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG"
-    },
-    {
-      "added_at": "2024-09-02 06:16:10",
-      "album": {
         "name": "For You / Si Llorar\u00e1s",
         "url": "https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 176040,
       "name": "Si Llorar\u00e1s",
       "url": "https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC"
+    },
+    {
+      "added_at": "2024-09-02 06:16:10",
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK"
+      },
+      "artists": [
+        {
+          "name": "Tash",
+          "url": "https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR"
+        }
+      ],
+      "duration_ms": 161711,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG"
     },
     {
       "added_at": "2024-09-02 06:16:10",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2024-09-02 06:16:10",
       "album": {
-        "name": "Thinkin Of U",
-        "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
-      },
-      "artists": [
-        {
-          "name": "Mona Yim",
-          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
-        },
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 121682,
-      "name": "Thinkin Of U",
-      "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
-    },
-    {
-      "added_at": "2024-09-02 06:16:10",
-      "album": {
         "name": "Irrational",
         "url": "https://open.spotify.com/album/2V8e3GhVApzKrBgVTYgnCo"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 194000,
       "name": "Irrational",
       "url": "https://open.spotify.com/track/1AAk3NJuimLgWIFjiOgtig"
+    },
+    {
+      "added_at": "2024-09-02 06:16:10",
+      "album": {
+        "name": "Thinkin Of U",
+        "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        },
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "duration_ms": 121682,
+      "name": "Thinkin Of U",
+      "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
     },
     {
       "added_at": "2024-09-02 06:16:10",

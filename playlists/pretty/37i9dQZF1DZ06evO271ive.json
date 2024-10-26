@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 21212,
+  "num_followers": 21239,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAAA1ymC4j0S6YkqGYG+RbZ2",
+  "snapshot_id": "ZxmOAAAAAABoY6nVXc1xPkZwH7wXYsKX",
   "tracks": [
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BING BONG (Remix) [feat. Sexyy Red]",
-        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
-      },
-      "artists": [
-        {
-          "name": "BlakeIANA",
-          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "BING BONG (Remix) [feat. Sexyy Red]",
-      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MMM HMM (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 158137,
       "name": "MMM HMM (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BING BONG (Remix) [feat. Sexyy Red]",
+        "url": "https://open.spotify.com/album/0Yx1bhHWgiBCFL5wkUIDur"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "BING BONG (Remix) [feat. Sexyy Red]",
+      "url": "https://open.spotify.com/track/3dcwO3xoYHYp3PFhMlACmE"
     },
     {
       "added_at": null,

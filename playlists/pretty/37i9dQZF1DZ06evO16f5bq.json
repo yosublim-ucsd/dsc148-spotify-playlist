@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 147009,
+  "num_followers": 147054,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAABWTEgqPwwlVlsInl2a2UoK",
+  "snapshot_id": "ZxmOAAAAAAC4thQ0jg8TiSdBSEaQb+7i",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bala e Fogo",
+        "url": "https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 227552,
+      "name": "Bala e Fogo",
+      "url": "https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "442",
         "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 125760,
       "name": "Vida Rasa",
       "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bala e Fogo",
-        "url": "https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 227552,
-      "name": "Bala e Fogo",
-      "url": "https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp"
     },
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "ci\u00fame bobo - b\u00f4nus track",
-      "url": "https://open.spotify.com/track/0S1FlLc06jaC38AgS9BVON"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 190000,
       "name": "7 Meiota",
       "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "ci\u00fame bobo - b\u00f4nus track",
+      "url": "https://open.spotify.com/track/0S1FlLc06jaC38AgS9BVON"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Menino Virou Little Hair",
+        "url": "https://open.spotify.com/album/77Gk0cJc7VYQW3DgQFjART"
+      },
+      "artists": [
+        {
+          "name": "DJ Meek",
+          "url": "https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK"
+        },
+        {
+          "name": "MC HULK",
+          "url": "https://open.spotify.com/artist/4qkstx5FIQ8dl7WHa6X86Q"
+        },
+        {
+          "name": "DINDO OG",
+          "url": "https://open.spotify.com/artist/12u2DOVwAEO8J86VqfDjne"
+        },
+        {
+          "name": "DJDAVIDOB13",
+          "url": "https://open.spotify.com/artist/4XKaUDBk0BdRMqp2m06fXL"
+        },
+        {
+          "name": "DJ Geh da LGD",
+          "url": "https://open.spotify.com/artist/5ioi2enpp7F0LKSSOHur3P"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "De Menino Virou Little Hair",
+      "url": "https://open.spotify.com/track/7GnuK3atOK5lz9nJKe5YUl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Viz\u00e3o de Cria 3",
         "url": "https://open.spotify.com/album/1g1yMCBXSznyHPyf2YAK0l"
       },
@@ -1079,42 +1115,6 @@
       "duration_ms": 324413,
       "name": "Viz\u00e3o de Cria 3",
       "url": "https://open.spotify.com/track/7BE8gYIIFPJsx3EjXk77yT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Menino Virou Little Hair",
-        "url": "https://open.spotify.com/album/77Gk0cJc7VYQW3DgQFjART"
-      },
-      "artists": [
-        {
-          "name": "DJ Meek",
-          "url": "https://open.spotify.com/artist/2e3Qj18c2XIH9bHIVdoMYK"
-        },
-        {
-          "name": "MC HULK",
-          "url": "https://open.spotify.com/artist/4qkstx5FIQ8dl7WHa6X86Q"
-        },
-        {
-          "name": "DINDO OG",
-          "url": "https://open.spotify.com/artist/12u2DOVwAEO8J86VqfDjne"
-        },
-        {
-          "name": "DJDAVIDOB13",
-          "url": "https://open.spotify.com/artist/4XKaUDBk0BdRMqp2m06fXL"
-        },
-        {
-          "name": "DJ Geh da LGD",
-          "url": "https://open.spotify.com/artist/5ioi2enpp7F0LKSSOHur3P"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "De Menino Virou Little Hair",
-      "url": "https://open.spotify.com/track/7GnuK3atOK5lz9nJKe5YUl"
     },
     {
       "added_at": null,
@@ -1243,6 +1243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cora\u00e7\u00e3o Terra de Ningu\u00e9m",
         "url": "https://open.spotify.com/album/5BTYBHPfdhnD6Ez307JTyy"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 318666,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/0UbpJ2jRYTSHRy61viIC61"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "Qu\u00edmica",
-      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
     },
     {
       "added_at": null,

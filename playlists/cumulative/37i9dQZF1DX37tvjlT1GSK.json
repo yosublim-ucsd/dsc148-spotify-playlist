@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Los Plebes del Rancho en portada. ",
+  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Hijos de Barr\u00f3n y Los Plebes del Rancho en portada. ",
   "name": "Sierre\u00f1o 2024",
   "tracks": [
     {
@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 147120,
       "name": "Aqui En Mi Corazon Tu Mandas (En Vivo)",
       "url": "https://open.spotify.com/track/5ITl9rQTi4cHiNhIy5gcvF"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 164115,
       "name": "Bulgari",
       "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 185281,
       "name": "Chico Problema",
       "url": "https://open.spotify.com/track/4PGs1pZL9yBxYYnUiBJ3vj"
@@ -3645,6 +3645,28 @@
     },
     {
       "album": {
+        "name": "Una M\u00e1s Desde el Llano 1ra. Funci\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/445QAYvPjeVuxZ4a1yztc8"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183574,
+      "name": "Hablemos - En Vivo",
+      "url": "https://open.spotify.com/track/1dGDAgXnqtOdZElH0QoMMu"
+    },
+    {
+      "album": {
         "name": "Hasta el D\u00eda de Hoy (En Vivo)",
         "url": "https://open.spotify.com/album/4BoACxcvzH7D3wdvuYMWV5"
       },
@@ -5413,6 +5435,24 @@
     },
     {
       "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "Mucho Relajo",
+      "url": "https://open.spotify.com/track/1fx2FDN9dMvAagk8oSQk9Z"
+    },
+    {
+      "album": {
         "name": "M\u00e1s All\u00e1 Que Pa' Ac\u00e1",
         "url": "https://open.spotify.com/album/6LK3iuVgcvD7hcZwjHY1uf"
       },
@@ -6901,6 +6941,28 @@
     },
     {
       "album": {
+        "name": "Rolex Medusa",
+        "url": "https://open.spotify.com/album/4TzU5aaXkieHC6r6sWUYuQ"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171525,
+      "name": "Rolex Medusa",
+      "url": "https://open.spotify.com/track/52defVJm9YFsnxniPp7LVC"
+    },
+    {
+      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -7310,7 +7372,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 217570,
       "name": "Sin Evidencias",
       "url": "https://open.spotify.com/track/1oITRoEWRHwmuPKBWs4Wm6"
@@ -8558,6 +8620,24 @@
       "duration_ms": 130250,
       "name": "Y Es Que Contigo",
       "url": "https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX"
+    },
+    {
+      "album": {
+        "name": "Y Que Tal Si Te Escapas Del Cielo",
+        "url": "https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211750,
+      "name": "Y Que Tal Si Te Escapas Del Cielo",
+      "url": "https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T"
     },
     {
       "album": {

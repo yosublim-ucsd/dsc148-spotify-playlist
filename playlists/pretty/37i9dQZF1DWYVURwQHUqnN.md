@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : GIMS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,117,084 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117,190 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 11 | [Un vœu](https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Un vœu](https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL) | 3:58 |
 | 12 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 |
 | 13 | [No lo sé](https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:45 |
-| 14 | [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 |
+| 14 | [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [LA MAIN SUR LE COEUR](https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 |
 | 15 | [Oh qu'elle est belle](https://open.spotify.com/track/10zo4OGj1ijR4TaVi526xr) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh qu'elle est belle](https://open.spotify.com/album/2kFUXzU7bQLQCaUXu3OCC5) | 3:40 |
 | 16 | [Movie](https://open.spotify.com/track/1k9oEJse03hhCI21JiOK4g) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Movie](https://open.spotify.com/album/3t1LD12LY64mEVWWKfbMeM) | 2:23 |
 | 17 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 |

@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Resgate
 
-169 songs - 13 hr 4 min
+170 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Dia De Milagres](https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Ramiro Garcia](https://open.spotify.com/artist/5XsYk2KMZlUPlr2GhELgZx), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Dia De Milagres](https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ) | 4:22 | 2023-05-19 |  |
 | [ELE É EXALTADO](https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [ELE É EXALTADO](https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ) | 4:58 | 2023-05-19 | 2024-08-31 |
 | [Ele é o Senhor \- Ao Vivo](https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm) | [Siloé Music](https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL) | [Ele é o Senhor \(Ao Vivo\)](https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU) | 7:41 | 2024-06-28 |  |
-| [Em Coma](https://open.spotify.com/track/7Cvut5AmV0X1O7Xtg8Nd7H) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Vulgo Raph](https://open.spotify.com/artist/31Gjt5HPHlXltWWVh1LmKA) | [Em Coma](https://open.spotify.com/album/3wPtlL06LbcxZnNwwXz4LE) | 3:35 | 2024-05-31 |  |
+| [Em Coma](https://open.spotify.com/track/7Cvut5AmV0X1O7Xtg8Nd7H) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Vulgo Raph](https://open.spotify.com/artist/31Gjt5HPHlXltWWVh1LmKA) | [Em Coma](https://open.spotify.com/album/3wPtlL06LbcxZnNwwXz4LE) | 3:35 | 2024-05-31 | 2024-10-26 |
 | [Escolho Ser Fiel](https://open.spotify.com/track/5z9gHODKZUYCsA5cxj14my) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Mauro](https://open.spotify.com/album/7hEouc61wJMBhedf31Tonz) | 4:10 | 2022-09-02 | 2023-11-04 |
 | [Espelhos Mágicos / Naves Imperiais](https://open.spotify.com/track/3WyzekjMekrPAmTsIb8mub) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 90's](https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS) | 4:25 | 2022-09-02 | 2024-04-19 |
 | [Espelhos Mágicos / Naves Imperiais \- Ao Vivo](https://open.spotify.com/track/6iqjwjQhW9YbfwsTKHX9Iq) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Espelhos Mágicos / Naves Imperiais \(Ao Vivo\)](https://open.spotify.com/album/5Hh5x7bBLA0qbijaTI9Gky) | 4:25 | 2022-09-02 |  |
@@ -109,6 +109,7 @@
 | [Meu Valor](https://open.spotify.com/track/5CxJx9S892Gwy3Ic3UNfdX) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Meu Valor](https://open.spotify.com/album/14cm8GwOnHa5GaLAl0pHMJ) | 2:53 | 2023-01-20 | 2023-04-29 |
 | [Na Corte do Egito \- Ao Vivo](https://open.spotify.com/track/1kPt4OCB6h0lFRR7QAYY7e) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Na Corte do Egito \(Ao Vivo\)](https://open.spotify.com/album/3lTqEzslNX3gZMziSjskmz) | 4:44 | 2024-08-30 |  |
 | [Nada Vai Me Parar](https://open.spotify.com/track/5T5lgvGDNxEAxOHrKNMvTW) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Nada Vai Me Parar](https://open.spotify.com/album/3DkwV4LBkLW0vPX9ZOSAMv) | 3:49 | 2023-08-04 | 2023-09-16 |
+| [Nas Chagas](https://open.spotify.com/track/1Dtc1417eHoEbMRsS4M0uE) | [Resgate](https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf) | [Nas Chagas](https://open.spotify.com/album/4gfLB4BV8Efs5Hogfy42tW) | 4:16 | 2024-10-25 |  |
 | [NAVES IMPERIAIS](https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Walter Lopes](https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV) | [NAVES IMPERIAIS](https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy) | 5:14 | 2023-03-03 |  |
 | [Ninguém Pode Parar \- Ao Vivo](https://open.spotify.com/track/7jm9CmeGfY42Dq3xCSn7oA) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Ninguém Pode Parar \(Ao Vivo\)](https://open.spotify.com/album/74ecO8nFOGDmRiXXjnUYFn) | 5:41 | 2024-07-30 |  |
 | [No Princípio](https://open.spotify.com/track/0aFNhLg6YmxGuuyAi7BVgp) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [KINTSUGI \(DELUXE\)](https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc) | 2:46 | 2023-11-24 |  |

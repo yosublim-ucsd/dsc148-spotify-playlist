@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Porridge Radio",
+  "description": "Explore all things indie rock right now. Featuring music from Peach Pit",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/3PfnihjOdjLPvx4lr9D5vM"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213315,
+      "name": "A Place Like This",
+      "url": "https://open.spotify.com/track/6U2ytaIUJ50HzpCGdFD4w0"
+    },
+    {
+      "album": {
         "name": "A.P.C.'s",
         "url": "https://open.spotify.com/album/0CKzLhTqCYXlTXkErHCeNl"
       },
@@ -606,6 +624,24 @@
       "duration_ms": 171038,
       "name": "aahdjk",
       "url": "https://open.spotify.com/track/2MTHVXbxTps51ayzTRZ9oU"
+    },
+    {
+      "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/5fbVCssH2Oei8gJ0LFCbl5"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187680,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe"
     },
     {
       "album": {
@@ -862,6 +898,24 @@
       "duration_ms": 185276,
       "name": "After The Earthquake",
       "url": "https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248215,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
     },
     {
       "album": {
@@ -1342,6 +1396,24 @@
       "duration_ms": 165250,
       "name": "Always (All The Time)",
       "url": "https://open.spotify.com/track/7f1Cpde5MCGOSmRicevxIB"
+    },
+    {
+      "album": {
+        "name": "Magpie",
+        "url": "https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254375,
+      "name": "Am I Your Girl",
+      "url": "https://open.spotify.com/track/6P3BLSxIWbcWF8cNkimmLy"
     },
     {
       "album": {
@@ -4938,7 +5010,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 185213,
       "name": "Caroline Goodbye",
       "url": "https://open.spotify.com/track/0rIzjsOl4OYJzE0eSIQp0B"
@@ -8872,7 +8944,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 229566,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/3pYe8mHBYO8LGNWxPCAFA8"
@@ -13131,6 +13203,24 @@
     },
     {
       "album": {
+        "name": "I Should've Known",
+        "url": "https://open.spotify.com/album/6r5PZPQ3QIZj7FM69kzfhk"
+      },
+      "artists": [
+        {
+          "name": "INOHA",
+          "url": "https://open.spotify.com/artist/0uoN6ea8SXzhV7WxyrvT1h"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209997,
+      "name": "I Should've Known",
+      "url": "https://open.spotify.com/track/3EWIsGwuh6wxxyA1HeBSnb"
+    },
+    {
+      "album": {
         "name": "I Think I",
         "url": "https://open.spotify.com/album/2aWox1fQIfpJyzpIN5SsG3"
       },
@@ -14839,6 +14929,24 @@
     },
     {
       "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/2Ff77bF2DIy1ry5qZ4yq7o"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183318,
+      "name": "Juno",
+      "url": "https://open.spotify.com/track/7F35nM1uBD2AzkXSYgLenE"
+    },
+    {
+      "album": {
         "name": "Just A Western",
         "url": "https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ"
       },
@@ -16536,7 +16644,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 212500,
       "name": "LOVEBITES",
       "url": "https://open.spotify.com/track/5Qmabe5M68D39yD3ie9dum"
@@ -16796,7 +16904,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 241290,
       "name": "Magpie",
       "url": "https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF"
@@ -17665,6 +17773,24 @@
     },
     {
       "album": {
+        "name": "Miss City Babe",
+        "url": "https://open.spotify.com/album/3fdVGhYegFRVLAZ38qpAMG"
+      },
+      "artists": [
+        {
+          "name": "Prince of Eden",
+          "url": "https://open.spotify.com/artist/29Wvrc4vfXuf9eMexefk7N"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208618,
+      "name": "Miss City Babe",
+      "url": "https://open.spotify.com/track/4hwqxqopB2geuDQUsoqHzU"
+    },
+    {
+      "album": {
         "name": "Missing Out",
         "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
       },
@@ -18274,7 +18400,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167049,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS"
@@ -19574,6 +19700,24 @@
       "duration_ms": 155821,
       "name": "Oh!",
       "url": "https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo"
+    },
+    {
+      "album": {
+        "name": "Ohio All The Time",
+        "url": "https://open.spotify.com/album/5gS0mVQdlowwHfpf4k5hJO"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184820,
+      "name": "Ohio All The Time",
+      "url": "https://open.spotify.com/track/63Kd061yhHz1K6UEztFmJ5"
     },
     {
       "album": {
@@ -21416,7 +21560,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 233000,
       "name": "Raining On Your Pillow",
       "url": "https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg"
@@ -23538,6 +23682,24 @@
       "duration_ms": 168974,
       "name": "Skinny Brittle Bones",
       "url": "https://open.spotify.com/track/14uNisaAuHwalExIW0KTMV"
+    },
+    {
+      "album": {
+        "name": "Slasher",
+        "url": "https://open.spotify.com/album/5SZQdlSBar4oMrBmjaJQtv"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161239,
+      "name": "Slasher",
+      "url": "https://open.spotify.com/track/2kzpDswNb4TzQM0fLZXeuz"
     },
     {
       "album": {
@@ -27234,7 +27396,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 117876,
       "name": "Time For Slurp",
       "url": "https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY"
@@ -27650,7 +27812,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 213104,
       "name": "Too Late!",
       "url": "https://open.spotify.com/track/1YPfklH2nYKL8W8Hg7pwhk"
@@ -28720,7 +28882,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 163720,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"

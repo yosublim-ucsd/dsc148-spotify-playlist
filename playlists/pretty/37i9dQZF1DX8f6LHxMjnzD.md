@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Morgan Wallen
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,318 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,338 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 23 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 |
 | 24 | [You For A Reason](https://open.spotify.com/track/10QxsSJlNl8jrylYL5XGJO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [You For A Reason](https://open.spotify.com/album/5kIKFBdjL155Okv2nXTEWj) | 3:03 |
 | 25 | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/album/0yEtoAdaaX7mZOhjgr7IBH) | 3:17 |
-| 26 | [Missing You](https://open.spotify.com/track/6iX8voVaI4qOf9KCvaItZh) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Missing You](https://open.spotify.com/album/2SvrXGfaUJ19ON8VYzBBPW) | 3:57 |
+| 26 | [Missing You](https://open.spotify.com/track/6iX8voVaI4qOf9KCvaItZh) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Missing You](https://open.spotify.com/album/2SvrXGfaUJ19ON8VYzBBPW) | 3:57 |
 | 27 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 28 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 |
 | 29 | [Sick \(feat\. 4batz\)](https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Sick \(feat\. 4batz\)](https://open.spotify.com/album/1Ck8Mdp83P8zUoqAlFpVzz) | 3:40 |

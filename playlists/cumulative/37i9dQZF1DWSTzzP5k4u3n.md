@@ -4,7 +4,7 @@
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Klamydia.
 
-198 songs - 11 hr 42 min
+199 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Epävarmuuden Vankila](https://open.spotify.com/track/04c6LKFI7nhvibijWHldeN) | [Monotonia](https://open.spotify.com/artist/2kvXNdmRbVNYPa42vlPG8N) | [Epävarmuuden Vankila](https://open.spotify.com/album/5R67rTcDI1I9DLqgPfNrjw) | 3:05 | 2024-07-02 |  |
 | [Fuck the system jne.](https://open.spotify.com/track/6Tg9S5JF3sL0CyVagebrsK) | [Riekko Salama](https://open.spotify.com/artist/2h2iwWOgXz3wArEh3StkJx) | [Fuck the system jne.](https://open.spotify.com/album/7DIuJBEAoyP21pMMXXf8hx) | 3:24 | 2024-10-24 |  |
 | [Haamukirjoitus](https://open.spotify.com/track/2VsChldNUjT45aH8Ag4jWi) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haamukirjoitus](https://open.spotify.com/album/7mmTem3c0cqFyED5zerjhk) | 3:10 | 2024-09-19 | 2024-10-25 |
+| [Haluaako Piepponen turpaan?](https://open.spotify.com/track/08jQ1OPwy0gJ6VrlWRPKH9) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haluaako Piepponen turpaan?](https://open.spotify.com/album/3va93w0LhqBOsmUUKmxmSg) | 3:32 | 2024-10-24 |  |
 | [Hei beibe mul on kliffaa](https://open.spotify.com/track/5iGu2nqwqXOjPDgFDMebTb) | [Kuolleet kuolleet](https://open.spotify.com/artist/4tEP52H8aXLzE6US4x0eDq) | [Hei beibe mul on kliffaa](https://open.spotify.com/album/5H3wENM3IvXIIGcdIQwUP6) | 2:46 | 2024-07-02 | 2024-08-09 |
 | [Hienoo kun oot](https://open.spotify.com/track/37kKYv6HwD8cnmZtSDQSOf) | [Anton Äikäs](https://open.spotify.com/artist/3RgGEK7y9UZFB74SiOgjuk) | [Hienoo kun oot](https://open.spotify.com/album/7G15WeW6VcXg3MCl7Di0GR) | 3:43 | 2024-09-26 |  |
 | [Himaan](https://open.spotify.com/track/1LKsPoSOacCODXxqmMuQxs) | [Haliseva](https://open.spotify.com/artist/47ZXoxgcQWLibUku23lS81) | [Nähdään taas jossain](https://open.spotify.com/album/4L956AqRp8yoAOzEg7WBvT) | 2:59 | 2024-09-19 |  |

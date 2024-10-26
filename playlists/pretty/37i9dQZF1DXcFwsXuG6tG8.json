@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 14953,
+  "num_followers": 14962,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-10-03 21:43:02",
       "album": {
-        "name": "Si Te Soy Sincera",
-        "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 159835,
-      "name": "Miel",
-      "url": "https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l"
-    },
-    {
-      "added_at": "2024-10-03 21:43:02",
-      "album": {
         "name": "No Te Conoce (idk you)",
         "url": "https://open.spotify.com/album/7KSlDdSoFsH3VzZWNt93Qy"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-10-03 21:43:02",
       "album": {
-        "name": "Miracle",
-        "url": "https://open.spotify.com/album/11mzVM4ZtpOUxescgnFUsN"
+        "name": "Si Te Soy Sincera",
+        "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
       },
       "artists": [
         {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
         }
       ],
-      "duration_ms": 72133,
-      "name": "Garden - SIDE A",
-      "url": "https://open.spotify.com/track/4pGnWlr2Lk5MDPI6zgG972"
+      "duration_ms": 159835,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l"
     },
     {
       "added_at": "2024-10-03 21:43:02",
@@ -1095,6 +1079,26 @@
       "duration_ms": 93106,
       "name": "superman",
       "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
+    },
+    {
+      "added_at": "2024-10-03 21:43:02",
+      "album": {
+        "name": "6:00 P.M.",
+        "url": "https://open.spotify.com/album/30YL9fJiXFoCBRtT597Frp"
+      },
+      "artists": [
+        {
+          "name": "Cl\u00e9ment",
+          "url": "https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ"
+        },
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        }
+      ],
+      "duration_ms": 146560,
+      "name": "6:00 P.M.",
+      "url": "https://open.spotify.com/track/6wl8iU1HjtRZlMl44bCTer"
     }
   ],
   "unique_name": "mi vida es una peli",

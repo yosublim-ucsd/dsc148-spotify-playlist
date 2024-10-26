@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico latino. Foto: Javiera Mena",
-  "num_followers": 24234,
+  "num_followers": 24237,
   "original_name": "Electropop",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
+        "name": "POKITO",
+        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
+      },
+      "artists": [
+        {
+          "name": "GRTSCH",
+          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "POKITO",
+      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
+    },
+    {
+      "added_at": "2024-10-24 20:32:23",
+      "album": {
         "name": "blablablablabla",
         "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 201706,
       "name": "blablablablabla",
       "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
-    },
-    {
-      "added_at": "2024-10-24 20:32:23",
-      "album": {
-        "name": "POKITO",
-        "url": "https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T"
-      },
-      "artists": [
-        {
-          "name": "GRTSCH",
-          "url": "https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "POKITO",
-      "url": "https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS"
     },
     {
       "added_at": "2024-10-24 20:32:23",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
-        "name": "Remixes II",
-        "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
+        "name": "Bum (Chocamos un Auto)",
+        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        },
-        {
-          "name": "Tom Tom",
-          "url": "https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP"
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
         }
       ],
-      "duration_ms": 228290,
-      "name": "Pana",
-      "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
+      "duration_ms": 226250,
+      "name": "Bum (Chocamos un Auto)",
+      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
     },
     {
       "added_at": "2024-10-24 20:32:23",
@@ -1255,18 +1251,22 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
-        "name": "Bum (Chocamos un Auto)",
-        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
+        "name": "Remixes II",
+        "url": "https://open.spotify.com/album/1wm51GhrM9EfstuTCgzn7N"
       },
       "artists": [
         {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        },
+        {
+          "name": "Tom Tom",
+          "url": "https://open.spotify.com/artist/1OwIf97MAIexwinSla1QrP"
         }
       ],
-      "duration_ms": 226250,
-      "name": "Bum (Chocamos un Auto)",
-      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
+      "duration_ms": 228290,
+      "name": "Pana",
+      "url": "https://open.spotify.com/track/5m7I0u6k7PV2qSoGH3Os9h"
     },
     {
       "added_at": "2024-10-24 20:32:23",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-10-24 20:32:23",
       "album": {
+        "name": "Reprimiendo",
+        "url": "https://open.spotify.com/album/77QPWd67DcTtHxTNI9gEkR"
+      },
+      "artists": [
+        {
+          "name": "Mariana Montenegro",
+          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
+        }
+      ],
+      "duration_ms": 242622,
+      "name": "Reprimiendo",
+      "url": "https://open.spotify.com/track/4jmmS4n61wGZJLpfPoggeC"
+    },
+    {
+      "added_at": "2024-10-24 20:32:23",
+      "album": {
         "name": "Ra\u00edz Despierta",
         "url": "https://open.spotify.com/album/38K7u9akDvXYaEtkENoBqH"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 216858,
       "name": "Alma",
       "url": "https://open.spotify.com/track/5RggnhC0wezlETdsLBFMUE"
-    },
-    {
-      "added_at": "2024-10-24 20:32:23",
-      "album": {
-        "name": "Reprimiendo",
-        "url": "https://open.spotify.com/album/77QPWd67DcTtHxTNI9gEkR"
-      },
-      "artists": [
-        {
-          "name": "Mariana Montenegro",
-          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
-        }
-      ],
-      "duration_ms": 242622,
-      "name": "Reprimiendo",
-      "url": "https://open.spotify.com/track/4jmmS4n61wGZJLpfPoggeC"
     },
     {
       "added_at": "2024-10-24 20:32:23",

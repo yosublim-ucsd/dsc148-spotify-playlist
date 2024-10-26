@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-11",
-  "description": "Smooth indie jazz joints from around the globe. Cover: Kokoroko",
+  "description": "Smooth indie jazz joints from around the globe. Cover: Fievel Is Glauque",
   "name": "Rarities",
   "tracks": [
     {
@@ -216,6 +216,24 @@
       "duration_ms": 204893,
       "name": "Allergies (feat. Delaney Bailey)",
       "url": "https://open.spotify.com/track/0QH4XjlKSY8Gdory7hG4ZN"
+    },
+    {
+      "album": {
+        "name": "Sof\u00eda Vald\u00e9s",
+        "url": "https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198463,
+      "name": "Already Yours",
+      "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
     },
     {
       "album": {
@@ -495,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Venus Smiles Not in the House of Tears",
+        "url": "https://open.spotify.com/album/4W3J067k1YiSo6UFywZHoa"
+      },
+      "artists": [
+        {
+          "name": "Samora Pinderhughes",
+          "url": "https://open.spotify.com/artist/6Of92bKNSsFuoNkF4nQ6Za"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217359,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0oiV5ehFmWGwWMQy5HKUg6"
+    },
+    {
+      "album": {
         "name": "Songs To Come Home To",
         "url": "https://open.spotify.com/album/3RyNOK2vXaGdkRWoh8QmjN"
       },
@@ -619,6 +655,24 @@
     },
     {
       "album": {
+        "name": "what is this?!",
+        "url": "https://open.spotify.com/album/0SVbpGRP3CIJIMjXmdDFQD"
+      },
+      "artists": [
+        {
+          "name": "mou",
+          "url": "https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136875,
+      "name": "bounce",
+      "url": "https://open.spotify.com/track/2j7eNmpJfj0wpT5oi9uW0v"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/7lkoHO7IuanGlzELdbvgaZ"
       },
@@ -656,7 +710,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 258716,
       "name": "Bowie",
       "url": "https://open.spotify.com/track/2Rr5PghSBFo5xXx1WqFLua"
@@ -914,7 +968,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 116756,
       "name": "Cosca",
       "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
@@ -1212,7 +1266,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 204000,
       "name": "Domino",
       "url": "https://open.spotify.com/track/06jVhN0bYvWYNqHFb1JMwP"
@@ -1300,6 +1354,24 @@
       "duration_ms": 190769,
       "name": "Drream",
       "url": "https://open.spotify.com/track/0Sfjn8R8lvJwB4xjPAA2MU"
+    },
+    {
+      "album": {
+        "name": "The Coldest Man Alive",
+        "url": "https://open.spotify.com/album/7G4eD5Q54hL87i2z9ismKj"
+      },
+      "artists": [
+        {
+          "name": "Peder",
+          "url": "https://open.spotify.com/artist/222TzH91go6DByqjFQCOGl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/6OPH8mhQbsrWXLPOuL5Jhq"
     },
     {
       "album": {
@@ -1474,7 +1546,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 109246,
       "name": "everest",
       "url": "https://open.spotify.com/track/375vzhCsYArHMzT4UG5FgJ"
@@ -1496,7 +1568,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 290341,
       "name": "Exotic Rose",
       "url": "https://open.spotify.com/track/3uYuaFdOFuqJCPTwUy3K8K"
@@ -1801,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Rong Weicknes",
+        "url": "https://open.spotify.com/album/6PPLCyHL015tBNHY0GQuc0"
+      },
+      "artists": [
+        {
+          "name": "Fievel Is Glauque",
+          "url": "https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219611,
+      "name": "Haut Contre Bas",
+      "url": "https://open.spotify.com/track/7gjy5JBi17p56khgO0fN6Z"
+    },
+    {
+      "album": {
         "name": "Synapse Confusion",
         "url": "https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p"
       },
@@ -1812,7 +1902,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 339132,
       "name": "Hello,,Dawn,Unknown",
       "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
@@ -1921,6 +2011,32 @@
     },
     {
       "album": {
+        "name": "I don't care",
+        "url": "https://open.spotify.com/album/4upGioZ1LMIrDblMfEUIlu"
+      },
+      "artists": [
+        {
+          "name": "Kurochuu",
+          "url": "https://open.spotify.com/artist/1deRPaTBVeIQtjtPEA7Tbb"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        },
+        {
+          "name": "Julie",
+          "url": "https://open.spotify.com/artist/6lqIIe2sIUJLeQCFAdOvo3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52830,
+      "name": "I don't care",
+      "url": "https://open.spotify.com/track/29KH1O4gP9rLpZAONR12bj"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3"
       },
@@ -1986,7 +2102,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 740010,
       "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
       "url": "https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno"
@@ -2142,7 +2258,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 206285,
       "name": "Jag vill ha allt",
       "url": "https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde"
@@ -2282,6 +2398,42 @@
       "duration_ms": 215800,
       "name": "Knocked Down",
       "url": "https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn"
+    },
+    {
+      "album": {
+        "name": "Kon Queso",
+        "url": "https://open.spotify.com/album/3yc8nEp4FwP55kTJQQhjBb"
+      },
+      "artists": [
+        {
+          "name": "The Pro-Teens",
+          "url": "https://open.spotify.com/artist/197qjYm2ZpiwHsGufybt15"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270317,
+      "name": "Kon Queso",
+      "url": "https://open.spotify.com/track/0AavsxqguLIzEb3iFWaO1M"
+    },
+    {
+      "album": {
+        "name": "Landlord blues",
+        "url": "https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH"
+      },
+      "artists": [
+        {
+          "name": "SELL EVERYTHING",
+          "url": "https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123599,
+      "name": "Landlord blues",
+      "url": "https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6"
     },
     {
       "album": {
@@ -2643,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "Mogwa",
+        "url": "https://open.spotify.com/album/6FiFiU17NEPCPnLPcyEwfV"
+      },
+      "artists": [
+        {
+          "name": "Bek Hyunjin",
+          "url": "https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337183,
+      "name": "Mogwa",
+      "url": "https://open.spotify.com/track/7z2FgMzUWblzmAfVTwDD7r"
+    },
+    {
+      "album": {
         "name": "Much More (30/70 Crushin Mix)",
         "url": "https://open.spotify.com/album/72wCxJtjRZ0nC0VUDhm1sA"
       },
@@ -2694,7 +2864,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 206963,
       "name": "My Dirty Desire",
       "url": "https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io"
@@ -2986,7 +3156,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 273604,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/5bh6cGE3I3npgmQ835rcN9"
@@ -3066,7 +3236,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 141333,
       "name": "OPPENHEIMER",
       "url": "https://open.spotify.com/track/5VW0caqrvndBLyofAjjscO"
@@ -3334,6 +3504,32 @@
       "duration_ms": 166287,
       "name": "Porto Leone",
       "url": "https://open.spotify.com/track/4tdl1dv3eNHOvSQ1MUqOZW"
+    },
+    {
+      "album": {
+        "name": "Part Time Chaos Part Time Calmness",
+        "url": "https://open.spotify.com/album/2Yr7OK3Aj3dlG66BLrlU47"
+      },
+      "artists": [
+        {
+          "name": "Kito Jempere",
+          "url": "https://open.spotify.com/artist/1rcYZdCzi3poheNNvupX7K"
+        },
+        {
+          "name": "Jimi Tenor",
+          "url": "https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D"
+        },
+        {
+          "name": "Adam Evald",
+          "url": "https://open.spotify.com/artist/2ogRKEmGYMzhPjBY3rfcA4"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318300,
+      "name": "Put Love Into Your Heart",
+      "url": "https://open.spotify.com/track/27dwPVIOVS0tM7wOix1ihZ"
     },
     {
       "album": {
@@ -3606,6 +3802,24 @@
       "duration_ms": 132320,
       "name": "Save You",
       "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
+    },
+    {
+      "album": {
+        "name": "SECOND HAND MAN",
+        "url": "https://open.spotify.com/album/5pm3s2cqB38AOtUzezOho6"
+      },
+      "artists": [
+        {
+          "name": "IZO",
+          "url": "https://open.spotify.com/artist/4Y8qf5THcFh9n8s9aLWQSd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "SECOND HAND MAN",
+      "url": "https://open.spotify.com/track/2WFngIc6hFKzOopije9jta"
     },
     {
       "album": {
@@ -4018,7 +4232,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 199500,
       "name": "Stay Soft",
       "url": "https://open.spotify.com/track/5oHTLHLHVbuVK5YY1yO3rt"
@@ -4302,7 +4516,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 340840,
       "name": "The Light (feat. Bahia Dayes)",
       "url": "https://open.spotify.com/track/3wFA4vZlBMoDUjHNPTRaiZ"
@@ -4374,7 +4588,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 183613,
       "name": "The Wannabe",
       "url": "https://open.spotify.com/track/2rWPq0boMTydPsl8zFqafM"
@@ -5002,7 +5216,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 315561,
       "name": "Yesterday's Price",
       "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"

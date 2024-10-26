@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with Dear Seattle (pictured), Heart to Gold, Day Saints, Leaving Time and more.",
+  "description": "The shape of noise to come with Glimmer (pictured), Heart to Gold, Day Saints, Split Chain and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 147158,
       "name": "Bite The Knife",
       "url": "https://open.spotify.com/track/4OyXflQMqMFOSVyYrAxoz6"
@@ -2181,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn"
+      },
+      "artists": [
+        {
+          "name": "trauma ray",
+          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192696,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/0NMkKC8DoQE3Y0WVyoD4zx"
+    },
+    {
+      "album": {
         "name": "Not Just Yet",
         "url": "https://open.spotify.com/album/4IXs7xwoAWybrQiinwE0Hm"
       },
@@ -2250,6 +2268,24 @@
       "duration_ms": 288726,
       "name": "Chasms",
       "url": "https://open.spotify.com/track/1icQihnClFMeGQgKrSGehY"
+    },
+    {
+      "album": {
+        "name": "Stars Align",
+        "url": "https://open.spotify.com/album/3ee6yi3qicJajlY6SGU8fl"
+      },
+      "artists": [
+        {
+          "name": "New Age Thief",
+          "url": "https://open.spotify.com/artist/5wPi7eY4GvQnUzrkvkgVpM"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218996,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/4QXzHCSKAtUM7CBiovu7UR"
     },
     {
       "album": {
@@ -4900,7 +4936,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 213970,
       "name": "Got It Made",
       "url": "https://open.spotify.com/track/3W6bXivdg6fd9ikAgf2OhV"
@@ -9752,7 +9788,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 209032,
       "name": "Silent Call",
       "url": "https://open.spotify.com/track/494KKCu6CQRLqOdvb0P6Mk"
@@ -9957,6 +9993,24 @@
     },
     {
       "album": {
+        "name": "So Numb",
+        "url": "https://open.spotify.com/album/2rS3F64BXeKqjeoRtG8vas"
+      },
+      "artists": [
+        {
+          "name": "Glimmer",
+          "url": "https://open.spotify.com/artist/4ldTJbQ7TIIjZYgUtH5RwT"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212266,
+      "name": "So Numb",
+      "url": "https://open.spotify.com/track/2HA5vCyCfrVliuDSkYpnA4"
+    },
+    {
+      "album": {
         "name": "So So Soon",
         "url": "https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP"
       },
@@ -10094,7 +10148,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170800,
       "name": "Spaceboy",
       "url": "https://open.spotify.com/track/6ofeNhY1x3MEiXCI1gtFIq"
@@ -12376,6 +12430,24 @@
       "duration_ms": 171182,
       "name": "We've Had Enough",
       "url": "https://open.spotify.com/track/3bs96NK6A91sCXUIJZjBpW"
+    },
+    {
+      "album": {
+        "name": "Something Witty",
+        "url": "https://open.spotify.com/album/3MIRAg9YarXUiDZUgb4hZV"
+      },
+      "artists": [
+        {
+          "name": "Liotta Seoul",
+          "url": "https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "When I'm Dead",
+      "url": "https://open.spotify.com/track/2kKdUQ3awNwDxivN3zFsbd"
     },
     {
       "album": {

@@ -1,32 +1,28 @@
 {
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
-  "num_followers": 121505,
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech",
+  "num_followers": 121550,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAAC72DTfAQFIVNdHVMqYxEkx",
+  "snapshot_id": "ZxsXwAAAAAD5l6h0574j/B+7K0RcPLuK",
   "tracks": [
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "LA PANTERA NEGRA (DELUXE)",
-        "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
+        "name": "TOY PERDIO",
+        "url": "https://open.spotify.com/album/41Fx3xFa1msZKkLGXVgm4t"
       },
       "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
         {
           "name": "Sech",
           "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 228746,
-      "name": "OTRO NIVEL \ud83d\udc51 (feat. Sech)",
-      "url": "https://open.spotify.com/track/2OhDOv9O8BUEtckF7DDRCP"
+      "duration_ms": 175102,
+      "name": "TOY PERDIO",
+      "url": "https://open.spotify.com/track/3JXGcoxUTyBU7AYdpsLdH6"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -265,6 +261,34 @@
       "url": "https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Mi Oveja Perdida (Ft. Kevin Ice)",
+        "url": "https://open.spotify.com/album/6mAMpkkhPa9Lr6qwX9Z2JW"
+      },
+      "artists": [
+        {
+          "name": "Fulo El Yeyo",
+          "url": "https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Aldair Productions",
+          "url": "https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN"
+        },
+        {
+          "name": "Kevin Ice",
+          "url": "https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "Mi Oveja Perdida (Ft. Kevin Ice)",
+      "url": "https://open.spotify.com/track/0sI1eqpAXh6eMMuhp7NMSf"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Tu Puto Rock Star",
@@ -457,6 +481,26 @@
       "url": "https://open.spotify.com/track/1tD2tcdB8WpLlJCEBaJV4r"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "LA PANTERA NEGRA (DELUXE)",
+        "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 228746,
+      "name": "OTRO NIVEL \ud83d\udc51 (feat. Sech)",
+      "url": "https://open.spotify.com/track/2OhDOv9O8BUEtckF7DDRCP"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "Literatura",
@@ -507,26 +551,6 @@
       "duration_ms": 188040,
       "name": "TOP MODEL",
       "url": "https://open.spotify.com/track/3N7ylprsYVhBncJIZhKy1G"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Bon Appetit",
-        "url": "https://open.spotify.com/album/7x1dXZX20dTJZuGPShXW4o"
-      },
-      "artists": [
-        {
-          "name": "Meldo",
-          "url": "https://open.spotify.com/artist/2WKB0zZwYLkbbAftnceiEA"
-        },
-        {
-          "name": "wvltz",
-          "url": "https://open.spotify.com/artist/51j7RrvstwtgEjcwRAU3pq"
-        }
-      ],
-      "duration_ms": 172830,
-      "name": "Bon Appetit",
-      "url": "https://open.spotify.com/track/6FVOY6GSHXB3XlY3AIfMXf"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -899,26 +923,6 @@
       "duration_ms": 340480,
       "name": "Dragona Rmix",
       "url": "https://open.spotify.com/track/1nuf47FxdQrxekJJ8fVndJ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Mi Debilidad",
-        "url": "https://open.spotify.com/album/5TFzkkoiTkBzVXYGwzytNB"
-      },
-      "artists": [
-        {
-          "name": "At' Fat",
-          "url": "https://open.spotify.com/artist/455JBMYIT1lWf1Djj4rDc7"
-        },
-        {
-          "name": "Monthy",
-          "url": "https://open.spotify.com/artist/305jSmqgkIaovQoBCcATWl"
-        }
-      ],
-      "duration_ms": 158234,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/7cRs7IIWuhDoMHwN8lzSr7"
     },
     {
       "added_at": "2024-02-02 05:00:00",

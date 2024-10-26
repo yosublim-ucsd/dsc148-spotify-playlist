@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
-  "num_followers": 164226,
+  "num_followers": 164230,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -103,22 +103,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Leadfoot",
-        "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 165576,
-      "name": "Leadfoot",
-      "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "The Ballad of Dood & Juanita",
         "url": "https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 157696,
       "name": "Go in Peace",
       "url": "https://open.spotify.com/track/0wD2Ow0tFreEoTfWYt02gT"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Leadfoot",
+        "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 165576,
+      "name": "Leadfoot",
+      "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -259,18 +259,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
-        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
+        "name": "Midnight on the Stormy Deep",
+        "url": "https://open.spotify.com/album/0PgsXRaS1PIBUfwvoswFAI"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Del McCoury",
+          "url": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
         }
       ],
-      "duration_ms": 258217,
-      "name": "Brace for Impact (Live a Little)",
-      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
+      "duration_ms": 242593,
+      "name": "Midnight on the Stormy Deep",
+      "url": "https://open.spotify.com/track/4gVjsCMBPLqKj0ygvDY9a5"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -291,22 +295,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Midnight on the Stormy Deep",
-        "url": "https://open.spotify.com/album/0PgsXRaS1PIBUfwvoswFAI"
+        "name": "Cuttin' Grass - Vol. 2 (Cowboy Arms Sessions)",
+        "url": "https://open.spotify.com/album/3N51Ixwph25awFqhoACG0U"
       },
       "artists": [
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Del McCoury",
-          "url": "https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 242593,
-      "name": "Midnight on the Stormy Deep",
-      "url": "https://open.spotify.com/track/4gVjsCMBPLqKj0ygvDY9a5"
+      "duration_ms": 258217,
+      "name": "Brace for Impact (Live a Little)",
+      "url": "https://open.spotify.com/track/3iLjUZBNEWxGn5HQDpmMXo"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Congratulations and Condolences",
-        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
+        "name": "Back Porch Bluegrass",
+        "url": "https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "The Dillards",
+          "url": "https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS"
         }
       ],
-      "duration_ms": 215884,
-      "name": "Congratulations and Condolences",
-      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
+      "duration_ms": 170440,
+      "name": "Polly Vaughn",
+      "url": "https://open.spotify.com/track/0EPJB1ozouVQYW1qfHtWS1"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Back Porch Bluegrass",
-        "url": "https://open.spotify.com/album/3g3awNPtHQE1qcyBOTnlea"
+        "name": "Congratulations and Condolences",
+        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
       },
       "artists": [
         {
-          "name": "The Dillards",
-          "url": "https://open.spotify.com/artist/3WAkTbMThUvVRq5keECFtS"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 170440,
-      "name": "Polly Vaughn",
-      "url": "https://open.spotify.com/track/0EPJB1ozouVQYW1qfHtWS1"
+      "duration_ms": 215884,
+      "name": "Congratulations and Condolences",
+      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 220727,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Black Cowboys",
         "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/17wa8FFwa1mZQEp3A97JC7"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 220727,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/5SybEHAzVGgyDpT1Pz8Q6h"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Small Towns",
+        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+      },
+      "artists": [
+        {
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Colorado Bound",
+      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Heading East to West Virginia",
         "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 260493,
       "name": "Runaway Train",
       "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Small Towns",
-        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
-      },
-      "artists": [
-        {
-          "name": "Stillhouse Junkies",
-          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Colorado Bound",
-      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Morning Shift",
+        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263216,
+      "name": "Morning Shift",
+      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Earl Jam",
         "url": "https://open.spotify.com/album/1XvuX8TaK3bGUU80Ot741Q"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 199472,
       "name": "Dooley",
       "url": "https://open.spotify.com/track/2a00zfig1zAOU5aNytQgP2"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Morning Shift",
-        "url": "https://open.spotify.com/album/5AK94KLNpCTGCWf0r23UQn"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263216,
-      "name": "Morning Shift",
-      "url": "https://open.spotify.com/track/5LzygrOCvpNbLguxfOGWPD"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Murmurations, Vol. 2",
         "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 279506,
       "name": "Sandhill Cranes",
       "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/7h6jcDbRnEgGckNmHETnxS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1O3PgBXag8FXqk0s7gFQ3A"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Something You Didn't Count On",
-        "url": "https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 173183,
-      "name": "Something You Didn\u2019t Count On",
-      "url": "https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Trains, Thinkin' and Drinkin'",
         "url": "https://open.spotify.com/album/3epAjR9YFNESIJn0KH1WWd"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 176170,
       "name": "Complicated Man",
       "url": "https://open.spotify.com/track/1Hq6sbdvNEcgEFNeqpkRhX"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Something You Didn't Count On",
+        "url": "https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 173183,
+      "name": "Something You Didn\u2019t Count On",
+      "url": "https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "All the Mornings Have an Echo",
-        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
-      },
-      "artists": [
-        {
-          "name": "Forest Sun",
-          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
-        }
-      ],
-      "duration_ms": 175128,
-      "name": "All the Mornings Have an Echo",
-      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Knee Deep in Bluegrass",
         "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
       },
@@ -1575,22 +1559,6 @@
       "duration_ms": 182000,
       "name": "Knee Deep in Bluegrass",
       "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Kentucky Bluegrassed",
-        "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
-      },
-      "artists": [
-        {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        }
-      ],
-      "duration_ms": 180570,
-      "name": "Kentucky Blue",
-      "url": "https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1615,18 +1583,34 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
+        "name": "Kentucky Bluegrassed",
+        "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
       },
       "artists": [
         {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
         }
       ],
-      "duration_ms": 226466,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
+      "duration_ms": 180570,
+      "name": "Kentucky Blue",
+      "url": "https://open.spotify.com/track/27X3biDWvlmifAjhTXV8IY"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "All the Mornings Have an Echo",
+        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "duration_ms": 175128,
+      "name": "All the Mornings Have an Echo",
+      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 173237,
       "name": "Railroadin' & Gamblin'",
       "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Snake Charmer",
-        "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
-      },
-      "artists": [
-        {
-          "name": "Balsam Range",
-          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Snake Charmer",
-      "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Blues Are Close at Hand",
         "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 159427,
       "name": "Blues Are Close at Hand",
       "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Snake Charmer",
+        "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
+      },
+      "artists": [
+        {
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Snake Charmer",
+      "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
     }
   ],
   "unique_name": "Grass Roots",

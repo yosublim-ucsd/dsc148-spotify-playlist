@@ -1,31 +1,15 @@
 {
-  "description": "New music from Gunna, Yeat and Juice WRLD. ",
-  "num_followers": 16079557,
+  "description": "New music from Tyler, The Creator, Gucci Mane, Sexyy Red and Megan Thee Stallion.",
+  "num_followers": 16080364,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxnGQAAAAAA9l33P5FeJoI0m6tS1ExMx",
+  "snapshot_id": "ZxsXwAAAAADTWQIBLsCNDFt78AoRlrCS",
   "tracks": [
     {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "HIM ALL ALONG",
-        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "HIM ALL ALONG",
-      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Noid",
         "url": "https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl"
@@ -41,7 +25,7 @@
       "url": "https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -61,7 +45,23 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "HIM ALL ALONG",
+        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "HIM ALL ALONG",
+      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/01JuX8fEX5ACudymzCB3O3"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "MIXTAPE PLUTO",
         "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
@@ -93,31 +93,39 @@
       "url": "https://open.spotify.com/track/2t4H61OtTYgmDe61KxkjKH"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "100 GIGS",
-        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
+        "name": "No Face",
+        "url": "https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h"
       },
       "artists": [
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 278000,
-      "name": "It's Up (feat. Young Thug & 21 Savage)",
-      "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
+      "duration_ms": 137142,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "ALL RED",
+        "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 148053,
+      "name": "ALL RED",
+      "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "HARDSTONE PSYCHO",
         "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
@@ -133,7 +141,7 @@
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Or What",
         "url": "https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2"
@@ -157,79 +165,27 @@
       "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "MIXTAPE PLUTO",
-        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
+        "name": "You Don\u2019t Love Me",
+        "url": "https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 139196,
-      "name": "LIL DEMON",
-      "url": "https://open.spotify.com/track/3aCPResPDNae3pXTocGpYe"
-    },
-    {
-      "added_at": "2024-10-24 04:00:00",
-      "album": {
-        "name": "Thug Matrimony: Married to the Streets",
-        "url": "https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT"
-      },
-      "artists": [
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "Twista",
-          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 222200,
-      "name": "Let's Go (feat. Twista & Lil' Jon)",
-      "url": "https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs"
+      "duration_ms": 157332,
+      "name": "You Don\u2019t Love Me",
+      "url": "https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "No Face",
-        "url": "https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "ALL RED",
-        "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 148053,
-      "name": "ALL RED",
-      "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "MIXTAPE PLUTO",
         "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
@@ -245,7 +201,47 @@
       "url": "https://open.spotify.com/track/2jnezASa7o0lP6aif6VrIf"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "It's Up (feat. Young Thug & 21 Savage)",
+      "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Bigger In Texas",
+      "url": "https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "John Wayne (feat. Metro Boomin)",
         "url": "https://open.spotify.com/album/4iJfINkNSOSt9sGoJ3FPNx"
@@ -265,55 +261,23 @@
       "url": "https://open.spotify.com/track/4mfaQcqYhlv0X9xF2bDWxG"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "The Pre-Party (Extended)",
-        "url": "https://open.spotify.com/album/51ojViy1d9Siz28EF08d49"
+        "name": "MIXTAPE PLUTO",
+        "url": "https://open.spotify.com/album/4Zoxsc06EUHRf5GrJPJZ54"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 197428,
-      "name": "Both Ways",
-      "url": "https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U"
+      "duration_ms": 139196,
+      "name": "LIL DEMON",
+      "url": "https://open.spotify.com/track/3aCPResPDNae3pXTocGpYe"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 217613,
-      "name": "Brokey",
-      "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "100 GIGS",
-        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 126356,
-      "name": "Circadian Rhythm",
-      "url": "https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
@@ -329,79 +293,71 @@
       "url": "https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "LYFESTYLE",
-        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
+        "name": "S.I.P",
+        "url": "https://open.spotify.com/album/6r0EFFUcZl45ChVwCjr5jF"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 170187,
-      "name": "GEEK TIM\u00cb",
-      "url": "https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz"
+      "duration_ms": 146890,
+      "name": "S.I.P",
+      "url": "https://open.spotify.com/track/6MHAoGCcuOxXzfC6KYSlF1"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Last Lap",
-        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
       },
       "artists": [
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 180000,
-      "name": "25",
-      "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
+      "duration_ms": 217613,
+      "name": "Brokey",
+      "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Mr. Skii",
-        "url": "https://open.spotify.com/album/4XqpSvwcjnoR5YP5lBLuTi"
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
       },
       "artists": [
         {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        },
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 159228,
-      "name": "2 Slippery (feat. BossMan Dlow)",
-      "url": "https://open.spotify.com/track/62oLxos6R04SVYL1lXidvu"
+      "duration_ms": 126356,
+      "name": "Circadian Rhythm",
+      "url": "https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Blow for Blow (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/2EGoU6wx7retxKjClGyaxA"
       },
       "artists": [
         {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 210285,
-      "name": "Blow for Blow (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
+      "duration_ms": 131818,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0kZLYZ9qpZrQYedUMI7s58"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "FIELD TRIP",
         "url": "https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK"
@@ -429,7 +385,83 @@
       "url": "https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 179946,
+      "name": "Dark Knight",
+      "url": "https://open.spotify.com/track/4eVjHYvqgwQsPN16XeX9JR"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Mr. Skii",
+        "url": "https://open.spotify.com/album/4XqpSvwcjnoR5YP5lBLuTi"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 159228,
+      "name": "2 Slippery (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/62oLxos6R04SVYL1lXidvu"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Blow for Blow (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Blow for Blow (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 139192,
+      "name": "Roc Steady (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/3un3wRHzA77vlkWIXTWxNW"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "SPEAK NOW OR...",
         "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
@@ -445,7 +477,7 @@
       "url": "https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Dope Boy",
         "url": "https://open.spotify.com/album/2sOsaBI0pr8uu1RmZDbeMe"
@@ -465,7 +497,7 @@
       "url": "https://open.spotify.com/track/2WxUBA3L7k2Af4kTVB6QeI"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "TGIF",
         "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
@@ -481,39 +513,7 @@
       "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "LYFESTYLE",
-        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 104751,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/05oIDnL2jfeUxYiDIIqFP6"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 126832,
-      "name": "NISSAN ALTIMA",
-      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "BROTHER STONE (FEAT. KODAK BLACK)",
         "url": "https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE"
@@ -533,99 +533,23 @@
       "url": "https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Sorry Not Sorry",
-        "url": "https://open.spotify.com/album/2Wu6YPeXdwiyqV5YulLf1W"
+        "name": "The Viper",
+        "url": "https://open.spotify.com/album/3cQR7hyzZEbwAESuPEu8qR"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
         }
       ],
-      "duration_ms": 136708,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/4lwfqyQXSDJ7kELpMErMih"
+      "duration_ms": 150997,
+      "name": "The Viper",
+      "url": "https://open.spotify.com/track/2JapCT0xikq6Fy1PQiJz1C"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "PJ (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG"
-      },
-      "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 178359,
-      "name": "PJ (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "KEHLANI",
-        "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        }
-      ],
-      "duration_ms": 122360,
-      "name": "KEHLANI",
-      "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "one of wun",
-      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Hate Me",
         "url": "https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy"
@@ -645,7 +569,99 @@
       "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 126832,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "PJ (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 178359,
+      "name": "PJ (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/2Wu6YPeXdwiyqV5YulLf1W"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "duration_ms": 136708,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/4lwfqyQXSDJ7kELpMErMih"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "one of wun",
+      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "F*cked A Fan",
         "url": "https://open.spotify.com/album/0sAfbjseurhcUHr03GquMV"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/5VMivzA6e7YD4HrZZEpclj"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Parking Lot",
         "url": "https://open.spotify.com/album/6YQ5Y4ITpAQCANWhNHraXi"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/4IFd7EVCyJsUHesBMXI8ju"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "BAD TIME",
         "url": "https://open.spotify.com/album/0j8IPQxwlRChALfwro711D"
@@ -717,7 +733,7 @@
       "url": "https://open.spotify.com/track/2HrgD87YHrINdWlEU7o0gn"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "The Largest",
         "url": "https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144"
@@ -733,7 +749,7 @@
       "url": "https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Tailor Swif",
         "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
@@ -749,27 +765,7 @@
       "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "Saturday Mornings (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 263449,
-      "name": "Saturday Mornings (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "The Death of Slim Shady (Coup De Gr\u00e2ce): Expanded Mourner\u2019s Edition",
         "url": "https://open.spotify.com/album/31hcgCSu4mlA82syOFItur"
@@ -789,7 +785,7 @@
       "url": "https://open.spotify.com/track/6Yfg3TrnzThhrZ0i6UDBSv"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "PLAN A",
         "url": "https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL"
@@ -805,7 +801,7 @@
       "url": "https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Passport Junkie",
         "url": "https://open.spotify.com/album/7dzmFK2wNTKH6BGeaL20Fv"
@@ -821,7 +817,7 @@
       "url": "https://open.spotify.com/track/5ahdQDl9WGN9dNDDH0RKyJ"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "HIGHJACK",
         "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
@@ -841,51 +837,23 @@
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Neva Play (feat. RM of BTS)",
-        "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
+        "name": "The Pre-Party (Extended)",
+        "url": "https://open.spotify.com/album/51ojViy1d9Siz28EF08d49"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 157173,
-      "name": "Neva Play (feat. RM of BTS)",
-      "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
+      "duration_ms": 197428,
+      "name": "Both Ways",
+      "url": "https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
-      "album": {
-        "name": "STUPID (WITH LIL YACHTY & BABYFACE RAY)",
-        "url": "https://open.spotify.com/album/0LpnKDM6JGLcZP4haLZpwI"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 175656,
-      "name": "STUPID - WITH LIL YACHTY & BABYFACE RAY",
-      "url": "https://open.spotify.com/track/7wtUI2bKLWZ23GOmzMkU1Q"
-    },
-    {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "gen z luv",
         "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
@@ -901,40 +869,36 @@
       "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "U Kno What To Do (UKWTD)",
-        "url": "https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7"
+        "name": "LYFESTYLE",
+        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
       },
       "artists": [
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 158018,
-      "name": "U Kno What To Do (UKWTD)",
-      "url": "https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV"
+      "duration_ms": 170187,
+      "name": "GEEK TIM\u00cb",
+      "url": "https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz"
     },
     {
-      "added_at": "2024-10-21 16:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "LOVE LASTS FOREVER",
-        "url": "https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv"
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
       "artists": [
         {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 274308,
-      "name": "LOVE HURTS (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg"
+      "duration_ms": 180000,
+      "name": "25",
+      "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
     }
   ],
   "unique_name": "RapCaviar",

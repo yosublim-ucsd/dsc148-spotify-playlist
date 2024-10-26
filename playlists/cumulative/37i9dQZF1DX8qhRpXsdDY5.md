@@ -4,7 +4,7 @@
 
 > Latin classics to get you in the Christmas spirit\. Cover: Luis Miguel
 
-242 songs - 14 hr 22 min
+243 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Caliente Navidad](https://open.spotify.com/track/60PHBxCLNJJ1cefofRKQNN) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [Caliente Navidad](https://open.spotify.com/album/1PC2nH9wPwsmr7UYz4kfrf) | 3:08 | 2021-12-17 | 2022-12-19 |
 | [Campana Sobre Campana](https://open.spotify.com/track/6dt6s7OPMXcdcPUqRJJg9c) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Navidad con Pandora](https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV) | 3:02 | 2021-12-17 | 2022-12-19 |
 | [Campana Sobre Campana](https://open.spotify.com/track/0LjIptp63zmCOz6O1V7QQB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Los 3 Reyes Magos](https://open.spotify.com/album/3giDYIPFNlfwNFIi6Z8ZUq) | 2:38 | 2022-12-19 |  |
-| [Campanas De Plata](https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Eterna Navidad \(US Version\)](https://open.spotify.com/album/78v5jMZria78NZVsostS4t) | 2:23 | 2022-12-19 |  |
+| [Campanas De Plata](https://open.spotify.com/track/5InDcyTXOBg3inzbwbSYQj) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Eterna Navidad \(US Version\)](https://open.spotify.com/album/78v5jMZria78NZVsostS4t) | 2:23 | 2022-12-19 | 2024-10-26 |
 | [Canción de Navidad](https://open.spotify.com/track/10IHgFIafEVJ3uKkJeW3XJ) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Rodríguez](https://open.spotify.com/album/78azykFnf84A4MBMFcmAIj) | 5:57 | 2021-12-17 | 2022-12-19 |
 | [Canción de Navidad](https://open.spotify.com/track/7fzuBfsBXwdxanzNeG0rsW) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Rodríguez](https://open.spotify.com/album/2Egk1FzkNCmtTNSzMRPSFu) | 5:57 | 2021-12-17 | 2022-07-29 |
 | [Canción para la Navidad](https://open.spotify.com/track/27H6MTnARtNU4bQuHxuyH7) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Navidad En España](https://open.spotify.com/album/4C4U9Rmq9gdtAUreLkh5oO) | 3:49 | 2023-12-20 | 2024-03-03 |
@@ -169,6 +169,7 @@
 | [Navidad, Navidad](https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:34 | 2021-12-17 |  |
 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/3jcQdzXtzd6jnjRny2Ez6b) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:29 | 2021-12-17 | 2022-12-19 |
 | [No Te Pongas Triste](https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Parranda All\-Stars: Navidad](https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI) | 3:54 | 2021-12-17 |  |
+| [Noche Buena Y Navidad \(Rockin' Around The Christmas Tree\)](https://open.spotify.com/track/2oGrSrg08RVLHeqFH1eaHZ) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Noche Buena Y Navidad \(Rockin' Around The Christmas Tree\)](https://open.spotify.com/album/09q2zFwQEfVn3XN5EkkEu5) | 2:03 | 2024-10-25 |  |
 | [Noche de Paz](https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Noche de Paz](https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW) | 3:41 | 2021-12-17 |  |
 | [Noche de Paz](https://open.spotify.com/track/2mStgUqkDlNtY4h9Fy9s2y) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 2:06 | 2022-12-13 | 2022-12-20 |
 | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Noche de Paz \- Recorded at Electric Lady Studios NYC \- Spotify Studios NYC](https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f) | 2:04 | 2021-12-17 | 2022-12-19 |

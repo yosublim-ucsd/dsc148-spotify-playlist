@@ -11987,6 +11987,24 @@
     },
     {
       "album": {
+        "name": "NO WAY AROUND IT",
+        "url": "https://open.spotify.com/album/3BIxjSmvJSXpXN9ZfSCULD"
+      },
+      "artists": [
+        {
+          "name": "Anfa Rose",
+          "url": "https://open.spotify.com/artist/6QyD04sHvKf1AjxkXrNRk1"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177534,
+      "name": "NO WAY AROUND IT",
+      "url": "https://open.spotify.com/track/3qWVReQTCayxArpUz60YJ3"
+    },
+    {
+      "album": {
         "name": "NO!",
         "url": "https://open.spotify.com/album/6Fd5zE5o985sRtvGX97gpc"
       },

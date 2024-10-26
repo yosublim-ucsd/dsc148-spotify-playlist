@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Top country hits you know and love! Cover: Jordan Davis",
+  "description": "Top country hits you know and love! Cover: Bailey Zimmerman",
   "name": "Big Country",
   "tracks": [
     {
@@ -470,7 +470,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 201485,
       "name": "Back Then Right Now",
       "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 183906,
       "name": "Country Boy's Dream Girl",
       "url": "https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV"
@@ -2835,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Holy Smokes",
+        "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "Holy Smokes",
+      "url": "https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ"
+    },
+    {
+      "album": {
         "name": "Higher Education",
         "url": "https://open.spotify.com/album/5bELdsFWcbaW2fhAVf8TyL"
       },
@@ -3771,6 +3789,28 @@
     },
     {
       "album": {
+        "name": "Lonely Road (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189356,
+      "name": "Lonely Road (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
+    },
+    {
+      "album": {
         "name": "Longneck Way To Go",
         "url": "https://open.spotify.com/album/37OKIJQT1W3fjkPkY6kyjg"
       },
@@ -4068,6 +4108,24 @@
       "duration_ms": 191231,
       "name": "Man Made A Bar (feat. Eric Church)",
       "url": "https://open.spotify.com/track/73zawW1ttszLRgT9By826D"
+    },
+    {
+      "album": {
+        "name": "Maxed Out",
+        "url": "https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt"
+      },
+      "artists": [
+        {
+          "name": "Bayker Blankenship",
+          "url": "https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172607,
+      "name": "Maxed Out",
+      "url": "https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq"
     },
     {
       "album": {
@@ -4902,7 +4960,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 183080,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
@@ -4974,7 +5032,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 181498,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
@@ -5238,6 +5296,28 @@
       "duration_ms": 249872,
       "name": "Russell County Line",
       "url": "https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA"
+    },
+    {
+      "album": {
+        "name": "Postcards From Texas",
+        "url": "https://open.spotify.com/album/2c12Spm8XcLAT2xYtQdgGK"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183242,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
     },
     {
       "album": {

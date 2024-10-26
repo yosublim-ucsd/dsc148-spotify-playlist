@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 991 songs - 2 day 12 hr 51 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,002 songs - 2 day 13 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -999,5 +999,16 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 989 | [Every Little Thing](https://open.spotify.com/track/3pYe8mHBYO8LGNWxPCAFA8) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Every Little Thing](https://open.spotify.com/album/6ogr8cWsKopLsMgLEhOFor) | 3:49 |
 | 990 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 |
 | 991 | [Lemon](https://open.spotify.com/track/2eHo0df4b8eRW63X6N8Hxs) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Loveseat](https://open.spotify.com/album/7oP7ABjXuVjSCiDexJ2bza) | 3:50 |
+| 992 | [Every Little Thing](https://open.spotify.com/track/07PKvNFfqWrhTHBIX2Z2so) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 3:49 |
+| 993 | [Yasmina](https://open.spotify.com/track/6tb3A0m5gtwNAeTkOMtmeR) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 3:45 |
+| 994 | [Am I Your Girl](https://open.spotify.com/track/6P3BLSxIWbcWF8cNkimmLy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:14 |
+| 995 | [Little Dive](https://open.spotify.com/track/4Aqcd46pV5plZucFZUHbCH) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:04 |
+| 996 | [Outta Here](https://open.spotify.com/track/5uCBM7JENsMZHVKod1F63L) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 5:21 |
+| 997 | [Did You Love Somebody](https://open.spotify.com/track/6cpjrMYmU9RAYFSFMGyF0C) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:09 |
+| 998 | [St\. Mark's Funny Feeling](https://open.spotify.com/track/1AD9QOs15iecgVRuzo2llQ) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:20 |
+| 999 | [Magpie](https://open.spotify.com/track/0svqVl7FSyjewup47iNOGz) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:01 |
+| 1000 | [Nowhere Next To Me](https://open.spotify.com/track/7uslJ2QBxMKNrilVuUctZ6) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:12 |
+| 1001 | [Wax & Wane](https://open.spotify.com/track/3paWY4PLah4b0LBF3hcJKE) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:12 |
+| 1002 | [Your Long Black Hair](https://open.spotify.com/track/7eTGg3CoJtcSXwUQ6KQI92) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 3:46 |
 
-Snapshot ID: `AAAIqoG3bfpyHSirMeiWRMQXoNyXRBEI`
+Snapshot ID: `AAAIq5NXXHyzSOWOXJwE8MD7xjOp37vh`

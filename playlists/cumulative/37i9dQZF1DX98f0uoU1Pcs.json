@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a unique mix of rock, punk, alt & indie. Cover: Being Dead",
+  "description": "a unique mix of rock, punk, alt & indie. Cover: Pixies",
   "name": "Noisy",
   "tracks": [
     {
@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 360995,
       "name": "Backseat Girl",
       "url": "https://open.spotify.com/track/7y23wOenPKul2aNEF7Dcwr"
@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 262653,
       "name": "Chicken",
       "url": "https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8"
@@ -1974,6 +1974,28 @@
       "duration_ms": 127093,
       "name": "Choking",
       "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
+    },
+    {
+      "album": {
+        "name": "Cleopatras",
+        "url": "https://open.spotify.com/album/1Y0wEbB4rboWUu78aGDJ2N"
+      },
+      "artists": [
+        {
+          "name": "Warmduscher",
+          "url": "https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR"
+        },
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218506,
+      "name": "Cleopatras",
+      "url": "https://open.spotify.com/track/5XLkv5fJhKrQNBZhITzoOQ"
     },
     {
       "album": {
@@ -2046,7 +2068,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 176757,
       "name": "Collect",
       "url": "https://open.spotify.com/track/252ODAgPlMKwwh9XWo8xgW"
@@ -2082,7 +2104,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 274266,
       "name": "Come Down Awkward",
       "url": "https://open.spotify.com/track/26hBZ4qvc7GYyZy2KGocgp"
@@ -2677,6 +2699,24 @@
     },
     {
       "album": {
+        "name": "Demon Compass (Deluxe)",
+        "url": "https://open.spotify.com/album/0OdlKEuLYqLiIsWUGcmUip"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210386,
+      "name": "Demon Compass",
+      "url": "https://open.spotify.com/track/5cJXzg4SyMjBsmIWttHIAb"
+    },
+    {
+      "album": {
         "name": "Derailer",
         "url": "https://open.spotify.com/album/72bQ2H2xbYK6QMjt7Gqpmw"
       },
@@ -2858,7 +2898,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 323479,
       "name": "Dogear",
       "url": "https://open.spotify.com/track/3CR95abHmSMKF1V7SXiXj3"
@@ -6062,6 +6102,24 @@
       "duration_ms": 255338,
       "name": "I Trusted You",
       "url": "https://open.spotify.com/track/6aq1hwOHwc8kWXRyZNB1Ht"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be On Your Mind",
+        "url": "https://open.spotify.com/album/3eBSE3aibxYGrWQNCpTTFa"
+      },
+      "artists": [
+        {
+          "name": "2nd Grade",
+          "url": "https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148304,
+      "name": "I Wanna Be On Your Mind",
+      "url": "https://open.spotify.com/track/57YrZGiM3VeXV1jWWSuuwD"
     },
     {
       "album": {
@@ -9764,7 +9822,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 131082,
       "name": "Raining",
       "url": "https://open.spotify.com/track/6oywJrE3hcADAWLNL6egqp"
@@ -10294,6 +10352,24 @@
       "duration_ms": 171746,
       "name": "Scabs",
       "url": "https://open.spotify.com/track/2z1GAPr2vbVZv403DviPFb"
+    },
+    {
+      "album": {
+        "name": "Farfalla / Schmetterling",
+        "url": "https://open.spotify.com/album/0oJoLsoo91hJ2EhgFqz2Et"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Schmetterling",
+      "url": "https://open.spotify.com/track/1FdKU2jBVHNlsY5SdT5v9N"
     },
     {
       "album": {
@@ -11230,6 +11306,28 @@
       "duration_ms": 180444,
       "name": "Starting and Staring",
       "url": "https://open.spotify.com/track/2XsyUC0ufwTPbJR1xZsJez"
+    },
+    {
+      "album": {
+        "name": "STAY DOWN, LAZARUS",
+        "url": "https://open.spotify.com/album/4wDhf6O8dFSD4wu1l06BHO"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        },
+        {
+          "name": "John Grant",
+          "url": "https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204400,
+      "name": "STAY DOWN, LAZARUS",
+      "url": "https://open.spotify.com/track/1aka3X2G2jnop9tzY5dhHI"
     },
     {
       "album": {
@@ -12170,6 +12268,24 @@
       "duration_ms": 129923,
       "name": "The Thief",
       "url": "https://open.spotify.com/track/4VgwQttkrdly8kcYM2DXdc"
+    },
+    {
+      "album": {
+        "name": "The Night the Zombies Came",
+        "url": "https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223866,
+      "name": "The Vegas Suite",
+      "url": "https://open.spotify.com/track/304fddzE78zrBtZv42biyB"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [New Music Friday BE](https://open.spotify.com/playlist/37i9dQZF1DXbUOvbOBAiPu)
 
-> The best new songs of the week!
+> The best new songs of the week! Cover: Lady Gaga
 
-2,376 songs - 5 day 6 hr 2 min
+2,378 songs - 5 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,7 @@
 | [Corazón](https://open.spotify.com/track/77qNb5nsA1zFvQMj8OfyUn) | [Naomi Aguilera](https://open.spotify.com/artist/1C9JdiobtnE0jht0I6g9uI) | [Corazón](https://open.spotify.com/album/4Z5fauR5ebwKTxITvPcCx7) | 2:25 | 2024-07-19 | 2024-07-27 |
 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 | 2024-07-11 | 2024-07-19 |
 | [COSMOS \(ma première chanson, j'avais 16 ans\)](https://open.spotify.com/track/3t1pdlHzN1IbmfVGRrbCth) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [VIEUX SONS](https://open.spotify.com/album/5YkdGNYVnai3pDHlDHLwsX) | 2:59 | 2024-08-29 | 2024-09-06 |
-| [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 | 2024-10-24 |  |
+| [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [LA MAIN SUR LE COEUR](https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 | 2024-10-24 |  |
 | [Count Money \(feat\. Bossman Dlow\)](https://open.spotify.com/track/5qOQkax7uhJmezY1dWjJj6) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Count Money \(feat\. Bossman Dlow\)](https://open.spotify.com/album/4ce8dUVfxMp8FazEMMKBhK) | 2:42 | 2024-08-22 | 2024-08-30 |
 | [Course à la victoire](https://open.spotify.com/track/2e4DAXW0sD75EEs0tPKZJU) | [Chris Lobanzo](https://open.spotify.com/artist/7u8kz2V293SFXUMzz8FGTi) | [Course à la victoire](https://open.spotify.com/album/4pZ0KyxUMBi6XfS2pk4jh3) | 2:38 | 2024-05-23 | 2024-06-01 |
 | [Cowboys Cry](https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o) | 3:12 | 2024-05-16 | 2024-05-24 |
@@ -537,6 +537,7 @@
 | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/album/0yEtoAdaaX7mZOhjgr7IBH) | 3:17 | 2024-10-17 | 2024-10-25 |
 | [Disco Marathon \(feat\. NEEKA\)](https://open.spotify.com/track/6eLLQ5NzQchs3RalH4TcVa) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Disco Marathon \(feat\. NEEKA\)](https://open.spotify.com/album/00g9nQ0HVCvPIN6qEwQww8) | 2:16 | 2024-06-13 | 2024-06-21 |
 | [Disconnected](https://open.spotify.com/track/1rjLPqMPgbSlMDMQrRl4qQ) | [The Rats](https://open.spotify.com/artist/2SZ1PymZMuJeLAgFhUWlCE) | [Disco To Disco \(EP\)](https://open.spotify.com/album/3zQD393qrboOcfhhR21OG8) | 3:22 | 2024-09-12 | 2024-09-20 |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 |  |
 | [Dit Is Voor Jou \- Uit Liefde Voor Muziek](https://open.spotify.com/track/3zXwT2g4t1P16RChezmTND) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/3bUg0zMcbkEjX8T7TgdzYP) | 3:33 | 2024-04-26 | 2024-05-03 |
 | [Do I Know Myself At All?](https://open.spotify.com/track/6KlmtPCVaW3V8nfKRq6Efd) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ) | [Do I Know Myself At All?](https://open.spotify.com/album/3ASaIg3bWEMdDOvJKDLhRg) | 4:19 | 2024-09-19 | 2024-09-27 |
 | [Do It All Again](https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Do It All Again](https://open.spotify.com/album/0fSwedf5yAl2AmIdZ2yrR0) | 2:35 | 2024-09-19 | 2024-09-27 |
@@ -849,6 +850,7 @@
 | [HEADPOP](https://open.spotify.com/track/0AEniffbTbszvF835TWf5P) | [Sadandsolo](https://open.spotify.com/artist/0JKJ8w8dzJ894jec6ZtAkH) | [HEADPOP / W](https://open.spotify.com/album/30tlW2vvh6v29xbITQ9Mou) | 2:53 | 2024-07-19 | 2024-07-27 |
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 2:42 | 2024-06-20 | 2024-06-28 |
 | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak) | 2:29 | 2024-09-12 | 2024-09-20 |
+| [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 | 2024-10-24 |  |
 | [Heart Sped Up \(BFF\)](https://open.spotify.com/track/1ywCn7d9mHQ8PROIIZdVGL) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ) | [Heart Sped Up \(BFF\)](https://open.spotify.com/album/2e1ZjtU3Dikrdpx21IzXSz) | 1:56 | 2024-05-16 | 2024-05-24 |
 | [Heart's Enigma \(feat\. Madeline Roose\)](https://open.spotify.com/track/5WAedtb1xfu4HZwTUcBm9G) | [AL3](https://open.spotify.com/artist/2v3VdYK8PvZ6ZVDZS8GcVA), [Madeline Roose](https://open.spotify.com/artist/7gT4L33diOHWRenxws2o8X) | [Heart's Enigma \(feat\. Madeline Roose\)](https://open.spotify.com/album/5MEAzG3z6oTbzFve33Pz7D) | 3:27 | 2024-08-01 | 2024-08-09 |
 | [Heartbeat](https://open.spotify.com/track/54s8mOgQLzw1euN9r6XV1I) | [YUMA](https://open.spotify.com/artist/23zXvrRz49GwtiHKEt49qE) | [Heartbeat](https://open.spotify.com/album/7wZJzZtNdQlwK70IZ8Hc1K) | 3:28 | 2024-05-16 | 2024-05-24 |

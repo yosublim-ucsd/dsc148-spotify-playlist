@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: Yseult
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,800 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,830 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 7 | [Mister Bare Minimum](https://open.spotify.com/track/01H3qyUdDIltkDr6mMBXMs) | [KTJ & CARLY](https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M) | [Mister Bare Minimum](https://open.spotify.com/album/3CmS7S2j5c9xReMkbiAKd9) | 3:10 |
 | 8 | [Brand New Bitch](https://open.spotify.com/track/6kWYrk7tealTEXUAsXFYCL) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Starlet](https://open.spotify.com/album/5QlDhL6EuESEOokqeRPva6) | 2:13 |
 | 9 | [Chasm](https://open.spotify.com/track/3B2zZpNfRY47H0eyVBFlPn) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Chasm](https://open.spotify.com/album/3J5RD4gtqmlIYptWCyi4hg) | 3:03 |
-| 10 | [Girlhood, Godhood](https://open.spotify.com/track/50arhjErqvGjMz07YgebJx) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Girlhood, Godhood](https://open.spotify.com/album/3Zq5xW18jIthd3jr4jt7ga) | 2:24 |
+| 10 | [Girlhood, Godhood](https://open.spotify.com/track/50arhjErqvGjMz07YgebJx) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Girlhood, Godhood](https://open.spotify.com/album/3Zq5xW18jIthd3jr4jt7ga) | 2:55 |
 | 11 | [Serena](https://open.spotify.com/track/4Ha8spr1v3kNvfTUdR5so7) | [Ali Stone](https://open.spotify.com/artist/4dB1htx5tpskk0FQq8TnOv) | [Pandora](https://open.spotify.com/album/3TbZrsYVkYq5UgE20sHITX) | 2:11 |
 | 12 | [Intro](https://open.spotify.com/track/0dzsRspqfdVfYZ21vi9AKr) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Intro](https://open.spotify.com/album/2NQBgfGnjWW70hdYDQ2v11) | 2:04 |
 | 13 | [BURN THE WITCH](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [BURN THE WITCH](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 |

@@ -4,12 +4,13 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-332 songs - 17 hr 36 min
+335 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Not\) a Penny in My Pocket \- Demo Version](https://open.spotify.com/track/4svDzNF6PuBs2ojcE8sS1f) | [Jimmy Campbell](https://open.spotify.com/artist/1lvD6UZjY7oyb02YqG1eNC) | [Troubadour \(Lost Recordings 1965\-1991\)](https://open.spotify.com/album/1DkMIFEEetXsDc4Ao0X1Fc) | 2:34 | 2024-05-16 | 2024-07-12 |
 | [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 | 2024-10-22 |  |
+| [400 & 57](https://open.spotify.com/track/1KlSberDtUJKrXQsEujQr3) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [In Solarium](https://open.spotify.com/album/13ZC7qriL0nNYB04lK4CXB) | 3:56 | 2024-10-25 |  |
 | [A Better Life Since](https://open.spotify.com/track/28EkO7bqzJ86Lqgbmuyv17) | [Southpacific](https://open.spotify.com/artist/5eeXcEsflXi3q0GiIw1mCL) | [Constance](https://open.spotify.com/album/4w29IA02Wl4V54uD8bXbry) | 1:49 | 2024-05-16 | 2024-07-12 |
 | [A Furrow Dub](https://open.spotify.com/track/5tauzxQXma1ic7aAnkEtWw) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Boogiepop Phantom Original Soundtrack](https://open.spotify.com/album/58m4Xt0j6oYFLeG81GmEd6) | 6:02 | 2024-07-29 | 2024-09-08 |
 | [A Highway Got Paved Over My Future, I Drive It Getting to School](https://open.spotify.com/track/5wJzxnpc4uIT7cG7fNkNwW) | [Brave Little Abacus](https://open.spotify.com/artist/23prE3lyFVVNVGMV5jADsp) | [Just Got Back from the Discomfort We're Alright](https://open.spotify.com/album/3jLrWEYpwKnptkzEXAyT66) | 2:34 | 2024-05-30 | 2024-07-12 |
@@ -107,6 +108,7 @@
 | [Game Over](https://open.spotify.com/track/36U34yPBv5hSEjjAZJd3Uk) | [Antelope](https://open.spotify.com/artist/4lSlPRplvabiorNKIn3NNR) | [Antelope](https://open.spotify.com/album/76dEh2y2iJlA7rrXR1bdzm) | 2:47 | 2024-07-12 | 2024-09-08 |
 | [Gates of Heaven](https://open.spotify.com/track/21S8jPbABB05vCFFwuyXGS) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Gates of Heaven / Snake Eyes \(again\)](https://open.spotify.com/album/6Ek7TQ6Halv6mbhuzRuvcZ) | 2:22 | 2024-03-11 | 2024-05-16 |
 | [Gem Lingo \(ovr now\)](https://open.spotify.com/track/6dSqM0tWJPlchpmGrEwC1c) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [Gem Lingo \(ovr now\)](https://open.spotify.com/album/3r4QpzGNuewu0vLvapRZS7) | 3:50 | 2024-07-27 | 2024-09-08 |
+| [getting to know each other](https://open.spotify.com/track/5u9enQ4xSQ6qqYako0x73k) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [piano1](https://open.spotify.com/album/6vzLvVkKjaoe4LXQQULCFG) | 3:25 | 2024-10-25 |  |
 | [Gift](https://open.spotify.com/track/7FgePu0nqCf8rkafQOeHV7) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Solo](https://open.spotify.com/album/72GG3m2QVQ4pQ5Ipi07oO4) | 5:01 | 2024-02-02 | 2024-03-10 |
 | [Giftbearer](https://open.spotify.com/track/0klcGedsbrNB2hx6YN8pJJ) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [In The Falling Dark](https://open.spotify.com/album/60VKXUmkuvPBIbahpkgqMD) | 4:41 | 2024-01-09 | 2024-03-10 |
 | [girl in my dreams \(midwest accordion emo\)](https://open.spotify.com/track/2nH5JLiJhlmX9eQTWQ4MsP) | [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK) | [Wonderful now](https://open.spotify.com/album/5JbVN9ZS9AV6EG6m9Pc7PF) | 1:46 | 2024-05-28 | 2024-07-12 |
@@ -142,6 +144,7 @@
 | [I Just Want to Be Your Friend](https://open.spotify.com/track/4rKpi6H6IFtuBVAdNN3fUe) | [The Millennium](https://open.spotify.com/artist/2C49JSiNeHN0xwLQCohpyY) | [Begin](https://open.spotify.com/album/6sSb8m6MPGJIEMKH8FWCS0) | 2:37 | 2024-03-26 | 2024-05-16 |
 | [I Only Did It 'Cause I Felt so Lonely](https://open.spotify.com/track/50pbA8K52DbKILgZ4AiQX6) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:15 | 2024-01-05 | 2024-03-10 |
 | [I Ought To Stay Away From You](https://open.spotify.com/track/4tAkesAHyf2zsmmWPoCDWJ) | [Margo Guryan](https://open.spotify.com/artist/3SMY2MGuaUOhuPpgRn6clw) | [I Ought To Stay Away From You b/w Why Do I Cry](https://open.spotify.com/album/0igbKMZKrnrO2x3TPDFL1M) | 2:39 | 2024-01-08 | 2024-03-10 |
+| [I Won't Share You \- 2011 Remaster](https://open.spotify.com/track/3kLE2Jsxeb3W2bhx82bPlb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:53 | 2024-10-26 |  |
 | [I'd Rather You Leave Me](https://open.spotify.com/track/7loaQK9Jd9RVYVj3iN4Xms) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:02 | 2024-01-05 | 2024-03-10 |
 | [I'm So Serious](https://open.spotify.com/track/6JKbThcH863nxdmTtzbCLr) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [I'm So Serious](https://open.spotify.com/album/5m2uYclmYUb6UScDXXfosC) | 3:42 | 2024-09-10 |  |
 | [I'm Sorry I Left Him To Bleed](https://open.spotify.com/track/7AwMd4z4jV8p5A791fxD7A) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 2:47 | 2024-05-18 | 2024-07-12 |

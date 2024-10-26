@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lleva el alma musical de M\u00e9xico a donde sea!",
-  "num_followers": 133016,
+  "num_followers": 133045,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
-        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
-        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Alma Jarocha",
-          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Canto A Veracruz",
-      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
-    },
-    {
-      "added_at": "2024-09-02 20:58:45",
-      "album": {
         "name": "La Ruta del Son Mexicano",
         "url": "https://open.spotify.com/album/3poUSqYsWGuYVW7rPPgbLz"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 271040,
       "name": "La Martiniana",
       "url": "https://open.spotify.com/track/1m5A6GfEnXDex5rRCgZMWT"
+    },
+    {
+      "added_at": "2024-09-02 20:58:45",
+      "album": {
+        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
+        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alma Jarocha",
+          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Canto A Veracruz",
+      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
-        "name": "La Tortuga, Sones Istme\u00f1os",
-        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
-      },
-      "artists": [
-        {
-          "name": "Binni Gula'za",
-          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "Ra Bacheeza",
-      "url": "https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd"
-    },
-    {
-      "added_at": "2024-09-02 20:58:45",
-      "album": {
         "name": "Son Jarocho",
         "url": "https://open.spotify.com/album/7aqWHL1L3LpcVwH9AZfJQu"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 595746,
       "name": "Candela / Morena",
       "url": "https://open.spotify.com/track/68WB8EIHWyQEWOSyqujGPi"
+    },
+    {
+      "added_at": "2024-09-02 20:58:45",
+      "album": {
+        "name": "La Tortuga, Sones Istme\u00f1os",
+        "url": "https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE"
+      },
+      "artists": [
+        {
+          "name": "Binni Gula'za",
+          "url": "https://open.spotify.com/artist/3I4riJnB4ocVXloGzky7lq"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "Ra Bacheeza",
+      "url": "https://open.spotify.com/track/4Sd88qilKkAOg2T7H1kOZd"
     },
     {
       "added_at": "2024-09-02 20:58:45",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2024-09-02 20:58:45",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
-      },
-      "artists": [
-        {
-          "name": "Juan Jos\u00e9 Espinosa",
-          "url": "https://open.spotify.com/artist/4BjCrB48jwSb1BoRTmgcNM"
-        },
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 122026,
-      "name": "Las Alte\u00f1itas",
-      "url": "https://open.spotify.com/track/2D2mjiZy0Zpu5CGecrNSi1"
-    },
-    {
-      "added_at": "2024-09-02 20:58:45",
-      "album": {
         "name": "Trio Azteca: Folk Songs and Ballads",
         "url": "https://open.spotify.com/album/1fC7tnPE1fTadN6NePzG2V"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 245600,
       "name": "El polvorete",
       "url": "https://open.spotify.com/track/6J3SOBJl8aL5gXlf4msiNw"
+    },
+    {
+      "added_at": "2024-09-02 20:58:45",
+      "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
+      },
+      "artists": [
+        {
+          "name": "Juan Jos\u00e9 Espinosa",
+          "url": "https://open.spotify.com/artist/4BjCrB48jwSb1BoRTmgcNM"
+        },
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 122026,
+      "name": "Las Alte\u00f1itas",
+      "url": "https://open.spotify.com/track/2D2mjiZy0Zpu5CGecrNSi1"
     },
     {
       "added_at": "2024-09-02 20:58:45",

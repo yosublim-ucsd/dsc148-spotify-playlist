@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Haluaako Piepponen turpaan?",
+        "url": "https://open.spotify.com/album/3va93w0LhqBOsmUUKmxmSg"
+      },
+      "artists": [
+        {
+          "name": "Viikate",
+          "url": "https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212320,
+      "name": "Haluaako Piepponen turpaan?",
+      "url": "https://open.spotify.com/track/08jQ1OPwy0gJ6VrlWRPKH9"
+    },
+    {
+      "album": {
         "name": "Scream Aim Fire",
         "url": "https://open.spotify.com/album/2mGohCvbL3klQgXyTj7uNB"
       },

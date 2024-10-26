@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- Shreya Ghoshal & Sunidhi Chauhan",
+  "description": "Latest music from your fav I-Pop artists. Cover- Kanika Kapoor",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -118,7 +118,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 175169,
       "name": "6 Am",
       "url": "https://open.spotify.com/track/2WbJHbbw9iWWbVPC4qt17t"
@@ -148,6 +148,32 @@
       "duration_ms": 206308,
       "name": "Aa Chal Chalein",
       "url": "https://open.spotify.com/track/6Ret1qXqBcL8OKKzo6Ao6d"
+    },
+    {
+      "album": {
+        "name": "Aa Gale Lag Jaa",
+        "url": "https://open.spotify.com/album/6fz3QywARar4gArq0l79MO"
+      },
+      "artists": [
+        {
+          "name": "Sid Paul",
+          "url": "https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Laqshay Kapoor",
+          "url": "https://open.spotify.com/artist/5E1Rg4jaVxHrRnBYj6GR5J"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152857,
+      "name": "Aa Gale Lag Jaa",
+      "url": "https://open.spotify.com/track/53UUijPG9x735Lg4HXWhpz"
     },
     {
       "album": {
@@ -3352,6 +3378,28 @@
       "duration_ms": 203437,
       "name": "Beh Ja",
       "url": "https://open.spotify.com/track/4ctuS5v8jZyPR8gOWvZGjj"
+    },
+    {
+      "album": {
+        "name": "BeHaya Humre Saiyaan Bedardi",
+        "url": "https://open.spotify.com/album/5tbx0NpfcoEU1LUSrmPoEt"
+      },
+      "artists": [
+        {
+          "name": "Sanah Moidutty",
+          "url": "https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "BeHaya Humre Saiyaan Bedardi",
+      "url": "https://open.spotify.com/track/3ifdiDHwuODTgVPmshKYan"
     },
     {
       "album": {
@@ -7026,7 +7074,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 289820,
       "name": "Dost Banke",
       "url": "https://open.spotify.com/track/2k0D2OXWXwuwBPXLQQYmZx"
@@ -7478,7 +7526,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 238888,
       "name": "Enna Yaad",
       "url": "https://open.spotify.com/track/7k6rMwA3ZzE0SI2jHhfou8"
@@ -10256,7 +10304,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 210664,
       "name": "Ishq Kiya",
       "url": "https://open.spotify.com/track/6w7TV5A9n2oy6nCFpqisGR"
@@ -16145,6 +16193,28 @@
     },
     {
       "album": {
+        "name": "Matak Matak",
+        "url": "https://open.spotify.com/album/7e6zLnFAsvGVF7YHH6Gnqs"
+      },
+      "artists": [
+        {
+          "name": "Kanika Kapoor",
+          "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+        },
+        {
+          "name": "TimiBOI",
+          "url": "https://open.spotify.com/artist/7JOx03sIOirdg2PFnna2U2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166116,
+      "name": "Matak Matak",
+      "url": "https://open.spotify.com/track/6OJFI21TFUEsqCtyIRTmVG"
+    },
+    {
+      "album": {
         "name": "Mausam Kii Tarah",
         "url": "https://open.spotify.com/album/677SCKmwiMhbhmo1s4IT9f"
       },
@@ -17723,6 +17793,32 @@
     },
     {
       "album": {
+        "name": "Nai Jaana",
+        "url": "https://open.spotify.com/album/4jOKJaBDFDQkseyDriSlBI"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Hritu Zee",
+          "url": "https://open.spotify.com/artist/2LPavSQKI6P2pPJXvOQXAG"
+        },
+        {
+          "name": "Sanjeev Chaturvedi",
+          "url": "https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195696,
+      "name": "Nai Jaana",
+      "url": "https://open.spotify.com/track/0qf5fsoKmlYMJ3Lz9VdC4M"
+    },
+    {
+      "album": {
         "name": "Naina",
         "url": "https://open.spotify.com/album/3e7mk0VgLls1ntmmU5mEEf"
       },
@@ -18160,6 +18256,32 @@
       "duration_ms": 276503,
       "name": "Nazdeekiyon Mein Bhi",
       "url": "https://open.spotify.com/track/4ok3yA4DRz7NWCDHBC4q8O"
+    },
+    {
+      "album": {
+        "name": "Nede Nede",
+        "url": "https://open.spotify.com/album/0sHXwq9lzbH4ZhH7vResqt"
+      },
+      "artists": [
+        {
+          "name": "Harsh Kargeti",
+          "url": "https://open.spotify.com/artist/3QMU3GgeUmDZe7F6g9N9qT"
+        },
+        {
+          "name": "Samay",
+          "url": "https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200868,
+      "name": "Nede Nede",
+      "url": "https://open.spotify.com/track/6RzaWtRw6wWwqGgzMFHRg1"
     },
     {
       "album": {
@@ -19192,7 +19314,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 226751,
       "name": "Payal",
       "url": "https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9"
@@ -19716,7 +19838,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167763,
       "name": "PYAAR HUMARA",
       "url": "https://open.spotify.com/track/7y3qyt5vR7QBU51BFnfQ2q"
@@ -20144,6 +20266,32 @@
       "duration_ms": 202087,
       "name": "Rang De",
       "url": "https://open.spotify.com/track/7ywRv780yUIiMP6WROdUW7"
+    },
+    {
+      "album": {
+        "name": "Rangeeni (From \"Azaad Collab\")",
+        "url": "https://open.spotify.com/album/2AUipn4WEOZD4VqZv7sCTi"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Rangeeni - From \"Azaad Collab\"",
+      "url": "https://open.spotify.com/track/3VIxcLpksHZ5zBUSiRp2uI"
     },
     {
       "album": {
@@ -23868,7 +24016,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 221187,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4A0Q9fhvruuV8206704qVq"
@@ -24258,7 +24406,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 134910,
       "name": "Teri Muskurahat",
       "url": "https://open.spotify.com/track/3hli7ulgtTTvRLyCk6hC0T"
@@ -24438,6 +24586,32 @@
       "duration_ms": 222341,
       "name": "Thare vaaste",
       "url": "https://open.spotify.com/track/1AfEbKJkHKnUYCpCVqtN22"
+    },
+    {
+      "album": {
+        "name": "The Way You Look",
+        "url": "https://open.spotify.com/album/0L244FjMUoRQw2dHr9ktJS"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        },
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "NDS",
+          "url": "https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200597,
+      "name": "The Way You Look",
+      "url": "https://open.spotify.com/track/4k5byIdn5kNQBpkRQNCPrl"
     },
     {
       "album": {
@@ -24994,6 +25168,24 @@
       "duration_ms": 219153,
       "name": "Tu Hai Kahaan - From \"Do Aur Do Pyaar\"",
       "url": "https://open.spotify.com/track/5qu00elDJgCJMlbCLlTsvD"
+    },
+    {
+      "album": {
+        "name": "Tu Hai Kya",
+        "url": "https://open.spotify.com/album/7keXBNSKLSSP4gCDP0EpUZ"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168235,
+      "name": "Tu Hai Kya",
+      "url": "https://open.spotify.com/track/1gA6vU65dwvCc2nb53UguF"
     },
     {
       "album": {
@@ -26684,6 +26876,28 @@
       "duration_ms": 207750,
       "name": "Veham",
       "url": "https://open.spotify.com/track/7mVBZzOmTSiHvo9odwQttr"
+    },
+    {
+      "album": {
+        "name": "VICHHODA | FOLK N ROCK",
+        "url": "https://open.spotify.com/album/6vSq7JN7U5vmNatWNg2ThR"
+      },
+      "artists": [
+        {
+          "name": "LALIMA",
+          "url": "https://open.spotify.com/artist/1VwSUBewZDy4iVI5BgiHDm"
+        },
+        {
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160900,
+      "name": "VICHHODA | FOLK N ROCK",
+      "url": "https://open.spotify.com/track/42tTVHRInaKtjCvhJEF0KE"
     },
     {
       "album": {

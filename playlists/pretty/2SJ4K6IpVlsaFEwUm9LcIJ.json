@@ -6,7 +6,7 @@
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALPYQf1QOQ1qFGFk/t+oPlAREO+rbP",
+  "snapshot_id": "AAALQHubJtgKK/xxbtNIuHRrgAFFL7/u",
   "tracks": [
     {
       "added_at": "2024-09-07 23:53:02",
@@ -1027,6 +1027,54 @@
       "duration_ms": 270813,
       "name": "B",
       "url": "https://open.spotify.com/track/7t1FUkqJRdQdNrkjwfhq2H"
+    },
+    {
+      "added_at": "2024-10-25 17:46:13",
+      "album": {
+        "name": "piano1",
+        "url": "https://open.spotify.com/album/6vzLvVkKjaoe4LXQQULCFG"
+      },
+      "artists": [
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "duration_ms": 205726,
+      "name": "getting to know each other",
+      "url": "https://open.spotify.com/track/5u9enQ4xSQ6qqYako0x73k"
+    },
+    {
+      "added_at": "2024-10-25 17:46:56",
+      "album": {
+        "name": "In Solarium",
+        "url": "https://open.spotify.com/album/13ZC7qriL0nNYB04lK4CXB"
+      },
+      "artists": [
+        {
+          "name": "Pia Fraus",
+          "url": "https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "400 & 57",
+      "url": "https://open.spotify.com/track/1KlSberDtUJKrXQsEujQr3"
+    },
+    {
+      "added_at": "2024-10-26 00:45:09",
+      "album": {
+        "name": "Strangeways, Here We Come",
+        "url": "https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "I Won't Share You - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3kLE2Jsxeb3W2bhx82bPlb"
     }
   ],
   "unique_name": "what dreams may come",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,123 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,157 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CFzEu29SDK.md) - [plain]
 | 46 | [La Danza](https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza](https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR) | 2:37 |
 | 47 | [Losing Control](https://open.spotify.com/track/4LwxeWSBu0LQtEyGLb6FVP) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Losing Control](https://open.spotify.com/album/3eKGADmjALWfFIXHDak5DB) | 2:45 |
 | 48 | [One Time](https://open.spotify.com/track/5Sq0xF5p4Wf8Cma4u8RLkp) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [One Time](https://open.spotify.com/album/4fd1UTfFav8SWtQyIcuUIu) | 3:36 |
-| 49 | [YoYo Disco](https://open.spotify.com/track/52ERV577Njz36jATlJlx2u) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24), [Josh Ludlow](https://open.spotify.com/artist/1LphufDWflOQPlEPW2oruD) | [YoYo Disco](https://open.spotify.com/album/3rNHol9ltR6mMy5Pw0fSrF) | 2:20 |
+| 49 | [YoYo Disco](https://open.spotify.com/track/52ERV577Njz36jATlJlx2u) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24), [Josh Ludlow](https://open.spotify.com/artist/1LphufDWflOQPlEPW2oruD) | [YoYo Disco](https://open.spotify.com/album/3rNHol9ltR6mMy5Pw0fSrF) | 4:07 |
 | 50 | [Vamo](https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Secondcity](https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq) | [Vamo](https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA) | 3:36 |
 | 51 | [Weeping Willow](https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Weeping Willow](https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD) | 3:35 |
 | 52 | [We Could Be Love](https://open.spotify.com/track/3y20RxZMr3wZMvhC78jc8O) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [We Could Be Love](https://open.spotify.com/album/4p3Eue4nXRORfFiID2811z) | 3:09 |

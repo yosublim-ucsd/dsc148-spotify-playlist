@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Smallgod, amaarae, mugeez",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Stonebwoy",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 160561,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/1fNP7C8wBkfg3NKJ3Ei3he"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 213571,
       "name": "Ankonam - Remix",
       "url": "https://open.spotify.com/track/5IatIcenckaMXtylHQzoN4"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 171073,
       "name": "Azonto Fiesta (feat. Amaarae & Mugeez)",
       "url": "https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw"
@@ -1289,6 +1289,32 @@
     },
     {
       "album": {
+        "name": "BEFORE YOU GO (feat. Mix Master Garzy)",
+        "url": "https://open.spotify.com/album/2acZ8qqNKBUe0fwgNcVx8S"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        },
+        {
+          "name": "Mix Master Garzy",
+          "url": "https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "BEFORE YOU GO (feat. Mix Master Garzy)",
+      "url": "https://open.spotify.com/track/3bNmUIUeT3nZjUD3FhQUdC"
+    },
+    {
+      "album": {
         "name": "Bend Your Knees (Igbo)",
         "url": "https://open.spotify.com/album/5lesINCDo6wYpEbxyS7AiJ"
       },
@@ -1493,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Boozen",
+        "url": "https://open.spotify.com/album/7oB8cDMcd087vjZodijtYV"
+      },
+      "artists": [
+        {
+          "name": "Eno Barony",
+          "url": "https://open.spotify.com/artist/4tfgIbOiIFCXPEK3PwdBSN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195714,
+      "name": "Boozen",
+      "url": "https://open.spotify.com/track/7hsWIzTg4crtYzYanUBGQD"
+    },
+    {
+      "album": {
         "name": "Born Great",
         "url": "https://open.spotify.com/album/701amHFoAxrmlgyZ1mk8nM"
       },
@@ -1508,7 +1552,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 130177,
       "name": "Born Great",
       "url": "https://open.spotify.com/track/0ZEBc9KwXBgIgviUuEGnD9"
@@ -2417,6 +2461,28 @@
     },
     {
       "album": {
+        "name": "Ei",
+        "url": "https://open.spotify.com/album/7eyUnPyR8Wm2rNUid8qWnM"
+      },
+      "artists": [
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Ei",
+      "url": "https://open.spotify.com/track/3j6awetfaV97xXeCF2gCMc"
+    },
+    {
+      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/3Uu89vadulcqJ5KpxzCoYG"
       },
@@ -3038,7 +3104,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167272,
       "name": "FOR YUH",
       "url": "https://open.spotify.com/track/2nP8BANuYfpyBmcJRsw83x"
@@ -3548,7 +3614,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 460934,
       "name": "HELLO (INDABA)",
       "url": "https://open.spotify.com/track/3aDUFRRnwGPyVDCpkzqKpc"
@@ -4696,7 +4762,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 201931,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/7dj3apq5IE5P4jCkMKRdZS"
@@ -4718,7 +4784,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 158608,
       "name": "Manka",
       "url": "https://open.spotify.com/track/3vCZAfWLfPll4tyYZNvsWj"
@@ -4872,7 +4938,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 157180,
       "name": "Miss Yu",
       "url": "https://open.spotify.com/track/0jvNABBGWF3vQH1PhJ5hJz"
@@ -5192,6 +5258,32 @@
       "duration_ms": 192000,
       "name": "NEED ME",
       "url": "https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3"
+    },
+    {
+      "album": {
+        "name": "Nicely",
+        "url": "https://open.spotify.com/album/7txg8RD9bbUDFUrq8lVnPV"
+      },
+      "artists": [
+        {
+          "name": "DJ FiiFii",
+          "url": "https://open.spotify.com/artist/3OnR9rQurffV6EPVk46fwU"
+        },
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        },
+        {
+          "name": "Tripcy",
+          "url": "https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162843,
+      "name": "Nicely",
+      "url": "https://open.spotify.com/track/4ePxXsCU2HjgKmKxzHYQrM"
     },
     {
       "album": {
@@ -6652,7 +6744,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 137000,
       "name": "Reggae",
       "url": "https://open.spotify.com/track/2KmDY8HnTtvQb8bDoJpfIH"
@@ -7017,6 +7109,24 @@
     },
     {
       "album": {
+        "name": "Shey",
+        "url": "https://open.spotify.com/album/5Vux3Ln8qKzjevdF2n676w"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Shey",
+      "url": "https://open.spotify.com/track/0CrJhwiDiG73IypX3SVae8"
+    },
+    {
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/0gmJlZaO0ZJcCF7O3krzXl"
       },
@@ -7036,6 +7146,24 @@
       "duration_ms": 178909,
       "name": "Shine",
       "url": "https://open.spotify.com/track/0OK6S8OsDnbBm5zbcTsb0C"
+    },
+    {
+      "album": {
+        "name": "UP & RUNNIN6",
+        "url": "https://open.spotify.com/album/5EomOd5HdWMyenGsSv61D2"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318047,
+      "name": "SHINE",
+      "url": "https://open.spotify.com/track/2WkW3W22rauip3BbmDN99e"
     },
     {
       "album": {
@@ -7326,7 +7454,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 166153,
       "name": "Special Love",
       "url": "https://open.spotify.com/track/3tDxbwxI0ekIlubIuqvH97"
@@ -7892,7 +8020,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 203755,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/37VzqohsKYJMTN9yS5iSt1"
@@ -8342,7 +8470,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 165283,
       "name": "Woara",
       "url": "https://open.spotify.com/track/7uZBZ7UmMoMf0FvYrVRDhx"
@@ -8460,7 +8588,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 207400,
       "name": "Wotowei",
       "url": "https://open.spotify.com/track/5WogbNJtB9CgpD4T0zGpmj"
@@ -8662,6 +8790,24 @@
       "duration_ms": 258081,
       "name": "Yeni Abre",
       "url": "https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ"
+    },
+    {
+      "album": {
+        "name": "Yenkodi",
+        "url": "https://open.spotify.com/album/3408leJj81HjP4B8LxdmKY"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180687,
+      "name": "Yenkodi",
+      "url": "https://open.spotify.com/track/0XKat5BEYlRO50jFuiDDDD"
     },
     {
       "album": {

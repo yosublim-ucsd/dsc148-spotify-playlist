@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 213821,
+  "num_followers": 213921,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAABg17OsqUdIY7coV9vfzwVY",
+  "snapshot_id": "ZxmOAAAAAAC5w/qxDRvRVMXxp7Fsqbpw",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 146751,
-      "name": "Great Gatsby",
-      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 248320,
       "name": "Last Lap",
       "url": "https://open.spotify.com/track/1qJGJR5DXftoDjeNjNvIDy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 146751,
+      "name": "Great Gatsby",
+      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 111751,
-      "name": "Chip On My Shoulder",
-      "url": "https://open.spotify.com/track/73w0vUAcS6BWZjUd0Ke3Iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 195668,
       "name": "Angel With An Attitude",
       "url": "https://open.spotify.com/track/2gUEB9jSU0HZhLJIYffeQn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 111751,
+      "name": "Chip On My Shoulder",
+      "url": "https://open.spotify.com/track/73w0vUAcS6BWZjUd0Ke3Iu"
     },
     {
       "added_at": null,
@@ -155,6 +155,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Never Mind",
+      "url": "https://open.spotify.com/track/3HcLydGKgxuQnenonTqj0v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 159669,
+      "name": "Heart On Ice",
+      "url": "https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Fight The Feeling",
+      "url": "https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fall Fast in Love",
         "url": "https://open.spotify.com/album/7cJpvSog0CL1J7hWZ2JtHo"
       },
@@ -180,41 +228,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 170322,
-      "name": "Never Mind",
-      "url": "https://open.spotify.com/track/3HcLydGKgxuQnenonTqj0v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Fight The Feeling",
-      "url": "https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 159669,
-      "name": "Heart On Ice",
-      "url": "https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6"
+      "duration_ms": 154838,
+      "name": "Even Love",
+      "url": "https://open.spotify.com/track/3vVsF6ReTQd6KuunPE1qpb"
     },
     {
       "added_at": null,
@@ -231,22 +247,6 @@
       "duration_ms": 173893,
       "name": "Letter From Houston",
       "url": "https://open.spotify.com/track/64NX4R1rgHb1LMLDAnNNPp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Lap",
-        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Even Love",
-      "url": "https://open.spotify.com/track/3vVsF6ReTQd6KuunPE1qpb"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Mind",
-        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 194050,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 185883,
       "name": "Scared Love",
       "url": "https://open.spotify.com/track/0JGZYsSnDraphLvnhIUaQx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray 4 Love",
-        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Girl Of My Dreams",
-      "url": "https://open.spotify.com/track/09YHm6IkdZko28KdEbXtPb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last Lap",
         "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 163074,
       "name": "Lost In Love",
       "url": "https://open.spotify.com/track/593a80uHcKk6zlG9uecQ53"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Girl Of My Dreams",
+      "url": "https://open.spotify.com/track/09YHm6IkdZko28KdEbXtPb"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray 4 Love",
-        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 168586,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/0EVG3d1RVbJjYh43fQDcR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 121521,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/4n7c4QoSavoKz7qLitbQbD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 168586,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0EVG3d1RVbJjYh43fQDcR9"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pray 4 Love",
-        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Ribbon In The Sky",
-      "url": "https://open.spotify.com/track/6jrIg0liFANIULoHFOOeX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 178677,
       "name": "Sky Priority",
       "url": "https://open.spotify.com/track/2a6sjwokUT2lAFGtTfrBUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Ribbon In The Sky",
+      "url": "https://open.spotify.com/track/6jrIg0liFANIULoHFOOeX0"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 161018,
-      "name": "Gone Till November",
-      "url": "https://open.spotify.com/track/2LTJYsWOqsjntJpRy2HpY6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 144960,
       "name": "Dark Conversation",
       "url": "https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 161018,
+      "name": "Gone Till November",
+      "url": "https://open.spotify.com/track/2LTJYsWOqsjntJpRy2HpY6"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Changing",
-      "url": "https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 195866,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5C1PY8gSPXadGda4SKH1Cs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0"
     }
   ],
   "unique_name": "This Is Rod Wave",

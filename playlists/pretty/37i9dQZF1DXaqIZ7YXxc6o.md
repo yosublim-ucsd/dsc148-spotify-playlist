@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: CYRIL, maryjo
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,794 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,811 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 5 | [Be Alright](https://open.spotify.com/track/5T5AS42m32tKpFLfibRSqy) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Be Alright](https://open.spotify.com/album/2cQaAt8RZtWYFSaPLGXaBF) | 2:35 |
 | 6 | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Water Sign \(feat\. Aluna\)](https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P) | 3:29 |
 | 7 | [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 |
-| 8 | [Cinema](https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD) | [Cinema](https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh) | 2:25 |
+| 8 | [Cinema](https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [barbz](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Cinema](https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh) | 2:25 |
 | 9 | [Molly](https://open.spotify.com/track/4OZDCLYvqUrnGzGANxfnXG) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Molly](https://open.spotify.com/album/6cHmwwiWzR2c7Wx0OmXgeL) | 2:00 |
 | 10 | [hold my hand](https://open.spotify.com/track/3GPmn3HANnZTlEovc2J9nt) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH) | [hold my hand](https://open.spotify.com/album/0CgtiMzPmtvTM115elKHao) | 4:26 |
 | 11 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 18 | [Body Heat](https://open.spotify.com/track/7LAbPwr8looSaWBL26pxLV) | [Montell2099](https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Body Heat](https://open.spotify.com/album/0H1Lh75X52zxfGcHy3GGGa) | 3:31 |
 | 19 | [Bruce Wayne](https://open.spotify.com/track/3AyUhZkvbQ8ZBSq3hbWrhp) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Bruce Wayne](https://open.spotify.com/album/6FyOAKp8oyrpe5wchMf9Jr) | 2:11 |
 | 20 | [4byfour](https://open.spotify.com/track/4xf4ZZCWTDO4Xnm3qQ2Y0k) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Back Then, Computer Sound](https://open.spotify.com/album/03vLK8v8cerigbfUKJlIxb) | 3:50 |
-| 21 | [Real Love](https://open.spotify.com/track/5EGe8u2k9d4oQHTqlYqWBH) | [VERACITY](https://open.spotify.com/artist/7hOD856OcoP9tSAxs6NDCQ), [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Real Love](https://open.spotify.com/album/0ydxVeQBue6XKawYTb7TEW) | 4:29 |
+| 21 | [Real Love](https://open.spotify.com/track/5EGe8u2k9d4oQHTqlYqWBH) | [VERACITY](https://open.spotify.com/artist/7hOD856OcoP9tSAxs6NDCQ), [Levi](https://open.spotify.com/artist/0RWXZREXZwJGMKaOQxVmRH) | [Real Love](https://open.spotify.com/album/0ydxVeQBue6XKawYTb7TEW) | 4:29 |
 | 22 | [Someone For Me](https://open.spotify.com/track/0qtp2Bplcb5To1fPnkgX7B) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs) | 2:34 |
 | 23 | [GONNA GET THRU](https://open.spotify.com/track/3XWwNfOWrALIGDFYVPVv4o) | [LUV HRTS](https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8) | [GONNA GET THRU](https://open.spotify.com/album/1xaU4SLIkG4xZUWw6jjNEo) | 3:20 |
 | 24 | [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 |

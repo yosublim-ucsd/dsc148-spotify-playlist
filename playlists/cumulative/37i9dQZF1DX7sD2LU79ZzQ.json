@@ -7531,6 +7531,24 @@
     },
     {
       "album": {
+        "name": "Rockstar Cetar",
+        "url": "https://open.spotify.com/album/3sm5MgcPe00Vaf9Gy3oTYD"
+      },
+      "artists": [
+        {
+          "name": "Musisi Lupa Umur",
+          "url": "https://open.spotify.com/artist/6pfcZbgeDbMk2HdjQOxzuz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219854,
+      "name": "Rockstar Cetar",
+      "url": "https://open.spotify.com/track/3xFJN0oXfNaQf1fmShHl0g"
+    },
+    {
+      "album": {
         "name": "Rona Jingga",
         "url": "https://open.spotify.com/album/5YEWre4h02YQHTBJSGMXIy"
       },

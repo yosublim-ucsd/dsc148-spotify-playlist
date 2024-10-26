@@ -10929,6 +10929,36 @@
     },
     {
       "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/5MoBxDzlYReoWJMSRwxFDp"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "DUNDUM NTS",
+          "url": "https://open.spotify.com/artist/0gGRfgyjJayTbNkikRPMYQ"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/7cOZisYC7MaDLfavfq86Ed"
+    },
+    {
+      "album": {
         "name": "EPIFANIA",
         "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
       },
@@ -13102,7 +13132,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 278783,
       "name": "Tempo, C\u00ea Volta?",
       "url": "https://open.spotify.com/track/3Br6b576kRWgi4mTdzuhyQ"
@@ -13304,7 +13334,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 144031,
       "name": "Todo Amor S\u00f3 Existe No Hoje",
       "url": "https://open.spotify.com/track/4NI0Dq8JYtOR7a1CpG4kIx"

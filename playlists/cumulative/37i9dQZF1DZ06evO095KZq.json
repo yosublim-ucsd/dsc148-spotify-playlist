@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Carteles Vol.II",
+        "url": "https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223769,
+      "name": "El 40 (Durango)",
+      "url": "https://open.spotify.com/track/190XkXskGUN2G7lVuetvYB"
+    },
+    {
+      "album": {
         "name": "El ABL",
         "url": "https://open.spotify.com/album/56MTChSy899m0jYs8fwX2f"
       },
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 146775,
       "name": "Por Esa Calle Vive",
       "url": "https://open.spotify.com/track/6LhMqt2flhSBwwnS3Z5GyJ"

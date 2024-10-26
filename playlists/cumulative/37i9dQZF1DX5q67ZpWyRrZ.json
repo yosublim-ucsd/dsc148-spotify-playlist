@@ -3983,6 +3983,24 @@
     },
     {
       "album": {
+        "name": "Samjho Na",
+        "url": "https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172408,
+      "name": "Samjho Na",
+      "url": "https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf"
+    },
+    {
+      "album": {
         "name": "Sanware",
         "url": "https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Music for the strange, unusual, and recently deceased\. Get ready for the Spooky Season with Halloween Hits including 'Spooky, Scary Skeletons', 'Monster Mash' and 'Super Freak'.
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 114,616 likes - 82 songs - 5 hr 22 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 114,722 likes - 82 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

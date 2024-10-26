@@ -1,15 +1,31 @@
 {
   "description": "This year's new country holiday songs! Cover: Little Big Town",
-  "num_followers": 2134,
+  "num_followers": 2139,
   "original_name": "New Country Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxLtqAAAAAABK7BSsCrY/LxxSHH7Aj80",
+  "snapshot_id": "ZxsXwAAAAAB1YHE9nNbjHxh3UI5hEG0E",
   "tracks": [
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/3obmcueQA0HPnQcUmYykic"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 200989,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/1GjuT0FXHHve3t5CzqU9Wd"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Driving Home for Christmas - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Christmas Night With You",
         "url": "https://open.spotify.com/album/3uFKb73VCTT04JWDQYyHB5"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/6lx1UIYeVhlLr40MA5Yjgl"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "It's Officially Christmas: The Double Album",
         "url": "https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/6LaZYe9ZUt8ZY1G5fwhBnb"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Merry Christmas (Welcome to the Family)",
         "url": "https://open.spotify.com/album/0E0pHnydub2gfVIUr8Cyi3"
@@ -73,7 +89,23 @@
       "url": "https://open.spotify.com/track/3aHc7HHDB2HXk3N76TgCH2"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/7Aot2bMAZtbbNU1PF8l8kB"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0sWdvAS5A2CP2rCHEBe45J"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/51qIyccjvJCDMNW2L5K7xi"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/3p47LAxCgFOSmgj20WqBdH"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "When I Think Of Christmas",
         "url": "https://open.spotify.com/album/52MmmN7xVswjL4XVBixhzK"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/6o2GLLmYIkzbtqxotheeKe"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Rockin' Around The Christmas Tree",
         "url": "https://open.spotify.com/album/2a2w9hcUVaqEvsCg7xJ68i"
@@ -121,7 +153,23 @@
       "url": "https://open.spotify.com/track/5Bma1Rcuq1eiWMYAhimZCz"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Happy Trails",
+        "url": "https://open.spotify.com/album/692vnJ4ZSRqgoCldC2zmGr"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "Happy Trails",
+      "url": "https://open.spotify.com/track/1WRNwhOwNDBxKpkXMeV1zK"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Christmas To Christmas",
         "url": "https://open.spotify.com/album/657rEUY3sBhYsW1KKuptPI"
@@ -137,7 +185,7 @@
       "url": "https://open.spotify.com/track/1piyBNstQ55S4DO21cwb0l"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "It's Officially Christmas: The Double Album",
         "url": "https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf"
@@ -153,7 +201,7 @@
       "url": "https://open.spotify.com/track/54INOuusIyGe5cSd1fhSgx"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "The Christmas Record",
         "url": "https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD"
@@ -169,7 +217,7 @@
       "url": "https://open.spotify.com/track/6C2pUFzgS1YL93IGiDxdvk"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Merry Christmas (Welcome to the Family)",
         "url": "https://open.spotify.com/album/0E0pHnydub2gfVIUr8Cyi3"
@@ -189,7 +237,23 @@
       "url": "https://open.spotify.com/track/3DEe8XmOO61T2CI07uxGrY"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/5j6ScOsf4Gdg2lwOiUHAft"
+      },
+      "artists": [
+        {
+          "name": "Callista Clark",
+          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
+        }
+      ],
+      "duration_ms": 192642,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/0URDPKwJPDBxArWaCpl1yM"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "It's Officially Christmas: The Double Album",
         "url": "https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf"
@@ -205,7 +269,7 @@
       "url": "https://open.spotify.com/track/4ZoAJjwZBTbBoF9kdNW3mg"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "I'll Be Home for Christmas",
         "url": "https://open.spotify.com/album/2uNtbFRwfyGWcAfA0mq6j5"
@@ -221,7 +285,7 @@
       "url": "https://open.spotify.com/track/7zNeDg8NYqlYTZZIvQN4SA"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Children Go / Blue Christmas",
         "url": "https://open.spotify.com/album/5hkJRQ20kibcpZqD7lTgju"
@@ -237,7 +301,7 @@
       "url": "https://open.spotify.com/track/666HjMnp4A48UROUMcnXo5"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Merry Christmas (Welcome to the Family)",
         "url": "https://open.spotify.com/album/0E0pHnydub2gfVIUr8Cyi3"
@@ -257,7 +321,7 @@
       "url": "https://open.spotify.com/track/0opMvRSutvLj8Yg0oiAnAx"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Christmas Tears",
         "url": "https://open.spotify.com/album/5NPGgEYhszymUew4nnCsvr"
@@ -273,7 +337,7 @@
       "url": "https://open.spotify.com/track/4XrrZWOHxCdjlb7XqiA0il"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "It's Officially Christmas: The Double Album",
         "url": "https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf"
@@ -289,7 +353,7 @@
       "url": "https://open.spotify.com/track/7s85owcMvtlPMBRG5TWeWs"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "The Christmas Record",
         "url": "https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD"
@@ -305,7 +369,7 @@
       "url": "https://open.spotify.com/track/1mFwsE8rLoLibx19s8bXac"
     },
     {
-      "added_at": "2024-10-18 23:22:15",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Sweet December (feat. Kelly Clarkson)",
         "url": "https://open.spotify.com/album/6cqilu8CWH4qW1xfU499OL"

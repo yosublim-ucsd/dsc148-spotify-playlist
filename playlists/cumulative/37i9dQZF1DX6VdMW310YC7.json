@@ -5055,6 +5055,28 @@
     },
     {
       "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294624,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq"
+    },
+    {
+      "album": {
         "name": "Closed for Renovations",
         "url": "https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw"
       },
@@ -8282,7 +8304,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 200105,
       "name": "Essentialism.",
       "url": "https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR"
@@ -14604,7 +14626,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 292254,
       "name": "I'll Be Here",
       "url": "https://open.spotify.com/track/5UTjWT7qr0ltzTTzifQETi"
@@ -14942,7 +14964,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 236129,
       "name": "Illusions",
       "url": "https://open.spotify.com/track/3O8mYey47FBULcCK9pkXon"
@@ -26196,7 +26218,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 202893,
       "name": "Shallow Water",
       "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
@@ -28184,6 +28206,32 @@
       "duration_ms": 213025,
       "name": "Still Want U",
       "url": "https://open.spotify.com/track/76tXVbmQtOOAfqRyeMV0Ug"
+    },
+    {
+      "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/43MzTlGpALzesMotOzNDih"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        },
+        {
+          "name": "Susie Ledge",
+          "url": "https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271598,
+      "name": "still-healing",
+      "url": "https://open.spotify.com/track/1lSsO9lB7txXjUIMlpF8I2"
     },
     {
       "album": {
@@ -31237,6 +31285,28 @@
     },
     {
       "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/7isqXxKW4kNV5CkFOmaXup"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183774,
+      "name": "True",
+      "url": "https://open.spotify.com/track/6BUboGsbk4M4eed4pfKGbz"
+    },
+    {
+      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/3cIzd3KbaI8TFTa85yEjjZ"
       },
@@ -32038,6 +32108,28 @@
       "duration_ms": 255335,
       "name": "Wait",
       "url": "https://open.spotify.com/track/38JpoTvf4geJB16Pj7et3I"
+    },
+    {
+      "album": {
+        "name": "Another Touch",
+        "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225301,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
     },
     {
       "album": {

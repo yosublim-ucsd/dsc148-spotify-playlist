@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Can't Explain This Love",
+        "url": "https://open.spotify.com/album/2liSppC10mqkaU5WZYhGZ9"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181399,
+      "name": "Can't Explain This Love",
+      "url": "https://open.spotify.com/track/0q76TcRclfJfgC0XnpLFbO"
+    },
+    {
+      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/37yEdQQfpnEDpFHmCRj1AA"
       },
@@ -472,7 +490,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 266613,
       "name": "Can't Hardly Wait",
       "url": "https://open.spotify.com/track/36Pk18O34Y8aL4noAMONYz"
@@ -784,6 +802,28 @@
       "duration_ms": 249573,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/0cKY8LCsrsNJbfPmLzQtSm"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Joi",
+          "url": "https://open.spotify.com/artist/0ulZIID59tvIwcfTkiYLy5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223856,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq"
     },
     {
       "album": {
@@ -1498,10 +1538,28 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 217304,
       "name": "Light Work",
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+    },
+    {
+      "album": {
+        "name": "Anyway I Can",
+        "url": "https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217306,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/209fOH7STFnRIx6rmC2TWD"
     },
     {
       "album": {
@@ -1943,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "Suite Escape",
+        "url": "https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240394,
+      "name": "Nobody\u2019s Perfect",
+      "url": "https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H"
+    },
+    {
+      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -2196,7 +2272,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 241346,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/2C5KLdNvduql2CBS2w1DYq"
@@ -2898,7 +2974,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 316093,
       "name": "There Goes My Sanity",
       "url": "https://open.spotify.com/track/7HMe4VwDdDdGcTiKkJsamn"

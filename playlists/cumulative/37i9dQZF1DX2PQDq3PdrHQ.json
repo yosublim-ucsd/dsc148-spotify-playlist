@@ -3299,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "dreamer",
+        "url": "https://open.spotify.com/album/5BpBhwWIOvIePyrPrWFWfH"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150602,
+      "name": "dreamer",
+      "url": "https://open.spotify.com/track/50wBtdwuGSO0L5X9Q7eppN"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/7hxIAQIcCIhrhrT9jX9xOK"
       },
@@ -6826,6 +6844,28 @@
       "duration_ms": 122112,
       "name": "Less Is More",
       "url": "https://open.spotify.com/track/6rCIIdtq0bobJYdyOxRUQZ"
+    },
+    {
+      "album": {
+        "name": "let go",
+        "url": "https://open.spotify.com/album/0sdGDb4RGnwS6JIvppdmk8"
+      },
+      "artists": [
+        {
+          "name": "Kaiyo",
+          "url": "https://open.spotify.com/artist/03J6WM7FvOQZfszAVknxVs"
+        },
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139889,
+      "name": "let go",
+      "url": "https://open.spotify.com/track/6nTgyxPC2mNwUn459YqP8M"
     },
     {
       "album": {
@@ -12626,7 +12666,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 108000,
       "name": "Sundowner",
       "url": "https://open.spotify.com/track/0qTKfbBYejXk7FKnHYLOHu"
@@ -13893,6 +13933,24 @@
     },
     {
       "album": {
+        "name": "untethered",
+        "url": "https://open.spotify.com/album/50BdS7iKGiAVz3ipzLpQyS"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126354,
+      "name": "untethered",
+      "url": "https://open.spotify.com/track/1uttklvEnYlJloCbEiM6fj"
+    },
+    {
+      "album": {
         "name": "Untroubled",
         "url": "https://open.spotify.com/album/7LtbSMTmH8dp9vSCOwUCtL"
       },
@@ -14188,6 +14246,24 @@
       "duration_ms": 166270,
       "name": "Wash Me Away",
       "url": "https://open.spotify.com/track/5s7vFV5mkeHJFmd7wkXUb9"
+    },
+    {
+      "album": {
+        "name": "watching movies",
+        "url": "https://open.spotify.com/album/08CLqpZcmmSg2TUQoDDyZF"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150600,
+      "name": "watching movies",
+      "url": "https://open.spotify.com/track/0v3J5KY6bERLkD2IIgW5u6"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 165775,
+  "num_followers": 165821,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAABtN597I4LmD2LKPAsFGy8X",
+  "snapshot_id": "ZxmOAAAAAADjTZBhTYtaVp2nYZyDj/J2",
   "tracks": [
     {
       "added_at": null,
@@ -44,7 +44,7 @@
       "added_at": null,
       "album": {
         "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
       },
       "artists": [
         {
@@ -54,7 +54,7 @@
       ],
       "duration_ms": 199386,
       "name": "Prayer Of The Refugee",
-      "url": "https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72"
+      "url": "https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nowhere Generation II",
-        "url": "https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 222173,
-      "name": "Pain Mgmt",
-      "url": "https://open.spotify.com/track/0T2s6fdO3RgZY2bPltwNJr"
+      "duration_ms": 228480,
+      "name": "Blood To Bleed",
+      "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+        "name": "Nowhere Generation II",
+        "url": "https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Blood To Bleed",
-      "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
+      "duration_ms": 222173,
+      "name": "Pain Mgmt",
+      "url": "https://open.spotify.com/track/0T2s6fdO3RgZY2bPltwNJr"
     },
     {
       "added_at": null,

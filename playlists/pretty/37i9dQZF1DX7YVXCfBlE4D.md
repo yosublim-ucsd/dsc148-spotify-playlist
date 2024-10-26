@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,435 likes - 170 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,526 likes - 170 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 113 | [Soñando Con Puerto Rico](https://open.spotify.com/track/5fJGJPo1HrdfZHgIYP1UTt) | [Bobby Capo](https://open.spotify.com/artist/4HtNNYomY2s6l36CdhOqWW) | [Despierte Borincano](https://open.spotify.com/album/0GEnvdTJ28AMxLg9KdePsL) | 4:15 |
 | 114 | [No vuelvo contigo](https://open.spotify.com/track/3mvTuk8kQW3sAP3kSXJov0) | [Martha Triana](https://open.spotify.com/artist/2yrWpGwML5NXC2b69g64xK) | [Antología ...Boleros\*](https://open.spotify.com/album/4hrLWzDuaYiKlQeExrmjVP) | 2:52 |
 | 115 | [Una Tacita de Café](https://open.spotify.com/track/2eCFUhsUHTy6i1Em7Ok08w) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Perfume de Gardenia](https://open.spotify.com/album/3UbEJpnqeJAzKDyEm9rDgc) | 2:34 |
-| 116 | [Camino A San Miguel](https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 2:12 |
-| 117 | [Lamento Jarocho](https://open.spotify.com/track/6pymCUKfbAhsqpv0h1VSWu) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Noche criolla](https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf) | 2:37 |
+| 116 | [Lamento Jarocho](https://open.spotify.com/track/6pymCUKfbAhsqpv0h1VSWu) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Noche criolla](https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf) | 2:37 |
+| 117 | [Camino A San Miguel](https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3pHNSjBYvtXDZX4LL4BUb5), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx) | [Mariachi Vol\. 1](https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA) | 2:12 |
 | 118 | [Despedida](https://open.spotify.com/track/6r6bcAHYlO0bAC5q7mSJYw) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [Orquesta Pedro Flores](https://open.spotify.com/artist/35ePrAW1vdWYsrYywU6Mps) | [40 Temas Originales](https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5) | 3:11 |
 | 119 | [Bésame Mucho](https://open.spotify.com/track/1IakF23BjmwKWnX0Xo1OfP) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Bésame Mucho](https://open.spotify.com/album/47tiylr6L7gVgdhtMJQDGT) | 2:59 |
 | 120 | [Cómo Han Pasado Los Años](https://open.spotify.com/track/76pVkjsBBjrO1Cn6pLw8sk) | [Esmeralda Olasabal](https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH) | [Esmeralda Olasabal](https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v) | 4:01 |

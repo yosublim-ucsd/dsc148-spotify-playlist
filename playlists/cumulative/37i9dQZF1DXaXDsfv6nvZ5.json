@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Anyways",
+        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176888,
+      "name": "Anyways",
+      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
+    },
+    {
+      "album": {
         "name": "Division",
         "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
       },
@@ -3694,7 +3712,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 134400,
       "name": "Go Ur Own Way",
       "url": "https://open.spotify.com/track/1KOB1FwCB4yFfpAyEsZ3IK"
@@ -5012,7 +5030,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 217946,
       "name": "If You Could See You",
       "url": "https://open.spotify.com/track/1AYgBfTLRo0e8xbcU4zpQO"
@@ -5298,7 +5316,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 206315,
       "name": "J'adore",
       "url": "https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L"
@@ -7943,6 +7961,24 @@
     },
     {
       "album": {
+        "name": "Heal U / Out My Hair",
+        "url": "https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178019,
+      "name": "Out My Hair",
+      "url": "https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT"
+    },
+    {
+      "album": {
         "name": "Outside The Gate",
         "url": "https://open.spotify.com/album/3cy7SvZTKU3a0LDKjaQMxz"
       },
@@ -8824,6 +8860,24 @@
       "duration_ms": 253320,
       "name": "Saturday Night (Need You Now)",
       "url": "https://open.spotify.com/track/5HYNZhR70lfA1dzvQoXCBM"
+    },
+    {
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7"
+      },
+      "artists": [
+        {
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225985,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/24elH6i4AZUcsPQrsQgSUA"
     },
     {
       "album": {
@@ -9988,6 +10042,24 @@
       "duration_ms": 253527,
       "name": "Sweet Blue",
       "url": "https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra"
+    },
+    {
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223522,
+      "name": "Sweet Little Rainbows",
+      "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
     },
     {
       "album": {
@@ -11764,7 +11836,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 205229,
       "name": "Why (Spare Me Tears)",
       "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"

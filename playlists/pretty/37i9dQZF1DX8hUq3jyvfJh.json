@@ -1,6 +1,6 @@
 {
   "description": "Escute Mc Luanna e mais mulheres no volume m\u00e1ximo! Co-curadoria com <a href=\"spotify:playlist:37i9dQZF1DZ06evO45TXx1\">Mc Luanna</a>.",
-  "num_followers": 187115,
+  "num_followers": 187114,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
+        "name": "Novinho Chora",
+        "url": "https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 187405,
+      "name": "Novinho Chora",
+      "url": "https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3"
+    },
+    {
+      "added_at": "2024-10-11 14:42:33",
+      "album": {
         "name": "Tipo Anitta",
         "url": "https://open.spotify.com/album/5S4qD4KDpgGAmsLPiGKpiC"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 215000,
       "name": "Rara",
       "url": "https://open.spotify.com/track/6d56K6gOxuJ2hxLqNAOYsZ"
-    },
-    {
-      "added_at": "2024-10-11 14:42:33",
-      "album": {
-        "name": "Novinho Chora",
-        "url": "https://open.spotify.com/album/2j4DZP2MoqtY3pscIEnYxS"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 187405,
-      "name": "Novinho Chora",
-      "url": "https://open.spotify.com/track/5QP1fLUkCtROoIGWTSKQR3"
     },
     {
       "added_at": "2024-10-11 14:42:33",
@@ -863,6 +863,26 @@
     {
       "added_at": "2024-10-11 14:42:33",
       "album": {
+        "name": "Quase Pronta Mixtape",
+        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
+      },
+      "artists": [
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "Ryam Beatz",
+          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
+        }
+      ],
+      "duration_ms": 148829,
+      "name": "\u00c0s Vezes",
+      "url": "https://open.spotify.com/track/2YzH4Wg1ODbex0a1lxuZlY"
+    },
+    {
+      "added_at": "2024-10-11 14:42:33",
+      "album": {
         "name": "METamorFOSE",
         "url": "https://open.spotify.com/album/3zMBfvaDJbLt68YHUO8Exp"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 152380,
       "name": "MEU N\u00cdVEL (Olha Pra Minha Cara)",
       "url": "https://open.spotify.com/track/6k6W3B8XYNVBqlKcKbw9Z8"
-    },
-    {
-      "added_at": "2024-10-11 14:42:33",
-      "album": {
-        "name": "Quase Pronta Mixtape",
-        "url": "https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq"
-      },
-      "artists": [
-        {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "Ryam Beatz",
-          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
-        }
-      ],
-      "duration_ms": 148829,
-      "name": "\u00c0s Vezes",
-      "url": "https://open.spotify.com/track/2YzH4Wg1ODbex0a1lxuZlY"
     },
     {
       "added_at": "2024-10-11 14:42:33",

@@ -1343,6 +1343,32 @@
     },
     {
       "album": {
+        "name": "Chai Peete Peete",
+        "url": "https://open.spotify.com/album/5FWUWIaXzFWTmaEplDrzbJ"
+      },
+      "artists": [
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        },
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162352,
+      "name": "Chai Peete Peete",
+      "url": "https://open.spotify.com/track/2KM2zCZgre6zisTh3SOf0Y"
+    },
+    {
+      "album": {
         "name": "Chal Bhool Ja",
         "url": "https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg"
       },
@@ -3056,6 +3082,28 @@
       "duration_ms": 267348,
       "name": "Jaan Da (Rab Ki Dua)",
       "url": "https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w"
+    },
+    {
+      "album": {
+        "name": "Jaane De",
+        "url": "https://open.spotify.com/album/6TNOx8nr0fdrgYb4GrDqrN"
+      },
+      "artists": [
+        {
+          "name": "Aakash M.",
+          "url": "https://open.spotify.com/artist/2UGEmBqXfvXhsqHZhM7YU2"
+        },
+        {
+          "name": "Ishan Krishan",
+          "url": "https://open.spotify.com/artist/3a00s1dpBoSxGDi1tiVcTD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225737,
+      "name": "Jaane De",
+      "url": "https://open.spotify.com/track/0R5j2VBVJ3FKpl72FZZhKJ"
     },
     {
       "album": {
@@ -5287,6 +5335,28 @@
     },
     {
       "album": {
+        "name": "Mere Ho Tum",
+        "url": "https://open.spotify.com/album/7riVtJbtVcXkZkHSHi5mIW"
+      },
+      "artists": [
+        {
+          "name": "Raghav Kaushik",
+          "url": "https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H"
+        },
+        {
+          "name": "Sparsh Agrawal",
+          "url": "https://open.spotify.com/artist/0HAi6wzZPabkO4T93W2b9U"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215795,
+      "name": "Mere Ho Tum",
+      "url": "https://open.spotify.com/track/61oCaW4kdKZtH2V8BU4zc9"
+    },
+    {
+      "album": {
         "name": "Uberman",
         "url": "https://open.spotify.com/album/0DLgomZECPwZBKWx69qDE0"
       },
@@ -5592,7 +5662,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 220711,
       "name": "Naa Samjhe Tum",
       "url": "https://open.spotify.com/track/2yBHRByW65XskyQqpMMMpO"
@@ -8686,7 +8756,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 172765,
       "name": "Yakeen",
       "url": "https://open.spotify.com/track/16FEEGbsDkm1oAxrZe4v6j"
@@ -8722,7 +8792,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170909,
       "name": "Ye Waadiyan",
       "url": "https://open.spotify.com/track/04vlWhJFQtQ5mVrAm7T4zp"

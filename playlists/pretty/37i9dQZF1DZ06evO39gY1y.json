@@ -1,33 +1,13 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 232295,
+  "num_followers": 232341,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAAA8ItwGx7Hm+i1Ffa2Qskw",
+  "snapshot_id": "ZxmOAAAAAAB6EzArF/GcyxftTr4axQ/P",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ariande / \u201c14 Besos\u201d",
-        "url": "https://open.spotify.com/album/0DP89wUDbPK3oiEcy1bVm2"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Ariande / \u201c14 Besos\u201d",
-      "url": "https://open.spotify.com/track/3S6VyqU2RJJHipTDlN9Hz7"
-    },
     {
       "added_at": null,
       "album": {
@@ -803,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ariande / \u201c14 Besos\u201d",
+        "url": "https://open.spotify.com/album/0DP89wUDbPK3oiEcy1bVm2"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Ariande / \u201c14 Besos\u201d",
+      "url": "https://open.spotify.com/track/3S6VyqU2RJJHipTDlN9Hz7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olvidemos el Reloj",
         "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
       },
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Aunque la Vida Duele",
+      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 166499,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Aunque la Vida Duele",
-      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
     },
     {
       "added_at": null,
@@ -1095,22 +1095,6 @@
       "duration_ms": 271058,
       "name": "ALGO BIEN",
       "url": "https://open.spotify.com/track/77jU7HYCU4jQUPIGqqNS5e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Maletas",
-        "url": "https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Lejos de Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
     }
   ],
   "unique_name": "This Is Charles Ans",

@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 140840,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/03e6ATyNO3OTDDPjElXQWF"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 122827,
       "name": "Baba",
       "url": "https://open.spotify.com/track/1gRJ8lNPFxtgR0h6mCsQiQ"
@@ -2388,7 +2388,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 194699,
       "name": "Beckham In RPT (feat. Yavi DG, Nesty Gzz & Yus Gz)",
       "url": "https://open.spotify.com/track/3ZnzEfNa5dYwzMYPihlEqR"
@@ -3631,6 +3631,24 @@
     },
     {
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/3WtRTYXLKW8mG5eB8xVabm"
+      },
+      "artists": [
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142541,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/0gkCuoQzy86HsdH7jMeXjk"
+    },
+    {
+      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/261LWEVYViMXijB95mAty3"
       },
@@ -4008,6 +4026,32 @@
       "duration_ms": 84867,
       "name": "BUMBAA",
       "url": "https://open.spotify.com/track/453RSzidDGcnSBPAB3Bebp"
+    },
+    {
+      "album": {
+        "name": "Buss Down (feat. Fabolous)",
+        "url": "https://open.spotify.com/album/3v3lwMynBM6oeYbJj9dJjQ"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "araabMUZIK",
+          "url": "https://open.spotify.com/artist/2iXdwLTWyFhlN1MQWIymvM"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259125,
+      "name": "Buss Down (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/4MQZvsCYW5WI8yxSKRESji"
     },
     {
       "album": {
@@ -4871,6 +4915,32 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "Closure (with Cash Cobain)",
+      "url": "https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki"
+    },
+    {
+      "album": {
         "name": "Coal",
         "url": "https://open.spotify.com/album/4pljXbOadkliUMb3mOuWJc"
       },
@@ -5194,7 +5264,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 138121,
       "name": "CRAZY H*ES",
       "url": "https://open.spotify.com/track/23p0ZzA6n7gebamzKQPApg"
@@ -9118,7 +9188,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 108972,
       "name": "Get Away!",
       "url": "https://open.spotify.com/track/5EJEGd1jy1bGqf43YVybA8"
@@ -9576,7 +9646,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 92063,
       "name": "Go Pass",
       "url": "https://open.spotify.com/track/6nMACDQHeyEGHGBIpVELC9"
@@ -10448,6 +10518,28 @@
       "duration_ms": 154800,
       "name": "Her Birthday",
       "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
+    },
+    {
+      "album": {
+        "name": "Hide It (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/4sAQkEB9HwmyKAd9JNZ7ee"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207501,
+      "name": "Hide It (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS"
     },
     {
       "album": {
@@ -13007,6 +13099,24 @@
     },
     {
       "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/2EGoU6wx7retxKjClGyaxA"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131818,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0kZLYZ9qpZrQYedUMI7s58"
+    },
+    {
+      "album": {
         "name": "Let Ha Go",
         "url": "https://open.spotify.com/album/6z901JXgp5ImxeUQ23deil"
       },
@@ -13466,7 +13576,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 146666,
       "name": "Living Legend",
       "url": "https://open.spotify.com/track/1oUMONFJ4ne768oA5siqez"
@@ -16618,7 +16728,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 190714,
       "name": "nympho (feat. BEAM)",
       "url": "https://open.spotify.com/track/2ByRNkBwOjhtsOt31oyxI2"
@@ -18614,7 +18724,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 134896,
       "name": "Provide",
       "url": "https://open.spotify.com/track/4idxiVYD9Fi5X0eXqZVzRH"
@@ -18676,7 +18786,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 165983,
       "name": "PUBLIC HOUSING",
       "url": "https://open.spotify.com/track/11uBn4rMfx82ocibOM4w03"
@@ -20612,7 +20722,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 96000,
       "name": "Scatter",
       "url": "https://open.spotify.com/track/1ucikv74KUPQlCXsUJqeua"
@@ -21618,6 +21728,28 @@
       "duration_ms": 162071,
       "name": "Sloppy Seconds (Ick Pt. 2)",
       "url": "https://open.spotify.com/track/00WnaHagi3KLsrbs20OFVt"
+    },
+    {
+      "album": {
+        "name": "Smoke 2",
+        "url": "https://open.spotify.com/album/33BXgwTjt6qBviqJqR3biL"
+      },
+      "artists": [
+        {
+          "name": "Fat Trel",
+          "url": "https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Smoke 2",
+      "url": "https://open.spotify.com/track/2aT8kPCLna2Uod9TZGS6zV"
     },
     {
       "album": {
@@ -23596,7 +23728,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 148159,
       "name": "Thought I Was Dead",
       "url": "https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB"
@@ -25121,6 +25253,24 @@
     },
     {
       "album": {
+        "name": "Way Out The Hood",
+        "url": "https://open.spotify.com/album/4mgFykLJbtBuybp4tBZnB9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146136,
+      "name": "Way Out The Hood",
+      "url": "https://open.spotify.com/track/5TJplMJ2bR22jWghoiWG3X"
+    },
+    {
+      "album": {
         "name": "WDGAF",
         "url": "https://open.spotify.com/album/3o2X7lfauFKDAXIRAxox6Q"
       },
@@ -26022,7 +26172,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 173233,
       "name": "Wildlife (feat. Sleepy Hallow)",
       "url": "https://open.spotify.com/track/350eBNxmi87YdMxQvauyUQ"

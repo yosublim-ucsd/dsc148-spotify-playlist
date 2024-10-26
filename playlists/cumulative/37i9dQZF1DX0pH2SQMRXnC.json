@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Brutal 11.0",
+        "url": "https://open.spotify.com/album/5U8H25DQXSsDDrkYHj7OU8"
+      },
+      "artists": [
+        {
+          "name": "Radical Redemption",
+          "url": "https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Brutal 11.0",
+      "url": "https://open.spotify.com/track/49gLVcBvbpDrKKnaUKiDkn"
+    },
+    {
+      "album": {
         "name": "Brutal X",
         "url": "https://open.spotify.com/album/4rsB0wKx8FDBW9Fdgsu9Bq"
       },
@@ -1950,7 +1968,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 176000,
       "name": "Cambodia - Denox Remix",
       "url": "https://open.spotify.com/track/13iggCttHe1aj0O9wVQxC7"
@@ -2905,6 +2923,32 @@
     },
     {
       "album": {
+        "name": "Crossover",
+        "url": "https://open.spotify.com/album/5Qhz4HFSNLF2DwSvlMmkYH"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Used",
+          "url": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211415,
+      "name": "Crossover",
+      "url": "https://open.spotify.com/track/5akcGPiFXnd71DRbnyFM0d"
+    },
+    {
+      "album": {
         "name": "Crunch",
         "url": "https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg"
       },
@@ -3674,6 +3718,28 @@
       "duration_ms": 160212,
       "name": "DLMD",
       "url": "https://open.spotify.com/track/2d9EgBM9F09IkEG8t9T6L8"
+    },
+    {
+      "album": {
+        "name": "Do What I Wanna Do (EP)",
+        "url": "https://open.spotify.com/album/326PiKjBA6nUCdBEOfwUq1"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152834,
+      "name": "Do What I Wanna Do - Rave Mix",
+      "url": "https://open.spotify.com/track/3ezo0jCOQpT3aTSsbJ0BiK"
     },
     {
       "album": {
@@ -4764,6 +4830,28 @@
       "duration_ms": 212124,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/7jqvMx5feKXzhYvFsG0NRy"
+    },
+    {
+      "album": {
+        "name": "Favourite Song",
+        "url": "https://open.spotify.com/album/7zY6hCEcLzK3WDmYTBVNhX"
+      },
+      "artists": [
+        {
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210196,
+      "name": "Favourite Song",
+      "url": "https://open.spotify.com/track/5jt7ngF0zlquhwOMqvUv8I"
     },
     {
       "album": {
@@ -6561,6 +6649,24 @@
     },
     {
       "album": {
+        "name": "Heart Bass",
+        "url": "https://open.spotify.com/album/3f33K8wrd96oHZvZDucbai"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199741,
+      "name": "Heart Bass",
+      "url": "https://open.spotify.com/track/44i1tIz1Iq0iY7wLJ34FLo"
+    },
+    {
+      "album": {
         "name": "Heart On Fire",
         "url": "https://open.spotify.com/album/2klKsbqt3GHjUSDekdotrL"
       },
@@ -6620,7 +6726,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 186470,
       "name": "Heat Of The Moment",
       "url": "https://open.spotify.com/track/6VpR1Ddi97grQSLuHjh4dH"
@@ -6686,6 +6792,24 @@
       "duration_ms": 182000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1bc1ykb05EfBvnzjOmqvmi"
+    },
+    {
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/1UO9nuCWFo4NaLkAhQqsRT"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123248,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/0Hu7MIDZWEiipqaN2UBCet"
     },
     {
       "album": {
@@ -8244,7 +8368,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 248471,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
@@ -8898,7 +9022,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 141000,
       "name": "LONELY",
       "url": "https://open.spotify.com/track/0mYZauuxk7kIH8erPBTJE3"
@@ -9918,7 +10042,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 183945,
       "name": "Music Of The Mind",
       "url": "https://open.spotify.com/track/0KoIrrbZr8rMXhFQK8T5Eg"
@@ -10804,7 +10928,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 142503,
       "name": "ONE IN A MILLION",
       "url": "https://open.spotify.com/track/0fVcAL0U9lQhhEYdBJ8kO4"
@@ -13244,7 +13368,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 215225,
       "name": "Sky Fall",
       "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
@@ -14035,6 +14159,32 @@
     },
     {
       "album": {
+        "name": "Supercharged (Official Gearbox Supercharged 2024 Anthem)",
+        "url": "https://open.spotify.com/album/0Ly9HoEAfZB5VtaYgKnNS2"
+      },
+      "artists": [
+        {
+          "name": "Fraw",
+          "url": "https://open.spotify.com/artist/4AGDRCSqrobTOwmsvPuSrC"
+        },
+        {
+          "name": "DEEZL",
+          "url": "https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L"
+        },
+        {
+          "name": "Jordan Jade",
+          "url": "https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243003,
+      "name": "Supercharged (Official Gearbox Supercharged 2024 Anthem)",
+      "url": "https://open.spotify.com/track/0ZJW8n6SckfqvyqSZDczIH"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/0Whzpt8bj4PPDr5n5gk4ip"
       },
@@ -14572,7 +14722,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 186640,
       "name": "Temporary High Part II (Brennan Heart & Toneshifterz Remix)",
       "url": "https://open.spotify.com/track/7aeiFyksFf0M7GjwH4M8Fr"
@@ -15598,7 +15748,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 186424,
       "name": "Together As One",
       "url": "https://open.spotify.com/track/22bQ4WJUJeRRZIV1y571Vt"
@@ -16386,7 +16536,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 239034,
       "name": "Vois Sur Ton Chemin - Hardstyle",
       "url": "https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa"
@@ -16953,6 +17103,24 @@
     },
     {
       "album": {
+        "name": "Welcome To The Underground",
+        "url": "https://open.spotify.com/album/1h12UTmh4G5ae3Lf7u9foZ"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210750,
+      "name": "Welcome To The Underground",
+      "url": "https://open.spotify.com/track/5opy1J4SMBUFrwQ03weuZ4"
+    },
+    {
+      "album": {
         "name": "What's Up?",
         "url": "https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z"
       },
@@ -16994,6 +17162,28 @@
       "duration_ms": 224667,
       "name": "When Daylight Strikes (Intents Kingdom of Unity 2023 Anthem)",
       "url": "https://open.spotify.com/track/7hiSvqxUrIB4ZAH4hi0awM"
+    },
+    {
+      "album": {
+        "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
+        "url": "https://open.spotify.com/album/5xA6fUeYmzA0iskFgtlZdH"
+      },
+      "artists": [
+        {
+          "name": "Ran-D",
+          "url": "https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "When The Gods Call (Defqon.1 Opening Ceremony 2024 OST)",
+      "url": "https://open.spotify.com/track/3Mia9gtcznpH1Sh2ZQdwD5"
     },
     {
       "album": {
@@ -17198,6 +17388,32 @@
       "duration_ms": 270000,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/0dbttB5xr4M0Q1lQQXfAwI"
+    },
+    {
+      "album": {
+        "name": "Woops (Dimitri Vegas & Junkie Kid Remix)",
+        "url": "https://open.spotify.com/album/2mksgWbb9v1gTUvc0Dg0Xq"
+      },
+      "artists": [
+        {
+          "name": "Dj Bountyhunter",
+          "url": "https://open.spotify.com/artist/5yqxD8W7WnMJQZeoBU0Q66"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158951,
+      "name": "Woops - Dimitri Vegas & Junkie Kid Remix",
+      "url": "https://open.spotify.com/track/3s0ddyP32ZZMCXQT70UQYJ"
     },
     {
       "album": {

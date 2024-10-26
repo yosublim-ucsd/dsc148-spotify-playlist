@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: King Paluuta",
+  "description": "The big Hip-Life hits rn. Cover: Sarkodie and Victony",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 221283,
       "name": "3:30",
       "url": "https://open.spotify.com/track/3oPg26PoYh2LriJ4aUUVYt"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 203077,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 156129,
       "name": "Atamfo",
       "url": "https://open.spotify.com/track/4FkhH9eS0w3OT1DfWRR1b5"
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 147428,
       "name": "Iron",
       "url": "https://open.spotify.com/track/0yAOunFIcD2gHV7bLTWqoh"
@@ -1956,6 +1956,28 @@
       "duration_ms": 184385,
       "name": "Jah Guide",
       "url": "https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R"
+    },
+    {
+      "album": {
+        "name": "JAILER (feat. Victony)",
+        "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235294,
+      "name": "JAILER (feat. Victony)",
+      "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
     },
     {
       "album": {
@@ -3430,7 +3452,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 184930,
       "name": "Playman",
       "url": "https://open.spotify.com/track/2X4gf2v1AMcHPDfYdxcTNX"
@@ -3620,7 +3642,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 217750,
       "name": "Rollercoaster (feat. AratheJay)",
       "url": "https://open.spotify.com/track/3wid6zhIZ8QQ6g3cgXSV5R"
@@ -3687,6 +3709,32 @@
     },
     {
       "album": {
+        "name": "SA NE EBA",
+        "url": "https://open.spotify.com/album/3yv2V8jlvSZ9aEpdIVCGWz"
+      },
+      "artists": [
+        {
+          "name": "Stay Jay",
+          "url": "https://open.spotify.com/artist/5y43lOR941Xj5lwV2JQwGW"
+        },
+        {
+          "name": "NII M",
+          "url": "https://open.spotify.com/artist/0cJqdK1W9EH93dQ32KUWCj"
+        },
+        {
+          "name": "B4bonah",
+          "url": "https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "SA NE EBA",
+      "url": "https://open.spotify.com/track/2HYxWFGhOFr5yjzKpOW3xg"
+    },
+    {
+      "album": {
         "name": "Ghana Old School HipLife Essentials",
         "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
       },
@@ -3720,10 +3768,28 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 175922,
       "name": "Sika",
       "url": "https://open.spotify.com/track/39tkLEnvhdTLJ8pNEa5q52"
+    },
+    {
+      "album": {
+        "name": "Sika Asem",
+        "url": "https://open.spotify.com/album/2VVT040jhEx79V7XB7rP04"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161972,
+      "name": "Sika Asem",
+      "url": "https://open.spotify.com/track/6l8spDeNJS8fprHYTzDmgn"
     },
     {
       "album": {
@@ -4150,7 +4216,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 198086,
       "name": "Thy Grace",
       "url": "https://open.spotify.com/track/6MBpgxXASTwAB4XSgIsBCH"

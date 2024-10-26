@@ -2,9 +2,9 @@
 
 ### [Naija Drill ](https://open.spotify.com/playlist/37i9dQZF1DWYbHpYmILnhE)
 
-> Drilling through Naij\. Cover: Reeplay
+> Drilling through Naij\. Cover: King Perryy
 
-78 songs - 3 hr 31 min
+79 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [ENGLISH](https://open.spotify.com/track/1okLhQDVe8K8gw1Z3jIrhG) | [Blaqdee](https://open.spotify.com/artist/1ngLIjM1swqQ0EbSSZvusX) | [ENGLISH](https://open.spotify.com/album/4IrtkGoCvarJVQI9DBwRe0) | 2:34 | 2024-07-26 | 2024-08-02 |
 | [Finesse](https://open.spotify.com/track/0AgOkZYwJVoXXNrFvxOd6i) | [Geezyshore](https://open.spotify.com/artist/7yjMthvrGoCgkFKy69KNY9) | [Finesse](https://open.spotify.com/album/14r71d2X0Faxc3Ia010lNk) | 3:03 | 2024-06-28 |  |
 | [FOOLiSH \(Outstanding Dinner\)](https://open.spotify.com/track/0amlCeApqGc8p4MXFgWnes) | [DJ T1Z](https://open.spotify.com/artist/2z5YL3kKdwWilyR30IfpKW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [PAY UP, DON'T BE FOOLiSH](https://open.spotify.com/album/5Oc83DmrIFYaqCfxObWMBp) | 2:25 | 2024-06-28 |  |
+| [Gbege](https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Confirm Parole](https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6) | 3:29 | 2024-10-25 |  |
 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2024-06-28 |  |
 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 | 2024-06-28 |  |
 | [Heaven](https://open.spotify.com/track/0kNyR0PXqgaKmtJV7Y9Zvp) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Heaven](https://open.spotify.com/album/4agMiPmznVVvOWd3JhvAcb) | 2:30 | 2024-06-28 | 2024-09-10 |
@@ -72,7 +73,7 @@
 | [SAINT OBI \(feat\. Reeplay\)](https://open.spotify.com/track/49ewqUwtm7nmz8RthRJNQw) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Reeplay](https://open.spotify.com/artist/2UausQcu26M23zEr5rUODB) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/06natpnSRzMo4rkRZuLX3z) | 2:34 | 2024-06-28 |  |
 | [Sha guide](https://open.spotify.com/track/11egpItjzlquohaqN0zICO) | [Dapop](https://open.spotify.com/artist/7qAMTYtY4Rau2y00JY5fyM), [KennyBlaze](https://open.spotify.com/artist/6sTQuJgAkPwjW7csMMWkaa) | [Oloun wa \( The Ep \)](https://open.spotify.com/album/1ms4J8ECd0VPgSoUlarr53) | 2:30 | 2024-06-28 |  |
 | [Shame On You](https://open.spotify.com/track/2gxmTn6ivNJ1O6a38kVyU2) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Shame On You](https://open.spotify.com/album/4G3lVmi0yRIpMR6E7sTi4e) | 3:06 | 2024-06-28 |  |
-| [She Knows \(Blasé\)](https://open.spotify.com/track/7vNF37TITkdgRLvn6kxb68) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Elizabeth Olowo](https://open.spotify.com/artist/1CHnKmjSG9LuRn8RelTwlH) | [She Knows \(Blasé\)](https://open.spotify.com/album/1L2BWHFLzWV6ss8FioQjb6) | 2:54 | 2024-09-27 |  |
+| [She Knows \(Blasé\)](https://open.spotify.com/track/7vNF37TITkdgRLvn6kxb68) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si), [Elizabeth Olowo](https://open.spotify.com/artist/1CHnKmjSG9LuRn8RelTwlH) | [She Knows \(Blasé\)](https://open.spotify.com/album/1L2BWHFLzWV6ss8FioQjb6) | 2:54 | 2024-09-27 | 2024-10-26 |
 | [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2024-06-28 |  |
 | [Smoke 4 Free](https://open.spotify.com/track/1BwW34VUymRb2gdVxSncxr) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Euphoria](https://open.spotify.com/album/4IUsZcu8ZFCA64EYOmwAB8) | 2:17 | 2024-06-28 |  |
 | [Steady Trapping](https://open.spotify.com/track/1ZU2go4uBwksTVkzcuZG2E) | [Hugo P](https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p), [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX) | [Dreams & Nightmares](https://open.spotify.com/album/6I3ypVZhhbabSe5hfPbjMr) | 3:30 | 2024-06-28 | 2024-09-28 |

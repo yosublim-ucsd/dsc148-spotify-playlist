@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAAcVgnjHADw4kPMANzJzPt8",
+  "snapshot_id": "ZxmOAAAAAADwMOwczAmTmce4I791ar31",
   "tracks": [
     {
       "added_at": null,
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 173042,
-      "name": "Disasters",
-      "url": "https://open.spotify.com/track/3pHnXkd4Sh27LBQ0aOKd0h"
+      "duration_ms": 175573,
+      "name": "Hal Ashby",
+      "url": "https://open.spotify.com/track/5VBByeYV9LJl1fY8JzXDuX"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 175573,
-      "name": "Hal Ashby",
-      "url": "https://open.spotify.com/track/5VBByeYV9LJl1fY8JzXDuX"
+      "duration_ms": 173042,
+      "name": "Disasters",
+      "url": "https://open.spotify.com/track/3pHnXkd4Sh27LBQ0aOKd0h"
     },
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 155184,
-      "name": "This Routine",
-      "url": "https://open.spotify.com/track/5Ub6uKVc05cgjElayqcG3Y"
+      "duration_ms": 135897,
+      "name": "Nobody\u2019s",
+      "url": "https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 135897,
-      "name": "Nobody\u2019s",
-      "url": "https://open.spotify.com/track/3WBFG43oD1qU3yJSDjQJ2O"
+      "duration_ms": 155184,
+      "name": "This Routine",
+      "url": "https://open.spotify.com/track/5Ub6uKVc05cgjElayqcG3Y"
     },
     {
       "added_at": null,

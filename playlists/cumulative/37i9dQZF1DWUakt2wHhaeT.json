@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-08",
-  "description": "The best songs from the new shows and the buzziest hits. Cover: The Great Gatsby",
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Romeo + Juliet",
   "name": "Broadway Rising",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 206538,
       "name": "17 Again",
       "url": "https://open.spotify.com/track/2fl1DErM255mxTv7c9MU26"
@@ -76,7 +76,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 164542,
       "name": "42 Balloons and a Lawn Chair",
       "url": "https://open.spotify.com/track/1vvpleOg9j0eT5RYIfK8dB"
@@ -212,6 +212,28 @@
       "duration_ms": 275360,
       "name": "Astonishing",
       "url": "https://open.spotify.com/track/6tRtygw4gCDSlAEQ6aqpOH"
+    },
+    {
+      "album": {
+        "name": "Tomorrow, the Island Dies (Complete Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/4kMYAjZvHtW7n8cosgwTUz"
+      },
+      "artists": [
+        {
+          "name": "Ryan Scott Oliver",
+          "url": "https://open.spotify.com/artist/6ZN2tFyslA0XNQmZoOKlz9"
+        },
+        {
+          "name": "Jason Gotay",
+          "url": "https://open.spotify.com/artist/18QGDMb7iwtEcsz3n5myg3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220618,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/4P3JZmlq5RRlOg7KE0kZEh"
     },
     {
       "album": {
@@ -668,7 +690,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 211440,
       "name": "Floating And Falling",
       "url": "https://open.spotify.com/track/0AknRryO2t19Y1WgBDxsru"
@@ -864,6 +886,54 @@
       "duration_ms": 210188,
       "name": "Home",
       "url": "https://open.spotify.com/track/3Y6TrexjQryeW8U9UN5kzn"
+    },
+    {
+      "album": {
+        "name": "Playing With Fire (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/2BSWztobDwPRNdoICigWNY"
+      },
+      "artists": [
+        {
+          "name": "Cardamon Rozzi",
+          "url": "https://open.spotify.com/artist/3CWOdAXmL8NQGG6eC4nPbu"
+        },
+        {
+          "name": "JC Chasez",
+          "url": "https://open.spotify.com/artist/3p3U04w2DaiBzuYMZnYr00"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235923,
+      "name": "How Do You Sleep",
+      "url": "https://open.spotify.com/track/5O1KUF2pfaDvWG42z8927P"
+    },
+    {
+      "album": {
+        "name": "Hydrogen / Crazy",
+        "url": "https://open.spotify.com/album/2G26we8qI9rtz4MkpcDAUz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Starlight Express",
+          "url": "https://open.spotify.com/artist/0tU5mIMhY8VA85lj88bVRn"
+        },
+        {
+          "name": "Jaydon Vijn",
+          "url": "https://open.spotify.com/artist/0GvETYvpytrlCdO23rntCK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184635,
+      "name": "Hydrogen",
+      "url": "https://open.spotify.com/track/5QMJKsWHB14nPhMhw30G8v"
     },
     {
       "album": {
@@ -1325,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "If You Can Count",
+      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
+    },
+    {
+      "album": {
         "name": "Irene",
         "url": "https://open.spotify.com/album/1WnvMDMNx6guh8ZQn8LRVZ"
       },
@@ -1599,6 +1687,74 @@
     },
     {
       "album": {
+        "name": "CAKE: The Marie Antoinette Playlist (Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/0wIkG3HcEubSxNueheYcSW"
+      },
+      "artists": [
+        {
+          "name": "Cake The Musical",
+          "url": "https://open.spotify.com/artist/60uKAnsWM88nOiQ8cMnLha"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Let Them Eat Cake",
+      "url": "https://open.spotify.com/track/0tfWuZZS3MA4UdMryLeApR"
+    },
+    {
+      "album": {
+        "name": "London Tide (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/6NXmIaLAsmdZtwoFDLSr1o"
+      },
+      "artists": [
+        {
+          "name": "Bella Maclean",
+          "url": "https://open.spotify.com/artist/1qGmtTL76ZEi8qAxK9UnrI"
+        },
+        {
+          "name": "Jamael Westman",
+          "url": "https://open.spotify.com/artist/1uk06IxiubOYSo7o1kidXV"
+        },
+        {
+          "name": "Peter Wight",
+          "url": "https://open.spotify.com/artist/37W7h3RfnpZF6injNzhsJP"
+        },
+        {
+          "name": "Brandon Grace",
+          "url": "https://open.spotify.com/artist/2vBw0XUryt0Q2BCBm8M4SQ"
+        },
+        {
+          "name": "Penny Layden",
+          "url": "https://open.spotify.com/artist/26owa6NX716Cux9nu8DJF5"
+        },
+        {
+          "name": "Scott Karim",
+          "url": "https://open.spotify.com/artist/56oDjIq7c2N3fPlGNvfmbC"
+        },
+        {
+          "name": "Crystal Condie",
+          "url": "https://open.spotify.com/artist/4TbYaqFzXC72w5HHys7Ft3"
+        },
+        {
+          "name": "London Tide Ensemble",
+          "url": "https://open.spotify.com/artist/6BRIsRBRZj0nL9NAdOJeVm"
+        },
+        {
+          "name": "National Theatre",
+          "url": "https://open.spotify.com/artist/79AltunuGquHngpP9jVJts"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122373,
+      "name": "London Song",
+      "url": "https://open.spotify.com/track/7A3PjOKKA6oOwjvwrOFoiB"
+    },
+    {
+      "album": {
         "name": "Loser Geek Whatever (from 'Be More Chill')",
         "url": "https://open.spotify.com/album/3SMXzKeXylEKKQATJ5wr5Q"
       },
@@ -1614,6 +1770,24 @@
       "duration_ms": 354413,
       "name": "Loser Geek Whatever",
       "url": "https://open.spotify.com/track/4pG5dAw5CnIgISFgTrTha1"
+    },
+    {
+      "album": {
+        "name": "Man Of The House",
+        "url": "https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Man Of The House",
+      "url": "https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS"
     },
     {
       "album": {
@@ -1894,7 +2068,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 274266,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/4IRHXPQ794fL8BklZmxgwF"
@@ -2494,7 +2668,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 198160,
       "name": "Sunset Boulevard",
       "url": "https://open.spotify.com/track/4fVWMrGH0eBrfZtnbkN7RZ"
@@ -2648,7 +2822,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 198066,
       "name": "The Sheep Chose a Wolf",
       "url": "https://open.spotify.com/track/2r00OW9OwUZTqY4OKvoUkc"
@@ -2782,6 +2956,48 @@
       "duration_ms": 352875,
       "name": "Tulsa '67",
       "url": "https://open.spotify.com/track/7qi6tuUyDc5JG21uuTzkxX"
+    },
+    {
+      "album": {
+        "name": "Here We Are (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/04SqfbxYwlEhk5GenxL4mv"
+      },
+      "artists": [
+        {
+          "name": "Denis O'Hare",
+          "url": "https://open.spotify.com/artist/6V61xKjFeKyRl9FAgKtKYS"
+        },
+        {
+          "name": "Amber Gray",
+          "url": "https://open.spotify.com/artist/14i357yzHOFOHFma68eNJb"
+        },
+        {
+          "name": "Jeremy Shamos",
+          "url": "https://open.spotify.com/artist/1gU6vW1dNs4oZMGoKDAW3h"
+        },
+        {
+          "name": "Steven Pasquale",
+          "url": "https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I"
+        },
+        {
+          "name": "Bobby Cannavale",
+          "url": "https://open.spotify.com/artist/39ZMrrNEthdwHD5WrmBEk4"
+        },
+        {
+          "name": "Rachel Bay Jones",
+          "url": "https://open.spotify.com/artist/73sIMDrtvzFVs4Y1WkUpTd"
+        },
+        {
+          "name": "Micaela Diamond",
+          "url": "https://open.spotify.com/artist/4cwza2NZPQtmTcXotvpwWq"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261519,
+      "name": "Waiter's Song",
+      "url": "https://open.spotify.com/track/2E0AjkiDgeQwAMLWyNudf5"
     },
     {
       "album": {
@@ -3030,7 +3246,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 222626,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/3L0SSHs036ksVY1Wr92ibc"
@@ -3052,7 +3268,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 292740,
       "name": "Woman Is",
       "url": "https://open.spotify.com/track/3Nse8DZcXWKUo1sb6yjDlL"

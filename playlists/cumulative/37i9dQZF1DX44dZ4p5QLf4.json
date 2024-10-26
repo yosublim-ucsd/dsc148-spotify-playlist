@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Anyways",
+        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176888,
+      "name": "Anyways",
+      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
+    },
+    {
+      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/1Ld8d5JMr8xXOh5TvEuYNv"
       },
@@ -2838,7 +2856,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 171218,
       "name": "Get Close",
       "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 135189,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/2ShpBw0zpxdnclk7gv8eHY"
@@ -3857,6 +3875,24 @@
     },
     {
       "album": {
+        "name": "If I Stay",
+        "url": "https://open.spotify.com/album/1MJRA5NaQMs0KQs81sz4hX"
+      },
+      "artists": [
+        {
+          "name": "Luna Mae",
+          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208741,
+      "name": "If I Stay",
+      "url": "https://open.spotify.com/track/09Ib2XztcUmNGD2iNPiQTg"
+    },
+    {
+      "album": {
         "name": "Illusions",
         "url": "https://open.spotify.com/album/351WcL5BItxQNGjf4zVCkw"
       },
@@ -4720,6 +4756,28 @@
       "duration_ms": 190851,
       "name": "Lost & Found",
       "url": "https://open.spotify.com/track/4NVrNTSPyRBGKkqHNDBbxi"
+    },
+    {
+      "album": {
+        "name": "Lost but Here pt II",
+        "url": "https://open.spotify.com/album/6gvvFqhEVKckCZNLOV3ZgB"
+      },
+      "artists": [
+        {
+          "name": "Y.O.P.E.",
+          "url": "https://open.spotify.com/artist/7Ikgt4I9fVwzmFGCIb0aGX"
+        },
+        {
+          "name": "Sam Nera",
+          "url": "https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228996,
+      "name": "Lost but Here pt II",
+      "url": "https://open.spotify.com/track/78WotkbeKTSyVMWbHLcFPB"
     },
     {
       "album": {
@@ -8016,10 +8074,32 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 193566,
       "name": "Tandem",
       "url": "https://open.spotify.com/track/73ypDYXaKLXgb69ja5J21D"
+    },
+    {
+      "album": {
+        "name": "Taste of Dawn",
+        "url": "https://open.spotify.com/album/1gxMZMNSlnFNYU8AOxpdYL"
+      },
+      "artists": [
+        {
+          "name": "Kunde",
+          "url": "https://open.spotify.com/artist/2HoM9oaAr7jTKHEGuqgzry"
+        },
+        {
+          "name": "Looping Sessions",
+          "url": "https://open.spotify.com/artist/6oomHOCNWr4HxwPw9LVz47"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "Taste of Dawn",
+      "url": "https://open.spotify.com/track/2mob0hl3OXd4Yo1DbmZ9LN"
     },
     {
       "album": {
@@ -8806,7 +8886,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 200000,
       "name": "Undone",
       "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"

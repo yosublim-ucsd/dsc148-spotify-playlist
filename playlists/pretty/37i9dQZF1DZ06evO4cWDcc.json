@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 311739,
+  "num_followers": 311775,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAABc2IlAG/k2d4xBKY5iO8Br",
+  "snapshot_id": "ZxmOAAAAAADzFzgyDYySafb3F6d413dB",
   "tracks": [
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 372560,
-      "name": "Straight Ahead - Takes 1 & 2",
-      "url": "https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg"
+      "duration_ms": 226026,
+      "name": "Ezy Ryder",
+      "url": "https://open.spotify.com/track/6gZlwqE1zWmT57IN6FNheT"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rainbow Bridge",
-        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 307453,
-      "name": "Pali Gap",
-      "url": "https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID"
+      "duration_ms": 265813,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm"
     },
     {
       "added_at": null,
@@ -552,9 +552,25 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 226026,
-      "name": "Ezy Ryder",
-      "url": "https://open.spotify.com/track/6gZlwqE1zWmT57IN6FNheT"
+      "duration_ms": 372560,
+      "name": "Straight Ahead - Takes 1 & 2",
+      "url": "https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 307453,
+      "name": "Pali Gap",
+      "url": "https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID"
     },
     {
       "added_at": null,
@@ -575,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+        "name": "People, Hell & Angels",
+        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
       },
       "artists": [
         {
@@ -584,25 +600,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 265813,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rainbow Bridge",
-        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 284333,
-      "name": "Dolly Dagger",
-      "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
+      "duration_ms": 104973,
+      "name": "Villanova Junction Blues",
+      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "People, Hell & Angels",
-        "url": "https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf"
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 104973,
-      "name": "Villanova Junction Blues",
-      "url": "https://open.spotify.com/track/0ME8AQSwfAtSa6ZQpgjROg"
+      "duration_ms": 284333,
+      "name": "Dolly Dagger",
+      "url": "https://open.spotify.com/track/2AKcU2vk8MJrmXdRM9jwBU"
     },
     {
       "added_at": null,

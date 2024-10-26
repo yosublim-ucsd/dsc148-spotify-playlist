@@ -543,6 +543,28 @@
     },
     {
       "album": {
+        "name": "Back 2 Me (feat. Sadie Walker)",
+        "url": "https://open.spotify.com/album/1U6hULxO4Abs7fgvq1uRQ3"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Sadie Walker",
+          "url": "https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253221,
+      "name": "Back 2 Me (feat. Sadie Walker)",
+      "url": "https://open.spotify.com/track/2DMAgVaNhxgnTi4AOlfjCw"
+    },
+    {
+      "album": {
         "name": "Universo",
         "url": "https://open.spotify.com/album/5pDKZYQcIxWfSarmCTabn3"
       },
@@ -1383,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "Change (Edit)",
+        "url": "https://open.spotify.com/album/4LZzcVZ5K0CNbnEypXeWVp"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211620,
+      "name": "Change - Edit",
+      "url": "https://open.spotify.com/track/3tigqLQ5aJe2Ngl0OqbLVg"
+    },
+    {
+      "album": {
         "name": "Cherries",
         "url": "https://open.spotify.com/album/75axMksRE0rekETj1ufRTo"
       },
@@ -1488,7 +1528,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 169943,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
@@ -2108,6 +2148,24 @@
       "duration_ms": 218888,
       "name": "Downers",
       "url": "https://open.spotify.com/track/5lJ8vpDjeVdMsbHFf4unWR"
+    },
+    {
+      "album": {
+        "name": "Golden Hour, Vol. 1",
+        "url": "https://open.spotify.com/album/5cGoUvxqjYQB2VMDaLURmK"
+      },
+      "artists": [
+        {
+          "name": "Santino Le Saint",
+          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204621,
+      "name": "Dr. Knockout",
+      "url": "https://open.spotify.com/track/5sAW0PuBdaIysBOlvaobTH"
     },
     {
       "album": {
@@ -6790,7 +6848,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 311578,
       "name": "SOLID - Adam Swim Remix",
       "url": "https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi"
@@ -8080,7 +8138,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 222786,
       "name": "We Aight (feat. Mayer Hawthorne)",
       "url": "https://open.spotify.com/track/2RlfQoH0bzkRvsHwytsLiW"

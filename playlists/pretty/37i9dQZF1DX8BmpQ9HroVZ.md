@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,280 likes - 61 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,342 likes - 61 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

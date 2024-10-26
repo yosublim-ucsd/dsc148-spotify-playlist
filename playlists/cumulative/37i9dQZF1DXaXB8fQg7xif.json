@@ -7863,6 +7863,24 @@
     },
     {
       "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272253,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH"
+    },
+    {
+      "album": {
         "name": "Flowers (feat. Jaykae and MALIKA)",
         "url": "https://open.spotify.com/album/6HlRVGjN1psbbNjpfToGio"
       },
@@ -13258,7 +13276,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167559,
       "name": "Love Bites (Feat. Tove Lo & SG Lewis)",
       "url": "https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv"
@@ -14110,6 +14128,24 @@
       "duration_ms": 143237,
       "name": "Mercy - Radio Edit",
       "url": "https://open.spotify.com/track/1rUOYYOu4Wss0gjD0M9PRi"
+    },
+    {
+      "album": {
+        "name": "MERTHER",
+        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189405,
+      "name": "MERTHER",
+      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
     },
     {
       "album": {
@@ -15016,7 +15052,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 157680,
       "name": "My Addiction",
       "url": "https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL"

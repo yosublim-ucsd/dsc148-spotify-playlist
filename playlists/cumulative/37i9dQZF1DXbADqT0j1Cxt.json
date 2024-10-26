@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Day of Fun",
+        "url": "https://open.spotify.com/album/5GF0jPqSNbB2xlyFvlbESv"
+      },
+      "artists": [
+        {
+          "name": "Isaac Trager",
+          "url": "https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103057,
+      "name": "A Day of Fun",
+      "url": "https://open.spotify.com/track/34I4zd3dNRDV3t9Q4oC2iQ"
+    },
+    {
+      "album": {
         "name": "A Dream is a Wish Your Heart Makes",
         "url": "https://open.spotify.com/album/2pCLp3sqJ72I9xSHEHLXhx"
       },
@@ -8631,6 +8649,24 @@
     },
     {
       "album": {
+        "name": "Sheeplings",
+        "url": "https://open.spotify.com/album/5qlgLCLsaYVzNY1cndyB0R"
+      },
+      "artists": [
+        {
+          "name": "Forrest Carmine",
+          "url": "https://open.spotify.com/artist/3HxrE3TmMILgSfr1Gwg03s"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180759,
+      "name": "Sheeplings",
+      "url": "https://open.spotify.com/track/3Moov5075MI3wL1aIARWwf"
+    },
+    {
+      "album": {
         "name": "Singing for You",
         "url": "https://open.spotify.com/album/0niS3RXrOE4Go5ChPsJpLG"
       },
@@ -9621,6 +9657,24 @@
     },
     {
       "album": {
+        "name": "Sweet Child Of Mine",
+        "url": "https://open.spotify.com/album/7d3yk3BDG0t6U7k28EK6Bv"
+      },
+      "artists": [
+        {
+          "name": "Fruity Koala",
+          "url": "https://open.spotify.com/artist/4R8wFQxG9Xrl8As1ClyGJH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83033,
+      "name": "Sweet Child Of Mine",
+      "url": "https://open.spotify.com/track/5CagvKjDmV0febzGggWu60"
+    },
+    {
+      "album": {
         "name": "Sweet Dreamer",
         "url": "https://open.spotify.com/album/0pw4ddqdSi0v26chZ4Wa1r"
       },
@@ -9902,7 +9956,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 106175,
       "name": "The Bear and the Owl",
       "url": "https://open.spotify.com/track/0M7V6oTBtL5tZEeNMnDAfu"

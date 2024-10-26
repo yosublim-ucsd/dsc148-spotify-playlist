@@ -4,7 +4,7 @@
 
 > The best new pop music by independent artists and labels\. Cover: sorrycarlee\.  Artwork by Paola Saliby
 
-3,702 songs - 7 day 20 hr 13 min
+3,703 songs - 7 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1414,7 +1414,7 @@
 | [Hesitation](https://open.spotify.com/track/081f4hwT1C3wmBvu9Cbom5) | [Séamus](https://open.spotify.com/artist/4UWTzao3I8dwpES32qyoEc) | [Hesitation](https://open.spotify.com/album/73waLgCsvYglE7KiEs8wvd) | 3:38 | 2021-07-22 | 2021-09-16 |
 | [hey bro](https://open.spotify.com/track/18bRHDBUWfVAxCObZM1rri) | [VEN](https://open.spotify.com/artist/2xPLp9tmXTHLlyiIl5KFJ2) | [hey bro](https://open.spotify.com/album/7eFuKU7OiPFfjgiv9UDJiq) | 2:22 | 2021-03-06 | 2021-04-01 |
 | [Hey Hey](https://open.spotify.com/track/704Z0g9V5J078F402uuwWk) | [Shingai](https://open.spotify.com/artist/7woNunWFUYvNqvaBxOEGUJ), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Too Bold](https://open.spotify.com/album/2Kp6dPjCcfN7fANOVKRg4F) | 4:14 | 2020-10-22 | 2020-11-12 |
-| [Hey Hot Stuff](https://open.spotify.com/track/44xQXlcb1MU0L36hInHkmK) | [eamon mo](https://open.spotify.com/artist/3WbO3Mn34R017Hrq4WVXw2) | [Hey Hot Stuff](https://open.spotify.com/album/5RnskXOCSnjXy3gqGOB2vZ) | 3:04 | 2024-08-21 |  |
+| [Hey Hot Stuff](https://open.spotify.com/track/44xQXlcb1MU0L36hInHkmK) | [eamon mo](https://open.spotify.com/artist/3WbO3Mn34R017Hrq4WVXw2) | [Hey Hot Stuff](https://open.spotify.com/album/5RnskXOCSnjXy3gqGOB2vZ) | 3:04 | 2024-08-21 | 2024-10-26 |
 | [Hey Stranger](https://open.spotify.com/track/2sQbglmSRveLgVifGhsfhv) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Hey Stranger](https://open.spotify.com/album/3JmBbZL7zqiekAXvTrLLDY) | 4:02 | 2021-07-16 | 2021-10-07 |
 | [HI MY NAME IS](https://open.spotify.com/track/4c9p6pcoc13Rdw84HdHzoS) | [RAEGAN](https://open.spotify.com/artist/2nB2BHirpyBx2sJc4QKfwz) | [HI MY NAME IS](https://open.spotify.com/album/3FWYRNLRnd8wTRrrQovq2K) | 3:12 | 2022-11-09 | 2022-12-01 |
 | [Hidden](https://open.spotify.com/track/7hufSA0VRriWTs8FdwJtNx) | [KTJ & CARLY](https://open.spotify.com/artist/1rHyIyvEXaXtHCCMEhhN4M) | [Hidden](https://open.spotify.com/album/2V0bsOvjtWsyx4ow4vIy7Z) | 3:24 | 2021-06-24 | 2021-09-02 |
@@ -2361,6 +2361,7 @@
 | [Occasional Crazy](https://open.spotify.com/track/7uOMAEzuX23h8EwAbDuNbA) | [Logan Ghiorzi](https://open.spotify.com/artist/00eZz3w7B3EFziHbZTkmTP) | [Occasional Crazy](https://open.spotify.com/album/5PqIitZNAoYacum1xzRIPZ) | 2:23 | 2022-01-19 | 2022-03-03 |
 | [Ocean](https://open.spotify.com/track/1MV2ab1Q81XpS8yCZYYFGN) | [Young Lungs](https://open.spotify.com/artist/2trvlbfMS5zVozEmrFNDTJ) | [Ocean](https://open.spotify.com/album/5Eoz7NXXYEf4KnNWzkOKjO) | 2:30 | 2020-11-18 | 2020-12-08 |
 | [Ocean Lights](https://open.spotify.com/track/5SxChhZAgflkWJJXhOoeW1) | [Margo Raats](https://open.spotify.com/artist/52XA4Ccc0k7wMeLkdEsju9) | [Ocean Lights](https://open.spotify.com/album/2lFKNUTk0SYLlscdXFuzD4) | 3:23 | 2024-05-08 | 2024-06-20 |
+| [October](https://open.spotify.com/track/1S5H1Kb9zorNzLiGlowC78) | [La Rhonza](https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD) | [October](https://open.spotify.com/album/7s3OY71tBtARmt0ErG5Gy6) | 3:14 | 2024-10-25 |  |
 | [Oddities and Prodigies](https://open.spotify.com/track/4BG1QQGeyyssmRKy0OuXlm) | [Caroline Romano](https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol) | [Oddities & Prodigies](https://open.spotify.com/album/46n8rL1vHBdtUh9x7Bcud1) | 1:59 | 2022-03-02 | 2022-04-28 |
 | [Odyssey](https://open.spotify.com/track/1mHZc0QCVt7XaCLSCO02OC) | [Flownn](https://open.spotify.com/artist/2cCuAsfwl1oYhN6yovKdv8) | [Odyssey](https://open.spotify.com/album/5jCryY2C9IcCSG4T0dxGjT) | 2:49 | 2021-02-17 | 2021-03-25 |
 | [off a few](https://open.spotify.com/track/3uquVUpmjDwTsLvbg8YtmK) | [8rae](https://open.spotify.com/artist/0eTyCf1MdrRtX7OSY0vcAP) | [off a few](https://open.spotify.com/album/6NSFb3AWDyGxUe0sZu8JsD) | 2:35 | 2023-04-12 | 2023-05-18 |

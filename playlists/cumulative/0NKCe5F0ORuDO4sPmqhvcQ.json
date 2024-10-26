@@ -10895,6 +10895,32 @@
     },
     {
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1TNaRChP0UiN1pszfgYwOt"
+      },
+      "artists": [
+        {
+          "name": "CHROMEBODIES",
+          "url": "https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI"
+        },
+        {
+          "name": "DJ Topgun",
+          "url": "https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/15eaBPOMmJfg1UNOF58hcW"
+    },
+    {
+      "album": {
         "name": "Black Zebra",
         "url": "https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE"
       },

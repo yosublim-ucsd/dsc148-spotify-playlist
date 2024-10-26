@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-190 songs - 13 hr 15 min
+191 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Unforgettable](https://open.spotify.com/track/3hMtwMsTU2H3iD5mu0cpiE) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL), [Taylor Eigsti](https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp) | [Unforgettable](https://open.spotify.com/album/6HiKJ6DURPZIyr837e7rBX) | 2:56 | 2019-05-26\* |  |
 | [Unforgettable](https://open.spotify.com/track/0DHyfTHCTvbeVJyXIzVhlq) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Taylor Eigsti](https://open.spotify.com/artist/4HTzfZgrRnvNBnsXjhs4mp), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Reuben Rogers](https://open.spotify.com/artist/4suPNNUCtzkjmLIQnCGNeL) | [Shadow Train](https://open.spotify.com/album/1dzuSstYTLU34HvWhd6CIh) | 2:56 | 2022-06-22 | 2024-04-19 |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-02-14 | 2022-05-25 |
+| [We Have All The Time In The World \- Cam Blackwood & Swindle Version](https://open.spotify.com/track/3MYTlTdvrrsvRdFS06spdY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [We Have All The Time In The World \(Cam Blackwood & Swindle Version\)](https://open.spotify.com/album/6qKI6X5pITMNVyQyxrvRhp) | 3:16 | 2024-10-25 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/2UjKv7YLrzyU2HFIKdapMN) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [It Had To be You..\. The Great American Songbook](https://open.spotify.com/album/4Ssek6XSIaTLnP4Fq3olTM) | 3:54 | 2022-05-02 | 2024-01-05 |
 | [What A Difference A Day Made](https://open.spotify.com/track/5PbSvsljhgxijSYV5cG5xU) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 5:09 | 2022-05-02 |  |
 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 | 2019-05-26\* |  |

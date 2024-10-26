@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Pappy Kojo
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,172 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,190 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 74 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 |
 | 75 | [Wotowei](https://open.spotify.com/track/5WogbNJtB9CgpD4T0zGpmj) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Wotowei](https://open.spotify.com/album/07CaU9TdU8Yl3mRkwLH1w4) | 3:27 |
 | 76 | [ORTEESO](https://open.spotify.com/track/29NNISjZWKCV7fe0SRRbXU) | [Khendibeatz](https://open.spotify.com/artist/0KxivjKCyDebQXgGhJvEip), [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Rap Fada](https://open.spotify.com/artist/2B2GXzW2b4x6pohKQ5C40a), [Senario](https://open.spotify.com/artist/5rHLfEACxYi2tx5QdDl2wF), [Ratty Ghana](https://open.spotify.com/artist/0TbwzfSKIyMpmQaxQ6zeKZ) | [ORTEESO](https://open.spotify.com/album/4UROT5uioThKASOh4ATUtr) | 3:27 |
-| 77 | [Me Baby](https://open.spotify.com/track/66RYCW347hwspDLHzDSnIG) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Me Baby](https://open.spotify.com/album/1Poa1A7jmMyLw05HbZFolK) | 2:05 |
+| 77 | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/track/66RYCW347hwspDLHzDSnIG) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/album/1Poa1A7jmMyLw05HbZFolK) | 2:05 |
 | 78 | [Flow Proper](https://open.spotify.com/track/3aXdWV0LWeVlG6rvn0tsMu) | [Avit](https://open.spotify.com/artist/1pWNPxR4s1pbNP9bouFeqO) | [Flow Proper](https://open.spotify.com/album/2cD12BFj5Mw3gpK9cjQICu) | 3:10 |
 | 79 | [It's not over](https://open.spotify.com/track/7LRg28E7naQ4qyaONXy2Kv) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [It's not over](https://open.spotify.com/album/4m3OS4wQGJSAq9uOxVVsyX) | 3:10 |
 | 80 | [Only You](https://open.spotify.com/track/75z4tYzgDaisr9rc03cavg) | [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Only You](https://open.spotify.com/album/6cKH0RbIFH9YOfKaGBZfDB) | 3:39 |

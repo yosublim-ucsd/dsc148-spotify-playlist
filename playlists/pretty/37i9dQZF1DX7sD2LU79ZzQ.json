@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: VIDI",
-  "num_followers": 125489,
+  "num_followers": 125531,
   "original_name": "Naik Daun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxp9EAAAAADgGy7qPQVN4UYeRLT7/OHn",
+  "snapshot_id": "ZxtNigAAAADRzKdsJIlCR075B8R6jtDQ",
   "tracks": [
     {
       "added_at": "2024-10-24 17:00:00",
@@ -327,6 +327,22 @@
       "duration_ms": 158000,
       "name": "Sisi Lain",
       "url": "https://open.spotify.com/track/0Q3MtsZm9zbuEY5FtSDutq"
+    },
+    {
+      "added_at": "2024-10-25 07:49:30",
+      "album": {
+        "name": "Rockstar Cetar",
+        "url": "https://open.spotify.com/album/3sm5MgcPe00Vaf9Gy3oTYD"
+      },
+      "artists": [
+        {
+          "name": "Musisi Lupa Umur",
+          "url": "https://open.spotify.com/artist/6pfcZbgeDbMk2HdjQOxzuz"
+        }
+      ],
+      "duration_ms": 219854,
+      "name": "Rockstar Cetar",
+      "url": "https://open.spotify.com/track/3xFJN0oXfNaQf1fmShHl0g"
     },
     {
       "added_at": "2024-10-24 17:00:00",

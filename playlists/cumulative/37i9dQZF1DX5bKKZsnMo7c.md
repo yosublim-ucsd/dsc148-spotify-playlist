@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Chappell Roan
 
-401 songs - 21 hr 33 min
+402 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Everything's Fine \(Nuke Song\)](https://open.spotify.com/track/2BRdwCOzgzF0S1edWdCRUd) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Everything's Fine \(Nuke Song\)](https://open.spotify.com/album/3n8o6aNvxgEESt00ncoVLR) | 2:14 | 2022-10-07 | 2022-11-30 |
 | [Evil Twin](https://open.spotify.com/track/1Etn9dUofwRMlaAEgJk6Ij) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Evil Twin](https://open.spotify.com/album/70ntdGVYxNVwsKafaIeIPy) | 3:47 | 2024-05-17 | 2024-06-08 |
 | [Ex\-Girlfriend](https://open.spotify.com/track/30RnHZzh0YfZu7FNIBxiIH) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Ex\-Girlfriend](https://open.spotify.com/album/37xFZDZTBANnDJdPpXHgU8) | 2:19 | 2022-09-02 | 2022-12-10 |
+| [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-25 |  |
 | [Fairytale](https://open.spotify.com/track/4eDtZP99H6xfasP4Tku9Ee) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Lighthouse](https://open.spotify.com/album/4Pmm7z9aZUxOifop5oDvOJ) | 2:49 | 2022-05-23 | 2022-06-02 |
 | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:11 | 2022-05-17 | 2022-06-02 |
 | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/track/3oDm8bWMqVw2Hn4R8nYwyZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/album/4rhuxHJsNJdATS6PHxMvQ6) | 2:48 | 2022-06-10 | 2022-07-08 |
@@ -316,7 +317,7 @@
 | [She Wants Me \(To Be Loved\)](https://open.spotify.com/track/1yS9wpv8GW2c8tHC7P85JJ) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:19 | 2022-10-21 | 2023-02-17 |
 | [Shit Show](https://open.spotify.com/track/090hszohQB1ibgEYfY2KVJ) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:26 | 2024-02-23 | 2024-03-23 |
 | [Should've Been Me](https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:11 | 2022-05-17 | 2023-09-23 |
-| [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-27 |  |
+| [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Silverlines \- prod\. Labrinth](https://open.spotify.com/album/6xLihtKzCsFZm7nQrAcbF4) | 3:17 | 2024-09-27 | 2024-10-26 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-08-22 | 2023-09-23 |
 | [SLEEP PARALYSIS DEMON](https://open.spotify.com/track/7ArCnzvsDjjLort2k4lELX) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [SLEEP PARALYSIS DEMON](https://open.spotify.com/album/6VaeeTZaX6qAcG0iJWTnNj) | 2:34 | 2023-12-08 | 2024-07-11 |
 | [Sleep Well](https://open.spotify.com/track/5c0LlTO3yRYMkElrZCByjy) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Chi\-Chi](https://open.spotify.com/artist/73z7IaMZWklUITS2qrtXzW), [Kathy\-Chan](https://open.spotify.com/artist/5O1DnqyQw2ddzrd7ZTWdTA), [Cami\-Cat](https://open.spotify.com/artist/4KMvtIG6508uNPkPaqbVV3) | [Sleep Well](https://open.spotify.com/album/6POZaAyKpUNRelsnsQQRzN) | 3:27 | 2024-03-01 |  |

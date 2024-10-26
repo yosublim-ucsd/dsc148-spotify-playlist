@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 > Chill, take a long walk and clear your mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,508 likes - 53 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,525 likes - 53 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 19 | [Sometimes](https://open.spotify.com/track/1qOVb7IpU5Mp0vM7HVVA5V) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Tawasifu Ya Moyo](https://open.spotify.com/album/0BPwyOsMg7lQrdxWoy4YLv) | 3:52 |
 | 20 | [Pete](https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Pete](https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx) | 2:04 |
 | 21 | [ReMind Me](https://open.spotify.com/track/0v3a2TWovCCiLJYHffRaEs) | [Webi](https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH) | [ReMind Me](https://open.spotify.com/album/2IRaVGufv0PkpXGTOPhW8I) | 3:32 |
-| 22 | [either way](https://open.spotify.com/track/3hTPxwM0qCSLW0TsV5lZGR) | [Donado Stone](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 3:26 |
+| 22 | [either way](https://open.spotify.com/track/3hTPxwM0qCSLW0TsV5lZGR) | [DENO](https://open.spotify.com/artist/66R7M4gMnPcpY0ZstEU4FD) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 3:26 |
 | 23 | [Jane](https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Jane](https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i) | 2:57 |
 | 24 | [Forever yours](https://open.spotify.com/track/0dd0McSQVC7kxppAEunPQN) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Ndoa](https://open.spotify.com/album/3vKSPMAe4vy4p8LcaOygoR) | 4:35 |
 | 25 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 |

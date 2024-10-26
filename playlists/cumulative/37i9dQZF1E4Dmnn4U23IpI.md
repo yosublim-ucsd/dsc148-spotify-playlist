@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Gunship, Ollie Wride, The Bad Dreamers and more
+> With Gunship, Ollie Wride, Michael Oakley and more
 
 1,550 songs - 4 day 11 hr 0 min
 
@@ -279,7 +279,7 @@
 | [Crystal Ships](https://open.spotify.com/track/0bEu6jZ6S1PmYjXyxf06z5) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Introspect](https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN) | 5:14 | 2022-03-31 | 2024-10-24 |
 | [Crystal Waves \(From "Wave Break"\)](https://open.spotify.com/track/4MxlFlAqGSnNMYYXne6Fer) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Crystal Waves \(From "Wave Break"\)](https://open.spotify.com/album/54hp6mvPDPZgVUFbWOK3N5) | 4:40 | 2021-12-01\* | 2022-05-14 |
 | [Crystalex](https://open.spotify.com/track/5oMDaZjpBwZUcOMfttvAeu) | [Marvel83'](https://open.spotify.com/artist/31b6PTO6eCjLsm85tvkgXz) | [In a Different Time](https://open.spotify.com/album/7zFoNajDmh9ndb9umcruON) | 5:16 | 2022-02-04 | 2022-03-08 |
-| [Crystalline](https://open.spotify.com/track/2dXpyz3Vlc0PRlaCJG0ZPr) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Nocturnal](https://open.spotify.com/album/0V8iFftiuRJESNykeAlajg) | 6:02 | 2024-08-04 |  |
+| [Crystalline](https://open.spotify.com/track/2dXpyz3Vlc0PRlaCJG0ZPr) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Nocturnal](https://open.spotify.com/album/0V8iFftiuRJESNykeAlajg) | 6:02 | 2024-08-04 | 2024-10-26 |
 | [Crystalline](https://open.spotify.com/track/7E2ZNBAy0DFOWC5RUEyh5V) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Nocturnal](https://open.spotify.com/album/42sLDZoNRGO3YnTgpAbk9o) | 6:02 | 2021-12-06 | 2024-07-29 |
 | [Crystalline \- Instrumental](https://open.spotify.com/track/0Tqoy1jyQ8RX696Xz6Tume) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Nocturnal \(The Instrumentals\)](https://open.spotify.com/album/5zzj1gBpUf3TS8MmpPpaBr) | 6:02 | 2022-10-11 | 2022-10-12 |
 | [Culture](https://open.spotify.com/track/50MNzYn2sWYWpLxGcuN3UM) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Radio Galaxy](https://open.spotify.com/album/16ic6vbQ57Tx7bMjzfQFAv) | 3:55 | 2021-12-04 | 2021-12-31 |
@@ -428,7 +428,7 @@
 | [Excess](https://open.spotify.com/track/2PqhBZZu2yRJ5uJ1dbRAGH) | [Perturbator](https://open.spotify.com/artist/244uLu9lkdw39BJwlul3k8), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Excess](https://open.spotify.com/album/6OcV3XH7m3WYthcv4E4hPM) | 4:37 | 2022-10-13 | 2022-10-14 |
 | [Exhale](https://open.spotify.com/track/77cKruEPFjGd1oZTFXNcb6) | [Juno Dreams](https://open.spotify.com/artist/0EUPJObeCnU0yyMon1OzAV) | [Paradise](https://open.spotify.com/album/4iToOY2kDdZagkPRWONDlF) | 4:29 | 2022-10-21 | 2024-04-16 |
 | [Explorer](https://open.spotify.com/track/1FPqigeE3ghg858HekyRLQ) | [Arcis](https://open.spotify.com/artist/11jVTF2G0ClyW9H9tZeUHM) | [Harmful Species](https://open.spotify.com/album/5aoaderRxyrO9LcoaN78gO) | 3:44 | 2024-03-01 | 2024-03-02 |
-| [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 | 2024-08-04 | 2024-10-25 |
+| [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 | 2024-08-04 |  |
 | [Explorers](https://open.spotify.com/track/5fZ3BmBaq29MYI2Xsb5FBR) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy) | 4:16 | 2021-12-16 | 2024-08-04 |
 | [Explorers \- Instrumental](https://open.spotify.com/track/5BCD74cy3iUzMlbI5GbcVc) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids \(The Instrumentals\)](https://open.spotify.com/album/1uJlpU7gF8xCloF9AGYyN8) | 4:16 | 2022-03-10 | 2022-10-14 |
 | [Extreme Drift](https://open.spotify.com/track/65tuNzTvQRvOpN7hxLpwgi) | [Absolute Valentine](https://open.spotify.com/artist/0ntJWEv4bwPUp16SabEbKM) | [Police Heartbreaker](https://open.spotify.com/album/01mkMMyGns25JZqy5AbUCP) | 3:28 | 2022-02-07 | 2022-03-09 |
@@ -758,7 +758,7 @@
 | [Livin' In A Studio](https://open.spotify.com/track/6nOSoNn4TZkTtqXwElJ4v8) | [Freeweights](https://open.spotify.com/artist/1gYdjzLQVIKiyEzE1Ku5MQ) | [Livin' In A Studio](https://open.spotify.com/album/6mrcHaMUgaPlw8HnTadRjm) | 4:01 | 2022-03-21 | 2024-04-19 |
 | [Lo](https://open.spotify.com/track/6gK5g4oyJVWrN8aprgPrWw) | [Ghostwood Empire](https://open.spotify.com/artist/6ROAJNCFYIdjTa9aev5VqO) | [Lo](https://open.spotify.com/album/0GUXplASxh4WIsB5kM3E66) | 3:21 | 2022-07-30 | 2022-10-08 |
 | [Lock and Key](https://open.spotify.com/track/4c5obGTukUDNeEKMPTbc7v) | [ZETA](https://open.spotify.com/artist/7qaBf0ctyaciGAlmWkSCeF) | [Zeta](https://open.spotify.com/album/6JJCXoBmwPtTT5lK8DPj5t) | 4:19 | 2022-07-13 | 2022-07-14 |
-| [Locke](https://open.spotify.com/track/09MiUxWgWtsR2ITVEbZsOh) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Shadowtask](https://open.spotify.com/album/1wads7lyvAA6Vp17adgQLt) | 5:25 | 2021-12-15 | 2024-09-04 |
+| [Locke](https://open.spotify.com/track/09MiUxWgWtsR2ITVEbZsOh) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Shadowtask](https://open.spotify.com/album/1wads7lyvAA6Vp17adgQLt) | 5:25 | 2021-12-15 |  |
 | [London](https://open.spotify.com/track/2GGNHEtUDpp750ZQlB91gI) | [Josh Dally](https://open.spotify.com/artist/1rTWoB7Gxm4YbWfrDc4EBt), [All The Damn Vampires](https://open.spotify.com/artist/2U0OKMms9WuTVQztib78cH) | [Speak Your Mind](https://open.spotify.com/album/3gG45K7RUAKq9DIZg2iufx) | 2:45 | 2023-12-16 | 2023-12-17 |
 | [Lonely City](https://open.spotify.com/track/0ZUwlo0moIZ9FsRHJMA4g1) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8) | 5:14 | 2021-12-07 | 2024-05-03 |
 | [Lonely Lovers](https://open.spotify.com/track/7n0VR8JCcwKkeVDFEuJJM7) | [The Motion Epic](https://open.spotify.com/artist/2maV9w4OlFpfWlMX3URDuN) | [West Coast Dreams](https://open.spotify.com/album/0yZCcEKr7uwSD5ziJhVP5Y) | 3:58 | 2022-03-18 | 2022-08-24 |
@@ -1534,7 +1534,7 @@
 | [Without](https://open.spotify.com/track/3VKcBdlqb1iPtBJIS6Dzqy) | [Unfound](https://open.spotify.com/artist/7u4YxeFiaq5WBD6izDeTry) | [Without](https://open.spotify.com/album/15EczckttbMnn31s8HZj0C) | 3:59 | 2022-03-13 | 2022-10-15 |
 | [Without You](https://open.spotify.com/track/3e13yZZOnqqHqrAaWAan25) | [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b), [ROOM8](https://open.spotify.com/artist/0deJsWURNE6XIQWBGCNM17) | [Innerworld \(Deluxe Edition\)](https://open.spotify.com/album/3xlj8UnItzJxDjn3kWezIK) | 3:28 | 2022-05-08 | 2022-10-08 |
 | [Without You](https://open.spotify.com/track/06NZTLJkQz9gq83dIFJhx9) | [Jordan F](https://open.spotify.com/artist/1qSGsjM9uWGLbH1PWUPV7A), [Gryff](https://open.spotify.com/artist/3M4MXoiDxsDBq9Cm3vKNOk) | [Memory Collision](https://open.spotify.com/album/5sFn0vaoGBFsq0mV7MB25X) | 3:15 | 2024-03-14 | 2024-03-25 |
-| [Without You \(feat\. Tommy Reeve\)](https://open.spotify.com/track/632WIrdZ9EkjdvURPTmORZ) | [Sebastian Gampl](https://open.spotify.com/artist/3jtCAPtVjW9Q7KHfnGCZsy), [Tommy Reeve](https://open.spotify.com/artist/5x3ratc2UkpGtqKbgpHZbY) | [Winner](https://open.spotify.com/album/1NP7pAZyilVQPWQwua8TRp) | 6:08 | 2022-03-09 |  |
+| [Without You \(feat\. Tommy Reeve\)](https://open.spotify.com/track/632WIrdZ9EkjdvURPTmORZ) | [Sebastian Gampl](https://open.spotify.com/artist/3jtCAPtVjW9Q7KHfnGCZsy), [Tommy Reeve](https://open.spotify.com/artist/5x3ratc2UkpGtqKbgpHZbY) | [Winner](https://open.spotify.com/album/1NP7pAZyilVQPWQwua8TRp) | 6:08 | 2022-03-09 | 2024-10-26 |
 | [Woken Furies](https://open.spotify.com/track/1gGNnSJrFVe4LCnP0nCbDJ) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 5:07 | 2021-12-01\* | 2024-10-25 |
 | [Wonderland](https://open.spotify.com/track/5jxJ9DefjKWFUXiyhAneqG) | [Killstarr](https://open.spotify.com/artist/1kWtjMazlZQwIm7ZWIiBKk) | [Worlds Apart](https://open.spotify.com/album/0fj2lXDmwx8Ls8YpgWHGfK) | 4:02 | 2022-05-24 | 2022-08-29 |
 | [Worlds Apart](https://open.spotify.com/track/2BKA962NnkhUt0HwtWIv3t) | [Killstarr](https://open.spotify.com/artist/1kWtjMazlZQwIm7ZWIiBKk) | [Worlds Apart](https://open.spotify.com/album/0fj2lXDmwx8Ls8YpgWHGfK) | 4:40 | 2022-03-12 | 2024-03-28 |

@@ -4,7 +4,7 @@
 
 > 100% British \- 100% R&B\. Cover: Nia Smith
 
-320 songs - 16 hr 39 min
+321 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [All I Need](https://open.spotify.com/track/4zrUf784IvoBhlKhbX1Gar) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [All I Need](https://open.spotify.com/album/04A0QePJ2bXEuRje6wEEwF) | 2:37 | 2023-11-24 | 2024-01-26 |
 | [All or Nothing \(feat\. Ella Mai\)](https://open.spotify.com/track/1kCHMAf5TOU97HhuRHNyi1) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [After the Butterflies](https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM) | 3:10 | 2023-11-24 | 2024-10-04 |
 | [Anonymous](https://open.spotify.com/track/0nzrey7EGWju6WBndLkUFa) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Sad Songs For Winter](https://open.spotify.com/album/0Y8wD7iVN5COLCrsJFI3yp) | 2:30 | 2024-03-01 | 2024-03-23 |
+| [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 | 2024-10-24 |  |
 | [Around Me](https://open.spotify.com/track/1YEVx89VQ53Lj96DuDs6Et) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Around Me](https://open.spotify.com/album/637AZlOAncgk471qGUVCvP) | 2:54 | 2024-10-03 |  |
 | [Around The World](https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Around The World](https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY) | 1:56 | 2024-03-01 | 2024-04-19 |
 | [As You Are \- A COLORS SHOW](https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [As You Are \- A COLORS SHOW](https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc) | 3:41 | 2023-09-14 | 2024-06-25 |
@@ -201,7 +202,7 @@
 | [NICE GIRLS](https://open.spotify.com/track/0rmueJzTNJastnJR8VfIp6) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [SAFE FLIGHT](https://open.spotify.com/album/37FUdgp35njUxws7l0WCep) | 2:29 | 2024-09-20 | 2024-10-19 |
 | [NICE GIRLS](https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [NICE GIRLS](https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm) | 2:29 | 2024-04-19 | 2024-09-21 |
 | [NIGHTTIME](https://open.spotify.com/track/6hybNTJZlwbL8Uk9PyWxYL) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [NIGHTTIME](https://open.spotify.com/album/6f8vl4nEXcYJahLiV0V69W) | 2:30 | 2023-05-18 | 2023-06-02 |
-| [No Bad Energy](https://open.spotify.com/track/4RuCu5EaKXY60YcOzdLZYt) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [No Bad Energy](https://open.spotify.com/album/2SIpildhIlKFKx0eULa3dN) | 3:13 | 2024-08-29 |  |
+| [No Bad Energy](https://open.spotify.com/track/4RuCu5EaKXY60YcOzdLZYt) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [No Bad Energy](https://open.spotify.com/album/2SIpildhIlKFKx0eULa3dN) | 3:13 | 2024-08-29 | 2024-10-26 |
 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 | 2023-06-05 | 2023-07-22 |
 | [No Regrets](https://open.spotify.com/track/2RC3TbzlpR5lpzODqOUQfL) | [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [No Regrets](https://open.spotify.com/album/4aRr37KCSr88qfFrnJYCZx) | 2:59 | 2022-07-17 | 2023-03-11 |
 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 | 2023-07-21 | 2023-10-08 |

@@ -1,13 +1,29 @@
 {
-  "description": "The home of rage rap. Cover: Playboi Carti",
-  "num_followers": 66287,
+  "description": "The home of rage rap. Cover: Yeat",
+  "num_followers": 66336,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zu32SgAAAACN6azB9BQ72goF/YNpO3LQ",
+  "snapshot_id": "Zxvo0AAAAAB5t3xZySR2GhPBPpAAKUN1",
   "tracks": [
+    {
+      "added_at": "2024-10-25 18:47:03",
+      "album": {
+        "name": "LYFESTYLE",
+        "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 170187,
+      "name": "GEEK TIM\u00cb",
+      "url": "https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz"
+    },
     {
       "added_at": "2024-09-13 04:15:29",
       "album": {
@@ -25,6 +41,42 @@
       "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
     },
     {
+      "added_at": "2024-10-25 18:52:00",
+      "album": {
+        "name": "gold",
+        "url": "https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 126988,
+      "name": "gold",
+      "url": "https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj"
+    },
+    {
+      "added_at": "2024-10-25 18:52:00",
+      "album": {
+        "name": "NASTY",
+        "url": "https://open.spotify.com/album/1nFL8pKNqX80UksDWHF8qI"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 146004,
+      "name": "NASTY",
+      "url": "https://open.spotify.com/track/4fuZ6arVI8LI91ZAE0PIcC"
+    },
+    {
       "added_at": "2024-09-20 22:16:58",
       "album": {
         "name": "COUNT MY BANDZ",
@@ -39,6 +91,62 @@
       "duration_ms": 123428,
       "name": "COUNT MY BANDZ",
       "url": "https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE"
+    },
+    {
+      "added_at": "2024-07-31 16:54:30",
+      "album": {
+        "name": "ABU DHABI (w/ Lancey Foux)",
+        "url": "https://open.spotify.com/album/65nf2NivqigHee4vVjsRT5"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 154313,
+      "name": "ABU DHABI (w/ Lancey Foux)",
+      "url": "https://open.spotify.com/track/5sv52cIHSsKw66yhHFFXyj"
+    },
+    {
+      "added_at": "2024-10-25 18:52:00",
+      "album": {
+        "name": "Sayso Says",
+        "url": "https://open.spotify.com/album/47geWD2PbTuFY3z1CNsEDU"
+      },
+      "artists": [
+        {
+          "name": "che",
+          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+        }
+      ],
+      "duration_ms": 119232,
+      "name": "I Rot, I Rot.",
+      "url": "https://open.spotify.com/track/6S2Uwo1I2uwyDh7IUx23MM"
+    },
+    {
+      "added_at": "2024-10-25 18:52:00",
+      "album": {
+        "name": "LOVE LASTS FOREVER",
+        "url": "https://open.spotify.com/album/11ZryCurodmqJCHvj9AA6U"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 274308,
+      "name": "LOVE HURTS",
+      "url": "https://open.spotify.com/track/4wXb2K1fSCzl83qSpFELno"
     },
     {
       "added_at": "2024-09-10 13:39:46",
@@ -59,6 +167,22 @@
       "duration_ms": 252636,
       "name": "THRILL (with Ken Carson)",
       "url": "https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN"
+    },
+    {
+      "added_at": "2024-10-25 18:52:00",
+      "album": {
+        "name": "REBIRTH",
+        "url": "https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G"
+      },
+      "artists": [
+        {
+          "name": "DC The Don",
+          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "VENUS",
+      "url": "https://open.spotify.com/track/3z1qBYHxWyJiwbTupk194R"
     },
     {
       "added_at": "2024-09-03 19:49:13",
@@ -85,6 +209,26 @@
       "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
     },
     {
+      "added_at": "2024-07-31 16:54:30",
+      "album": {
+        "name": "Precision",
+        "url": "https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 158367,
+      "name": "Precision",
+      "url": "https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl"
+    },
+    {
       "added_at": "2024-09-10 13:45:16",
       "album": {
         "name": "KEEP IT COOL",
@@ -103,6 +247,22 @@
       "duration_ms": 106666,
       "name": "KEEP IT COOL",
       "url": "https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5"
+    },
+    {
+      "added_at": "2024-10-25 18:52:00",
+      "album": {
+        "name": "Sound Design",
+        "url": "https://open.spotify.com/album/3YUDjqJj5okB9QUFjH2yop"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        }
+      ],
+      "duration_ms": 115174,
+      "name": "Sound Design",
+      "url": "https://open.spotify.com/track/7acjLOXbxtLthMU8Yy55hS"
     },
     {
       "added_at": "2024-08-20 20:38:33",
@@ -137,6 +297,22 @@
       "url": "https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau"
     },
     {
+      "added_at": "2024-10-25 18:52:00",
+      "album": {
+        "name": "Da Real Oso",
+        "url": "https://open.spotify.com/album/5lGbFVxiM28gqCOdhpGBQ1"
+      },
+      "artists": [
+        {
+          "name": "Glokk40Spaz",
+          "url": "https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W"
+        }
+      ],
+      "duration_ms": 139726,
+      "name": "BLV Anthem",
+      "url": "https://open.spotify.com/track/1myCuKyaEQDpuBe8DnpFQN"
+    },
+    {
       "added_at": "2024-08-20 20:38:33",
       "album": {
         "name": "A Great Chaos (Deluxe)",
@@ -151,26 +327,6 @@
       "duration_ms": 184375,
       "name": "ss",
       "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
-    },
-    {
-      "added_at": "2024-07-31 16:54:30",
-      "album": {
-        "name": "ABU DHABI (w/ Lancey Foux)",
-        "url": "https://open.spotify.com/album/65nf2NivqigHee4vVjsRT5"
-      },
-      "artists": [
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 154313,
-      "name": "ABU DHABI (w/ Lancey Foux)",
-      "url": "https://open.spotify.com/track/5sv52cIHSsKw66yhHFFXyj"
     },
     {
       "added_at": "2024-08-04 01:58:00",
@@ -207,26 +363,6 @@
       "duration_ms": 222985,
       "name": "SIDE EFFExT (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/0zin6HNAYX04mXsWjpUkIk"
-    },
-    {
-      "added_at": "2024-09-03 20:34:19",
-      "album": {
-        "name": "LOVE LASTS FOREVER",
-        "url": "https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 274308,
-      "name": "LOVE HURTS (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg"
     },
     {
       "added_at": "2024-04-26 05:00:00",
@@ -351,26 +487,6 @@
       "duration_ms": 187496,
       "name": "President (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
-    },
-    {
-      "added_at": "2024-07-31 16:54:30",
-      "album": {
-        "name": "Precision",
-        "url": "https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe"
-      },
-      "artists": [
-        {
-          "name": "SoFaygo",
-          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 158367,
-      "name": "Precision",
-      "url": "https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl"
     },
     {
       "added_at": "2024-08-04 01:58:00",
@@ -799,26 +915,6 @@
     {
       "added_at": "2024-04-26 05:00:00",
       "album": {
-        "name": "2093 (P2)",
-        "url": "https://open.spotify.com/album/7aUeYDjGYo8wMKcpeGFRbg"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 240916,
-      "name": "As We Speak (feat. Drake)",
-      "url": "https://open.spotify.com/track/6uFG0BRd3BaonWjEGuHYAh"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -907,22 +1003,6 @@
       "duration_ms": 126615,
       "name": "Penthouse Shordy",
       "url": "https://open.spotify.com/track/0p761VSAObNRJF855bIHRF"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "Money Addicts",
-        "url": "https://open.spotify.com/album/6tAtP9Y2Xj6ImN0THsKIDh"
-      },
-      "artists": [
-        {
-          "name": "Fourfive",
-          "url": "https://open.spotify.com/artist/2Iwoy31N647ZAX06wPbcGg"
-        }
-      ],
-      "duration_ms": 97215,
-      "name": "Money Addicts",
-      "url": "https://open.spotify.com/track/0R5awPL6A2oHJuFI0C0dTr"
     }
   ],
   "unique_name": "RAGE",

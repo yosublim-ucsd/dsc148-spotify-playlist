@@ -646,7 +646,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 133333,
       "name": "Corazon Delator",
       "url": "https://open.spotify.com/track/6ogpBjf6hgU2HEm2fV0mEb"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
@@ -940,7 +940,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 116579,
       "name": "El Humo del Cigarrillo - En Vivo",
       "url": "https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9"
@@ -958,7 +958,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 209414,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO"
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 131853,
       "name": "FERNANDITO",
       "url": "https://open.spotify.com/track/4ZaFsXbTTSMyszBp70I6KW"
@@ -1750,7 +1750,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-08",
+      "date_removed": null,
       "duration_ms": 178464,
       "name": "Linda",
       "url": "https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj"
@@ -1944,6 +1944,28 @@
       "duration_ms": 198066,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I"
+    },
+    {
+      "album": {
+        "name": "Los Vagos",
+        "url": "https://open.spotify.com/album/2qqxELPkyx4l9X492OrD7A"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135539,
+      "name": "Los Vagos",
+      "url": "https://open.spotify.com/track/7t4XvCLzTHA6IksAEPjeVT"
     },
     {
       "album": {
@@ -3476,7 +3498,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170113,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/50WtswE20cDFRHe183OXkW"

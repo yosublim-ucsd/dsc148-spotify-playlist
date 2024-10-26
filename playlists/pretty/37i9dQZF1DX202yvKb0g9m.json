@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 127163,
+  "num_followers": 127226,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
-        "name": "In Gold",
-        "url": "https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR"
-      },
-      "artists": [
-        {
-          "name": "Palms Trax",
-          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
-        }
-      ],
-      "duration_ms": 379695,
-      "name": "Sumo Acid Crew",
-      "url": "https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
         "name": "Alientronic",
         "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 382531,
       "name": "Bowie in Harmony",
       "url": "https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
+        "name": "In Gold",
+        "url": "https://open.spotify.com/album/6RuqX6Qra8dmcmYJQ5ffcR"
+      },
+      "artists": [
+        {
+          "name": "Palms Trax",
+          "url": "https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA"
+        }
+      ],
+      "duration_ms": 379695,
+      "name": "Sumo Acid Crew",
+      "url": "https://open.spotify.com/track/1AFkWwrrMMdeOocF4yB9rd"
     },
     {
       "added_at": "2024-07-10 08:16:23",

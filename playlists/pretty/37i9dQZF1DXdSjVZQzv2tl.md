@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan
+> O melhor do sertanejo em uma só playlist! Foto: Murilo Huff, Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,745,504 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,746,281 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cronômetro \- Ao Vivo](https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.3\)](https://open.spotify.com/album/7IrTWvmwWzNs06jd3kEyMQ) | 2:45 |
-| 2 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/1wubETHu3SeJHfbz9itEH0) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / EP1\)](https://open.spotify.com/album/4HothMjvojSA740SFUAiRC) | 2:30 |
-| 3 | [Saveiro](https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Saveiro](https://open.spotify.com/album/6uVgeP03fiAhjy23TVWKzS) | 2:24 |
-| 4 | [Pula Fora \- Ao Vivo](https://open.spotify.com/track/7f1tZNtc1t456ybBsl5sfK) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Fortaleza \(Ao Vivo\)](https://open.spotify.com/album/0Lo0mXzAAVAjuxyuYHWVZ1) | 2:29 |
-| 5 | [Vai Lá \- Ao Vivo em Goiânia](https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [iMEMsidão EP 01 \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/0Ml8TeA47M35e2WqV4JrCm) | 2:20 |
-| 6 | [Xonei](https://open.spotify.com/track/5sKGmZDmkGwFed5dPpZpZL) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Xonei](https://open.spotify.com/album/711n0ABtpMF0SjSuDrM1PK) | 2:34 |
-| 7 | [O Meu Coração Em Suas Mãos \(Colgando en tu manos\) \- Ao Vivo](https://open.spotify.com/track/3JLhwgadVkN8zckxL1ICrI) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [O Meu Coração Em Suas Mãos \(Colgando en tu manos\) \[Ao Vivo\]](https://open.spotify.com/album/0l9HOTaI4ITNxf91xMdw6M) | 3:24 |
-| 8 | [Peça Íntima](https://open.spotify.com/track/5rHhO6SBSzo3E9m3KHyCtt) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Peça Íntima](https://open.spotify.com/album/1Tf3Ooizx4fstK5vp6rtfF) | 2:49 |
+| 1 | [Peça Íntima](https://open.spotify.com/track/5rHhO6SBSzo3E9m3KHyCtt) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Peça Íntima](https://open.spotify.com/album/1Tf3Ooizx4fstK5vp6rtfF) | 2:49 |
+| 2 | [Cronômetro \- Ao Vivo](https://open.spotify.com/track/7pkpWcko6KEZANj0xKsCsu) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.3\)](https://open.spotify.com/album/7IrTWvmwWzNs06jd3kEyMQ) | 2:45 |
+| 3 | [Última Saudade \- Ao Vivo](https://open.spotify.com/track/1wubETHu3SeJHfbz9itEH0) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical 2 \(Ao Vivo / EP1\)](https://open.spotify.com/album/4HothMjvojSA740SFUAiRC) | 2:30 |
+| 4 | [Saveiro](https://open.spotify.com/track/7l9Tq5phzkLnhWUyfp702G) | [Kaique e Felipe](https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Saveiro](https://open.spotify.com/album/6uVgeP03fiAhjy23TVWKzS) | 2:24 |
+| 5 | [Pula Fora \- Ao Vivo](https://open.spotify.com/track/7f1tZNtc1t456ybBsl5sfK) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Fortaleza \(Ao Vivo\)](https://open.spotify.com/album/0Lo0mXzAAVAjuxyuYHWVZ1) | 2:29 |
+| 6 | [Vai Lá \- Ao Vivo em Goiânia](https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [iMEMsidão EP 01 \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/0Ml8TeA47M35e2WqV4JrCm) | 2:20 |
+| 7 | [Xonei](https://open.spotify.com/track/5sKGmZDmkGwFed5dPpZpZL) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Xonei](https://open.spotify.com/album/711n0ABtpMF0SjSuDrM1PK) | 2:34 |
+| 8 | [O Meu Coração Em Suas Mãos \(Colgando en tu manos\) \- Ao Vivo](https://open.spotify.com/track/3JLhwgadVkN8zckxL1ICrI) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [O Meu Coração Em Suas Mãos \(Colgando en tu manos\) \[Ao Vivo\]](https://open.spotify.com/album/0l9HOTaI4ITNxf91xMdw6M) | 3:24 |
 | 9 | [Pulando o Muro \- Ao Vivo](https://open.spotify.com/track/0KDxhAvKeiVFL1bZccQVJs) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Intenso, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/5p2auLiTOfPNkdlKyW5eM8) | 2:32 |
 | 10 | [Sombra Desconhecida \- Ao Vivo](https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Sombra Desconhecida \(Ao Vivo\)](https://open.spotify.com/album/7j9FmFWjSSuqJe5XAtz0WG) | 2:40 |
 | 11 | [Sei Tocar Violão \- Ao Vivo](https://open.spotify.com/track/2KdyhL41F9solmRiyLQ3yl) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Ao Vivo Em Brasília \(EP3\)](https://open.spotify.com/album/6pSEJeeQ50tN0zfSx8sXrg) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Ativou a Saudade \- Ao Vivo](https://open.spotify.com/track/513hO8ivMCeHoV25e1ivOa) | [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ativou a Saudade \(Ao Vivo\)](https://open.spotify.com/album/7Abtn5OTa0B4CsJP0EFlDw) | 2:53 |
 | 50 | [Gotejou No Celular \- Ao Vivo](https://open.spotify.com/track/1sTGINNEM4sT3H2hDdQiPe) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Gotejou No Celular \(Ao Vivo\)](https://open.spotify.com/album/1n4L1WBeL8o3NTArmtXGUr) | 2:56 |
 
-Snapshot ID: `ZxsKZAAAAACBoQEsYsO8B/TGzVyj/5JA`
+Snapshot ID: `ZxujcQAAAAAbTUIPnwAKO2840GYub4Zv`

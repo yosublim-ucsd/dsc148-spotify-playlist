@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-360 songs - 1 day 4 hr 59 min
+361 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 | 2023-08-29 |  |
 | [Felt compute, might delete](https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Felt compute, might delete](https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8) | 3:49 | 2021-10-06 | 2023-05-13 |
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-06 | 2024-08-15 |
+| [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 | 2024-10-25 |  |
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2022-07-27 |
 | [FlimFlam](https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO), [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [FlimFlam](https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD) | 3:11 | 2021-10-06 | 2023-01-19 |
 | [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 | 2021-10-06 |  |
@@ -221,7 +222,7 @@
 | [Opak](https://open.spotify.com/track/01XBVQvgUeUMSrznKTR1X7) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Opak](https://open.spotify.com/album/4vnp9u6zjv2U8pp40jpiBz) | 5:37 | 2023-03-31 | 2023-05-24 |
 | [Opak](https://open.spotify.com/track/2e5fQ0Xrn0NoLrKCJEqyqh) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Verve EP](https://open.spotify.com/album/1QQwKrTfhlaWalofkhUqk2) | 5:37 | 2023-03-31 |  |
 | [Opalescent](https://open.spotify.com/track/5eKJw3rt8AteMAdixjvpjf) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Sub Surface](https://open.spotify.com/album/6SXiI193XZMG5LY7MoAmvQ) | 5:58 | 2021-10-06 | 2022-07-27 |
-| [Oquo Quooon](https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 3:51 | 2021-10-06 |  |
+| [Oquo Quooon](https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 3:51 | 2021-10-06 | 2024-10-26 |
 | [Other Means](https://open.spotify.com/track/1juuIrm3fRWhav5jOP1SQm) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Other Means](https://open.spotify.com/album/1xYSu3930ts5XZXTAGewcl) | 4:24 | 2024-04-15 |  |
 | [Panspermia](https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Panspermia](https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D) | 3:08 | 2021-10-06 |  |
 | [Paravents](https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Wrecked Exotic](https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz) | 4:50 | 2022-02-18 | 2024-07-23 |
@@ -246,7 +247,7 @@
 | [Rain 3](https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:35 | 2021-10-06 |  |
 | [Ramada](https://open.spotify.com/track/10xeUT88nJPcCKlBz9vvH1) | [Pepe Mogt](https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5) | [Maija Awi](https://open.spotify.com/album/6zPL6drQiQXKRHiIdsZR2t) | 2:52 | 2021-10-06 | 2022-07-28 |
 | [Raw Cutz](https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC) | [Tim Sean\-Lee](https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I) | [Octo](https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ) | 4:49 | 2022-03-09 | 2022-09-26 |
-| [Reluctant Memory](https://open.spotify.com/track/168TsA6bdm7pt73KVyVyZM) | [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Modern Species](https://open.spotify.com/album/4sZvkjrogy7HbQ0M5CNCEL) | 5:58 | 2021-10-06 | 2024-09-24 |
+| [Reluctant Memory](https://open.spotify.com/track/168TsA6bdm7pt73KVyVyZM) | [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Modern Species](https://open.spotify.com/album/4sZvkjrogy7HbQ0M5CNCEL) | 5:58 | 2021-10-06 |  |
 | [Resounding](https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs) | [Hotspring](https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G) | [Obit For Sunshade](https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2) | 2:51 | 2021-10-06 |  |
 | [Riding Metal Mosquitos](https://open.spotify.com/track/4KXTdLEJkgrZ71QHyxThJ3) | [Anders Ilar](https://open.spotify.com/artist/7CM4nBFQursLXbE4yRXRTF) | [Nightwidth](https://open.spotify.com/album/4JTOB1bSYPcHjy5MtliN1q) | 7:19 | 2021-10-06 |  |
 | [Riot on the Hush \- K\-LONE Remix](https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Hailu Remixes](https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ) | 5:34 | 2024-07-02 |  |
@@ -278,7 +279,7 @@
 | [Some Way](https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/439OHyChz5bHWMVzU2YnSv) | 3:37 | 2022-01-21 | 2023-02-02 |
 | [Some Way](https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/2dpL1I201z6H3710toHacQ) | 3:37 | 2022-01-21 | 2024-04-01 |
 | [Song of Singers](https://open.spotify.com/track/318053hJDlClbgtcdjnjWU) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Song of Singers](https://open.spotify.com/album/0VqES90kJLItAtZ48OGdDf) | 4:34 | 2021-10-06 | 2022-07-26 |
-| [sssssmilinggggg](https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [sssssmilinggggg](https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v) | 6:44 | 2022-11-09 |  |
+| [sssssmilinggggg](https://open.spotify.com/track/6yTewVjFHvPBNyRliPdQOs) | [Kaho Matsui](https://open.spotify.com/artist/2ahVQ3HBZfU8RGxwIgNfnU) | [sssssmilinggggg](https://open.spotify.com/album/2gC9JUs5tlGBgopNouIg7v) | 6:44 | 2022-11-09 | 2024-10-26 |
 | [Stardust](https://open.spotify.com/track/0WOIqQU4TH6S4PEgiJ9CLD) | [Elision](https://open.spotify.com/artist/4Jgr50VvxX0EFq5fxIoVC0) | [Press Play](https://open.spotify.com/album/0rDJv9F8nPrUNHOUTTgzdJ) | 2:05 | 2021-10-28 | 2022-07-28 |
 | [Stationmaster](https://open.spotify.com/track/0ivCCyi9umwXGb0XEQtHqP) | [Elis Zazon](https://open.spotify.com/artist/3szlI3AWgGeJlq7MKRO3aX) | [Looking Glass](https://open.spotify.com/album/4RiMvT2fwVAaCIzUVL3ydT) | 1:45 | 2022-09-21 | 2022-11-28 |
 | [Stechmück](https://open.spotify.com/track/2z4NFfIfg7Ljr545MOP4qu) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Stechmück](https://open.spotify.com/album/3loW6CAy3YilP4SdZBkIqu) | 6:59 | 2022-10-01 | 2022-10-18 |

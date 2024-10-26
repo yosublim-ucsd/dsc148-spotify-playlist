@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-108 songs - 6 hr 26 min
+110 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Morrita Azul](https://open.spotify.com/track/5ugkK2FaDZNOT2qT6G1wyW) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A) | [Morrita Azul](https://open.spotify.com/album/6v9VzXOcsqq4ZfCe593lYs) | 3:57 | 2024-02-26 |  |
 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 | 2021-05-13 |  |
 | [No Dudaría](https://open.spotify.com/track/7m9zoqomVDsBMQdhKTHr8g) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Dudaría](https://open.spotify.com/album/0QS4V8TKpiBtI8hJyEOkAj) | 4:08 | 2024-09-20 |  |
+| [No lo Entiendo](https://open.spotify.com/track/0K859Tz6Fu6TkuSWl4Rm5r) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [No lo Entiendo](https://open.spotify.com/album/7CvTYtmwM9m59TP0Fn1jLG) | 3:30 | 2024-10-25 |  |
 | [No Me Destruyas \- En Vivo](https://open.spotify.com/track/2FHJQdcr13LFhQHyrvRFXk) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo](https://open.spotify.com/album/19iPSmKMoGEDaW1CdePOSc) | 3:44 | 2021-05-13 |  |
 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/0BYEbV5yHTFpnZ9NZJboNx) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Nos Siguen Pegando Abajo](https://open.spotify.com/album/7fbg5gaenSCqKnyzntZ4t6) | 3:12 | 2021-05-13 | 2024-08-31 |
 | [Nosotras](https://open.spotify.com/track/5MwNADUq1AXBoJ2b4ytwir) | [Lengua de Mapa](https://open.spotify.com/artist/0IdsdNuZXciBVnTTNjJS3A), [Ría Dezner](https://open.spotify.com/artist/00j4drSDKk1alFNGzlQOu3) | [Nosotras](https://open.spotify.com/album/6ZznYHtZAPWkTDi8m5JV2F) | 5:10 | 2024-10-12 |  |
@@ -108,6 +109,7 @@
 | [Temo](https://open.spotify.com/track/4oW9mCSE2Dwdd5eXS0n48S) | [Temporada de Girasoles](https://open.spotify.com/artist/3ZZ9qm23N4C9cfHeeb2u6i) | [Temo](https://open.spotify.com/album/4Jvwh8dMjgsSiF40g9NDwo) | 4:30 | 2023-05-19 |  |
 | [Todavía Me Quedan Amigos](https://open.spotify.com/track/57rWK0GLa8JjO0QFaz9RMV) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Todavía Me Quedan Amigos](https://open.spotify.com/album/2cm0MawR5HoSR5KPWjt6Kq) | 2:41 | 2023-03-24 |  |
 | [TRAUMADOS](https://open.spotify.com/track/5HiqWYk05KTv8bRxTjXtNV) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [TRAUMADOS](https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV) | 3:35 | 2024-07-19 |  |
+| [Tu Puto Grupo](https://open.spotify.com/track/2Jilw03fQizCqVvqITIBnl) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL), [Edu Espín](https://open.spotify.com/artist/1ZnwH4hFx4zPOCHMXMBMdk) | [Tu Puto Grupo](https://open.spotify.com/album/0E6yLyVWpKWjlIdOtxrMrj) | 3:06 | 2024-10-25 |  |
 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 | 2021-05-13 |  |
 | [Un Nuevo Amor](https://open.spotify.com/track/65V4v8u4fi7TfnNdyBFzvX) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Parte de Ti](https://open.spotify.com/album/7KU9Rpk67sdhqbJ4TeZuSw) | 3:50 | 2023-03-17 |  |
 | [Vacaciones de Invierno \- acústico](https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Vacaciones de Invierno \(acústico\)](https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2) | 3:02 | 2024-09-27 |  |

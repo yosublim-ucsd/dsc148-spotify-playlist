@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: Tamino",
+  "description": "The best indie tracks of the moment. Cover: Peach Pit",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/1IN1QBfV9tNR6fFgR7PsUl"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187680,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/3IjCWCIwQgpsV7yuNy6mmX"
+    },
+    {
+      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -1004,6 +1022,24 @@
       "duration_ms": 214756,
       "name": "After the First Kiss",
       "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248215,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
     },
     {
       "album": {
@@ -1755,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Magpie",
+        "url": "https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254375,
+      "name": "Am I Your Girl",
+      "url": "https://open.spotify.com/track/6P3BLSxIWbcWF8cNkimmLy"
+    },
+    {
+      "album": {
         "name": "AMAMA",
         "url": "https://open.spotify.com/album/5FqxuOKOkFjjkawp7bf4NA"
       },
@@ -2423,6 +2477,24 @@
     },
     {
       "album": {
+        "name": "baby Getz",
+        "url": "https://open.spotify.com/album/3E6liNEXHO3vXZgUfXOmkt"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216369,
+      "name": "baby Getz",
+      "url": "https://open.spotify.com/track/0h2y4jmp8E3cOuULW7l5r9"
+    },
+    {
+      "album": {
         "name": "Baby I Love You",
         "url": "https://open.spotify.com/album/0x1A7vjuUSkQUqMd0ziPrr"
       },
@@ -2942,7 +3014,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 230053,
       "name": "Beaches",
       "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
@@ -3866,6 +3938,24 @@
       "duration_ms": 245720,
       "name": "Body Weak (Diamond Cut)",
       "url": "https://open.spotify.com/track/1s0HuXwtPGA8PWVWQClUZq"
+    },
+    {
+      "album": {
+        "name": "Bodysnatcher",
+        "url": "https://open.spotify.com/album/4uJUhunziHnARsQiRWqx36"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167323,
+      "name": "Bodysnatcher",
+      "url": "https://open.spotify.com/track/70FOJSk2DzLyZP090KytKD"
     },
     {
       "album": {
@@ -6726,7 +6816,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 289338,
       "name": "Crown Shy",
       "url": "https://open.spotify.com/track/3SLoxwsRZKxeW6IFTR6AL4"
@@ -8080,7 +8170,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 214013,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/3Re36lesLjER72f4AIYw8k"
@@ -9558,7 +9648,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 229566,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/3pYe8mHBYO8LGNWxPCAFA8"
@@ -13321,6 +13411,24 @@
     },
     {
       "album": {
+        "name": "Hearts Working Overtime",
+        "url": "https://open.spotify.com/album/5eA3zrRbb9OiyQc9YValBm"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180629,
+      "name": "Hearts Working Overtime",
+      "url": "https://open.spotify.com/track/6UxS0LH8kL3UQ91QTQjw01"
+    },
+    {
+      "album": {
         "name": "Heat Lightning",
         "url": "https://open.spotify.com/album/45wp7GoaC2IVvTC8w70Hwx"
       },
@@ -13610,7 +13718,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 174830,
       "name": "Her Scars",
       "url": "https://open.spotify.com/track/3BqtkdeDOPuXVmVeITEgss"
@@ -16082,6 +16190,24 @@
       "duration_ms": 219765,
       "name": "Incendie au paradis",
       "url": "https://open.spotify.com/track/3IoiixKPZXzFLfwHqtrLDU"
+    },
+    {
+      "album": {
+        "name": "Indoor Sport",
+        "url": "https://open.spotify.com/album/7gOs8wr3CWSDsht88pqBXO"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187010,
+      "name": "Indoor Sport",
+      "url": "https://open.spotify.com/track/21Ze8tyV9n7QNgI46k68Uk"
     },
     {
       "album": {
@@ -21342,7 +21468,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 307062,
       "name": "Neon Signs",
       "url": "https://open.spotify.com/track/1Ar6TClO5jtDLNRDpGbp2w"
@@ -21878,7 +22004,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 189626,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/6kuzYNgnemBcOaRnSCRlxp"
@@ -21950,7 +22076,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 201146,
       "name": "No Calls Before Noon",
       "url": "https://open.spotify.com/track/2GRVXBHRL9tpDhf3VChg8D"
@@ -23435,6 +23561,24 @@
     },
     {
       "album": {
+        "name": "Canal",
+        "url": "https://open.spotify.com/album/23840Ru1q7iof9zx66RcX5"
+      },
+      "artists": [
+        {
+          "name": "Delachute",
+          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137946,
+      "name": "Overseas",
+      "url": "https://open.spotify.com/track/2OkAMaXIVCR5u77jIXL43t"
+    },
+    {
+      "album": {
         "name": "Overtime",
         "url": "https://open.spotify.com/album/6Gvz56e2ZzNTVWK8vZkzni"
       },
@@ -23522,6 +23666,24 @@
       "duration_ms": 242653,
       "name": "Pain",
       "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
+    },
+    {
+      "album": {
+        "name": "Swim Slowly (Expanded Edition)",
+        "url": "https://open.spotify.com/album/14DJyKjYzTNBw9JQIOCWlm"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232527,
+      "name": "Paintings of the Past",
+      "url": "https://open.spotify.com/track/3Es629HCBEMextnQ4uZT0K"
     },
     {
       "album": {
@@ -26398,6 +26560,24 @@
       "duration_ms": 268800,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/35DHCZvQcy8PIM0eJmVS1X"
+    },
+    {
+      "album": {
+        "name": "Pomegranate",
+        "url": "https://open.spotify.com/album/0o4e1Dxtz6doxch3vC1yfw"
+      },
+      "artists": [
+        {
+          "name": "Tess Parks",
+          "url": "https://open.spotify.com/artist/0EPmJUz0lE18y95cYzB840"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317272,
+      "name": "Running Home To Sing",
+      "url": "https://open.spotify.com/track/1jOvz3C4cnJmAMGb6bprXk"
     },
     {
       "album": {
@@ -32996,7 +33176,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 308072,
       "name": "Too Timid",
       "url": "https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg"
@@ -35840,7 +36020,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 247826,
       "name": "wishing for you",
       "url": "https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG"
@@ -36287,6 +36467,28 @@
     },
     {
       "album": {
+        "name": "Yoke (with Julien Baker)",
+        "url": "https://open.spotify.com/album/3jC9qVXOLE53cU2eTm4RZW"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233345,
+      "name": "Yoke (with Julien Baker)",
+      "url": "https://open.spotify.com/track/58VHR19NNpBFrrL2PP06Wv"
+    },
+    {
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6fzQJpSFtaQtJpH1yixZBj"
       },
@@ -36572,7 +36774,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 189822,
       "name": "Young-Girl (Illusion)",
       "url": "https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d"

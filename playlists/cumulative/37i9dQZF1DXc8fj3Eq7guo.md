@@ -4,7 +4,7 @@
 
 > Tag your location, we shall pass by as we go around Africa
 
-87 songs - 5 hr 44 min
+88 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Ojuelegba](https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9) | 3:36 | 2024-03-15 |  |
 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-08 |  |
 | [Peru](https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Peru](https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO) | 3:07 | 2023-09-08 |  |
+| [Port\-harcourt](https://open.spotify.com/track/4mYrASGvrm2xBWQskhg2P3) | [Vicoka](https://open.spotify.com/artist/4IqQ3ooH5vvzRl3c3vBfwN) | [Port\-harcourt](https://open.spotify.com/album/4SMOG66rrNEkmBnvYsIYdw) | 2:50 | 2024-10-25 |  |
 | [Run Jozi \(Godly\) \(feat\. K.O\)](https://open.spotify.com/track/2zuOiLM3QGT5DpO4fJwOEo) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [Levels \(Explicit\)](https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe) | 3:54 | 2023-09-08 |  |
 | [Shu\-Peru](https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Shu\-Peru](https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps) | 2:19 | 2024-05-03 |  |
 | [Somalia Somali Baa Leh](https://open.spotify.com/track/2vegLZ4xf2GmjaD1LExwjY) | [Sharma Boy](https://open.spotify.com/artist/4SllpFxwa14CeJf4LMkiXZ), [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Somalia Somali Baa Leh](https://open.spotify.com/album/4bG7BuW0lT3Kx0X2WhHrux) | 4:31 | 2023-09-08 | 2024-08-09 |

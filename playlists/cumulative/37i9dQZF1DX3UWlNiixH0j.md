@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Daichi Yamamoto
 
-1,942 songs - 5 day 0 hr 43 min
+1,943 songs - 5 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [FOOL](https://open.spotify.com/track/0AzcSSYPlbmeg1cBYi6nm2) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [FOOL](https://open.spotify.com/album/36feOZnIXPKzDkCkPOnG4j) | 3:04 | 2023-04-25 | 2023-09-06 |
 | [for never end](https://open.spotify.com/track/08Ms1LvE6haWBO6vFety2l) | [dip](https://open.spotify.com/artist/4r6WtScg6432ThqBWqA4wD) | [HOLLOWGALLOW](https://open.spotify.com/album/0NERpROreFPwF4zpxDYGhL) | 4:00 | 2023-12-12 | 2023-12-20 |
 | [Forbidden Thing \(Kimmotsu\)](https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Mahōgakkō](https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj) | 4:44 | 2024-07-23 | 2024-09-18 |
+| [Forest \- feat\. ACE COOL](https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC), [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [Forest \(feat\. ACE COOL\)](https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5) | 3:03 | 2024-10-22 |  |
 | [Four](https://open.spotify.com/track/5kYn9qvedVqJ7pef7uxGgH) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL) | 3:38 | 2023-03-07 | 2023-03-29 |
 | [Four](https://open.spotify.com/track/6rt0WIYwItxD9ddLxQRnUr) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [Loves&Cults](https://open.spotify.com/album/2Vfx2YrAPjkZ7i2I0wUcYK) | 3:38 | 2023-03-07 | 2023-03-09 |
 | [Four Hundred Million Blues](https://open.spotify.com/track/4fs5VptF6ywZvokDFPemXt) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Four Hundred Million Blues](https://open.spotify.com/album/4fMFEXTL0MaQq8G1DNf7NQ) | 4:22 | 2024-09-17 | 2024-09-19 |
@@ -987,7 +988,7 @@
 | [Splash](https://open.spotify.com/track/12I1vn2hn6PaGlDpV6z54I) | [SPECIAL OTHERS ACOUSTIC](https://open.spotify.com/artist/1evtrDEm844KI8zqxp2Rp2) | [Splash](https://open.spotify.com/album/7vsbiWM2a7miKTSmh6KxdI) | 5:34 | 2024-04-30 | 2024-05-08 |
 | [Splendid Silent Sun](https://open.spotify.com/track/5G3bOHGiDmNijrpafLBDMh) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Splendid Silent Sun](https://open.spotify.com/album/3KOMMTYKtp0qvof3Op7tcm) | 3:59 | 2023-04-04 | 2023-05-05 |
 | [Sports Men](https://open.spotify.com/track/57xqF2DMn5eaKNvhHqeL7Y) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [M.I.D\. The First Annual Report of LAUSBUB](https://open.spotify.com/album/6rqbfv8iIGwQZM2poBA3C8) | 4:15 | 2023-01-12 | 2023-01-20 |
-| [Square](https://open.spotify.com/track/0m2WidrVpzIIkXe4146MMJ) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS) | [Town Dune](https://open.spotify.com/album/14RE1ViX83gMrVMCEHKLzZ) | 2:02 | 2024-09-17 |  |
+| [Square](https://open.spotify.com/track/0m2WidrVpzIIkXe4146MMJ) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS) | [Town Dune](https://open.spotify.com/album/14RE1ViX83gMrVMCEHKLzZ) | 2:02 | 2024-09-17 | 2024-10-26 |
 | [Stance](https://open.spotify.com/track/7IVvxzu1Iu1H1KQek5oaxY) | [Arakoi](https://open.spotify.com/artist/2jJfXAB5K7ZlK1H7xQt0tl) | [Stance](https://open.spotify.com/album/2RRan31zrhKGzTyJol4UeA) | 7:51 | 2023-02-14 | 2023-02-22 |
 | [Stand by Me](https://open.spotify.com/track/08uUoCRsDRC2nUdrqc2lxL) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Ride](https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC) | 3:28 | 2023-03-28 | 2023-04-05 |
 | [Stand by Me](https://open.spotify.com/track/0OoQhyGwEwOGKk96J6nJ3R) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Stand by Me](https://open.spotify.com/album/4yMFghtnK1xFARGmPw3qfs) | 3:28 | 2023-01-12 | 2023-01-18 |
@@ -1138,7 +1139,7 @@
 | [Towards the Sun](https://open.spotify.com/track/2zyuGfLT59ta5ToqqDsIXJ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Towards the Sun](https://open.spotify.com/album/2z6Pyh43VBZQ9Gyy4T92oN) | 5:26 | 2024-08-06 | 2024-08-31 |
 | [Tower](https://open.spotify.com/track/6RTy1yYaJPhJ5372QTHDv5) | [砂の壁](https://open.spotify.com/artist/63BnigqL6MjIgPZF5kG9fy) | [Tower](https://open.spotify.com/album/1ISSwD8yInosQUOTxqiuFN) | 5:20 | 2024-04-02 | 2024-04-10 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
-| [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-16 |
+| [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 |  |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-14 | 2024-04-02 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2024-04-16 | 2024-09-11 |
 | [Trash?](https://open.spotify.com/track/3LzH854rORAcAXVJovKCyX) | [Mellow Youth](https://open.spotify.com/artist/2gz3u0swrP8haOwVzegHYk) | [Trash? / ダリア](https://open.spotify.com/album/0n81gVG8orwqVBg0pazVjl) | 3:36 | 2024-04-16 | 2024-04-24 |
@@ -1608,7 +1609,7 @@
 | [光線](https://open.spotify.com/track/42DGm06re0rxSEOM0AhO6p) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [光線](https://open.spotify.com/album/05rp9bgAR4fXTNYrhSBvg0) | 3:09 | 2023-08-22 | 2023-11-24 |
 | [六つの橋](https://open.spotify.com/track/5EusjMYNGvfnEwt60OVqaq) | [SOMAOTA](https://open.spotify.com/artist/7iDt6acAAE3tr0bfHM5h3O) | [六つの橋](https://open.spotify.com/album/7b81wxZxyENklF2nZCbduH) | 4:00 | 2024-05-21 | 2024-05-29 |
 | [共振](https://open.spotify.com/track/41o30p9zWXn1SbdODFZBjf) | [Arakoi](https://open.spotify.com/artist/2jJfXAB5K7ZlK1H7xQt0tl) | [響鳴](https://open.spotify.com/album/2lw6n33b4NK9oLeioBCBd6) | 5:14 | 2024-01-16 | 2024-01-24 |
-| [写真集](https://open.spotify.com/track/0RBiX0u3G1yXOEU4EbVx4T) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [こわれもの](https://open.spotify.com/album/3yLBAwSlwwKWXJwXfiv0V1) | 4:39 | 2024-09-17 |  |
+| [写真集](https://open.spotify.com/track/0RBiX0u3G1yXOEU4EbVx4T) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [こわれもの](https://open.spotify.com/album/3yLBAwSlwwKWXJwXfiv0V1) | 4:39 | 2024-09-17 | 2024-10-26 |
 | [冥冥](https://open.spotify.com/track/39bCGq3Ad9c3IMcYV2ROhe) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [冥冥](https://open.spotify.com/album/76a759u25fWITdpdjqidXn) | 3:27 | 2024-07-02 | 2024-09-18 |
 | [冬越え](https://open.spotify.com/track/4hf6Vgy3AbYlzZiBHnyA48) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [冬越え](https://open.spotify.com/album/47OBebnmm2E2xo6tASrtGT) | 4:04 | 2024-03-12 | 2024-03-14 |
 | [初恋](https://open.spotify.com/track/6TwzwaTeNOEqxDJcBJDyQm) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [初恋](https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD) | 3:15 | 2023-11-29 | 2024-09-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3-KJ75hjpI0_Q\">21 Promo & Pengii</a> ",
-  "num_followers": 2010,
+  "num_followers": 2012,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,22 @@
     {
       "added_at": "2024-10-18 06:39:08",
       "album": {
-        "name": "Noem My 'n Goen",
-        "url": "https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp"
+        "name": "Vry & Jonk",
+        "url": "https://open.spotify.com/album/4q6QPDCUyLC3DpOQ2w8Psh"
       },
       "artists": [
         {
-          "name": "KRO-Barz",
-          "url": "https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq"
+          "name": "J\u00dcS",
+          "url": "https://open.spotify.com/artist/4xWdHkhjQ6CD2ggPUUffU4"
+        },
+        {
+          "name": "LIMPO.G.O.D",
+          "url": "https://open.spotify.com/artist/5dGKeyMOT7XJOlfceJfJHT"
         }
       ],
-      "duration_ms": 152054,
-      "name": "Noem My 'n Goen",
-      "url": "https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1"
+      "duration_ms": 137351,
+      "name": "Smaak Vir Rap",
+      "url": "https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd"
     },
     {
       "added_at": "2024-10-18 06:39:08",
@@ -619,22 +623,18 @@
     {
       "added_at": "2024-10-18 06:39:08",
       "album": {
-        "name": "Vry & Jonk",
-        "url": "https://open.spotify.com/album/4q6QPDCUyLC3DpOQ2w8Psh"
+        "name": "Noem My 'n Goen",
+        "url": "https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp"
       },
       "artists": [
         {
-          "name": "J\u00dcS",
-          "url": "https://open.spotify.com/artist/4xWdHkhjQ6CD2ggPUUffU4"
-        },
-        {
-          "name": "LIMPO.G.O.D",
-          "url": "https://open.spotify.com/artist/5dGKeyMOT7XJOlfceJfJHT"
+          "name": "KRO-Barz",
+          "url": "https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq"
         }
       ],
-      "duration_ms": 137351,
-      "name": "Smaak Vir Rap",
-      "url": "https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd"
+      "duration_ms": 152054,
+      "name": "Noem My 'n Goen",
+      "url": "https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1"
     },
     {
       "added_at": "2024-10-18 06:39:08",
@@ -927,6 +927,30 @@
     {
       "added_at": "2024-10-18 06:39:08",
       "album": {
+        "name": "Dus Okay",
+        "url": "https://open.spotify.com/album/4b47ILddnlUFGMyhSvvuZt"
+      },
+      "artists": [
+        {
+          "name": "Marky Futurekid",
+          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
+        },
+        {
+          "name": "Jovie",
+          "url": "https://open.spotify.com/artist/0vK7SrJ0Xm55soTAi4DE37"
+        },
+        {
+          "name": "EmGee",
+          "url": "https://open.spotify.com/artist/7tztZahujREhfsctTM4czq"
+        }
+      ],
+      "duration_ms": 199485,
+      "name": "Dus Okay",
+      "url": "https://open.spotify.com/track/2ySsXPwpuDV1SMyZ68JYUs"
+    },
+    {
+      "added_at": "2024-10-18 06:39:08",
+      "album": {
         "name": "Nou Wat Nou",
         "url": "https://open.spotify.com/album/1f9Ddgd6IjPpJVNzJaN5mI"
       },
@@ -943,22 +967,6 @@
       "duration_ms": 222809,
       "name": "Nou Wat Nou",
       "url": "https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7"
-    },
-    {
-      "added_at": "2024-10-18 06:39:08",
-      "album": {
-        "name": "Die Reminant",
-        "url": "https://open.spotify.com/album/18RpfMxcTHbV4Srj9qmHj5"
-      },
-      "artists": [
-        {
-          "name": "Marky Futurekid",
-          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
-        }
-      ],
-      "duration_ms": 192078,
-      "name": "Die Reminant",
-      "url": "https://open.spotify.com/track/4o2nrEE1HvaCjC9asC6gUp"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

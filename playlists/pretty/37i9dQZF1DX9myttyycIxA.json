@@ -1,13 +1,29 @@
 {
   "description": "Underground indie rock gems. Cover: Shower Curtain",
-  "num_followers": 297670,
+  "num_followers": 297680,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAAC9Ntg234HH1flyCXA0OY/Y",
+  "snapshot_id": "ZxsXwAAAAADalPSuUkGE/7xgn4d3Z3Vb",
   "tracks": [
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Going Nowhere",
+        "url": "https://open.spotify.com/album/12HvrNdCXhtfIS48tDG9cf"
+      },
+      "artists": [
+        {
+          "name": "Quiet Light",
+          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
+        }
+      ],
+      "duration_ms": 178083,
+      "name": "Love90",
+      "url": "https://open.spotify.com/track/6UKPGUV7Qt7PfDR1H3lRN7"
+    },
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
@@ -23,6 +39,38 @@
       "duration_ms": 202373,
       "name": "bedbugs",
       "url": "https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "chrome is lullaby",
+        "url": "https://open.spotify.com/album/2RSFZOEGjPPrZHRCnkfRIb"
+      },
+      "artists": [
+        {
+          "name": "Her New Knife",
+          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+        }
+      ],
+      "duration_ms": 182777,
+      "name": "kittyriff",
+      "url": "https://open.spotify.com/track/1fafMla0Vggy1EqB79OsRW"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Falling Down a Well / Born Without a Smile",
+        "url": "https://open.spotify.com/album/2ad6OJI02AHDOXDCCdf9Sg"
+      },
+      "artists": [
+        {
+          "name": "Jack J",
+          "url": "https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl"
+        }
+      ],
+      "duration_ms": 173825,
+      "name": "Falling Down a Well",
+      "url": "https://open.spotify.com/track/6y4eFBfaADWBdUMq4HlrOC"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -41,20 +89,20 @@
       "url": "https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Get It",
-        "url": "https://open.spotify.com/album/0fKpzon7eCAX5S9Ebn1h2G"
+        "name": "Video Music",
+        "url": "https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3"
       },
       "artists": [
         {
-          "name": "Cardinals",
-          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
         }
       ],
-      "duration_ms": 162793,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/0rNPQbISdNPMIu29r3aawf"
+      "duration_ms": 129554,
+      "name": "Video Music",
+      "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -73,20 +121,36 @@
       "url": "https://open.spotify.com/track/5Rhr7E8Nad0peXFh4QWHsZ"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Watch It Ache and Bleed",
-        "url": "https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE"
+        "name": "Doom",
+        "url": "https://open.spotify.com/album/6NNJuL3e85YHBdY7fbGBDC"
       },
       "artists": [
         {
-          "name": "Nieve Ella",
-          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
         }
       ],
-      "duration_ms": 203912,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb"
+      "duration_ms": 270320,
+      "name": "Doom",
+      "url": "https://open.spotify.com/track/4tgqtgCqCBdBLnM7IZptGZ"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Storefront Cabana",
+        "url": "https://open.spotify.com/album/4HNfhC0XugXvihwYaKc2Yp"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "duration_ms": 237623,
+      "name": "Storefront Cabana",
+      "url": "https://open.spotify.com/track/2cXWUJtzAcP82C63V4WHsq"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -103,6 +167,54 @@
       "duration_ms": 158338,
       "name": "Quite Alarmed",
       "url": "https://open.spotify.com/track/5EY1BQq6o67JSvItXBSqJz"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Get It",
+        "url": "https://open.spotify.com/album/0fKpzon7eCAX5S9Ebn1h2G"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "duration_ms": 162793,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/0rNPQbISdNPMIu29r3aawf"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Watch It Ache and Bleed",
+        "url": "https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE"
+      },
+      "artists": [
+        {
+          "name": "Nieve Ella",
+          "url": "https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn"
+        }
+      ],
+      "duration_ms": 203912,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Rejection",
+        "url": "https://open.spotify.com/album/5yj1oDrLds462bneqdG65U"
+      },
+      "artists": [
+        {
+          "name": "Olivia O.",
+          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
+        }
+      ],
+      "duration_ms": 250250,
+      "name": "Rejection",
+      "url": "https://open.spotify.com/track/6lRglAtqAXeKu1a7ANWVpC"
     },
     {
       "added_at": "2024-09-27 04:00:00",
@@ -151,22 +263,6 @@
       "duration_ms": 221986,
       "name": "Dust",
       "url": "https://open.spotify.com/track/2jlCjWDVMETerCxcYLUV6c"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Rejection",
-        "url": "https://open.spotify.com/album/5yj1oDrLds462bneqdG65U"
-      },
-      "artists": [
-        {
-          "name": "Olivia O.",
-          "url": "https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE"
-        }
-      ],
-      "duration_ms": 250250,
-      "name": "Rejection",
-      "url": "https://open.spotify.com/track/6lRglAtqAXeKu1a7ANWVpC"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1121,22 +1217,6 @@
       "url": "https://open.spotify.com/track/59Eh3SJgXdmytbvm7SejXz"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "The Bed / Broken Twin",
-        "url": "https://open.spotify.com/album/1xhrdw9IiNC7IqNb4AIdPv"
-      },
-      "artists": [
-        {
-          "name": "Lutalo",
-          "url": "https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln"
-        }
-      ],
-      "duration_ms": 140837,
-      "name": "The Bed",
-      "url": "https://open.spotify.com/track/7lWCScemg502r4rFnEYxep"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Honeycrash",
@@ -1151,22 +1231,6 @@
       "duration_ms": 188979,
       "name": "Honeycrash",
       "url": "https://open.spotify.com/track/49MS1LeGxzcG9LOvpzhAQr"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/0zxeEqtj2lRBCIo82Ner6q"
-      },
-      "artists": [
-        {
-          "name": "Great Grandpa",
-          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
-        }
-      ],
-      "duration_ms": 320946,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/0u0E9hMPj5BVf33BEN4HjR"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1331,22 +1395,6 @@
     {
       "added_at": "2024-07-05 04:00:00",
       "album": {
-        "name": "Tell Me Who I Am",
-        "url": "https://open.spotify.com/album/45NDgg4WkVLrqROEL76w0k"
-      },
-      "artists": [
-        {
-          "name": "Legit Smitty",
-          "url": "https://open.spotify.com/artist/1jzrVsvcSp4J1n5OctWBEu"
-        }
-      ],
-      "duration_ms": 209999,
-      "name": "Tell Me Who I Am",
-      "url": "https://open.spotify.com/track/73hZYhnVdzTjK9km3dM8AL"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW"
       },
@@ -1473,22 +1521,6 @@
       "url": "https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Popped Heart",
-        "url": "https://open.spotify.com/album/7789tm9Qro5oSNkVgIUSQS"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 232847,
-      "name": "Say!",
-      "url": "https://open.spotify.com/track/0MfBaD7MFIECNxDP7uPnc9"
-    },
-    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "One Million Love Songs",
@@ -1503,22 +1535,6 @@
       "duration_ms": 148506,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/2CO04OO1MMV1z8zY5N1pyD"
-    },
-    {
-      "added_at": "2024-04-13 04:09:59",
-      "album": {
-        "name": "Read the Room",
-        "url": "https://open.spotify.com/album/6DU4HRGZCt9iZg58sxtYSw"
-      },
-      "artists": [
-        {
-          "name": "BEL",
-          "url": "https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Carry Me to Bed",
-      "url": "https://open.spotify.com/track/5EPE4kkkngiXtqHjGb31QP"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1551,22 +1567,6 @@
       "duration_ms": 197133,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/1aDt9pruckWVn6lllJtVgc"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "sex symbol",
-        "url": "https://open.spotify.com/album/5x7C6eoL1z0tCuINAf4yDv"
-      },
-      "artists": [
-        {
-          "name": "Ayleen Valentine",
-          "url": "https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc"
-        }
-      ],
-      "duration_ms": 154520,
-      "name": "sex symbol",
-      "url": "https://open.spotify.com/track/76EwM6rI3b6DxcsE473IOA"
     },
     {
       "added_at": "2024-03-15 04:00:00",

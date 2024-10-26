@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Aodh\u00e1n King and Lauren Daigle",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: <a href=\"spotify:artist:75JvBeqW4BJ4xgnbMAq6MN\">Anne Wilson</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 233560,
       "name": "As Long As I Have You",
       "url": "https://open.spotify.com/track/3kZZwZqd5azWm0mXlVDL7U"
@@ -1650,6 +1650,24 @@
       "duration_ms": 176533,
       "name": "Better King",
       "url": "https://open.spotify.com/track/1PRMBi6xAuwLFU48bm6sLh"
+    },
+    {
+      "album": {
+        "name": "FOLK! (Pt. 1)",
+        "url": "https://open.spotify.com/album/6fVAoa1hPmAGpUJqzU7eyL"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179061,
+      "name": "Better Than I Ever Thought",
+      "url": "https://open.spotify.com/track/3uDO1vVp0fHweMgX7fwmmx"
     },
     {
       "album": {
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 244891,
       "name": "Chances - Live",
       "url": "https://open.spotify.com/track/4QRgxKnKg77vYCCE8OYfWf"
@@ -2546,7 +2564,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 222106,
       "name": "Come To Jesus",
       "url": "https://open.spotify.com/track/16aYn9DxGwZ4IAa8Hit2t5"
@@ -3554,7 +3572,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 440000,
       "name": "Everything At Your Feet - Live at Mosaic, Los Angeles, 2023",
       "url": "https://open.spotify.com/track/0tZ2gIuKTGST2pLdR4TepM"
@@ -5260,7 +5278,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 179297,
       "name": "Good News",
       "url": "https://open.spotify.com/track/3N5WhBan3fyW2LnT8UXUBZ"
@@ -6327,6 +6345,24 @@
     },
     {
       "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199404,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
+    },
+    {
+      "album": {
         "name": "Holy",
         "url": "https://open.spotify.com/album/2SYm9yFCPu2K01oh1IBsZf"
       },
@@ -6480,7 +6516,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 171086,
       "name": "Holy Trouble",
       "url": "https://open.spotify.com/track/4crXyrGXp9UJlTTSMH8nfN"
@@ -7442,6 +7478,24 @@
       "duration_ms": 192250,
       "name": "I Still Believe",
       "url": "https://open.spotify.com/track/1ZMyK6IkXfEaRDpzQvBGNZ"
+    },
+    {
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/1jAFoyfgaKyHYq6GS9jvQS"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305250,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/795eAv6Ix1XPJGvouopbuS"
     },
     {
       "album": {
@@ -9658,6 +9712,28 @@
       "duration_ms": 234008,
       "name": "Lookin' For You - Live",
       "url": "https://open.spotify.com/track/1jh5km6hF7X6XzpiWXIx2s"
+    },
+    {
+      "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/4CEwuoCsM4xHjnJ2nX5KDm"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        },
+        {
+          "name": "Megan Danielle",
+          "url": "https://open.spotify.com/artist/4d2K0EIwr1nV3NeyyxTsKx"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243067,
+      "name": "Looking Up",
+      "url": "https://open.spotify.com/track/4f6bHNxoWKbRw1qhmwv5e8"
     },
     {
       "album": {
@@ -14037,6 +14113,24 @@
     },
     {
       "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/1T9oAj0JwPfpVPP84Mf6jv"
+      },
+      "artists": [
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164895,
+      "name": "Sold",
+      "url": "https://open.spotify.com/track/6SvOaMxOZGqSt9qjnZPlo7"
+    },
+    {
+      "album": {
         "name": "Somebody Loves You",
         "url": "https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO"
       },
@@ -15385,6 +15479,24 @@
     },
     {
       "album": {
+        "name": "I LOVE JESUS",
+        "url": "https://open.spotify.com/album/3spuKcoEfckg0uxMR9LoUe"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "The 99",
+      "url": "https://open.spotify.com/track/7pFwbwpCAvkDsuXxI604Td"
+    },
+    {
+      "album": {
         "name": "Watch The Sun",
         "url": "https://open.spotify.com/album/5H1FtrVEYKl9hQyDxBZHvN"
       },
@@ -15618,6 +15730,24 @@
       "duration_ms": 195606,
       "name": "The Commission - Band Version",
       "url": "https://open.spotify.com/track/0tEr65nxKnGm9F6SyIBlEU"
+    },
+    {
+      "album": {
+        "name": "REBEL (Live From Lexington)",
+        "url": "https://open.spotify.com/album/4YNYONGCfyUsXb3SjMWay1"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222942,
+      "name": "The Cross - Live",
+      "url": "https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S"
     },
     {
       "album": {
@@ -17024,7 +17154,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"

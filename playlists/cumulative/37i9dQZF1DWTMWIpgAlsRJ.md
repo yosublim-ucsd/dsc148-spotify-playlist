@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTMWIpgAlsRJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTMWIpgAlsRJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTMWIpgAlsRJ)
 
-### [Ultimate FIFA Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DWTMWIpgAlsRJ)
+### [EA SPORTS FC Ultimate Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DWTMWIpgAlsRJ)
 
-> The 100 greatest FIFA tracks of all time
+> The 100 greatest EA SPORTS FC tracks of all time
 
 154 songs - 9 hr 27 min
 

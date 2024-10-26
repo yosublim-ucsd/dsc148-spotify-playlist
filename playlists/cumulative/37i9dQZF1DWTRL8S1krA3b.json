@@ -158,6 +158,24 @@
     {
       "album": {
         "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/5j6ScOsf4Gdg2lwOiUHAft"
+      },
+      "artists": [
+        {
+          "name": "Callista Clark",
+          "url": "https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192642,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/0URDPKwJPDBxArWaCpl1yM"
+    },
+    {
+      "album": {
+        "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/51qIyccjvJCDMNW2L5K7xi"
       },
       "artists": [
@@ -803,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Happy Trails",
+        "url": "https://open.spotify.com/album/692vnJ4ZSRqgoCldC2zmGr"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187384,
+      "name": "Happy Trails",
+      "url": "https://open.spotify.com/track/1WRNwhOwNDBxKpkXMeV1zK"
+    },
+    {
+      "album": {
         "name": "Hard Candy Christmas",
         "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
       },
@@ -894,6 +930,24 @@
       "duration_ms": 245833,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/77aDdG4vLSFn4sEM3burtJ"
+    },
+    {
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/7Aot2bMAZtbbNU1PF8l8kB"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0sWdvAS5A2CP2rCHEBe45J"
     },
     {
       "album": {
@@ -1068,6 +1122,24 @@
       "duration_ms": 148532,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/7zNeDg8NYqlYTZZIvQN4SA"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/3obmcueQA0HPnQcUmYykic"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200989,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/1GjuT0FXHHve3t5CzqU9Wd"
     },
     {
       "album": {

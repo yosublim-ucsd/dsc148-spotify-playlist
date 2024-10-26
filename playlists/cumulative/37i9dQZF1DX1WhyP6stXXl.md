@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Leony, G\-Eazy
 
-471 songs - 23 hr 51 min
+472 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-28 | 2024-07-05 |
 | [cloud 11](https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [cloud 11](https://open.spotify.com/album/77XSyzmCy40q7rNihXkGU7) | 2:33 | 2024-08-29 | 2024-09-27 |
 | [confused](https://open.spotify.com/track/5mVD6EqHjznlT9vjOQV2bA) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [confused](https://open.spotify.com/album/3BBLwN3zv6PHbJiSTosUog) | 3:25 | 2024-08-29 | 2024-09-27 |
-| [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 | 2024-10-24 |  |
+| [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [LA MAIN SUR LE COEUR](https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 | 2024-10-24 |  |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-28 | 2024-07-27 |
 | [Crazy For You](https://open.spotify.com/track/4oBdt4Hc9fe56P3NwH8JH7) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Crazy For You](https://open.spotify.com/album/5Z88ntvAuIC8yul0wIbeSi) | 2:43 | 2024-10-10 |  |
 | [Crazy Woman](https://open.spotify.com/track/3KNAVLiOMLVrTTqviWZwmX) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Crazy Woman](https://open.spotify.com/album/5iIMeDqPXonKGMT6lpeA7v) | 2:48 | 2024-06-28 | 2024-07-27 |
@@ -114,6 +114,7 @@
 | [dinner with a view](https://open.spotify.com/track/5xkm8HuvOan7ZY5fx2Op2V) | [Liam Taylor](https://open.spotify.com/artist/6YEyAmHO1qf4rerzgccrKF) | [dinner with a view](https://open.spotify.com/album/3tNyJZnDrKeOqD4EZn9LB1) | 2:55 | 2024-06-28 | 2024-07-12 |
 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 | 2024-08-01 | 2024-08-23 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-11 | 2024-08-09 |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 |  |
 | [DOLLA](https://open.spotify.com/track/2ZULSKV0kaXCsBeHWiBksD) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [DOLLA](https://open.spotify.com/album/1Jb8J2kQcOqpY98aqXVMaY) | 2:33 | 2024-10-03 |  |
 | [Dollar](https://open.spotify.com/track/1UkwHkHDCEoyoVLAxb6iWH) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [The Journey](https://open.spotify.com/album/1m40sV8ay2oarveKvfckRj) | 2:21 | 2024-09-12 | 2024-10-11 |
 | [Don't Call](https://open.spotify.com/track/1MqZc58tU1uLQ5CFLkHXb2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Don't Call](https://open.spotify.com/album/1nY3JwvqVliwQgjmNVRPUP) | 3:49 | 2024-06-28 | 2024-07-27 |

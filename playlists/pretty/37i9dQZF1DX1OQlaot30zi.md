@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Nitro, Capo Plaza, Kid Yugi e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,571 likes - 99 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,611 likes - 99 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 61 | [ON & ON](https://open.spotify.com/track/6nPcgZggQ2MnRRtJVv56Uk) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [ON & ON](https://open.spotify.com/album/75LlCc60rZoqiudlkALRJb) | 2:22 |
 | 62 | [Mafioso](https://open.spotify.com/track/1mjzmWcHmh98l029Ce4S7k) | [Malsho](https://open.spotify.com/artist/1QoHY2jVpZqUrqnpZjA811) | [L'ultimo Dei Bastardi](https://open.spotify.com/album/2qVUXgHQtX1yu5u1Ji63C2) | 2:10 |
 | 63 | [ONE SHOT](https://open.spotify.com/track/1pNmOb6aY7n37UqRCdrZ2p) | [MR Rizzus](https://open.spotify.com/artist/1lbjFxJSZCuCjiOKuMfmiO), [Fonse20900](https://open.spotify.com/artist/3eXq37bY1XRFXE0HT5Fq9V), [LVX](https://open.spotify.com/artist/2TRLuo94hdY0lQ1wu488Wa) | [ONE SHOT](https://open.spotify.com/album/2a48KtuI2ronM41rjqCLJg) | 1:20 |
-| 64 | [AMEN](https://open.spotify.com/track/5HJcBKe67FQoPnzZZnc06p) | [Copes](https://open.spotify.com/artist/56DfnywiR8WU4fU9tyafH8) | [AMEN](https://open.spotify.com/album/5d7MnjWPsIzG0uu6q5qmyM) | 2:21 |
+| 64 | [AMEN](https://open.spotify.com/track/5HJcBKe67FQoPnzZZnc06p) | [Copes](https://open.spotify.com/artist/56DfnywiR8WU4fU9tyafH8), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [AMEN](https://open.spotify.com/album/5d7MnjWPsIzG0uu6q5qmyM) | 2:21 |
 | 65 | [Gocce su di me](https://open.spotify.com/track/4uwqCbhjQvL7KwIhiqlvm6) | [Deste](https://open.spotify.com/artist/6Mi1YHGswd4kUsCGBGHvok) | [Gocce su di me](https://open.spotify.com/album/6ZOVAsed2eMD2X8EoBS7Qk) | 2:12 |
 | 66 | [La Guerre](https://open.spotify.com/track/5118qFF9W734txSIdH7eze) | [Swaro](https://open.spotify.com/artist/48Uk2mcm5dAJS9lupixTGW) | [La Guerre](https://open.spotify.com/album/0NqONK5CPYL6qQ6UJ869wR) | 2:31 |
 | 67 | [Re Senza Una Queen](https://open.spotify.com/track/2hRGgUIYvqSMn18msDuJdV) | [Dayv](https://open.spotify.com/artist/0TTBL9D4ZfIZA71tpLMCro) | [Re Senza Una Queen](https://open.spotify.com/album/3nqffiavoAHjzobPFuhGmV) | 2:04 |

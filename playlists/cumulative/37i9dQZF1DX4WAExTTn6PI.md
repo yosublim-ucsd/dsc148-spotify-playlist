@@ -4,7 +4,7 @@
 
 > Americana's artists and hits of tomorrow\. Cover: Noeline Hofmann
 
-229 songs - 14 hr 4 min
+230 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All I Got](https://open.spotify.com/track/5w8T8vBAJCLFOUQ8jfVtYF) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [All I Got](https://open.spotify.com/album/3m1TVcg4p3VwpRuyt02VSM) | 3:23 | 2022-01-28 |  |
 | [All I Got](https://open.spotify.com/track/6d7GTp3lmBXFK2vo1ZeKOf) | [Ryan Culwell](https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6) | [Run Like a Bull](https://open.spotify.com/album/61PLAYtZkCVhS8PeOBMSZm) | 3:23 | 2022-01-28 | 2024-04-19 |
 | [Amen](https://open.spotify.com/track/4skc2S8hoeseOxPWtqCl6k) | [Tony Kamel](https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH) | [Back Down Home](https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w) | 3:20 | 2022-01-28 |  |
+| [American Made](https://open.spotify.com/track/1G86JArfdkMYDeDybfCAdH) | [Blue Water Highway](https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7) | [American Made](https://open.spotify.com/album/1RgrXpiYWsPHsKZAJcDQBf) | 4:13 | 2024-10-25 |  |
 | [Annie](https://open.spotify.com/track/7K2EWRO4uSjf5ASVy2q5em) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [It's A Beautiful Day And I Love You](https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL) | 2:43 | 2022-01-28 | 2023-05-27 |
 | [Astronaut](https://open.spotify.com/track/39XuhccP5xec13dC02yIS0) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/2otQW146DtK0V0TiOVe83O) | 3:22 | 2022-01-28 | 2024-01-05 |
 | [Astronaut](https://open.spotify.com/track/3SfPayPVX8gGEqfXy1easS) | [Katie Toupin](https://open.spotify.com/artist/3tUGR3ozsws0k6X36EX6UH) | [Astronaut](https://open.spotify.com/album/1OXboo6IkJIGk6AyFel3jM) | 3:22 | 2022-01-28 | 2022-10-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! BNLX ambassador: <a href="spotify:artist:1vGqIJlfH4QS0KQzrKU8tw">Kaya Imani</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,745 likes - 91 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,743 likes - 91 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 5 | [So Naive](https://open.spotify.com/track/3F1N7UKQ1ecGuARbGm9n9y) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [So Naive](https://open.spotify.com/album/6aONMheRrx1pwVRUoNSYwg) | 3:14 |
 | 6 | [Nanalou](https://open.spotify.com/track/1BKn39VqcRuKF2DsbRJydU) | [Trixie Whitley](https://open.spotify.com/artist/3MZIxeB762kFLJ8ceou6uJ) | [Nanalou](https://open.spotify.com/album/2tFghXSQqcPAyEKcqOtcmR) | 5:01 |
 | 7 | [Ding Dong](https://open.spotify.com/track/0SSvsdk6TlKbBHGtBk4XPa) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Ding Dong](https://open.spotify.com/album/1Db0UhjPxm1Xw9Q69uIBp6) | 3:16 |
-| 8 | [Late Night Text](https://open.spotify.com/track/64SnXGontzQpmeIiwdsscY) | [Shanee](https://open.spotify.com/artist/5HU2bzuycGkCc5CNvwm8wV), [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [Late Night Text](https://open.spotify.com/album/7vnJAPyBjFEUWaEE10tX64) | 3:04 |
+| 8 | [late night text](https://open.spotify.com/track/64SnXGontzQpmeIiwdsscY) | [Shanee](https://open.spotify.com/artist/5HU2bzuycGkCc5CNvwm8wV), [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr) | [late night text](https://open.spotify.com/album/7vnJAPyBjFEUWaEE10tX64) | 3:04 |
 | 9 | [Something In My Room](https://open.spotify.com/track/5CSWTPWy2JC0VOoqbnNq38) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Patch](https://open.spotify.com/album/7xwXXKv5bsAmeISpytBJvr) | 3:20 |
 | 10 | [Twee April](https://open.spotify.com/track/10rCGIyamWa3yexM04sbn4) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Twee April](https://open.spotify.com/album/5cb4HDdBuwwVSE4Mkj6Ceh) | 2:25 |
 | 11 | [Current Weather](https://open.spotify.com/track/6wIWyRP2jIm1Pftx7uyrXN) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [Current Weather](https://open.spotify.com/album/0SHxpEhPnLjY1K2m792UN8) | 4:29 |

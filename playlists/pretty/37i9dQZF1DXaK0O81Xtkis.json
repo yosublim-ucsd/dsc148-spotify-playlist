@@ -1,44 +1,28 @@
 {
-  "description": "make it pop! cover: Nightly",
+  "description": "make it pop! cover: Beach Weather",
   "num_followers": 216581,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxJ7ZgAAAADvkavCW2fQfmQT4EYrPseV",
+  "snapshot_id": "ZxvH1wAAAAAfAfpba2WkIludOOCkWxgU",
   "tracks": [
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "where do we go from here",
-        "url": "https://open.spotify.com/album/7MespBHLF05tMB6zYdwpkU"
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs"
       },
       "artists": [
         {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
         }
       ],
-      "duration_ms": 153052,
-      "name": "where do we go from here",
-      "url": "https://open.spotify.com/track/0biM005Th79TJk8JLIC2ah"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Cuts Deep",
-        "url": "https://open.spotify.com/album/6LTBLtbhmyAsKi2L59l7Vo"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 180911,
-      "name": "Cuts Deep",
-      "url": "https://open.spotify.com/track/7yDBlgy1yGXDnhJWOZuLe3"
+      "duration_ms": 207061,
+      "name": "Fake Nice",
+      "url": "https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -57,6 +41,86 @@
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
     },
     {
+      "added_at": "2024-08-30 15:34:12",
+      "album": {
+        "name": "breaking news",
+        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "breaking news",
+      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "where do we go from here",
+        "url": "https://open.spotify.com/album/7MespBHLF05tMB6zYdwpkU"
+      },
+      "artists": [
+        {
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
+        }
+      ],
+      "duration_ms": 153052,
+      "name": "where do we go from here",
+      "url": "https://open.spotify.com/track/0biM005Th79TJk8JLIC2ah"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "U and I (Intertwine)",
+        "url": "https://open.spotify.com/album/0RhDkObdl3kydd4jUIr6CA"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 166598,
+      "name": "U and I (Intertwine)",
+      "url": "https://open.spotify.com/track/3m4PhccmoJYS8ei9I1GQEX"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Cuts Deep",
+        "url": "https://open.spotify.com/album/6LTBLtbhmyAsKi2L59l7Vo"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 180911,
+      "name": "Cuts Deep",
+      "url": "https://open.spotify.com/track/7yDBlgy1yGXDnhJWOZuLe3"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "Employee of the Year",
@@ -71,22 +135,6 @@
       "duration_ms": 182752,
       "name": "Chandeliers",
       "url": "https://open.spotify.com/track/0QTuRoeQshkYmyPhqkGAqw"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Bye Bye Baby",
-        "url": "https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Bye Bye Baby",
-      "url": "https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -105,20 +153,36 @@
       "url": "https://open.spotify.com/track/5wAOwTaOQ8dHZgR13d5S7S"
     },
     {
-      "added_at": "2024-10-18 15:14:45",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "2024: A Case Study of the Long Term Effects of Young Love",
-        "url": "https://open.spotify.com/album/7KXIUPR7x5oF2Z12qhds1f"
+        "name": "A Dream Through Open Eyes",
+        "url": "https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ"
       },
       "artists": [
         {
-          "name": "Jaden",
-          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
         }
       ],
-      "duration_ms": 193733,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/77QJ5XgcdiTRvAZNEzjupy"
+      "duration_ms": 211357,
+      "name": "Kids of the Last Days",
+      "url": "https://open.spotify.com/track/57ngnKa3wXcN9j3rGRY2z2"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Bye Bye Baby",
+        "url": "https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Bye Bye Baby",
+      "url": "https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -135,6 +199,38 @@
       "duration_ms": 155514,
       "name": "Start Over",
       "url": "https://open.spotify.com/track/0Z3fxefevRBjYJLLmAhdaR"
+    },
+    {
+      "added_at": "2024-10-25 16:31:18",
+      "album": {
+        "name": "Count of 3",
+        "url": "https://open.spotify.com/album/3BvjBgLTDNzu92wdr6RXe1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Valentine",
+          "url": "https://open.spotify.com/artist/2Gl2a6WfXvDy8TTsHPFOaI"
+        }
+      ],
+      "duration_ms": 144570,
+      "name": "Count of 3",
+      "url": "https://open.spotify.com/track/4pTjnzwlqVtQ3Im39sYfpQ"
+    },
+    {
+      "added_at": "2024-10-18 15:14:45",
+      "album": {
+        "name": "2024: A Case Study of the Long Term Effects of Young Love",
+        "url": "https://open.spotify.com/album/7KXIUPR7x5oF2Z12qhds1f"
+      },
+      "artists": [
+        {
+          "name": "Jaden",
+          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/77QJ5XgcdiTRvAZNEzjupy"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -783,22 +879,6 @@
     {
       "added_at": "2024-08-30 15:34:12",
       "album": {
-        "name": "Fall Apart",
-        "url": "https://open.spotify.com/album/1OHQ1ovrNmPGdNuresKn8P"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 172731,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/25dal1jwzqCrMvHBG548g1"
-    },
-    {
-      "added_at": "2024-08-30 15:34:12",
-      "album": {
         "name": "Blackout Drunk",
         "url": "https://open.spotify.com/album/171QO1TFbCYhbgKoYwmwcH"
       },
@@ -815,22 +895,6 @@
     {
       "added_at": "2024-08-30 15:34:12",
       "album": {
-        "name": "you fake your british accent",
-        "url": "https://open.spotify.com/album/68TfQ3tnoUR6MwkO3658it"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 188562,
-      "name": "you fake your british accent",
-      "url": "https://open.spotify.com/track/5Jb3MSibBv8ioC1Q5OrGmR"
-    },
-    {
-      "added_at": "2024-08-30 15:34:12",
-      "album": {
         "name": "Let It Rain",
         "url": "https://open.spotify.com/album/274sh16x8L1VQQZvTeTJzC"
       },
@@ -843,38 +907,6 @@
       "duration_ms": 209663,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/11zgphiq5vlwjis2uFi271"
-    },
-    {
-      "added_at": "2024-08-30 15:34:12",
-      "album": {
-        "name": "breaking news",
-        "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "breaking news",
-      "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
-    },
-    {
-      "added_at": "2024-08-30 15:34:12",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/4f3w41FgqHkRBo9RVQ4qYa"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 215013,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/3DQ3Ksr9VNDRi4mJlaS87t"
     },
     {
       "added_at": "2024-08-30 15:34:12",
@@ -907,38 +939,6 @@
       "duration_ms": 163677,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/4JU8kIrU6RAOVMuZ9Nxae4"
-    },
-    {
-      "added_at": "2024-08-30 15:34:12",
-      "album": {
-        "name": "Running Out Of Time",
-        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
-    },
-    {
-      "added_at": "2024-08-30 15:34:12",
-      "album": {
-        "name": "Salt Water Taffy",
-        "url": "https://open.spotify.com/album/7z9LxFMfUtFV6YGyZHhdHR"
-      },
-      "artists": [
-        {
-          "name": "MARIS",
-          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
-        }
-      ],
-      "duration_ms": 206842,
-      "name": "Salt Water Taffy",
-      "url": "https://open.spotify.com/track/2MuY7Djj8hqZeQFic3dY9a"
     },
     {
       "added_at": "2024-08-30 15:34:12",

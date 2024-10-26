@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d?si=ADpA6fSZQB\-dGT7KaWKZCA">Hayden Thorpe</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh\_89rmgqQ">Bonnie &quot;Prince&quot; Billy</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,488 likes - 50 songs - 3 hr 14 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,492 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 49 | [Against The Grain](https://open.spotify.com/track/0aC6vbkbcZwfeDW0TjWZq7) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Adrian Underhill](https://open.spotify.com/artist/4cxNlCYxlWWtkYRkNk04CN) | [Against The Grain](https://open.spotify.com/album/6GVN9nEFPZM6I4gsXr1k0Y) | 3:15 |
 | 50 | [Moving](https://open.spotify.com/track/3FLXdDL0GQmPPZdS8LZ0LE) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Moving](https://open.spotify.com/album/1MLbMikv7EqD88haQCT1IB) | 3:38 |
 
-Snapshot ID: `AAAQIlP2LkGR4Z4wCXA1b/3mwHWGcE+B`
+Snapshot ID: `AAAQJFNAcE3z6LV79FlGe/SO0gieHusD`

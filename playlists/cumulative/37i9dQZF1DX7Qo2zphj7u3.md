@@ -2,9 +2,9 @@
 
 ### [Pop Romántico](https://open.spotify.com/playlist/37i9dQZF1DX7Qo2zphj7u3)
 
-> Las románticas de hoy y de siempre\. Foto: Pedro Capó
+> Las románticas de hoy y de siempre\. Foto: Alejandro Sanz
 
-490 songs - 1 day 8 hr 37 min
+491 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Olvídame tú \(with Marco Antonio Solís\) \- MTV Unplugged](https://open.spotify.com/track/7gyYCmhtVoEgqiErO3iVn1) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 4:39 | 2022-01-25 | 2024-05-11 |
 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 | 2022-01-25 |  |
 | [Otra Como Tu](https://open.spotify.com/track/2cSXotAohYx0EWCNljCzs7) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias](https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4) | 4:41 | 2022-01-25 |  |
+| [Palmeras en el jardín](https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Palmeras en el jardín](https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX) | 3:00 | 2024-10-25 |  |
 | [Para Amarnos Más](https://open.spotify.com/track/3VDJrFMOFyYFGPtIocqkeP) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [21 Black Jack](https://open.spotify.com/album/4jiWswx18F7x1dRMKmC9YR) | 3:26 | 2022-01-25 | 2024-09-01 |
 | [Para Enamorarte De Mí](https://open.spotify.com/track/1w96e0p0KmUDaYNj8eMAOv) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Para Enamorarte De Mí](https://open.spotify.com/album/4bvmCkLESm57sj8OF8tSMn) | 3:51 | 2022-01-25 | 2022-07-23 |
 | [Pasos de cero](https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 3:54 | 2022-01-25 | 2024-10-22 |
@@ -360,7 +361,7 @@
 | [Rompecabezas \(feat\. Emmanuel\)](https://open.spotify.com/track/53KEOYbYJfwiTUuqeOG2KU) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Rompecabezas](https://open.spotify.com/album/2ADfhnqAkJo0LTxfxtplLW) | 3:43 | 2022-01-25 | 2022-07-28 |
 | [Rosa..\. Rosa](https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF) | [Sandro](https://open.spotify.com/artist/5srsgtoePlsp0eQIXmta1O) | [Sandro de América](https://open.spotify.com/album/5KWGSBbAvNO1ycytBsPiT9) | 2:33 | 2022-01-25 | 2024-05-11 |
 | [Rómpeme El Corazón](https://open.spotify.com/track/2dNjo3KBW38Yea8XygWPpb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:30 | 2022-01-25 | 2022-11-13 |
-| [Sabe Bien](https://open.spotify.com/track/36LDPQfypNqhflhok841qb) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sabe Bien](https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq) | 2:40 | 2024-07-19 |  |
+| [Sabe Bien](https://open.spotify.com/track/36LDPQfypNqhflhok841qb) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sabe Bien](https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq) | 2:40 | 2024-07-19 | 2024-10-26 |
 | [Sabor a Mi](https://open.spotify.com/track/0M3gfocW6UgqUS9XaobkNB) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Todos Los Romances](https://open.spotify.com/album/1acqznTFsJ7ekLNp00bj1p) | 3:03 | 2022-01-25 | 2022-07-29 |
 | [Santa Marta](https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Viaje](https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU) | 3:20 | 2024-05-17 |  |
 | [Santiago](https://open.spotify.com/track/7erP3zGsGtBhhCN8OWPXoC) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Santiago](https://open.spotify.com/album/5kpdmaT9zISP1HUPdSXYoF) | 3:19 | 2024-01-19 | 2024-05-11 |

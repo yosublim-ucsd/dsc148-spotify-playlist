@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Owen Riegling
 
-498 songs - 1 day 6 hr 21 min
+499 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [Not Unlike A Rock](https://open.spotify.com/track/3aWIfiGuUjvgqtnS6899s6) | [Whitney K](https://open.spotify.com/artist/4PUAKbav9ZaFcc6hL0abX6) | [Not Unlike A Rock](https://open.spotify.com/album/7DxWJ7orr7mrjcOEelvNGD) | 4:53 | 2022-05-13 | 2022-11-09 |
 | [Notawe \(Father\)](https://open.spotify.com/track/2wQ3tFNWGiNUMf3O0CRS9W) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [Notawe \(Father\)](https://open.spotify.com/album/4nIkOsbvUJiuWzoKQ6Ex0f) | 3:56 | 2023-08-18 | 2023-08-31 |
 | [Now](https://open.spotify.com/track/1eLu0QKysJo90dmaI5KV17) | [Jon and Roy](https://open.spotify.com/artist/1K0Gi1qUFGSyZUFXvJF4F2) | [Know Your Mind](https://open.spotify.com/album/7LKXmNzqqAw7B7wsZtcxqM) | 3:26 | 2022-05-13 | 2022-07-30 |
-| [Numbers](https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:28 | 2023-04-21 | 2024-10-21 |
+| [Numbers](https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:28 | 2023-04-21 |  |
 | [O Glory Lost Those Blues Again](https://open.spotify.com/track/0eyyfDrV3arjYL1kfP1fGd) | [Blackie & The Rodeo Kings](https://open.spotify.com/artist/5Xkfy1HC5JSFKU1Z4lr3Ru) | [O Glory Lost Those Blues Again](https://open.spotify.com/album/3wE1yyIcRn5eITElpD3IS0) | 3:23 | 2022-05-13 | 2022-11-12 |
 | [Oblivion](https://open.spotify.com/track/3fUV94MU8ULFZtKh3KUYlm) | [The Wilderness of Manitoba](https://open.spotify.com/artist/5iiDMOV4u4LhRMqbCAepUM) | [Oblivion](https://open.spotify.com/album/1KYXQbM2qinEl2a0PRMOy7) | 4:08 | 2022-05-13 | 2022-10-29 |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-08-26 | 2023-04-22 |
@@ -363,7 +363,7 @@
 | [Recyclers](https://open.spotify.com/track/5MoFU7MuEjcjUwn42vqNCj) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/0cZv3s0UthhPm1k6M4OLAf) | 4:12 | 2022-10-14 | 2023-04-09 |
 | [Red Moon](https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:19 | 2022-05-13 | 2023-11-18 |
 | [Remember Me For Me](https://open.spotify.com/track/144sfZcukffgbgyIWvSnV8) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Remember Me For Me](https://open.spotify.com/album/0iMAEuqBVOORBmW4CVSeF6) | 3:41 | 2022-08-20 | 2023-04-22 |
-| [Resurrection Day](https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Resurrection Day](https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM) | 2:49 | 2023-07-07 |  |
+| [Resurrection Day](https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Resurrection Day](https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM) | 2:49 | 2023-07-07 | 2024-10-26 |
 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 | 2023-02-25 |
 | [Rhododendron](https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:48 | 2023-08-25 |  |
 | [Rich Men North of Richmond](https://open.spotify.com/track/78Du4CMFgnhdlG33gblkiP) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Rich Men North of Richmond](https://open.spotify.com/album/02X1cQOUcwYPxgFfqHeitI) | 3:07 | 2023-08-18 |  |
@@ -401,7 +401,7 @@
 | [Snakes and Waterfalls](https://open.spotify.com/track/684tjAMxT8Bdm7RSv6vgzC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/7yeUolKNVVSu3jpK5JuK3b) | 4:02 | 2023-04-21 | 2023-04-30 |
 | [Snakes and Waterfalls](https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf) | 4:02 | 2023-04-28 | 2024-04-19 |
 | [So Easy](https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 3:33 | 2023-09-08 | 2024-05-27 |
-| [So Many Ways To Say I Love You](https://open.spotify.com/track/6LJRs5OvIe58iCbdE6dDK4) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [So Many Ways To Say I Love You](https://open.spotify.com/album/1iun8WXEf4ppNr0JY3xEqY) | 2:46 | 2024-10-11 |  |
+| [So Many Ways To Say I Love You](https://open.spotify.com/track/6LJRs5OvIe58iCbdE6dDK4) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [So Many Ways To Say I Love You](https://open.spotify.com/album/1iun8WXEf4ppNr0JY3xEqY) | 2:46 | 2024-10-11 | 2024-10-26 |
 | [Sober](https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Sober](https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87) | 3:41 | 2024-10-04 |  |
 | [Somebody Just Like Me](https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/3tvR5wPT639FKdAfdzPcuC) | 2:33 | 2023-07-14 | 2023-11-18 |
 | [Somebody Like You](https://open.spotify.com/track/3wlO7uuhoREZLDQtbnXjqu) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Somebody Like You](https://open.spotify.com/album/21vWay9Lyd98bUJuYHmTXJ) | 3:21 | 2022-05-13 | 2022-08-06 |
@@ -471,6 +471,7 @@
 | [Viral](https://open.spotify.com/track/5Qb85PqpUrbUIbUX5HMsEZ) | [Matthew Barber](https://open.spotify.com/artist/2mhqgf0GxdfXpO6gwLohyX) | [Viral](https://open.spotify.com/album/1RoIwKIEMOUVkKcQVCHn9D) | 2:28 | 2022-05-13 | 2023-04-22 |
 | [Visions of Dallas](https://open.spotify.com/track/2DZMQkB8lSBelyDGMIOXoI) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Visions of Dallas](https://open.spotify.com/album/3ooXOWd62SBpKLmbTGosHp) | 3:27 | 2024-08-23 |  |
 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 | 2024-06-07 |  |
+| [War Cry](https://open.spotify.com/track/7C2ojelGd6Pc6w1qOjECcj) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [War Cry](https://open.spotify.com/album/4kPEjIl5E72ElHbYxcQFS8) | 1:35 | 2024-10-25 |  |
 | [Water From A Stone](https://open.spotify.com/track/3Zc9Z0RrfZfof3QKZwM5Zc) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Amy Sky](https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb) | [Water From A Stone](https://open.spotify.com/album/3LwJ8hTTXCKzW4Trh9ZpCn) | 4:24 | 2022-05-13 | 2023-04-22 |
 | [Way of the Triune God \- Hallelujah Version](https://open.spotify.com/track/2BJy4svtrGACqRB5BFLOK6) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Can I Take My Hounds to Heaven?](https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi) | 3:28 | 2023-04-21 |  |
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-23 |

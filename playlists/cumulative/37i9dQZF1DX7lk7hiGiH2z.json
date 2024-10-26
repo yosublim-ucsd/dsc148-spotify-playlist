@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Das Spukhaus in der Siedlung",
+        "url": "https://open.spotify.com/album/3z03DJIRM6mWVR4CqMYlQP"
+      },
+      "artists": [
+        {
+          "name": "Autoscooter Joe",
+          "url": "https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113100,
+      "name": "Das Spukhaus in der Siedlung",
+      "url": "https://open.spotify.com/track/6gnVw7Sxpxt8D64CZM5hjv"
+    },
+    {
+      "album": {
         "name": "Tanz- und Partylieder",
         "url": "https://open.spotify.com/album/2IWE2VDOZIIbN7wTVPZF8R"
       },
@@ -1048,6 +1066,24 @@
       "duration_ms": 159947,
       "name": "Der Fr\u00fchling ist da",
       "url": "https://open.spotify.com/track/3lKbeDF3uf0yzPUJsQS12x"
+    },
+    {
+      "album": {
+        "name": "F\u00fcr Alle!",
+        "url": "https://open.spotify.com/album/1qeC46YljMqrPYpc7oFHB4"
+      },
+      "artists": [
+        {
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203289,
+      "name": "Der Geisterbahnkartenverk\u00e4ufer",
+      "url": "https://open.spotify.com/track/00AslKYgiZV4874OTzIM7V"
     },
     {
       "album": {
@@ -1410,7 +1446,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 156133,
       "name": "Der Vampir",
       "url": "https://open.spotify.com/track/4FlV1Nn9kpVEJ3qprLc6Gx"
@@ -1605,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Die Mumie",
+        "url": "https://open.spotify.com/album/3ul7iuQaVi85FwdXHAcBBI"
+      },
+      "artists": [
+        {
+          "name": "Randale",
+          "url": "https://open.spotify.com/artist/4W5SdFkLM45RQ1cD09LfjN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235164,
+      "name": "Die Mumie",
+      "url": "https://open.spotify.com/track/7j2XZGP8gc8Yx0JWUwj5vs"
+    },
+    {
+      "album": {
         "name": "Endlich Winter!",
         "url": "https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o"
       },
@@ -1677,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "Summ, Summ, Summ! - Die beliebtesten Karnevalslieder (Incl. Karaoke- Und Instrumentalversionen aller Titel)",
+        "url": "https://open.spotify.com/album/0BMYDXZnqOEiPS09WXPL7Q"
+      },
+      "artists": [
+        {
+          "name": "3Berlin",
+          "url": "https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139333,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/6ec14meGCkblYk8evZc442"
+    },
+    {
+      "album": {
         "name": "Das gro\u00dfe Felix Liederalbum 2",
         "url": "https://open.spotify.com/album/6UCseiCljsu6wn0tQuT5sq"
       },
@@ -1724,7 +1796,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 168960,
       "name": "Drei kleine Hexen",
       "url": "https://open.spotify.com/track/7prmyyJSIZbY7ZwlczWG0T"
@@ -2429,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "Herbstlieder: Lustige Kinderlieder zu Herbst und Halloween",
+        "url": "https://open.spotify.com/album/6JJ4MsaUJeFVubYgUQtmSH"
+      },
+      "artists": [
+        {
+          "name": "Sternschnuppe",
+          "url": "https://open.spotify.com/artist/08M6tIv9n50XyVLtABiZG5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255813,
+      "name": "Gespenster am Fenster (Halloween-Kinderlied)",
+      "url": "https://open.spotify.com/track/5Xzt3URQdVFPysTWLWzFhO"
+    },
+    {
+      "album": {
         "name": "Gespenster und Vampire",
         "url": "https://open.spotify.com/album/2WK7N0bHiLFXrvMjK2tG4M"
       },
@@ -2484,6 +2574,24 @@
       "duration_ms": 182213,
       "name": "Glitzer",
       "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
+    },
+    {
+      "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
     },
     {
       "album": {
@@ -2661,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "Halloween Disco",
+        "url": "https://open.spotify.com/album/1HzCmCqiDSZnVU3VjB6M33"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174426,
+      "name": "Halloween Disco",
+      "url": "https://open.spotify.com/track/504tfAVUFYv060yqHXLMpg"
+    },
+    {
+      "album": {
         "name": "Halloween Song",
         "url": "https://open.spotify.com/album/2xDOcXB86nEYmmb0tk6Sca"
       },
@@ -2676,6 +2802,24 @@
       "duration_ms": 149243,
       "name": "Halloween Song",
       "url": "https://open.spotify.com/track/6NQJCS8jFOzOZfW0AgLJ5G"
+    },
+    {
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr Halloween",
+        "url": "https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143372,
+      "name": "Halloween steht vor der T\u00fcr",
+      "url": "https://open.spotify.com/track/1xYmVPJj7JPLJPiC3Iw7iR"
     },
     {
       "album": {
@@ -2702,7 +2846,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 133593,
       "name": "Halloweenparty im Kinderhaus",
       "url": "https://open.spotify.com/track/1YfNhJPhbmjhYsAfWU580m"
@@ -3134,6 +3278,28 @@
       "duration_ms": 192333,
       "name": "Hui Buh - Das Schlossgespenst",
       "url": "https://open.spotify.com/track/2IfG2i43XLsSLTYROFQP06"
+    },
+    {
+      "album": {
+        "name": "Halloween Hits (18 gruselige Lieder f\u00fcr Kinder)",
+        "url": "https://open.spotify.com/album/2zKGvNEfo3VZpZgPPCJP3o"
+      },
+      "artists": [
+        {
+          "name": "Michael Schanze",
+          "url": "https://open.spotify.com/artist/3qZlcxiBZnekq0NeAnPLy4"
+        },
+        {
+          "name": "Hans Clarin",
+          "url": "https://open.spotify.com/artist/6i6Rf2vtI1fQ4E9oXx6oZX"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Hui Buh das Schlossgespenst - Mitternacht auf Schloss Burgeck",
+      "url": "https://open.spotify.com/track/2sCUbeJ3nQueYpaZ6qpa9i"
     },
     {
       "album": {
@@ -4186,7 +4352,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 173600,
       "name": "Klapprige Knochen",
       "url": "https://open.spotify.com/track/7s7HHMpOqIklT2QAS1Kyyc"
@@ -5348,7 +5514,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 208880,
       "name": "Monster sind furchtbar",
       "url": "https://open.spotify.com/track/0hjaUOYr74luB7uhEVswQ9"
@@ -5420,7 +5586,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 170240,
       "name": "Monstertanz",
       "url": "https://open.spotify.com/track/1f7uRXBYPTZlq4uReNhFkY"
@@ -6848,10 +7014,28 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 274586,
       "name": "S\u00fc\u00dfes oder Saures",
       "url": "https://open.spotify.com/track/0GyexL03XUTTS6ZTvA0yhE"
+    },
+    {
+      "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr Halloween",
+        "url": "https://open.spotify.com/album/1NgmH5DfPZSHFPfzmbLZji"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164375,
+      "name": "S\u00fc\u00dfes, sonst gibt's Saures",
+      "url": "https://open.spotify.com/track/54zJZ4DNIccdsYjwxtjO2B"
     },
     {
       "album": {
@@ -7038,6 +7222,24 @@
       "duration_ms": 199366,
       "name": "Time Warp",
       "url": "https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu"
+    },
+    {
+      "album": {
+        "name": "Tobi der Zombie",
+        "url": "https://open.spotify.com/album/3jr06XZuKyLXBLfJ3ljfQW"
+      },
+      "artists": [
+        {
+          "name": "Autoscooter Joe",
+          "url": "https://open.spotify.com/artist/5BBLRqJIzCbM8ESlNFSqV7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Tobi der Zombie",
+      "url": "https://open.spotify.com/track/3aPtQOpFOu2QeKjPMFrMcf"
     },
     {
       "album": {
@@ -7522,7 +7724,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-06",
+      "date_removed": null,
       "duration_ms": 162826,
       "name": "Wenn die Flederm\u00e4use tanzen",
       "url": "https://open.spotify.com/track/4MeA9SGzhfPXmwYOJGolZo"
@@ -7996,6 +8198,24 @@
       "duration_ms": 143732,
       "name": "Yammi Yammi",
       "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
+    },
+    {
+      "album": {
+        "name": "Minidisco International Songs 6",
+        "url": "https://open.spotify.com/album/6vnhWWzx6Bzk7J3q6BZ2eL"
+      },
+      "artists": [
+        {
+          "name": "Minidisco Deutsch",
+          "url": "https://open.spotify.com/artist/6wHvqVUezhjP2pNemRLyIY"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Zombietanz",
+      "url": "https://open.spotify.com/track/2Gu8F5VBvCKFbbSKpQpFZP"
     },
     {
       "album": {

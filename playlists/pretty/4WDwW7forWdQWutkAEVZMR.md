@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 ### [Columbia Records: Weekly Mix](https://open.spotify.com/playlist/4WDwW7forWdQWutkAEVZMR)
 
-> Your go\-to playlist for this week's hottest music featuring The Kid LAROI, Miley Cyrus, and more! Cover: Koe Wetzel
+> Your go\-to playlist for this week's hottest music featuring Halsey, Tyler, The Creator,  Addison Rae and more! Cover: Halsey
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 7,999 likes - 51 songs - 2 hr 34 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 7,998 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 | 50 | [Airplane Tickets](https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Airplane Tickets](https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws) | 3:18 |
 | 51 | [BLEED](https://open.spotify.com/track/0gC7ElLAefEaFM1oyNsjUY) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/1rmqaos4sc4N5cSqe1ytiZ) | 2:49 |
 
-Snapshot ID: `AAAcB8A/k3gwDwNaqO2hbkjxGlW3h1kX`
+Snapshot ID: `AAAcCCLB5zkvWGeRw1GjcCc0vJns8ZVV`

@@ -1,6 +1,6 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 48889,
+  "num_followers": 48945,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 316919,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Moog For Love",
         "url": "https://open.spotify.com/album/1ryg2ELCFZ0y1ngN3EiKlT"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 195136,
       "name": "Feel Like I Do",
       "url": "https://open.spotify.com/track/663E41fUIDEnzN7xTnFLT0"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 316919,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Kingdoms In Colour",
         "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 250398,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/46SpOq8ojlVUBrgGnUzUlV"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Easier",
         "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 308741,
       "name": "Gimme Some",
       "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "TAPE TWO",
+        "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "duration_ms": 222792,
+      "name": "I Heard",
+      "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "TAPE TWO",
-        "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
       "artists": [
         {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 222792,
-      "name": "I Heard",
-      "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
+      "duration_ms": 224973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/3f4AG90lRsmrpY3D0GsXat"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "There Is Love in You (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 281303,
+      "name": "She Just Likes to Fight",
+      "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Worlds",
         "url": "https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "There Is Love in You (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1HSe7aUzdxkRSZy7gucJpr"
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
       "artists": [
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
         }
       ],
-      "duration_ms": 281303,
-      "name": "She Just Likes to Fight",
-      "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
+      "duration_ms": 226479,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2024-02-29 17:58:01",
@@ -1107,22 +1123,6 @@
       "duration_ms": 247771,
       "name": "About You",
       "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 206746,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "DJ-KiCKS (Wolf + Lamb vs Soul Clap) [DJ Mix]",
         "url": "https://open.spotify.com/album/7tV8Yf5hxCHs2p6HTjmnTW"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
+        "name": "Nothing Is Still",
+        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
         }
       ],
-      "duration_ms": 206746,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
+      "duration_ms": 231640,
+      "name": "Movements (Chapter III)",
+      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Nothing Is Still",
-        "url": "https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr"
+        "name": "Someday Somewhere",
+        "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
       },
       "artists": [
         {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
         }
       ],
-      "duration_ms": 231640,
-      "name": "Movements (Chapter III)",
-      "url": "https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV"
+      "duration_ms": 196546,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1311,22 +1327,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Someday Somewhere",
-        "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Underwaterfall",
         "url": "https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q"
       },
@@ -1339,22 +1339,6 @@
       "duration_ms": 260064,
       "name": "Underwaterfall",
       "url": "https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Meditations on Afrocentrism",
-        "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
-      },
-      "artists": [
-        {
-          "name": "Romare",
-          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
-        }
-      ],
-      "duration_ms": 254698,
-      "name": "Down the Line - It Takes a Number",
-      "url": "https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1375,34 +1359,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Glass Animals",
-        "url": "https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU"
+        "name": "Meditations on Afrocentrism",
+        "url": "https://open.spotify.com/album/6JgRuGcjvkFmbqHlcuD6wv"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Romare",
+          "url": "https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo"
         }
       ],
-      "duration_ms": 211194,
-      "name": "Psylla",
-      "url": "https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "obedear",
-      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
+      "duration_ms": 254698,
+      "name": "Down the Line - It Takes a Number",
+      "url": "https://open.spotify.com/track/4CjEkkRMMKY2ROy21bFNrc"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1427,6 +1395,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Glass Animals",
+        "url": "https://open.spotify.com/album/4M7zRurOW6q7pQxjMcPqwU"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 211194,
+      "name": "Psylla",
+      "url": "https://open.spotify.com/track/4XCpDE4pLTkkQ0kudqBLdS"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 385986,
       "name": "Don't Call It Love - 12\" Version",
       "url": "https://open.spotify.com/track/2ikT7zgIJYBcpchNseRmka"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "99 Cents",
-        "url": "https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk"
-      },
-      "artists": [
-        {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Escapism",
         "url": "https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
+        "name": "99 Cents",
+        "url": "https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
         }
       ],
-      "duration_ms": 260413,
-      "name": "Be a Body",
-      "url": "https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5"
+      "duration_ms": 195333,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 260413,
+      "name": "Be a Body",
+      "url": "https://open.spotify.com/track/1bXHMidMrVaiBkpGo05Ze5"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Sound of Silver",
         "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 344158,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Ardour",
         "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 91010,
       "name": "While You Doooo",
       "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 344158,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I"
     }
   ],
   "unique_name": "voltage",

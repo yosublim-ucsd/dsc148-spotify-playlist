@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🗣️ Sad Twins in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,757 likes - 95 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,766 likes - 95 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 31 | [Faces](https://open.spotify.com/track/58t84zHOAYjODbXuCU3duu) | [Musa](https://open.spotify.com/artist/1eXhw6R7CRTzWYvY5f7hNL) | [Faces](https://open.spotify.com/album/42dIAVaCBtWaV3Ppc0Jpd3) | 3:47 |
 | 32 | [ZERO](https://open.spotify.com/track/4pDhtVkqpyvmEko2eHxBBQ) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [ZERO](https://open.spotify.com/album/2NIC319iPSzUAKjMbWYBae) | 3:02 |
 | 33 | [Di cuore](https://open.spotify.com/track/2MJTUtlHkWrGSEZPah1Yk4) | [Giulia Deligia](https://open.spotify.com/artist/4NYe71lFBqbckQMw5hzoFf) | [Di cuore](https://open.spotify.com/album/3bR4HXsGdijQOslNWRpLbX) | 2:27 |
-| 34 | [IT’S JUST ME](https://open.spotify.com/track/1uvcSWH2wGIOSZGktSUHBM) | [Dreik](https://open.spotify.com/artist/5hd7uzdSgIlrJmZRPfLkSi), [Blak](https://open.spotify.com/artist/6IH1y7lDZ4f5emA2chtADV) | [IT’S JUST ME](https://open.spotify.com/album/12QlRy3DV7DBuvNlR7ur8j) | 2:44 |
+| 34 | [IT’S JUST ME](https://open.spotify.com/track/1uvcSWH2wGIOSZGktSUHBM) | [Dreik](https://open.spotify.com/artist/5hd7uzdSgIlrJmZRPfLkSi), [BlaK](https://open.spotify.com/artist/3tmt1mH0wGHpbWAZ6kLL3H) | [IT’S JUST ME](https://open.spotify.com/album/12QlRy3DV7DBuvNlR7ur8j) | 2:44 |
 | 35 | [Post Punk](https://open.spotify.com/track/32whoVKitdwAyuzAJmK3X1) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Post Punk](https://open.spotify.com/album/3rGqUnqIsG0tHWTvbqv30Y) | 2:32 |
 | 36 | [anche te//come me](https://open.spotify.com/track/5bL4EJTKUrbE7dGUA1yOXz) | [Jaroslav](https://open.spotify.com/artist/3GrOZIe3jCgnr8eSOxLg4Z) | [anche te//come me](https://open.spotify.com/album/4gVpM8xkfIrJhGVLTeASBO) | 2:05 |
 | 37 | [Formiche](https://open.spotify.com/track/4luGa0WDAf86wqyyWy2eM6) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Formiche](https://open.spotify.com/album/6BEsWdHL2DUqVeSjswYf7U) | 3:00 |

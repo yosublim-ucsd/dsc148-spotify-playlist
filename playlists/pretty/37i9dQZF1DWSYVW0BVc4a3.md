@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > pedro is back!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,982 likes - 286 songs - 20 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,072 likes - 286 songs - 20 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 20 | [FUKINASTY](https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5) | [FUKINASTY / Look, Alright](https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla) | 2:57 |
 | 21 | [Bang](https://open.spotify.com/track/2nQ8IRyTMH0JO6MNvr1Nsq) | [Waze](https://open.spotify.com/artist/0Pe4Z3QAZI9ZEAoqwoWbvZ), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Bang](https://open.spotify.com/album/5mtTCps7w1BxcDQSU5j2x5) | 2:23 |
 | 22 | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 |
-| 23 | [Blessed Already \(feat\. Ric Wilson and Marbl\)](https://open.spotify.com/track/62Bu8sk1q5ctiIdWdVdYS5) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Marbl](https://open.spotify.com/artist/0jVa5ZujaAOEbLMss5ezHE) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 4:16 |
+| 23 | [Blessed Already \(feat\. Ric Wilson and Marbl\)](https://open.spotify.com/track/62Bu8sk1q5ctiIdWdVdYS5) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Marbl](https://open.spotify.com/artist/7nal1FKs5ceRIALtj9DqA2) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 4:16 |
 | 24 | [On Top](https://open.spotify.com/track/0h02oY1lJ4cvVLOHFxO2ET) | [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Deija](https://open.spotify.com/artist/6V8OeO3acZYb6YvSEahsRu) | [On Top](https://open.spotify.com/album/5riIDzWB1ylPOwIYFDd9ts) | 5:19 |
 | 25 | [Nana](https://open.spotify.com/track/6mL7QPwNJg6INkpY0ksRcM) | [Roy Rosenfeld](https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk) | [No Drama](https://open.spotify.com/album/6umOBRogngTEb8S0YkQIwp) | 4:30 |
 | 26 | [Closer](https://open.spotify.com/track/4gPzgnuf6njljiwLFKM2lV) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Closer](https://open.spotify.com/album/0Oo3LfhY3trbIWZFB7tBNc) | 3:54 |

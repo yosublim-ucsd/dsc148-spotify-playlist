@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Gera MX y Alem\u00e1n en la casa. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Santa Fe Klan en la casa. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -602,7 +602,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 231036,
       "name": "Alzypher Vol. 13",
       "url": "https://open.spotify.com/track/6hF5GHmra3eBun6EwbCVFM"
@@ -912,6 +912,28 @@
       "duration_ms": 183000,
       "name": "Ando",
       "url": "https://open.spotify.com/track/1OQDGHzTyR6VtTSapMGFFn"
+    },
+    {
+      "album": {
+        "name": "Andrea Pirlo",
+        "url": "https://open.spotify.com/album/04egZj1PEHepvAm0c9YVuc"
+      },
+      "artists": [
+        {
+          "name": "La Potter",
+          "url": "https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu"
+        },
+        {
+          "name": "D\u00edmelo Seven",
+          "url": "https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149742,
+      "name": "Andrea Pirlo",
+      "url": "https://open.spotify.com/track/5n7QrK0TuDaqrwBTXgHFX8"
     },
     {
       "album": {
@@ -4410,7 +4432,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 191856,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/5fa2aNf763WQkl921OYblE"
@@ -5501,6 +5523,24 @@
     },
     {
       "album": {
+        "name": "Kayzen",
+        "url": "https://open.spotify.com/album/3mvxJHkRozA3weDnh6MAXF"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165511,
+      "name": "Kayzen",
+      "url": "https://open.spotify.com/track/7LiDI8odIM3U3YRV9mngGJ"
+    },
+    {
+      "album": {
         "name": "Kiubole",
         "url": "https://open.spotify.com/album/04emcftNra5B20iGQR1ukc"
       },
@@ -6226,7 +6266,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 228026,
       "name": "La Vida Loca",
       "url": "https://open.spotify.com/track/20kpcAWtz7Yql6nIH2P94Z"
@@ -10618,6 +10658,24 @@
       "duration_ms": 300000,
       "name": "Sangre Latina",
       "url": "https://open.spotify.com/track/6UFSmkCAWAX3dt85f1TBNA"
+    },
+    {
+      "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243428,
+      "name": "SANGRE X SANGRE",
+      "url": "https://open.spotify.com/track/4iURr626VPcfRbY0jOdND7"
     },
     {
       "album": {

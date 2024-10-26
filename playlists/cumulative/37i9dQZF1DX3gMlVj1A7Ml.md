@@ -4,7 +4,7 @@
 
 > Ascultă  la volum maxim vocile feminine din România\.  Cover: Alexandra Stan
 
-125 songs - 5 hr 52 min
+126 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Dudadu \- Remix](https://open.spotify.com/track/1v7IYDSkzrw3dHm89nS54V) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu \(Remix\)](https://open.spotify.com/album/59MJX4jPYt1zzNWvOc4J7m) | 3:02 | 2024-08-06 |  |
 | [Dă\-mi tu ca să nu fur](https://open.spotify.com/track/0aItRgSjSdv44fUvZOqLYI) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [Dă\-mi tu ca să nu fur](https://open.spotify.com/album/4GksQfzOYVHpAP68pgwOyC) | 2:41 | 2024-07-02 |  |
 | [E Româncă](https://open.spotify.com/track/3NQB3bz9WQS1uItTsheAxL) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [E Româncă](https://open.spotify.com/album/5zoPt9fepkgmTZfPspLMta) | 3:02 | 2024-08-06 | 2024-10-03 |
+| [Energia ta](https://open.spotify.com/track/12lADUOFdAtvQw9io0tYbH) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Energia ta](https://open.spotify.com/album/4jCNgztTaJLqgCW0K5TEVe) | 3:08 | 2024-10-25 |  |
 | [eRAI](https://open.spotify.com/track/3k28bAA3GB9Y64DmplOoS8) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [eRAI](https://open.spotify.com/album/6AFcecVwR9s8aVgGfqk7o7) | 2:44 | 2024-06-04 | 2024-10-03 |
 | [F Ya New B](https://open.spotify.com/track/2vZeONhNtdc54jB3JmiDJP) | [Moza Kaliza](https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk) | [F Ya New B](https://open.spotify.com/album/12Fy9FbaGybW4oqwiRfGfO) | 3:03 | 2024-10-02 |  |
 | [Feelings Back](https://open.spotify.com/track/4XHSb2aZ5cEIy8yRmz0GkF) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [Feelings Back](https://open.spotify.com/album/5yuPlxjBOzb4eA8FUfhAJO) | 2:15 | 2024-06-04 | 2024-07-03 |
@@ -93,7 +94,7 @@
 | [Nu te mai aștept](https://open.spotify.com/track/4gzNad3iO1Xmq22QxlFT6V) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Nu te mai aștept](https://open.spotify.com/album/7HGbXzDWof2HNQBUHIJNuM) | 3:00 | 2024-06-04 | 2024-07-03 |
 | [Număr Ascuns](https://open.spotify.com/track/10XrbvdxmCjP1zpZHigxAy) | [Edine](https://open.spotify.com/artist/69liRSrij8eMDTX2fKbICm) | [Număr Ascuns](https://open.spotify.com/album/1eXS1CYAvYYLtxfJV38Q13) | 2:34 | 2024-07-02 |  |
 | [O poveste de iubire](https://open.spotify.com/track/6MDGXXznmXd0OpSQsRKSuz) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Ioana Ignat](https://open.spotify.com/album/0t8IK5KNjtLREXariMtCHT) | 2:39 | 2024-06-04 | 2024-08-07 |
-| [Ocean](https://open.spotify.com/track/7KhsMhVHzTgOkkmOQhqkfp) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Ocean](https://open.spotify.com/album/7a1MHZhCaZ4EiEeR4rTQsl) | 2:52 | 2024-09-03 |  |
+| [Ocean](https://open.spotify.com/track/7KhsMhVHzTgOkkmOQhqkfp) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Ocean](https://open.spotify.com/album/7a1MHZhCaZ4EiEeR4rTQsl) | 2:52 | 2024-09-03 | 2024-10-26 |
 | [Oh My God](https://open.spotify.com/track/0hTkBmM30pSw6PBnH5U2b7) | [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [Oh My God](https://open.spotify.com/album/3dq5MZbIweguyRT9VK2y3w) | 2:28 | 2024-06-04 | 2024-09-04 |
 | [Otrava](https://open.spotify.com/track/2301cwKNZrr43aD8hQjNbJ) | [Giulia](https://open.spotify.com/artist/0Bgc099SMFY5CxABCv6gxR), [Dirty Nano](https://open.spotify.com/artist/0YeBK2Xpnx9UuwvOHpcxoJ) | [Otrava](https://open.spotify.com/album/2jkU6DqKHXLcKqU73QSRCM) | 2:41 | 2024-07-02 |  |
 | [Pas cu pas](https://open.spotify.com/track/3R0FIUtH0ArRR4DNpFKEZ3) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [Pas cu pas](https://open.spotify.com/album/7iB87hMsRM7bWkPnvUTVT0) | 2:27 | 2024-06-04 | 2024-07-03 |

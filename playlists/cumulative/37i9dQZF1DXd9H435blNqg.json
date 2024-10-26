@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1947",
+        "url": "https://open.spotify.com/album/6xCT36Xkh9emaPwxgMsihQ"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122851,
+      "name": "1947",
+      "url": "https://open.spotify.com/track/0NjxtCrXEJouK7Ir4fzg6m"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj"
       },
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 182480,
       "name": "Somebody to Love (Trust)",
       "url": "https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn"

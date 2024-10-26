@@ -3421,6 +3421,28 @@
     },
     {
       "album": {
+        "name": "Parrandero y Contentoso",
+        "url": "https://open.spotify.com/album/7t3NeXK9jFRK42Z8dab5Tm"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "el combo de mulalo",
+          "url": "https://open.spotify.com/artist/3LxhNCkiq5PdP9uwtMFirl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214050,
+      "name": "Me Critican",
+      "url": "https://open.spotify.com/track/1nI8zW47NC5oiUeRdHIffD"
+    },
+    {
+      "album": {
         "name": "Marca Registrada del Binomio de Oro",
         "url": "https://open.spotify.com/album/7aDqowxLLL5VH6M9R9zEHa"
       },
@@ -4284,7 +4306,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 158989,
       "name": "Pirulino",
       "url": "https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs"

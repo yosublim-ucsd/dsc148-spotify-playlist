@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.
 
-112 songs - 5 hr 21 min
+113 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [God Only Knows](https://open.spotify.com/track/6k1ev1a00SONbiMLyBiKZS) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Tiny Beautiful Things \(Original Series Soundtrack\)](https://open.spotify.com/album/0wfB1zTsdAIq2DoiXMzIKy) | 3:32 | 2024-01-05 |  |
 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 | 2024-01-05 | 2024-07-03 |
 | [God, This Feels Good](https://open.spotify.com/track/3pPuIUNXQR6Vx8GNn6CFsU) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:18 | 2024-01-05 |  |
+| [Good Morning U.S.A\. \- Main Title Theme](https://open.spotify.com/track/5zqEtv7hgqhMTpFGRFZSpE) | [American Dad! Cast](https://open.spotify.com/artist/2CSVljFM7BwGQjCCjjrAH8) | [American Dad! Greatest Hits](https://open.spotify.com/album/5YrB7WXoV5Smf8VoRXi4qD) | 1:33 | 2024-10-25 |  |
 | [Great Expectations](https://open.spotify.com/track/7cYBPmjFE0ADvutbvEfkFJ) | [Keefus Ciancia](https://open.spotify.com/artist/7B9L4JpLt7dSvu07KfPFYF) | [Great Expectations \(Original Soundtrack\)](https://open.spotify.com/album/1CBi1xXd60BA6ReHdCsxYN) | 1:20 | 2024-01-05 |  |
 | [Green Gloves](https://open.spotify.com/track/4IxOGS1DnoBXyem7be8Ezo) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Suncoast \(Original Soundtrack\)](https://open.spotify.com/album/5h4yMJibNgzJ47rytW6v5t) | 3:33 | 2024-02-23 |  |
 | [Heaven Is a Hand to Hold](https://open.spotify.com/track/5z2aQl5Kn9N2B6mwOfdXlx) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:41 | 2024-01-05 |  |

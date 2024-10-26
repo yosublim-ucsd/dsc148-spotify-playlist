@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "El lado electr\u00f3nico del indie latino, featuring Rubio.",
+  "description": "El lado electr\u00f3nico del indie latino, featuring Benito Cerati.",
   "name": "NE\u00d3N",
   "tracks": [
     {
@@ -381,7 +381,7 @@
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 240764,
+      "duration_ms": 238546,
       "name": "anhelo",
       "url": "https://open.spotify.com/track/2082tbABLulK203QC2AXhB"
     },
@@ -1105,7 +1105,7 @@
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 237888,
+      "duration_ms": 238120,
       "name": "como antes :(",
       "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
     },
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 238675,
       "name": "C\u00f3mo puedes vivir contigo mismo?",
       "url": "https://open.spotify.com/track/4J1flvoVx0WRyPmy7d7y6W"
@@ -4143,7 +4143,7 @@
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210330,
+      "duration_ms": 206586,
       "name": "p\u00e9talos",
       "url": "https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48"
     },
@@ -4182,6 +4182,28 @@
       "duration_ms": 201656,
       "name": "Quem\u00e1ndome al Sol",
       "url": "https://open.spotify.com/track/7rZabW2xqPIm7kEfBC9n8y"
+    },
+    {
+      "album": {
+        "name": "\u00a1Viva la Devoluci\u00f3n!",
+        "url": "https://open.spotify.com/album/6C85MeMgAXbOaT1mosE8IC"
+      },
+      "artists": [
+        {
+          "name": "Benito Cerati",
+          "url": "https://open.spotify.com/artist/13QnAhCICgwMtr6HPWoRbH"
+        },
+        {
+          "name": "GURISE",
+          "url": "https://open.spotify.com/artist/4xTVgx4xPTxcliW1IdrY7U"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200688,
+      "name": "Quiero Tengo",
+      "url": "https://open.spotify.com/track/7BMoOVsGFC07PbixHZDNW9"
     },
     {
       "album": {

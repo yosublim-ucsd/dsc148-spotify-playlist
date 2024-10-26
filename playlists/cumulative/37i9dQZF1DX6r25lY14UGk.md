@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: The Wiggles
 
-609 songs - 1 day 2 hr 4 min
+612 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10 In The Bed \(Roll Over\)](https://open.spotify.com/track/0JMGdZigXqHJ1kiHtWKGFk) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [10 In The Bed \(Roll Over\)](https://open.spotify.com/album/0piivjD8vMJps0eZI8PbHZ) | 2:46 | 2024-04-12 | 2024-08-24 |
 | [7 Days of the Week Dance](https://open.spotify.com/track/226dBnuIM30EcZKA9Uiaa5) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [7 Days of the Week Dance](https://open.spotify.com/album/3jpahirgKN4SM1J6zymWN6) | 2:12 | 2024-08-02 |  |
 | [A Broken Crayon](https://open.spotify.com/track/65uXTS3fIKBhjACUa8okBt) | [Go Fish](https://open.spotify.com/artist/60oY0lmnOyCS2ElXAKCNrR) | [A Broken Crayon](https://open.spotify.com/album/0SJsNve5gh1VTEKSjX8br8) | 3:13 | 2024-01-22 | 2024-08-24 |
+| [A Tiny Dragon](https://open.spotify.com/track/5WKX394IoVTS1YRkwFmYUM) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [A Tiny Dragon](https://open.spotify.com/album/594vAeyTF06zlE4rpw0AKy) | 2:56 | 2024-10-25 |  |
 | [A Touch of Magic](https://open.spotify.com/track/5GCnPH7lJgry1K21ddHX7z) | [Foozlebots](https://open.spotify.com/artist/0A2GTbECNSK8qFQjyDB381) | [A Touch of Magic](https://open.spotify.com/album/5G1reowuNfadIu0UcBuXgU) | 1:56 | 2024-02-09 | 2024-08-24 |
 | [ABC Boo \(Caitie\)](https://open.spotify.com/track/3vg4EfjcqPCfQQgE9T89KF) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo) | [ABC Boo \(Caitie\)](https://open.spotify.com/album/4ca7iydzxw93rvcX8WGACN) | 3:12 | 2024-10-04 |  |
 | [ABC Hop](https://open.spotify.com/track/0SweSPRBxWZGqnTbgTqPPG) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [ABC Hop](https://open.spotify.com/album/3ya0heF7LIzAz5B0nCZmyO) | 3:11 | 2024-02-16 | 2024-08-24 |
@@ -159,6 +160,7 @@
 | [Face's Music Party Theme Song](https://open.spotify.com/track/7aDEgDlOqH520eRHcvWhFY) | [Little Ditto](https://open.spotify.com/artist/45zwS0Ipb9GuXMvekivQ38) | [Face's Music Party Theme Song](https://open.spotify.com/album/11fdxpCV12Nqk6zCavNNm5) | 1:18 | 2024-09-06 |  |
 | [Facts](https://open.spotify.com/track/1B69USoua8pFyR1SRu6n9q) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 2:49 | 2022-04-15 | 2024-01-05 |
 | [Fairy Song](https://open.spotify.com/track/25xdfiK2QQy8v5I5a4PyGZ) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Fairy Song](https://open.spotify.com/album/5cKfeRe5c1nIiAfgdZQ4WP) | 1:45 | 2024-02-16 | 2024-08-24 |
+| [Fall Floor is Lava](https://open.spotify.com/track/0w2tnxR7wMCWKH0VbrsPyB) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Fall Floor Is Lava](https://open.spotify.com/album/7HACGOrSd4y50jhxGP7FZi) | 2:53 | 2024-10-25 |  |
 | [Fam Jam](https://open.spotify.com/track/58pVNlzDwrddprihIMBKCd) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 2:54 | 2022-04-15 | 2024-01-05 |
 | [Family](https://open.spotify.com/track/3Kun98bRs7DkRhIS5xyO1u) | [Ronnie Boy Kids](https://open.spotify.com/artist/1K3KWU6neb0IFYos3nJe38), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Family](https://open.spotify.com/album/3BqReo7jRiKdG8GNOKB3oz) | 3:15 | 2024-08-23 |  |
 | [Fart Song](https://open.spotify.com/track/5CTwsrsloYkhGjGrYRhKSt) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Fart Song](https://open.spotify.com/album/4teeyA2k1hLK6tcnQMPuMl) | 2:53 | 2024-02-23 | 2024-08-24 |
@@ -169,7 +171,7 @@
 | [Feelings Like The Weather](https://open.spotify.com/track/3c3TKJO5a2YMoGaQNflOGu) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Frogs And Birds](https://open.spotify.com/album/29XcuEEpUkyv5fc6Z26fP9) | 2:50 | 2022-04-15 | 2022-07-29 |
 | [Feelings Like The Weather](https://open.spotify.com/track/3v1zZp0M5ZHSOXjwwTyerM) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Frogs And Birds](https://open.spotify.com/album/1YUT7gYPCXKS5RWsII7X4o) | 2:50 | 2022-07-25 | 2024-01-05 |
 | [Feels Like Flying](https://open.spotify.com/track/65gVSEyOCGxvvHOkSpojHV) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Feels Like Flying](https://open.spotify.com/album/4POCLFtLLnv7bOzh1zZIvV) | 2:21 | 2024-03-08 | 2024-03-16 |
-| [Find a New Way](https://open.spotify.com/track/2q9vMYhXDU0ePtdVqbX9bQ) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [Find A New Way](https://open.spotify.com/album/042qukB8CIkfiT85T21tGc) | 1:51 | 2024-05-31 |  |
+| [Find a New Way](https://open.spotify.com/track/2q9vMYhXDU0ePtdVqbX9bQ) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Find A New Way](https://open.spotify.com/album/042qukB8CIkfiT85T21tGc) | 1:51 | 2024-05-31 |  |
 | [Find The Love](https://open.spotify.com/track/6ydLdKFTYHrXZ7cMBYMRvg) | [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Find The Love](https://open.spotify.com/album/3Ble3LdqVSVQJkoXlkUuPb) | 3:08 | 2024-06-28 |  |
 | [Fire Inside \- From the Netflix Film "Thelma the Unicorn"](https://open.spotify.com/track/0p8lTcG76m0InEbiet9lfp) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Fire Inside \(From the Netflix Film "Thelma the Unicorn"\)](https://open.spotify.com/album/1qIeR0x18Zaf0VnZyWTYm5) | 1:54 | 2024-04-19 |  |
 | [Fire Truck](https://open.spotify.com/track/3SoJzVHAWLr08rQerBHB9H) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Fire Truck](https://open.spotify.com/album/0duOJCEVDodd3JmPFW88sz) | 1:57 | 2024-04-05 | 2024-08-24 |
@@ -265,7 +267,7 @@
 | [I Love My Garbage Truck](https://open.spotify.com/track/3PpcKAAJE38yKAz3FE9sJ3) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I Love My Garbage Truck](https://open.spotify.com/album/6Hij9YO3vsLCiNuO38woCm) | 2:46 | 2024-03-01 | 2024-08-24 |
 | [I Love Rock 'N Roll](https://open.spotify.com/track/3wCoLlqBYcfmED2LTGBZ8q) | [The Party Cats](https://open.spotify.com/artist/2hCA1Ydi1AJZAYNmCP8Mvk) | [Kids Dance Party: Rock On!](https://open.spotify.com/album/5Ee24kCaNMCSwIrX2CwWXX) | 2:56 | 2024-07-12 |  |
 | [I Spy with My Little Eye](https://open.spotify.com/track/62ndHKE95zowDeCwVJSNyg) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [I Spy with My Little Eye](https://open.spotify.com/album/3nk8Awgxk0rvWMmIQbv2op) | 2:55 | 2024-06-21 |  |
-| [I Wish](https://open.spotify.com/track/3DTQnkqvUURfjYu5kIGur3) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs) | [I Wish](https://open.spotify.com/album/6Pm9KWHnE5ojhvGh7XxTIX) | 1:43 | 2024-05-03 |  |
+| [I Wish](https://open.spotify.com/track/3DTQnkqvUURfjYu5kIGur3) | [Thomas & Friends](https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [I Wish](https://open.spotify.com/album/6Pm9KWHnE5ojhvGh7XxTIX) | 1:43 | 2024-05-03 |  |
 | [I'm a Robot](https://open.spotify.com/track/483jB0MCPrca04cbcV8UJw) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [I'm a Robot](https://open.spotify.com/album/3EtEJo2RBdwmPBHeMOhMPf) | 2:22 | 2024-04-26 |  |
 | [I'm Always Me](https://open.spotify.com/track/3706vBqhCe42c5ulhhE2S1) | [Narwhals and Waterfalls](https://open.spotify.com/artist/3bGbqC8l55hrX4dbovAMBX) | [Simple SEL](https://open.spotify.com/album/7jakIO1K3h45nW7UqmGG2Q) | 3:08 | 2022-04-15 | 2023-12-09 |
 | [I'm Di\-Vine](https://open.spotify.com/track/0c7wgVqSDzsQM0HC20zPQT) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV) | [Monster High: Scare\-adise Island](https://open.spotify.com/album/6t2g84f5twaxVHt9X65jZu) | 2:33 | 2024-04-26 |  |
@@ -440,6 +442,7 @@
 | [Rollercoaster](https://open.spotify.com/track/4ogUxKaCWgZOWMR1qncsfr) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa's Party! The Album](https://open.spotify.com/album/4zSDA3J9JIF2iVYpV7FtRN) | 2:53 | 2024-07-12 |  |
 | [Round Robin](https://open.spotify.com/track/7qcIZzAjD9wtmZpnLUT7nO) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Round Robin](https://open.spotify.com/album/6doMtKRPDxoSKZPdupXIqX) | 1:33 | 2024-01-05 | 2024-02-17 |
 | [Rub A Dub Dub](https://open.spotify.com/track/56O7X42b5jutoJnw4nsIxA) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Rub A Dub Dub](https://open.spotify.com/album/1TxvfCE2fVle9dQ0plL1Ud) | 1:59 | 2024-08-09 |  |
+| [Rug Island, Pt\. 1](https://open.spotify.com/track/3EAPxpZ0i4WOtQHvCGx3hX) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island](https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV) | 1:28 | 2024-10-25 |  |
 | [Run! The Floor is Lava!!](https://open.spotify.com/track/2iKFK74HvyAuQr9vxbTfsB) | [The Little Mouse Production](https://open.spotify.com/artist/6Kb3W2eeJN6YNriqvdLNNE) | [Run! The Floor is Lava!!](https://open.spotify.com/album/6jXIAp5SAQtUGTw4Yrt2yd) | 3:35 | 2024-08-16 |  |
 | [S\-N\-O\-W](https://open.spotify.com/track/4OUgbqKQ0WIxR8IRS9hUJh) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [S\-N\-O\-W](https://open.spotify.com/album/0RfEjJs8Z6B19L7nrwczGP) | 2:48 | 2024-10-18 |  |
 | [Same and Different Superhero Song](https://open.spotify.com/track/6I3qx7AQFL5qIsuDBSbbLs) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Learning with JJ](https://open.spotify.com/album/5kunIlf9hIKsfU8mmNtxrK) | 3:12 | 2024-01-05 | 2024-02-17 |

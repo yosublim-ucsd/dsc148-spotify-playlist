@@ -3339,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "Da La Larna",
+        "url": "https://open.spotify.com/album/5ktnrIlwFjoD7c4AyZsqzm"
+      },
+      "artists": [
+        {
+          "name": "Rivstart",
+          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146979,
+      "name": "Da La Larna",
+      "url": "https://open.spotify.com/track/2Xa33Z47iIVzWU9wqcGiQK"
+    },
+    {
+      "album": {
         "name": "DALAH\u00c4ST",
         "url": "https://open.spotify.com/album/5WjZg92rq4cMLVuSlZ0bMD"
       },

@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 290833,
+  "num_followers": 290853,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+      },
+      "artists": [
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
+      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
         "name": "Honky Tonk Heroine: Classic Capitol Recordings 1952-1964",
         "url": "https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 157000,
       "name": "A Dear John Letter",
       "url": "https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
-      },
-      "artists": [
-        {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
-      "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
+        "name": "20 Of His Best",
+        "url": "https://open.spotify.com/album/3eTEUdyzfz0lK2drXtcYt0"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "Fraulein",
+      "url": "https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 167906,
       "name": "Alabama Jubilee",
       "url": "https://open.spotify.com/track/4Go8YDlnV1lgAtJtc02Fq7"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "20 Of His Best",
-        "url": "https://open.spotify.com/album/3eTEUdyzfz0lK2drXtcYt0"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 161440,
-      "name": "Fraulein",
-      "url": "https://open.spotify.com/track/763CAJyB9ZXHntB3QCpduv"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -1107,6 +1107,86 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "The Essential Hank Snow",
+        "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
+      },
+      "artists": [
+        {
+          "name": "Hank Snow & His Rainbow Ranch Boys",
+          "url": "https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd"
+        }
+      ],
+      "duration_ms": 175266,
+      "name": "I Don't Hurt Anymore - Remastered",
+      "url": "https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "Heartbreak USA 1953-1962",
+        "url": "https://open.spotify.com/album/66M7jYsBkIHRd1ToZ2TYko"
+      },
+      "artists": [
+        {
+          "name": "Kitty Wells",
+          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/6CFckB9Rn0ptccgUwQylnR"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "Red Hot / Pearly Lee",
+        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "duration_ms": 149705,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "How's the World Treating You",
+      "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -1132,73 +1212,9 @@
           "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
         }
       ],
-      "duration_ms": 179600,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/62RfCZpT2zfBHRXD8yp2WV"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "Heartbreak USA 1953-1962",
-        "url": "https://open.spotify.com/album/66M7jYsBkIHRd1ToZ2TYko"
-      },
-      "artists": [
-        {
-          "name": "Kitty Wells",
-          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/6CFckB9Rn0ptccgUwQylnR"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "The Essential Hank Snow",
-        "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
-      },
-      "artists": [
-        {
-          "name": "Hank Snow & His Rainbow Ranch Boys",
-          "url": "https://open.spotify.com/artist/5guzUU95QNbzR8NalrE8kd"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "I Don't Hurt Anymore - Remastered",
-      "url": "https://open.spotify.com/track/52o7DuuvSLrk6ffYqVphMo"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "How's the World Treating You",
-      "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "Red Hot / Pearly Lee",
-        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
-      },
-      "artists": [
-        {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
-        }
-      ],
-      "duration_ms": 149705,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
+      "duration_ms": 168106,
+      "name": "Invitation to the Blues",
+      "url": "https://open.spotify.com/track/0C7M2eMM22PSLOGE1v8oTr"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -1215,22 +1231,6 @@
       "duration_ms": 146866,
       "name": "Forgive Me, John",
       "url": "https://open.spotify.com/track/4F5fTQXxGmKr83qb1aFghk"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
-        "name": "Patsy Cline",
-        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 147440,
-      "name": "Don't Ever Leave Me Again",
-      "url": "https://open.spotify.com/track/3tg51RdnZhCa2smOP9ShYH"
     }
   ],
   "unique_name": "50s Country",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Sonidos latinos para relajarse a cualquier hora del d\u00eda. Foto: Be\u00e9le",
+  "description": "Sonidos latinos para relajarse a cualquier hora del d\u00eda. Foto: Criss & Ronny y Kapo",
   "name": "Vibra Chill",
   "tracks": [
     {
@@ -797,6 +797,32 @@
     },
     {
       "album": {
+        "name": "LA MORAL",
+        "url": "https://open.spotify.com/album/2I4d4LqdDeCse8ZYiWHBGC"
+      },
+      "artists": [
+        {
+          "name": "Criss & Ronny",
+          "url": "https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "La Colectiva \u00c9lite",
+          "url": "https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "EL STICKER",
+      "url": "https://open.spotify.com/track/51fjeEQR84knHbPr7aLZNA"
+    },
+    {
+      "album": {
         "name": "En Las Buenas y En Las Malas",
         "url": "https://open.spotify.com/album/0Ekx1GipeSlqP0T4Gn1Q1h"
       },
@@ -826,7 +852,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 169200,
       "name": "ESA SE\u00d1ORA",
       "url": "https://open.spotify.com/track/6TakRkJbqdcSWXNOS05QAq"

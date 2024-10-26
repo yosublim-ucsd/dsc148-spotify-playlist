@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "Se Ve Desde Aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264250,
+      "name": "Algo Grandioso",
+      "url": "https://open.spotify.com/track/79bJdwkdpJ8qRFYsatdFsj"
+    },
+    {
+      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -140,6 +158,24 @@
       "duration_ms": 260974,
       "name": "Calaveritas",
       "url": "https://open.spotify.com/track/1BmNqkmLmBqIU5ToPdbnnw"
+    },
+    {
+      "album": {
+        "name": "Me Chama De Gato Que Eu Sou Sua",
+        "url": "https://open.spotify.com/album/6UZpK4jB5MYVYJpwwi2mbP"
+      },
+      "artists": [
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234013,
+      "name": "Camelo Azul",
+      "url": "https://open.spotify.com/track/0VNECwUMDCBv5nykInHDc8"
     },
     {
       "album": {
@@ -288,6 +324,24 @@
       "duration_ms": 263034,
       "name": "Cruz de olvido",
       "url": "https://open.spotify.com/track/5k5Q2mJsySsSKJE6AkNT3U"
+    },
+    {
+      "album": {
+        "name": "Cuando se nos mueren los amores",
+        "url": "https://open.spotify.com/album/6W4jvb8vWYveJ724rxO7VQ"
+      },
+      "artists": [
+        {
+          "name": "Amaia Miranda",
+          "url": "https://open.spotify.com/artist/4ij2OlNjoDeAZBcqmOkqh8"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169087,
+      "name": "Cuando se nos mueren los amores",
+      "url": "https://open.spotify.com/track/6drK6yYc7DhIz8DoR0OWqZ"
     },
     {
       "album": {
@@ -771,6 +825,24 @@
     },
     {
       "album": {
+        "name": "La Negra Graciana Sones Jarochos con el Tr\u00edo Silva",
+        "url": "https://open.spotify.com/album/0AwXGaNwVEG2gAv9aA0Vne"
+      },
+      "artists": [
+        {
+          "name": "La Negra Graciana",
+          "url": "https://open.spotify.com/artist/446So3wX1wSbd6iPkVGR3X"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223866,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/7M7ncIlLc3kjrVCXUIQP3K"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/518olO2EkNkGlhoITehClz"
       },
@@ -822,6 +894,42 @@
       "duration_ms": 200026,
       "name": "La Negra",
       "url": "https://open.spotify.com/track/06V6z5CjWoyVOsHXR5PgR7"
+    },
+    {
+      "album": {
+        "name": "Omara Portuondo (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/1nEoXu83WPlqrfKAznidDw"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "La Sitiera",
+      "url": "https://open.spotify.com/track/0RNoltWT0pfyfjAWgLgUa9"
+    },
+    {
+      "album": {
+        "name": "La Candela Viva",
+        "url": "https://open.spotify.com/album/2UChA5fC8ycqyOJbMwjtZw"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "La Sombra Negra",
+      "url": "https://open.spotify.com/track/6L5FwfCRKxvquKxIMYDAvE"
     },
     {
       "album": {
@@ -952,6 +1060,24 @@
       "duration_ms": 249399,
       "name": "Mama Says",
       "url": "https://open.spotify.com/track/7DTyq8GK9kTCV3N65gkMPG"
+    },
+    {
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2hEqB0JliRzhmxRhyN9IEH"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234566,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/15QTKrbWHY653qgiKbfS16"
     },
     {
       "album": {
@@ -1357,6 +1483,28 @@
     },
     {
       "album": {
+        "name": "Lo Sagrado",
+        "url": "https://open.spotify.com/album/3S4lvCHMkqUzXhqAWbrMEg"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182303,
+      "name": "Pena Lunar",
+      "url": "https://open.spotify.com/track/5wi9HK1QZKEvsUSs5I1T7S"
+    },
+    {
+      "album": {
         "name": "D\u00eda de Muertos",
         "url": "https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh"
       },
@@ -1588,6 +1736,24 @@
       "duration_ms": 196984,
       "name": "Temes",
       "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
+    },
+    {
+      "album": {
+        "name": "Alegor\u00eda",
+        "url": "https://open.spotify.com/album/5SNFzSy9oJlTuqmwP52XhV"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272458,
+      "name": "Til Waking Light",
+      "url": "https://open.spotify.com/track/17a9KVjrHx0ykYuNfyyEMX"
     },
     {
       "album": {

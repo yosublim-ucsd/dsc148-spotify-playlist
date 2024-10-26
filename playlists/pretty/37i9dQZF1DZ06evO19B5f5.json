@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAC82EhyiuBy5PfcrabmuH9Z",
+  "snapshot_id": "ZxmOAAAAAAAwm1YaIrNst+W1srMYVCZD",
   "tracks": [
     {
       "added_at": null,
@@ -123,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hanging By Your Halo",
-        "url": "https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR"
+        "name": "Empathy (MUNA Remix)",
+        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
       },
       "artists": [
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 195697,
-      "name": "Hanging By Your Halo",
-      "url": "https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD"
+      "duration_ms": 188369,
+      "name": "Empathy - MUNA Remix",
+      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
     },
     {
       "added_at": null,
@@ -155,22 +159,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empathy (MUNA Remix)",
-        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
+        "name": "Hanging By Your Halo",
+        "url": "https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR"
       },
       "artists": [
         {
           "name": "Lauren Aquilina",
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 188369,
-      "name": "Empathy - MUNA Remix",
-      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
+      "duration_ms": 195697,
+      "name": "Hanging By Your Halo",
+      "url": "https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 111780,
-      "name": "Teenage Self",
-      "url": "https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR"
+      "duration_ms": 195250,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
         }
       ],
-      "duration_ms": 195250,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/3rncf1MzF1nnqPPCt9TORS"
+      "duration_ms": 111780,
+      "name": "Teenage Self",
+      "url": "https://open.spotify.com/track/6OldSvtQa4kQoTSaWzsSlR"
     },
     {
       "added_at": null,

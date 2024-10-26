@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 105150,
+  "num_followers": 105172,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
+        "name": "Aire para Vivir",
+        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
+      },
+      "artists": [
+        {
+          "name": "Laberinto ELC",
+          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
+        }
+      ],
+      "duration_ms": 223512,
+      "name": "Aire para Vivir",
+      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
+    },
+    {
+      "added_at": "2024-09-06 06:00:00",
+      "album": {
         "name": "Plomo en el Aire",
         "url": "https://open.spotify.com/album/45LpcCIYNG7CptIGvLcMhX"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 207804,
       "name": "Plomo en el Aire",
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
-    },
-    {
-      "added_at": "2024-09-06 06:00:00",
-      "album": {
-        "name": "Aire para Vivir",
-        "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
-      },
-      "artists": [
-        {
-          "name": "Laberinto ELC",
-          "url": "https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu"
-        }
-      ],
-      "duration_ms": 223512,
-      "name": "Aire para Vivir",
-      "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Benedicto",
-        "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
+        "name": "Intraterreno",
+        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
       },
       "artists": [
         {
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
         }
       ],
-      "duration_ms": 194666,
-      "name": "Benedicto",
-      "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
+      "duration_ms": 234428,
+      "name": "Intraterreno",
+      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
     },
     {
       "added_at": "2024-09-06 06:00:00",
@@ -1271,8 +1271,8 @@
     {
       "added_at": "2024-09-06 06:00:00",
       "album": {
-        "name": "Intraterreno",
-        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
+        "name": "Benedicto",
+        "url": "https://open.spotify.com/album/73R2cCN0UrSP3CvaDZ7ZGw"
       },
       "artists": [
         {
@@ -1280,9 +1280,9 @@
           "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
         }
       ],
-      "duration_ms": 234428,
-      "name": "Intraterreno",
-      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
+      "duration_ms": 194666,
+      "name": "Benedicto",
+      "url": "https://open.spotify.com/track/7FGDgc6tYMmK2BMavtJf6h"
     },
     {
       "added_at": "2024-09-06 06:00:00",

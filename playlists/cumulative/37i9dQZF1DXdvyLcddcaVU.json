@@ -1283,6 +1283,28 @@
     },
     {
       "album": {
+        "name": "Jok'travolta",
+        "url": "https://open.spotify.com/album/0AXwsQqbAnJ4Ndi9vxpduV"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Mallaury",
+          "url": "https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317404,
+      "name": "Bonbon \u00e0 la menthe",
+      "url": "https://open.spotify.com/track/30RmEyZdIYdYpSTkMtgtKt"
+    },
+    {
+      "album": {
         "name": "BOOYAKASHA",
         "url": "https://open.spotify.com/album/53ZoT7nBjTNDuQYqo0TQrX"
       },
@@ -4248,6 +4270,24 @@
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
+    },
+    {
+      "album": {
+        "name": "I'M SORRY",
+        "url": "https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "I'M SORRY",
+      "url": "https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP"
     },
     {
       "album": {
@@ -8520,7 +8560,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167160,
       "name": "SAINT-TROPEZ",
       "url": "https://open.spotify.com/track/3Mbma25p8UwArob1tt5SPy"
@@ -9950,7 +9990,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 240535,
       "name": "Tu vas rien faire",
       "url": "https://open.spotify.com/track/3A3D6xWNthYOn1utv5NfwH"

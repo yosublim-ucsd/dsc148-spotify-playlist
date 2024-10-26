@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Best blends of Electronic music Across East Africa. Cover: Sofiya Nzau, Nomcebo Zekode, Fireboy DML",
+  "description": "Best blends of Electronic music Across East Africa. Cover: Sofiya Nzau",
   "name": "Oontz",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 325289,
       "name": "Dunguni feat Idd Aziz",
       "url": "https://open.spotify.com/track/3vIah0m7Mxv4BSk0LVpX6M"
@@ -1188,6 +1188,28 @@
       "duration_ms": 382439,
       "name": "Kamweretho",
       "url": "https://open.spotify.com/track/6NozWuL6Hclo1rPq66Ndbt"
+    },
+    {
+      "album": {
+        "name": "Karima (Chill House)",
+        "url": "https://open.spotify.com/album/12rSTqGtHCcLw6ujHOrcXY"
+      },
+      "artists": [
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "DJ Industrial Badger",
+          "url": "https://open.spotify.com/artist/1wR8tcE2I7KROCzEIDzeef"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281015,
+      "name": "Karima - Chill House",
+      "url": "https://open.spotify.com/track/1vjMgX1CbAeAWiZDA1pVsU"
     },
     {
       "album": {
@@ -2202,6 +2224,28 @@
       "duration_ms": 205781,
       "name": "Need You Here - Classic Radio Cut",
       "url": "https://open.spotify.com/track/2k59VYohDddyeVXdvTb5lw"
+    },
+    {
+      "album": {
+        "name": "Ngala",
+        "url": "https://open.spotify.com/album/02WgMOdjlRhgPuttbM6icT"
+      },
+      "artists": [
+        {
+          "name": "just a boy",
+          "url": "https://open.spotify.com/artist/0WhqkeVxDe4iNgfhcPdN0Z"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195737,
+      "name": "Ngala - Radio Edit",
+      "url": "https://open.spotify.com/track/70OhtUVCWDIUugd6y8L7ak"
     },
     {
       "album": {
@@ -3562,7 +3606,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 221039,
       "name": "Walking On Water",
       "url": "https://open.spotify.com/track/6krVefZEplWKpATeUAZc1D"

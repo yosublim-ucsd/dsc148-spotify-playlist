@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest straight bars and Afro-Trap. Cover: Phyno",
+  "description": "The latest straight bars and Afro-Trap. Cover: Black Sherif",
   "name": "Afro Bars ",
   "tracks": [
     {
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 277132,
       "name": "Depression (feat. Holy Ten)",
       "url": "https://open.spotify.com/track/7fikIBIhVSFmBE3ygAXpY5"
@@ -3121,6 +3121,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181460,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq"
+    },
+    {
+      "album": {
         "name": "Son Of Jacob",
         "url": "https://open.spotify.com/album/2cdAiFntbOi3Yr6nRkDlzC"
       },
@@ -4488,7 +4510,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 153893,
       "name": "OH NO",
       "url": "https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR"
@@ -4958,6 +4980,46 @@
       "duration_ms": 209543,
       "name": "Put Your Hands Up",
       "url": "https://open.spotify.com/track/6od2XO9Tr80jHwNwXSNLR6"
+    },
+    {
+      "album": {
+        "name": "Loyal To The Plug : The Life & Times Of Don Kilograms",
+        "url": "https://open.spotify.com/album/6WHgxLiN57AC7KZm7eUtuj"
+      },
+      "artists": [
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237410,
+      "name": "Real Is Rare (feat. Nasty C)",
+      "url": "https://open.spotify.com/track/5fR8jaCoCB932SimKIcGrr"
+    },
+    {
+      "album": {
+        "name": "Rebel Music",
+        "url": "https://open.spotify.com/album/2Cp4EexmXeDgaxOe2ldAZT"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161428,
+      "name": "Rebel Music",
+      "url": "https://open.spotify.com/track/6Yao9XJedGa6cFON02GIVV"
     },
     {
       "album": {
@@ -5460,7 +5522,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 207000,
       "name": "SLIM YOUNG",
       "url": "https://open.spotify.com/track/1MxnEQyuTCuqALGU9UfYlk"

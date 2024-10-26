@@ -4055,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "Ch\u0103m Hoa",
+        "url": "https://open.spotify.com/album/1UcLMdWtu9nmgZfDRNtdan"
+      },
+      "artists": [
+        {
+          "name": "MONO",
+          "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211111,
+      "name": "Ch\u0103m Hoa",
+      "url": "https://open.spotify.com/track/40pWxpbXoBYGPCiofujjZ6"
+    },
+    {
+      "album": {
         "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
         "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
       },
@@ -9150,7 +9168,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 271704,
       "name": "id 072019",
       "url": "https://open.spotify.com/track/1o6cYDMHvKOfizi4d9Lqxr"
@@ -16308,7 +16326,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 223200,
       "name": "Say Yes (Vietnamese Version)",
       "url": "https://open.spotify.com/track/7mbWwlHgukuuW8r7Nc3FHv"
@@ -22784,6 +22802,28 @@
       "duration_ms": 189629,
       "name": "\u1ed4n Kh\u00f4ng, Br\u00f4 (feat. 24k.Right & Yuno Bigboi)",
       "url": "https://open.spotify.com/track/1XEOrZGHhmBxYciyWkkrs3"
+    },
+    {
+      "album": {
+        "name": "\u1eea Th\u00ec Chia Tay (feat. RHYDER)",
+        "url": "https://open.spotify.com/album/3x6Akqc71UWrnBGkU9DmWl"
+      },
+      "artists": [
+        {
+          "name": "Captain",
+          "url": "https://open.spotify.com/artist/1pKPrziZw7C4GvOlBIXqP5"
+        },
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239307,
+      "name": "\u1eea Th\u00ec Chia Tay (feat. RHYDER)",
+      "url": "https://open.spotify.com/track/0HAfl1uPBf5qTMiuAi6Ym7"
     },
     {
       "album": {

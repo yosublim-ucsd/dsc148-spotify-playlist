@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Little Big Town
 
-119 songs - 6 hr 20 min
+123 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Beautiful Star of Bethlehem](https://open.spotify.com/track/7FFXfYeF3H1IsSUbwyk3kC) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Beautiful Star of Bethlehem](https://open.spotify.com/album/64TNhQ20gsVJBPaoZatLmx) | 3:26 | 2023-11-24 | 2024-10-19 |
 | [Beer For Santa](https://open.spotify.com/track/4ICAhUbEfwUKY5MU6E06Wm) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 2:52 | 2023-11-24 | 2024-10-19 |
 | [Bloody Mary Christmas](https://open.spotify.com/track/5UyZESGfL3aX9CGhRlfWs7) | [Hannah Dasher](https://open.spotify.com/artist/60JD0JML3KiTHFkKNGv16e) | [Bloody Mary Christmas](https://open.spotify.com/album/5LDAMafiQOMcvNoHU0HoNI) | 2:09 | 2023-12-01 | 2024-10-19 |
+| [Blue Christmas](https://open.spotify.com/track/0URDPKwJPDBxArWaCpl1yM) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Blue Christmas](https://open.spotify.com/album/5j6ScOsf4Gdg2lwOiUHAft) | 3:12 | 2024-10-25 |  |
 | [Blue Christmas](https://open.spotify.com/track/3p47LAxCgFOSmgj20WqBdH) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Blue Christmas](https://open.spotify.com/album/51qIyccjvJCDMNW2L5K7xi) | 2:08 | 2024-10-18 |  |
 | [Blue Christmas](https://open.spotify.com/track/2WMcDvJi0430qJkerFGLem) | [Colin Stough](https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds) | [Blue Christmas](https://open.spotify.com/album/4dnJZEUrAovhbUK1xzGEk2) | 2:35 | 2023-11-24 | 2024-10-19 |
 | [Blue Christmas](https://open.spotify.com/track/7bPW9SCgNTkATn4bogwQyW) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Blue Christmas](https://open.spotify.com/album/1wQDiRoDF4Y0SGLHG8BdVi) | 2:08 | 2023-11-24 | 2024-10-19 |
@@ -51,11 +52,13 @@
 | [Glow](https://open.spotify.com/track/1mFwsE8rLoLibx19s8bXac) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Christmas Record](https://open.spotify.com/album/5Zsa3FJk4cjhuvUbtOZzmD) | 3:21 | 2024-10-04 |  |
 | [Hallelujah](https://open.spotify.com/track/3werrgm6Ubsn9E002AvrPk) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [Hallelujah](https://open.spotify.com/album/2bIViPfmWVNHZMFvtwrhwj) | 3:51 | 2023-11-24 | 2024-10-19 |
 | [Hallelujah \- Acoustic](https://open.spotify.com/track/4hD9yHWtNlqm9O23KlB5Xn) | [Whey Jennings](https://open.spotify.com/artist/7fHYfHcaxpeTSz9zfvtBvm) | [Hallelujah \(Acoustic\)](https://open.spotify.com/album/39RAwq6SPA2NVC28G1A31h) | 5:33 | 2023-11-24 | 2024-10-19 |
+| [Happy Trails](https://open.spotify.com/track/1WRNwhOwNDBxKpkXMeV1zK) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Happy Trails](https://open.spotify.com/album/692vnJ4ZSRqgoCldC2zmGr) | 3:07 | 2024-10-25 |  |
 | [Hard Candy Christmas](https://open.spotify.com/track/70z0rebvMVZNPJwB2LYC8u) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Hard Candy Christmas](https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl) | 3:27 | 2023-11-24 | 2024-10-19 |
 | [Hard Candy Christmas](https://open.spotify.com/track/5j0cJnxgBeHAPw02it3R64) | [Rachel Edge](https://open.spotify.com/artist/5KW8PdAs3eCFWi7dAoEIM8), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Hard Candy Christmas](https://open.spotify.com/album/5mpRAA2ljY76uCnCu1cJRK) | 3:32 | 2023-11-24 | 2024-10-19 |
 | [Hard Candy Christmas](https://open.spotify.com/track/29ndsk3u476Z2EsLzcvlF6) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [For You For Christmas](https://open.spotify.com/album/6DTy9NvZKKEFhixx3Qra3s) | 3:34 | 2023-11-24 | 2024-10-19 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2yl1PQ1M2lEzISV7xemFee) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/6aZuXbMJjFf8zcbA27h3HD) | 4:34 | 2023-11-24 | 2024-10-19 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/77aDdG4vLSFn4sEM3burtJ) | [Emily Brooke](https://open.spotify.com/artist/4dfyNWkaqn6t6MEUOOgMDl) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7djQadfzYqqFoggnnJiheR) | 4:05 | 2023-12-08 | 2024-10-19 |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0sWdvAS5A2CP2rCHEBe45J) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7Aot2bMAZtbbNU1PF8l8kB) | 3:27 | 2024-10-25 |  |
 | [Holiday Road](https://open.spotify.com/track/6iv3rsnlG2NKFuIh5t3uT1) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Holiday Road](https://open.spotify.com/album/7CHqXHrygge73VcQKj6Vva) | 2:08 | 2023-11-24 | 2024-10-19 |
 | [Hot Pink Christmas](https://open.spotify.com/track/1RQWYbbVJCsQErc09l3VVQ) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Hot Pink Christmas](https://open.spotify.com/album/2LIjyzfiw867GA7EJ477ZT) | 2:36 | 2023-11-24 | 2024-10-19 |
 | [Hurry Up Christmas](https://open.spotify.com/track/4bEAALwyWpypPXSG85C9I7) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Hurry Up Christmas](https://open.spotify.com/album/6f0xVeaoyY2X0mbjhJ60Ej) | 2:47 | 2023-12-22 | 2024-10-19 |
@@ -65,6 +68,7 @@
 | [I Want a Massey Ferguson for Christmas](https://open.spotify.com/track/7kQBtVQz6XYLoXlpH1fxWD) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [I Want a Massey Ferguson for Christmas](https://open.spotify.com/album/5WkUk0rR0lrZ0Sh4tPaVid) | 2:42 | 2023-11-24 | 2024-10-19 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/0R6zcgvV4ysqWeE1dmL5N8) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [My Favorite Christmas / I'll Be Home For Christmas](https://open.spotify.com/album/33xlOJnpWnSJZpEhPs1Rav) | 2:49 | 2023-11-24 | 2024-10-19 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/7zNeDg8NYqlYTZZIvQN4SA) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [I'll Be Home for Christmas](https://open.spotify.com/album/2uNtbFRwfyGWcAfA0mq6j5) | 2:28 | 2024-10-18 |  |
+| [I'll Be Home For Christmas](https://open.spotify.com/track/1GjuT0FXHHve3t5CzqU9Wd) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [I'll Be Home For Christmas](https://open.spotify.com/album/3obmcueQA0HPnQcUmYykic) | 3:20 | 2024-10-25 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/5sZqSQJCMgJefuJvkgXLjt) | [Sarah Lake](https://open.spotify.com/artist/5CFrJThh3hNdK5iDk7iLZq) | [Underneath the Lights](https://open.spotify.com/album/1Q2sj6o2pClBgTqddcpUDM) | 2:44 | 2023-12-01 | 2024-10-19 |
 | [I'll Be Home For Christmas](https://open.spotify.com/track/0uRNguwONoOyXNVxiClRb8) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [I'll Be Home for Christmas](https://open.spotify.com/album/6hhqqTgsqc7gBcRDnGWK9a) | 2:47 | 2023-11-24 | 2024-10-19 |
 | [It Ain't Christmas](https://open.spotify.com/track/0JEGg96XY7WLsBqNuYhZMx) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [It Ain't Christmas](https://open.spotify.com/album/1r3dY7ccpCBc7GGobwmxv8) | 2:45 | 2023-11-24 | 2024-10-19 |

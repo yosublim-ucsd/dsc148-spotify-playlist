@@ -2,9 +2,9 @@
 
 ### [folk & primavera](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> indie folk latino de estación\. Foto: Masquemusica y pau
+> indie folk latino de estación\. Foto: Pol Nada
 
-311 songs - 16 hr 58 min
+313 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 | 2023-07-21 | 2024-09-27 |
 | [Amigos](https://open.spotify.com/track/3paGS7YujQAdNtfVUVMo7m) | [Cineplexx](https://open.spotify.com/artist/3lYwzzMJbMCXmBqjo0OdSz), [Sabina Odone](https://open.spotify.com/artist/6RCzTQcz74WFBYsX0xz9Pj) | [Amigos](https://open.spotify.com/album/4BZG3VdjcUO9c0fRoUaKHj) | 3:34 | 2023-10-06 | 2023-12-03 |
 | [Amigos \(feat\. Cítrico\)](https://open.spotify.com/track/7zch2Pebu5SNBpglgHkjze) | [Dharma y Flora](https://open.spotify.com/artist/5jjs8LaABvB8WZpahQ0CwO), [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Conversaciones con tu Inteligencia Artificial](https://open.spotify.com/album/75TPQ7YXEBSHV5Xk4FvGWX) | 3:58 | 2023-05-26 | 2023-07-22 |
+| [Amigos Animales \(Acústico\) \- Edición 2024](https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Te vamos a salvar](https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW) | 2:41 | 2024-10-25 |  |
 | [Amor Con Filo](https://open.spotify.com/track/0c9mfOt1GwupTmognEOAPA) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Amor Con Filo](https://open.spotify.com/album/7KsYE758XsdXbAz16k5mPt) | 2:58 | 2022-07-15 | 2022-12-05 |
 | [Amor Con Filo](https://open.spotify.com/track/0wq8bmjHq0ECOj2BpivYhX) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Dark Folk, Vol.1](https://open.spotify.com/album/59wOCZe4HNPLWKkFnnlXcu) | 2:58 | 2022-11-11 | 2023-04-15 |
 | [Amor Con Filo](https://open.spotify.com/track/3hzxwtypvjo7qqy8umK66X) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Amor Con Filo](https://open.spotify.com/album/5LZTVKoO09QDaADq6ij0Sj) | 2:58 | 2022-05-20 | 2022-07-29 |
@@ -67,7 +68,7 @@
 | [Comerte la boca \(Nos Vamos a Comer\)](https://open.spotify.com/track/51O0WXWf7ZrcNGuNWCzfWl) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [laia](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Comerte la boca \(Nos Vamos a Comer\)](https://open.spotify.com/album/7F2KSKTlQTkbKRS1DSeSo1) | 2:27 | 2024-10-17 |  |
 | [Comida China](https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Comida China](https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5) | 2:42 | 2024-09-26 |  |
 | [Como un Guiri en Barcelona](https://open.spotify.com/track/0zcYD8Zlb0I16N2R8Kvh9p) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Como un Guiri en Barcelona](https://open.spotify.com/album/4SzF2zbG8gGvGWTqmz1GAm) | 3:20 | 2022-07-15 | 2024-09-27 |
-| [Como una Flecha](https://open.spotify.com/track/3IH0Pa6AE7ewuDUCg1S2Hs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Como una Flecha](https://open.spotify.com/album/4LfSDMEhgIHztOk83kg822) | 4:11 | 2022-05-20 |  |
+| [Como una Flecha](https://open.spotify.com/track/3IH0Pa6AE7ewuDUCg1S2Hs) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Como una Flecha](https://open.spotify.com/album/4LfSDMEhgIHztOk83kg822) | 4:11 | 2022-05-20 | 2024-10-26 |
 | [Como una Flecha](https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Lo Que Llega La Primavera](https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig) | 4:11 | 2022-07-15 | 2024-04-19 |
 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 | 2022-11-11 | 2023-10-07 |
 | [Conciencia Universal](https://open.spotify.com/track/7sL5ZqHuvdxvPwLrFcPBIk) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [AUTOERÓTICA](https://open.spotify.com/album/10gpZUC8ob0G5jbU3lKxtA) | 2:24 | 2022-05-20 | 2022-08-27 |
@@ -177,7 +178,7 @@
 | [Meteorito](https://open.spotify.com/track/6chRwUZxC2L09DokRfZVAZ) | [Lupe Alvarez](https://open.spotify.com/artist/6P6rNCUzVaHoz71C2EDr5X) | [Meteorito](https://open.spotify.com/album/4nRJxicIb0T5H78HR9vaoe) | 3:17 | 2022-05-20 | 2023-04-09 |
 | [Mi Droga Favorita](https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Mi Droga Favorita](https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL) | 2:55 | 2023-06-09 | 2024-09-27 |
 | [Mi lugar en el mundo](https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Mi lugar en el mundo](https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC) | 3:32 | 2023-04-07 |  |
-| [Miel](https://open.spotify.com/track/2WawgpEKS68gge1UzxWPsZ) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda De Uva](https://open.spotify.com/album/3q27k8OWdFA5FzovcQXWRI) | 2:42 | 2022-07-15 |  |
+| [Miel](https://open.spotify.com/track/2WawgpEKS68gge1UzxWPsZ) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda De Uva](https://open.spotify.com/album/3q27k8OWdFA5FzovcQXWRI) | 2:42 | 2022-07-15 | 2024-10-26 |
 | [Miel](https://open.spotify.com/track/51DZ9VadidpYkJdeRHt5x5) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/0QGStanmJCDLF3Yn60pJBc) | 2:42 | 2022-08-26 | 2022-09-15 |
 | [Miel](https://open.spotify.com/track/5JdlC0CC89wD1UHJBENJRY) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soda de Uva](https://open.spotify.com/album/54waWoWfW7gIfuZ4EvdrXc) | 2:42 | 2022-07-15 | 2024-04-04 |
 | [miel <3](https://open.spotify.com/track/6yaGq15NkA6cho4zUUfn5w) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [miel <3](https://open.spotify.com/album/6HsQoY5d6BWRwcQF308Vpw) | 3:23 | 2022-05-20 | 2024-09-27 |
@@ -300,6 +301,7 @@
 | [Una Temporada Más](https://open.spotify.com/track/5SheSZIqwxXdcT8WmR8MuJ) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Una Temporada Más](https://open.spotify.com/album/1AqD5EurwXoswt2n4c4Ptl) | 2:59 | 2023-07-21 | 2023-10-07 |
 | [Universos Distintos](https://open.spotify.com/track/021ixWdzxdf61Jx5qEqqSY) | [Maca Mona Mu](https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz), [André Prando](https://open.spotify.com/artist/4FMAZRPuZfvwhx7nMywkZk) | [Universos Distintos](https://open.spotify.com/album/0UB9bGnLYP2xs4YK9CweHw) | 3:52 | 2023-04-07 | 2023-06-23 |
 | [UY!](https://open.spotify.com/track/3xzbZlEFziTKAT9Id5oVdg) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw), [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn) | [UY!](https://open.spotify.com/album/26eLXyKicJJrQDxqg4RB25) | 2:16 | 2023-04-07 | 2023-10-07 |
+| [V13](https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [V13](https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ) | 2:55 | 2024-10-25 |  |
 | [Vaivén](https://open.spotify.com/track/0hb6NX7Ig8bVElKHsUXIGF) | [Laura Mb](https://open.spotify.com/artist/4xJsi1cJsyhCBF0xXFYIWh), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Vaivén](https://open.spotify.com/album/7oqsipt6BbD3jStDKZphgf) | 2:44 | 2022-05-20 | 2022-07-16 |
 | [Vaivén](https://open.spotify.com/track/7sYPv6R2PrUICT4CUv05hN) | [Laura Mb](https://open.spotify.com/artist/4xJsi1cJsyhCBF0xXFYIWh), [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Ciclo](https://open.spotify.com/album/4D2vFTNVmpXDj4nvBGgOGJ) | 2:44 | 2022-05-20 | 2023-07-08 |
 | [Vamos a Lograrlo](https://open.spotify.com/track/40ZVfn7C1AKYtPDK6Cm1H2) | [Tobe](https://open.spotify.com/artist/3GhK9yarHU8W0EZeKQThHY), [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Vamos a Lograrlo](https://open.spotify.com/album/1oJ242jCFlXM34tvvWrdYo) | 3:32 | 2023-04-07 | 2023-05-28 |

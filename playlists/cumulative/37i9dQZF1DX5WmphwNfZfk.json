@@ -3551,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "DIARY FOR THE LONELY HEARTS",
+        "url": "https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230445,
+      "name": "BITE THE APPLE",
+      "url": "https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC"
+    },
+    {
+      "album": {
         "name": "BITTER",
         "url": "https://open.spotify.com/album/5oFxHBhSxMPLC2dSJufqDw"
       },
@@ -27790,7 +27808,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 283758,
       "name": "SILVER LINING",
       "url": "https://open.spotify.com/track/2R3kVpQXs8JDxPDTaxVCI0"

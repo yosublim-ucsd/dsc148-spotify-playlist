@@ -1,6 +1,6 @@
 {
   "description": "If it's buzzing, it's here. The hottest new songs of the week. Cover: Morgan Wallen",
-  "num_followers": 866318,
+  "num_followers": 866338,
   "original_name": "Singled Out",
   "owner": {
     "name": "Spotify",
@@ -454,6 +454,10 @@
         {
           "name": "Queen Naija",
           "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
       "duration_ms": 237144,

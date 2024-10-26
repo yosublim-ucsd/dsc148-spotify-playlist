@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 
 > Collection of the greatest songs from Makoto Shinkai's movies, including the latest movie, <a href="https://suzume\-tojimari\-movie.jp/">"Suzume"</a>\.   2022 "Suzume" Film Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,943 likes - 66 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,965 likes - 66 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 | 44 | [『天気の子』のテーマ](https://open.spotify.com/track/3UuAQ0XOaXZjzW7TkLRTGt) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [天気の子](https://open.spotify.com/album/6IScXwjWgXRIwD5S2MsJNk) | 0:41 |
 | 45 | [花火大会](https://open.spotify.com/track/5yjKQiYC6adVYIiZXc5F8p) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [天気の子](https://open.spotify.com/album/6IScXwjWgXRIwD5S2MsJNk) | 3:04 |
 | 46 | [なんでもないや \- movie ver.](https://open.spotify.com/track/3SMpsXpVrFju2OUzFtJPws) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 5:44 |
-| 47 | [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:44 |
-| 48 | [スパークル \- movie ver.](https://open.spotify.com/track/1TFv0KXyFvC7eCP2ury0KV) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 8:54 |
+| 47 | [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:45 |
+| 48 | [スパークル \- movie ver.](https://open.spotify.com/track/1TFv0KXyFvC7eCP2ury0KV) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 8:57 |
 | 49 | [夢灯籠](https://open.spotify.com/track/5FrUxf3z2YVITqY6RoTBfv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/6WCvvOVLoJQZH82bgyr9DK) | 2:09 |
-| 50 | [かたわれ時](https://open.spotify.com/track/4JDoQtnYVo8Nl2S8MrwXX0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:47 |
+| 50 | [かたわれ時](https://open.spotify.com/track/4JDoQtnYVo8Nl2S8MrwXX0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:50 |
 | 51 | [三葉のテーマ](https://open.spotify.com/track/4UcgeBIpIrPE0pyPULsnLL) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/3EdXbBrRoTlWPo8K9dSiu2) | 4:02 |
 | 52 | [ふたりの異変](https://open.spotify.com/track/25NYRBvtC1fh2mii9WRn8W) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:36 |
 | 53 | [Rain](https://open.spotify.com/track/0U32q8CZRRo7xCzyiaZw5f) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [言ノ葉](https://open.spotify.com/album/0fBfQqaMCXmFe2rgHPi24t) | 4:53 |

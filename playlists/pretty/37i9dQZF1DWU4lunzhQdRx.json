@@ -1,6 +1,6 @@
 {
   "description": "are we okay? \ud83d\udc99",
-  "num_followers": 168846,
+  "num_followers": 168919,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "All I've Ever Known",
-        "url": "https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
-        }
-      ],
-      "duration_ms": 245987,
-      "name": "Everleave",
-      "url": "https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Every Little Thing",
         "url": "https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 180053,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/2wxfu24GQpEZQrjDJm5Ac1"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "duration_ms": 245987,
+      "name": "Everleave",
+      "url": "https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk"
     },
     {
       "added_at": "2024-08-09 04:00:00",

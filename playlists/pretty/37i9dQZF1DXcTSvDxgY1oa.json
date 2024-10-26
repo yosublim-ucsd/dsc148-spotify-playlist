@@ -1,6 +1,6 @@
 {
   "description": "S\u00e4m Wilder op de cover van de Popronde 2024. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. ",
-  "num_followers": 1814,
+  "num_followers": 1816,
   "original_name": "Popronde 2024",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Bricks",
+        "url": "https://open.spotify.com/album/2rhNRVQaqL1mhwXvC1gunX"
+      },
+      "artists": [
+        {
+          "name": "Parker Fans",
+          "url": "https://open.spotify.com/artist/1vY8fuL3kdwvvfdoMHwvsX"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/6dM1vcolkt9ft1HNpCbIyJ"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "SLANGENLAKKERS",
         "url": "https://open.spotify.com/album/70T1t8K3M10Qsq9zPMLmcZ"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Bricks",
-        "url": "https://open.spotify.com/album/2rhNRVQaqL1mhwXvC1gunX"
+        "name": "the social disconnection",
+        "url": "https://open.spotify.com/album/4JkpjPJ7gKpOTMXkVPhdl5"
       },
       "artists": [
         {
-          "name": "Parker Fans",
-          "url": "https://open.spotify.com/artist/1vY8fuL3kdwvvfdoMHwvsX"
+          "name": "Frerick Den Haan",
+          "url": "https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5"
         }
       ],
-      "duration_ms": 174306,
-      "name": "Bricks",
-      "url": "https://open.spotify.com/track/6dM1vcolkt9ft1HNpCbIyJ"
+      "duration_ms": 172374,
+      "name": "the social disconnection",
+      "url": "https://open.spotify.com/track/4goV1DysAzrdvBsGccwkaT"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -383,22 +399,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Zoete Verleiding",
-        "url": "https://open.spotify.com/album/1XbhxmewR0fZfncqBARZTD"
-      },
-      "artists": [
-        {
-          "name": "Jesse Hydro",
-          "url": "https://open.spotify.com/artist/2r9Lzj8IpPYpSqu47KYngJ"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Zoete Verleiding",
-      "url": "https://open.spotify.com/track/7bYmSmshiAPYhrYrZMfywU"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Leave It",
         "url": "https://open.spotify.com/album/7E6sAkTS8AjiDyoBhojZ04"
       },
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Zoete Verleiding",
+        "url": "https://open.spotify.com/album/1XbhxmewR0fZfncqBARZTD"
+      },
+      "artists": [
+        {
+          "name": "Jesse Hydro",
+          "url": "https://open.spotify.com/artist/2r9Lzj8IpPYpSqu47KYngJ"
+        }
+      ],
+      "duration_ms": 159100,
+      "name": "Zoete Verleiding",
+      "url": "https://open.spotify.com/track/7bYmSmshiAPYhrYrZMfywU"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "R\u00eaverie",
         "url": "https://open.spotify.com/album/5Kiks4Noq6GA4sbCfzn2W8"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 75000,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/09AsbZCJfiybFmWIfki6xL"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "the social disconnection",
-        "url": "https://open.spotify.com/album/4JkpjPJ7gKpOTMXkVPhdl5"
-      },
-      "artists": [
-        {
-          "name": "Frerick Den Haan",
-          "url": "https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5"
-        }
-      ],
-      "duration_ms": 172374,
-      "name": "the social disconnection",
-      "url": "https://open.spotify.com/track/4goV1DysAzrdvBsGccwkaT"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Windkracht 8",
-        "url": "https://open.spotify.com/album/0ZPr21jW83B6D0SIdEqRGF"
-      },
-      "artists": [
-        {
-          "name": "geosy",
-          "url": "https://open.spotify.com/artist/3nS38ibeuCXkxnkUiQ3ne5"
-        }
-      ],
-      "duration_ms": 162341,
-      "name": "Windkracht 8",
-      "url": "https://open.spotify.com/track/2WM4Y3iC9PzMMUGJ3trUhU"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "All Is Me",
         "url": "https://open.spotify.com/album/7cEgRgjGay0shcthca5IKR"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 194370,
       "name": "Old Town",
       "url": "https://open.spotify.com/track/3REox2ZEVX7XzbYjU3d5T2"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Windkracht 8",
+        "url": "https://open.spotify.com/album/0ZPr21jW83B6D0SIdEqRGF"
+      },
+      "artists": [
+        {
+          "name": "geosy",
+          "url": "https://open.spotify.com/artist/3nS38ibeuCXkxnkUiQ3ne5"
+        }
+      ],
+      "duration_ms": 162341,
+      "name": "Windkracht 8",
+      "url": "https://open.spotify.com/track/2WM4Y3iC9PzMMUGJ3trUhU"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/3LEUBYC0dxVu43CKR1Umgd"
-      },
-      "artists": [
-        {
-          "name": "Howen Justin",
-          "url": "https://open.spotify.com/artist/1LTaWRYPFuvUvthUmc5d8N"
-        }
-      ],
-      "duration_ms": 151730,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/1rYYVVhwcjvaA7fmuDffDf"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "blijven wachten",
         "url": "https://open.spotify.com/album/1HICjIiuveiZYINIyXo7PU"
       },
@@ -571,54 +555,6 @@
       "duration_ms": 186268,
       "name": "blijven wachten",
       "url": "https://open.spotify.com/track/3OBKQCcY4Tc19GMdD6Ker2"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "In All Honesty",
-        "url": "https://open.spotify.com/album/5gSfwa0bKxPNI5U2Id1f2N"
-      },
-      "artists": [
-        {
-          "name": "Romy Liz Rose",
-          "url": "https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS"
-        }
-      ],
-      "duration_ms": 308975,
-      "name": "In All Honesty",
-      "url": "https://open.spotify.com/track/00spVZlL4xAe2zT0t5EzoU"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Liever Lui Dan Moe",
-        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
-      },
-      "artists": [
-        {
-          "name": "R\u00f8yking",
-          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
-        }
-      ],
-      "duration_ms": 150233,
-      "name": "Liever Lui Dan Moe",
-      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Blushing Over Nothing",
-        "url": "https://open.spotify.com/album/0agxsN2RKY1dmUuqZtSd4I"
-      },
-      "artists": [
-        {
-          "name": "HUNK",
-          "url": "https://open.spotify.com/artist/1Et5MQj7bL3VRAXMYgShL1"
-        }
-      ],
-      "duration_ms": 173138,
-      "name": "Blushing Over Nothing",
-      "url": "https://open.spotify.com/track/05jB4DbQXCRTbtfhKHiJUl"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -639,6 +575,70 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3LEUBYC0dxVu43CKR1Umgd"
+      },
+      "artists": [
+        {
+          "name": "Howen Justin",
+          "url": "https://open.spotify.com/artist/1LTaWRYPFuvUvthUmc5d8N"
+        }
+      ],
+      "duration_ms": 151730,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/1rYYVVhwcjvaA7fmuDffDf"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Liever Lui Dan Moe",
+        "url": "https://open.spotify.com/album/7CM8TADIvf0PIttpNdeccU"
+      },
+      "artists": [
+        {
+          "name": "R\u00f8yking",
+          "url": "https://open.spotify.com/artist/1NtnritmdQdSfebKWpcJdp"
+        }
+      ],
+      "duration_ms": 150233,
+      "name": "Liever Lui Dan Moe",
+      "url": "https://open.spotify.com/track/3TXRQwgtqyRB4oQoOVNYb5"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "In All Honesty",
+        "url": "https://open.spotify.com/album/5gSfwa0bKxPNI5U2Id1f2N"
+      },
+      "artists": [
+        {
+          "name": "Romy Liz Rose",
+          "url": "https://open.spotify.com/artist/688s4LELC5ay7yZAdZ7LrS"
+        }
+      ],
+      "duration_ms": 308975,
+      "name": "In All Honesty",
+      "url": "https://open.spotify.com/track/00spVZlL4xAe2zT0t5EzoU"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Blushing Over Nothing",
+        "url": "https://open.spotify.com/album/0agxsN2RKY1dmUuqZtSd4I"
+      },
+      "artists": [
+        {
+          "name": "HUNK",
+          "url": "https://open.spotify.com/artist/1Et5MQj7bL3VRAXMYgShL1"
+        }
+      ],
+      "duration_ms": 173138,
+      "name": "Blushing Over Nothing",
+      "url": "https://open.spotify.com/track/05jB4DbQXCRTbtfhKHiJUl"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/3VVP1JgwaMQibLw1ui6CIi"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "My Old Friend",
-        "url": "https://open.spotify.com/album/62311EXoHOGTVNh6kINUHM"
-      },
-      "artists": [
-        {
-          "name": "Wortel",
-          "url": "https://open.spotify.com/artist/3RiUJH3gqK11PH3k4rd3Sz"
-        }
-      ],
-      "duration_ms": 192572,
-      "name": "My Old Friend",
-      "url": "https://open.spotify.com/track/1yI9R2L2y1AsuxfRNGqfpy"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "A Cure for My Feels",
         "url": "https://open.spotify.com/album/1TM9Q3z1AUgxJH8BALQzHg"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 197917,
       "name": "A Cure for My Feels",
       "url": "https://open.spotify.com/track/6ZlJabigzSaJz2iMMta2QF"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "My Old Friend",
+        "url": "https://open.spotify.com/album/62311EXoHOGTVNh6kINUHM"
+      },
+      "artists": [
+        {
+          "name": "Wortel",
+          "url": "https://open.spotify.com/artist/3RiUJH3gqK11PH3k4rd3Sz"
+        }
+      ],
+      "duration_ms": 192572,
+      "name": "My Old Friend",
+      "url": "https://open.spotify.com/track/1yI9R2L2y1AsuxfRNGqfpy"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Zoals Jij",
-        "url": "https://open.spotify.com/album/4uNTLh7yEtxmI40JBLymIA"
-      },
-      "artists": [
-        {
-          "name": "ANDRO",
-          "url": "https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5"
-        }
-      ],
-      "duration_ms": 129272,
-      "name": "Zoals Jij",
-      "url": "https://open.spotify.com/track/7mOnZDmJEpBrAPlWpSm4G9"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "High Wire",
         "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 126000,
       "name": "High Wire",
       "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Zoals Jij",
+        "url": "https://open.spotify.com/album/4uNTLh7yEtxmI40JBLymIA"
+      },
+      "artists": [
+        {
+          "name": "ANDRO",
+          "url": "https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5"
+        }
+      ],
+      "duration_ms": 129272,
+      "name": "Zoals Jij",
+      "url": "https://open.spotify.com/track/7mOnZDmJEpBrAPlWpSm4G9"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -755,38 +755,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Payback",
-        "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
-      },
-      "artists": [
-        {
-          "name": "State Power",
-          "url": "https://open.spotify.com/artist/2ZksA5DzgDlR4hTXquufqU"
-        }
-      ],
-      "duration_ms": 142386,
-      "name": "Payback",
-      "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Show Don't Tell",
-        "url": "https://open.spotify.com/album/1xUluMn9ZNIrWRF505SLIV"
-      },
-      "artists": [
-        {
-          "name": "Zuster Zonnebloem",
-          "url": "https://open.spotify.com/artist/3fQmJ7btxNtEE7TmkltLRe"
-        }
-      ],
-      "duration_ms": 237926,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/5HWcdjN8mdD2B0jbn96aoT"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Good Company",
         "url": "https://open.spotify.com/album/6nCiQeFyO9P57ltTcom8h5"
       },
@@ -803,6 +771,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Payback",
+        "url": "https://open.spotify.com/album/7k2jLfPPv0qYgpcg5B0mu9"
+      },
+      "artists": [
+        {
+          "name": "State Power",
+          "url": "https://open.spotify.com/artist/2ZksA5DzgDlR4hTXquufqU"
+        }
+      ],
+      "duration_ms": 142386,
+      "name": "Payback",
+      "url": "https://open.spotify.com/track/1H4PeFDmnt4QCRtJTVa7a0"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Take Me Somewhere Nice",
         "url": "https://open.spotify.com/album/7HypvdZKOCDMUFjKuhpa8W"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 175909,
       "name": "Take Me Somewhere Nice",
       "url": "https://open.spotify.com/track/5XzKAjlorf06g0LWQE3VYV"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Show Don't Tell",
+        "url": "https://open.spotify.com/album/1xUluMn9ZNIrWRF505SLIV"
+      },
+      "artists": [
+        {
+          "name": "Zuster Zonnebloem",
+          "url": "https://open.spotify.com/artist/3fQmJ7btxNtEE7TmkltLRe"
+        }
+      ],
+      "duration_ms": 237926,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/5HWcdjN8mdD2B0jbn96aoT"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Maar Verder Gaat Het Goed",
-        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
-      },
-      "artists": [
-        {
-          "name": "So-Fi",
-          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "In M'n Hoofd",
-      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "23 going on 18",
         "url": "https://open.spotify.com/album/1EYU7mpC2qzxDqg37sOF0V"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 227369,
       "name": "23 going on 18",
       "url": "https://open.spotify.com/track/3vn3Wzc3juvKqy4SZqTSZe"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Maar Verder Gaat Het Goed",
+        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
+      },
+      "artists": [
+        {
+          "name": "So-Fi",
+          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "In M'n Hoofd",
+      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -947,38 +947,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Everything I Need Is Here",
-        "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
-      },
-      "artists": [
-        {
-          "name": "Melanie Ryan",
-          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Everything I Need Is Here",
-      "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "jij praat. (blah blah blah)",
-        "url": "https://open.spotify.com/album/51jeR6roxJN0NW2ikwGOWM"
-      },
-      "artists": [
-        {
-          "name": "Lateesha",
-          "url": "https://open.spotify.com/artist/2x3xOxKdqWDBWDwnhHMaPm"
-        }
-      ],
-      "duration_ms": 155494,
-      "name": "jij praat. (blah blah blah)",
-      "url": "https://open.spotify.com/track/7d7Gbia7TnzFjpW758bhYx"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/5PUZVh3MqeYQHFeugwsmr7"
       },
@@ -1015,6 +983,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Everything I Need Is Here",
+        "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
+      },
+      "artists": [
+        {
+          "name": "Melanie Ryan",
+          "url": "https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Everything I Need Is Here",
+      "url": "https://open.spotify.com/track/1d2uzY2eIhYA1n7rcZpo2u"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Haya",
         "url": "https://open.spotify.com/album/5devPsxik1sqnsXgd2Qi3f"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 175264,
       "name": "Haya",
       "url": "https://open.spotify.com/track/653F68ka124m6JdlhwFWzU"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "jij praat. (blah blah blah)",
+        "url": "https://open.spotify.com/album/51jeR6roxJN0NW2ikwGOWM"
+      },
+      "artists": [
+        {
+          "name": "Lateesha",
+          "url": "https://open.spotify.com/artist/2x3xOxKdqWDBWDwnhHMaPm"
+        }
+      ],
+      "duration_ms": 155494,
+      "name": "jij praat. (blah blah blah)",
+      "url": "https://open.spotify.com/track/7d7Gbia7TnzFjpW758bhYx"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Zwemmen In Het Geld",
+        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
+      },
+      "artists": [
+        {
+          "name": "Zeevlinder",
+          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
+        }
+      ],
+      "duration_ms": 170883,
+      "name": "Zwemmen In Het Geld",
+      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "What's The Rush",
         "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Zwemmen In Het Geld",
-        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
+        "name": "Way Too Deep",
+        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
       },
       "artists": [
         {
-          "name": "Zeevlinder",
-          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
+          "name": "HALF CAB",
+          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
         }
       ],
-      "duration_ms": 170883,
-      "name": "Zwemmen In Het Geld",
-      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
+      "duration_ms": 157826,
+      "name": "Way Too Deep",
+      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Way Too Deep",
-        "url": "https://open.spotify.com/album/4NTIBkGxuLScx1ouZHgVEV"
-      },
-      "artists": [
-        {
-          "name": "HALF CAB",
-          "url": "https://open.spotify.com/artist/14iq2cRLRv8KvgXvFHaw34"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Way Too Deep",
-      "url": "https://open.spotify.com/track/1LAlC9JwewGe2aj9brUxrC"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Into the Blue",
         "url": "https://open.spotify.com/album/4LOWNnDcE1sQYwH5OF2IYs"
       },
@@ -1155,42 +1155,6 @@
       "duration_ms": 301764,
       "name": "Into the Blue",
       "url": "https://open.spotify.com/track/65HNcEd8xrfLA893lAXh5s"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "YOYO",
-        "url": "https://open.spotify.com/album/21uX5sFA6RULtHc25bFHBW"
-      },
-      "artists": [
-        {
-          "name": "ENJAKU YOYO",
-          "url": "https://open.spotify.com/artist/3UjMIKdyIpsjZG0VJgNv5n"
-        }
-      ],
-      "duration_ms": 283124,
-      "name": "YOYO",
-      "url": "https://open.spotify.com/track/6Tc9xfkxp7JscJMhlziEeL"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Chasing The Wind (Live At Wisseloord Studios)",
-        "url": "https://open.spotify.com/album/71JCkAkP5XbURrUemowSTI"
-      },
-      "artists": [
-        {
-          "name": "Jessy Yasmeen",
-          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
-        },
-        {
-          "name": "Bruno Balbi",
-          "url": "https://open.spotify.com/artist/2Edxc92fberv14mI76DdXA"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "Chasing The Wind - Live At Wisseloord Studios",
-      "url": "https://open.spotify.com/track/2BdkhNogmTSC1UUxO7VN0a"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1211,6 +1175,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "YOYO",
+        "url": "https://open.spotify.com/album/21uX5sFA6RULtHc25bFHBW"
+      },
+      "artists": [
+        {
+          "name": "ENJAKU YOYO",
+          "url": "https://open.spotify.com/artist/3UjMIKdyIpsjZG0VJgNv5n"
+        }
+      ],
+      "duration_ms": 283124,
+      "name": "YOYO",
+      "url": "https://open.spotify.com/track/6Tc9xfkxp7JscJMhlziEeL"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Black Beach",
         "url": "https://open.spotify.com/album/2beZWwj39t1TxNo76LzwUS"
       },
@@ -1227,18 +1207,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Shit / Verliefd",
-        "url": "https://open.spotify.com/album/0HnKzrvnp1QVtD0YzvhCe5"
+        "name": "Chasing The Wind (Live At Wisseloord Studios)",
+        "url": "https://open.spotify.com/album/71JCkAkP5XbURrUemowSTI"
       },
       "artists": [
         {
-          "name": "Loen",
-          "url": "https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp"
+          "name": "Jessy Yasmeen",
+          "url": "https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ"
+        },
+        {
+          "name": "Bruno Balbi",
+          "url": "https://open.spotify.com/artist/2Edxc92fberv14mI76DdXA"
         }
       ],
-      "duration_ms": 165490,
-      "name": "Shit / Verliefd",
-      "url": "https://open.spotify.com/track/1M9FawBXdGyOwLZw2RHLVE"
+      "duration_ms": 175750,
+      "name": "Chasing The Wind - Live At Wisseloord Studios",
+      "url": "https://open.spotify.com/track/2BdkhNogmTSC1UUxO7VN0a"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Shit / Verliefd",
+        "url": "https://open.spotify.com/album/0HnKzrvnp1QVtD0YzvhCe5"
+      },
+      "artists": [
+        {
+          "name": "Loen",
+          "url": "https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp"
+        }
+      ],
+      "duration_ms": 165490,
+      "name": "Shit / Verliefd",
+      "url": "https://open.spotify.com/track/1M9FawBXdGyOwLZw2RHLVE"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "I Can't Lie",
         "url": "https://open.spotify.com/album/1pDKBwfHmfCr5ycL7qnoGN"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "IK WIL EEN PORSCHE",
-        "url": "https://open.spotify.com/album/2t3zTQB3anbtFj9dTiAwPr"
-      },
-      "artists": [
-        {
-          "name": "Viccens",
-          "url": "https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7"
-        }
-      ],
-      "duration_ms": 126816,
-      "name": "IK WIL EEN PORSCHE",
-      "url": "https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Leave The Light On",
         "url": "https://open.spotify.com/album/0McGq9TH4ClPe1k6s9dOOk"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "the grand scheme of things",
-        "url": "https://open.spotify.com/album/779j4dby6PbXIkjin6ZaYe"
+        "name": "IK WIL EEN PORSCHE",
+        "url": "https://open.spotify.com/album/2t3zTQB3anbtFj9dTiAwPr"
       },
       "artists": [
         {
-          "name": "levi boon",
-          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
+          "name": "Viccens",
+          "url": "https://open.spotify.com/artist/2K8dGC0TSoOaL4DpuoZBB7"
         }
       ],
-      "duration_ms": 236117,
-      "name": "the grand scheme of things",
-      "url": "https://open.spotify.com/track/0I85pQRven0mpIXCVjxlmU"
+      "duration_ms": 126816,
+      "name": "IK WIL EEN PORSCHE",
+      "url": "https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1371,6 +1355,22 @@
       "duration_ms": 227354,
       "name": "Cemetery Caretaker",
       "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "the grand scheme of things",
+        "url": "https://open.spotify.com/album/779j4dby6PbXIkjin6ZaYe"
+      },
+      "artists": [
+        {
+          "name": "levi boon",
+          "url": "https://open.spotify.com/artist/67Q0IdGtQtelKSYP7ODrvQ"
+        }
+      ],
+      "duration_ms": 236117,
+      "name": "the grand scheme of things",
+      "url": "https://open.spotify.com/track/0I85pQRven0mpIXCVjxlmU"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "In Een Droom",
+        "url": "https://open.spotify.com/album/7qSBNNUBO79Z7zww0VaMns"
+      },
+      "artists": [
+        {
+          "name": "Waakhond",
+          "url": "https://open.spotify.com/artist/2ca4yBHf4MU0W2Cj6OTWwQ"
+        }
+      ],
+      "duration_ms": 207520,
+      "name": "In Een Droom",
+      "url": "https://open.spotify.com/track/4dgXbDNOn5c7fNlYI7CHG2"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "met de beste intenties",
         "url": "https://open.spotify.com/album/7xyCBVnKr0yey5G94w2Z6Z"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "In Een Droom",
-        "url": "https://open.spotify.com/album/7qSBNNUBO79Z7zww0VaMns"
+        "name": "Day n Night",
+        "url": "https://open.spotify.com/album/3FlftLqY9fgrTTGDy2fKLr"
       },
       "artists": [
         {
-          "name": "Waakhond",
-          "url": "https://open.spotify.com/artist/2ca4yBHf4MU0W2Cj6OTWwQ"
+          "name": "Sono",
+          "url": "https://open.spotify.com/artist/1rqTdeAUueerplGZnYHR39"
         }
       ],
-      "duration_ms": 207520,
-      "name": "In Een Droom",
-      "url": "https://open.spotify.com/track/4dgXbDNOn5c7fNlYI7CHG2"
+      "duration_ms": 239597,
+      "name": "Day n Night",
+      "url": "https://open.spotify.com/track/7dKN4FXutQJ89yJEKDOUVh"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1467,22 +1483,6 @@
       "duration_ms": 220068,
       "name": "FUEGO",
       "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Day n Night",
-        "url": "https://open.spotify.com/album/3FlftLqY9fgrTTGDy2fKLr"
-      },
-      "artists": [
-        {
-          "name": "Sono",
-          "url": "https://open.spotify.com/artist/1rqTdeAUueerplGZnYHR39"
-        }
-      ],
-      "duration_ms": 239597,
-      "name": "Day n Night",
-      "url": "https://open.spotify.com/track/7dKN4FXutQJ89yJEKDOUVh"
     },
     {
       "added_at": "2024-10-21 10:10:26",

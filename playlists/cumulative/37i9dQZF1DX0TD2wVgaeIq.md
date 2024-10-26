@@ -4,7 +4,7 @@
 
 > Beautiful bansuri flute and sitar from India.
 
-97 songs - 7 hr 49 min
+98 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Foreign Mists](https://open.spotify.com/track/020AoP6FK7YgDMMj3JFOtJ) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Foreign Mists](https://open.spotify.com/album/6EY0XdNwe6Br36lkhg7lKc) | 4:38 | 2023-03-09 | 2024-08-23 |
 | [Ganga Bliss](https://open.spotify.com/track/1sjQBblq55bICdWYxXWmSQ) | [Harshit Shankar](https://open.spotify.com/artist/1EFgrLcxuH1vQX6GiEui6R) | [Ganga Bliss](https://open.spotify.com/album/2zfyDcGE7MzVVU7k0hlQwG) | 2:02 | 2023-03-09 |  |
 | [Harmonious](https://open.spotify.com/track/1w83dXv1Q6za9P3oh8bujC) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Harmonious](https://open.spotify.com/album/6CkC2eoJZLZr73f2LVreEx) | 6:44 | 2023-03-09 | 2024-08-23 |
-| [Hope](https://open.spotify.com/track/65jM7hkw0Nm0fJMiVMYw5b) | [Inner Soundscape](https://open.spotify.com/artist/4kzC9vZGmg6KYDHlI7f3ce), [Jonas Sjöblom](https://open.spotify.com/artist/3jglZKe9rgIy3nielm7ORi) | [Hope](https://open.spotify.com/album/1szdQT7PlIeZaZQ06MkKP8) | 3:48 | 2024-07-18 |  |
+| [Healing Garden](https://open.spotify.com/track/6x7xECuEr6vwoNf3j7wb1z) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Healing Garden](https://open.spotify.com/album/5SpMwisr4L8bZYSrlPD32X) | 4:32 | 2024-10-25 |  |
+| [Hope](https://open.spotify.com/track/65jM7hkw0Nm0fJMiVMYw5b) | [Inner Soundscape](https://open.spotify.com/artist/4kzC9vZGmg6KYDHlI7f3ce), [Jonas Sjöblom](https://open.spotify.com/artist/3jglZKe9rgIy3nielm7ORi) | [Hope](https://open.spotify.com/album/1szdQT7PlIeZaZQ06MkKP8) | 3:48 | 2024-07-18 | 2024-10-26 |
 | [Kirwani](https://open.spotify.com/track/4UEde1mdBJZhBkK36imngG) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x), [Abhishek Borkar](https://open.spotify.com/artist/0gasFSqcbjVLnwk4pAeaD8) | [Relaxing Ragas, Vol\. 2](https://open.spotify.com/album/6Z0jzXiQFhTwGAjd7IWVNe) | 3:07 | 2023-03-09 | 2023-10-06 |
 | [Krishna's Bansuri](https://open.spotify.com/track/5UkTQNURKXrJ0lKRns4Vxi) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Krishna's Bansuri](https://open.spotify.com/album/2AqZxQZwDWHCcFbLqrPunj) | 3:53 | 2023-07-13 |  |
 | [Light of Life](https://open.spotify.com/track/7I3kU9x5m9fRjaD65u7KjD) | [Sufi Lounge](https://open.spotify.com/artist/4NmV2aAqjIDi2nVhKjsk39) | [Gift of Love](https://open.spotify.com/album/5U3YRKw8YVOjw6Rl6N2O6m) | 3:08 | 2023-03-09 |  |
@@ -78,7 +79,7 @@
 | [Raga Des Alap](https://open.spotify.com/track/4a5DylC4oxQbPV11a7kW1X) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 3:55 | 2023-03-09 |  |
 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 | 2023-03-09 |  |
 | [Raga Purya Kalyan \- Alap](https://open.spotify.com/track/4eKiGJ1AZae3uF17Rxf3CI) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Aradhana](https://open.spotify.com/album/2tGZD01y5HosmqD4Lssg9k) | 3:42 | 2023-03-09 |  |
-| [Restful Soul](https://open.spotify.com/track/5hh8fqY2bwggOlpxqdXKAT) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Soul](https://open.spotify.com/album/5gLOfe4Vaf4mESWj1M65v6) | 3:07 | 2023-03-09 |  |
+| [Restful Soul](https://open.spotify.com/track/5hh8fqY2bwggOlpxqdXKAT) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Restful Soul](https://open.spotify.com/album/5gLOfe4Vaf4mESWj1M65v6) | 3:07 | 2023-03-09 | 2024-10-26 |
 | [Restfulness](https://open.spotify.com/track/5ORh7rCujaHZVXNQyEWoIB) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Restfulness](https://open.spotify.com/album/7ei3rVMQEL0vgr5AsEXbsT) | 7:13 | 2023-03-09 |  |
 | [Rivers Of Flutes](https://open.spotify.com/track/6DewZxWwJwOTWeyIXsntrH) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Rivers Of Flutes](https://open.spotify.com/album/2b62YJsJ8REP4fGZKh9Qv7) | 7:25 | 2023-03-09 | 2023-10-06 |
 | [Romantic Dialogue](https://open.spotify.com/track/6oaUrDNJVKaODN1TWXcom5) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 3:12 | 2023-03-09 |  |

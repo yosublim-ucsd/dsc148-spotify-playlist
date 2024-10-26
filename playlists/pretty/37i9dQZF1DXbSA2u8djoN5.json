@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: M.G.L, BLANCO ",
-  "num_followers": 19161,
+  "num_followers": 19166,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "NOTSOZEN",
-        "url": "https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK"
-      },
-      "artists": [
-        {
-          "name": "Aerozen",
-          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
-        },
-        {
-          "name": "Killa Fonic",
-          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "SPARGEM",
-      "url": "https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
         "name": "\u0218tefan IV",
         "url": "https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 194936,
       "name": "inexplicabil",
       "url": "https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
+        "name": "NOTSOZEN",
+        "url": "https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "SPARGEM",
+      "url": "https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
+        "name": "Vise La Plic",
+        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
+      },
+      "artists": [
+        {
+          "name": "Connect-R",
+          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vise La Plic",
+      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
         "name": "\u0218tefan IV: Umbra",
         "url": "https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t"
       },
@@ -663,22 +679,6 @@
     {
       "added_at": "2024-10-24 21:00:00",
       "album": {
-        "name": "Vise La Plic",
-        "url": "https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m"
-      },
-      "artists": [
-        {
-          "name": "Connect-R",
-          "url": "https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vise La Plic",
-      "url": "https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
         "name": "Am Zis Ceva",
         "url": "https://open.spotify.com/album/3pwj7bk6zW9DCIlSPQYzDY"
       },
@@ -695,42 +695,6 @@
       "duration_ms": 247113,
       "name": "Am Zis Ceva",
       "url": "https://open.spotify.com/track/2u52GXrozwZePQ6EIVgz8C"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Soarele R\u0103sare Din Nou",
-        "url": "https://open.spotify.com/album/1eIojA6R1a9d7z5pJUkBEW"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Soarele R\u0103sare Din Nou",
-      "url": "https://open.spotify.com/track/5Hpgzg7SEEZ7Iki4iMpjNG"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "ABRACADABRA",
-        "url": "https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX"
-      },
-      "artists": [
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        },
-        {
-          "name": "Delia",
-          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "ABRACADABRA",
-      "url": "https://open.spotify.com/track/5OyRSFpuYEvpEqF131U1Hn"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -767,6 +731,42 @@
       "duration_ms": 181714,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4B7LGlce3KhmzIbGtgyVWx"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
+        "name": "ABRACADABRA",
+        "url": "https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        },
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "ABRACADABRA",
+      "url": "https://open.spotify.com/track/5OyRSFpuYEvpEqF131U1Hn"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
+        "name": "Soarele R\u0103sare Din Nou",
+        "url": "https://open.spotify.com/album/1eIojA6R1a9d7z5pJUkBEW"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Soarele R\u0103sare Din Nou",
+      "url": "https://open.spotify.com/track/5Hpgzg7SEEZ7Iki4iMpjNG"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -823,22 +823,6 @@
       "duration_ms": 139200,
       "name": "TURURU",
       "url": "https://open.spotify.com/track/5NybQDA5y4wEtRQKVZWBQw"
-    },
-    {
-      "added_at": "2024-10-24 21:00:00",
-      "album": {
-        "name": "Ochii",
-        "url": "https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z"
-      },
-      "artists": [
-        {
-          "name": "Satoshi",
-          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Ochii",
-      "url": "https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB"
     },
     {
       "added_at": "2024-10-24 21:00:00",
@@ -919,6 +903,22 @@
       "duration_ms": 196250,
       "name": "Scandal",
       "url": "https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU"
+    },
+    {
+      "added_at": "2024-10-24 21:00:00",
+      "album": {
+        "name": "Ochii",
+        "url": "https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z"
+      },
+      "artists": [
+        {
+          "name": "Satoshi",
+          "url": "https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Ochii",
+      "url": "https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB"
     },
     {
       "added_at": "2024-10-24 21:00:00",

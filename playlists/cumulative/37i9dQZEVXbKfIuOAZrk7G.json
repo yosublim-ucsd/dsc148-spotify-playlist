@@ -18331,6 +18331,24 @@
     },
     {
       "album": {
+        "name": "Free Bird",
+        "url": "https://open.spotify.com/album/7xUZUgH3pZNIotP2G9rFj4"
+      },
+      "artists": [
+        {
+          "name": "MOONLGHT",
+          "url": "https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114464,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/6ZyCPSTV4ckXENxnEwf8wA"
+    },
+    {
+      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -33071,6 +33089,24 @@
     },
     {
       "album": {
+        "name": "Mangos (Tiktok Version)",
+        "url": "https://open.spotify.com/album/1D6rlXWkDBI4YZyGVrSZu7"
+      },
+      "artists": [
+        {
+          "name": "LDRR",
+          "url": "https://open.spotify.com/artist/2DtIt7mMzdaEEFVUbSmnoU"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51853,
+      "name": "Mangos - Tiktok Version",
+      "url": "https://open.spotify.com/track/1wD755PZiaAhiCOgvFLGq6"
+    },
+    {
+      "album": {
         "name": "Maniac",
         "url": "https://open.spotify.com/album/6S2bemTohQ0Wbvkn8FUgNu"
       },
@@ -34878,7 +34914,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 262640,
       "name": "Moments",
       "url": "https://open.spotify.com/track/3MxJGBnYaP4yQYUv90HLqZ"
@@ -37294,7 +37330,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -39314,10 +39350,28 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 179906,
       "name": "One Take Freestyle",
       "url": "https://open.spotify.com/track/0PVSV64dW2NvTNcvMFm6XX"
+    },
+    {
+      "album": {
+        "name": "One Take Freestyle",
+        "url": "https://open.spotify.com/album/1OZvPNe13vwyc0Cj732Vt2"
+      },
+      "artists": [
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179906,
+      "name": "One Take Freestyle",
+      "url": "https://open.spotify.com/track/7x5CvENf43u875TNrtqT1h"
     },
     {
       "album": {
@@ -42996,7 +43050,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 161285,
       "name": "Quitter",
       "url": "https://open.spotify.com/track/3ai1kBVQF9GusoxIdgBrjz"
@@ -48726,7 +48780,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 256706,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt"
@@ -49026,7 +49080,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 125624,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
@@ -57874,7 +57928,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 202640,
       "name": "Walking in the Wind",
       "url": "https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO"

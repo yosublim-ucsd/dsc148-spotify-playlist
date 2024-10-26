@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover:Mishaal Tamer
 
-354 songs - 19 hr 25 min
+355 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Mirror A Dream](https://open.spotify.com/track/1dggnsaeC1YvX8njTczWPc) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Bedside](https://open.spotify.com/album/70NtCjv3g5kGSDohd1rqJC) | 3:27 | 2021-12-16 | 2022-07-29 |
 | [Mirror a Dream](https://open.spotify.com/track/5BlIOZm2busMAvV8jDN5b1) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Bedside](https://open.spotify.com/album/5VcSRDAkuMRgUn0ur6dV17) | 3:27 | 2022-07-28 | 2022-09-29 |
 | [MOONTALK](https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [MOONTALK](https://open.spotify.com/album/7rLRs1lMhJfYUJsdPPYwuu) | 3:29 | 2022-01-10 | 2023-04-09 |
+| [MOVE](https://open.spotify.com/track/7KkZsYEhcAEvQJIP5iauyZ) | [Rita Kamale](https://open.spotify.com/artist/4O67ere8Zi4xRPeR90umD0), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [MOVE](https://open.spotify.com/album/0lf0yUHujZT9dNmTGTWbla) | 3:06 | 2024-10-25 |  |
 | [Move Slow](https://open.spotify.com/track/1nvMrDnwLUlGbOD4c6uz22) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Move Slow](https://open.spotify.com/album/2G6xTqixe8KquylPhawIeJ) | 2:54 | 2022-07-28 | 2022-10-09 |
 | [Move Slow](https://open.spotify.com/track/5IQoMOmJ8sfNi4Fjw9WRKF) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Move Slow](https://open.spotify.com/album/55BafVNwGsmsXHnWn5EEsP) | 2:54 | 2021-12-16 | 2022-07-29 |
 | [My Man \(Freestyle\)](https://open.spotify.com/track/0RHRh0C72thISwz7GCl8xY) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [My Man \(Freestyle\)](https://open.spotify.com/album/4894VocVu0Qm90wKyU76XD) | 2:30 | 2023-03-20 | 2023-09-13 |

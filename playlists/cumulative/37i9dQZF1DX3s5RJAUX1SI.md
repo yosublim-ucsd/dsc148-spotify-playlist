@@ -4,7 +4,7 @@
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-361 songs - 20 hr 11 min
+362 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [No Volveré](https://open.spotify.com/track/7i4rb7PY4IKJPxPrqMGbLJ) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Carlos Muñoz](https://open.spotify.com/artist/2CjUcR1vqHRWkiJMttb4F6) | [No Volveré](https://open.spotify.com/album/4pUHbeXaQYiPfPhPSVCRrx) | 3:50 | 2021-11-01 | 2022-08-04 |
 | [Pa' Olvidarme De Ella](https://open.spotify.com/track/42jz4vxI3S9nZuYOEwCbAF) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Pa' Olvidarme De Ella](https://open.spotify.com/album/4o5FlDxD26wrLQ5C0kLCk5) | 3:06 | 2021-11-01 | 2022-07-30 |
 | [Para Impresionarte](https://open.spotify.com/track/4XXN580NHgivSZVsoltize) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Mexillennials Acústico](https://open.spotify.com/album/7yEgNmBPetP33e5Voqa32N) | 4:08 | 2021-11-01 | 2022-08-04 |
-| [Partido En Dos](https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Partido En Dos](https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw) | 3:46 | 2022-08-03 |  |
+| [Partido En Dos](https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Partido En Dos](https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw) | 3:46 | 2022-08-03 | 2024-10-26 |
 | [Peca de Bonita](https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:22 | 2024-03-27 |  |
 | [Pideme La Luna](https://open.spotify.com/track/2lqwq9vyPWoBu8xxmlXZAr) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ["14 Exitos" A Cada Instante](https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z) | 2:17 | 2023-06-12 | 2024-04-19 |
 | [Pideme La Luna](https://open.spotify.com/track/4j3Mb447tHZjjW5Q24aSvd) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ['10 Exitazos "A Cada Instante"](https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC) | 2:17 | 2024-03-27 |  |
@@ -315,6 +315,7 @@
 | [Te Voy a Perder](https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Viento A Favor](https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor) | 4:10 | 2021-11-01 | 2023-06-13 |
 | [Te Ví Con El](https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX) | 3:00 | 2023-08-08 | 2024-04-19 |
 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 | 2024-03-27 | 2024-09-07 |
+| [Tipico Clasico / Yo Sé Que Te Acordarás \(En Vivo\)](https://open.spotify.com/track/0MYd5kPeOQKmrxzGYEyrlX) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Tipico Clasico / Yo Sé Que Te Acordarás \(En Vivo\)](https://open.spotify.com/album/6qgcPCvBpQtvXxXB76mNqG) | 8:07 | 2024-10-23 |  |
 | [Traficante De Besos](https://open.spotify.com/track/6F1VmuzOgcOxaj4idJKU9i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 2:29 | 2023-06-12 | 2024-03-28 |
 | [Tragos Amargos](https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Tragos Amargos](https://open.spotify.com/album/4rTSPDvuo9XFaNn0SioHJl) | 2:45 | 2021-11-01 | 2023-06-13 |
 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 | 2021-11-01 | 2023-06-13 |

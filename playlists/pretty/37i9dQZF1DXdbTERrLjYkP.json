@@ -1,13 +1,45 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Isabel Dumaa",
-  "num_followers": 98563,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Grace Enger",
+  "num_followers": 98606,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAADNyxRbHQ5mJNnSTo/zsdzB",
+  "snapshot_id": "ZxvKbQAAAAA9Eh/jpmYS1edhsAXc83TF",
   "tracks": [
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Habits Die Hard",
+        "url": "https://open.spotify.com/album/5CENGgegjpYnStFICccayc"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 198505,
+      "name": "Habits Die Hard",
+      "url": "https://open.spotify.com/track/26g2OzgtUAzqKtfsD9IllM"
+    },
+    {
+      "added_at": "2024-10-25 16:42:21",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/7s3OY71tBtARmt0ErG5Gy6"
+      },
+      "artists": [
+        {
+          "name": "La Rhonza",
+          "url": "https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD"
+        }
+      ],
+      "duration_ms": 194369,
+      "name": "October",
+      "url": "https://open.spotify.com/track/1S5H1Kb9zorNzLiGlowC78"
+    },
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
@@ -25,6 +57,22 @@
       "url": "https://open.spotify.com/track/2gsVY4QDfE8tkyWQZJu5ht"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "cheap therapy",
+        "url": "https://open.spotify.com/album/3uUZ1pDrwY84V12tWaoYaK"
+      },
+      "artists": [
+        {
+          "name": "sorrycarlee",
+          "url": "https://open.spotify.com/artist/3cq3B0vdnvlYzMWFnGoSjv"
+        }
+      ],
+      "duration_ms": 159317,
+      "name": "cheap therapy",
+      "url": "https://open.spotify.com/track/6oYl91cnhWSumFg2aOfPbJ"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "8",
@@ -39,6 +87,22 @@
       "duration_ms": 170841,
       "name": "Where Do You Go?",
       "url": "https://open.spotify.com/track/1NbcvJtbdUSiXjwTSoWr3m"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "crumbs",
+        "url": "https://open.spotify.com/album/1nyrrw9Z37Hc1U3eALV51X"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "crumbs",
+      "url": "https://open.spotify.com/track/7wOirCLiVCdWMihUSIgDSZ"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -391,38 +455,6 @@
       "duration_ms": 278388,
       "name": "I Can Be Your Mother",
       "url": "https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "maybe i already am",
-        "url": "https://open.spotify.com/album/3Pf6dUwqtNfPsFOn3Ua5bz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Suaste",
-          "url": "https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "charlie",
-      "url": "https://open.spotify.com/track/1vrNgkZq9ot6Wf5KChXUBO"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Think I Wanna See You Again",
-        "url": "https://open.spotify.com/album/1KljxjTkgDYuPxqZejmnay"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 148541,
-      "name": "Think I Wanna See You Again",
-      "url": "https://open.spotify.com/track/72uh3fbNvqqdOu6UDcsbkO"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -875,26 +907,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Flower of the soul",
-        "url": "https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 322223,
-      "name": "Butterflies (feat. Tim Bernardes)",
-      "url": "https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Isabel",
         "url": "https://open.spotify.com/album/6agP6NpGBGCN2O7UyzhfHO"
       },
@@ -1051,22 +1063,6 @@
       "duration_ms": 271475,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Stuck Up",
-        "url": "https://open.spotify.com/album/5mvwo5vHABNejQeADXkTeI"
-      },
-      "artists": [
-        {
-          "name": "Romy Mars",
-          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Stuck Up",
-      "url": "https://open.spotify.com/track/16q24WOiHPeEhuuCDw45ZR"
     },
     {
       "added_at": "2024-08-30 04:00:00",

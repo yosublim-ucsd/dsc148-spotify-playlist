@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-260 songs - 15 hr 28 min
+261 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 | 2023-02-20 | 2024-06-11 |
 | [Jaane Kyun \(From "Dostana"\)](https://open.spotify.com/track/4w90JoFrkoYfxe4S8DWD7T) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Best of Me Vishal Shekhar](https://open.spotify.com/album/6uxRlKbjePj7hvCiHV5y3k) | 4:37 | 2022-03-09 | 2023-02-21 |
 | [jaanu na](https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [jaanu na](https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h) | 2:40 | 2023-10-13 | 2023-11-18 |
-| [Jachdi](https://open.spotify.com/track/63Pq2D8qRj3wTIZX5GavO6) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Jachdi](https://open.spotify.com/album/4VweEzgYbbH7g43IRLz597) | 1:59 | 2024-10-01 |  |
+| [Jachdi](https://open.spotify.com/track/63Pq2D8qRj3wTIZX5GavO6) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Jachdi](https://open.spotify.com/album/4VweEzgYbbH7g43IRLz597) | 1:59 | 2024-10-01 | 2024-10-26 |
 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 | 2023-07-20 |  |
 | [Jeeja](https://open.spotify.com/track/31DFOzgOdnouxpEMkGxqLj) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Jeeja](https://open.spotify.com/album/67f7Y1eC1AJkYAO4rBiJlz) | 3:01 | 2024-07-18 | 2024-10-02 |
 | [Jeet](https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:04 | 2022-07-17 | 2023-02-11 |
@@ -152,6 +152,7 @@
 | [Manzoor Hai](https://open.spotify.com/track/77Mo1my3vQVqu4wRmVIeCa) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Manzoor Hai](https://open.spotify.com/album/16HWh1K1lhTTpMDHUoLxIT) | 3:59 | 2023-11-16 | 2023-12-07 |
 | [Mashwara](https://open.spotify.com/track/1Yiwkdc1Jv5NjXThjL541E) | [Surya Singh](https://open.spotify.com/artist/39l29T5muGAMa7ARnBGyNQ), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [Mashwara](https://open.spotify.com/album/5WcGuU8M3bqnMUrKwM7pzH) | 2:52 | 2024-05-01 | 2024-05-14 |
 | [Maskhari](https://open.spotify.com/track/3AeOPuf7VfwUsxeQNN9Vsv) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Dil Bechara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zrZPXoYsu772sB3CwVuxr) | 3:15 | 2022-03-09 | 2023-02-21 |
+| [Matak Matak](https://open.spotify.com/track/6OJFI21TFUEsqCtyIRTmVG) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [TimiBOI](https://open.spotify.com/artist/7JOx03sIOirdg2PFnna2U2) | [Matak Matak](https://open.spotify.com/album/7e6zLnFAsvGVF7YHH6Gnqs) | 2:46 | 2024-10-25 |  |
 | [Matargashti](https://open.spotify.com/track/5GeBgck1MU2tlIkMpsn8uT) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Tamasha](https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA) | 5:28 | 2022-03-09 |  |
 | [Mere Liye Tum Kaafi Ho](https://open.spotify.com/track/73whmTgxzRFLhPbRMkDnjj) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Shubh Mangal Zyada Saavdhan](https://open.spotify.com/album/1qvic7ic93zptwsWs2nvhU) | 2:12 | 2023-04-19 |  |
 | [Mere Sanam Ke Khwaab](https://open.spotify.com/track/11XpKGPvaWClvMtRzuumZk) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Mere Sanam Ke Khwaab](https://open.spotify.com/album/2XoOzgwVUgujp5pgdZo707) | 3:54 | 2023-07-13 | 2023-08-28 |

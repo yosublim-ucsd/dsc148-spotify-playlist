@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: JAEHYUN
 
-966 songs - 2 day 4 hr 2 min
+968 songs - 2 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 | 2024-05-16 | 2024-06-01 |
 | [Head To Toe](https://open.spotify.com/track/22vVXX39APvqsmNlNPOXtt) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Head To Toe](https://open.spotify.com/album/7x74c14JgIh10ZUXyHNGJc) | 3:04 | 2022-06-08 | 2022-10-14 |
 | [headaches](https://open.spotify.com/track/5v2RDx3oCcHxToNSLOJ05y) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [headaches](https://open.spotify.com/album/6g4XzBd2vaJ6zkZn8ddyAi) | 3:18 | 2023-04-06 | 2023-07-21 |
+| [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 | 2024-10-24 |  |
 | [Heart On Fire](https://open.spotify.com/track/2SSSBEGv9P3fBVdw5CfvlQ) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Heart On Fire](https://open.spotify.com/album/39xaejdB8NXYqM3w4rGY3K) | 2:51 | 2023-03-31 | 2024-01-05 |
 | [Heaven](https://open.spotify.com/track/6se2IiUzLtzfoTWdTO0VNH) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Heaven](https://open.spotify.com/album/6c3GfYhxjw2pS4tasHl5Dj) | 2:34 | 2023-07-27 | 2023-08-18 |
 | [HEAVENFALL](https://open.spotify.com/track/7A9emHuiTyoEBhHMP4d5ml) | [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q) | [HEAVENFALL](https://open.spotify.com/album/2oUm9YRz6XRosrGGbPsoxg) | 3:06 | 2024-05-24 | 2024-08-09 |
@@ -629,6 +630,7 @@
 | [Perfume \(feat\. oceanfromtheblue\)](https://open.spotify.com/track/1X55aNgEX0J7rNQ8e21dxF) | [Fyeqoodgurl](https://open.spotify.com/artist/47ryT65283NrXnJ8k6rKyc), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Perfume \(feat\. oceanfromtheblue\)](https://open.spotify.com/album/7snxSdifKDEkIUOCMvfklx) | 4:15 | 2024-07-04 |  |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-21 | 2022-08-05 |
 | [Petty](https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 3:03 | 2022-07-07 | 2022-08-05 |
+| [PICK IT UP!](https://open.spotify.com/track/4vZksQVhU0UxyDJkb2sF8R) | [nel](https://open.spotify.com/artist/4TVq4IaLqHucmmBBXhSEXf), [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D) | [PICK IT UP!](https://open.spotify.com/album/3ttoSJUL7Q3uuYd9NviVRc) | 2:50 | 2024-10-24 |  |
 | [Pick Up](https://open.spotify.com/track/1EEKpqLzqH7tKTFe1Ucl7W) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Pick Up](https://open.spotify.com/album/2RnIXWCQQfjSjqLkpdX1Yx) | 2:45 | 2024-07-04 | 2024-10-04 |
 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 | 2022-12-08 | 2022-12-31 |
 | [piece of mind](https://open.spotify.com/track/22GeaRbTM6J9MZLA9TqDx0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [piece of mind](https://open.spotify.com/album/6FiYjPbvIHjKo0pWLn8tt6) | 3:01 | 2024-06-13 | 2024-10-18 |

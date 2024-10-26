@@ -1231,6 +1231,28 @@
     },
     {
       "album": {
+        "name": "Fake Friends",
+        "url": "https://open.spotify.com/album/7IOrnoDVBydJ2TSbbffDRR"
+      },
+      "artists": [
+        {
+          "name": "Roll Rida",
+          "url": "https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj"
+        },
+        {
+          "name": "Agastya Raag",
+          "url": "https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177599,
+      "name": "Fake Friends",
+      "url": "https://open.spotify.com/track/5cut2IXPLaYEA4m66TFDiC"
+    },
+    {
+      "album": {
         "name": "FLYHIGH",
         "url": "https://open.spotify.com/album/5ZId7XjlQ5Wh8PpgfVLrVR"
       },

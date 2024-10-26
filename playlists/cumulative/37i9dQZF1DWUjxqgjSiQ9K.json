@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Estamos",
+        "url": "https://open.spotify.com/album/6e3P2OODqeqO3OyfYT64Hs"
+      },
+      "artists": [
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247559,
+      "name": "Aqu\u00ed Estamos",
+      "url": "https://open.spotify.com/track/3LcJUihFKiU6PUULY1MQ6k"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed Estamos (feat. Ale Fdz)",
         "url": "https://open.spotify.com/album/3GHZ5ZZqdCB0ETjFoIRGej"
       },
@@ -1501,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "Kintsugi (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1cIzXYoG20vQ4B5dsS2zhA"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468137,
+      "name": "Babel - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5d5yrPyC4DC7uLm0AVHyGk"
+    },
+    {
+      "album": {
         "name": "MOMENTUM",
         "url": "https://open.spotify.com/album/0cPrYAzyCpQ07WrVmE3AFM"
       },
@@ -1530,7 +1566,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 274971,
       "name": "Bajo El Agua",
       "url": "https://open.spotify.com/track/4zEL9LHCQNPmDTc3dsOume"
@@ -5134,7 +5170,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 404343,
       "name": "Esp\u00edritu Santo - Live Set",
       "url": "https://open.spotify.com/track/2ZZvvIBOBcJ314DJ6X3fq8"
@@ -9615,6 +9651,28 @@
     },
     {
       "album": {
+        "name": "Sarai (Live Set)",
+        "url": "https://open.spotify.com/album/6g6krngMGne4ksBqmNSdmH"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        },
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368589,
+      "name": "Peleo de Rodillas - Live Set",
+      "url": "https://open.spotify.com/track/0p6iMyVDR5v0drUVC9qXM2"
+    },
+    {
+      "album": {
         "name": "Pens\u00e1ndolo Bien",
         "url": "https://open.spotify.com/album/55h5VKAdrzaOz7jgWgQjEw"
       },
@@ -9824,7 +9882,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 456201,
       "name": "Por la Fe",
       "url": "https://open.spotify.com/track/3Gr1vznivWJAGupbD3OrSp"

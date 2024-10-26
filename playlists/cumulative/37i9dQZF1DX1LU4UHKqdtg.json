@@ -8665,6 +8665,24 @@
     },
     {
       "album": {
+        "name": "JIN LAB Project 7. [Here]",
+        "url": "https://open.spotify.com/album/5YwAPoIC2QjO4pApIsZ6OH"
+      },
+      "artists": [
+        {
+          "name": "JINJIN (ASTRO)",
+          "url": "https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/7yZv08uDBYKCw7poSL3Btb"
+    },
+    {
+      "album": {
         "name": "DIVE",
         "url": "https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu"
       },

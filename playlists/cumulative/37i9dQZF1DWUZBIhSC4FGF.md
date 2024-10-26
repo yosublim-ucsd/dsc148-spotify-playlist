@@ -4,7 +4,7 @@
 
 > Relax to some gentle percussion from all corners of the globe.
 
-107 songs - 6 hr 45 min
+108 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Rotation 4](https://open.spotify.com/track/1vGqaAyqv40nLOynEdNvwM) | [Svet Stoyanov](https://open.spotify.com/artist/5rhkJDapJojVLUICCMUq0e) | [Percussive Counterpoint](https://open.spotify.com/album/2ouOC24z4c8Fnyj5pymylB) | 2:24 | 2022-05-19 |  |
 | [Ruby's Dance](https://open.spotify.com/track/0NXGeUwHAHttzLNhbv4oHB) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Ruby's Dance](https://open.spotify.com/album/6fc6QjKd0j2ZkMp3wdbJPK) | 2:39 | 2024-01-31 |  |
 | [Sacred Ground \(Percussion Only\)](https://open.spotify.com/track/5M8BTt6WQjBfUORnHDQ7FT) | [Native Spirit](https://open.spotify.com/artist/2OE9yjoQB6ctlwY1uznBb9) | [Sacred Ground: Traditional Native American Flute & Drums](https://open.spotify.com/album/2BGeocG4BEHp52QHZhtPb3) | 1:59 | 2022-05-19 | 2023-10-06 |
+| [Searching for Peace](https://open.spotify.com/track/4WLAeLXFIHruJmILpl3HCw) | [Mohimbra](https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF) | [Searching for Peace](https://open.spotify.com/album/65ydsi47kJYpMJn6DrRVtp) | 3:19 | 2024-10-25 |  |
 | [Shamanic Journeywork](https://open.spotify.com/track/76grNKEDQdFpMIftWZP3BY) | [Shamanic Journey Drumming](https://open.spotify.com/artist/10eDAAmRvolRXSFsGAT8Ht) | [Shamanic Journey Drumming](https://open.spotify.com/album/1C3dY4h7p3auKgPknDmq9v) | 3:54 | 2022-08-12 |  |
 | [Shamanic Taiko](https://open.spotify.com/track/6XR02DiusEaXXtOJ89iqGT) | [Deep Meditation](https://open.spotify.com/artist/2fqkqEsGgtIToaqV8snUV6) | [Deep Meditation](https://open.spotify.com/album/6E9qV9HvDHkmSEgx5pqUEO) | 2:04 | 2022-05-19 | 2024-03-06 |
 | [Slow Pace Papa](https://open.spotify.com/track/78ReLTBbzeqosiozbRwDkG) | [Southside Beatsters](https://open.spotify.com/artist/3TYCmQgTFXUbE460KfTlYe) | [Brewin' Afro Beats](https://open.spotify.com/album/0kET8NvmV0lCfGhFFfG1Wn) | 3:08 | 2022-05-19 |  |

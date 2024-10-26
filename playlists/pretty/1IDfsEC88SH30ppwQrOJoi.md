@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,428 likes - 68 songs - 3 hr 18 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,427 likes - 69 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 66 | [Spinnin With You](https://open.spotify.com/track/7a93LT7k6s6e049aRFc72N) | [Alex Moretto](https://open.spotify.com/artist/3UelwLWbuCQkJvohXe9CIm), [Alfie Cridland](https://open.spotify.com/artist/3gOl0pzEP8SvToQrrrbw7P), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Spinnin With You](https://open.spotify.com/album/4N7ktGHprTdlbHW2G2oN05) | 1:58 |
 | 67 | [Give Me Tonight](https://open.spotify.com/track/6dt85xHUDKL9GnQLkpRZoh) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Cali Bee](https://open.spotify.com/artist/5TS9KmKGJiZsiw8LTexDI3) | [Give Me Tonight](https://open.spotify.com/album/5PdVLmTlcd65WUXPyu3eFs) | 3:34 |
 | 68 | [The 90s Range](https://open.spotify.com/track/0Pf7EY9ctw9cAY7RDZHtin) | [Bryson Hill](https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA) | [The 90s Range](https://open.spotify.com/album/3kCRVAENUECcZhvE3fBqq2) | 3:36 |
+| 69 | [Always Chase The Sun](https://open.spotify.com/track/0uXllbMGTvFVL1gP66q0Sr) | [Electric Cinema](https://open.spotify.com/artist/7HpqdvvEhsTi48z5DB6BOj) | [Always Chase The Sun](https://open.spotify.com/album/3rbz9OH2hUmkTChW5Kc5eL) | 4:48 |
 
-Snapshot ID: `AAAKDIb+G8JgvTl5nb34UxtvTL0Ar7pK`
+Snapshot ID: `AAAKDSscfFrO69U5wAEIoWEUTI/3tLqu`

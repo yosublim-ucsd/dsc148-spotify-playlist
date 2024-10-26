@@ -10041,6 +10041,24 @@
     },
     {
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/6d6tKjuz54ICfRGbB5tYXV"
+      },
+      "artists": [
+        {
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209706,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/6RZv3rIkz0Us99p5OdK0vE"
+    },
+    {
+      "album": {
         "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/1PHttHhnBSqPClsqZrPp8z"
       },
@@ -17224,6 +17242,24 @@
       "duration_ms": 295026,
       "name": "So to speak,Love",
       "url": "https://open.spotify.com/track/0kjUOLyLACpGsZP8V26nNS"
+    },
+    {
+      "album": {
+        "name": "So you (DK(DECEMBER) X Busking Traveler)",
+        "url": "https://open.spotify.com/album/1gVTjwHau79QdOgEjp1z8M"
+      },
+      "artists": [
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266506,
+      "name": "So you",
+      "url": "https://open.spotify.com/track/3keXyvu1hnN63Lw8bUN3lh"
     },
     {
       "album": {

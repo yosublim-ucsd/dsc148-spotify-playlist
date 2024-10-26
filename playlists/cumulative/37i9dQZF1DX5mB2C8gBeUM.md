@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: BRELAND
+> Country gone wild! You never know what you're gonna get\. Cover: Jelly Roll
 
-494 songs - 1 day 0 hr 28 min
+496 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Let It Burn](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 3:26 | 2023-10-06 | 2024-04-23 |
 | [Lets Go!](https://open.spotify.com/track/4TlFm4IsztCzL26COpgOcw) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Phillip Good](https://open.spotify.com/artist/7IgNmZLjmhgaH3L83GPVeN) | [Lets Go!](https://open.spotify.com/album/440CLUzPDP9fm53GgsKBHu) | 2:34 | 2022-09-16 |  |
 | [LEVII'S JEANS](https://open.spotify.com/track/2UDARQiksl207HcSduDpov) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:17 | 2024-03-29 |  |
+| [Liar](https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:24 | 2024-10-25 |  |
 | [life got crazy](https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the highs.](https://open.spotify.com/album/2phcfZd44niczjY0xybcS6) | 2:18 | 2021-12-10 | 2022-02-26 |
 | [Lighter](https://open.spotify.com/track/2gbS682ibVEMXlzRdC1rT2) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Lighter](https://open.spotify.com/album/33xPs7wlbzfrw5blbL63Ez) | 2:13 | 2023-05-19 | 2024-04-23 |
 | [LIKE A COWBOY](https://open.spotify.com/track/6phGbOOctxoxviraYh93rY) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [LIKE A COWBOY](https://open.spotify.com/album/234akgdWij2RVq479NpxDI) | 2:12 | 2024-04-12 |  |
@@ -322,6 +323,7 @@
 | [Mr\. Percocet](https://open.spotify.com/track/3ONe6SKdO3uRrWLsZePF1p) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 3:13 | 2022-11-01 | 2024-04-19 |
 | [Mr\. Percocet](https://open.spotify.com/track/5zcv9Sck4CCc3c7BOExjK9) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 3:13 | 2022-09-09 | 2022-09-20 |
 | [Mr\. Percocet](https://open.spotify.com/track/7DqGtlivmCdCN3Hhhj4JLh) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:13 | 2022-09-16 | 2022-10-08 |
+| [MUD](https://open.spotify.com/track/1mA2jaHDli23WFu2SnDdUa) | [CeCe](https://open.spotify.com/artist/3o3cMu8wu8ANNYLo660Sgs) | [MUD](https://open.spotify.com/album/39Bze0knrwvaIbd7AXjTnm) | 2:57 | 2024-10-25 |  |
 | [Muddy Water Rockstar](https://open.spotify.com/track/0c7q7lZtMhZRorMojoxS5k) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Muddy Water Rockstar](https://open.spotify.com/album/0UPlIhD8KDe0cxT3J15OKT) | 2:32 | 2023-09-08 |  |
 | [Natural](https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Natural](https://open.spotify.com/album/16pHEysNz5Sp0iI9Aw7KXR) | 2:41 | 2022-06-17 | 2022-09-10 |
 | [Nervous](https://open.spotify.com/track/3AMUgKRaujIuutpMw4K7Zn) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Nervous](https://open.spotify.com/album/460txPWcdGTABVidLLDuiW) | 2:55 | 2022-03-11 |  |

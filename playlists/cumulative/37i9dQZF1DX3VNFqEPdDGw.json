@@ -428,7 +428,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 187636,
       "name": "Busy Getting Paid",
       "url": "https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR"
@@ -578,6 +578,32 @@
       "duration_ms": 158241,
       "name": "Deadly",
       "url": "https://open.spotify.com/track/0jq1fpqCEnAhWlIjwKglkc"
+    },
+    {
+      "album": {
+        "name": "Depend",
+        "url": "https://open.spotify.com/album/4QWG3nO1RrxHS4xFP7qLXf"
+      },
+      "artists": [
+        {
+          "name": "Inderjit Nikku",
+          "url": "https://open.spotify.com/artist/6Tfn1zm2FagIHJLbTSMPim"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Yeah Proof",
+          "url": "https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156819,
+      "name": "Depend",
+      "url": "https://open.spotify.com/track/2Vv9mj3xR6NV5iPsBHmusP"
     },
     {
       "album": {

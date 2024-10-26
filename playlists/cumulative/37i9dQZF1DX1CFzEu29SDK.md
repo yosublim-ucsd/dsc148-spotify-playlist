@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7kNqXtgeIwFtelmRjWv205">John Summit</a>'s favorite tracks\. Curated by John Summit\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-77 songs - 5 hr 2 min
+77 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,6 @@
 | [Welcome The Night](https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Welcome The Night](https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82) | 3:18 | 2023-12-15 |  |
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-12-15 |  |
 | [XTC](https://open.spotify.com/track/3mDS9MWPQFxbQSPgd9o8CL) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Mason Maynard](https://open.spotify.com/artist/4EdTAy3S5GrswFHCdpiKP3) | [XTC EP](https://open.spotify.com/album/0hTVFrPW1VzA3ZxAsaR5h6) | 5:07 | 2024-07-15 |  |
-| [YoYo Disco](https://open.spotify.com/track/52ERV577Njz36jATlJlx2u) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24), [Josh Ludlow](https://open.spotify.com/artist/1LphufDWflOQPlEPW2oruD) | [YoYo Disco](https://open.spotify.com/album/3rNHol9ltR6mMy5Pw0fSrF) | 2:20 | 2023-12-15 |  |
+| [YoYo Disco](https://open.spotify.com/track/52ERV577Njz36jATlJlx2u) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24), [Josh Ludlow](https://open.spotify.com/artist/1LphufDWflOQPlEPW2oruD) | [YoYo Disco](https://open.spotify.com/album/3rNHol9ltR6mMy5Pw0fSrF) | 4:07 | 2023-12-15 |  |
 
 \*This playlist was first scraped on 2023-12-17. Prior content cannot be recovered.

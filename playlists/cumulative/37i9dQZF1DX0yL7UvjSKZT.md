@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Yasmin Williams
 
-478 songs - 1 day 5 hr 38 min
+479 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Love That Keeps on Trying](https://open.spotify.com/track/7znCP6GsGLYxIp9JQQGrBh) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Love That Keeps on Trying](https://open.spotify.com/album/17WDRBufDeWyDqhjB4SRzK) | 3:21 | 2022-08-11 | 2023-05-16 |
 | [Love Will Only Break Your Heart](https://open.spotify.com/track/2faqlLswnAEXMqkaiRQ5LW) | [The David Mayfield Parade](https://open.spotify.com/artist/2cUl2KIxv7FHmL4pt4uLsN) | [Good Man Down](https://open.spotify.com/album/5d2s0xDFNSP9DHcENh8Htz) | 2:53 | 2021-10-01 | 2022-01-22 |
 | [Madam Plum](https://open.spotify.com/track/1KA26eRMIYAjrebZDuyIjU) | [Old Salt Union](https://open.spotify.com/artist/0WjJj680gtc92LSkeD8Q1n) | [Cut and Run](https://open.spotify.com/album/4Iz5SECz4yv02oRwFVNhSI) | 4:03 | 2021-10-01 | 2023-04-09 |
+| [Mangos](https://open.spotify.com/track/49e50MWToveqr3PjnKFpnM) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Mangos](https://open.spotify.com/album/5xebmA2DGH8Xyg6vmpblkU) | 3:16 | 2024-10-25 |  |
 | [Marianne](https://open.spotify.com/track/54e9O9Y8iG3CCjCEdeQ7yy) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Old Time Reverie](https://open.spotify.com/album/5AYjie5QDdpryswTiI5uo6) | 3:19 | 2022-07-22 | 2024-02-24 |
 | [Marianne](https://open.spotify.com/track/4vx0FK5GfHdFSSNMRMeuLa) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Old Time Reverie](https://open.spotify.com/album/3uNiWWdpmOkw7i8DSaELav) | 3:22 | 2021-10-01 | 2022-07-29 |
 | [Meeting Is Over](https://open.spotify.com/track/0Jyru2R52NaBR6wiEGMQUp) | [Moira Smiley](https://open.spotify.com/artist/035KHOtaTMMoN7YASM6mwk), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd), [Seamus Egan](https://open.spotify.com/artist/5dWAsW7cMbMCswqTwN2jQm) | [Meeting Is Over](https://open.spotify.com/album/4YgPIWCcfPIfpkgmewgoYx) | 4:24 | 2021-12-31 | 2024-02-24 |

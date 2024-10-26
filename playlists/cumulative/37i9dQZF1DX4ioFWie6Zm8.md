@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound
 
-223 songs - 16 hr 28 min
+224 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Djelia](https://open.spotify.com/track/3tDIl6vOp35dSn2PFLaxbJ) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 5:30 | 2022-08-05 | 2023-03-15 |
 | [Djorolen \(2003 \- Remaster\)](https://open.spotify.com/track/6LSSDJ9XsRPfqMXNr77f6O) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Oumou](https://open.spotify.com/album/7k44FzFVfb0rNHOSgfXQO8) | 6:42 | 2023-10-27 | 2024-04-19 |
 | [Djorolen \- 2003 Remaster](https://open.spotify.com/track/2dEPvKmB3R3NldF6U9uidT) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Oumou](https://open.spotify.com/album/3b7OKZVFIGpWaviLFbOGPI) | 6:42 | 2022-08-05 |  |
+| [Dung Gate](https://open.spotify.com/track/2iYKFf2p2mM0YSfRXOdLF4) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Hoodna Orchestra](https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk) | [Dung Gate](https://open.spotify.com/album/3QMRQH28I1kwXe9nzFtUYd) | 4:07 | 2024-10-25 |  |
 | [Dèrbabé](https://open.spotify.com/track/1NS4XusV8Zz8FgJNcr5fe7) | [Orchestra Ethiopia](https://open.spotify.com/artist/461tDGlAfLx34eA7IDrXyr) | [Ethiopiques, Vol\. 23: Orchestra Ethiopia 1963\-1975](https://open.spotify.com/album/0DSKt06HRsqqtHe9zmx5Cp) | 3:12 | 2024-05-07 |  |
 | [El Sicuri](https://open.spotify.com/track/7GBhEInpST7Dx9fE0tBMEI) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 2:55 | 2022-08-05 | 2024-05-08 |
 | [Enafqeshalehu](https://open.spotify.com/track/24wcXHsMTeqKp7tjOSlISh) | [Tadele Beqele](https://open.spotify.com/artist/25tOjdOIoDhwAgFOzQPiL8) | [Ethiopiques, Vol\. 3: Golden Years 1969\-1975](https://open.spotify.com/album/64BIQfXdqgzg6mh1UJxzEY) | 2:53 | 2024-05-07 | 2024-09-25 |
@@ -105,7 +106,7 @@
 | [Korba](https://open.spotify.com/track/7F7GbdbIqiRxrGLBTh70kC) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/2SskA3Gs1lDySqd3PN3Kn0) | 2:45 | 2023-03-14 | 2024-04-19 |
 | [Koth Chwe](https://open.spotify.com/track/1ZUpqe0Sq2ljqiGEUbEyIn) | [Udulele](https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY) | [Ololokwe](https://open.spotify.com/album/6rQYuXskUNsOMsMg1A1Cu8) | 4:00 | 2023-10-27 | 2024-05-08 |
 | [Kumisa ye](https://open.spotify.com/track/5Lm2TuHuLPsde8vlOBP8ke) | [Kanda Bongo Man](https://open.spotify.com/artist/4vW2jrWYJT4wDkjbhpubca) | [Kekete bue](https://open.spotify.com/album/0bWyy4kW167YrikgdCM26A) | 3:20 | 2022-08-05 |  |
-| [Kába](https://open.spotify.com/track/6pzyjHjE0HlaK9fYrMAuIH) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Mark Feldman](https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz), [Dramane Dembélé](https://open.spotify.com/artist/4ocTJVYKPWlU6NmQO0Ybuj), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Christi Joza Orisha](https://open.spotify.com/artist/3CPmm77nMufyLCi02EHSd2), [Robert Sadin](https://open.spotify.com/artist/5JWMejpVKhv7pYahgWSXSr) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 4:36 | 2022-08-05 |  |
+| [Kába](https://open.spotify.com/track/6pzyjHjE0HlaK9fYrMAuIH) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Mark Feldman](https://open.spotify.com/artist/4SOKSspBiacwf4ovOGG2iA), [Cyro Baptista](https://open.spotify.com/artist/2y9NOhiVDG6jZEMDwGUZhz), [Dramane Dembélé](https://open.spotify.com/artist/4ocTJVYKPWlU6NmQO0Ybuj), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Christi Joza Orisha](https://open.spotify.com/artist/3CPmm77nMufyLCi02EHSd2), [Robert Sadin](https://open.spotify.com/artist/5JWMejpVKhv7pYahgWSXSr) | [The Journey](https://open.spotify.com/album/0C2dTdoCdfo6mgH72ht6zt) | 4:36 | 2022-08-05 | 2024-10-26 |
 | [Kú yâk ñtuà éyét](https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm) | [Etuk Ubong](https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7) | [Kú yâk ñtuà éyét](https://open.spotify.com/album/3j2J214yaLBbnBUQL4W8R6) | 5:51 | 2023-12-22 |  |
 | [La Ka Ba'a](https://open.spotify.com/track/1Y62CbvptkVHpq6OsmFceu) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [O Yinne!](https://open.spotify.com/album/44sQZjLg99YdsNsPAkBNXj) | 4:12 | 2023-10-27 | 2024-04-19 |
 | [La Ka Ba'a](https://open.spotify.com/track/6anOI4TvzQdtTkIFEdK0Aw) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [La Ka Ba'a](https://open.spotify.com/album/6DPRRArQZKNxzw075SJRl9) | 4:12 | 2023-12-22 | 2024-05-08 |

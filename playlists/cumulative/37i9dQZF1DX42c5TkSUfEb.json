@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh"
+    },
+    {
+      "album": {
         "name": "folklore (deluxe version)",
         "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
       },
@@ -2304,7 +2322,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 166912,
       "name": "If You Were A Person (Ruby's Song)",
       "url": "https://open.spotify.com/track/6Vs0W8dCMo2hrYeez3iE6w"
@@ -3527,6 +3545,46 @@
     },
     {
       "album": {
+        "name": "October Moon",
+        "url": "https://open.spotify.com/album/330v2AkPhkpww8XyWcllyp"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246624,
+      "name": "October Moon",
+      "url": "https://open.spotify.com/track/3YsdzICwd73j0iZZB3l4z9"
+    },
+    {
+      "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157491,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
+    },
+    {
+      "album": {
         "name": "Every Kingdom",
         "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
@@ -3646,7 +3704,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 233076,
       "name": "only when i was with you",
       "url": "https://open.spotify.com/track/5GrGDLcNCM2GppSiLKteL7"
@@ -4990,7 +5048,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 196719,
       "name": "The Wedding Song",
       "url": "https://open.spotify.com/track/4etKo77nYtFeP3hIMuOrY1"

@@ -4,7 +4,7 @@
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: נועה קירל
 
-136 songs - 7 hr 16 min
+137 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [נהר הדמעות](https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x) | [Shlomo Artzi](https://open.spotify.com/artist/2W0dQPsEPd0tz7cj95gUse), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [נהר הדמעות](https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB) | 2:54 | 2024-06-20 |  |
 | [נתק אותי](https://open.spotify.com/track/4DR0S0A8F5DBByYLnPjdCr) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC), [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [נתק אותי](https://open.spotify.com/album/5hcEdUlI8Ne2eiXtnFQXgY) | 3:20 | 2024-06-20 |  |
 | [עולם משוגע](https://open.spotify.com/track/4JmmjsGmOED0sn0Le3r84u) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [גם זה יעבור](https://open.spotify.com/album/0MYnKew1Jfihg9ItpHg2oT) | 5:55 | 2024-06-20 |  |
+| [עולם משוגע \- קיסריה אנפלאגד](https://open.spotify.com/track/5j0kcyzn9L5okUYff1jGH5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [קיסריה אנפלאגד 2022](https://open.spotify.com/album/3C6Lur2DcbljDEPEkcrcF4) | 5:50 | 2024-10-17 |  |
 | [עזבת ת'בית](https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Nastia Rod](https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS) | [TATE WE MADE IT](https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn) | 3:48 | 2024-06-20 |  |
 | [פחד אלוהים](https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC) | [פחד אלוהים](https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB) | 2:49 | 2024-06-20 |  |
 | [פינוקיו](https://open.spotify.com/track/0SH0QjZhzbsrgEHNmuO0wy) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [רוקדת בשקיעה](https://open.spotify.com/album/3ofLyqRcjIOtU2oLGzz9Wo) | 3:12 | 2024-07-04 |  |
@@ -140,7 +141,7 @@
 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 | 2024-06-20 |  |
 | [שיר ללא שם](https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:38 | 2024-06-20 |  |
 | [שיר לנטע](https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [שיר לנטע](https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l) | 3:48 | 2024-06-20 |  |
-| [שמלה](https://open.spotify.com/track/5fa8pf8RcgYabA8GIwCKzc) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [ילד.](https://open.spotify.com/album/3pXBVP6C43OfcXzIvBGUKG) | 3:37 | 2024-06-20 |  |
+| [שמלה](https://open.spotify.com/track/5fa8pf8RcgYabA8GIwCKzc) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [ילד.](https://open.spotify.com/album/3pXBVP6C43OfcXzIvBGUKG) | 3:37 | 2024-06-20 | 2024-10-26 |
 | [שקיעה אחת](https://open.spotify.com/track/0MDUrgxaOA7IY09paA32GR) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [שקיעה אחת](https://open.spotify.com/album/0cgEOfp2T7EusYhxxzkzF6) | 3:47 | 2024-08-22 | 2024-09-20 |
 | [תיק קטן](https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [תיק קטן](https://open.spotify.com/album/2eKft1fH1UqbnKrhWyuk4f) | 2:53 | 2024-06-20 |  |
 | [⁠הכל עליי](https://open.spotify.com/track/07avaGrhcpGlhr47OrYJPj) | [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [הכל עליי](https://open.spotify.com/album/4GU3NU1mKc3DUZKDvmWCz8) | 3:14 | 2024-06-21 |  |

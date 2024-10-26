@@ -1689,6 +1689,32 @@
     },
     {
       "album": {
+        "name": "Christus Victor (Amen) [Live]",
+        "url": "https://open.spotify.com/album/6vJvxgrxATRwT4ovaSifUZ"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        },
+        {
+          "name": "Sing!",
+          "url": "https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336638,
+      "name": "Christus Victor (Amen) - Live",
+      "url": "https://open.spotify.com/track/72qqgNgJZqj1YJ57bmvO28"
+    },
+    {
+      "album": {
         "name": "Here (Live)",
         "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
       },
@@ -7307,7 +7333,7 @@
     },
     {
       "album": {
-        "name": "One Day (Live from VOUSCon)",
+        "name": "One Day (Live)",
         "url": "https://open.spotify.com/album/5BBCFlQYG6rcvY8Kzs6P3s"
       },
       "artists": [
@@ -7320,7 +7346,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 262015,
-      "name": "One Day - Live from VOUSCon",
+      "name": "One Day - Live From VOUSCon",
       "url": "https://open.spotify.com/track/0v8weMqlIWquZKp8TknLxL"
     },
     {
@@ -7594,7 +7620,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 377272,
       "name": "Place For Me - Live",
       "url": "https://open.spotify.com/track/3dzrpnM3qEIoP20DHhrUkN"
@@ -7742,6 +7768,32 @@
       "duration_ms": 304535,
       "name": "Praise (feat. Brandon Lake, Chris Brown & Chandler Moore)",
       "url": "https://open.spotify.com/track/7Ee6XgP8EHKDhTMYLIndu9"
+    },
+    {
+      "album": {
+        "name": "Chapel Sessions (Vol. 1)",
+        "url": "https://open.spotify.com/album/3N9X0XqmjcwlNO3ma61Ufc"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        },
+        {
+          "name": "Ahjah Walls",
+          "url": "https://open.spotify.com/artist/3ndbQOJkH1hZns1W0k4tPY"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321859,
+      "name": "Praise Is The Breakthrough",
+      "url": "https://open.spotify.com/track/6XtE7xTr9ME1EMw5aqcPzu"
     },
     {
       "album": {
@@ -7914,6 +7966,24 @@
       "duration_ms": 287805,
       "name": "Promises",
       "url": "https://open.spotify.com/track/3wkcyREQrVVDOIUjx1eZ1W"
+    },
+    {
+      "album": {
+        "name": "Future Glory (Live)",
+        "url": "https://open.spotify.com/album/2kDpeDD6Ny0yqnH3kiwnrU"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306106,
+      "name": "Psalm 139 - Live From VOUSCon",
+      "url": "https://open.spotify.com/track/2AFOq7aILntzNEZsJ1xqZN"
     },
     {
       "album": {
@@ -11001,7 +11071,7 @@
     },
     {
       "album": {
-        "name": "Worship Works (Live from VOUSCon)",
+        "name": "Worship Works (Live)",
         "url": "https://open.spotify.com/album/1A2ASwKjLODbCXCGnEFXYE"
       },
       "artists": [
@@ -11018,7 +11088,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 334597,
-      "name": "Worship Works - Live from VOUSCon",
+      "name": "Worship Works - Live From VOUSCon",
       "url": "https://open.spotify.com/track/4hZqNQLzdO6k4kiukI4mp5"
     },
     {

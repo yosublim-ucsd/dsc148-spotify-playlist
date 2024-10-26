@@ -1,13 +1,193 @@
 {
-  "description": "The best songs from the new shows and the buzziest hits. Cover: The Great Gatsby",
-  "num_followers": 110447,
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Romeo + Juliet",
+  "num_followers": 110475,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAABLhrc0x3Hx+eEa/nYFQQpO",
+  "snapshot_id": "ZxsXwAAAAABwBFtrB6IELnSVy9Dehhd4",
   "tracks": [
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Man Of The House",
+        "url": "https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Man Of The House",
+      "url": "https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Playing With Fire (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/2BSWztobDwPRNdoICigWNY"
+      },
+      "artists": [
+        {
+          "name": "Cardamon Rozzi",
+          "url": "https://open.spotify.com/artist/3CWOdAXmL8NQGG6eC4nPbu"
+        },
+        {
+          "name": "JC Chasez",
+          "url": "https://open.spotify.com/artist/3p3U04w2DaiBzuYMZnYr00"
+        }
+      ],
+      "duration_ms": 235923,
+      "name": "How Do You Sleep",
+      "url": "https://open.spotify.com/track/5O1KUF2pfaDvWG42z8927P"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "CAKE: The Marie Antoinette Playlist (Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/0wIkG3HcEubSxNueheYcSW"
+      },
+      "artists": [
+        {
+          "name": "Cake The Musical",
+          "url": "https://open.spotify.com/artist/60uKAnsWM88nOiQ8cMnLha"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Let Them Eat Cake",
+      "url": "https://open.spotify.com/track/0tfWuZZS3MA4UdMryLeApR"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "If You Can Count",
+      "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Here We Are (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/04SqfbxYwlEhk5GenxL4mv"
+      },
+      "artists": [
+        {
+          "name": "Denis O'Hare",
+          "url": "https://open.spotify.com/artist/6V61xKjFeKyRl9FAgKtKYS"
+        },
+        {
+          "name": "Amber Gray",
+          "url": "https://open.spotify.com/artist/14i357yzHOFOHFma68eNJb"
+        },
+        {
+          "name": "Jeremy Shamos",
+          "url": "https://open.spotify.com/artist/1gU6vW1dNs4oZMGoKDAW3h"
+        },
+        {
+          "name": "Steven Pasquale",
+          "url": "https://open.spotify.com/artist/28Ni327TDo6yEqZXD10d5I"
+        },
+        {
+          "name": "Bobby Cannavale",
+          "url": "https://open.spotify.com/artist/39ZMrrNEthdwHD5WrmBEk4"
+        },
+        {
+          "name": "Rachel Bay Jones",
+          "url": "https://open.spotify.com/artist/73sIMDrtvzFVs4Y1WkUpTd"
+        },
+        {
+          "name": "Micaela Diamond",
+          "url": "https://open.spotify.com/artist/4cwza2NZPQtmTcXotvpwWq"
+        }
+      ],
+      "duration_ms": 261519,
+      "name": "Waiter's Song",
+      "url": "https://open.spotify.com/track/2E0AjkiDgeQwAMLWyNudf5"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "London Tide (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/6NXmIaLAsmdZtwoFDLSr1o"
+      },
+      "artists": [
+        {
+          "name": "Bella Maclean",
+          "url": "https://open.spotify.com/artist/1qGmtTL76ZEi8qAxK9UnrI"
+        },
+        {
+          "name": "Jamael Westman",
+          "url": "https://open.spotify.com/artist/1uk06IxiubOYSo7o1kidXV"
+        },
+        {
+          "name": "Peter Wight",
+          "url": "https://open.spotify.com/artist/37W7h3RfnpZF6injNzhsJP"
+        },
+        {
+          "name": "Brandon Grace",
+          "url": "https://open.spotify.com/artist/2vBw0XUryt0Q2BCBm8M4SQ"
+        },
+        {
+          "name": "Penny Layden",
+          "url": "https://open.spotify.com/artist/26owa6NX716Cux9nu8DJF5"
+        },
+        {
+          "name": "Scott Karim",
+          "url": "https://open.spotify.com/artist/56oDjIq7c2N3fPlGNvfmbC"
+        },
+        {
+          "name": "Crystal Condie",
+          "url": "https://open.spotify.com/artist/4TbYaqFzXC72w5HHys7Ft3"
+        },
+        {
+          "name": "London Tide Ensemble",
+          "url": "https://open.spotify.com/artist/6BRIsRBRZj0nL9NAdOJeVm"
+        },
+        {
+          "name": "National Theatre",
+          "url": "https://open.spotify.com/artist/79AltunuGquHngpP9jVJts"
+        }
+      ],
+      "duration_ms": 122373,
+      "name": "London Song",
+      "url": "https://open.spotify.com/track/7A3PjOKKA6oOwjvwrOFoiB"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Hydrogen / Crazy",
+        "url": "https://open.spotify.com/album/2G26we8qI9rtz4MkpcDAUz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Starlight Express",
+          "url": "https://open.spotify.com/artist/0tU5mIMhY8VA85lj88bVRn"
+        },
+        {
+          "name": "Jaydon Vijn",
+          "url": "https://open.spotify.com/artist/0GvETYvpytrlCdO23rntCK"
+        }
+      ],
+      "duration_ms": 184635,
+      "name": "Hydrogen",
+      "url": "https://open.spotify.com/track/5QMJKsWHB14nPhMhw30G8v"
+    },
     {
       "added_at": "2024-06-28 04:27:17",
       "album": {
@@ -33,24 +213,24 @@
       "url": "https://open.spotify.com/track/62Y2MyXpDYWc93zUWNKrke"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-06-28 04:27:17",
       "album": {
-        "name": "Sunset Boulevard",
-        "url": "https://open.spotify.com/album/2gP8X7vYXXLRRc1xc236Ji"
+        "name": "Cabaret (2021 London Cast Recording)",
+        "url": "https://open.spotify.com/album/1fY0T7jcqYLYLBBsITaubJ"
       },
       "artists": [
         {
-          "name": "Tom Francis",
-          "url": "https://open.spotify.com/artist/1BmpFeWuQkyVbGLIzebnRD"
+          "name": "2021 London Cast of Cabaret",
+          "url": "https://open.spotify.com/artist/7hFguD91cYFuITTZCc4aQC"
         },
         {
-          "name": "Andrew Lloyd Webber",
-          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+          "name": "Jessie Buckley",
+          "url": "https://open.spotify.com/artist/0gvb5LJ9nR6z0UqohIojP1"
         }
       ],
-      "duration_ms": 198160,
-      "name": "Sunset Boulevard",
-      "url": "https://open.spotify.com/track/4fVWMrGH0eBrfZtnbkN7RZ"
+      "duration_ms": 260000,
+      "name": "Maybe This Time",
+      "url": "https://open.spotify.com/track/4TfIo8JDwLyNeyoWISZnhR"
     },
     {
       "added_at": "2024-06-28 04:27:17",
@@ -115,6 +295,26 @@
       "duration_ms": 210188,
       "name": "Home",
       "url": "https://open.spotify.com/track/3Y6TrexjQryeW8U9UN5kzn"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Tomorrow, the Island Dies (Complete Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/4kMYAjZvHtW7n8cosgwTUz"
+      },
+      "artists": [
+        {
+          "name": "Ryan Scott Oliver",
+          "url": "https://open.spotify.com/artist/6ZN2tFyslA0XNQmZoOKlz9"
+        },
+        {
+          "name": "Jason Gotay",
+          "url": "https://open.spotify.com/artist/18QGDMb7iwtEcsz3n5myg3"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/4P3JZmlq5RRlOg7KE0kZEh"
     },
     {
       "added_at": "2024-06-28 04:27:17",
@@ -355,54 +555,6 @@
     {
       "added_at": "2024-06-28 04:27:17",
       "album": {
-        "name": "Merrily We Roll Along (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1ysKXBVW9cBAmeKgbtxRZd"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Groff",
-          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
-        },
-        {
-          "name": "Daniel Radcliffe",
-          "url": "https://open.spotify.com/artist/2YD3t3MBtQo16C8FrEYVh3"
-        },
-        {
-          "name": "Lindsay Mendez",
-          "url": "https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2"
-        },
-        {
-          "name": "New Broadway Cast of Merrily We Roll Along",
-          "url": "https://open.spotify.com/artist/6LMssK1H6Zrtcccwp1aKlt"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/4IRHXPQ794fL8BklZmxgwF"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Lempicka (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/17Jtzv1OPujNW4QgxdiSrd"
-      },
-      "artists": [
-        {
-          "name": "Eden Espinosa",
-          "url": "https://open.spotify.com/artist/1day3d1ZWCpu55cKqEEG7X"
-        },
-        {
-          "name": "Original Broadway Cast of Lempicka",
-          "url": "https://open.spotify.com/artist/6DZeFg4IcWilAXZ0HVnw7I"
-        }
-      ],
-      "duration_ms": 292740,
-      "name": "Woman Is",
-      "url": "https://open.spotify.com/track/3Nse8DZcXWKUo1sb6yjDlL"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
         "name": "The March (We Demand Equality) [from the Broadway musical \u201cSuffs\u201d]",
         "url": "https://open.spotify.com/album/0t1TWC07YlrRIMq8B2Ryg4"
       },
@@ -443,26 +595,6 @@
       "duration_ms": 155597,
       "name": "Silver Stars",
       "url": "https://open.spotify.com/track/3phCLghVIsBjIGAfYxNpRz"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Cabaret (2021 London Cast Recording)",
-        "url": "https://open.spotify.com/album/1fY0T7jcqYLYLBBsITaubJ"
-      },
-      "artists": [
-        {
-          "name": "2021 London Cast of Cabaret",
-          "url": "https://open.spotify.com/artist/7hFguD91cYFuITTZCc4aQC"
-        },
-        {
-          "name": "Jessie Buckley",
-          "url": "https://open.spotify.com/artist/0gvb5LJ9nR6z0UqohIojP1"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Maybe This Time",
-      "url": "https://open.spotify.com/track/4TfIo8JDwLyNeyoWISZnhR"
     },
     {
       "added_at": "2024-06-28 04:27:17",
@@ -1039,122 +1171,6 @@
       "duration_ms": 161360,
       "name": "Risen",
       "url": "https://open.spotify.com/track/51kR1dYXVfmfBLARCotaVK"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "17 Again (Studio Cast Recording)",
-        "url": "https://open.spotify.com/album/6bgncM5GAlOf5R1zopeAN5"
-      },
-      "artists": [
-        {
-          "name": "Casey Likes",
-          "url": "https://open.spotify.com/artist/2y3sCYh34QgmPXj1HdUlsu"
-        },
-        {
-          "name": "Bryce Pinkham",
-          "url": "https://open.spotify.com/artist/4btoHQmPd0eXBRdxsN7AJd"
-        }
-      ],
-      "duration_ms": 206538,
-      "name": "17 Again",
-      "url": "https://open.spotify.com/track/2fl1DErM255mxTv7c9MU26"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "42 Balloons (Studio Cast Recording) [Selected Tracks]",
-        "url": "https://open.spotify.com/album/6c4IDwINPtczkNDWxPdhF1"
-      },
-      "artists": [
-        {
-          "name": "42 Balloons",
-          "url": "https://open.spotify.com/artist/71NxmuB3wQi8WDbqwpzweX"
-        },
-        {
-          "name": "Jack Godfrey",
-          "url": "https://open.spotify.com/artist/41D8udF0kbSTq61sS0VajU"
-        },
-        {
-          "name": "Morgan Gregory",
-          "url": "https://open.spotify.com/artist/1WXiYSSHeylk1m1zZ3XElQ"
-        },
-        {
-          "name": "Jordan Broatch",
-          "url": "https://open.spotify.com/artist/4wjxyuvs0rhJZL8PpOhj7f"
-        },
-        {
-          "name": "Laura Dawn Pyatt",
-          "url": "https://open.spotify.com/artist/76i7X8OMi7dA6dXk2KPPE4"
-        },
-        {
-          "name": "Tinovimbanashe Sibanda",
-          "url": "https://open.spotify.com/artist/11GeviC6jjtoZWt2vRZJFV"
-        }
-      ],
-      "duration_ms": 164542,
-      "name": "42 Balloons and a Lawn Chair",
-      "url": "https://open.spotify.com/track/1vvpleOg9j0eT5RYIfK8dB"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Millennials Are Killing Musicals (Original Off-Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/60YR9Eif4RFuWLv5PIVCH7"
-      },
-      "artists": [
-        {
-          "name": "Nico Juber",
-          "url": "https://open.spotify.com/artist/0IZRtfJXPvqed6nw0DxHZD"
-        },
-        {
-          "name": "Kristolyn Lloyd",
-          "url": "https://open.spotify.com/artist/31Rv7Yk0rBrYdQ0ELNZDaR"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/3L0SSHs036ksVY1Wr92ibc"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Wild About You (World Premiere Recording)",
-        "url": "https://open.spotify.com/album/6cUSDnALTsDCfCUz7F1qi9"
-      },
-      "artists": [
-        {
-          "name": "Katharine McPhee",
-          "url": "https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Floating And Falling",
-      "url": "https://open.spotify.com/track/0AknRryO2t19Y1WgBDxsru"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "White Rose: The Musical (Original Off-Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2wYNbpl9rpHwHLFmA0pwZ7"
-      },
-      "artists": [
-        {
-          "name": "Brian Belding",
-          "url": "https://open.spotify.com/artist/66MBnWtGCjLT3tpaT8zhKL"
-        },
-        {
-          "name": "Natalie Brice",
-          "url": "https://open.spotify.com/artist/2exZm7i4oNnfN8dWqwKAd5"
-        },
-        {
-          "name": "Mike Cefalo",
-          "url": "https://open.spotify.com/artist/3XxBWUHr5XgD6Xvl51GAHy"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "The Sheep Chose a Wolf",
-      "url": "https://open.spotify.com/track/2r00OW9OwUZTqY4OKvoUkc"
     }
   ],
   "unique_name": "Broadway Rising",

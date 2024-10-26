@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,929 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,975 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 91 | [Paredão Espanca \- Ao Vivo](https://open.spotify.com/track/111OVupOu3eEnfR3ebrdXK) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Dadá Boladão](https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX) | [SIM, EP 1 \(Ao Vivo\)](https://open.spotify.com/album/5o6lPm02Mij9Mx6yjC9GNv) | 2:27 |
 | 92 | [Voltar Atrás \- Ao Vivo](https://open.spotify.com/track/4VkIaYvfmdOMY4xeFGB6hy) | [Tico](https://open.spotify.com/artist/5hebGYlrm4mQdILPO5XA8o), [Dorgival Dantas](https://open.spotify.com/artist/3J4WurF5XyCy2ToWeCof5Y) | [Voltar Atrás \(Ao Vivo\)](https://open.spotify.com/album/6V0dXeGGozjuwVXSpIZVgi) | 2:54 |
 | 93 | [Mantenha Distância](https://open.spotify.com/track/4fs0ImTtUd9lfD7WA7edUX) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Mantenha Distância](https://open.spotify.com/album/26GulP7pTxfqLFVgdAwJAS) | 2:25 |
-| 94 | [Se Você Se Entregar](https://open.spotify.com/track/3WbtamPQS9wdB784HVTeAN) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vem Me Amar](https://open.spotify.com/album/54zbtfsS8bCb9PTvwpw2F2) | 3:20 |
-| 95 | [Lovezinho Oculto](https://open.spotify.com/track/2OM7M4NCoJDOil6bJniALp) | [Victor Santos](https://open.spotify.com/artist/3swRzPZRzlzeGczSJxhxne) | [Lovezinho Oculto](https://open.spotify.com/album/7c5Na47JFn0FhHsmtBqXT5) | 2:36 |
+| 94 | [Lovezinho Oculto](https://open.spotify.com/track/2OM7M4NCoJDOil6bJniALp) | [Victor Santos](https://open.spotify.com/artist/3swRzPZRzlzeGczSJxhxne) | [Lovezinho Oculto](https://open.spotify.com/album/7c5Na47JFn0FhHsmtBqXT5) | 2:36 |
+| 95 | [Se Você Se Entregar](https://open.spotify.com/track/3WbtamPQS9wdB784HVTeAN) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Vem Me Amar](https://open.spotify.com/album/54zbtfsS8bCb9PTvwpw2F2) | 3:20 |
 | 96 | [Bumbum Granada \- Ao Vivo](https://open.spotify.com/track/1RkpXLUzD8xQd7pgQAyaNI) | [Aviões do Forró](https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za) | [Aviões Fantasy \(Ao Vivo\)](https://open.spotify.com/album/1qOhPJ43PrzQMkpUGqNAcy) | 2:46 |
 | 97 | [O Piseiro Estourou](https://open.spotify.com/track/1Fdp9g8RuwiqWWITwU2QLI) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Vitor Fernandes](https://open.spotify.com/artist/3TJGVUkSJzk5ZPixMFczZX), [Victor Meira](https://open.spotify.com/artist/0MjRKm8DW3DqXxCAcR13FC), [Zeca Bota Bom](https://open.spotify.com/artist/321psdOgtVXQr5EIE3XlpA), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Piseiro, Churrasco & Paredão](https://open.spotify.com/album/1Ic1iEkQ2udppQAjB8Ovoy) | 2:28 |
 | 98 | [Amando por 2 e Bebendo por 10 \- Ao Vivo](https://open.spotify.com/track/18P0nUq9ZcFC9DIN4syWug) | [Cavaleiros do Forró](https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Amando por 2 e Bebendo por 10 \(Ao Vivo\)](https://open.spotify.com/album/3FN0HVUNWwN1sdjieH1Ffo) | 2:55 |
-| 99 | [Alô @](https://open.spotify.com/track/0qjCRnaKCaTcOfQ6TWaYt5) | [Weliton O Gordinho](https://open.spotify.com/artist/6nGLbk2FTxxQnyy1EeKwFP) | [Alô @](https://open.spotify.com/album/6JsnblEneXG3RPNIMteagm) | 2:57 |
-| 100 | [Hackearam\-Me](https://open.spotify.com/track/5NeBu4oKweDXIjhvYqtbLo) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Hackearam\-Me](https://open.spotify.com/album/3KHR8xoze8HO6SGTCeCGQt) | 3:29 |
+| 99 | [Hackearam\-Me](https://open.spotify.com/track/5NeBu4oKweDXIjhvYqtbLo) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Hackearam\-Me](https://open.spotify.com/album/3KHR8xoze8HO6SGTCeCGQt) | 3:29 |
+| 100 | [Alô @](https://open.spotify.com/track/0qjCRnaKCaTcOfQ6TWaYt5) | [Weliton O Gordinho](https://open.spotify.com/artist/6nGLbk2FTxxQnyy1EeKwFP) | [Alô @](https://open.spotify.com/album/6JsnblEneXG3RPNIMteagm) | 2:57 |
 
 Snapshot ID: `Zowr0wAAAAA0Y6Fzjv6AyJvbuk8dtmmI`

@@ -1,13 +1,29 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: Mallrat",
-  "num_followers": 128366,
+  "num_followers": 128380,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxpFDAAAAADqEQNB9W2jZHjr1ft+JVS2",
+  "snapshot_id": "ZxsX/AAAAACUSYzUdprqm9cYZwuZ0Er+",
   "tracks": [
+    {
+      "added_at": "2024-10-25 04:01:00",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
     {
       "added_at": "2024-10-24 13:01:00",
       "album": {

@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Skepta, Flo Milli
 
-1,336 songs - 2 day 19 hr 49 min
+1,338 songs - 2 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,12 +142,14 @@
 | [Big Booty](https://open.spotify.com/track/1idQpK6A2SotHKjw2AotLS) | [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd) | [Big Booty](https://open.spotify.com/album/62yXFa3a4MbG6KDSFhdPa9) | 2:03 | 2022-06-03 | 2022-07-08 |
 | [Big Chat](https://open.spotify.com/track/08TiOZB42PXbQCNPcCP0Ni) | [Don Strapzy](https://open.spotify.com/artist/7bwBAtVTFlb48j5YFUm4PT) | [Big Chat](https://open.spotify.com/album/6sfWUfzahSp7LMc3FRHRax) | 2:56 | 2024-09-25 | 2024-10-04 |
 | [Big Fat Machine \(feat\. Fivio Foreign & Major League Djz\)](https://open.spotify.com/track/4x7Brpn3919ruJ5vy4FJo1) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [Big Fat Machine \(feat\. Fivio Foreign and Major League Djz\)](https://open.spotify.com/album/3NQVHG2n2lFh4CYNBcaKJ5) | 5:03 | 2024-03-15 | 2024-04-06 |
+| [Big In Da Game](https://open.spotify.com/track/5X3A2mJg2ptLNZ1p0sJiHT) | [KidSuper](https://open.spotify.com/artist/0BVvfg3U3fKhHQh4DMMeF2), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Big In Da Game](https://open.spotify.com/album/58CdyyKsbLQXItkF19sW9c) | 3:10 | 2024-10-24 |  |
 | [Big Mama](https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:53 | 2024-08-29 | 2024-08-31 |
 | [Big Mama](https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky) | 2:54 | 2024-06-28 | 2024-07-19 |
 | [Big Mistake](https://open.spotify.com/track/49MP4LYaSqpECfHXtrCSXr) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Big Mistake](https://open.spotify.com/album/737oFtZMuM1PgXVa6iochj) | 2:40 | 2023-05-25 | 2023-05-27 |
 | [Big Mistake](https://open.spotify.com/track/4RSfajckblCGSpPWsmq4W3) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Tales of a Miracle \(Deluxe\)](https://open.spotify.com/album/7eDnw7VgUNXxg3v7GOEyFT) | 2:40 | 2023-05-26 | 2023-07-07 |
 | [Big Tingz](https://open.spotify.com/track/1HXGcC4KiBn9QM4PcjYLq6) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc) | [Big Tingz](https://open.spotify.com/album/3kYi8PMN36QAHyTEYc3KZ5) | 2:19 | 2022-03-08 | 2022-03-09 |
 | [Big Woman](https://open.spotify.com/track/4YkEW0NUEldXj6bxpYUZcy) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Big Woman](https://open.spotify.com/album/7EeSFxb1JTYVPnXJbES8jT) | 2:53 | 2022-02-25 | 2022-03-11 |
+| [Bigger In Texas](https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:32 | 2024-10-25 |  |
 | [Bigger Than Life](https://open.spotify.com/track/5PqO45k0bwz7idhZYdbHSY) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Bigger Than Life](https://open.spotify.com/album/6Nf93VWSRWwBArgnPXhn8G) | 2:40 | 2022-06-30 | 2022-08-24 |
 | [Billion Streams Freestyle](https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:06 | 2024-08-23 |  |
 | [Billions](https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Billions](https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2) | 3:44 | 2024-05-17 | 2024-06-14 |
@@ -182,7 +184,7 @@
 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 | 2022-08-23 | 2022-08-31 |
 | [Brilliant Mind II](https://open.spotify.com/track/1XOkwSEuFloCRyxQdTJS1h) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Brilliant Mind II](https://open.spotify.com/album/3fBsD931UHRVPRFJZD3MDF) | 2:49 | 2023-11-10 | 2024-03-29 |
 | [Bringing It Back](https://open.spotify.com/track/52yt96B08SMAqrCSGNaxNZ) | [HAZEY](https://open.spotify.com/artist/6IJaUfq4P3Zjifp4YIJ8oG) | [Bringing It Back](https://open.spotify.com/album/21s91ymOCWVOs6R6fsckyr) | 2:06 | 2022-09-30 | 2023-01-13 |
-| [Brokey](https://open.spotify.com/track/6g7vo9RiTkmCDHywj9HKEW) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp) | 3:37 | 2024-08-30 |  |
+| [Brokey](https://open.spotify.com/track/6g7vo9RiTkmCDHywj9HKEW) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp) | 3:37 | 2024-08-30 | 2024-10-26 |
 | [Bubble Bath](https://open.spotify.com/track/3bYJKHx28JSYDnCXbBXpY5) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Bubble Bath](https://open.spotify.com/album/4Jgkh361Fjh0ScarMZtASS) | 2:11 | 2024-07-04 | 2024-09-06 |
 | [Bufu](https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX) | [Boy Boy](https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS) | [Bufu](https://open.spotify.com/album/7MTyYh2AMh6Whf6zpB1OTe) | 3:18 | 2023-05-18 | 2023-07-14 |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-07 | 2024-08-30 |

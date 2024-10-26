@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-123 songs - 6 hr 27 min
+124 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Black Effect](https://open.spotify.com/track/3u1M5fVPD73IElMCBOYyiJ) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Black Effect](https://open.spotify.com/album/3ur9x6ksnT3OUlgk1dghrj) | 2:55 | 2022-01-10 |  |
 | [Brown Munde](https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Brown Munde](https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs) | 4:14 | 2021-12-18 |  |
 | [Built Different](https://open.spotify.com/track/5tIr2cGQsj0oeqLk2tAU0L) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:07 | 2021-12-18 | 2022-01-11 |
-| [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 | 2023-07-26 |  |
+| [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 | 2023-07-26 | 2024-10-26 |
 | [C Walk](https://open.spotify.com/track/78SUtcXKU42oqnW105CUZS) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 2:45 | 2022-02-17 |  |
 | [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 | 2023-11-17 |  |
 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 | 2022-02-07 |  |
@@ -36,6 +36,7 @@
 | [Click That B Kickin It \(Yaar Jatt De\)](https://open.spotify.com/track/5SzPs3C9TLb7CGDwlB5kaZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Click That B Kickin It \(Yaar Jatt De\)](https://open.spotify.com/album/16T7F58qWvIfjLri9fotfN) | 4:07 | 2021-12-18 | 2022-01-11 |
 | [Dabde Ni](https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Dabde Ni](https://open.spotify.com/album/1236zEPDcZelmCVboTx4AO) | 3:27 | 2021-12-18 |  |
 | [Deadly](https://open.spotify.com/track/0jq1fpqCEnAhWlIjwKglkc) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Deadly](https://open.spotify.com/album/3qRDE1vYVz3GirSnvrmKMl) | 2:38 | 2021-12-18 | 2022-01-11 |
+| [Depend](https://open.spotify.com/track/2Vv9mj3xR6NV5iPsBHmusP) | [Inderjit Nikku](https://open.spotify.com/artist/6Tfn1zm2FagIHJLbTSMPim), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Depend](https://open.spotify.com/album/4QWG3nO1RrxHS4xFP7qLXf) | 2:36 | 2024-10-25 |  |
 | [Diamond Koka](https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Diamond Koka](https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD) | 2:52 | 2022-01-11 |  |
 | [Don't Care](https://open.spotify.com/track/1hSWz5AZ36WjQMgFOir0By) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Don't Care](https://open.spotify.com/album/2BdHXu9RoP1JfwDypU5fk9) | 3:38 | 2022-01-10 | 2024-09-29 |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2021-12-18 | 2024-09-17 |

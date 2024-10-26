@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Yan Block, Blessd, Cris Mj, Feid and more.\ud83d\udd25\ud83c\udf51",
+  "description": "Reggaeton hits from Myke Towers, Maldy, De La Ghetto  and more.\ud83d\udd25\ud83c\udf51",
   "name": "Baila Reggaeton",
   "tracks": [
     {
@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "AMI Paris",
+        "url": "https://open.spotify.com/album/4tK82nRb9RlbxXl6mHuKgm"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "AMI Paris",
+      "url": "https://open.spotify.com/track/4EnhZsNiUgAbwTuL5Y0KlS"
+    },
+    {
+      "album": {
         "name": "AMIGA CON BENEFICIOS",
         "url": "https://open.spotify.com/album/1ED1fTcpHUfsXRIGDHPHaS"
       },
@@ -480,7 +498,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 193411,
       "name": "AMIGA CON BENEFICIOS",
       "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
@@ -1622,7 +1640,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 195658,
       "name": "CELOSA",
       "url": "https://open.spotify.com/track/54SxKnMV1na7LvI5xVoA5e"
@@ -3456,6 +3474,32 @@
       "duration_ms": 182863,
       "name": "Envolver Remix",
       "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
+    },
+    {
+      "album": {
+        "name": "HAYABUSA",
+        "url": "https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180352,
+      "name": "Epica",
+      "url": "https://open.spotify.com/track/61zBrSzch8LvD0oeOhC2LN"
     },
     {
       "album": {
@@ -8632,7 +8676,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 254493,
       "name": "Porsche Carrera",
       "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
@@ -9900,7 +9944,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 164618,
       "name": "Sexy Sensual",
       "url": "https://open.spotify.com/track/7saa8t9KRzBnPXuyjNujvK"
@@ -10830,6 +10874,24 @@
       "duration_ms": 148363,
       "name": "Toy a Mil",
       "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
+    },
+    {
+      "album": {
+        "name": "TOY PERDIO",
+        "url": "https://open.spotify.com/album/41Fx3xFa1msZKkLGXVgm4t"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175102,
+      "name": "TOY PERDIO",
+      "url": "https://open.spotify.com/track/3JXGcoxUTyBU7AYdpsLdH6"
     },
     {
       "album": {
@@ -11888,6 +11950,24 @@
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "album": {
+        "name": "X-100",
+        "url": "https://open.spotify.com/album/2in5hvGyyMAySTPlnZg8gw"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119879,
+      "name": "X-100",
+      "url": "https://open.spotify.com/track/3lg0bdrf3ayL5mc7uDHpss"
     },
     {
       "album": {

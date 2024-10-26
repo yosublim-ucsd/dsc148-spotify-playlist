@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: THEHONESTGUY",
+  "description": "Music for your soul. Cover: TOBi",
   "name": "BUTTER",
   "tracks": [
     {
@@ -884,7 +884,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 298533,
       "name": "Age Of Ascent",
       "url": "https://open.spotify.com/track/5BOkALb3jw3m6SONNtBYRR"
@@ -1644,6 +1644,24 @@
       "duration_ms": 186990,
       "name": "Anyone In Love",
       "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+    },
+    {
+      "album": {
+        "name": "Anyways",
+        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176888,
+      "name": "Anyways",
+      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
     },
     {
       "album": {
@@ -4027,6 +4045,32 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/49XXnXZyajupirusZZ8fow"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        },
+        {
+          "name": "Mojam",
+          "url": "https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200533,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc"
+    },
+    {
+      "album": {
         "name": "Hosoi",
         "url": "https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn"
       },
@@ -4074,7 +4118,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167000,
       "name": "By My Side",
       "url": "https://open.spotify.com/track/1n3huRLAByO21gV7e0dU5x"
@@ -5538,6 +5582,24 @@
       "duration_ms": 277894,
       "name": "Creep",
       "url": "https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB"
+    },
+    {
+      "album": {
+        "name": "FOR THE BOY IN ME",
+        "url": "https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165926,
+      "name": "CREW > BOO",
+      "url": "https://open.spotify.com/track/6ItZQ8su5pjgfBPW9ulAnw"
     },
     {
       "album": {
@@ -7162,7 +7224,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 218181,
       "name": "Ego Slide",
       "url": "https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn"
@@ -8398,7 +8460,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 121318,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/3XlHdDuwPGjk63ruhqLUAW"
@@ -12391,6 +12453,28 @@
     },
     {
       "album": {
+        "name": "I'm on your team",
+        "url": "https://open.spotify.com/album/1e7jZCaYQ6UyyrENaP4VOT"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "I'm on your team",
+      "url": "https://open.spotify.com/track/6vHmrQXC2dACfRAQ4jivTF"
+    },
+    {
+      "album": {
         "name": "I'm Sorry (ft. Lous and The Yakuza)",
         "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
       },
@@ -12576,7 +12660,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 176785,
       "name": "IMY",
       "url": "https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4"
@@ -14036,7 +14120,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 217304,
       "name": "Light Work",
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
@@ -14684,7 +14768,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 207982,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/1Dk2urUIeWH6A6tUHygDlQ"
@@ -15516,6 +15600,24 @@
       "duration_ms": 181130,
       "name": "Means The World",
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
+    },
+    {
+      "album": {
+        "name": "Memory of You",
+        "url": "https://open.spotify.com/album/73qFTo2fVrJSMHqhSukS8J"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173341,
+      "name": "Memory Of You",
+      "url": "https://open.spotify.com/track/5elx3cOVhheytOQ8Qp0act"
     },
     {
       "album": {
@@ -16642,7 +16744,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 194184,
       "name": "Mystery ft. PJ Morton",
       "url": "https://open.spotify.com/track/1vtrfEsKAdbJfuHtddCAMe"
@@ -18784,7 +18886,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 162252,
       "name": "Personal (feat. Popcaan)",
       "url": "https://open.spotify.com/track/21rpfAvdK99sKm1LGETyag"
@@ -19395,6 +19497,28 @@
     },
     {
       "album": {
+        "name": "SOUNDSORCERER, VOL.2",
+        "url": "https://open.spotify.com/album/3m1zGZTGi3qQXLZAiiuuxt"
+      },
+      "artists": [
+        {
+          "name": "SIMBO",
+          "url": "https://open.spotify.com/artist/1lQA8yJSOVRxFOGJvRDQDU"
+        },
+        {
+          "name": "Iman Omari",
+          "url": "https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161057,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/5iGENNDYmDkCIW4J14ROeH"
+    },
+    {
+      "album": {
         "name": "Provide",
         "url": "https://open.spotify.com/album/4x0VW5YyJIn2OlGj9XLCSc"
       },
@@ -19897,6 +20021,24 @@
     },
     {
       "album": {
+        "name": "Rebel Soul",
+        "url": "https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Rebel Soul",
+      "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"
+    },
+    {
+      "album": {
         "name": "Project Chambers",
         "url": "https://open.spotify.com/album/1J372X35jmwpNMKEStSUhB"
       },
@@ -20288,6 +20430,24 @@
       "duration_ms": 181853,
       "name": "Rolled Up",
       "url": "https://open.spotify.com/track/7enQQopiJ8KAsQGNJlm6ZH"
+    },
+    {
+      "album": {
+        "name": "The Drive Home",
+        "url": "https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143102,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
     },
     {
       "album": {
@@ -23087,6 +23247,28 @@
     },
     {
       "album": {
+        "name": "Sublimation",
+        "url": "https://open.spotify.com/album/6dA3Y7WIjixKFCqflFgkFk"
+      },
+      "artists": [
+        {
+          "name": "Legendes Industries",
+          "url": "https://open.spotify.com/artist/0DJutzzjro4AISmIYnzQKZ"
+        },
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174715,
+      "name": "Sublimation",
+      "url": "https://open.spotify.com/track/3ovzms5fWVT3cayO5fGZN4"
+    },
+    {
+      "album": {
         "name": "Submerge",
         "url": "https://open.spotify.com/album/0RvovDZcFIQI1e3D2fkwaZ"
       },
@@ -23142,6 +23324,24 @@
       "duration_ms": 180066,
       "name": "SULA (Hardcover)",
       "url": "https://open.spotify.com/track/43xBou0k59JFbi3qa8JpIm"
+    },
+    {
+      "album": {
+        "name": "ECHOES OF PRAYER",
+        "url": "https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175553,
+      "name": "Sum Love",
+      "url": "https://open.spotify.com/track/1VczlNTqhGoDIEKi1jLCTc"
     },
     {
       "album": {
@@ -23352,7 +23552,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 133790,
       "name": "Sunrise Roulette",
       "url": "https://open.spotify.com/track/1B32h1RFL6GrHgBLmbUXd2"

@@ -2,7 +2,7 @@
 
 ### [Columbia Records: Weekly Mix](https://open.spotify.com/playlist/4WDwW7forWdQWutkAEVZMR)
 
-> Your go\-to playlist for this week's hottest music featuring The Kid LAROI, Miley Cyrus, and more! Cover: Koe Wetzel
+> Your go\-to playlist for this week's hottest music featuring Halsey, Tyler, The Creator,  Addison Rae and more! Cover: Halsey
 
 817 songs - 1 day 17 hr 8 min
 

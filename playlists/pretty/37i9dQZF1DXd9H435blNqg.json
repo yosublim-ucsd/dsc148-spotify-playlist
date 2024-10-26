@@ -1,18 +1,18 @@
 {
   "description": "A different shade of the blues. Cover: Dan Auerbach",
-  "num_followers": 56280,
+  "num_followers": 56313,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAABtB5EF6zp+cfSz0AwANFbF",
+  "snapshot_id": "ZxsXwAAAAACSxC94ROnZtarZ6fu2EyzC",
   "tracks": [
     {
-      "added_at": "2024-08-23 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Get By (With Me)",
-        "url": "https://open.spotify.com/album/798myu49T30x19CgMckKis"
+        "name": "1947",
+        "url": "https://open.spotify.com/album/6xCT36Xkh9emaPwxgMsihQ"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
         }
       ],
-      "duration_ms": 241964,
-      "name": "Slow Down (No Need to Worry)",
-      "url": "https://open.spotify.com/track/4Lfsre3Eip6TADVeduK1VW"
+      "duration_ms": 122851,
+      "name": "1947",
+      "url": "https://open.spotify.com/track/0NjxtCrXEJouK7Ir4fzg6m"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -97,6 +97,22 @@
       "url": "https://open.spotify.com/track/2mC4cDkcXARtSgUCyTrhKe"
     },
     {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Get By (With Me)",
+        "url": "https://open.spotify.com/album/798myu49T30x19CgMckKis"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 241964,
+      "name": "Slow Down (No Need to Worry)",
+      "url": "https://open.spotify.com/track/4Lfsre3Eip6TADVeduK1VW"
+    },
+    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Every Chance I Get (I Want You In The Flesh)",
@@ -127,22 +143,6 @@
       "duration_ms": 176462,
       "name": "Thinking 'Bout Myself - Bluesfest Studio Sessions",
       "url": "https://open.spotify.com/track/08VaEnrwq3FjT6VqWCRipZ"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Somebody to Love (Trust)",
-        "url": "https://open.spotify.com/album/4V9uqHkiHQfMpt8gYDaGWg"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Somebody to Love (Trust)",
-      "url": "https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn"
     },
     {
       "added_at": "2023-10-06 04:01:00",

@@ -6998,7 +6998,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 113375,
       "name": "Around the world",
       "url": "https://open.spotify.com/track/4OGl0vR4tCeHXmcSISVAWM"
@@ -19474,7 +19474,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 98250,
       "name": "Casa Bah\u00eda",
       "url": "https://open.spotify.com/track/4QNIqOJahWZfEU3JiKNxTf"
@@ -21074,6 +21074,24 @@
       "duration_ms": 155382,
       "name": "Cherry Cake",
       "url": "https://open.spotify.com/track/0TafbsZvseJnTCzZCJoDXv"
+    },
+    {
+      "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY"
+      },
+      "artists": [
+        {
+          "name": "Fuzzy Donut",
+          "url": "https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Cherry Orchards",
+      "url": "https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv"
     },
     {
       "album": {
@@ -28688,7 +28706,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 151996,
       "name": "dawn to dawn",
       "url": "https://open.spotify.com/track/40LJYr9L3F8r2I1AXiV2QA"
@@ -42535,6 +42553,24 @@
     },
     {
       "album": {
+        "name": "fogata",
+        "url": "https://open.spotify.com/album/7uIzkfXliaEnoB3BqLvRih"
+      },
+      "artists": [
+        {
+          "name": "HPY DAYZ",
+          "url": "https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129348,
+      "name": "fogata",
+      "url": "https://open.spotify.com/track/3WYeJ4DRymjJ9y2XjVui3C"
+    },
+    {
+      "album": {
         "name": "Foggy Kees",
         "url": "https://open.spotify.com/album/23QQqIWrlNMthnzXY1oLNh"
       },
@@ -43516,6 +43552,32 @@
       "duration_ms": 182127,
       "name": "Fractures",
       "url": "https://open.spotify.com/track/4vUi7jdRNbJfcKCrkNDbbU"
+    },
+    {
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/6c1f28v4fH9t5lQ4xa1AO2"
+      },
+      "artists": [
+        {
+          "name": "Erwin Do",
+          "url": "https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S"
+        },
+        {
+          "name": "Toti Cisneros",
+          "url": "https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf"
+        },
+        {
+          "name": "Vibe Provide Collective",
+          "url": "https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120603,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/2QCuFQMtOre4xzLglVQAOP"
     },
     {
       "album": {
@@ -56559,6 +56621,24 @@
     },
     {
       "album": {
+        "name": "In The Clouds",
+        "url": "https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144644,
+      "name": "In The Clouds",
+      "url": "https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp"
+    },
+    {
+      "album": {
         "name": "In The Deep",
         "url": "https://open.spotify.com/album/780tID6S852uS2Bo2s3qWz"
       },
@@ -68054,7 +68134,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 103783,
       "name": "lohmar",
       "url": "https://open.spotify.com/track/4Gio3O6huypk15Z2CLtJ6J"
@@ -76273,6 +76353,28 @@
     },
     {
       "album": {
+        "name": "Mojave",
+        "url": "https://open.spotify.com/album/4D8rZuw0TU2n4I34bretGk"
+      },
+      "artists": [
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116703,
+      "name": "Mojave",
+      "url": "https://open.spotify.com/track/3JoDvIn0bE0PAO6ICKpDOT"
+    },
+    {
+      "album": {
         "name": "Mojito",
         "url": "https://open.spotify.com/album/0iFHakdcXdrqhVBOk69tkp"
       },
@@ -82430,7 +82532,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 112307,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/0UjObLzSHxr0CxgZr705wQ"
@@ -88252,7 +88354,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 100253,
       "name": "outerspace",
       "url": "https://open.spotify.com/track/7MB8UryJ9Bozm1Dcb0H5VV"
@@ -99948,7 +100050,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 128000,
       "name": "Sad Pengu",
       "url": "https://open.spotify.com/track/1xfMS6x3X5wCzEQMjlFRTO"
@@ -111114,7 +111216,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-29",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "starry nights",
       "url": "https://open.spotify.com/track/6JLCZPbRojiFATBFRoIFFR"
@@ -121501,6 +121603,24 @@
     },
     {
       "album": {
+        "name": "thyme moves slow",
+        "url": "https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5"
+      },
+      "artists": [
+        {
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147107,
+      "name": "thyme moves slow",
+      "url": "https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X"
+    },
+    {
+      "album": {
         "name": "Tibau",
         "url": "https://open.spotify.com/album/1GfDgsasqyeULqBWSPHrNB"
       },
@@ -131272,7 +131392,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 179220,
       "name": "west of dew",
       "url": "https://open.spotify.com/track/7encaPzHJXQilEcPGHwU3H"
@@ -132680,7 +132800,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 106329,
       "name": "White Trees",
       "url": "https://open.spotify.com/track/2Kf8l3pAXfxYkakE5lzB1D"

@@ -4,7 +4,7 @@
 
 > Aficionades que viven la intensidad de botanear ⚽️🌮🍻
 
-309 songs - 18 hr 58 min
+311 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 | 2022-10-28 | 2023-11-23 |
 | [Ella Me Enamoró](https://open.spotify.com/track/122nYSJuwGDvoODZxTAuE5) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Ella Me Enamoró](https://open.spotify.com/album/46M72fEbiyFNH4pvyw5Pxp) | 3:46 | 2021-10-20 | 2022-07-29 |
 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 | 2023-11-22 | 2024-05-24 |
+| [En El 320](https://open.spotify.com/track/4OdprcAthLvkMkH149Fsgu) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [En El 320](https://open.spotify.com/album/1MyRCxfh0rHcAUIBQseLX2) | 3:04 | 2024-10-25 |  |
 | [En Mi Escritorio](https://open.spotify.com/track/2pvfjoRy3OVfPDJuSKZ9cU) | [Grupo Sensacíon Latina](https://open.spotify.com/artist/0AxfwcgIunBWHErW7HtZmK) | [En Mi Escritorio](https://open.spotify.com/album/6luDAF1ZwQWRb6j2UebJHi) | 4:29 | 2022-10-28 | 2023-05-10 |
 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 4:47 | 2024-05-24 |  |
 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 | 2023-11-22 |  |
@@ -218,6 +219,7 @@
 | [Para Elisa](https://open.spotify.com/track/4Sd525AYAaYuiexGHTcoFy) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [The Roots of Chicha](https://open.spotify.com/album/77iuhYUaKEvAsEjKJNh3lN) | 2:46 | 2021-10-20 | 2022-07-02 |
 | [Para Elisa](https://open.spotify.com/track/6t6QEaiKAXtVOORoNbGR9O) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [En Orbita](https://open.spotify.com/album/0jzpJgWjBGLxQsGbwKT7TB) | 2:49 | 2022-04-20 | 2023-11-23 |
 | [Para Elisa](https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX) | [Los Hermanos Zañartu](https://open.spotify.com/artist/3eZmniklmCQj7Jn6i6alvI) | [Enrique Delgado \(feat\. Enrique Delgado Montes\)](https://open.spotify.com/album/62Q0yW6XbxNtuJDOc6ohyj) | 2:48 | 2021-10-20 | 2023-11-23 |
+| [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 | 2024-10-25 |  |
 | [Pelotero A La Bola](https://open.spotify.com/track/4nkMHa8OAlBtSO1clxQqTm) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [16 Enormes Éxitos](https://open.spotify.com/album/0nzrY6r02nNFuJ4fiibB5w) | 2:51 | 2022-10-28 | 2023-11-23 |
 | [Perro Rabioso](https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Estraik Back](https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY) | 3:51 | 2021-10-20 | 2022-07-29 |
 | [Perros](https://open.spotify.com/track/14qnJ3HKmlKo1hwBQKJaB8) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Cartel De Santa](https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa) | 3:38 | 2023-11-22 |  |

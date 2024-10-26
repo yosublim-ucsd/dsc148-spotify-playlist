@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2294815,
+  "num_followers": 2294763,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
@@ -819,18 +819,22 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "We're Not Lost",
-        "url": "https://open.spotify.com/album/3uoPG7wceVYCXEYg426Hjb"
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
       },
       "artists": [
         {
-          "name": "The Show Ponies",
-          "url": "https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 158826,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/5xZV3jkOFbKLH7ywEqGORA"
+      "duration_ms": 169186,
+      "name": "Radio [Feat. Sharon Van Etten]",
+      "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
     },
     {
       "added_at": "2024-07-05 20:00:34",
@@ -851,22 +855,18 @@
     {
       "added_at": "2024-07-05 20:00:34",
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
+        "name": "We're Not Lost",
+        "url": "https://open.spotify.com/album/3uoPG7wceVYCXEYg426Hjb"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "The Show Ponies",
+          "url": "https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi"
         }
       ],
-      "duration_ms": 169186,
-      "name": "Radio [Feat. Sharon Van Etten]",
-      "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
+      "duration_ms": 158826,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5xZV3jkOFbKLH7ywEqGORA"
     },
     {
       "added_at": "2024-07-05 20:00:34",

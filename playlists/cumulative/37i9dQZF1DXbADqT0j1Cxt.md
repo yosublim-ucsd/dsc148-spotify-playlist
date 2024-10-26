@@ -4,13 +4,14 @@
 
 > Lull your little ones with piano music.
 
-674 songs - 20 hr 30 min
+677 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I'll\) Make Your Wish Come True](https://open.spotify.com/track/75OolH0HcSh3k6esgbYpRN) | [Fiona O'Hara](https://open.spotify.com/artist/6ZE5y5Kck6E2HF7zypfg27) | [\(I'll\) Make Your Wish Come True](https://open.spotify.com/album/65qKs9Dd5JQ7WVc0bzihPx) | 2:15 | 2021-10-07 | 2024-03-29 |
 | [5 Little Monkeys](https://open.spotify.com/track/0XQhjNv20H3JwU8R1dWDUG) | [Kennard Lyndon](https://open.spotify.com/artist/5IGoiBYDSil3Psj8of8yqB) | [5 Little Monkeys](https://open.spotify.com/album/1cra9vFar42vKHkMyg9cx8) | 1:28 | 2021-10-07 | 2022-12-24 |
 | [A Day At The Beach](https://open.spotify.com/track/23Z4PVfXLICGRdktm9B2Og) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [A Day At The Beach](https://open.spotify.com/album/7wpTO72kasTDkgYvYT20rc) | 1:51 | 2024-06-20 |  |
+| [A Day of Fun](https://open.spotify.com/track/34I4zd3dNRDV3t9Q4oC2iQ) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [A Day of Fun](https://open.spotify.com/album/5GF0jPqSNbB2xlyFvlbESv) | 1:43 | 2024-10-25 |  |
 | [A Dream is a Wish Your Heart Makes](https://open.spotify.com/track/5zAG6QyEaqloTJPLn9wexX) | [Mark J Welles](https://open.spotify.com/artist/28MAEVYUiojJMpu7EqtBbr) | [A Dream is a Wish Your Heart Makes](https://open.spotify.com/album/2pCLp3sqJ72I9xSHEHLXhx) | 2:21 | 2021-10-07 | 2022-05-14 |
 | [A Friend Like You](https://open.spotify.com/track/3lUeZg1nFKs90uuP759lLx) | [Evelina Krueger](https://open.spotify.com/artist/5GlrFOukoWnBdZ7wIYfjcw) | [A Friend Like You](https://open.spotify.com/album/48s2eCCUzsLCDMu7oDAw4A) | 1:38 | 2022-01-21 |  |
 | [A Friend through the Night](https://open.spotify.com/track/2kETvpBJv1he7g3ofgtkaj) | [Joey Ty](https://open.spotify.com/artist/3PpceQMvXxZBxsF0v4yojB) | [A Friend through the Night](https://open.spotify.com/album/7jVd2qD7qlF1WX9CZWtI5w) | 1:09 | 2021-10-07 |  |
@@ -487,6 +488,7 @@
 | [Serene Slumber](https://open.spotify.com/track/63UWqD2mAFfFG6LrWcr0sy) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Watching Over You](https://open.spotify.com/album/1hBdVtoMRo0QBbrloHZ1yk) | 1:59 | 2023-04-07 |  |
 | [Sharky's Toothbrush](https://open.spotify.com/track/69kYnUzPX39WrqgKejQIaD) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [Sharky's Toothbrush](https://open.spotify.com/album/5T42GEONHpXZO02VkBfSS9) | 2:09 | 2024-01-05 |  |
 | [She'll Be Coming 'Round The Mountain](https://open.spotify.com/track/4RVbG2QUU8L8Fc1CUsYYWw) | [Irwin Boatwright](https://open.spotify.com/artist/0xi7Mc7fS0IL523uoVmdR8) | [She'll Be Coming 'Round The Mountain](https://open.spotify.com/album/4v10QZ8geeKAbbRRa5Tysa) | 1:44 | 2021-10-07 | 2024-03-29 |
+| [Sheeplings](https://open.spotify.com/track/3Moov5075MI3wL1aIARWwf) | [Forrest Carmine](https://open.spotify.com/artist/3HxrE3TmMILgSfr1Gwg03s) | [Sheeplings](https://open.spotify.com/album/5qlgLCLsaYVzNY1cndyB0R) | 3:00 | 2024-10-25 |  |
 | [Singing for You](https://open.spotify.com/track/3rQgsHrtcKW3rf9Cnx9dBn) | [Kayden Roydon](https://open.spotify.com/artist/33lopRkxhpLfc268jbtTxS) | [Singing for You](https://open.spotify.com/album/0niS3RXrOE4Go5ChPsJpLG) | 1:43 | 2021-10-07 | 2024-03-29 |
 | [Six Little Ducks](https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [Six Little Ducks](https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf) | 2:11 | 2023-10-06 |  |
 | [Skidamarink](https://open.spotify.com/track/4QlZFHDwrV9n8aZ8cWslaB) | [Tracey McNamara](https://open.spotify.com/artist/0v1APFeqkWd1gvdqMcGr1d) | [Skidamarink](https://open.spotify.com/album/53wDDZIU6ySWJE2taOJ0bd) | 2:05 | 2021-10-07 | 2024-04-19 |
@@ -542,6 +544,7 @@
 | [Sunset Song](https://open.spotify.com/track/5vG03EoxdAwjX6l7ldcR0E) | [Jascha van Neunen](https://open.spotify.com/artist/0YI0x9PPrDM4xAWLztMSTR) | [Sunset Song](https://open.spotify.com/album/0MrisJkX5DMenp4DeMSbLt) | 1:42 | 2022-11-25 |  |
 | [Sunshine jewel](https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Sunshine jewel](https://open.spotify.com/album/0T00z2Ao8lwFTvYkMQPInj) | 1:38 | 2023-11-17 | 2024-07-19 |
 | [Sunshine Song](https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Sunshine Song](https://open.spotify.com/album/5EcAYi9tzvt2ZkrZXvJNnd) | 1:20 | 2024-01-05 |  |
+| [Sweet Child Of Mine](https://open.spotify.com/track/5CagvKjDmV0febzGggWu60) | [Fruity Koala](https://open.spotify.com/artist/4R8wFQxG9Xrl8As1ClyGJH) | [Sweet Child Of Mine](https://open.spotify.com/album/7d3yk3BDG0t6U7k28EK6Bv) | 1:23 | 2024-10-25 |  |
 | [Sweet Dreamer](https://open.spotify.com/track/1pXbbNs7BxiqRZm5jIBcUm) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Sweet Dreamer](https://open.spotify.com/album/0pw4ddqdSi0v26chZ4Wa1r) | 2:06 | 2024-03-29 | 2024-10-01 |
 | [Sweet Dreams](https://open.spotify.com/track/7m8gA1WxEKPlIKsChhuTtk) | [Snowy Bear](https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4) | [Sweet Dreams](https://open.spotify.com/album/1Y0IFRV4HoInefi8yVRYS8) | 2:15 | 2023-02-10 |  |
 | [Sweet Pete](https://open.spotify.com/track/63TSd3fxhtG3p8GJkMaxXf) | [James Cotuand](https://open.spotify.com/artist/2qzqzYSpYe49i6uPU4UiWT) | [Sweet Pete](https://open.spotify.com/album/42ja9SLAHlzb8zLzjOPNv6) | 1:40 | 2021-10-07 | 2024-03-29 |
@@ -557,7 +560,7 @@
 | [Tendresse](https://open.spotify.com/track/3svNTKcNl6YVGsVh0W4qoQ) | [Nils Miv](https://open.spotify.com/artist/1rmQBX2EmH7FRjyEK6oHMs) | [Tendresse](https://open.spotify.com/album/4BmxOWPHCPquVK6ZlTtKQM) | 2:53 | 2024-09-30 |  |
 | [Ternura](https://open.spotify.com/track/0HWpEuoUq3ZwnDum8Xi0ng) | [Line Tromse](https://open.spotify.com/artist/6Jo2zwheonzrtoiXhTUTcI) | [Ternura](https://open.spotify.com/album/4gZmQmgQuFek9w9ujlFuJd) | 2:38 | 2024-09-30 |  |
 | [The Apple Of My Eye](https://open.spotify.com/track/7AnxXHYrL5oWZLMKnkY8oc) | [Kyrene Hartley](https://open.spotify.com/artist/7pcp9DUQWx7VFXfH3sq7gZ) | [The Apple Of My Eye](https://open.spotify.com/album/4mygNYRtvltYNghngBWx4q) | 1:55 | 2022-04-19 |  |
-| [The Bear and the Owl](https://open.spotify.com/track/0M7V6oTBtL5tZEeNMnDAfu) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [The Bear and the Owl](https://open.spotify.com/album/3LtMRfHgMyyB5s1XfGLCen) | 1:46 | 2024-03-22 |  |
+| [The Bear and the Owl](https://open.spotify.com/track/0M7V6oTBtL5tZEeNMnDAfu) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [The Bear and the Owl](https://open.spotify.com/album/3LtMRfHgMyyB5s1XfGLCen) | 1:46 | 2024-03-22 | 2024-10-26 |
 | [The Bear Is Sleeping](https://open.spotify.com/track/5QVYYQYcZyrJuycojIfR3h) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [The Bear Is Sleeping](https://open.spotify.com/album/6JoL5P9tKPa3MeOCtkLDcj) | 1:41 | 2024-02-09 |  |
 | [The Bear Went Over the Mountain](https://open.spotify.com/track/0918YdN3RwOfav38agng06) | [Danny Tanners](https://open.spotify.com/artist/6FVDjERbUK3UMQuuKPAWwL) | [Home On The Range](https://open.spotify.com/album/54xe53ksw9Y9Us3wBLM4Aw) | 2:00 | 2021-10-07 | 2022-10-29 |
 | [The Big Ship Sails On The Ali\-Ali\-O](https://open.spotify.com/track/1YDlXrLsLs5a0demOtyIKl) | [Serge Charlesbois](https://open.spotify.com/artist/58V4mpAIaMxa7yoCHnO24S) | [Hot Cross Buns](https://open.spotify.com/album/6JPA3A5DMco7CTzky0JXtO) | 1:02 | 2021-10-07 | 2023-01-13 |

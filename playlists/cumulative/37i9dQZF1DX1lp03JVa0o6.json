@@ -12217,6 +12217,24 @@
     },
     {
       "album": {
+        "name": "3AM (LA LA LA)",
+        "url": "https://open.spotify.com/album/4kye7T51OG0GxK30q8NkxH"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173731,
+      "name": "SO TRU",
+      "url": "https://open.spotify.com/track/5PyEqto0uL1bjRT7Lfyry2"
+    },
+    {
+      "album": {
         "name": "Solid Rock (feat. William Barton)",
         "url": "https://open.spotify.com/album/7kb4YUxaTwhZb97foUd1SU"
       },

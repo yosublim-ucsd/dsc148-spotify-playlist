@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Nightly",
+  "description": "make it pop! cover: Beach Weather",
   "name": "soda",
   "tracks": [
     {
@@ -3923,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "Count of 3",
+        "url": "https://open.spotify.com/album/3BvjBgLTDNzu92wdr6RXe1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Valentine",
+          "url": "https://open.spotify.com/artist/2Gl2a6WfXvDy8TTsHPFOaI"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144570,
+      "name": "Count of 3",
+      "url": "https://open.spotify.com/track/4pTjnzwlqVtQ3Im39sYfpQ"
+    },
+    {
+      "album": {
         "name": "Cowboys Don\u2019t Cry",
         "url": "https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ"
       },
@@ -5785,6 +5803,24 @@
     },
     {
       "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207061,
+      "name": "Fake Nice",
+      "url": "https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK"
+    },
+    {
+      "album": {
         "name": "Fall Apart",
         "url": "https://open.spotify.com/album/1OHQ1ovrNmPGdNuresKn8P"
       },
@@ -5796,7 +5832,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 172731,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/25dal1jwzqCrMvHBG548g1"
@@ -7228,7 +7264,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 215013,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/3DQ3Ksr9VNDRi4mJlaS87t"
@@ -10413,6 +10449,24 @@
     },
     {
       "album": {
+        "name": "A Dream Through Open Eyes",
+        "url": "https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211357,
+      "name": "Kids of the Last Days",
+      "url": "https://open.spotify.com/track/57ngnKa3wXcN9j3rGRY2z2"
+    },
+    {
+      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/1XiXoTQLk4xjyZ4Dz4B4ob"
       },
@@ -12252,7 +12306,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
@@ -15398,7 +15452,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 214986,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
@@ -15506,7 +15560,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 206842,
       "name": "Salt Water Taffy",
       "url": "https://open.spotify.com/track/2MuY7Djj8hqZeQFic3dY9a"
@@ -19415,6 +19469,24 @@
     },
     {
       "album": {
+        "name": "U and I (Intertwine)",
+        "url": "https://open.spotify.com/album/0RhDkObdl3kydd4jUIr6CA"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166598,
+      "name": "U and I (Intertwine)",
+      "url": "https://open.spotify.com/track/3m4PhccmoJYS8ei9I1GQEX"
+    },
+    {
+      "album": {
         "name": "ugly",
         "url": "https://open.spotify.com/album/7t6zzIar6ZEflGdgrUoAve"
       },
@@ -21176,7 +21248,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 188562,
       "name": "you fake your british accent",
       "url": "https://open.spotify.com/track/5Jb3MSibBv8ioC1Q5OrGmR"

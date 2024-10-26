@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Carin Leon",
+  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Los Gemelos De Sinaloa",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -554,7 +554,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 192457,
       "name": "Amor Falso - En Vivo",
       "url": "https://open.spotify.com/track/3zzm0N0fxALsRHwOLKhHmp"
@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "CORRIDOS CHAKALOSOS II",
+        "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Bien Trankis",
+      "url": "https://open.spotify.com/track/2ld5AQPv3Fy20XUrPjxoWI"
+    },
+    {
+      "album": {
         "name": "Billete Grande (En Vivo)",
         "url": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip"
       },
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 173053,
       "name": "Chingo A Mi Madre - En Vivo",
       "url": "https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY"
@@ -1398,6 +1416,24 @@
       "duration_ms": 166000,
       "name": "Como Tu Decidas - Sones De Mi Tierra En Vivo Desde El Palenque",
       "url": "https://open.spotify.com/track/4KediCfdxQ6rkLNRtgiWp9"
+    },
+    {
+      "album": {
+        "name": "Como Un Carnal",
+        "url": "https://open.spotify.com/album/0JFVPY0GNxbNYCCo3OvKwb"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234249,
+      "name": "Como Un Carnal",
+      "url": "https://open.spotify.com/track/16vEDR1Rmkh2f1elEDuoWw"
     },
     {
       "album": {
@@ -1936,6 +1972,24 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+    },
+    {
+      "album": {
+        "name": "Despues De Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/6biZAct4wRg0RorNzcXTcs"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195897,
+      "name": "Despues De Ti - En Vivo",
+      "url": "https://open.spotify.com/track/7gHNBpEs7eFgxgUDuHILFM"
     },
     {
       "album": {
@@ -3446,7 +3500,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 203012,
       "name": "El Paciente - En Vivo",
       "url": "https://open.spotify.com/track/3mjojHhX1GWB26RWmd2Ut2"
@@ -3580,7 +3634,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 205200,
       "name": "El Penguin - En Vivo",
       "url": "https://open.spotify.com/track/3Ye5nlgUSowct2G2lI2Skd"
@@ -3704,7 +3758,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 159390,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/6fTfNxZSs9aqXyOFACtSMD"
@@ -4080,7 +4134,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 146656,
       "name": "El Viejo Bravo (En Vivo)",
       "url": "https://open.spotify.com/track/3zlEe2n3ByzK0tuseDlY6m"
@@ -4557,6 +4611,24 @@
     },
     {
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
+    },
+    {
+      "album": {
         "name": "Fue Manuel (En Vivo)",
         "url": "https://open.spotify.com/album/5ML7zIqNucPLnoArhEpUcf"
       },
@@ -4576,6 +4648,24 @@
       "duration_ms": 173946,
       "name": "Fue Manuel - En Vivo",
       "url": "https://open.spotify.com/track/0GVjvHPjw5c0FkKYuv8Kxe"
+    },
+    {
+      "album": {
+        "name": "Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/2aHErbWXdygkZIwh6Z4Yxp"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Fuimos - En Vivo",
+      "url": "https://open.spotify.com/track/2hfimXhCY3fNsqRsiaEvVg"
     },
     {
       "album": {
@@ -4772,6 +4862,28 @@
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
+    },
+    {
+      "album": {
+        "name": "Una M\u00e1s Desde el Llano 1ra. Funci\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/445QAYvPjeVuxZ4a1yztc8"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183574,
+      "name": "Hablemos - En Vivo",
+      "url": "https://open.spotify.com/track/1dGDAgXnqtOdZElH0QoMMu"
     },
     {
       "album": {
@@ -5746,7 +5858,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 169061,
       "name": "La Parranda - En Vivo",
       "url": "https://open.spotify.com/track/7rYMjpB0FJGw5Fl6jMZpWm"
@@ -7406,7 +7518,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 208049,
       "name": "Ojala y te animes",
       "url": "https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1"
@@ -7796,7 +7908,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 202149,
       "name": "Por Que Te Vas De Mi - En Vivo",
       "url": "https://open.spotify.com/track/17gXGLgaVeONySly2voFIY"
@@ -8291,6 +8403,24 @@
     },
     {
       "album": {
+        "name": "Pr\u00f3logo",
+        "url": "https://open.spotify.com/album/5YtoefEnOJIL4d9BftGBKj"
+      },
+      "artists": [
+        {
+          "name": "Neto Becerra",
+          "url": "https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153759,
+      "name": "Seguramente",
+      "url": "https://open.spotify.com/track/6DLX09yH7HqXBvK1CHcdYy"
+    },
+    {
+      "album": {
         "name": "Si Me Ven",
         "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
       },
@@ -8426,6 +8556,24 @@
       "duration_ms": 220856,
       "name": "Sigo de Pie - En Vivo",
       "url": "https://open.spotify.com/track/1ZVZFzBUy9RWn5aZ6xm614"
+    },
+    {
+      "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "album": {
@@ -9047,6 +9195,28 @@
     },
     {
       "album": {
+        "name": "Pr\u00f3logo",
+        "url": "https://open.spotify.com/album/5YtoefEnOJIL4d9BftGBKj"
+      },
+      "artists": [
+        {
+          "name": "Neto Becerra",
+          "url": "https://open.spotify.com/artist/0gQDVYLEkyyyhmy06LCxdQ"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Un Meme",
+      "url": "https://open.spotify.com/track/5Z3dmPyQMAG0Yf9EGKlgIG"
+    },
+    {
+      "album": {
         "name": "Un Placer, Fui El Chamaco (En Vivo)",
         "url": "https://open.spotify.com/album/1TnuJCwhjp4hVXakm0AyVX"
       },
@@ -9243,6 +9413,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Con DC",
+        "url": "https://open.spotify.com/album/0WoAtQOZEwpwFCMCZXsdwu"
+      },
+      "artists": [
+        {
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151901,
+      "name": "When I was your Man - En Vivo",
+      "url": "https://open.spotify.com/track/4uD5lKiR8j3rVLVzCsEzSq"
+    },
+    {
+      "album": {
         "name": "Puras Cumbias (En Vivo)",
         "url": "https://open.spotify.com/album/5od4SQ6bkINIK8p4Sg13bD"
       },
@@ -9290,7 +9478,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 190760,
       "name": "Y Me Volvi\u00f3 A Pasar - En Vivo",
       "url": "https://open.spotify.com/track/03XLJ8srj37wGSV5uLn1s1"

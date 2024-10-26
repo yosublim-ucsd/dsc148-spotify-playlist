@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Mike Bah\u00eda",
+  "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Gilberto Santa Rosa",
   "name": "Salsa Nation",
   "tracks": [
     {
@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 270863,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/4guUX2YppY1kPGpjDaenhQ"
@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 231306,
       "name": "Cuando Te Miro",
       "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
@@ -2838,7 +2838,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 244053,
       "name": "Lo Que Yo Quiero",
       "url": "https://open.spotify.com/track/7zoa1nv5hDuoj7fWh7X4IV"
@@ -2932,10 +2932,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
+    },
+    {
+      "album": {
+        "name": "Mal Necesario",
+        "url": "https://open.spotify.com/album/2sPvbTytESc5KmPIudRZTU"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186224,
+      "name": "Mal Necesario",
+      "url": "https://open.spotify.com/track/6uXvGrdCSoMPSjMGWEQzFf"
     },
     {
       "album": {
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 248697,
       "name": "Mala (feat. Victor Manuelle) - Salsa Remix",
       "url": "https://open.spotify.com/track/6ZIzbuU1QzGpSfFdWFKKqL"
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 160773,
       "name": "Monedita",
       "url": "https://open.spotify.com/track/19OGn2xyLjXy0bS2YHX5vr"
@@ -3616,6 +3634,28 @@
       "duration_ms": 246787,
       "name": "Pa'lla Voy",
       "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
+    },
+    {
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1lWsVWyrhSDvw4YGO00qC8"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269720,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/19vnwyhSF3mVIgF6b3wEw1"
     },
     {
       "album": {
@@ -4982,7 +5022,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 257010,
       "name": "Un Beso de Su Boca",
       "url": "https://open.spotify.com/track/1Ql6nNEgjJbVo52HeDUV2Q"
@@ -5092,6 +5132,24 @@
       "duration_ms": 267465,
       "name": "Vamos a Romper la Noche (feat. Gilberto Santa Rosa)",
       "url": "https://open.spotify.com/track/63gMNTJiJpf0MNceQaoZWL"
+    },
+    {
+      "album": {
+        "name": "Vamos a ver",
+        "url": "https://open.spotify.com/album/283mFHdAnJUo2DmLmF7wz4"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286320,
+      "name": "Vamos a ver",
+      "url": "https://open.spotify.com/track/0XGZOLIc5bcgjyVKNK8kTf"
     },
     {
       "album": {

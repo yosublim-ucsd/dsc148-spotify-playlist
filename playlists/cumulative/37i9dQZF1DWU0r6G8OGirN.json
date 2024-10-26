@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Christmas Tears of Joy",
+        "url": "https://open.spotify.com/album/32Ak4BmOAFlBVNAhGOy1NF"
+      },
+      "artists": [
+        {
+          "name": "Baxter Williams",
+          "url": "https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162562,
+      "name": "Christmas Tears of Joy",
+      "url": "https://open.spotify.com/track/1dweHzLGsaeytVROAiRNv5"
+    },
+    {
+      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
       },
@@ -502,7 +520,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 114393,
       "name": "Dance of the Sugar Plum Fairy",
       "url": "https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd"
@@ -1090,6 +1108,24 @@
       "duration_ms": 119411,
       "name": "It's Beginning To Look a Lot Like Christmas",
       "url": "https://open.spotify.com/track/2ekoeJhto1KoKUzlaFokde"
+    },
+    {
+      "album": {
+        "name": "It's the Most Wonderful Time of the Year",
+        "url": "https://open.spotify.com/album/7irR16UVAWw5RnGnOkhViA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonzalez",
+          "url": "https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140529,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/0DlIQlggPodHeRU0lH0m7g"
     },
     {
       "album": {
@@ -1684,6 +1720,24 @@
       "duration_ms": 141466,
       "name": "Still, Still, Still",
       "url": "https://open.spotify.com/track/1L0op2aXXuCnWsGT8ltTMW"
+    },
+    {
+      "album": {
+        "name": "Suzy Snowflake",
+        "url": "https://open.spotify.com/album/0sT6voPsLMtPNClQBItqWD"
+      },
+      "artists": [
+        {
+          "name": "Ryder Quartet",
+          "url": "https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190062,
+      "name": "Suzy Snowflake",
+      "url": "https://open.spotify.com/track/58zVXwV16mxnrtwi9WBng8"
     },
     {
       "album": {

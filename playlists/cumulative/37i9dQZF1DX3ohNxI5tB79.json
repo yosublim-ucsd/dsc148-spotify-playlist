@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 311177,
       "name": "Backpack",
       "url": "https://open.spotify.com/track/7hAhUocEpwCc91YlDkhHCP"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 195355,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 187866,
       "name": "Fire",
       "url": "https://open.spotify.com/track/02tCo4PWig9O2jk3ymFMGV"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 281440,
       "name": "Island Letter",
       "url": "https://open.spotify.com/track/2yqG9SRCbQf1c6d5hwmfKJ"
@@ -2443,6 +2443,28 @@
     },
     {
       "album": {
+        "name": "Marking My Time (BADBADNOTGOOD Edit)",
+        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252503,
+      "name": "Marking My Time - BADBADNOTGOOD Edit",
+      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
+    },
+    {
+      "album": {
         "name": "Mile High",
         "url": "https://open.spotify.com/album/0q4am7IpBH0w8vgwVyoMCM"
       },
@@ -2704,6 +2726,24 @@
       "duration_ms": 280258,
       "name": "Neon Noir",
       "url": "https://open.spotify.com/track/36YNheAQ0FKZ4I9qaYIY6P"
+    },
+    {
+      "album": {
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/50xj6Y8y3UbmoqzkrOHFkO"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214280,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/7cupwop4yM9LIjKcKSCTai"
     },
     {
       "album": {
@@ -4097,6 +4137,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/2PThgfv0kJYU5VxmOmbQjF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
+    },
+    {
+      "album": {
         "name": "Time Flies (2023 Remaster)",
         "url": "https://open.spotify.com/album/5W0uBJsVkQ9huOHetFI7WL"
       },
@@ -4222,6 +4280,42 @@
       "duration_ms": 214159,
       "name": "Traingazing",
       "url": "https://open.spotify.com/track/1QIIQ1B2syNBSvQULkXgTa"
+    },
+    {
+      "album": {
+        "name": "Troubled Ones",
+        "url": "https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160045,
+      "name": "Troubled Ones",
+      "url": "https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS"
+    },
+    {
+      "album": {
+        "name": "Undone",
+        "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9"
     },
     {
       "album": {
@@ -4520,7 +4614,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 240557,
       "name": "Whisper My Name",
       "url": "https://open.spotify.com/track/1qc5dn8Ou7plbR0SxH1pzD"

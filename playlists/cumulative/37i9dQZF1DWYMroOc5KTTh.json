@@ -1425,6 +1425,32 @@
     },
     {
       "album": {
+        "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
+        "url": "https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308946,
+      "name": "Brand New (feat. James Vincent McMorrow and A-Trak)",
+      "url": "https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4"
+    },
+    {
+      "album": {
         "name": "Breaking Up",
         "url": "https://open.spotify.com/album/0w3PbWTJDAiqvsU1dDzxme"
       },
@@ -1996,7 +2022,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 356008,
       "name": "Count On My Love",
       "url": "https://open.spotify.com/track/3nxyManavy2vBdYkilvhmF"
@@ -5215,6 +5241,28 @@
     },
     {
       "album": {
+        "name": "JOY (By My Side)",
+        "url": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222675,
+      "name": "JOY (By My Side)",
+      "url": "https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3"
+    },
+    {
+      "album": {
         "name": "JOY (Don\u2019t It Make You Feel)",
         "url": "https://open.spotify.com/album/0dY0wbc3n8SS4WWfHdxo0L"
       },
@@ -7526,7 +7574,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 191802,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w"

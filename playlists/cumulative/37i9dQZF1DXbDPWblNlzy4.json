@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Mike Bah\u00eda Y Daniel Me Est\u00e1s Matando",
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Susana Cala",
   "name": "Frecuencia Pop",
   "tracks": [
     {
@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Arial 12",
+        "url": "https://open.spotify.com/album/3zNdYtDcUBAYTjt8fCCIrQ"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158404,
+      "name": "Aburridos (Arial 8)",
+      "url": "https://open.spotify.com/track/7LGUN1QoI4CN3iLBSKOTAS"
+    },
+    {
+      "album": {
         "name": "Acaso Te Duele",
         "url": "https://open.spotify.com/album/4m4DqneaJrsZnAd160irKz"
       },
@@ -510,7 +528,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 171279,
       "name": "Apartamento",
       "url": "https://open.spotify.com/track/0GE3MOVVTKHakyBG9tiKbH"
@@ -2012,7 +2030,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 160312,
       "name": "Drogada de Emociones",
       "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
@@ -2286,6 +2304,28 @@
       "duration_ms": 152240,
       "name": "ELLA (envidia)",
       "url": "https://open.spotify.com/track/0bJAa1ntmHPBTnaOJ0W7YP"
+    },
+    {
+      "album": {
+        "name": "En El 320",
+        "url": "https://open.spotify.com/album/1MyRCxfh0rHcAUIBQseLX2"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184588,
+      "name": "En El 320",
+      "url": "https://open.spotify.com/track/4OdprcAthLvkMkH149Fsgu"
     },
     {
       "album": {
@@ -3088,7 +3128,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 218710,
       "name": "Insomnio",
       "url": "https://open.spotify.com/track/6s2hzq62m1ZR1HTrUTA6Pc"
@@ -3524,7 +3564,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 210505,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/6J3HzCQAQzf4UuwKtNX4Kx"
@@ -3710,6 +3750,24 @@
       "duration_ms": 216980,
       "name": "Low Key (feat. Humby)",
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
+    },
+    {
+      "album": {
+        "name": "De los Amores Prestados",
+        "url": "https://open.spotify.com/album/1CSgdHYRD3LnNxEGtxAZmU"
+      },
+      "artists": [
+        {
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159503,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/2fA2NRQIXZEZqfM3SRQeKn"
     },
     {
       "album": {
@@ -4582,7 +4640,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 219133,
       "name": "no llames lo m\u00edo nuestro",
       "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
@@ -5074,6 +5132,24 @@
       "duration_ms": 173114,
       "name": "ojos. labios. cara.",
       "url": "https://open.spotify.com/track/0Ont2OoEaOYF9BYeSIhaFT"
+    },
+    {
+      "album": {
+        "name": "Olvidar el Presente",
+        "url": "https://open.spotify.com/album/0SqlVnRPAInamcc1cxLWvq"
+      },
+      "artists": [
+        {
+          "name": "Man\u00fa",
+          "url": "https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Olvidar el Presente",
+      "url": "https://open.spotify.com/track/3Pc3D0Jh3PjFV8WWGZhKEo"
     },
     {
       "album": {
@@ -6667,6 +6743,24 @@
     },
     {
       "album": {
+        "name": "todo y nada",
+        "url": "https://open.spotify.com/album/2LSNz2CcGALSM8JVv9cWNS"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "todo y nada",
+      "url": "https://open.spotify.com/track/7Dj6drRthSTvR787ejc4eI"
+    },
+    {
+      "album": {
         "name": "Touching The Sky",
         "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
       },
@@ -7183,6 +7277,24 @@
     },
     {
       "album": {
+        "name": "Volverte a Querer",
+        "url": "https://open.spotify.com/album/33rki7QSD9lUoefJ7Yer9O"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207853,
+      "name": "Volverte a Querer",
+      "url": "https://open.spotify.com/track/6118gUtirfjFpTPWyDwMbj"
+    },
+    {
+      "album": {
         "name": "Vuela (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2Q4WJj9Pm7kLHNGCWUYQal"
       },
@@ -7260,7 +7372,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 232804,
       "name": "Young Rich & In Love - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"

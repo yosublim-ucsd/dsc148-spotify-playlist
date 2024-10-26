@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Ariana Grande
 
-263 songs - 14 hr 30 min
+264 songs - 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8) | 3:14 | 2022-01-28 |  |
 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 | 2024-02-16 |  |
 | [Drama in Doses](https://open.spotify.com/track/2LbcamjmZDFMOj6dNVaIwA) | [Sid Dorey](https://open.spotify.com/artist/6UcErG934cEadG4q16v37T) | [Drama in Doses](https://open.spotify.com/album/6FIHQn3metCrRMo2q8XpLc) | 2:48 | 2024-04-26 |  |
-| [Eventually](https://open.spotify.com/track/5nyxvBwlaBpXYLFD8rUQ9n) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Eventually](https://open.spotify.com/album/217C8pxwn8vx8wbOwZpR7v) | 2:59 | 2024-04-26 |  |
+| [Eventually](https://open.spotify.com/track/5nyxvBwlaBpXYLFD8rUQ9n) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Eventually](https://open.spotify.com/album/217C8pxwn8vx8wbOwZpR7v) | 2:59 | 2024-04-26 | 2024-10-26 |
 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 | 2024-08-09 |  |
 | [Evergreen \(You Didn't Deserve Me At All\) \- Stripped](https://open.spotify.com/track/4UXhhk1W153Vq5jgIaoc1r) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Evergreen \(You Didn't Deserve Me At All\) \[Stripped\]](https://open.spotify.com/album/5MnQYLOmQ0XYDX7Gw4i8n2) | 3:35 | 2022-12-02 |  |
 | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ) | 2:58 | 2023-04-14 |  |
@@ -218,6 +218,7 @@
 | [SNAP \- Acoustic](https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:28 | 2022-08-05 | 2024-04-19 |
 | [So Good \- Stripped](https://open.spotify.com/track/4vi0VouKDXJZEBANYxwCFN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good \(Stripped\)](https://open.spotify.com/album/1THYS7xuqQeUFgZcKoapie) | 3:11 | 2022-07-01 |  |
 | [So What! \- Acoustic](https://open.spotify.com/track/11TMCwobbRFkN4XtDs8g5u) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [So What! \(Acoustic\)](https://open.spotify.com/album/5dLmrV9qbdoP6N3XCvQvF8) | 3:08 | 2022-01-28 | 2023-06-10 |
+| [Soft Spot \- Acoustic](https://open.spotify.com/track/7FB6Nx7TK8y1Ke8dY6ROpQ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Soft Spot \(Alternate Versions\)](https://open.spotify.com/album/54QpKvhFEDWb9U0NhSeZVe) | 3:28 | 2024-10-25 |  |
 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 | 2024-02-16 |  |
 | [Somebody \- Acoustic](https://open.spotify.com/track/0nWFVoAELIeNcPikBntCJi) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Somebody \(Acoustic\)](https://open.spotify.com/album/5DbmSBevpqojf8A69IEwhR) | 2:48 | 2022-01-28 | 2022-07-29 |
 | [Somebody \- Acoustic](https://open.spotify.com/track/4uY3I4GYC1NfonzhQZuMax) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Somebody \(Acoustic\)](https://open.spotify.com/album/5yj17bTyrxIP9zpBc12WTh) | 2:48 | 2022-07-15 | 2023-04-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Sued Nunes",
+  "description": "As belas novidades da MPB. Foto: Maria Luiza Jobim, Mahmundi",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 166006,
       "name": "A Palo Seco",
       "url": "https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME"
@@ -1402,6 +1402,24 @@
       "duration_ms": 234405,
       "name": "Aqui em Casa",
       "url": "https://open.spotify.com/track/3AtSBHBXc5rN50VrJQmTTe"
+    },
+    {
+      "album": {
+        "name": "Ara\u00e7\u00e1 Azul",
+        "url": "https://open.spotify.com/album/7d4h8dBTjKTeiCeEz7XJjm"
+      },
+      "artists": [
+        {
+          "name": "Badi Assad",
+          "url": "https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177679,
+      "name": "Ara\u00e7\u00e1 Azul",
+      "url": "https://open.spotify.com/track/4kyepIZ43ujZVaFeqnturO"
     },
     {
       "album": {
@@ -2810,7 +2828,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 268322,
       "name": "Camangada",
       "url": "https://open.spotify.com/track/61WYa5NtQS6lrxhkHP4lKf"
@@ -3275,6 +3293,24 @@
     },
     {
       "album": {
+        "name": "Chuva de Prata",
+        "url": "https://open.spotify.com/album/1DQ0noay0EVtLfgvYlpOcK"
+      },
+      "artists": [
+        {
+          "name": "Filipe Catto",
+          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231716,
+      "name": "Chuva de Prata",
+      "url": "https://open.spotify.com/track/2wY28GceByLW5eqBeewYkV"
+    },
+    {
+      "album": {
         "name": "Cidade Trov\u00e3o",
         "url": "https://open.spotify.com/album/2F1D7j62YB9uAIFVCKknVC"
       },
@@ -3734,6 +3770,24 @@
       "duration_ms": 359706,
       "name": "Conviver - Ao Vivo",
       "url": "https://open.spotify.com/track/56n5c5qisRIcJqawTM7Bgr"
+    },
+    {
+      "album": {
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/1nlkvskl6untUR98IWBiZP"
+      },
+      "artists": [
+        {
+          "name": "Leandro L\u00e9o",
+          "url": "https://open.spotify.com/artist/4VdN6acIkpyHgNCeCCGIYh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198291,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/1V3JPg2FrfvpJi7v27N9Jh"
     },
     {
       "album": {
@@ -5346,7 +5400,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 147154,
       "name": "Eu Ainda Acredito no Amor",
       "url": "https://open.spotify.com/track/1ytuH7ETjrdU5sV2C4YcVE"
@@ -6660,6 +6714,28 @@
       "duration_ms": 193283,
       "name": "Incomoda",
       "url": "https://open.spotify.com/track/4tZZwP0bPBjOeLjDjKrAGc"
+    },
+    {
+      "album": {
+        "name": "Insensatez",
+        "url": "https://open.spotify.com/album/3WLkBpELNdh4EWwVviDWt2"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192271,
+      "name": "Insensatez",
+      "url": "https://open.spotify.com/track/6EEJ80jZ2VTdAEDh7oWjBv"
     },
     {
       "album": {
@@ -8196,7 +8272,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 233023,
       "name": "Menina Preta de Cocar",
       "url": "https://open.spotify.com/track/2VEiUwfkJ75b75qRdeaU1n"
@@ -9618,6 +9694,24 @@
       "duration_ms": 179215,
       "name": "O Amor Mata Sim",
       "url": "https://open.spotify.com/track/2RGHqHbXDiP4iMu12oImWA"
+    },
+    {
+      "album": {
+        "name": "O amor me fala de voc\u00ea",
+        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199308,
+      "name": "O amor me fala de voc\u00ea",
+      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
     },
     {
       "album": {
@@ -11680,7 +11774,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 233990,
       "name": "Preciso Dizer Que Te Amo",
       "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
@@ -13390,7 +13484,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 228231,
       "name": "SEGUNDA OU TER\u00c7A",
       "url": "https://open.spotify.com/track/38JMlvZq6X1mDkvs1bCmcB"
@@ -14220,6 +14314,28 @@
       "duration_ms": 209480,
       "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
+    },
+    {
+      "album": {
+        "name": "C\u00c9U DA BOCA, a parte I",
+        "url": "https://open.spotify.com/album/0l6qJ5iOm9jkYx6VEcRndN"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "s\u00f3 dessa vez",
+      "url": "https://open.spotify.com/track/5vf3QAfhpDhAGWvQQYFVHl"
     },
     {
       "album": {

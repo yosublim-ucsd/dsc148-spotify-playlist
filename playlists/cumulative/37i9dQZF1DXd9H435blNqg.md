@@ -4,10 +4,11 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-155 songs - 8 hr 34 min
+156 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1947](https://open.spotify.com/track/0NjxtCrXEJouK7Ir4fzg6m) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [1947](https://open.spotify.com/album/6xCT36Xkh9emaPwxgMsihQ) | 2:02 | 2024-10-25 |  |
 | [29 Gold Stars](https://open.spotify.com/track/054GuU4u3vY4b5bkU8K9eH) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [Demons](https://open.spotify.com/album/6QxlINdqOdpp8FfWJrnzOj) | 2:25 | 2021-02-12 | 2024-04-19 |
 | [29 Gold Stars](https://open.spotify.com/track/6YTnk0HV9upkntv86skGcR) | [Nathan Cavaleri](https://open.spotify.com/artist/0QEsixUqDOVf5JW1moKgdY) | [29 Gold Stars](https://open.spotify.com/album/5cz2W08tqtvSdTBR96IN9b) | 2:25 | 2021-02-12 |  |
 | [A Little More](https://open.spotify.com/track/2mC4cDkcXARtSgUCyTrhKe) | [Soldier Story](https://open.spotify.com/artist/6xUcGgLH1IwXKSoYe2EMr0) | [A Little More](https://open.spotify.com/album/1gcCINL6KPNbsfNBi7I3yI) | 2:55 | 2024-01-19 |  |
@@ -127,7 +128,7 @@
 | [Shot Down](https://open.spotify.com/track/42vMIdruxaoslgfiyYBuwh) | [Vinny Virgo](https://open.spotify.com/artist/6ltRvKGrFYQoDwAmgYIB3B) | [Shot Down](https://open.spotify.com/album/4RWPMWMElW4byNmBLINBsL) | 3:13 | 2022-08-31 | 2024-04-19 |
 | [Shot Down](https://open.spotify.com/track/6fqeBYpDjHcCTtIfZ4L9i0) | [Vinny Virgo](https://open.spotify.com/artist/6ltRvKGrFYQoDwAmgYIB3B) | [Shot Down](https://open.spotify.com/album/3GSGs4142RQMnWYEmGGHBd) | 3:13 | 2021-02-12 |  |
 | [Slow Down \(No Need to Worry\)](https://open.spotify.com/track/4Lfsre3Eip6TADVeduK1VW) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Get By \(With Me\)](https://open.spotify.com/album/798myu49T30x19CgMckKis) | 4:01 | 2024-08-23 |  |
-| [Somebody to Love \(Trust\)](https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Somebody to Love \(Trust\)](https://open.spotify.com/album/4V9uqHkiHQfMpt8gYDaGWg) | 3:02 | 2024-05-31 |  |
+| [Somebody to Love \(Trust\)](https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Somebody to Love \(Trust\)](https://open.spotify.com/album/4V9uqHkiHQfMpt8gYDaGWg) | 3:02 | 2024-05-31 | 2024-10-26 |
 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 | 2021-02-12 |  |
 | [Stay Wild](https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Stay Wild](https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF) | 4:45 | 2021-02-19 |  |
 | [Stop Signs](https://open.spotify.com/track/2kkhEPxNDzd3dxUqONczys) | [Rett Smith](https://open.spotify.com/artist/5kUrt5kAUdhzM0trOQaVGA) | [A Weighted Remorse](https://open.spotify.com/album/06YeJ5pOcE75ZImaGvQRXi) | 2:17 | 2024-09-13 |  |

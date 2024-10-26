@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Mallrat
 
-1,437 songs - 3 day 2 hr 16 min
+1,438 songs - 3 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [DISAPPEAR](https://open.spotify.com/track/4nEXjVr2y4XTjV3mtRBxH6) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DISAPPEAR](https://open.spotify.com/album/6dpHwZukx4LPFryQQ5XJTx) | 3:15 | 2023-11-30 | 2024-01-12 |
 | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/album/0yEtoAdaaX7mZOhjgr7IBH) | 3:17 | 2024-10-17 |  |
 | [Discothèque Inside My Head](https://open.spotify.com/track/7vytqQKZBdWwpfA3aYPRGJ) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Discothèque Inside My Head](https://open.spotify.com/album/7f7H6iXK3osVKuBxLG7lpA) | 3:34 | 2024-07-04 | 2024-08-09 |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 |  |
 | [Disrespect](https://open.spotify.com/track/5GaGNTPNNXCmgZP3szlBQ5) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Disrespect](https://open.spotify.com/album/4giebInGcz0mCUWjT8zkDq) | 2:32 | 2023-08-24 | 2023-10-13 |
 | [Dive](https://open.spotify.com/track/5WMA8AmXGff8wo450I3Ecn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Dive](https://open.spotify.com/album/1bSqgLKbe0KMX9RcjYvtkX) | 3:59 | 2024-02-15 | 2024-03-15 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-06 | 2023-08-18 |

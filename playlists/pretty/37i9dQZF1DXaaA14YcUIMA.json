@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 523136,
+  "num_followers": 523369,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "\u00daltimas Noticias",
-        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
+        "name": "Vanidosa",
+        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
       },
       "artists": [
         {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
         }
       ],
-      "duration_ms": 173133,
-      "name": "Ultimas Noticias",
-      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
+      "duration_ms": 254440,
+      "name": "La Loca",
+      "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Vanidosa",
-        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
+        "name": "\u00daltimas Noticias",
+        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
       },
       "artists": [
         {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
         }
       ],
-      "duration_ms": 254440,
-      "name": "La Loca",
-      "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
+      "duration_ms": 173133,
+      "name": "Ultimas Noticias",
+      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -591,8 +591,8 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
+        "name": "Verano De Amor",
+        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
         }
       ],
-      "duration_ms": 217026,
-      "name": "Y T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS"
+      "duration_ms": 210800,
+      "name": "Rosas Rojas",
+      "url": "https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 167093,
-      "name": "No Tengo L\u00e1grimas",
-      "url": "https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Mas Alla Del Tiempo Y La Distancia",
         "url": "https://open.spotify.com/album/5As1BGh84PNzMhuuhYQdmt"
       },
@@ -735,8 +719,24 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Verano De Amor",
-        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 167093,
+      "name": "No Tengo L\u00e1grimas",
+      "url": "https://open.spotify.com/track/1uCpYmJNFuU7TuXsL45fgH"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Rosas Rojas",
-      "url": "https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ"
+      "duration_ms": 217026,
+      "name": "Y T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -959,18 +959,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Una Carta",
-        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
+        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
+        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
       },
       "artists": [
         {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+          "name": "Los Golpes",
+          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
         }
       ],
-      "duration_ms": 204916,
-      "name": "Una Carta",
-      "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
+      "duration_ms": 180426,
+      "name": "Olvidarte Nunca - 2003 Digital Remaster",
+      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
-        "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
+        "name": "Una Carta",
+        "url": "https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T"
       },
       "artists": [
         {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
         }
       ],
-      "duration_ms": 180426,
-      "name": "Olvidarte Nunca - 2003 Digital Remaster",
-      "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
+      "duration_ms": 204916,
+      "name": "Una Carta",
+      "url": "https://open.spotify.com/track/05tqXIvjzVRvR7IHl19NxS"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Tesoros De Coleccion - Los Chicanos",
-        "url": "https://open.spotify.com/album/5c7uq6KnmD5f8I51dvjY0u"
-      },
-      "artists": [
-        {
-          "name": "Los Chicanos",
-          "url": "https://open.spotify.com/artist/4CtmyXgladHink6882NHrX"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "El Puente de Piedra",
-      "url": "https://open.spotify.com/track/08ksJGciam3UJhNdVJ7I4S"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/1bImnfk8i3lgo4XNyqoV8l"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 181253,
       "name": "Notas De Sociedad",
       "url": "https://open.spotify.com/track/5PnGn9vbyCzHKNT2PpFeR0"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Tesoros De Coleccion - Los Chicanos",
+        "url": "https://open.spotify.com/album/5c7uq6KnmD5f8I51dvjY0u"
+      },
+      "artists": [
+        {
+          "name": "Los Chicanos",
+          "url": "https://open.spotify.com/artist/4CtmyXgladHink6882NHrX"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "El Puente de Piedra",
+      "url": "https://open.spotify.com/track/08ksJGciam3UJhNdVJ7I4S"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Sin L\u00edmites",
-        "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 147360,
-      "name": "Pobre Gato",
-      "url": "https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Solo Recuerdos",
         "url": "https://open.spotify.com/album/1lgoq6hR2YzfGrNoQ86ucQ"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 197000,
       "name": "Ves Que No Es Igual",
       "url": "https://open.spotify.com/track/1hrzBjDejPytQ81qzQk4kD"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Sin L\u00edmites",
+        "url": "https://open.spotify.com/album/5KrNuM3EXgh6QhLm3iDVD7"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 147360,
+      "name": "Pobre Gato",
+      "url": "https://open.spotify.com/track/6iOFExAHvxgF2lzyU6eBgD"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
+        "name": "Gran Encuentro",
+        "url": "https://open.spotify.com/album/1p41U3s9oAlf4nrbafLMcB"
+      },
+      "artists": [
+        {
+          "name": "Mandingo",
+          "url": "https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba"
+        }
+      ],
+      "duration_ms": 157706,
+      "name": "Te V\u00ed Con El",
+      "url": "https://open.spotify.com/track/1BoUHrabgfNoIJ3Wk4iwsg"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 220474,
       "name": "Esa Mujer",
       "url": "https://open.spotify.com/track/5T3CGyN8uwq3lfwMhEEZ3I"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
-        "name": "Te Quiero Todav\u00eda",
-        "url": "https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Abracadabra",
-          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
-        }
-      ],
-      "duration_ms": 221648,
-      "name": "En Realidad",
-      "url": "https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Gran Encuentro",
-        "url": "https://open.spotify.com/album/1p41U3s9oAlf4nrbafLMcB"
+        "name": "Te Quiero Todav\u00eda",
+        "url": "https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK"
       },
       "artists": [
         {
-          "name": "Mandingo",
-          "url": "https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba"
+          "name": "Grupo Abracadabra",
+          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
         }
       ],
-      "duration_ms": 157706,
-      "name": "Te V\u00ed Con El",
-      "url": "https://open.spotify.com/track/1BoUHrabgfNoIJ3Wk4iwsg"
+      "duration_ms": 221648,
+      "name": "En Realidad",
+      "url": "https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm"
     },
     {
       "added_at": "2024-08-28 00:51:57",

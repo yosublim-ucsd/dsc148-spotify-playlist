@@ -2,9 +2,9 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> That's that big energy\. Cover: SadBoi
+> That's that big energy\. Cover: Young Franco & Kah\-Lo
 
-394 songs - 19 hr 26 min
+396 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Blackwharf Bounce](https://open.spotify.com/track/54GIgBYRNNYGbTdrnOOr1D) | [Con Cook](https://open.spotify.com/artist/6akmHflFVzgeDWJtP98n7v) | [Take Time](https://open.spotify.com/album/1kVL5HedHokDCMjrexayeN) | 2:51 | 2024-04-05 | 2024-05-18 |
 | [Bless You \(feat\. Banga, Fédération Internationale du Bruit & Sango\)](https://open.spotify.com/track/2VPcADvVPa33p88uXNKbgq) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [Banga](https://open.spotify.com/artist/00JYiJ5dIlaJ9gzyKffr8P), [Fédération Internationale du Bruit](https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Noir Fever Présente Moonshine & La Fédération Internationale du Bruit](https://open.spotify.com/album/2lOknHa2VdKFSZR4JVSh4U) | 4:37 | 2024-06-28 | 2024-08-11 |
 | [Blue Green Red](https://open.spotify.com/track/1HBv0BqHfm6sMsAUg5H3Yo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64) | 3:37 | 2024-08-10 | 2024-09-07 |
-| [Body Favors](https://open.spotify.com/track/3HXJprUl96Zl86ejtvVbLu) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Body Favors](https://open.spotify.com/album/6rxtXiis3RaHNWXXRXUxWB) | 2:56 | 2024-08-09 |  |
+| [Body Favors](https://open.spotify.com/track/3HXJprUl96Zl86ejtvVbLu) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [Body Favors](https://open.spotify.com/album/6rxtXiis3RaHNWXXRXUxWB) | 2:56 | 2024-08-09 | 2024-10-26 |
 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-09-08 | 2024-02-24 |
 | [Bonnet](https://open.spotify.com/track/5qSpFu6V7hBZHNw4dN6t2S) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Bonnet](https://open.spotify.com/album/55bLssbfx1SFuMIWn6085s) | 2:09 | 2024-02-02 | 2024-04-19 |
 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 | 2023-08-18 | 2024-03-30 |
@@ -124,6 +124,7 @@
 | [Fantasy](https://open.spotify.com/track/60vMYW3pMPwW5V6eTXNq2N) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h) | 3:15 | 2023-12-22 | 2024-04-19 |
 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 | 2024-08-23 |  |
 | [FEELING GOOD](https://open.spotify.com/track/1ST96l3wUQSwGgtQu6lzsx) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated \(Deluxe\)](https://open.spotify.com/album/4kzAbEHPhMHmRtT7RMAlg3) | 2:26 | 2023-09-15 | 2024-01-06 |
+| [Final Boss](https://open.spotify.com/track/3Mr14q2s9iTtgg2h7qiXQn) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Final Boss](https://open.spotify.com/album/3Lw8q30CGNUizoa05LGvY0) | 1:24 | 2024-10-25 |  |
 | [Finest](https://open.spotify.com/track/1TRGdHdRkRv5ukCferu1D0) | [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Finest](https://open.spotify.com/album/45VpiqeoRBGTgTzIR0b6sd) | 1:50 | 2024-08-09 |  |
 | [Flaunt It/Cheap](https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 4:00 | 2023-11-17 | 2024-05-18 |
 | [Forward From Trini \(feat\. Skillibeng & Skeng\)](https://open.spotify.com/track/0llFq02Nqzra7ZRfSjBxan) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:33 | 2023-12-08 | 2024-02-03 |
@@ -175,6 +176,7 @@
 | [I Dunno](https://open.spotify.com/track/6aqMhnDtKgD34c34hgnVrP) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [I Dunno](https://open.spotify.com/album/7L2nTi1dbVSVPt813vQtNs) | 2:46 | 2023-08-18 | 2023-09-30 |
 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 | 2023-08-18 | 2024-03-16 |
 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 | 2023-09-04 | 2024-02-03 |
+| [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 | 2024-10-25 |  |
 | [In My Bag](https://open.spotify.com/track/7Fa4P7koWXkVs5ZUIWvAD3) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [In My Bag](https://open.spotify.com/album/2YiIZYRUZGjs981DgpvmHJ) | 2:17 | 2024-05-03 | 2024-06-01 |
 | [Inna mi Belly](https://open.spotify.com/track/1siJPOjZqxV28bXZwCQmiz) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn) | [Inna mi Belly](https://open.spotify.com/album/0fNjy3YI27UQ0U9NZA6Ok6) | 2:34 | 2024-06-07 | 2024-07-13 |
 | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [ISSA PARTY \(feat\. BabyDrill\)](https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm) | 2:56 | 2023-09-29 | 2023-11-18 |
@@ -369,7 +371,7 @@
 | [Unfollow Me](https://open.spotify.com/track/3ATtfA96hbQx3RS6FkhZ5N) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Unfollow Me](https://open.spotify.com/album/0gjIVN0S5uQ5sDZZYKAMIQ) | 2:09 | 2023-08-18 | 2023-09-02 |
 | [Uzobuya](https://open.spotify.com/track/6JhX021sFZd6Ta29ebwjF2) | [Mxshi Mo](https://open.spotify.com/artist/1xKFtHhxfDsjJZtU8L4Q80), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Uzobuya](https://open.spotify.com/album/65XBdQBgrSo05BYRPJWFZN) | 4:59 | 2024-03-22 | 2024-05-18 |
 | [Van Vogue](https://open.spotify.com/track/0ZB5g4RVky6RYFYgSz2Gg0) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [1991 \- EP](https://open.spotify.com/album/5fkZoSOBJyj0PaDo1LUabM) | 5:57 | 2023-11-17 | 2023-11-25 |
-| [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-19 |  |
+| [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 | 2024-04-19 | 2024-10-26 |
 | [Village Ram](https://open.spotify.com/track/3Qr9NEEeMSac6uCUm8H1WL) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Lady Lava](https://open.spotify.com/artist/3WJps7HNM1yNBed5t6ptQJ) | [Village Ram](https://open.spotify.com/album/4gJEaLS5yTPYvvT5sCzKJd) | 2:36 | 2023-09-15 | 2024-01-13 |
 | [Vuki Vuki](https://open.spotify.com/track/44NsSvtQGQHGNxVcckgO1J) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i) | [Vuki Vuki](https://open.spotify.com/album/2cnVmcXFf3a2jzclTjn9MI) | 1:58 | 2023-09-02 | 2024-02-17 |
 | [Waiting](https://open.spotify.com/track/01wKrQDWcFwdWgwFR3Lpyy) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Beauty & Bliss](https://open.spotify.com/album/5BI0Q6nFg6TkkMUzlg62dL) | 3:26 | 2023-08-25 | 2023-09-23 |

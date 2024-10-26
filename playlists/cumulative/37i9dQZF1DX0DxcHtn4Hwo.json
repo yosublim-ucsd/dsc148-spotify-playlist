@@ -2831,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "Dance My Doll",
+        "url": "https://open.spotify.com/album/57egsrTemV7YDg4vB0zAz9"
+      },
+      "artists": [
+        {
+          "name": "Daisy Day",
+          "url": "https://open.spotify.com/artist/2zqel9OQCR3eMNSOXMj0Mb"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95829,
+      "name": "Dance My Doll",
+      "url": "https://open.spotify.com/track/6z2v6uoofcX6N7pSSTZajX"
+    },
+    {
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/2f2hHL1MCcaQLz82Iem4gJ"
       },
@@ -6795,6 +6813,24 @@
     },
     {
       "album": {
+        "name": "Jumping Julie",
+        "url": "https://open.spotify.com/album/4gze9aMuA87IF88Zh8ms2y"
+      },
+      "artists": [
+        {
+          "name": "Auley Gere",
+          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77312,
+      "name": "Jumping Julie",
+      "url": "https://open.spotify.com/track/2PSD6eli7gkYpE7eJs6x5w"
+    },
+    {
+      "album": {
         "name": "Junto Contigo",
         "url": "https://open.spotify.com/album/3kkFgjTEJrlpPqYwmwV55I"
       },
@@ -6860,7 +6896,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 114992,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/2TOV8spBHF1pi95onCYeEd"
@@ -7814,7 +7850,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 111120,
       "name": "Little Peter Rabbit",
       "url": "https://open.spotify.com/track/5ttHAlmM8KqEx0mKYN7MQd"
@@ -8394,6 +8430,24 @@
       "duration_ms": 137322,
       "name": "Meadow",
       "url": "https://open.spotify.com/track/4Jdbwh9Zpxt2NDdtP386ys"
+    },
+    {
+      "album": {
+        "name": "Meet the Baby",
+        "url": "https://open.spotify.com/album/6gM24blvGoLpowH9RRNgP5"
+      },
+      "artists": [
+        {
+          "name": "Jesse Birkman",
+          "url": "https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91195,
+      "name": "Meet the Baby",
+      "url": "https://open.spotify.com/track/1XBOAuQVFZxco6GaT6aCbb"
     },
     {
       "album": {
@@ -12311,6 +12365,24 @@
     },
     {
       "album": {
+        "name": "Snorble",
+        "url": "https://open.spotify.com/album/0uDRxfCp4H2DoYkRO3HRvD"
+      },
+      "artists": [
+        {
+          "name": "Holy Day",
+          "url": "https://open.spotify.com/artist/12LJaMYFHXueUiln6R32eD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86083,
+      "name": "Snorble",
+      "url": "https://open.spotify.com/track/1tHbrsFrTLsmnIMxY5PT8B"
+    },
+    {
+      "album": {
         "name": "Snowdrop",
         "url": "https://open.spotify.com/album/3eIPKavVrj400N8Drmz6aC"
       },
@@ -12430,7 +12502,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 81127,
       "name": "Softly Sleep",
       "url": "https://open.spotify.com/track/7H71wFbyd6Fah2qPEvIuLv"
@@ -12880,7 +12952,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 117074,
       "name": "Stroll 'n' Roll",
       "url": "https://open.spotify.com/track/7EqXDeQw7FSSUId8UebI7c"

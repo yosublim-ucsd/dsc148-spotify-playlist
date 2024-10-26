@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Mickey Guyton
 
-313 songs - 16 hr 17 min
+315 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Home Sweet](https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Home Sweet](https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8) | 3:25 | 2021-12-17 |  |
 | [House On Fire](https://open.spotify.com/track/4IycbTrlsCtGczSqWQ0M0Y) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [House On Fire](https://open.spotify.com/album/0pFzbeCV5S5hzUqDBr1R5n) | 3:21 | 2024-09-27 |  |
 | [House On The Water](https://open.spotify.com/track/7wzVnZOa84dO3TMLFXJcpd) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [House On The Water](https://open.spotify.com/album/2SjCE75AaySF3qj9plQgri) | 3:39 | 2024-01-26 | 2024-03-09 |
-| [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 | 2023-08-11 |  |
+| [How Do I Do This](https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat \(For Good\)](https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv) | 2:51 | 2023-08-11 | 2024-10-26 |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-03-25 | 2023-02-25 |
 | [I Can Feel It](https://open.spotify.com/track/2eGvz6O6tVnh9nKiitDEhZ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [I Can Feel It](https://open.spotify.com/album/0zjGKouRkAN6Z9Y9CwuSqi) | 2:43 | 2023-09-22 |  |
 | [I Can't \(feat\. Old Dominion\)](https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Supernova \(Deluxe\)](https://open.spotify.com/album/7EVVjcblXEwmzOUFSIdExn) | 3:30 | 2021-12-17 | 2022-12-17 |
@@ -213,6 +213,7 @@
 | [Purple Irises](https://open.spotify.com/track/2IaXPHkRHIwFU3VdWT8Y8Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Purple Irises](https://open.spotify.com/album/1PsZW1S9Qr6uZfLSgzfjea) | 3:41 | 2024-02-09 |  |
 | [Push & Pull](https://open.spotify.com/track/4cMGt04mMdpCq7LyNuOYzr) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Push & Pull](https://open.spotify.com/album/3E0XbQUeBsXhsRDHrLxS4X) | 3:07 | 2021-12-17 | 2022-06-16 |
 | [Queen of Daytona Beach](https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Queen of Daytona Beach](https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6) | 3:34 | 2022-06-17 | 2022-09-28 |
+| [Rather Be Us \(feat\. Maddie & Tae\)](https://open.spotify.com/track/78cuU28P16uIfXgHakZSk5) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Rather Be Us \(feat\. Maddie & Tae\)](https://open.spotify.com/album/0KqSClxSvnpzmx4ljwxU5C) | 2:39 | 2024-10-25 |  |
 | [Rescue Me](https://open.spotify.com/track/0O0wPMmw7d9RMsTkt9YiUq) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Rescue Me](https://open.spotify.com/album/655PY7blK0F99IMqcnmqEU) | 3:18 | 2021-12-17 | 2022-07-16 |
 | [Reverse](https://open.spotify.com/track/6MNZfNhi2LWFuzgDIqthPE) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Reverse](https://open.spotify.com/album/2xP0omB0n36TyI6w2eZysm) | 2:53 | 2023-03-24 | 2023-04-22 |
 | [Ride The Wave](https://open.spotify.com/track/6hTSmdJNg2kFGrNAZdkYzR) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Three Months Two Streets Down](https://open.spotify.com/album/1cr1I3hZtfMzf4EXOMk2r1) | 2:53 | 2023-06-30 | 2024-01-27 |
@@ -291,6 +292,7 @@
 | [Wasted On You](https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 2:58 | 2022-05-06 |  |
 | [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 | 2022-06-24 | 2024-09-14 |
 | [Waves](https://open.spotify.com/track/027269uzraETHuoG6aMs6a) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:48 | 2021-12-17 |  |
+| [We Broke Up](https://open.spotify.com/track/1ybgLwCJ2PUtPqmH8jG2xB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/6zecpQ52kwBLJaNdiLFnLU) | 2:45 | 2024-10-25 |  |
 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 | 2023-04-21 |  |
 | [Wedding or a Funeral](https://open.spotify.com/track/55GjJoCI3Qud9FpoyZBZls) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Wedding or a Funeral](https://open.spotify.com/album/0r28l8Sge3hgdRgplnCfj1) | 2:22 | 2024-08-02 |  |
 | [What A Song Can Do](https://open.spotify.com/track/2hRDjNbuoqxqHcXj29JJfZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Chapter One\)](https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb) | 3:41 | 2021-12-17 | 2022-07-29 |
@@ -316,7 +318,7 @@
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-12-17 |  |
 | [Woman](https://open.spotify.com/track/6fWBVn4vwRnaOZiu5292Gd) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Woman](https://open.spotify.com/album/34Ya6PWAG8aOVRjUNIkmzq) | 2:36 | 2024-03-08 | 2024-06-01 |
 | [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 | 2021-12-17 |  |
-| [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 | 2023-04-21 |  |
+| [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 | 2023-04-21 | 2024-10-26 |
 | [X's](https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Chapter 1: Things We're Not Saying](https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn) | 2:34 | 2022-09-23 | 2023-07-24 |
 | [Y'all Life \(feat\. Ciara\)](https://open.spotify.com/track/19Zc2DohB8aihlDOrONMUQ) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Y'all Life \(feat\. Ciara\)](https://open.spotify.com/album/68lDrqwjVOebqh6f580Eac) | 3:12 | 2022-10-14 | 2022-12-17 |
 | [You Could](https://open.spotify.com/track/2HyCPU7CZOdmhyZPIeOPWy) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Danielle](https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV) | 3:18 | 2024-09-06 |  |

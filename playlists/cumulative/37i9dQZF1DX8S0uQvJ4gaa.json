@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music discovery is what we're about. Try it on for size. Cover: Wyatt Flores",
+  "description": "New music discovery is what we're about. Try it on for size. Cover: Jordan Davis",
   "name": "New Boots",
   "tracks": [
     {
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 192000,
       "name": "Back Pew",
       "url": "https://open.spotify.com/track/0ppLBUHGmimID65lKkpibY"
@@ -2642,7 +2642,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167213,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/2KYXVfufJyULq19lC4VyzR"
@@ -4442,7 +4442,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 214670,
       "name": "Break It Right Back",
       "url": "https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7"
@@ -5532,7 +5532,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 201371,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/2GWIcV2yk2CBHZLKMa1gWd"
@@ -6326,7 +6326,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 168525,
       "name": "Colorado (feat. HARDY)",
       "url": "https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL"
@@ -10897,6 +10897,24 @@
     },
     {
       "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/2NLbOG58Y3CDWXemojJEfj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223213,
+      "name": "First Rodeo",
+      "url": "https://open.spotify.com/track/42fu93ICEK8n1oJeu3syXk"
+    },
+    {
+      "album": {
         "name": "First Taste of Gone",
         "url": "https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg"
       },
@@ -11114,6 +11132,24 @@
       "duration_ms": 187111,
       "name": "Fixer Upper",
       "url": "https://open.spotify.com/track/1zsOdeipHnfc4MdzvFpktu"
+    },
+    {
+      "album": {
+        "name": "Fixin' Me",
+        "url": "https://open.spotify.com/album/2TBSSmNB6JPsgZmBD8yHbi"
+      },
+      "artists": [
+        {
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198987,
+      "name": "Fixin' Me",
+      "url": "https://open.spotify.com/track/2L4FDECpX4MLyoAcwZeF7L"
     },
     {
       "album": {
@@ -14517,6 +14553,24 @@
     },
     {
       "album": {
+        "name": "He's My Man",
+        "url": "https://open.spotify.com/album/4g2BT27wACvwqgSCrjv3L3"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "He's My Man",
+      "url": "https://open.spotify.com/track/62akVbk0TrvcI8wJtbmN6W"
+    },
+    {
+      "album": {
         "name": "Head Over Heels",
         "url": "https://open.spotify.com/album/0LTNBwbMq7nP2PSNL6bI86"
       },
@@ -15143,6 +15197,24 @@
     },
     {
       "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/5o919zG29Vo2KpdgWuWBxQ"
+      },
+      "artists": [
+        {
+          "name": "Hayden Blount",
+          "url": "https://open.spotify.com/artist/3lMuNq4oBlVIMBJcpAuT4j"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/5IOnG2HrnO062RDwgx0TuO"
+    },
+    {
+      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/2M5Y6YoELhOhQcgY1nGL9X"
       },
@@ -15378,7 +15450,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 264456,
       "name": "Hello Shitty Day",
       "url": "https://open.spotify.com/track/4aQxac535ve7JhAbyeBAT6"
@@ -15584,6 +15656,24 @@
       "duration_ms": 227466,
       "name": "Hey Driver (feat. The War and Treaty)",
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+    },
+    {
+      "album": {
+        "name": "Hey Highway",
+        "url": "https://open.spotify.com/album/0DXbLxkO75TMUpBJZ75OMv"
+      },
+      "artists": [
+        {
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "Hey Highway",
+      "url": "https://open.spotify.com/track/3VQuSAfLdINypGUG9ooazQ"
     },
     {
       "album": {
@@ -16050,6 +16140,24 @@
       "duration_ms": 155668,
       "name": "hole in the bottle",
       "url": "https://open.spotify.com/track/2EzFVkHWMMWmdwW08AlCK8"
+    },
+    {
+      "album": {
+        "name": "Hole In The Wall",
+        "url": "https://open.spotify.com/album/0CjdXUKnWBBkyMY2e9dqw3"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192432,
+      "name": "Hole In The Wall",
+      "url": "https://open.spotify.com/track/35qplal1WygZPTWSpxmsPs"
     },
     {
       "album": {
@@ -16534,6 +16642,24 @@
       "duration_ms": 144000,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/31kPsiy1Lwo81YqOensCZh"
+    },
+    {
+      "album": {
+        "name": "House Again",
+        "url": "https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202290,
+      "name": "House Again",
+      "url": "https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc"
     },
     {
       "album": {
@@ -20106,6 +20232,24 @@
       "duration_ms": 174078,
       "name": "Know My Way Around",
       "url": "https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj"
+    },
+    {
+      "album": {
+        "name": "Know You Like That",
+        "url": "https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176450,
+      "name": "Know You Like That",
+      "url": "https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO"
     },
     {
       "album": {
@@ -23699,6 +23843,24 @@
     },
     {
       "album": {
+        "name": "MONEY CAN'T BUY",
+        "url": "https://open.spotify.com/album/1VhdzDIdaFN4456P0JB6kB"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177981,
+      "name": "MONEY CAN'T BUY",
+      "url": "https://open.spotify.com/track/3vOTGv3UFjkL5Rjxlvv5XY"
+    },
+    {
+      "album": {
         "name": "Money on You",
         "url": "https://open.spotify.com/album/4IpJploUwOk4EljNMD2uqe"
       },
@@ -24312,7 +24474,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 157064,
       "name": "My Side Of The Country",
       "url": "https://open.spotify.com/track/6VIEMps0WjhMLvKJ2mz9G0"
@@ -24846,6 +25008,28 @@
       "duration_ms": 180311,
       "name": "Never Mine",
       "url": "https://open.spotify.com/track/7nJwTkNBEn1dXEyjf7IGN3"
+    },
+    {
+      "album": {
+        "name": "Never Not Care",
+        "url": "https://open.spotify.com/album/3rpA5VLqSQ1WfrDt050OZv"
+      },
+      "artists": [
+        {
+          "name": "Steven Lee Olsen",
+          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
+        },
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155740,
+      "name": "Never Not Care",
+      "url": "https://open.spotify.com/track/76QLV6Eu2S375hXioGynF5"
     },
     {
       "album": {
@@ -25806,7 +25990,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 145835,
       "name": "Nothing Left But Leavin",
       "url": "https://open.spotify.com/track/58FyanklTfJgC6pA2L4vcY"
@@ -30762,7 +30946,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 183880,
       "name": "Silverado Blue",
       "url": "https://open.spotify.com/track/2dZluexN4DZK2nteRTHB70"
@@ -32252,7 +32436,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 203606,
       "name": "Son Of A Gun",
       "url": "https://open.spotify.com/track/4Tw2GOwiQ5pYL8c5sGW2Ly"
@@ -32552,6 +32736,24 @@
       "duration_ms": 171864,
       "name": "South On Ya",
       "url": "https://open.spotify.com/track/0cvmA0xg8FkzKvBnO8987X"
+    },
+    {
+      "album": {
+        "name": "Southbound",
+        "url": "https://open.spotify.com/album/54SfJ3dPDDWrUM21I9ITsQ"
+      },
+      "artists": [
+        {
+          "name": "Maddox Batson",
+          "url": "https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/3EKJ25oo45fIxXUkWZuuwZ"
     },
     {
       "album": {
@@ -36019,6 +36221,24 @@
     },
     {
       "album": {
+        "name": "This Party Sucks",
+        "url": "https://open.spotify.com/album/37Ld8z5zVCOJa4PylMH0B4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181570,
+      "name": "This Party Sucks",
+      "url": "https://open.spotify.com/track/62r3cMCWOd8FuAuVU1yJD4"
+    },
+    {
+      "album": {
         "name": "This Ring",
         "url": "https://open.spotify.com/album/6gEbOIi33q4I5fxviqQb6N"
       },
@@ -36084,7 +36304,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 163242,
       "name": "Thought of You",
       "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"
@@ -37236,7 +37456,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 168430,
       "name": "Two Blue Chairs & You",
       "url": "https://open.spotify.com/track/2RfkKGdFYORwUy7gOFUSRI"

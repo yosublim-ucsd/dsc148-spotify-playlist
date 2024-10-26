@@ -1,6 +1,6 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 52761,
+  "num_followers": 52780,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Songs For The Sparrows",
         "url": "https://open.spotify.com/album/4dRUKAQWlfGK9AlmsJlS78"
       },
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Concrete and Steel",
+        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
+      },
+      "artists": [
+        {
+          "name": "Off the Rails",
+          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
+        }
+      ],
+      "duration_ms": 251047,
+      "name": "Concrete and Steel",
+      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Muscle Car",
         "url": "https://open.spotify.com/album/4BfxrawQAJaRWmhQkYBOSY"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 328560,
       "name": "Muscle Car",
       "url": "https://open.spotify.com/track/6mfeARNWhTrYAt0nDc3l9f"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Concrete and Steel",
-        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
-      },
-      "artists": [
-        {
-          "name": "Off the Rails",
-          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
-        }
-      ],
-      "duration_ms": 251047,
-      "name": "Concrete and Steel",
-      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "The American Fiddler",
-        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "The American Fiddler",
-      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "The View From Here",
         "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "The American Fiddler",
+        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 250500,
+      "name": "The American Fiddler",
+      "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1123,6 +1123,22 @@
       "duration_ms": 272586,
       "name": "Spider on the Banjo",
       "url": "https://open.spotify.com/track/55OXI7lLQRoS9FhSw54CHC"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "It's A String Thing",
+      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "It's A String Thing",
-      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "The Song of the Banjo",
         "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Jubilation",
         "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 179140,
       "name": "Graveyard Fields",
       "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Crossing the Junction / Deer River",
         "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 218120,
       "name": "Crossing the Junction / Deer River",
       "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Bop Your Head",
-        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
+        "name": "Skunk Weed",
+        "url": "https://open.spotify.com/album/43SUsPRzrTbe6oaHukQERY"
       },
       "artists": [
         {
-          "name": "Allen & Bright",
-          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
+          "name": "Andy Hall",
+          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
         }
       ],
-      "duration_ms": 166132,
-      "name": "Bop Your Head",
-      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
+      "duration_ms": 265773,
+      "name": "Skunk Weed",
+      "url": "https://open.spotify.com/track/12VKMGe1sbcOHDBWrH9hUJ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Skunk Weed",
-        "url": "https://open.spotify.com/album/43SUsPRzrTbe6oaHukQERY"
+        "name": "Bop Your Head",
+        "url": "https://open.spotify.com/album/420mYWvOmXSapn5DlOawVJ"
       },
       "artists": [
         {
-          "name": "Andy Hall",
-          "url": "https://open.spotify.com/artist/0x6z63BgzxTjdYdTxytI0y"
+          "name": "Allen & Bright",
+          "url": "https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y"
         }
       ],
-      "duration_ms": 265773,
-      "name": "Skunk Weed",
-      "url": "https://open.spotify.com/track/12VKMGe1sbcOHDBWrH9hUJ"
+      "duration_ms": 166132,
+      "name": "Bop Your Head",
+      "url": "https://open.spotify.com/track/2XKfkDRJg53T7g9ToPOqv9"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "The American Fiddler",
-        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Kimper County",
-      "url": "https://open.spotify.com/track/4FfGd39o9TNN0KXc4oIsIH"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Ferris Wheel",
         "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 224986,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "The American Fiddler",
+        "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Kimper County",
+      "url": "https://open.spotify.com/track/4FfGd39o9TNN0KXc4oIsIH"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "OKX",
-        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
-      },
-      "artists": [
-        {
-          "name": "The OK Factor",
-          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
-        }
-      ],
-      "duration_ms": 244111,
-      "name": "Bluegrass Ben",
-      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Indoor Vistas",
         "url": "https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 237768,
       "name": "And Then, And Then, And Then",
       "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "OKX",
+        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
+      },
+      "artists": [
+        {
+          "name": "The OK Factor",
+          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
+        }
+      ],
+      "duration_ms": 244111,
+      "name": "Bluegrass Ben",
+      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "The Bluegrass Fiddle Album",
+        "url": "https://open.spotify.com/album/3HRLaBku4dzOpXcGIBkYZQ"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "Hamilton Special",
+      "url": "https://open.spotify.com/track/5jM4lC2HkkhwT9euOCnUfW"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
       },
@@ -1907,38 +1923,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "The Bluegrass Fiddle Album",
-        "url": "https://open.spotify.com/album/3HRLaBku4dzOpXcGIBkYZQ"
-      },
-      "artists": [
-        {
-          "name": "Aubrey Haynie",
-          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
-        }
-      ],
-      "duration_ms": 203906,
-      "name": "Hamilton Special",
-      "url": "https://open.spotify.com/track/5jM4lC2HkkhwT9euOCnUfW"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "The Snake",
         "url": "https://open.spotify.com/album/0G080kprHWuQFw5eg1pSko"
       },
@@ -1959,26 +1943,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Lovin' Of The Game",
-        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Cody Looper",
-          "url": "https://open.spotify.com/artist/4YYh7MmEWzM2zGEraUzKkA"
-        },
-        {
-          "name": "Ronnie McCoury",
-          "url": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
         }
       ],
-      "duration_ms": 318613,
-      "name": "Five Points",
-      "url": "https://open.spotify.com/track/0qjp00N4Q0k4qoTlmXRjFD"
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2011,6 +1987,30 @@
       "duration_ms": 258318,
       "name": "Once in a Thousand",
       "url": "https://open.spotify.com/track/4SyZE6yKsawGAlkks34FfX"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Lovin' Of The Game",
+        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Cody Looper",
+          "url": "https://open.spotify.com/artist/4YYh7MmEWzM2zGEraUzKkA"
+        },
+        {
+          "name": "Ronnie McCoury",
+          "url": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+        }
+      ],
+      "duration_ms": 318613,
+      "name": "Five Points",
+      "url": "https://open.spotify.com/track/0qjp00N4Q0k4qoTlmXRjFD"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "\u00bfBluegrass? Banjo",
+        "url": "https://open.spotify.com/album/3MFE2ve7XfFDoET0A3X9Qm"
+      },
+      "artists": [
+        {
+          "name": "Chris Roszell",
+          "url": "https://open.spotify.com/artist/7emUlzuf20A2ulPXc9uBst"
+        }
+      ],
+      "duration_ms": 240693,
+      "name": "Huequito",
+      "url": "https://open.spotify.com/track/6KtJz9GDXBriwN94IKnbqu"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Portraits in Fiddles",
         "url": "https://open.spotify.com/album/5nBT3vs0ihbQW5Ex7w2l6K"
       },
@@ -2107,22 +2123,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "\u00bfBluegrass? Banjo",
-        "url": "https://open.spotify.com/album/3MFE2ve7XfFDoET0A3X9Qm"
-      },
-      "artists": [
-        {
-          "name": "Chris Roszell",
-          "url": "https://open.spotify.com/artist/7emUlzuf20A2ulPXc9uBst"
-        }
-      ],
-      "duration_ms": 240693,
-      "name": "Huequito",
-      "url": "https://open.spotify.com/track/6KtJz9GDXBriwN94IKnbqu"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Team Hoover",
         "url": "https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT"
       },
@@ -2135,22 +2135,6 @@
       "duration_ms": 341546,
       "name": "Team Hoover",
       "url": "https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Road Wear",
-        "url": "https://open.spotify.com/album/0dZLI8SKbCxUHA7p7yVrxQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Fix",
-          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
-        }
-      ],
-      "duration_ms": 219370,
-      "name": "Dalveen",
-      "url": "https://open.spotify.com/track/79LUIzoeCaZDUFDMVJMRUN"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2183,6 +2167,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Road Wear",
+        "url": "https://open.spotify.com/album/0dZLI8SKbCxUHA7p7yVrxQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Fix",
+          "url": "https://open.spotify.com/artist/2NPDDS5mWRp1JgtOj9iRci"
+        }
+      ],
+      "duration_ms": 219370,
+      "name": "Dalveen",
+      "url": "https://open.spotify.com/track/79LUIzoeCaZDUFDMVJMRUN"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "The Trailblazer",
         "url": "https://open.spotify.com/album/2sEQOzIpCE5HHqyvZD7xpy"
       },
@@ -2199,6 +2199,22 @@
       "duration_ms": 166707,
       "name": "The Trailblazer",
       "url": "https://open.spotify.com/track/6XwSoj31OGTt9CjkzyzjOf"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "The Winning Hand",
+        "url": "https://open.spotify.com/album/1hbPveREJXWDaCdZvkYIA5"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Tom and Jerry",
+      "url": "https://open.spotify.com/track/3Wc4n5RRvCPExGWjiCHAol"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2251,18 +2267,30 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "The Winning Hand",
-        "url": "https://open.spotify.com/album/1hbPveREJXWDaCdZvkYIA5"
+        "name": "Commencement",
+        "url": "https://open.spotify.com/album/1jDsr7E1Nh5SqkLqbHgfV2"
       },
       "artists": [
         {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+          "name": "Chandler Beavers",
+          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
+        },
+        {
+          "name": "Jeremy Garrett",
+          "url": "https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14"
+        },
+        {
+          "name": "Jake Eddy",
+          "url": "https://open.spotify.com/artist/7qxSMvd1FcjpR87E0vITu4"
+        },
+        {
+          "name": "Josh Underwood",
+          "url": "https://open.spotify.com/artist/4upiWSmYVqXrrwX31Lef3K"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Tom and Jerry",
-      "url": "https://open.spotify.com/track/3Wc4n5RRvCPExGWjiCHAol"
+      "duration_ms": 291276,
+      "name": "Commencement",
+      "url": "https://open.spotify.com/track/7DhlCi536R0nnOewj8pgUq"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2319,34 +2347,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Commencement",
-        "url": "https://open.spotify.com/album/1jDsr7E1Nh5SqkLqbHgfV2"
-      },
-      "artists": [
-        {
-          "name": "Chandler Beavers",
-          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
-        },
-        {
-          "name": "Jeremy Garrett",
-          "url": "https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14"
-        },
-        {
-          "name": "Jake Eddy",
-          "url": "https://open.spotify.com/artist/7qxSMvd1FcjpR87E0vITu4"
-        },
-        {
-          "name": "Josh Underwood",
-          "url": "https://open.spotify.com/artist/4upiWSmYVqXrrwX31Lef3K"
-        }
-      ],
-      "duration_ms": 291276,
-      "name": "Commencement",
-      "url": "https://open.spotify.com/track/7DhlCi536R0nnOewj8pgUq"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "No Wise Men",
         "url": "https://open.spotify.com/album/2MTB8w2lEje2L5DVub4hYk"
       },
@@ -2383,6 +2383,38 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Runaway Traveler",
+        "url": "https://open.spotify.com/album/4ogIAVRKxmn17KfMpICzZU"
+      },
+      "artists": [
+        {
+          "name": "Chandler Beavers",
+          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
+        },
+        {
+          "name": "Trey Hensley",
+          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
+        },
+        {
+          "name": "Gaven Largent",
+          "url": "https://open.spotify.com/artist/7rSgO30DdWoSJseusDIDo3"
+        },
+        {
+          "name": "Lars Swanson",
+          "url": "https://open.spotify.com/artist/43AjHzaUAjsoTmaOJWqqzQ"
+        },
+        {
+          "name": "Jeremiah Gilmer",
+          "url": "https://open.spotify.com/artist/4HcBAPqDCaWbRazu3Ijkur"
+        }
+      ],
+      "duration_ms": 205162,
+      "name": "Runaway Traveler",
+      "url": "https://open.spotify.com/track/1AMg7QWxxBQchmnNvoKKWM"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Carolina Avenue",
         "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
       },
@@ -2415,38 +2447,6 @@
       "duration_ms": 199338,
       "name": "Unidentified Piece for Banjo",
       "url": "https://open.spotify.com/track/7azBrJNIS0i3vxIleGjSgw"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Runaway Traveler",
-        "url": "https://open.spotify.com/album/4ogIAVRKxmn17KfMpICzZU"
-      },
-      "artists": [
-        {
-          "name": "Chandler Beavers",
-          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
-        },
-        {
-          "name": "Trey Hensley",
-          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
-        },
-        {
-          "name": "Gaven Largent",
-          "url": "https://open.spotify.com/artist/7rSgO30DdWoSJseusDIDo3"
-        },
-        {
-          "name": "Lars Swanson",
-          "url": "https://open.spotify.com/artist/43AjHzaUAjsoTmaOJWqqzQ"
-        },
-        {
-          "name": "Jeremiah Gilmer",
-          "url": "https://open.spotify.com/artist/4HcBAPqDCaWbRazu3Ijkur"
-        }
-      ],
-      "duration_ms": 205162,
-      "name": "Runaway Traveler",
-      "url": "https://open.spotify.com/track/1AMg7QWxxBQchmnNvoKKWM"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2491,6 +2491,42 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Azazel's Escape",
+        "url": "https://open.spotify.com/album/3n0Vry6agEGju2r8375FqA"
+      },
+      "artists": [
+        {
+          "name": "Cup O\u2019Joe",
+          "url": "https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Azazel's Escape",
+      "url": "https://open.spotify.com/track/0uSljzqSkZznOkzaxikmLB"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "10 Days of Isolation",
+        "url": "https://open.spotify.com/album/5ZvRDtu8VQaqFniOcl2W3w"
+      },
+      "artists": [
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+        },
+        {
+          "name": "Lena Jonsson",
+          "url": "https://open.spotify.com/artist/6cXjUqtPkQVBydNQhZFo9t"
+        }
+      ],
+      "duration_ms": 142054,
+      "name": "10 Days of Isolation",
+      "url": "https://open.spotify.com/track/18Ym8wNFDV5V2npH1feKEY"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Mace Bell's March (feat. Chris Coole, Tim O'Reilly & Ron Girouard)",
         "url": "https://open.spotify.com/album/4IqIiEIljI1jmDqjBVFTg0"
       },
@@ -2523,22 +2559,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Azazel's Escape",
-        "url": "https://open.spotify.com/album/3n0Vry6agEGju2r8375FqA"
-      },
-      "artists": [
-        {
-          "name": "Cup O\u2019Joe",
-          "url": "https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Azazel's Escape",
-      "url": "https://open.spotify.com/track/0uSljzqSkZznOkzaxikmLB"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Passages",
         "url": "https://open.spotify.com/album/7IWQBtyFLQcfsjdSrIApiS"
       },
@@ -2551,26 +2571,6 @@
       "duration_ms": 260186,
       "name": "Blue Moose",
       "url": "https://open.spotify.com/track/49c2XXHwqPK16oGTB8nStp"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "10 Days of Isolation",
-        "url": "https://open.spotify.com/album/5ZvRDtu8VQaqFniOcl2W3w"
-      },
-      "artists": [
-        {
-          "name": "Brittany Haas",
-          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
-        },
-        {
-          "name": "Lena Jonsson",
-          "url": "https://open.spotify.com/artist/6cXjUqtPkQVBydNQhZFo9t"
-        }
-      ],
-      "duration_ms": 142054,
-      "name": "10 Days of Isolation",
-      "url": "https://open.spotify.com/track/18Ym8wNFDV5V2npH1feKEY"
     },
     {
       "added_at": "2024-10-04 04:00:00",

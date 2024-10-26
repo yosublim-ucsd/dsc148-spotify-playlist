@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: KIM PUREUM\(김푸름\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: JeongSaebyeok\(정새벽\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-536 songs - 1 day 7 hr 48 min
+537 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [babyblue](https://open.spotify.com/track/3G11VWK4YHumpMmJhs11pY) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [babyblue](https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2) | 3:48 | 2021-12-10 | 2022-07-29 |
 | [be around me](https://open.spotify.com/track/5Ev5Zaw67LgY4ul2jCsYRt) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [be around me](https://open.spotify.com/album/2vXDK0SH1vh2ejt3BZaavG) | 2:56 | 2022-12-20 | 2023-01-11 |
 | [Be Love](https://open.spotify.com/track/1Bpk1E0XMCkA30pu1GQLNB) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Be Love](https://open.spotify.com/album/6pc6IdDxGdtDQqYUtI3Oer) | 4:33 | 2022-03-31 | 2022-04-13 |
-| [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 | 2022-05-13 | 2024-10-20 |
+| [Be My Birthday](https://open.spotify.com/track/1LMy3gmxy76ZXjoH39Q8NC) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Liberation Notes OST Part 5](https://open.spotify.com/album/7eO4p633l3G6FOu3NvNjuB) | 3:14 | 2022-05-13 |  |
 | [Be the Light](https://open.spotify.com/track/61B7mbo3BAGqHmPpL29Ehf) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Hometown Cha\-Cha\-Cha, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/52fvqDulBcB8L2D4MXbtXB) | 3:54 | 2022-03-31 |  |
 | [Be with me \- Acoustic Mix](https://open.spotify.com/track/39OvFhBrhWmYne1x6YtBjx) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Beloved \(Acoustic Mix\)](https://open.spotify.com/album/12AITMfwXY2uvJClZKJcf5) | 4:31 | 2021-12-10 | 2022-04-18 |
 | [Beach Again \(Acoustic Ver.\)](https://open.spotify.com/track/2XenAqDhO1owVxsYeRET65) | [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [DU RI JYU WA X LINDA X Let's Dance](https://open.spotify.com/album/00dzK05LKQYLmnNtQIENmB) | 4:21 | 2021-12-10 | 2022-07-24 |
@@ -254,7 +254,7 @@
 | [LONG SLEEP](https://open.spotify.com/track/4ceMxOgJSdfHT2Tehd6L0w) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BUSY DOING NOTHING](https://open.spotify.com/album/04MdUslmkxO6q1SHeqBYx2) | 3:25 | 2022-02-10 | 2022-05-02 |
 | [Look Into My Eyes \(Remastered\) \- Acoustic ver.](https://open.spotify.com/track/3UWNyBuUMt3P5tuc9winH2) | [2LSON](https://open.spotify.com/artist/2AMTVJeuaSJHOatQS448YY), [위니](https://open.spotify.com/artist/4eo2biU3CCldDqzniAjife) | [모나리자](https://open.spotify.com/album/1aLi5QiDr36lS7pe9wVhaK) | 2:51 | 2022-03-31 | 2022-06-25 |
 | [Looking at you](https://open.spotify.com/track/507ppjVjg1o4N4hHnKnQlZ) | [JUNGHEUM BAND](https://open.spotify.com/artist/18BDO4ZfC1nr01LPAL5a6a) | [The Interest of Love \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3ZWZJStAyu8fkRs26TZmID) | 2:35 | 2023-01-25 | 2023-04-11 |
-| [Lost in the Midnight](https://open.spotify.com/track/645mMVuG5C3OhDNikzhFRO) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [‘BLUISH’ Unplugged](https://open.spotify.com/album/6yLzKuJfHjMY8o0kWksgWS) | 2:54 | 2024-10-15 |  |
+| [Lost in the Midnight](https://open.spotify.com/track/645mMVuG5C3OhDNikzhFRO) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [‘BLUISH’ Unplugged](https://open.spotify.com/album/6yLzKuJfHjMY8o0kWksgWS) | 2:54 | 2024-10-15 | 2024-10-26 |
 | [Love as much as you can](https://open.spotify.com/track/57WU98fXrRDWzLvTP5Iy43) | [PARK HAE WON](https://open.spotify.com/artist/0to2hcxkSnDl5Td9jEkzel) | [Love as much as you can](https://open.spotify.com/album/4E1EiIC42wfeuxeei2u7GF) | 4:29 | 2024-09-23 | 2024-10-16 |
 | [Love is Strange \- 2024 Ver.](https://open.spotify.com/track/32weX7nGizR7hwUArWu2lD) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Love is Strange \(2024 Ver.\)](https://open.spotify.com/album/0InIhRC767qCTVqsTrQvw5) | 3:05 | 2024-08-05 | 2024-08-13 |
 | [Love me](https://open.spotify.com/track/1ewt1JR6dMET5S7CBFp7IH) | [A Ryun](https://open.spotify.com/artist/5gqQWX4PzkGSDG54UeA1Hh) | [Love me](https://open.spotify.com/album/5In36LpLXoQ56LmJReMcER) | 3:21 | 2024-06-07 | 2024-07-17 |
@@ -419,6 +419,7 @@
 | [The end](https://open.spotify.com/track/1YtcUMj2HBDcD0wgNFGCAW) | [ONL](https://open.spotify.com/artist/0liJPOMxnzqzSVesgtun1D) | [Be opposite](https://open.spotify.com/album/7FxTHRGeQdiJSIaERNzWMZ) | 4:47 | 2023-01-25 | 2023-02-25 |
 | [The Fool](https://open.spotify.com/track/1FheANRtzXpettNJ5cK7O8) | [Hebron](https://open.spotify.com/artist/2qthTndkpNYZpgngO0yrYV) | [The Fool](https://open.spotify.com/album/2a71guGlU9TApuOxrB8cod) | 3:22 | 2024-02-07 | 2024-02-14 |
 | [The Galaxy](https://open.spotify.com/track/5NFLTPYWlGDYAtVGwRiZK6) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Natural II](https://open.spotify.com/album/6BZ0Ush9k3SSeUcZTuEgs2) | 4:26 | 2024-03-28 | 2024-04-10 |
+| [The Light and Dance Within Us](https://open.spotify.com/track/7o9tc25rXr8AJ0OKr2hlUJ) | [JeongSaebyeok](https://open.spotify.com/artist/4IGJKsSWf3d8o5Qd1NyOs7) | [The Light and Dance Within Us](https://open.spotify.com/album/7xGIdGeWZTxKTBsADPBI9P) | 3:40 | 2024-10-25 |  |
 | [The Night](https://open.spotify.com/track/2ltohL0UlAkNcjImnOggs8) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [O1NE](https://open.spotify.com/album/4wIYn2e6gZ4nRGCnzs1qxZ) | 3:43 | 2022-03-31 | 2022-04-20 |
 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 | 2021-12-10 |  |
 | [The Night With You](https://open.spotify.com/track/5V8x6nU0JEFL6qfbct7P2p) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [The Night With You](https://open.spotify.com/album/1QdF5rkC4uNYWkGqFhGgQQ) | 3:56 | 2022-04-12 | 2022-04-17 |
@@ -443,7 +444,7 @@
 | [To You](https://open.spotify.com/track/5PZTMg5IYqxfwi9CtYu4ij) | [DAREDAA](https://open.spotify.com/artist/7GHmnSeSDBooMAk39m6Ol6) | [To You](https://open.spotify.com/album/2aZMncvrM2ujNrWkLcHpiW) | 3:44 | 2024-04-17 | 2024-04-27 |
 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 | 2022-03-31 | 2022-04-13 |
 | [To you, dear](https://open.spotify.com/track/4T64VKmcDdr6a6idK97103) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [To you, dear](https://open.spotify.com/album/6UXcVnWn5mY8eHrfTIkEXZ) | 3:25 | 2022-02-18 | 2022-04-17 |
-| [To\. the Moon](https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [To\. the Moon](https://open.spotify.com/album/2BURnvXS4WlAgj7IsTuc7D) | 3:08 | 2024-06-19 |  |
+| [To\. the Moon](https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [To\. the Moon](https://open.spotify.com/album/2BURnvXS4WlAgj7IsTuc7D) | 3:08 | 2024-06-19 | 2024-10-26 |
 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 | 2021-12-10 |  |
 | [TOO BAD](https://open.spotify.com/track/0yhDAYlysiK5lq9ySgn4dN) | [Oat](https://open.spotify.com/artist/4NkRzcwVz9DvvwZZ5GSSkV) | [TOO BAD](https://open.spotify.com/album/2kFqO3w4k7VrSfjoaniaeQ) | 3:11 | 2022-01-13 | 2022-04-20 |
 | [TOY \(feat\. siso\)](https://open.spotify.com/track/6Bx7apRrdwLAKycZ7EOVi7) | [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [TOY](https://open.spotify.com/album/3PNZqV1nTzc5oaFIZS0Igj) | 3:11 | 2023-12-20 | 2024-01-05 |

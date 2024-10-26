@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,240 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,313 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 75 | [Me and My Kind \- Live](https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Me and My Kind \(Live\)](https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc) | 2:43 |
 | 76 | [Wreckage \- Live](https://open.spotify.com/track/5zHB9D7aOex9INWtPJt1Kb) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage \(Live\)](https://open.spotify.com/album/0kfcUkCxICzTR7iO6owi9O) | 3:31 |
 | 77 | [Check Yes Or No \- Live](https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [For The Last Time](https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB) | 2:53 |
-| 78 | [Drink In My Hand \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:10 |
-| 79 | [Wings \- Live at the Ryman](https://open.spotify.com/track/0vaCkZTsFBiWvjVHLFxuG2) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Wings \(Live at the Ryman\)](https://open.spotify.com/album/2gg3gSnirMHzSdZLvS1Fvs) | 6:03 |
+| 78 | [Wings \- Live at the Ryman](https://open.spotify.com/track/0vaCkZTsFBiWvjVHLFxuG2) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Wings \(Live at the Ryman\)](https://open.spotify.com/album/2gg3gSnirMHzSdZLvS1Fvs) | 6:03 |
+| 79 | [Drink In My Hand \- Live At Staples Center, Los Angeles, CA / March 31, 2017](https://open.spotify.com/track/7yqMX0CgXNObxnlnA9JgaW) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 3:10 |
 | 80 | [21 Summer \- Live](https://open.spotify.com/track/49dulUPJIGiADT4YFygPKw) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 3:38 |
 | 81 | [Don't Take The Girl \- Live From N.Y\. / Acoustic](https://open.spotify.com/track/4ioXeATIefvluey7lVUNxq) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live From N.Y\. \(Acoustic\)](https://open.spotify.com/album/5WxpO6GGZq7RSKl3Y0tg2c) | 4:42 |
 | 82 | [Help Me Make It Through the Night \- Live from RCA Studios 1972](https://open.spotify.com/track/2nH5VAI4fSt9WhSS8j3CLg) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live at RCA Studios 1972](https://open.spotify.com/album/6Umh6OOaKyjqXQ0AH3QZTK) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDsAWldGrpI.md) - [plain]
 | 99 | [Jack Daniels \- Live At Pepsi Center, Denver, CO / April 5, 2017](https://open.spotify.com/track/1LM6osoVFLDv2x0VNvMMNz) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Chuck Leavell](https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9) | [61 Days In Church Volume 5](https://open.spotify.com/album/6TKll42LRpYtifeJcNmifp) | 5:11 |
 | 100 | [She's Got You \- Live](https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 2:46 |
 
-Snapshot ID: `Zv9oQAAAAAADhJO/3g4WMpOU9uQraM0X`
+Snapshot ID: `ZxsXwAAAAABzLcVjDYmlLKiJIwXkGG4P`

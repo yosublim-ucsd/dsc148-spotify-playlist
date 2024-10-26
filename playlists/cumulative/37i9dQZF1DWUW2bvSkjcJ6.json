@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist. ",
+  "description": "Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist. Cover: Lady Gaga",
   "name": "New Music Friday Deutschland",
   "tracks": [
     {
@@ -2911,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "Aquamarine",
+        "url": "https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162814,
+      "name": "Aquamarine",
+      "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
+    },
+    {
+      "album": {
         "name": "ARABAMBI",
         "url": "https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1"
       },
@@ -4519,6 +4537,36 @@
     },
     {
       "album": {
+        "name": "Believe (Shooting Stars)",
+        "url": "https://open.spotify.com/album/79WFgZm35smuyjipo6fouj"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Believe (Shooting Stars)",
+      "url": "https://open.spotify.com/track/7fJdto9euM593wybpCdEPV"
+    },
+    {
+      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/5cSEvN4TBHPfIciw8Ln05p"
       },
@@ -4983,6 +5031,32 @@
     },
     {
       "album": {
+        "name": "Big In Da Game",
+        "url": "https://open.spotify.com/album/58CdyyKsbLQXItkF19sW9c"
+      },
+      "artists": [
+        {
+          "name": "KidSuper",
+          "url": "https://open.spotify.com/artist/0BVvfg3U3fKhHQh4DMMeF2"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Big In Da Game",
+      "url": "https://open.spotify.com/track/5X3A2mJg2ptLNZ1p0sJiHT"
+    },
+    {
+      "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
       },
@@ -4998,6 +5072,24 @@
       "duration_ms": 174000,
       "name": "Big Mama",
       "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
+    },
+    {
+      "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Bigger In Texas",
+      "url": "https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs"
     },
     {
       "album": {
@@ -7692,8 +7784,8 @@
           "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
-          "name": "Barbz",
-          "url": "https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD"
+          "name": "barbz",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
         }
       ],
       "date_added": "2024-10-24",
@@ -8387,6 +8479,10 @@
         "url": "https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj"
       },
       "artists": [
+        {
+          "name": "LA MAIN SUR LE COEUR",
+          "url": "https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef"
+        },
         {
           "name": "Aya Nakamura",
           "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
@@ -10436,6 +10532,24 @@
       "duration_ms": 136000,
       "name": "Disco Marathon (feat. NEEKA)",
       "url": "https://open.spotify.com/track/6eLLQ5NzQchs3RalH4TcVa"
+    },
+    {
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
       "album": {
@@ -17793,6 +17907,24 @@
     },
     {
       "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+    },
+    {
+      "album": {
         "name": "Heart Sped Up (BFF)",
         "url": "https://open.spotify.com/album/2e1ZjtU3Dikrdpx21IzXSz"
       },
@@ -18448,6 +18580,28 @@
       "duration_ms": 218926,
       "name": "Hide",
       "url": "https://open.spotify.com/track/3yIM5GDH3UYpYMi0fWRmx3"
+    },
+    {
+      "album": {
+        "name": "Hide It (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/4sAQkEB9HwmyKAd9JNZ7ee"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207501,
+      "name": "Hide It (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS"
     },
     {
       "album": {
@@ -21121,6 +21275,24 @@
     },
     {
       "album": {
+        "name": "imsochillandcool",
+        "url": "https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206095,
+      "name": "imsochillandcool",
+      "url": "https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF"
+    },
+    {
+      "album": {
         "name": "In A Heartbeat",
         "url": "https://open.spotify.com/album/0ca3f3KsFoFJLuvbmcbBBF"
       },
@@ -21856,6 +22028,28 @@
       "duration_ms": 170412,
       "name": "It Could Have Been Us (feat. Griff)",
       "url": "https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4"
+    },
+    {
+      "album": {
+        "name": "It Girl (feat. Sampagne)",
+        "url": "https://open.spotify.com/album/3jc1H7VUFWvbnzyv4jGHko"
+      },
+      "artists": [
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        },
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143622,
+      "name": "It Girl (feat. Sampagne)",
+      "url": "https://open.spotify.com/track/2byoNXF9Y6qhIGBq33ATEm"
     },
     {
       "album": {
@@ -24098,6 +24292,24 @@
       "duration_ms": 197000,
       "name": "Leeres Herz",
       "url": "https://open.spotify.com/track/3NBrXCgrZR6lwWfNRBw5ed"
+    },
+    {
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/2EGoU6wx7retxKjClGyaxA"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131818,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0kZLYZ9qpZrQYedUMI7s58"
     },
     {
       "album": {
@@ -31533,6 +31745,28 @@
     },
     {
       "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157491,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
+    },
+    {
+      "album": {
         "name": "Old Life",
         "url": "https://open.spotify.com/album/5ysYg2ph45lyD4OEpDLW6p"
       },
@@ -35021,28 +35255,6 @@
     },
     {
       "album": {
-        "name": "Rich Girl, It Girl (feat. Sampagne)",
-        "url": "https://open.spotify.com/album/3jc1H7VUFWvbnzyv4jGHko"
-      },
-      "artists": [
-        {
-          "name": "Shirin David",
-          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
-        },
-        {
-          "name": "Sampagne",
-          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
-        }
-      ],
-      "date_added": "2024-10-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 143622,
-      "name": "Rich Girl, It Girl (feat. Sampagne)",
-      "url": "https://open.spotify.com/track/2byoNXF9Y6qhIGBq33ATEm"
-    },
-    {
-      "album": {
         "name": "Greatest Of All Trappers - Gangsta Grillz Edition",
         "url": "https://open.spotify.com/album/2YaNo3GoShVwNxP7nEPrPD"
       },
@@ -35882,6 +36094,24 @@
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
+    },
+    {
+      "album": {
+        "name": "S.I.P",
+        "url": "https://open.spotify.com/album/6r0EFFUcZl45ChVwCjr5jF"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146890,
+      "name": "S.I.P",
+      "url": "https://open.spotify.com/track/6MHAoGCcuOxXzfC6KYSlF1"
     },
     {
       "album": {
@@ -37370,6 +37600,24 @@
       "duration_ms": 180378,
       "name": "Si Si",
       "url": "https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc"
+    },
+    {
+      "album": {
+        "name": "Let's Live a Life Better Than This",
+        "url": "https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe"
+      },
+      "artists": [
+        {
+          "name": "A. Swayze & The Ghosts",
+          "url": "https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "Sick Kinda WRLD",
+      "url": "https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J"
     },
     {
       "album": {

@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "25",
+      "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
+    },
+    {
+      "album": {
         "name": "Non-Perishable",
         "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
       },
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 254320,
       "name": "All to Myself",
       "url": "https://open.spotify.com/track/0lOQaZwX9AkAiSvObh4G70"
@@ -2673,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Bigger In Texas",
+      "url": "https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs"
+    },
+    {
+      "album": {
         "name": "BILLIE EILISH.",
         "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
@@ -3497,6 +3533,28 @@
     },
     {
       "album": {
+        "name": "BUMBAA",
+        "url": "https://open.spotify.com/album/4PN0qLGHRS4VDIERqIpO2e"
+      },
+      "artists": [
+        {
+          "name": "Ohthatsmizz",
+          "url": "https://open.spotify.com/artist/77zq5iaCosWolNf1IRdTjJ"
+        },
+        {
+          "name": "Sturdyyoungin",
+          "url": "https://open.spotify.com/artist/2DnJs9S5S7DWOyE2zK2fNs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84867,
+      "name": "BUMBAA",
+      "url": "https://open.spotify.com/track/453RSzidDGcnSBPAB3Bebp"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -4235,6 +4293,28 @@
     },
     {
       "album": {
+        "name": "Clock Dat (feat. Shamar Marco)",
+        "url": "https://open.spotify.com/album/41PFb8SNPnG3sHZ0IDc7aZ"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Shamar Marco",
+          "url": "https://open.spotify.com/artist/5XkI8ifXhJknTGNcNZBm5k"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200253,
+      "name": "Clock Dat (feat. Shamar Marco)",
+      "url": "https://open.spotify.com/track/7qr5FFlgqpkFNM1ShAtvlw"
+    },
+    {
+      "album": {
         "name": "Closer (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
       },
@@ -4254,6 +4334,32 @@
       "duration_ms": 168873,
       "name": "Closer (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
+    },
+    {
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "Closure (with Cash Cobain)",
+      "url": "https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki"
     },
     {
       "album": {
@@ -4430,7 +4536,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 172738,
       "name": "Confession",
       "url": "https://open.spotify.com/track/1YQrPTJGpJBX11sGdPHFJn"
@@ -6068,7 +6174,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 127894,
       "name": "Drive Da Boat (feat. BabyChiefDoit)",
       "url": "https://open.spotify.com/track/5uzUq9JgKWzcLuf0FBQD3a"
@@ -9794,7 +9900,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 165270,
       "name": "HOT ONE (with TiaCorine & A$AP Ferg)",
       "url": "https://open.spotify.com/track/083HuPvgqYBLUiv82bVxwE"
@@ -12771,6 +12877,28 @@
     },
     {
       "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/0EgK3iRxEr2vuokKSE2khi"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139867,
+      "name": "Made Man (feat. Polo G)",
+      "url": "https://open.spotify.com/track/1i3aV6LzXtGWQNqbdf0faI"
+    },
+    {
+      "album": {
         "name": "MAGIC (feat. Mustard)",
         "url": "https://open.spotify.com/album/0pVhqkfdTywxdrHc3RCo7u"
       },
@@ -15003,6 +15131,24 @@
     },
     {
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90760,
+      "name": "on one tonight",
+      "url": "https://open.spotify.com/track/6EUcP55GlbmsmCzfL2vxtZ"
+    },
+    {
+      "album": {
         "name": "On Wat U On (with GloRilla)",
         "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
       },
@@ -15216,7 +15362,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 156223,
       "name": "Opportunist",
       "url": "https://open.spotify.com/track/7ESmcSz98ZGni2Wm8Zucog"
@@ -15866,6 +16012,24 @@
       "duration_ms": 217954,
       "name": "Peso a Peso",
       "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
+    },
+    {
+      "album": {
+        "name": "HOW TF IS THIS A MIXTAPE?",
+        "url": "https://open.spotify.com/album/2bEwLq4zSG4t8f1uF2BHfP"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129106,
+      "name": "PHAT",
+      "url": "https://open.spotify.com/track/0UXC93QrbB1by2v4Fa6ILS"
     },
     {
       "album": {
@@ -18126,7 +18290,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 156190,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/7BA7DeWLj4FNFgY22z4TXo"
@@ -18492,7 +18656,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 220400,
       "name": "Sick (feat. 4batz)",
       "url": "https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3"
@@ -19548,7 +19712,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 104751,
       "name": "STFU",
       "url": "https://open.spotify.com/track/05oIDnL2jfeUxYiDIIqFP6"
@@ -22476,7 +22640,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 153014,
       "name": "VOGUE",
       "url": "https://open.spotify.com/track/3xXDLFPydivY2cb5AUgWOv"
@@ -22950,7 +23114,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 210887,
       "name": "Went Left (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0rMQahunK7ZPXTioVbBCim"
@@ -23782,6 +23946,28 @@
       "duration_ms": 230709,
       "name": "You Broke My Heart",
       "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
+    },
+    {
+      "album": {
+        "name": "You Don\u2019t Love Me",
+        "url": "https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157332,
+      "name": "You Don\u2019t Love Me",
+      "url": "https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV"
     },
     {
       "album": {

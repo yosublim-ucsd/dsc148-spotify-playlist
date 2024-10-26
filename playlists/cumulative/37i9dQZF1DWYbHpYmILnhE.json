@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Drilling through Naij. Cover: Reeplay",
+  "description": "Drilling through Naij. Cover: King Perryy",
   "name": "Naija Drill ",
   "tracks": [
     {
@@ -382,6 +382,32 @@
       "duration_ms": 145777,
       "name": "FOOLiSH (Outstanding Dinner)",
       "url": "https://open.spotify.com/track/0amlCeApqGc8p4MXFgWnes"
+    },
+    {
+      "album": {
+        "name": "Confirm Parole",
+        "url": "https://open.spotify.com/album/21kr46AIPCtfESBgSgxhC6"
+      },
+      "artists": [
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209738,
+      "name": "Gbege",
+      "url": "https://open.spotify.com/track/38gXK9lmlIQTpbkh3dCvaG"
     },
     {
       "album": {
@@ -1412,7 +1438,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 174628,
       "name": "She Knows (Blas\u00e9)",
       "url": "https://open.spotify.com/track/7vNF37TITkdgRLvn6kxb68"

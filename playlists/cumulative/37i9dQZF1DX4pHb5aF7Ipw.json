@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Rap. Cover: Guru Randhawa",
+  "description": "Fresh Punjabi Rap. Cover: Riar Saab",
   "name": "Burrh Rap",
   "tracks": [
     {
@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 180705,
       "name": "36 YAAR",
       "url": "https://open.spotify.com/track/2U5VHyHugNid0L9tGiv9XW"
@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 197985,
       "name": "Hood Life",
       "url": "https://open.spotify.com/track/4G2sLmmGsJijWVEXAMEYCs"
@@ -2953,6 +2953,44 @@
     },
     {
       "album": {
+        "name": "Meds",
+        "url": "https://open.spotify.com/album/6ERlO2g7UsQOWbeuoxdsnW"
+      },
+      "artists": [
+        {
+          "name": "Islandkiddd",
+          "url": "https://open.spotify.com/artist/5hB0eQ1WDA5flgbllv3m0B"
+        },
+        {
+          "name": "GAGG E",
+          "url": "https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R"
+        },
+        {
+          "name": "Glixzy",
+          "url": "https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y"
+        },
+        {
+          "name": "Numbgod",
+          "url": "https://open.spotify.com/artist/2pRlsbIdL2gTiSwdxzGnuY"
+        },
+        {
+          "name": "Xundr",
+          "url": "https://open.spotify.com/artist/319D42RfAQ63NPsLnjQvch"
+        },
+        {
+          "name": "Knwnkid",
+          "url": "https://open.spotify.com/artist/3cDTfJUpTGl9ozI7t4CSda"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173913,
+      "name": "Meds - Xundr & Knwnkid Remix",
+      "url": "https://open.spotify.com/track/3RFaOuOZHZiEiHtUJWYKSA"
+    },
+    {
+      "album": {
         "name": "Mera Na",
         "url": "https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1"
       },
@@ -3220,7 +3258,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 150000,
       "name": "N.F.N.C",
       "url": "https://open.spotify.com/track/6tAw5yxfamm8EpOHzNOdlx"
@@ -3857,6 +3895,24 @@
     },
     {
       "album": {
+        "name": "Rubi Kon?",
+        "url": "https://open.spotify.com/album/4NlM5deMG1ozwIF0h7uU8T"
+      },
+      "artists": [
+        {
+          "name": "Ruban Buttar",
+          "url": "https://open.spotify.com/artist/1U0l9iwnxY6s6IGANtXQYV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "Rubi Kon?",
+      "url": "https://open.spotify.com/track/2YUuQdYenYuVQh8L45ZyCv"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq"
       },
@@ -4154,6 +4210,24 @@
       "duration_ms": 141682,
       "name": "Speedin",
       "url": "https://open.spotify.com/track/5VimYNGccxbDBktl7aNRCS"
+    },
+    {
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/3hlD7lg7YauBdLuLMSlFHc"
+      },
+      "artists": [
+        {
+          "name": "Sikkander",
+          "url": "https://open.spotify.com/artist/5VrBVrPCCkw93feEHBkR8f"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/4J51iI3X0qhc4wnfJE5B15"
     },
     {
       "album": {

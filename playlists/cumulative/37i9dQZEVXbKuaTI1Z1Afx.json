@@ -9994,7 +9994,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 136866,
       "name": "Change Me",
       "url": "https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb"
@@ -18076,7 +18076,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 174080,
       "name": "Fireproof",
       "url": "https://open.spotify.com/track/34aYkYrY3sXhEU9O4VQgtB"
@@ -19426,7 +19426,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 107539,
       "name": "FUNK DO BOUNCE (Slowed)",
       "url": "https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz"
@@ -22222,7 +22222,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 79523,
       "name": "Harry Potter - Trap Remix",
       "url": "https://open.spotify.com/track/7FD5ZtQ7MAUE7XEbEe0p73"
@@ -25314,7 +25314,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -27802,7 +27802,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 186093,
       "name": "It's Going Down Now",
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
@@ -36100,7 +36100,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 229106,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/0UAB340gAcSMk3r0a8PTag"
@@ -40108,10 +40108,28 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 179906,
       "name": "One Take Freestyle",
       "url": "https://open.spotify.com/track/0PVSV64dW2NvTNcvMFm6XX"
+    },
+    {
+      "album": {
+        "name": "One Take Freestyle",
+        "url": "https://open.spotify.com/album/1OZvPNe13vwyc0Cj732Vt2"
+      },
+      "artists": [
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179906,
+      "name": "One Take Freestyle",
+      "url": "https://open.spotify.com/track/7x5CvENf43u875TNrtqT1h"
     },
     {
       "album": {
@@ -49896,7 +49914,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 256706,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt"
@@ -50946,7 +50964,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
@@ -59366,7 +59384,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 202640,
       "name": "Walking in the Wind",
       "url": "https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO"

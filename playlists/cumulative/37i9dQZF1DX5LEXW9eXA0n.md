@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: AKMU\(악뮤\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,321 songs - 3 day 13 hr 29 min
+1,323 songs - 3 day 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [In time](https://open.spotify.com/track/5CXvW4e3hz3NIH3k6GRnDI) | [정오월](https://open.spotify.com/artist/4zLM2qGVz8TX11ycCgwxk8) | [In time](https://open.spotify.com/album/0t3Gv2sSwVBWaGvdkJV03Q) | 4:53 | 2024-04-30 | 2024-09-14 |
 | [INCOMPLETE](https://open.spotify.com/track/1YI04hmMPhmcutJm1bpp0c) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [\[Vol.51\] You Hee yul's Sketchbook : 28th Voice 'Sketchbook X YOUNHA'](https://open.spotify.com/album/4opF5I4YD6RE1qzSFAMK4D) | 4:32 | 2022-03-29 | 2022-04-15 |
 | [Independence](https://open.spotify.com/track/1323131baOYufSSG8ScKDU) | [Blue.D](https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY) | [Independence](https://open.spotify.com/album/0r5dJpQ2WHSDP6wttXUmmM) | 3:22 | 2022-03-31 | 2022-06-28 |
+| [Insomnia](https://open.spotify.com/track/6RZv3rIkz0Us99p5OdK0vE) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Insomnia](https://open.spotify.com/album/6d6tKjuz54ICfRGbB5tYXV) | 3:29 | 2024-10-25 |  |
 | [Introduce me a good person](https://open.spotify.com/track/2CHk9VD0glOknemRMFEQfH) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1PHttHhnBSqPClsqZrPp8z) | 3:03 | 2021-12-20 | 2022-07-05 |
 | [Is anybody home?](https://open.spotify.com/track/44wd4Ys1LLt85pI7wjwQja) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Is anybody home?](https://open.spotify.com/album/574CFNbs5NLms9QpResxfB) | 2:38 | 2022-03-29 | 2022-04-07 |
 | [Is It Bearable?](https://open.spotify.com/track/6qWhCzdKecYenhHAJYRtHZ) | [Monni](https://open.spotify.com/artist/4XG3yZFXFRMrbOIWk6pYrb) | [Is It Bearable?](https://open.spotify.com/album/7E8Q8ycL1y0MrKx1ZxEA4q) | 3:38 | 2023-04-26 | 2023-09-12 |
@@ -939,6 +940,7 @@
 | [So Sick](https://open.spotify.com/track/4n2aF5sqYdYvCuiU8FUnt5) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Reunion Counseling \(Original Soundtrack\), Pt.3](https://open.spotify.com/album/0qNQk0wVZVOQzlTL0gQmb3) | 3:57 | 2024-04-15 | 2024-08-11 |
 | [So that my day could end \(feat\. Han Dong Geun\)](https://open.spotify.com/track/2jWT39ijINYfCPgxBveGpa) | [Yeoro](https://open.spotify.com/artist/2H33No6rbjBG2G5bQYcQJo), [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [So that my day could end](https://open.spotify.com/album/2tFzFtdSaVvEptMyR6cSlc) | 3:58 | 2023-01-10 | 2023-02-25 |
 | [So to speak,Love](https://open.spotify.com/track/0kjUOLyLACpGsZP8V26nNS) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Neighborhood enemy](https://open.spotify.com/album/67B6cE29Q7bTaTkJnEVFTJ) | 4:55 | 2023-05-05 | 2023-05-16 |
+| [So you](https://open.spotify.com/track/3keXyvu1hnN63Lw8bUN3lh) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [So you \(DK\(DECEMBER\) X Busking Traveler\)](https://open.spotify.com/album/1gVTjwHau79QdOgEjp1z8M) | 4:26 | 2024-10-25 |  |
 | [softie inside](https://open.spotify.com/track/3Yae8EZ7eSC44hFXgxnSzf) | [SoonSoonHee](https://open.spotify.com/artist/3VOan0TuiwkfjnPLDXBPbG) | [softie inside](https://open.spotify.com/album/3NQOhmt0X1jJYdZO5KXtve) | 3:15 | 2022-09-29 | 2022-11-17 |
 | [Some days](https://open.spotify.com/track/6slhQbJyE06M4zcswqaLB9) | [Kim Chan Ho](https://open.spotify.com/artist/2iL5pnX0kNkBHvRUoEuj0l) | [Some days](https://open.spotify.com/album/3aOkWcnuxgdrNPp218EPu3) | 4:09 | 2022-07-07 | 2022-08-19 |
 | [Somebody](https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Expectation \- The 2nd Mini Album](https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ) | 2:38 | 2023-09-20 | 2023-12-14 |

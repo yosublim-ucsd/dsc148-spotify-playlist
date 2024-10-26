@@ -13919,6 +13919,24 @@
     },
     {
       "album": {
+        "name": "Father in a Bible",
+        "url": "https://open.spotify.com/album/26lP4nrMKZjuJlMOJUz9K8"
+      },
+      "artists": [
+        {
+          "name": "Jonas Conner",
+          "url": "https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158833,
+      "name": "Father in a Bible",
+      "url": "https://open.spotify.com/track/3Z4QzgjewJHpiZEk2puD4D"
+    },
+    {
+      "album": {
         "name": "Favorite Dress",
         "url": "https://open.spotify.com/album/5zF1FrN4VYwsSx5LQEhSoZ"
       },

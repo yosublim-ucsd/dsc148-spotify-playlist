@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-115 songs - 8 hr 32 min
+117 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alena](https://open.spotify.com/track/2L4yROkUCTqOxGAE7i6kst) | [Bisrat Surafel](https://open.spotify.com/artist/0oXAjQZ1LZgOVEqbZKqFKH) | [Alena](https://open.spotify.com/album/0IlHmRP1rWcPy2oSwrroz0) | 4:20 | 2023-03-17 | 2023-08-15 |
 | [Alresashim Wey](https://open.spotify.com/track/3rz86l1LZJxU4NwzBuCOOo) | [Kal Kin](https://open.spotify.com/artist/3JwnCprAXUfeXUaGf2FaOH) | [Alresashim Wey](https://open.spotify.com/album/5xBnkZT3oDEAZbo9BKYZdA) | 4:05 | 2024-03-08 |  |
 | [Altelashim](https://open.spotify.com/track/4UISxp6gvMxGkjQfFbonuC) | [Abdu Kiar](https://open.spotify.com/artist/2B8c0XLWWKbFmgSKDruKk4) | [Tikur Anbessa](https://open.spotify.com/album/00p6FsZcNMhNMjJu3cc5p8) | 5:09 | 2018-10-04 | 2024-05-04 |
+| [Ambbaanut Sirtteeu](https://open.spotify.com/track/4wAj1u7LSzLJ07MTol6qdu) | [Adinew AB](https://open.spotify.com/artist/36XEOmpmWIgsLRwqgnAbnN), [Daniel Dalelo](https://open.spotify.com/artist/29tgYEJlETyWU4W0Gb2DTn) | [Ambbaanut Sirtteeu](https://open.spotify.com/album/09KCMxbtxIOF8iRmAm87p6) | 8:43 | 2024-10-25 |  |
 | [Amsaya](https://open.spotify.com/track/5fMFrjOkltUkTKPlV7qtRM) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Qitsbet](https://open.spotify.com/album/0Cml7FJiuQWF4aaPrhBV5Y) | 4:12 | 2023-03-17 |  |
 | [Atiyo](https://open.spotify.com/track/1pNBlWJrub3pRPhoTtXf0j) | [Ephrem Amare](https://open.spotify.com/artist/6l7ED7MvvS43jtq5TUMB95) | [Atiyo](https://open.spotify.com/album/55td4C2TUwzbKOMWT12JwV) | 4:50 | 2020-06-05 | 2024-10-12 |
 | [Atse Tewodros](https://open.spotify.com/track/00T2SlsSVzJSVYMmbAiclO) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 7:57 | 2018-10-04 | 2024-05-25 |
@@ -64,9 +65,10 @@
 | [Gudaye Nesh](https://open.spotify.com/track/6QVMCGAzom2PygQBzcjlZs) | [Wondimu Jira](https://open.spotify.com/artist/0xksnjOFGOdADTRV5cKcV4) | [Ethiopian Slow Romantic Collection \- Vol.2](https://open.spotify.com/album/2PPPjvJCXafChPiOItKfip) | 4:30 | 2018-10-04 | 2023-03-18 |
 | [Gude](https://open.spotify.com/track/4h3xIy5sNOJ2sPGcyVIRsd) | [Kako Getachew](https://open.spotify.com/artist/5SI6CCJiUtG5IUYdR45iBu) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:53 | 2018-10-04 | 2022-12-13 |
 | [Hager Alegn](https://open.spotify.com/track/2p3jtfV6Zq0aegDj1Mpbm8) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:59 | 2018-10-04 | 2023-10-20 |
+| [I Know \(feat\. The Cavemen.\)](https://open.spotify.com/track/1tfNvTi9njogdoorSPO9ZY) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Amén \(The Missing Tapes\)](https://open.spotify.com/album/2BBNmyGZvO5uAIU9pmK0E2) | 3:14 | 2024-10-25 |  |
 | [It's The Way](https://open.spotify.com/track/0gNZ0esvoOyUovzsOEda3z) | [Ariet Opolo](https://open.spotify.com/artist/5FmywQctVuxQ8igq3R7hl5) | [It's The Way](https://open.spotify.com/album/2WMdkxDLTYFSzaEoDHaUBm) | 3:00 | 2024-10-11 |  |
 | [Jegna](https://open.spotify.com/track/6iQkqugtqS7wC5FWOTlQ98) | [Mastewal Eyayu](https://open.spotify.com/artist/2ycWMnbSfkoPNAjXvo1BvP) | [Jegna](https://open.spotify.com/album/0t3z1KzzscbB49f6U3btUQ) | 6:02 | 2022-12-12 |  |
-| [Kanchiga New](https://open.spotify.com/track/2ccPSIfmf9PmTkyywfeRRj) | [Samon Zemas](https://open.spotify.com/artist/2CXGI3F0AkpmppGSgdtcfA), [Aman N](https://open.spotify.com/artist/289FKaEJct7I2C3hVLMIBo) | [Kanchiga New](https://open.spotify.com/album/2m9twp71nnWlbmv7elggTA) | 2:58 | 2022-11-17 |  |
+| [Kanchiga New](https://open.spotify.com/track/2ccPSIfmf9PmTkyywfeRRj) | [Samon Zemas](https://open.spotify.com/artist/2CXGI3F0AkpmppGSgdtcfA), [Aman N](https://open.spotify.com/artist/289FKaEJct7I2C3hVLMIBo) | [Kanchiga New](https://open.spotify.com/album/2m9twp71nnWlbmv7elggTA) | 2:58 | 2022-11-17 | 2024-10-26 |
 | [Kenat Wediya](https://open.spotify.com/track/4iKrEZyjF2JcC5AukB2rBF) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 4:54 | 2018-10-04 | 2023-03-18 |
 | [Keteraraw Mado](https://open.spotify.com/track/3BxMUw1RudApjSG9emnP5K) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm) | [Lerasih New](https://open.spotify.com/album/0uz6rUwEMsK4pHO39fsapv) | 6:22 | 2020-07-21 |  |
 | [Kochegn](https://open.spotify.com/track/6Z0S4N9qluFRoYFcjQyV3H) | [Hewan Gebrewold](https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE) | [Kochegn](https://open.spotify.com/album/1YOB2u3doahWCiLxuI0FEO) | 4:10 | 2023-06-23 |  |
@@ -91,7 +93,7 @@
 | [Pon Mi](https://open.spotify.com/track/460VtlJtrs4j8kiBPcQlyJ) | [Noori Belai](https://open.spotify.com/artist/1OF4TSXATKUqj0G6tCCRTp) | [Pon Mi](https://open.spotify.com/album/19Oyvrg5EIJr8GeXVxkD1z) | 2:23 | 2023-10-13 |  |
 | [Pretty Girls](https://open.spotify.com/track/4RZcW3j9AOkU2R0p1QoLO9) | [Abel](https://open.spotify.com/artist/2sj79jP5y6LxWux7yHd5ss) | [Pretty Girls](https://open.spotify.com/album/4PVi3ze2hRUq45YejBEsuj) | 1:23 | 2024-05-03 | 2024-10-05 |
 | [Qal](https://open.spotify.com/track/0ZM9wgVnliFhDKdNdND349) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Sidist \(VI\)](https://open.spotify.com/album/25lSM4Kr3XmfZPALspAiNH) | 4:51 | 2022-11-17 |  |
-| [Rega](https://open.spotify.com/track/5srRfLAfga930OVMWupdB7) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm), [Ahadu](https://open.spotify.com/artist/656D6SvS3ESkvQdroZMC6W), [Ezra](https://open.spotify.com/artist/2WrgUQR8a2v9yu8ViT1aIH) | [Rega](https://open.spotify.com/album/6V0xmnyjX86ZfvuUTVKaLB) | 4:15 | 2019-11-25 |  |
+| [Rega](https://open.spotify.com/track/5srRfLAfga930OVMWupdB7) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm), [Ahadu](https://open.spotify.com/artist/656D6SvS3ESkvQdroZMC6W), [Ezra](https://open.spotify.com/artist/2WrgUQR8a2v9yu8ViT1aIH) | [Rega](https://open.spotify.com/album/6V0xmnyjX86ZfvuUTVKaLB) | 4:15 | 2019-11-25 | 2024-10-26 |
 | [Setaleksh Des Alishign, Abinet Agonafir](https://open.spotify.com/track/3x1IPNc49eHFIRYPqrge1h) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- Dance](https://open.spotify.com/album/7JIzV5YLIR8GidhHgQ4LJa) | 5:04 | 2018-10-04 | 2022-11-14 |
 | [She Will Be Loved](https://open.spotify.com/track/2R167fmwPN79bfF1BqqNol) | [TK SNO](https://open.spotify.com/artist/1k6HVfpL0t6d9ZIiOT4xWR) | [She Will Be Loved](https://open.spotify.com/album/6P86LrrDckjeM4TqdyknhO) | 3:36 | 2023-09-14 |  |
 | [SHEGIYE](https://open.spotify.com/track/4eTZ9MoScTBfgRAPkMKxoP) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [ZETEGN \| NOR](https://open.spotify.com/album/5TiaBIND5BaCCPyVUllODr) | 3:44 | 2024-10-04 |  |

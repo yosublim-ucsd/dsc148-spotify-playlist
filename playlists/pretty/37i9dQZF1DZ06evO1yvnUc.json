@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 119042,
+  "num_followers": 119077,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAC3jw0YFU4DHFJbOxmkjCT8",
+  "snapshot_id": "ZxmOAAAAAACZ+g9DDxLEXnPUNd+q9cF2",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 195053,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B"
+      "duration_ms": 228602,
+      "name": "fue mejor",
+      "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
     },
     {
       "added_at": null,
@@ -595,22 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
           "name": "PARTYNEXTDOOR",
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 228602,
-      "name": "fue mejor",
-      "url": "https://open.spotify.com/track/2I9t0e3gLAKOi5syoHxP46"
+      "duration_ms": 195053,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/3aJkV6DUTSCqOwVwaBDG9B"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still Got Time (feat. PARTYNEXTDOOR)",
+        "url": "https://open.spotify.com/album/2kGUeTGnkLOYlinKRJe47G"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 188490,
+      "name": "Still Got Time (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/000xQL6tZNLJzIrtIgxqSl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Major Lazer Essentials",
         "url": "https://open.spotify.com/album/16vOvSLYIZO8xZOpBBQnBZ"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 203180,
       "name": "Run Up (feat. PARTYNEXTDOOR & Nicki Minaj)",
       "url": "https://open.spotify.com/track/49zMj9UjQ0IGksOO2VuhZX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Got Time (feat. PARTYNEXTDOOR)",
-        "url": "https://open.spotify.com/album/2kGUeTGnkLOYlinKRJe47G"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 188490,
-      "name": "Still Got Time (feat. PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/000xQL6tZNLJzIrtIgxqSl"
     }
   ],
   "unique_name": "This Is PARTYNEXTDOOR",

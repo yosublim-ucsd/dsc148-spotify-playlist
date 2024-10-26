@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 38457,
+  "num_followers": 38474,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAAf5ZQjXR+PYJyl2Uy6bkH9",
+  "snapshot_id": "ZxmOAAAAAAA7w5jlc86+uc3T3VjSDl14",
   "tracks": [
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "152",
-        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 197786,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je"
+      "duration_ms": 183706,
+      "name": "Sink Into Me",
+      "url": "https://open.spotify.com/track/3XctWgpqES8k6NcpJuS1jA"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 183706,
-      "name": "Sink Into Me",
-      "url": "https://open.spotify.com/track/3XctWgpqES8k6NcpJuS1jA"
+      "duration_ms": 197786,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 213533,
-      "name": "New Again",
-      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
+      "duration_ms": 188960,
+      "name": "Faith (When I Let You Down)",
+      "url": "https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Faith (When I Let You Down)",
-      "url": "https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Again",
         "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
@@ -636,9 +620,25 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 231173,
-      "name": "Summer, Man",
-      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
+      "duration_ms": 213533,
+      "name": "New Again",
+      "url": "https://open.spotify.com/track/5ZB0YmZ4e9TEuPa2ghD3XI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 243506,
+      "name": "This Is All Now",
+      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Summer, Man",
+      "url": "https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Taking Back Sunday",
         "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
       },
@@ -684,9 +700,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 243506,
-      "name": "This Is All Now",
-      "url": "https://open.spotify.com/track/0vS38XxhV24I3yEGjZLYmq"
+      "duration_ms": 211573,
+      "name": "Best Places To Be A Mom",
+      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
       "duration_ms": 192893,
       "name": "Call Come Running",
       "url": "https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Best Places To Be A Mom",
-      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
     },
     {
       "added_at": null,

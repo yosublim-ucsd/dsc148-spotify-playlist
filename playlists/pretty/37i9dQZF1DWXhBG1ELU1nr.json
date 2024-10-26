@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 232545,
+  "num_followers": 232547,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Buddy Holly",
+        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        },
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+        }
+      ],
+      "duration_ms": 129120,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "Exagerado",
         "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
       },
@@ -647,22 +667,6 @@
       "duration_ms": 151306,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/5yFI0Vs3x4EbeIDerT0ck1"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Rappa-Mundi",
-        "url": "https://open.spotify.com/album/49Wb8WyRUtoyKKO01HkRzI"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "Vapor barato",
-      "url": "https://open.spotify.com/track/2FHHmwpksVebKcquX3QMdF"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -683,22 +687,18 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
+        "name": "Rappa-Mundi",
+        "url": "https://open.spotify.com/album/49Wb8WyRUtoyKKO01HkRzI"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
         }
       ],
-      "duration_ms": 129120,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
+      "duration_ms": 263173,
+      "name": "Vapor barato",
+      "url": "https://open.spotify.com/track/2FHHmwpksVebKcquX3QMdF"
     },
     {
       "added_at": "2024-02-27 20:15:05",

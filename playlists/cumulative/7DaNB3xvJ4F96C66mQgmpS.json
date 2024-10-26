@@ -941,6 +941,32 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/7uUYUpxQ2IXEATVfuXOZul"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178345,
+      "name": "Closure (with Cash Cobain)",
+      "url": "https://open.spotify.com/track/0duV3Hxd1Y38zG8nkicIE8"
+    },
+    {
+      "album": {
         "name": "We All We Got",
         "url": "https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O"
       },
@@ -1512,6 +1538,36 @@
       "duration_ms": 249560,
       "name": "Fast Lane",
       "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
+    },
+    {
+      "album": {
+        "name": "Favor",
+        "url": "https://open.spotify.com/album/0s3Ynz1H05xtlQSaR8nFOo"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        },
+        {
+          "name": "RoyzNoyz Orchestra",
+          "url": "https://open.spotify.com/artist/7AViaGhODpwOzcsmigbnxA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165893,
+      "name": "Favor",
+      "url": "https://open.spotify.com/track/6q8yy8DfUMVmdmwozYx6Gu"
     },
     {
       "album": {

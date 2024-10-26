@@ -2825,7 +2825,7 @@
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 172920,
+      "duration_ms": 175172,
       "name": "Boyfriend In Paris",
       "url": "https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H"
     },
@@ -4018,6 +4018,10 @@
       },
       "artists": [
         {
+          "name": "LA MAIN SUR LE COEUR",
+          "url": "https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef"
+        },
+        {
           "name": "Aya Nakamura",
           "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
         }
@@ -4864,6 +4868,24 @@
       "duration_ms": 134966,
       "name": "Disco Died For You",
       "url": "https://open.spotify.com/track/4so4VxaOKJntIuVanu2Rg6"
+    },
+    {
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
       "album": {
@@ -8164,6 +8186,24 @@
       "duration_ms": 167272,
       "name": "Healer",
       "url": "https://open.spotify.com/track/0htUWE8W5ttgrljfjNIJ8E"
+    },
+    {
+      "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
     },
     {
       "album": {
@@ -16845,7 +16885,7 @@
     },
     {
       "album": {
-        "name": "QMA (feat. Zethu & Kuthathu)",
+        "name": "QMA (feat. Ze2 & Kuthathu)",
         "url": "https://open.spotify.com/album/46MjznyFZbFUA2pFNWuCwm"
       },
       "artists": [
@@ -16854,8 +16894,8 @@
           "url": "https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d"
         },
         {
-          "name": "Zethu",
-          "url": "https://open.spotify.com/artist/57vYco0DcK6SiwQyJOf2Zx"
+          "name": "Ze2",
+          "url": "https://open.spotify.com/artist/3oFeP83KftctMRhFh3SPtF"
         },
         {
           "name": "KUTHATHU",
@@ -16866,7 +16906,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 344000,
-      "name": "QMA (feat. Zethu & Kuthathu)",
+      "name": "QMA (feat. Ze2 & Kuthathu)",
       "url": "https://open.spotify.com/track/12sbuKdjDUAcDbq1sC4ovU"
     },
     {

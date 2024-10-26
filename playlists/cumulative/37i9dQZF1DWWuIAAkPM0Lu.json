@@ -2019,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Alle Dr\u00f8mme Ender",
+        "url": "https://open.spotify.com/album/51xmNXA57onpPXafkG1L9h"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8sg\u00e6nger",
+          "url": "https://open.spotify.com/artist/2vGjImvRIcL0jbVJFYhUer"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169550,
+      "name": "Alle Dr\u00f8mme Ender",
+      "url": "https://open.spotify.com/track/4vSq1T4VXD8j0uvEEx1rEU"
+    },
+    {
+      "album": {
         "name": "For Evigt Forbi",
         "url": "https://open.spotify.com/album/0TQ3kEWUwYLhtgZ92crDeM"
       },
@@ -8120,8 +8138,8 @@
           "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
-          "name": "Barbz",
-          "url": "https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD"
+          "name": "barbz",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
         }
       ],
       "date_added": "2024-10-24",
@@ -11198,6 +11216,24 @@
       "duration_ms": 149789,
       "name": "Discoteca",
       "url": "https://open.spotify.com/track/2MktwCE2h7aodPJDX8qjSX"
+    },
+    {
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
       "album": {

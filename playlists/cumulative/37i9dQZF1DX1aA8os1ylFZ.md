@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-540 songs - 1 day 3 hr 58 min
+544 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Arcade \(feat\. FLETCHER\)](https://open.spotify.com/track/4Ld4kbKo1eOzToQ0P8JA0V) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Small Town Boy](https://open.spotify.com/album/1FNBevfbKAzZsgI2RpkkQQ) | 3:07 | 2021-12-16 | 2022-03-26 |
 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/58w68w4s8h9gw3xrDaXyuj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/album/1RtGE6VCkSEwd5jm0v1Wfp) | 2:49 | 2021-12-16 | 2023-02-17 |
 | [Awareness \- Radio Edit](https://open.spotify.com/track/2bp8l2gJkGgsUszjJaruXp) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Essence](https://open.spotify.com/album/113oIbTJ2PlFjNOw6xyMrF) | 2:52 | 2023-11-09 | 2024-03-22 |
+| [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-25 |  |
 | [Bad](https://open.spotify.com/track/0Bfs2jt51qWNeF5iC8OEjd) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Bad](https://open.spotify.com/album/6sjhG7TWY4MgtwReg1zAMN) | 3:08 | 2021-12-16 | 2022-06-10 |
 | [Baeside](https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt) | [LORNZO](https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz) | [Baeside](https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ) | 1:44 | 2023-11-09 | 2024-03-02 |
 | [Bag \(with Lucky Daye\)](https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Bag \(with Lucky Daye\)](https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY) | 3:31 | 2023-09-14 | 2024-03-01 |
@@ -120,6 +121,7 @@
 | [Darkness](https://open.spotify.com/track/4xNygvV9HtIisQlGQgATvN) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Darkness](https://open.spotify.com/album/12WLtY1AOfYXPmVoYdulxZ) | 3:01 | 2023-03-30 | 2024-05-16 |
 | [Decide](https://open.spotify.com/track/2ITf4FaTaw5iuAg0Xpa2m9) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Decide](https://open.spotify.com/album/3HB9p8Lo7VWuwfZdPXqVTD) | 2:38 | 2023-01-27 | 2023-03-16 |
 | [Deeper](https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Deeper](https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR) | 3:34 | 2023-05-12 | 2024-08-02 |
+| [Disaster](https://open.spotify.com/track/4DEgSzgOIA0PlALY6iv3NI) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [A Forest Fire](https://open.spotify.com/album/5SmxGJPm2ItS9s6CnP5WKL) | 3:23 | 2024-10-25 |  |
 | [Diversion](https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Diversion](https://open.spotify.com/album/1qmpNeGmGgnBYgCRttwEB5) | 2:42 | 2023-08-31 | 2023-11-10 |
 | [Do It Again](https://open.spotify.com/track/2bXsC1eJ9UftAkhmYRuLmA) | [A.GIRL](https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW) | [Do It Again](https://open.spotify.com/album/2XuZiWSqq5CgMNjUQVWjkx) | 2:37 | 2023-01-12 | 2023-10-13 |
 | [Do They Know](https://open.spotify.com/track/2duXRr3V3koJ0w6WsEDOAU) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Do They Know](https://open.spotify.com/album/3qhMA6qBm8VcurTYcY94AM) | 2:02 | 2023-04-20 | 2024-06-08 |
@@ -198,6 +200,7 @@
 | [Hardlife](https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:13 | 2023-05-24 | 2023-09-15 |
 | [Headlights](https://open.spotify.com/track/1eiPx1hsXwBUnrSqmaygUx) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Headlights](https://open.spotify.com/album/2OqSKDW0ZotjVuZPrg15N8) | 2:53 | 2023-09-28 | 2024-03-01 |
 | [Heart Is On My Sleeve](https://open.spotify.com/track/7lB5nb6P2bxz6devY8ZTbw) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Heart Is On My Sleeve](https://open.spotify.com/album/1lzrF9VEQStjCSl0gQQ3Qy) | 4:13 | 2023-01-12 | 2023-10-13 |
+| [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 | 2024-10-25 |  |
 | [Heart To Heart](https://open.spotify.com/track/4sZpxhh9oSkX4QynkJbI8E) | [Marnix Emanuel](https://open.spotify.com/artist/6KGuYVnF7JVw7WpKPdfkvr) | [Heart To Heart](https://open.spotify.com/album/1Rw8TB9w9IbipBGhramigY) | 4:21 | 2022-05-18 | 2023-01-13 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-12-16 | 2022-03-26 |
 | [Heartbreaker](https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [I Love You And Its Getting Worse](https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu) | 2:59 | 2023-05-12 | 2024-09-28 |
@@ -258,6 +261,7 @@
 | [It's All There \(Secrets\)](https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [Truth Be Told](https://open.spotify.com/album/2O5nHhevgApYSTlSgyVcbg) | 3:20 | 2024-08-29 |  |
 | [JACKIE BROWN](https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:49 | 2023-04-23 | 2023-09-22 |
 | [JEANS \(with Miguel\)](https://open.spotify.com/track/4joC6YCuIUDdBBAY2rCBGi) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [JEANS](https://open.spotify.com/album/1iFSjxYvls81f60fJx8G5K) | 3:15 | 2023-08-23 | 2024-09-28 |
+| [Just Another Day](https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Auryln](https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79) | [Just Another Day](https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk) | 2:40 | 2024-10-25 |  |
 | [Just Expectationz](https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Just Expectationz](https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa) | 3:48 | 2023-02-23 | 2024-03-01 |
 | [Just Hold Me Close](https://open.spotify.com/track/376ZUWgxe1oqkE2xawiKDg) | [Stef Classens](https://open.spotify.com/artist/2GIBqEMeHWoMZuxlmyc3ac) | [Just Hold Me Close](https://open.spotify.com/album/2R8Tj9vXLOlQwXXxQYB4C2) | 3:12 | 2021-12-16 | 2022-01-21 |
 | [Just Like This](https://open.spotify.com/track/79dBS4082VApFiPRJ4p52W) | [Isabel](https://open.spotify.com/artist/4A1Uwn4bWtrDMg53ioEa4Q) | [Just Like This](https://open.spotify.com/album/2c1AmyIMbjoBK9VEml2JJr) | 2:51 | 2021-12-16 | 2022-01-21 |

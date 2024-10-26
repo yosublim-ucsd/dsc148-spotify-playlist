@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Manuel Turizo & Kapo
 
-397 songs - 1 day 0 hr 11 min
+398 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Era Mentira](https://open.spotify.com/track/205UQMjPr9vVthUghoqynT) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Circharles](https://open.spotify.com/artist/7h9r1hKkJ7FGA6k5vjiz1i) | [Era Mentira](https://open.spotify.com/album/0Jq5HRj6AT5UgwDioSOG4Z) | 4:10 | 2022-03-04 | 2022-08-20 |
 | [Eres Mía](https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:10 | 2022-03-04 | 2024-01-13 |
 | [Es Tan Difícil](https://open.spotify.com/track/0Ihu6hcj4hrWVz22W3G10P) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Dime Que Falto](https://open.spotify.com/album/0mX3OGgKkGaFONpd2IfB1N) | 4:11 | 2022-03-04 | 2023-02-25 |
+| [Escasez de Besos](https://open.spotify.com/track/2kEC8t2FoGrN5H9FxnNBJn) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Escasez de Besos](https://open.spotify.com/album/7hu8S7ZNiakxzrN3K1sljS) | 3:20 | 2024-10-25 |  |
 | [Eso Es Amor](https://open.spotify.com/track/3ZKJvmw8fTozLYGHbftkGn) | [Jiory](https://open.spotify.com/artist/4RLGPkFaRFlkPNFzVbcd6k) | [Eso Es Amor](https://open.spotify.com/album/1vqTyXMquKPCMAH5kU528d) | 3:52 | 2022-03-04 | 2022-09-03 |
 | [Espacio en Tu Corazón \- Remix](https://open.spotify.com/track/7umNc6U2AVcL0RwQIi7xZG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Espacio en Tu Corazón \(Remix\)](https://open.spotify.com/album/0QbMnLTWFzzs9qiyUJ4Eco) | 2:59 | 2024-10-04 |  |
 | [Estrellita](https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Estrellita](https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW) | 2:37 | 2023-11-10 | 2024-09-21 |
@@ -328,7 +329,7 @@
 | [Si Acaso Vuelves](https://open.spotify.com/track/2JIfE0dJv2b8fTvHxZZ0kP) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Acaso Vuelves](https://open.spotify.com/album/6aTk7cTS9ClTgjefVjLel3) | 3:03 | 2022-09-09 | 2023-01-21 |
 | [Si Esta Casa Hablara \(Bachata Version\)](https://open.spotify.com/track/1rI0P3zoKjEgIUFWGIE6KG) | [Joel Santos](https://open.spotify.com/artist/7pQKmVxIJROJ9FpYq3cLie) | [Si Esta Casa Hablara \(Bachata Version\)](https://open.spotify.com/album/5MmpJfCJwF1CPtxU3FhoPD) | 3:53 | 2022-03-04 | 2022-09-03 |
 | [Si Quieres](https://open.spotify.com/track/0tz0qWCPcibn4ZAICo2ecR) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Quieres](https://open.spotify.com/album/1YEn3QJJuKkNiDHNekILF7) | 3:45 | 2022-03-04 | 2022-03-26 |
-| [Si Quieres Volver](https://open.spotify.com/track/4UYgNUNHJPGIBUyDornbcp) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Quieres Volver](https://open.spotify.com/album/6Kfd61Rx2CmMlzeEGO1GuD) | 2:58 | 2024-07-12 |  |
+| [Si Quieres Volver](https://open.spotify.com/track/4UYgNUNHJPGIBUyDornbcp) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Quieres Volver](https://open.spotify.com/album/6Kfd61Rx2CmMlzeEGO1GuD) | 2:58 | 2024-07-12 | 2024-10-26 |
 | [Si supieras](https://open.spotify.com/track/1d0ELue9Kv1kVKCgoplzLW) | [Vicky Corbacho](https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k) | [Si supieras](https://open.spotify.com/album/1EDoyhg85STOFrboReZErG) | 3:56 | 2022-03-25 | 2022-07-29 |
 | [Si Supieras](https://open.spotify.com/track/4omcHHXj5vuzHSlR7Ono8d) | [Vicky Corbacho](https://open.spotify.com/artist/7kBbhj7hrbWjrEnp5OBY3k) | [Reina de Corazones](https://open.spotify.com/album/4eOWxODa9H1NC52716pnSR) | 3:56 | 2022-07-19 | 2022-09-03 |
 | [Si Te Preguntan..\. \- feat\. Nicky Jam & Jay Wheeler](https://open.spotify.com/track/20yLo8tCAM1LXixAdBf3f2) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Si Te Preguntan..\. \(feat\. Nicky Jam & Jay Wheeler\)](https://open.spotify.com/album/4UDVt5eerRMk5hCMF1qek9) | 3:43 | 2022-06-24 | 2024-02-17 |

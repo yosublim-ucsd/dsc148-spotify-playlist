@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203618,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG"
+    },
+    {
+      "album": {
         "name": "6am",
         "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
       },
@@ -782,7 +800,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 185798,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 255826,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
@@ -2404,6 +2422,24 @@
       "duration_ms": 210173,
       "name": "Drive and Disconnect",
       "url": "https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC"
+    },
+    {
+      "album": {
+        "name": "Driving On The Wrong Side Of The Road",
+        "url": "https://open.spotify.com/album/2sgGbhWdRKjFzSGmvhRBVG"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191898,
+      "name": "Driving On The Wrong Side Of The Road",
+      "url": "https://open.spotify.com/track/4FIlqMK5BlM1srbvDdOdXk"
     },
     {
       "album": {
@@ -3564,6 +3600,28 @@
       "duration_ms": 198626,
       "name": "Gospel For A New Century",
       "url": "https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y"
+    },
+    {
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
     },
     {
       "album": {
@@ -5448,6 +5506,24 @@
       "duration_ms": 240052,
       "name": "Lost - Spotify Singles",
       "url": "https://open.spotify.com/track/6n8BEYxCJbdxiu3m3QU7v5"
+    },
+    {
+      "album": {
+        "name": "Paradise State of Mind",
+        "url": "https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259252,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/6r9GzPEdq4bGp507oxt2iZ"
     },
     {
       "album": {
@@ -7532,7 +7608,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170698,
       "name": "Shotput",
       "url": "https://open.spotify.com/track/6RmWk7p9QY8VMGHdgq4Ulh"
@@ -7838,7 +7914,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 171828,
       "name": "SOULCRUSHER",
       "url": "https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x"
@@ -7918,6 +7994,24 @@
       "duration_ms": 247786,
       "name": "still feel.",
       "url": "https://open.spotify.com/track/48XkVAagIoQHCsOlJtXUd5"
+    },
+    {
+      "album": {
+        "name": "Still Riding",
+        "url": "https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219152,
+      "name": "Still Riding",
+      "url": "https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam"
     },
     {
       "album": {
@@ -9644,7 +9738,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 403706,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw"

@@ -4,7 +4,7 @@
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-246 songs - 13 hr 14 min
+248 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Catch a Kill](https://open.spotify.com/track/44jB1lbNsoPTYWoorkJPJH) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [FALLEN RAVEN](https://open.spotify.com/album/6qGHHcXVXUMaouCUCkK9Mn) | 2:06 | 2024-05-23 |  |
 | [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 | 2023-12-11 | 2024-01-16 |
 | [Christopher Walking](https://open.spotify.com/track/2IT0T0EqPaUxasjl2o8J2G) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 3:10 | 2024-05-23 |  |
+| [Closure \(with Cash Cobain\)](https://open.spotify.com/track/0duV3Hxd1Y38zG8nkicIE8) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Closure](https://open.spotify.com/album/7uUYUpxQ2IXEATVfuXOZul) | 2:58 | 2024-10-25 |  |
 | [Codeine Cowboy \(feat\. Lil Yachty\)](https://open.spotify.com/track/1tF1sPrk9akJ6UOWY2GTkk) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [We All We Got](https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O) | 1:41 | 2024-05-23 |  |
 | [Coming Home](https://open.spotify.com/track/2Tdx3WY6tStwtGzUpJJjnR) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc) | [Coming Home](https://open.spotify.com/album/7uCJbAjUNki8L9qO5IGHE1) | 2:35 | 2023-05-25 | 2023-06-27 |
 | [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2022-06-09 | 2023-05-09 |
@@ -77,6 +78,7 @@
 | [Evil](https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-12 |  |
 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2024-05-07 |  |
 | [Fast Lane](https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 4:09 | 2024-05-23 |  |
+| [Favor](https://open.spotify.com/track/6q8yy8DfUMVmdmwozYx6Gu) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde), [RoyzNoyz Orchestra](https://open.spotify.com/artist/7AViaGhODpwOzcsmigbnxA) | [Favor](https://open.spotify.com/album/0s3Ynz1H05xtlQSaR8nFOo) | 2:45 | 2024-10-25 |  |
 | [Feeling Good \- Austin Millz Remix](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Feeling Good \(Austin Millz Remix\)](https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6) | 2:30 | 2022-10-10 | 2023-12-14 |
 | [Fell In Love \(2016\)](https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fell In Love \(2016\)](https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ) | 2:57 | 2024-05-24 |  |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-12-11 | 2024-05-24 |

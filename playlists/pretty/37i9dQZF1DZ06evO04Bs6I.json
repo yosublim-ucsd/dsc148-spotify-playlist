@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 110140,
+  "num_followers": 110171,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAD7PO8VB7PA74Bc3O36zYj2",
+  "snapshot_id": "ZxmOAAAAAADK5G8i/Vq0+becFGD2Sg1j",
   "tracks": [
     {
       "added_at": null,
@@ -535,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+        "name": "Confio em Ti",
+        "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
       },
       "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+      "duration_ms": 252453,
+      "name": "Confio em Ti",
+      "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
     },
     {
       "added_at": null,
@@ -567,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confio em Ti",
-        "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
       },
       "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        },
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 252453,
-      "name": "Confio em Ti",
-      "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o H\u00e1 o Que Temer",
-        "url": "https://open.spotify.com/album/7eTkm4rpXnIKxfbQXSIIoQ"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 252352,
-      "name": "N\u00e3o H\u00e1 o Que Temer",
-      "url": "https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Processo",
         "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 276080,
       "name": "Em Troca",
       "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o H\u00e1 o Que Temer",
+        "url": "https://open.spotify.com/album/7eTkm4rpXnIKxfbQXSIIoQ"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 252352,
+      "name": "N\u00e3o H\u00e1 o Que Temer",
+      "url": "https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86"
     },
     {
       "added_at": null,

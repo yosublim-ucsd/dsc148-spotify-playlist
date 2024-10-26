@@ -1,12 +1,12 @@
 {
   "description": "This is Britney Spears. The essential tracks, all in one playlist.",
-  "num_followers": 879980,
+  "num_followers": 880090,
   "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAAaNHvw5L0Y/J6zh92lbo8E",
+  "snapshot_id": "ZxmOAAAAAABQH4NIGCyKkYmQXe2EZAWX",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Femme Fatale (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
+        "name": "Glory (Deluxe)",
+        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 228826,
-      "name": "Hold It Against Me",
-      "url": "https://open.spotify.com/track/7Dyq1bhhjknLKEGg4k5NLr"
+      "duration_ms": 214080,
+      "name": "Slumber Party",
+      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory (Deluxe)",
-        "url": "https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV"
+        "name": "Femme Fatale (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 214080,
-      "name": "Slumber Party",
-      "url": "https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp"
+      "duration_ms": 228826,
+      "name": "Hold It Against Me",
+      "url": "https://open.spotify.com/track/7Dyq1bhhjknLKEGg4k5NLr"
     },
     {
       "added_at": null,

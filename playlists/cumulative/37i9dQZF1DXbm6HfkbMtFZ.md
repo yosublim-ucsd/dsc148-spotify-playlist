@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-591 songs - 1 day 11 hr 29 min
+592 songs - 1 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,7 @@
 | [Midas](https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:38 | 2021-12-16 | 2022-10-04 |
 | [Middle of Love](https://open.spotify.com/track/2dqg6jHb6ubKaXi4GbnYi0) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [Soulsville](https://open.spotify.com/album/2FhIa0Dtpy6S5rEklsjuBo) | 4:10 | 2021-12-30 | 2022-04-19 |
 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 | 2023-06-26 |  |
-| [Moon Eclipsed the Sun](https://open.spotify.com/track/3FAZXqZThvV6u8KpL7QgO2) | [Evolfo](https://open.spotify.com/artist/6oP90f8WzKpCFRcyZRvYPH) | [Last of the Acid Cowboys](https://open.spotify.com/album/12yK0awDW8z3K5l96PmYjm) | 3:49 | 2024-08-14 |  |
+| [Moon Eclipsed the Sun](https://open.spotify.com/track/3FAZXqZThvV6u8KpL7QgO2) | [Evolfo](https://open.spotify.com/artist/6oP90f8WzKpCFRcyZRvYPH) | [Last of the Acid Cowboys](https://open.spotify.com/album/12yK0awDW8z3K5l96PmYjm) | 3:49 | 2024-08-14 | 2024-10-26 |
 | [More Of This](https://open.spotify.com/track/7IzTg6LQ9Lkm1zpziKifIq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/2wUNVVsJ1rgX6kKL3QP3MN) | 4:00 | 2021-12-30 | 2022-07-29 |
 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 | 2024-03-21 |  |
 | [Most Times](https://open.spotify.com/track/3ySxFBVXkrrRJ9v1AWR9Yu) | [Shoos Off](https://open.spotify.com/artist/6hS6xIhVWdR6BBTMPYSAvQ) | [Most Times EP](https://open.spotify.com/album/3lEIshh1F5T3XR71jVGdqV) | 5:01 | 2021-12-16 | 2022-07-29 |
@@ -502,6 +502,7 @@
 | [Tenemos Todo \- Taggy Matcher Remix](https://open.spotify.com/track/3Om6DDM2h8d5iqV37UnM5v) | [Mathieu Des Longchamps](https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V), [Taggy Matcher](https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF) | [Tenemos Todo \(Taggy Matcher Remix\)](https://open.spotify.com/album/4epOrZkmpUY2W85SOfxcKv) | 3:11 | 2022-03-30 | 2024-08-23 |
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2022-07-26 | 2023-02-14 |
 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 | 2021-12-16 | 2022-07-29 |
+| [Thank You](https://open.spotify.com/track/0mMlo76aVZHpuvoR6fjBSK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-10-25 |  |
 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 | 2021-12-16 |  |
 | [The 1](https://open.spotify.com/track/7noKYyf85hoLDrUIE57lN5) | [Otis Junior](https://open.spotify.com/artist/3JWTfcIZq4OUdC6oBunofK), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Nova le grand mix 2016](https://open.spotify.com/album/1TlzWlyjSPJqgGi3nAnU8i) | 3:07 | 2022-03-30 | 2022-04-21 |
 | [The Dandelion](https://open.spotify.com/track/23JJ79DtsITIxMfcgYvxjY) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [The Dandelion](https://open.spotify.com/album/5vat3mrJgQ9KbusWrt5kOM) | 3:39 | 2023-03-24 | 2023-04-30 |

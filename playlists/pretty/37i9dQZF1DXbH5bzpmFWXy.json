@@ -1,6 +1,6 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. MC Davo, Tony Aguirre en portada.",
-  "num_followers": 173359,
+  "num_followers": 173399,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-10-18 15:40:07",
       "album": {
-        "name": "San Pedro",
-        "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
-      },
-      "artists": [
-        {
-          "name": "Ganggy",
-          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
-        },
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 198709,
-      "name": "San Pedro",
-      "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
-    },
-    {
-      "added_at": "2024-10-18 15:40:07",
-      "album": {
         "name": "Otro D\u00eda, Otra Aventura",
         "url": "https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 200859,
       "name": "Otro D\u00eda, Otra Aventura",
       "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
+    },
+    {
+      "added_at": "2024-10-18 15:40:07",
+      "album": {
+        "name": "San Pedro",
+        "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
+      },
+      "artists": [
+        {
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "duration_ms": 198709,
+      "name": "San Pedro",
+      "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
     },
     {
       "added_at": "2024-10-18 15:40:07",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-10-18 15:40:07",
       "album": {
-        "name": "BUGATTI CHIRON",
-        "url": "https://open.spotify.com/album/69Gzsu5wyWB9uCmn3p0dYY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 206677,
-      "name": "BUGATTI CHIRON",
-      "url": "https://open.spotify.com/track/6R582RgN0hx6d4QDtrtcHU"
-    },
-    {
-      "added_at": "2024-10-18 15:40:07",
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 168210,
       "name": "YW&F - Versi\u00f3n Reggaeton",
       "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
+    },
+    {
+      "added_at": "2024-10-18 15:40:07",
+      "album": {
+        "name": "BUGATTI CHIRON",
+        "url": "https://open.spotify.com/album/69Gzsu5wyWB9uCmn3p0dYY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 206677,
+      "name": "BUGATTI CHIRON",
+      "url": "https://open.spotify.com/track/6R582RgN0hx6d4QDtrtcHU"
     },
     {
       "added_at": "2024-10-18 15:40:07",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-10-18 15:40:07",
       "album": {
+        "name": "Corridos a Lo Maximo",
+        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 206461,
+      "name": "David De Los Acme",
+      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
+    },
+    {
+      "added_at": "2024-10-18 15:40:07",
+      "album": {
         "name": "A LA ORDEN",
         "url": "https://open.spotify.com/album/0qmW400K0VgJ28CuBx8InD"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 175058,
       "name": "A LA ORDEN",
       "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
-    },
-    {
-      "added_at": "2024-10-18 15:40:07",
-      "album": {
-        "name": "Corridos a Lo Maximo",
-        "url": "https://open.spotify.com/album/1s3X0yOH91R03rbWw41Ahv"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 206461,
-      "name": "David De Los Acme",
-      "url": "https://open.spotify.com/track/1C4notkddInnKftLi0idAW"
     },
     {
       "added_at": "2024-10-18 15:40:07",
@@ -1267,30 +1267,6 @@
     {
       "added_at": "2024-10-18 15:40:07",
       "album": {
-        "name": "2pa2 (Remix)",
-        "url": "https://open.spotify.com/album/3eSxismvYDBEIhGdDH4BXD"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        },
-        {
-          "name": "GHT Official",
-          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 214218,
-      "name": "2pa2 (Remix)",
-      "url": "https://open.spotify.com/track/0pgOUN91P21GM313kz1QGj"
-    },
-    {
-      "added_at": "2024-10-18 15:40:07",
-      "album": {
         "name": "Lunetas",
         "url": "https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93"
       },
@@ -1311,6 +1287,30 @@
       "duration_ms": 176760,
       "name": "Lunetas",
       "url": "https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj"
+    },
+    {
+      "added_at": "2024-10-18 15:40:07",
+      "album": {
+        "name": "2pa2 (Remix)",
+        "url": "https://open.spotify.com/album/3eSxismvYDBEIhGdDH4BXD"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        },
+        {
+          "name": "GHT Official",
+          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 214218,
+      "name": "2pa2 (Remix)",
+      "url": "https://open.spotify.com/track/0pgOUN91P21GM313kz1QGj"
     },
     {
       "added_at": "2024-10-18 15:40:07",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2024-10-18 15:40:07",
       "album": {
+        "name": "Capitan O Chachito",
+        "url": "https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        }
+      ],
+      "duration_ms": 224314,
+      "name": "Capitan O Chachito",
+      "url": "https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R"
+    },
+    {
+      "added_at": "2024-10-18 15:40:07",
+      "album": {
         "name": "El Chamaquito",
         "url": "https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 139863,
       "name": "El Chamaquito",
       "url": "https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd"
-    },
-    {
-      "added_at": "2024-10-18 15:40:07",
-      "album": {
-        "name": "Capitan O Chachito",
-        "url": "https://open.spotify.com/album/4aOOppgBB4dJ7CmCbTy3yw"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        }
-      ],
-      "duration_ms": 224314,
-      "name": "Capitan O Chachito",
-      "url": "https://open.spotify.com/track/3fMRwWZeyBWNVuqXwNas0R"
     },
     {
       "added_at": "2024-10-18 15:40:07",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-10-18 15:40:07",
       "album": {
-        "name": "Van Cleef",
-        "url": "https://open.spotify.com/album/547ls3Aoqi2xExYUlW00lT"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 144104,
-      "name": "Van Cleef",
-      "url": "https://open.spotify.com/track/1yRWBqzIjOrizGaBfxFBvc"
-    },
-    {
-      "added_at": "2024-10-18 15:40:07",
-      "album": {
         "name": "Ni Por Favor (Si No Me Quieres Ni Modo)",
         "url": "https://open.spotify.com/album/17o7Jz7uVm9UiqgKcLiMK8"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 188750,
       "name": "Ni Por Favor (Si No Me Quieres Ni Modo",
       "url": "https://open.spotify.com/track/3Tn6VX6COjUGRJUTzjYsdX"
+    },
+    {
+      "added_at": "2024-10-18 15:40:07",
+      "album": {
+        "name": "Van Cleef",
+        "url": "https://open.spotify.com/album/547ls3Aoqi2xExYUlW00lT"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 144104,
+      "name": "Van Cleef",
+      "url": "https://open.spotify.com/track/1yRWBqzIjOrizGaBfxFBvc"
     },
     {
       "added_at": "2024-10-18 15:40:07",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2024-10-18 15:40:07",
       "album": {
-        "name": "QuesoXte",
-        "url": "https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "QuesoXte",
-      "url": "https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId"
-    },
-    {
-      "added_at": "2024-10-18 15:40:07",
-      "album": {
         "name": "Los Brothers (09/19)",
         "url": "https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI"
       },
@@ -1807,18 +1787,22 @@
     {
       "added_at": "2024-10-18 15:40:07",
       "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+        "name": "QuesoXte",
+        "url": "https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n"
       },
       "artists": [
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
+      "duration_ms": 151875,
+      "name": "QuesoXte",
+      "url": "https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId"
     },
     {
       "added_at": "2024-10-18 15:40:07",
@@ -1835,6 +1819,22 @@
       "duration_ms": 207625,
       "name": "Un Tabaco - En Vivo",
       "url": "https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W"
+    },
+    {
+      "added_at": "2024-10-18 15:40:07",
+      "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "added_at": "2024-10-18 15:40:07",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-10-18 15:40:07",
       "album": {
+        "name": "El Terrible",
+        "url": "https://open.spotify.com/album/3yTjTVLl2LVqDATkAZu3HA"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "El Terrible",
+      "url": "https://open.spotify.com/track/69M82iE0wfYaVyU1ovdEyT"
+    },
+    {
+      "added_at": "2024-10-18 15:40:07",
+      "album": {
         "name": "Proyecto Akwid",
         "url": "https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 155454,
       "name": "C\u00f3mo el 701",
       "url": "https://open.spotify.com/track/3JSkKoAJqRKmjKrtd8kz5U"
-    },
-    {
-      "added_at": "2024-10-18 15:40:07",
-      "album": {
-        "name": "El Terrible",
-        "url": "https://open.spotify.com/album/3yTjTVLl2LVqDATkAZu3HA"
-      },
-      "artists": [
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "El Terrible",
-      "url": "https://open.spotify.com/track/69M82iE0wfYaVyU1ovdEyT"
     },
     {
       "added_at": "2024-10-18 15:40:07",

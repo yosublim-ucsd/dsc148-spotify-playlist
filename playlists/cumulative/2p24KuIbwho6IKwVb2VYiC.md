@@ -2,9 +2,9 @@
 
 ### [New Dance Hits 2024](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now! Cover: MEDUZA
+> The best Dance and EDM tracks right now! Cover: Ryan Shepherd
 
-243 songs - 12 hr 48 min
+245 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [AM:PM](https://open.spotify.com/track/7DwVS1naLT9jP0PE78jg4P) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [AM:PM](https://open.spotify.com/album/6VddpmwRbN12eh98innuj7) | 3:02 | 2023-10-27 |  |
 | [and the colour red \- Rebūke Remix](https://open.spotify.com/track/72ydjj6mIRlmcDd93PRM41) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [and the colour red \(Rebūke Remix\)](https://open.spotify.com/album/6VBFQzll1JGtUW9Z9Ggrhy) | 5:24 | 2023-10-27 | 2024-02-27 |
 | [Another World](https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Another World](https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ) | 2:24 | 2024-09-13 |  |
+| [Arachnids](https://open.spotify.com/track/4j3EJMATYxJ4ftJbVeAFWu) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Arachnids](https://open.spotify.com/album/3CFGpQT03aFenbXwHdnusQ) | 4:11 | 2024-10-25 |  |
 | [Ave Maria](https://open.spotify.com/track/7qvpvsGfQmNoJrIqu5UzbP) | [Alexiane](https://open.spotify.com/artist/0LyfTcbBDtHYMnMZuzP57t) | [Ave Maria](https://open.spotify.com/album/3ZaVNrw2b4IfEfCyF7uSMC) | 2:49 | 2023-11-17 | 2024-02-27 |
 | [Background Noise](https://open.spotify.com/track/3zeuhnui45bIw0rZCCZuTu) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Naliya](https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU) | [Background Noise](https://open.spotify.com/album/1odNMIiB2KXSD0ZbE9SsAY) | 2:57 | 2023-11-10 | 2024-05-04 |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-10-27 | 2024-09-25 |
@@ -93,6 +94,7 @@
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-10-27 |  |
 | [Got Me Started \- Bag Raiders Remix](https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Got Me Started \(Bag Raiders Remix\)](https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX) | 3:41 | 2024-03-22 |  |
 | [Got Stuff](https://open.spotify.com/track/3gZnaB3hCCUPPAP4IBvrqn) | [No Thanks](https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34) | [Got Stuff](https://open.spotify.com/album/6KcG8miMJiBX7PEMBgLEfw) | 2:57 | 2024-08-13 |  |
+| [Haunting](https://open.spotify.com/track/7f5vpf06WNx5DfMdKy0gLM) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx) | [Haunting](https://open.spotify.com/album/0Wj3UVWBqeSAJvuu1u6oL3) | 2:53 | 2024-10-25 |  |
 | [Headphones \- DLMT Remix](https://open.spotify.com/track/28tTLhO9HEifowfZkV4Erh) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Headphones \(DLMT Remix\)](https://open.spotify.com/album/5lNoCebEqgF3J0DKUVFx4a) | 2:37 | 2023-10-27 | 2024-01-13 |
 | [Headphones \- Vault Mix](https://open.spotify.com/track/33DaMMlU65DqfHVLgiY5Zb) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [The Vault, Volume 1](https://open.spotify.com/album/0RyCEPdlHpZcSQHVcC3kW2) | 2:00 | 2024-04-12 | 2024-05-04 |
 | [Heartbreak Repair System](https://open.spotify.com/track/5p5DJud2Doyl0gvT6fqETN) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:50 | 2023-10-27 |  |

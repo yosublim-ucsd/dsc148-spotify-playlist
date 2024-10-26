@@ -1,12 +1,12 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 20441,
+  "num_followers": 20444,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAACNwKgAUsia8THfO2/Hba/o",
+  "snapshot_id": "ZxmOAAAAAADXHXEoABCfUYqlnDnYWGN1",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI"
+      },
+      "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Misael J",
+          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
+        }
+      ],
+      "duration_ms": 829691,
+      "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
+      "url": "https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Job",
         "url": "https://open.spotify.com/album/5NGqpE0m7PcQ89qJ7joiyZ"
       },
@@ -331,6 +355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 314542,
+      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Meu Milagre (Ao Vivo)",
         "url": "https://open.spotify.com/album/3rN0mzP5qJCoAI6SlSunXY"
       },
@@ -359,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 314542,
-      "name": "A Promessa Est\u00e1 de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -403,30 +427,6 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
-        "url": "https://open.spotify.com/album/5MWCz4F743UEhiBuZHzvqI"
-      },
-      "artists": [
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Misael J",
-          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
-        }
-      ],
-      "duration_ms": 829691,
-      "name": "Vivir\u00e1n / Ezequiel / Yo Navegar\u00e9",
-      "url": "https://open.spotify.com/track/5BCguMz6Na0orcfG2zDvqC"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencer ou Vencer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
-      },
-      "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 325720,
-      "name": "Vencer ou Vencer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mais Um Dia",
         "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 317000,
       "name": "Mais Um Dia",
       "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vencer ou Vencer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6OK6jO8c6xB6QPdH56OYtE"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 325720,
+      "name": "Vencer ou Vencer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/49GcUA2Qz4UWtuEVoxAAKF"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "500 Graus - Drive In",
-        "url": "https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 429708,
-      "name": "500 Graus - Drive In",
-      "url": "https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quando o Vento Soprar (Legado)",
         "url": "https://open.spotify.com/album/2wLdIPoyLpyLl6dpFRwiQY"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 262002,
       "name": "Quando o Vento Soprar (Legado)",
       "url": "https://open.spotify.com/track/4uLv8S0e4ocdYQxDOJ1kR9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "500 Graus - Drive In",
+        "url": "https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 429708,
+      "name": "500 Graus - Drive In",
+      "url": "https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno"
     },
     {
       "added_at": null,
@@ -951,22 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinto o Teu Poder (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y"
+        "name": "Desperta",
+        "url": "https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1"
       },
       "artists": [
         {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+          "name": "Cleyde Jane",
+          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
         },
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 271539,
-      "name": "Sinto o Teu Poder (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv"
+      "duration_ms": 228530,
+      "name": "Desperta",
+      "url": "https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO"
     }
   ],
   "unique_name": "This Is Midian Lima",

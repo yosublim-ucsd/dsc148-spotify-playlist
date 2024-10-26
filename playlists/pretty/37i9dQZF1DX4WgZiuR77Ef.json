@@ -1,13 +1,49 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 394392,
+  "num_followers": 394406,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAABP/Ag+dvbRFdWGUNn+97yI",
+  "snapshot_id": "ZxsXwAAAAAB4VSUW3J4hJdDiM/iAtB6X",
   "tracks": [
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "The JB's Tribute Pastor P",
+        "url": "https://open.spotify.com/album/7i8dKoKQVmpqZidUH4Fxzy"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Daru Jones",
+          "url": "https://open.spotify.com/artist/4ePL94kqqEdFhDGGhc7kzi"
+        },
+        {
+          "name": "Harry Mack",
+          "url": "https://open.spotify.com/artist/3XOZM0DtztbmC1IE3amUnn"
+        },
+        {
+          "name": "Clyde Stubblefield",
+          "url": "https://open.spotify.com/artist/687p4CLJvjm9dX82QHgzBf"
+        },
+        {
+          "name": "Fred Wesley",
+          "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
+        },
+        {
+          "name": "John (Jabo) Starks",
+          "url": "https://open.spotify.com/artist/2c2mb74jyj2bluIvHQvXpS"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "The JB's Tribute Pastor P",
+      "url": "https://open.spotify.com/track/0DX8pn3evBgD1aWQIH8KZt"
+    },
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
@@ -187,34 +223,6 @@
       "duration_ms": 310240,
       "name": "Ain't No Stoppin'",
       "url": "https://open.spotify.com/track/36Mz7rP2M344WqPuPvflzk"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
-        "name": "We Outta B Funkin\u2019",
-        "url": "https://open.spotify.com/album/01wrFWt0KcWYNV2CIOslnN"
-      },
-      "artists": [
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        },
-        {
-          "name": "Soopafly",
-          "url": "https://open.spotify.com/artist/1fGNdi2u7XLBVYaq6fJUaT"
-        },
-        {
-          "name": "Temu Bacot",
-          "url": "https://open.spotify.com/artist/7h6PVrpt8H8BTvmL9LBxsU"
-        },
-        {
-          "name": "Myra Washington",
-          "url": "https://open.spotify.com/artist/5nGnyBnrFoaa7jsZvLWUho"
-        }
-      ],
-      "duration_ms": 261359,
-      "name": "We Outta B Funkin\u2019",
-      "url": "https://open.spotify.com/track/13bwv0FluqVWXokMD8Wl7w"
     },
     {
       "added_at": "2023-10-20 04:01:00",

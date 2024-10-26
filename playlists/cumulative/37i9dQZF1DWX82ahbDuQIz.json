@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: Wicked",
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: SUNSET BLVD",
   "name": "Broadway Hits",
   "tracks": [
     {
@@ -278,7 +278,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 236737,
       "name": "Alexander Hamilton",
       "url": "https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6"
@@ -418,6 +418,28 @@
       "duration_ms": 288360,
       "name": "Aquarius",
       "url": "https://open.spotify.com/track/0WviwuG403gqtW6bZevBpP"
+    },
+    {
+      "album": {
+        "name": "SUNSET BLVD: The Album",
+        "url": "https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45"
+      },
+      "artists": [
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360400,
+      "name": "As If We Never Said Goodbye",
+      "url": "https://open.spotify.com/track/2cwENimYctSV8AD1vxzlHF"
     },
     {
       "album": {
@@ -596,7 +618,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 394234,
       "name": "Come On! Feel the Illinoise!",
       "url": "https://open.spotify.com/track/4gzJqq8u5qlv13gbmQjm8d"
@@ -874,6 +896,52 @@
       "duration_ms": 158440,
       "name": "Don't Rain on My Parade",
       "url": "https://open.spotify.com/track/3qaMDTwoBvdrxYvwgr9bgs"
+    },
+    {
+      "album": {
+        "name": "Moulin Rouge! The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk"
+      },
+      "artists": [
+        {
+          "name": "Aaron Tveit",
+          "url": "https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx"
+        },
+        {
+          "name": "Danny Burstein",
+          "url": "https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3"
+        },
+        {
+          "name": "Original Broadway Cast of Moulin Rouge! The Musical",
+          "url": "https://open.spotify.com/artist/2W2MyOwxAxKWGxWVk0vw8v"
+        },
+        {
+          "name": "Ricky Rojas",
+          "url": "https://open.spotify.com/artist/1BchvTjZ0pkAW1WPDZTSeZ"
+        },
+        {
+          "name": "Sahr Ngaujah",
+          "url": "https://open.spotify.com/artist/22DUlxqR0fx6R1UKit7uOz"
+        },
+        {
+          "name": "Jacqueline B. Arnold",
+          "url": "https://open.spotify.com/artist/3QlycUoQkiflglfZ3Nrccl"
+        },
+        {
+          "name": "Holly James",
+          "url": "https://open.spotify.com/artist/0rHWRsXdgLUAT59rikTzHa"
+        },
+        {
+          "name": "Jeigh Madjus",
+          "url": "https://open.spotify.com/artist/7r1TFR05734UFt4bAAvFnA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217280,
+      "name": "El Tango De Roxanne",
+      "url": "https://open.spotify.com/track/70XYXbSf4g5IfnDJ13se9L"
     },
     {
       "album": {
@@ -1412,7 +1480,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 210188,
       "name": "Home",
       "url": "https://open.spotify.com/track/7MtRvT1A0EvlgxAwcQyjCT"
@@ -1996,7 +2064,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 204787,
       "name": "I\u2019m Not a Girl, Not Yet a Woman",
       "url": "https://open.spotify.com/track/3CL9onFqjkQ8nL6BJ0w5wb"
@@ -2578,7 +2646,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 183331,
       "name": "Moments In The Woods",
       "url": "https://open.spotify.com/track/5rUHTkUWnJ7M1l6glNkBJi"
@@ -3691,6 +3759,28 @@
     },
     {
       "album": {
+        "name": "Sunset Boulevard",
+        "url": "https://open.spotify.com/album/2gP8X7vYXXLRRc1xc236Ji"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/1BmpFeWuQkyVbGLIzebnRD"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "Sunset Boulevard",
+      "url": "https://open.spotify.com/track/4fVWMrGH0eBrfZtnbkN7RZ"
+    },
+    {
+      "album": {
         "name": "The Rocky Horror Picture Show - Original Soundtrack",
         "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
       },
@@ -3724,7 +3814,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-15",
+      "date_removed": null,
       "duration_ms": 209394,
       "name": "That\u2019s the Way It Is",
       "url": "https://open.spotify.com/track/4gpbXdxDIRmRnJccrjsXsh"
@@ -4112,7 +4202,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 303360,
       "name": "Turn It Off",
       "url": "https://open.spotify.com/track/7ifB6Lb0Z0mqifFb5Jp6Pn"
@@ -4344,7 +4434,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 196373,
       "name": "What The Hell",
       "url": "https://open.spotify.com/track/4BC2R5KBK6DwO0BudDZSCY"
@@ -4440,6 +4530,28 @@
       "duration_ms": 193493,
       "name": "With One Look",
       "url": "https://open.spotify.com/track/1rKeW1dEIgHU97dwpCdRnv"
+    },
+    {
+      "album": {
+        "name": "SUNSET BLVD: The Album",
+        "url": "https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45"
+      },
+      "artists": [
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269320,
+      "name": "With One Look",
+      "url": "https://open.spotify.com/track/0i8FyAJCAjlSJlUXuvMR96"
     },
     {
       "album": {
@@ -4558,6 +4670,40 @@
       "duration_ms": 259313,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/34fvDhHl6AdB7fv5znVEVx"
+    },
+    {
+      "album": {
+        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Kristolyn Lloyd",
+          "url": "https://open.spotify.com/artist/31Rv7Yk0rBrYdQ0ELNZDaR"
+        },
+        {
+          "name": "Will Roland",
+          "url": "https://open.spotify.com/artist/2FYB9zfwe2ayj4zfNeh466"
+        },
+        {
+          "name": "Laura Dreyfuss",
+          "url": "https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK"
+        },
+        {
+          "name": "Original Broadway Cast of Dear Evan Hansen",
+          "url": "https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360906,
+      "name": "You Will Be Found",
+      "url": "https://open.spotify.com/track/1H7Zqkq54andtaSSnLRrfp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Cano y el resto de novedades más importantes de la semana.
 
-210 songs - 10 hr 52 min
+211 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A SOLAS 2](https://open.spotify.com/track/7bH6YEVzuyrWM1Qk4ymWEp) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [A SOLAS 2](https://open.spotify.com/album/1soOiLMhlPupIDWx8AYSG3) | 3:57 | 2024-10-17 | 2024-10-25 |
 | [abrigo](https://open.spotify.com/track/4LXaqdHmhY9TuooMHLn8ml) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [abrigo](https://open.spotify.com/album/0NBVinmoOwyBDRupREZtXa) | 2:49 | 2024-10-24 |  |
 | [Aburridos \(Arial 8\)](https://open.spotify.com/track/7LGUN1QoI4CN3iLBSKOTAS) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Arial 12](https://open.spotify.com/album/3zNdYtDcUBAYTjt8fCCIrQ) | 2:38 | 2024-10-24 |  |
-| [Ajena](https://open.spotify.com/track/01TMi4oM1q9VwcOIo9x4Tf) | [JC el Diamante](https://open.spotify.com/artist/1FxsUemFullSXJpySUsT0J), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL) | [BELLAKOLAND](https://open.spotify.com/album/16XyCSV4pRIlE5uTPEzZRo) | 2:30 | 2024-10-24 |  |
+| [Ajena](https://open.spotify.com/track/01TMi4oM1q9VwcOIo9x4Tf) | [JC el Diamante](https://open.spotify.com/artist/1FxsUemFullSXJpySUsT0J), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Dímelo Sane](https://open.spotify.com/artist/2mb6aMs7b54RoOXMs9UTZQ) | [BELLAKOLAND](https://open.spotify.com/album/16XyCSV4pRIlE5uTPEzZRo) | 2:30 | 2024-10-24 |  |
 | [AMI Paris](https://open.spotify.com/track/4EnhZsNiUgAbwTuL5Y0KlS) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [AMI Paris](https://open.spotify.com/album/4tK82nRb9RlbxXl6mHuKgm) | 3:28 | 2024-10-24 |  |
 | [ANTES](https://open.spotify.com/track/18z0oXWIOBLT3qruaegt5o) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:14 | 2024-10-17 | 2024-10-25 |
 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 | 2024-10-11 | 2024-10-18 |
@@ -56,6 +56,7 @@
 | [Diez Mil Razones](https://open.spotify.com/track/1y2eP8I8Qg4DJbx81kqS58) | [Raul Camacho](https://open.spotify.com/artist/10eONQKnUPe6K1pLnCUpqT), [Kiko y Shara](https://open.spotify.com/artist/6A9B0s7mgGzm1fY0Vg8Skw) | [Diez Mil Razones](https://open.spotify.com/album/7EzgVL7Zp1k0pU2pzey5dM) | 3:24 | 2024-10-17 | 2024-10-25 |
 | [Digna De Ti](https://open.spotify.com/track/19odA5QVIAUWOoicTBduJ5) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [Digna De Ti](https://open.spotify.com/album/67F7mmB4oHVeRGdu9859cx) | 3:27 | 2024-10-24 |  |
 | [Dime Por Qué](https://open.spotify.com/track/0MEWVpMztr1rvllwB5UwFw) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Dime Por Qué](https://open.spotify.com/album/5aLNaqdZymbCyKBWFJ4j0b) | 2:26 | 2024-10-24 |  |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 |  |
 | [Donde estes tú](https://open.spotify.com/track/23xoUaEBYGYRnpBZdVLPd8) | [Moncho Chavea](https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn), [Big Lois](https://open.spotify.com/artist/6SSd8YlAkq26bt11sct3Uo) | [Donde estes tú](https://open.spotify.com/album/3CGyjjKKZKLPwOKGaOzbKA) | 3:13 | 2024-10-24 |  |
 | [Dos Almas](https://open.spotify.com/track/4lI7BJNGDnPvCqoTuxqQjj) | [Zetazen](https://open.spotify.com/artist/66BpLv7bc0OLbr50D1cnGS) | [Dos Almas](https://open.spotify.com/album/7xx8LBL7NqO1xdbHo2x4uM) | 2:18 | 2024-10-17 | 2024-10-25 |
 | [El Bandido Medina \- De la serie original de Prime Video, Medina: El Estafador de Famosos](https://open.spotify.com/track/4bVINAreycRGIVE6abq6Dj) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [El Bandido Medina \(De la serie original de Prime Video, Medina: El Estafador de Famosos\)](https://open.spotify.com/album/2KWlO5OH2N5ImoY7XzX9SI) | 3:16 | 2024-10-17 | 2024-10-25 |

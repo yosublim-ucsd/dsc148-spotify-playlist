@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The newest r&b drops, every week. Cover: Ari Lennox",
+  "description": "The newest r&b drops, every week. Cover: Fridayy",
   "name": "R&B Weekly",
   "tracks": [
     {
@@ -1280,6 +1280,24 @@
       "duration_ms": 215342,
       "name": "A Timeless Christmas",
       "url": "https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF"
+    },
+    {
+      "album": {
+        "name": "Lost Within The Disco",
+        "url": "https://open.spotify.com/album/27SuZ00LRbVy5yfhAeMwqw"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135042,
+      "name": "A Vivid Dream",
+      "url": "https://open.spotify.com/track/3pRAELCOoCkIRDpYVDnZBC"
     },
     {
       "album": {
@@ -3113,6 +3131,24 @@
     },
     {
       "album": {
+        "name": "Anyways",
+        "url": "https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176888,
+      "name": "Anyways",
+      "url": "https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0"
+    },
+    {
+      "album": {
         "name": "Candydrip (Deluxe)",
         "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
       },
@@ -4000,6 +4036,24 @@
       "duration_ms": 215555,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/0OI725lVaGwcYG4LXuNpSw"
+    },
+    {
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210051,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
     },
     {
       "album": {
@@ -5144,7 +5198,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 224640,
       "name": "Bending My Rules",
       "url": "https://open.spotify.com/track/1Mh7Uz0WVLijDhpo5xe4eb"
@@ -5508,6 +5562,24 @@
       "duration_ms": 139968,
       "name": "Better Love",
       "url": "https://open.spotify.com/track/0BC9rz15tjiiFUYa1xum79"
+    },
+    {
+      "album": {
+        "name": "better than he does",
+        "url": "https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153374,
+      "name": "better than he does",
+      "url": "https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J"
     },
     {
       "album": {
@@ -7514,6 +7586,32 @@
       "duration_ms": 223586,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4PWEOC42dyiedQfS85MId3"
+    },
+    {
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/49XXnXZyajupirusZZ8fow"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        },
+        {
+          "name": "Mojam",
+          "url": "https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200533,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc"
     },
     {
       "album": {
@@ -10220,7 +10318,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 250111,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/34mEdvFZ53wgV62twHiatk"
@@ -10366,6 +10464,24 @@
       "duration_ms": 207932,
       "name": "COME OUTSIDE",
       "url": "https://open.spotify.com/track/1QniXlbTBov33SAobGAQSM"
+    },
+    {
+      "album": {
+        "name": "Playback",
+        "url": "https://open.spotify.com/album/7ggrg5fmDWrtDAl099i995"
+      },
+      "artists": [
+        {
+          "name": "V. Cartier",
+          "url": "https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165273,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/2hRIOl3CVSJ44JYh4BKgQK"
     },
     {
       "album": {
@@ -10975,6 +11091,24 @@
     },
     {
       "album": {
+        "name": "Counterfeit",
+        "url": "https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo"
+      },
+      "artists": [
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192106,
+      "name": "Counterfeit",
+      "url": "https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9"
+    },
+    {
+      "album": {
         "name": "Counting Thunder",
         "url": "https://open.spotify.com/album/3tPOrTz9PROAgrRWkiL1x8"
       },
@@ -11400,7 +11534,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 161825,
       "name": "CREEPIN",
       "url": "https://open.spotify.com/track/1A8ADUOWjkGnvDWfeUjKxr"
@@ -12038,7 +12172,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167983,
       "name": "day+night (feat. Wolfacejoeyy)",
       "url": "https://open.spotify.com/track/15ZqvIC2zw8BWXD2hhLiAR"
@@ -12610,7 +12744,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 178254,
       "name": "Difference Now (feat. Stacy Barthe & Runkus)",
       "url": "https://open.spotify.com/track/6d0wUxO6RIuulgesLeEM7x"
@@ -12658,6 +12792,28 @@
       "duration_ms": 118783,
       "name": "Dinner Table",
       "url": "https://open.spotify.com/track/5BI42WLndbA5yLiCllZAzW"
+    },
+    {
+      "album": {
+        "name": "A Forest Fire",
+        "url": "https://open.spotify.com/album/5SmxGJPm2ItS9s6CnP5WKL"
+      },
+      "artists": [
+        {
+          "name": "RAY BLK",
+          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
+        },
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203334,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/4DEgSzgOIA0PlALY6iv3NI"
     },
     {
       "album": {
@@ -13364,6 +13520,24 @@
       "duration_ms": 223268,
       "name": "Don't Look My Way",
       "url": "https://open.spotify.com/track/0zHWYFL39eS420oqza436i"
+    },
+    {
+      "album": {
+        "name": "Don't Lose The Plot",
+        "url": "https://open.spotify.com/album/5ZlAMD4vElPpWadYEjAHwA"
+      },
+      "artists": [
+        {
+          "name": "Pino",
+          "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Don't Lose The Plot",
+      "url": "https://open.spotify.com/track/5NqXSf0CFAd9oZHUpljQwL"
     },
     {
       "album": {
@@ -15920,7 +16094,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 150400,
       "name": "Fallin 4 A Thug",
       "url": "https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP"
@@ -16452,7 +16626,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 156000,
       "name": "Favour",
       "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G"
@@ -19005,6 +19179,24 @@
     },
     {
       "album": {
+        "name": "games",
+        "url": "https://open.spotify.com/album/1TEqLiTiyDJq4if7J8NwJ5"
+      },
+      "artists": [
+        {
+          "name": "ilham",
+          "url": "https://open.spotify.com/artist/0r7PsZB4ePA6vHrW4agoGN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124725,
+      "name": "games",
+      "url": "https://open.spotify.com/track/1qPWK9WhcEGIi1U6iHTeW9"
+    },
+    {
+      "album": {
         "name": "Gang Slide",
         "url": "https://open.spotify.com/album/45M7sfNhqk9oCM7lN5nBXt"
       },
@@ -19592,6 +19784,28 @@
       "duration_ms": 270000,
       "name": "GIFTED",
       "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
+    },
+    {
+      "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/1HYaSoCcZu3TOI452oFV0K"
+      },
+      "artists": [
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173569,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/29UVDzlLXTtwEz3wccF7ae"
     },
     {
       "album": {
@@ -21001,6 +21215,24 @@
     },
     {
       "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166720,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q"
+    },
+    {
+      "album": {
         "name": "Gotta Have Faith",
         "url": "https://open.spotify.com/album/2tLEHiMTj20zImH3zI3QuL"
       },
@@ -21475,6 +21707,28 @@
     },
     {
       "album": {
+        "name": "Rap Sanga",
+        "url": "https://open.spotify.com/album/31f2gzAAjaRc9TM9JwznD0"
+      },
+      "artists": [
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "DCMBR",
+          "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101616,
+      "name": "Habesha Ting",
+      "url": "https://open.spotify.com/track/5zEYDCABSPAZ7UWN0iFPr4"
+    },
+    {
+      "album": {
         "name": "Had Enough",
         "url": "https://open.spotify.com/album/1MK61U71q2xC6VXFR8D4X2"
       },
@@ -21486,7 +21740,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 213644,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/1SYAIGgec3CYyBVEx54yPV"
@@ -22233,6 +22487,24 @@
     },
     {
       "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/2CYRJMwQD0osEt83nHqcAF"
       },
@@ -22378,7 +22650,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 196362,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1PGbZXHxtef93nEX3OIYBB"
@@ -22972,6 +23244,24 @@
       "duration_ms": 208760,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2Wr8VlaALAoCINplD16qwh"
+    },
+    {
+      "album": {
+        "name": "Hold Still",
+        "url": "https://open.spotify.com/album/0MgpMLfL1RdVqZWztwKu06"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169455,
+      "name": "Hold Still",
+      "url": "https://open.spotify.com/track/1PzAY3nwLxJ1pc27ceNFTj"
     },
     {
       "album": {
@@ -23997,6 +24287,28 @@
     },
     {
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/4J95JB06LbaXMdyYANzCZG"
+      },
+      "artists": [
+        {
+          "name": "Jordyn Simone",
+          "url": "https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb"
+        },
+        {
+          "name": "Joseph Solomon",
+          "url": "https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4rXwsc8gGDFC0FusS3A4WF"
+    },
+    {
+      "album": {
         "name": "The Explicit Tape: Raw & B",
         "url": "https://open.spotify.com/album/6eBsCryxtT5MspsXSkf8dM"
       },
@@ -24203,6 +24515,28 @@
     },
     {
       "album": {
+        "name": "Am\u00e9n (The Missing Tapes)",
+        "url": "https://open.spotify.com/album/2BBNmyGZvO5uAIU9pmK0E2"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        },
+        {
+          "name": "The Cavemen.",
+          "url": "https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "I Know (feat. The Cavemen.)",
+      "url": "https://open.spotify.com/track/1tfNvTi9njogdoorSPO9ZY"
+    },
+    {
+      "album": {
         "name": "I Know What To Do (IKWTD)",
         "url": "https://open.spotify.com/album/0roLqfyzobjLn98x2QqTmu"
       },
@@ -24218,7 +24552,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 212375,
       "name": "I Know What To Do (IKWTD)",
       "url": "https://open.spotify.com/track/0gBpWtJ2q1aJ9i2ynzYd3X"
@@ -25399,6 +25733,24 @@
     },
     {
       "album": {
+        "name": "The Drive Home",
+        "url": "https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122190,
+      "name": "imightdie.",
+      "url": "https://open.spotify.com/track/37zcisnvn0KxYAoWB4n2qB"
+    },
+    {
+      "album": {
         "name": "IMISSTORONTO (Been A While)",
         "url": "https://open.spotify.com/album/72ycVbf7uebQHVHEPLRzEs"
       },
@@ -25686,7 +26038,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 184177,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/7GQo4EnrcfJE35OjKJkm0R"
@@ -26500,7 +26852,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 200920,
       "name": "It's All There (Secrets)",
       "url": "https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco"
@@ -27016,6 +27368,28 @@
       "duration_ms": 225384,
       "name": "Junebug (feat. JPEGMAFIA)",
       "url": "https://open.spotify.com/track/3E0ulIRg5neojZkEgVM2B7"
+    },
+    {
+      "album": {
+        "name": "Just Another Day",
+        "url": "https://open.spotify.com/album/5R2XoxoxFQ8hAS1PJa4LMk"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Auryln",
+          "url": "https://open.spotify.com/artist/1wDX3rlWCfdHvB31ExxX79"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Just Another Day",
+      "url": "https://open.spotify.com/track/10mwoA7R21BMQBd37HPMtF"
     },
     {
       "album": {
@@ -29254,7 +29628,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 217304,
       "name": "Light Work",
       "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
@@ -30210,6 +30584,24 @@
       "duration_ms": 144979,
       "name": "lost and found",
       "url": "https://open.spotify.com/track/0bcmVu5QWuGSFPXKGTsMrM"
+    },
+    {
+      "album": {
+        "name": "Lost In Translation",
+        "url": "https://open.spotify.com/album/4wFaVA4UqGeemG1yTLVuiN"
+      },
+      "artists": [
+        {
+          "name": "Tom Bailey",
+          "url": "https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Lost In Translation",
+      "url": "https://open.spotify.com/track/0y63ehF1vpRPQoBAnbswhD"
     },
     {
       "album": {
@@ -32637,6 +33029,24 @@
     },
     {
       "album": {
+        "name": "Memory of You",
+        "url": "https://open.spotify.com/album/1pydX8gTFJzu8UOWXRPIer"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173341,
+      "name": "Memory of You",
+      "url": "https://open.spotify.com/track/5wahC50RZOhPBbjSxtXZkK"
+    },
+    {
+      "album": {
         "name": "memrise.",
         "url": "https://open.spotify.com/album/73ukrEEfFmGvucHXQmNulK"
       },
@@ -32859,6 +33269,24 @@
     },
     {
       "album": {
+        "name": "Middle of The Night",
+        "url": "https://open.spotify.com/album/3JZIOJUYGiJ6tKhx80UW7X"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132826,
+      "name": "Middle of The Night",
+      "url": "https://open.spotify.com/track/4AWNGXhcT1eQhEajvO6yZl"
+    },
+    {
+      "album": {
         "name": "Division",
         "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
       },
@@ -32914,7 +33342,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 160000,
       "name": "MIDNIGHT SNACK",
       "url": "https://open.spotify.com/track/14yBlst1kgy6SCfOLaFs1T"
@@ -33008,7 +33436,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 190072,
       "name": "mind now (with Skilla Baby)",
       "url": "https://open.spotify.com/track/1Ilmqzog50GYbstZ8ZjYbr"
@@ -33026,7 +33454,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170720,
       "name": "Mine",
       "url": "https://open.spotify.com/track/27UB48yRwGTsPsswfAbgN1"
@@ -33366,6 +33794,10 @@
         {
           "name": "Queen Naija",
           "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
       "date_added": "2024-10-18",
@@ -35037,6 +35469,24 @@
     },
     {
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189441,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0"
+    },
+    {
+      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/1FLtRgrXDoaFc1b71MX43S"
       },
@@ -36027,6 +36477,24 @@
     },
     {
       "album": {
+        "name": "No Makeup",
+        "url": "https://open.spotify.com/album/5NusMdGyZy7IYCeDok7OsB"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164494,
+      "name": "No Makeup",
+      "url": "https://open.spotify.com/track/3UCh9fDwvdkBJAeIKDA3Uh"
+    },
+    {
+      "album": {
         "name": "No More Maybes (feat. Bibi Bourelly & India Shawn)",
         "url": "https://open.spotify.com/album/5foVF96o1WhMDI29PJ2jyf"
       },
@@ -36284,6 +36752,28 @@
       "duration_ms": 127526,
       "name": "NOSEBLEED",
       "url": "https://open.spotify.com/track/4nKQOCFrY9zJ4LRmvRFEHp"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/5xpn1PhgoDhgn6c5rPDDLO"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        },
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184790,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/0AVJqxP92URE44WBzBHryV"
     },
     {
       "album": {
@@ -38604,7 +39094,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 176000,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ"
@@ -38670,6 +39160,24 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "album": {
+        "name": "Heal U / Out My Hair",
+        "url": "https://open.spotify.com/album/6w3SEOFS1XYWBKn4WKfg4J"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178019,
+      "name": "Out My Hair",
+      "url": "https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT"
     },
     {
       "album": {
@@ -39798,7 +40306,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 159818,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ"
@@ -40142,7 +40650,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 177847,
       "name": "PINACOLADA",
       "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
@@ -40878,7 +41386,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 174388,
       "name": "Press On Me",
       "url": "https://open.spotify.com/track/1sUqXRbX4USlqa5zUGPV8J"
@@ -41052,6 +41560,28 @@
       "duration_ms": 160406,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/1TsJalUMdjzsuWK844ycbd"
+    },
+    {
+      "album": {
+        "name": "Pretty & Bouji",
+        "url": "https://open.spotify.com/album/4VmYH0OOZkV3AOoGyVhFgZ"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        },
+        {
+          "name": "Skeete",
+          "url": "https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "Pretty & Bouji",
+      "url": "https://open.spotify.com/track/1PYDD9APjyk0rByimDl5F0"
     },
     {
       "album": {
@@ -41979,6 +42509,28 @@
     },
     {
       "album": {
+        "name": "Read The Room",
+        "url": "https://open.spotify.com/album/5WtIamotiQtKcfXHyiS4aw"
+      },
+      "artists": [
+        {
+          "name": "Elijah Blake",
+          "url": "https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Read The Room",
+      "url": "https://open.spotify.com/track/3gbTMPxtp57FiBtymz7Tqx"
+    },
+    {
+      "album": {
         "name": "Nintindo Soul",
         "url": "https://open.spotify.com/album/1HaSycwssAOYNRmcdr1MXR"
       },
@@ -41994,7 +42546,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 174666,
       "name": "Read the Room",
       "url": "https://open.spotify.com/track/4SUFYzuSOqqVIwZJrkGD1W"
@@ -42180,6 +42732,24 @@
       "duration_ms": 183651,
       "name": "Reassurance",
       "url": "https://open.spotify.com/track/0k9cWPjz8uI5iIAnHotHo8"
+    },
+    {
+      "album": {
+        "name": "Rebel Soul",
+        "url": "https://open.spotify.com/album/3Yx92qVEutGhDEoAGPNQwm"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Rebel Soul",
+      "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"
     },
     {
       "album": {
@@ -43407,6 +43977,28 @@
     },
     {
       "album": {
+        "name": "Lost Cargo",
+        "url": "https://open.spotify.com/album/3hvOyWTH6lftZifKHqUlLT"
+      },
+      "artists": [
+        {
+          "name": "Galimatias",
+          "url": "https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd"
+        },
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "Roses - 2015",
+      "url": "https://open.spotify.com/track/1PfnCBM7D6qdNm5XpMRRb6"
+    },
+    {
+      "album": {
         "name": "Heaux Tales, Mo' Tales: The Deluxe",
         "url": "https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei"
       },
@@ -43516,7 +44108,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 218075,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/1LI1wDPemek20Hti9u56tu"
@@ -44424,6 +45016,24 @@
       "duration_ms": 205621,
       "name": "Say Yea",
       "url": "https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ"
+    },
+    {
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/2KjvoZQwm2PoYkTGyJNeP7"
+      },
+      "artists": [
+        {
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225985,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/24elH6i4AZUcsPQrsQgSUA"
     },
     {
       "album": {
@@ -45983,6 +46593,24 @@
     },
     {
       "album": {
+        "name": "Sink In",
+        "url": "https://open.spotify.com/album/6q5HmSWBX2lbGH3SCSZOIe"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136260,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/6OiQNUMCLXJtJxOmUsoyFA"
+    },
+    {
+      "album": {
         "name": "sink or swim",
         "url": "https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx"
       },
@@ -46088,7 +46716,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 135692,
       "name": "Skin",
       "url": "https://open.spotify.com/track/7CVRjSiJWXX7NM1E36Q97U"
@@ -46584,6 +47212,28 @@
       "duration_ms": 136613,
       "name": "Smoke + Mirrors (MajorStage Live)",
       "url": "https://open.spotify.com/track/0T87SYJXzKtB1wpPQg4xOx"
+    },
+    {
+      "album": {
+        "name": "Smoke + Mirrors (Remix)",
+        "url": "https://open.spotify.com/album/4Q5IBAmOTbs1O0IZsEWkIU"
+      },
+      "artists": [
+        {
+          "name": "Leo Waters",
+          "url": "https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX"
+        },
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168628,
+      "name": "Smoke + Mirrors (Remix)",
+      "url": "https://open.spotify.com/track/2llhKemeYEaIH5gOiE9o4R"
     },
     {
       "album": {
@@ -47445,6 +48095,24 @@
     },
     {
       "album": {
+        "name": "Suite Escape",
+        "url": "https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244897,
+      "name": "Somewhere, Somehow",
+      "url": "https://open.spotify.com/track/51LBNK6qX5JNEToSBJYmHA"
+    },
+    {
+      "album": {
         "name": "Songs About U",
         "url": "https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM"
       },
@@ -47522,6 +48190,24 @@
       "duration_ms": 265057,
       "name": "SOS (Sex on Sight) (feat. USHER)",
       "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
+    },
+    {
+      "album": {
+        "name": "Soul On Fire",
+        "url": "https://open.spotify.com/album/76MCbADCF4wMTika7FpgZK"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Soul On Fire",
+      "url": "https://open.spotify.com/track/6xEkgmEvZMwkyPNTjeVKL3"
     },
     {
       "album": {
@@ -48088,7 +48774,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 155076,
       "name": "SPLIT",
       "url": "https://open.spotify.com/track/1861Y1Gv69hWiawup5Ik31"
@@ -48372,7 +49058,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 183260,
       "name": "Starsigns",
       "url": "https://open.spotify.com/track/5XpihZZP0WbwGMCoN4CePo"
@@ -48948,7 +49634,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 218349,
       "name": "Stop Playing",
       "url": "https://open.spotify.com/track/4RNzOJPCNc3kgRrwboMZ1q"
@@ -50140,7 +50826,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 221772,
       "name": "Sweet Lies",
       "url": "https://open.spotify.com/track/3prJqrOhgJnMZI9nN4nvBg"
@@ -50434,6 +51120,24 @@
       "duration_ms": 229992,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno"
+    },
+    {
+      "album": {
+        "name": "Take Care",
+        "url": "https://open.spotify.com/album/5faDWLrnHIJnnZa38Y3mje"
+      },
+      "artists": [
+        {
+          "name": "SAYGRACE",
+          "url": "https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/4a7Yuev0jhPYccwMpBu7kU"
     },
     {
       "album": {
@@ -52407,6 +53111,28 @@
     },
     {
       "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163604,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/71NRY0QzNjfk4slnJ5Q1lh"
+    },
+    {
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/014qHcg2C7guTMP1y2eISt"
       },
@@ -52646,7 +53372,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 145964,
       "name": "THIRST",
       "url": "https://open.spotify.com/track/7d5FHMxgFBCATaIWUjpv08"
@@ -53629,6 +54355,24 @@
     },
     {
       "album": {
+        "name": "Too Often",
+        "url": "https://open.spotify.com/album/4eZHqCtSPgGjTZGgrASnz9"
+      },
+      "artists": [
+        {
+          "name": "Shantel May",
+          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167756,
+      "name": "Too Often",
+      "url": "https://open.spotify.com/track/03GAUqifa6bI0mFcYyz1DS"
+    },
+    {
+      "album": {
         "name": "Touch It",
         "url": "https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai"
       },
@@ -53959,6 +54703,24 @@
     },
     {
       "album": {
+        "name": "Treaty",
+        "url": "https://open.spotify.com/album/05WJCGrkh61NjUUAo21sIF"
+      },
+      "artists": [
+        {
+          "name": "James Savage",
+          "url": "https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118130,
+      "name": "Treaty",
+      "url": "https://open.spotify.com/track/6f8r1ev639XLgigwJawnUY"
+    },
+    {
+      "album": {
         "name": "TRENDSETTER",
         "url": "https://open.spotify.com/album/70qHmQkPPCg7qridZsUFIk"
       },
@@ -53970,7 +54732,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 150128,
       "name": "TRENDSETTER",
       "url": "https://open.spotify.com/track/13vOehmUuNKBMhjl5dBjeN"
@@ -55588,7 +56350,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 147906,
       "name": "Venetian Windows",
       "url": "https://open.spotify.com/track/0v5Q7180Oeo9McBKHgBatB"
@@ -55654,6 +56416,24 @@
       "duration_ms": 230103,
       "name": "ViBRATiON",
       "url": "https://open.spotify.com/track/1CAjgxMzyXGKCuu6XZeHbR"
+    },
+    {
+      "album": {
+        "name": "Vicariously",
+        "url": "https://open.spotify.com/album/5VWooS2kG1dyfwB1xRPHwN"
+      },
+      "artists": [
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Vicariously",
+      "url": "https://open.spotify.com/track/5IDKzzwnv30FxvgRqAPtqO"
     },
     {
       "album": {
@@ -59172,7 +59952,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 220302,
       "name": "won't cry",
       "url": "https://open.spotify.com/track/73wMV0p5r0yaPJvBOoTmHH"
@@ -60302,6 +61082,24 @@
       "duration_ms": 169516,
       "name": "Young Boy Problems",
       "url": "https://open.spotify.com/track/5RkVymJxVbc8oy0OnaIjQo"
+    },
+    {
+      "album": {
+        "name": "Transa: Selects",
+        "url": "https://open.spotify.com/album/1hOqnznXyUdodieSIR4b9F"
+      },
+      "artists": [
+        {
+          "name": "Sade Adu",
+          "url": "https://open.spotify.com/artist/0US6Qjw05r2L04QMNTLWfg"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252889,
+      "name": "Young Lion",
+      "url": "https://open.spotify.com/track/25rVDGUJj0RtfjzdR1maXQ"
     },
     {
       "album": {

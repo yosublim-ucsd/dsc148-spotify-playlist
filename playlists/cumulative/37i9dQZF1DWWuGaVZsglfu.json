@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best tracks from the world of music. Cover: Noh Salleh",
+  "description": "The best tracks from the world of music. Cover: Insomniacks",
   "name": "Hot Hits Malaysia",
   "tracks": [
     {
@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "album": {
         "name": "drunk text",
         "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
       },
@@ -1564,6 +1582,24 @@
       "duration_ms": 186386,
       "name": "LOVE, MONEY, FAME (feat. DJ Khaled)",
       "url": "https://open.spotify.com/track/145tqlcE6YFsjNfxi9K3AE"
+    },
+    {
+      "album": {
+        "name": "Lumangad Oku Dika",
+        "url": "https://open.spotify.com/album/00K5iJB5y56JNiT8xnHYzK"
+      },
+      "artists": [
+        {
+          "name": "Ryenald Guntabid",
+          "url": "https://open.spotify.com/artist/2rPL0xwaV8y8Ks3cmsui9D"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248685,
+      "name": "Lumangad Oku Dika",
+      "url": "https://open.spotify.com/track/1QOTN2V7aTLJApBq4e1C9z"
     },
     {
       "album": {

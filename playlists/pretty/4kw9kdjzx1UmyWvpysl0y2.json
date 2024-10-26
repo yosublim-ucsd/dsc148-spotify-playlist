@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125742,
+  "num_followers": 125747,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATN5qBkonazz0K8LfcCjWiVpeNVCAP",
+  "snapshot_id": "AAATOWQ8rzWeP+yTlNm81sYELZtZBBau",
   "tracks": [
+    {
+      "added_at": "2024-10-25 13:57:45",
+      "album": {
+        "name": "Overstimulated",
+        "url": "https://open.spotify.com/album/22MEgqPCFqCMKng8B9nqOT"
+      },
+      "artists": [
+        {
+          "name": "Rival",
+          "url": "https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz"
+        },
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Overstimulated",
+      "url": "https://open.spotify.com/track/62QX5HiPYOvguLGyPs0Vdx"
+    },
     {
       "added_at": "2024-10-24 14:10:18",
       "album": {
@@ -1159,26 +1179,6 @@
       "duration_ms": 220500,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/49Y95L9PEgmiU8grfUF2el"
-    },
-    {
-      "added_at": "2024-08-07 14:11:57",
-      "album": {
-        "name": "Ready Now",
-        "url": "https://open.spotify.com/album/7m8LCPFZzHB3zrbj7UdcSU"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        },
-        {
-          "name": "ary kemler",
-          "url": "https://open.spotify.com/artist/0yK9LBVrp5M2WD4IzAEZ69"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Ready Now",
-      "url": "https://open.spotify.com/track/640Mqt7rGD8xjq0H4f9ASQ"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

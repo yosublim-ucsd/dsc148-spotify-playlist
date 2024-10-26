@@ -4,7 +4,7 @@
 
 > pearls of an oyster\. Cover: Romy & Sampha
 
-1,531 songs - 3 day 11 hr 37 min
+1,532 songs - 3 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 | 2023-03-02 | 2023-03-31 |
 | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB) | 3:34 | 2023-03-17 | 2023-05-12 |
 | [favorita](https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott) | [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [favorita](https://open.spotify.com/album/1S7trDsVlwschptph947TY) | 2:07 | 2023-02-16 | 2023-04-21 |
+| [Faye](https://open.spotify.com/track/47ym2apEPQYsntkjeFUiQp) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Faye](https://open.spotify.com/album/3qe3gmY897fHbzxk2qi5iG) | 2:09 | 2024-10-24 |  |
 | [fear less](https://open.spotify.com/track/4IHblO52meh2jwqES1BA7X) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:34 | 2024-09-05 |  |
 | [Fear Of Flying \(feat\. Aminé & beabadoobee\)](https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fear Of Flying \(feat\. Aminé & beabadoobee\)](https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e) | 2:11 | 2023-11-09 | 2023-12-01 |
 | [Feel](https://open.spotify.com/track/4oY6egXEVlBy8jqsBSy5OC) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Feel](https://open.spotify.com/album/7dWUHgFmoGDdKzKIgc2xVC) | 2:40 | 2024-04-11 | 2024-06-07 |

@@ -1,12 +1,12 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 335785,
+  "num_followers": 335931,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrDYAAAAAARk9y4PkinlV43Vo8UAEp7",
+  "snapshot_id": "ZxtEtQAAAABP+nuS0O5Pp3jEPNDQmDj9",
   "tracks": [
     {
       "added_at": "2024-10-24 22:00:00",
@@ -495,6 +495,22 @@
       "duration_ms": 152888,
       "name": "TIDNING",
       "url": "https://open.spotify.com/track/57eqHJ3LY805RHuc2b1brL"
+    },
+    {
+      "added_at": "2024-10-25 07:11:49",
+      "album": {
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4N9kUfRzmpryfKp3WOw8pi"
+      },
+      "artists": [
+        {
+          "name": "L1NA",
+          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
+        }
+      ],
+      "duration_ms": 193363,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/2tPNsOGofbarplooYinJEJ"
     },
     {
       "added_at": "2024-10-24 22:00:00",

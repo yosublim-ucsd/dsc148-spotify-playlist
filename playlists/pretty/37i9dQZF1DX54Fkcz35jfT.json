@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: UVERworld",
-  "num_followers": 45990,
+  "num_followers": 46000,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "SONGS",
+      "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
         "name": "SLAY!!",
         "url": "https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 192753,
       "name": "SLAY!!",
       "url": "https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU"
-      },
-      "artists": [
-        {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "SONGS",
-      "url": "https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "Tank-top Flower for Friends",
-        "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
-      },
-      "artists": [
-        {
-          "name": "Yabai T-Shirts Yasan",
-          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
-        }
-      ],
-      "duration_ms": 132386,
-      "name": "Blooming the Tank-top",
-      "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "STEADY",
         "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 150180,
       "name": "Steady",
       "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "Tank-top Flower for Friends",
+        "url": "https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu"
+      },
+      "artists": [
+        {
+          "name": "Yabai T-Shirts Yasan",
+          "url": "https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS"
+        }
+      ],
+      "duration_ms": 132386,
+      "name": "Blooming the Tank-top",
+      "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "smileY:)",
-        "url": "https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn"
-      },
-      "artists": [
-        {
-          "name": "CVLTE",
-          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
-        }
-      ],
-      "duration_ms": 115769,
-      "name": "smileY:)",
-      "url": "https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "JUNGLE BUN DEM",
         "url": "https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 193520,
       "name": "JUNGLE BUN DEM",
       "url": "https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "smileY:)",
+        "url": "https://open.spotify.com/album/4EfIqf312U2naIxOfWuxIn"
+      },
+      "artists": [
+        {
+          "name": "CVLTE",
+          "url": "https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA"
+        }
+      ],
+      "duration_ms": 115769,
+      "name": "smileY:)",
+      "url": "https://open.spotify.com/track/7D6gePpoootFzZr1f8lONE"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "TAKING THEM DOWN",
-        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
-      },
-      "artists": [
-        {
-          "name": "HYDE",
-          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
-        }
-      ],
-      "duration_ms": 172974,
-      "name": "TAKING THEM DOWN",
-      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "META",
         "url": "https://open.spotify.com/album/1YoxX5dJa8vm0bz1Skiljh"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 267234,
       "name": "META",
       "url": "https://open.spotify.com/track/7FN4l3ORF68GwwOavytbps"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "TAKING THEM DOWN",
+        "url": "https://open.spotify.com/album/4SRTjaKlxpG3Y1UKnQaVrU"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "duration_ms": 172974,
+      "name": "TAKING THEM DOWN",
+      "url": "https://open.spotify.com/track/3c1lVormOG2JXVtRXCQBOX"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
-        "name": "Protect You",
-        "url": "https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy"
-      },
-      "artists": [
-        {
-          "name": "BAND-MAID",
-          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
-        }
-      ],
-      "duration_ms": 192558,
-      "name": "Protect You",
-      "url": "https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
         "name": "Hateful Failures",
         "url": "https://open.spotify.com/album/3wC8Keda4UuvaMsuhhqzdP"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 196573,
       "name": "Drive Far",
       "url": "https://open.spotify.com/track/3eQEUcSoU3CCQBFa8NOq5X"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
+        "name": "Protect You",
+        "url": "https://open.spotify.com/album/6A8LvrDY41AlRsM2HB9qUy"
+      },
+      "artists": [
+        {
+          "name": "BAND-MAID",
+          "url": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH"
+        }
+      ],
+      "duration_ms": 192558,
+      "name": "Protect You",
+      "url": "https://open.spotify.com/track/7zfcvCkVUWFPh0xMI1aPzR"
     },
     {
       "added_at": "2024-10-15 15:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-10-15 15:00:00",
       "album": {
+        "name": "Shussou",
+        "url": "https://open.spotify.com/album/6u0mRNp8OUxHtGjyZA4ik2"
+      },
+      "artists": [
+        {
+          "name": "Hello Sleepwalkers",
+          "url": "https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm"
+        }
+      ],
+      "duration_ms": 235820,
+      "name": "Shussou",
+      "url": "https://open.spotify.com/track/05cArZuv1f0fErj6aAkuhe"
+    },
+    {
+      "added_at": "2024-10-15 15:00:00",
+      "album": {
         "name": "800TRIBUTE-champloo is the BEST!!2-",
         "url": "https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 197946,
       "name": "\u5c71\u5d50",
       "url": "https://open.spotify.com/track/5kKpQuwb71B8rxqDZLrU4a"
-    },
-    {
-      "added_at": "2024-10-15 15:00:00",
-      "album": {
-        "name": "\u6681\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/3KB7bquyMHBddtSfqC5gou"
-      },
-      "artists": [
-        {
-          "name": "ROTTENGRAFFTY",
-          "url": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj"
-        }
-      ],
-      "duration_ms": 60452,
-      "name": "\u6681\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/3qfxzGWwzlpxAQGrMPGYBG"
     },
     {
       "added_at": "2024-10-15 15:00:00",

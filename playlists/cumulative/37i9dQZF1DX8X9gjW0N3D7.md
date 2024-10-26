@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Pierre Lapointe
 
-109 songs - 5 hr 49 min
+110 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Marina](https://open.spotify.com/track/2cGaXCes4TAZUgahO9bqdD) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Marina](https://open.spotify.com/album/5PYSl1Sz2fypzb21zyZItp) | 2:54 | 2024-06-28 |  |
 | [Mauvais temps](https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Au bar des espoirs](https://open.spotify.com/album/41s9no7Ky1PqMXyML8szae) | 2:47 | 2024-06-28 | 2024-07-27 |
 | [Mes secrets](https://open.spotify.com/track/7FCRbMKICwFrdkv0xbfyrU) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Mes secrets](https://open.spotify.com/album/3JFLbwf4FVFSL7HsKu97MU) | 3:02 | 2024-06-28 |  |
+| [minable](https://open.spotify.com/track/5OQfQjHdIyAcgQNnC8YQnR) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [minable](https://open.spotify.com/album/3UlDYwWkphGpLlyfmGxSsh) | 2:30 | 2024-10-25 |  |
 | [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 | 2024-06-28 |  |
 | [Mâcher tes bottes](https://open.spotify.com/track/6m10tqV7JardUKNPItH94C) | [Avec pas d'casque](https://open.spotify.com/artist/2B8PoAfMwmcONoQTgiLzgn) | [Mâcher tes bottes](https://open.spotify.com/album/7z0TPSAbjN7fSaDu63j4Rz) | 3:27 | 2024-08-09 |  |
 | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/track/7zxEFmvPTSEPpkSY6FL264) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK) | 2:17 | 2024-06-28 |  |
@@ -98,7 +99,7 @@
 | [Si je rampe](https://open.spotify.com/track/0URJzuHMZC8sywrbSYXVAn) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Si je rampe](https://open.spotify.com/album/6juYcRp6bkkorf1MwbI7ss) | 2:57 | 2024-06-28 |  |
 | [Sous terre](https://open.spotify.com/track/78DTEJgFp4ZqEd3WiLm5E0) | [Matt Moln](https://open.spotify.com/artist/7ANHFWaXJtG963OePSX29C) | [Sous terre](https://open.spotify.com/album/4FZAZueu52fRQLMZfbJPtO) | 3:21 | 2024-06-28 | 2024-08-24 |
 | [St\. Denis](https://open.spotify.com/track/6ISDvrYhDFXJfvG4uk4b1n) | [Ponteix](https://open.spotify.com/artist/1v0LRrF0AKvsTKrzNqVTEl), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [St\. Denis](https://open.spotify.com/album/4xUWVo4dSPdGxnH2pe1joh) | 3:56 | 2024-06-28 |  |
-| [T'aimer est une galère](https://open.spotify.com/track/5y07ot6zuGcCV3KxiAHeLg) | [Molière l'opéra urbain](https://open.spotify.com/artist/7eFL3K5giCsAHXus03F7Cd), [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Molière, le spectacle musical](https://open.spotify.com/album/5Aq14FvD0eZy5KIlLtsv0k) | 2:43 | 2024-06-28 |  |
+| [T'aimer est une galère](https://open.spotify.com/track/5y07ot6zuGcCV3KxiAHeLg) | [Molière l'opéra urbain](https://open.spotify.com/artist/7eFL3K5giCsAHXus03F7Cd), [PETiTOM](https://open.spotify.com/artist/6jdST36R49wOl2Xgy5TOjv) | [Molière, le spectacle musical](https://open.spotify.com/album/5Aq14FvD0eZy5KIlLtsv0k) | 2:43 | 2024-06-28 | 2024-10-26 |
 | [T'étais où?](https://open.spotify.com/track/4XeX8X5VtMMevrWaiKqEzq) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [T'étais où?](https://open.spotify.com/album/3jpSPJWhOLagabhCI7h2C5) | 2:45 | 2024-08-16 |  |
 | [Ta bouche](https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [Ta bouche](https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE) | 2:43 | 2024-07-19 |  |
 | [Ta peine](https://open.spotify.com/track/0BC2xNaWziKYeXfU8CzIe0) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Ta peine](https://open.spotify.com/album/6Z9elqyva8qhCGpJ3TO67j) | 2:44 | 2024-06-28 | 2024-10-05 |

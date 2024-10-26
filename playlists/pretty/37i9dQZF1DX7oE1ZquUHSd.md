@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,656 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,736 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 84 | [Jazz Elak Olé](https://open.spotify.com/track/6lVIubLaetv8EP3ClUhghT) | [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Hazhe](https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk) | [La Historia Mas Real de Vuestras Vidas](https://open.spotify.com/album/0KfR7zLucl1SNMzECoLLWw) | 3:36 |
 | 85 | [Basado en hechos reales](https://open.spotify.com/track/5YcF2yE63JW70yfB9rIprG) | [Nach Scratch](https://open.spotify.com/artist/2HiFszpmRqt7qy3eGBI62V) | [En la brevedad de los dias](https://open.spotify.com/album/0hllL83xhHyw3bU8xIlQay) | 4:05 |
 | 86 | [El Pecador](https://open.spotify.com/track/0oIETWzqmaXiPzwJYGUvvT) | [Sinful El Pecador](https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi) | [Soy el Pecador](https://open.spotify.com/album/4ly5zyOJB6yOEdKNXYsLte) | 3:43 |
-| 87 | [Basureta \(Tiempos Raros\)](https://open.spotify.com/track/3o4whF6e25WeOnLBdsLFsX) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux) | [El Círculo \(Versión Exclusiva de Spotify\)](https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs) | 6:11 |
+| 87 | [Digo Lo Que Pienso](https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:53 |
 | 88 | [Tratos Con el Diablo](https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Verdugo](https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1) | 3:44 |
 | 89 | [No Entiendes La Onda \(How I Could Just Kill A Man\) \- Spanish Version](https://open.spotify.com/track/3JlHPSGJykKR0EAESs8Ope) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 4:09 |
 | 90 | [La Playa](https://open.spotify.com/track/1aHpN6EYORlTwFSVDiJp6q) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 4:27 |
-| 91 | [Digo Lo Que Pienso](https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:53 |
+| 91 | [Basureta \(Tiempos Raros\)](https://open.spotify.com/track/3o4whF6e25WeOnLBdsLFsX) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux) | [El Círculo \(Versión Exclusiva de Spotify\)](https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs) | 6:11 |
 | 92 | [Javat y Kamel](https://open.spotify.com/track/3SgvnQco35HHgE75uMZ5C2) | [R De Rumba](https://open.spotify.com/artist/6zJkLYY6jdwLbRCo3Acc3C), [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Kamel](https://open.spotify.com/artist/3QVQAtD0D10SEpt3JRP2K1) | [R de Rumba](https://open.spotify.com/album/0fNRU2Bri98HFdkLPdjY3d) | 8:34 |
 | 93 | [Fieles Con Lo Vivido](https://open.spotify.com/track/3h2ga3xeFDwm0bvY0TZKXh) | [Falsalarma](https://open.spotify.com/artist/5vHV7UQFBAZzW0gNb3TaZr), [Morodo](https://open.spotify.com/artist/2OnH4HpywAxWkSOEsyjdjn) | [Ley de Vida](https://open.spotify.com/album/7M5xAE8EbVBcRDX6h4ntXc) | 5:32 |
 | 94 | [Rap Vs\. Racismo \- Con Lírico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Titó y Xhelazz.](https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Ataque De Los Que Observaban](https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY) | 5:54 |

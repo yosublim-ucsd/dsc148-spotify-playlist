@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Porque no to' e' Dembow en RD loco. Portada: Chris Lebron",
+  "description": "Porque no to' e' Dembow en RD loco. Portada: NTG",
   "name": "Flow Dominicano",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 137777,
       "name": "3730",
       "url": "https://open.spotify.com/track/38NWfFQynxu9Ok4Gf3xedH"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 237303,
       "name": "A mi no",
       "url": "https://open.spotify.com/track/0Han2gfUTq8bUCwHik9gNr"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 173892,
       "name": "Alplax",
       "url": "https://open.spotify.com/track/5rtvkK96j6BwX9ZOqUoeBy"
@@ -850,6 +850,24 @@
       "duration_ms": 198400,
       "name": "AY, AY, AY",
       "url": "https://open.spotify.com/track/2sK92SdOTmSjGzFZY6xUsx"
+    },
+    {
+      "album": {
+        "name": "Ayer",
+        "url": "https://open.spotify.com/album/2hhPPwZlXSMzvE1PXuopUh"
+      },
+      "artists": [
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "Ayer",
+      "url": "https://open.spotify.com/track/3cUzOVF9Ro8ypAfvthNhPA"
     },
     {
       "album": {
@@ -2029,6 +2047,28 @@
     },
     {
       "album": {
+        "name": "Colale",
+        "url": "https://open.spotify.com/album/6t45TKf2yEIb4jYzs1R465"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156281,
+      "name": "Colale",
+      "url": "https://open.spotify.com/track/4dt4deRNOocPVSIaLy4K6E"
+    },
+    {
+      "album": {
         "name": "Como Sucedio",
         "url": "https://open.spotify.com/album/34bzI0EjWZQ89zlixBIkjW"
       },
@@ -2510,7 +2550,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 159795,
       "name": "Cybertruck",
       "url": "https://open.spotify.com/track/69wEnnpT4Ssaul69aVeHAO"
@@ -3441,6 +3481,24 @@
     },
     {
       "album": {
+        "name": "Droga, Pistola, Mujeres",
+        "url": "https://open.spotify.com/album/3LNJ9d9tY9DvdyGxJs1atA"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "Droga, Pistola, Mujeres",
+      "url": "https://open.spotify.com/track/3ykcfVOPpjrsmiiqBeo7ka"
+    },
+    {
+      "album": {
         "name": "D\u00e1\u00f1alo",
         "url": "https://open.spotify.com/album/09ufU7M4BHMoLfsY0zzPjB"
       },
@@ -3934,7 +3992,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 197647,
       "name": "Ella",
       "url": "https://open.spotify.com/track/0QLaws2uPrcXWF77zizXeb"
@@ -4518,7 +4576,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 152809,
       "name": "Everything Real",
       "url": "https://open.spotify.com/track/6srOStXJDpSxGuUOOX3rIH"
@@ -4598,7 +4656,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 136250,
       "name": "FALLO",
       "url": "https://open.spotify.com/track/7gLpz5Yw7wCP6qRYexbhxZ"
@@ -4696,6 +4754,32 @@
       "duration_ms": 151080,
       "name": "fiebre",
       "url": "https://open.spotify.com/track/0VAc7AEDxw9jFObDVex4oV"
+    },
+    {
+      "album": {
+        "name": "Fin De Semana",
+        "url": "https://open.spotify.com/album/6NRgZSFUVXmi5TpOAbtJ7O"
+      },
+      "artists": [
+        {
+          "name": "Hemphil Otra Nota",
+          "url": "https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9"
+        },
+        {
+          "name": "Uriel Produce",
+          "url": "https://open.spotify.com/artist/1SIghlrGacKWdkAvAgUdPC"
+        },
+        {
+          "name": "Musicologo Y Menes",
+          "url": "https://open.spotify.com/artist/0xf0KaVp6AMWgesiBh6fee"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4sAeTM3qN8hvP5gKNLsHaA"
     },
     {
       "album": {
@@ -5470,6 +5554,28 @@
     {
       "album": {
         "name": "JEFE",
+        "url": "https://open.spotify.com/album/2Y9y8A6F9Id5XZWRQ2peBv"
+      },
+      "artists": [
+        {
+          "name": "Sossa MOB",
+          "url": "https://open.spotify.com/artist/5IZFQZD0X4gSVxoaVuJwMw"
+        },
+        {
+          "name": "Chopp Beats",
+          "url": "https://open.spotify.com/artist/2V2iQ1eAtD3I1LAwAEmkEp"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99666,
+      "name": "JEFE",
+      "url": "https://open.spotify.com/track/3XyNwr53iurmNjbfPh0odX"
+    },
+    {
+      "album": {
+        "name": "JEFE",
         "url": "https://open.spotify.com/album/3tMLnOqc9ts08pUrWL1p61"
       },
       "artists": [
@@ -5524,7 +5630,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 188936,
       "name": "Juda",
       "url": "https://open.spotify.com/track/1MdiFtmOn5vO7eWAJIImvo"
@@ -5554,6 +5660,28 @@
       "duration_ms": 160714,
       "name": "Jugando con la Nieve",
       "url": "https://open.spotify.com/track/6HnlIqJUzp4kv4QvPzolem"
+    },
+    {
+      "album": {
+        "name": "Klk El Dice",
+        "url": "https://open.spotify.com/album/3q4IaAfmfYZLrUdoWvbuOI"
+      },
+      "artists": [
+        {
+          "name": "La Ross Maria",
+          "url": "https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186572,
+      "name": "Klk El Dice",
+      "url": "https://open.spotify.com/track/2exlALY8rkH2GyS0ETqfI5"
     },
     {
       "album": {
@@ -7340,7 +7468,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 281400,
       "name": "Messi - Remix",
       "url": "https://open.spotify.com/track/0RhskHoXyy7pebvsFU1cTH"
@@ -7958,10 +8086,32 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 215000,
       "name": "Morena Taina",
       "url": "https://open.spotify.com/track/2fIseF1z8IdJGd9hqWwC8w"
+    },
+    {
+      "album": {
+        "name": "Mucha Letra Mucha Clave",
+        "url": "https://open.spotify.com/album/1v5CQSsNFyw0aJZ0Qq6DTg"
+      },
+      "artists": [
+        {
+          "name": "Ator Untela",
+          "url": "https://open.spotify.com/artist/6okWJ07kcCwzho1xSsykc4"
+        },
+        {
+          "name": "Angel Dior",
+          "url": "https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154482,
+      "name": "Mucha Letra Mucha Clave",
+      "url": "https://open.spotify.com/track/35eXKEXBtktSNNyyhiFbe7"
     },
     {
       "album": {
@@ -8730,7 +8880,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 131602,
       "name": "Nota Alta",
       "url": "https://open.spotify.com/track/7enUVIEfPf8PfxmoEDRnAj"
@@ -8946,7 +9096,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 168912,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/4wSQhQIY7Ot9siowpPPgNZ"
@@ -9627,6 +9777,24 @@
     },
     {
       "album": {
+        "name": "Reservada",
+        "url": "https://open.spotify.com/album/66ypHhtRH4iOP19vemQXut"
+      },
+      "artists": [
+        {
+          "name": "Jay Elite",
+          "url": "https://open.spotify.com/artist/4UG8b6IcuWkjMmPsoSYPGj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125209,
+      "name": "Reservada",
+      "url": "https://open.spotify.com/track/71gnQXCHpf03kk9gROcHro"
+    },
+    {
+      "album": {
         "name": "Rico de Boca",
         "url": "https://open.spotify.com/album/2jEIqBy6NDXy3CjLywapPg"
       },
@@ -10296,6 +10464,28 @@
       "duration_ms": 148312,
       "name": "Step Up",
       "url": "https://open.spotify.com/track/5adAAB0zz4rxFawwMgSEk8"
+    },
+    {
+      "album": {
+        "name": "Su Lady",
+        "url": "https://open.spotify.com/album/6R77s10I75PNB1aOA3Z43M"
+      },
+      "artists": [
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        },
+        {
+          "name": "Israel B",
+          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187743,
+      "name": "Su Lady",
+      "url": "https://open.spotify.com/track/6Ax0e9dAIdy5Tdp6fHOstj"
     },
     {
       "album": {
@@ -12134,7 +12324,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170085,
       "name": "Ya Toy Cansao",
       "url": "https://open.spotify.com/track/5d4vFdKtCpbWwnOJrecxrC"
@@ -12358,7 +12548,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 159401,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1QfaqtKtkyO2tKVqEyiyCq"

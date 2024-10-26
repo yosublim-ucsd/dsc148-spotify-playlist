@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: VIDI
 
-561 songs - 1 day 12 hr 23 min
+562 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [right where you left me](https://open.spotify.com/track/1GnSbke3Wja3XHvt1kDCSP) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [right where you left me](https://open.spotify.com/album/0a28dOkcC53FjmLwNpVEOm) | 2:53 | 2024-07-04 | 2024-08-16 |
 | [Rindu Dalam Sunyi \(Thaghut Original Motion Pictures Soundtrack\)](https://open.spotify.com/track/2RGrqXoub7squjIihLpWhu) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL) | [Rindu Dalam Sunyi \(Thaghut Original Motion Pictures Soundtrack\)](https://open.spotify.com/album/10zPrC718iV3GiIRVy8cUH) | 4:03 | 2024-06-27 | 2024-07-19 |
 | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/track/62PDVJCNyBicBG8SNjmqIA) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Rindu Merindu Serindu\-Rindunya](https://open.spotify.com/album/2SO4bvyRmnNgOQbikwP8nl) | 3:26 | 2024-08-29 |  |
+| [Rockstar Cetar](https://open.spotify.com/track/3xFJN0oXfNaQf1fmShHl0g) | [Musisi Lupa Umur](https://open.spotify.com/artist/6pfcZbgeDbMk2HdjQOxzuz) | [Rockstar Cetar](https://open.spotify.com/album/3sm5MgcPe00Vaf9Gy3oTYD) | 3:39 | 2024-10-25 |  |
 | [Rona Jingga](https://open.spotify.com/track/6Pz7UO9PrihGAOoR72SM4q) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Rona Jingga](https://open.spotify.com/album/5YEWre4h02YQHTBJSGMXIy) | 3:27 | 2024-04-18 | 2024-05-24 |
 | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/track/3jki54XTyng7uExnmnniCW) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/album/5CNvbiMvaOaHmaQf2mNvOi) | 3:58 | 2024-09-12 |  |
 | [Ruang Luka](https://open.spotify.com/track/4f1mDUpM4c62Nhf0yW9HXV) | [Ekhsan](https://open.spotify.com/artist/6nfhbYSRrnkFkdVRZ080Lx) | [Ruang Luka](https://open.spotify.com/album/1pB0U49YDHggstJn0FhWpl) | 4:07 | 2024-06-13 | 2024-06-28 |

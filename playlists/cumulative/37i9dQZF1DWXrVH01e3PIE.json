@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "KHEA & C.R.O  en la casa del Trap Argentino.",
+  "description": "Muerejoven en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -895,6 +895,24 @@
     },
     {
       "album": {
+        "name": "KUSTOM",
+        "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136137,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/0WxTeWF0y0MHvRxDcRltdb"
+    },
+    {
+      "album": {
         "name": "Brinca",
         "url": "https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH"
       },
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 173346,
       "name": "Cayenne",
       "url": "https://open.spotify.com/track/6RpehkucrReifc57HbzOyR"
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 126169,
       "name": "COSA SERIA",
       "url": "https://open.spotify.com/track/0ILJYEtK4ggibxL4tlp3S2"
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 214464,
       "name": "DAKAR",
       "url": "https://open.spotify.com/track/0Go1oLj9k4wo1GqmKrSYFz"
@@ -5331,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "Presidentes Muertos",
+        "url": "https://open.spotify.com/album/2GrdQxBJrFv7fW4Qc3CNqK"
+      },
+      "artists": [
+        {
+          "name": "Muerejoven",
+          "url": "https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142343,
+      "name": "Presidentes Muertos",
+      "url": "https://open.spotify.com/track/2W7lQJmidiaQczitjNEvzu"
+    },
+    {
+      "album": {
         "name": "Pro Player",
         "url": "https://open.spotify.com/album/7yJYBoYjDduMIj5FFYPxhL"
       },
@@ -7490,6 +7526,28 @@
       "duration_ms": 219560,
       "name": "VLONE",
       "url": "https://open.spotify.com/track/17HiLsDKo2qryCfpt5Tfh5"
+    },
+    {
+      "album": {
+        "name": "VUD\u00da",
+        "url": "https://open.spotify.com/album/4wINC4Da6oWcQowqekyT5J"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "VUD\u00da",
+      "url": "https://open.spotify.com/track/4ORYC508Z4K3iLb5Y1jlJX"
     },
     {
       "album": {

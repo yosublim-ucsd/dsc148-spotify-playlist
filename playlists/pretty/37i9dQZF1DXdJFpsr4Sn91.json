@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. Kannessa Teddy Swims.",
-  "num_followers": 57657,
+  "num_followers": 57662,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "Zxq1jAAAAACD2SIA8bFtJRqD7aomHBu3",
   "tracks": [
+    {
+      "added_at": "2024-10-24 21:01:00",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
     {
       "added_at": "2024-10-24 21:01:00",
       "album": {

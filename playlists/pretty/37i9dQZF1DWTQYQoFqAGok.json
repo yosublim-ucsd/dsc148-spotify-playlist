@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 61391,
+  "num_followers": 61400,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Jazz Mariachi",
         "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 211026,
       "name": "Luna Taxque\u00f1a - Jazz Mariachi",
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -541,6 +541,26 @@
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
     },
     {
+      "added_at": "2022-08-16 16:23:25",
+      "album": {
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+      },
+      "artists": [
+        {
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        },
+        {
+          "name": "Valentina Marentes",
+          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
+        }
+      ],
+      "duration_ms": 403365,
+      "name": "Era La Luz De Abril",
+      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
@@ -563,26 +583,6 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
-    },
-    {
-      "added_at": "2022-08-16 16:23:25",
-      "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
-      },
-      "artists": [
-        {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        },
-        {
-          "name": "Valentina Marentes",
-          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
-        }
-      ],
-      "duration_ms": 403365,
-      "name": "Era La Luz De Abril",
-      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -659,22 +659,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
-        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
       "artists": [
         {
-          "name": "Dannah Garay",
-          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
-        },
-        {
-          "name": "Oscar Stagnaro",
-          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
         }
       ],
-      "duration_ms": 217840,
-      "name": "Deb\u00ed Llorar",
-      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -695,18 +691,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+        "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
+        "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+          "name": "Dannah Garay",
+          "url": "https://open.spotify.com/artist/0ONqwOtVeroTjzKmvdBqHK"
+        },
+        {
+          "name": "Oscar Stagnaro",
+          "url": "https://open.spotify.com/artist/6Vf5cM3kgPJWrDKoi1ONb3"
         }
       ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+      "duration_ms": 217840,
+      "name": "Deb\u00ed Llorar",
+      "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
     },
     {
       "added_at": "2021-07-28 16:44:28",

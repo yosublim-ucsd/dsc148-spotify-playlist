@@ -2,9 +2,9 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: Billy Strings
+> Keep your finger on the pulse of Americana\. Cover: Amythyst Kiah
 
-730 songs - 1 day 20 hr 59 min
+732 songs - 1 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Dust Cain't Kill Me](https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Dust Cain't Kill Me](https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA) | 3:20 | 2021-12-17 | 2022-05-14 |
 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2022-09-23 | 2024-02-17 |
 | [El Mirador](https://open.spotify.com/track/6HQgUBaY6RbmmrXRER8y8E) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [El Mirador](https://open.spotify.com/album/0G9Bc2RYNUkCjUFK4zWKlX) | 3:38 | 2022-02-04 | 2022-04-02 |
+| [Empire Of Love](https://open.spotify.com/track/2TnL6neU2UC1Ti224dOT1n) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Still + Bright](https://open.spotify.com/album/5OPn3sKvPQZ1Hg6hSLiE78) | 3:40 | 2024-10-25 |  |
 | [Empty Trainload Of Sky](https://open.spotify.com/track/4XNeSs0RanJTsQ8XF5OYes) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Empty Trainload Of Sky](https://open.spotify.com/album/5ojEvbXKOHXughEQcGoUwD) | 3:24 | 2024-07-23 | 2024-08-24 |
 | [End Of The Line](https://open.spotify.com/track/2IwhGWbdmfMZMZ9JE4GiDN) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO), [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [End Of The Line \[Feat\. Aaron Neville\]](https://open.spotify.com/album/6Jej60SOD8fojT5s4HHsGS) | 4:12 | 2022-08-19 | 2023-08-05 |
 | [Eveline](https://open.spotify.com/track/4yaXd7WI8tiRWCxciM851k) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Eveline](https://open.spotify.com/album/3sO2usnoC00QBWa0XlmPrA) | 3:49 | 2023-03-10 | 2023-07-15 |
@@ -220,6 +221,7 @@
 | [Forged in Hell and Heaven Sent](https://open.spotify.com/track/7BI77Zk4GyY88tB3SJyx8p) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Welcome 2 Club XIII](https://open.spotify.com/album/36KLZL4EDBBiEkLdl1BEJ7) | 4:45 | 2022-06-03 | 2022-07-29 |
 | [Forgiving Ties](https://open.spotify.com/track/3pv0IJiSYPx531RuNSbtjR) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [Forgiving Ties b/w The Real Thing](https://open.spotify.com/album/6sGyKPSxmuSamY3duTPkvQ) | 4:10 | 2023-06-23 | 2024-04-06 |
 | [Fox Hunt](https://open.spotify.com/track/32TjTdbpM9dv5gBVFXbU8S) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Fox Hunt](https://open.spotify.com/album/2bLNZHyv1itJ94dG8Ob5Nq) | 3:16 | 2023-10-20 | 2024-03-23 |
+| [Fried](https://open.spotify.com/track/0pI5F58IanA3z0rJJGsMqg) | [Palmyra](https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664) | [Surprise No\. 1](https://open.spotify.com/album/4nuK9bdzH9Bx6wTWjUY31q) | 4:16 | 2024-10-25 |  |
 | [Friends \(How To Do It\)](https://open.spotify.com/track/0JYYCDbiTr9xgrdS0F3S1A) | [Nicki Bluhm](https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh), [Oliver Wood](https://open.spotify.com/artist/7AJNTCR4NEQFQdiC4JIEod) | [Avondale Drive](https://open.spotify.com/album/1mzDiIXe1aZEpEMTpHuVGo) | 3:34 | 2022-06-03 | 2023-06-03 |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-02-25 | 2022-05-14 |
 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 | 2021-12-17 | 2022-05-20 |

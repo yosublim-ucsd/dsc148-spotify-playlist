@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Samant
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,816 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,844 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 26 | [HERE WE GO](https://open.spotify.com/track/1tBvVN3nPN1HFH1AXQiGcI) | [Driver95](https://open.spotify.com/artist/20rkN0rw43hQXRMCvagTm1) | [HERE WE GO](https://open.spotify.com/album/1NeAVwWzjEWNrjcy9iadhY) | 1:48 |
 | 27 | [Ain't Enough](https://open.spotify.com/track/50butWFxipEqOWr13cmYPz) | [Jorke](https://open.spotify.com/artist/05yMnDBYvM7UEPo3GHuXbP), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [CONTROL \(RELOADED\)](https://open.spotify.com/album/4j0NwvXHRK4bxmRuS6ztRt) | 2:48 |
 | 28 | [Marion](https://open.spotify.com/track/7LQK9yumEHjk1dh3KnTcmF) | [Jade Turner](https://open.spotify.com/artist/2IcuWwM2AJpbLrycJUuELT) | [Marion](https://open.spotify.com/album/4jf3gGcr7n2I8mBExXqtsp) | 3:29 |
-| 29 | [Ferris Wheel](https://open.spotify.com/track/3SoilStUg8K4yg7n3cAqu1) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Ferris Wheel](https://open.spotify.com/album/4uCwFNtQ358UqDAo1Bw0ax) | 2:25 |
+| 29 | [Ferris Wheel](https://open.spotify.com/track/3SoilStUg8K4yg7n3cAqu1) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [Ferris Wheel](https://open.spotify.com/album/4uCwFNtQ358UqDAo1Bw0ax) | 2:40 |
 | 30 | [brand new girl, brand new machine](https://open.spotify.com/track/1dkv7Wet7tohrkQTPXzdvw) | [Chiara Savasta](https://open.spotify.com/artist/5TVI6uAbPFru1azAVIaVZR) | [brand new girl, brand new machine](https://open.spotify.com/album/1yycghdjLunxBCSDEviMHF) | 2:47 |
 | 31 | [Glad You Got Away](https://open.spotify.com/track/5RU76nf29QFbnvJDxHP3oR) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Glad You Got Away](https://open.spotify.com/album/4WsY4BWCeD447uvIvJoE3e) | 3:34 |
 | 32 | [The Truth](https://open.spotify.com/track/7a6zoKZvHuiufk7pbW4spw) | [Chloë Doucet](https://open.spotify.com/artist/4wKCXloIwBDiO9eUGe1QpW) | [Sincerely,](https://open.spotify.com/album/6Ry5gwnFmJdDuuN1cyfUQM) | 3:25 |

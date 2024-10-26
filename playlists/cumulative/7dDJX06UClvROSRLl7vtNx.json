@@ -8117,6 +8117,28 @@
     },
     {
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/02K50vQ1DVgJT6RV4b8Lju"
+      },
+      "artists": [
+        {
+          "name": "Loum\u00e9",
+          "url": "https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH"
+        },
+        {
+          "name": "WLZN",
+          "url": "https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139071,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/5xlmWbpl4zPhGBrD1jbikV"
+    },
+    {
+      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/0wiKQOncV2Bl2mDqNGjNUd"
       },
@@ -8522,6 +8544,32 @@
       "duration_ms": 143902,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/47wkD7lkoD8gTJmGUupxwj"
+    },
+    {
+      "album": {
+        "name": "Not Lonely",
+        "url": "https://open.spotify.com/album/7olVebo6iIcqKo46m7uV6Q"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "Finley Br\u00fcckner",
+          "url": "https://open.spotify.com/artist/5uKGAkqfrnsEV2sgPYvlb0"
+        },
+        {
+          "name": "Ella X",
+          "url": "https://open.spotify.com/artist/4g9KPFeiibtNmCsnuBcK2H"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183996,
+      "name": "Not Lonely",
+      "url": "https://open.spotify.com/track/7zT7SKTVcD2o26TYHg8YES"
     },
     {
       "album": {

@@ -1727,6 +1727,28 @@
     },
     {
       "album": {
+        "name": "Bavaria",
+        "url": "https://open.spotify.com/album/3bgV7saRotc51WR0hpZD5d"
+      },
+      "artists": [
+        {
+          "name": "Florian Christl",
+          "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        },
+        {
+          "name": "Seeger Saitenmusik",
+          "url": "https://open.spotify.com/artist/49vNlUzHXtsMN8wkP7mnRb"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190213,
+      "name": "Bavaria",
+      "url": "https://open.spotify.com/track/0bOMuuNQqTAYtF66blkwUF"
+    },
+    {
+      "album": {
         "name": "Berceuse",
         "url": "https://open.spotify.com/album/71ey9Q6ZMIjIbkQV76nqIr"
       },
@@ -1742,6 +1764,32 @@
       "duration_ms": 184335,
       "name": "Berceuse",
       "url": "https://open.spotify.com/track/04JrzZqZTMeY5gRY3IH7Pr"
+    },
+    {
+      "album": {
+        "name": "Merci",
+        "url": "https://open.spotify.com/album/6elZDCjnrPGBvIVfdKYLDw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206346,
+      "name": "Berceuse, Op. 16",
+      "url": "https://open.spotify.com/track/4FwIwI5NGVUP4DrPwrweMz"
     },
     {
       "album": {
@@ -7441,6 +7489,28 @@
     },
     {
       "album": {
+        "name": "Mozart: Piano Concertos Nos. 20 & 23",
+        "url": "https://open.spotify.com/album/6qAcIqTkOUkMsJMgfdPlIF"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Khatia Buniatishvili",
+          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457373,
+      "name": "Mozart: Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": II. Andante",
+      "url": "https://open.spotify.com/track/2DjduzmigRUnQz3py7IL7y"
+    },
+    {
+      "album": {
         "name": "Muntenia",
         "url": "https://open.spotify.com/album/6eOzM7LMLD6lSSBRWAEGgV"
       },
@@ -10163,6 +10233,24 @@
     },
     {
       "album": {
+        "name": "Respiro 5",
+        "url": "https://open.spotify.com/album/34y2HYWG7ISiYQoa1hJU1W"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141041,
+      "name": "Respiro 5",
+      "url": "https://open.spotify.com/track/0j0HOYUKuufklmuzsyXdtA"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/0nO7IYnaHm7eNwNRULgLG4"
       },
@@ -10650,6 +10738,32 @@
       "duration_ms": 138840,
       "name": "Schwanenlied, Op. 1, No. 1 (Arr. for Violin and String Ensemble by Ellie Consta)",
       "url": "https://open.spotify.com/track/4CgtjECgiar206BXu4ad2k"
+    },
+    {
+      "album": {
+        "name": "Seek Ye First the Kingdom of God",
+        "url": "https://open.spotify.com/album/0AbC6txfANKbO9l3uGh2vj"
+      },
+      "artists": [
+        {
+          "name": "Kerensa Briggs",
+          "url": "https://open.spotify.com/artist/36QRQEhytT1w0kRiF3g27b"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Pembroke College Girls' Choir",
+          "url": "https://open.spotify.com/artist/4RjmJe64qNsx1mZ6rbEfdm"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Seek Ye First the Kingdom of God",
+      "url": "https://open.spotify.com/track/2JV6wz5dI1D0aAkqu0esS5"
     },
     {
       "album": {

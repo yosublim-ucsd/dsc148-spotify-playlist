@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-818 songs - 1 day 17 hr 8 min
+819 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-10-03 | 2024-10-22 |
 | [Din låt](https://open.spotify.com/track/3xPsqMJQNM14OrawTBiK4G) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Din låt](https://open.spotify.com/album/02kiu1rc2gbB4gAEtPWqi7) | 2:45 | 2022-07-21 | 2023-02-17 |
 | [DIRTY](https://open.spotify.com/track/2acI4LUjCjPuFk0Y05yVNZ) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [DIRTY](https://open.spotify.com/album/3YqGFGM11gO0iXhn5a2lo0) | 2:18 | 2022-08-16 | 2022-10-07 |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 |  |
 | [DISKOTEKA](https://open.spotify.com/track/16jNbcjTGEskPA06R4wbQz) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DISKOTEKA](https://open.spotify.com/album/6B3r8BialUCTnVf6o8D4yQ) | 2:12 | 2023-06-30 | 2023-10-13 |
 | [DIT ÄLVEN GÅR](https://open.spotify.com/track/1ngA3uuYGhKy42xrYEPnwQ) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DIT ÄLVEN GÅR](https://open.spotify.com/album/5NBLT9QoetVX0TuVnW2j85) | 2:34 | 2023-01-05 | 2023-02-25 |
 | [DNA](https://open.spotify.com/track/7HuBqX0G5mJTd8TEiPZ40K) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [DNA](https://open.spotify.com/album/45JiIIrnW41aiZrXvtKN8Q) | 2:11 | 2024-09-30 |  |

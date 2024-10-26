@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Gil Glze x Afrojack
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: CYRIL, maryjo
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,291 likes - 12 songs - 32 min 34 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,294 likes - 12 songs - 32 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 11 | [Taste Of Summer](https://open.spotify.com/track/3566cOSTCoQmPNTn9LbX6J) | [Calum Kieran](https://open.spotify.com/artist/2rbfvpGH3D4WogHpndteUF) | [Taste Of Summer](https://open.spotify.com/album/0NCqqYXAgNdHtFoPGrIDAl) | 3:06 |
 | 12 | [Somebody That I Used To Know](https://open.spotify.com/track/7l00IN1o5wQvd2GfWMbAYg) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE) | [Somebody That I Used To Know](https://open.spotify.com/album/0NRKmZUelQc3JcEO3ll7E1) | 1:59 |
 
-Snapshot ID: `AAAeUNnC76aGxvrdhiMRAhSuTckLkXNd`
+Snapshot ID: `AAAeUdw+hMdk7Ie0wrkYrrv14Jx4ElgG`

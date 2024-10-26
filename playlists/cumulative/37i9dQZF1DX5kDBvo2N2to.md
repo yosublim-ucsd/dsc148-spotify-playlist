@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-194 songs - 11 hr 13 min
+195 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Affären \(feat\. Dolce\)](https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T) | [Affären \(feat\. Dolce\)](https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE) | 3:45 | 2024-08-08 | 2024-10-15 |
 | [ALL OVER](https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh) | [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [ALL OVER](https://open.spotify.com/album/0ufEl4mTVplg46TrT5owzB) | 3:43 | 2024-06-28 | 2024-09-13 |
 | [Alltid för alltid](https://open.spotify.com/track/05NfDxkW5lY35zcEMyoaNQ) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Alltid för alltid](https://open.spotify.com/album/2dMsFd4EfIc2MagYvYlSQO) | 3:20 | 2024-06-28 | 2024-08-23 |
+| [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY) | 2:43 | 2024-10-24 |  |
 | [Apple Cider Vinaigrette](https://open.spotify.com/track/3iRtKEY6hu68Kdr9UCwIUq) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Apple Cider Vinaigrette](https://open.spotify.com/album/6zIR5NRoi7CFoSydwDIaQg) | 3:44 | 2024-08-29 |  |
 | [APTIT](https://open.spotify.com/track/7HXbBLF1gg7r5dD5rctWWU) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E) | [APTIT](https://open.spotify.com/album/29BlAmVIngHpaTayeRWCLm) | 2:48 | 2024-10-04 |  |
 | [Arena](https://open.spotify.com/track/7MxSe1IUsbfSTyoZ3Vwgm4) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Arena](https://open.spotify.com/album/7IfHAYECjJU9jzopGiOtSq) | 3:58 | 2024-06-28 | 2024-08-23 |
@@ -163,7 +164,7 @@
 | [Sjuk i Huvudet](https://open.spotify.com/track/74mqrObPeUlI7eOO1ZM9UE) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Sjuk i Huvudet – Paul Gascoigne](https://open.spotify.com/album/1cBXxeObgl62kfqZOH8oDq) | 4:30 | 2024-08-22 | 2024-10-06 |
 | [Smile Boy](https://open.spotify.com/track/686xawmVv1F1Ks5kJRkcVG) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Smile Boy](https://open.spotify.com/album/0GCPTSJvxI0pqUEuhOGSaS) | 2:24 | 2024-10-10 |  |
 | [Snow In The Summer](https://open.spotify.com/track/2u8jdrBjDG3VM7YbhTAJPo) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Snow In The Summer](https://open.spotify.com/album/46fIzNsQu0ZOjVXrH4rto9) | 2:49 | 2024-06-28 | 2024-08-16 |
-| [Sockerdricka](https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Sockerdricka](https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf) | 3:22 | 2024-06-28 |  |
+| [Sockerdricka](https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Sockerdricka](https://open.spotify.com/album/4OJ1YpiBv213DlnbVmYXYf) | 3:22 | 2024-06-28 | 2024-10-26 |
 | [Som En Sol](https://open.spotify.com/track/56oeHpuKnpG3U8UEkj2T8n) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Som En Sol](https://open.spotify.com/album/7pMPAhJVAfJ1JedHFanzs7) | 2:55 | 2024-06-28 | 2024-10-05 |
 | [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-19 |  |
 | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/track/1kuPgsWuwfNVHTPDBGMMj4) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Someone Was Listening \(from Life is Strange\)](https://open.spotify.com/album/7eapnSI86vtEKZ29h20hn3) | 2:57 | 2024-09-19 |  |

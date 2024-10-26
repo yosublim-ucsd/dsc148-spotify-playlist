@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India\. Cover: MC INSANE
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,927 likes - 66 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,941 likes - 66 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 4 | [O Humsafar](https://open.spotify.com/track/2QAbLPGThtJVGZFasRWmbm) | [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq), [10A](https://open.spotify.com/artist/1qAdkJbLIPX8QCtNh6EJMh) | [O Humsafar](https://open.spotify.com/album/7G88kqMIp0jLZIImOSVnr3) | 2:52 |
 | 5 | [Kill Swtich \- Red Bull 64 Bars](https://open.spotify.com/track/3usJRla4JZx3Rz3EcNxejQ) | [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [Parimal Shais](https://open.spotify.com/artist/2epRpDIZDqjmxSyysULdTQ) | [Kill Swtich \(Red Bull 64 Bars\)](https://open.spotify.com/album/3F8OrOkV7hYTj95UkCGurw) | 3:03 |
 | 6 | [Flex](https://open.spotify.com/track/1uLxPLyCN67HcQwaPrabTj) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Flex](https://open.spotify.com/album/4LY72uiyZBD0JYyOhXjPod) | 3:06 |
-| 7 | [Khalbatta](https://open.spotify.com/track/3EMybAtAI2DHrC3q5gbirv) | [Dharmik](https://open.spotify.com/artist/0E5j6QCeqKh6nHsqPbpMEj), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [MTV Hustle 4](https://open.spotify.com/album/2DGTc8yczBepw1NDMsaX3V) | 2:55 |
+| 7 | [Khalbatta](https://open.spotify.com/track/3EMybAtAI2DHrC3q5gbirv) | [Dharmik](https://open.spotify.com/artist/7xIBJwhw1vA6jhGKfDRhI7), [Aditya Pushkarna](https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs) | [MTV Hustle 4](https://open.spotify.com/album/2DGTc8yczBepw1NDMsaX3V) | 2:55 |
 | 8 | [Yaarmade](https://open.spotify.com/track/0yei26BkNWAtANnaU6s9Qw) | [Bhambi2fly](https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2), [Glixzy](https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y) | [Yaarmade](https://open.spotify.com/album/31AQG8SjpxC4gj5zRbodH2) | 2:41 |
 | 9 | [Aisa Hi Hoon](https://open.spotify.com/track/38dTxibku1USYEVV2Ol2eP) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [Not Your Type](https://open.spotify.com/album/0UU4x2ZKCVFhVPapt8Itnh) | 2:54 |
 | 10 | [DIVINE VIOLENCE](https://open.spotify.com/track/0SXvbmKCpSVYaUCbeDVfyK) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5) | [DIVINE VIOLENCE](https://open.spotify.com/album/4M4Xtek80cIOsvFYA1XqED) | 4:32 |

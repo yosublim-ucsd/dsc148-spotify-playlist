@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: CLARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,109 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,093 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 31 | [il tuo posto nel mondo](https://open.spotify.com/track/6Bkk58VWPVoPMxBG7VFS49) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [il tuo posto nel mondo](https://open.spotify.com/album/3wIz0ZCssynXC1vsYCuqGj) | 3:03 |
 | 32 | [PER UN ATTIMO CON TE](https://open.spotify.com/track/3sJ2hrFBrN63flykM0tmcI) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [illumina](https://open.spotify.com/album/6C4Z55VD6HIrw3xJoskfoa) | 2:36 |
 | 33 | [sottosopra \(feat\. bnkr44\)](https://open.spotify.com/track/5Oz7PhqmcrSXA3Ngn6cHbB) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [tutti i colori del buio](https://open.spotify.com/album/25q60nNytACtJUStVbphJX) | 2:33 |
-| 34 | [Vabbè ciao](https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Non so chi ha creato il mondo ma so che era innamorato](https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl) | 2:40 |
+| 34 | [vabbè ciao](https://open.spotify.com/track/3UMayUk8vyZ76MAkKmxiYG) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Non so chi ha creato il mondo ma so che era innamorato](https://open.spotify.com/album/5I60YSIaGjXDuR7TOIiHgl) | 2:40 |
 | 35 | [Sentimento](https://open.spotify.com/track/1kbUzNEAHMVWQK72yIfc2L) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Sentimento](https://open.spotify.com/album/1P8HvVas5w5Df8pjYLVEq7) | 2:24 |
 | 36 | [Una fase](https://open.spotify.com/track/3cx6WNePky0DkyWnso8tCS) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [Una fase](https://open.spotify.com/album/6gRaz8q7utNeDbozQ2sPwy) | 2:25 |
 | 37 | [Devastante](https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Devastante](https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n) | 3:10 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 28310,
+  "num_followers": 28321,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Sujeto a Espacio",
-      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Solo por Hoy",
         "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 210566,
       "name": "Solo por Hoy",
       "url": "https://open.spotify.com/track/1oc52lK8E79KL18Uj3TfBn"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Sujeto a Espacio",
+      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Melod\u00edas",
-        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
-      },
-      "artists": [
-        {
-          "name": "Monoson",
-          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
-        }
-      ],
-      "duration_ms": 185312,
-      "name": "Melod\u00edas",
-      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
       },
@@ -1271,22 +1255,34 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Twice",
-        "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
+        "name": "Melod\u00edas",
+        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
       },
       "artists": [
         {
-          "name": "Willy Crook",
-          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
-        },
-        {
-          "name": "Funky Torinos",
-          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
+          "name": "Monoson",
+          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
         }
       ],
-      "duration_ms": 216249,
-      "name": "Twice",
-      "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
+      "duration_ms": 185312,
+      "name": "Melod\u00edas",
+      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1307,6 +1303,26 @@
       "duration_ms": 239387,
       "name": "7 Am",
       "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Twice",
+        "url": "https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527"
+      },
+      "artists": [
+        {
+          "name": "Willy Crook",
+          "url": "https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD"
+        },
+        {
+          "name": "Funky Torinos",
+          "url": "https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Twice",
+      "url": "https://open.spotify.com/track/3VKdesoESiJOCohefJctj3"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1343,22 +1359,6 @@
       "duration_ms": 206142,
       "name": "Ando Buscando",
       "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2024-08-26 13:43:56",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Chancharlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,688 likes - 261 songs - 14 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,690 likes - 261 songs - 14 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [再生（さいせい\)](https://open.spotify.com/track/7D4NuigCRr7dBE9heLqCIm) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T), [Adam Tam 譚錫森](https://open.spotify.com/artist/6RTIGnnOnumTih2hk3J5AP), [Chapman So](https://open.spotify.com/artist/1RYOg5eNGb7uQ20abLSYCT) | [再生（さいせい\)](https://open.spotify.com/album/2Qwud3TOxcceB7wCL2m6Pq) | 2:51 |
-| 2 | [Time](https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Time](https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ) | 3:23 |
+| 2 | [TIME](https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [TIME](https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ) | 3:23 |
 | 3 | [Breakfast in the Evening](https://open.spotify.com/track/5wi64FikIsy2AEYxPi1iVG) | [Timfaye](https://open.spotify.com/artist/7nQa2cROizYQz5dNBypXNt) | [Turquoise Sound](https://open.spotify.com/album/3aLgh9usUu2tV6u23uNTrb) | 3:42 |
 | 4 | [500 Miles](https://open.spotify.com/track/1yGg4Swkmx2I3DyVYXW0Um) | [erdocia](https://open.spotify.com/artist/5nEL3amopJEqKSotD0JukX) | [500 Miles](https://open.spotify.com/album/3pSt48Sx9HnDUNkJv17bBs) | 3:01 |
 | 5 | [HAOHAO \(feat\. Le Shing\)](https://open.spotify.com/track/6xkeCy6M6G2CkTdIdHisD4) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71), [Le Shing](https://open.spotify.com/artist/3pD1EyHbEmPbGXMiLgpda2) | [HAOHAO \(feat\. Le Shing\)](https://open.spotify.com/album/6qlxx3zu7o00Gp34g1l9o6) | 2:59 |

@@ -4,32 +4,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,582 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,608 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
-| 2 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 |
-| 3 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 |
-| 4 | [Funeral](https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2) | 3:54 |
-| 5 | [What a Day](https://open.spotify.com/track/5jDqkwSr9E0HWUasKwxFyh) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [What a Day](https://open.spotify.com/album/1ugtQU3rTTss14ky8S4TVU) | 3:18 |
-| 6 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 |
-| 7 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 |
-| 8 | [Julia](https://open.spotify.com/track/5HlY9oA9hjyBz3wnHiB643) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Julia](https://open.spotify.com/album/1X860wRKiP3e9cJmVhHV8K) | 3:31 |
-| 9 | [Bass Player's Brother](https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Bass Player's Brother](https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg) | 3:06 |
-| 10 | [Waiting On A Blue Sky](https://open.spotify.com/track/3uINSMhXxGQVBNOQJjxEZZ) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Waiting On A Blue Sky](https://open.spotify.com/album/2SL0oVqyBwYCJ2rY51pLGf) | 4:15 |
-| 11 | [Roots](https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots](https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2) | 2:43 |
-| 12 | [New Town Crier](https://open.spotify.com/track/7jKx10iRMLEzxVVmtd4nlD) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Betcha Can't Wait / New Town Crier](https://open.spotify.com/album/2GKiOOt53Djb470e8sRpQ2) | 2:24 |
-| 13 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 |
-| 14 | [Baby Blue](https://open.spotify.com/track/74GoxOdXs5RbnT3XJPTvW2) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [LONESTAR](https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp) | 3:58 |
-| 15 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 |
-| 16 | [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 |
-| 17 | [I Get High](https://open.spotify.com/track/3nhu3q5V1VLVNm9fjGRRjU) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Get High](https://open.spotify.com/album/7EqCyZU3Fuv6tHAZ84JGTG) | 4:20 |
-| 18 | [WOW!](https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [WOW!](https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG) | 2:52 |
-| 19 | [pick me up](https://open.spotify.com/track/3gWtBd5U14O4JyRqte3ijm) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [pick me up](https://open.spotify.com/album/0UAsFgBzXsHBT8ovfLnYzr) | 2:46 |
-| 20 | [Carry The World](https://open.spotify.com/track/47aYMkfVuokvbMWL8bxOd1) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Something Beautiful](https://open.spotify.com/album/0NiM7JW25zZ3mhQ8NPNGvF) | 3:26 |
-| 21 | [Zodiac](https://open.spotify.com/track/5IsJtIM3On4BNkSujt4A2c) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/12XZSKFp45paJp1t0faWg3) | 3:13 |
-| 22 | [Stick Season](https://open.spotify.com/track/0OYbLYm5m3CgPfsKjF4z1X) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Stick Season](https://open.spotify.com/album/4oItNqo0uuq2OFUGEd83Si) | 3:00 |
+| 1 | [Mom's Old Car](https://open.spotify.com/track/4OoGBECsRiNqfP6XgtxoNK) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Mom's Old Car](https://open.spotify.com/album/11UV295lkcoaOoyLUDks8a) | 2:40 |
+| 2 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
+| 3 | [Melrose](https://open.spotify.com/track/6yaIAV2KtoXufowCjrbxmP) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Melrose](https://open.spotify.com/album/4c4dsFrjHca8YKm1JOVVkY) | 2:28 |
+| 4 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 |
+| 5 | [Funeral](https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Funeral](https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2) | 3:54 |
+| 6 | [What a Day](https://open.spotify.com/track/5jDqkwSr9E0HWUasKwxFyh) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [What a Day](https://open.spotify.com/album/1ugtQU3rTTss14ky8S4TVU) | 3:18 |
+| 7 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 |
+| 8 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 |
+| 9 | [Julia](https://open.spotify.com/track/5HlY9oA9hjyBz3wnHiB643) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Julia](https://open.spotify.com/album/1X860wRKiP3e9cJmVhHV8K) | 3:31 |
+| 10 | [Bass Player's Brother](https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Bass Player's Brother](https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg) | 3:06 |
+| 11 | [Waiting On A Blue Sky](https://open.spotify.com/track/3uINSMhXxGQVBNOQJjxEZZ) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Waiting On A Blue Sky](https://open.spotify.com/album/2SL0oVqyBwYCJ2rY51pLGf) | 4:15 |
+| 12 | [Roots](https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots](https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2) | 2:43 |
+| 13 | [New Town Crier](https://open.spotify.com/track/7jKx10iRMLEzxVVmtd4nlD) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Betcha Can't Wait / New Town Crier](https://open.spotify.com/album/2GKiOOt53Djb470e8sRpQ2) | 2:24 |
+| 14 | [lightweight](https://open.spotify.com/track/0hbOKM2gJExRioO5S6CtuZ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [lightweight](https://open.spotify.com/album/0TmWjkgmqNJGXVPwRVMivO) | 3:47 |
+| 15 | [Baby Blue](https://open.spotify.com/track/74GoxOdXs5RbnT3XJPTvW2) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [LONESTAR](https://open.spotify.com/album/2Hy2x2nzEYia4yoSfmF7Cp) | 3:58 |
+| 16 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 |
+| 17 | [All Life Long](https://open.spotify.com/track/3WEN5hlpjc09yo0J6IuQBE) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [All Life Long](https://open.spotify.com/album/0unji0xUcEGgNFyokzF5p5) | 3:19 |
+| 18 | [I Get High](https://open.spotify.com/track/3nhu3q5V1VLVNm9fjGRRjU) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Get High](https://open.spotify.com/album/7EqCyZU3Fuv6tHAZ84JGTG) | 4:20 |
+| 19 | [WOW!](https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [WOW!](https://open.spotify.com/album/36z6FDQ2tT2GTIoFSPeplG) | 2:52 |
+| 20 | [pick me up](https://open.spotify.com/track/3gWtBd5U14O4JyRqte3ijm) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [pick me up](https://open.spotify.com/album/0UAsFgBzXsHBT8ovfLnYzr) | 2:46 |
+| 21 | [Carry The World](https://open.spotify.com/track/47aYMkfVuokvbMWL8bxOd1) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Something Beautiful](https://open.spotify.com/album/0NiM7JW25zZ3mhQ8NPNGvF) | 3:26 |
+| 22 | [Zodiac](https://open.spotify.com/track/5IsJtIM3On4BNkSujt4A2c) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/12XZSKFp45paJp1t0faWg3) | 3:13 |
 | 23 | [Who's Sorry Now?](https://open.spotify.com/track/1cRYcgHyaO0lSdECO03bpN) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Who's Sorry Now?](https://open.spotify.com/album/30ITLZsbriTj333z6Ym0YA) | 3:36 |
 | 24 | [Kids](https://open.spotify.com/track/6WXjSSZztubZ65hoMqhhyA) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Kids](https://open.spotify.com/album/0G4cgwbt1mLgThWFPOTZ7v) | 2:58 |
 | 25 | [Easily Attached](https://open.spotify.com/track/6iCBhX692UZkJO5QmBVsO2) | [Vicki Vox](https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ) | [Easily Attached](https://open.spotify.com/album/5PYCFghdanTafjBofKGTge) | 3:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [Feel Good Too](https://open.spotify.com/track/5QeYUoI9ApfeOVaKhfR4Xg) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/677FkdKRzdnB8tITwciUNP) | 3:59 |
 | 75 | [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 |
 
-Snapshot ID: `ZwiiwAAAAABjhB2NFdvsbiF3b71qdszY`
+Snapshot ID: `ZxsXwAAAAABMg2zZEoiI7TaENa/bqvNG`

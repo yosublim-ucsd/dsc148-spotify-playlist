@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-257 songs - 13 hr 15 min
+259 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Crazy Love \- Acoustic](https://open.spotify.com/track/5OnYymymXaoxjTEEOjqcae) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Crazy Love \(Acoustic\)](https://open.spotify.com/album/7hKQ20375hBvYSKqoLpjG4) | 3:07 | 2022-09-03 | 2023-01-28 |
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2019-10-13 |  |
 | [Dance The Night \- Acoustic](https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4) | [Phil Halo](https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Dance The Night](https://open.spotify.com/album/2LBVTDsPoquLbnLRmwKlMS) | 2:52 | 2023-08-24 |  |
+| [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/4dudhJneNjXsJDyCxmObVB) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/3zbMIvyACUAWcf702wwZQu) | 2:32 | 2024-10-25 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/15ITqJqQ7f3EW9HmSQnzR4) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/0ldEDXECSxV2KJrwScStqq) | 2:59 | 2021-10-01 | 2023-12-14 |
 | [Dancing Queen \- Acoustic](https://open.spotify.com/track/4PGaZTakItG48FENLQhDyv) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Dancing Queen \(Acoustic\)](https://open.spotify.com/album/70EnDLWEFJv2HyqaFuxlCt) | 2:23 | 2024-10-04 |  |
 | [Daydream Believer \- Acoustic](https://open.spotify.com/track/2tq6QHha0InhddKVEbfHiy) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Daydream Believer \(Acoustic\)](https://open.spotify.com/album/3qwvjINzC7FN11ZRxVwmsE) | 2:13 | 2023-03-17 | 2024-03-04 |
@@ -104,6 +105,7 @@
 | [I Say a Little Prayer \- Acoustic](https://open.spotify.com/track/2WEkCMNRYPjbd2FLgPGF9X) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [I Say a Little Prayer \(Acoustic\)](https://open.spotify.com/album/2i4NA7UAPKB98sVypxJJr8) | 2:06 | 2022-09-09 | 2023-01-07 |
 | [I Still Haven't Found What I'm Looking For \- Acoustic](https://open.spotify.com/track/3KPKbWGJqITz5JFBl4JBQY) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [I Still Haven't Found What I'm Looking For \(Acoustic\)](https://open.spotify.com/album/7aa9VyWjwogK3jCEe4eTuB) | 2:54 | 2021-04-23 |  |
 | [I Wanna Dance with Somebody \(Who Loves Me\) \- Acoustic](https://open.spotify.com/track/2q4qvzWZIaad6OC7H7Mp8Q) | [Beth](https://open.spotify.com/artist/0Tazr7cok0ZIzVWH27sqeY) | [I Wanna Dance with Somebody \(Who Loves Me\) \[Acoustic\]](https://open.spotify.com/album/0MctNxUvJxux2M8sJC1zFG) | 3:12 | 2023-05-29 |  |
+| [I Wanna Dance With Somebody \(Who Loves Me\) \- Acoustic](https://open.spotify.com/track/5BPcAEFOIZjBaTiP8GIRkj) | [The Canyon Run](https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ) | [I Wanna Dance With Somebody \(Who Loves Me\) \[Acoustic\]](https://open.spotify.com/album/3PCCXJrYq6E86Nm0XzbK6N) | 2:49 | 2024-10-25 |  |
 | [I Want You Back \- Acoustic](https://open.spotify.com/track/1k26xiw242De5t5AgWjC5o) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [I Want You Back \(Acoustic\)](https://open.spotify.com/album/5c7gMpATd9TRWI9SRzslXD) | 2:25 | 2021-05-21 | 2022-07-16 |
 | [I'd Do Anything for Love \(But I Won't Do That\) \- Acoustic](https://open.spotify.com/track/7n4gOElu13vwVqhmvTXgZR) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [I'd Do Anything for Love \(But I Won't Do That\) \[Acoustic\]](https://open.spotify.com/album/3DQV1dLirs2pkNxp9brWjY) | 2:58 | 2024-02-09 | 2024-05-28 |
 | [I'll Be There For You \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Spotify Singles](https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz) | 2:48 | 2019-10-13 |  |
@@ -130,7 +132,7 @@
 | [Just the Way You Are \- Acoustic](https://open.spotify.com/track/6gTiRT3y1IM6hViup2a2zv) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Just the Way You Are \(Acoustic\)](https://open.spotify.com/album/2eKuycoVymgIY5ZOnYS0nW) | 3:26 | 2022-07-15 | 2022-09-10 |
 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 | 2020-04-27 |  |
 | [Kid](https://open.spotify.com/track/5OxjeimztVQLHaykllrWsF) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Kid](https://open.spotify.com/album/5I30hAPHeyTJHhdtLiY5dK) | 3:31 | 2022-09-23 | 2023-01-04 |
-| [Kiss Me \- Acoustic](https://open.spotify.com/track/6HdffpL3hV8rY8Z4OkQbMH) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Kiss Me \(Acoustic\)](https://open.spotify.com/album/7LKx9ZvhM5rhoGh6UMjrrR) | 2:15 | 2024-09-06 |  |
+| [Kiss Me \- Acoustic](https://open.spotify.com/track/6HdffpL3hV8rY8Z4OkQbMH) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Kiss Me \(Acoustic\)](https://open.spotify.com/album/7LKx9ZvhM5rhoGh6UMjrrR) | 2:15 | 2024-09-06 | 2024-10-26 |
 | [L\-O\-V\-E \- Acoustic](https://open.spotify.com/track/7y3BUNpjfXA2QHu2Ze7Ua4) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [L\-O\-V\-E \(Acoustic\)](https://open.spotify.com/album/6d70Le6UzZLbSxN51AXxET) | 2:45 | 2022-04-10 | 2024-07-27 |
 | [Landslide \- Acoustic](https://open.spotify.com/track/2nQkeT1jUvlpL7bTfHQ3kt) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Reid Zingale](https://open.spotify.com/artist/1ZjNNCAZ7gtZIVmLiCvKoq) | [Landslide \(Acoustic\)](https://open.spotify.com/album/6T983j5MMR8IYWzKHWyDaU) | 3:24 | 2023-12-15 |  |
 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 | 2019-10-13 |  |

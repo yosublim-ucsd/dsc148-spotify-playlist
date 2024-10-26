@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 21,830 likes - 62 songs - 3 hr 28 min
+[margeaux](https://open.spotify.com/user/1220511975) - 21,830 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 60 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 61 | [She Is Staggering](https://open.spotify.com/track/6hFaRjM7c0QizkgMkZsdwg) | [Polaris](https://open.spotify.com/artist/1ZOKm4ZfrMPjTynDt99aCp) | [Music From The Adventures Of Pete & Pete](https://open.spotify.com/album/1cqCEa8ldM7nwcEINzz8MA) | 3:08 |
 | 62 | [B](https://open.spotify.com/track/7t1FUkqJRdQdNrkjwfhq2H) | [Lync](https://open.spotify.com/artist/31fnC8wbw2ZBITgOp6KKoY) | [These Are Not Fall Colors](https://open.spotify.com/album/3Is1zxmfs8xXPL8QnB27kd) | 4:30 |
+| 63 | [getting to know each other](https://open.spotify.com/track/5u9enQ4xSQ6qqYako0x73k) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [piano1](https://open.spotify.com/album/6vzLvVkKjaoe4LXQQULCFG) | 3:25 |
+| 64 | [400 & 57](https://open.spotify.com/track/1KlSberDtUJKrXQsEujQr3) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [In Solarium](https://open.spotify.com/album/13ZC7qriL0nNYB04lK4CXB) | 3:56 |
+| 65 | [I Won't Share You \- 2011 Remaster](https://open.spotify.com/track/3kLE2Jsxeb3W2bhx82bPlb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:53 |
 
-Snapshot ID: `AAALPYQf1QOQ1qFGFk/t+oPlAREO+rbP`
+Snapshot ID: `AAALQHubJtgKK/xxbtNIuHRrgAFFL7/u`

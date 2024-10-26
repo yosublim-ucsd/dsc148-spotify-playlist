@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Barro",
+        "url": "https://open.spotify.com/album/5dK03A4u8rzbG1XcMYCxbF"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201052,
+      "name": "Barro",
+      "url": "https://open.spotify.com/track/7k59eQ9b5KXWUNQIMrA7nI"
+    },
+    {
+      "album": {
         "name": "BBY BOO (REMIX)",
         "url": "https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9"
       },
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 185866,
       "name": "Ese Maldito Momento",
       "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
@@ -3800,6 +3818,24 @@
       "duration_ms": 151224,
       "name": "Tal Para Cual",
       "url": "https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P"
+    },
+    {
+      "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139546,
+      "name": "TAMBI\u00c9N",
+      "url": "https://open.spotify.com/track/39Pc4a04VgCtcc7m0XKi9M"
     },
     {
       "album": {

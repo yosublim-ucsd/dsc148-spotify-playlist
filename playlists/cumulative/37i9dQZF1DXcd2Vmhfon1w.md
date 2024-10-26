@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Feat\. GRECAS
 
-440 songs - 23 hr 18 min
+441 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Mi Pasión](https://open.spotify.com/track/7z83prCfE5AYgJpO1hei2r) | [Shé](https://open.spotify.com/artist/5GdP5J5VnVvhY0HzsYMcUK) | [Mi Pasión](https://open.spotify.com/album/2ugsYHc8s3NecntoBiYJV3) | 6:19 | 2024-08-22 | 2024-09-21 |
 | [Mientras Dormías](https://open.spotify.com/track/1UJ80JhXQbfoSLaCRn3hyX) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Mientras Dormías](https://open.spotify.com/album/2x4O1oHgHW91hFrLZQQmHh) | 2:15 | 2024-05-30 | 2024-06-21 |
 | [Mirar a la cara](https://open.spotify.com/track/3X7yS0k9ZBVpjuwY5CiJ17) | [Luisaker](https://open.spotify.com/artist/6qHDnHoUlA5AhDNg7AHRS9), [Vnder](https://open.spotify.com/artist/0PRBVwG0LpcKJzvrP5oNRb) | [Mirar a la cara](https://open.spotify.com/album/4n6REehVyybXIG1R0LOOs7) | 3:23 | 2024-08-29 | 2024-09-21 |
+| [Mirá de gitano](https://open.spotify.com/track/2iokKPxwFFQZzmPYBdFpWp) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Mirá de gitano](https://open.spotify.com/album/2FeOQlrytbf73Pw5L3HMc0) | 3:03 | 2024-10-25 |  |
 | [Mizeria](https://open.spotify.com/track/2oU4Rsk2CXffpS7w6Ou2KA) | [Moneo](https://open.spotify.com/artist/6K6iokRdBoOaZiItaX6bYJ), [CscBeats](https://open.spotify.com/artist/3WCcltmiulGQlH4YQU63Gx) | [Mizeria](https://open.spotify.com/album/5p8VxQ343DXSUcYwjQVd9J) | 2:55 | 2024-02-01 | 2024-02-10 |
 | [Mockingbird \- Versión Español](https://open.spotify.com/track/2H6tvEKLXP8zpWIKLmVsOU) | [Baron850](https://open.spotify.com/artist/6jn4kwWoGcse0oLvh6owYe) | [Mockingbird \(Versión Español\)](https://open.spotify.com/album/41YotURsygnEWLqPew3bcq) | 2:33 | 2024-02-15 | 2024-03-15 |
 | [Modo Abuso](https://open.spotify.com/track/5K5Pu8XivpLcXjrkvJhl0z) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [EL NIÑO DE LA PENA](https://open.spotify.com/artist/3ZpK1P7BobQwh3KF47HHoh), [Heiss](https://open.spotify.com/artist/0daOLoNu2PsJMuYnjkcBmB) | [Modo Abuso](https://open.spotify.com/album/43V9JJGZFP0eVV9IxEOQIG) | 3:15 | 2022-08-04 | 2022-08-24 |
@@ -345,7 +346,7 @@
 | [Reproches](https://open.spotify.com/track/3L6RhaS4ISh8GSagrFMFZn) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Reproches](https://open.spotify.com/album/1rGEWKEdDvDx5Ij1oxpRfs) | 4:33 | 2022-01-21 | 2022-07-29 |
 | [Reproches](https://open.spotify.com/track/7aKXQCV7TaA56bnhXTxJFn) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Reproches](https://open.spotify.com/album/2z4I2HXUaqMlxprZfXJ0qe) | 4:33 | 2022-07-19 | 2024-01-26 |
 | [RIP MICKEY](https://open.spotify.com/track/64Q13bF5Dj394cXDB8DyOc) | [Foyone](https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ) | [DEMONI](https://open.spotify.com/album/579QwAdy8vNKS8oA9saZNt) | 1:42 | 2024-04-04 | 2024-04-19 |
-| [ROMA NORTE](https://open.spotify.com/track/4ojrMON5VcUgxXn8bV0Zsp) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [ROMA NORTE](https://open.spotify.com/album/7i1PRyXfcECE6FCHp3F7ty) | 2:00 | 2024-10-10 |  |
+| [ROMA NORTE](https://open.spotify.com/track/4ojrMON5VcUgxXn8bV0Zsp) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [ROMA NORTE](https://open.spotify.com/album/7i1PRyXfcECE6FCHp3F7ty) | 2:00 | 2024-10-10 | 2024-10-26 |
 | [ROMPIENDO](https://open.spotify.com/track/06XmalfqLgTcs0OstkWns2) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [UN MUNDO RARO](https://open.spotify.com/album/7BZQDrxpHZjSZUtlbOiYwZ) | 3:37 | 2024-05-23 | 2024-06-14 |
 | [RUIDO](https://open.spotify.com/track/1k8dEIK2NDebaHUiyq3Qt5) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [RUIDO](https://open.spotify.com/album/5gIf9EL4XI9VG1hgXhyGyd) | 3:07 | 2023-06-07 | 2023-06-27 |
 | [RUMBO FIJO](https://open.spotify.com/track/6JPGgqIeR3ik9PCXcXvDBX) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [RUMBO FIJO](https://open.spotify.com/album/4qgJlMrpjvxhP3wE7dCb0r) | 3:09 | 2023-11-30 | 2024-09-27 |

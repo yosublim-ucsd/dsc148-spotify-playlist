@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion en good vibes\. Cover: Noano & Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,273 likes - 70 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,346 likes - 70 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 13 | [DEGENERE 👑 \(feat\. benny blanco\)](https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [LA PANTERA NEGRA \(DELUXE\)](https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H) | 2:10 |
 | 14 | [JUDGEN](https://open.spotify.com/track/5CDn4HpxWhnesTPiDe1YS4) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [JUDGEN](https://open.spotify.com/album/7gxl8zmvNachXge4toNN0e) | 2:50 |
 | 15 | [Vrijgezel](https://open.spotify.com/track/51C9ZDKG7RG8QIeQoCf6we) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [FRNKIE](https://open.spotify.com/artist/6gVw7sj444868peBFpH0O4) | [Koude Kermis](https://open.spotify.com/album/2UZ05NpzJ76d06VBQrKWtv) | 2:19 |
-| 16 | [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 |
+| 16 | [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [LA MAIN SUR LE COEUR](https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 |
 | 17 | [Stamina](https://open.spotify.com/track/77NNLReuj9fe6hcz0oQRPW) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Stamina](https://open.spotify.com/album/39STTwg1P4mOGRrVGCXNwV) | 2:13 |
 | 18 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 |
 | 19 | [Love Me Better \(feat\. Bryan Mg & Yxng Le\)](https://open.spotify.com/track/6oemkwkH1TuovY7ZPGkDK5) | [Valentino Ignoto](https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa) | [Love Me Better \(feat\. Bryan Mg & Yxng Le\)](https://open.spotify.com/album/0eL7As8XuI2ao7ILlQaTiP) | 2:31 |

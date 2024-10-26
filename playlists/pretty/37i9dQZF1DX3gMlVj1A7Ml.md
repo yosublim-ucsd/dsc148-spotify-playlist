@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă  la volum maxim vocile feminine din România\.  Cover: Alexandra Stan
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,847 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,846 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ocean](https://open.spotify.com/track/7KhsMhVHzTgOkkmOQhqkfp) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Ocean](https://open.spotify.com/album/7a1MHZhCaZ4EiEeR4rTQsl) | 2:52 |
+| 1 | [Energia ta](https://open.spotify.com/track/12lADUOFdAtvQw9io0tYbH) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Energia ta](https://open.spotify.com/album/4jCNgztTaJLqgCW0K5TEVe) | 3:08 |
 | 2 | [RiTiTi](https://open.spotify.com/track/1sHlpmqRbbLSufAKcyPYVl) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [RiTiTi](https://open.spotify.com/album/1qlv95s2d9lUHn2E4X7Uzm) | 2:19 |
 | 3 | [Flashbacks \- Spotify Singles](https://open.spotify.com/track/73SQt1Bwp4BzPnUrsg7CrH) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Spotify Singles](https://open.spotify.com/album/0WbsQdXEUVIjUWwJcaWkHE) | 2:07 |
 | 4 | [Încă Ne Iubim](https://open.spotify.com/track/2Bl23cSczNlRSRJUkCLBqy) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [Încă Ne Iubim](https://open.spotify.com/album/4DEzKPDY8wGsp1topuKhUi) | 2:55 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 48 | [Număr Ascuns](https://open.spotify.com/track/10XrbvdxmCjP1zpZHigxAy) | [Edine](https://open.spotify.com/artist/69liRSrij8eMDTX2fKbICm) | [Număr Ascuns](https://open.spotify.com/album/1eXS1CYAvYYLtxfJV38Q13) | 2:34 |
 | 49 | [Teri Meri](https://open.spotify.com/track/5c1IuP7XMCFBqV2xYa4cxi) | [Andreea Bostanica](https://open.spotify.com/artist/35or7yOg8P9nPNTWH4tXyQ) | [Teri Meri](https://open.spotify.com/album/5epSsXW1e3AZOBkyISHxjd) | 2:34 |
 
-Snapshot ID: `Zv2TwwAAAAA9FOB2Ys7RkOmN0Kf9gd9b`
+Snapshot ID: `ZxtcegAAAADejHfQjzBm9lqBeqSWS9ym`

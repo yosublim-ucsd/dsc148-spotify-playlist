@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-736 songs - 2 day 0 hr 17 min
+738 songs - 2 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [VOLTAGE](https://open.spotify.com/track/1ochPJNz2afOUWuFKm18zm) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [VOLTAGE](https://open.spotify.com/album/3z5JK4QaE9LvXveYO5q695) | 3:49 | 2022-06-14 | 2022-06-27 |
 | [Wake Up, Get Up, Get Out There](https://open.spotify.com/track/4AuZBIN4aeFL9egQldQfRn) | [Lyn](https://open.spotify.com/artist/5qEtLvXzYdv0G7c7rR6irX) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 4:37 | 2022-09-15 | 2024-04-08 |
 | [WALK \- movie ver.](https://open.spotify.com/track/41YivtJd2tb1jb7IejdQYn) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [夏の夢/WALK](https://open.spotify.com/album/03sgjxuA0soDPpj5Kzf2e1) | 3:44 | 2022-07-26 | 2022-07-29 |
-| [Watch Me](https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x) | [天乃リリサ\(CV: 前田佳織里\)](https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz), [橘 美花莉\(CV: 鬼頭明里\)](https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J) | [Watch Me](https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1) | 3:27 | 2024-10-15 |  |
+| [Watch Me](https://open.spotify.com/track/38FcQO2ta2pScW2sriQI2x) | [天乃リリサ\(CV: 前田佳織里\)](https://open.spotify.com/artist/45jvvs4IN2pZgwFeg8fFYz), [橘 美花莉\(CV: 鬼頭明里\)](https://open.spotify.com/artist/641mK2fFkWZEWGCG6iWh2J) | [Watch Me](https://open.spotify.com/album/6L3pgqAZQFAxGGmpVsoQR1) | 3:27 | 2024-10-15 | 2024-10-26 |
 | [We'll Be Alright \(Movie Edit\)](https://open.spotify.com/track/4toGhOrpjQfweDT9flB5iq) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Weathering With You](https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q) | 4:18 | 2022-06-14 | 2022-07-14 |
 | [Whatever Happens](https://open.spotify.com/track/43gyzi5Iyfaz6OqzxhJhkK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Whatever Happens](https://open.spotify.com/album/07x7srlQ4mrF6rGSs9yPdd) | 3:09 | 2024-06-25 | 2024-06-27 |
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-04-12 | 2024-04-11 |
@@ -451,6 +451,7 @@
 | [カルペ・ディエム](https://open.spotify.com/track/2MtalMSV45ThxAF7l3kRgD) | [Liyuu](https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn) | [カルペ・ディエム](https://open.spotify.com/album/2hIcpoR1ZgRW0RJfSOK3MB) | 3:29 | 2022-06-24 | 2022-07-25 |
 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 | 2022-06-03 | 2024-03-13 |
 | [カワキヲアメク](https://open.spotify.com/track/3kUWZiVYJ4YQOl0u7Y1Og8) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/6R5yCaIbIwK9IQJErCb0FV) | 4:11 | 2024-01-25 | 2024-04-19 |
+| [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-10-25 |  |
 | [ガムシャラ](https://open.spotify.com/track/3D9yweVjHsSyfINp2Kbyx8) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ガムシャラ](https://open.spotify.com/album/5xSqBRiOF07Ho37CzrdxoS) | 3:17 | 2022-06-03 | 2024-10-12 |
 | [キズアトがキズナとなる](https://open.spotify.com/track/5ySFq8N2HUO45hM7Z2lzOO) | [Hypnosis Mic \-D.R.B.\- \(Fling Posse\)](https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99) | [キズアトがキズナとなる](https://open.spotify.com/album/4OUkSxmENUJXnvqtyrsMkB) | 4:11 | 2022-06-24 | 2022-07-05 |
 | [キミがいたしるし](https://open.spotify.com/track/1sjGycrfx7Fru2aezbqS1N) | [halca](https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2) | [キミがいたしるし](https://open.spotify.com/album/4pDyNpKYsjejt8N5JD6hGg) | 3:52 | 2022-06-03 | 2022-06-11 |
@@ -510,6 +511,7 @@
 | [ピースサイン](https://open.spotify.com/track/6QpWIlT6WqmwSYpR9Tjb13) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Peace Sign \- EP](https://open.spotify.com/album/42FMdvus2YAtEp6hGHgiD6) | 3:57 | 2022-06-03 | 2022-07-24 |
 | [ピースサイン \- Peace Sign](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 | 2022-07-28 | 2024-04-19 |
 | [ファイトソング](https://open.spotify.com/track/05UFNH7Htp7Odg9XGhxtxQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ファイトソング](https://open.spotify.com/album/1t3IOg3UJHv7gja2IkBnJV) | 3:28 | 2024-04-16 | 2024-07-03 |
+| [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 | 2024-10-25 |  |
 | [フリイジア](https://open.spotify.com/track/6to6TiKkMz1o7fGyxw8se5) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [フリイジア](https://open.spotify.com/album/02TujguAC4HGXKOjpieyVZ) | 4:13 | 2022-06-14 | 2022-07-13 |
 | [フリーズ](https://open.spotify.com/track/4mo6p1gcnsQKWs41hAs0Cc) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [フリーズ](https://open.spotify.com/album/2qNDkWASOt1cfAfFaVZG7H) | 4:10 | 2022-06-03 | 2022-07-23 |
 | [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 | 2024-10-08 | 2024-10-16 |
@@ -565,7 +567,7 @@
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2022-12-04 | 2023-01-16 |
 | [初恋カラーズ](https://open.spotify.com/track/12a4SsN1e1xBwhTaOHH2nq) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [Elder flower/初恋カラーズ](https://open.spotify.com/album/5GkcLAaYTUVsbAMgwcz5Jr) | 3:43 | 2022-07-14 | 2022-07-21 |
 | [刹那の鼓動](https://open.spotify.com/track/2vcuyhuQAFHKOWkKMdqb0O) | [吉岡亜衣加](https://open.spotify.com/artist/3SK0go2QBoTNd5W7uPCWM6) | [刹那の鼓動](https://open.spotify.com/album/2JBNKRiyYMN8ap0VFPWmlZ) | 4:40 | 2022-07-26 | 2022-07-28 |
-| [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:44 | 2022-07-07 |  |
+| [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:45 | 2022-07-07 |  |
 | [創聖のアクエリオン](https://open.spotify.com/track/0AiRpK3u9OeM37Wsdkk8eJ) | [AKINO](https://open.spotify.com/artist/4JPnS8d4UIBnRZf4FiOx6o) | [「創聖のアクエリオン」オープニングテーマ 創聖のアクエリオン](https://open.spotify.com/album/2fZRAf3DOShFYTBZ3dolFN) | 4:43 | 2024-04-30 | 2024-07-03 |
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2024-04-10 |  |
 | [千夜想歌](https://open.spotify.com/track/5HeD2ZWisLQJVEQLVDLzaW) | [CIVILIAN](https://open.spotify.com/artist/0b2o5veg0MfvF2e11AWfaZ) | [千夜想歌](https://open.spotify.com/album/2G47iByNrswcboIypLq1PD) | 4:51 | 2022-06-24 | 2022-06-26 |
@@ -622,7 +624,7 @@
 | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/track/1jRdam0Y2o2vVtvltJK0tH) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [最後の花弁 \(The meaning of love\)](https://open.spotify.com/album/5rfLPlqWZDU3nB30V6Zn8Y) | 3:51 | 2022-06-03 | 2022-07-28 |
 | [最深](https://open.spotify.com/track/40tZIkyZZGw1a4oQAFZL2P) | [ACCAMER](https://open.spotify.com/artist/6fl8KnCZzMYMHTklUPWlX2) | [最深](https://open.spotify.com/album/2Gh6LdxVej8gzAPU68hHSj) | 4:03 | 2022-07-14 | 2022-07-25 |
 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 | 2024-01-18 |  |
-| [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 | 2024-07-23 |  |
+| [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 | 2024-07-23 | 2024-10-26 |
 | [月海の揺り籠](https://open.spotify.com/track/0eJHx15sQRZ57dLG2jebRH) | [Mia REGINA](https://open.spotify.com/artist/5C3jCbCsFbz3gAIc7HZyEk) | [月海の揺り籠](https://open.spotify.com/album/5ADyQt4kG3HKdVSlIsGyLd) | 4:35 | 2022-06-14 | 2022-07-22 |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-06-03 | 2022-09-16 |
 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 | 2024-10-08 | 2024-10-17 |

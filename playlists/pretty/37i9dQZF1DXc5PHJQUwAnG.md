@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Big Soto \(Mexa de honor\) en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,562 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,573 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Inigualable](https://open.spotify.com/track/2LymV41jT8FinUdLs2uQ1k) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Badly Rouse](https://open.spotify.com/artist/6mDzBxeWQSzUFBFZ78iWC8) | [Inigualable](https://open.spotify.com/album/6yTTXFcHd0awRbOTdAuNXj) | 3:05 |
-| 2 | [LAS COSAS CAMBIARON](https://open.spotify.com/track/6c1YWLzBPm3qA7vK4Io8S3) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [SOTORIUS](https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT) | 2:53 |
-| 3 | [Mimimi](https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Mimimi](https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0) | 2:59 |
-| 4 | [FREESTYLE](https://open.spotify.com/track/5kFAyMPL3uhinJXh1uPpxH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:16 |
-| 5 | [TOMORROWLAND](https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [TOMORROWLAND](https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD) | 3:05 |
-| 6 | [Mexican trapping](https://open.spotify.com/track/0zBk1eQpZxYiJGVmjCuknS) | [Dari Pain](https://open.spotify.com/artist/3wYEEVsD1Am4grVL853QAR), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [Jrkv](https://open.spotify.com/artist/6gtPHrlXI20tdloiCVrsMn) | [Mexican trapping](https://open.spotify.com/album/3j4ZBW3xQJCvpsecu3uUxM) | 3:22 |
+| 1 | [Slovako](https://open.spotify.com/track/2HaVaABb8PCMr7vIDJVIPY) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [Slovako](https://open.spotify.com/album/613fK16yfH9YDh8wMD4ZMV) | 2:37 |
+| 2 | [Inigualable](https://open.spotify.com/track/2LymV41jT8FinUdLs2uQ1k) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Badly Rouse](https://open.spotify.com/artist/6mDzBxeWQSzUFBFZ78iWC8) | [Inigualable](https://open.spotify.com/album/6yTTXFcHd0awRbOTdAuNXj) | 3:05 |
+| 3 | [LAS COSAS CAMBIARON](https://open.spotify.com/track/6c1YWLzBPm3qA7vK4Io8S3) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [SOTORIUS](https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT) | 2:53 |
+| 4 | [Mimimi](https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Mimimi](https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0) | 2:59 |
+| 5 | [FREESTYLE](https://open.spotify.com/track/5kFAyMPL3uhinJXh1uPpxH) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:16 |
+| 6 | [TOMORROWLAND](https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [TOMORROWLAND](https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD) | 3:05 |
 | 7 | [Luto](https://open.spotify.com/track/29l02VXsOKLgmaNxQB7ecE) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [T.O.N.A](https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK), [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c) | [Luto](https://open.spotify.com/album/3Z62LUk9zBa5MmDTsU7o8N) | 2:29 |
 | 8 | [La Perrada de la R](https://open.spotify.com/track/2rfhYUlnrj8d9NvOMfiAl4) | [Proceder Elegante](https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO) | [La Perrada de la R](https://open.spotify.com/album/3mEa2RTqTJF4oMJ2UpwocX) | 2:50 |
 | 9 | [Canción para Sentirte Trillonario](https://open.spotify.com/track/04ikA7z7scbinLvcpem6aV) | [El HueyCoyote](https://open.spotify.com/artist/3FP0UgKEa2aprodn6KboaK) | [Canción para Sentirte Trillonario](https://open.spotify.com/album/4gxARTSSjoyfSZ75hhiiLs) | 1:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 49 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an) | 2:57 |
 | 50 | [Dafuk](https://open.spotify.com/track/1Rt5PxKde8JdrCk4ZTnu0g) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:31 |
 
-Snapshot ID: `ZxH5YAAAAAAjMRDjnnHqma6Gpv5kU4kn`
+Snapshot ID: `Zxsz4AAAAABzfZ/Aq6UVOx5ZCitMbr/N`

@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-366 songs - 17 hr 37 min
+368 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Somebody To Love](https://open.spotify.com/track/1ZHhO7YbLiJKAbefw0fIL4) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Somebody To Love](https://open.spotify.com/album/7xizBWJznxgkqThMW5utd0) | 3:21 | 2023-11-22 |  |
 | [Somebody's Watching Me](https://open.spotify.com/track/2wLaotOoSRdww5sp5i1NYE) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [Somebody's Watching Me](https://open.spotify.com/album/5oYIZrwkfWtv8a4l8gOBC4) | 2:26 | 2023-11-22 |  |
 | [Something To Luv For \(with Advokid\)](https://open.spotify.com/track/5iq4IyI8oj7gHiRGxo8qLO) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Advokid](https://open.spotify.com/artist/3aO9yUQwH6uBCtV9c5kflf) | [Something To Luv For \(with Advokid\)](https://open.spotify.com/album/1Lm5PKdzBTNBwR2WxPmJnP) | 2:33 | 2023-05-19 |  |
+| [Soul](https://open.spotify.com/track/6DCyeSglUl6dX2GcWF5frs) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Soul](https://open.spotify.com/album/3slTbKjs9faxtbTTVV3kwN) | 3:33 | 2024-10-25 |  |
 | [Special](https://open.spotify.com/track/3vh0XSibnAhcCvF4JR6bEl) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Special](https://open.spotify.com/album/1Kt1WTwr9aBh3MRk2xXzaV) | 2:05 | 2024-06-14 |  |
 | [Stars Don't Shine \(feat\. Global Dan\)](https://open.spotify.com/track/0Bz4zF649klc9hMb9xtj16) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Global Dan](https://open.spotify.com/artist/1lzugG0lqNh9nP6Fp2zG3c) | [Stars Don't Shine \(feat\. Global Dan\)](https://open.spotify.com/album/4su0t3XDFmCCdQaQXd51no) | 3:41 | 2022-05-06 | 2022-08-03 |
 | [Step Back](https://open.spotify.com/track/0oHEiGSJjfLROTq55TEoFl) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm) | [Step Back](https://open.spotify.com/album/3raiGz0JFTWpnzvMgJtnC2) | 3:18 | 2022-07-29 | 2023-03-03 |
@@ -323,6 +324,7 @@
 | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe) | 4:00 | 2022-08-26 | 2023-12-14 |
 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 | 2022-05-06 | 2022-09-07 |
 | [Tempest](https://open.spotify.com/track/5gCKPDM4n94TD4c0D8fxJj) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Return To Form](https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX) | 3:15 | 2022-08-12 | 2023-04-09 |
+| [The Afters](https://open.spotify.com/track/34ssUS2jFkRR25Eg01CmP3) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Dani Thorne](https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku) | [The Afters](https://open.spotify.com/album/52YddbCu6iVIQJNbFsmiMq) | 2:09 | 2024-10-25 |  |
 | [The Whistle](https://open.spotify.com/track/0nYD5euxX3xsIe9bda0Fqg) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [DJ Aligator](https://open.spotify.com/artist/76JqkTKxRVKBFabbPiB8g6) | [The Whistle](https://open.spotify.com/album/6Ml1rV2N0McOkkfUU8k7iR) | 2:11 | 2022-08-05 | 2023-04-09 |
 | [Thief](https://open.spotify.com/track/0HBCJAYmcJPNM6iCj00dqz) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Thief](https://open.spotify.com/album/02v9FsNlUM7Sy828mVOS7D) | 2:51 | 2024-06-21 |  |
 | [Think About](https://open.spotify.com/track/79IQ11ZcslJLGJwwOAbLmh) | [HONÜ](https://open.spotify.com/artist/5U96ytItXSJmQBUOOhMxKq), [WHOWHENWHY](https://open.spotify.com/artist/5RiXLHmJCEhojilpOaK6FL) | [Think About](https://open.spotify.com/album/1wMh5zzVENh361hATA203p) | 3:48 | 2023-11-22 |  |

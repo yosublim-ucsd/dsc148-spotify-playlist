@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 214527,
       "name": "BEATS FOR THE UNDERGROUND",
       "url": "https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp"
@@ -4193,6 +4193,28 @@
     },
     {
       "album": {
+        "name": "Criminals Move In Silence",
+        "url": "https://open.spotify.com/album/48lhSeSvj116A8ses9dNUl"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        },
+        {
+          "name": "Kino Todo",
+          "url": "https://open.spotify.com/artist/2kzHzn9DTankt1OfK1U8ol"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Criminals Move In Silence",
+      "url": "https://open.spotify.com/track/72q6wnkLkp7lwn4LKJ0NUV"
+    },
+    {
+      "album": {
         "name": "Critical",
         "url": "https://open.spotify.com/album/2xsNfWycOQhnQ9Gx1z1Cax"
       },
@@ -5880,7 +5902,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 203081,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2PpQ4n7hQ5AwMwK8bXj3Jg"
@@ -6012,6 +6034,28 @@
       "duration_ms": 211451,
       "name": "Feel The Energy",
       "url": "https://open.spotify.com/track/1G4FRQ4zQRgewsYvJhT7Rn"
+    },
+    {
+      "album": {
+        "name": "Feel The Passion",
+        "url": "https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180018,
+      "name": "Feel The Passion",
+      "url": "https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT"
     },
     {
       "album": {
@@ -9144,7 +9188,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 198170,
       "name": "IDK",
       "url": "https://open.spotify.com/track/1lbioiuFVq2Dqp1bCK6K1A"
@@ -11030,7 +11074,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 218437,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
@@ -12500,7 +12544,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 156498,
       "name": "Mind Still (feat. blythe)",
       "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
@@ -12676,7 +12720,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 200307,
       "name": "Monaco",
       "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
@@ -14995,6 +15039,24 @@
     },
     {
       "album": {
+        "name": "Ready 2 Go",
+        "url": "https://open.spotify.com/album/2t6rfGbsARRdLrGEzl5z57"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "Ready 2 Go",
+      "url": "https://open.spotify.com/track/5PkdqxLgEEjYGyfbpF1rdf"
+    },
+    {
+      "album": {
         "name": "Ready To Go (My Addiction)",
         "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
       },
@@ -15124,7 +15186,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 130490,
       "name": "Reckless (2024)",
       "url": "https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno"
@@ -15674,7 +15736,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5CSfhQ8ql3ofBE8PsQnQfR"
@@ -20498,7 +20560,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 134846,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6Yimrlg9ndHZUy1hGm6uQ9"

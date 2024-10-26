@@ -954,7 +954,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 243602,
       "name": "Ek Do Teen (From \"Baaghi 2\")",
       "url": "https://open.spotify.com/track/6WGzckjnXgGvcTmCcETgIb"
@@ -3216,6 +3216,32 @@
       "duration_ms": 197111,
       "name": "Punjabi Munde (From \"Ghudchadi\")",
       "url": "https://open.spotify.com/track/7r8x7Uc5PtyMs0ZOviCWxM"
+    },
+    {
+      "album": {
+        "name": "Pyaar Bhi Jhootha (From \"The Miranda Brothers\")",
+        "url": "https://open.spotify.com/album/39iep9wsyPgSk0HfMyYKy3"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171183,
+      "name": "Pyaar Bhi Jhootha (From \"The Miranda Brothers\")",
+      "url": "https://open.spotify.com/track/5TKDYBaz6OuE2Bap9Qau7A"
     },
     {
       "album": {

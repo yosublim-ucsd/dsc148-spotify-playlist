@@ -4,7 +4,7 @@
 
 > Olly in cover + le migliori uscite di questa settimana!
 
-2,332 songs - 4 day 21 hr 46 min
+2,334 songs - 4 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,7 @@
 | [Ciao](https://open.spotify.com/track/0jSRhH4iYZSQcL8a46Bvir) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Ciao](https://open.spotify.com/album/04Ym8yzWO8fJmP1emtBuKV) | 3:32 | 2024-09-26 | 2024-10-04 |
 | [Cicale](https://open.spotify.com/track/2YaQSA2uGjEeVUQtsjX9Ew) | [Addict Ameba](https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb), [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6) | [Cicale](https://open.spotify.com/album/67fheAlF6keL8ZDYb5S2W6) | 3:26 | 2024-06-27 | 2024-07-05 |
 | [Cicale](https://open.spotify.com/track/4LU1SV014oztIf0KquuVhv) | [GrenBaud](https://open.spotify.com/artist/1WPIzvlZTvCY0A1LmN0LvS) | [PENSIERI EMOZIONI](https://open.spotify.com/album/6HPwntDDsUtS1OKkwBc8cJ) | 2:18 | 2024-06-06 | 2024-06-14 |
-| [Cinema](https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD) | [Cinema](https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh) | 2:25 | 2024-10-24 |  |
+| [Cinema](https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [barbz](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Cinema](https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh) | 2:25 | 2024-10-24 |  |
 | [Cinema spento \(feat\. Dargen D'Amico\)](https://open.spotify.com/track/6XeqxWn85Ys24M2Ak7SUcT) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Cinema spento \(feat\. Dargen D'Amico\)](https://open.spotify.com/album/0qJkSoXzc3FUNmw35q2Gv8) | 3:22 | 2024-05-23 | 2024-06-01 |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-13 | 2024-06-21 |
 | [Circumnavigating Georgia](https://open.spotify.com/track/6AI0wNKjKkFxk8bxlULhOK) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Circumnavigating Georgia](https://open.spotify.com/album/0NifH8uAv89mMo97MnOenG) | 3:15 | 2024-10-10 | 2024-10-18 |
@@ -556,6 +556,7 @@
 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 | 2024-08-01 | 2024-08-09 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-11 | 2024-07-19 |
 | [DIRTY LITTLE SECRET](https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DIRTY LITTLE SECRET](https://open.spotify.com/album/5CvA57rVw7Mru6533m6cN6) | 3:34 | 2024-09-19 | 2024-09-27 |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 |  |
 | [DISOBBEDIRE](https://open.spotify.com/track/4MJRIuZ3e4JS7iX8I0w9CO) | [Fiorella Mannoia](https://open.spotify.com/artist/5VxhGHbcuvqTLRUWzBUN8L) | [DISOBBEDIRE](https://open.spotify.com/album/6MTA8arkkHtoXTvjPAsh9j) | 3:27 | 2024-09-26 | 2024-10-04 |
 | [Disordine](https://open.spotify.com/track/3fiSGrRKR0nAhAnLhDvyPR) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Disordine](https://open.spotify.com/album/4o1Cd9vI7ldENywT64aEIz) | 2:58 | 2024-07-18 | 2024-07-27 |
 | [DISORDINE](https://open.spotify.com/track/2eocLdXg0GNDMMfkv57rUQ) | [Greta](https://open.spotify.com/artist/13GjdjA8k3fmCHSfcAxTH0) | [DISORDINE](https://open.spotify.com/album/4nqvMce1WUJtAL42D4jSKJ) | 2:25 | 2024-06-13 | 2024-06-21 |
@@ -861,6 +862,7 @@
 | [Heal My Heart](https://open.spotify.com/track/5RaIR7tKEdO3tf4gpSgQ7P) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Heal My Heart](https://open.spotify.com/album/1RZBZTyRggeKIRzw7O5JNy) | 2:30 | 2024-08-22 | 2024-08-30 |
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 2:42 | 2024-06-20 | 2024-06-28 |
 | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/track/4xqekuN4lfu6MBeWov0Icl) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Heart Like Mine \(feat\. Rosa Linn\)](https://open.spotify.com/album/2k7ml7X0RXedgJaW7nkjak) | 2:29 | 2024-09-12 | 2024-09-20 |
+| [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 | 2024-10-24 |  |
 | [Heartbreaker](https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Heartbreaker](https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl) | 3:50 | 2024-06-20 | 2024-06-28 |
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-06-13 | 2024-06-21 |
 | [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 | 2024-09-12 | 2024-09-20 |

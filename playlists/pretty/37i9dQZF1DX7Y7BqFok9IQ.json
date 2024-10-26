@@ -1,18 +1,18 @@
 {
   "description": "The best of modern blues rock. Cover: Joe Bonamassa",
-  "num_followers": 221807,
+  "num_followers": 221881,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuzzQAAAAADDXGURbk57kAbDxigIPZ7I",
+  "snapshot_id": "ZxsXwAAAAACgpkH3Ggv5oQEg5ltNpw4e",
   "tracks": [
     {
-      "added_at": "2024-09-20 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "If God Is A woman",
-        "url": "https://open.spotify.com/album/564oj2NGIjqVfN6h4BFnYw"
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/6hssadq1z58kah8yy7HHRS"
       },
       "artists": [
         {
@@ -20,9 +20,61 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 205962,
-      "name": "If God Is A Woman",
-      "url": "https://open.spotify.com/track/54bGJlYr8LGaYzJ2piL3Op"
+      "duration_ms": 246351,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/04GLIP00vRsOHC6m7P6Cps"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Hole In Your Soul",
+        "url": "https://open.spotify.com/album/7wJnNE79u2gUD5zEFuAWqs"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "duration_ms": 388237,
+      "name": "Hole In Your Soul",
+      "url": "https://open.spotify.com/track/5s1cN2AJDr3QnHzwvRHh5b"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Red Moon Rising (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5D0FK6IRRpx0qJXD2QnGC8"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "duration_ms": 232555,
+      "name": "Boss Man",
+      "url": "https://open.spotify.com/track/23MSrnSqqbOtTtuaaA7N1s"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Savior With A Razor (feat. Slash)",
+      "url": "https://open.spotify.com/track/6Yk9u3C8EVpyixdgXv0S6G"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -301,22 +353,6 @@
       "url": "https://open.spotify.com/track/2IHd4inCaMQTGBM5l0p9YF"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "Dragging Me Down",
-        "url": "https://open.spotify.com/album/6rzhy4RQStHp5feC3jugma"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "Dragging Me Down",
-      "url": "https://open.spotify.com/track/1tC3Lk0Bh7wFPctiowuxJb"
-    },
-    {
       "added_at": "2024-03-22 04:01:00",
       "album": {
         "name": "Put Your Money On Me",
@@ -347,22 +383,6 @@
       "duration_ms": 188065,
       "name": "Scorned",
       "url": "https://open.spotify.com/track/05rjMEQQcTDM0Vzr7bs8gW"
-    },
-    {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "The Wolves Are Coming",
-        "url": "https://open.spotify.com/album/2juRTUdOZBV0g3Oi5uSJkK"
-      },
-      "artists": [
-        {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
-        }
-      ],
-      "duration_ms": 160815,
-      "name": "Black Moon",
-      "url": "https://open.spotify.com/track/13F76PKJYIWbG986buVo66"
     },
     {
       "added_at": "2024-02-23 05:01:00",
@@ -1439,22 +1459,6 @@
       "duration_ms": 294546,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4bmA9Hd5F2u9MvnewudhjB"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Dodge and Burn",
-        "url": "https://open.spotify.com/album/0AnU1H6jDN6QHN2xMgWHJc"
-      },
-      "artists": [
-        {
-          "name": "The Dead Weather",
-          "url": "https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V"
-        }
-      ],
-      "duration_ms": 257600,
-      "name": "Let Me Through",
-      "url": "https://open.spotify.com/track/1XjkqaFUMBZjbMWxdrNR9L"
     },
     {
       "added_at": "2020-10-16 04:02:00",

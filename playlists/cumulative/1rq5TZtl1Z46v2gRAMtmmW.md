@@ -4,7 +4,7 @@
 
 > 
 
-347 songs - 23 hr 17 min
+348 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Dream \- Edit](https://open.spotify.com/track/7KeANzNehacJlX4AsNUeG2) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dream](https://open.spotify.com/album/6HZmtl6ABrzfwsoGGVtkvr) | 4:06 | 2022-10-12 | 2023-04-27 |
 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 | 2023-04-13 | 2024-03-15 |
 | [DRIFT ON](https://open.spotify.com/track/7e4PQr0twFDRfOpSedfA1L) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [Drift](https://open.spotify.com/album/6bbYGbBQJm5XKn85vvt34t) | 3:27 | 2023-09-08 | 2023-09-28 |
-| [Drive](https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Drive](https://open.spotify.com/album/5YE4RbWYJXkRWQAXqNiNBv) | 3:43 | 2024-07-16 |  |
+| [Drive](https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ingrid Witt](https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf) | [Drive](https://open.spotify.com/album/5YE4RbWYJXkRWQAXqNiNBv) | 3:43 | 2024-07-16 | 2024-10-26 |
 | [Drum](https://open.spotify.com/track/0woEYg2SEO3u2MFKmVnDgM) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:38 | 2023-02-03 | 2023-10-21 |
 | [Each Night](https://open.spotify.com/track/2mmdmrvte40p2MQEAdRWQE) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Mazy](https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU) | [Each Night](https://open.spotify.com/album/5YIl7vJtp7s9LwH2NS3kkc) | 4:46 | 2023-05-18 | 2023-06-21 |
 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 | 2022-01-18 | 2022-08-04 |
@@ -143,6 +143,7 @@
 | [Green](https://open.spotify.com/track/2nVivsN3qpFbYUtvDNzi6v) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Green](https://open.spotify.com/album/00ACuCXVSKxpsG0BtIfD0g) | 4:05 | 2024-09-10 |  |
 | [GROWUP](https://open.spotify.com/track/4BCHnbhllVVwyVBbHaQwyY) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [GROWUP](https://open.spotify.com/album/4pWSY3omW0xCyunRfuO8Hl) | 2:26 | 2024-10-11 |  |
 | [GUNZ](https://open.spotify.com/track/3bAW73ap6fM7DnDDRo8Xe2) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [GUNZ](https://open.spotify.com/album/4JKQF6JHokN1F4Kj5PkxdS) | 3:15 | 2023-08-17 | 2023-09-06 |
+| [HABITS](https://open.spotify.com/track/5L8dahm9afHErsFh5vsiUo) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [3FOR82\_D3LUX3](https://open.spotify.com/album/3S4N97ESS4YTCEEQsRluxZ) | 2:44 | 2024-10-25 |  |
 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 | 2024-03-01 | 2024-04-24 |
 | [Heather Park](https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Heather Park](https://open.spotify.com/album/1VKmlsq627xxebmf53jHME) | 6:01 | 2022-07-08 | 2023-02-04 |
 | [Heavier](https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Heavier](https://open.spotify.com/album/2f7U1Mz1SxgAr88KdCRT1a) | 4:17 | 2023-06-27 | 2024-05-24 |

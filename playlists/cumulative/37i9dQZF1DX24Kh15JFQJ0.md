@@ -2,9 +2,9 @@
 
 ### [New Traditions Country Heroes](https://open.spotify.com/playlist/37i9dQZF1DX24Kh15JFQJ0)
 
-> The latest music from our Country Heroes\. Cover: George Strait
+> The latest music from our Country Heroes\. Cover: Dwight Yoakam
 
-299 songs - 17 hr 31 min
+301 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Make It Til Summertime](https://open.spotify.com/track/2t5m1jQhBn9IKziKQwFUc7) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Every Road](https://open.spotify.com/album/6uD5MXsYeIOgpu2cKNvEWq) | 3:04 | 2021-10-15 |  |
 | [Mama He's Crazy](https://open.spotify.com/track/3uuAVN4ZepStnZvWZqzBDD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 3:17 | 2023-10-27 | 2023-11-12 |
 | [Mama He’s Crazy](https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:17 | 2023-11-10 |  |
+| [Mama's Boys](https://open.spotify.com/track/1NmdTJi2TBp1FDsNEGmv9R) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Mama's Boys](https://open.spotify.com/album/4plUOdJyu7r2Jb5lNkDHTB) | 2:48 | 2024-10-25 |  |
 | [Memory](https://open.spotify.com/track/40Ny9MMawUKcdNJyERWODH) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Memory](https://open.spotify.com/album/0FbbpxXfPvOVPCjW5UPmWa) | 5:04 | 2021-10-15 | 2022-09-21 |
 | [MIA Down In MIA](https://open.spotify.com/track/05GQWrTY4ntMareQlgnGEB) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [MIA Down In MIA](https://open.spotify.com/album/47nvV9R8dSHmpX4oM9ILmC) | 3:29 | 2024-05-17 |  |
 | [Mozambique](https://open.spotify.com/track/4glXMXiiOlJP4ZJmMZ1Yvu) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Mozambique / University Of Bourbon Street](https://open.spotify.com/album/1FOgVvIp41RW2dOkdm9Dwj) | 3:16 | 2023-11-03 |  |
@@ -223,6 +224,7 @@
 | [Rough Around the Edges](https://open.spotify.com/track/4pmAnbdh8LvGxSh93AhPR3) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Rough Around the Edges](https://open.spotify.com/album/0ESEOWpuy84Dya72GY3uaL) | 3:36 | 2023-07-28 |  |
 | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/track/7F4WQ6WwJLVEDpjR9MG3bw) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/album/4sKrlN6o8XBEpRybKt7A28) | 3:31 | 2021-10-15 |  |
 | [Saltwater Cowboy](https://open.spotify.com/track/2zJEa1T4mpFdoCvUNTo59a) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Saltwater Cowboy](https://open.spotify.com/album/1j8ubAkNpMdJs8qUmvIB17) | 2:49 | 2022-06-17 |  |
+| [Saturday Night in New Orleans](https://open.spotify.com/track/4EQY7eHKZDnTj3NOZKYTjf) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Saturday Night in New Orleans](https://open.spotify.com/album/3hZRAdtjPyaRbayeZVTvfA) | 4:25 | 2024-10-25 |  |
 | [Send Me](https://open.spotify.com/track/0Qx26shaWKuHbSqSCtgHrd) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO) | [Send Me](https://open.spotify.com/album/3LdFkofh38rBZRBZO7aRw9) | 3:14 | 2021-10-15 |  |
 | [Sent From Above](https://open.spotify.com/track/51jVJF72pOhKxMTuZsi0p4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Sent From Above](https://open.spotify.com/album/2seNA62osJS4t03QBjdkW3) | 2:25 | 2021-10-15 | 2022-09-21 |
 | [Set In Stone](https://open.spotify.com/track/7MVqVhltAY0slcw61hsRwa) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Set In Stone](https://open.spotify.com/album/3CWTCSCfkdNjK9156mLZO8) | 3:04 | 2021-10-15 |  |

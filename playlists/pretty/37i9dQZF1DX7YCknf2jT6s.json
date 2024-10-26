@@ -1,13 +1,53 @@
 {
-  "description": "New jazz for open minds. Cover: Aaron Parks, David Ginyard Jr, Greg Tuohey & Jongkuk Kim",
-  "num_followers": 939669,
+  "description": "New jazz for open minds. Cover: Mulatu Astatke",
+  "num_followers": 939801,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAAAAVe6A3rzTfxDvjBEjBrCv",
+  "snapshot_id": "ZxsXwAAAAAB6ZZwwF6dq+8lTJ+8HRePN",
   "tracks": [
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Dung Gate",
+        "url": "https://open.spotify.com/album/3QMRQH28I1kwXe9nzFtUYd"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        },
+        {
+          "name": "Hoodna Orchestra",
+          "url": "https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk"
+        }
+      ],
+      "duration_ms": 247093,
+      "name": "Dung Gate",
+      "url": "https://open.spotify.com/track/2iYKFf2p2mM0YSfRXOdLF4"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/4c26T0Mm19KaMKGEUTog5C"
+      },
+      "artists": [
+        {
+          "name": "Snazzback",
+          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
+        },
+        {
+          "name": "Grove",
+          "url": "https://open.spotify.com/artist/1ymLBAEb4VHg1sObM20pQ3"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7EQje357jNqN2WNMHbQ8z7"
+    },
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
@@ -97,7 +137,7 @@
       "url": "https://open.spotify.com/track/4aCeyMLm1r2yrbxvEgLZlb"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Three Piece Suit (feat. Azekel)",
         "url": "https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ"
@@ -133,7 +173,7 @@
       "url": "https://open.spotify.com/track/49mY1tLJTGJIbrDVZS06nK"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Echo of a Scream",
         "url": "https://open.spotify.com/album/4ja7oVc2UfOa9fX2PuJh6b"
@@ -765,7 +805,7 @@
       "url": "https://open.spotify.com/track/2OmUEDc3Vz1dQtd1PmJXYG"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Dare to Dream",
         "url": "https://open.spotify.com/album/1JijzGgPvOfJU0HNA675JZ"
@@ -985,26 +1025,6 @@
       "url": "https://open.spotify.com/track/0ck55fNJidiuhc5hZPWRyH"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/1LEyv9zoE2S6GN8gqkIq9f"
-      },
-      "artists": [
-        {
-          "name": "Mulatu Astatke",
-          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
-        },
-        {
-          "name": "Hoodna Orchestra",
-          "url": "https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk"
-        }
-      ],
-      "duration_ms": 297960,
-      "name": "Tension",
-      "url": "https://open.spotify.com/track/0Q9Z3nPkhn6zgLDwb3KDQI"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Nominor",
@@ -1207,22 +1227,6 @@
       "duration_ms": 326240,
       "name": "Best Left Unsolved - Bonus Track",
       "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Piece of Mind",
-        "url": "https://open.spotify.com/album/7tuIHvQNLrzizQXlh34KPq"
-      },
-      "artists": [
-        {
-          "name": "Simon Denizart",
-          "url": "https://open.spotify.com/artist/1dFQ2v1uSzlTVLwfHQWgJk"
-        }
-      ],
-      "duration_ms": 351710,
-      "name": "Piece of Mind",
-      "url": "https://open.spotify.com/track/44CdPwoPxNt8JV80dKqMnh"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -1585,7 +1589,7 @@
       "url": "https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Zodiac",
         "url": "https://open.spotify.com/album/3kqbr0ChebfBBhuDkfm048"
@@ -1921,7 +1925,7 @@
       "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Seven of Eight",
         "url": "https://open.spotify.com/album/1uyYsIhvQ0qMFDIhF3cpzI"

@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-178 songs - 10 hr 11 min
+181 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Holy Ghost](https://open.spotify.com/track/3kKVjpgY1UQW3ikr0AhMZg) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Holy Ghost](https://open.spotify.com/album/2AUGXdf8CZckloBZfqY35g) | 2:38 | 2024-07-19 |  |
 | [How Good](https://open.spotify.com/track/7fLGmNTDCV2Q79RxvOunTE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [How Good](https://open.spotify.com/album/0vh6Re7uiZecWV5coraF0I) | 3:00 | 2024-01-19 | 2024-04-02 |
 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-15 | 2024-05-04 |
+| [Huntley](https://open.spotify.com/track/5sJdlrzaYvCxeSTsQzQ6Db) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Huntley](https://open.spotify.com/album/0HV9T0Zb3gwIeBaZLu2qFd) | 2:59 | 2024-10-25 |  |
 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 | 2024-03-15 |  |
 | [i hate texas](https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [i hate texas](https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55) | 3:38 | 2024-07-26 | 2024-09-21 |
 | [I Love You, Please Don't Hate Me](https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/3B9uBcAh5KePyRuVxny6V5) | 3:06 | 2023-12-08 | 2024-09-28 |
@@ -106,6 +107,7 @@
 | [Last Train To London \(I Won't Look Back\)](https://open.spotify.com/track/3KRKN196F3i6G1HnIqd2e5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/4aAHlX9XKBRfdqUp4JVvr0) | 3:52 | 2023-12-08 | 2024-03-09 |
 | [Lean In](https://open.spotify.com/track/73wvzVVkyZNeZdWLjAGnru) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Lean In](https://open.spotify.com/album/3Ye8tnkENwAK80262hRjVQ) | 3:10 | 2024-03-22 | 2024-07-20 |
 | [Leave This Home](https://open.spotify.com/track/3N48xSRpwfwBytTBOYxh79) | [Dweller](https://open.spotify.com/artist/0BXalrIb822OpYzlONODHU), [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4), [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Leave This Home](https://open.spotify.com/album/4myJO9gIxp7nMeGd6TlKO6) | 5:21 | 2023-12-08 | 2024-02-24 |
+| [Less Stress](https://open.spotify.com/track/2bIUrjwlTuuzpMdWFU5pCx) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Easygoing](https://open.spotify.com/album/5I7ecirlZpSSDtUFEQ6XNQ) | 3:20 | 2024-10-25 |  |
 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 | 2024-03-15 | 2024-04-02 |
 | [Lonely with Our Love](https://open.spotify.com/track/7I0lIzNjPrvnqLp7AQHW5o) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/1iMxbWIQFDddaxXHUBq4Ui) | 3:28 | 2024-05-24 |  |
 | [Lost](https://open.spotify.com/track/2aQm7qXDseN5YF5ilzCohC) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Lost](https://open.spotify.com/album/0rwAIahSgaJWFoTSHJSmLJ) | 2:43 | 2024-08-02 | 2024-10-19 |
@@ -113,6 +115,7 @@
 | [Love Me For Another Day](https://open.spotify.com/track/1QBoyx9EOFbnFQJGCyEzwz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:03 | 2023-12-08 | 2024-03-16 |
 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 | 2023-12-08 |  |
 | [MAKE ME YOUR MONSTER](https://open.spotify.com/track/4bNCgx7wGWP98iP2euzF12) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAKE ME YOUR MONSTER](https://open.spotify.com/album/1xBDETRvO7zwDC5pEUvzAv) | 3:20 | 2024-08-02 |  |
+| [Mangos](https://open.spotify.com/track/49e50MWToveqr3PjnKFpnM) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Mangos](https://open.spotify.com/album/5xebmA2DGH8Xyg6vmpblkU) | 3:16 | 2024-10-25 |  |
 | [Me Without You \(Acoustic\)](https://open.spotify.com/track/1mfPsU5u0fgdjYfKIxaJol) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [The Acoustic Sessions](https://open.spotify.com/album/0FzEpPssQM0QRjqlsuiBc8) | 4:15 | 2023-12-08 | 2024-04-06 |
 | [Memories](https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4) | [Aimee Carty](https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl) | [Memories](https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8) | 2:33 | 2024-09-20 |  |
 | [Modern Drugs](https://open.spotify.com/track/5gocWRuqMWndCOS6FLK270) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [Modern Drugs](https://open.spotify.com/album/3fexL0QakIVLSCChoQ4aSK) | 5:13 | 2024-01-26 | 2024-04-27 |

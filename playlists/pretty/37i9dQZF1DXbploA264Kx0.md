@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LÜCY
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,287 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,297 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 3 | [Story From The Hill](https://open.spotify.com/track/1kwc24o5EMK0YnuLfFi1K4) | [Bremen Entertainment Inc.](https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA) | [Second hand stories](https://open.spotify.com/album/11gQNgMISJ0ILfEGP0pmlK) | 5:37 |
 | 4 | [一路選](https://open.spotify.com/track/4WUEGiAxwFeGFpbbEsIiPB) | [PiNkChAiN紅粉鍊人](https://open.spotify.com/artist/57wojBlkVnzNOmOJZ6jKiw), [Sogare](https://open.spotify.com/artist/3fDk9Pvz5G6ns3pPK3r3YS) | [一路選](https://open.spotify.com/album/64TvXZn9sp2YS1EqVbMVhO) | 3:20 |
 | 5 | [Meteor Shower](https://open.spotify.com/track/4U04CJyjD2HzMjHMBnVn0h) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [I Dig You](https://open.spotify.com/album/118ouAtcHqDD7t7YV2hD1O) | 3:03 |
-| 6 | [Time](https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Time](https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ) | 3:23 |
+| 6 | [TIME](https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [TIME](https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ) | 3:23 |
 | 7 | [Sparkling Wine](https://open.spotify.com/track/6Dm85sCyjcsq3JFmP7T4e8) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [Sparkling Wine](https://open.spotify.com/album/4gxuib7CxBL3SkMm6kdi3s) | 3:23 |
 | 8 | [About You](https://open.spotify.com/track/4BqlTz6a3BSQtuOgw58iyT) | [Jimmy KUAN](https://open.spotify.com/artist/0RvW6NX5Txwg455rTgalox) | [About You](https://open.spotify.com/album/5wVxiN2wjVBlSOHGSJC8Rm) | 2:41 |
 | 9 | [Margarita](https://open.spotify.com/track/07wmygzJZ8HG3j9Iu0YCIQ) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3) | [Margarita](https://open.spotify.com/album/14QSWeqDCKgesoarHCKntL) | 3:36 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 64 | [Serious Addiction](https://open.spotify.com/track/7tffweBCg9Yuzmt6fHSN4h) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Serious Addiction](https://open.spotify.com/album/47TPp2TTC8JAI1UL8mWr7j) | 3:23 |
 | 65 | [Jurassic Ride](https://open.spotify.com/track/1VGYVyUsSHFDzaF8jgLwHR) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Millions of Years Apart](https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ) | 3:14 |
 | 66 | [Fear \- Mong Tong Remix](https://open.spotify.com/track/4amEFQlOmB3cJwy0CEhX5Q) | [Lomboy](https://open.spotify.com/artist/7laFKr0vZdtV9KNGfJ0Ird), [Mong Tong](https://open.spotify.com/artist/61QVaGjYK4UNd6uTz7Lzuo) | [Fear \(Mong Tong Remix\)](https://open.spotify.com/album/3Gz3xyZhWUfIyvxNEFLu4g) | 3:02 |
-| 67 | [For Me](https://open.spotify.com/track/2GVTS8oQaOE3luPlQLuzJd) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [For Me](https://open.spotify.com/album/3MR628PTur3huxnP2S6pJs) | 4:21 |
+| 67 | [For Me](https://open.spotify.com/track/2GVTS8oQaOE3luPlQLuzJd) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [For Me](https://open.spotify.com/album/3MR628PTur3huxnP2S6pJs) | 4:20 |
 | 68 | [I Want To Be With You](https://open.spotify.com/track/2vZhQcFme5X52JfVTcRk2R) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen), [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF) | [I Want To Be With You](https://open.spotify.com/album/3aDWgiykjPhsVwepM3yNaG) | 4:30 |
 | 69 | [Kitchen feat\. 9m88](https://open.spotify.com/track/5oHBt8OoRWUZw0VwPUZZa7) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Kitchen feat\. 9m88](https://open.spotify.com/album/4MFYspvE6bzFdvV5CnK075) | 3:52 |
 | 70 | [Won’t Let You Go \- 《艾嘉食堂》插曲](https://open.spotify.com/track/0MirQIYKUjUVvI0oK0Qwfw) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [Won’t Let You Go \- 《艾嘉食堂》插曲](https://open.spotify.com/album/74Em8G3EBrXlHunnmEEVkN) | 2:23 |

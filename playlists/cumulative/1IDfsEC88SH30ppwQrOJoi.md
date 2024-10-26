@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-335 songs - 17 hr 22 min
+336 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All The Girls](https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [All The Girls](https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK) | 3:17 | 2023-04-26 | 2024-05-01 |
 | [All Yours](https://open.spotify.com/track/6WyHogSbe3RV4vZ5QV1ua0) | [M1K3](https://open.spotify.com/artist/1OWnVgLuF8u1H64oFuO0Wp) | [All Yours](https://open.spotify.com/album/76mmwwjKDKJqQE89rCeIBS) | 3:16 | 2024-03-13 | 2024-05-01 |
 | [Alone In The Dark \- Radio Edit](https://open.spotify.com/track/53hR4ebI4kNXhHI6WwCAo3) | [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP), [Tellur](https://open.spotify.com/artist/5rvzvX60UWSsHXOKd2XwZT), [Paiola](https://open.spotify.com/artist/14MY1N7hBtEoXiCpjSQEXO) | [Alone In The Dark](https://open.spotify.com/album/6oD66jmgTPhfXOnW6AXt1m) | 3:17 | 2024-09-27 |  |
+| [Always Chase The Sun](https://open.spotify.com/track/0uXllbMGTvFVL1gP66q0Sr) | [Electric Cinema](https://open.spotify.com/artist/7HpqdvvEhsTi48z5DB6BOj) | [Always Chase The Sun](https://open.spotify.com/album/3rbz9OH2hUmkTChW5Kc5eL) | 4:48 | 2024-10-25 |  |
 | [Always Down](https://open.spotify.com/track/6smAnlExLVJl0q47l1CETN) | [Alexx Fall](https://open.spotify.com/artist/12osK1nBgewd62jOVTHNzz), [Sergi BH](https://open.spotify.com/artist/3Ls61iQNhavEsFoYtGk6QD) | [Always](https://open.spotify.com/album/1KHn6w8S8MXhraUrAxH60u) | 2:56 | 2023-07-10 | 2024-03-14 |
 | [Anikana\-O](https://open.spotify.com/track/7IPofMltmVFlF1XwrnpZ8A) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY), [Lexa Hill](https://open.spotify.com/artist/2EBpa9UjqsApalEK8cXoHI), [Afrika System](https://open.spotify.com/artist/0iYfTPk5tWNmim8THrzY3h) | [Anikana\-O](https://open.spotify.com/album/0ByfrMsKIiEevWbeK4MiYg) | 3:14 | 2024-01-19 | 2024-03-14 |
 | [Animals](https://open.spotify.com/track/4gwXvOW8XUG2swoF5vkoha) | [Electric Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Animals](https://open.spotify.com/album/0jcsTk1HrsnGbvHeM6LYCW) | 2:57 | 2024-02-09 | 2024-03-14 |

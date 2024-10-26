@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-285 songs - 15 hr 21 min
+286 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Guitarra](https://open.spotify.com/track/2e030wRlvk7aU21DIGN4kL) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Guitarra](https://open.spotify.com/album/4jwMD9PMiLkb0tkDnv1cZn) | 2:54 | 2022-05-20 | 2024-05-18 |
 | [Hablo Con Vos \(feat\. Nahuel Barbero\)](https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Nahuel Barbero](https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:51 | 2022-05-20 |  |
 | [hablé con ella ayer](https://open.spotify.com/track/5pdDyw9gLInQtEqCJDLMqx) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Verano, por siempre](https://open.spotify.com/album/5ix1sSSCWiQf8hZKaiV0Tc) | 2:44 | 2022-05-20 | 2024-10-03 |
-| [Hace Mucho](https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Hace Mucho](https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl) | 3:16 | 2022-05-20 |  |
+| [Hace Mucho](https://open.spotify.com/track/04gW4DqauMsrec4IJN6swN) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Hace Mucho](https://open.spotify.com/album/4eyZx0Fk5OPx6HqhDupAkl) | 3:16 | 2022-05-20 | 2024-10-26 |
 | [Handful of Water](https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Handful of Water](https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N) | 2:31 | 2022-05-20 | 2024-05-11 |
 | [Hasta Que](https://open.spotify.com/track/0F2t2RRkSJVLETwtpfiJth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [Hasta Que](https://open.spotify.com/album/61cYa3yCAug08umgvtyv0J) | 3:13 | 2022-05-20 | 2022-10-28 |
 | [Heart Full of Love](https://open.spotify.com/track/3WADEPHbjrfN0qYrtlACiq) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [Heart Full of Love](https://open.spotify.com/album/6Ive0sN5PnmohGaAGiP0tM) | 4:10 | 2022-05-20 | 2023-01-07 |
@@ -265,6 +265,7 @@
 | [TQB](https://open.spotify.com/track/4C6844tUibAL9cSObEEukn) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [TQB](https://open.spotify.com/album/678s8RjRxY6cXhbPmdRurI) | 2:46 | 2022-05-20 | 2023-01-07 |
 | [Track 11](https://open.spotify.com/track/58Z2aR6MVBuQumxBru8Y40) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [574](https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns) | [Track 11](https://open.spotify.com/album/0c0HSLNtYbgOEOtHdUr70D) | 3:39 | 2022-05-20 | 2023-01-07 |
 | [Trihte](https://open.spotify.com/track/74HszoDuZf9JzKqFDxailX) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [135](https://open.spotify.com/album/3bjtksgbIeMDC4dbdCFPZR) | 3:48 | 2022-05-20 | 2023-01-07 |
+| [Tu Corazón](https://open.spotify.com/track/65rLlRaMVxF5tkjbxprfyg) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 2:34 | 2024-10-25 |  |
 | [tu piel me ha besado](https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M) | [Cariatydes](https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W) | [tu piel me ha besado](https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx) | 3:42 | 2024-05-10 |  |
 | [Tus Besos](https://open.spotify.com/track/028vko2T93bPeotwTWXOve) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Tus Besos](https://open.spotify.com/album/7tKmmrsdzeFOsCka3PV3Ou) | 3:25 | 2022-10-27 |  |
 | [Tus Ojitos](https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Tus Ojitos](https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc) | 4:15 | 2022-05-20 | 2024-05-11 |

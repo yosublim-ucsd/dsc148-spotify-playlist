@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Charli xcx",
+  "description": "Celebrating women at the centre of innovation in electronic music. Cover: Charlotte de Witte",
   "name": "Women of Electronic",
   "tracks": [
     {
@@ -186,6 +186,24 @@
       "duration_ms": 121273,
       "name": "365 featuring shygirl",
       "url": "https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix"
+    },
+    {
+      "album": {
+        "name": "4 My Soul",
+        "url": "https://open.spotify.com/album/3XdUpYv7ghYvgaKwn8BBdn"
+      },
+      "artists": [
+        {
+          "name": "SOHMI",
+          "url": "https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180883,
+      "name": "4 My Soul",
+      "url": "https://open.spotify.com/track/329KrhYueaSPsJj8gX9EGo"
     },
     {
       "album": {
@@ -1195,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Motherland",
+        "url": "https://open.spotify.com/album/2OytyuooCewNSqWSGfgydy"
+      },
+      "artists": [
+        {
+          "name": "Lia Kuri",
+          "url": "https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219516,
+      "name": "Chagrin",
+      "url": "https://open.spotify.com/track/0DbIkZdysB4bShdvkTgnl3"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/6h4CKrhhFHdF6ElBeF3hgE"
       },
@@ -1854,7 +1890,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 206796,
       "name": "Edge of Saturday Night",
       "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
@@ -3230,7 +3266,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 245163,
       "name": "Green",
       "url": "https://open.spotify.com/track/2nVivsN3qpFbYUtvDNzi6v"
@@ -3722,7 +3758,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 212133,
       "name": "How Could U",
       "url": "https://open.spotify.com/track/0IdDlW4OuwalouHxttXdYk"
@@ -6355,6 +6391,28 @@
     },
     {
       "album": {
+        "name": "Sanctum EP",
+        "url": "https://open.spotify.com/album/3QjGt7WzLDNg5siLv7RcM4"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Marion Di Napoli",
+          "url": "https://open.spotify.com/artist/0EEWddjwQo2f8eL6wNSa9C"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351992,
+      "name": "Sanctum (feat. Marion Di Napoli)",
+      "url": "https://open.spotify.com/track/43smiSsmoONd2gAXBqJKVj"
+    },
+    {
+      "album": {
         "name": "TWINSOUL",
         "url": "https://open.spotify.com/album/0SmkxoeQw4aujMVrFUWRN9"
       },
@@ -6683,6 +6741,24 @@
     },
     {
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/7xSr9mtGS8LHKj03dezN73"
+      },
+      "artists": [
+        {
+          "name": "Avis Vox",
+          "url": "https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262858,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/05aLNGW9s6N87iNB67iK96"
+    },
+    {
+      "album": {
         "name": "Slap Back",
         "url": "https://open.spotify.com/album/3LppsQq64jjRxylqesXChB"
       },
@@ -6738,7 +6814,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 245413,
       "name": "SLB",
       "url": "https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT"
@@ -7471,6 +7547,24 @@
     },
     {
       "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/30o58TAcxQucSZexOT4y7C"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208934,
+      "name": "The Seed",
+      "url": "https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE"
+    },
+    {
+      "album": {
         "name": "The Sky is Blue",
         "url": "https://open.spotify.com/album/2PGkJ5hUGcqI6VWs4YOkdW"
       },
@@ -7482,7 +7576,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 225791,
       "name": "The Sky is Blue",
       "url": "https://open.spotify.com/track/3biSRkkErjPZIe0eBhiHga"
@@ -7750,6 +7844,24 @@
       "duration_ms": 304509,
       "name": "Trans Love Vibration (Eris Goes to Church)",
       "url": "https://open.spotify.com/track/5uSqU4wuVUEKPeb0pntudC"
+    },
+    {
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs"
+      },
+      "artists": [
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236225,
+      "name": "True",
+      "url": "https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz"
     },
     {
       "album": {
@@ -8332,7 +8444,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 171146,
       "name": "When It Comes To Love",
       "url": "https://open.spotify.com/track/4at3vuKWn64sDq1ClFTmOf"

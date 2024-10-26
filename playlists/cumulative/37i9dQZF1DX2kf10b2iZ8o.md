@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-172 songs - 12 hr 37 min
+173 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Hands & Claps!](https://open.spotify.com/track/5ZE8KMDDfDNbInnIoKUV5J) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [Hands & Claps!](https://open.spotify.com/album/63KWJVso7jcvSKLwSqeoac) | 4:37 | 2024-02-13 |  |
 | [HAPPY HAPPYミーティング](https://open.spotify.com/track/1UX6YQVjW7UwFzKql9Alqb) | [天ヶ瀬冬馬 \(CV.寺島拓篤\)](https://open.spotify.com/artist/5OETSxl0VRHQe0q5bpmZhl) | [THE IDOLM@STER SideM ORIGIN@L PIECES 06](https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB) | 4:43 | 2022-12-01 | 2022-12-16 |
 | [Happy's Birthday](https://open.spotify.com/track/3TRybkW20l5nukwmOXsBTx) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM NEW STAGE EPISODE:13 S.E.M](https://open.spotify.com/album/6zyvJTb3gNtd2dlQQBjtj8) | 4:15 | 2022-12-01 | 2023-01-15 |
+| [Happy\-Go\-Unlucky!](https://open.spotify.com/track/2RzjadQL8ETsxqL4aX2iSV) | [木村 龍 \(CV.濱 健人\)](https://open.spotify.com/artist/4Cdt0igkAmL0CvIvi6x7ie) | [THE IDOLM@STER SideM ORIGIN@L PIECES 02](https://open.spotify.com/album/7vKuKjUjsikdlFhOXbX4Ld) | 4:07 | 2024-03-05 |  |
 | [HIGH JUMP NO LIMIT](https://open.spotify.com/track/2xEQzDv6FN51uHBKnhsIcm) | [High Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ST@RTING LINE\-04 High Joker](https://open.spotify.com/album/0zYygSqzjxn3CdvZdSJtUV) | 4:41 | 2022-12-01 | 2022-12-21 |
 | [Hungry?](https://open.spotify.com/track/2tbKrlz5rUmjZKBzT4A4lu) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM NEW STAGE EPISODE：02 THE 虎牙道](https://open.spotify.com/album/0JvkledARWRgZDOvqEzVHx) | 3:41 | 2022-12-22 |  |
 | [JOKER オールマイティ](https://open.spotify.com/track/5TPX8WWXHjfiDWeMk83fGY) | [High×Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ST@RTING LINE\-04 High Joker](https://open.spotify.com/album/0zYygSqzjxn3CdvZdSJtUV) | 5:26 | 2022-12-01 |  |
@@ -75,7 +76,7 @@
 | [Never end "Opus"](https://open.spotify.com/track/69YcmR3rldSdriAJMghwPj) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM ST@RTING LINE\-11 Altessimo](https://open.spotify.com/album/5tqAy12EDquZQ7NZg0Pn3y) | 5:05 | 2024-03-05 | 2024-10-04 |
 | [Not Alone](https://open.spotify.com/track/0DMWqErybyah6CoWS1H2q5) | [C.FIRST](https://open.spotify.com/artist/601o8klLY0Bsm1YIbVggfL) | [THE IDOLM@STER SideM GROWING SIGN@L 02 C.FIRST](https://open.spotify.com/album/5OvSepSC3wL0Ok1sBzPNHt) | 4:07 | 2022-12-01 |  |
 | [ONE to DREAM！](https://open.spotify.com/track/4KMxhxjRp3f44v1nNzje6S) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM 49 ELEMENTS \-09 FRAME](https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6) | 4:12 | 2023-05-09 |  |
-| [OUR SONG \-それは世界でひとつだけ\-](https://open.spotify.com/track/1uQyVM4UOPSWGspmgJPwX2) | [High Joker](https://open.spotify.com/artist/72dLwkFLqecJWmcMtWF8ZX) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 01](https://open.spotify.com/album/4M8yao8zlVcUWmUGZM9oV3) | 4:41 | 2022-12-01 |  |
+| [OUR SONG \-それは世界でひとつだけ\-](https://open.spotify.com/track/1uQyVM4UOPSWGspmgJPwX2) | [High Joker](https://open.spotify.com/artist/72dLwkFLqecJWmcMtWF8ZX) | [THE IDOLM@STER SideM 2nd ANNIVERSARY 01](https://open.spotify.com/album/4M8yao8zlVcUWmUGZM9oV3) | 4:41 | 2022-12-01 | 2024-10-26 |
 | [Over AGAIN](https://open.spotify.com/track/3g4KIlTJd01aZLSD6gmEuZ) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D) | [THE IDOLM@STER SideM ANIMATION PROJECT 05 Over AGAIN](https://open.spotify.com/album/2NPZLYKvehiwx07Y35gslb) | 4:14 | 2022-12-01 |  |
 | [Pavé Étoiles](https://open.spotify.com/track/41WZEMDkuXUG4fmJJRJ5XP) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:07 | 2022-12-01 |  |
 | [PERMAFROST](https://open.spotify.com/track/66FhJlwAJbbXr9E31F76kP) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders](https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE) | 4:38 | 2022-12-01 | 2024-10-23 |

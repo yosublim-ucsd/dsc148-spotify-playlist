@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: Dillon Francis
 
-703 songs - 1 day 12 hr 41 min
+704 songs - 1 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,6 +568,7 @@
 | [Smalltown Boy](https://open.spotify.com/track/4PsfmkcIgrhfn9hhxI8jp3) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [Smalltown Boy](https://open.spotify.com/album/4sFfqJUZSQSixYRkYUYRbk) | 4:55 | 2024-02-08 | 2024-04-12 |
 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 | 2023-07-13 | 2023-09-22 |
 | [Smoke In Your Eyes](https://open.spotify.com/track/2Kurh5hEYRgzDzuahjHytQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Smoke In Your Eyes](https://open.spotify.com/album/5EEitGHmxCB0XD0rtV3bE7) | 6:31 | 2023-12-21 | 2024-03-29 |
+| [SO TRU](https://open.spotify.com/track/5PyEqto0uL1bjRT7Lfyry2) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/4kye7T51OG0GxK30q8NkxH) | 2:53 | 2024-10-25 |  |
 | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/track/1j1gXN6uHuzNkdqLQ9fPl6) | [Goanna](https://open.spotify.com/artist/4kmYEa0DFPDv2Opcpjv5el), [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1), [William Barton](https://open.spotify.com/artist/25p0odX5tWrZUfcgQNLXT2) | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/album/7kb4YUxaTwhZb97foUd1SU) | 3:52 | 2023-02-09 | 2023-07-07 |
 | [Somebody \(2024\)](https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Sante Sansone](https://open.spotify.com/artist/5fAwPpS78sokZdpktoSUE8) | [Somebody \(2024\)](https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH) | 2:33 | 2024-02-08 | 2024-10-11 |
 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 | 2024-07-25 |  |

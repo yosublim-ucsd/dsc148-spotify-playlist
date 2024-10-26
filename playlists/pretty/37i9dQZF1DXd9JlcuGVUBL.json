@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1?si=pTzUURrPR56WK8mXojlYtw\">James Johnston</a>  & <a href=\"https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=OuqbJY55RemWdRS7DNPZiw\">Appel</a>  ",
-  "num_followers": 30633,
+  "num_followers": 30956,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -401,20 +401,20 @@
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-02-09 03:20:16",
       "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
       },
       "artists": [
         {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 161285,
-      "name": "Quitter",
-      "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
+      "duration_ms": 175026,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
       "added_at": "2024-07-04 22:00:00",
@@ -449,20 +449,20 @@
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
     },
     {
-      "added_at": "2024-02-09 03:20:16",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
         }
       ],
-      "duration_ms": 175026,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
+      "duration_ms": 161285,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc"
     },
     {
-      "added_at": "2024-05-02 22:00:00",
-      "album": {
-        "name": "First",
-        "url": "https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 174412,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
-    },
-    {
       "added_at": "2024-10-10 22:00:00",
       "album": {
         "name": "Gonna Be You (feat. Callie Twisselman)",
@@ -843,6 +827,22 @@
       "duration_ms": 184608,
       "name": "Gonna Be You (feat. Callie Twisselman)",
       "url": "https://open.spotify.com/track/2S9K5jeUJpFhxr4MRpIogF"
+    },
+    {
+      "added_at": "2024-05-02 22:00:00",
+      "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/1XaFw0gmJlhiEbxZYphu4n"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 174412,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0GFwR94TMOMi8ev2T39ufA"
     },
     {
       "added_at": "2024-03-15 05:03:56",

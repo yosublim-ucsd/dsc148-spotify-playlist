@@ -334,6 +334,24 @@
     {
       "album": {
         "name": "Blue Christmas",
+        "url": "https://open.spotify.com/album/51qIyccjvJCDMNW2L5K7xi"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128720,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3p47LAxCgFOSmgj20WqBdH"
+    },
+    {
+      "album": {
+        "name": "Blue Christmas",
         "url": "https://open.spotify.com/album/6eF0Qn1pCKtgRP1ChIvijA"
       },
       "artists": [
@@ -2518,6 +2536,24 @@
       "duration_ms": 245066,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5RMuRiyV5fVzQriQjGyIhp"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home For Christmas",
+        "url": "https://open.spotify.com/album/3obmcueQA0HPnQcUmYykic"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200989,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/1GjuT0FXHHve3t5CzqU9Wd"
     },
     {
       "album": {

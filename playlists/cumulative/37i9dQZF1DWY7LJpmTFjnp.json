@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Pressive y Nunca Jam\u00e1s en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Pante\u00f3n Rococ\u00f3 en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 252006,
       "name": "Contra Todo Pron\u00f3stico",
       "url": "https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO"
@@ -1724,7 +1724,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 326653,
       "name": "Hazme Sentir - Remaster 2024",
       "url": "https://open.spotify.com/track/3gMjLlyj7e6mMUdTmGuDNP"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 193000,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/5TLHhrm0sGLJNpRGo1kMxU"
@@ -3752,6 +3752,24 @@
       "duration_ms": 165000,
       "name": "Rocket Song",
       "url": "https://open.spotify.com/track/0yvPC1XEX2lnY3dFpuRgkN"
+    },
+    {
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186678,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
     },
     {
       "album": {
@@ -4514,7 +4532,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 215033,
       "name": "The Last Ninja",
       "url": "https://open.spotify.com/track/5HswIVZ2QkB0jSI8qduV7a"

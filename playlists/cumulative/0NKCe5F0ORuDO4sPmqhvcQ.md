@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-646 songs - 1 day 12 hr 20 min
+647 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [Sun & Moon \- Manila Killa Remix](https://open.spotify.com/track/1ulJG8ELvRv1za2KTYoPSP) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [10 Years of Group Therapy](https://open.spotify.com/album/23US2GpiBRMbvmVkPqZkRw) | 4:13 | 2022-01-07 | 2022-06-28 |
 | [sun+tide](https://open.spotify.com/track/0bLKKrrEeAxQPgq8HtXVsR) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [everythingeverydayeverything](https://open.spotify.com/album/5gumyvjIFS1YM8VI5bF5wV) | 3:43 | 2022-07-07 | 2023-01-30 |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-01-07 | 2022-02-01 |
+| [Sunrise](https://open.spotify.com/track/15eaBPOMmJfg1UNOF58hcW) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Sunrise](https://open.spotify.com/album/1TNaRChP0UiN1pszfgYwOt) | 2:33 | 2024-10-25 |  |
 | [Sunrise](https://open.spotify.com/track/3Let0CN8g4VuTh8Ka4Hzxw) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v) | [Black Zebra](https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE) | 2:22 | 2021-11-23 | 2022-02-05 |
 | [Sunshine \(My Girl\)](https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Sunshine \(My Girl\)](https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As) | 2:11 | 2023-09-01 | 2023-10-06 |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2022-02-16 |

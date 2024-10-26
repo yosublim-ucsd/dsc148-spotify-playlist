@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 542563,
+  "num_followers": 542588,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Stoner Witch",
-        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
       "artists": [
         {
-          "name": "Melvins",
-          "url": "https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO"
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
         }
       ],
-      "duration_ms": 72800,
-      "name": "Skweetis",
-      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
+      "duration_ms": 158013,
+      "name": "The Fox",
+      "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
+        "name": "Stoner Witch",
+        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
       },
       "artists": [
         {
-          "name": "Graveyard",
-          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+          "name": "Melvins",
+          "url": "https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO"
         }
       ],
-      "duration_ms": 158013,
-      "name": "The Fox",
-      "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
+      "duration_ms": 72800,
+      "name": "Skweetis",
+      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Into Submission",
-        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
-      },
-      "artists": [
-        {
-          "name": "Astroqueen",
-          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
-        }
-      ],
-      "duration_ms": 267493,
-      "name": "Superhuman God",
-      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Warp Riders",
         "url": "https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Into Submission",
+        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
+      },
+      "artists": [
+        {
+          "name": "Astroqueen",
+          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Superhuman God",
+      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "All My Friends Move Like The Night",
-        "url": "https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK"
-      },
-      "artists": [
-        {
-          "name": "Devil Electric",
-          "url": "https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA"
-        }
-      ],
-      "duration_ms": 173808,
-      "name": "All My Friends Move Like The Night",
-      "url": "https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "In Search Of",
         "url": "https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
+        "name": "All My Friends Move Like The Night",
+        "url": "https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK"
       },
       "artists": [
         {
-          "name": "Masters Of Reality",
-          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+          "name": "Devil Electric",
+          "url": "https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA"
         }
       ],
-      "duration_ms": 293239,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
+      "duration_ms": 173808,
+      "name": "All My Friends Move Like The Night",
+      "url": "https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1351,6 +1335,22 @@
       "duration_ms": 239961,
       "name": "Call of the Void",
       "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2"
+      },
+      "artists": [
+        {
+          "name": "Masters Of Reality",
+          "url": "https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb"
+        }
+      ],
+      "duration_ms": 293239,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn"
     },
     {
       "added_at": "2024-07-19 04:00:00",

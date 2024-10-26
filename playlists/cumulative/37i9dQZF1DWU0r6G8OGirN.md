@@ -4,7 +4,7 @@
 
 > Warm instrumental versions of your favorite Christmas songs.
 
-124 songs - 6 hr 24 min
+127 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Candy Canes and Silver Lanes](https://open.spotify.com/track/2q9XGPnpBqtHd0JnKN3tH6) | [Brandon's Three](https://open.spotify.com/artist/2YPncTc0Vj6Ofh2DDooAbM) | [Candy Canes and Silver Lanes](https://open.spotify.com/album/7bBNCGA5mKWVHVBqoJPPXC) | 3:43 | 2023-11-10 |  |
 | [Christ Was Born On Christmas Day](https://open.spotify.com/track/1HyKIB8bzYYT6PlosczZj3) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Christ Was Born On Christmas Day](https://open.spotify.com/album/4Av88zEsREUmeIhBwUhWV7) | 2:34 | 2023-11-24 |  |
 | [Christmas is a\-comin'](https://open.spotify.com/track/0AtyXQ2WXI8ei08zdTDJvV) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [Christmas is a\-comin'](https://open.spotify.com/album/1FQA9vud3qC2AHLIhoN633) | 2:26 | 2023-10-27 |  |
+| [Christmas Tears of Joy](https://open.spotify.com/track/1dweHzLGsaeytVROAiRNv5) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Christmas Tears of Joy](https://open.spotify.com/album/32Ak4BmOAFlBVNAhGOy1NF) | 2:42 | 2024-10-25 |  |
 | [Christmas Time](https://open.spotify.com/track/3Cs5m2rS0UnYx4UWppPLP8) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 2:02 | 2022-10-07 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/35OqFuNbclT3cFT92fYGTH) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Christmas Time Is Here](https://open.spotify.com/album/0XMkRH1T6WidEsdE7VuQ4S) | 2:46 | 2023-10-27 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/7aEjsTKJKspp01vkeVgeRr) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 6:03 | 2022-09-15 | 2023-10-27 |
@@ -35,7 +36,7 @@
 | [Christmas Time Is Here \- Instrumental](https://open.spotify.com/track/4DphT1rljbJjbK9WdrR1zI) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 6:06 | 2021-12-21 | 2022-09-18 |
 | [Christmas Waltz](https://open.spotify.com/track/0myOinmRDkfWlHnG2wIFzh) | [Rob McConnell Trio](https://open.spotify.com/artist/53mwOK94FGkKKUBUq9jGTx) | [A Concord Jazz Christmas](https://open.spotify.com/album/3cR6XhgcN0mAP5bGVF9ghX) | 4:32 | 2021-12-21 | 2023-09-22 |
 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/55tU7r4O96CUsaWZuMDaBo) | [Upstage Trio](https://open.spotify.com/artist/5jBnVpfLHeBEXaDAG0MD1L) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/4sBMrHHFC65NetHmShTGgO) | 2:48 | 2023-10-27 |  |
-| [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Frosty The Snowman](https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu) | 1:54 | 2023-10-13 |  |
+| [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Frosty The Snowman](https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu) | 1:54 | 2023-10-13 | 2024-10-26 |
 | [Deck the Halls](https://open.spotify.com/track/2HVU1szAZjST5179APX1ck) | [Owen Rochester Jazz](https://open.spotify.com/artist/7qYuRRLowPK759yfhiY1cS) | [Jingle Bells](https://open.spotify.com/album/7wSW8TOkMzrSiAD6Wulblw) | 1:43 | 2021-12-21 | 2023-09-01 |
 | [Ding Dong Merrily on High](https://open.spotify.com/track/0ETXxrPmqmWNuxpuHRqWfb) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Ding Dong Merrily on High](https://open.spotify.com/album/4B6xLARC7he8mOqBA0yjKu) | 2:22 | 2022-10-07 |  |
 | [Frosty The Snowman](https://open.spotify.com/track/6i78EhlNpCODok4KjHKLrf) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Frosty The Snowman](https://open.spotify.com/album/1I9rcVH3yBxsNGUHb8X5Wk) | 2:02 | 2022-10-06 |  |
@@ -68,6 +69,7 @@
 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 | 2021-12-21 |  |
 | [It was December the twenty forth..](https://open.spotify.com/track/5eG6f8vtPA9uYIFAOnjyAa) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [It was December the twenty forth..](https://open.spotify.com/album/03ZNYr0sk3jATxHtzlCsoN) | 2:27 | 2023-11-17 |  |
 | [It's Beginning To Look a Lot Like Christmas](https://open.spotify.com/track/2ekoeJhto1KoKUzlaFokde) | [Christmas Jazz Duo](https://open.spotify.com/artist/13XRIoHlZNZChhsOwvkovD) | [All I Want for Christmas](https://open.spotify.com/album/4fUlyX2S164VoHO2y4IYP4) | 1:59 | 2021-12-21 | 2023-09-01 |
+| [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/0DlIQlggPodHeRU0lH0m7g) | [Gabriel Gonzalez](https://open.spotify.com/artist/5bL2hXMTtmocrHU3BqsZ4U) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/7irR16UVAWw5RnGnOkhViA) | 2:20 | 2024-10-25 |  |
 | [Joy To The World](https://open.spotify.com/track/1HPF2x2SgdWwrGVgPh16ki) | [The Christmas Brothers](https://open.spotify.com/artist/4hq9JfKZqh3qDuAvRZK81e) | [Joy to the World](https://open.spotify.com/album/1kezJtycElHPKwIsI6x1ur) | 1:44 | 2021-12-21 | 2023-09-01 |
 | [Lost in the stars](https://open.spotify.com/track/7FGl7mrd84QlQAqNqfonVN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Lost in the stars](https://open.spotify.com/album/3RzCBEMpRWtRNtrIfLsPSc) | 3:03 | 2023-10-06 |  |
 | [Misteltoe](https://open.spotify.com/track/6SJKiadklwqj969ihsTL06) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Misteltoe](https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K) | 2:22 | 2023-10-13 |  |
@@ -101,6 +103,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/3CwE9ExeHCA9ho6hy1lrNZ) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [Christmas Jazz!](https://open.spotify.com/album/5Zb21fmHLMw1lkft5F88Id) | 3:22 | 2022-10-07 |  |
 | [Somewhere In My Memory](https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Somewhere In My Memory](https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX) | 3:22 | 2023-11-10 |  |
 | [Still, Still, Still](https://open.spotify.com/track/1L0op2aXXuCnWsGT8ltTMW) | [Kyle Mendes Jazz Trio](https://open.spotify.com/artist/0KZqPiOKt79SlPR6kzZUm2) | [I'll Be Home For Christmas](https://open.spotify.com/album/3JFeZMiH5g3cXfrxpNkXtS) | 2:21 | 2022-10-20 |  |
+| [Suzy Snowflake](https://open.spotify.com/track/58zVXwV16mxnrtwi9WBng8) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Suzy Snowflake](https://open.spotify.com/album/0sT6voPsLMtPNClQBItqWD) | 3:10 | 2024-10-25 |  |
 | [The Chipmunk Song](https://open.spotify.com/track/0fQOIeqzT092q2p8wDDBYl) | [Sonny Magic Trio](https://open.spotify.com/artist/5UBpgvMO0TGIUiuD69RAP3) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/3owNP9iL5Db7iKu7JEyWEg) | 2:43 | 2022-10-07 |  |
 | [The Christmas Song](https://open.spotify.com/track/0GV5Du6sVdokEA5Xd1Cs8a) | [Barry Snyder Band](https://open.spotify.com/artist/5xmw30TV4tlHFIOH6HmPnd) | [It's Christmas Jazz Time](https://open.spotify.com/album/5JR94Jt73E9NuIAWksIoKR) | 5:12 | 2022-10-25 |  |
 | [The Christmas Song](https://open.spotify.com/track/0QxOpxLx8FEVOYDtnLbS3U) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [The Christmas Song](https://open.spotify.com/album/4tAD85fBWxNxfI1VjoermN) | 3:26 | 2021-12-21 | 2022-10-26 |

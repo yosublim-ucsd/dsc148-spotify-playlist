@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/0sbkEFgqbA3Jjot2lbqsyx.md) - [plain]
 | 46 | [Green Tambourine](https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr) | [The Lemon Pipers](https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5) | [The Best of the Lemon Pipers](https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg) | 2:27 |
 | 47 | [1,2,3 Red Light](https://open.spotify.com/track/6rVqaYLQ45XRefZ50T4bed) | [1910 Fruitgum Company](https://open.spotify.com/artist/17vIaBTHJOVxnU4v7t1DiY) | [Bubblegum Music Is The Naked Truth Volume 1](https://open.spotify.com/album/5fK1Hyan0dT8Bc2zCgF3Fa) | 2:08 |
 | 48 | [Reach out of the Darkness](https://open.spotify.com/track/7D52haxVyOjWIE7VSswqCD) | [Friend & Lover](https://open.spotify.com/artist/7k9JXkYLc9TBFynG860BC3) | [Lost Oldies but Goodies](https://open.spotify.com/album/1g1D3VKIe46wBvBwn9FLUx) | 3:24 |
-| 49 | [Jumpin' Jack Flash \- Mono Version](https://open.spotify.com/track/1gqTXnc7WXBI9AwcCiqcJ1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Through The Past, Darkly \(Big Hits Vol\. 2\)](https://open.spotify.com/album/1Dsx0X79p4owIdoS0kTYgb) | 3:41 |
+| 49 | [Jumpin' Jack Flash \- Mono Version](https://open.spotify.com/track/1gqTXnc7WXBI9AwcCiqcJ1) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Through The Past, Darkly \(Big Hits Vol\. 2\) \[UK Version\]](https://open.spotify.com/album/1Dsx0X79p4owIdoS0kTYgb) | 3:41 |
 | 50 | [MacArthur Park](https://open.spotify.com/track/3sP9qw7dbFJZ9K6YHaVhUb) | [Richard Harris](https://open.spotify.com/artist/30Qh39o424P9qgdHNVouvo) | [MacArthur Park](https://open.spotify.com/album/0SvBGZCu5nxlxq8c3QXtV8) | 7:24 |
 
 Snapshot ID: `AAAABQ5w6Tq6kxMUwXOKiz//xc0yd9zi`

@@ -1,6 +1,6 @@
 {
   "description": "V\u00e5ra spellisteredakt\u00f6rers urval av otroliga l\u00e5tar fr\u00e5n 2023 som du kanske r\u00e5kat missa? Enjoy! #SpotifyWrapped",
-  "num_followers": 889,
+  "num_followers": 891,
   "original_name": "2023: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Le Fruit Disco II",
-        "url": "https://open.spotify.com/album/60sjF9j6WP0WGcqeIY5elU"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "pomelo",
-      "url": "https://open.spotify.com/track/7wJaL46QEUIX3Eksc71DNG"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "BF",
         "url": "https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 127963,
       "name": "BF",
       "url": "https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Le Fruit Disco II",
+        "url": "https://open.spotify.com/album/60sjF9j6WP0WGcqeIY5elU"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "pomelo",
+      "url": "https://open.spotify.com/track/7wJaL46QEUIX3Eksc71DNG"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Grodjakten",
-        "url": "https://open.spotify.com/album/67tcHcEHIXeKzZmcbj6zFb"
-      },
-      "artists": [
-        {
-          "name": "Johannes R\u00e4ih\u00e4",
-          "url": "https://open.spotify.com/artist/23xv3uz27CjbGn57PJ6ltP"
-        }
-      ],
-      "duration_ms": 151465,
-      "name": "Grodjakten",
-      "url": "https://open.spotify.com/track/4f87fFi1PMBC11LYQIjnRE"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "ULTRAVIOLET",
         "url": "https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT"
       },
@@ -939,6 +923,38 @@
       "duration_ms": 208225,
       "name": "WOMAN",
       "url": "https://open.spotify.com/track/5vnRIf4zADaCMfuDhfWQwS"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Grodjakten",
+        "url": "https://open.spotify.com/album/67tcHcEHIXeKzZmcbj6zFb"
+      },
+      "artists": [
+        {
+          "name": "Johannes R\u00e4ih\u00e4",
+          "url": "https://open.spotify.com/artist/23xv3uz27CjbGn57PJ6ltP"
+        }
+      ],
+      "duration_ms": 151465,
+      "name": "Grodjakten",
+      "url": "https://open.spotify.com/track/4f87fFi1PMBC11LYQIjnRE"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv"
+      },
+      "artists": [
+        {
+          "name": "Sky Li",
+          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
+        }
+      ],
+      "duration_ms": 198217,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -975,22 +991,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/5mtPksE1kgJgCbNhphokhv"
-      },
-      "artists": [
-        {
-          "name": "Sky Li",
-          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
-        }
-      ],
-      "duration_ms": 198217,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "We Never Knew",
         "url": "https://open.spotify.com/album/436z0vlNIcIcZuHcjdCYw6"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Angeline",
         "url": "https://open.spotify.com/album/6pZioXDALfPUkIeCzApK5r"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 204596,
       "name": "Angeline",
       "url": "https://open.spotify.com/track/0c1jg65pcEMAbNqvnAb8DV"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Work For Free",
-        "url": "https://open.spotify.com/album/0UyHAJrwsR8Ywj2toxAG4w"
-      },
-      "artists": [
-        {
-          "name": "Lover's Skit",
-          "url": "https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu"
-        }
-      ],
-      "duration_ms": 162853,
-      "name": "Work For Free",
-      "url": "https://open.spotify.com/track/1UHLpmEsT3YPNnS7HW5Uap"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "blanket",
         "url": "https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Show You Off",
-        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
+        "name": "Work For Free",
+        "url": "https://open.spotify.com/album/0UyHAJrwsR8Ywj2toxAG4w"
       },
       "artists": [
         {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+          "name": "Lover's Skit",
+          "url": "https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu"
         }
       ],
-      "duration_ms": 174323,
-      "name": "Show You Off",
-      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
+      "duration_ms": 162853,
+      "name": "Work For Free",
+      "url": "https://open.spotify.com/track/1UHLpmEsT3YPNnS7HW5Uap"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 245656,
       "name": "Gia",
       "url": "https://open.spotify.com/track/469s8Ekt5RF3IB3uKWSmGO"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Show You Off",
+        "url": "https://open.spotify.com/album/3d5vxZBMt1IVlZCLlGqYEg"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 174323,
+      "name": "Show You Off",
+      "url": "https://open.spotify.com/track/5yiq0nOg5bsPc83IEF0Bcc"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
+        "name": "Chop It",
+        "url": "https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0"
+      },
+      "artists": [
+        {
+          "name": "Whammyboy",
+          "url": "https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "Chop It",
+      "url": "https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
         "name": "Fight Back Time",
         "url": "https://open.spotify.com/album/5eXFIcEh62sNR9C3MyJYHY"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 197079,
       "name": "Fight Back Time",
       "url": "https://open.spotify.com/track/2pC6V7ZQyNMFGh8yfrKrgi"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
-        "name": "Chop It",
-        "url": "https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0"
-      },
-      "artists": [
-        {
-          "name": "Whammyboy",
-          "url": "https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Chop It",
-      "url": "https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Attack On Us",
-        "url": "https://open.spotify.com/album/0N4kxrPiQ8PuixSIJg2owR"
-      },
-      "artists": [
-        {
-          "name": "Orph\u00e9e Noah",
-          "url": "https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Attack On Us",
-      "url": "https://open.spotify.com/track/4N1tF1jz1JKLpnaoUSxG9Z"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Daghem",
         "url": "https://open.spotify.com/album/10t35xGOekaWJBOGVuQ0so"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 233760,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/7JbPqvmxTO7o0hWYkYUN1a"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Attack On Us",
+        "url": "https://open.spotify.com/album/0N4kxrPiQ8PuixSIJg2owR"
+      },
+      "artists": [
+        {
+          "name": "Orph\u00e9e Noah",
+          "url": "https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Attack On Us",
+      "url": "https://open.spotify.com/track/4N1tF1jz1JKLpnaoUSxG9Z"
     },
     {
       "added_at": "2023-11-29 12:17:00",

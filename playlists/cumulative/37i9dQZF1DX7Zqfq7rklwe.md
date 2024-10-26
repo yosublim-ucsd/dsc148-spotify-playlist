@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista ☠️ Kannessa The Rasmus.
 
-113 songs - 7 hr 26 min
+114 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Frankenstein's Wife](https://open.spotify.com/track/268MELe1R45Gqhz8RYkxuU) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Frankenstein's Wife](https://open.spotify.com/album/5XQRzumlwkrrVlbl7yGMae) | 5:25 | 2024-09-11 |  |
 | [Haamukirjoitus](https://open.spotify.com/track/2VsChldNUjT45aH8Ag4jWi) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haamukirjoitus](https://open.spotify.com/album/7mmTem3c0cqFyED5zerjhk) | 3:10 | 2024-09-19 | 2024-10-25 |
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2024-09-11 |  |
+| [Haluaako Piepponen turpaan?](https://open.spotify.com/track/08jQ1OPwy0gJ6VrlWRPKH9) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haluaako Piepponen turpaan?](https://open.spotify.com/album/3va93w0LhqBOsmUUKmxmSg) | 3:32 | 2024-10-24 |  |
 | [Hearts Burst into Fire](https://open.spotify.com/track/6DsILuMLGYN6QqPXlhGHWo) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/2mGohCvbL3klQgXyTj7uNB) | 4:57 | 2024-09-11 | 2024-09-13 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 |  |
 | [Heroes](https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Heroes](https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN) | 3:45 | 2024-09-11 |  |

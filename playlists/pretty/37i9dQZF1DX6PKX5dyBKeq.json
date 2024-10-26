@@ -1,12 +1,12 @@
 {
   "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Wretch 32",
-  "num_followers": 1391800,
+  "num_followers": 1391864,
   "original_name": "Rap UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrRcAAAAABY7bUEGam3FmwY+q/zRnzq",
+  "snapshot_id": "ZxuBGwAAAABXeg2H181mPtIysIdjqxOv",
   "tracks": [
     {
       "added_at": "2024-10-24 23:00:00",
@@ -167,6 +167,22 @@
       "duration_ms": 153763,
       "name": "Last Night In Kingston - Konan Freestyle",
       "url": "https://open.spotify.com/track/4btn0FQ4yVmt455Th68xZM"
+    },
+    {
+      "added_at": "2024-10-25 11:29:31",
+      "album": {
+        "name": "Tijuana",
+        "url": "https://open.spotify.com/album/4X7ju5samDdZ3uzMTOZWbB"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "duration_ms": 184101,
+      "name": "Tijuana",
+      "url": "https://open.spotify.com/track/5Jxp8PEjJ46pD2tUitmbqn"
     },
     {
       "added_at": "2024-10-24 23:00:00",

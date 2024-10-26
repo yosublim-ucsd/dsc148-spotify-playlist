@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Hp Boyz
 
-961 songs - 1 day 20 hr 43 min
+962 songs - 1 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -591,6 +591,7 @@
 | [NO TELLIN](https://open.spotify.com/track/1G0sjeBdmr2gmVAR3xgZVs) | [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [NO TELLIN](https://open.spotify.com/album/247yuZ7hBgYGX7S3Sh5Fdw) | 2:11 | 2022-09-02 | 2023-03-10 |
 | [NO TELLIN \(REMIX\)](https://open.spotify.com/track/3shSoJJfpQfRIdsxw3PmGs) | [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Brandon Jonak](https://open.spotify.com/artist/7CcZ6Z4w04MsQZp4bow5m4) | [NO TELLIN \(REMIX\)](https://open.spotify.com/album/5SyRplhQ5evQd3C41G2LSA) | 3:01 | 2022-09-15 | 2022-11-11 |
 | [No Warning](https://open.spotify.com/track/0oATlBhZMhWKp7AOIbCvUU) | [Inkabee](https://open.spotify.com/artist/09cUVzX7itryGp6zaJjmiX), [JJ Vacant](https://open.spotify.com/artist/0s8cbzbJdb1UBxqzX9gOzl) | [No Warning](https://open.spotify.com/album/5RMt9yOYoaSLxQ254i9WCk) | 2:27 | 2024-05-30 | 2024-07-19 |
+| [NO WAY AROUND IT](https://open.spotify.com/track/3qWVReQTCayxArpUz60YJ3) | [Anfa Rose](https://open.spotify.com/artist/6QyD04sHvKf1AjxkXrNRk1) | [NO WAY AROUND IT](https://open.spotify.com/album/3BIxjSmvJSXpXN9ZfSCULD) | 2:57 | 2024-10-24 |  |
 | [NO!](https://open.spotify.com/track/4GNfbCipCqtBYK70O0g9FK) | [AR the Eternal](https://open.spotify.com/artist/6DGg3vOIAiIgpMsbU7x4b9) | [NO!](https://open.spotify.com/album/6Fd5zE5o985sRtvGX97gpc) | 3:40 | 2024-06-13 | 2024-08-02 |
 | [Nobody Gotta Know](https://open.spotify.com/track/5VJH36W5nsZL9AFfmPQy1L) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ), [Youngn Lipz](https://open.spotify.com/artist/36PxHmbx5QrRTpuCaw4FuV) | [Nobody Gotta Know](https://open.spotify.com/album/2FQMjWTSevddEV2DxefJRK) | 2:51 | 2022-03-21 | 2022-07-01 |
 | [NOBODY KNOWS \- Spotify Singles](https://open.spotify.com/track/09CaMPTzbkUkqpi4963qi6) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Spotify Singles](https://open.spotify.com/album/5rEszQ8iijlsu5caNiHQNY) | 2:09 | 2022-12-08 | 2023-04-14 |

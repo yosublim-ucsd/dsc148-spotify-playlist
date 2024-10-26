@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Madeline Merlo",
+  "description": "The home of Canadian country music. Cover: Tyler Joe Miller",
   "name": "North Country",
   "tracks": [
     {
@@ -360,6 +360,24 @@
       "duration_ms": 211426,
       "name": "Church",
       "url": "https://open.spotify.com/track/2CuozTAQkXtwB4eQ0lMbyG"
+    },
+    {
+      "album": {
+        "name": "Coast to Coast",
+        "url": "https://open.spotify.com/album/6txofk1MqbNA1ZBFpfjcCh"
+      },
+      "artists": [
+        {
+          "name": "Tyson Ray Borsboom",
+          "url": "https://open.spotify.com/artist/5pJeBtKZlfZCFnq9HB0eTC"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238165,
+      "name": "Coast to Coast",
+      "url": "https://open.spotify.com/track/18fqq295kEELwCmgky7y9a"
     },
     {
       "album": {
@@ -821,6 +839,24 @@
     },
     {
       "album": {
+        "name": "Going Home",
+        "url": "https://open.spotify.com/album/38T63sTefdL1FAYJ2K9YZR"
+      },
+      "artists": [
+        {
+          "name": "Tyler Joe Miller",
+          "url": "https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186386,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/2lKIMOOkiV0kqFe0FH9J1d"
+    },
+    {
+      "album": {
         "name": "Golden Child",
         "url": "https://open.spotify.com/album/1Dd74K8QIBvDUb1QdHwYtu"
       },
@@ -854,6 +890,24 @@
       "duration_ms": 181426,
       "name": "Golden Rules",
       "url": "https://open.spotify.com/track/4cIpz9pVrZ0aaHWqAMMaW7"
+    },
+    {
+      "album": {
+        "name": "Good Man",
+        "url": "https://open.spotify.com/album/4ORx7j3z9Du4zdUNsloiSh"
+      },
+      "artists": [
+        {
+          "name": "Brittany Kennell",
+          "url": "https://open.spotify.com/artist/5LqrMo8Uh0K7mJ6zoWd3CP"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204704,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/6J4GbwXrFpvb7Dn7iBUwdq"
     },
     {
       "album": {
@@ -1555,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Neon Cowboy",
+        "url": "https://open.spotify.com/album/5scVpTM1JZYZGzOJ2jZVtw"
+      },
+      "artists": [
+        {
+          "name": "Elyse Saunders",
+          "url": "https://open.spotify.com/artist/1jsGKKtfTZM5XBlT9EhFOk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199519,
+      "name": "Neon Cowboy",
+      "url": "https://open.spotify.com/track/4SoxGhG9jDK86qCXFKOkRJ"
+    },
+    {
+      "album": {
         "name": "Never Leave",
         "url": "https://open.spotify.com/album/2jizXHiMa2KOpVBU7Er4G1"
       },
@@ -1570,6 +1642,28 @@
       "duration_ms": 213269,
       "name": "Never Leave",
       "url": "https://open.spotify.com/track/0owyOeTqTln75t7TBUlBud"
+    },
+    {
+      "album": {
+        "name": "Never Not Care",
+        "url": "https://open.spotify.com/album/3rpA5VLqSQ1WfrDt050OZv"
+      },
+      "artists": [
+        {
+          "name": "Steven Lee Olsen",
+          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
+        },
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155740,
+      "name": "Never Not Care",
+      "url": "https://open.spotify.com/track/76QLV6Eu2S375hXioGynF5"
     },
     {
       "album": {
@@ -1728,7 +1822,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 228981,
       "name": "Outliving",
       "url": "https://open.spotify.com/track/1yLUBXYa3r768BBzp63duL"
@@ -2064,7 +2158,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 203468,
       "name": "Silverado-si-do",
       "url": "https://open.spotify.com/track/2arYI5xSg8l1CMqMaJwOQo"
@@ -2104,7 +2198,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 147244,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/2QaKqCBZzBossC940glm6N"
@@ -2252,7 +2346,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 195290,
       "name": "Takes Me Back",
       "url": "https://open.spotify.com/track/3DNAcQ8ChlimJiqGCmmXGz"
@@ -2382,7 +2476,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 153121,
       "name": "today",
       "url": "https://open.spotify.com/track/2f53Ycvv8VrgGOa5VcMnMk"

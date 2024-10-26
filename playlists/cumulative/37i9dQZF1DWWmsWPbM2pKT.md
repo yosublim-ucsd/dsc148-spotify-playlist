@@ -4,7 +4,7 @@
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-279 songs - 17 hr 7 min
+280 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [MOTHS](https://open.spotify.com/track/5QjDSwiE4HhAnYxExc8l65) | [Nyxjvh](https://open.spotify.com/artist/0qynm6lz4zZ8lJZygwfovX) | [MOTHS](https://open.spotify.com/album/5u0CMSfz7NxPrZW5IAClIf) | 1:20 | 2023-08-31 | 2024-04-19 |
 | [Motion](https://open.spotify.com/track/0fKyRv26iIdZo9XCQ56jPO) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/73lHzvuzmDsRscdaCQoj9B) | 3:59 | 2023-08-31 |  |
 | [Motion](https://open.spotify.com/track/3Bd2WMsjL9XbMQeuzBSN1t) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Country Girl Uncut](https://open.spotify.com/album/0Gx2nIxhlYbpbk0BsjL15X) | 3:59 | 2024-01-11 | 2024-04-19 |
+| [Música d e s a s t r e](https://open.spotify.com/track/6YYhdzZmiuR7TwZKTMyEOY) | [La Bande\-Son Imaginaire](https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7) | [Synthesizer magazine](https://open.spotify.com/album/6gH0bTT7KHvAEs1CzZ1KN9) | 4:10 | 2024-10-25 |  |
 | [Nadie Es Leal](https://open.spotify.com/track/1kTMe7VPlUt2gby7NqWzoi) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Turboviolencia](https://open.spotify.com/album/6dqnfkFIk2k450lqaCPTKq) | 2:18 | 2022-02-18 | 2023-02-10 |
 | [Narc](https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj) | [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1) | [Narc](https://open.spotify.com/album/6BsqNNzQzCB9pHwZJiOwc1) | 2:45 | 2022-09-11 | 2023-09-01 |
 | [Nasha](https://open.spotify.com/track/4DRFP1Bz7cgYk1cTUIxfUt) | [Aurat](https://open.spotify.com/artist/4ZiXmGjXlAVQNvqXq5VXx0) | [Poison](https://open.spotify.com/album/0rkapF9dF1GTBoJtOFiTJf) | 2:14 | 2023-08-31 |  |
@@ -191,7 +192,7 @@
 | [Pain](https://open.spotify.com/track/2tpfPi4qSamU9EX5Q8FnNi) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3) | 7:19 | 2023-08-31 | 2024-04-19 |
 | [Paradise](https://open.spotify.com/track/4nQWhotmcrNRfOuu8EfmjF) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Paradise](https://open.spotify.com/album/2IjroX0bM8miBvBTqDRsKJ) | 5:35 | 2020-12-21 | 2023-09-01 |
 | [Paralyzed](https://open.spotify.com/track/0ECf6YrheBrgqZpnFpuE1r) | [Glaring](https://open.spotify.com/artist/576kYuY4OrauYNEzESyxDE) | [Paralyzed](https://open.spotify.com/album/7J5m8IiBGYSjPFF4i8Joo0) | 2:25 | 2023-08-31 |  |
-| [Phantom](https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Shades of Violet](https://open.spotify.com/album/4Q9C7ysyx6CpjhlaJuKVhi) | 3:18 | 2023-08-31 |  |
+| [Phantom](https://open.spotify.com/track/7vvultYHYCuFk0AJWa5c9O) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [Shades of Violet](https://open.spotify.com/album/4Q9C7ysyx6CpjhlaJuKVhi) | 3:18 | 2023-08-31 | 2024-10-26 |
 | [Places X Faces](https://open.spotify.com/track/4d562drbG7p6Z4KfvGUyCN) | [Aspen Forest](https://open.spotify.com/artist/1skhtKw4FGCJtQLFcvDFqx) | [Places X Faces](https://open.spotify.com/album/1Q1uW6XjblEqwnLmSlfNTW) | 2:23 | 2023-08-31 | 2024-09-14 |
 | [Plasticity](https://open.spotify.com/track/3nMXh9pQqC2nS5OAZrhy9s) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Rendez\-Vous](https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx) | 3:11 | 2023-01-06 | 2023-09-01 |
 | [Please Stay](https://open.spotify.com/track/7vIFHpoofIaZuh3CsdTuTT) | [Haunt Me](https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6) | [Please Stay](https://open.spotify.com/album/2vh1IK3UdV1EpQpwj8I0Lz) | 3:50 | 2023-08-31 |  |

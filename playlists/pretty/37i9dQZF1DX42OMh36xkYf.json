@@ -1,45 +1,13 @@
 {
   "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Loyal Lobos en portada.",
-  "num_followers": 16065,
+  "num_followers": 16069,
   "original_name": "IRIS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuNzqgAAAAAPhRk0idHVdFkNwWbAd4oT",
+  "snapshot_id": "ZxsLlgAAAAAeQOAYqOhWb4EIcKJM2LHR",
   "tracks": [
-    {
-      "added_at": "2024-09-12 23:05:14",
-      "album": {
-        "name": "Lim\u00f3n",
-        "url": "https://open.spotify.com/album/47VgL6B4zheqaAtnPd5MCo"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Lim\u00f3n",
-      "url": "https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd"
-    },
-    {
-      "added_at": "2024-09-12 23:05:14",
-      "album": {
-        "name": "PALACIO",
-        "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "Drogada de Emociones",
-      "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
-    },
     {
       "added_at": "2024-09-12 23:05:14",
       "album": {
@@ -67,6 +35,42 @@
       "duration_ms": 185806,
       "name": "VOLVER",
       "url": "https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y"
+    },
+    {
+      "added_at": "2024-10-25 03:08:06",
+      "album": {
+        "name": "Museo",
+        "url": "https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "duration_ms": 165923,
+      "name": "Museo",
+      "url": "https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg"
+    },
+    {
+      "added_at": "2024-09-12 23:05:14",
+      "album": {
+        "name": "PALACIO",
+        "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "Drogada de Emociones",
+      "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
     },
     {
       "added_at": "2024-09-12 23:05:14",
@@ -131,6 +135,22 @@
       "duration_ms": 156852,
       "name": "devut",
       "url": "https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB"
+    },
+    {
+      "added_at": "2024-09-12 23:05:14",
+      "album": {
+        "name": "Lim\u00f3n",
+        "url": "https://open.spotify.com/album/47VgL6B4zheqaAtnPd5MCo"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd"
     },
     {
       "added_at": "2024-09-12 23:05:14",
@@ -515,22 +535,6 @@
       "duration_ms": 220777,
       "name": "Multicolor",
       "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
-    },
-    {
-      "added_at": "2024-09-12 23:05:14",
-      "album": {
-        "name": "Qu\u00e9 M\u00e1s Da",
-        "url": "https://open.spotify.com/album/2WyN5yIB3Izq1c5xODMywD"
-      },
-      "artists": [
-        {
-          "name": "Sofia Cordoba",
-          "url": "https://open.spotify.com/artist/4tskMdZP6z8sUf46Q4ThqM"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Qu\u00e9 M\u00e1s Da",
-      "url": "https://open.spotify.com/track/2L7EazniDPDv5UZZdcCBcA"
     },
     {
       "added_at": "2024-09-12 23:05:14",

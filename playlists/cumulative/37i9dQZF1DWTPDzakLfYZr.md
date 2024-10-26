@@ -4,14 +4,14 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Greeicy & Jay Wheeler
 
-366 songs - 19 hr 12 min
+367 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:11](https://open.spotify.com/track/2qzZTKnZ3f2vQ7DaAGKGq2) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [11:11](https://open.spotify.com/album/19AbkdvXeU2ga969fV5uUe) | 3:44 | 2022-03-25 | 2022-04-09 |
 | [12x3 Remix](https://open.spotify.com/track/3nl2V4yl1Vt8EJSM8RhSmJ) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [12x3 Remix](https://open.spotify.com/album/6kjJ9YLK0ZNTajArpF95qY) | 3:39 | 2022-08-26 | 2023-07-22 |
 | [12x3 Remix](https://open.spotify.com/track/6l5mnUQoCem5c3nb7drZP3) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [12x3 Remix](https://open.spotify.com/album/5bvDbTvKarV1m9W9U6oebI) | 3:39 | 2023-07-14 | 2023-11-11 |
-| [14/20](https://open.spotify.com/track/61fxkxoroML09OXhhUfsP4) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [14/20](https://open.spotify.com/album/6vdBr8NQLpiS67TpgMYybx) | 3:15 | 2023-05-18 |  |
+| [14/20](https://open.spotify.com/track/61fxkxoroML09OXhhUfsP4) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [14/20](https://open.spotify.com/album/6vdBr8NQLpiS67TpgMYybx) | 3:15 | 2023-05-18 | 2024-10-26 |
 | [1Trago](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1Trago](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 | 2023-06-16 | 2023-07-08 |
 | [2005](https://open.spotify.com/track/4NFW5n8VHH7l6x3XJkv1oQ) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [2005](https://open.spotify.com/album/4J4KvvywWFEYRSKbMA9frG) | 3:28 | 2021-12-10 | 2023-11-25 |
 | [3/21](https://open.spotify.com/track/0rV8UItPm7YFJuUDZBDrB8) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [3/21](https://open.spotify.com/album/2DlsYBU1TofLqTzvdeiFFp) | 2:46 | 2023-05-19 | 2023-06-17 |
@@ -350,6 +350,7 @@
 | [TENEMOS SUERTE](https://open.spotify.com/track/2kSzUN3mNeUT2LcHtL5jl4) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [TENEMOS SUERTE](https://open.spotify.com/album/7aeF4hk5Z1dS64vPCQXKJ0) | 2:22 | 2024-08-02 | 2024-09-14 |
 | [TNT](https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:05 | 2023-05-19 | 2023-06-03 |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-03-10 | 2023-04-22 |
+| [TOY PERDIO](https://open.spotify.com/track/3JXGcoxUTyBU7AYdpsLdH6) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [TOY PERDIO](https://open.spotify.com/album/41Fx3xFa1msZKkLGXVgm4t) | 2:55 | 2024-10-25 |  |
 | [Tu](https://open.spotify.com/track/7yjKBCdDFM6mrwxsOK5iYM) | [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Tu](https://open.spotify.com/album/3OQ7OIIIWGjdHCBzZwDMbH) | 3:21 | 2023-06-02 | 2023-09-02 |
 | [Tu Boca](https://open.spotify.com/track/4wtOpbBoX1O3ClP6W7OEPz) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Tu Boca](https://open.spotify.com/album/5tvGfWbjX9JknJp9ig1CXt) | 3:06 | 2024-06-28 |  |
 | [Tu Foto](https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD) | [Daishan](https://open.spotify.com/artist/3nUAKuxhyBw6JFWNUaZWbE) | [Tu Foto](https://open.spotify.com/album/0t5u5KgV1AEMpey8RcrNUJ) | 3:00 | 2022-01-18 | 2022-01-29 |

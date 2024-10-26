@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,010 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,012 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 27 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 |
 | 28 | [Cheat Op My 2](https://open.spotify.com/track/6mldRX4MV4CmTYsB7BcIA9) | [Dreamchaser7100](https://open.spotify.com/artist/5dNbLPmDIb6tBbpylFd0CT) | [Cheat Op My 2](https://open.spotify.com/album/6TWvgPFHDAIhBDpSdnvnQ3) | 2:34 |
 | 29 | [Sundphazamisa](https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0) | [Umlungu The Rapper](https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0), [Big Xhosa](https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy) | [Sundphazamisa](https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn) | 3:12 |
-| 30 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 |
+| 30 | [Smaak Vir Rap](https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd) | [JÜS](https://open.spotify.com/artist/4xWdHkhjQ6CD2ggPUUffU4), [LIMPO.G.O.D](https://open.spotify.com/artist/5dGKeyMOT7XJOlfceJfJHT) | [Vry & Jonk](https://open.spotify.com/album/4q6QPDCUyLC3DpOQ2w8Psh) | 2:17 |
 | 31 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 |
-| 32 | [Smaak Vir Rap](https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd) | [JÜS](https://open.spotify.com/artist/4xWdHkhjQ6CD2ggPUUffU4), [LIMPO.G.O.D](https://open.spotify.com/artist/5dGKeyMOT7XJOlfceJfJHT) | [Vry & Jonk](https://open.spotify.com/album/4q6QPDCUyLC3DpOQ2w8Psh) | 2:17 |
+| 32 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 |
 | 33 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
 | 34 | [Nooit Geweet](https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i), [Jemaine Julies](https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf) | [Nooit Geweet](https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4) | 3:16 |
 | 35 | [Wiggy](https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Gan Se Jou Mense](https://open.spotify.com/album/3RyjFxsU9hcmg14vqzUUMy) | 3:01 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 46 | [Nigel Hulle](https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z) | [Boss Niggas Only](https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq), [Jy Checkie](https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a), [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [BOSS NIGGAS ONLY V2](https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd) | 3:16 |
 | 47 | [Denero](https://open.spotify.com/track/5hgUqD7jK0e0wRXg67FsTZ) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Denero](https://open.spotify.com/album/28WlZuUcULwuuXdRCrJhjN) | 2:24 |
 | 48 | [Van Kleins Af](https://open.spotify.com/track/3nPatpKAyn8jWQmt00ohV7) | [Street Soundz](https://open.spotify.com/artist/6uSf6xubzAuNLdTiyjQHSR) | [Straat System](https://open.spotify.com/album/0xB0veEYROMdVtZdlrazlL) | 2:55 |
-| 49 | [Nou Wat Nou](https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P), [Bula B](https://open.spotify.com/artist/66bqtPkvO4QP1geGgYt5Rw) | [Nou Wat Nou](https://open.spotify.com/album/1f9Ddgd6IjPpJVNzJaN5mI) | 3:42 |
-| 50 | [Die Reminant](https://open.spotify.com/track/4o2nrEE1HvaCjC9asC6gUp) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Die Reminant](https://open.spotify.com/album/18RpfMxcTHbV4Srj9qmHj5) | 3:12 |
+| 49 | [Dus Okay](https://open.spotify.com/track/2ySsXPwpuDV1SMyZ68JYUs) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr), [Jovie](https://open.spotify.com/artist/0vK7SrJ0Xm55soTAi4DE37), [EmGee](https://open.spotify.com/artist/7tztZahujREhfsctTM4czq) | [Dus Okay](https://open.spotify.com/album/4b47ILddnlUFGMyhSvvuZt) | 3:19 |
+| 50 | [Nou Wat Nou](https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P), [Bula B](https://open.spotify.com/artist/66bqtPkvO4QP1geGgYt5Rw) | [Nou Wat Nou](https://open.spotify.com/album/1f9Ddgd6IjPpJVNzJaN5mI) | 3:42 |
 
 Snapshot ID: `ZxICjAAAAAAfPNY2iufW4v4C75L10IYl`

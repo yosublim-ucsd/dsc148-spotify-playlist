@@ -1,6 +1,6 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 89824,
+  "num_followers": 89901,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
@@ -35,22 +35,6 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
-        "name": "They Call Me the Popcorn Man (France 1975) [Blues Reference]",
-        "url": "https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm"
-      },
-      "artists": [
-        {
-          "name": "Luther Johnson",
-          "url": "https://open.spotify.com/artist/1fgNJ5TmN4k8Kf1zdaSBoV"
-        }
-      ],
-      "duration_ms": 385600,
-      "name": "Lonesome In My Bedroom",
-      "url": "https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx"
-    },
-    {
-      "added_at": "2024-05-28 18:44:23",
-      "album": {
         "name": "Tin Pan Alley",
         "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 322026,
       "name": "Cold Hearted Woman",
       "url": "https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4"
+    },
+    {
+      "added_at": "2024-05-28 18:44:23",
+      "album": {
+        "name": "They Call Me the Popcorn Man (France 1975) [Blues Reference]",
+        "url": "https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm"
+      },
+      "artists": [
+        {
+          "name": "Luther Johnson",
+          "url": "https://open.spotify.com/artist/1fgNJ5TmN4k8Kf1zdaSBoV"
+        }
+      ],
+      "duration_ms": 385600,
+      "name": "Lonesome In My Bedroom",
+      "url": "https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx"
     },
     {
       "added_at": "2024-05-28 18:44:23",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
-        "name": "The Biggest Thing Since Colossus",
-        "url": "https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 311933,
-      "name": "Ain't Nobody's Business",
-      "url": "https://open.spotify.com/track/6wDGgiUZIpC7eCgrSoguie"
-    },
-    {
-      "added_at": "2024-05-28 18:44:23",
-      "album": {
         "name": "An Introduction To Otis Rush",
         "url": "https://open.spotify.com/album/1PD0bGAiG3boXRd7MGHtjO"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 219559,
       "name": "I Can't Quit You Baby",
       "url": "https://open.spotify.com/track/1TVtYIucWI5fqdQwwlZFR3"
+    },
+    {
+      "added_at": "2024-05-28 18:44:23",
+      "album": {
+        "name": "The Biggest Thing Since Colossus",
+        "url": "https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 311933,
+      "name": "Ain't Nobody's Business",
+      "url": "https://open.spotify.com/track/6wDGgiUZIpC7eCgrSoguie"
     },
     {
       "added_at": "2024-05-28 18:44:23",
@@ -675,22 +675,6 @@
       "duration_ms": 180333,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/4GnCQfhL41HMe2pgx4bK9T"
-    },
-    {
-      "added_at": "2024-05-28 18:44:23",
-      "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2024-05-28 18:44:23",
@@ -763,18 +747,18 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 531960,
-      "name": "Celebrated Walkin' Blues",
-      "url": "https://open.spotify.com/track/4oNnxT1kVOAcAYkt8gxXAS"
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2024-05-28 18:44:23",
@@ -795,18 +779,18 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
       },
       "artists": [
         {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
         }
       ],
-      "duration_ms": 295666,
-      "name": "Reap What You Sow",
-      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
+      "duration_ms": 531960,
+      "name": "Celebrated Walkin' Blues",
+      "url": "https://open.spotify.com/track/4oNnxT1kVOAcAYkt8gxXAS"
     },
     {
       "added_at": "2024-05-28 18:44:23",
@@ -843,6 +827,22 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 295666,
+      "name": "Reap What You Sow",
+      "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
+    },
+    {
+      "added_at": "2024-05-28 18:44:23",
+      "album": {
         "name": "The Blues Album",
         "url": "https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
-        "name": "Faith And Grace: A Family Journey 1953-1976",
-        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Uncloudy Day",
-      "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
-    },
-    {
-      "added_at": "2024-05-28 18:44:23",
-      "album": {
         "name": "No Foolin'!",
         "url": "https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2024-05-28 18:44:23",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: Taj Mahal",
-        "url": "https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC"
+        "name": "Faith And Grace: A Family Journey 1953-1976",
+        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
       },
       "artists": [
         {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
         }
       ],
-      "duration_ms": 208733,
-      "name": "She Caught the Katy and Left Me a Mule to Ride",
-      "url": "https://open.spotify.com/track/4RZ5Bc5m9rNL6PRNOfbd6V"
+      "duration_ms": 177360,
+      "name": "Uncloudy Day",
+      "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
     },
     {
       "added_at": "2024-05-28 18:44:23",
@@ -923,6 +907,22 @@
       "duration_ms": 278873,
       "name": "Riding Out The Storm",
       "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
+    },
+    {
+      "added_at": "2024-05-28 18:44:23",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: Taj Mahal",
+        "url": "https://open.spotify.com/album/0wPbPlZ8VsoKFWtr9bVZIC"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "She Caught the Katy and Left Me a Mule to Ride",
+      "url": "https://open.spotify.com/track/4RZ5Bc5m9rNL6PRNOfbd6V"
     },
     {
       "added_at": "2024-05-28 18:44:23",

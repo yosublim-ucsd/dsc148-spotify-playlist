@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "2 y 3 de noviembre en el Parque Bicentenario \ud83e\udd20 Consigue tus boletos <a href=\"https://bit.ly/mexcla_playlist\"> AQU\u00cd</a> Bellakath en portada.",
+  "description": "2 y 3 de noviembre en el Parque Bicentenario \ud83e\udd20 Consigue tus boletos <a href=\"https://bit.ly/mexcla_playlist\"> AQU\u00cd</a> Luis R Conriquez en portada.",
   "name": "MEXCLA",
   "tracks": [
     {
@@ -397,6 +397,28 @@
     },
     {
       "album": {
+        "name": "Abran Paso",
+        "url": "https://open.spotify.com/album/4pMFJL9AAor8UG0uAkIbl5"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236002,
+      "name": "Abran Paso",
+      "url": "https://open.spotify.com/track/5ryLHMXzsxUdtThQ9gyxXr"
+    },
+    {
+      "album": {
         "name": "Acelerado",
         "url": "https://open.spotify.com/album/4mU85sregrZKzAQQNiEe3Y"
       },
@@ -768,6 +790,24 @@
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
+    },
+    {
+      "album": {
+        "name": "Amor Eterno",
+        "url": "https://open.spotify.com/album/5wgoakbtZTAfjJrDebDUvS"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333115,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4DKrfqRJPORFWSPOzV7peB"
     },
     {
       "album": {
@@ -1742,6 +1782,28 @@
       "duration_ms": 161960,
       "name": "Buscando El Olvido",
       "url": "https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr"
+    },
+    {
+      "album": {
+        "name": "BW",
+        "url": "https://open.spotify.com/album/1CGDlDzRZwzxCMcT6qXXRs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171443,
+      "name": "BW",
+      "url": "https://open.spotify.com/track/5UJvtcAGjB4HkcJTacYWXP"
     },
     {
       "album": {
@@ -4086,6 +4148,24 @@
       "duration_ms": 196832,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/1xgWArLVFD1AKsLzftZYc2"
+    },
+    {
+      "album": {
+        "name": "En Efecto",
+        "url": "https://open.spotify.com/album/2Uc44YK6diInkr4ro3gpnX"
+      },
+      "artists": [
+        {
+          "name": "Don Zares",
+          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223027,
+      "name": "En Efecto",
+      "url": "https://open.spotify.com/track/5P0Xi9ZFJwJEWQ1mKw7Ren"
     },
     {
       "album": {
@@ -7199,6 +7279,32 @@
     },
     {
       "album": {
+        "name": "Lovesong",
+        "url": "https://open.spotify.com/album/6jZ3MV1NhGpf66dOtvTxJl"
+      },
+      "artists": [
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        },
+        {
+          "name": "Mathilde Sobrino",
+          "url": "https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0"
+        },
+        {
+          "name": "Pepe Pecas",
+          "url": "https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155482,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/4zwd1ebXhAFsv06XZSmzHQ"
+    },
+    {
+      "album": {
         "name": "Luceros",
         "url": "https://open.spotify.com/album/4G08b4Dtfq0YjjQNTQcUv5"
       },
@@ -9711,6 +9817,36 @@
     },
     {
       "album": {
+        "name": "Presidente",
+        "url": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181064,
+      "name": "Presidente",
+      "url": "https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb"
+    },
+    {
+      "album": {
         "name": "PRIMO",
         "url": "https://open.spotify.com/album/1fazhvRXDXyxNJ1hIm1VBa"
       },
@@ -9850,6 +9986,28 @@
       "duration_ms": 168230,
       "name": "Punta Cana",
       "url": "https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i"
+    },
+    {
+      "album": {
+        "name": "Pura Belicada",
+        "url": "https://open.spotify.com/album/4lYFVL7mFbORlVnJ2b8i3z"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Pura Belicada",
+      "url": "https://open.spotify.com/track/1Kl8NIYfIVCn4RBQkziot9"
     },
     {
       "album": {
@@ -10613,6 +10771,24 @@
     },
     {
       "album": {
+        "name": "Se Cancela La Llorada",
+        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Se Cancela La Llorada",
+      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
+    },
+    {
+      "album": {
         "name": "Se Te Acab\u00f3 La Suerte",
         "url": "https://open.spotify.com/album/5ekAZKdKuO6lWxAWudLRIQ"
       },
@@ -11134,6 +11310,28 @@
       "duration_ms": 220493,
       "name": "Soy Lo Que Ves",
       "url": "https://open.spotify.com/track/4bLYmNWQOJerwF587T8RIo"
+    },
+    {
+      "album": {
+        "name": "TPT",
+        "url": "https://open.spotify.com/album/2Uy8mynSjaUJgM5ICpcbWC"
+      },
+      "artists": [
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        },
+        {
+          "name": "Banda Territorial de Monterrey",
+          "url": "https://open.spotify.com/artist/7i5aucBkMCpaey8tM7OcAO"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Suspiros",
+      "url": "https://open.spotify.com/track/5Gds84PZdhggEbBzZbBVjb"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: SDM",
+  "description": "Le rap francophone est en forme. Photo: White-B",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -910,7 +910,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 148657,
       "name": "Coco",
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
@@ -2076,6 +2076,28 @@
       "duration_ms": 166654,
       "name": "Jolie Go",
       "url": "https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181460,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq"
     },
     {
       "album": {

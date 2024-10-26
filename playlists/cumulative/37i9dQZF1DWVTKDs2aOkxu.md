@@ -2,9 +2,9 @@
 
 ### [The Indie List](https://open.spotify.com/playlist/37i9dQZF1DWVTKDs2aOkxu)
 
-> The best indie music of the moment\. Autumn is for indie love songs written by Nieve Ella.
+> The best indie music of the moment\. Declan McKenna is spoiling us this year 🥂
 
-238 songs - 13 hr 33 min
+245 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,9 @@
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-27 | 2024-09-21 |
 | [A Hole In The Ground](https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [A Hole In The Ground](https://open.spotify.com/album/45rtPd1tyrJd1QXMMivrru) | 3:07 | 2024-09-12 |  |
 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 | 2024-06-27 | 2024-07-19 |
+| [Abigail](https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Abigail](https://open.spotify.com/album/5fbVCssH2Oei8gJ0LFCbl5) | 3:07 | 2024-10-25 |  |
 | [Add Up My Love](https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:25 | 2024-07-11 | 2024-10-18 |
+| [Afterlife](https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Afterlife](https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN) | 4:08 | 2024-10-25 |  |
 | [Aftertaste](https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Aftertaste](https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY) | 3:34 | 2024-07-25 | 2024-10-11 |
 | [All Kinds Of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 | 2024-07-04 | 2024-07-12 |
 | [All My Freaks](https://open.spotify.com/track/0zuMZmRQBp65CNS6WfzEYl) | [Divorce](https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo) | [All My Freaks](https://open.spotify.com/album/5nKeAjFQwW4os6jxKOkv1E) | 3:01 | 2024-09-26 |  |
@@ -49,6 +51,7 @@
 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 | 2024-07-11 | 2024-09-06 |
 | [Call me back](https://open.spotify.com/track/6Q6L7cVxWfU6c57nKTgkNL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Call me back](https://open.spotify.com/album/2FnUorUYVV8mthAgiLn0UL) | 3:18 | 2024-06-27 | 2024-08-02 |
 | [CARRY YOU](https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [CARRY YOU](https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k) | 3:08 | 2024-08-08 | 2024-10-18 |
+| [Champagne](https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Champagne / That's Life](https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q) | 5:27 | 2024-10-25 |  |
 | [Chasing Low Vibrations](https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Chasing Low Vibrations](https://open.spotify.com/album/1rzbg3MTkaMZgXkAYQ8Vkt) | 3:24 | 2024-07-25 | 2024-09-27 |
 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 | 2024-06-27 | 2024-09-21 |
 | [Cherry Pie](https://open.spotify.com/track/7GKQLqLE8Fsz98l7HHbR0G) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Cherry Pie](https://open.spotify.com/album/2RZahuoTag8qddZQrNP2E1) | 4:09 | 2024-09-12 |  |
@@ -124,6 +127,7 @@
 | [Kiss Me Again](https://open.spotify.com/track/7E0j46ZvV0w2Mj5FGEwdxt) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Kiss Me Again](https://open.spotify.com/album/3sAcuIZ9JjTzniRMsQoanz) | 2:55 | 2024-09-26 | 2024-10-04 |
 | [last woman on earth](https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:19 | 2024-08-29 | 2024-09-27 |
 | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Late To The Party \(feat\. Declan McKenna\)](https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY) | 3:35 | 2024-08-29 | 2024-10-04 |
+| [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-10-25 |  |
 | [Light As Grass](https://open.spotify.com/track/6bN8Zwkr4c7gTWW5LZlEnC) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Light As Grass](https://open.spotify.com/album/2DGxYuxoTsgzIw8v0UbrsO) | 3:46 | 2024-06-27 | 2024-07-27 |
 | [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 | 2024-06-27 | 2024-08-09 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-10-05 | 2024-10-18 |
@@ -194,6 +198,7 @@
 | [Split Lip](https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Split Lip](https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9) | 3:09 | 2024-07-25 | 2024-10-04 |
 | [Stay For Something](https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Crazymad, For Me](https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O) | 3:36 | 2024-07-25 | 2024-10-18 |
 | [Stranger](https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [VIVA HINDS](https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU) | 3:26 | 2024-09-05 |  |
+| [Summer Of Hate](https://open.spotify.com/track/3s3fD692V8r3UCT7nqcoZe) | [Do Nothing](https://open.spotify.com/artist/73N7cGNNww6Uod1d3IiBKP) | [Summer Of Hate](https://open.spotify.com/album/4D44Z3OVJFZM4gSzuCXDMa) | 3:35 | 2024-10-25 |  |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-27 | 2024-08-16 |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-25 | 2024-08-16 |
 | [Sweet Nothings](https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Watch It Ache and Bleed](https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE) | 3:23 | 2024-10-17 |  |
@@ -203,6 +208,7 @@
 | [Texas Rains](https://open.spotify.com/track/5g5BqFsBPJXFgqPgLQwSa0) | [Dutch Criminal Record](https://open.spotify.com/artist/5h6KJPKB8cSVJTWZhKAZoT) | [Novium](https://open.spotify.com/album/75lQ42UAIOZSNNhrXbdiqh) | 3:27 | 2024-08-22 |  |
 | [Thank Goodness](https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh) | 3:20 | 2024-08-15 |  |
 | [The Bed, The Room, The Rain and You](https://open.spotify.com/track/73MkKDeELnYufTdyA3Xj5R) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Bed, The Room, The Rain and You](https://open.spotify.com/album/1TPWuITTFW8RdqRfrNVEO5) | 2:28 | 2024-08-15 | 2024-09-06 |
+| [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/track/2H39sC1tPnvxNCFamU3m2N) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [The Beginning Of The End \(feat\. DMA'S\)](https://open.spotify.com/album/6Zx7KmsMOLDheCjXZAYaSE) | 3:41 | 2024-10-25 |  |
 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 | 2024-06-27 | 2024-08-09 |
 | [The Burren](https://open.spotify.com/track/0o4rSqA5H8Y2HrMqBf6TD5) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were \(10th Year Anniversary Deluxe\)](https://open.spotify.com/album/5ncFZmznUiXpbw2rIMwLP8) | 5:25 | 2024-10-10 |  |
 | [The Feminine Urge](https://open.spotify.com/track/4uAPVHpdoGKHmIFkv1wgmb) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:26 | 2024-07-25 | 2024-10-18 |
@@ -241,6 +247,7 @@
 | [words fell out](https://open.spotify.com/track/3mcupBAKe2QJV7c4Z43IRo) | [Goat Girl](https://open.spotify.com/artist/1ukEEwzjucRtFTxiw2DrDZ) | [words fell out](https://open.spotify.com/album/4CQHKJVMCBxvBmJ077een7) | 3:01 | 2024-06-27 | 2024-09-21 |
 | [Wristwatch](https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Wristwatch](https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF) | 3:42 | 2024-09-05 |  |
 | [Yard](https://open.spotify.com/track/1C2TixzCNkUiSqJqkOckor) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Yard](https://open.spotify.com/album/2tJx1gxkXtuCXHWz3G8bib) | 3:08 | 2024-10-03 |  |
+| [You Exist](https://open.spotify.com/track/0qIPRgahrVnfRiVTYkuPsW) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [born blue](https://open.spotify.com/album/2c93Zr8BmUSod1qp2sdGev) | 2:57 | 2024-10-25 |  |
 | [You're On Your Own This Time, Again](https://open.spotify.com/track/6refloGDPQzdncMkazz7ED) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [YOYOTTA](https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp) | 3:36 | 2024-08-29 |  |
 | [You're the Best](https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [You're the Best](https://open.spotify.com/album/69jGwOCfLDLfps1E7nXMPg) | 2:01 | 2024-06-27 | 2024-09-06 |
 | [Young\-Girl \(Illusion\)](https://open.spotify.com/track/7BXMOuzZnYYTj2mS0mbS7d) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl \(Illusion\)](https://open.spotify.com/album/10UrSqG6MvEutC0qfrZ1fK) | 3:09 | 2024-09-26 |  |

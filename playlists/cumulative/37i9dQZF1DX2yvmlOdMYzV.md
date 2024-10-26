@@ -4,12 +4,13 @@
 
 > Indie soul that's highkey fire
 
-828 songs - 1 day 21 hr 8 min
+829 songs - 1 day 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [& That's Alright](https://open.spotify.com/track/1ASixBTwRxUPMVXQ1E4vVC) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Comfortable Enough](https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp) | 3:01 | 2023-03-17 | 2023-05-04 |
 | [& Then Some](https://open.spotify.com/track/2875XTVzJUuYQEEhy8NJGw) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [The R&B You Love](https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr) | 3:39 | 2023-09-29 |  |
+| [\(re\)Turn](https://open.spotify.com/track/1KRQUeWejtAvB4oZIeBMtI) | [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF) | [Evening](https://open.spotify.com/album/3VosNIq1BsvkR9OzDlDoZ3) | 3:22 | 2024-09-28 |  |
 | [10,000 Hours](https://open.spotify.com/track/79kniixiy0c4pw3zhsqsEi) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [10,000 Hours](https://open.spotify.com/album/2pccLnOW0FaYbSmWAkHrxA) | 2:43 | 2023-04-14 | 2023-08-26 |
 | [100 Degrees](https://open.spotify.com/track/6qXJEnPg8I9tTPqMiUhjTK) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Linden Jay](https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC) | [100 Degrees](https://open.spotify.com/album/68x3SZi68AXrSunEhvBnml) | 2:34 | 2023-07-07 |  |
 | [1080p](https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [1080p](https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu) | 2:33 | 2021-12-15 | 2022-04-08 |
@@ -267,7 +268,7 @@
 | [Gemini Guy](https://open.spotify.com/track/4FrHTjt1GcPcsxv0TD73OA) | [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [Gemini Guy](https://open.spotify.com/album/4ZGvKDHg9bmlNTVqmQhyJR) | 3:23 | 2023-12-08 | 2024-02-16 |
 | [Genius](https://open.spotify.com/track/6bFrDi7UT0FF5h4KZWxjKo) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Genius](https://open.spotify.com/album/2nPTI8iHG0LPTUTAybNO9h) | 2:33 | 2024-08-30 | 2024-10-14 |
 | [Get Away](https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Get Away](https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK) | 3:03 | 2023-02-03 | 2023-08-26 |
-| [Get Away](https://open.spotify.com/track/25WijqKV8rFsFM53gZN2G1) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Get Away](https://open.spotify.com/album/670TUBzn6VAg0juITSAFUZ) | 2:57 | 2024-05-31 |  |
+| [Get Away](https://open.spotify.com/track/25WijqKV8rFsFM53gZN2G1) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Get Away](https://open.spotify.com/album/670TUBzn6VAg0juITSAFUZ) | 2:57 | 2024-05-31 | 2024-10-26 |
 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 | 2023-10-07 |
 | [Girls Like Us](https://open.spotify.com/track/0DsJ6I0aMSkmNfFomOwLkc) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Litany](https://open.spotify.com/album/69xzFbHAfSnA9TAxkXg6rz) | 2:23 | 2023-07-28 | 2023-09-03 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-09-16 |  |

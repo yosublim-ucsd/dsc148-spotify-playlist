@@ -1991,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/0QmRBHLzLp4b78JIjzOEue"
+      },
+      "artists": [
+        {
+          "name": "Kiyagi",
+          "url": "https://open.spotify.com/artist/175itjZJLOZ4toEeb4Y0Yj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183925,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/3g1ap9E3iRZzlya84LRhwt"
+    },
+    {
+      "album": {
         "name": "Twice As Tall",
         "url": "https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje"
       },

@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "afterlife",
+        "url": "https://open.spotify.com/album/7cIBQiFoURO2IcD2jl5eml"
+      },
+      "artists": [
+        {
+          "name": "sun haze",
+          "url": "https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "afterlife",
+      "url": "https://open.spotify.com/track/7AV9yWPagSV79bXvPkM1BW"
+    },
+    {
+      "album": {
         "name": "Again and Again",
         "url": "https://open.spotify.com/album/2uH0NJYjekprSAWHx4IvQR"
       },
@@ -188,12 +206,12 @@
           "url": "https://open.spotify.com/artist/3lLsj57IR0XS3y02hIDErB"
         },
         {
-          "name": "Hailey Hibbard",
-          "url": "https://open.spotify.com/artist/0ESMvOE8xepPgfkYXhCgVU"
-        },
-        {
           "name": "Katie Rios",
           "url": "https://open.spotify.com/artist/0hLRTUumZ11OLGBqL2PP3R"
+        },
+        {
+          "name": "Hailey Hibbard",
+          "url": "https://open.spotify.com/artist/0ESMvOE8xepPgfkYXhCgVU"
         }
       ],
       "date_added": "2024-09-26",
@@ -474,7 +492,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 123301,
       "name": "AYO",
       "url": "https://open.spotify.com/track/7Bt3aw2viJVXQEUoA8cqbP"
@@ -684,7 +702,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 255750,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/1Q68UgSX6Ige3P7h2Gf99Z"
@@ -768,6 +786,24 @@
       "duration_ms": 244106,
       "name": "breath by breath",
       "url": "https://open.spotify.com/track/19msKNwB1SjJ4uGAwkDYxT"
+    },
+    {
+      "album": {
+        "name": "Brighter",
+        "url": "https://open.spotify.com/album/2ME6pM3y5FU6XEUbWgpXjr"
+      },
+      "artists": [
+        {
+          "name": "Revel Day",
+          "url": "https://open.spotify.com/artist/0GlCo4o05HxdzR4Gj7GKyw"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Brighter",
+      "url": "https://open.spotify.com/track/277eSXSWNxu6o4w2DtnX9o"
     },
     {
       "album": {
@@ -2130,7 +2166,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 162000,
       "name": "Hey Yah",
       "url": "https://open.spotify.com/track/6DZCrikjLYlj2BzL7uiwuY"
@@ -2210,6 +2246,24 @@
       "duration_ms": 177443,
       "name": "Hole in My Heart",
       "url": "https://open.spotify.com/track/5F3gnqZ3RlX3RnN9KHPqYt"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199404,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun"
     },
     {
       "album": {
@@ -2482,6 +2536,24 @@
       "duration_ms": 160307,
       "name": "I Wanna Dance!",
       "url": "https://open.spotify.com/track/4V7Gtnzb4TRiqjmFI30XK4"
+    },
+    {
+      "album": {
+        "name": "I Will Go",
+        "url": "https://open.spotify.com/album/7EP1Zmpr03SFNIwovPciOp"
+      },
+      "artists": [
+        {
+          "name": "Travis Clark",
+          "url": "https://open.spotify.com/artist/4GdxPCUc1CXEoynATy6qe5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250376,
+      "name": "I Will Go",
+      "url": "https://open.spotify.com/track/3PECgZoKgbhUH1JXV82pn5"
     },
     {
       "album": {
@@ -3285,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "My God (I Need To Seek Ya)",
+        "url": "https://open.spotify.com/album/75QsFiLoJ7nREzlN20jAu6"
+      },
+      "artists": [
+        {
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "My God (I Need To Seek Ya)",
+      "url": "https://open.spotify.com/track/6hUUV8EF0lEBPKWL3hNPBM"
+    },
+    {
+      "album": {
         "name": "My Heart Is Your Home",
         "url": "https://open.spotify.com/album/5ljzEmXhyZqyctJXCZBWEF"
       },
@@ -3380,6 +3470,24 @@
       "duration_ms": 145034,
       "name": "NEVER GET USED TO THIS",
       "url": "https://open.spotify.com/track/1VFxnzJWG7LWYTrHNwGt9P"
+    },
+    {
+      "album": {
+        "name": "Nights That I Cry",
+        "url": "https://open.spotify.com/album/3GV0ya6N4B4gqe9L4VuFYE"
+      },
+      "artists": [
+        {
+          "name": "IMRHAN",
+          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157243,
+      "name": "Nights That I Cry",
+      "url": "https://open.spotify.com/track/3UUNJU8HHTi3wmuttGCRAM"
     },
     {
       "album": {
@@ -3492,6 +3600,28 @@
       "duration_ms": 169185,
       "name": "oh Papa",
       "url": "https://open.spotify.com/track/0YKTqQwOnzbmn05cECMaiW"
+    },
+    {
+      "album": {
+        "name": "old one is dead",
+        "url": "https://open.spotify.com/album/1HS9C2YAPwY8a5nj0gi3ji"
+      },
+      "artists": [
+        {
+          "name": "Jaisua",
+          "url": "https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5"
+        },
+        {
+          "name": "Tristian Hernandez",
+          "url": "https://open.spotify.com/artist/0yycoPOfeQ1KZtebs3wAH9"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "old one is dead",
+      "url": "https://open.spotify.com/track/6Lg0ey7DTzWnxpX0EofUb8"
     },
     {
       "album": {
@@ -4881,6 +5011,24 @@
     },
     {
       "album": {
+        "name": "Soul Revival",
+        "url": "https://open.spotify.com/album/4VwQEs1WZch1GSc4hWwBgJ"
+      },
+      "artists": [
+        {
+          "name": "Justin Radford",
+          "url": "https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Walk on Water",
+      "url": "https://open.spotify.com/track/1wc28ZRSlkAWX5HURu0ZOO"
+    },
+    {
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/59IUZfwB5cpxuYHQ9bz37b"
       },
@@ -4950,10 +5098,28 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 239696,
       "name": "What If",
       "url": "https://open.spotify.com/track/1hb6oGNerobTD465qgBvTD"
+    },
+    {
+      "album": {
+        "name": "What's Up (Turn Me Up)",
+        "url": "https://open.spotify.com/album/1d4tajRKoxbEjqMOKQewCE"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130196,
+      "name": "What's Up (Turn Me Up)",
+      "url": "https://open.spotify.com/track/0W1SV8W43Ulktie46IFGCd"
     },
     {
       "album": {

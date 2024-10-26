@@ -3913,6 +3913,28 @@
     },
     {
       "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/0lf0yUHujZT9dNmTGTWbla"
+      },
+      "artists": [
+        {
+          "name": "Rita Kamale",
+          "url": "https://open.spotify.com/artist/4O67ere8Zi4xRPeR90umD0"
+        },
+        {
+          "name": "ALBI X",
+          "url": "https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186206,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/7KkZsYEhcAEvQJIP5iauyZ"
+    },
+    {
+      "album": {
         "name": "Move Slow",
         "url": "https://open.spotify.com/album/2G6xTqixe8KquylPhawIeJ"
       },

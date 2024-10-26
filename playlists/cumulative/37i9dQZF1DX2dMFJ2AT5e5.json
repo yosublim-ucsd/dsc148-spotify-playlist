@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 221373,
       "name": "Alone Again (Naturally)",
       "url": "https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 177062,
       "name": "Como Lo Hice Yo",
       "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 221108,
       "name": "Desvelado - Cover",
       "url": "https://open.spotify.com/track/31BwAHdXcpSGfPOzDLEqbv"
@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 207693,
       "name": "La Rareza",
       "url": "https://open.spotify.com/track/79V9syPPim0sNOUMLTl1Kl"
@@ -3167,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Rema",
+        "url": "https://open.spotify.com/album/17LLaTsBlYLJTPneSUAWo3"
+      },
+      "artists": [
+        {
+          "name": "Hey Sebas!",
+          "url": "https://open.spotify.com/artist/2neV1Qd4wMmLGMhdirCeA8"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171138,
+      "name": "Rema",
+      "url": "https://open.spotify.com/track/45rZzOIe46xhg6JhuQcDRg"
+    },
+    {
+      "album": {
         "name": "Rick and Morty Theme",
         "url": "https://open.spotify.com/album/1dR1L6NAzwNvfs8OPsryCR"
       },
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 210333,
       "name": "Sed de Acci\u00f3n",
       "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"

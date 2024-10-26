@@ -1,12 +1,12 @@
 {
   "description": "This is Big Daddy Weave. The essential tracks, all in one playlist.",
-  "num_followers": 11939,
+  "num_followers": 11937,
   "original_name": "This Is Big Daddy Weave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAAbOm+a8GRK94A8QitTM2cW",
+  "snapshot_id": "ZxmOAAAAAABkKyCCTOFBoqkKR/hdsMra",
   "tracks": [
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 313840,
-      "name": "Be Your Everything",
-      "url": "https://open.spotify.com/track/3RkTLYMiGUmdNUkqtD4iPg"
+      "duration_ms": 194973,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/1tJOmKgRbYsOpnIG2pQde2"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 191026,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/47Us0P876YRcCz5e4PqYGh"
+      "duration_ms": 313840,
+      "name": "Be Your Everything",
+      "url": "https://open.spotify.com/track/3RkTLYMiGUmdNUkqtD4iPg"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fields of Grace",
+        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/47Us0P876YRcCz5e4PqYGh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What Life Would Be Like",
         "url": "https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 247986,
       "name": "Right With You",
       "url": "https://open.spotify.com/track/2v4QOcKW0wXtG2o9vSrsSX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fields of Grace",
-        "url": "https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 194973,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/1tJOmKgRbYsOpnIG2pQde2"
     }
   ],
   "unique_name": "This Is Big Daddy Weave",

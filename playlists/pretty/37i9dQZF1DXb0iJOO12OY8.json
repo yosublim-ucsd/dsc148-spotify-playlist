@@ -1,6 +1,6 @@
 {
   "description": "have you noticed? \ud83d\udeac\ud83e\udde1",
-  "num_followers": 215143,
+  "num_followers": 215132,
   "original_name": "ung, dum & lovende",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Gettin' Away With It",
         "url": "https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 193133,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "BRENTE BROER",
-        "url": "https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0"
-      },
-      "artists": [
-        {
-          "name": "Blackie",
-          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
-        }
-      ],
-      "duration_ms": 114866,
-      "name": "VENNEL\u00d8S",
-      "url": "https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/2WJfge21aAzDJOMX5QOFy1"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 147125,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/3zylEBiAOPq3OBBdtpB5M4"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "BRENTE BROER",
+        "url": "https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0"
+      },
+      "artists": [
+        {
+          "name": "Blackie",
+          "url": "https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S"
+        }
+      ],
+      "duration_ms": 114866,
+      "name": "VENNEL\u00d8S",
+      "url": "https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Sjarm\u00f8r (Beepolar)",
-        "url": "https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD"
-      },
-      "artists": [
-        {
-          "name": "Problembarn",
-          "url": "https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx"
-        }
-      ],
-      "duration_ms": 163070,
-      "name": "Sjarm\u00f8r (Beepolar)",
-      "url": "https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "hva om jeg slutta \u00e5 bry meg",
         "url": "https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 186000,
       "name": "hva om jeg slutta \u00e5 bry meg",
       "url": "https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Sjarm\u00f8r (Beepolar)",
+        "url": "https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD"
+      },
+      "artists": [
+        {
+          "name": "Problembarn",
+          "url": "https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx"
+        }
+      ],
+      "duration_ms": 163070,
+      "name": "Sjarm\u00f8r (Beepolar)",
+      "url": "https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13"
     },
     {
       "added_at": "2024-10-24 22:00:00",

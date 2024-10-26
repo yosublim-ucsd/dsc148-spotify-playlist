@@ -1,6 +1,6 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 38584,
+  "num_followers": 38587,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Southern Galactic",
-        "url": "https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy"
-      },
-      "artists": [
-        {
-          "name": "Caleb Lee Hutchinson",
-          "url": "https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Things to Burn",
-      "url": "https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Shooter",
         "url": "https://open.spotify.com/album/7aETyhIwmu3PpDFu2o12MG"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 206413,
       "name": "Denim & Diamonds",
       "url": "https://open.spotify.com/track/7fHUqBn0fIdmVjBLq0ofbx"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Southern Galactic",
+        "url": "https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy"
+      },
+      "artists": [
+        {
+          "name": "Caleb Lee Hutchinson",
+          "url": "https://open.spotify.com/artist/1Ep9lOZuPcClsgR25odHK6"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Things to Burn",
+      "url": "https://open.spotify.com/track/1Lo43muVKuiR8p7UB0qqEG"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "South Dakota",
-        "url": "https://open.spotify.com/album/3sZoFntft0GWB8me6Y77tL"
-      },
-      "artists": [
-        {
-          "name": "This Frontier Needs Heroes",
-          "url": "https://open.spotify.com/artist/5vMDGNt5WMierLVP10lire"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "South Dakota",
-      "url": "https://open.spotify.com/track/44vfk0WNEL5V8WWY3zJWU0"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Toshiba Sky",
         "url": "https://open.spotify.com/album/1THPaJ3KhIRPBpAvCaG163"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 196765,
       "name": "Toshiba Sky",
       "url": "https://open.spotify.com/track/2xmNUTjFh6DeZIXgc6CfU1"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "South Dakota",
+        "url": "https://open.spotify.com/album/3sZoFntft0GWB8me6Y77tL"
+      },
+      "artists": [
+        {
+          "name": "This Frontier Needs Heroes",
+          "url": "https://open.spotify.com/artist/5vMDGNt5WMierLVP10lire"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "South Dakota",
+      "url": "https://open.spotify.com/track/44vfk0WNEL5V8WWY3zJWU0"
     },
     {
       "added_at": "2024-08-23 04:00:00",

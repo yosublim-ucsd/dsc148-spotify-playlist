@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Remi Wolf ",
-  "num_followers": 595466,
+  "num_followers": 595546,
   "original_name": "Women of Indie",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
         "name": "Speak for Yourself",
         "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 225133,
       "name": "1950",
       "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "Stay Flo",
-      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 252760,
       "name": "That's Where I Am",
       "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 175706,
+      "name": "Stay Flo",
+      "url": "https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
-      },
-      "artists": [
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 343360,
       "name": "Vortex",
       "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Ring of Past",
-        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 201523,
-      "name": "Ring of Past",
-      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "So Jealous",
         "url": "https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 150293,
       "name": "Walking with a Ghost",
       "url": "https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Ring of Past",
+        "url": "https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 201523,
+      "name": "Ring of Past",
+      "url": "https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "feel like home",
-        "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "feel like home",
-      "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Songs From A Thousand Frames Of Mind",
         "url": "https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Supersad",
-        "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
+        "name": "feel like home",
+        "url": "https://open.spotify.com/album/0BHk06yY5omfqv47S1vF4O"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 170383,
-      "name": "Supersad",
-      "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
+      "duration_ms": 160320,
+      "name": "feel like home",
+      "url": "https://open.spotify.com/track/5suIFrXr4gXhpEzFNjej85"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1267,6 +1251,22 @@
       "duration_ms": 139086,
       "name": "Die Your Daughter",
       "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Supersad",
+        "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 170383,
+      "name": "Supersad",
+      "url": "https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Weird Faith",
         "url": "https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 253613,
       "name": "Don't Do Me Good",
       "url": "https://open.spotify.com/track/4WtLOsAci79NIpW5ukeM47"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Anything For You",
-        "url": "https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 264889,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Art Angels",
         "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 198337,
       "name": "California",
       "url": "https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 264889,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm"
     },
     {
       "added_at": "2024-09-30 17:25:14",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-09-30 17:25:14",
       "album": {
-        "name": "Heaven Has To Happen / The Opener",
-        "url": "https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "Heaven Has To Happen",
-      "url": "https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y"
-    },
-    {
-      "added_at": "2024-09-30 17:25:14",
-      "album": {
         "name": "Goodnight Summerland",
         "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 219507,
       "name": "Bright Green Vibrant Gray",
       "url": "https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM"
+    },
+    {
+      "added_at": "2024-09-30 17:25:14",
+      "album": {
+        "name": "Heaven Has To Happen / The Opener",
+        "url": "https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "Heaven Has To Happen",
+      "url": "https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y"
     },
     {
       "added_at": "2024-09-30 17:25:14",

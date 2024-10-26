@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAQuFRGvT0v.md) - [plain]
 
 > Prepare for the upcoming world tour by listening to KISS OF LIFE's best songs! \(키스오브라이프의 베스트 곡들을 들으며 다가오는 월드 투어를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 26 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 429 likes - 26 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

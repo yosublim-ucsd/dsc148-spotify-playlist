@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 175225,
       "name": "Big Risk",
       "url": "https://open.spotify.com/track/7Cvqbl3ll3VJ98MEiVRxGO"
@@ -2079,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/3WtRTYXLKW8mG5eB8xVabm"
+      },
+      "artists": [
+        {
+          "name": "Lady London",
+          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142541,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/0gkCuoQzy86HsdH7jMeXjk"
+    },
+    {
+      "album": {
         "name": "BRB",
         "url": "https://open.spotify.com/album/11tIOLXTlQRg1ZJeJrIBJ6"
       },
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 125111,
       "name": "BTD",
       "url": "https://open.spotify.com/track/2cQQMnWN62QPeSNHf6djXb"
@@ -3152,7 +3170,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 151000,
       "name": "D.B.A.D. (Don't Be Actin Dumb)",
       "url": "https://open.spotify.com/track/6FF5q6qbi8W5enIyJbCFgz"
@@ -4842,7 +4860,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 141413,
       "name": "GIRLS GONE WILD",
       "url": "https://open.spotify.com/track/5nRyvWHWIb2F0CzIQfbaUr"
@@ -5072,7 +5090,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-14",
+      "date_removed": null,
       "duration_ms": 161783,
       "name": "GOOCHIE MAYNE",
       "url": "https://open.spotify.com/track/0kF9DF1tV4Qcpdg7ysoY76"
@@ -9885,6 +9903,24 @@
     },
     {
       "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172221,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/5hcks5jFFywEdhVSeNir1Q"
+    },
+    {
+      "album": {
         "name": "RIP FOLLIES",
         "url": "https://open.spotify.com/album/1Hzls4hQzRn54zcNyfkRLX"
       },
@@ -13137,6 +13173,24 @@
     },
     {
       "album": {
+        "name": "WTFO",
+        "url": "https://open.spotify.com/album/2TiinfW9n75HG9dpUt5Plr"
+      },
+      "artists": [
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "WTFO",
+      "url": "https://open.spotify.com/track/6F5g5wyan1J0k0vXuscBSX"
+    },
+    {
+      "album": {
         "name": "Yea Yea",
         "url": "https://open.spotify.com/album/2o8jRK4gRgKFnJKpRpKrMv"
       },
@@ -13196,6 +13250,28 @@
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/0SdBkFh6u5IHIXqlBu0NyI"
+    },
+    {
+      "album": {
+        "name": "You Don\u2019t Love Me",
+        "url": "https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157332,
+      "name": "You Don\u2019t Love Me",
+      "url": "https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV"
     },
     {
       "album": {
@@ -13302,7 +13378,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 125843,
       "name": "ZONE",
       "url": "https://open.spotify.com/track/5UfFkT3i5V20VrvjQkLJHx"

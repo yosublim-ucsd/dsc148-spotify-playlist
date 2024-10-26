@@ -401,6 +401,28 @@
     },
     {
       "album": {
+        "name": "Animalistic",
+        "url": "https://open.spotify.com/album/7y0nfLxeDl2JkbOJ0VpW1u"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/53ok35nquVSO2ie4OQBgBU"
+        },
+        {
+          "name": "Daggz",
+          "url": "https://open.spotify.com/artist/3S5aXjH9pDeyD7BDMkLbiF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142258,
+      "name": "Animalistic",
+      "url": "https://open.spotify.com/track/7s3ZsZ1AfCgGVLTsrduJfE"
+    },
+    {
+      "album": {
         "name": "Apply The Pressure",
         "url": "https://open.spotify.com/album/1cDdKxOHymuhtAssTIWwLV"
       },
@@ -837,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Bass B$tch",
+        "url": "https://open.spotify.com/album/6nrddbRAkUUqtwsiXteix7"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168285,
+      "name": "Bass B$tch",
+      "url": "https://open.spotify.com/track/3OBUIW6j8f0u0WfXX48u1v"
+    },
+    {
+      "album": {
         "name": "Creatures",
         "url": "https://open.spotify.com/album/5zoWlf4tcmtFGfFaOrXj4n"
       },
@@ -1098,7 +1138,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 230400,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/2tb1wD0ePjDJBQNUla0foR"
@@ -1142,6 +1182,32 @@
       "duration_ms": 178285,
       "name": "Blackout Dub",
       "url": "https://open.spotify.com/track/6piyspfi1JquDVq35aGdsM"
+    },
+    {
+      "album": {
+        "name": "BLAOWP",
+        "url": "https://open.spotify.com/album/6Ymp9UdTcld2v3wQ3NJBCz"
+      },
+      "artists": [
+        {
+          "name": "BLAAP",
+          "url": "https://open.spotify.com/artist/77YPCxtm3Djyu585a7JI7a"
+        },
+        {
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "Freddy Todd",
+          "url": "https://open.spotify.com/artist/4BwM43tn51Mq0Dn8NMB5zk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137140,
+      "name": "BLAOWP",
+      "url": "https://open.spotify.com/track/4CEuxcbRTynTQrPecSTmFf"
     },
     {
       "album": {
@@ -3036,7 +3102,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 234433,
       "name": "Dread & Buried - Congi Remix",
       "url": "https://open.spotify.com/track/2AuzAvDq4piWEeSsfkZxqp"
@@ -3188,6 +3254,28 @@
       "duration_ms": 109714,
       "name": "Dubstep For Kids",
       "url": "https://open.spotify.com/track/0iLDNo9ksayaz6cilK5kf6"
+    },
+    {
+      "album": {
+        "name": "Ear Candy",
+        "url": "https://open.spotify.com/album/1yhUxyUJ6YV6etU9UfFow1"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        },
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220036,
+      "name": "Ear Candy",
+      "url": "https://open.spotify.com/track/7mnbw6GQSg7I8IZgqKeBnu"
     },
     {
       "album": {
@@ -3604,7 +3692,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 158823,
       "name": "EYES ON ME",
       "url": "https://open.spotify.com/track/310Nn9tFyZz9w2UbdBUxUX"
@@ -4544,7 +4632,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 276500,
       "name": "Goblin - 2024 Remaster",
       "url": "https://open.spotify.com/track/0EikGhoWleZXxtwJNUXtVy"
@@ -4566,6 +4654,24 @@
       "duration_ms": 384000,
       "name": "Good Day",
       "url": "https://open.spotify.com/track/16EHRzGqzzhNTiUpMx5r8n"
+    },
+    {
+      "album": {
+        "name": "Goodfella",
+        "url": "https://open.spotify.com/album/0k4R6MfemjcCUxwnldFsex"
+      },
+      "artists": [
+        {
+          "name": "MYTHM",
+          "url": "https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195552,
+      "name": "Goodfella",
+      "url": "https://open.spotify.com/track/0XGcSFfyc2NYxVOEOJu2l9"
     },
     {
       "album": {
@@ -4722,6 +4828,24 @@
       "duration_ms": 298968,
       "name": "Gunman",
       "url": "https://open.spotify.com/track/1kVYhkie4SMzgaTJYOkwKI"
+    },
+    {
+      "album": {
+        "name": "3FOR82_D3LUX3",
+        "url": "https://open.spotify.com/album/3S4N97ESS4YTCEEQsRluxZ"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164774,
+      "name": "HABITS",
+      "url": "https://open.spotify.com/track/5L8dahm9afHErsFh5vsiUo"
     },
     {
       "album": {
@@ -5216,6 +5340,32 @@
       "duration_ms": 216279,
       "name": "I Fear",
       "url": "https://open.spotify.com/track/2iyzSdi8pV0ouscty0d88y"
+    },
+    {
+      "album": {
+        "name": "i need space.",
+        "url": "https://open.spotify.com/album/4AWrHuuHx2sJFmFriDf997"
+      },
+      "artists": [
+        {
+          "name": "LUMBERJVCK",
+          "url": "https://open.spotify.com/artist/4KGyomagqa7oWswreOlh3T"
+        },
+        {
+          "name": "CHOMP",
+          "url": "https://open.spotify.com/artist/2jUdhWcVMSiax6FqcWjcJC"
+        },
+        {
+          "name": "Auracle",
+          "url": "https://open.spotify.com/artist/5InYuRwL85r4VQIsiLWE9y"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142941,
+      "name": "i need space.",
+      "url": "https://open.spotify.com/track/7teay9xbL8sz21dwtaLsIN"
     },
     {
       "album": {
@@ -6688,7 +6838,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 222857,
       "name": "Low Rider",
       "url": "https://open.spotify.com/track/1bBTFv5l3LdyCiwSCS2AYH"
@@ -7000,6 +7150,28 @@
       "duration_ms": 294085,
       "name": "Melki Tsedeq - Original Mix",
       "url": "https://open.spotify.com/track/6HywrWzDmJgNhWwoLZ5xtE"
+    },
+    {
+      "album": {
+        "name": "Mellow Man (Remixes)",
+        "url": "https://open.spotify.com/album/6oybjDBdIest76s0bBiwxn"
+      },
+      "artists": [
+        {
+          "name": "Distinct Motive",
+          "url": "https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM"
+        },
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204639,
+      "name": "Mellow Man - Caspa Remix",
+      "url": "https://open.spotify.com/track/1bLzuJI7q2lrllNt5bwOI5"
     },
     {
       "album": {
@@ -7354,7 +7526,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 271071,
       "name": "Murda Dub",
       "url": "https://open.spotify.com/track/1SukyiQzzNkGvmky2hAl5C"
@@ -10286,7 +10458,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 192049,
       "name": "Skanka - P Money Vocal Dub",
       "url": "https://open.spotify.com/track/4n7PlmHa8DU1elvSbYTOFY"
@@ -12082,7 +12254,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 204943,
       "name": "Trailblazer",
       "url": "https://open.spotify.com/track/19ht9Lhp2fHgQi00izzrKE"

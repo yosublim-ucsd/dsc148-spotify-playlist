@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,655 likes - 118 songs - 6 hr 51 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,655 likes - 119 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,5 +126,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 116 | [Like I Said \- CHROMEBODIED](https://open.spotify.com/track/2ckXnHXoecAhSgmLWP4mNP) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI) | [Like I Said \(CHROMEBODIED\)](https://open.spotify.com/album/7nkDEtlQncBRQLfa8aXqnn) | 5:04 |
 | 117 | [LOOK@ME](https://open.spotify.com/track/6a2qrecn3aKW8cy3sg8jMc) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [DESIRE / LOOK@ME](https://open.spotify.com/album/52r1SK4TQpxM9xbeGfeghU) | 3:13 |
 | 118 | [SURFACING](https://open.spotify.com/track/5xFgju1KjoNX3UACChHNJM) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [CHALLENGER \(DELUXE\)](https://open.spotify.com/album/7G26mMpRGNpk0j8lpxXejl) | 3:46 |
+| 119 | [Sunrise](https://open.spotify.com/track/15eaBPOMmJfg1UNOF58hcW) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [DJ Topgun](https://open.spotify.com/artist/1Ykj5FmV9qh5ghbQn5qVx2), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Sunrise](https://open.spotify.com/album/1TNaRChP0UiN1pszfgYwOt) | 2:33 |
 
-Snapshot ID: `AAAqNs8CRX/myVuZccF9SZf4siwvLuqv`
+Snapshot ID: `AAAqN8ljMziucfEOM603bkIGFvDYq2xE`

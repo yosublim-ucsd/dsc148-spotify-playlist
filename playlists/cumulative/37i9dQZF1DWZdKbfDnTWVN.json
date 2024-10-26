@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=b0HILXSmRjK9I0YpZgVZXQ\"> Nyashinski</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=Mqh0sB44Qk2pfbu7iBX7rQ\"> Wakadinali</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "ACHA ZITOKE",
+        "url": "https://open.spotify.com/album/0hrzxl3fUjtlFoMM3GyA3C"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        },
+        {
+          "name": "King Kaka",
+          "url": "https://open.spotify.com/artist/6VZzVqoatJfcQq8n2Z7rwa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257889,
+      "name": "ACHA ZITOKE",
+      "url": "https://open.spotify.com/track/4zJAW0hFAidCOUp6qXEfui"
+    },
+    {
+      "album": {
         "name": "After Hours at Snowball Episode 001",
         "url": "https://open.spotify.com/album/2BoA5Ef4dwNqdYhN1nPBPs"
       },
@@ -322,7 +344,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 222000,
       "name": "Balaclava Lover",
       "url": "https://open.spotify.com/track/3QuHQFfzxrtMMRrmL2BXxH"
@@ -500,7 +522,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 163165,
       "name": "Bite It",
       "url": "https://open.spotify.com/track/0EZQBAOtK2gQg1YYp1uEcD"
@@ -2428,7 +2450,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 178442,
       "name": "Kuwa Strong",
       "url": "https://open.spotify.com/track/0QM3gpqToq417bchLwu85C"
@@ -3513,6 +3535,28 @@
     },
     {
       "album": {
+        "name": "Not my Portion",
+        "url": "https://open.spotify.com/album/6JdcJuTSiIL78LM4XpA1s1"
+      },
+      "artists": [
+        {
+          "name": "Smarta Official",
+          "url": "https://open.spotify.com/artist/28FKjb7uHEtVQk6exPWR6U"
+        },
+        {
+          "name": "Tipsy Gee",
+          "url": "https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145728,
+      "name": "Not my Portion",
+      "url": "https://open.spotify.com/track/0ZRBTiydsRQKVKMBKaXAyB"
+    },
+    {
+      "album": {
         "name": "Nothing on me",
         "url": "https://open.spotify.com/album/3aPYu7iLvBQ8TasHIaBrCs"
       },
@@ -3690,6 +3734,32 @@
       "duration_ms": 169933,
       "name": "Passports & Suitcases (feat. KayCyy)",
       "url": "https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt"
+    },
+    {
+      "album": {
+        "name": "POISON",
+        "url": "https://open.spotify.com/album/59KcwQQ9m49e8PM3DwNRDM"
+      },
+      "artists": [
+        {
+          "name": "Wahenga",
+          "url": "https://open.spotify.com/artist/0ITJFZNAAHPuuH8d8jjyqA"
+        },
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167619,
+      "name": "POISON",
+      "url": "https://open.spotify.com/track/3wa2NcQXfJq2c7f7koQAWS"
     },
     {
       "album": {

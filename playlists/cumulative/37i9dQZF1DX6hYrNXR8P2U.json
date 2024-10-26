@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 ODD MAMI",
+  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 Bhavi & Nicki Nicole",
   "name": "piola",
   "tracks": [
+    {
+      "album": {
+        "name": "dulce o truco",
+        "url": "https://open.spotify.com/album/6kILKM5lildeYFJb58Bgb1"
+      },
+      "artists": [
+        {
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        },
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Bruno Donato",
+          "url": "https://open.spotify.com/artist/2J9KOh8KIZZjuGxo0e2zgq"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235294,
+      "name": "(re) play",
+      "url": "https://open.spotify.com/track/0EixxREQRVD04F9YkBsbdI"
+    },
     {
       "album": {
         "name": "100PRE",
@@ -128,7 +154,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 129229,
       "name": "A.T.A",
       "url": "https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9"
@@ -413,6 +439,24 @@
     },
     {
       "album": {
+        "name": "And\u00e1 a la Cancha",
+        "url": "https://open.spotify.com/album/4vTIaOZic3YTcvXKhmqttx"
+      },
+      "artists": [
+        {
+          "name": "This Lexia",
+          "url": "https://open.spotify.com/artist/4x1BbPxJRLrUfKzzucRE3A"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177021,
+      "name": "And\u00e1 a la Cancha",
+      "url": "https://open.spotify.com/track/0eaXo33CSngwxqJWrhDWen"
+    },
+    {
+      "album": {
         "name": "Animales",
         "url": "https://open.spotify.com/album/1TRa9aFlvjPxXDeB87XGwH"
       },
@@ -602,7 +646,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 129945,
       "name": "Bar de Playa",
       "url": "https://open.spotify.com/track/1CFZZSdo35zhs2uZ9sFoXv"
@@ -896,7 +940,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 119057,
       "name": "CACHETAZO",
       "url": "https://open.spotify.com/track/11N5z4VHGUUTAYQR1p51fa"
@@ -2690,7 +2734,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 190001,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/49594VuIfPaumVx4nRAyTS"
@@ -2782,6 +2826,24 @@
       "duration_ms": 216437,
       "name": "Le\u00f1a",
       "url": "https://open.spotify.com/track/5NPIee2163RPT0OKVDinJf"
+    },
+    {
+      "album": {
+        "name": "Cinta Testigo, Vol. 1",
+        "url": "https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215947,
+      "name": "Libros y Gente",
+      "url": "https://open.spotify.com/track/0EMskP7XuhwmFC1vwiawih"
     },
     {
       "album": {
@@ -2978,7 +3040,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 159963,
       "name": "Lowa",
       "url": "https://open.spotify.com/track/37gGnbqD6q9KXt2xnfbvnI"
@@ -4337,6 +4399,24 @@
     },
     {
       "album": {
+        "name": "PULSI\u00d3N",
+        "url": "https://open.spotify.com/album/2SOH8upnFGSOjXh44qHi4E"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173208,
+      "name": "Pa Siempre",
+      "url": "https://open.spotify.com/track/65sMAyF7tXskGL5XEELoVI"
+    },
+    {
+      "album": {
         "name": "PAHPAHPAH",
         "url": "https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt"
       },
@@ -4599,6 +4679,28 @@
     },
     {
       "album": {
+        "name": "PERFUME",
+        "url": "https://open.spotify.com/album/2WmyzZpgVIo0DFMQRq4Qkb"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157250,
+      "name": "PERFUME",
+      "url": "https://open.spotify.com/track/04wRhNvu27f04JlvZnazWx"
+    },
+    {
+      "album": {
         "name": "Pesar",
         "url": "https://open.spotify.com/album/5mpDQEO7EhSLuDrcdZ7Qky"
       },
@@ -4734,7 +4836,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170454,
       "name": "Pocas Cosas",
       "url": "https://open.spotify.com/track/1dIGSxJ9uI2GAqD0HnotZ4"
@@ -4942,6 +5044,32 @@
       "duration_ms": 240047,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/6d3q0F9VNtdxQUTVlRcet6"
+    },
+    {
+      "album": {
+        "name": "Quieto",
+        "url": "https://open.spotify.com/album/2dqfvBw8Vgw98JL6CpqS41"
+      },
+      "artists": [
+        {
+          "name": "Farol",
+          "url": "https://open.spotify.com/artist/3kBISQeVHtMyOH3Va7UXqu"
+        },
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        },
+        {
+          "name": "Francisco Sola",
+          "url": "https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Quieto",
+      "url": "https://open.spotify.com/track/6L6GbSoWzfm0ZDZGsskkN5"
     },
     {
       "album": {
@@ -5590,7 +5718,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 246613,
       "name": "Te Lo Voy a Decir",
       "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
@@ -5644,7 +5772,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -6377,6 +6505,28 @@
     },
     {
       "album": {
+        "name": "Voy a Olvidarme de M\u00ed (feat. Bomba Est\u00e9reo)",
+        "url": "https://open.spotify.com/album/4vpyXFQH3BXFyrOJsSBln2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172502,
+      "name": "Voy a Olvidarme de M\u00ed (feat. Bomba Est\u00e9reo)",
+      "url": "https://open.spotify.com/track/7zc23D6yOAEHhqGRMC8AbB"
+    },
+    {
+      "album": {
         "name": "Vulnerable",
         "url": "https://open.spotify.com/album/1fLDwkdNXMFKjEdvI1rAap"
       },
@@ -6562,6 +6712,28 @@
       "duration_ms": 213699,
       "name": "YOTULOKO",
       "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
+    },
+    {
+      "album": {
+        "name": "Fotonovela",
+        "url": "https://open.spotify.com/album/1pBwQQJIszYaQIx7g7RzgO"
+      },
+      "artists": [
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        },
+        {
+          "name": "Las Cosas Temporales",
+          "url": "https://open.spotify.com/artist/04QFjhXUk1SasB1VwIZsrm"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258367,
+      "name": "Zapatillas con luces de color - ac\u00fastico",
+      "url": "https://open.spotify.com/track/31eu3LrKlJgM3oyD86k3mQ"
     },
     {
       "album": {

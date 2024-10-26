@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,072 songs - 1 day 7 hr 55 min
+1,075 songs - 1 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [A Simple Song](https://open.spotify.com/track/5ibZnKYtxlgPJDQpGusOuV) | [Sloan Sandford](https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr) | [A Simple Song](https://open.spotify.com/album/3LEDN5cRp1YZjPolO7g3zD) | 1:59 | 2024-07-12 |  |
 | [A Small Lullaby](https://open.spotify.com/track/64s5nMYGglY0KCUtc3eaNe) | [Ciera McDermott](https://open.spotify.com/artist/5GN7GO5nLb24jol0x8gzoi) | [A Small Lullaby](https://open.spotify.com/album/3qaLkbhlbsR3mpnLIbCI8F) | 1:38 | 2021-11-08 | 2022-10-29 |
 | [A Smile For Me](https://open.spotify.com/track/3i16Aq5xnXD5C1ESwQ2jS0) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [A Smile For Me](https://open.spotify.com/album/7m4EMIbsdDnS0FMkgOV20I) | 1:59 | 2021-11-08 | 2024-04-05 |
+| [A Soft Morning](https://open.spotify.com/track/3XWPbydiRn9kl6DMWtw33O) | [Peyton Malloye](https://open.spotify.com/artist/6jEf6RIwSbHVnBM8dWxCVx) | [A Soft Morning](https://open.spotify.com/album/0z2CvCuHJPqYgmPuw9MUrN) | 1:44 | 2024-10-25 |  |
 | [A Sunny Day](https://open.spotify.com/track/36wnjwoxWcB9uVMeTASNcP) | [Hailey Tilford](https://open.spotify.com/artist/4bGfrh4LzyTm13a0FGfgKe) | [A Sunny Day](https://open.spotify.com/album/0hyfKKbEDdSrqY6hTfGoxv) | 1:53 | 2021-11-08 | 2023-02-18 |
 | [A Tall Tale](https://open.spotify.com/track/6P14smwG7qUke1fmruPLY2) | [Boyce Darcy](https://open.spotify.com/artist/78r6RLiTXrS0ukYu9pwBur) | [A Tall Tale](https://open.spotify.com/album/3V5he285jyZ7r812xgnqja) | 1:09 | 2021-11-08 | 2024-04-05 |
 | [A Whole New World](https://open.spotify.com/track/70XfRqJlXeFz9xHsfvN6Ti) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [A Whole New World](https://open.spotify.com/album/5Gj1oFZH9TMinqRYlBZamz) | 2:10 | 2023-08-10 |  |
@@ -679,7 +680,7 @@
 | [Peaceful Night](https://open.spotify.com/track/2PTjcelmrD4JRb5U8H1KbI) | [Jonatan Järpehag](https://open.spotify.com/artist/6nOIDTyb3A2nGL8fiqrRLw) | [Peaceful Night](https://open.spotify.com/album/4Ooezb91NdyaW20Qf8yDQW) | 2:40 | 2023-09-22 |  |
 | [Peaches and Cream](https://open.spotify.com/track/78wj2zwqPgZ8gu0jdZRrMc) | [William Gossard](https://open.spotify.com/artist/2lp225d2g9UWyBXtEFclwl) | [Peaches and Cream](https://open.spotify.com/album/13vMoZFdk0nyXQ279ogeEb) | 1:50 | 2023-11-17 |  |
 | [Pearl's Bell](https://open.spotify.com/track/56X7r3kZFy6TI182lPcRSx) | [Lindsey Tyler](https://open.spotify.com/artist/1W92w85W6p9sSOKvbgVt9i) | [Teddy's Pajamas](https://open.spotify.com/album/0rTZUaLiPRSjrMfIBP5lru) | 2:13 | 2021-11-08 | 2023-03-18 |
-| [Penny The Penguin](https://open.spotify.com/track/31czMw13DeNKlKSzpkhtXp) | [Ebbe & Lilly](https://open.spotify.com/artist/26zaS9jwYG7PxrixBvYXGA) | [Penny The Penguin](https://open.spotify.com/album/2gxNs8OMzjCRuZ3NbvfO80) | 1:36 | 2023-02-17 |  |
+| [Penny The Penguin](https://open.spotify.com/track/31czMw13DeNKlKSzpkhtXp) | [Ebbe & Lilly](https://open.spotify.com/artist/26zaS9jwYG7PxrixBvYXGA) | [Penny The Penguin](https://open.spotify.com/album/2gxNs8OMzjCRuZ3NbvfO80) | 1:36 | 2023-02-17 | 2024-10-26 |
 | [Peppa pig theme](https://open.spotify.com/track/4Lp6k5QJ93u0f7xLyGESWT) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [Peppa pig theme](https://open.spotify.com/album/31HygwzcDqvPQfBOj6LNIv) | 1:28 | 2023-11-17 |  |
 | [Pillows](https://open.spotify.com/track/22eWMP9QXnJSVcLpKCxl1w) | [The Bed Timers](https://open.spotify.com/artist/6H1FsTGe0ycXNKnGze3rqf) | [Pillows](https://open.spotify.com/album/1oaYNR7kCYRVaGj6c5fnGa) | 1:56 | 2021-11-08 | 2022-10-29 |
 | [Playing Marbles](https://open.spotify.com/track/4WQbArr5ji9cQleFLs9qcP) | [Ronda Thurman](https://open.spotify.com/artist/49p3D2yCQu1mDSJ7R2IiJj) | [Playing Marbles](https://open.spotify.com/album/4QRI6JbZ2c9qXyeF2WNUAy) | 1:03 | 2021-11-08 | 2024-04-05 |
@@ -739,6 +740,7 @@
 | [Serene Slumber](https://open.spotify.com/track/63UWqD2mAFfFG6LrWcr0sy) | [Hope Hall](https://open.spotify.com/artist/4jfobyXAZQvpnl9Cn0fzAk) | [Watching Over You](https://open.spotify.com/album/1hBdVtoMRo0QBbrloHZ1yk) | 1:59 | 2023-04-07 | 2024-10-12 |
 | [Sharky's Toothbrush](https://open.spotify.com/track/69kYnUzPX39WrqgKejQIaD) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [Sharky's Toothbrush](https://open.spotify.com/album/5T42GEONHpXZO02VkBfSS9) | 2:09 | 2024-01-05 |  |
 | [She'll Be Coming Around the Mountain](https://open.spotify.com/track/0kPaGsgbXPS0rOZiSHTRf9) | [Terence Hays](https://open.spotify.com/artist/6Cwj0hRP82PMXEc6XZR4eb) | [Skip to My Lou](https://open.spotify.com/album/3MZ2b97iMdx4nIthH5SMe9) | 1:33 | 2021-11-08 | 2022-10-29 |
+| [Sheeplings](https://open.spotify.com/track/3Moov5075MI3wL1aIARWwf) | [Forrest Carmine](https://open.spotify.com/artist/3HxrE3TmMILgSfr1Gwg03s) | [Sheeplings](https://open.spotify.com/album/5qlgLCLsaYVzNY1cndyB0R) | 3:00 | 2024-10-25 |  |
 | [shine snap](https://open.spotify.com/track/6kuFxLwrjqUHaIgTprDa4Q) | [arc](https://open.spotify.com/artist/1zftHN1R1J5FHVdCuIeuyV) | [shine snap](https://open.spotify.com/album/62xVJYuNMNerksBjEPrPwi) | 2:00 | 2021-11-08 | 2022-01-22 |
 | [Siesta](https://open.spotify.com/track/4gCz5o087cR8iTCsDSNWan) | [Dahlia Greene](https://open.spotify.com/artist/5ktRI2Uh0Kzq21ZfNC7ZAm) | [Siesta](https://open.spotify.com/album/6wxh5PhxtXFWbgtBorWMkD) | 1:42 | 2021-11-08 | 2022-12-16 |
 | [Sing a Song of Sixpence](https://open.spotify.com/track/37Yw40i0ThiAQSil5KHTaC) | [Little Otis](https://open.spotify.com/artist/6q2kdnpSw8kD7BzG2X6gxF) | [Sing a Song of Sixpence](https://open.spotify.com/album/0DoPJNpqyVkF5YgJApeYow) | 1:41 | 2023-10-06 |  |
@@ -862,6 +864,7 @@
 | [Sunshine Symphony](https://open.spotify.com/track/1EugQp3Dr9Fl6zuUiHw0v7) | [Elmer Kask](https://open.spotify.com/artist/4mSdgNX5rXaRTWoVCMxIcR) | [Sunshine Symphony](https://open.spotify.com/album/3Hb2bBbFbhnWQavn99YR0c) | 1:24 | 2023-09-08 |  |
 | [Suo Gan](https://open.spotify.com/track/2Ao3ql098f12DeavWNgaLc) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Suo Gan](https://open.spotify.com/album/4niFFsiGXKOtHR2rHdy1Yo) | 1:59 | 2023-03-17 |  |
 | [Sussa Lilla Pyret](https://open.spotify.com/track/37PeTRwr9iE5yGCVC15EsT) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarnas Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 1:39 | 2022-11-11 | 2023-06-03 |
+| [Sweet Child Of Mine](https://open.spotify.com/track/5CagvKjDmV0febzGggWu60) | [Fruity Koala](https://open.spotify.com/artist/4R8wFQxG9Xrl8As1ClyGJH) | [Sweet Child Of Mine](https://open.spotify.com/album/7d3yk3BDG0t6U7k28EK6Bv) | 1:23 | 2024-10-25 |  |
 | [Sweet Dreamer](https://open.spotify.com/track/1pXbbNs7BxiqRZm5jIBcUm) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Sweet Dreamer](https://open.spotify.com/album/0pw4ddqdSi0v26chZ4Wa1r) | 2:06 | 2024-04-05 |  |
 | [Sweet Dreams](https://open.spotify.com/track/7m8gA1WxEKPlIKsChhuTtk) | [Snowy Bear](https://open.spotify.com/artist/0d46xJz23JcPHQoQ15SaU4) | [Sweet Dreams](https://open.spotify.com/album/1Y0IFRV4HoInefi8yVRYS8) | 2:15 | 2023-02-17 |  |
 | [Sweet Dreams My Love](https://open.spotify.com/track/15IOu7G2o8JKpCHSxguErZ) | [Sleepy Eli](https://open.spotify.com/artist/1FOsCc0H90QSkDzUhIX7sD) | [Sweet Dreams My Love](https://open.spotify.com/album/0f0pbyBFyD6uieQZaIFVY2) | 2:21 | 2023-05-12 |  |
@@ -899,7 +902,7 @@
 | [The Ever So Elegant Elephant](https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [The Ever So Elegant Elephant](https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn) | 1:19 | 2023-12-08 |  |
 | [The Feather Song](https://open.spotify.com/track/72jYBCcJMpYBnmBdGA6ske) | [Suno Weber](https://open.spotify.com/artist/4Xu7p8fneyGQ6G4IUYeS9L) | [The Feather Song](https://open.spotify.com/album/6RvTaodJm1tQL4CHKKHrF8) | 2:55 | 2024-08-30 |  |
 | [The Frog and the Panda Bear](https://open.spotify.com/track/0JPJXVfmlm7ObdFgicspTz) | [Pacey Carroll](https://open.spotify.com/artist/453okQQYYLY3iB33SOTjyr) | [The Frog and the Panda Bear](https://open.spotify.com/album/5Jxrd21avU8KFJIVdfoavq) | 1:28 | 2021-11-08 | 2022-10-29 |
-| [The Ghost That Couldn't Scare](https://open.spotify.com/track/2nqc38C56IGXpkzc0yqbpv) | [Anne Page](https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO) | [The Ghost That Couldn't Scare](https://open.spotify.com/album/0G9kr5Q6KdLU4FQc7T0Vi8) | 1:33 | 2023-01-27 |  |
+| [The Ghost That Couldn't Scare](https://open.spotify.com/track/2nqc38C56IGXpkzc0yqbpv) | [Anne Page](https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO) | [The Ghost That Couldn't Scare](https://open.spotify.com/album/0G9kr5Q6KdLU4FQc7T0Vi8) | 1:33 | 2023-01-27 | 2024-10-26 |
 | [The Happy Cow](https://open.spotify.com/track/776scT1OUEP6QU4y12h2I9) | [Lissie Dunn](https://open.spotify.com/artist/2hI2FJVLX5KUMS3fUUl5ah) | [The Happy Cow](https://open.spotify.com/album/4k0299IUMcTh6dxgAKKDmO) | 2:37 | 2022-12-16 | 2023-06-09 |
 | [The Ice Cream King](https://open.spotify.com/track/3bNEBw6cvY06icXZT9Jw3d) | [Leo Fosbrook](https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW) | [The Ice Cream King](https://open.spotify.com/album/1tGzbOO4dXF4Eh2v7mMJ8p) | 1:05 | 2021-11-08 | 2024-04-05 |
 | [The Little](https://open.spotify.com/track/0DLyrjrQAySFEciQIyQqNz) | [Mark Litman](https://open.spotify.com/artist/541xSBrTmGHtYLdLBSivnB) | [The Little](https://open.spotify.com/album/7xtHgeEFTU9x85RRkPw7P7) | 2:08 | 2021-11-08 | 2022-10-08 |
@@ -928,7 +931,7 @@
 | [The Stars in Your Eyes](https://open.spotify.com/track/2mtHZX8jd1B1Nsf9U1CHdk) | [Christopher Reiss](https://open.spotify.com/artist/2fdwKnkjowq93OOlHwQtYg) | [The Stars in Your Eyes](https://open.spotify.com/album/6q4OheMWHx4s2GOv9DLXNG) | 2:39 | 2023-06-15 |  |
 | [The Summer Song](https://open.spotify.com/track/7cMiMt0PxADfw0qyJntLOw) | [Daisy Jesse](https://open.spotify.com/artist/4vBI6SlaXWOvwH8XmWl4El) | [The Summer Song](https://open.spotify.com/album/4IDDkan328vqj516VfsBno) | 1:40 | 2024-10-11 | 2024-10-19 |
 | [The Sun Has Set](https://open.spotify.com/track/0IPKK4PN1dP81iivLNdJXq) | [Jules Scott](https://open.spotify.com/artist/0Zwph8W146k7UHJ5BIyB7s) | [The Sun Has Set](https://open.spotify.com/album/6tOclHnzUoh8vCrG3JJLU1) | 1:40 | 2021-11-08 | 2024-04-05 |
-| [The Sunset Song](https://open.spotify.com/track/5coSsftpWxzGkTmyrE7K4P) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [The Sunset Song](https://open.spotify.com/album/6lbTcfCTJQrui8k5TJZDh4) | 1:49 | 2023-02-17 |  |
+| [The Sunset Song](https://open.spotify.com/track/5coSsftpWxzGkTmyrE7K4P) | [Månljus](https://open.spotify.com/artist/4pqWBYMZqqD9zWiqTKrWTk) | [The Sunset Song](https://open.spotify.com/album/6lbTcfCTJQrui8k5TJZDh4) | 1:49 | 2023-02-17 | 2024-10-26 |
 | [The Trolley and the Tree](https://open.spotify.com/track/12YCRrewMeC6B6NuRAFk2a) | [Kim Akvileja](https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg) | [The Trolley and the Tree](https://open.spotify.com/album/5jozRmoOMXeJHN2t18EZ8E) | 1:59 | 2024-02-09 |  |
 | [The Wheels on the Bus](https://open.spotify.com/track/2a1AnFv6uuXPWjqeqDSRO6) | [Dahlia Greene](https://open.spotify.com/artist/5ktRI2Uh0Kzq21ZfNC7ZAm) | [Siesta](https://open.spotify.com/album/6wxh5PhxtXFWbgtBorWMkD) | 1:21 | 2021-11-08 | 2023-04-09 |
 | [The Wheels on the Bus](https://open.spotify.com/track/4P5sHxh7nl3IRm5sWtVmW1) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [If You're Happy and You Know It](https://open.spotify.com/album/2SYzk7ikiP4f2hPLtnnafR) | 1:59 | 2021-11-08 | 2022-09-24 |

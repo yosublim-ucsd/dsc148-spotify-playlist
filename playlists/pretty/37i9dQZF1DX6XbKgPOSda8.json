@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Oi nom\u00e1s ese cumbi\u00f3n! ",
-  "num_followers": 216637,
+  "num_followers": 216731,
   "original_name": "Cumbias Para Bailar",
   "owner": {
     "name": "Spotify",
@@ -731,8 +731,8 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+        "name": "Prometiendo Amor",
+        "url": "https://open.spotify.com/album/3M5IHxICkEH22lqBgDXnHu"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+      "duration_ms": 206346,
+      "name": "Vuela Mariposa",
+      "url": "https://open.spotify.com/track/4F8AQkyQSTb19us1XLfVf2"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 247000,
       "name": "El Hombre Que Yo Amo",
       "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -907,8 +907,8 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Prometiendo Amor",
-        "url": "https://open.spotify.com/album/3M5IHxICkEH22lqBgDXnHu"
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
         }
       ],
-      "duration_ms": 206346,
-      "name": "Vuela Mariposa",
-      "url": "https://open.spotify.com/track/4F8AQkyQSTb19us1XLfVf2"
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Te Ves Fatal",
-        "url": "https://open.spotify.com/album/3XVCZcU12ZBJhIuHl5VCBZ"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        }
-      ],
-      "duration_ms": 225242,
-      "name": "Te Ves Fatal",
-      "url": "https://open.spotify.com/track/4JZ1V44A2liaxtjzrGnRLU"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Con Nuestros Amigos",
         "url": "https://open.spotify.com/album/2E1bI25YNoU7UaD2PDyGOK"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 192386,
       "name": "El Santo Del Amor",
       "url": "https://open.spotify.com/track/1ypgaZINEPR74L2c5W3h0A"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Te Ves Fatal",
+        "url": "https://open.spotify.com/album/3XVCZcU12ZBJhIuHl5VCBZ"
+      },
+      "artists": [
+        {
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        }
+      ],
+      "duration_ms": 225242,
+      "name": "Te Ves Fatal",
+      "url": "https://open.spotify.com/track/4JZ1V44A2liaxtjzrGnRLU"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1511,18 +1511,26 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+        "name": "Llorando Estoy Llorando",
+        "url": "https://open.spotify.com/album/5j4KgvUsrja7wCzPpQQbgF"
       },
       "artists": [
         {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        },
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Maria Fernanda",
+          "url": "https://open.spotify.com/artist/3ulDOybXbRiW717f6gMKpy"
         }
       ],
-      "duration_ms": 266866,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
+      "duration_ms": 215400,
+      "name": "Llorando Estoy Llorando",
+      "url": "https://open.spotify.com/track/2RKZeewX6sS5MKklB9m9VV"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1543,6 +1551,22 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
         "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
         "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
@@ -1555,22 +1579,6 @@
       "duration_ms": 232493,
       "name": "Amor Sin Primavera",
       "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Tus Jefes No Me Quieren",
-        "url": "https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ensamble",
-          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
-        }
-      ],
-      "duration_ms": 224256,
-      "name": "Tus Jefes No Me Quieren",
-      "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1607,30 +1615,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Llorando Estoy Llorando",
-        "url": "https://open.spotify.com/album/5j4KgvUsrja7wCzPpQQbgF"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        },
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Maria Fernanda",
-          "url": "https://open.spotify.com/artist/3ulDOybXbRiW717f6gMKpy"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Llorando Estoy Llorando",
-      "url": "https://open.spotify.com/track/2RKZeewX6sS5MKklB9m9VV"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Grupo Ca\u00f1averal, Vol. III",
         "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Guarachando",
-        "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
+        "name": "Tus Jefes No Me Quieren",
+        "url": "https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh"
       },
       "artists": [
         {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
         }
       ],
-      "duration_ms": 243457,
-      "name": "Coraz\u00f3n Solitario",
-      "url": "https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw"
+      "duration_ms": 224256,
+      "name": "Tus Jefes No Me Quieren",
+      "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1679,18 +1663,18 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+        "name": "Guarachando",
+        "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
       },
       "artists": [
         {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
         }
       ],
-      "duration_ms": 225560,
-      "name": "Pero Tu Mirada",
-      "url": "https://open.spotify.com/track/1Tp4YUZ1eYy0YzOtrwqA1Y"
+      "duration_ms": 243457,
+      "name": "Coraz\u00f3n Solitario",
+      "url": "https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1747,24 +1731,8 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
       },
       "artists": [
         {
@@ -1772,9 +1740,9 @@
           "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Alma De Acero",
-      "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
+      "duration_ms": 207266,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1791,6 +1759,22 @@
       "duration_ms": 313613,
       "name": "El Verde De Tus Ojos",
       "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1843,22 +1827,6 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228400,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
-    },
-    {
-      "added_at": "2024-07-10 22:10:17",
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/6nPG2HfxfgQpQzeMLUAKyX"
       },
@@ -1903,6 +1871,22 @@
       "duration_ms": 267415,
       "name": "No Me Llames Mas",
       "url": "https://open.spotify.com/track/0hs7HcC5yR727pM2xWEqeN"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "Pero Tu Mirada",
+      "url": "https://open.spotify.com/track/1Tp4YUZ1eYy0YzOtrwqA1Y"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -1955,8 +1939,8 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
       "artists": [
         {
@@ -1964,9 +1948,25 @@
           "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 207266,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
+      "duration_ms": 224666,
+      "name": "Alma De Acero",
+      "url": "https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX"
+    },
+    {
+      "added_at": "2024-07-10 22:10:17",
+      "album": {
+        "name": "Conga Y Timbal",
+        "url": "https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Conga Y Timbal",
+      "url": "https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy"
     },
     {
       "added_at": "2024-07-10 22:10:17",
@@ -2059,8 +2059,8 @@
     {
       "added_at": "2024-07-10 22:10:17",
       "album": {
-        "name": "Conga Y Timbal",
-        "url": "https://open.spotify.com/album/0KkFcyHUrtHjSjrdMmX7Wi"
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
       },
       "artists": [
         {
@@ -2068,9 +2068,9 @@
           "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Conga Y Timbal",
-      "url": "https://open.spotify.com/track/7LXEJkLmNUCXD4WNbshFdy"
+      "duration_ms": 228400,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn"
     },
     {
       "added_at": "2024-07-10 22:10:17",

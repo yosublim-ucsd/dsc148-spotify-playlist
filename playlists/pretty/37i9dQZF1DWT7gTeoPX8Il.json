@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 129613,
+  "num_followers": 129691,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,18 @@
     {
       "added_at": "2024-10-17 17:00:00",
       "album": {
-        "name": "when it all ends HERE",
-        "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
+        "name": "Berakhir di Aku (Original Soundtrack From \"Home Sweet Loan\")",
+        "url": "https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd"
       },
       "artists": [
         {
-          "name": "Umay Shahab",
-          "url": "https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa"
-        },
-        {
-          "name": "Natania Karin",
-          "url": "https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d"
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
         }
       ],
-      "duration_ms": 285810,
-      "name": "perayaan mati rasa",
-      "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
+      "duration_ms": 236784,
+      "name": "Berakhir di Aku - Original Soundtrack From \"Home Sweet Loan\"",
+      "url": "https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL"
     },
     {
       "added_at": "2024-10-17 17:00:00",
@@ -799,22 +795,6 @@
     {
       "added_at": "2024-10-17 17:00:00",
       "album": {
-        "name": "Berakhir di Aku (Original Soundtrack From \"Home Sweet Loan\")",
-        "url": "https://open.spotify.com/album/3idg3o6wvAgPRwg0atEsbd"
-      },
-      "artists": [
-        {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
-        }
-      ],
-      "duration_ms": 236784,
-      "name": "Berakhir di Aku - Original Soundtrack From \"Home Sweet Loan\"",
-      "url": "https://open.spotify.com/track/3KcfLN50nMGR4uH1T0QVxL"
-    },
-    {
-      "added_at": "2024-10-17 17:00:00",
-      "album": {
         "name": "Bukan Untukku",
         "url": "https://open.spotify.com/album/2A17uTjFWawokbDDt6jzzv"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 232880,
       "name": "Bukan Untukku",
       "url": "https://open.spotify.com/track/4b3k28lrqT1YxyV6z6qEpe"
+    },
+    {
+      "added_at": "2024-10-17 17:00:00",
+      "album": {
+        "name": "when it all ends HERE",
+        "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
+      },
+      "artists": [
+        {
+          "name": "Umay Shahab",
+          "url": "https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa"
+        },
+        {
+          "name": "Natania Karin",
+          "url": "https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d"
+        }
+      ],
+      "duration_ms": 285810,
+      "name": "perayaan mati rasa",
+      "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
     },
     {
       "added_at": "2024-10-17 17:00:00",

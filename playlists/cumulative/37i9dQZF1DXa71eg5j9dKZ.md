@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Disclosure
 
-1,075 songs - 3 day 2 hr 31 min
+1,076 songs - 3 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [bda creature](https://open.spotify.com/track/2SJh15C8b0AmfG2leMFp58) | [altrice](https://open.spotify.com/artist/44lQJ512fu8nW7pa1FRmDF), [Blue Dust Archive](https://open.spotify.com/artist/0cZmamL9NzyInr7N3c0lDK) | [places faces](https://open.spotify.com/album/3KyFRjXyPY6o46fI8Dvl9d) | 4:51 | 2022-08-19 | 2022-10-21 |
 | [BDE \- Florentino Remix](https://open.spotify.com/track/6cph2K4IXo2nncGDPMvIPx) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [BDE 3XL](https://open.spotify.com/album/7wzmb5z3iBq6BGkPf32s8c) | 2:40 | 2022-03-08 | 2022-03-10 |
 | [Be as One \(feat\. Simeon Jones\)](https://open.spotify.com/track/1yaweILVkSwmVKAwbYB4K9) | [Shy One](https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ), [Simeon Jones](https://open.spotify.com/artist/51pDtTbiVlvKIlJ5q1Qio4) | [From The Floor To The Booth](https://open.spotify.com/album/2frqao7MHXrHmYrijCWlm0) | 4:47 | 2023-03-08 | 2023-03-09 |
+| [be gentle with me](https://open.spotify.com/track/1XEYRXmLvTdTfGR1ZKhPf7) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Two Shell](https://open.spotify.com/album/4jZZgPpyDqLuTq0LKgXwK6) | 3:51 | 2024-10-25 |  |
 | [be kind lose ur mind](https://open.spotify.com/track/45KRL3Lbi6aVXsCvzeNye0) | [ELLES](https://open.spotify.com/artist/6EbSbVKlRuKxfIfr8H7mCo) | [be kind lose ur mind](https://open.spotify.com/album/6JZrQcPpqcjf5YuTH9L4V2) | 4:01 | 2021-11-24\* | 2021-11-26 |
 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 | 2022-09-08 | 2023-01-13 |
 | [Beef](https://open.spotify.com/track/2n55X4AhjRpaflNXXvVcCD) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF) | [NQ State of Mind, Vol\. 3](https://open.spotify.com/album/2uLM234mLlxB0wgVUQd8iE) | 4:11 | 2022-12-16 | 2023-05-12 |

@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-762 songs - 1 day 5 hr 38 min
+766 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [dream on](https://open.spotify.com/track/5RnjnsMxNLGqRCzbiKR2IB) | [Lo\-fi Riderz](https://open.spotify.com/artist/05ZPsprfra2K8JWW4E3ITc) | [dream on](https://open.spotify.com/album/17GDntxHpGGeIeTSZkHwjQ) | 2:03 | 2022-07-29 | 2022-08-12 |
 | [Dream On](https://open.spotify.com/track/4L6P9Nol31bQuNKhAtUZs1) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9) | [Dream On](https://open.spotify.com/album/0Qt7DZzOjxddcsTv48VJ5k) | 1:36 | 2022-06-10 | 2022-07-01 |
 | [dream surfer](https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt) | [loyCOY](https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7) | [dream surfer](https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97) | 2:24 | 2022-10-28 | 2024-09-14 |
+| [dreamer](https://open.spotify.com/track/50wBtdwuGSO0L5X9Q7eppN) | [Kaptain Kola](https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn) | [dreamer](https://open.spotify.com/album/5BpBhwWIOvIePyrPrWFWfH) | 2:30 | 2024-10-25 |  |
 | [Dreamer](https://open.spotify.com/track/70yVwNhlpbsYJ5O21nyLCP) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Dreamer](https://open.spotify.com/album/7hxIAQIcCIhrhrT9jX9xOK) | 2:02 | 2023-04-20 |  |
 | [dreamers](https://open.spotify.com/track/4bPJW9pNtuvMujHnbxEN1g) | [redknobs](https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN) | [dreamers](https://open.spotify.com/album/3CD8VYak1Ubhkreu3mnYWO) | 2:33 | 2023-03-24 | 2024-05-14 |
 | [Dreaming Underwater](https://open.spotify.com/track/3xQnhrZpriPXm1kmX5epVm) | [Late Night Tones](https://open.spotify.com/artist/52wkMMF7s4aXTW4WYKvKmC) | [Dreaming Underwater](https://open.spotify.com/album/44vikY68Ddr7t0eZbdLTFr) | 1:11 | 2022-09-16 |  |
@@ -364,6 +365,7 @@
 | [laziness](https://open.spotify.com/track/68qJ3TskDFK2QuEDlUs8rH) | [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [laziness](https://open.spotify.com/album/3PscnzGhlFUABok52QKHi8) | 1:56 | 2022-07-08 |  |
 | [lazy nap](https://open.spotify.com/track/7ceWC1unY3ull9IafRchhV) | [redknobs](https://open.spotify.com/artist/69cokHbMaS4QTveywGMSUN) | [lazy nap](https://open.spotify.com/album/6hFOb4dQj9LiJbhbtr0NFc) | 2:30 | 2022-05-20 | 2024-09-07 |
 | [Less Is More](https://open.spotify.com/track/6rCIIdtq0bobJYdyOxRUQZ) | [Enoki](https://open.spotify.com/artist/1ioPe940lafF8R9ejGRRpW) | [Less Is More](https://open.spotify.com/album/4nbRufEmLoTvSTDaSDP4fA) | 2:02 | 2022-07-01 | 2023-02-15 |
+| [let go](https://open.spotify.com/track/6nTgyxPC2mNwUn459YqP8M) | [Kaiyo](https://open.spotify.com/artist/03J6WM7FvOQZfszAVknxVs), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [let go](https://open.spotify.com/album/0sdGDb4RGnwS6JIvppdmk8) | 2:19 | 2024-10-25 |  |
 | [Let It Rain](https://open.spotify.com/track/5eniIpGH50pjaFLXzxRxfo) | [Travertina](https://open.spotify.com/artist/2pRfs9421S5W58xd6yfgYu) | [Let It Rain](https://open.spotify.com/album/3FrlMcpgsvPxfdSkPLF6t5) | 2:31 | 2024-07-26 |  |
 | [Let's Move](https://open.spotify.com/track/5nDqeyoH3vlNFJY1uhHTYI) | [The Timberkids](https://open.spotify.com/artist/0JTTJTRYbWL8aQfuk0y20H) | [Let's Move](https://open.spotify.com/album/76zdGtWmIxoE91C269NCHK) | 1:52 | 2023-07-17 | 2024-08-10 |
 | [letting go](https://open.spotify.com/track/50iVEHMGHazvHEmflm11St) | [Dreamy Kid](https://open.spotify.com/artist/7ohcHbkvz2jK6SHSm7dlKu) | [letting go](https://open.spotify.com/album/08zSogmVjGGwSvkmg8pkih) | 1:33 | 2022-06-24 | 2022-07-15 |
@@ -665,7 +667,7 @@
 | [Sunday Left Overs](https://open.spotify.com/track/3beZyLCDeTAXa1mrBrPiBI) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [Sunday Left Overs](https://open.spotify.com/album/5CMa6c6y5ZIu8Q3hofDNTr) | 2:43 | 2023-01-13 | 2023-09-22 |
 | [Sundets](https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Kanbina](https://open.spotify.com/album/6HZiWLomAqbJbt56oOiK34) | 2:02 | 2022-05-20 | 2024-05-14 |
 | [Sundown Chill](https://open.spotify.com/track/2Cokpifmi3nuz1N7NWcryd) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Sundown Chill](https://open.spotify.com/album/2P7uNf0SHemPAGdRoQQs46) | 2:07 | 2024-05-13 | 2024-08-10 |
-| [Sundowner](https://open.spotify.com/track/0qTKfbBYejXk7FKnHYLOHu) | [ORSO](https://open.spotify.com/artist/6CUtexEoHrRbt4Ro9V2leN) | [Sundowner](https://open.spotify.com/album/7BL7ZIyan2Xh1XvmJlEUHB) | 1:48 | 2024-05-13 |  |
+| [Sundowner](https://open.spotify.com/track/0qTKfbBYejXk7FKnHYLOHu) | [ORSO](https://open.spotify.com/artist/6CUtexEoHrRbt4Ro9V2leN) | [Sundowner](https://open.spotify.com/album/7BL7ZIyan2Xh1XvmJlEUHB) | 1:48 | 2024-05-13 | 2024-10-26 |
 | [Sunflower](https://open.spotify.com/track/1O4om87dwOEUqzlqhloyVS) | [amedess](https://open.spotify.com/artist/6C00mlvPKgDrBmoRlYa7UG), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Sunflower](https://open.spotify.com/album/0Nt2fQ7eCyCDZyf9pfBjHu) | 1:56 | 2023-07-17 | 2023-09-22 |
 | [Sunshine](https://open.spotify.com/track/7HBhOT7IEZgtsKwbGOpJi8) | [Becky Bowder](https://open.spotify.com/artist/4H2ndjNhOqdmRcrWzvnNEo) | [Sunshine](https://open.spotify.com/album/5t8Bjlsv1UtsMgfHeH4kbf) | 2:22 | 2022-05-20 | 2022-07-29 |
 | [superabundance](https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8) | [Mickey Jam](https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9) | [superabundance](https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC) | 2:19 | 2022-09-09 |  |
@@ -732,6 +734,7 @@
 | [Under The Stars](https://open.spotify.com/track/1OWbLmxzyL8HLPlxKehklr) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Under The Stars](https://open.spotify.com/album/6ObwaaMTrezEKYZz4p0qwU) | 2:47 | 2023-02-14 |  |
 | [Under The Tree](https://open.spotify.com/track/420Lnd8GyiUS2HGt5NQBja) | [Chrisolof](https://open.spotify.com/artist/3j5LR5BmDSKqCvNRuAqCKI) | [Under The Tree](https://open.spotify.com/album/3aTq47AQERmjnRyrsQqswn) | 1:54 | 2022-07-15 | 2024-05-14 |
 | [under water](https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [under water](https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi) | 2:06 | 2023-09-22 | 2024-02-23 |
+| [untethered](https://open.spotify.com/track/1uttklvEnYlJloCbEiM6fj) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [untethered](https://open.spotify.com/album/50BdS7iKGiAVz3ipzLpQyS) | 2:06 | 2024-10-25 |  |
 | [Untroubled](https://open.spotify.com/track/3BM6eztAb6mpU54ptvRJVz) | [Dozy Blank](https://open.spotify.com/artist/3Z4yBB7X6uBREX8Uouu0Ds), [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0) | [Untroubled](https://open.spotify.com/album/7LtbSMTmH8dp9vSCOwUCtL) | 2:00 | 2022-12-16 |  |
 | [Uphill](https://open.spotify.com/track/0oEDgkRNaHonuqilpTGydO) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Kayba](https://open.spotify.com/artist/6ALIOkppAXyMd9G0MbHqOL), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Fly Away](https://open.spotify.com/album/087RvpUEA0OPTqzLFMd8h8) | 2:20 | 2022-09-02 | 2023-09-29 |
 | [Vanilla](https://open.spotify.com/track/3eew64ZAbWJa9HvzLcqXmO) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [Vanilla](https://open.spotify.com/album/269AHsEgEDJ8Q5TY9oU0ym) | 2:05 | 2022-05-20 | 2022-09-17 |
@@ -747,6 +750,7 @@
 | [Warm](https://open.spotify.com/track/1gSeaxQXKGsJ9yCZ90UjuL) | [Vries](https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U) | [Warm](https://open.spotify.com/album/5K1icypQPEduCRDzNwKC4a) | 3:02 | 2024-05-29 |  |
 | [Warriors of Words](https://open.spotify.com/track/16jz4LRv6ccmunMe0MXRJK) | [loftown](https://open.spotify.com/artist/1WpAuMe0iaQltsO94LeLRX) | [THE TOWNLOFT](https://open.spotify.com/album/1LDRClxJYRYnUWBlHP8QDj) | 1:23 | 2022-05-20 | 2022-07-15 |
 | [Wash Me Away](https://open.spotify.com/track/5s7vFV5mkeHJFmd7wkXUb9) | [ATONED](https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM) | [Wash Me Away](https://open.spotify.com/album/7i1n37Mrwagn0CH2Q8YM6c) | 2:46 | 2024-05-29 |  |
+| [watching movies](https://open.spotify.com/track/0v3J5KY6bERLkD2IIgW5u6) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [watching movies](https://open.spotify.com/album/08CLqpZcmmSg2TUQoDDyZF) | 2:30 | 2024-10-25 |  |
 | [watching the rain](https://open.spotify.com/track/1B686nuuCXZmEYcaqIZWGE) | [Emre Şen](https://open.spotify.com/artist/5Lf7SvAxwwvwdwG4U9zRk0) | [watching the rain](https://open.spotify.com/album/61NlcR3kxH9w0zCjEov1bi) | 2:06 | 2022-12-16 |  |
 | [Waving](https://open.spotify.com/track/0rmPqVXdF7NVEMUMU3vbO7) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Waving](https://open.spotify.com/album/072UsdPf7lVCKqBAstbyXS) | 2:35 | 2024-05-13 |  |
 | [weightless](https://open.spotify.com/track/6rKGlzIu5uxS2p0aHkqnUm) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [weightless](https://open.spotify.com/album/2dCFPE51zbVE3wAMHfsmgG) | 2:36 | 2022-08-05 | 2022-08-12 |

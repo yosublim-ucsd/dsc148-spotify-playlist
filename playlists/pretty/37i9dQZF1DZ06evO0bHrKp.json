@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 201276,
+  "num_followers": 201342,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAC7xx4hYIvUbLnJsztTWWps",
+  "snapshot_id": "ZxmOAAAAAABt3v+Poo1ZgKy/qK09cvvd",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 178826,
-      "name": "Rhythms",
-      "url": "https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw"
+      "duration_ms": 217026,
+      "name": "Handle This",
+      "url": "https://open.spotify.com/track/6qi4wZ9nexHsIVWFFgE3wW"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 217026,
-      "name": "Handle This",
-      "url": "https://open.spotify.com/track/6qi4wZ9nexHsIVWFFgE3wW"
+      "duration_ms": 178826,
+      "name": "Rhythms",
+      "url": "https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw"
     },
     {
       "added_at": null,

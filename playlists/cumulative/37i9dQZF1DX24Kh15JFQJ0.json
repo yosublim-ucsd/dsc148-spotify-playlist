@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The latest music from our Country Heroes. Cover: George Strait",
+  "description": "The latest music from our Country Heroes. Cover: Dwight Yoakam",
   "name": "New Traditions Country Heroes",
   "tracks": [
     {
@@ -3451,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Mama's Boys",
+        "url": "https://open.spotify.com/album/4plUOdJyu7r2Jb5lNkDHTB"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168800,
+      "name": "Mama's Boys",
+      "url": "https://open.spotify.com/track/1NmdTJi2TBp1FDsNEGmv9R"
+    },
+    {
+      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/0FbbpxXfPvOVPCjW5UPmWa"
       },
@@ -4272,6 +4290,24 @@
       "duration_ms": 169560,
       "name": "Saltwater Cowboy",
       "url": "https://open.spotify.com/track/2zJEa1T4mpFdoCvUNTo59a"
+    },
+    {
+      "album": {
+        "name": "Saturday Night in New Orleans",
+        "url": "https://open.spotify.com/album/3hZRAdtjPyaRbayeZVTvfA"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265173,
+      "name": "Saturday Night in New Orleans",
+      "url": "https://open.spotify.com/track/4EQY7eHKZDnTj3NOZKYTjf"
     },
     {
       "album": {

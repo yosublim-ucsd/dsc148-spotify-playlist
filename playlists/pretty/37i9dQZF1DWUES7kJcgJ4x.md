@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,296 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,302 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 21 | [Tú No Eres Ye Yé \(Jägerlatein\)](https://open.spotify.com/track/1Za7ZDhPUshMp2MOTiFbKT) | [Blanca Aurora](https://open.spotify.com/artist/4PPSXsmdy7P9QBDuoBLJ7M) | [Tú No Eres Ye Yé](https://open.spotify.com/album/2DuHHwSXls32idFXEZkiI0) | 2:19 |
 | 22 | [Muy Cerca de Tí](https://open.spotify.com/track/5f80txb4SYgEJtO6QTKS9l) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Cuando España Bailaba el Twist](https://open.spotify.com/album/1S1vdRlUTJVDMMNCEol9zU) | 2:32 |
 | 23 | [The "In" Crowd](https://open.spotify.com/track/139BfysfluWVAu4gnNh7L8) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Pure Instrumental Memories](https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq) | 3:14 |
-| 24 | [Johnny \- Remastered](https://open.spotify.com/track/5QUna8ZopPtdNbdVKfbo44) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/4FYwjdq1HA7SenIHj5gNdQ) | 2:12 |
-| 25 | [Me lo dijo Pérez](https://open.spotify.com/track/3ncN95x01VjT3FPm1ymMCc) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Los EP's Originales, Vol\. 2](https://open.spotify.com/album/3BdHDRBRICbHKSx5d67PGR) | 2:11 |
+| 24 | [Me lo dijo Pérez](https://open.spotify.com/track/3ncN95x01VjT3FPm1ymMCc) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Los EP's Originales, Vol\. 2](https://open.spotify.com/album/3BdHDRBRICbHKSx5d67PGR) | 2:11 |
+| 25 | [Johnny \- Remastered](https://open.spotify.com/track/5QUna8ZopPtdNbdVKfbo44) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/4FYwjdq1HA7SenIHj5gNdQ) | 2:12 |
 | 26 | [Profesor](https://open.spotify.com/track/5JZSW0sHsLPoEPye1jQc4A) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 1:51 |
 | 27 | [Más Bonita Que Ninguna](https://open.spotify.com/track/5xfYIP4HzT80lBrSoS2aQT) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Más Bonita Que Ninguna](https://open.spotify.com/album/4fEnuulMQMw7nPgt1X6DdK) | 2:55 |
 | 28 | [Let's Shake Baby](https://open.spotify.com/track/4YxycWQkXTmhxFmlCzeVjg) | [Zoe and the Stormies](https://open.spotify.com/artist/13Ocf5aEBC9rxxx8zEiWf6), [Nikos Mastorakis](https://open.spotify.com/artist/5epd50kg8EHEdO4xIggASf) | [Sixties' Best Greek Pop Songs Vol\. 3](https://open.spotify.com/album/1aK1LgKJJ6lezxkF3eI7Ej) | 2:04 |
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 30 | [The Born Loser's Theme](https://open.spotify.com/track/2K89nNrayOqbAWDlTwxsd4) | [The Sidewalk Sounds](https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60) | [Born Losers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx) | 1:47 |
 | 31 | [Snob Ye Ye](https://open.spotify.com/track/4D3FBC7IY6BPfDS2ujBHuX) | [Maleni Castro](https://open.spotify.com/artist/4ANgotw3bp4zcRUsl6tbRt) | [Una Guitarra Española](https://open.spotify.com/album/2WfpqizNpjBpzLEwHboLjp) | 2:05 |
 | 32 | [These Boots Are Made For Walkin'](https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M) | 2:46 |
-| 33 | [Datemi Un Martello](https://open.spotify.com/track/7c8pZpotK38DHT5M7zu2xR) | [Rita Pavone](https://open.spotify.com/artist/5EpZfVYEPIGacbqwrlIPS2) | [Rita Pavone](https://open.spotify.com/album/5WTAc7on7wkTCB9RAUJLcC) | 2:49 |
+| 33 | [Tómbola](https://open.spotify.com/track/2NUTJK1BazWlFoHiRQzlTw) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Marisol\. La Pequeña Estrella](https://open.spotify.com/album/6w4u33Z6xVyAUJOnDNkmcT) | 2:32 |
 | 34 | [El Juguete Extraordinario](https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 2:08 |
 | 35 | [Tengo 17 Años](https://open.spotify.com/track/6MhIzu7jyYl7lCmAGLPhNZ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal \- Canciones De Juventud Los Años Prodigiosos De Una Artista Inolvidable 1962\- 1972](https://open.spotify.com/album/13lSObYUJPdxDePasnJxYh) | 3:01 |
-| 36 | [Tómbola](https://open.spotify.com/track/2NUTJK1BazWlFoHiRQzlTw) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [Marisol\. La Pequeña Estrella](https://open.spotify.com/album/6w4u33Z6xVyAUJOnDNkmcT) | 2:32 |
+| 36 | [Datemi Un Martello](https://open.spotify.com/track/7c8pZpotK38DHT5M7zu2xR) | [Rita Pavone](https://open.spotify.com/artist/5EpZfVYEPIGacbqwrlIPS2) | [Rita Pavone](https://open.spotify.com/album/5WTAc7on7wkTCB9RAUJLcC) | 2:49 |
 | 37 | [Downtown](https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 3:05 |
 | 38 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/7d3cKDG22Ig9kZOS1qsq3S) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/1y0oTN8oxJPyY06ypQBDFv) | 3:00 |
 | 39 | [To Sir With Love](https://open.spotify.com/track/5ox7YOS0Tovw2OIp1T4Ste) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Greatest Hits](https://open.spotify.com/album/7aFxNDhGJl5Jy0wUyydqSI) | 2:43 |

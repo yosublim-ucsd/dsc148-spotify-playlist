@@ -1397,6 +1397,28 @@
     },
     {
       "album": {
+        "name": "Museo",
+        "url": "https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165923,
+      "name": "Museo",
+      "url": "https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg"
+    },
+    {
+      "album": {
         "name": "M\u00e1quina Del Tiempo",
         "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
       },

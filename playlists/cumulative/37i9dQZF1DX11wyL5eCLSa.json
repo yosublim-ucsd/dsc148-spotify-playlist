@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Jos\u00e9 Madero en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. El Cuarteto de Nos en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 161410,
       "name": "All-Star Baseball",
       "url": "https://open.spotify.com/track/0C7MHhOMI62d7QvRNG635d"
@@ -2667,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Miren para all\u00e1!",
+        "url": "https://open.spotify.com/album/7qabCQoyfTHRLKBnSDNdz6"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228671,
+      "name": "El perro de Alcib\u00edades",
+      "url": "https://open.spotify.com/track/0L35y8Hfp1GdXXl2LRB6fA"
+    },
+    {
+      "album": {
         "name": "Transcender",
         "url": "https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk"
       },
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 209571,
       "name": "Esta Casa Era Un Hogar",
       "url": "https://open.spotify.com/track/2yj23afyp3bodAMpXN5oVw"
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 183640,
       "name": "La Bas(e)",
       "url": "https://open.spotify.com/track/4kpRAJOlfHuu24AzHvJ1GO"
@@ -5704,7 +5722,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 202479,
       "name": "Mi Tormenta (feat. DannyLux)",
       "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
@@ -7633,6 +7651,24 @@
     },
     {
       "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186678,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
+    },
+    {
+      "album": {
         "name": "Rompecabezas (feat. NATURE)",
         "url": "https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu"
       },
@@ -9086,6 +9122,24 @@
       "duration_ms": 206582,
       "name": "Tus Pasos",
       "url": "https://open.spotify.com/track/3akV8nvN6BNxdwT6yacH08"
+    },
+    {
+      "album": {
+        "name": "T\u00e9rminos y Condiciones",
+        "url": "https://open.spotify.com/album/2udbVEb7ZysWb605c91NRT"
+      },
+      "artists": [
+        {
+          "name": "el diablo de shanghai",
+          "url": "https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "T\u00e9rminos y Condiciones",
+      "url": "https://open.spotify.com/track/0NeQY4wc4fCGkRUMPuA3wM"
     },
     {
       "album": {

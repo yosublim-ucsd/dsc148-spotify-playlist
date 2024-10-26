@@ -1,12 +1,12 @@
 {
   "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 25850,
+  "num_followers": 25864,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAABEpiFZia9dgSqBraT2FoKe",
+  "snapshot_id": "ZxmOAAAAAACYwfkoOHanHOMubWIzkV8Q",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apartamento Tres",
-        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "El Caim\u00e1n",
-      "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Los Dos",
         "url": "https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Mi Tierra",
-        "url": "https://open.spotify.com/album/0raXaTso2qdOhLbiopH14V"
+        "name": "Apartamento Tres",
+        "url": "https://open.spotify.com/album/1axHtpxjBiwMIxjm6AyzRR"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
         }
       ],
-      "duration_ms": 217040,
-      "name": "El Corrido De Amado Carrillo",
-      "url": "https://open.spotify.com/track/0XPviPLJvtGHBuSALz9NPY"
+      "duration_ms": 179373,
+      "name": "El Caim\u00e1n",
+      "url": "https://open.spotify.com/track/7BUwG4d7sn6APUhyIYVUAl"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos De Mi Tierra",
+        "url": "https://open.spotify.com/album/0raXaTso2qdOhLbiopH14V"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "El Corrido De Amado Carrillo",
+      "url": "https://open.spotify.com/track/0XPviPLJvtGHBuSALz9NPY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rosas Blancas",
         "url": "https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 151506,
       "name": "La Trailerita",
       "url": "https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Brutal",
-        "url": "https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 188120,
-      "name": "No Te Paniquees",
-      "url": "https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv"
     },
     {
       "added_at": null,
@@ -767,6 +751,22 @@
       "duration_ms": 171080,
       "name": "Aprend\u00ed Contigo",
       "url": "https://open.spotify.com/track/3tWK9kNFdeeK5Q4vZ6M932"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Brutal",
+        "url": "https://open.spotify.com/album/6SLPmv0FnxBJppKBWHbLI4"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 188120,
+      "name": "No Te Paniquees",
+      "url": "https://open.spotify.com/track/43fnr1Cv19VCF8YKrU6Wsv"
     },
     {
       "added_at": null,

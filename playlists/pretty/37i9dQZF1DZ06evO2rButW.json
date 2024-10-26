@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 693634,
+  "num_followers": 693783,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAADhRqa0o17w9fhOhNMZt6c0",
+  "snapshot_id": "ZxmOAAAAAADajOf1AKDwz2x1eP90ZLCV",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Trenza (Deluxe)",
+        "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/0eUyiqzZ7Tlu9G68IFP32G"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 200400,
       "name": "Celos",
       "url": "https://open.spotify.com/track/7eihx3GaEiFI3OGhQo6oL2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Trenza (Deluxe)",
-        "url": "https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1940 Carmen",
-        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 219413,
-      "name": "Placer Hollywood",
-      "url": "https://open.spotify.com/track/6A4bRnkCUD8DzcV3z2aHtn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Algo Es Mejor",
         "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 241000,
       "name": "Algo Es Mejor",
       "url": "https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1940 Carmen",
+        "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "Placer Hollywood",
+      "url": "https://open.spotify.com/track/6A4bRnkCUD8DzcV3z2aHtn"
     },
     {
       "added_at": null,

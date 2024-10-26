@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Judeline",
+  "description": "Fresh Latin Indie you should know. Cover: day2k",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 208351,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
@@ -234,6 +234,28 @@
       "duration_ms": 195096,
       "name": "a d\u00f3nde voy???",
       "url": "https://open.spotify.com/track/6ieFir0Sk20XxcUxp3fIiS"
+    },
+    {
+      "album": {
+        "name": "A LA MISMA VEZ",
+        "url": "https://open.spotify.com/album/5sVG3RXEsIbKdANEwQOArP"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9 Araya",
+          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+        },
+        {
+          "name": "Flor",
+          "url": "https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "A LA MISMA VEZ",
+      "url": "https://open.spotify.com/track/1D5h1T0D8zO8G6MG1rGXC1"
     },
     {
       "album": {
@@ -1126,7 +1148,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 276153,
       "name": "As\u00ed Ser\u00e1",
       "url": "https://open.spotify.com/track/5ajj2mzJc4vRa3ib9VLEeT"
@@ -2716,7 +2738,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 162774,
       "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
       "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
@@ -3052,6 +3074,24 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
+    },
+    {
+      "album": {
+        "name": "Un Tiempo en Casa Solo",
+        "url": "https://open.spotify.com/album/1F0FOFi0OdE2SArmKBjuTg"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152350,
+      "name": "Destrozado por Tu Amor",
+      "url": "https://open.spotify.com/track/4Cq1ZjUMdUbvEfdLCt29OU"
     },
     {
       "album": {
@@ -3556,6 +3596,24 @@
       "duration_ms": 203396,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/3xmTFxgTHo9XmNGCyz3Wuc"
+    },
+    {
+      "album": {
+        "name": "El ef\u00edmero arte de perdonar",
+        "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "El ef\u00edmero arte de perdonar",
+      "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
     },
     {
       "album": {
@@ -5644,7 +5702,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 145303,
       "name": "INRI",
       "url": "https://open.spotify.com/track/7G0wdE6RUVaOXFDRkElQz4"
@@ -7680,7 +7738,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 200307,
       "name": "Mediod\u00eda",
       "url": "https://open.spotify.com/track/5Uteg17hM6nVd9AxMFMaf6"
@@ -8148,7 +8206,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167522,
       "name": "Mirada",
       "url": "https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI"
@@ -8734,7 +8792,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 258618,
       "name": "Naufragio",
       "url": "https://open.spotify.com/track/4XHKwr7C9fymzCCCAzDvW0"
@@ -8912,7 +8970,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 193731,
       "name": "No me dejes caer",
       "url": "https://open.spotify.com/track/2sPHM5gHzgGT8UrhWxQrjl"
@@ -9010,6 +9068,24 @@
       "duration_ms": 207576,
       "name": "No Puedo Olvidarte",
       "url": "https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF"
+    },
+    {
+      "album": {
+        "name": "NO S\u00c9 DE AMOR",
+        "url": "https://open.spotify.com/album/0qcLd65UI39uiOcjvEbNlb"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184809,
+      "name": "NO S\u00c9 DE AMOR",
+      "url": "https://open.spotify.com/track/5fMbT4ZC13siVSsXOgyB38"
     },
     {
       "album": {
@@ -9387,6 +9463,24 @@
     },
     {
       "album": {
+        "name": "OBSSD",
+        "url": "https://open.spotify.com/album/7ETC5oDSRHVCv2A0RgYxqy"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160398,
+      "name": "OBSSD",
+      "url": "https://open.spotify.com/track/0n8WzMs4jHCsy9HliyePmg"
+    },
+    {
+      "album": {
         "name": "odiarte",
         "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
       },
@@ -9438,7 +9532,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 270983,
       "name": "ODIO quererte",
       "url": "https://open.spotify.com/track/7riwTuogQgDGP1LBlwadXV"
@@ -10102,6 +10196,24 @@
       "duration_ms": 294500,
       "name": "Peregrino",
       "url": "https://open.spotify.com/track/1TsBj3J4sVPO5KeydxbhD1"
+    },
+    {
+      "album": {
+        "name": "Perreo Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5xv5FHyHXKWxzEgMnPFv8y"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Perreo Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7D9EzvvoCMOMMPaPnAfIPU"
     },
     {
       "album": {
@@ -10848,7 +10960,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 217522,
       "name": "Quiz\u00e1 Baby",
       "url": "https://open.spotify.com/track/70KjzniDqhCpmeI8psT5ui"
@@ -14690,7 +14802,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 182000,
       "name": "\u00c1NGEL CA\u00cdDO",
       "url": "https://open.spotify.com/track/4vODmN1z5jjUpHgMfx3McV"

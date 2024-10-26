@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Black Hearse",
+        "url": "https://open.spotify.com/album/3MG0j9lXqFe35cRwG0nncu"
+      },
+      "artists": [
+        {
+          "name": "Alina Pash",
+          "url": "https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170869,
+      "name": "Black Hearse",
+      "url": "https://open.spotify.com/track/2mdESIb8uoO2BtRvdwCewZ"
+    },
+    {
+      "album": {
         "name": "By Default",
         "url": "https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn"
       },
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 233896,
       "name": "harvest sky (feat. underscores)",
       "url": "https://open.spotify.com/track/0Bz6Ih38mhIR3ZnzB1TYDV"
@@ -1663,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
+    },
+    {
+      "album": {
         "name": "Shake, Shook, Shaken",
         "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
       },
@@ -2070,7 +2106,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 217880,
       "name": "Skeleton Dance",
       "url": "https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn"
@@ -2329,6 +2365,28 @@
     },
     {
       "album": {
+        "name": "Stay In Your Grave (feat. Alice Cooper)",
+        "url": "https://open.spotify.com/album/08vLRPd996FPgpqffEUzq9"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        },
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139538,
+      "name": "Stay In Your Grave (feat. Alice Cooper)",
+      "url": "https://open.spotify.com/track/7F24giQdWEKip6mIyGuGs7"
+    },
+    {
+      "album": {
         "name": "Transangelic Exodus",
         "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
       },
@@ -2430,7 +2488,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 151395,
       "name": "The Ballad of the Witches' Road (Pop Version) - From \"Agatha All Along\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/7v3chKWVHNbrGACa8ilNeP"

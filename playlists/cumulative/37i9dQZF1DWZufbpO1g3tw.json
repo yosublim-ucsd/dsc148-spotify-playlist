@@ -1897,6 +1897,28 @@
     },
     {
       "album": {
+        "name": "En El 320",
+        "url": "https://open.spotify.com/album/1MyRCxfh0rHcAUIBQseLX2"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184588,
+      "name": "En El 320",
+      "url": "https://open.spotify.com/track/4OdprcAthLvkMkH149Fsgu"
+    },
+    {
+      "album": {
         "name": "En Mi Escritorio",
         "url": "https://open.spotify.com/album/6luDAF1ZwQWRb6j2UebJHi"
       },
@@ -4026,6 +4048,28 @@
       "duration_ms": 168306,
       "name": "Para Elisa",
       "url": "https://open.spotify.com/track/4cu1KDI2JSaf6lQbUlzDlX"
+    },
+    {
+      "album": {
+        "name": "Pasos Al Costado",
+        "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240703,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
     },
     {
       "album": {

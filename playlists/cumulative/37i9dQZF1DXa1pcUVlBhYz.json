@@ -4387,6 +4387,32 @@
     },
     {
       "album": {
+        "name": "Melodica",
+        "url": "https://open.spotify.com/album/4CV1oDU4IfYXmVvJrV2Hx5"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        },
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243779,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/1dPRwnQl9MzC7gnr21UcUG"
+    },
+    {
+      "album": {
         "name": "Message in a Hammer",
         "url": "https://open.spotify.com/album/3YZuvShbzzDdKf4qyR6Vcv"
       },
@@ -5143,6 +5169,28 @@
     },
     {
       "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
+    },
+    {
+      "album": {
         "name": "No More Looking Back (feat. Steffanie Christi'an) [David Penn Remix]",
         "url": "https://open.spotify.com/album/4yTRADe3bgrEcJCx6U9WmE"
       },
@@ -5488,7 +5536,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 292682,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/46zUvDdntnlZRTAZr9nMRS"
@@ -7568,7 +7616,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 182001,
       "name": "Time To",
       "url": "https://open.spotify.com/track/1uJZNnSaILpgIWks1zYFKW"

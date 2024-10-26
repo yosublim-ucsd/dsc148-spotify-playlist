@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 256666,
       "name": "Angel from Montgomery (feat. Bonnie Raitt) - Live",
       "url": "https://open.spotify.com/track/53OnUdsF4yWSaUevfD3EjW"
@@ -60,6 +60,28 @@
       "duration_ms": 239240,
       "name": "Angel from Montgomery - 2008 Remaster",
       "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
+    },
+    {
+      "album": {
+        "name": "John Prine (Live)",
+        "url": "https://open.spotify.com/album/1jfc5Hverd9LT9GQ4N1al1"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256665,
+      "name": "Angel from Montgomery - Live",
+      "url": "https://open.spotify.com/track/4iFaAIBihFXWZ4hiLLASWV"
     },
     {
       "album": {
@@ -1310,7 +1332,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 267133,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/7Fu24Eo9nj8dNIlsA2bWDI"
@@ -1386,7 +1408,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 217933,
       "name": "Silver Lining - Radio Edit",
       "url": "https://open.spotify.com/track/7lkKtkioFFFk9nkwNLRHER"

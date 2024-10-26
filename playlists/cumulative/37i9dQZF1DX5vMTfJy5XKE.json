@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 215342,
       "name": "A Timeless Christmas",
       "url": "https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF"
@@ -2938,7 +2938,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 124000,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 240641,
       "name": "Driving Home For Christmas",
       "url": "https://open.spotify.com/track/1c0UgIyXeO3ivN5ak6ywZN"
@@ -3468,7 +3468,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 161853,
       "name": "Fancy Like Christmas",
       "url": "https://open.spotify.com/track/0kO59Q18sOo4HmZWQSUVyr"
@@ -4135,6 +4135,24 @@
     },
     {
       "album": {
+        "name": "Happy Trails",
+        "url": "https://open.spotify.com/album/692vnJ4ZSRqgoCldC2zmGr"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187384,
+      "name": "Happy Trails",
+      "url": "https://open.spotify.com/track/1WRNwhOwNDBxKpkXMeV1zK"
+    },
+    {
+      "album": {
         "name": "Happy Xmas (War Is Over)",
         "url": "https://open.spotify.com/album/3Bsr60nqZmKOu2xAvEdFgs"
       },
@@ -4258,7 +4276,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 208000,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/1uCJxPGpqw7PAC6RrMkv0F"
@@ -4654,6 +4672,24 @@
       "duration_ms": 167975,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/7a5PhDoCdjDuLvsmlliQe9"
+    },
+    {
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/7Aot2bMAZtbbNU1PF8l8kB"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0sWdvAS5A2CP2rCHEBe45J"
     },
     {
       "album": {
@@ -5104,6 +5140,24 @@
       "duration_ms": 159412,
       "name": "How Christmas Is Supposed To Be (feat. Sheridan Smith)",
       "url": "https://open.spotify.com/track/3zw1izLVNY4kWcIyrRULeM"
+    },
+    {
+      "album": {
+        "name": "I Believe in Father Christmas (Cover)",
+        "url": "https://open.spotify.com/album/662DsP3RWGoC2Uo2sFQMTX"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199485,
+      "name": "I Believe in Father Christmas - Cover",
+      "url": "https://open.spotify.com/track/3bXZgsr8BIRkntxmptPKgm"
     },
     {
       "album": {
@@ -5877,6 +5931,24 @@
     },
     {
       "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5pQdEFWD5UCJgoaBG8jtKI"
+      },
+      "artists": [
+        {
+          "name": "Matthew Ifield",
+          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177418,
+      "name": "I\u2019ll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/359h3brFjcorgReFRjS6bx"
+    },
+    {
+      "album": {
         "name": "I\u2019ll Be Home For Christmas",
         "url": "https://open.spotify.com/album/5q9IE9PlEsjq3jMxDLOfYp"
       },
@@ -6320,6 +6392,28 @@
       "duration_ms": 184291,
       "name": "Kid Again On Christmas",
       "url": "https://open.spotify.com/track/6xOZ67H31FwSejzrGnHPEB"
+    },
+    {
+      "album": {
+        "name": "Kid At Christmas",
+        "url": "https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213828,
+      "name": "Kid At Christmas",
+      "url": "https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90"
     },
     {
       "album": {
@@ -7973,6 +8067,24 @@
     },
     {
       "album": {
+        "name": "Oh Joy! (It's Christmas Time)",
+        "url": "https://open.spotify.com/album/3KNyfo3aJqtRqAT2fImWAi"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155114,
+      "name": "Oh Joy!",
+      "url": "https://open.spotify.com/track/3FQxsAsHoLaqSmUrSpu9Ff"
+    },
+    {
+      "album": {
         "name": "Old Fashioned Holiday",
         "url": "https://open.spotify.com/album/2gx97ElmSHY6Gxd1NZxxz9"
       },
@@ -8200,7 +8312,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 172794,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/6aE8AlwAqqvnhlthMLrSj3"

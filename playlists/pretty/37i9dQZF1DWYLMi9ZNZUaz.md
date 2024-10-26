@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Masew, Double2T, Tuấn Cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,015 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,060 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 43 | [Ex's Hate Me](https://open.spotify.com/track/170CNv2CAZn8wg6GxvHXYC) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Ex's Hate Me](https://open.spotify.com/album/7LbymDU8cc2RSzimBgWsKm) | 4:18 |
 | 44 | [1\-800\-LOVE](https://open.spotify.com/track/7K1yMkQqA9ZxHfa2y4XsY6) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [1\-800\-LOVE](https://open.spotify.com/album/24E35s7rYA3IzKm2BPeusC) | 4:25 |
 | 45 | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 |
-| 46 | [Kẻ Cắp Gặp Bà Già \(feat\. Binz\)](https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:51 |
-| 47 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 |
-| 48 | [Badtrip](https://open.spotify.com/track/33SYx5viijwLGMqfl50FKI) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:38 |
+| 46 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 |
+| 47 | [Badtrip](https://open.spotify.com/track/33SYx5viijwLGMqfl50FKI) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:38 |
+| 48 | [Kẻ Cắp Gặp Bà Già \(feat\. Binz\)](https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:51 |
 | 49 | [đứa nào làm em buồn?](https://open.spotify.com/track/3CqtQwaoQTdgDWLHyv7Twr) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [đứa nào làm em buồn?](https://open.spotify.com/album/3cfgav0hiCm3cK459L9VxM) | 4:12 |
 | 50 | [Lựa Chọn Của Em](https://open.spotify.com/track/5S1qhBgTprx5CFkLmmU95i) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm), [Vũ Phụng Tiên](https://open.spotify.com/artist/70ULEgr5A3zBL12foM4bnj), [Đậu Tất Đạt](https://open.spotify.com/artist/37yCp3F1wG0gNrnaLkIdDV) | [Lựa Chọn Của Em](https://open.spotify.com/album/2v1ZACaUYprXiqCOU7sEng) | 4:07 |
 

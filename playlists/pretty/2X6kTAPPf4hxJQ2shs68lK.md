@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 
 > 25 songs updated every Tuesday ⏳ \(Email: jahtalksmusic@gmail.com\)
 
-[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 33,961 likes - 25 songs - 1 hr 26 min
+[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 33,982 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 | 8 | [Center Stage](https://open.spotify.com/track/4K0RABVKAcsYl9jJXt9kzu) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [STABBED & SHOT 2](https://open.spotify.com/album/5TQOBBsanvWHldiUnPSy54) | 3:18 |
 | 9 | [Yourself](https://open.spotify.com/track/0ahJ8Bq9BXom2hAkuhwIV4) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Elite Vessel](https://open.spotify.com/album/4CM64AqgbtDE5kpcJAgi8F) | 2:48 |
 | 10 | [Look At Yoself, Accept Yoself](https://open.spotify.com/track/6PsUScLM5vRiREy8UCLvJZ) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE), [Jboogz](https://open.spotify.com/artist/6qCCbx2dsKhC8ho5M1xcOq), [Thomas Austin](https://open.spotify.com/artist/7CX2IocKUqEmOQ74CsU9zt) | [We All Need Help](https://open.spotify.com/album/3kjwTq1DN9VYZSnJJ8Ic5T) | 3:37 |
-| 11 | [Missing You](https://open.spotify.com/track/6iX8voVaI4qOf9KCvaItZh) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Missing You](https://open.spotify.com/album/2SvrXGfaUJ19ON8VYzBBPW) | 3:57 |
+| 11 | [Missing You](https://open.spotify.com/track/6iX8voVaI4qOf9KCvaItZh) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Missing You](https://open.spotify.com/album/2SvrXGfaUJ19ON8VYzBBPW) | 3:57 |
 | 12 | [5 TO 10](https://open.spotify.com/track/1zTGRPGqfZP0cfyTmoQP0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:13 |
 | 13 | [Drugs You Should Try It](https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:28 |
 | 14 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |

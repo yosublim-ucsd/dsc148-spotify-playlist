@@ -704,7 +704,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 187365,
       "name": "CHAVE",
       "url": "https://open.spotify.com/track/7iCASj4hDCB7Zz4mI7JNri"
@@ -1943,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "ME CUIDA",
+        "url": "https://open.spotify.com/album/16RVz9wwsbFuif2roEH1XX"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151471,
+      "name": "ME CUIDA",
+      "url": "https://open.spotify.com/track/44ou1P05l7xkl4vxDfGCja"
+    },
+    {
+      "album": {
         "name": "Me Ensina a Viver",
         "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
       },
@@ -2532,7 +2550,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 164693,
       "name": "O Tempo Vai Curar",
       "url": "https://open.spotify.com/track/0UCzwca3vNvZHqMqi5zfJN"
@@ -2684,6 +2702,48 @@
       "duration_ms": 184991,
       "name": "Planos Melhores",
       "url": "https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL"
+    },
+    {
+      "album": {
+        "name": "Poetizar 1 - \u00daltima Chance",
+        "url": "https://open.spotify.com/album/0hyrTjFAgW8BFIBPXPB9Hc"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Educky",
+          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
+        },
+        {
+          "name": "Izza D",
+          "url": "https://open.spotify.com/artist/2mebVuPWzzXRptGyb8sAb1"
+        },
+        {
+          "name": "Robert Lucas",
+          "url": "https://open.spotify.com/artist/4drjGi7LoMx8QTi4Vl6RUp"
+        },
+        {
+          "name": "Bela Soares",
+          "url": "https://open.spotify.com/artist/3cyggqPRMcdAAOu8758NYJ"
+        },
+        {
+          "name": "Isabella Bretins",
+          "url": "https://open.spotify.com/artist/5bqPA1ip2jTIqaKhOfvuTh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331843,
+      "name": "Poetizar 1 - \u00daltima Chance",
+      "url": "https://open.spotify.com/track/4ToHXRMWxxiYnCf411hSW0"
     },
     {
       "album": {

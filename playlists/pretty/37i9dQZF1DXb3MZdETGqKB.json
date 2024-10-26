@@ -1,12 +1,12 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 150079,
+  "num_followers": 150091,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZvYtwAAAAADoz0A1l9ARNPfJ+4cSz65+",
+  "snapshot_id": "ZxsXwAAAAAB2jp9fBfmKwhYzSxdH+TjZ",
   "tracks": [
     {
       "added_at": "2024-09-27 04:00:00",
@@ -47,6 +47,30 @@
       "duration_ms": 211200,
       "name": "U Shake Me",
       "url": "https://open.spotify.com/track/3QvzhZTaiI051DQ5OycbOU"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Cold Blues",
+        "url": "https://open.spotify.com/album/4tn5qaeFYiS56VHm49Lh3G"
+      },
+      "artists": [
+        {
+          "name": "DR. Moriarity",
+          "url": "https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Dionysus the God",
+          "url": "https://open.spotify.com/artist/4A6RhBJpQcfZeG7VlP2uf4"
+        }
+      ],
+      "duration_ms": 274707,
+      "name": "Cold Blues",
+      "url": "https://open.spotify.com/track/0sO16Fj8Mj9ztczfbxF7dy"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1659,46 +1683,6 @@
       "duration_ms": 244626,
       "name": "The Message",
       "url": "https://open.spotify.com/track/6Qid5XSXyMiePb3XJruQ7w"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Give Praises",
-        "url": "https://open.spotify.com/album/60cMUwLJw5peMZnQb0FFP4"
-      },
-      "artists": [
-        {
-          "name": "The 32 Golden Souls",
-          "url": "https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8"
-        },
-        {
-          "name": "Lymie Murray",
-          "url": "https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI"
-        },
-        {
-          "name": "Winston McAnuff",
-          "url": "https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Give Praises",
-      "url": "https://open.spotify.com/track/6Sa3ga6JEhzguGcmH4cAJV"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "Find Somebody New",
-        "url": "https://open.spotify.com/album/7yia02IejFb97Uv85hLddH"
-      },
-      "artists": [
-        {
-          "name": "Jason Weaver",
-          "url": "https://open.spotify.com/artist/6n0cnqQD5b9L0dpqQ3wOOq"
-        }
-      ],
-      "duration_ms": 170374,
-      "name": "Find Somebody New",
-      "url": "https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY"
     },
     {
       "added_at": "2022-09-02 04:02:00",

@@ -4,7 +4,7 @@
 
 > built for the climb with the red clay strays
 
-336 songs - 20 hr 12 min
+337 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [River Run](https://open.spotify.com/track/4cns2rtLADG9gaNlItD8mR) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:11 | 2023-05-22 | 2023-07-01 |
 | [River Run](https://open.spotify.com/track/5dXlTSS5qfLerFrdR32LXA) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [River Run](https://open.spotify.com/album/3mBdZACUd5ArkYoWDRD2nW) | 3:11 | 2023-03-24 | 2023-06-01 |
 | [Rodeo Money](https://open.spotify.com/track/1cSjK6jDelAxuBypzWsJ7R) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Rodeo Money](https://open.spotify.com/album/2f2ENXEtPErgBXvvhTCBH2) | 3:47 | 2023-02-24 | 2023-12-09 |
+| [Rollin' Stone](https://open.spotify.com/track/1CxoluXWMslZp5T89ravj3) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Rollin' Stone](https://open.spotify.com/album/5ENChAFhgnJ4kpnLpIt3wB) | 2:31 | 2024-10-25 |  |
 | [Run Away High](https://open.spotify.com/track/58XuhoLGFJCqpD5EOPif3f) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Run Away High](https://open.spotify.com/album/06mk4vdbCFKD3K3sIEpEd6) | 3:21 | 2023-11-21 | 2023-12-09 |
 | [Run Your Mouth](https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 2:40 | 2024-08-28 |  |
 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 | 2023-02-24 |  |
@@ -306,7 +307,7 @@
 | [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 | 2023-03-03 | 2023-12-09 |
 | [Vampire in Appalachia](https://open.spotify.com/track/5ybs4h5XoFYZXBnmKSMjMo) | [Philip Bowen](https://open.spotify.com/artist/3Mm4P393IFVqIQDmL691G9), [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Vampire in Appalachia](https://open.spotify.com/album/6Ch409k36E7j35ECKAqNSu) | 3:04 | 2023-07-07 | 2023-09-23 |
 | [Van Gogh](https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Sudden Opera](https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE) | 2:52 | 2023-02-24 | 2023-08-21 |
-| [Vegas \- A COLORS SHOW](https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas \- A COLORS SHOW](https://open.spotify.com/album/1UipsejbT67IizPimBSxN3) | 3:01 | 2024-06-12 |  |
+| [Vegas \- A COLORS SHOW](https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas \- A COLORS SHOW](https://open.spotify.com/album/1UipsejbT67IizPimBSxN3) | 3:01 | 2024-06-12 | 2024-10-26 |
 | [Virginia \- radiowv](https://open.spotify.com/track/4OAJKm0oBV9x5L647GUmn1) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [Virginia \(radiowv\)](https://open.spotify.com/album/3VMhRXQfpTqMEIvq4GwFO0) | 2:49 | 2023-08-25 | 2023-12-09 |
 | [Virginia and You](https://open.spotify.com/track/2XprbiQ9YXfVbAYOHvnahD) | [Low Gap](https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio) | [Virginia and You](https://open.spotify.com/album/2hM4NRLVcMbp5Vu6E9odF1) | 3:31 | 2023-05-12 |  |
 | [Waging War](https://open.spotify.com/track/2WPzVbrJIM6oOUAvF9q64Q) | [Aidan Canfield](https://open.spotify.com/artist/2ioXm53iT5CaTN1ymEv3Yw) | [Waging War](https://open.spotify.com/album/74Syb2oEmqiXOuh1u8gRcd) | 4:01 | 2024-02-16 | 2024-05-25 |

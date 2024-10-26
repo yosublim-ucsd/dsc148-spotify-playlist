@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: Andr
 
-910 songs - 2 day 4 hr 59 min
+912 songs - 2 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [First Kiss](https://open.spotify.com/track/4tMUrFEBtPzRr0bTFcvDhM) | [KC](https://open.spotify.com/artist/13rGqmHXH2NNG3nnK1zuCS) | [First Kiss](https://open.spotify.com/album/4AFMSSv2X1S1lGZvbSFx9J) | 3:00 | 2024-10-17 |  |
 | [FNGRMHRDR](https://open.spotify.com/track/4OfyHxtxbGBdcJgk4OiXMP) | [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Pan The Pansexual](https://open.spotify.com/album/1pJNvEmcRn5TCX5kUbgL6h) | 4:24 | 2024-07-11 | 2024-08-02 |
 | [Follow me](https://open.spotify.com/track/6CmpcgBoRUMYIGAQBmXP9W) | [齊翔 XIANG](https://open.spotify.com/artist/4Z5zA4xz2K3si2EzO2GbiS) | [Follow me](https://open.spotify.com/album/2Iwn7xEFprpZHwXabS4Ldj) | 2:13 | 2024-08-29 | 2024-09-20 |
-| [For Me](https://open.spotify.com/track/2GVTS8oQaOE3luPlQLuzJd) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [For Me](https://open.spotify.com/album/3MR628PTur3huxnP2S6pJs) | 4:21 | 2024-10-10 |  |
+| [For Me](https://open.spotify.com/track/2GVTS8oQaOE3luPlQLuzJd) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [For Me](https://open.spotify.com/album/3MR628PTur3huxnP2S6pJs) | 4:20 | 2024-10-10 |  |
 | [Fortune Cookie](https://open.spotify.com/track/62Ao4j78KwCmAWxOdOH7bU) | [张静汶](https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB) | [Fortune Cookie](https://open.spotify.com/album/2YgUmtC569w5hLi6ZsXxFd) | 3:27 | 2024-10-17 | 2024-10-25 |
 | [Freedom](https://open.spotify.com/track/1Kb8k1lx00kItso7EBh97x) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [Freedom](https://open.spotify.com/album/11nO58mkteDM9vnY1dJLNt) | 3:42 | 2024-08-22 | 2024-08-30 |
 | [Friday Night](https://open.spotify.com/track/1eqBHZq5Q60zdsYLwCmLCa) | [謝青燁Eric](https://open.spotify.com/artist/14oZ0wuwtWNmoegX9VwxDn) | [派對冥想家](https://open.spotify.com/album/52LMeWKb3hIOfBodyvC2Dh) | 3:36 | 2024-08-01 | 2024-09-13 |
@@ -251,7 +251,7 @@
 | [This is My World](https://open.spotify.com/track/2cvKWDT3rsdB8FlFe6HhXz) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [This is My World](https://open.spotify.com/album/3F6Sw8AR9dUt4n3Z0e17YX) | 4:41 | 2024-09-26 | 2024-10-18 |
 | [TICK TOCK](https://open.spotify.com/track/68nlSr873PQy6Y5VSAHykA) | [GiNN 諸葛靖](https://open.spotify.com/artist/13NB4M0pXsSDewqK6MLm6Z) | [//Makes Sense//](https://open.spotify.com/album/2TG1DpTdNLVzfXBhd5vT7G) | 2:38 | 2024-09-26 | 2024-10-18 |
 | [Timaeus](https://open.spotify.com/track/6963ZGNrog19hFN34DI4QO) | [諦覓司](https://open.spotify.com/artist/4kQBeuc2hJJYcqtw0VFRCX) | [Timaeus](https://open.spotify.com/album/2UDqnhJrhT1oXo73ma3lRu) | 2:48 | 2024-10-03 | 2024-10-11 |
-| [Time](https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [Time](https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ) | 3:23 | 2024-10-24 |  |
+| [TIME](https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [TIME](https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ) | 3:23 | 2024-10-24 |  |
 | [Tiramisu \(feat\. BRADD\)](https://open.spotify.com/track/6r3WwbBueAgeJfBTUERMpS) | [June Pan](https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [June's MENU](https://open.spotify.com/album/7qQyA6FeouGYqFfnHdV4QX) | 4:04 | 2024-10-03 | 2024-10-25 |
 | [TO THE MOON \- FULL](https://open.spotify.com/track/5LY8wUTv15u6URblGm5jNs) | [夏沐](https://open.spotify.com/artist/6XXsgia5SC9tQN3ygXEVt6) | [TO THE MOON](https://open.spotify.com/album/76LuNhePQHgYEbaaDo9wZt) | 2:35 | 2024-09-19 | 2024-10-11 |
 | [Toxic Love](https://open.spotify.com/track/6MOPiHU3l5PIdYHz4gNtgr) | [Kr 氪](https://open.spotify.com/artist/3FwqU1d2SSqaQpod6A5ZCa) | [Toxic Love](https://open.spotify.com/album/5Y1UtEqzqyjRDxpTqgmK3S) | 2:09 | 2024-09-12 | 2024-10-18 |
@@ -602,6 +602,7 @@
 | [握紧吧！爱人的手！](https://open.spotify.com/track/2evyWTfXZzFl22G4Zc8Izi) | [狮童](https://open.spotify.com/artist/25yNoKSwTdvb6lUgd3nuWN) | [握紧吧！爱人的手！](https://open.spotify.com/album/3H12x0Qyupwu7gyZbDT3Wq) | 3:00 | 2024-07-11 | 2024-08-02 |
 | [搖勒](https://open.spotify.com/track/3LqLrfcaeH82WOhe0VN7Er) | [馬克SAVAGE.M](https://open.spotify.com/artist/0N7qBbcs5Ij44dxbAKy2Sl) | [搖勒](https://open.spotify.com/album/2aoBQIY50s52rdHo8mogZz) | 2:49 | 2024-08-01 | 2024-08-23 |
 | [摺痕 \(Imprint\)](https://open.spotify.com/track/5zhonW8YyuLmvFBjmlrFY6) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [摺痕 \(Imprint\)](https://open.spotify.com/album/6pOrwbhSJX359aJYKd6R18) | 4:50 | 2024-08-22 | 2024-09-13 |
+| [撲火的飛蛾](https://open.spotify.com/track/4s4zKHsHIYQJJKTo8e1sgf) | [ZEO](https://open.spotify.com/artist/7vtia4HP3xY8RPfBLIvkM6), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [撲火的飛蛾](https://open.spotify.com/album/1KogpwW4KG2cthGJKVOkLE) | 3:26 | 2024-10-24 |  |
 | [收納](https://open.spotify.com/track/6K8PECRklkw1WcCsSDWvOX) | [Cacien](https://open.spotify.com/artist/0mIQNrE8n0woZmWBE5mxEc) | [收納](https://open.spotify.com/album/2FeMYIY0tvsRUwbWmDP6SA) | 3:18 | 2024-07-25 | 2024-09-20 |
 | [敬夢想](https://open.spotify.com/track/5zZOzBOdRjMYOBvZI52Dn0) | [Kasiwa](https://open.spotify.com/artist/48PVBj5xANPJVDKx6G3p2f) | [敬夢想](https://open.spotify.com/album/1OVaYIP8mJ8xfxGWbPsu2i) | 3:10 | 2024-07-11 | 2024-07-19 |
 | [數字蝴蝶](https://open.spotify.com/track/3ufqW9z1JoOjhepUJYfpya) | [Cola B](https://open.spotify.com/artist/3LrZ1mrMzMFm5forQrdBVn) | [數字蝴蝶](https://open.spotify.com/album/2RBgwq4FKnxtqF4y12vUXJ) | 3:01 | 2024-09-05 | 2024-09-27 |
@@ -886,6 +887,7 @@
 | [陌生的心](https://open.spotify.com/track/39QcSOGacPeYiQqH2CSArN) | [王謙Goatak](https://open.spotify.com/artist/1CH4dO170qpIfqWdndWoUx) | [陌生的心](https://open.spotify.com/album/7JC3nm3fOdhs5EBIB6VZus) | 3:23 | 2024-09-19 | 2024-10-18 |
 | [除了快乐禁止入内](https://open.spotify.com/track/6JUj1pYrnLBqIY2UZZPgma) | [黃子弘凡](https://open.spotify.com/artist/6GlQVohOENKG7T7qktUxfK) | [除了快乐禁止入内](https://open.spotify.com/album/0RFEYSVPLWbcj1oIxpcJMO) | 3:14 | 2024-09-26 | 2024-10-25 |
 | [除了愛我](https://open.spotify.com/track/6gYX1dh9f6V1pbJGtYYCXz) | [王嘯坤](https://open.spotify.com/artist/3b2IJ77oTomoHh9RXhvNiL) | [除了愛我](https://open.spotify.com/album/66GZAE1sl65VLTboQNF5v5) | 4:31 | 2024-07-18 | 2024-08-02 |
+| [陪你浪費](https://open.spotify.com/track/1VLuSP8nkpkCYPYhnrCYjE) | [家光 KaKong](https://open.spotify.com/artist/0BmMOfx2vinT8sQwnz3Fnw) | [陪你浪費](https://open.spotify.com/album/2ZUaHBILyvhAuiHuElwlNl) | 3:28 | 2024-10-24 |  |
 | [陪着你](https://open.spotify.com/track/5AMDCQnYfiQ1tOtNizH57l) | [szy](https://open.spotify.com/artist/6cZ3mq6OMH3KVgKskMvlLt) | [陪着你](https://open.spotify.com/album/2MENT6vkFvytXg1rhBMmoo) | 3:40 | 2024-09-26 | 2024-10-04 |
 | [陷阱](https://open.spotify.com/track/04NoTSmDgG09gJthHPqeBT) | [GiNN 諸葛靖](https://open.spotify.com/artist/13NB4M0pXsSDewqK6MLm6Z) | [陷阱](https://open.spotify.com/album/4YrZWy5XqJGcDethzGPvPP) | 1:52 | 2024-09-05 | 2024-10-04 |
 | [陷阱肥](https://open.spotify.com/track/0yJgTXw1IBAbAF2wASHYp3) | [Jupiter](https://open.spotify.com/artist/65rKNtb3K6N6hC3jA60719) | [陷阱肥](https://open.spotify.com/album/7JY6hdl4XWoHhq9h433Buo) | 3:21 | 2024-07-18 | 2024-07-27 |

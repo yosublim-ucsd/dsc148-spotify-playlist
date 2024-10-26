@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best rock songs of the moment. Cover: Japandroids",
+  "description": "The best rock songs of the moment. Cover: Linkin Park",
   "name": "Rock Now",
   "tracks": [
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 212706,
       "name": "Addicted to the Wicked & Twisted",
       "url": "https://open.spotify.com/track/0zGDTGavhrr5ADw7jt1uXV"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 178260,
       "name": "American Spirit",
       "url": "https://open.spotify.com/track/6Z2xgzZlxrVVTmyjofoq0c"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 214000,
       "name": "Big Feelings",
       "url": "https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi"
@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 222154,
       "name": "Cat 5 (Cyclone)",
       "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
@@ -4433,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/4LKkChIAbTAX9zDKX91QpF"
+      },
+      "artists": [
+        {
+          "name": "DYLYN",
+          "url": "https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133425,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/6N4Yr8cPpu037kcmCoJCyW"
+    },
+    {
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -4510,6 +4528,42 @@
       "duration_ms": 271040,
       "name": "Dying For A Light In The Dark (We Are)",
       "url": "https://open.spotify.com/track/38PHYNm19p6IYfkEOzOR3p"
+    },
+    {
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189897,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF"
+    },
+    {
+      "album": {
+        "name": "D\u00e9tour",
+        "url": "https://open.spotify.com/album/3ikG5cyaqZYMgYu2yza5PW"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209181,
+      "name": "D\u00e9tour",
+      "url": "https://open.spotify.com/track/4tLNmzfwtS3vK4EdVReIHu"
     },
     {
       "album": {
@@ -4890,7 +4944,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167986,
       "name": "Every Little Crumb",
       "url": "https://open.spotify.com/track/6GBFno6vbln13PRAE0fIPM"
@@ -5233,6 +5287,24 @@
     },
     {
       "album": {
+        "name": "Melt",
+        "url": "https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207061,
+      "name": "Fake Nice",
+      "url": "https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK"
+    },
+    {
+      "album": {
         "name": "I Am Cinco",
         "url": "https://open.spotify.com/album/681D6Tw5EX8SXrj6tw8OAl"
       },
@@ -5382,6 +5454,24 @@
       "duration_ms": 199840,
       "name": "Famous",
       "url": "https://open.spotify.com/track/6bxCiUDKmjKK1mEaUWM6cJ"
+    },
+    {
+      "album": {
+        "name": "Fangtasy",
+        "url": "https://open.spotify.com/album/78ZyKHkzcr5qauqnxNCyw6"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172965,
+      "name": "Fangtasy",
+      "url": "https://open.spotify.com/track/2ws9oLOmP7FfiKnj29BPZ5"
     },
     {
       "album": {
@@ -6593,6 +6683,24 @@
     },
     {
       "album": {
+        "name": "Handle My Biz",
+        "url": "https://open.spotify.com/album/3DtXh6daCUCWP328w2Tvhz"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "Handle My Biz",
+      "url": "https://open.spotify.com/track/3SGnfmDy45GxUfUCoZl9Mk"
+    },
+    {
+      "album": {
         "name": "Crisis of Faith",
         "url": "https://open.spotify.com/album/5SHCyDKUS2SWdR9FJlRFvN"
       },
@@ -6774,7 +6882,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -7950,6 +8058,24 @@
       "duration_ms": 192878,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/2ZdEHxr2L0Dj5zJOdt3Dql"
+    },
+    {
+      "album": {
+        "name": "Jerkin'",
+        "url": "https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128658,
+      "name": "Jerkin'",
+      "url": "https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7"
     },
     {
       "album": {
@@ -11094,7 +11220,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 202909,
       "name": "new way out",
       "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
@@ -11815,6 +11941,32 @@
     },
     {
       "album": {
+        "name": "One Last Dance (From \"Venom: The Last Dance\")",
+        "url": "https://open.spotify.com/album/1jpbeJtRIMU4zgnZfh48rz"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150636,
+      "name": "One Last Dance (From \"Venom: The Last Dance\")",
+      "url": "https://open.spotify.com/track/4vJk5lD1Lk89jgBOk8E7zK"
+    },
+    {
+      "album": {
         "name": "ONE MORE TIME / MORE THAN YOU KNOW",
         "url": "https://open.spotify.com/album/12shcf6jYi3XhXxAL7U6N9"
       },
@@ -12098,6 +12250,24 @@
       "duration_ms": 172500,
       "name": "Outta My Head",
       "url": "https://open.spotify.com/track/3NcheXileql4RI8n6sLumL"
+    },
+    {
+      "album": {
+        "name": "Over Each Other",
+        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
     },
     {
       "album": {
@@ -13378,7 +13548,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 223694,
       "name": "Rock N Roller",
       "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
@@ -14133,6 +14303,24 @@
     },
     {
       "album": {
+        "name": "Let's Live a Life Better Than This",
+        "url": "https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe"
+      },
+      "artists": [
+        {
+          "name": "A. Swayze & The Ghosts",
+          "url": "https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "Sick Kinda WRLD",
+      "url": "https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J"
+    },
+    {
+      "album": {
         "name": "CHAOS NOW*",
         "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
       },
@@ -14548,7 +14736,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 178490,
       "name": "Soldier In The Army of Love",
       "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
@@ -15898,7 +16086,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -17344,7 +17532,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 177035,
       "name": "Vienna (Everything\u2019s Fine)",
       "url": "https://open.spotify.com/track/4MZkA1wOfqYclYkQt7MUEd"
@@ -18382,6 +18570,28 @@
       "duration_ms": 168905,
       "name": "Wild Imagination",
       "url": "https://open.spotify.com/track/4etPf9tU0ir7JYJItgkI7W"
+    },
+    {
+      "album": {
+        "name": "Willy Wishbone",
+        "url": "https://open.spotify.com/album/7LLYQHo8ysR1ENekeLvNvr"
+      },
+      "artists": [
+        {
+          "name": "Cody Lawless",
+          "url": "https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf"
+        },
+        {
+          "name": "Elijah Blond",
+          "url": "https://open.spotify.com/artist/2VXLfW2EYO5KtZHCFQolnt"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169906,
+      "name": "Willy Wishbone",
+      "url": "https://open.spotify.com/track/3VTjeMfcUNLYHyjhVFjbn2"
     },
     {
       "album": {

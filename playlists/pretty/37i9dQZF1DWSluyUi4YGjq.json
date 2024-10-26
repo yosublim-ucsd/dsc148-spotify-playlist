@@ -1,18 +1,34 @@
 {
-  "description": "Gazing at pedals, soaring celestially high. cover: They Are Gutting A Body Of Water",
-  "num_followers": 183083,
+  "description": "Gazing at pedals, soaring celestially high. cover: Trauma Ray",
+  "num_followers": 183184,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw2dFwAAAABCo+x+wsw7Xk0mUfkhVhQ+",
+  "snapshot_id": "ZxvQlQAAAACGK+K2mJkg+kO/rdBvWHFB",
   "tracks": [
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-25 17:08:37",
       "album": {
-        "name": "you're like me",
-        "url": "https://open.spotify.com/album/4Ql7ZFhouZz93easNzZaqt"
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn"
+      },
+      "artists": [
+        {
+          "name": "trauma ray",
+          "url": "https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1"
+        }
+      ],
+      "duration_ms": 192696,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/0NMkKC8DoQE3Y0WVyoD4zx"
+    },
+    {
+      "added_at": "2024-10-25 17:08:37",
+      "album": {
+        "name": "words from a wishing well",
+        "url": "https://open.spotify.com/album/369tShTNrYrCMkXRepABx9"
       },
       "artists": [
         {
@@ -20,25 +36,57 @@
           "url": "https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj"
         }
       ],
-      "duration_ms": 329960,
-      "name": "you're like me",
-      "url": "https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0"
+      "duration_ms": 202373,
+      "name": "bedbugs",
+      "url": "https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-10-25 17:08:37",
       "album": {
-        "name": "Bottlebrush Tree",
-        "url": "https://open.spotify.com/album/0uICcGi4pEV8ZLzi1kp2qT"
+        "name": "Daymom",
+        "url": "https://open.spotify.com/album/6lCVrl6Z9DQsh4OQEV8AlU"
       },
       "artists": [
         {
-          "name": "Starling",
-          "url": "https://open.spotify.com/artist/1CD5G3Yqzu1TpkqpxWFGFC"
+          "name": "Drop Nineteens",
+          "url": "https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Bottlebrush Tree",
-      "url": "https://open.spotify.com/track/0jJxSU4nZyCyGN8TivK0Z3"
+      "duration_ms": 362920,
+      "name": "Daymom",
+      "url": "https://open.spotify.com/track/1RTKTG7zfaiuJ4CXazi13u"
+    },
+    {
+      "added_at": "2024-10-25 17:08:37",
+      "album": {
+        "name": "chrome is lullaby",
+        "url": "https://open.spotify.com/album/2RSFZOEGjPPrZHRCnkfRIb"
+      },
+      "artists": [
+        {
+          "name": "Her New Knife",
+          "url": "https://open.spotify.com/artist/3BGUNVzuoQ79pOjLxJsZZg"
+        }
+      ],
+      "duration_ms": 182777,
+      "name": "kittyriff",
+      "url": "https://open.spotify.com/track/1fafMla0Vggy1EqB79OsRW"
+    },
+    {
+      "added_at": "2024-10-25 17:08:37",
+      "album": {
+        "name": "Son of the Rambling Dawn",
+        "url": "https://open.spotify.com/album/5KXNsOwsHSbaNe8ZJTTeNW"
+      },
+      "artists": [
+        {
+          "name": "Mondaze",
+          "url": "https://open.spotify.com/artist/1sNQryemRjTyTlxrKYZcSJ"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "Son of the Rambling Dawn",
+      "url": "https://open.spotify.com/track/5ff4r3TKIiDmrSu1yrSqRo"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -73,6 +121,22 @@
       "url": "https://open.spotify.com/track/6siemd7q5UtGQHMoFDz9l0"
     },
     {
+      "added_at": "2024-10-25 17:08:37",
+      "album": {
+        "name": "Backyard",
+        "url": "https://open.spotify.com/album/1MqbbfL6asJCkcHZHUF71Q"
+      },
+      "artists": [
+        {
+          "name": "Cosmopaark",
+          "url": "https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L"
+        }
+      ],
+      "duration_ms": 273285,
+      "name": "Hole",
+      "url": "https://open.spotify.com/track/3PoIPfMHUqAzXm33jdWXXn"
+    },
+    {
       "added_at": "2024-10-14 22:37:11",
       "album": {
         "name": "Sugarcoat",
@@ -87,6 +151,54 @@
       "duration_ms": 212240,
       "name": "Sugarcoat",
       "url": "https://open.spotify.com/track/3LTjRvhLnoc0dCqlPUtU08"
+    },
+    {
+      "added_at": "2024-10-25 17:08:37",
+      "album": {
+        "name": "Guided Tour",
+        "url": "https://open.spotify.com/album/2EPW5FoYv2KNrlR58Shsnl"
+      },
+      "artists": [
+        {
+          "name": "High Vis",
+          "url": "https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw"
+        }
+      ],
+      "duration_ms": 265165,
+      "name": "Guided Tour",
+      "url": "https://open.spotify.com/track/5libQaNWi39sL1255ivVwK"
+    },
+    {
+      "added_at": "2024-10-25 17:08:37",
+      "album": {
+        "name": "bones",
+        "url": "https://open.spotify.com/album/1uuNrcp5NTu8kGcRoHwq4n"
+      },
+      "artists": [
+        {
+          "name": "w1sh",
+          "url": "https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA"
+        }
+      ],
+      "duration_ms": 72727,
+      "name": "bones",
+      "url": "https://open.spotify.com/track/2IC95ns8wvWXMmR4nFi4wo"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "you're like me",
+        "url": "https://open.spotify.com/album/4Ql7ZFhouZz93easNzZaqt"
+      },
+      "artists": [
+        {
+          "name": "Shower Curtain",
+          "url": "https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj"
+        }
+      ],
+      "duration_ms": 329960,
+      "name": "you're like me",
+      "url": "https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0"
     },
     {
       "added_at": "2024-09-13 04:01:00",
@@ -105,22 +217,6 @@
       "url": "https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO"
     },
     {
-      "added_at": "2024-08-20 03:45:39",
-      "album": {
-        "name": "Sky Hundred",
-        "url": "https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd"
-      },
-      "artists": [
-        {
-          "name": "Parannoul",
-          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
-        }
-      ],
-      "duration_ms": 276853,
-      "name": "A Lot Can Happen",
-      "url": "https://open.spotify.com/track/4VILGtiBLGG0SQeiWLW3pW"
-    },
-    {
       "added_at": "2024-10-14 22:27:02",
       "album": {
         "name": "Your Own Becoming",
@@ -135,6 +231,38 @@
       "duration_ms": 234720,
       "name": "Bittersweet Mary",
       "url": "https://open.spotify.com/track/5ztMIM0AfQmX8axBX8OJ98"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Bottlebrush Tree",
+        "url": "https://open.spotify.com/album/0uICcGi4pEV8ZLzi1kp2qT"
+      },
+      "artists": [
+        {
+          "name": "Starling",
+          "url": "https://open.spotify.com/artist/1CD5G3Yqzu1TpkqpxWFGFC"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Bottlebrush Tree",
+      "url": "https://open.spotify.com/track/0jJxSU4nZyCyGN8TivK0Z3"
+    },
+    {
+      "added_at": "2024-08-20 03:45:39",
+      "album": {
+        "name": "Sky Hundred",
+        "url": "https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd"
+      },
+      "artists": [
+        {
+          "name": "Parannoul",
+          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
+        }
+      ],
+      "duration_ms": 276853,
+      "name": "A Lot Can Happen",
+      "url": "https://open.spotify.com/track/4VILGtiBLGG0SQeiWLW3pW"
     },
     {
       "added_at": "2024-06-12 20:24:23",
@@ -199,6 +327,22 @@
       "duration_ms": 147581,
       "name": "pond",
       "url": "https://open.spotify.com/track/3nnOsPUwXUa4lbV6Ybtqig"
+    },
+    {
+      "added_at": "2024-10-25 17:08:37",
+      "album": {
+        "name": "Floodgate",
+        "url": "https://open.spotify.com/album/6mLQEXmux7PLbetW9eu1ix"
+      },
+      "artists": [
+        {
+          "name": "Tatiana Hazel",
+          "url": "https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU"
+        }
+      ],
+      "duration_ms": 143522,
+      "name": "Floodgate",
+      "url": "https://open.spotify.com/track/00OpDpXs71NMvXyYFBf2rV"
     },
     {
       "added_at": "2024-10-14 22:37:11",
@@ -2107,22 +2251,6 @@
     {
       "added_at": "2024-03-18 15:50:05",
       "album": {
-        "name": "Spiritual Sickness",
-        "url": "https://open.spotify.com/album/4eXpcehtxUaEhPJz9flqAO"
-      },
-      "artists": [
-        {
-          "name": "YEAHRS",
-          "url": "https://open.spotify.com/artist/0xT8wI8JgoOqFrCr5v96qd"
-        }
-      ],
-      "duration_ms": 260250,
-      "name": "Rebounds",
-      "url": "https://open.spotify.com/track/7BTmWEdtfvluFSNxjiudYu"
-    },
-    {
-      "added_at": "2024-03-18 15:50:05",
-      "album": {
         "name": "An Impossibly Long Hallway...",
         "url": "https://open.spotify.com/album/5joC1BFoMHQXxAxI5eHIrI"
       },
@@ -2219,22 +2347,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Swell",
-        "url": "https://open.spotify.com/album/0xhlx3Ajj7l3ihguKe5zys"
-      },
-      "artists": [
-        {
-          "name": "Animal Ghosts",
-          "url": "https://open.spotify.com/artist/2LIlJiCuWBLpBSZQnTvEZU"
-        }
-      ],
-      "duration_ms": 250140,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/63gll6vcJRkW7ZeBsvT8wq"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "After the Night (Live)",
         "url": "https://open.spotify.com/album/5PcxtGgY7XRDp8T6ghpk5E"
       },
@@ -2247,22 +2359,6 @@
       "duration_ms": 330421,
       "name": "Beautiful World - Live",
       "url": "https://open.spotify.com/track/71i036RsGc3ROLvodV3YAa"
-    },
-    {
-      "added_at": "2024-01-12 17:24:07",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 241638,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE"
     },
     {
       "added_at": "2024-01-12 17:24:07",
@@ -2315,22 +2411,6 @@
     {
       "added_at": "2024-02-23 05:00:00",
       "album": {
-        "name": "Speeding Away to Someday",
-        "url": "https://open.spotify.com/album/6Djpcc40gGpSswN0sRFVNT"
-      },
-      "artists": [
-        {
-          "name": "Fleeting Joys",
-          "url": "https://open.spotify.com/artist/314EDjJCQdcNfzwefA7daH"
-        }
-      ],
-      "duration_ms": 330216,
-      "name": "Kiss a Girl in Black",
-      "url": "https://open.spotify.com/track/5xVUIGxqDzq3Ba4ujCXvXF"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
         "name": "crystallize (remastered)",
         "url": "https://open.spotify.com/album/50n37w3uA5ue1sw1rsUYKz"
       },
@@ -2343,22 +2423,6 @@
       "duration_ms": 496013,
       "name": "Bright",
       "url": "https://open.spotify.com/track/0MiX0kgljysWBvfwOlGGWN"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Here, Together",
-        "url": "https://open.spotify.com/album/5S5tdf2coiu87SQu5eOFty"
-      },
-      "artists": [
-        {
-          "name": "rozey",
-          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
-        }
-      ],
-      "duration_ms": 217714,
-      "name": "Here, Together",
-      "url": "https://open.spotify.com/track/0dI51Bofvlbr8GFVPYUoBG"
     },
     {
       "added_at": "2023-12-11 17:12:40",
@@ -2409,22 +2473,6 @@
       "url": "https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7"
     },
     {
-      "added_at": "2024-01-12 17:24:07",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/5jp46QfXH4ccKP8yO7vsGQ"
-      },
-      "artists": [
-        {
-          "name": "Blood Estate",
-          "url": "https://open.spotify.com/artist/74ILynpls56WeC7FcBq0fF"
-        }
-      ],
-      "duration_ms": 207692,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5nayOPbRFf5sKPGoVmjmwd"
-    },
-    {
       "added_at": "2023-09-29 15:11:53",
       "album": {
         "name": "Remote Echoes",
@@ -2455,22 +2503,6 @@
       "duration_ms": 185660,
       "name": "Gargoyle",
       "url": "https://open.spotify.com/track/78Pa6VQi8WSq9We8ENTrZ9"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Cartwheel",
-        "url": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz"
-      },
-      "artists": [
-        {
-          "name": "Hotline TNT",
-          "url": "https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe"
-        }
-      ],
-      "duration_ms": 171215,
-      "name": "I Thought You'd Change",
-      "url": "https://open.spotify.com/track/3ePFWIRZNratB2vjSrSKoP"
     },
     {
       "added_at": "2024-01-12 17:24:07",
@@ -2523,26 +2555,6 @@
       "duration_ms": 204000,
       "name": "Tell Me About It",
       "url": "https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU"
-    },
-    {
-      "added_at": "2024-01-12 17:24:07",
-      "album": {
-        "name": "it's all the same to me .",
-        "url": "https://open.spotify.com/album/6DJhAmfJo9LgXE5pjoHXc1"
-      },
-      "artists": [
-        {
-          "name": "a blue room",
-          "url": "https://open.spotify.com/artist/2KF05MsTBXijR690vZ3Gk0"
-        },
-        {
-          "name": "Mixed Matches",
-          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "it's all the same to me .",
-      "url": "https://open.spotify.com/track/5esujHO7ikzfP1mPJXJRJK"
     },
     {
       "added_at": "2024-01-12 17:24:07",

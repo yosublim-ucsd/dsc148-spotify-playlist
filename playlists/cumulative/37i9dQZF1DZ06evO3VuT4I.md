@@ -4,7 +4,7 @@
 
 > This is Suzanne Ciani\. The essential tracks, all in one playlist.
 
-117 songs - 9 hr 36 min
+118 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Midnight Rendezvous](https://open.spotify.com/track/4Otn2jAeW577E6tVVb3gJ7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 3:30 | 2023-04-05 | 2023-08-06 |
 | [Midnight Rendezvous](https://open.spotify.com/track/6tnvxeYDrXFQo576xBXRsh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 3:31 | 2022-05-29 | 2024-10-21 |
 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 | 2022-05-29 |  |
-| [Mother's Song](https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:38 | 2022-06-02 |  |
+| [Mother's Song](https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:38 | 2022-06-02 | 2024-10-26 |
 | [Mozart](https://open.spotify.com/track/4d1prmnOfbPlO0n03tUC1Q) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:11 | 2022-05-29 |  |
 | [Neverland](https://open.spotify.com/track/2Q0WqaHMpXRA8l2rCvlkrw) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:52 | 2022-05-29 | 2024-07-17 |
 | [Neverland](https://open.spotify.com/track/18iUc1Ae1t6PoSrQvl9ftP) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Neverland](https://open.spotify.com/album/7BCWK1H2v9yHHAD4otEXGt) | 3:56 | 2024-07-17 |  |
@@ -95,6 +95,7 @@
 | [Silver Ship](https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:49 | 2022-05-30 | 2023-09-26 |
 | [Simple Song \- Live](https://open.spotify.com/track/6M64D6EyQPPkQLuLH1EGfs) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:15 | 2022-06-05 | 2022-10-02 |
 | [Snow Crystals](https://open.spotify.com/track/6HX7BkAHystUyxunvavwmx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 3:37 | 2022-05-31 | 2024-06-01 |
+| [Snow Ritual \(feat\. Ghost Marrow & Suzanne Ciani\)](https://open.spotify.com/track/6PhHN00V3tyyngdq3304GU) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Ghost Marrow](https://open.spotify.com/artist/6ECt44VpzEYOIy4EjfeLNl), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Snow Ritual \(feat\. Ghost Marrow & Suzanne Ciani\)](https://open.spotify.com/album/0Qj318iUtQEpmd2ip47IGt) | 7:45 | 2024-10-26 |  |
 | [Snow Ritual \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/5t3I5yqfEAJoDbZmPiT9vJ) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Milan](https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo) | 7:42 | 2024-04-10 | 2024-08-23 |
 | [Sogno Agitato](https://open.spotify.com/track/3vuYkYDHb4mSJfP0ewpBUh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Dream Suite](https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo) | 3:16 | 2022-06-11 | 2023-03-29 |
 | [Sonar](https://open.spotify.com/track/0UDz8oHRqQEWrdN9nNeLAJ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 3:19 | 2023-10-10 |  |
@@ -115,7 +116,7 @@
 | [The Velocity Of Love](https://open.spotify.com/track/5Z8drOEmdVTtwixfM4FGzN) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 4:30 | 2022-05-29 |  |
 | [Tide Pools](https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Tide Pools](https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH) | 4:28 | 2022-05-29 | 2024-04-07 |
 | [Time Lapse](https://open.spotify.com/track/2e9rLJNPeV9HzCNIhHaQES) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 6:50 | 2023-10-10 |  |
-| [Time Stops](https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:12 | 2022-05-30 | 2024-10-23 |
+| [Time Stops](https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 4:12 | 2022-05-30 |  |
 | [Timeless](https://open.spotify.com/track/5voa2qWyVFrcjihOdFq4hF) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:35 | 2022-05-30 | 2022-12-04 |
 | [Turning](https://open.spotify.com/track/5XaVqwrN4WXABLiX969wG0) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 4:09 | 2022-05-29 |  |
 | [Tuscany](https://open.spotify.com/track/7MKHnn1icO9Ce7FRHPY2pv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:38 | 2022-06-11 |  |
@@ -123,7 +124,7 @@
 | [Waltz For Julia](https://open.spotify.com/track/7orVWspB20r4L2975OkwF5) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 4:03 | 2022-05-29 | 2023-11-11 |
 | [When Love Dies](https://open.spotify.com/track/1eOUGIRdH32km2jou6g9oA) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo](https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh) | 3:49 | 2022-07-21 | 2022-10-09 |
 | [Wine Dark Sea](https://open.spotify.com/track/6fx3pLWTbmyaCo8z64LrPI) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Silver Ship](https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK) | 4:15 | 2022-05-29 | 2022-10-13 |
-| [Yang Ming Shen](https://open.spotify.com/track/144VOxc6bRJTg0AiWQnhBj) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 3:21 | 2022-05-29 |  |
+| [Yang Ming Shen](https://open.spotify.com/track/144VOxc6bRJTg0AiWQnhBj) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 3:21 | 2022-05-29 | 2024-10-26 |
 | [Yukon](https://open.spotify.com/track/1T46n4XDKotdz8UVvmiyF6) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Music For Denali](https://open.spotify.com/album/0Wgn0tTS8eDt477v2taZV6) | 1:30 | 2022-05-31 | 2024-04-30 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

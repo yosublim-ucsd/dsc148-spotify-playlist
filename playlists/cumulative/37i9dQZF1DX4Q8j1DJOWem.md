@@ -4,7 +4,7 @@
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: sarah salola
 
-204 songs - 12 hr 47 min
+205 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [DEJAYOU](https://open.spotify.com/track/1bgLH9NEAFkwnMwDmD8ScN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [DEJAYOU](https://open.spotify.com/album/6DYhEl80WKxsFyl9sTQMzi) | 3:27 | 2023-07-16 | 2024-03-29 |
 | [Disposable](https://open.spotify.com/track/2NNvziKZJDKXieWoVZGPCu) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m), [ARMOR](https://open.spotify.com/artist/5mgTHOrzHxFvdg8AgUsGuD), [The Ge](https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7) | [Disposable](https://open.spotify.com/album/6MLdAacv7cSFW15pod6p4N) | 4:21 | 2024-06-07 |  |
 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 | 2023-03-20 | 2024-01-12 |
+| [Fire](https://open.spotify.com/track/4A8MNB9J3m8b8vRyqEGfmT) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Fire](https://open.spotify.com/album/2IEabIspGBtKzlFeU6EdOU) | 2:22 | 2024-10-25 |  |
 | [Flower](https://open.spotify.com/track/1kVLTBPnyHuBc3jVZccV6C) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E) | [Flower](https://open.spotify.com/album/237XyBytXoA5cLwjuVBISE) | 3:16 | 2023-09-01 | 2024-03-29 |
 | [Follow](https://open.spotify.com/track/6qXCg8lIDRuquq0xgRzmU2) | [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [Follow](https://open.spotify.com/album/2D9rFCRKSVRruOTZOax12I) | 3:58 | 2023-09-15 | 2024-03-29 |
 | [Friends](https://open.spotify.com/track/1Q7vncRS2gtX9s41Ax5fgo) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Friends](https://open.spotify.com/album/0MC4L4gQJqsyu2xa82U0wG) | 3:43 | 2024-02-18 | 2024-03-29 |
@@ -120,7 +121,7 @@
 | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G), [ศิวกร อดุลสุทธิกุล](https://open.spotify.com/artist/6TB5ON0TYz6XhONrfzQR1S) | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/album/2Yf5NftN7hgVHKKWUkhykr) | 4:12 | 2024-07-29 |  |
 | [ถ้าต่อจากนี้ไม่มีฉันแล้ว](https://open.spotify.com/track/5eov9qKm4v1r0f7zUL33yD) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ถ้าต่อจากนี้ไม่มีฉันแล้ว \(What if?\)](https://open.spotify.com/album/5Ix5ljszzUoHnVOaKO5uFB) | 3:49 | 2023-09-15 | 2024-02-19 |
 | [ถ้าเขาไม่รักมาอยู่กับฉันดีมั้ย? \(Lean on me\)](https://open.spotify.com/track/0LJ5ZgcDdyt24akqtABCAg) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [ถ้าเขาไม่รักมาอยู่กับฉันดีมั้ย? \(Lean on me\)](https://open.spotify.com/album/0dZTTJBdz0GQN9BWfB73XZ) | 3:36 | 2022-11-23 | 2023-04-14 |
-| [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/track/5w7l2QyX9C6oBk3JUnlkQt) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/album/5J8ovIBR7COZoUhKF6qXhM) | 4:01 | 2024-03-28 |  |
+| [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/track/5w7l2QyX9C6oBk3JUnlkQt) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [ทำไมไม่รู้ \(what do i do\)](https://open.spotify.com/album/5J8ovIBR7COZoUhKF6qXhM) | 4:01 | 2024-03-28 | 2024-10-26 |
 | [ทิ้งไป](https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ทิ้งไป](https://open.spotify.com/album/6HJHVbKJB854i2UIgqGzfl) | 5:47 | 2022-09-15 | 2023-05-13 |
 | [ทุกความทรงจำ](https://open.spotify.com/track/3iJNeAiZwFxiPHWk456Bcw) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [Only Monday](https://open.spotify.com/album/1X0gxc8emKCs9T9kCeozIu) | 4:35 | 2022-11-23 | 2024-03-29 |
 | [ท้องฟ้ามหาสมุทร](https://open.spotify.com/track/6a55uCFZms2NM0SSNFRKE5) | [MONICA](https://open.spotify.com/artist/47KiQg20CB8KsTCAtF5aIc) | [ท้องฟ้ามหาสมุทร \- Single](https://open.spotify.com/album/5TwcFbVn9ChH5ceFfSnzlC) | 4:12 | 2024-05-24 |  |

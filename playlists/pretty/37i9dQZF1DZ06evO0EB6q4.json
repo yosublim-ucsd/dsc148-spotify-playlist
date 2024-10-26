@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 229286,
+  "num_followers": 229399,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAACHEVFVXjQbM5JMtzPcQJ7H",
+  "snapshot_id": "ZxmOAAAAAADHO+T1wRJCR5yglQbeM2MA",
   "tracks": [
     {
       "added_at": null,
@@ -606,11 +606,15 @@
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0"
+      "duration_ms": 220612,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/7C9gziHjggJ28pDVYS5LxQ"
     },
     {
       "added_at": null,
@@ -686,15 +690,11 @@
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 220612,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/7C9gziHjggJ28pDVYS5LxQ"
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compilado, Vol. 1",
-        "url": "https://open.spotify.com/album/14CpQJsjiV9GqZJHNQYjXC"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 190542,
-      "name": "M\u00eda",
-      "url": "https://open.spotify.com/track/2ILQcg4M8Qyc6hq0v2AGOg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Bolero",
         "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 194495,
       "name": "Como Bolero",
       "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compilado, Vol. 1",
+        "url": "https://open.spotify.com/album/14CpQJsjiV9GqZJHNQYjXC"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 190542,
+      "name": "M\u00eda",
+      "url": "https://open.spotify.com/track/2ILQcg4M8Qyc6hq0v2AGOg"
     },
     {
       "added_at": null,
@@ -999,22 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 161730,
-      "name": "Como T\u00fa Todas",
-      "url": "https://open.spotify.com/track/0Vs1CeOutE6JwdEjSMZD5n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' Que Mami No Llore",
         "url": "https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 231068,
       "name": "Pa' Que Mami No Llore",
       "url": "https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 161730,
+      "name": "Como T\u00fa Todas",
+      "url": "https://open.spotify.com/track/0Vs1CeOutE6JwdEjSMZD5n"
     }
   ],
   "unique_name": "This Is Nanpa B\u00e1sico",

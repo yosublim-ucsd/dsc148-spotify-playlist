@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "American Made",
+        "url": "https://open.spotify.com/album/1RgrXpiYWsPHsKZAJcDQBf"
+      },
+      "artists": [
+        {
+          "name": "Blue Water Highway",
+          "url": "https://open.spotify.com/artist/5N5nkgCu7UG5KqNpRPiUd7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/1G86JArfdkMYDeDybfCAdH"
+    },
+    {
+      "album": {
         "name": "It's A Beautiful Day And I Love You",
         "url": "https://open.spotify.com/album/1rdk7CWbwp2iRukflNGCZL"
       },

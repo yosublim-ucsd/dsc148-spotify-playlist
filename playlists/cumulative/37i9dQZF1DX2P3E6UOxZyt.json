@@ -8049,6 +8049,28 @@
     },
     {
       "album": {
+        "name": "\u64b2\u706b\u7684\u98db\u86fe",
+        "url": "https://open.spotify.com/album/1KogpwW4KG2cthGJKVOkLE"
+      },
+      "artists": [
+        {
+          "name": "ZEO",
+          "url": "https://open.spotify.com/artist/7vtia4HP3xY8RPfBLIvkM6"
+        },
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206357,
+      "name": "\u64b2\u706b\u7684\u98db\u86fe",
+      "url": "https://open.spotify.com/track/4s4zKHsHIYQJJKTo8e1sgf"
+    },
+    {
+      "album": {
         "name": "\u64c1\u6709\u4f46\u4e0d\u5c6c\u65bc",
         "url": "https://open.spotify.com/album/1RA8E97keYKxHP8zxTEBYw"
       },

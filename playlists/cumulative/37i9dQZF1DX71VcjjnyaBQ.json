@@ -1535,6 +1535,32 @@
     },
     {
       "album": {
+        "name": "Brightlight",
+        "url": "https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        },
+        {
+          "name": "Guy Moskovich",
+          "url": "https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246634,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/347Fpu96gIJPsNrAO2bj9g"
+    },
+    {
+      "album": {
         "name": "Timba a la Americana",
         "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
       },
@@ -2026,7 +2052,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 182412,
       "name": "Lookin' Up",
       "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,998 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,010 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 29 | [I'm Yours \- Live at the Charter One Pavilion, Chicago, IL, 8/13/2009](https://open.spotify.com/track/3OGcceoTcTwRQjJmh1K5jF) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Jason Mraz's Beautiful Mess: Live on Earth](https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs) | 5:12 |
 | 30 | [god is a woman \- live](https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 3:33 |
 | 31 | [You Need To Calm Down \- Live From Paris](https://open.spotify.com/track/36a08nLG1xazGaaVKK0vv7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You Need To Calm Down \(Live From Paris\)](https://open.spotify.com/album/1w1zVWd1JmsqAgfCw117Ra) | 3:23 |
-| 32 | [You're Beautiful \- Live in Ireland](https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 3:38 |
-| 33 | [In the Air Tonight \- Live from the Serious Tour 1990; 2019 Remaster](https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Serious Hits...Live! \(2019 Remaster\)](https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV) | 6:33 |
+| 32 | [In the Air Tonight \- Live from the Serious Tour 1990; 2019 Remaster](https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Serious Hits...Live! \(2019 Remaster\)](https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV) | 6:33 |
+| 33 | [You're Beautiful \- Live in Ireland](https://open.spotify.com/track/6eKJcEIijmi1WFJwnOMxvv) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 3:38 |
 | 34 | [Don't Start Now \- Live in LA Remix](https://open.spotify.com/track/7d9aNPQ3idYpe9zjQHSLwQ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now \(Live in LA Remix\)](https://open.spotify.com/album/0MaGeHimijY3IhEWPkTUEx) | 5:40 |
 | 35 | [You're Still The One \- Live](https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Still The One: Live From Vegas](https://open.spotify.com/album/7w8yxmTdAltZOJdzMMm3KC) | 3:35 |
-| 36 | [Freedom! '90 \- Live from MTV Unplugged, 1996](https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:02 |
-| 37 | [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 |
+| 36 | [Kiss You \- Live Version From The Motion Picture "One Direction: This Is Us"](https://open.spotify.com/track/4vk4cHeKY3FjJcEgB2bdKU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Best Song Ever \(From THIS IS US\)](https://open.spotify.com/album/7slbkjkfIPufuEa858735n) | 4:27 |
+| 37 | [Freedom! '90 \- Live from MTV Unplugged, 1996](https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:02 |
 | 38 | [I See Fire \- Live and in Session](https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Live and in Session](https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk) | 4:45 |
 | 39 | [Kill This Love \- Live](https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BLACKPINK 2021 'THE SHOW' LIVE](https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi) | 3:11 |
 | 40 | [In The Stars \- Live Version](https://open.spotify.com/track/6HusxhZMI7yixRbNR5tibd) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars \(Live Version\)](https://open.spotify.com/album/1Z59nIfnBAyuxCLk1kfaTc) | 4:15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "The best of right now. Cover: Bon Iver",
+  "description": "The best of right now. Cover: Soccer Mommy",
   "name": "Front Page Indie",
   "tracks": [
     {
@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/5fbVCssH2Oei8gJ0LFCbl5"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187680,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe"
+    },
+    {
+      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -1546,7 +1564,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 214706,
       "name": "Aftertaste",
       "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
@@ -3178,6 +3196,24 @@
       "duration_ms": 90000,
       "name": "Atomic Vomit",
       "url": "https://open.spotify.com/track/3YBfHJTZPHn5DqgMnD6g5g"
+    },
+    {
+      "album": {
+        "name": "Memory Of A Day",
+        "url": "https://open.spotify.com/album/4H1TE5m2eltLhVKVuB53b1"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240763,
+      "name": "Attaway",
+      "url": "https://open.spotify.com/track/3HErXAS9DiVd8C9x6CJTYd"
     },
     {
       "album": {
@@ -4872,7 +4908,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 148021,
       "name": "Blackout Drunk",
       "url": "https://open.spotify.com/track/3pB18ZRXnr8gfVpIRREoJh"
@@ -6854,7 +6890,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 244733,
       "name": "Careless",
       "url": "https://open.spotify.com/track/4Wb68w9BbpRSj30PdEMbFv"
@@ -7526,7 +7562,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 249186,
       "name": "Cherry Pie",
       "url": "https://open.spotify.com/track/2DF87oCynNUL2Sl83Jqckh"
@@ -9064,7 +9100,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 212339,
       "name": "Dafodil",
       "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
@@ -10930,7 +10966,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 252266,
       "name": "Driver",
       "url": "https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp"
@@ -12734,7 +12770,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 176730,
       "name": "family and friends",
       "url": "https://open.spotify.com/track/3CkNXbhCLFk4o7GJduateb"
@@ -15345,6 +15381,24 @@
     },
     {
       "album": {
+        "name": "God Of Everything Else",
+        "url": "https://open.spotify.com/album/0DR9Msk0sSnmxlVN52exYN"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "God Of Everything Else",
+      "url": "https://open.spotify.com/track/1FdNGkakDRkiySWwQMhn35"
+    },
+    {
+      "album": {
         "name": "And In The Darkness, Hearts Aglow",
         "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
       },
@@ -16341,6 +16395,28 @@
     },
     {
       "album": {
+        "name": "harvest sky (feat. underscores)",
+        "url": "https://open.spotify.com/album/6PIdDhgeQGjq2B01RP0m23"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233896,
+      "name": "harvest sky (feat. underscores)",
+      "url": "https://open.spotify.com/track/0Bz6Ih38mhIR3ZnzB1TYDV"
+    },
+    {
+      "album": {
         "name": "Hatch",
         "url": "https://open.spotify.com/album/0G3QXjWIHCsSvwdM0gBh56"
       },
@@ -16410,6 +16486,24 @@
       "duration_ms": 102007,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "album": {
+        "name": "Rong Weicknes",
+        "url": "https://open.spotify.com/album/6PPLCyHL015tBNHY0GQuc0"
+      },
+      "artists": [
+        {
+          "name": "Fievel Is Glauque",
+          "url": "https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219611,
+      "name": "Haut Contre Bas",
+      "url": "https://open.spotify.com/track/7gjy5JBi17p56khgO0fN6Z"
     },
     {
       "album": {
@@ -16634,7 +16728,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 196249,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7CYfk4q5wGilHQcAw8d3Ig"
@@ -17674,7 +17768,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 209000,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7nPwhOarrHj4VICEw9t805"
@@ -20864,7 +20958,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 182330,
       "name": "It\u2019s Gonna\u2019 Cost You",
       "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
@@ -23214,7 +23308,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 186000,
       "name": "Linger - SiriusXM Session",
       "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
@@ -24408,6 +24502,24 @@
       "duration_ms": 364599,
       "name": "Magenta Mountain",
       "url": "https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V"
+    },
+    {
+      "album": {
+        "name": "Wah!!!",
+        "url": "https://open.spotify.com/album/1q1Cf1A3LYKZv9q6B0YTQv"
+      },
+      "artists": [
+        {
+          "name": "Chinese American Bear",
+          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231202,
+      "name": "Magic Number (\u9b54\u6cd5\u6570\u5b57)",
+      "url": "https://open.spotify.com/track/6pB4kJ4eRa0sJMUtplqekk"
     },
     {
       "album": {
@@ -25708,7 +25820,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 197061,
       "name": "Milkshakes",
       "url": "https://open.spotify.com/track/6JbCqm0U3g0K87HAviPRkk"
@@ -26924,7 +27036,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 243000,
       "name": "Naked",
       "url": "https://open.spotify.com/track/5uipT2ZryxZmnG2WQAzrI5"
@@ -27854,7 +27966,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 242240,
       "name": "No Way To Relax When You Are On Fire",
       "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
@@ -28810,6 +28922,24 @@
       "duration_ms": 244368,
       "name": "Oh, But Lover",
       "url": "https://open.spotify.com/track/4Sp5AdeCtHcPQc0KtJUAuR"
+    },
+    {
+      "album": {
+        "name": "Ohio All The Time",
+        "url": "https://open.spotify.com/album/5gS0mVQdlowwHfpf4k5hJO"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184820,
+      "name": "Ohio All The Time",
+      "url": "https://open.spotify.com/track/63Kd061yhHz1K6UEztFmJ5"
     },
     {
       "album": {
@@ -32507,6 +32637,24 @@
     },
     {
       "album": {
+        "name": "Raver Girl",
+        "url": "https://open.spotify.com/album/4VjHbmaKg5u5fNlMF5Vkv8"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215840,
+      "name": "Raver Girl",
+      "url": "https://open.spotify.com/track/3RLorIlRdtbqvncLmKytab"
+    },
+    {
+      "album": {
         "name": "React",
         "url": "https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB"
       },
@@ -33654,7 +33802,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
@@ -34100,7 +34248,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 411742,
       "name": "Screamland",
       "url": "https://open.spotify.com/track/6vmb72xFV5gq2Lg7ZRS2LB"
@@ -34226,7 +34374,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 189099,
       "name": "See You In The Afterlife",
       "url": "https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL"
@@ -34552,7 +34700,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 207795,
       "name": "Sexy to Someone",
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
@@ -34736,7 +34884,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 278226,
       "name": "She's Leaving You",
       "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
@@ -36296,7 +36444,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 227190,
       "name": "Something In The Air",
       "url": "https://open.spotify.com/track/7rvhBrHKRK7G4SJFgclkr7"
@@ -39931,6 +40079,24 @@
     },
     {
       "album": {
+        "name": "The Rest Of Me",
+        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230661,
+      "name": "The Rest Of Me",
+      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
+    },
+    {
+      "album": {
         "name": "The River",
         "url": "https://open.spotify.com/album/4ACrGzTgs016EkxPHMIGfQ"
       },
@@ -40944,7 +41110,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 212133,
       "name": "Til The Morning",
       "url": "https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg"
@@ -42444,7 +42610,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 231734,
       "name": "Typical",
       "url": "https://open.spotify.com/track/5SPqvJNm4b2HGxhTwi0Res"
@@ -44366,7 +44532,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 130621,
       "name": "What\u2019s This About (La La La La)",
       "url": "https://open.spotify.com/track/5JHKt7k6aKdfRs2flAT4je"
@@ -45514,6 +45680,24 @@
       "duration_ms": 228807,
       "name": "You Can Do It",
       "url": "https://open.spotify.com/track/74usZNReO4g4j5aZ0yAmBw"
+    },
+    {
+      "album": {
+        "name": "Burn The Right Things Down",
+        "url": "https://open.spotify.com/album/1JSZJAKqy7yg6ho9sXXyq2"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "You Don't Even Need It",
+      "url": "https://open.spotify.com/track/66IXh2bLRRZDbXIlhO47Gz"
     },
     {
       "album": {

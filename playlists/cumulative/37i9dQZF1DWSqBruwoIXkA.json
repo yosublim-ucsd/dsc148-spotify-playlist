@@ -7287,6 +7287,24 @@
     },
     {
       "album": {
+        "name": "Is This Love To You",
+        "url": "https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175142,
+      "name": "Is This Love To You",
+      "url": "https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl"
+    },
+    {
+      "album": {
         "name": "Is What It Is",
         "url": "https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB"
       },
@@ -14306,7 +14324,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170841,
       "name": "Where Do You Go?",
       "url": "https://open.spotify.com/track/1NbcvJtbdUSiXjwTSoWr3m"

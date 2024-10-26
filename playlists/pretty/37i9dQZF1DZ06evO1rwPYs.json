@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 103442,
+  "num_followers": 103450,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAADFKRi8BS5nxszAdoeLwaUt",
+  "snapshot_id": "ZxmOAAAAAAAtw45bW5vMjGjNk6WAHcKl",
   "tracks": [
     {
       "added_at": null,
@@ -1015,26 +1015,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremendo Trio",
-        "url": "https://open.spotify.com/album/0JcJKvFjM0HiIaIbxuqTDq"
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
       "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        },
-        {
-          "name": "Adalberto Santiago",
-          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
-        },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 347893,
-      "name": "Nadie Se Salva De La Rumba",
-      "url": "https://open.spotify.com/track/75ujCf7ZZCV65jPJCCZuZp"
+      "duration_ms": 291240,
+      "name": "Saz\u00f3n",
+      "url": "https://open.spotify.com/track/5zUxfJLKT4bLFWR1ck6evc"
     },
     {
       "added_at": null,
@@ -1055,18 +1047,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+        "name": "Tremendo Trio",
+        "url": "https://open.spotify.com/album/0JcJKvFjM0HiIaIbxuqTDq"
       },
       "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
         {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 291240,
-      "name": "Saz\u00f3n",
-      "url": "https://open.spotify.com/track/5zUxfJLKT4bLFWR1ck6evc"
+      "duration_ms": 347893,
+      "name": "Nadie Se Salva De La Rumba",
+      "url": "https://open.spotify.com/track/75ujCf7ZZCV65jPJCCZuZp"
     }
   ],
   "unique_name": "This Is Celia Cruz",

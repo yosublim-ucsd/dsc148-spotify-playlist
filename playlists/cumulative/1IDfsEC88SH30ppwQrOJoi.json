@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Always Chase The Sun",
+        "url": "https://open.spotify.com/album/3rbz9OH2hUmkTChW5Kc5eL"
+      },
+      "artists": [
+        {
+          "name": "Electric Cinema",
+          "url": "https://open.spotify.com/artist/7HpqdvvEhsTi48z5DB6BOj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288503,
+      "name": "Always Chase The Sun",
+      "url": "https://open.spotify.com/track/0uXllbMGTvFVL1gP66q0Sr"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1KHn6w8S8MXhraUrAxH60u"
       },

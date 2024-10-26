@@ -5971,6 +5971,24 @@
     },
     {
       "album": {
+        "name": "Tjuven",
+        "url": "https://open.spotify.com/album/0OAmCLkx2ISXJLMWHnl0vw"
+      },
+      "artists": [
+        {
+          "name": "CIVIL POLIS",
+          "url": "https://open.spotify.com/artist/1s0yejjUPTegZhGOxK2SsZ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215592,
+      "name": "Tjuven",
+      "url": "https://open.spotify.com/track/1SRJYK2h7ITaLFYuRQYhmC"
+    },
+    {
+      "album": {
         "name": "To a New Day",
         "url": "https://open.spotify.com/album/4PAlZMe3jbqDfXkY08XLfn"
       },

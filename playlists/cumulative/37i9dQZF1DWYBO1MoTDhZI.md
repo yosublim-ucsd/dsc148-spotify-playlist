@@ -4,7 +4,7 @@
 
 > Just good vibes all day long
 
-904 songs - 2 day 0 hr 38 min
+905 songs - 2 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 | 2022-04-08 | 2022-10-08 |
 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 | 2021-10-04 | 2022-09-03 |
 | [Cleopatra](https://open.spotify.com/track/5UHNBHu9SWhlbVOlntdCWf) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Cleopatra](https://open.spotify.com/album/7oSTYFxPV06Fpp4lq2dntf) | 3:20 | 2022-05-20 | 2022-05-28 |
+| [Close](https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Close](https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl) | 3:34 | 2024-10-25 |  |
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2021-01-23 | 2022-02-26 |
 | [closer \(feat\. salem ilese\)](https://open.spotify.com/track/0woZCazDDjtcbfbb1ouPnM) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [closer \(feat\. salem ilese\)](https://open.spotify.com/album/0uw76tQa9eYOLkJhtqYcwD) | 2:54 | 2024-03-15 | 2024-03-30 |
 | [Cloud](https://open.spotify.com/track/4H3S0dQ6g8QwacSCp9W156) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Cloud](https://open.spotify.com/album/00m3LiJyqbMziKcN5eO67G) | 2:36 | 2023-09-08 | 2023-10-28 |
@@ -368,7 +369,7 @@
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-06-09 | 2024-07-09 |
 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 2:30 | 2024-06-28 | 2024-07-27 |
 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2021-08-28 | 2022-04-09 |
-| [How Far Is Your Love \(with Los Lonely Boys\)](https://open.spotify.com/track/2ZrioVBvBpKZXOd8tWcmzR) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Good Morning](https://open.spotify.com/album/5SP7T6m18OQCH0l68nxlON) | 2:43 | 2024-06-21 |  |
+| [How Far Is Your Love \(with Los Lonely Boys\)](https://open.spotify.com/track/2ZrioVBvBpKZXOd8tWcmzR) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Good Morning](https://open.spotify.com/album/5SP7T6m18OQCH0l68nxlON) | 2:43 | 2024-06-21 | 2024-10-26 |
 | [Humble](https://open.spotify.com/track/2bGbWQwWJ6EjLUas1tCWTK) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Humble](https://open.spotify.com/album/3Joy3iFF57gPJkonUmWPg4) | 3:55 | 2024-08-02 |  |
 | [Hypnotic](https://open.spotify.com/track/34JhQbb9lUXklugrGxG5d4) | [Lifesize Teddy](https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR) | [Lifesize Teddy](https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe) | 3:07 | 2023-08-11 | 2023-09-02 |
 | [I & I](https://open.spotify.com/track/6pBJ7HhuCdbBD8BzAJd2Hu) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [I & I](https://open.spotify.com/album/2LwFUHCNwdosCBH6mkeqfg) | 3:19 | 2021-10-16 | 2022-02-19 |

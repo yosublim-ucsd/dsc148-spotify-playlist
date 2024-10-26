@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,051 likes - 23 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,052 likes - 23 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,6 +30,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 20 | [Pre World \- Main Floor House Mix](https://open.spotify.com/track/66ZKOcvJDUL2H7BtXv7Xm6) | [Ralphie](https://open.spotify.com/artist/2IDvsIFKUFVeRV4mTtKDGz), [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Love My Vol.9](https://open.spotify.com/album/0FKj3jBjNh8GZ0vMIwMwPh) | 5:45 |
 | 21 | [Grey Matter](https://open.spotify.com/track/5ssjNXhTYQLlFEQP4aKGCr) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 2:39 |
 | 22 | [Brother Bleed Brother](https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:41 |
-| 23 | [Tarot](https://open.spotify.com/track/14n3liDTvTEjYC5JMZyIO3) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 4:56 |
+| 23 | [Picasso Trigger](https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:38 |
 
-Snapshot ID: `Zxg8gAAAAAB+pzarFIvhgrjO5UQ0o8if`
+Snapshot ID: `ZxmOAAAAAACsOeV+/FqXwO1lREfO7Z6a`

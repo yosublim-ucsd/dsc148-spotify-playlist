@@ -6663,6 +6663,24 @@
     },
     {
       "album": {
+        "name": "Heart Of A Woman",
+        "url": "https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Heart Of A Woman",
+      "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
+    },
+    {
+      "album": {
         "name": "Heart On Fire",
         "url": "https://open.spotify.com/album/39xaejdB8NXYqM3w4rGY3K"
       },
@@ -12224,6 +12242,28 @@
       "duration_ms": 183506,
       "name": "Petty",
       "url": "https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG"
+    },
+    {
+      "album": {
+        "name": "PICK IT UP!",
+        "url": "https://open.spotify.com/album/3ttoSJUL7Q3uuYd9NviVRc"
+      },
+      "artists": [
+        {
+          "name": "nel",
+          "url": "https://open.spotify.com/artist/4TVq4IaLqHucmmBBXhSEXf"
+        },
+        {
+          "name": "Notkyle",
+          "url": "https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170571,
+      "name": "PICK IT UP!",
+      "url": "https://open.spotify.com/track/4vZksQVhU0UxyDJkb2sF8R"
     },
     {
       "album": {

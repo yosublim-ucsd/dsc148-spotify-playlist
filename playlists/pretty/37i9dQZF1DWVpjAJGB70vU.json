@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 1932903,
+  "num_followers": 1933480,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-10-04 19:03:46",
       "album": {
-        "name": "How Do You Like Me Now?!",
-        "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
+        "name": "Time Marches On",
+        "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
         }
       ],
-      "duration_ms": 209066,
-      "name": "How Do You Like Me Now?!",
-      "url": "https://open.spotify.com/track/7rDcULv8vV16vetBjPJhuE"
+      "duration_ms": 185360,
+      "name": "Time Marches On",
+      "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
     },
     {
       "added_at": "2024-10-04 19:03:46",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-10-04 19:03:46",
       "album": {
-        "name": "Time Marches On",
-        "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
+        "name": "How Do You Like Me Now?!",
+        "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Time Marches On",
-      "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
+      "duration_ms": 209066,
+      "name": "How Do You Like Me Now?!",
+      "url": "https://open.spotify.com/track/7rDcULv8vV16vetBjPJhuE"
     },
     {
       "added_at": "2024-10-04 19:03:46",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-10-04 19:03:46",
       "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
-    },
-    {
-      "added_at": "2024-10-04 19:03:46",
-      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 228173,
       "name": "Paint Me A Birmingham",
       "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
+    },
+    {
+      "added_at": "2024-10-04 19:03:46",
+      "album": {
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
     },
     {
       "added_at": "2024-10-04 19:03:46",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2024-10-04 19:03:46",
       "album": {
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
+    },
+    {
+      "added_at": "2024-10-04 19:03:46",
+      "album": {
         "name": "No Doubt About It",
         "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 147026,
       "name": "You Ain't Much Fun",
       "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
-    },
-    {
-      "added_at": "2024-10-04 19:03:46",
-      "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
     },
     {
       "added_at": "2024-10-04 19:03:46",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-10-04 19:03:46",
       "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
+    },
+    {
+      "added_at": "2024-10-04 19:03:46",
+      "album": {
         "name": "Used To Want To Be A Cowboy",
         "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 198440,
       "name": "Party Crowd",
       "url": "https://open.spotify.com/track/57IEs29xqMQaAkjQ8iQuI0"
-    },
-    {
-      "added_at": "2024-10-04 19:03:46",
-      "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2024-10-04 19:03:46",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-10-04 19:03:46",
       "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
-    },
-    {
-      "added_at": "2024-10-04 19:03:46",
-      "album": {
         "name": "Dreamin' Out Loud",
         "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 188240,
       "name": "I Left Something Turned On At Home",
       "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
+    },
+    {
+      "added_at": "2024-10-04 19:03:46",
+      "album": {
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
     },
     {
       "added_at": "2024-10-04 19:03:46",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-10-04 19:03:46",
       "album": {
-        "name": "Young Man",
-        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
-      },
-      "artists": [
-        {
-          "name": "Billy Dean",
-          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Only Here For A Little While",
-      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
-    },
-    {
-      "added_at": "2024-10-04 19:03:46",
-      "album": {
         "name": "Love Can Build A Bridge",
         "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 322706,
       "name": "Love Can Build A Bridge",
       "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
+    },
+    {
+      "added_at": "2024-10-04 19:03:46",
+      "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
+      },
+      "artists": [
+        {
+          "name": "Billy Dean",
+          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Only Here For A Little While",
+      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
     },
     {
       "added_at": "2024-10-04 19:03:46",

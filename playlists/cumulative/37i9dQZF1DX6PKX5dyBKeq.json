@@ -36261,6 +36261,24 @@
     },
     {
       "album": {
+        "name": "Tijuana",
+        "url": "https://open.spotify.com/album/4X7ju5samDdZ3uzMTOZWbB"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184101,
+      "name": "Tijuana",
+      "url": "https://open.spotify.com/track/5Jxp8PEjJ46pD2tUitmbqn"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/6glVQprJySU1PtEh1XERab"
       },

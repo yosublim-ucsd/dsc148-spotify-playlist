@@ -4,7 +4,7 @@
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: LAMOON
 
-1,861 songs - 4 day 12 hr 59 min
+1,862 songs - 4 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1232,6 +1232,7 @@
 | [PRESENT](https://open.spotify.com/track/6RuTEmvZbhCUncRFEHa94W) | [BigP](https://open.spotify.com/artist/5AQtkl9E2EH6pdSZU5qy8x), [LINNEE](https://open.spotify.com/artist/0ovNczldSHH0OtFBUY4Snl) | [PRESENT](https://open.spotify.com/album/0nPdZ5PhqP45BohMoWWHsG) | 3:38 | 2022-06-28 | 2022-07-10 |
 | [Pretty Girl](https://open.spotify.com/track/5BDumcqz0xUBFMwt62Nif2) | [Sing](https://open.spotify.com/artist/79RTt4imwk0NaxS5lCnm29), [KAYZ](https://open.spotify.com/artist/2bcdCDZ6Sg5yYJwRQTTPWq) | [Pretty Girl](https://open.spotify.com/album/7Bv7EuvSsh5TN5GwZctpUH) | 3:01 | 2023-05-22 | 2023-07-07 |
 | [Promises](https://open.spotify.com/track/646DS4Q5hjZQlU5lvMhVB9) | [Cristian](https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7) | [Promises](https://open.spotify.com/album/0oNi6OM9R560gjgjfGDO8j) | 3:10 | 2022-05-27 | 2022-06-19 |
+| [Qua Tầng U Mê](https://open.spotify.com/track/1qCAElMnIjjDdY5dVq7Kt7) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa), [Gobby](https://open.spotify.com/artist/31IYMlu0SEzTN0lqhdOR5a) | [Qua Tầng U Mê](https://open.spotify.com/album/5KpLn97dvC6LsgiGS442n9) | 3:24 | 2024-10-24 |  |
 | [Quen Biết Nhau](https://open.spotify.com/track/0POdYDxx3euP5QhoilS9nq) | [Soonerr](https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh) | [Quen Biết Nhau](https://open.spotify.com/album/7ofjq8bLGL884LsZ26p76z) | 3:19 | 2023-10-03 | 2023-11-24 |
 | [Quen Có Em Trong Đời](https://open.spotify.com/track/0F8VS01FP0sR5G5hOrHtxV) | [Vang](https://open.spotify.com/artist/6bvMoywdm3JM1bmVvMngrW) | [Quen Có Em Trong Đời](https://open.spotify.com/album/4LPFaFnUKIpOtuvv6pMXuC) | 3:24 | 2023-07-26 | 2023-09-15 |
 | [Quá Là Yêu](https://open.spotify.com/track/5Pm7ebdmQ9NuX0R9wGM0cU) | [Hạo Thiên](https://open.spotify.com/artist/5kj4afL0qGu9kyPbdII2R6), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Quá Là Yêu](https://open.spotify.com/album/2Cvhd4VqrOzSTh4bwf6LAR) | 3:58 | 2023-10-17 | 2023-11-30 |

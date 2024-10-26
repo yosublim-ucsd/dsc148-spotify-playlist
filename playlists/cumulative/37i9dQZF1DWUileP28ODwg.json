@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:6e8OTLDQpaz1Tl2GEaxsNj\">Matthew West</a>",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:5X77nNxT45eR0OshjmAvKa\">Mac Powell</a>",
   "name": "Top Christian Contemporary",
   "tracks": [
     {
@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "FOLK! (Pt. 1)",
+        "url": "https://open.spotify.com/album/6fVAoa1hPmAGpUJqzU7eyL"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179061,
+      "name": "Better Than I Ever Thought",
+      "url": "https://open.spotify.com/track/3uDO1vVp0fHweMgX7fwmmx"
+    },
+    {
+      "album": {
         "name": "Big Tent Revival",
         "url": "https://open.spotify.com/album/4lllQ22qsMsSNXECqHWwro"
       },
@@ -668,6 +686,24 @@
       "duration_ms": 208660,
       "name": "Bigger Than Hope",
       "url": "https://open.spotify.com/track/4BwTyRXI3RBYoWTW9m592J"
+    },
+    {
+      "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233152,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5"
     },
     {
       "album": {
@@ -1142,7 +1178,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 227266,
       "name": "COUNT 'EM",
       "url": "https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl"
@@ -1178,7 +1214,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 252366,
       "name": "Crimson Dust - Live",
       "url": "https://open.spotify.com/track/1mE0BS6BvuoOgSpHEcx1QI"
@@ -1889,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Friend in High Places",
+        "url": "https://open.spotify.com/album/02TKrtw9EhjijCjcXt6qEJ"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202391,
+      "name": "Friend in High Places",
+      "url": "https://open.spotify.com/track/4igavBpduLQqg7GviGAyEe"
+    },
+    {
+      "album": {
         "name": "Friend in Jesus",
         "url": "https://open.spotify.com/album/3smvzHUzniTbMpH9xW8YNK"
       },
@@ -1958,6 +2012,28 @@
       "duration_ms": 219444,
       "name": "Getting Started - Radio Version",
       "url": "https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU"
+    },
+    {
+      "album": {
+        "name": "A New Reality (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215533,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/6Twxdjtv8rRPKs1MGhvnpi"
     },
     {
       "album": {
@@ -2470,7 +2546,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 179297,
       "name": "Good News",
       "url": "https://open.spotify.com/track/3N5WhBan3fyW2LnT8UXUBZ"
@@ -3262,7 +3338,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 171086,
       "name": "Holy Trouble",
       "url": "https://open.spotify.com/track/4crXyrGXp9UJlTTSMH8nfN"
@@ -3778,6 +3854,24 @@
       "duration_ms": 164040,
       "name": "I Still Pray",
       "url": "https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR"
+    },
+    {
+      "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/1jAFoyfgaKyHYq6GS9jvQS"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305250,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/795eAv6Ix1XPJGvouopbuS"
     },
     {
       "album": {
@@ -4638,6 +4732,28 @@
       "duration_ms": 205273,
       "name": "Look What You've Done",
       "url": "https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy"
+    },
+    {
+      "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/4CEwuoCsM4xHjnJ2nX5KDm"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        },
+        {
+          "name": "Megan Danielle",
+          "url": "https://open.spotify.com/artist/4d2K0EIwr1nV3NeyyxTsKx"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243067,
+      "name": "Looking Up",
+      "url": "https://open.spotify.com/track/4f6bHNxoWKbRw1qhmwv5e8"
     },
     {
       "album": {
@@ -6069,6 +6185,24 @@
     },
     {
       "album": {
+        "name": "Prayer and A Bible",
+        "url": "https://open.spotify.com/album/2FyExqcfKa3rt2AEbGi96r"
+      },
+      "artists": [
+        {
+          "name": "Megan Woods",
+          "url": "https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159435,
+      "name": "Prayer and A Bible",
+      "url": "https://open.spotify.com/track/2M4GHBCQ7eCHhBA4jMj1m5"
+    },
+    {
+      "album": {
         "name": "Prepare The Way",
         "url": "https://open.spotify.com/album/5U0RfxFmopL8VCvRtsCMvQ"
       },
@@ -6334,7 +6468,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 346750,
       "name": "Revival Town - 2024",
       "url": "https://open.spotify.com/track/3tOGFRsyEyivySLPAaMMbH"
@@ -7279,6 +7413,24 @@
     },
     {
       "album": {
+        "name": "I LOVE JESUS",
+        "url": "https://open.spotify.com/album/3spuKcoEfckg0uxMR9LoUe"
+      },
+      "artists": [
+        {
+          "name": "Mac Powell",
+          "url": "https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "The 99",
+      "url": "https://open.spotify.com/track/7pFwbwpCAvkDsuXxI604Td"
+    },
+    {
+      "album": {
         "name": "The Best Is Yet To Come",
         "url": "https://open.spotify.com/album/6NWTU6KMXWN0nc0LdJ3lMZ"
       },
@@ -7399,6 +7551,24 @@
     },
     {
       "album": {
+        "name": "REBEL (Live From Lexington)",
+        "url": "https://open.spotify.com/album/4YNYONGCfyUsXb3SjMWay1"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222942,
+      "name": "The Cross - Live",
+      "url": "https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S"
+    },
+    {
+      "album": {
         "name": "The Goodness",
         "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
       },
@@ -7516,7 +7686,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 256131,
       "name": "The Kingdom of Jesus",
       "url": "https://open.spotify.com/track/52wm2PN4DkFcXpZg72DsoA"
@@ -7700,7 +7870,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 222295,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5WcF82ipHJa8vQMMrjdbF4"
@@ -7920,7 +8090,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 226213,
       "name": "To Be a Child Again",
       "url": "https://open.spotify.com/track/0ICZkdGTFKwB70Uffi1f23"
@@ -8090,7 +8260,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 189355,
       "name": "Unbelievable",
       "url": "https://open.spotify.com/track/2Y2nV089OQhsGTz2xdlvDb"

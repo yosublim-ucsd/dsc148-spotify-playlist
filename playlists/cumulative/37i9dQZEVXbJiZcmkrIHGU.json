@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 150360,
       "name": "7 LEERE ZIMMER (feat. Henning May)",
       "url": "https://open.spotify.com/track/2t5zRm6bgu4TRvmELiEsDV"
@@ -7586,7 +7586,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -23544,6 +23544,28 @@
       "duration_ms": 144310,
       "name": "Hoodfame",
       "url": "https://open.spotify.com/track/4f98ilHH0VOvEtrTsbUTkb"
+    },
+    {
+      "album": {
+        "name": "Hoodie Hoodie",
+        "url": "https://open.spotify.com/album/07nqKfyRqerchwCYjHMzrX"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "SadiQ",
+          "url": "https://open.spotify.com/artist/2cbnuG01tV93pqdfr4OBqL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170936,
+      "name": "Hoodie Hoodie",
+      "url": "https://open.spotify.com/track/4DvJL9DY4YIL2b5tLTZMy7"
     },
     {
       "album": {
@@ -41354,7 +41376,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 147075,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/5AQyVssLj6Xj5ryPENxntm"

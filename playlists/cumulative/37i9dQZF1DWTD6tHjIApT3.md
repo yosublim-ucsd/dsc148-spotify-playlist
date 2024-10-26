@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 加藤ミリヤ×椎名林檎
 
-2,694 songs - 7 day 4 hr 44 min
+2,695 songs - 7 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,7 +508,7 @@
 | [Happy Birthday to You](https://open.spotify.com/track/1hXuV7R90T8W5UNcq5b6Nc) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [RESPECT ALL](https://open.spotify.com/album/2yEGTWb8SrvhEopxI5vwpy) | 2:03 | 2023-08-22 | 2023-09-06 |
 | [HAPPY DATE](https://open.spotify.com/track/47YZnM5mDLO3r4223yZnbA) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [HAPPY DATE](https://open.spotify.com/album/18DFTh569GXJJqvziu7hQD) | 2:55 | 2023-04-11 | 2023-04-19 |
 | [Happy Ending](https://open.spotify.com/track/3b2BqLB9U3PNdMhcGq8pOR) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Happy Ending](https://open.spotify.com/album/0dSDXhmYL9VjTIj9PMn1ny) | 3:49 | 2023-06-13 | 2023-08-30 |
-| [happy ending](https://open.spotify.com/track/6Ej417VdDyV4NJ9CMyd7pt) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ending](https://open.spotify.com/album/57mtjHY4I31nFLDqiAmrnP) | 3:49 | 2023-06-13 |  |
+| [happy ending](https://open.spotify.com/track/6Ej417VdDyV4NJ9CMyd7pt) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ending](https://open.spotify.com/album/57mtjHY4I31nFLDqiAmrnP) | 3:49 | 2023-06-13 | 2024-10-26 |
 | [happy ever after](https://open.spotify.com/track/4bi2VYzw1Q4SWOWdte0BQr) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [happy ever after](https://open.spotify.com/album/4sdCOEFUUmOg5K2egwc4W9) | 3:46 | 2024-09-03 |  |
 | [Harajuku Boy](https://open.spotify.com/track/1542ftkCri5kDj7xKUC4OL) | [City Cyndrome](https://open.spotify.com/artist/3rW1Y4T5r97bJBG7b2HqjY) | [Harajuku Boy](https://open.spotify.com/album/2UaG3U6D0jXC898hXNUbow) | 5:11 | 2023-09-08 | 2023-09-13 |
 | [Haru Arashi](https://open.spotify.com/track/7nCvA8xj5SAYgYew1etVaz) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Beatrice](https://open.spotify.com/album/639qviFMk2sSY5BzExIVZA) | 4:50 | 2024-02-13 | 2024-02-21 |
@@ -1827,6 +1827,7 @@
 | [ギブス](https://open.spotify.com/track/7kIKjH4RrK8LT5TbmwecK9) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [あなたの生きている世界1](https://open.spotify.com/album/62YAdq98gEQphXbrvLUMtD) | 6:41 | 2022-11-08 | 2022-11-10 |
 | [ギンモクセイ](https://open.spotify.com/track/5fe3tm8tR3RogeeJ5XiTNh) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ギンモクセイ](https://open.spotify.com/album/4pNeEiY5zEgPlYg0plIkyE) | 3:09 | 2024-07-16 | 2024-07-27 |
 | [クジラのステージ](https://open.spotify.com/track/4GHRt13bE6FwsszVsXnOeh) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [クジラのステージ](https://open.spotify.com/album/7LqOws7ynv8xkqt9oJ0Qhs) | 5:24 | 2023-02-07 | 2023-02-09 |
+| [クズリ念](https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [虚仮の一念海馬に託す](https://open.spotify.com/album/6qnciuGKSc0nl1C5BHZwCr) | 3:55 | 2024-10-22 |  |
 | [クランベリージャムをかけて](https://open.spotify.com/track/49vr4m19sPkH12IKTauEUz) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クランベリージャムをかけて](https://open.spotify.com/album/3bj22dhfeDss7WCzPYlVHI) | 2:47 | 2023-07-25 | 2023-11-01 |
 | [クリームソーダが溶ける頃](https://open.spotify.com/track/4p6eJCD6zGYSDI5RD2IhTG) | [Ribet towns](https://open.spotify.com/artist/4F3QYYqDmvEr90t9msxbbj) | [クリームソーダが溶ける頃](https://open.spotify.com/album/6QfuUbAPxD3nBGc5OirrPD) | 3:23 | 2022-07-19 | 2022-07-27 |
 | [グッドラックが聞こえない](https://open.spotify.com/track/79BXTDSbfXRRkWp44BfE51) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [グッドラックが聞こえない](https://open.spotify.com/album/6ihreP7TWqTZsZGl6voPKo) | 2:31 | 2023-04-05 | 2023-04-06 |

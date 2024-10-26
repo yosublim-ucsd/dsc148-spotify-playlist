@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Make Them Suffer on top of today's best Metal playlist.",
+  "description": "Ice Nine Kills on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -3902,7 +3902,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 269853,
       "name": "Dream Stealer",
       "url": "https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR"
@@ -4516,7 +4516,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 284453,
       "name": "Fall In Line",
       "url": "https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi"
@@ -5336,7 +5336,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 225426,
       "name": "Granite",
       "url": "https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd"
@@ -7149,6 +7149,24 @@
     },
     {
       "album": {
+        "name": "Liars & Thieves",
+        "url": "https://open.spotify.com/album/5X9jrjEjUbdPwgoVcv6BCv"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260680,
+      "name": "Liars & Thieves",
+      "url": "https://open.spotify.com/track/3yxUpNlToBwRVPMYm1FpyL"
+    },
+    {
+      "album": {
         "name": "Lights & Fire",
         "url": "https://open.spotify.com/album/2M1MruXHvS7YndZJ2jgDUD"
       },
@@ -7316,6 +7334,24 @@
       "duration_ms": 244935,
       "name": "Lost In The Fall",
       "url": "https://open.spotify.com/track/2I0XplFdMIGiEJJYfPTwZ9"
+    },
+    {
+      "album": {
+        "name": "Love As An Act Of Rebellion",
+        "url": "https://open.spotify.com/album/7xxx4U3ShanMD7Q5cbfbyN"
+      },
+      "artists": [
+        {
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199560,
+      "name": "Love As An Act Of Rebellion",
+      "url": "https://open.spotify.com/track/4lMfUuTWCFEbXx0CwdDMiI"
     },
     {
       "album": {
@@ -7536,6 +7572,24 @@
       "duration_ms": 229007,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/5NLi9YVXt9pMAXS068FY9o"
+    },
+    {
+      "album": {
+        "name": "Malignant Perfection",
+        "url": "https://open.spotify.com/album/17QXH9X3v0VZBi3hTsSPZt"
+      },
+      "artists": [
+        {
+          "name": "Cradle Of Filth",
+          "url": "https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405440,
+      "name": "Malignant Perfection",
+      "url": "https://open.spotify.com/track/2NVntSbt0SCX7FZI6dmdQv"
     },
     {
       "album": {
@@ -7764,6 +7818,24 @@
       "duration_ms": 237300,
       "name": "Meet Your Maker",
       "url": "https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S"
+    },
+    {
+      "album": {
+        "name": "Shining",
+        "url": "https://open.spotify.com/album/1Bk8bpwSWIXDRCJpzEQyPH"
+      },
+      "artists": [
+        {
+          "name": "Swallow The Sun",
+          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "MelancHoly",
+      "url": "https://open.spotify.com/track/4GwnngTJG91SbjbAC541wx"
     },
     {
       "album": {
@@ -13968,7 +14040,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 223746,
       "name": "We Are The Dead (feat. Alex Terrible, Tom Barber)",
       "url": "https://open.spotify.com/track/5dxYpCEtdy4koK4ziTRqma"

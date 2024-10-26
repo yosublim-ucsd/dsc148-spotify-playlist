@@ -5827,6 +5827,32 @@
     },
     {
       "album": {
+        "name": "Mir\u00e1 de gitano",
+        "url": "https://open.spotify.com/album/2FeOQlrytbf73Pw5L3HMc0"
+      },
+      "artists": [
+        {
+          "name": "Ayax y Prok",
+          "url": "https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU"
+        },
+        {
+          "name": "Dollar Selmouni",
+          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
+        },
+        {
+          "name": "Blasfem",
+          "url": "https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183211,
+      "name": "Mir\u00e1 de gitano",
+      "url": "https://open.spotify.com/track/2iokKPxwFFQZzmPYBdFpWp"
+    },
+    {
+      "album": {
         "name": "Mizeria",
         "url": "https://open.spotify.com/album/5p8VxQ343DXSUcYwjQVd9J"
       },
@@ -7478,7 +7504,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 120427,
       "name": "ROMA NORTE",
       "url": "https://open.spotify.com/track/4ojrMON5VcUgxXn8bV0Zsp"

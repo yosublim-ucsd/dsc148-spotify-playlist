@@ -5447,6 +5447,32 @@
     },
     {
       "album": {
+        "name": "Big In Da Game",
+        "url": "https://open.spotify.com/album/58CdyyKsbLQXItkF19sW9c"
+      },
+      "artists": [
+        {
+          "name": "KidSuper",
+          "url": "https://open.spotify.com/artist/0BVvfg3U3fKhHQh4DMMeF2"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Big In Da Game",
+      "url": "https://open.spotify.com/track/5X3A2mJg2ptLNZ1p0sJiHT"
+    },
+    {
+      "album": {
         "name": "Big Lyfe",
         "url": "https://open.spotify.com/album/0Cxay38E2XjkKimvzh3clU"
       },
@@ -13578,6 +13604,28 @@
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
+    {
+      "album": {
+        "name": "Ecstasy (Freestyle)",
+        "url": "https://open.spotify.com/album/4l5ytI2ykKixML9AQwbL9X"
+      },
+      "artists": [
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117562,
+      "name": "Ecstasy (Freestyle)",
+      "url": "https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik"
     },
     {
       "album": {
@@ -33311,6 +33359,28 @@
     },
     {
       "album": {
+        "name": "PICK IT UP!",
+        "url": "https://open.spotify.com/album/3ttoSJUL7Q3uuYd9NviVRc"
+      },
+      "artists": [
+        {
+          "name": "nel",
+          "url": "https://open.spotify.com/artist/4TVq4IaLqHucmmBBXhSEXf"
+        },
+        {
+          "name": "Notkyle",
+          "url": "https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170571,
+      "name": "PICK IT UP!",
+      "url": "https://open.spotify.com/track/4vZksQVhU0UxyDJkb2sF8R"
+    },
+    {
+      "album": {
         "name": "Piko",
         "url": "https://open.spotify.com/album/3BFAtdAttzB3ZRgdPGxRCN"
       },
@@ -33573,7 +33643,7 @@
     },
     {
       "album": {
-        "name": "Big Swerv 2.0 (Spotify)",
+        "name": "Big Swerv 2.0",
         "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
       },
       "artists": [

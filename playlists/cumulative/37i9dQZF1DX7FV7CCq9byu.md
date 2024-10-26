@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-374 songs - 18 hr 59 min
+375 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [dina armar](https://open.spotify.com/track/3tfqBXCA2HlQ5GldoqrWUc) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [dina armar](https://open.spotify.com/album/6ICpgNNwn9bPnZQYwzIUaV) | 3:16 | 2024-06-27 | 2024-07-27 |
 | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Dirty \(feat\. Teddy Swims\)](https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG) | 2:53 | 2024-08-01 | 2024-09-13 |
 | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/album/0yEtoAdaaX7mZOhjgr7IBH) | 3:17 | 2024-10-17 |  |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 |  |
 | [Ditt safeword ikväll?](https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Ditt safeword ikväll?](https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg) | 2:12 | 2024-10-10 |  |
 | [Do It For Love](https://open.spotify.com/track/1gepEl8sp9BHMGiwLBMNeR) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Do It For Love](https://open.spotify.com/album/4iEd1xGjteZK1UgoOVlAcj) | 3:07 | 2024-06-27 | 2024-08-02 |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-05 | 2024-10-11 |

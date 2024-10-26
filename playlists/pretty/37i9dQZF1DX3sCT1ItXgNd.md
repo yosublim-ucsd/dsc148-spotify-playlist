@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Kapo, Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 964,941 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,936 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 25 | [Mil preguntas](https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Mil preguntas](https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq) | 3:19 |
 | 26 | [Dios Te Cuide](https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Dios Te Cuide](https://open.spotify.com/album/1QLI6MlAp0UmM95vnsMK2M) | 3:18 |
 | 27 | [Nuestra Canción](https://open.spotify.com/track/2MJlcHWfkA651gpiCRJ2TE) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Nuestra Canción](https://open.spotify.com/album/3aFrCXWwdvl1kIhMnoICz0) | 3:07 |
-| 28 | [Tienes Que Saber](https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Tienes Que Saber](https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5) | 3:00 |
-| 29 | [El Último Día de Nuestras Vidas](https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a) | 3:46 |
+| 28 | [El Último Día de Nuestras Vidas](https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [El Último Día de Nuestras Vidas](https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a) | 3:46 |
+| 29 | [Tienes Que Saber](https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6) | [Tienes Que Saber](https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5) | 3:00 |
 | 30 | [LA BALADA](https://open.spotify.com/track/7CTyrGSh3b4wgNlb4XQN7c) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LA BALADA](https://open.spotify.com/album/0DHAxtCoUwyXVGoMYzHSNj) | 2:35 |
 | 31 | [te vas a inventar](https://open.spotify.com/track/7dKJQbM2YiWgpbkWhnUsk1) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [te vas a inventar](https://open.spotify.com/album/5wFXtW6BBQKVf3Jo1iWWnj) | 2:52 |
 | 32 | [Así](https://open.spotify.com/track/5kuY0tpdSmI3tSuCxjxR0B) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Así](https://open.spotify.com/album/4yd3rl2coMyT0IB3ZYOqfE) | 3:43 |
-| 33 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 |
-| 34 | [AUNQUE NO DIGAS NADA](https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII) | [MELER](https://open.spotify.com/artist/6Gc7QYqGBo1f1KtZJtJHda) | [AUNQUE NO DIGAS NADA](https://open.spotify.com/album/10LYVh7Y40t39fhiQnIzEX) | 3:02 |
+| 33 | [AUNQUE NO DIGAS NADA](https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII) | [MELER](https://open.spotify.com/artist/6Gc7QYqGBo1f1KtZJtJHda) | [AUNQUE NO DIGAS NADA](https://open.spotify.com/album/10LYVh7Y40t39fhiQnIzEX) | 3:02 |
+| 34 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 |
 | 35 | [En Los Espejos](https://open.spotify.com/track/4it2e3KPSADwuJumg4C9zz) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [En Los Espejos](https://open.spotify.com/album/1WOEma6DSa3TiFD4wIawvc) | 3:17 |
 | 36 | [Criminal](https://open.spotify.com/track/0s1mNkEzKyhDGViTUHbGuP) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Criminal](https://open.spotify.com/album/1crmL9xEqGoRsR2nk1nl8n) | 2:48 |
 | 37 | [Para qué me escribes](https://open.spotify.com/track/6SuybaaCzmRXaohQdLHn1T) | [Hermanos Martínez](https://open.spotify.com/artist/4t75tim4RSC1FXQJcHXS4x) | [Para qué me escribes](https://open.spotify.com/album/4j5f4aVHrqhFBaZ1EVkSnN) | 3:10 |

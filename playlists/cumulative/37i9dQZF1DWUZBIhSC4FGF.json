@@ -1619,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Searching for Peace",
+        "url": "https://open.spotify.com/album/65ydsi47kJYpMJn6DrRVtp"
+      },
+      "artists": [
+        {
+          "name": "Mohimbra",
+          "url": "https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199875,
+      "name": "Searching for Peace",
+      "url": "https://open.spotify.com/track/4WLAeLXFIHruJmILpl3HCw"
+    },
+    {
+      "album": {
         "name": "Shamanic Journey Drumming",
         "url": "https://open.spotify.com/album/1C3dY4h7p3auKgPknDmq9v"
       },

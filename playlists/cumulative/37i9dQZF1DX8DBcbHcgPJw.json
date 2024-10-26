@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170146,
       "name": "C14TORCE V: Balada para un Alien",
       "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
@@ -5662,6 +5662,28 @@
       "duration_ms": 183146,
       "name": "Los Fiesteros Se Enamoran",
       "url": "https://open.spotify.com/track/6dHkwRSI5ja8OdEBLF73WV"
+    },
+    {
+      "album": {
+        "name": "Los Vagos",
+        "url": "https://open.spotify.com/album/2qqxELPkyx4l9X492OrD7A"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135539,
+      "name": "Los Vagos",
+      "url": "https://open.spotify.com/track/7t4XvCLzTHA6IksAEPjeVT"
     },
     {
       "album": {

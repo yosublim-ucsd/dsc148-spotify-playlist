@@ -4,7 +4,7 @@
 
 > اسمعوا افضل الاغاني الخليجية\. الغلاف: أميمة طالب
 
-195 songs - 13 hr 57 min
+196 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 | 2023-02-14 | 2024-10-16 |
 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 | 2022-04-07 | 2023-08-28 |
 | [Alam Aloshag](https://open.spotify.com/track/1zgIuawYbW1aRZ9MTTmnwt) | [Khaled Almuthafar](https://open.spotify.com/artist/1ToVXfINPwcuiUWRzhg9BG), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Alam Aloshag](https://open.spotify.com/album/3j2GXRSfXtgyL2QtQnP32F) | 2:39 | 2024-05-15 |  |
-| [Alfin Bab](https://open.spotify.com/track/0xwJYYm0zG7580yqF5KDpR) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Alfin Bab](https://open.spotify.com/album/0k3gP9ljtof6e1BJ1WH0Pa) | 4:45 | 2024-04-18 |  |
+| [Alfin Bab](https://open.spotify.com/track/0xwJYYm0zG7580yqF5KDpR) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Alfin Bab](https://open.spotify.com/album/0k3gP9ljtof6e1BJ1WH0Pa) | 4:45 | 2024-04-18 | 2024-10-26 |
 | [Allah Ala The Allil](https://open.spotify.com/track/5ihud1HlQGEy2JaZgFCsFE) | [Omar Naghmet Wattar](https://open.spotify.com/artist/5HeUjWClBMbaVtHAQE1WNI) | [Allah Ala The Allil](https://open.spotify.com/album/1k19VdXfQADUyWWsO5xakL) | 5:28 | 2022-04-07 | 2022-06-09 |
 | [Allah Yekhalleek Lehalek](https://open.spotify.com/track/2wkvNhTMmIjHQkgvBQqvOo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Allah Yekhalleek Lehalek](https://open.spotify.com/album/4NBpRiwq6R30yQiOWjTQki) | 4:11 | 2023-11-08 |  |
 | [AlNeskha AlJadeeda](https://open.spotify.com/track/3GLLxqMO9eL5eoHuySMQGR) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [AlNeskha AlJadeeda](https://open.spotify.com/album/1TpetQdfC6a5nZEK75VvLL) | 4:00 | 2022-12-08 | 2023-02-15 |
@@ -66,6 +66,7 @@
 | [Hatet Yadak](https://open.spotify.com/track/0hnemjZiAz2E1jg83hsQl0) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Hatet Yadak](https://open.spotify.com/album/2yvDoecCouFgoSA8u84OJ7) | 4:32 | 2022-04-07 | 2023-01-25 |
 | [Hawah Al Galb](https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hawah Al Galb](https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT) | 3:16 | 2023-04-26 | 2023-05-07 |
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2022-04-07 | 2022-07-09 |
+| [Jabek Allah](https://open.spotify.com/track/5QgnCycX2Y7qYPkaDjOsrV) | [Hamad Al Khazinah](https://open.spotify.com/artist/5l9dJPTWI6qfI4IRZnbdF0) | [Jabek Allah](https://open.spotify.com/album/545xf1VGXPGDU2guCZ85SV) | 3:15 | 2024-10-25 |  |
 | [Janant Galbi](https://open.spotify.com/track/5GnZnRwXaQttM8ALIemTQO) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Janant Galbi](https://open.spotify.com/album/72vTooQ2VEKVLgybFkpkYw) | 4:47 | 2024-04-18 |  |
 | [Jeetk](https://open.spotify.com/track/7M0FzzZNLa4hicFxzfaviH) | [Fahad Alamri](https://open.spotify.com/artist/5NUJZVaGD6S8osJn80Vt3P) | [Fahad 2024](https://open.spotify.com/album/4uEthD59d5aDXHxdRVh5Jy) | 3:47 | 2024-02-08 |  |
 | [Kareh Nafsi](https://open.spotify.com/track/2HBLe2Hkm1l2Om72BJ9Bxx) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kareh Nafsi](https://open.spotify.com/album/6WAwzHLkg6FeJh07Mgo0qp) | 3:39 | 2023-10-11 | 2024-08-15 |

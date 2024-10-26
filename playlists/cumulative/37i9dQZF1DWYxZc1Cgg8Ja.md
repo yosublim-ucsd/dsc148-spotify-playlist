@@ -2,9 +2,9 @@
 
 ### [Vibra Chill](https://open.spotify.com/playlist/37i9dQZF1DWYxZc1Cgg8Ja)
 
-> Sonidos latinos para relajarse a cualquier hora del día\. Foto: Beéle
+> Sonidos latinos para relajarse a cualquier hora del día\. Foto: Criss & Ronny y Kapo
 
-132 songs - 6 hr 50 min
+133 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,9 @@
 | [Déjame Entrar](https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Déjame Entrar](https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe) | 4:14 | 2024-08-05 |  |
 | [El Malo](https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:29 | 2024-01-19 | 2024-08-24 |
 | [El Mensaje](https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [El Mensaje](https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV) | 3:02 | 2023-07-21 | 2024-08-17 |
+| [EL STICKER](https://open.spotify.com/track/51fjeEQR84knHbPr7aLZNA) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [LA MORAL](https://open.spotify.com/album/2I4d4LqdDeCse8ZYiWHBGC) | 2:50 | 2024-10-25 |  |
 | [En Las Buenas y En Las Malas](https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [En Las Buenas y En Las Malas](https://open.spotify.com/album/0Ekx1GipeSlqP0T4Gn1Q1h) | 2:37 | 2023-12-22 |  |
-| [ESA SEÑORA](https://open.spotify.com/track/6TakRkJbqdcSWXNOS05QAq) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [QUE NO SE ASUSTEN](https://open.spotify.com/album/0RxredQ3vRckANRSDGgE61) | 2:49 | 2024-09-27 |  |
+| [ESA SEÑORA](https://open.spotify.com/track/6TakRkJbqdcSWXNOS05QAq) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [QUE NO SE ASUSTEN](https://open.spotify.com/album/0RxredQ3vRckANRSDGgE61) | 2:49 | 2024-09-27 | 2024-10-26 |
 | [EY CHORY](https://open.spotify.com/track/74BwwBMcu6xNt7nWmtsCg1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:57 | 2023-09-29 |  |
 | [EY CHORY](https://open.spotify.com/track/1npr0HhhkrcTOgqWOp76TM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:58 | 2023-10-06 | 2024-04-19 |
 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2023-07-21 |  |

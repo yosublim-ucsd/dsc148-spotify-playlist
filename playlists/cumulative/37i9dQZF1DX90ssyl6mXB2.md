@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-137 songs - 6 hr 25 min
+143 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-04-05 |  |
 | [Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 1:50 | 2024-02-02 |  |
 | [come thru](https://open.spotify.com/track/79Xwa8oIicEai4bFVBxsuN) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [come thru](https://open.spotify.com/album/6iyCsIynra6MsjVoV3tnrQ) | 2:33 | 2024-02-20 |  |
+| [Dangerously In Love](https://open.spotify.com/track/7M5COssVtV99IUsU1HxHzS) | [Yvng Ev](https://open.spotify.com/artist/2fm64bFy2cks8y7SEMyTXN) | [Dangerously In Love](https://open.spotify.com/album/3JksmbqVD1Nj94ptBNDpBH) | 1:59 | 2024-10-25 |  |
 | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/track/15ZqvIC2zw8BWXD2hhLiAR) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/album/7qpuVhQPYGbtdkuNeoCElG) | 2:47 | 2024-09-13 | 2024-10-19 |
 | [DEAD MAN WALKING](https://open.spotify.com/track/2c2tlXfEmLgUNvxngIi1qL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 4:07 | 2024-02-02 | 2024-03-30 |
 | [Decisions](https://open.spotify.com/track/4BXSRihMONgWl0Df6fHQhE) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [Decisions](https://open.spotify.com/album/0ORJdgrpJczH1Etg8OhOP8) | 3:21 | 2024-02-02 |  |
@@ -63,6 +64,7 @@
 | [hard feelings](https://open.spotify.com/track/37cYXXzlmUXnjuSZ2DqhPY) | [Essiyas](https://open.spotify.com/artist/09QOTdywNrZkFw4SYXf71t) | [hard feelings](https://open.spotify.com/album/4PaQ1RBPRa40qqV5FVmJsD) | 2:23 | 2024-10-18 |  |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2024-02-02 |  |
 | [Here Now](https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Here Now](https://open.spotify.com/album/2dn3rbVDA051YrJkDci1xl) | 2:22 | 2024-04-26 |  |
+| [Hold Still](https://open.spotify.com/track/1PzAY3nwLxJ1pc27ceNFTj) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Hold Still](https://open.spotify.com/album/0MgpMLfL1RdVqZWztwKu06) | 2:49 | 2024-10-25 |  |
 | [honda civic '98](https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [It'll Be Fine](https://open.spotify.com/album/4zM4CuOsWdfR60jW7w4jVr) | 3:07 | 2024-02-02 |  |
 | [hypnotized](https://open.spotify.com/track/08GUWwT14JBrVF9Dvp4AJ6) | [MASY.](https://open.spotify.com/artist/0mB5bRJsOsOb9sHlj264yE) | [red.](https://open.spotify.com/album/6EyjRzvcvh7ubTJ0De8c5r) | 1:40 | 2024-02-02 |  |
 | [I Won't Forget](https://open.spotify.com/track/0ykZstlNr8TGpXsrcuYxEg) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX) | [On Waters Ave](https://open.spotify.com/album/0nRN4Le9A5UMSeEo6kz5N6) | 2:55 | 2024-06-28 |  |
@@ -78,6 +80,7 @@
 | [LINK UP](https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:05 | 2024-02-02 |  |
 | [Love Sick](https://open.spotify.com/track/1G6NXKZ8hslD7ATqhIGZKJ) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Love Sick](https://open.spotify.com/album/7MggIppKYSPlh6TLQeLFjN) | 1:52 | 2024-06-28 | 2024-10-19 |
 | [M a k e I t T o T h e M o r n i n g](https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:48 | 2024-10-18 |  |
+| [Middle of The Night](https://open.spotify.com/track/4AWNGXhcT1eQhEajvO6yZl) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Middle of The Night](https://open.spotify.com/album/3JZIOJUYGiJ6tKhx80UW7X) | 2:12 | 2024-10-25 |  |
 | [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2024-03-29 |  |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2024-02-02 | 2024-08-03 |
 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 | 2024-06-07 |  |
@@ -114,8 +117,11 @@
 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 | 2024-02-02 | 2024-10-19 |
 | [Sinner](https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt) | 1:39 | 2024-02-02 |  |
 | [Sinner](https://open.spotify.com/track/7fuDGYEbVcW9fJUhrDeOXV) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Sinner](https://open.spotify.com/album/1legD3bkAr8HutjWGJ2ZS3) | 1:39 | 2024-02-02 | 2024-04-19 |
+| [Smoke + Mirrors \(Remix\)](https://open.spotify.com/track/2llhKemeYEaIH5gOiE9o4R) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Smoke + Mirrors \(Remix\)](https://open.spotify.com/album/4Q5IBAmOTbs1O0IZsEWkIU) | 2:48 | 2024-10-25 |  |
 | [Someday](https://open.spotify.com/track/243MZdDZaiZwNw5UMIUcMn) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Someday](https://open.spotify.com/album/6m1UOy8xyZBjmz33YPuWwY) | 3:27 | 2024-06-28 |  |
+| [Soul On Fire](https://open.spotify.com/track/6xEkgmEvZMwkyPNTjeVKL3) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Soul On Fire](https://open.spotify.com/album/76MCbADCF4wMTika7FpgZK) | 2:13 | 2024-10-25 |  |
 | [Stay Gold](https://open.spotify.com/track/4bpuF6xenrFjMLA9tfKuc7) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:37 | 2024-04-05 |  |
+| [story to TELL](https://open.spotify.com/track/1mTa2MvvpFPDMs7Ed0EpNZ) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [dim.](https://open.spotify.com/artist/6gu1kyhltIYnwqWIEjO5Jy) | [story to TELL](https://open.spotify.com/album/3MIx3qRkqB9SEP4EXu21p9) | 2:03 | 2024-10-25 |  |
 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 | 2024-02-02 |  |
 | [Tempt Me](https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Tempt Me](https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk) | 2:10 | 2024-07-26 |  |
 | [Temptress](https://open.spotify.com/track/6ZSlsP0RI2qQZ8IXRXLFrp) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Temptress](https://open.spotify.com/album/2k8lsJUwNL2ikePfYmp3PG) | 2:56 | 2024-10-18 |  |

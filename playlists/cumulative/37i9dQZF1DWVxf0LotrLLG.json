@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: Farruko",
+  "description": "Descubre los nuevos \u00e1lbumes del 2024. Hit shuffle for a mixed listening experience. Cover: LATIN MAFIA",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -1771,6 +1771,28 @@
     },
     {
       "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6UZakYFr3nYNaAcFvvbcsf"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258937,
+      "name": "AMIGOS? (feat. Eladio Carrion)",
+      "url": "https://open.spotify.com/track/2AWn5XRKSBGS9TFa8SQSko"
+    },
+    {
+      "album": {
         "name": "KITSUNE",
         "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
       },
@@ -1822,6 +1844,24 @@
       "duration_ms": 150397,
       "name": "Amor de Extranjeros",
       "url": "https://open.spotify.com/track/3Xv4c62ZXGnMoDhWT4KPLo"
+    },
+    {
+      "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197830,
+      "name": "Amor de Mis Ojos",
+      "url": "https://open.spotify.com/track/058nrgDLWDN2MDnNal7naJ"
     },
     {
       "album": {
@@ -2156,6 +2196,28 @@
       "duration_ms": 161400,
       "name": "Antes De Dormir",
       "url": "https://open.spotify.com/track/0JhKlRYeWX6oiRgfnoodmv"
+    },
+    {
+      "album": {
+        "name": "Antes De Que Te Odie",
+        "url": "https://open.spotify.com/album/4kfxvAsWbppVMC6wkK4gd5"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202068,
+      "name": "Antes De Que Te Odie",
+      "url": "https://open.spotify.com/track/33aidycdRsc82IF8yUFETD"
     },
     {
       "album": {
@@ -3567,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "Bodhiria",
+        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164771,
+      "name": "BRUJERIA!",
+      "url": "https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9"
+    },
+    {
+      "album": {
         "name": "Disco 9",
         "url": "https://open.spotify.com/album/0cMCxMu4d6sjPND40Jr2l6"
       },
@@ -3640,6 +3720,24 @@
       "duration_ms": 137110,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5kIsAdu63383IiX3gNnsW5"
+    },
+    {
+      "album": {
+        "name": "Caballero",
+        "url": "https://open.spotify.com/album/4Nc7ExTZ5cuLkrKXbRWUP5"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149024,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/3rN1Wr64lf63NlAsmFHxxn"
     },
     {
       "album": {
@@ -5593,6 +5691,24 @@
     },
     {
       "album": {
+        "name": "Cuentas Pendientes",
+        "url": "https://open.spotify.com/album/4b7aQmQU9rX2eeg77j9AbE"
+      },
+      "artists": [
+        {
+          "name": "Sanluis",
+          "url": "https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117626,
+      "name": "Cuando Seas Grande",
+      "url": "https://open.spotify.com/track/1AckJPvydkLsfsOoCwVrjY"
+    },
+    {
+      "album": {
         "name": "Cuando Te Encuentre",
         "url": "https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC"
       },
@@ -5912,6 +6028,28 @@
       "duration_ms": 227200,
       "name": "Dame Luz",
       "url": "https://open.spotify.com/track/0CmQa0j3VQM5bcGYQW85l1"
+    },
+    {
+      "album": {
+        "name": "KUSTOM",
+        "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201509,
+      "name": "DAMN GIRL",
+      "url": "https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc"
     },
     {
       "album": {
@@ -7330,6 +7468,24 @@
       "duration_ms": 213511,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln"
+    },
+    {
+      "album": {
+        "name": "Ruido, El Silencio y Yo",
+        "url": "https://open.spotify.com/album/5hdcFOmZmRSilC72c0g7wP"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213068,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/4olkBFiAoz8xsBBUTez0b5"
     },
     {
       "album": {
@@ -10613,6 +10769,24 @@
     },
     {
       "album": {
+        "name": "Cuentas Pendientes",
+        "url": "https://open.spotify.com/album/4b7aQmQU9rX2eeg77j9AbE"
+      },
+      "artists": [
+        {
+          "name": "Sanluis",
+          "url": "https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Hay Fuegos",
+      "url": "https://open.spotify.com/track/0lGbazuTGhsYQAbkg4F1OO"
+    },
+    {
+      "album": {
         "name": "La Calle y El Club",
         "url": "https://open.spotify.com/album/56PM6l4J0Zq0UuPvEMTIH2"
       },
@@ -10650,6 +10824,28 @@
       "duration_ms": 125379,
       "name": "Heaven's Bad Day",
       "url": "https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD"
+    },
+    {
+      "album": {
+        "name": "Bodhiria",
+        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145151,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT"
     },
     {
       "album": {
@@ -11729,6 +11925,24 @@
     },
     {
       "album": {
+        "name": "KUSTOM",
+        "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130110,
+      "name": "LA ELITE",
+      "url": "https://open.spotify.com/track/2Fn7ArECH8Sgy4uXQYp4lh"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/4fhfwiNZaMuMrVst1cY7d4"
       },
@@ -12302,6 +12516,28 @@
       "duration_ms": 177800,
       "name": "La siembra",
       "url": "https://open.spotify.com/track/7EyNHWInV8zlfdRezGK5ht"
+    },
+    {
+      "album": {
+        "name": "La Sin Sentimientos",
+        "url": "https://open.spotify.com/album/484u6fF8lHgT6h83LuXmgH"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "BLANKO",
+          "url": "https://open.spotify.com/artist/2tsxhfhrjoqKy2okihHP0x"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179772,
+      "name": "La Sin Sentimientos",
+      "url": "https://open.spotify.com/track/4RlwjtqpZN6TC3ILPLrI9G"
     },
     {
       "album": {
@@ -14283,6 +14519,28 @@
     },
     {
       "album": {
+        "name": "KUSTOM",
+        "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "TULI",
+          "url": "https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158644,
+      "name": "MALA SUERTE",
+      "url": "https://open.spotify.com/track/4gqE9uHLnRq4DPgXIuXu5j"
+    },
+    {
+      "album": {
         "name": "LUNA 18",
         "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
       },
@@ -16210,6 +16468,32 @@
       "duration_ms": 232813,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu"
+    },
+    {
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6UZakYFr3nYNaAcFvvbcsf"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309872,
+      "name": "M\u00c1S DINERO + PROBLEMAS (feat. Hades66, \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/2fjMnx6JNppQZoZNDx9gJ3"
     },
     {
       "album": {
@@ -19133,6 +19417,24 @@
     },
     {
       "album": {
+        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
+        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "pero me estoy acabando.",
+      "url": "https://open.spotify.com/track/4UcnP64mbjBbjSDgSv5YYT"
+    },
+    {
+      "album": {
         "name": "Perreando Triste (feat. Uzielito Mix)",
         "url": "https://open.spotify.com/album/0Z0tJ5ucn0zI9Z1nuPruCs"
       },
@@ -20676,6 +20978,24 @@
       "duration_ms": 186613,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/2cHu1IBtAVO5q9cl3LLJie"
+    },
+    {
+      "album": {
+        "name": "Cuentas Pendientes",
+        "url": "https://open.spotify.com/album/4b7aQmQU9rX2eeg77j9AbE"
+      },
+      "artists": [
+        {
+          "name": "Sanluis",
+          "url": "https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240480,
+      "name": "Quien Me Entiende",
+      "url": "https://open.spotify.com/track/0WCYYO1ca10j1e5GQUoX2f"
     },
     {
       "album": {
@@ -22418,6 +22738,24 @@
       "duration_ms": 165300,
       "name": "Siempre Tendr\u00e9 Mi Voz",
       "url": "https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu"
+    },
+    {
+      "album": {
+        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
+        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165720,
+      "name": "Siento que merezco m\u00e1s",
+      "url": "https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263"
     },
     {
       "album": {
@@ -24228,6 +24566,32 @@
       "duration_ms": 192800,
       "name": "Tesoro Mio - Versi\u00f3n Merengue",
       "url": "https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV"
+    },
+    {
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6UZakYFr3nYNaAcFvvbcsf"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        },
+        {
+          "name": "White Star",
+          "url": "https://open.spotify.com/artist/70nM9ixtEAtdmEQrmxgMHf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245432,
+      "name": "TETEO (feat. Axel Rulay, White Star)",
+      "url": "https://open.spotify.com/track/0Vhn5cKzaOuAXq0G7fnY0H"
     },
     {
       "album": {
@@ -26451,6 +26815,24 @@
     },
     {
       "album": {
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178569,
+      "name": "Vivir",
+      "url": "https://open.spotify.com/track/7hk2fYVOXLhm6tuq1iVh2P"
+    },
+    {
+      "album": {
         "name": "Bailemos Otra Vez",
         "url": "https://open.spotify.com/album/1HatE1hzYec4CLoN4TJcKI"
       },
@@ -26648,6 +27030,28 @@
       "duration_ms": 157074,
       "name": "VOLVER\u00c1S",
       "url": "https://open.spotify.com/track/0GlBekgy9Z2YEKCHxj33T2"
+    },
+    {
+      "album": {
+        "name": "Voy a Olvidarme de M\u00ed (feat. Bomba Est\u00e9reo)",
+        "url": "https://open.spotify.com/album/4vpyXFQH3BXFyrOJsSBln2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172502,
+      "name": "Voy a Olvidarme de M\u00ed (feat. Bomba Est\u00e9reo)",
+      "url": "https://open.spotify.com/track/7zc23D6yOAEHhqGRMC8AbB"
     },
     {
       "album": {
@@ -27355,6 +27759,24 @@
     },
     {
       "album": {
+        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
+        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "Yo siempre contesto.",
+      "url": "https://open.spotify.com/track/1ZunPTRc0PUFfdSWa3qMB1"
+    },
+    {
+      "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
@@ -27450,6 +27872,24 @@
       "duration_ms": 244189,
       "name": "Yoya",
       "url": "https://open.spotify.com/track/3SF9pCh1TCn7zBMy9KGbZi"
+    },
+    {
+      "album": {
+        "name": "zarcillos de plata",
+        "url": "https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198009,
+      "name": "zarcillos de plata",
+      "url": "https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh"
     },
     {
       "album": {

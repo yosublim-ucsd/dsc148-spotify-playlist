@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-182 songs - 9 hr 49 min
+183 songs - 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Navidad Sin Ti](https://open.spotify.com/track/54xXNECMC5RPXOGYYfYyTS) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Navidad Sin Ti](https://open.spotify.com/album/0vfbRwJqaEy1RT063cvsYq) | 2:43 | 2022-12-19 |  |
 | [Navidad Sin Ti](https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 4:14 | 2021-12-15 | 2022-12-20 |
 | [Navidad Sin Ti](https://open.spotify.com/track/5MlN2GqY5oY7jY3abZ2jc7) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti](https://open.spotify.com/album/3I94U5CMxnGg4dtvKPKvlP) | 3:29 | 2021-12-15 | 2022-12-19 |
-| [Navidad Sin Ti \- Radio Version](https://open.spotify.com/track/2Db34X2w44TI9rJdqUDjHB) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti \(Radio Version\)](https://open.spotify.com/album/02PaeXrAxgcSm2IdQE7upl) | 3:12 | 2023-11-17 |  |
+| [Navidad Sin Ti \- Radio Version](https://open.spotify.com/track/2Db34X2w44TI9rJdqUDjHB) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Navidad Sin Ti \(Radio Version\)](https://open.spotify.com/album/02PaeXrAxgcSm2IdQE7upl) | 3:12 | 2023-11-17 | 2024-10-26 |
 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 | 2021-12-15 | 2022-12-19 |
 | [Navidad, Navidad](https://open.spotify.com/track/683fOEDnFrDuFM9oMpuEhK) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 2:34 | 2021-12-15 | 2022-12-19 |
 | [Navidad, Navidad](https://open.spotify.com/track/046nCoUyoSiuK2VXxoCYy8) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Navidad, Navidad](https://open.spotify.com/album/1LBvVHmVIiLz40w6OYUT0d) | 2:46 | 2021-12-15 | 2022-12-19 |
@@ -166,6 +166,7 @@
 | [Te Regalo](https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Te Regalo](https://open.spotify.com/album/6WG0yEtxedxIVbpakcqKSl) | 3:01 | 2022-12-19 |  |
 | [Te Regalo](https://open.spotify.com/track/5lP6RiHfFtT9IkbhZAJkhK) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Happy Navidad](https://open.spotify.com/album/1PpiyGryY19O7Lk6L1IbFu) | 3:01 | 2021-12-15 | 2022-11-09 |
 | [the homesick song \- xmas version](https://open.spotify.com/track/0tFE781nhKa79caNOXTcmO) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [the homesick song \(xmas version\)](https://open.spotify.com/album/3i1HpT97oi9C2Lwinn9PJs) | 3:00 | 2023-12-20 | 2024-07-06 |
+| [Todo Es Posible En Navidad](https://open.spotify.com/track/41bfCU4YfqWsvNHNGsTVFM) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Todo Es Posible En Navidad](https://open.spotify.com/album/3fHzqWh0lSGDtIhZc186FT) | 3:31 | 2024-10-25 |  |
 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/2fGSA4vBfyaarB9S7ke4cd) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Latin Navidad Vol\. 3](https://open.spotify.com/album/08Si3mkkv01yjfe98kQa4N) | 3:31 | 2022-11-08 | 2022-11-26 |
 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/60kNOlbfCafJ24kztVrLzV) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Navidad 2021: Villancicos](https://open.spotify.com/album/0VXF7FHz8tmLwVXPHCPBMO) | 3:31 | 2021-12-15 | 2022-11-09 |
 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/7b6feyyH5HsJUSBwtlcYrW) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Rolitas navideñas](https://open.spotify.com/album/1e2Tzt6ON6y9NTiizI5RYk) | 3:31 | 2022-12-18 | 2022-12-20 |

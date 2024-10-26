@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "The many fruits of Caribbean culture under one tree. Cover:  <a href=\"spotify:artist:2HPaUgqeutzr3jx5a9WyDV\">PARTYNEXTDOOR</a>",
+  "description": "The many fruits of Caribbean culture under one tree. Cover:  <a href=\"spotify:artist:7ltW5jYRnGOE4O1vcgW2DI\">MORGAN</a>",
   "name": "Fever",
   "tracks": [
+    {
+      "album": {
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138088,
+      "name": "Ackee",
+      "url": "https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu"
+    },
     {
       "album": {
         "name": "Agua (with Na\u00efka)",
@@ -267,6 +285,24 @@
     },
     {
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/2Acu1HQbkasy9aloLtgunl"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214860,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/2QBhvlNvGjbL5iZC6BDPLi"
+    },
+    {
+      "album": {
         "name": "D N A",
         "url": "https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8"
       },
@@ -478,6 +514,28 @@
       "duration_ms": 219949,
       "name": "F o r C e r t a i n",
       "url": "https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi"
+    },
+    {
+      "album": {
+        "name": "Ghetto Gyal Whine",
+        "url": "https://open.spotify.com/album/4GPWqFdDA1vNS5Dz9owBjj"
+      },
+      "artists": [
+        {
+          "name": "Leftside",
+          "url": "https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr"
+        },
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Ghetto Gyal Whine",
+      "url": "https://open.spotify.com/track/4RYIxOSxrEmUJr8Egy1bVJ"
     },
     {
       "album": {
@@ -723,6 +781,32 @@
     },
     {
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
+    },
+    {
+      "album": {
         "name": "LIFESTYLE",
         "url": "https://open.spotify.com/album/7MQy2VfgrtsZz4hXvsQOz4"
       },
@@ -875,6 +959,50 @@
     },
     {
       "album": {
+        "name": "Never Complain (feat. Masicka)",
+        "url": "https://open.spotify.com/album/5rGKlYt2tWIrCHaLfXdKyg"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Never Complain (feat. Masicka)",
+      "url": "https://open.spotify.com/track/1UxL2KHtDw10T2MoBU15xn"
+    },
+    {
+      "album": {
+        "name": "NIGHTS LIKE THIS",
+        "url": "https://open.spotify.com/album/0EjMJ9VwUScWujQJ95kx6x"
+      },
+      "artists": [
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        },
+        {
+          "name": "Leeyuh Neptune",
+          "url": "https://open.spotify.com/artist/4seFlt0LNyKvft0xxekhPA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/6OJ9YUPa90I1nXjSfdqCL7"
+    },
+    {
+      "album": {
         "name": "Night Hawq Riddim",
         "url": "https://open.spotify.com/album/1vaKS2D4GpoihRtGEJPwnX"
       },
@@ -960,6 +1088,28 @@
       "duration_ms": 142833,
       "name": "Payroll",
       "url": "https://open.spotify.com/track/08lpmcULw7gi6VQ9DhrqIX"
+    },
+    {
+      "album": {
+        "name": "Pressure (Remix)",
+        "url": "https://open.spotify.com/album/7xgScJJaVrUCy477wMTfKt"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238576,
+      "name": "Pressure (Remix)",
+      "url": "https://open.spotify.com/track/6k7lW8ShIArQQ12suirGKs"
     },
     {
       "album": {
@@ -1146,6 +1296,28 @@
       "duration_ms": 240000,
       "name": "Show Them",
       "url": "https://open.spotify.com/track/1azevc4yWg7cPubeknpj05"
+    },
+    {
+      "album": {
+        "name": "Sit Down",
+        "url": "https://open.spotify.com/album/6eTV0xMECRpjVsuDQMe9VN"
+      },
+      "artists": [
+        {
+          "name": "Lahrel",
+          "url": "https://open.spotify.com/artist/6QLId1xjDwBhWpk9TLfvZ5"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158359,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/2yoSCIiSDgHGj71QRa2bjV"
     },
     {
       "album": {
@@ -1411,6 +1583,32 @@
     },
     {
       "album": {
+        "name": "The Essential",
+        "url": "https://open.spotify.com/album/1SNwkb5nYGoI3pVzV3GFnv"
+      },
+      "artists": [
+        {
+          "name": "Imeru Tafari",
+          "url": "https://open.spotify.com/artist/1YxQyYfXtg9pMJStr0hvxT"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285246,
+      "name": "Vibrations",
+      "url": "https://open.spotify.com/track/6fRMK1sDPkbCpETqLnaiBI"
+    },
+    {
+      "album": {
         "name": "Great Is He (Deluxe)",
         "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
       },
@@ -1492,6 +1690,32 @@
       "duration_ms": 183573,
       "name": "Wheel Up (feat. Byron Messia)",
       "url": "https://open.spotify.com/track/08kieiDP1vprkXbHyLaXl9"
+    },
+    {
+      "album": {
+        "name": "Where We Come From",
+        "url": "https://open.spotify.com/album/15CGM23XyqTGaY1iUhDnDr"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Jahshii",
+          "url": "https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7"
+        },
+        {
+          "name": "IzyBeats",
+          "url": "https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203568,
+      "name": "Where We Come From",
+      "url": "https://open.spotify.com/track/4Oiznv60jL110BFPEZ3Ax0"
     },
     {
       "album": {

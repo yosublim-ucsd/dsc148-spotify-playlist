@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 61555,
+  "num_followers": 61556,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAADZh+IWwd8IhFE3G2fMnUZN",
+  "snapshot_id": "ZxmOAAAAAAAPap+xGRBc1JFOUtb84z81",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sangue de Jesus",
+        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 275260,
+      "name": "Sangue de Jesus",
+      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amigo Incompar\u00e1vel (Ao Vivo)",
         "url": "https://open.spotify.com/album/1aeUe3lYFvmKnIYkWVJAoY"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 393163,
       "name": "Amigo Incompar\u00e1vel - Ao vivo",
       "url": "https://open.spotify.com/track/2mrj06EgF9HJudXKYmX6VR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sangue de Jesus",
-        "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 275260,
-      "name": "Sangue de Jesus",
-      "url": "https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m"
     },
     {
       "added_at": null,

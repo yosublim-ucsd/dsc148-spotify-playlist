@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. David de la Luz en portada.",
+  "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Alejandro Sanz en portada.",
   "name": "Cantamores",
   "tracks": [
     {
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0UxSgKRCy6eClw3W4dbrLM"
@@ -2147,6 +2147,28 @@
     },
     {
       "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153609,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
+    },
+    {
+      "album": {
         "name": "Enamorarte Otra Vez",
         "url": "https://open.spotify.com/album/6U1W4fL3BjIkrTXODb6LuP"
       },
@@ -2354,7 +2376,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 223492,
       "name": "Flores",
       "url": "https://open.spotify.com/track/2XbYwZBVoMjuNgR6w9kPW3"
@@ -2786,7 +2808,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 236533,
       "name": "La Dalia",
       "url": "https://open.spotify.com/track/1r7WBxenMzquvDQudN5FD0"
@@ -3076,6 +3098,24 @@
       "duration_ms": 168203,
       "name": "Llorar Por Ella",
       "url": "https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor",
+        "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185727,
+      "name": "Lo Mejor",
+      "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
     },
     {
       "album": {
@@ -4104,7 +4144,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 171290,
       "name": "ojal\u00e1 </3",
       "url": "https://open.spotify.com/track/2Gf3SCoQqgRbxUdjsP3IP4"
@@ -4282,6 +4322,24 @@
       "duration_ms": 156000,
       "name": "palacio <3",
       "url": "https://open.spotify.com/track/6YgwL3HZe5RZMqiXtSdYHo"
+    },
+    {
+      "album": {
+        "name": "Palmeras en el jard\u00edn",
+        "url": "https://open.spotify.com/album/0Y5U0InXzziIx7YlinkuVX"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180725,
+      "name": "Palmeras en el jard\u00edn",
+      "url": "https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX"
     },
     {
       "album": {
@@ -5524,6 +5582,24 @@
       "duration_ms": 226481,
       "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
       "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
+    },
+    {
+      "album": {
+        "name": "todo y nada",
+        "url": "https://open.spotify.com/album/2LSNz2CcGALSM8JVv9cWNS"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "todo y nada",
+      "url": "https://open.spotify.com/track/7Dj6drRthSTvR787ejc4eI"
     },
     {
       "album": {

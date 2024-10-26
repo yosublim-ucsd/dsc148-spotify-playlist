@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Fable",
+        "url": "https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261005,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+    },
+    {
+      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -3118,6 +3136,24 @@
       "duration_ms": 189026,
       "name": "Greatest Enemy",
       "url": "https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj"
+    },
+    {
+      "album": {
+        "name": "Growing Through It",
+        "url": "https://open.spotify.com/album/3QGYowAWcYKXjbapjtHL5v"
+      },
+      "artists": [
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231139,
+      "name": "Growing Exponentially",
+      "url": "https://open.spotify.com/track/0vKaiWad18yPie45nWpDz8"
     },
     {
       "album": {
@@ -4730,7 +4766,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 188629,
       "name": "Long Dark Night",
       "url": "https://open.spotify.com/track/5VdRRwhBeLyO2CuAgUvqVY"
@@ -8548,7 +8584,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 306613,
       "name": "Your Town",
       "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"

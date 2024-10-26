@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 444933,
+  "num_followers": 444950,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -875,26 +875,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ya no nos hablamos",
-        "url": "https://open.spotify.com/album/2POquPZMJWFB1SocRQGW9A"
-      },
-      "artists": [
-        {
-          "name": "Veintiuno",
-          "url": "https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8"
-        },
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 215807,
-      "name": "Ya no nos hablamos",
-      "url": "https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Algo Especial",
         "url": "https://open.spotify.com/album/4BcuC8fbH9k6kQtBsTLpx0"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 202126,
       "name": "Un d\u00eda m\u00e1s",
       "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Ya no nos hablamos",
+        "url": "https://open.spotify.com/album/2POquPZMJWFB1SocRQGW9A"
+      },
+      "artists": [
+        {
+          "name": "Veintiuno",
+          "url": "https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 215807,
+      "name": "Ya no nos hablamos",
+      "url": "https://open.spotify.com/track/3KjIRxUv81zmSqiphtRxGp"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Y SI SE ABREN LOS CIELOS",
-        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Y SI SE ABREN LOS CIELOS",
-      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "El Ride",
         "url": "https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 164444,
       "name": "El Ride",
       "url": "https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Y SI SE ABREN LOS CIELOS",
+        "url": "https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Y SI SE ABREN LOS CIELOS",
+      "url": "https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Caramelo",
         "url": "https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 198914,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Sad Lullaby",
-        "url": "https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd"
-      },
-      "artists": [
-        {
-          "name": "HYRA",
-          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Sad Lullaby",
-      "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "El Sol De Las 3",
         "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 168205,
       "name": "Intr\u00e9pida",
       "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Sad Lullaby",
+        "url": "https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd"
+      },
+      "artists": [
+        {
+          "name": "HYRA",
+          "url": "https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Sad Lullaby",
+      "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Un Rayo de Luz",
+        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222991,
+      "name": "Un Rayo de Luz",
+      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Fugaz",
         "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
       },
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Un Rayo de Luz",
-        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
+        "name": "buena vista!",
+        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+          "name": "ARIEL",
+          "url": "https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3"
         }
       ],
-      "duration_ms": 222991,
-      "name": "Un Rayo de Luz",
-      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
+      "duration_ms": 175007,
+      "name": "tu y yo",
+      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1711,22 +1727,6 @@
       "duration_ms": 176538,
       "name": "Como Si Fuera La Primera Vez",
       "url": "https://open.spotify.com/track/0B5yal7lcwBap5UOyrSl96"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "buena vista!",
-        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
-      },
-      "artists": [
-        {
-          "name": "ARIEL",
-          "url": "https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3"
-        }
-      ],
-      "duration_ms": 175007,
-      "name": "tu y yo",
-      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
     },
     {
       "added_at": "2024-10-04 04:00:00",

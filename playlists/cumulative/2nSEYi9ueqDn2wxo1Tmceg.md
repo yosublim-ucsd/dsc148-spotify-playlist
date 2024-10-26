@@ -2,7 +2,7 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d?si=ADpA6fSZQB\-dGT7KaWKZCA">Hayden Thorpe</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh\_89rmgqQ">Bonnie &quot;Prince&quot; Billy</a>
 
 1,115 songs - 3 day 4 hr 18 min
 

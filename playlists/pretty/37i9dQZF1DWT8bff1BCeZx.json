@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 18357,
+  "num_followers": 18370,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -861,6 +861,26 @@
       "url": "https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h"
     },
     {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "duration_ms": 162223,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Daily",
@@ -885,40 +905,20 @@
       "url": "https://open.spotify.com/track/2VVpThlAv7UPHD63mIo3t9"
     },
     {
-      "added_at": "2024-05-03 00:01:00",
+      "added_at": "2024-10-11 00:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
+        "name": "Olodumare",
+        "url": "https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb"
       },
       "artists": [
         {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
         }
       ],
-      "duration_ms": 162223,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
-    },
-    {
-      "added_at": "2024-01-26 00:01:00",
-      "album": {
-        "name": "Blast (tongues)",
-        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Blast - tongues",
-      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
+      "duration_ms": 186947,
+      "name": "Olodumare",
+      "url": "https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -937,20 +937,20 @@
       "url": "https://open.spotify.com/track/4h1rwuKcqyInYs9nnGs8oW"
     },
     {
-      "added_at": "2024-10-11 00:01:00",
+      "added_at": "2024-01-26 00:01:00",
       "album": {
-        "name": "Olodumare",
-        "url": "https://open.spotify.com/album/0iBH92HNjF5SLlzcRrIZXb"
+        "name": "Blast (tongues)",
+        "url": "https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8"
       },
       "artists": [
         {
-          "name": "Joel Lwaga",
-          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
         }
       ],
-      "duration_ms": 186947,
-      "name": "Olodumare",
-      "url": "https://open.spotify.com/track/3SGAz5OZz0GpfGr5HG2zEd"
+      "duration_ms": 204841,
+      "name": "Blast - tongues",
+      "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
       "added_at": "2023-12-15 00:01:00",

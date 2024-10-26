@@ -1,6 +1,6 @@
 {
   "description": "Ein Prosit der Gem\u00fctlichkeit",
-  "num_followers": 428615,
+  "num_followers": 428660,
   "original_name": "Wiesn Party 2024",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
+        "name": "Schnelle Brille",
+        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
+      },
+      "artists": [
+        {
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
+        }
+      ],
+      "duration_ms": 137125,
+      "name": "Schnelle Brille",
+      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
         "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
         "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 240761,
       "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
       "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
-        "name": "Schnelle Brille",
-        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
-      },
-      "artists": [
-        {
-          "name": "Nancy Franck",
-          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
-        }
-      ],
-      "duration_ms": 137125,
-      "name": "Schnelle Brille",
-      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -999,18 +999,22 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "RESPEKTLOS",
-        "url": "https://open.spotify.com/album/2lMKUB1k6foUaPsfe7yJUD"
+        "name": "Oben unten (Party Edit)",
+        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
       },
       "artists": [
         {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+          "name": "R\u00e4uber",
+          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
         }
       ],
-      "duration_ms": 141000,
-      "name": "RESPEKTLOS",
-      "url": "https://open.spotify.com/track/2vFtIRRnVeelWIv6SIzTc6"
+      "duration_ms": 212250,
+      "name": "Oben unten - Party Edit",
+      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -1035,22 +1039,18 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Oben unten (Party Edit)",
-        "url": "https://open.spotify.com/album/2BTgz7ff5y04sV3F5kzseH"
+        "name": "RESPEKTLOS",
+        "url": "https://open.spotify.com/album/2lMKUB1k6foUaPsfe7yJUD"
       },
       "artists": [
         {
-          "name": "R\u00e4uber",
-          "url": "https://open.spotify.com/artist/1rDAup2hSYtEvYQdYPGawi"
-        },
-        {
-          "name": "Dj Aaron",
-          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
         }
       ],
-      "duration_ms": 212250,
-      "name": "Oben unten - Party Edit",
-      "url": "https://open.spotify.com/track/4UfAtfhnKnBKZbyiVDobU2"
+      "duration_ms": 141000,
+      "name": "RESPEKTLOS",
+      "url": "https://open.spotify.com/track/2vFtIRRnVeelWIv6SIzTc6"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -1295,18 +1295,22 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+        "name": "Dann leg ich Schlager auf",
+        "url": "https://open.spotify.com/album/3Hod9KyrcwiuI6SWzspYAg"
       },
       "artists": [
         {
           "name": "Mickie Krause",
           "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        },
+        {
+          "name": "Tim Toupet",
+          "url": "https://open.spotify.com/artist/6bt8AKXF0E1m0IoI0o5I4N"
         }
       ],
-      "duration_ms": 204283,
-      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
-      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
+      "duration_ms": 171202,
+      "name": "Dann leg ich Schlager auf",
+      "url": "https://open.spotify.com/track/21YH3LX7O0uayHWOmDGPbL"
     },
     {
       "added_at": "2024-10-18 14:01:30",
@@ -1471,26 +1475,6 @@
     {
       "added_at": "2024-10-18 14:01:30",
       "album": {
-        "name": "Mallekind",
-        "url": "https://open.spotify.com/album/6REJSCEeDximgCmWC1XWvl"
-      },
-      "artists": [
-        {
-          "name": "Isi Gl\u00fcck",
-          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
-        },
-        {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        }
-      ],
-      "duration_ms": 173433,
-      "name": "Mallekind",
-      "url": "https://open.spotify.com/track/3NlCLRvhG5gno1HutG23u6"
-    },
-    {
-      "added_at": "2024-10-18 14:01:30",
-      "album": {
         "name": "Ein bisschen Frieden (Stereoact #Remix)",
         "url": "https://open.spotify.com/album/4nmaiFwmUo5Pq1mXbWaIgI"
       },
@@ -1507,6 +1491,26 @@
       "duration_ms": 162352,
       "name": "Ein bisschen Frieden - Stereoact #Remix",
       "url": "https://open.spotify.com/track/2htsBWFGjnCmlb1c7eKLRZ"
+    },
+    {
+      "added_at": "2024-10-18 14:01:30",
+      "album": {
+        "name": "Mallekind",
+        "url": "https://open.spotify.com/album/6REJSCEeDximgCmWC1XWvl"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        }
+      ],
+      "duration_ms": 173433,
+      "name": "Mallekind",
+      "url": "https://open.spotify.com/track/3NlCLRvhG5gno1HutG23u6"
     }
   ],
   "unique_name": "Wiesn Party 2024",

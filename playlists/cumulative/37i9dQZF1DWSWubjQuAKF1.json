@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "nasze brzmienie \u2728 Cover: Dominika P\u0142onka",
+  "description": "nasze brzmienie \u2728 Cover: Karolina B\u0142o\u0144ska",
   "name": "gen z ",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 136617,
       "name": "BABY",
       "url": "https://open.spotify.com/track/5hUhAExayqsD6U8gzZ9Gk5"
+    },
+    {
+      "album": {
+        "name": "Bajka",
+        "url": "https://open.spotify.com/album/0sXdmDSA4cP8PsiFeBvpLF"
+      },
+      "artists": [
+        {
+          "name": "SaMa",
+          "url": "https://open.spotify.com/artist/4xEYSiX0oZb4EkmDnu60Tt"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149161,
+      "name": "Bajka",
+      "url": "https://open.spotify.com/track/1t4ZzlgGghetwNEjAhRVK1"
     },
     {
       "album": {
@@ -767,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Czu\u0142e S\u0142\u00f3wka",
+        "url": "https://open.spotify.com/album/4ktTIMgoFlnsqzuawumCgu"
+      },
+      "artists": [
+        {
+          "name": "Karolina B\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/4GgX4COV1BbwlWIE8kdtlW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201141,
+      "name": "Czu\u0142e S\u0142\u00f3wka",
+      "url": "https://open.spotify.com/track/1tS7Lrzv09BhDshHTi4ZiO"
+    },
+    {
+      "album": {
         "name": "Daj\u0119 Ci s\u0142owo",
         "url": "https://open.spotify.com/album/4D1LPMuAnWE10544yIQY5T"
       },
@@ -1010,7 +1046,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 138409,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32"
@@ -1508,7 +1544,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 155213,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl"
@@ -1526,7 +1562,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 157384,
       "name": "Kiss And Fly",
       "url": "https://open.spotify.com/track/5d4WpBQcZOCRo0wepc7ojd"
@@ -1812,6 +1848,24 @@
       "duration_ms": 177000,
       "name": "love song sad",
       "url": "https://open.spotify.com/track/3cfWFPP2ppll7GxjZopnJp"
+    },
+    {
+      "album": {
+        "name": "lubi\u0119 patrze\u0107 na tw\u0105 bro\u0144",
+        "url": "https://open.spotify.com/album/6Wn64bI8wMIB66Zy0ReTHP"
+      },
+      "artists": [
+        {
+          "name": "Patryk Krzysztof Molenda",
+          "url": "https://open.spotify.com/artist/3pxfM6pz8d8dXGriLKGyvG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181739,
+      "name": "lubi\u0119 patrze\u0107 na tw\u0105 bro\u0144",
+      "url": "https://open.spotify.com/track/1xgWsfJ8qmFhrvJ6NmP1UW"
     },
     {
       "album": {
@@ -2953,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "PRETTY LIES",
+        "url": "https://open.spotify.com/album/0Zx3pNSIZDJO341isoT8kf"
+      },
+      "artists": [
+        {
+          "name": "Sally",
+          "url": "https://open.spotify.com/artist/6UGUIOyibm8kA96ClpbF1A"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164728,
+      "name": "PRETTY LIES",
+      "url": "https://open.spotify.com/track/221vIAPfaaS1rN0l6TnrUg"
+    },
+    {
+      "album": {
         "name": "Priorytety",
         "url": "https://open.spotify.com/album/2B46Wx88prs5gPWMnvFMVO"
       },
@@ -3404,7 +3476,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 153402,
       "name": "Szcz\u0119\u015bliwa Wina",
       "url": "https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR"

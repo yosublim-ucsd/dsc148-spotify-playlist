@@ -1,6 +1,6 @@
 {
   "description": "Celebrating our EQUAL ambassador Cher and her favorite female voices at the top of our list!",
-  "num_followers": 59669,
+  "num_followers": 59674,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "Anything For You",
-        "url": "https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 264889,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
         "name": "Different Color Stones",
         "url": "https://open.spotify.com/album/2qYEpKKguukYifo8ksbxcl"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 141754,
       "name": "Different Color Stones",
       "url": "https://open.spotify.com/track/5KsQoGiUey27gt0topwkz4"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/0j0SSAXrwFQBxI9Jhldf0u"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 264889,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/6JvHxvfCf0741MWTExGMAm"
     },
     {
       "added_at": "2024-10-01 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-10-01 04:00:00",
       "album": {
-        "name": "FK IT",
-        "url": "https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 184951,
-      "name": "I already dug your grave",
-      "url": "https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6"
-    },
-    {
-      "added_at": "2024-10-01 04:00:00",
-      "album": {
         "name": "To Tell You The Truth",
         "url": "https://open.spotify.com/album/0savSqjUPqCB7tTyHSn5Gz"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 222013,
       "name": "To Tell You The Truth",
       "url": "https://open.spotify.com/track/3vgdTBd541sOtok3Pa450z"
+    },
+    {
+      "added_at": "2024-10-01 04:00:00",
+      "album": {
+        "name": "FK IT",
+        "url": "https://open.spotify.com/album/7naXZDFuKYmQtJrmRdJFc7"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 184951,
+      "name": "I already dug your grave",
+      "url": "https://open.spotify.com/track/63ulMdyqy6G6iv91iyfGY6"
     },
     {
       "added_at": "2024-10-01 04:00:00",

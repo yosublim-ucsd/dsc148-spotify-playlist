@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-2,812 songs - 6 day 1 hr 40 min
+2,814 songs - 6 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/album/0yEtoAdaaX7mZOhjgr7IBH) | 3:17 | 2024-10-17 | 2024-10-25 |
 | [Discodancer](https://open.spotify.com/track/2oVS5FFFQghIaI4AgwelnR) | [Fjorden Baby!](https://open.spotify.com/artist/4cPf4ZBjuNF4fnfdlfy8hr) | [Discodancer](https://open.spotify.com/album/0wN1hc3Q7YhCDTbRuxVKEL) | 3:52 | 2024-09-26 | 2024-10-04 |
 | [Discoteca](https://open.spotify.com/track/2MktwCE2h7aodPJDX8qjSX) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Discoteca](https://open.spotify.com/album/6Fefsj0yN8ponEZSJ0yNij) | 2:29 | 2024-06-13 | 2024-06-21 |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 |  |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-05-16 | 2024-05-24 |
 | [Distance](https://open.spotify.com/track/6pkp8MTmqjavdVFWLr3XrI) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Richello](https://open.spotify.com/artist/6DWVgFfHyhUISYq0lzYYu6) | [Distance](https://open.spotify.com/album/6j7BnRFKkIoj3bHZukWG7j) | 2:17 | 2024-09-05 | 2024-09-13 |
 | [distance](https://open.spotify.com/track/21AKjDqarlr1DgcGPnazg6) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 3:10 | 2024-10-10 | 2024-10-18 |
@@ -648,6 +649,7 @@
 | [Dynasty](https://open.spotify.com/track/5SubmdO0aLjNlF8B1u43DE) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Dynasty](https://open.spotify.com/album/5GHzMc06bOz6aWPNBfaaXX) | 2:24 | 2024-08-01 | 2024-08-09 |
 | [Dårlig idé](https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Dårlig idé](https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx) | 2:12 | 2024-05-02 | 2024-05-10 |
 | [Dör för oss](https://open.spotify.com/track/6XefQa6vfcvAHl2iHzBhQO) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Dör för oss](https://open.spotify.com/album/5iAXOi2m8FZfZYgRJ3CxiZ) | 2:35 | 2024-10-03 | 2024-10-11 |
+| [Dø for deg](https://open.spotify.com/track/1jy1i2eBAIOT7oDTdjPH0o) | [Rakel](https://open.spotify.com/artist/3RiGzcN3Bd1Fmxvu2rxZJk) | [MØRKT LYS](https://open.spotify.com/album/4sjGbzpxKYSQioGU7DGYRo) | 3:05 | 2024-10-25 |  |
 | [E det min feil?](https://open.spotify.com/track/1h8qE1nDyzo45ZtX8IWkeY) | [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [E det min feil?](https://open.spotify.com/album/2C5brXS6VWTSnwoqEH3ooM) | 2:41 | 2024-06-13 | 2024-06-21 |
 | [E ha aldri](https://open.spotify.com/track/6OLtTUmX0cIdXA8d6wIi5F) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [E ha aldri](https://open.spotify.com/album/6OMT3J5hDUnmuMQSqLmutS) | 3:06 | 2024-05-23 | 2024-06-01 |
 | [E'kke Til Å Tro](https://open.spotify.com/track/3xjcQ6fGgdq24UgXMWhLiL) | [Pegasus](https://open.spotify.com/artist/6CqTaOHPEcPqyc24lVSWha) | [E'kke Til Å Tro](https://open.spotify.com/album/1wPTRhiZr4ANANKwLQwG3v) | 2:55 | 2024-07-11 | 2024-07-19 |

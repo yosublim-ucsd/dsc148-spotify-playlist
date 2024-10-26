@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544128,
+  "num_followers": 544135,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Camp Kill Yourself, Vol.1",
-        "url": "https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw"
-      },
-      "artists": [
-        {
-          "name": "CKY",
-          "url": "https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "96 Quite Bitter Beings",
-      "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Lights And Sounds",
         "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 208186,
       "name": "Lights And Sounds",
       "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Camp Kill Yourself, Vol.1",
+        "url": "https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw"
+      },
+      "artists": [
+        {
+          "name": "CKY",
+          "url": "https://open.spotify.com/artist/3ZQEU2arcWXSv3oz8hwWBK"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "96 Quite Bitter Beings",
+      "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
+        "name": "God's Country",
+        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
       },
       "artists": [
         {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 317467,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
+      "duration_ms": 135541,
+      "name": "God's Country",
+      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "God's Country",
-        "url": "https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
       },
       "artists": [
         {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
         }
       ],
-      "duration_ms": 135541,
-      "name": "God's Country",
-      "url": "https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d"
+      "duration_ms": 317467,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 146436,
-      "name": "Jurassic Park",
-      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Victory Lap (Deluxe Edition)",
         "url": "https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 176893,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 146436,
+      "name": "Jurassic Park",
+      "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Brain Invaders",
-        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 183282,
-      "name": "When Both Sides Suck, We're All Winners",
-      "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "If You Say So",
         "url": "https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 151521,
       "name": "If You Say So",
       "url": "https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Brain Invaders",
+        "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 183282,
+      "name": "When Both Sides Suck, We're All Winners",
+      "url": "https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "INTERNATIONALLY UNKNOWN",
-        "url": "https://open.spotify.com/album/5xRIjNGS3sXzJ4E6TCQmYd"
-      },
-      "artists": [
-        {
-          "name": "RAT BOY",
-          "url": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
-        }
-      ],
-      "duration_ms": 134941,
-      "name": "I WANNA SKATE",
-      "url": "https://open.spotify.com/track/4ZuMFVVmGmnxPbqWGKecca"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "If There Is Light, It Will Find You",
         "url": "https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 205373,
       "name": "Double Cross",
       "url": "https://open.spotify.com/track/0LLA6vTC4qkmENHsr3PkOH"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "INTERNATIONALLY UNKNOWN",
+        "url": "https://open.spotify.com/album/5xRIjNGS3sXzJ4E6TCQmYd"
+      },
+      "artists": [
+        {
+          "name": "RAT BOY",
+          "url": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
+        }
+      ],
+      "duration_ms": 134941,
+      "name": "I WANNA SKATE",
+      "url": "https://open.spotify.com/track/4ZuMFVVmGmnxPbqWGKecca"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "Our Brand Could Be Yr Life",
+        "url": "https://open.spotify.com/album/2bPeqXdzzjatAWeCI09gF1"
+      },
+      "artists": [
+        {
+          "name": "BODEGA",
+          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "ATM",
+      "url": "https://open.spotify.com/track/4jkJUXrUF5t0jDFDOjOybf"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg"
       },
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Our Brand Could Be Yr Life",
-        "url": "https://open.spotify.com/album/2bPeqXdzzjatAWeCI09gF1"
+        "name": "Bad Frequencies",
+        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
       },
       "artists": [
         {
-          "name": "BODEGA",
-          "url": "https://open.spotify.com/artist/3lnWfdMG9U0oVMC15SEbB5"
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 160346,
-      "name": "ATM",
-      "url": "https://open.spotify.com/track/4jkJUXrUF5t0jDFDOjOybf"
+      "duration_ms": 249000,
+      "name": "The Perfect Way to Fall Apart",
+      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1611,22 +1627,6 @@
       "duration_ms": 183133,
       "name": "All My Friends are Nobodies",
       "url": "https://open.spotify.com/track/2iFFcHvg5F7a8thEKo65g5"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "Bad Frequencies",
-        "url": "https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "The Perfect Way to Fall Apart",
-      "url": "https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp"
     },
     {
       "added_at": "2024-07-19 11:53:42",

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Teddy Swims.
 
-333 songs - 16 hr 39 min
+334 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dice](https://open.spotify.com/track/5xod0Sm1xqBRMpc5qQnZyc) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Dice](https://open.spotify.com/album/5nKMPmfTjHJMOM1ZQRdOTk) | 3:00 | 2024-09-12 | 2024-10-18 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-09-05 |  |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 |  |
 | [Downtown \(feat\. NCO\)](https://open.spotify.com/track/5ahzUmHTdIA3B3ujctjf75) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [NCO](https://open.spotify.com/artist/3HULha4gmb5YjZHWODEXu1) | [Downtown \(feat\. NCO\)](https://open.spotify.com/album/6C4IXMFxZGG4APE36WXWFO) | 2:44 | 2024-07-02 | 2024-07-17 |
 | [Duunarit \(feat\. Aleksanteri Hakaniemi\)](https://open.spotify.com/track/4rMlws9mxGg0qZm6Jogryy) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [Aleksanteri Hakaniemi](https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi) | [Duunarit \(feat\. Aleksanteri Hakaniemi\)](https://open.spotify.com/album/3BNvUel2GPYflNyYzZVO03) | 2:45 | 2024-10-10 |  |
 | [Edelleen](https://open.spotify.com/track/6hI1sTn4NS6BrL9wrlqZaI) | [Larry](https://open.spotify.com/artist/6j8jsYzQEJVnqEobLv8oNa), [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Edelleen](https://open.spotify.com/album/31upea4lQ4IwOqz3KxIFQf) | 2:39 | 2024-07-02 | 2024-07-05 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-994 songs - 2 day 10 hr 15 min
+995 songs - 2 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,8 @@
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-24 | 2024-03-18 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-03 | 2022-04-19 |
 | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(ft\. V of BTS\)](https://open.spotify.com/album/2LwzZahqXWr0POXIWI7WaN) | 2:33 | 2023-12-31 | 2024-03-17 |
-| [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 | 2024-10-22 |  |
+| [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 | 2024-10-22 | 2024-10-26 |
+| [Whiplash](https://open.spotify.com/track/7Cnpb1vBbC46RgVyyKLH7p) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/6RRuiUup6Z0Y0MxkCXOGyU) | 3:03 | 2024-10-25 |  |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-20 |  |
 | [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 | 2024-04-20 | 2024-04-27 |
 | [Wife](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:01 | 2024-01-30 | 2024-02-27 |
@@ -680,7 +681,7 @@
 | [不可愛教主](https://open.spotify.com/track/7zYZYyaMmfsc7Jp4ZHd6UX) | [Anson Lo 盧瀚霆](https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7) | [不可愛教主](https://open.spotify.com/album/5bObDBd0n0q1zdlimWdIGH) | 3:49 | 2021-07-09 | 2023-01-21 |
 | [不配](https://open.spotify.com/track/6GxZx3gflxPl8MHnJ0mcuc) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [不配](https://open.spotify.com/album/1vf0j6LdTJTJpaiAOoowXy) | 4:32 | 2021-10-10 | 2021-10-16 |
 | [世一](https://open.spotify.com/track/0YoqbSyFQngPdXaN0BAxnI) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [世一](https://open.spotify.com/album/1YrplQ1IcOFstrRGSoqIwh) | 4:23 | 2023-01-20 | 2023-01-22 |
-| [世一](https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 4:23 | 2023-01-21 |  |
+| [世一](https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [This is MC](https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx) | 4:23 | 2023-01-21 | 2024-10-26 |
 | [世一 \(不可一世\) \[feat\. Kiri T\]](https://open.spotify.com/track/5oJgKQOjypEUqBHnKCfAZs) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [世一 \(不可一世\) \[feat\. Kiri T\]](https://open.spotify.com/album/0DUPzk7vFDr3qSBA5JD6jk) | 4:23 | 2023-02-15 | 2023-03-18 |
 | [世一 \(不可一世\) \[feat\. Kiri T\]](https://open.spotify.com/track/6tr0lpSi0fKE3hSM0vkdIe) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [This is MC \(Deluxe\)](https://open.spotify.com/album/7DsuhLnk7vEp4DZ4Awcybx) | 4:23 | 2023-03-17 | 2023-06-22 |
 | [世界與你無關 \- Acoustic Version](https://open.spotify.com/track/6OMVP0bYGhLGTp1Mvl3iOH) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [世界與你無關 \(Acoustic Version\)](https://open.spotify.com/album/4Vv0pIpYXxmlrXNBSbXuZq) | 4:05 | 2022-03-12 | 2022-03-14 |
@@ -945,7 +946,7 @@
 | [衰仔樂園](https://open.spotify.com/track/0JsD8QChaTKv0fvWhe9T1W) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [衰仔樂園](https://open.spotify.com/album/4bIIqBYzrzEmty687jwhhZ) | 3:44 | 2024-03-23 | 2024-03-27 |
 | [觸電](https://open.spotify.com/track/1Fho4dheJpucaeccEtbyjE) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC), [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [Frenemy](https://open.spotify.com/album/3uAhnIdZUUJBLOPgQPLso2) | 3:22 | 2022-08-17 | 2022-08-19 |
 | [記得](https://open.spotify.com/track/2i40AXmoYGkzzW3C3OUoG6) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [MEMENTO](https://open.spotify.com/album/2EGs23HGMWvVUYxfiMzlgK) | 3:53 | 2022-08-13 | 2023-01-24 |
-| [記憶棉](https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [記憶棉](https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE) | 4:33 | 2021-10-23 | 2024-10-25 |
+| [記憶棉](https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [記憶棉](https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE) | 4:33 | 2021-10-23 |  |
 | [詩歌舞街](https://open.spotify.com/track/45rZ0CtRR470rAOFiWJNeM) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 3:11 | 2021-09-01 | 2021-09-17 |
 | [誅神的黃昏](https://open.spotify.com/track/03X5mJ8tnBFh9pMMnXrAck) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [誅神的黃昏](https://open.spotify.com/album/5qRtJi7YbhKNlRi2UW1Ugt) | 3:14 | 2022-11-12 | 2022-11-14 |
 | [說好不哭](https://open.spotify.com/track/77BQceOpfvUBXgokOFHYMm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:40 | 2022-07-16 | 2023-05-17 |

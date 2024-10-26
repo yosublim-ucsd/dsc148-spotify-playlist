@@ -2635,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0DhnBougYQz6wzMIyxL52g"
+      },
+      "artists": [
+        {
+          "name": "Dream State",
+          "url": "https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205352,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/3iL042KGHm1rbvtczHOfXQ"
+    },
+    {
+      "album": {
         "name": "Bl\u00fcdGod (feat. Taylor Barber)",
         "url": "https://open.spotify.com/album/3L1QV2uTt9Y0tqG2Uyv9CL"
       },
@@ -4562,7 +4580,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 243000,
       "name": "Deadweight",
       "url": "https://open.spotify.com/track/6acStZnAy3HC0IOQtQWnmQ"
@@ -7141,6 +7159,24 @@
     },
     {
       "album": {
+        "name": "Forget It",
+        "url": "https://open.spotify.com/album/1FKP9SXb95FsJ6AplRcWC8"
+      },
+      "artists": [
+        {
+          "name": "Stray View",
+          "url": "https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Forget It",
+      "url": "https://open.spotify.com/track/1hNgjucoAolEIp6uSantcp"
+    },
+    {
+      "album": {
         "name": "Forgive and Forget (feat. Fit For A King)",
         "url": "https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN"
       },
@@ -8226,7 +8262,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 234047,
       "name": "HEAVY RAIN",
       "url": "https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS"

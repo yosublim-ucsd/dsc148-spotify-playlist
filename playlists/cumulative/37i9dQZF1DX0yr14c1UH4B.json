@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New\u00a0music from your timeless favourites. Cover: Coldplay",
+  "description": "New\u00a0music from your timeless favourites. Cover: Sophie Ellis-Bextor",
   "name": "The Gold List",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 205718,
       "name": "At Your Feet",
       "url": "https://open.spotify.com/track/57BolP2qJD7CdKa7rZ8Uvm"
@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "album": {
         "name": "Don't Blame It On Me",
         "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
       },
@@ -529,6 +547,28 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/0cKY8LCsrsNJbfPmLzQtSm"
+      },
+      "artists": [
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "name": "Joi",
+          "url": "https://open.spotify.com/artist/0ulZIID59tvIwcfTkiYLy5"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223856,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0iLEfYSsM1FZQRaqXdX0dq"
+    },
+    {
+      "album": {
         "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
@@ -552,6 +592,24 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "album": {
+        "name": "Freedom Of The Night",
+        "url": "https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Freedom Of The Night",
+      "url": "https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu"
     },
     {
       "album": {
@@ -942,7 +1000,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 155049,
       "name": "Live First, Love Later",
       "url": "https://open.spotify.com/track/3VpG43w5Cfmw7rLAfS2Ovx"
@@ -964,6 +1022,24 @@
       "duration_ms": 337473,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/6fSFZusee1TtCLfxz3BuQ2"
+    },
+    {
+      "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
       "album": {
@@ -1032,7 +1108,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 243922,
       "name": "NEW MOON (DARK PHASE)",
       "url": "https://open.spotify.com/track/2V4eKiXwEty1tWUxzjCBVe"
@@ -1231,6 +1307,24 @@
     },
     {
       "album": {
+        "name": "What Do You Believe In? (Deluxe)",
+        "url": "https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167382,
+      "name": "Put A Little Hurt On Me",
+      "url": "https://open.spotify.com/track/09Hf7z5jE9el5zESPYVYCl"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
       },
@@ -1339,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Sing Like Madonna",
+        "url": "https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213678,
+      "name": "Sing Like Madonna",
+      "url": "https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq"
+    },
+    {
+      "album": {
         "name": "Somebody Else's",
         "url": "https://open.spotify.com/album/31ruqJWGHD6c3d45HUGPcy"
       },
@@ -1354,6 +1466,46 @@
       "duration_ms": 224000,
       "name": "Somebody Else's",
       "url": "https://open.spotify.com/track/23MKdzfnkrDggafK7JWOHj"
+    },
+    {
+      "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/5kPPKe6J0I8ULEReHDgSXF"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        },
+        {
+          "name": "Lydia Clowes",
+          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241470,
+      "name": "Somebody Somewhere",
+      "url": "https://open.spotify.com/track/0lHrjUhFcXot7JMAT7kxhz"
+    },
+    {
+      "album": {
+        "name": "Tension II",
+        "url": "https://open.spotify.com/album/7mYSV2k7vBqHgqCeP4Slfs"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154706,
+      "name": "Someone For Me",
+      "url": "https://open.spotify.com/track/0qtp2Bplcb5To1fPnkgX7B"
     },
     {
       "album": {
@@ -1404,7 +1556,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 186967,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/5wVYSIMLscxuGCM8pFFn77"
@@ -1476,7 +1628,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 256381,
       "name": "The Feeling You Get",
       "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
@@ -1512,7 +1664,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 183137,
       "name": "The Man I Am",
       "url": "https://open.spotify.com/track/0aurtdjUVvzB6Mr8WSdghj"
@@ -1566,7 +1718,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -1628,7 +1780,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 255295,
       "name": "Waiting On A Blue Sky",
       "url": "https://open.spotify.com/track/3uINSMhXxGQVBNOQJjxEZZ"

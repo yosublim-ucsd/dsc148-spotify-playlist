@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-159 songs - 10 hr 28 min
+160 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres \- En Vivo](https://open.spotify.com/track/1nFvxutg7mvAXvTDrmRvkV) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Mientes Tan Bien / Dejemoslo Asi / Te Hubieras Ido Antes / Costumbres \(En Vivo\)](https://open.spotify.com/album/081TzgwcR2gay01IedQ5ua) | 9:49 | 2021-12-10 | 2022-07-28 |
 | [Muero Por Ti \- Vivo](https://open.spotify.com/track/7CynOao5TaEsvjxtdi8uMS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Muero Por Ti \(Vivo\)](https://open.spotify.com/album/4yZMxxx2r9b0a7fKdysT1k) | 3:37 | 2023-09-15 |  |
 | [Mueve el Cucuta \- En Vivo en Pasión](https://open.spotify.com/track/7lAS6xdJTGd7QJPX467jsq) | [El Apache Ness](https://open.spotify.com/artist/5lPewWWLzFoRj13tTLgeF8) | [En Vivo en Pasión](https://open.spotify.com/album/099aeUDVT72wUfwwdEdcM9) | 3:32 | 2022-01-03 | 2022-07-25 |
-| [Mujer Cósmica \- En Vivo](https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 3:59 | 2022-07-15 |  |
+| [Mujer Cósmica \- En Vivo](https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 3:59 | 2022-07-15 | 2024-10-26 |
 | [Mátame](https://open.spotify.com/track/3kPXkx1MZEwrplPqqVOIoq) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 3:23 | 2021-12-10 | 2024-08-20 |
 | [No eres para mi \- En Vivo](https://open.spotify.com/track/3bKBWywv7XSJ9pViRrw6zD) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 2:08 | 2021-12-10 | 2022-07-29 |
 | [No Llores \- En Vivo](https://open.spotify.com/track/24U7yMeIbDoIn8aZXtOj13) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [En Vivo en el Gran Rex](https://open.spotify.com/album/46mGVrvM2DljU2MH6xXzSx) | 2:57 | 2021-12-10 |  |
@@ -162,6 +162,7 @@
 | [Vamos A Bailar](https://open.spotify.com/track/3hV51n3q3lA9cZfsIYe6xt) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI) | 4:58 | 2022-08-26 | 2023-04-16 |
 | [Vamos A Bailar](https://open.spotify.com/track/45w6jlCTU1PEIAlYZYNhtT) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [En Vivo](https://open.spotify.com/album/1LdPP5ucu3EselExGmWjPy) | 4:58 | 2021-12-10 | 2022-09-12 |
 | [Vete \- En Vivo](https://open.spotify.com/track/5EkVGJzbtrFPoTpMIapgBu) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Artistas invitados, Pt\. 3 \(En Vivo\)](https://open.spotify.com/album/1zXO3nXZgTKRcxpAzPMcpk) | 1:35 | 2024-07-05 |  |
+| [Y Hoy Quieres Volver \- En Vivo](https://open.spotify.com/track/3cI2BuSlMn3Ia9yf08Ow7Z) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Y Hoy Quieres Volver \(En Vivo\)](https://open.spotify.com/album/4o2a0nu9pqw4yGZ6Lb15wv) | 4:30 | 2024-10-25 |  |
 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 | 2023-04-24 |  |
 | [Ya Te Olvide \- En Vivo](https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Ya Te Olvide \(En Vivo\)](https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Yo Tengo un Angel \- En Vivo](https://open.spotify.com/track/73lLqZyFsu6jGFfD1e7nYI) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Yo Tengo un Angel \(En Vivo\)](https://open.spotify.com/album/6nqRXecIGxl5eDTNekrldR) | 2:09 | 2022-03-18 | 2022-07-25 |

@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-461 songs - 1 day 8 hr 31 min
+462 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,11 +234,12 @@
 | [The Only](https://open.spotify.com/track/73MYkkIHGjN2tNmSH7xe0z) | [Yoshio Inoue](https://open.spotify.com/artist/0WgVF1Mknyhy5PjTOKmolM) | [天使も悪魔も / The Only](https://open.spotify.com/album/6zoeqwoyAmNN0TV9cIZrzJ) | 6:15 | 2023-03-21 | 2023-03-29 |
 | [the pyre](https://open.spotify.com/track/13Wz1dyxgWPSDXGCm5dHtQ) | [Piezoluminescence](https://open.spotify.com/artist/39yIOX8TUTRhzYq6R7q0df), [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR), [mippopotamus](https://open.spotify.com/artist/0g5R6Ju7ftKle2mliZt6WF) | [the pyre](https://open.spotify.com/album/0Ae1E8Gs5Qtnpi27cwJl4f) | 2:40 | 2024-02-06 | 2024-02-28 |
 | [The Rose \(15th Anniversary Version\)](https://open.spotify.com/track/0XWlisVINXUSp2iEh4we66) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Simple is best](https://open.spotify.com/album/3g19wLo3HUI5Jk6gCAf4JF) | 4:17 | 2023-04-04 | 2023-08-09 |
-| [The Rose \(15th Anniversary Version）](https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Simple is best](https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj) | 4:17 | 2024-09-27 |  |
+| [The Rose \(15th Anniversary Version）](https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Highlights from Simple is best](https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj) | 4:17 | 2024-09-27 | 2024-10-26 |
 | [There is Nothing More to Say](https://open.spotify.com/track/7zg26Jo05UY1kYtTnRZvyW) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:06 | 2023-11-02 | 2024-04-19 |
 | [Through The Deep](https://open.spotify.com/track/6kziDNrJFdAjTFgXKYteIs) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Through The Deep \- EP](https://open.spotify.com/album/3mBVZsyITr12QIAg9n0jlV) | 2:33 | 2023-01-31 | 2023-03-15 |
 | [Tokeru](https://open.spotify.com/track/5hbBM9teSxGwhWfU6EuSAn) | [ken uegane](https://open.spotify.com/artist/0H2bJji0sgqCVPxaPu5r35) | [Tokeru](https://open.spotify.com/album/7pitGTL1P2FIGfgCkD2xZ8) | 2:31 | 2023-05-30 | 2023-06-01 |
 | [Toki no Michishirube](https://open.spotify.com/track/5o1IJmSumDW2R2D1QwvXrr) | [Hiroko Yakushimaru](https://open.spotify.com/artist/1QXFMGfCga8qSyUtVmjXrE) | [Toki no Michishirube](https://open.spotify.com/album/1f6KCQhXEwOagzHTAEY9lH) | 5:36 | 2023-12-12 | 2024-01-24 |
+| [Tokyo Family Restaurant](https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Freeway](https://open.spotify.com/album/46iy9NicwuWHXrfWMzcs4u) | 3:50 | 2024-09-27 |  |
 | [Toumei na Nukumori](https://open.spotify.com/track/76QXx63Sqbf4WvyS0QtaM4) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz), [Risa Nakagawa](https://open.spotify.com/artist/35TXIIWvd5KWK5Y13cF8Hf) | [Toumei na Nukumori](https://open.spotify.com/album/7eElRimtFlrVjEx2a5ufXS) | 3:17 | 2023-06-20 | 2023-07-19 |
 | [TSUKI](https://open.spotify.com/track/1lP349GReG7TZmGluxUPkd) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [LOOK](https://open.spotify.com/album/1wUDIdbHuNLommHax61f0O) | 4:12 | 2023-05-30 | 2023-07-19 |
 | [Tsukihi](https://open.spotify.com/track/5G96ChqEFsCwZhJAx2I2zM) | [buoy](https://open.spotify.com/artist/0SoIfZImEkbzedoaM9AsPv) | [Tsukihi](https://open.spotify.com/album/4WRhOfyamvXkhiQikRxFrg) | 4:36 | 2022-10-20 | 2022-11-02 |

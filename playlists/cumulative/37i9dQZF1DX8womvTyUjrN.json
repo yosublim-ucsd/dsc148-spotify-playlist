@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Arial 12",
+        "url": "https://open.spotify.com/album/3zNdYtDcUBAYTjt8fCCIrQ"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158404,
+      "name": "Aburridos (Arial 8)",
+      "url": "https://open.spotify.com/track/7LGUN1QoI4CN3iLBSKOTAS"
+    },
+    {
+      "album": {
         "name": "Sensible",
         "url": "https://open.spotify.com/album/1NjrLqsDn8YbgSHzotKfsJ"
       },
@@ -896,6 +914,28 @@
       "duration_ms": 196000,
       "name": "Anoche",
       "url": "https://open.spotify.com/track/5cVzHV40StU3nmMBMKR4n6"
+    },
+    {
+      "album": {
+        "name": "Antes De Que Te Odie",
+        "url": "https://open.spotify.com/album/4kfxvAsWbppVMC6wkK4gd5"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202068,
+      "name": "Antes De Que Te Odie",
+      "url": "https://open.spotify.com/track/33aidycdRsc82IF8yUFETD"
     },
     {
       "album": {
@@ -2128,7 +2168,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 220761,
       "name": "Cada loco con su tema",
       "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
@@ -2688,7 +2728,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 159500,
       "name": "Como Asi?",
       "url": "https://open.spotify.com/track/3n95EdWZqIluCE6JAUdefS"
@@ -4606,6 +4646,28 @@
       "duration_ms": 176053,
       "name": "Enredado",
       "url": "https://open.spotify.com/track/0OB8T9rkWtd8AkUKOwNiuJ"
+    },
+    {
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/3n9mxahL1taHRBm02WOvAC"
+      },
+      "artists": [
+        {
+          "name": "Valeria",
+          "url": "https://open.spotify.com/artist/2UjOBQK3HTHySKoYn12YKj"
+        },
+        {
+          "name": "Once",
+          "url": "https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205340,
+      "name": "Entre Nosotros",
+      "url": "https://open.spotify.com/track/0551s9ptYuk27SQfPb5uQu"
     },
     {
       "album": {
@@ -9490,7 +9552,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 137366,
       "name": "no s\u00e9 si estoy preparada para esto",
       "url": "https://open.spotify.com/track/2ylZEcO877S3GpkllgGraL"
@@ -11060,7 +11122,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 136390,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/6KUzB9mbZ9zHFAI6klMtmZ"
@@ -11136,7 +11198,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 148960,
       "name": "pulso",
       "url": "https://open.spotify.com/track/2tfJVQbAo4tVrF2KkgzqsW"
@@ -12278,6 +12340,24 @@
       "duration_ms": 164005,
       "name": "si te esperas",
       "url": "https://open.spotify.com/track/0aE77kppxdg0cMnokn0W2m"
+    },
+    {
+      "album": {
+        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
+        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165720,
+      "name": "Siento que merezco m\u00e1s",
+      "url": "https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263"
     },
     {
       "album": {
@@ -13496,6 +13576,24 @@
       "duration_ms": 229369,
       "name": "TODO HA CAMBIAO'",
       "url": "https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR"
+    },
+    {
+      "album": {
+        "name": "todo y nada",
+        "url": "https://open.spotify.com/album/2LSNz2CcGALSM8JVv9cWNS"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "todo y nada",
+      "url": "https://open.spotify.com/track/7Dj6drRthSTvR787ejc4eI"
     },
     {
       "album": {

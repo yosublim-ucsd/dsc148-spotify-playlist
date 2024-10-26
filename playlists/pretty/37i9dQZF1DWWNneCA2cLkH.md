@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Jack J
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,559 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,569 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 6 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 7 | [Viagra](https://open.spotify.com/track/14I5n4dTGVIB4Y995Rl5sC) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Viagra](https://open.spotify.com/album/49JW9xFUTXqr58ZBnLjFZ1) | 4:11 |
 | 8 | [Pour Your Heart Out](https://open.spotify.com/track/3N9ho4NMwJMJzlH0xa9AIJ) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 1596](https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn) | 3:10 |
-| 9 | [Do You\_](https://open.spotify.com/track/0Do7s3ndo6kBn8bBcoMf4Z) | [Fig](https://open.spotify.com/artist/0FF0nQYlJCWgL0ALxhZdyQ) | [B\-Sides & Rarities](https://open.spotify.com/album/3g2C48fAFPPlAPRpq90Zf0) | 4:03 |
+| 9 | [Do You](https://open.spotify.com/track/0Do7s3ndo6kBn8bBcoMf4Z) | [Fig](https://open.spotify.com/artist/0FF0nQYlJCWgL0ALxhZdyQ) | [B\-Sides & Rarities](https://open.spotify.com/album/3g2C48fAFPPlAPRpq90Zf0) | 4:03 |
 | 10 | [Darlin'](https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:28 |
 | 11 | [Amoss Idjraw](https://open.spotify.com/track/2SJfn6UQ22K1VCg5QAcrRq) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amoss Idjraw](https://open.spotify.com/album/1W63TjKcqGLBhODnIZHIdl) | 4:37 |
 | 12 | [Put Love Into Your Heart](https://open.spotify.com/track/27dwPVIOVS0tM7wOix1ihZ) | [Kito Jempere](https://open.spotify.com/artist/1rcYZdCzi3poheNNvupX7K), [Jimi Tenor](https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D), [Adam Evald](https://open.spotify.com/artist/2ogRKEmGYMzhPjBY3rfcA4) | [Part Time Chaos Part Time Calmness](https://open.spotify.com/album/2Yr7OK3Aj3dlG66BLrlU47) | 5:18 |

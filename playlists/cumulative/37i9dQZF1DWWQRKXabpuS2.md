@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. غلاف: اصالة نصري
 
-374 songs - 1 day 1 hr 49 min
+375 songs - 1 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Al Sodfa](https://open.spotify.com/track/2129hTPYFuxRwddEyZQQxq) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Al Sodfa](https://open.spotify.com/album/3U0JikN0cQIjuDnortcJ2R) | 2:53 | 2023-12-09 | 2024-06-25 |
 | [Al Sourah](https://open.spotify.com/track/4wx0IYEDJhN0ghC1QtqocW) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Sourah](https://open.spotify.com/album/24aRGx287iB3Y1OUuM3Z3T) | 4:19 | 2021-12-23 | 2022-06-15 |
 | [Al Sulae](https://open.spotify.com/track/0YGB5IEVEh4UmXIaGed2PE) | [Eidha Al Menhali](https://open.spotify.com/artist/3SyRoTyNvAyDfFT9iap0ie) | [Al Sulae](https://open.spotify.com/album/1h0QrJ1njWbgiDkOJvCgo8) | 3:28 | 2021-12-23 | 2022-01-21 |
-| [Ala Ghaflah](https://open.spotify.com/track/6MQkV8WjlZJMjfh3GUDB3V) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB) | [Ala Ghaflah](https://open.spotify.com/album/4fdtOaqPxzO2zHVZBBPRpI) | 3:57 | 2024-02-27 |  |
+| [Ala Ghaflah](https://open.spotify.com/track/6MQkV8WjlZJMjfh3GUDB3V) | [Ismail Mubarak](https://open.spotify.com/artist/3zALKJh4vPkvTq8VsbChkB) | [Ala Ghaflah](https://open.spotify.com/album/4fdtOaqPxzO2zHVZBBPRpI) | 3:57 | 2024-02-27 | 2024-10-26 |
 | [Ala Nyti](https://open.spotify.com/track/1v2PG1I8m0MEsgfXxibI7P) | [Mohamed Alzaabi](https://open.spotify.com/artist/3zF02zTkZezgiuIwCpRXMl) | [Ala Nyti](https://open.spotify.com/album/3sDzx9zi8MNCczaimMQz0J) | 5:50 | 2022-02-24 | 2022-07-11 |
 | [Alaa Hoonk](https://open.spotify.com/track/4IPtpgUdAZ7PAaInGXsVOx) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Alaa Hoonk](https://open.spotify.com/album/1hTduMtGuABBRFYHgYTiH7) | 2:31 | 2022-09-16 | 2023-03-25 |
 | [Alammeh Lah](https://open.spotify.com/track/1aIysPTbYWjoDlnXR8dwCE) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Alammeh Lah](https://open.spotify.com/album/592nTrO8zRJQpzRVhHG3dY) | 4:10 | 2023-01-20 | 2023-08-19 |
@@ -138,6 +138,7 @@
 | [Hatet Yadak](https://open.spotify.com/track/0hnemjZiAz2E1jg83hsQl0) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Hatet Yadak](https://open.spotify.com/album/2yvDoecCouFgoSA8u84OJ7) | 4:32 | 2021-12-23 | 2022-02-11 |
 | [Hatha Al Kalam](https://open.spotify.com/track/4YfGPnOkFzM1SjwqpCSE7U) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [Hatha Al Kalam](https://open.spotify.com/album/6XX6i3D0ovgR2Q4m7Mc26Q) | 3:45 | 2023-07-14 | 2024-02-07 |
 | [Hatha Wagtah](https://open.spotify.com/track/4Eqz3io18FtQNfdGnsDyS7) | [Ibrahim Dashti](https://open.spotify.com/artist/7fVr9abExkyr5UQwtlWvpD) | [Hatha Wagtah](https://open.spotify.com/album/2DWKzmPb4aGU3VzL5e1gta) | 3:23 | 2021-12-23 | 2022-02-18 |
+| [Hawa Al Tayef](https://open.spotify.com/track/4Tso1qrYRD1aJVzmNh3Uq8) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Hawa Al Tayef](https://open.spotify.com/album/6VuBX8RJdyLbXFvLnI4tQL) | 4:05 | 2024-10-25 |  |
 | [Hawah Al Galb](https://open.spotify.com/track/5BlZZscTZ3xbYVPbvqYOK2) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Hawah Al Galb](https://open.spotify.com/album/3EnxQsWBV0QcyMkgxDEdIT) | 3:16 | 2023-04-22 | 2023-10-04 |
 | [Haza Elli Temaneto](https://open.spotify.com/track/0XmVMNePLkSrqv7JlIT2vb) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Haza Elli Temaneto](https://open.spotify.com/album/62r1w9pE7RZBaXs5X11A8p) | 4:35 | 2022-12-12 | 2023-05-27 |
 | [Hazey Hyateek](https://open.spotify.com/track/30wNhABPtA2czWPuHt8ekz) | [Ali Bin Mohammed](https://open.spotify.com/artist/4E7UMK4iGyqEsTxkUlIkeP) | [Hazey Hyateek](https://open.spotify.com/album/3lmMQsvhQYHHpSs1IdN7zi) | 4:45 | 2024-09-26 |  |

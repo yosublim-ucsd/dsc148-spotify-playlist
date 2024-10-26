@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Sonny Gullage
 
-324 songs - 19 hr 3 min
+325 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Cheats and Liars](https://open.spotify.com/track/4PXYmSraZ4JEZsaBDJh2QG) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Cheats and Liars](https://open.spotify.com/album/2rZ2hqlzxMXvj2XN1i8DSZ) | 3:48 | 2021-08-20 | 2022-11-13 |
 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 | 2021-08-20 | 2023-02-14 |
 | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Click Click Domino \(feat\. Marcus King\)](https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t) | 3:23 | 2021-03-05 | 2022-03-26 |
+| [Cold Blues](https://open.spotify.com/track/0sO16Fj8Mj9ztczfbxF7dy) | [DR\. Moriarity](https://open.spotify.com/artist/3gXj2P4t2wkBTjvJ8s64BE), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Dionysus the God](https://open.spotify.com/artist/4A6RhBJpQcfZeG7VlP2uf4) | [Cold Blues](https://open.spotify.com/album/4tn5qaeFYiS56VHm49Lh3G) | 4:34 | 2024-10-25 |  |
 | [Cold Hard Truth](https://open.spotify.com/track/3qSPTt22YYuzjpM2KIzsbp) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Sidecar](https://open.spotify.com/album/64o0omYS856v58Mm7rMvDp) | 2:35 | 2023-11-10 |  |
 | [Comes Easy to Me](https://open.spotify.com/track/3O0Q20ESvI3rLGWmcCSIe8) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Comes Easy to Me](https://open.spotify.com/album/4AyLn4EwySfPvpRGQa1wHy) | 2:49 | 2021-07-02 | 2022-06-19 |
 | [Control](https://open.spotify.com/track/0AchHP2MSvRlL3iKh6kfdt) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Control](https://open.spotify.com/album/1yj4EQuTKMf8VBz1wTAj0D) | 3:23 | 2021-08-13 | 2023-05-03 |
@@ -93,7 +94,7 @@
 | [Family](https://open.spotify.com/track/38ZY2zFUaeaaKEK4rKSClj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/1jBr51Tp79sXhh6vGl7o7I) | 4:46 | 2022-12-09 | 2023-03-18 |
 | [Family](https://open.spotify.com/track/6R7Lxgc6rZoN5dslqxSZGj) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Family](https://open.spotify.com/album/2e1cQINViMkPrLdKL0U9bQ) | 4:47 | 2022-12-09 | 2022-12-16 |
 | [Fancy Drones \(Fracture Me\) \- Live at Studio 615 / May 2021](https://open.spotify.com/track/7mSlf5NUKd5UAVe3eI2VBL) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Fancy Drones \(Fracture Me\) \[Live at Studio 615 / May 2021\]](https://open.spotify.com/album/24EGgm4XrVEEoHIvEAhm5r) | 3:17 | 2021-10-01 | 2022-06-19 |
-| [Find Somebody New](https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY) | [Jason Weaver](https://open.spotify.com/artist/6n0cnqQD5b9L0dpqQ3wOOq) | [Find Somebody New](https://open.spotify.com/album/7yia02IejFb97Uv85hLddH) | 2:50 | 2022-09-02 |  |
+| [Find Somebody New](https://open.spotify.com/track/29PfxQh5YAZ0d1dT4ufRxY) | [Jason Weaver](https://open.spotify.com/artist/6n0cnqQD5b9L0dpqQ3wOOq) | [Find Somebody New](https://open.spotify.com/album/7yia02IejFb97Uv85hLddH) | 2:50 | 2022-09-02 | 2024-10-26 |
 | [Fire](https://open.spotify.com/track/0RS4tXMELZK5kpuZ2G9HGQ) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka), [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Fire](https://open.spotify.com/album/1RJcGELxagirJwVWFOIcCj) | 2:47 | 2024-08-16 |  |
 | [Fire with Fire](https://open.spotify.com/track/31u0ZyzyYRKM4Efocv3EvH) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Fire with Fire](https://open.spotify.com/album/0gq8osOs3xs4bvQ57rw1sr) | 2:57 | 2022-05-20 | 2022-07-02 |
 | [First Time Blues](https://open.spotify.com/track/0BA9QD9iMfPVlfsgRAvMna) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [First Time Blues](https://open.spotify.com/album/3xc1iFmzlD2aadxs5gBG4l) | 3:47 | 2024-02-23 |  |
@@ -108,7 +109,7 @@
 | [Georgia Train](https://open.spotify.com/track/3eatC9pgRqYHuR7rkU9BtS) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Georgia Train](https://open.spotify.com/album/7qXXNB19F3dW7GvRf0Bb3R) | 3:05 | 2024-06-14 |  |
 | [Get By](https://open.spotify.com/track/0Dr3V5fTEZyyGHcCu7yDBX) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv) | [Get By](https://open.spotify.com/album/2n73mSrnTYW28UjTf5pc47) | 3:41 | 2023-03-10 | 2023-05-13 |
 | [Get That Feeling](https://open.spotify.com/track/7byvzE9N2GZ976Vc96oZdY) | [LaBronn Conner Jr.](https://open.spotify.com/artist/60s4V0w6AV0nzvqgV0xy9i) | [Get That Feeling](https://open.spotify.com/album/2L9TOZMYzAq4hL9Ln0Z9HL) | 3:55 | 2023-01-13 |  |
-| [Give Praises](https://open.spotify.com/track/6Sa3ga6JEhzguGcmH4cAJV) | [The 32 Golden Souls](https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8), [Lymie Murray](https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI), [Winston McAnuff](https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt) | [Give Praises](https://open.spotify.com/album/60cMUwLJw5peMZnQb0FFP4) | 3:36 | 2022-09-02 |  |
+| [Give Praises](https://open.spotify.com/track/6Sa3ga6JEhzguGcmH4cAJV) | [The 32 Golden Souls](https://open.spotify.com/artist/2zDq66Zcl7NcRY1XViXBN8), [Lymie Murray](https://open.spotify.com/artist/6A53ujYIa2XYuZQou20kGI), [Winston McAnuff](https://open.spotify.com/artist/3KnbABMv83BtL1scL56svt) | [Give Praises](https://open.spotify.com/album/60cMUwLJw5peMZnQb0FFP4) | 3:36 | 2022-09-02 | 2024-10-26 |
 | [Gone](https://open.spotify.com/track/33hXeP9dCStIHmtUWNepnA) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Gone](https://open.spotify.com/album/2xheRzFSbejr9p1g18pQOu) | 3:02 | 2021-08-30 | 2022-06-19 |
 | [Good for Nothing](https://open.spotify.com/track/5TWEKe4IotZ7WK5sWE3krv) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Good for Nothing](https://open.spotify.com/album/3uflPsxAFtm3IWLcb8yoY5) | 3:10 | 2021-12-17 | 2022-06-19 |
 | [Good People](https://open.spotify.com/track/0KlEYhot7IwsbCNGpww72s) | [The Harpoonist](https://open.spotify.com/artist/5RS142sMxPVrkhPl7CAGyG) | [Good People](https://open.spotify.com/album/5b2N8BU4Libo6GmfcxX3E5) | 5:45 | 2024-04-26 | 2024-07-06 |

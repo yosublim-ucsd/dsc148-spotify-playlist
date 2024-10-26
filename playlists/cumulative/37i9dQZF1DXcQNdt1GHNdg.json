@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Gym",
+        "url": "https://open.spotify.com/album/2d77Q3SZRxyJ8CmXrBzif2"
+      },
+      "artists": [
+        {
+          "name": "Sarba Maan",
+          "url": "https://open.spotify.com/artist/1XXOjhwvCOtj5IeYwbOb6J"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199024,
+      "name": "Gym",
+      "url": "https://open.spotify.com/track/0ymXuNYPbXMaL4d6VytNEi"
+    },
+    {
+      "album": {
         "name": "Hathyar (From \"Sikander 2\")",
         "url": "https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93"
       },
@@ -1224,7 +1242,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 210958,
       "name": "Kanka De Ohle",
       "url": "https://open.spotify.com/track/04q9KIf4RgMyBHH5FmJIOU"

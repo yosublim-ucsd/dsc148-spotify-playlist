@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 330022,
+  "num_followers": 330226,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Confia Mais",
         "url": "https://open.spotify.com/album/6G6HxSlbqCoGhOiWNdDCTO"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 189000,
       "name": "Confia Mais",
       "url": "https://open.spotify.com/track/6lTigAcpgVecT9Sq0StVL4"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "T\u00f4 Te Esperando pra Dan\u00e7ar",
-        "url": "https://open.spotify.com/album/1YDBkaJhuTl1S9FRFxiw2h"
-      },
-      "artists": [
-        {
-          "name": "Gu Andersen",
-          "url": "https://open.spotify.com/artist/66b5vc5HnjIcG0cwWg5ITA"
-        },
-        {
-          "name": "Bells",
-          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "T\u00f4 Te Esperando pra Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/1qBn46JiD592bFbumAR3G7"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Vou Agradecer",
         "url": "https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 190250,
       "name": "Meu Destino \u00e9 o Litoral",
       "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "T\u00f4 Te Esperando pra Dan\u00e7ar",
+        "url": "https://open.spotify.com/album/1YDBkaJhuTl1S9FRFxiw2h"
+      },
+      "artists": [
+        {
+          "name": "Gu Andersen",
+          "url": "https://open.spotify.com/artist/66b5vc5HnjIcG0cwWg5ITA"
+        },
+        {
+          "name": "Bells",
+          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "T\u00f4 Te Esperando pra Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/1qBn46JiD592bFbumAR3G7"
     },
     {
       "added_at": "2024-09-30 15:39:02",

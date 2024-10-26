@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season! All new holiday releases. Cover: Kesha",
-  "num_followers": 238678,
+  "num_followers": 238719,
   "original_name": "New Music Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAAAiaa3X9gyJ0gIY/CvzPF4L",
+  "snapshot_id": "ZxusfwAAAADuJl5+Zim2LYMZ3d+mo2Lr",
   "tracks": [
     {
       "added_at": "2024-10-15 13:52:46",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
     },
     {
+      "added_at": "2024-09-27 18:53:35",
+      "album": {
+        "name": "You For Christmas",
+        "url": "https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 174004,
+      "name": "You For Christmas",
+      "url": "https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "It's Officially Christmas: The Double Album",
@@ -73,6 +89,26 @@
       "url": "https://open.spotify.com/track/4ZoAJjwZBTbBoF9kdNW3mg"
     },
     {
+      "added_at": "2024-10-25 14:34:39",
+      "album": {
+        "name": "Kid At Christmas",
+        "url": "https://open.spotify.com/album/4u4yPCB9hXXFYs3A0yKJki"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 213828,
+      "name": "Kid At Christmas",
+      "url": "https://open.spotify.com/track/6gLlky9cJnppnVKGhvIs90"
+    },
+    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "The Gift Of Love",
@@ -87,6 +123,70 @@
       "duration_ms": 203097,
       "name": "Santa For Someone",
       "url": "https://open.spotify.com/track/41131KEQzYOtJiYxOcXyxp"
+    },
+    {
+      "added_at": "2024-10-25 14:34:39",
+      "album": {
+        "name": "I Believe in Father Christmas (Cover)",
+        "url": "https://open.spotify.com/album/662DsP3RWGoC2Uo2sFQMTX"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 199485,
+      "name": "I Believe in Father Christmas - Cover",
+      "url": "https://open.spotify.com/track/3bXZgsr8BIRkntxmptPKgm"
+    },
+    {
+      "added_at": "2024-10-25 14:34:39",
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/7Aot2bMAZtbbNU1PF8l8kB"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0sWdvAS5A2CP2rCHEBe45J"
+    },
+    {
+      "added_at": "2024-10-25 14:34:39",
+      "album": {
+        "name": "Oh Joy! (It's Christmas Time)",
+        "url": "https://open.spotify.com/album/3KNyfo3aJqtRqAT2fImWAi"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 155114,
+      "name": "Oh Joy!",
+      "url": "https://open.spotify.com/track/3FQxsAsHoLaqSmUrSpu9Ff"
+    },
+    {
+      "added_at": "2024-10-25 14:34:39",
+      "album": {
+        "name": "Happy Trails",
+        "url": "https://open.spotify.com/album/692vnJ4ZSRqgoCldC2zmGr"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": "Happy Trails",
+      "url": "https://open.spotify.com/track/1WRNwhOwNDBxKpkXMeV1zK"
     },
     {
       "added_at": "2024-10-15 13:52:46",
@@ -121,22 +221,6 @@
       "url": "https://open.spotify.com/track/3CQRItEPfTkBTbr6QJoY8n"
     },
     {
-      "added_at": "2024-09-27 18:53:35",
-      "album": {
-        "name": "You For Christmas",
-        "url": "https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 174004,
-      "name": "You For Christmas",
-      "url": "https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN"
-    },
-    {
       "added_at": "2024-10-11 16:41:18",
       "album": {
         "name": "Have Yourself a Merry Little Christmas",
@@ -167,6 +251,22 @@
       "duration_ms": 132800,
       "name": "Winter Wonderland - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
+    },
+    {
+      "added_at": "2024-10-25 14:34:39",
+      "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5pQdEFWD5UCJgoaBG8jtKI"
+      },
+      "artists": [
+        {
+          "name": "Matthew Ifield",
+          "url": "https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI"
+        }
+      ],
+      "duration_ms": 177418,
+      "name": "I\u2019ll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/359h3brFjcorgReFRjS6bx"
     },
     {
       "added_at": "2024-08-30 16:49:56",
@@ -647,38 +747,6 @@
     {
       "added_at": "2024-08-30 16:49:56",
       "album": {
-        "name": "Deck The Halls",
-        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "Fancy Like Christmas",
-        "url": "https://open.spotify.com/album/15ArXIAaelY4fohwqQdzmT"
-      },
-      "artists": [
-        {
-          "name": "Walker Hayes",
-          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
-        }
-      ],
-      "duration_ms": 161853,
-      "name": "Fancy Like Christmas",
-      "url": "https://open.spotify.com/track/0kO59Q18sOo4HmZWQSUVyr"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
         "name": "Have You Heard of Christmas?",
         "url": "https://open.spotify.com/album/7lG5kp3WDqPlIap6aPJVLd"
       },
@@ -709,22 +777,6 @@
       "url": "https://open.spotify.com/track/6o2GLLmYIkzbtqxotheeKe"
     },
     {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "Driving Home For Christmas",
-        "url": "https://open.spotify.com/album/2s5ysICaCqCOlJtdwTVcu0"
-      },
-      "artists": [
-        {
-          "name": "Angelina Jordan",
-          "url": "https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb"
-        }
-      ],
-      "duration_ms": 240641,
-      "name": "Driving Home For Christmas",
-      "url": "https://open.spotify.com/track/1c0UgIyXeO3ivN5ak6ywZN"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "It's Tonight",
@@ -739,42 +791,6 @@
       "duration_ms": 165376,
       "name": "It's Tonight",
       "url": "https://open.spotify.com/track/3PRAHq4iWrBA51Se3EkcR8"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "Under The Tree",
-        "url": "https://open.spotify.com/album/5U25anIJWmH57WGzfqs6HP"
-      },
-      "artists": [
-        {
-          "name": "Ally Brooke",
-          "url": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
-        },
-        {
-          "name": "Dinah Jane",
-          "url": "https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/1uCJxPGpqw7PAC6RrMkv0F"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "Koe Wetzel Presents...Wetzel's Wonderland",
-        "url": "https://open.spotify.com/album/6Eaa6S7K1DUq4dRa0fvNga"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 172794,
-      "name": "Please Come Home For Christmas",
-      "url": "https://open.spotify.com/track/6aE8AlwAqqvnhlthMLrSj3"
     },
     {
       "added_at": "2024-09-27 18:53:35",
@@ -811,22 +827,6 @@
       "duration_ms": 243520,
       "name": "WINTER WITHOUT YOU",
       "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
-    },
-    {
-      "added_at": "2024-08-30 16:49:56",
-      "album": {
-        "name": "A Timeless Christmas",
-        "url": "https://open.spotify.com/album/5IBq0A7yHPkYX9xf6tAEsi"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 215342,
-      "name": "A Timeless Christmas",
-      "url": "https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF"
     }
   ],
   "unique_name": "New Music Holiday",

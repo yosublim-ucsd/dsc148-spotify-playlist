@@ -4,7 +4,7 @@
 
 > Fresh country music by independent artists every Wednesday\. Cover: SirLockeHolmes, Artwork: Fanélie Muselier
 
-2,748 songs - 6 day 4 hr 52 min
+2,749 songs - 6 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,6 +773,7 @@
 | [Fast Forever](https://open.spotify.com/track/3N0ziiVtqQOnNGGGGyoyWg) | [Matt Gorman](https://open.spotify.com/artist/3auezSKINVsH57RnAwltDR), [Kaylin Roberson](https://open.spotify.com/artist/0AywuUmKBjTTsU4ZrVf7JS) | [Fast Forever](https://open.spotify.com/album/3GGjNyMZc5KbpaJe5ZP4n7) | 3:29 | 2022-06-08 | 2022-07-21 |
 | [Faster](https://open.spotify.com/track/2J7EY9bk3Oqzptv2OUX0Z8) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [Faster](https://open.spotify.com/album/6cXPx415yA2FwFrXmZAuAR) | 3:05 | 2023-04-19 | 2023-06-01 |
 | [Faster Than a Tractor](https://open.spotify.com/track/6ABylz887tGvWuuJfYouby) | [Schmitty](https://open.spotify.com/artist/5mQw15vCNMnhD6LO8suS7b) | [Faster Than a Tractor](https://open.spotify.com/album/41RnKREPo36SN4TMjQgNm1) | 3:15 | 2024-10-09 |  |
+| [Father in a Bible](https://open.spotify.com/track/3Z4QzgjewJHpiZEk2puD4D) | [Jonas Conner](https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv) | [Father in a Bible](https://open.spotify.com/album/26lP4nrMKZjuJlMOJUz9K8) | 2:38 | 2024-10-25 |  |
 | [Favorite Dress](https://open.spotify.com/track/0VEcsPyO4X6PumB8Iy79Sv) | [Brooks Hoffman](https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q) | [Favorite Dress](https://open.spotify.com/album/5zF1FrN4VYwsSx5LQEhSoZ) | 3:01 | 2024-01-17 | 2024-03-07 |
 | [Favorite Heartbreak](https://open.spotify.com/track/0Utgtxl79uhN9TT5WGeha0) | [Mary Kate Farmer](https://open.spotify.com/artist/11ha0H11IFm1GO416F07kf) | [Favorite Heartbreak](https://open.spotify.com/album/6cyYTxvbtbjaog6LHWKNac) | 4:05 | 2022-02-09 | 2022-03-24 |
 | [Favour](https://open.spotify.com/track/2K47W38rvfOASoqawZIqrB) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Favour](https://open.spotify.com/album/0EnVfjlgTDgpnzLaAuGrPc) | 3:02 | 2023-09-20 | 2023-11-30 |

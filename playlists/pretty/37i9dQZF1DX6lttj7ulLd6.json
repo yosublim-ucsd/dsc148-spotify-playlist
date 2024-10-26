@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 244030,
+  "num_followers": 244308,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Sudden Burst Of Energy",
-        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
-      },
-      "artists": [
-        {
-          "name": "Earl Klugh",
-          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
-        }
-      ],
-      "duration_ms": 287626,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "citynights",
         "url": "https://open.spotify.com/album/4uYrJhj8oQGKm2UoocoMGF"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 134980,
       "name": "citynights",
       "url": "https://open.spotify.com/track/4a5ydZOgONWaxaFMN4bmyx"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Sudden Burst Of Energy",
+        "url": "https://open.spotify.com/album/7ARlMCZiY2GDXn0WUioRqj"
+      },
+      "artists": [
+        {
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
+        }
+      ],
+      "duration_ms": 287626,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/3L3GwtfPpOl0Qbq3Md15fT"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 276360,
-      "name": "Deep Touch",
-      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/11cJrPEgWk8xpK8MqRegfd"
       },
@@ -347,22 +331,18 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Pearls",
-        "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
       },
       "artists": [
         {
-          "name": "Gail Jhonson",
-          "url": "https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc"
-        },
-        {
-          "name": "Nelson Braxton",
-          "url": "https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Pacific Breeze",
-      "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
+      "duration_ms": 276360,
+      "name": "Deep Touch",
+      "url": "https://open.spotify.com/track/6t7taWgrWVlV86UuxmMyLW"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -379,6 +359,26 @@
       "duration_ms": 322306,
       "name": "In The City",
       "url": "https://open.spotify.com/track/5sjpxYrH0KVtDs6mWGbY7C"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/6KcEJQThVXSuKpBojJs0bF"
+      },
+      "artists": [
+        {
+          "name": "Gail Jhonson",
+          "url": "https://open.spotify.com/artist/4cJqqVAJDLFbCEFQDSrwcc"
+        },
+        {
+          "name": "Nelson Braxton",
+          "url": "https://open.spotify.com/artist/3Jd4iNOHLWDkR3hAER3GLt"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Pacific Breeze",
+      "url": "https://open.spotify.com/track/2dYkPKqJHjz9GIQ33grJaN"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 263960,
-      "name": "Pop's Cool Groove",
-      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Working Buttons",
         "url": "https://open.spotify.com/album/1mVGzvC6G2EyX4uVMFuUfe"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 270025,
       "name": "Working Buttons",
       "url": "https://open.spotify.com/track/2KVOhGRZ4TjY3cXnnt40nn"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4SSbfr7UxfTE09XSRUu4Nl"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Pop's Cool Groove",
+      "url": "https://open.spotify.com/track/1ABAAlwDD1HW3pGCA7ReUJ"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 258398,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Little Tokyo",
         "url": "https://open.spotify.com/album/4OtCVYtmUw5oJ7fSyRqbMQ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 195333,
       "name": "Little Tokyo",
       "url": "https://open.spotify.com/track/6KH7ps7H92gdLQcfIHpoc6"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 258398,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Big Dume",
-        "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
-      },
-      "artists": [
-        {
-          "name": "Citronium",
-          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
-        }
-      ],
-      "duration_ms": 230101,
-      "name": "Big Dume",
-      "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Divine Morning",
         "url": "https://open.spotify.com/album/4sR1UNCsD2Q8wrNPCh80jS"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 213813,
       "name": "Divine Morning",
       "url": "https://open.spotify.com/track/76NCiXYW0Be1Cxgi6tXXX7"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Big Dume",
+        "url": "https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk"
+      },
+      "artists": [
+        {
+          "name": "Citronium",
+          "url": "https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX"
+        }
+      ],
+      "duration_ms": 230101,
+      "name": "Big Dume",
+      "url": "https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "duration_ms": 227328,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
         "name": "White Sand",
         "url": "https://open.spotify.com/album/1rUIdXNTlE56EvLLsvyXy8"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 279880,
       "name": "More Or Les Paul",
       "url": "https://open.spotify.com/track/3xOHBpfwg3oaRvgi6xZXCw"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/0ETUDbr9SDuqPDz0Dau0G5"
-      },
-      "artists": [
-        {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
-        }
-      ],
-      "duration_ms": 227328,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/1qlNWZGVTcyrCyfeTJgUFD"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Emily",
-        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Everett",
-          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
-        }
-      ],
-      "duration_ms": 244874,
-      "name": "The Last Kiss",
-      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "On Top Of Your Game",
         "url": "https://open.spotify.com/album/5h0gY72fOLWScMTejDedln"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 166377,
       "name": "On Top Of Your Game",
       "url": "https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Emily",
+        "url": "https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Everett",
+          "url": "https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI"
+        }
+      ],
+      "duration_ms": 244874,
+      "name": "The Last Kiss",
+      "url": "https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "The Catwalk",
-        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 207812,
-      "name": "The Catwalk",
-      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+        "name": "The Catwalk",
+        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
       },
       "artists": [
         {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
         }
       ],
-      "duration_ms": 324213,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
+      "duration_ms": 207812,
+      "name": "The Catwalk",
+      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1243,6 +1227,22 @@
       "duration_ms": 253815,
       "name": "Just One Wish",
       "url": "https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 324213,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 283266,
+      "name": "Eye 2 Eye",
+      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 247746,
       "name": "Mallorca",
       "url": "https://open.spotify.com/track/5AJjIjpa2eFM7HH1IAlDoN"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Eye 2 Eye",
-      "url": "https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 259360,
-      "name": "Dry Your Eyes",
-      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
-    },
-    {
-      "added_at": "2024-10-08 11:46:38",
-      "album": {
         "name": "High Pines",
         "url": "https://open.spotify.com/album/6bmeCbUhX9z5ep5GitTDB2"
       },
@@ -1603,18 +1587,34 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Big Jon",
-        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
       },
       "artists": [
         {
-          "name": "Lou Lizza",
-          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
         }
       ],
-      "duration_ms": 230886,
-      "name": "Big Jon",
-      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
+      "duration_ms": 259360,
+      "name": "Dry Your Eyes",
+      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
+    },
+    {
+      "added_at": "2024-10-08 11:46:38",
+      "album": {
+        "name": "Melrose Avenue",
+        "url": "https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0"
+      },
+      "artists": [
+        {
+          "name": "Melrose Avenue",
+          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
+        }
+      ],
+      "duration_ms": 175930,
+      "name": "Melrose Avenue",
+      "url": "https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA"
     },
     {
       "added_at": "2024-10-08 11:46:38",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-10-08 11:46:38",
       "album": {
-        "name": "Melrose Avenue",
-        "url": "https://open.spotify.com/album/5E4dQbOoOdl3LQIKFWbuT0"
+        "name": "Big Jon",
+        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
       },
       "artists": [
         {
-          "name": "Melrose Avenue",
-          "url": "https://open.spotify.com/artist/6tbVfkdVtrSqHtNdgEjMc1"
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
         }
       ],
-      "duration_ms": 175930,
-      "name": "Melrose Avenue",
-      "url": "https://open.spotify.com/track/4uWBdsYOAqJhkfzpLWbEsA"
+      "duration_ms": 230886,
+      "name": "Big Jon",
+      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
     },
     {
       "added_at": "2024-10-08 11:46:38",

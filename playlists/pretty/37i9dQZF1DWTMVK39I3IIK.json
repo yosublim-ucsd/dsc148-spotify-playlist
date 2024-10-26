@@ -227,6 +227,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Til Solen Er Sort",
+        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 224175,
+      "name": "Til Solen Er Sort",
+      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Det Hele Handler Om Dig",
         "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 174240,
       "name": "DET V\u00c6RSTE VED DIG (feat. Ida Laurberg)",
       "url": "https://open.spotify.com/track/6AzeApPdgk5mSF02oRsRCV"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Til Solen Er Sort",
-        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 224175,
-      "name": "Til Solen Er Sort",
-      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -327,18 +327,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
       },
       "artists": [
         {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "DR\u00d8MMEHUG",
         "url": "https://open.spotify.com/album/7wPXbzrGAJodvAM3MIEQuV"
       },
@@ -395,8 +411,8 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
+        "name": "Kan Du M\u00e6rke Suset?",
+        "url": "https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty"
       },
       "artists": [
         {
@@ -404,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
+      "duration_ms": 240917,
+      "name": "Klip Klap Sandaler",
+      "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -443,22 +459,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "SAMBA",
-        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Under Vand",
-      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "When you wake up",
         "url": "https://open.spotify.com/album/12MEBuyqwcRS7iEdQP2GwY"
       },
@@ -475,6 +475,38 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "SAMBA",
+        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Under Vand",
+      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Gi' Mig Lige",
         "url": "https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA"
       },
@@ -487,22 +519,6 @@
       "duration_ms": 161608,
       "name": "Gi' Mig Lige",
       "url": "https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Det er din k\u00e6rlighed",
-        "url": "https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0"
-      },
-      "artists": [
-        {
-          "name": "Blaue Blume",
-          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
-        }
-      ],
-      "duration_ms": 227698,
-      "name": "Det er din k\u00e6rlighed",
-      "url": "https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -543,22 +559,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Kan Du M\u00e6rke Suset?",
-        "url": "https://open.spotify.com/album/05Eo5mjVxE3CJWR6mI59Ty"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 240917,
-      "name": "Klip Klap Sandaler",
-      "url": "https://open.spotify.com/track/0H2DdxpCOXES3vw1dNmf4V"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Elendig Software",
         "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
       },
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Det er din k\u00e6rlighed",
+        "url": "https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0"
+      },
+      "artists": [
+        {
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+        }
+      ],
+      "duration_ms": 227698,
+      "name": "Det er din k\u00e6rlighed",
+      "url": "https://open.spotify.com/track/7MbUd0HARZRtjqbvx14wi6"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "D\u00e9r (feat. Wads.png)",
         "url": "https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E"
       },
@@ -611,6 +627,22 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Lige s\u00e5 fucked som mig",
+        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
+      },
+      "artists": [
+        {
+          "name": "Marcus.wav",
+          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
+        }
+      ],
+      "duration_ms": 150488,
+      "name": "Lige s\u00e5 fucked som mig",
+      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "Dans I Morgen",
         "url": "https://open.spotify.com/album/5q2qW7AKv8q6ke68KsLBc7"
       },
@@ -627,22 +659,6 @@
       "duration_ms": 192783,
       "name": "Dans I Morgen (feat. Wads.png)",
       "url": "https://open.spotify.com/track/2spwCio5MgRx2U4hEfRGaf"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Lige s\u00e5 fucked som mig",
-        "url": "https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk"
-      },
-      "artists": [
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 150488,
-      "name": "Lige s\u00e5 fucked som mig",
-      "url": "https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -675,22 +691,6 @@
       "duration_ms": 141653,
       "name": "Bl\u00f8d",
       "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -771,38 +771,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
-      },
-      "artists": [
-        {
-          "name": "Dopha",
-          "url": "https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn"
-        }
-      ],
-      "duration_ms": 185729,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "G\u00e5r Bare",
-        "url": "https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 276824,
-      "name": "G\u00e5r Bare",
-      "url": "https://open.spotify.com/track/4rAB9eZMrJthtG0QbK5C6Y"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Oktobernat",
         "url": "https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV"
       },
@@ -819,6 +787,38 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
+        "name": "Undskyld",
+        "url": "https://open.spotify.com/album/4NXmhhae3kO8EJBrTVmmoQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline",
+          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
+        }
+      ],
+      "duration_ms": 154585,
+      "name": "Undskyld",
+      "url": "https://open.spotify.com/track/1ug3sLJmoOfkAePLrwLaTE"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
+      },
+      "artists": [
+        {
+          "name": "Dopha",
+          "url": "https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn"
+        }
+      ],
+      "duration_ms": 185729,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/364mT4h3GcKYrfkdR6kLK4"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
         "name": "ENGLE & BLAA MAERKER",
         "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 174017,
       "name": "oslo til k\u00f8benhavn",
       "url": "https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "G\u00e5r Bare",
+        "url": "https://open.spotify.com/album/5kXbhTjVsHBCl33NDSawoD"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 276824,
+      "name": "G\u00e5r Bare",
+      "url": "https://open.spotify.com/track/4rAB9eZMrJthtG0QbK5C6Y"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -867,22 +883,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Keep Forgetting",
-        "url": "https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj"
-      },
-      "artists": [
-        {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
-        }
-      ],
-      "duration_ms": 173028,
-      "name": "Keep Forgetting",
-      "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "grib mig hvis jeg falder",
         "url": "https://open.spotify.com/album/4wlR4NXJZVLw4zjfPfkmHj"
       },
@@ -915,18 +915,50 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Undskyld",
-        "url": "https://open.spotify.com/album/4NXmhhae3kO8EJBrTVmmoQ"
+        "name": "Keep Forgetting",
+        "url": "https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj"
       },
       "artists": [
         {
-          "name": "Pauline",
-          "url": "https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl"
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
         }
       ],
-      "duration_ms": 154585,
-      "name": "Undskyld",
-      "url": "https://open.spotify.com/track/1ug3sLJmoOfkAePLrwLaTE"
+      "duration_ms": 173028,
+      "name": "Keep Forgetting",
+      "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Sang Til Min Mor",
+        "url": "https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sten",
+          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
+        }
+      ],
+      "duration_ms": 172885,
+      "name": "Sang Til Min Mor",
+      "url": "https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "I Wanna Dive in the Seven Seas",
+        "url": "https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq"
+      },
+      "artists": [
+        {
+          "name": "School of X",
+          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
+        }
+      ],
+      "duration_ms": 164523,
+      "name": "I Wanna Dive in the Seven Seas",
+      "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -951,22 +983,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Sang Til Min Mor",
-        "url": "https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll"
-      },
-      "artists": [
-        {
-          "name": "\u00d8sten",
-          "url": "https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "Sang Til Min Mor",
-      "url": "https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "1000 H\u00e6nder",
         "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 185760,
       "name": "1000 H\u00e6nder",
       "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
-        "name": "I Wanna Dive in the Seven Seas",
-        "url": "https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq"
-      },
-      "artists": [
-        {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
-        }
-      ],
-      "duration_ms": 164523,
-      "name": "I Wanna Dive in the Seven Seas",
-      "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Ambulance",
-        "url": "https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4"
-      },
-      "artists": [
-        {
-          "name": "Gunge",
-          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
-        }
-      ],
-      "duration_ms": 183607,
-      "name": "Ambulance",
-      "url": "https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr"
-    },
-    {
-      "added_at": "2024-10-24 22:00:00",
-      "album": {
         "name": "Sol Gennem Regn",
         "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2024-10-24 22:00:00",
       "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
+        "name": "Ambulance",
+        "url": "https://open.spotify.com/album/22A62knHn06HMNeyOAHPS4"
       },
       "artists": [
         {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+          "name": "Gunge",
+          "url": "https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Jaloux",
-      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
+      "duration_ms": 183607,
+      "name": "Ambulance",
+      "url": "https://open.spotify.com/track/5Dy6tX5fNswTndKlysuBJr"
     },
     {
       "added_at": "2024-10-24 22:00:00",
@@ -1143,6 +1127,22 @@
       "duration_ms": 176373,
       "name": "L\u00c6ST (feat. Marcus.wav)",
       "url": "https://open.spotify.com/track/4RV9rzJiIZ05AzHYtGeljS"
+    },
+    {
+      "added_at": "2024-10-24 22:00:00",
+      "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Jaloux",
+      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
     },
     {
       "added_at": "2024-10-24 22:00:00",

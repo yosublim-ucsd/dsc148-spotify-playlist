@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Carolina Durante.
 
-202 songs - 10 hr 29 min
+203 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Medalla De Oro A La Mejor Canción de Amor](https://open.spotify.com/track/5sRbPtGGRrkrtJdRU1p6G3) | [Erin Memento](https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp), [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Medalla De Oro A La Mejor Canción De Amor](https://open.spotify.com/album/3SHCY55PM5ueF7hoiFspgN) | 3:27 | 2024-07-25 |  |
 | [Mi Barrio](https://open.spotify.com/track/1dw2PZHbL7HXcbM97S9BdM) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [Mi Barrio](https://open.spotify.com/album/57E7nwWxTOuc3WirxePwmc) | 3:10 | 2024-06-27 | 2024-07-05 |
 | [Mi fábrica de baile Rock](https://open.spotify.com/track/61qYmqAXyKU0wjgIwxOMUL) | [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn), [Camellos](https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW) | [Mi fábrica de baile Rock](https://open.spotify.com/album/0Eqz8IR76mmUbqY3eSSqpQ) | 3:15 | 2024-06-27 |  |
-| [Mi vecino](https://open.spotify.com/track/0HCDbkncaw8CJ4ZGXDGKX7) | [Cumpleaños Un Martes](https://open.spotify.com/artist/2up9boIYhnzyJMXtrHRc7Q) | [Mi vecino](https://open.spotify.com/album/4NRgvc0LkXuOWQAhvhxJHi) | 2:48 | 2024-07-25 |  |
+| [Mi vecino](https://open.spotify.com/track/0HCDbkncaw8CJ4ZGXDGKX7) | [Cumpleaños Un Martes](https://open.spotify.com/artist/2up9boIYhnzyJMXtrHRc7Q) | [Mi vecino](https://open.spotify.com/album/4NRgvc0LkXuOWQAhvhxJHi) | 2:48 | 2024-07-25 | 2024-10-26 |
 | [Misil](https://open.spotify.com/track/6M6ucWnHHexdjFYx1whr2M) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Misil](https://open.spotify.com/album/31dexdfSL262BCQPRBZrMq) | 2:53 | 2024-09-26 | 2024-10-18 |
 | [Momento PULP](https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5) | [Mediapunta](https://open.spotify.com/artist/5xY6SlOCuhGk2SW4Zx2dkx), [Sidonie](https://open.spotify.com/artist/2pMVWkucVS130nJx59uAEa) | [Momento PULP](https://open.spotify.com/album/0x4EvxP1QMWmTrirTRl13U) | 2:12 | 2024-07-11 | 2024-09-20 |
 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 | 2024-06-27 |  |
@@ -131,6 +131,7 @@
 | [No te has enterado](https://open.spotify.com/track/6jg5hvORuoaKpxTsDBDXdg) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [No te has enterado](https://open.spotify.com/album/3BJipr3byeHNGPV6TWdrK9) | 3:10 | 2024-06-27 | 2024-07-27 |
 | [No te voy a besar](https://open.spotify.com/track/1T8bKys2joybtOc4EXMHiZ) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM), [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [No te voy a besar](https://open.spotify.com/album/4MPVjhtqzZhy5oSheLrjEp) | 2:27 | 2024-06-27 | 2024-08-09 |
 | [No va a doler](https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW) | [Tenda](https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS) | [No va a doler](https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1) | 2:40 | 2024-06-27 |  |
+| [Normal](https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X) | 2:30 | 2024-10-25 |  |
 | [Nuestro Mejor Momento](https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Reconciliación](https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA) | 2:34 | 2024-06-27 | 2024-10-18 |
 | [nunca voy a decirte lo que quiero decirte](https://open.spotify.com/track/4p0Cbn2Hq30afyP6AyPfef) | [Paco Te Quiero](https://open.spotify.com/artist/5da84dECf86iCOP1dchjJc), [Quinto Cuarta](https://open.spotify.com/artist/2fH1mvehvpyUjJOqdhrUCH) | [13m² con trastos de por medio](https://open.spotify.com/album/3NTJpNjsxmvblquqWCfrRF) | 3:31 | 2024-08-01 | 2024-09-06 |
 | [O Todos o Ninguno](https://open.spotify.com/track/1yXB3vkiBKhOMYIIbStiP8) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [O Todos o Ninguno](https://open.spotify.com/album/5Lequ6yHwYYoT6SNS2wTuB) | 3:49 | 2024-06-27 |  |

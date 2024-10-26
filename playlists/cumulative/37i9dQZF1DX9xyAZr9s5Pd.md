@@ -4,7 +4,7 @@
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-99 songs - 5 hr 37 min
+100 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Nudos](https://open.spotify.com/track/2rMcMfA9vNbXBHMKKYBacM) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Residencia Azul](https://open.spotify.com/album/7a0NP5cqVBLSe6YofHXcGL) | 4:40 | 2023-09-22 |  |
 | [Nunca Nunca](https://open.spotify.com/track/01RidTuR638AM20oXDqD1u) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nunca Nunca](https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6) | 2:51 | 2023-09-22 | 2024-08-03 |
 | [Puquio](https://open.spotify.com/track/7AU74ElllykOv422FjsU1E) | [Triste Domingo](https://open.spotify.com/artist/5wWTQAmSqsyuPXtjNm0oos) | [Puquio](https://open.spotify.com/album/4gLcpquRoWzxLjF0451BD6) | 2:56 | 2023-09-22 | 2023-09-30 |
+| [Quema o Ilumina](https://open.spotify.com/track/0rzDbuKT9rF1bgfHLL96lu) | [La Zorra Zapata](https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5) | [Quema o Ilumina](https://open.spotify.com/album/7j8xxj87pZFSbvdNgxxTpb) | 3:09 | 2024-10-25 |  |
 | [Quiero Verte Así](https://open.spotify.com/track/1i9wjyXgsdGFbY8ZeRaThL) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb), [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Quiero Verte Así](https://open.spotify.com/album/1IOjKmdCCz7Ci6ZRnv2b3j) | 3:04 | 2023-09-22 | 2024-07-06 |
 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 | 2023-09-22 |  |
 | [Radio Capital](https://open.spotify.com/track/4RryeZ8UEUYuN4K6x4Quxr) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Nuestra](https://open.spotify.com/album/6e5qfLCN4V5x4aH0cMX4dO) | 4:32 | 2024-07-31 |  |
@@ -99,7 +100,7 @@
 | [Te Vi Mudar](https://open.spotify.com/track/7Akzl1WkuD75hZzmr0oJxU) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Te Vi Mudar](https://open.spotify.com/album/56QdvJzTIUDA3IisAblZhz) | 2:54 | 2023-09-22 | 2024-08-01 |
 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 | 2023-09-22 |  |
 | [Tenerlo Todo](https://open.spotify.com/track/4A1AUgroSbwqntkE5wZjW5) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 3:07 | 2023-09-29 | 2024-02-17 |
-| [Tobogán Amarillo](https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF) | [Efecto Gloria](https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR) | [Tobogán Amarillo](https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26) | 4:31 | 2023-09-22 |  |
+| [Tobogán Amarillo](https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF) | [Efecto Gloria](https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR) | [Tobogán Amarillo](https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26) | 4:31 | 2023-09-22 | 2024-10-26 |
 | [Todo Está Mejor](https://open.spotify.com/track/135CDJyX7CNJ55vBEsK1bZ) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Todo Está Mejor](https://open.spotify.com/album/1oY5hKTTwplywgqrKKzGdE) | 3:23 | 2023-09-22 |  |
 | [Tutorial Para Olvidarme de Ti](https://open.spotify.com/track/0S5tLL40N5MtaxbYLEfjkT) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [Tutorial Para Olvidarme de Ti](https://open.spotify.com/album/0rFXbUb5ZLQs4xPBNKUprC) | 3:16 | 2023-09-29 |  |
 | [Ver Tus Ojos Mirándome](https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Ver Tus Ojos Mirándome](https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1) | 3:30 | 2024-03-01 |  |

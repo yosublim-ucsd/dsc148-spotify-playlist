@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Kapo, Manuel Turizo",
-  "num_followers": 964941,
+  "num_followers": 964936,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2024-10-21 17:08:14",
       "album": {
+        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
+      },
+      "artists": [
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
+      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
+    },
+    {
+      "added_at": "2024-10-21 17:08:14",
+      "album": {
         "name": "Tienes Que Saber",
         "url": "https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 180563,
       "name": "Tienes Que Saber",
       "url": "https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k"
-    },
-    {
-      "added_at": "2024-10-21 17:08:14",
-      "album": {
-        "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-        "url": "https://open.spotify.com/album/6myqNV7RDwJGb0l5ESGT7a"
-      },
-      "artists": [
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
-      "url": "https://open.spotify.com/track/6vYVTjrP8Nd6nsdjCrabM5"
     },
     {
       "added_at": "2024-10-21 17:08:14",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-10-21 17:08:14",
       "album": {
-        "name": "INSOMNIO",
-        "url": "https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 218710,
-      "name": "INSOMNIO",
-      "url": "https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi"
-    },
-    {
-      "added_at": "2024-10-21 17:08:14",
-      "album": {
         "name": "AUNQUE NO DIGAS NADA",
         "url": "https://open.spotify.com/album/10LYVh7Y40t39fhiQnIzEX"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 182969,
       "name": "AUNQUE NO DIGAS NADA",
       "url": "https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII"
+    },
+    {
+      "added_at": "2024-10-21 17:08:14",
+      "album": {
+        "name": "INSOMNIO",
+        "url": "https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 218710,
+      "name": "INSOMNIO",
+      "url": "https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi"
     },
     {
       "added_at": "2024-10-21 17:08:14",

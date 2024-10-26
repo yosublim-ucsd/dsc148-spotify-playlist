@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 222000,
       "name": "Baianidade Nag\u00f4",
       "url": "https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 202906,
       "name": "Caetano",
       "url": "https://open.spotify.com/track/7iAca5b6rUy0NW6rkmwEp4"
@@ -3451,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "Deixa Florescer",
+        "url": "https://open.spotify.com/album/2DReGxGd2EVlR4x2wE56gO"
+      },
+      "artists": [
+        {
+          "name": "AL\u00ca",
+          "url": "https://open.spotify.com/artist/6zdHDBmiRPPdRqiv5MacRF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Deixa Florescer",
+      "url": "https://open.spotify.com/track/3jcoj5dT14jtXSR2HI7rZS"
+    },
+    {
+      "album": {
         "name": "deixa fluir",
         "url": "https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez"
       },
@@ -4840,6 +4858,24 @@
       "duration_ms": 186428,
       "name": "Eu Pensei Muito na Gente",
       "url": "https://open.spotify.com/track/2rTrI2Ci5DlokeE7odH4SU"
+    },
+    {
+      "album": {
+        "name": "Por onde vim",
+        "url": "https://open.spotify.com/album/7iI41Am8ZLLC8MK6JRrRY4"
+      },
+      "artists": [
+        {
+          "name": "N\u00edcolas C\u00e2ndido",
+          "url": "https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159279,
+      "name": "Eu Quis",
+      "url": "https://open.spotify.com/track/0FAaKPjbObb5mWwJnXP8gx"
     },
     {
       "album": {
@@ -12083,6 +12119,24 @@
     },
     {
       "album": {
+        "name": "Tempo Voa",
+        "url": "https://open.spotify.com/album/43ugavm4tgG3EjBnHL0TEZ"
+      },
+      "artists": [
+        {
+          "name": "Marina Gold",
+          "url": "https://open.spotify.com/artist/1GfTasH0hygCtSWWMszVjI"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160268,
+      "name": "Tempo Voa",
+      "url": "https://open.spotify.com/track/3TekRNSHjjijQ2SIcY9k1C"
+    },
+    {
+      "album": {
         "name": "Tenha Do Seu Lado",
         "url": "https://open.spotify.com/album/3xbo5AXOm0UgWVt71j52d3"
       },
@@ -14196,7 +14250,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 229366,
       "name": "\u00c1guias e Sereias",
       "url": "https://open.spotify.com/track/0hwTBgo6SYOUyvOmSESHAu"

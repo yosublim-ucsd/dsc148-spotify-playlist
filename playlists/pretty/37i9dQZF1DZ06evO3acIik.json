@@ -1,29 +1,13 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 59226,
+  "num_followers": 59246,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAAhhi9NADj9n0i7eAa0pOaz",
+  "snapshot_id": "ZxmOAAAAAABg+gumsSvKZEpzWovB7jxW",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182330,
-      "name": "It\u2019s Gonna\u2019 Cost You",
-      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
-    },
     {
       "added_at": null,
       "album": {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 168258,
-      "name": "What\u2019s It Take to Be a Star?",
-      "url": "https://open.spotify.com/track/3dH64MK2MPbar7Zbn1yMtF"
+      "duration_ms": 182330,
+      "name": "It\u2019s Gonna\u2019 Cost You",
+      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
     },
     {
       "added_at": null,
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 276279,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5cyMPZoc97YPHHC3gH5lVq"
+      "duration_ms": 168258,
+      "name": "What\u2019s It Take to Be a Star?",
+      "url": "https://open.spotify.com/track/3dH64MK2MPbar7Zbn1yMtF"
     },
     {
       "added_at": null,

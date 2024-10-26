@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 140857,
       "name": "1000mg",
       "url": "https://open.spotify.com/track/2uohrCJ6tRjqn7Z7kJdkci"
@@ -7017,6 +7017,32 @@
     },
     {
       "album": {
+        "name": "KUSTOM",
+        "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "NO LOS VI",
+      "url": "https://open.spotify.com/track/6YK1IzUpJwI5TGEG1qw3M7"
+    },
+    {
+      "album": {
         "name": "No Me Habla de Amor",
         "url": "https://open.spotify.com/album/5b2m9DI0iAUahK7S4Regqh"
       },
@@ -8297,6 +8323,24 @@
     },
     {
       "album": {
+        "name": "Presidentes Muertos",
+        "url": "https://open.spotify.com/album/2GrdQxBJrFv7fW4Qc3CNqK"
+      },
+      "artists": [
+        {
+          "name": "Muerejoven",
+          "url": "https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142343,
+      "name": "Presidentes Muertos",
+      "url": "https://open.spotify.com/track/2W7lQJmidiaQczitjNEvzu"
+    },
+    {
+      "album": {
         "name": "PRESO Y MOSTROSIAO",
         "url": "https://open.spotify.com/album/1xZ55Sg97LBPYzu0fuw1LV"
       },
@@ -8334,7 +8378,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 157800,
       "name": "Puedo Hacer Bulla",
       "url": "https://open.spotify.com/track/0vXG1R1NWwozmmTIbtbwmF"

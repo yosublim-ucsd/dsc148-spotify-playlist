@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-110 songs - 5 hr 28 min
+111 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2023-07-18 |  |
 | [GODFATHER](https://open.spotify.com/track/4bY7k88P0CiTKSh8E0Qlzi) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:00 | 2024-01-30 | 2024-04-07 |
 | [Goin' Off](https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Goin' Off](https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM) | 2:43 | 2024-07-01 |  |
+| [Gym](https://open.spotify.com/track/0ymXuNYPbXMaL4d6VytNEi) | [Sarba Maan](https://open.spotify.com/artist/1XXOjhwvCOtj5IeYwbOb6J) | [Gym](https://open.spotify.com/album/2d77Q3SZRxyJ8CmXrBzif2) | 3:19 | 2024-10-25 |  |
 | [Hathyar \- From "Sikander 2"](https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/54MDNPrVZ6rT83ZEgZzTGN) | [Hathyar \(From "Sikander 2"\)](https://open.spotify.com/album/1eRa0g0SMEr9yfDzdnWQ93) | 4:36 | 2023-07-18 | 2024-09-07 |
 | [I Wish \(From "Pendu Boyz"\)](https://open.spotify.com/track/0KaRiO1uAtJemzUsxiuDEc) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Pendu Boyz](https://open.spotify.com/artist/77gJmotGj52JsPMGuFuvBW) | [I Wish \(From "Pendu Boyz"\)](https://open.spotify.com/album/4BfaidXSbgIq5DYLnSO3sy) | 2:14 | 2024-09-18 |  |
 | [In Love](https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [In Love](https://open.spotify.com/album/0vFXFLu6H6IfNwRJXpy4wS) | 2:41 | 2024-05-09 | 2024-06-04 |
@@ -62,7 +63,7 @@
 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2023-07-18 | 2024-09-13 |
 | [Jigra](https://open.spotify.com/track/4PlWvbhxBHxUbeAKyX5rVh) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:37 | 2023-07-18 | 2024-01-31 |
 | [Jinni Jatt Di](https://open.spotify.com/track/44B9rXYjgW6QDUxuLka0t3) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Jinni Jatt Di](https://open.spotify.com/album/6nJ2oPfMZl2qMSwopJCaW0) | 2:42 | 2024-09-19 | 2024-10-09 |
-| [Kanka De Ohle](https://open.spotify.com/track/04q9KIf4RgMyBHH5FmJIOU) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Goreyan Naal Lagdi Zameen Jatt Di](https://open.spotify.com/album/0umKWUtsijnA7OU35IxCxY) | 3:30 | 2024-10-08 |  |
+| [Kanka De Ohle](https://open.spotify.com/track/04q9KIf4RgMyBHH5FmJIOU) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Goreyan Naal Lagdi Zameen Jatt Di](https://open.spotify.com/album/0umKWUtsijnA7OU35IxCxY) | 3:30 | 2024-10-08 | 2024-10-26 |
 | [Kehar](https://open.spotify.com/track/5G82r4EkL411mLie4ABcTc) | [Ravneet Singh](https://open.spotify.com/artist/4c29UldvyWU7vZpIlAkpjX) | [Kehar](https://open.spotify.com/album/5AmcI4eEVmB1VXWI59mLVP) | 1:43 | 2024-09-05 | 2024-09-17 |
 | [Khabi Khan](https://open.spotify.com/track/3ISqXwplm7BOlaOgoAEqGK) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Jhindi](https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2) | [The Hood](https://open.spotify.com/album/0qkvEZD47o0t4oLD5rSKEk) | 2:49 | 2024-06-03 |  |
 | [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 | 2024-04-06 |  |

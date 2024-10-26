@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "The latest and the greatest of CHH!  Cover: <a href=\"spotify:artist:0GdzQJqgRL5SHp7kXOKba0\">Anike</a>",
+  "description": "The latest and the greatest of CHH!  Cover: <a href=\"spotify:artist:7r3HxO330lmabOprT2MMFK\">Aklesso</a>",
   "name": "The Blaze",
   "tracks": [
     {
@@ -38,6 +38,54 @@
       "duration_ms": 149651,
       "name": "100%",
       "url": "https://open.spotify.com/track/0QMCaSrgTpVVMRuDkWu6Jb"
+    },
+    {
+      "album": {
+        "name": "1of1",
+        "url": "https://open.spotify.com/album/3yTCyHpITMLl7AvpG1NgPG"
+      },
+      "artists": [
+        {
+          "name": "Reece Lache\u2019",
+          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
+        },
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        },
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188625,
+      "name": "1of1",
+      "url": "https://open.spotify.com/track/0yeKUxqgOqaZpGKELhZJ7o"
+    },
+    {
+      "album": {
+        "name": "33024",
+        "url": "https://open.spotify.com/album/6qXjfDCXFah9IDhWuFQpGY"
+      },
+      "artists": [
+        {
+          "name": "Fern",
+          "url": "https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp"
+        },
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161777,
+      "name": "33024",
+      "url": "https://open.spotify.com/track/6j6Ls5RcvMPfDHvgGX8CZI"
     },
     {
       "album": {
@@ -100,6 +148,24 @@
       "duration_ms": 180000,
       "name": "All We Do Is Win",
       "url": "https://open.spotify.com/track/5mAkhECaD84xyV7xrakEeY"
+    },
+    {
+      "album": {
+        "name": "Autumn Archives",
+        "url": "https://open.spotify.com/album/4HaWXGWhO2ETId0Cz9l4eD"
+      },
+      "artists": [
+        {
+          "name": "TKE3",
+          "url": "https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124316,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/2tPNIBuvukYxrWvfGNw8Rw"
     },
     {
       "album": {
@@ -252,7 +318,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 129998,
       "name": "Bando",
       "url": "https://open.spotify.com/track/2D3D4imqPTuwPSdGDMQgRM"
@@ -270,7 +336,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 135211,
       "name": "Baptized Freestyle",
       "url": "https://open.spotify.com/track/1zN1KTOKCSpADnzDBAlEAJ"
@@ -292,7 +358,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 150857,
       "name": "Battlecry",
       "url": "https://open.spotify.com/track/29Qxw6eUU2NJv4OxpzSl0r"
@@ -310,7 +376,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 259534,
       "name": "BE",
       "url": "https://open.spotify.com/track/6g0GJJrBJeLlgKfq940wct"
@@ -452,6 +518,24 @@
       "duration_ms": 163843,
       "name": "Blow Up Again",
       "url": "https://open.spotify.com/track/4Jm5MJ2pDYGXeoRPF7um4A"
+    },
+    {
+      "album": {
+        "name": "Minimal",
+        "url": "https://open.spotify.com/album/54P0JmEuIAWi24Chhqx0Nt"
+      },
+      "artists": [
+        {
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153116,
+      "name": "Blue Collar Kid",
+      "url": "https://open.spotify.com/track/3qFE2OpGiPI4nFMZmKfOSU"
     },
     {
       "album": {
@@ -632,6 +716,32 @@
       "duration_ms": 143653,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/4yrqHxAUBDU6Uwrcn3oVo9"
+    },
+    {
+      "album": {
+        "name": "CHECK",
+        "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
+      },
+      "artists": [
+        {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/0OCXDPJfXimosx1KgjGDcZ"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "CHECK",
+      "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
     },
     {
       "album": {
@@ -820,7 +930,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 114380,
       "name": "DNA",
       "url": "https://open.spotify.com/track/1suyyv8oQ2TxG3jnalWImm"
@@ -878,6 +988,28 @@
       "duration_ms": 135697,
       "name": "Echoes of the Innocent",
       "url": "https://open.spotify.com/track/2w3xsKxgMOmIf9yjHX6bhO"
+    },
+    {
+      "album": {
+        "name": "Indifferent",
+        "url": "https://open.spotify.com/album/6XyxC6dVhm67qCtLDslX2l"
+      },
+      "artists": [
+        {
+          "name": "Jekasole",
+          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
+        },
+        {
+          "name": "Made",
+          "url": "https://open.spotify.com/artist/3rpMFsPJ2Kz9diHGS0amYd"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170674,
+      "name": "Enough 4 Me",
+      "url": "https://open.spotify.com/track/52hJc27pQXKpeNJyzYWdwA"
     },
     {
       "album": {
@@ -939,6 +1071,32 @@
     },
     {
       "album": {
+        "name": "Father We Declare",
+        "url": "https://open.spotify.com/album/3rL19E0P92E592NhhgycgN"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "Churemi",
+          "url": "https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140281,
+      "name": "Father We Declare",
+      "url": "https://open.spotify.com/track/6fDCxjnAQbcizv2yvzztGY"
+    },
+    {
+      "album": {
         "name": "Father's Hands",
         "url": "https://open.spotify.com/album/1BjbrQF7U5F7A6x5Qsv4OE"
       },
@@ -954,6 +1112,36 @@
       "duration_ms": 160945,
       "name": "Father's Hands",
       "url": "https://open.spotify.com/track/2SeSqnyrdeBG4J3DDKdxSo"
+    },
+    {
+      "album": {
+        "name": "Favor",
+        "url": "https://open.spotify.com/album/0s3Ynz1H05xtlQSaR8nFOo"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        },
+        {
+          "name": "RoyzNoyz Orchestra",
+          "url": "https://open.spotify.com/artist/7AViaGhODpwOzcsmigbnxA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165893,
+      "name": "Favor",
+      "url": "https://open.spotify.com/track/6q8yy8DfUMVmdmwozYx6Gu"
     },
     {
       "album": {
@@ -1183,6 +1371,28 @@
     },
     {
       "album": {
+        "name": "GET UP",
+        "url": "https://open.spotify.com/album/5aD0Jz2J2uCw6TtS3ELBvq"
+      },
+      "artists": [
+        {
+          "name": "Bachi",
+          "url": "https://open.spotify.com/artist/0UxLIXwTMV2w2a28RJqRAK"
+        },
+        {
+          "name": "Chuck Acid",
+          "url": "https://open.spotify.com/artist/6o9wQiCJvuOnTi2RrtuuQT"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "GET UP (feat. Chuck Acid)",
+      "url": "https://open.spotify.com/track/7q3vxlgVfZfJYzMWAPpZAF"
+    },
+    {
+      "album": {
         "name": "Give It All Up",
         "url": "https://open.spotify.com/album/0M7WJrssUDCLMwHFMAZNEP"
       },
@@ -1346,7 +1556,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 165915,
       "name": "God Made A Way",
       "url": "https://open.spotify.com/track/4Ce0uJlX2vUWZpd7MMw4ub"
@@ -1372,6 +1582,24 @@
       "duration_ms": 178360,
       "name": "God Of My Dreams",
       "url": "https://open.spotify.com/track/0iCoAvCGdcS8il7ZcGvCop"
+    },
+    {
+      "album": {
+        "name": "God Will Do It",
+        "url": "https://open.spotify.com/album/31cVVvdBg8mGJK6T0XnZPk"
+      },
+      "artists": [
+        {
+          "name": "Eugy Official",
+          "url": "https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228251,
+      "name": "God Will Do It",
+      "url": "https://open.spotify.com/track/5cRIHy9TcMWHvqaUnsaPUZ"
     },
     {
       "album": {
@@ -1667,6 +1895,32 @@
     },
     {
       "album": {
+        "name": "Holy Stepper",
+        "url": "https://open.spotify.com/album/5dXbDmEv5lcmuCBRJ3S8VS"
+      },
+      "artists": [
+        {
+          "name": "Nu Tone",
+          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+        },
+        {
+          "name": "Christ Jr",
+          "url": "https://open.spotify.com/artist/0K6nL5WlOn54yzjNE0Erho"
+        },
+        {
+          "name": "Key'ijah",
+          "url": "https://open.spotify.com/artist/5bLqm0pB0l0J5hRMXajA0S"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134300,
+      "name": "Holy Stepper",
+      "url": "https://open.spotify.com/track/4zfn2LNoR0fI0OEhGkLufZ"
+    },
+    {
+      "album": {
         "name": "I'm Blessed",
         "url": "https://open.spotify.com/album/1ZbvtR1tRd2FhcOrLSE8Ep"
       },
@@ -1902,7 +2156,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 152583,
       "name": "LEAD EM",
       "url": "https://open.spotify.com/track/4gKAT4PFV9nhUPUGkrwq5w"
@@ -2043,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "Like David",
+        "url": "https://open.spotify.com/album/2djMiScHHNVIwpSGUOhH77"
+      },
+      "artists": [
+        {
+          "name": "Hyper Fenton",
+          "url": "https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Like David",
+      "url": "https://open.spotify.com/track/0kFpKOsHn5G7gZPocxDOpK"
+    },
+    {
+      "album": {
         "name": "LIMITLess",
         "url": "https://open.spotify.com/album/1usawQGJbhgyHrVSo41jKy"
       },
@@ -2098,6 +2370,28 @@
       "duration_ms": 173322,
       "name": "Long Time Coming",
       "url": "https://open.spotify.com/track/33XcqFjd71BJv7I4k1u17X"
+    },
+    {
+      "album": {
+        "name": "Look!",
+        "url": "https://open.spotify.com/album/62giXwwo0xOAoWQeCSLSzD"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        },
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176766,
+      "name": "Look!",
+      "url": "https://open.spotify.com/track/1LxRUnVsyUu1aHFgi4wuSh"
     },
     {
       "album": {
@@ -2268,7 +2562,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 198000,
       "name": "Mindset",
       "url": "https://open.spotify.com/track/2GM9GCocCGGvRSnqrV6xan"
@@ -2408,6 +2702,24 @@
       "duration_ms": 221208,
       "name": "My Fault",
       "url": "https://open.spotify.com/track/3Y66V48mt4CSx5e4M2h5hH"
+    },
+    {
+      "album": {
+        "name": "My God Is Yeshua",
+        "url": "https://open.spotify.com/album/5n0WDWDrQG1JRojiX3hpeD"
+      },
+      "artists": [
+        {
+          "name": "BigGucciDame",
+          "url": "https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92380,
+      "name": "My God Is Yeshua",
+      "url": "https://open.spotify.com/track/4BuDmSXrWp1FL5KWJxGV8O"
     },
     {
       "album": {
@@ -2703,6 +3015,28 @@
     },
     {
       "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/2WnF68iy9kUreSNVsmJAdZ"
+      },
+      "artists": [
+        {
+          "name": "Swat",
+          "url": "https://open.spotify.com/artist/0CQpEzzQecM9nFBkLkMpme"
+        },
+        {
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/24PALXqmCJnQ9j5CmpzodB"
+    },
+    {
+      "album": {
         "name": "Childhood Trauma",
         "url": "https://open.spotify.com/album/0GMP21tyFRTv74Fcstcnhf"
       },
@@ -2861,6 +3195,24 @@
     },
     {
       "album": {
+        "name": "Talk To Me Nice (Vol. II)",
+        "url": "https://open.spotify.com/album/1YrPImu6gIWvcdaul7RObH"
+      },
+      "artists": [
+        {
+          "name": "Jered Sanders",
+          "url": "https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170152,
+      "name": "Press",
+      "url": "https://open.spotify.com/track/09nVAPb8lvgHXaaigTbUnW"
+    },
+    {
+      "album": {
         "name": "Pricey",
         "url": "https://open.spotify.com/album/5ybiBxaaj1JqPhSlbe3IUc"
       },
@@ -3006,7 +3358,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 175890,
       "name": "Readjust",
       "url": "https://open.spotify.com/track/7BT9FmLbpJzRc3uPGNaIdc"
@@ -3082,7 +3434,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 173996,
       "name": "Run It",
       "url": "https://open.spotify.com/track/6UGlminTw9LD5STGwZJDQ0"
@@ -3126,7 +3478,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 117333,
       "name": "saint",
       "url": "https://open.spotify.com/track/0fj8HNzH8sG7NDODtrz5EX"
@@ -3790,7 +4142,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 187272,
       "name": "Theme Music",
       "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
@@ -3881,6 +4233,28 @@
     },
     {
       "album": {
+        "name": "UNBROKEN",
+        "url": "https://open.spotify.com/album/5sEgDPPQvMeLjDGC9xN1ve"
+      },
+      "artists": [
+        {
+          "name": "DizzyEight",
+          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
+        },
+        {
+          "name": "Musicality",
+          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204269,
+      "name": "UNBROKEN",
+      "url": "https://open.spotify.com/track/1njd3FIbMLMlAxg2w6itGD"
+    },
+    {
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1VELwOMtJkOqrMycG7tr2M"
       },
@@ -3914,7 +4288,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 137836,
       "name": "watercolors.",
       "url": "https://open.spotify.com/track/4evVTz1xt4U03g0FAGY6XJ"
@@ -3940,6 +4314,24 @@
       "duration_ms": 92598,
       "name": "We Need Jesus",
       "url": "https://open.spotify.com/track/4ZIRQ5S97jx8jzn51gnVNE"
+    },
+    {
+      "album": {
+        "name": "What's Up (Turn Me Up)",
+        "url": "https://open.spotify.com/album/1d4tajRKoxbEjqMOKQewCE"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130196,
+      "name": "What's Up (Turn Me Up)",
+      "url": "https://open.spotify.com/track/0W1SV8W43Ulktie46IFGCd"
     },
     {
       "album": {
@@ -4044,7 +4436,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 205630,
       "name": "Won\u2019t get blocked",
       "url": "https://open.spotify.com/track/2AiuMb1aZIg2JfSYwDOTum"
@@ -4146,7 +4538,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 122996,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/4nxZRDVno0HJ8aulsFfr5z"

@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. Foto: Melanie Williams y el pr\u00edncipe idiota.",
-  "num_followers": 23639,
+  "num_followers": 23642,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHPMAAAAACp4qRaD45jn1eejuHZhmvg",
+  "snapshot_id": "ZxsJsAAAAAAvMZF775hY+roJxeiy9SNz",
   "tracks": [
     {
       "added_at": "2024-10-25 03:00:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Vamos a Destruir",
-        "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        }
-      ],
-      "duration_ms": 250621,
-      "name": "Cangrejal",
-      "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "YASS",
         "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 185390,
       "name": "HAT TRICK",
       "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Vamos a Destruir",
+        "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "duration_ms": 250621,
+      "name": "Cangrejal",
+      "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Una Temporada en el Invierno",
+        "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 236081,
+      "name": "Una Temporada en el Invierno",
+      "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "\u00a1COCOLICHE!",
         "url": "https://open.spotify.com/album/0UJ7FMovXa4A7wkB2sxq0R"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 203680,
       "name": "Legendario",
       "url": "https://open.spotify.com/track/3R54U7BN5efkU8aGZQUzF2"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Una Temporada en el Invierno",
-        "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 236081,
-      "name": "Una Temporada en el Invierno",
-      "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "ya soy, ya tengo",
+        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
+      },
+      "artists": [
+        {
+          "name": "Tarsitano",
+          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
+        }
+      ],
+      "duration_ms": 249245,
+      "name": "ya soy, ya tengo",
+      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "D\u00eda del Trabajador",
         "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "ya soy, ya tengo",
-        "url": "https://open.spotify.com/album/7sLpt0HqSqdIaLvwwQuV8L"
-      },
-      "artists": [
-        {
-          "name": "Tarsitano",
-          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
-        }
-      ],
-      "duration_ms": 249245,
-      "name": "ya soy, ya tengo",
-      "url": "https://open.spotify.com/track/1Xfzs3OXZg5aZ6pSj64ngb"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Caminar en Cristal",
         "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 144179,
       "name": "Caminar en Cristal",
       "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "HIJA DE RUTA",
-        "url": "https://open.spotify.com/album/5K7TbLA4SM88TQAxJ8s7rT"
-      },
-      "artists": [
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        }
-      ],
-      "duration_ms": 202183,
-      "name": "LAS DUDAS Y LAS DEUDAS",
-      "url": "https://open.spotify.com/track/17zGXdUhsGEIESPojAjx5b"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -715,6 +699,22 @@
       "duration_ms": 192137,
       "name": "Oh my goth",
       "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "HIJA DE RUTA",
+        "url": "https://open.spotify.com/album/5K7TbLA4SM88TQAxJ8s7rT"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "duration_ms": 202183,
+      "name": "LAS DUDAS Y LAS DEUDAS",
+      "url": "https://open.spotify.com/track/17zGXdUhsGEIESPojAjx5b"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "No Mor\u00ed",
-        "url": "https://open.spotify.com/album/5Wf6Min2kFIKeRpSnj0B0E"
-      },
-      "artists": [
-        {
-          "name": "Mostruo!",
-          "url": "https://open.spotify.com/artist/5Q3EFP1RdiY8cF6S4QktgE"
-        }
-      ],
-      "duration_ms": 183203,
-      "name": "No Mor\u00ed",
-      "url": "https://open.spotify.com/track/2hQmLzDJP2D4iPVseYJixK"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Una Comedia Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "No Mor\u00ed",
+        "url": "https://open.spotify.com/album/5Wf6Min2kFIKeRpSnj0B0E"
+      },
+      "artists": [
+        {
+          "name": "Mostruo!",
+          "url": "https://open.spotify.com/artist/5Q3EFP1RdiY8cF6S4QktgE"
+        }
+      ],
+      "duration_ms": 183203,
+      "name": "No Mor\u00ed",
+      "url": "https://open.spotify.com/track/2hQmLzDJP2D4iPVseYJixK"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Malambo de Acero",
         "url": "https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "siempre es para siempre",
-        "url": "https://open.spotify.com/album/7gWuUD2e7J9Xc0DqweZYJW"
-      },
-      "artists": [
-        {
-          "name": "Feli Ruiz",
-          "url": "https://open.spotify.com/artist/4uptLcxRqdhbxwAfRt6ra5"
-        }
-      ],
-      "duration_ms": 203136,
-      "name": "siempre es para siempre",
-      "url": "https://open.spotify.com/track/0fPn4lvrye4Qa4Cf0mvF64"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Bar de Playa",
         "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Otra Galaxia",
-        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
+        "name": "siempre es para siempre",
+        "url": "https://open.spotify.com/album/7gWuUD2e7J9Xc0DqweZYJW"
       },
       "artists": [
         {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+          "name": "Feli Ruiz",
+          "url": "https://open.spotify.com/artist/4uptLcxRqdhbxwAfRt6ra5"
         }
       ],
-      "duration_ms": 189940,
-      "name": "Otra Galaxia",
-      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
+      "duration_ms": 203136,
+      "name": "siempre es para siempre",
+      "url": "https://open.spotify.com/track/0fPn4lvrye4Qa4Cf0mvF64"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -987,38 +971,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "El Buen Fantasma",
-        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+        "name": "Otra Galaxia",
+        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
       },
       "artists": [
         {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
         }
       ],
-      "duration_ms": 179539,
-      "name": "El Buen Fantasma",
-      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "El rock and roll pas\u00f3 de moda",
-        "url": "https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        },
-        {
-          "name": "Lucas Jaubet",
-          "url": "https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr"
-        }
-      ],
-      "duration_ms": 241297,
-      "name": "El rock and roll pas\u00f3 de moda",
-      "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
+      "duration_ms": 189940,
+      "name": "Otra Galaxia",
+      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1035,58 +999,6 @@
       "duration_ms": 159576,
       "name": "Corriendo",
       "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
-        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
-      },
-      "artists": [
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        }
-      ],
-      "duration_ms": 220473,
-      "name": "Haku - Bonus Track",
-      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "de la primavera",
-        "url": "https://open.spotify.com/album/6fZoeGXByVt4ziEO5Qq16y"
-      },
-      "artists": [
-        {
-          "name": "Fabi\u00e1n Iurino",
-          "url": "https://open.spotify.com/artist/1kLxWQetwoCarthpSjQCFS"
-        },
-        {
-          "name": "Tarsitano",
-          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
-        }
-      ],
-      "duration_ms": 205589,
-      "name": "de la primavera",
-      "url": "https://open.spotify.com/track/5IIT3mioxX2tfHW1tRJGfU"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1111,6 +1023,74 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "El rock and roll pas\u00f3 de moda",
+        "url": "https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        },
+        {
+          "name": "Lucas Jaubet",
+          "url": "https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr"
+        }
+      ],
+      "duration_ms": 241297,
+      "name": "El rock and roll pas\u00f3 de moda",
+      "url": "https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Mala (Edici\u00f3n Mal\u00edsima)",
+        "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
+      },
+      "artists": [
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "duration_ms": 220473,
+      "name": "Haku - Bonus Track",
+      "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "El Buen Fantasma",
+        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 179539,
+      "name": "El Buen Fantasma",
+      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Los Halcones",
         "url": "https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz"
       },
@@ -1131,34 +1111,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Exquisito como el Disgusto",
-        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
+        "name": "de la primavera",
+        "url": "https://open.spotify.com/album/6fZoeGXByVt4ziEO5Qq16y"
       },
       "artists": [
         {
-          "name": "Socorro",
-          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Boca de Dama",
-      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "NEFERTITI",
-        "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
-      },
-      "artists": [
+          "name": "Fabi\u00e1n Iurino",
+          "url": "https://open.spotify.com/artist/1kLxWQetwoCarthpSjQCFS"
+        },
         {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+          "name": "Tarsitano",
+          "url": "https://open.spotify.com/artist/33bFzRzGGTXNRuQsPlsjXG"
         }
       ],
-      "duration_ms": 156198,
-      "name": "NEFERTITI",
-      "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
+      "duration_ms": 205589,
+      "name": "de la primavera",
+      "url": "https://open.spotify.com/track/5IIT3mioxX2tfHW1tRJGfU"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1183,6 +1151,38 @@
       "duration_ms": 202827,
       "name": "NT al sol",
       "url": "https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "NEFERTITI",
+        "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 156198,
+      "name": "NEFERTITI",
+      "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Exquisito como el Disgusto",
+        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
+      },
+      "artists": [
+        {
+          "name": "Socorro",
+          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Boca de Dama",
+      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Cae la noche",
+        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+      },
+      "artists": [
+        {
+          "name": "BATOS",
+          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+        }
+      ],
+      "duration_ms": 244144,
+      "name": "Cae la noche",
+      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Mala Influencia",
         "url": "https://open.spotify.com/album/5cLzpXDcunNag0msGWI67P"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Cae la noche",
-        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+        "name": "Amor Express",
+        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
       },
       "artists": [
         {
-          "name": "BATOS",
-          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
         }
       ],
-      "duration_ms": 244144,
-      "name": "Cae la noche",
-      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+      "duration_ms": 214409,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1271,22 +1287,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Amor Express",
-        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
-      },
-      "artists": [
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        }
-      ],
-      "duration_ms": 214409,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Lapso",
         "url": "https://open.spotify.com/album/2CBql5YfVAaFq8GuDSu1KU"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Que te iba a Decir",
-        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
-      },
-      "artists": [
-        {
-          "name": "Santiago Moraes",
-          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        }
-      ],
-      "duration_ms": 381577,
-      "name": "Botas encontradas",
-      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Pesadillas",
         "url": "https://open.spotify.com/album/0S98zSKihNZ8WNw3KGluM8"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 142801,
       "name": "Pesadillas",
       "url": "https://open.spotify.com/track/1CD1rmHm8SsjewjqjqjGzW"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "Que te iba a Decir",
+        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
+      },
+      "artists": [
+        {
+          "name": "Santiago Moraes",
+          "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
+        }
+      ],
+      "duration_ms": 381577,
+      "name": "Botas encontradas",
+      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Entre L\u00edneas",
+        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
+      },
+      "artists": [
+        {
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Entre L\u00edneas",
+      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "Turbo",
         "url": "https://open.spotify.com/album/49tEJtF1IL4DTjIDmGXTSN"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 186352,
       "name": "Turbo",
       "url": "https://open.spotify.com/track/3gKDYEoRzHmeIL8B5yuILr"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
-        "name": "Entre L\u00edneas",
-        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
-      },
-      "artists": [
-        {
-          "name": "Cerro Dubl\u00edn",
-          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Entre L\u00edneas",
-      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
+        "name": "Distintas Frecuencias",
+        "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
+      },
+      "artists": [
+        {
+          "name": "Fantasmagoria",
+          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
+        }
+      ],
+      "duration_ms": 242547,
+      "name": "Distintas Frecuencias",
+      "url": "https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
         "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
         "url": "https://open.spotify.com/album/0PnriiCEp6ekPu6twNZ0SD"
       },
@@ -1475,18 +1491,26 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Distintas Frecuencias",
-        "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
+        "name": "Nokia 1100 (Recreo's Version) / Terraplanistas.mp3",
+        "url": "https://open.spotify.com/album/2m5ub94hReyIxDAkXxY9PE"
       },
       "artists": [
         {
-          "name": "Fantasmagoria",
-          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
+          "name": "Recreo Uruguayo",
+          "url": "https://open.spotify.com/artist/3jqihnUiBnGtwsqjYVVXZ1"
+        },
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        },
+        {
+          "name": "Justo B Fornaroli",
+          "url": "https://open.spotify.com/artist/5hIcFzrzUvL4n6Ntz1draz"
         }
       ],
-      "duration_ms": 242547,
-      "name": "Distintas Frecuencias",
-      "url": "https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV"
+      "duration_ms": 124992,
+      "name": "Nokia 1100 (Recreo's Version)",
+      "url": "https://open.spotify.com/track/69yHFCm63qP6ivEm9SIARG"
     },
     {
       "added_at": "2024-10-25 03:00:00",
@@ -1527,30 +1551,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "Nokia 1100 (Recreo's Version) / Terraplanistas.mp3",
-        "url": "https://open.spotify.com/album/2m5ub94hReyIxDAkXxY9PE"
-      },
-      "artists": [
-        {
-          "name": "Recreo Uruguayo",
-          "url": "https://open.spotify.com/artist/3jqihnUiBnGtwsqjYVVXZ1"
-        },
-        {
-          "name": "Carmen S\u00e1nchez Viamonte",
-          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
-        },
-        {
-          "name": "Justo B Fornaroli",
-          "url": "https://open.spotify.com/artist/5hIcFzrzUvL4n6Ntz1draz"
-        }
-      ],
-      "duration_ms": 124992,
-      "name": "Nokia 1100 (Recreo's Version)",
-      "url": "https://open.spotify.com/track/69yHFCm63qP6ivEm9SIARG"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Desconsuelo",
         "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-10-25 03:00:00",
       "album": {
-        "name": "No digas que no te avis\u00e9",
-        "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
-      },
-      "artists": [
-        {
-          "name": "Riel",
-          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
-        }
-      ],
-      "duration_ms": 266472,
-      "name": "No digas que no te avis\u00e9",
-      "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
-    },
-    {
-      "added_at": "2024-10-25 03:00:00",
-      "album": {
         "name": "Fantas\u00edas de Violencia",
         "url": "https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 253177,
       "name": "Los Carritos",
       "url": "https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i"
+    },
+    {
+      "added_at": "2024-10-25 03:00:00",
+      "album": {
+        "name": "No digas que no te avis\u00e9",
+        "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "duration_ms": 266472,
+      "name": "No digas que no te avis\u00e9",
+      "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
     },
     {
       "added_at": "2024-10-25 03:00:00",

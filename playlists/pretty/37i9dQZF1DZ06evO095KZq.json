@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 436399,
+  "num_followers": 436440,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAACWAKTPa8PgCzA/Vnf47lxO",
+  "snapshot_id": "ZxmOAAAAAADGf9LIbdQCbi84EqmT4uP8",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tatuado",
+        "url": "https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "El Tatuado",
+      "url": "https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Zool\u00f3gico (En Vivo)",
         "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 216770,
       "name": "Lupe Campos",
       "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tatuado",
-        "url": "https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "El Tatuado",
-      "url": "https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs"
     },
     {
       "added_at": null,
@@ -587,18 +587,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Selectivo",
-        "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
+        "name": "Al Rey Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
+        "url": "https://open.spotify.com/album/2OSScqwUyJf5gtMfj93T2b"
       },
       "artists": [
         {
+          "name": "Banda Lirio",
+          "url": "https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8"
+        },
+        {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 187743,
-      "name": "El Selectivo",
-      "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
+      "duration_ms": 156307,
+      "name": "Cuatro Caminos",
+      "url": "https://open.spotify.com/track/3ZRed7OJLXiSvfl0Ikv0qH"
     },
     {
       "added_at": null,
@@ -623,26 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Rey Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
-        "url": "https://open.spotify.com/album/2OSScqwUyJf5gtMfj93T2b"
+        "name": "El Selectivo",
+        "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
       },
       "artists": [
         {
-          "name": "Banda Lirio",
-          "url": "https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8"
-        },
-        {
           "name": "El Fantasma",
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 156307,
-      "name": "Cuatro Caminos",
-      "url": "https://open.spotify.com/track/3ZRed7OJLXiSvfl0Ikv0qH"
+      "duration_ms": 187743,
+      "name": "El Selectivo",
+      "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' los Recuerdos, Vol. 3",
-        "url": "https://open.spotify.com/album/1o06mmQbAcZrYFlCZzINP0"
+        "name": "Carteles Vol.II",
+        "url": "https://open.spotify.com/album/4hQbl2LAy1TsgZSKU6RRWz"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 146775,
-      "name": "Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/6LhMqt2flhSBwwnS3Z5GyJ"
+      "duration_ms": 223769,
+      "name": "El 40 (Durango)",
+      "url": "https://open.spotify.com/track/190XkXskGUN2G7lVuetvYB"
     }
   ],
   "unique_name": "This Is El Fantasma",

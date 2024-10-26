@@ -4,7 +4,7 @@
 
 > Listen to all her biggest hits, in one place.
 
-135 songs - 8 hr 25 min
+136 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Diamond Heart](https://open.spotify.com/track/45CPhDilfgK14IE7LbNvPh) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:30 | 2022-05-09 | 2024-04-07 |
 | [Diamond Heart](https://open.spotify.com/track/5XtD05pQ1m23DcBIKdwdnP) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Best of Pop Rock](https://open.spotify.com/album/1yGSn27sbvhbVkanaszYFs) | 3:30 | 2022-05-09 | 2022-11-13 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 |  |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 |  |
 | [Do I Love You](https://open.spotify.com/track/7fGcPsneoxIweHKdc14vlw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 4:48 | 2021-10-02 | 2021-10-16 |
 | [Do What U Want](https://open.spotify.com/track/5XKXMWPACPq51OiqzxenZo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Do What U Want](https://open.spotify.com/album/5R9DO1cXTOaw9p7nd2emkm) | 3:36 | 2024-04-06 |  |
 | [Dream Dancing](https://open.spotify.com/track/7kjzAKTVd9umvnChTkzTNd) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Love For Sale \(Deluxe\)](https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs) | 4:16 | 2021-10-02 | 2021-10-16 |
@@ -133,7 +134,7 @@
 | [The Fame](https://open.spotify.com/track/3a3OdMmkt8eUhsdpDmea1s) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [2000年代に流行った洋楽!](https://open.spotify.com/album/3iUSCE0uE5euGQZZV3wCNu) | 3:42 | 2022-05-09 | 2022-11-13 |
 | [Til It Happens To You](https://open.spotify.com/track/6qbVuxXUPRgHb6rHkbqj7w) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Best Picture Songs](https://open.spotify.com/album/2ShESlgYXG8P8N4G7eX36T) | 4:18 | 2022-05-09 | 2022-11-13 |
 | [Til It Happens To You](https://open.spotify.com/track/0bCCGLHflR08UVA6oJJc8I) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Til It Happens To You](https://open.spotify.com/album/00qjYaNSNpQCZHhCpAlH60) | 4:18 | 2022-05-09 | 2024-04-19 |
-| [Til It Happens To You](https://open.spotify.com/track/2g2vRiOy9jmPCmSrotvGt6) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Til It Happens To You](https://open.spotify.com/album/2ktypfBa9ZEJGzEta36mmE) | 4:18 | 2020-10-16\* |  |
+| [Til It Happens To You](https://open.spotify.com/track/2g2vRiOy9jmPCmSrotvGt6) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Til It Happens To You](https://open.spotify.com/album/2ktypfBa9ZEJGzEta36mmE) | 4:18 | 2020-10-16\* | 2024-10-26 |
 | [Venus](https://open.spotify.com/track/3n3S5cH3IyaOswY2XSUGTS) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:53 | 2022-05-09 | 2024-04-19 |
 | [Venus](https://open.spotify.com/track/628mNrQ2Cs7dAeGz19JeQE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Divas Pop](https://open.spotify.com/album/0LCGxljG8jn5oaJcRItyMj) | 3:53 | 2022-05-09 | 2022-11-13 |
 | [Venus](https://open.spotify.com/track/4m7UoCZhKkIWMjuEfrp1JE) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Venus](https://open.spotify.com/album/6r15S0qfBJoXSNMjGQouGW) | 3:54 | 2020-10-16\* |  |

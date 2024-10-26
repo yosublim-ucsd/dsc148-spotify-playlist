@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia",
-  "num_followers": 22426,
+  "num_followers": 22432,
   "original_name": "Indie Andinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxGqAwAAAAAQwQlYLIywEG0s/TS7H8VZ",
+  "snapshot_id": "ZxsMzgAAAADeBwnintF5frYoNtQBMTdj",
   "tracks": [
     {
       "added_at": "2024-08-23 04:59:00",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN"
     },
     {
+      "added_at": "2024-10-18 00:21:23",
+      "album": {
+        "name": "Calle En El Cielo",
+        "url": "https://open.spotify.com/album/18kXCaZTQf6DsREJvRia2f"
+      },
+      "artists": [
+        {
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
+        }
+      ],
+      "duration_ms": 267662,
+      "name": "Calle En El Cielo",
+      "url": "https://open.spotify.com/track/5OzacFSmfvLUzd3bcLxdHy"
+    },
+    {
       "added_at": "2024-08-23 04:59:00",
       "album": {
         "name": "Los Domingos",
@@ -77,20 +93,20 @@
       "url": "https://open.spotify.com/track/7ArjPcNTIMIPTST10plFKV"
     },
     {
-      "added_at": "2024-10-18 00:21:23",
+      "added_at": "2024-10-25 03:13:17",
       "album": {
-        "name": "Calle En El Cielo",
-        "url": "https://open.spotify.com/album/18kXCaZTQf6DsREJvRia2f"
+        "name": "Quema o Ilumina",
+        "url": "https://open.spotify.com/album/7j8xxj87pZFSbvdNgxxTpb"
       },
       "artists": [
         {
-          "name": "La Vida Boh\u00e8me",
-          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
+          "name": "La Zorra Zapata",
+          "url": "https://open.spotify.com/artist/3BuxRmHMbdWFDtwTQ2lwe5"
         }
       ],
-      "duration_ms": 267662,
-      "name": "Calle En El Cielo",
-      "url": "https://open.spotify.com/track/5OzacFSmfvLUzd3bcLxdHy"
+      "duration_ms": 189626,
+      "name": "Quema o Ilumina",
+      "url": "https://open.spotify.com/track/0rzDbuKT9rF1bgfHLL96lu"
     },
     {
       "added_at": "2024-08-23 04:59:00",
@@ -951,22 +967,6 @@
       "duration_ms": 211000,
       "name": "Wrong",
       "url": "https://open.spotify.com/track/1AgswkAY8csSSfgb2JQkeB"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "Tobog\u00e1n Amarillo",
-        "url": "https://open.spotify.com/album/3i43C2uh0Z6y85UQUU8K26"
-      },
-      "artists": [
-        {
-          "name": "Efecto Gloria",
-          "url": "https://open.spotify.com/artist/1Bl24yyAYpdgZx3xRYD2TR"
-        }
-      ],
-      "duration_ms": 271173,
-      "name": "Tobog\u00e1n Amarillo",
-      "url": "https://open.spotify.com/track/2rpN7T4X1UV0OBydtgIYzF"
     },
     {
       "added_at": "2024-08-23 04:59:00",

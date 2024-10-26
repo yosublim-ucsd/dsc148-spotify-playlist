@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Today's top country hits. Cover: Riley Green",
+  "description": "Today's top country hits. Cover: Kelsea Ballerini",
   "name": "Hot Country",
   "tracks": [
     {
@@ -1788,6 +1788,24 @@
       "duration_ms": 219303,
       "name": "BREAK IT IN A BAR",
       "url": "https://open.spotify.com/track/28dwWN6sZQGBSZuMdCbbQY"
+    },
+    {
+      "album": {
+        "name": "Am I Okay? (I'll Be Fine)",
+        "url": "https://open.spotify.com/album/0AqurYcKg73g81nADrFcyY"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214670,
+      "name": "Break It Right Back",
+      "url": "https://open.spotify.com/track/4UzkT20tkeSqlKLinRQsA7"
     },
     {
       "album": {
@@ -3742,6 +3760,24 @@
       "duration_ms": 169614,
       "name": "Easy To Miss",
       "url": "https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT"
+    },
+    {
+      "album": {
+        "name": "Ends of the Earth",
+        "url": "https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269830,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS"
     },
     {
       "album": {
@@ -8044,7 +8080,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 189356,
       "name": "Lonely Road (with Jelly Roll)",
       "url": "https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN"
@@ -8722,7 +8758,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 172607,
       "name": "Maxed Out",
       "url": "https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq"
@@ -11140,7 +11176,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 183242,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/12AEBgTTELBhtAthd5dRqH"
@@ -13280,6 +13316,24 @@
       "duration_ms": 225694,
       "name": "Thought About You",
       "url": "https://open.spotify.com/track/7kCXmYJeltdnCMMsfwaCsf"
+    },
+    {
+      "album": {
+        "name": "Thought of You",
+        "url": "https://open.spotify.com/album/4BjMK8qsmHLXBHZOyDiiaX"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163242,
+      "name": "Thought of You",
+      "url": "https://open.spotify.com/track/3edfAO2gVxQfUIKWtArAe6"
     },
     {
       "album": {

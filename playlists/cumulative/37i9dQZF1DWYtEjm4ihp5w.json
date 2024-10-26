@@ -2369,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "JEFE",
+        "url": "https://open.spotify.com/album/0eRlilYJYju9RqugJ2BZlM"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "JEFE",
+      "url": "https://open.spotify.com/track/70oobY95oHVXYPpYthV9gz"
+    },
+    {
+      "album": {
         "name": "Alam",
         "url": "https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX"
       },

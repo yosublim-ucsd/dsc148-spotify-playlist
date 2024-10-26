@@ -2,7 +2,7 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z?si=VcgCrDWERjmZOzQot\_HNbA>Solly Moholo</a>
+> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og?si=IYyfPa41TjeStwSPU7D1nA>Ntokozo Mbabo</a>"
 
 316 songs - 1 day 8 hr 47 min
 

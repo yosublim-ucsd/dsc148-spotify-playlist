@@ -2,9 +2,9 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1VHSvZ80JojymAWnajoixt?si=5x3tFQTzQ7acIMkaTkBBqA">Nomfundo Xaluva</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0?si=2m1OIjRLRFa0tE28uktFTw">Letta Mbulu</a>
 
-235 songs - 1 day 1 hr 0 min
+236 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Rites](https://open.spotify.com/track/5XhsgJqFcTac7rNqz0fbx1) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Rites](https://open.spotify.com/album/4b3P5JVBTRdvkLAk8voX40) | 6:34 | 2023-04-11 |  |
 | [Senze' Nina](https://open.spotify.com/track/60ujUkmCYqPQkkZHKtu27b) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Senze' Nina](https://open.spotify.com/album/1KHEsl630n9WdseVpfIDCg) | 5:48 | 2022-04-28 | 2023-03-18 |
 | [Shwabada](https://open.spotify.com/track/7HfrGyoNHb8R5w6HLlvpzv) | [Ndikho Xaba](https://open.spotify.com/artist/7tJTfmFXNe9VJqBnHrurUh) | [Ndikho Xaba and the Natives](https://open.spotify.com/album/4J2J6DHFterE3raQXslAZl) | 12:29 | 2023-11-01 | 2023-11-17 |
+| [Sinamanga \(uMagebhula\)](https://open.spotify.com/track/4fZe1x4UfOPqNIZcmtzrAC) | [Letta Mbulu](https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0) | [Sinamanga \(uMagebhula\)](https://open.spotify.com/album/3YPdyUJ9F9TJBA9Njlmkjl) | 4:05 | 2024-10-25 |  |
 | [Sinivile](https://open.spotify.com/track/08SE0pY4CLGgnr7UMTkWet) | [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [uGaba the Migration](https://open.spotify.com/album/1Igp59kX92saIgyQYTbnm7) | 6:29 | 2022-04-28 | 2023-03-18 |
 | [Siyabulela](https://open.spotify.com/track/54s76VIwiH05zSmyVb80Yv) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Dialectic Soul](https://open.spotify.com/album/00aLg7RLt0Md1MQ8miFWBf) | 8:22 | 2022-04-28 | 2023-03-18 |
 | [Sizwile](https://open.spotify.com/track/3QB6s5or3QwmVEEVAk17HA) | [SPAZA](https://open.spotify.com/artist/0rMjC98w4mx0XqSsBt3Vfw), [Nonku Phiri](https://open.spotify.com/artist/3bvppKM40kKBkO2zZECrBV), [Malcolm Jiyane](https://open.spotify.com/artist/2dY2WSp9Wqi5J4QC8Y2EVK), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Ariel Zamonsky](https://open.spotify.com/artist/3l8BAJoVXRYgVeQIkVNsVb) | [Sizwile](https://open.spotify.com/album/24Z3nH6BHkzb4KUS5xGiEZ) | 8:28 | 2023-11-01 | 2023-11-17 |

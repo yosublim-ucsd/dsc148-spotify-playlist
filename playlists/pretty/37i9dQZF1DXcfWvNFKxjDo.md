@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: YouNotUs, Cheat Codes
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,692 likes - 78 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,729 likes - 78 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cinema](https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Barbz](https://open.spotify.com/artist/06s5q2sH2lnyEbao994fVD) | [Cinema](https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh) | 2:25 |
+| 1 | [Cinema](https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [barbz](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Cinema](https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh) | 2:25 |
 | 2 | [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY) | 2:43 |
 | 3 | [Love The Way You Lie \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/0KEQ6X89UPO4wUFjLoIERl) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Love The Way You Lie \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/5P3i2e0G7OZFlHW6k01qNE) | 2:40 |
 | 4 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 |

@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 146685,
       "name": "1942 (feat. Milar)",
       "url": "https://open.spotify.com/track/69v07HAZ1Gk5pICKGaaATc"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 154199,
       "name": "4 Days",
       "url": "https://open.spotify.com/track/3rljalHuzBYEsuHNyfaB74"
@@ -1885,6 +1885,28 @@
     },
     {
       "album": {
+        "name": "Okada Airlines",
+        "url": "https://open.spotify.com/album/0tryWtXDmIsGPK53e9DBTH"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181111,
+      "name": "Bus Stop Remix (with Young Jonn)",
+      "url": "https://open.spotify.com/track/7Evfsvdd1x1MEysQyEE7fK"
+    },
+    {
+      "album": {
         "name": "Busy Body",
         "url": "https://open.spotify.com/album/6oFUkKyLd51aEtcsFEDBuT"
       },
@@ -3044,7 +3066,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 163008,
       "name": "diallo",
       "url": "https://open.spotify.com/track/4J4wbHGBu104fVNTexTTsF"
@@ -4764,6 +4786,24 @@
       "duration_ms": 224807,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J"
+    },
+    {
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166720,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q"
     },
     {
       "album": {
@@ -7035,6 +7075,24 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
+    },
+    {
+      "album": {
         "name": "Loner (Alone)",
         "url": "https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl"
       },
@@ -8127,6 +8185,28 @@
     },
     {
       "album": {
+        "name": "Mr Heartbreaker",
+        "url": "https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f"
+      },
+      "artists": [
+        {
+          "name": "Rose May Alaba",
+          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Mr Heartbreaker",
+      "url": "https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv"
+    },
+    {
+      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -9046,7 +9126,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 186146,
       "name": "ON MY MIND - OMM",
       "url": "https://open.spotify.com/track/6TqQQ3h7HPmg7piQ7D6rbM"
@@ -10481,6 +10561,28 @@
     },
     {
       "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Saint Tropez",
+      "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"
+    },
+    {
+      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG"
       },
@@ -10794,7 +10896,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 168613,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/7HupMpgxBnu6QgEsJibKU0"

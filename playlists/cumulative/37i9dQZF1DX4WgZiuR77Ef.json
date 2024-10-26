@@ -3949,6 +3949,44 @@
     },
     {
       "album": {
+        "name": "The JB's Tribute Pastor P",
+        "url": "https://open.spotify.com/album/7i8dKoKQVmpqZidUH4Fxzy"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Daru Jones",
+          "url": "https://open.spotify.com/artist/4ePL94kqqEdFhDGGhc7kzi"
+        },
+        {
+          "name": "Harry Mack",
+          "url": "https://open.spotify.com/artist/3XOZM0DtztbmC1IE3amUnn"
+        },
+        {
+          "name": "Clyde Stubblefield",
+          "url": "https://open.spotify.com/artist/687p4CLJvjm9dX82QHgzBf"
+        },
+        {
+          "name": "Fred Wesley",
+          "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
+        },
+        {
+          "name": "John (Jabo) Starks",
+          "url": "https://open.spotify.com/artist/2c2mb74jyj2bluIvHQvXpS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300773,
+      "name": "The JB's Tribute Pastor P",
+      "url": "https://open.spotify.com/track/0DX8pn3evBgD1aWQIH8KZt"
+    },
+    {
+      "album": {
         "name": "Mt. Crushmore",
         "url": "https://open.spotify.com/album/1nTtZzqe4MeFmYqq9x1ewU"
       },
@@ -4460,7 +4498,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 261359,
       "name": "We Outta B Funkin\u2019",
       "url": "https://open.spotify.com/track/13bwv0FluqVWXokMD8Wl7w"

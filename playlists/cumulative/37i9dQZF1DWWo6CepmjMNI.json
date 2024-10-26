@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: VELIKA",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: The Publish",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 240644,
       "name": "1",
       "url": "https://open.spotify.com/track/7C0iw6P8SwYz8FJrN7SGaj"
+    },
+    {
+      "album": {
+        "name": "Octave",
+        "url": "https://open.spotify.com/album/45J3m1slIni8nJNFHoQfiy"
+      },
+      "artists": [
+        {
+          "name": "Yooze",
+          "url": "https://open.spotify.com/artist/0O7J0KNxwF39xS3cEwDfPk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Black Bag",
+      "url": "https://open.spotify.com/track/4DRH6lJ77B6P8ltsRxYNBN"
     },
     {
       "album": {
@@ -310,8 +328,8 @@
       },
       "artists": [
         {
-          "name": "Chao Ding",
-          "url": "https://open.spotify.com/artist/0fULSRNK2lKatw7rVIm7O4"
+          "name": "Chaoding",
+          "url": "https://open.spotify.com/artist/46aXWUEonRAlGQF6eGNxdD"
         }
       ],
       "date_added": "2024-09-13",
@@ -388,7 +406,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 278000,
       "name": "\u0e04\u0e07\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d - Wish",
       "url": "https://open.spotify.com/track/4kLTDvd3JDQG1wvAd2P7uJ"
@@ -432,6 +450,24 @@
       "duration_ms": 250600,
       "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e2b\u0e21\u0e14\u0e44\u0e1b\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e04\u0e48\u0e32\u0e1e\u0e25\u0e31\u0e07\u0e43\u0e08\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e2d\u0e19\u0e31\u0e19\u0e15\u0e4c",
       "url": "https://open.spotify.com/track/3dbpBB3rHghndlXrXb5TF0"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21",
+        "url": "https://open.spotify.com/album/3qFFLMsfrlGZKP4ggBC8iq"
+      },
+      "artists": [
+        {
+          "name": "The Publish",
+          "url": "https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238062,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e27\u0e22\u0e07\u0e32\u0e21",
+      "url": "https://open.spotify.com/track/3ToiAXUfifY3rxIZ01AjYb"
     },
     {
       "album": {
@@ -770,7 +806,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 270400,
       "name": "\u0e1b\u0e34\u0e14\u0e09\u0e32\u0e01 \u0e40\u0e14\u0e34\u0e19\u0e08\u0e32\u0e01\u0e44\u0e1b\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e04\u0e27\u0e32\u0e21\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/6nquKmifNmk8JRy61FkHFx"
@@ -1062,7 +1098,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 363428,
       "name": "\u0e23\u0e48\u0e27\u0e07\u0e42\u0e23\u0e22\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e23\u0e48\u0e33\u0e25\u0e32",
       "url": "https://open.spotify.com/track/2tRF1BmQnXFshPHlnZtZxt"
@@ -1304,6 +1340,24 @@
       "duration_ms": 231975,
       "name": "\u0e2b\u0e32\u0e01\u0e40\u0e27\u0e25\u0e32\u0e22\u0e31\u0e07\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2b\u0e21\u0e32\u0e22 (Disposable)",
       "url": "https://open.spotify.com/track/39mU3qyvw9veZvQkzk5UJi"
+    },
+    {
+      "album": {
+        "name": "\u0e2b\u0e32\u0e22 (Disconnect)",
+        "url": "https://open.spotify.com/album/0Cf6AY1Bjz8DlfdHNs90Uk"
+      },
+      "artists": [
+        {
+          "name": "242",
+          "url": "https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185263,
+      "name": "\u0e2b\u0e32\u0e22 (Disconnect)",
+      "url": "https://open.spotify.com/track/0Gd5NAjYf85OU9FfSfFbhK"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 2024 全新陣容出列！MEET THE FUTURE 見証未來巨星！Cover: 派偉俊 \(Patrick Brasca\) x Tyson Yoshi x 林潔心 \(ddkogi88\) x 斑恩 \(Ben\)
 
-599 songs - 1 day 10 hr 33 min
+600 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [排隊](https://open.spotify.com/track/3eZyBeP7MKYSfeapkq5RcL) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [排隊](https://open.spotify.com/album/4XeMBwFZbyaTpsoUdn4qFX) | 3:57 | 2024-02-15 | 2024-03-29 |
 | [控制](https://open.spotify.com/track/09B5KqX0tg6kYufbpDcC2F) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [控制](https://open.spotify.com/album/1q5bxn0z81TFLdPi4hl29c) | 2:45 | 2023-09-14 | 2023-12-15 |
 | [揣摩](https://open.spotify.com/track/2iVgPTx2uGBwHzre52clg3) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [許光漢](https://open.spotify.com/album/3w2vtxAWKHXvLRIaS5LITp) | 3:51 | 2022-01-20 | 2024-03-29 |
+| [撲火的飛蛾](https://open.spotify.com/track/4s4zKHsHIYQJJKTo8e1sgf) | [ZEO](https://open.spotify.com/artist/7vtia4HP3xY8RPfBLIvkM6), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [撲火的飛蛾](https://open.spotify.com/album/1KogpwW4KG2cthGJKVOkLE) | 3:26 | 2024-10-24 |  |
 | [擁有但不屬於](https://open.spotify.com/track/5t9UX4x1aujbr6moOh88KM) | [胡家誠](https://open.spotify.com/artist/200pQawht4r55tBNrWTVpx) | [擁有但不屬於](https://open.spotify.com/album/1RA8E97keYKxHP8zxTEBYw) | 3:15 | 2023-04-27 | 2024-03-29 |
 | [放棄](https://open.spotify.com/track/5haSd5TSsrNR9G34J1W01V) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [放棄](https://open.spotify.com/album/2MD2XlJ9XntKndK3Pkhec7) | 2:41 | 2023-04-06 | 2024-03-29 |
 | [放過自己](https://open.spotify.com/track/3DfkGi5sU2pqC7upLDccXA) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd), [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [Project Krane](https://open.spotify.com/album/7M5T3FVemUVekZTtjKmKpn) | 4:04 | 2024-01-04 | 2024-03-15 |

@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw?si=I9dDiSTZSGakTlE9s38b\_g>Pastor Emmanuel Iren</a>
 
-3,758 songs - 11 day 8 hr 13 min
+3,760 songs - 11 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1322,6 +1322,7 @@
 | [Higher Oh](https://open.spotify.com/track/5nUwybbWkNDbZ9AFW0gph4) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Higher Oh](https://open.spotify.com/album/0TkYLir20nYtOHsn4YfkLC) | 2:07 | 2024-09-27 | 2024-10-11 |
 | [Higher Than My Fears](https://open.spotify.com/track/3Bym0MG4b08njdti9FfLAz) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Mireya Harris](https://open.spotify.com/artist/1Gn0VXnnCAV6arEb4hjKK5) | [Higher Than My Fears](https://open.spotify.com/album/0sCj55Y9B4iIeiguTAeVwJ) | 3:13 | 2024-03-08 | 2024-03-16 |
 | [Highest Heights](https://open.spotify.com/track/0mLl086x9OEYmZs6Q9uo6P) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Worshippers' Circle](https://open.spotify.com/artist/0ifftjfVRe5U2xnyKXVUpd) | [Highest Heights](https://open.spotify.com/album/6WnDlcOu8bcMxKsbKW8ySq) | 6:04 | 2024-06-07 | 2024-06-21 |
+| [His Glory](https://open.spotify.com/track/0UlKARVLE4ZUNfHLfDgCeA) | [Fransue](https://open.spotify.com/artist/79YtQFOIGhu8oohkpbLGev), [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [His Glory](https://open.spotify.com/album/5z8skZjtwbFCojLBZW00s5) | 2:52 | 2024-10-25 |  |
 | [His Grace](https://open.spotify.com/track/0VAe2hnkwdYmMmOFtfy4qy) | [Lordina The Soprano](https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU) | [Charis](https://open.spotify.com/album/4Qb4BzONaGMy7ByhSzHAjk) | 5:21 | 2023-10-20 | 2023-11-03 |
 | [His Name Is Jesus](https://open.spotify.com/track/0SqNQpJPpyWs8om5qmAsjl) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [His Name Is Jesus](https://open.spotify.com/album/1BzOQH87CoULBydWowkTns) | 2:03 | 2024-09-27 | 2024-10-11 |
 | [His Word](https://open.spotify.com/track/6bxcADd2xbXSZpjSFfiKv0) | [Jamoss](https://open.spotify.com/artist/3HPXTm7pPOlkbG6tBCLYfD) | [His Word](https://open.spotify.com/album/4ODRY69qwrvQocYHRg1oja) | 2:27 | 2024-02-02 | 2024-02-09 |
@@ -3614,6 +3615,7 @@
 | [Yanashangaza](https://open.spotify.com/track/13IMFj8s9ehrpXCriCxtzR) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Yanashangaza](https://open.spotify.com/album/6rcwfHaazv5sH0OJ8AA5SP) | 4:19 | 2024-05-31 | 2024-06-14 |
 | [Yayi Yesu](https://open.spotify.com/track/2ufEtypl1MURxLu8Y5cjbJ) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Yayi Yesu](https://open.spotify.com/album/7pa4o45yqWtEalX3CO8QQp) | 3:55 | 2024-03-01 | 2024-03-16 |
 | [Yaze Yafika leyomini](https://open.spotify.com/track/40EBB0o68HaO8gAUHfb1sQ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Yaze Yafika Leyomini](https://open.spotify.com/album/31ow4h4QzGFia8ODrPBVeA) | 8:02 | 2023-09-29 | 2023-10-14 |
+| [YEA AND AMEN](https://open.spotify.com/track/4JanOMmWQjHkwOq7D2yar9) | [PRITCH](https://open.spotify.com/artist/2o6lXwHCktJEnwX5sZZRTP), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [YEA AND AMEN](https://open.spotify.com/album/0QtSdExaXu7J3C6XjnFkD2) | 9:15 | 2024-10-25 |  |
 | [Yeah Yeah](https://open.spotify.com/track/0xgMPIsSl8xxUIZj0x1wVD) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [Yeah Yeah](https://open.spotify.com/album/7DuDyLFqbQ4XoErRQNgLFu) | 3:01 | 2023-11-17 | 2023-12-01 |
 | [YEHOVA NI](https://open.spotify.com/track/2ug1myRIJfcRIoPVc3iygX) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [YOU ALONE](https://open.spotify.com/album/7ybPs70ROuv9GBYUwidFWN) | 3:43 | 2024-07-19 | 2024-08-02 |
 | [Yehowah](https://open.spotify.com/track/492YSuNMaBPjlxdhPhPyFk) | [Kofi Sarpong](https://open.spotify.com/artist/1GLgANr5EO6eF6dRE91s8K), [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Yehowah](https://open.spotify.com/album/1DHZ2bg3ZJhMDwFeMqQw7Z) | 5:17 | 2024-03-29 | 2024-04-12 |

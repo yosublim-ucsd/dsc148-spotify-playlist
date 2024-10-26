@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Cho Yong Pil(\uc870\uc6a9\ud544)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 377704,
+  "num_followers": 377661,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,22 @@
     {
       "added_at": "2024-10-22 09:00:00",
       "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 193321,
+      "name": "200%",
+      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
+    },
+    {
+      "added_at": "2024-10-22 09:00:00",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
-    },
-    {
-      "added_at": "2024-10-22 09:00:00",
-      "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 193321,
-      "name": "200%",
-      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
     },
     {
       "added_at": "2024-10-22 09:00:00",
@@ -627,18 +627,22 @@
     {
       "added_at": "2024-10-22 09:00:00",
       "album": {
-        "name": "Jay Park Season 3: Dedicated 2 U",
-        "url": "https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 194998,
-      "name": "Dedicated 2 U",
-      "url": "https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ"
+      "duration_ms": 223214,
+      "name": "Love Is Ugly (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
     },
     {
       "added_at": "2024-10-22 09:00:00",
@@ -771,22 +775,18 @@
     {
       "added_at": "2024-10-22 09:00:00",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 223214,
-      "name": "Love Is Ugly (Feat. Hwa Sa)",
-      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
     },
     {
       "added_at": "2024-10-22 09:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-10-22 09:00:00",
       "album": {
-        "name": "LEECHANGSUB PRE-RELEASE <1991>",
-        "url": "https://open.spotify.com/album/10EMWG95AX2RCFkLiMhQEL"
-      },
-      "artists": [
-        {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "vain hope",
-      "url": "https://open.spotify.com/track/0KTepZj73Gl6oJQwdSx5fi"
-    },
-    {
-      "added_at": "2024-10-22 09:00:00",
-      "album": {
         "name": "It\u2032s You",
         "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
+      "added_at": "2024-10-22 09:00:00",
+      "album": {
+        "name": "LEECHANGSUB PRE-RELEASE <1991>",
+        "url": "https://open.spotify.com/album/10EMWG95AX2RCFkLiMhQEL"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "vain hope",
+      "url": "https://open.spotify.com/track/0KTepZj73Gl6oJQwdSx5fi"
     },
     {
       "added_at": "2024-10-22 09:00:00",
@@ -1319,38 +1319,6 @@
     {
       "added_at": "2024-10-22 09:00:00",
       "album": {
-        "name": "\ucc98\uc74c\ucc98\ub7fc",
-        "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
-      "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
-    },
-    {
-      "added_at": "2024-10-22 09:00:00",
-      "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 273292,
-      "name": "Days without you",
-      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2024-10-22 09:00:00",
-      "album": {
         "name": "Red Moon: Beyond The Light",
         "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
       },
@@ -1363,6 +1331,22 @@
       "duration_ms": 244173,
       "name": "The Eternal Moment",
       "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
+    },
+    {
+      "added_at": "2024-10-22 09:00:00",
+      "album": {
+        "name": "\ucc98\uc74c\ucc98\ub7fc",
+        "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
+      "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
     },
     {
       "added_at": "2024-10-22 09:00:00",
@@ -1383,8 +1367,24 @@
     {
       "added_at": "2024-10-22 09:00:00",
       "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS"
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 273292,
+      "name": "Days without you",
+      "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
+    },
+    {
+      "added_at": "2024-10-22 09:00:00",
+      "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
       },
       "artists": [
         {
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
         }
       ],
-      "duration_ms": 150520,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI"
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
     },
     {
       "added_at": "2024-10-22 09:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-10-22 09:00:00",
       "album": {
-        "name": "Counting Days",
-        "url": "https://open.spotify.com/album/0g3wLgXbtmTGUzakbUsrjc"
-      },
-      "artists": [
-        {
-          "name": "Urban Zakapa",
-          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
-        }
-      ],
-      "duration_ms": 236880,
-      "name": "Counting Days",
-      "url": "https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD"
-    },
-    {
-      "added_at": "2024-10-22 09:00:00",
-      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 233813,
       "name": "I Will",
       "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
+    },
+    {
+      "added_at": "2024-10-22 09:00:00",
+      "album": {
+        "name": "Counting Days",
+        "url": "https://open.spotify.com/album/0g3wLgXbtmTGUzakbUsrjc"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "duration_ms": 236880,
+      "name": "Counting Days",
+      "url": "https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD"
     },
     {
       "added_at": "2024-10-22 09:00:00",
@@ -1495,58 +1495,6 @@
     {
       "added_at": "2024-10-22 09:00:00",
       "album": {
-        "name": "Mileage",
-        "url": "https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376"
-      },
-      "artists": [
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 184344,
-      "name": "Mileage (Feat. Gaeko)",
-      "url": "https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m"
-    },
-    {
-      "added_at": "2024-10-22 09:00:00",
-      "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
-      },
-      "artists": [
-        {
-          "name": "YOUNGJAE",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
-    },
-    {
-      "added_at": "2024-10-22 09:00:00",
-      "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
-    },
-    {
-      "added_at": "2024-10-22 09:00:00",
-      "album": {
         "name": "VISTA",
         "url": "https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG"
       },
@@ -1567,6 +1515,58 @@
       "duration_ms": 239259,
       "name": "VISTA (feat. gaeko, THAMA)",
       "url": "https://open.spotify.com/track/7dBgD0N3hnFq8euHEryShz"
+    },
+    {
+      "added_at": "2024-10-22 09:00:00",
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
+      },
+      "artists": [
+        {
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
+    },
+    {
+      "added_at": "2024-10-22 09:00:00",
+      "album": {
+        "name": "Roommates",
+        "url": "https://open.spotify.com/album/5Azd14om1goQJ4koUxhmvS"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 150520,
+      "name": "Roommates",
+      "url": "https://open.spotify.com/track/2FAamYOzmodzpf7x4Yl8UI"
+    },
+    {
+      "added_at": "2024-10-22 09:00:00",
+      "album": {
+        "name": "Mileage",
+        "url": "https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "duration_ms": 184344,
+      "name": "Mileage (Feat. Gaeko)",
+      "url": "https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m"
     },
     {
       "added_at": "2024-10-22 09:00:00",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2024-10-22 09:00:00",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        },
+        {
+          "name": "JEON MI DO",
+          "url": "https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX"
+        }
+      ],
+      "duration_ms": 226480,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
+    },
+    {
+      "added_at": "2024-10-22 09:00:00",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM"
       },
@@ -1683,22 +1703,6 @@
       "duration_ms": 195403,
       "name": "Back In Love",
       "url": "https://open.spotify.com/track/4up9NcBZM7WhYik9jYtQU1"
-    },
-    {
-      "added_at": "2024-10-22 09:00:00",
-      "album": {
-        "name": "5.5 [Dear]",
-        "url": "https://open.spotify.com/album/5Xj2IIbt7LhiFppSWrLB6l"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/6fPdsA80GQ6SwfCC1sO7Y9"
     }
   ],
   "unique_name": "v o K a l",

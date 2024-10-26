@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,581 likes - 60 songs - 3 hr 22 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,579 likes - 63 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,8 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 58 | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/track/31fMJwgrgNdk1IbWZEchX2) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Love You Still \(abcdefu romantic version\)](https://open.spotify.com/album/1XuLPOSr7B79aSSJdL9MRw) | 2:30 |
 | 59 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 60 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
+| 61 | [Less Stress](https://open.spotify.com/track/2bIUrjwlTuuzpMdWFU5pCx) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Easygoing](https://open.spotify.com/album/5I7ecirlZpSSDtUFEQ6XNQ) | 3:20 |
+| 62 | [Mangos](https://open.spotify.com/track/49e50MWToveqr3PjnKFpnM) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Mangos](https://open.spotify.com/album/5xebmA2DGH8Xyg6vmpblkU) | 3:16 |
+| 63 | [Huntley](https://open.spotify.com/track/5sJdlrzaYvCxeSTsQzQ6Db) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Huntley](https://open.spotify.com/album/0HV9T0Zb3gwIeBaZLu2qFd) | 2:59 |
 
-Snapshot ID: `AAAUntK+B+um6wrMUZPDrmVUiI+HBQdM`
+Snapshot ID: `AAAUoQ+HyzmZlIbAR4+vbwht3ULpS5fM`

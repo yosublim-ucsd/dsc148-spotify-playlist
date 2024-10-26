@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "Allodynia",
+        "url": "https://open.spotify.com/album/5UxOfzGbKXLPVW49TlNjgf"
+      },
+      "artists": [
+        {
+          "name": "TNL VZN",
+          "url": "https://open.spotify.com/artist/3di6YoR5j617hBNYJJ9c1h"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150922,
+      "name": "Allodynia",
+      "url": "https://open.spotify.com/track/6StlC5OqkTe7coHvkZRia8"
+    },
+    {
+      "album": {
         "name": "Amputated Satisfaction",
         "url": "https://open.spotify.com/album/7BJC9tg6QeYrXPQDUaTCZq"
       },
@@ -136,7 +154,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 205614,
       "name": "Angels Like You",
       "url": "https://open.spotify.com/track/5VXBAz99xZFPKdevoy3pOh"
@@ -176,6 +194,46 @@
       "duration_ms": 199334,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr"
+    },
+    {
+      "album": {
+        "name": "Bad Motives",
+        "url": "https://open.spotify.com/album/4PiJXeJKNoHWAkjI4MLfmV"
+      },
+      "artists": [
+        {
+          "name": "Alchemize",
+          "url": "https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx"
+        },
+        {
+          "name": "Nathan Biddles",
+          "url": "https://open.spotify.com/artist/4UajuhayMUbreIAuKQ9jsW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235575,
+      "name": "Bad Motives",
+      "url": "https://open.spotify.com/track/7vF708LVxSGzwM8lZEGrnE"
+    },
+    {
+      "album": {
+        "name": "Bandwagoning",
+        "url": "https://open.spotify.com/album/1APnMqioUqVr7gGhj6a9aH"
+      },
+      "artists": [
+        {
+          "name": "Coilguns",
+          "url": "https://open.spotify.com/artist/02NSYcRNKSTchMm72ZigOH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281573,
+      "name": "Bandwagoning",
+      "url": "https://open.spotify.com/track/52I0p8mYztsUhXiOw7NL1n"
     },
     {
       "album": {
@@ -359,6 +417,24 @@
     },
     {
       "album": {
+        "name": "The Art Of Everything",
+        "url": "https://open.spotify.com/album/4aaJ8ggCf9cKIlGUBKvHkq"
+      },
+      "artists": [
+        {
+          "name": "DREGG",
+          "url": "https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "Chaos Garden",
+      "url": "https://open.spotify.com/track/1qgUVeTaGQc5OwupMst5u0"
+    },
+    {
+      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/3GqTUTV709jg7MJ92jdZjh"
       },
@@ -410,6 +486,24 @@
       "duration_ms": 316462,
       "name": "Corrosion",
       "url": "https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl"
+    },
+    {
+      "album": {
+        "name": "Crazy One",
+        "url": "https://open.spotify.com/album/1v3ucRyw7ngZ0axpBMq2nj"
+      },
+      "artists": [
+        {
+          "name": "Felix Weaver",
+          "url": "https://open.spotify.com/artist/1onhmHB21funSEwlwO6B9J"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Crazy One",
+      "url": "https://open.spotify.com/track/19nWPTuIPfi0Cel9Gg6oYx"
     },
     {
       "album": {
@@ -673,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/1yw62H3IO5aBAjNy4HpySd"
+      },
+      "artists": [
+        {
+          "name": "Prospective",
+          "url": "https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182335,
+      "name": "Ethereal",
+      "url": "https://open.spotify.com/track/04oKNMlc4YYWGRXS8NOdGt"
+    },
+    {
+      "album": {
         "name": "Expect the Worst",
         "url": "https://open.spotify.com/album/1XDT3Fmuaa22DO6Wz1SD91"
       },
@@ -738,7 +850,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 260424,
       "name": "Fastlanes",
       "url": "https://open.spotify.com/track/2WaXCt23pu3pqQ9JoUpxaS"
@@ -1010,7 +1122,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 217231,
       "name": "Heart of Thorns",
       "url": "https://open.spotify.com/track/2ww4jkfTyKGHqx0vWJ5HpG"
@@ -1108,7 +1220,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 394760,
       "name": "I Feel the Night",
       "url": "https://open.spotify.com/track/0Zv8aSaljJoVwuCJrxRukk"
@@ -1281,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Loved by None",
+        "url": "https://open.spotify.com/album/2196IuURYCTh8T0qXH52UT"
+      },
+      "artists": [
+        {
+          "name": "Lifesick",
+          "url": "https://open.spotify.com/artist/13FHBq4PUsmv1MWPs4APXo"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138133,
+      "name": "Loved by None",
+      "url": "https://open.spotify.com/track/2ByGgUe2Z0M2xOPbivUwpr"
+    },
+    {
+      "album": {
         "name": "LV Vest",
         "url": "https://open.spotify.com/album/29MaeaoIkGIcPuN8SdVtNJ"
       },
@@ -1292,7 +1422,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 248750,
       "name": "LV Vest",
       "url": "https://open.spotify.com/track/78zLP2XihgPOhIiiItDdjE"
@@ -1541,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/3YCi2v3qZOVD8Ni6JlnPVu"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247499,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/51vgMochoqsIX5SZEhhXDi"
+    },
+    {
+      "album": {
         "name": "PROCESS",
         "url": "https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5"
       },
@@ -1574,6 +1722,24 @@
       "duration_ms": 259874,
       "name": "Radiant",
       "url": "https://open.spotify.com/track/1WsNQUIHDgya2psMeRVoG5"
+    },
+    {
+      "album": {
+        "name": "Repetition",
+        "url": "https://open.spotify.com/album/4pOPejffwz2v70LuFBfRRl"
+      },
+      "artists": [
+        {
+          "name": "Kill Her First",
+          "url": "https://open.spotify.com/artist/43WLjICoMA2ntPmFRHXuww"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "Repetition",
+      "url": "https://open.spotify.com/track/3ptxyqSBfqRJEYG7tVIPGt"
     },
     {
       "album": {
@@ -2121,6 +2287,24 @@
     },
     {
       "album": {
+        "name": "Tombstones",
+        "url": "https://open.spotify.com/album/23sCWrpp1im5h7ocBzMqKg"
+      },
+      "artists": [
+        {
+          "name": "Alexodus",
+          "url": "https://open.spotify.com/artist/59ToZ5aOmsYGbFEVuOzpM8"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176410,
+      "name": "Tombstones",
+      "url": "https://open.spotify.com/track/7CbiXUlxdVkhpmPP7thlSk"
+    },
+    {
+      "album": {
         "name": "BENT",
         "url": "https://open.spotify.com/album/2sP9aEYOaJeZl1WIAwM3vT"
       },
@@ -2172,6 +2356,24 @@
       "duration_ms": 224924,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W"
+    },
+    {
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/6pZGANJneWunbys7k95311"
+      },
+      "artists": [
+        {
+          "name": "IOTUNN",
+          "url": "https://open.spotify.com/artist/3yJvUOZq6oH130RTa68hQz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462573,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/1tx8ZUMLoPZF3Wfog1z2wX"
     },
     {
       "album": {
@@ -2312,7 +2514,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 253090,
       "name": "Weight In Gold",
       "url": "https://open.spotify.com/track/7EBkEqFoIYxcCFPg5GiIND"

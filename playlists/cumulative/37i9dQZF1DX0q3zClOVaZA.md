@@ -4,7 +4,7 @@
 
 > \(\-\) "Connection, Discovery, & Growth"
 
-97 songs - 4 hr 42 min
+98 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Go Big or Go Home](https://open.spotify.com/track/6IqKFke4ZhKbGYULllEezY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:21 | 2022-05-12 |  |
 | [Hey Tayo \- Tayo Opening Theme Song](https://open.spotify.com/track/2A7A3KF4NHFjW3ygFSt7In) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [HEY TAYO](https://open.spotify.com/album/2i0irlNjTfYPohsFPIK8J0) | 1:51 | 2022-05-12 |  |
 | [Highway 1009](https://open.spotify.com/track/1dAKL41zeVDP8PiLJDsRQv) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:55 | 2024-07-16 |  |
+| [Home](https://open.spotify.com/track/7yTn8YwfpEimufBe7uDtO7) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Home](https://open.spotify.com/album/3dkYdURDlDxd8uhsyS09Dv) | 3:04 | 2024-10-25 |  |
 | [Hundred Broken Hearts](https://open.spotify.com/track/3UIEaJs7OfXpcFSoQhqNC0) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 3:21 | 2024-07-16 |  |
 | [I Need The Light](https://open.spotify.com/track/69mhZKG0nDbSK7NoINWEsE) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I Need The Light](https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ) | 3:05 | 2022-08-19 |  |
 | [I NEED U \- Spotify Singles](https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I NEED U \- Spotify Singles](https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi) | 3:01 | 2024-02-23 |  |

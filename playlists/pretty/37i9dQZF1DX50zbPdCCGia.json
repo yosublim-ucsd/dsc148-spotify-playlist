@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1970s. Cover: Jimmy Buffett",
-  "num_followers": 254760,
+  "num_followers": 254826,
   "original_name": "70s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Some Things Don't Come Easy",
-        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "We'll Never Have to Say Goodbye Again - Single Version",
-      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Jack Rabbit Slim",
         "url": "https://open.spotify.com/album/1PxGKfviBr0ReG7ghmysEm"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 212471,
       "name": "Romeo's Tune",
       "url": "https://open.spotify.com/track/4kPLmTsTwA6wvtcbb0LtbM"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Some Things Don't Come Easy",
+        "url": "https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "We'll Never Have to Say Goodbye Again - Single Version",
+      "url": "https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Changes In Latitudes, Changes In Attitudes",
-      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "First Under The Wire (Remastered 2022)",
         "url": "https://open.spotify.com/album/1pPsslUdE1HeBxdlgXJ7Yp"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 316218,
       "name": "Cool Change - Remastered 2022",
       "url": "https://open.spotify.com/track/2SEGYVnWImKLUOkU3Qa8sX"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Changes In Latitudes, Changes In Attitudes",
+      "url": "https://open.spotify.com/track/5nIqitaV7WyyuM3KVUju1G"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Never Be the Same",
-      "url": "https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Stranger In Town",
         "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 234360,
       "name": "Till It Shines",
       "url": "https://open.spotify.com/track/2TXLiR7TNeAIRy7fvavgYO"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Never Be the Same",
+      "url": "https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "One Man Dog (2019 Remaster)",
-        "url": "https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 155343,
-      "name": "Don't Let Me Be Lonely Tonight - 2019 Remaster",
-      "url": "https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS"
-    },
-    {
-      "added_at": "2023-03-29 17:34:27",
-      "album": {
         "name": "Sometimes You Win",
         "url": "https://open.spotify.com/album/7DxsMT1vegybVpiiSLTZ22"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Little River Band (Remastered 2022)",
-        "url": "https://open.spotify.com/album/35j8cY91pzMYe02ZszvMyC"
+        "name": "One Man Dog (2019 Remaster)",
+        "url": "https://open.spotify.com/album/5fgXXyM1kcpCz3z0XHRniE"
       },
       "artists": [
         {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 522633,
-      "name": "It's A Long Way There - Remastered 2022",
-      "url": "https://open.spotify.com/track/6eVtCSzb3ZKRAA37dQWzbb"
+      "duration_ms": 155343,
+      "name": "Don't Let Me Be Lonely Tonight - 2019 Remaster",
+      "url": "https://open.spotify.com/track/0SHFf1goWCyv8UKZdpHIcS"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1131,6 +1115,22 @@
       "duration_ms": 196893,
       "name": "Just Remember I Love You",
       "url": "https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO"
+    },
+    {
+      "added_at": "2023-03-29 17:34:27",
+      "album": {
+        "name": "Little River Band (Remastered 2022)",
+        "url": "https://open.spotify.com/album/35j8cY91pzMYe02ZszvMyC"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 522633,
+      "name": "It's A Long Way There - Remastered 2022",
+      "url": "https://open.spotify.com/track/6eVtCSzb3ZKRAA37dQWzbb"
     },
     {
       "added_at": "2023-03-29 17:34:27",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-03-29 17:34:27",
       "album": {
-        "name": "Late for the Sky (Remastered)",
-        "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
+        "name": "Sometimes You Win",
+        "url": "https://open.spotify.com/album/7DxsMT1vegybVpiiSLTZ22"
       },
       "artists": [
         {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
         }
       ],
-      "duration_ms": 341690,
-      "name": "Late for the Sky - Remastered",
-      "url": "https://open.spotify.com/track/2WCoRl4kKbaZ6oGN6KD4HQ"
+      "duration_ms": 182346,
+      "name": "Better Love Next Time",
+      "url": "https://open.spotify.com/track/3LrFVEZ9w4hVHS3sIRmzZk"
     }
   ],
   "unique_name": "70s Soft Rock",

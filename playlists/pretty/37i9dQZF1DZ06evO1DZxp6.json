@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 216981,
+  "num_followers": 217053,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAAB9RQB8A/awCnI4ie81JHET",
+  "snapshot_id": "ZxmOAAAAAAAECfnY0+nCFfKLiwCxfFwH",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mismo Amor",
-        "url": "https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198558,
-      "name": "Mismo Amor",
-      "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Cosa",
         "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
       },
@@ -555,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/45km4FUN3OHr7bqR5Evpyh"
+        "name": "Mismo Amor",
+        "url": "https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv"
       },
       "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 244975,
-      "name": "Ilus\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/4zVlZoP2PTXu9LddkZR3Lt"
+      "duration_ms": 198558,
+      "name": "Mismo Amor",
+      "url": "https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw"
     },
     {
       "added_at": null,
@@ -595,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+        "name": "Cole\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/45km4FUN3OHr7bqR5Evpyh"
       },
       "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Tu Calor",
-      "url": "https://open.spotify.com/track/4yneB7RBZB9EAGlgdXKzw4"
+      "duration_ms": 244975,
+      "name": "Ilus\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4zVlZoP2PTXu9LddkZR3Lt"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 154666,
       "name": "Amores Plat\u00f3nicos",
       "url": "https://open.spotify.com/track/3dyr9NVX6cZwYelfZLFUYQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Tu Calor",
+      "url": "https://open.spotify.com/track/4yneB7RBZB9EAGlgdXKzw4"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bueninvento",
+        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Ser\u00eda Feliz",
+      "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Andar Conmigo",
         "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 204956,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bueninvento",
-        "url": "https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Ser\u00eda Feliz",
-      "url": "https://open.spotify.com/track/5vXjOa8QLl65Yoof3bG2C4"
     },
     {
       "added_at": null,
@@ -923,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Historia",
-        "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
+        "name": "La Enamorada",
+        "url": "https://open.spotify.com/album/0wixYeQxrkuwg0bzGDjtwu"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 210708,
-      "name": "Dime la Verdad",
-      "url": "https://open.spotify.com/track/20GTuSUnLuLJHGdhHPQ71C"
+      "duration_ms": 141493,
+      "name": "Mis Muertos",
+      "url": "https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi"
     }
   ],
   "unique_name": "This Is Julieta Venegas",

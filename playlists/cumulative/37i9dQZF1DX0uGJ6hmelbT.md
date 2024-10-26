@@ -4,7 +4,7 @@
 
 > ¡Cantos y Rondas de todos los tiempos para jugar y aprender!
 
-68 songs - 2 hr 45 min
+69 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Gallina Pintadita 1](https://open.spotify.com/track/2fjR0taKS0WePPbAn0arBB) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 1](https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH) | 1:49 | 2023-08-18 |  |
 | [Gallina Pintadita 2](https://open.spotify.com/track/0V5d88lCE3oYdWJ86IR3jW) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 2](https://open.spotify.com/album/20yyfAYcXHX47C2sqkuBmF) | 2:26 | 2023-08-18 |  |
 | [La Batalla del Calentamiento](https://open.spotify.com/track/1VZphpjeTgfDyszoXlSwQi) | [Canti Rondas](https://open.spotify.com/artist/1oaOuEY1r5gNPPq1G9Y9eC) | [Canti Rondas, Vol\. 1](https://open.spotify.com/album/3QymSZnB3YLCsJyfHyjOCO) | 1:28 | 2023-08-18 |  |
+| [La Bruja Loca](https://open.spotify.com/track/6Pe7Dj1oP1zBrxGyNV2ccR) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ), [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Elena Vives](https://open.spotify.com/artist/2aSbTnwgEMnlXQRN4aZ5qW), [Coro De Ríogrande](https://open.spotify.com/artist/2bw5NcOaV5CDY2R2Hh8iHA) | [La Bruja Loca](https://open.spotify.com/album/1o4sLku0f8Hqw9rTiLtKhy) | 3:02 | 2024-10-25 |  |
 | [La Canción del To, To, To](https://open.spotify.com/track/7pzzivdVPIvWXgstMwzybV) | [Petete](https://open.spotify.com/artist/7deNTTkYWsqRrSeW1RvOCO) | [Vamos a la Cama](https://open.spotify.com/album/7r2Gcsr4LS47tpCobZltJv) | 2:19 | 2023-08-18 |  |
 | [La Danza de los Lobos \(feat\. María Mulata\)](https://open.spotify.com/track/0gQnu9BKCBysFNlfROMyNr) | [Colectivo Animal](https://open.spotify.com/artist/69JoRtjWk8a51FwJgoT5LO), [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q) | [Un Bosque Encantado 2](https://open.spotify.com/album/1j61gNgDS5HEOCkI31BUCW) | 4:35 | 2023-08-18 |  |
 | [La Iguana y el Perezoso](https://open.spotify.com/track/59wv8enNsfwSZDLzXckLc7) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Los 60 Mejores Canticuentos](https://open.spotify.com/album/3kgeG8hLVDTDVy9ITY4SvH) | 1:41 | 2024-04-11 |  |
@@ -56,7 +57,7 @@
 | [Mi Burrito Sabanero \- Remix](https://open.spotify.com/track/4NtlVyFOH4Si9fJcS1N0Oj) | [Juana](https://open.spotify.com/artist/5uK5UNdzOWT47tcq2VLsek), [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j) | [Mi Burrito Sabanero \(Remix\)](https://open.spotify.com/album/0wZMJ3Lr2RRpH1RR4ySLPh) | 3:13 | 2023-08-18 |  |
 | [Muévanse Todos / La Gallina Twist](https://open.spotify.com/track/0J4R05Xq9xKnFOLc70ymKs) | [Cantoalegre](https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668) | [Rockerito](https://open.spotify.com/album/4IdSwV9N3we2rh783ls6k2) | 4:14 | 2024-04-11 |  |
 | [Muévanse Todos / La Gallina Twist](https://open.spotify.com/track/2WJwPuX3TPOzRAyPDIutPl) | [Cantoalegre](https://open.spotify.com/artist/4UKb01orqntSwUPAWNv668) | [Rockerito](https://open.spotify.com/album/3u4v3oTLQolBR8PeU8PdIe) | 4:14 | 2023-08-18 | 2024-04-19 |
-| [Oh Susanna \(Nursery Rhyme\)](https://open.spotify.com/track/7MRVLqKRYiSfn821bK9rEe) | [Nursery Rhymes](https://open.spotify.com/artist/2TCyfTG9UWaZYgbg0bmFmG), [Songs For Kids](https://open.spotify.com/artist/2JSjTtZIm6pRdYWsYl6WDs), [Mommy Sings](https://open.spotify.com/artist/1mIeke4YPZsIvgisbNaHbX) | [Nursery Rhymes \- The Most Popular Songs for Kids \(With Sing\-Alongs!\)](https://open.spotify.com/album/2CLPwb2fSezrzVKyd2mU11) | 1:52 | 2024-04-11 |  |
+| [Oh Susanna \(Nursery Rhyme\)](https://open.spotify.com/track/7MRVLqKRYiSfn821bK9rEe) | [Nursery Rhymes](https://open.spotify.com/artist/2TCyfTG9UWaZYgbg0bmFmG), [Songs For Kids](https://open.spotify.com/artist/2JSjTtZIm6pRdYWsYl6WDs), [Mommy Sings](https://open.spotify.com/artist/1mIeke4YPZsIvgisbNaHbX) | [Nursery Rhymes \- The Most Popular Songs for Kids \(With Sing\-Alongs!\)](https://open.spotify.com/album/2CLPwb2fSezrzVKyd2mU11) | 1:52 | 2024-04-11 | 2024-10-26 |
 | [Oh Susanna \(nursery Rhyme\)](https://open.spotify.com/track/6Oexw38YeFgzKZrIvUkbEA) | [songs for children](https://open.spotify.com/artist/1llk2k3knbko7otO2HgzOr) | [Nursery Rhymes \- The Most Popular Songs for Kids \(with Sing\-Alongs!\)](https://open.spotify.com/album/5H1RL2PAzO66hc28ZvBpp3) | 1:52 | 2023-08-18 | 2024-04-19 |
 | [Patitos Cuacuacua](https://open.spotify.com/track/0xK7UI849YpMKiLJTrGqzD) | [Canciones Infantiles](https://open.spotify.com/artist/2KRUmUbmOXybsu6inukf5C) | [Patitos Cuacuacua](https://open.spotify.com/album/2wOFolyedNJwYaEJDy3bPA) | 1:41 | 2023-08-18 |  |
 | [Pecos Bill](https://open.spotify.com/track/1RCTr3WRQiKAsnOr2xTlV1) | [Canti Rondas](https://open.spotify.com/artist/1oaOuEY1r5gNPPq1G9Y9eC) | [Canti Rondas, Vol\. 1](https://open.spotify.com/album/3QymSZnB3YLCsJyfHyjOCO) | 3:41 | 2023-08-18 |  |

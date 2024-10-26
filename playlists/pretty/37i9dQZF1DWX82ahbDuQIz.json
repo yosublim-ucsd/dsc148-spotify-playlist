@@ -1,13 +1,33 @@
 {
-  "description": "Musical songs from Broadway, the West End and beyond. Cover: Wicked",
-  "num_followers": 569049,
+  "description": "Musical songs from Broadway, the West End and beyond. Cover: SUNSET BLVD",
+  "num_followers": 569088,
   "original_name": "Broadway Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxgigAAAAABkdWRtRLPj3XuYrjamsNue",
+  "snapshot_id": "ZxuiMgAAAAAsUJsizujAQiLsABIU9oih",
   "tracks": [
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "SUNSET BLVD: The Album",
+        "url": "https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45"
+      },
+      "artists": [
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        }
+      ],
+      "duration_ms": 269320,
+      "name": "With One Look",
+      "url": "https://open.spotify.com/track/0i8FyAJCAjlSJlUXuvMR96"
+    },
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
@@ -111,110 +131,6 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
-        "name": "Waitress (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8"
-      },
-      "artists": [
-        {
-          "name": "Jessie Mueller",
-          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
-        }
-      ],
-      "duration_ms": 260573,
-      "name": "She Used to Be Mine",
-      "url": "https://open.spotify.com/track/7CBrUf50mf2IqcRZla38by"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Hadestown (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 De Shields",
-          "url": "https://open.spotify.com/artist/0vtjXmCLNmJti4fJ5dBhxc"
-        },
-        {
-          "name": "Hadestown Original Broadway Company",
-          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 192281,
-      "name": "Wait for Me (Reprise)",
-      "url": "https://open.spotify.com/track/3fJJ28RcXGkgKlgbgBSbc8"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Merrily We Roll Along (New Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1ysKXBVW9cBAmeKgbtxRZd"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Groff",
-          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
-        },
-        {
-          "name": "Daniel Radcliffe",
-          "url": "https://open.spotify.com/artist/2YD3t3MBtQo16C8FrEYVh3"
-        },
-        {
-          "name": "Lindsay Mendez",
-          "url": "https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2"
-        },
-        {
-          "name": "New Broadway Cast of Merrily We Roll Along",
-          "url": "https://open.spotify.com/artist/6LMssK1H6Zrtcccwp1aKlt"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Old Friends",
-      "url": "https://open.spotify.com/track/4IRHXPQ794fL8BklZmxgwF"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "The Notebook (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
-      },
-      "artists": [
-        {
-          "name": "Joy Woods",
-          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
-        }
-      ],
-      "duration_ms": 222239,
-      "name": "My Days",
-      "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Six: The Musical (Studio Cast Recording)",
-        "url": "https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh"
-      },
-      "artists": [
-        {
-          "name": "SIX",
-          "url": "https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0"
-        },
-        {
-          "name": "Christina Modestou",
-          "url": "https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7"
-        }
-      ],
-      "duration_ms": 245303,
-      "name": "Don't Lose Ur Head",
-      "url": "https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
         "name": "Hamilton (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
       },
@@ -235,190 +151,18 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
-        "name": "Independently Owned | Shucked (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2nbfi3Cu6RUmwB1VvyeE4p"
+        "name": "Chicago The Musical (New Broadway Cast Recording (1997))",
+        "url": "https://open.spotify.com/album/5zgxFgQiGAqNmAY5EhgVWv"
       },
       "artists": [
         {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        },
-        {
-          "name": "Original Broadway Cast of Shucked",
-          "url": "https://open.spotify.com/artist/2Dc5cmoiYcZNXnI6BkDHDj"
+          "name": "Chicago Ensemble (1997)",
+          "url": "https://open.spotify.com/artist/5mitnQA7skz8pAo8W6t9ph"
         }
       ],
-      "duration_ms": 163226,
-      "name": "Independently Owned",
-      "url": "https://open.spotify.com/track/3iOL9G1ENCSNUw0X6yv5pF"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "The Ballad of Sweeney Todd (Opening) [2023 Broadway Cast Recording]",
-        "url": "https://open.spotify.com/album/12vItdgogyxo0MY72MfBVm"
-      },
-      "artists": [
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        },
-        {
-          "name": "Paul-Jordan Jansen",
-          "url": "https://open.spotify.com/artist/6tW34Oiy4OKMEEkYWqOgHR"
-        },
-        {
-          "name": "Daniel Torres",
-          "url": "https://open.spotify.com/artist/5t2EcA6jYfjovECi69B9Ha"
-        },
-        {
-          "name": "Jordan Fisher",
-          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
-        },
-        {
-          "name": "Maria Bilbao",
-          "url": "https://open.spotify.com/artist/6HwBejyNHV2ncb4Vfitf5J"
-        },
-        {
-          "name": "Nicholas Christopher",
-          "url": "https://open.spotify.com/artist/1bc4RK3BAuMC9yCEYM8MrN"
-        },
-        {
-          "name": "Gaten Matarazzo",
-          "url": "https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6"
-        },
-        {
-          "name": "John Rapson",
-          "url": "https://open.spotify.com/artist/07Ewd7U9XMaZwOS4tQNVmz"
-        },
-        {
-          "name": "Jamie Jackson",
-          "url": "https://open.spotify.com/artist/24xUZlzAv0X0RRx8YtsYZu"
-        },
-        {
-          "name": "Ruthie Ann Miles",
-          "url": "https://open.spotify.com/artist/0KvyvyfojiiGL7yBIWrwLI"
-        },
-        {
-          "name": "Sweeney Todd 2023 Broadway Company",
-          "url": "https://open.spotify.com/artist/70VT6oVDiCQO0VuE347OUh"
-        },
-        {
-          "name": "Stephen Sondheim",
-          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "The Ballad of Sweeney Todd",
-      "url": "https://open.spotify.com/track/6mWNUGxfHYcLOC02N2GLwX"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "THE WIZ (2024 Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/38VgKI3hE2ow4FcJqNiH8E"
-      },
-      "artists": [
-        {
-          "name": "THE WIZ Cast",
-          "url": "https://open.spotify.com/artist/0J4zCN8sPmKkNxtAPaHqZR"
-        },
-        {
-          "name": "Nichelle Lewis",
-          "url": "https://open.spotify.com/artist/7frhHBMTNfvx3TUkWpUwi7"
-        }
-      ],
-      "duration_ms": 210188,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7MtRvT1A0EvlgxAwcQyjCT"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
-      },
-      "artists": [
-        {
-          "name": "Brody Grant",
-          "url": "https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj"
-        },
-        {
-          "name": "Original Broadway Cast of The Outsiders - A New Musical",
-          "url": "https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w"
-        }
-      ],
-      "duration_ms": 241182,
-      "name": "Great Expectations",
-      "url": "https://open.spotify.com/track/0Xz5CpBCzusTFmFA3ufFpO"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1woCvthHJakakroP6dXNxs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Schwartz",
-          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
-        },
-        {
-          "name": "Kristin Chenoweth",
-          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        },
-        {
-          "name": "Stephen Oremus",
-          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
-        },
-        {
-          "name": "Alex Lacamoire",
-          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
-        }
-      ],
-      "duration_ms": 306893,
-      "name": "For Good - From \"Wicked\" Original Broadway Cast Recording/2003",
-      "url": "https://open.spotify.com/track/3WkgLAd7jGX3sZikfkF0lU"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "The Worst Pies in London (2023 Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2btamy2Km4GO3o3Zfu4cL2"
-      },
-      "artists": [
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        },
-        {
-          "name": "Jordan Fisher",
-          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
-        },
-        {
-          "name": "Maria Bilbao",
-          "url": "https://open.spotify.com/artist/6HwBejyNHV2ncb4Vfitf5J"
-        },
-        {
-          "name": "Ruthie Ann Miles",
-          "url": "https://open.spotify.com/artist/0KvyvyfojiiGL7yBIWrwLI"
-        },
-        {
-          "name": "Stephen Sondheim",
-          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
-        },
-        {
-          "name": "Sweeney Todd 2023 Broadway Company",
-          "url": "https://open.spotify.com/artist/70VT6oVDiCQO0VuE347OUh"
-        }
-      ],
-      "duration_ms": 320091,
-      "name": "Johanna (Act 2 Sequence)",
-      "url": "https://open.spotify.com/track/0kcZoSJ5Pxtal7zvitS5tb"
+      "duration_ms": 305466,
+      "name": "All That Jazz",
+      "url": "https://open.spotify.com/track/3nAuX0TA8yhqsPDHO8ybFe"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -467,6 +211,262 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 De Shields",
+          "url": "https://open.spotify.com/artist/0vtjXmCLNmJti4fJ5dBhxc"
+        },
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 192281,
+      "name": "Wait for Me (Reprise)",
+      "url": "https://open.spotify.com/track/3fJJ28RcXGkgKlgbgBSbc8"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Moulin Rouge! The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk"
+      },
+      "artists": [
+        {
+          "name": "Aaron Tveit",
+          "url": "https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx"
+        },
+        {
+          "name": "Danny Burstein",
+          "url": "https://open.spotify.com/artist/30HOYarCiirq0rSFZ8FAY3"
+        },
+        {
+          "name": "Original Broadway Cast of Moulin Rouge! The Musical",
+          "url": "https://open.spotify.com/artist/2W2MyOwxAxKWGxWVk0vw8v"
+        },
+        {
+          "name": "Ricky Rojas",
+          "url": "https://open.spotify.com/artist/1BchvTjZ0pkAW1WPDZTSeZ"
+        },
+        {
+          "name": "Sahr Ngaujah",
+          "url": "https://open.spotify.com/artist/22DUlxqR0fx6R1UKit7uOz"
+        },
+        {
+          "name": "Jacqueline B. Arnold",
+          "url": "https://open.spotify.com/artist/3QlycUoQkiflglfZ3Nrccl"
+        },
+        {
+          "name": "Holly James",
+          "url": "https://open.spotify.com/artist/0rHWRsXdgLUAT59rikTzHa"
+        },
+        {
+          "name": "Jeigh Madjus",
+          "url": "https://open.spotify.com/artist/7r1TFR05734UFt4bAAvFnA"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "El Tango De Roxanne",
+      "url": "https://open.spotify.com/track/70XYXbSf4g5IfnDJ13se9L"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Les Miserables (The Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/4h0K87rOHZXeuOqeXAsah8"
+      },
+      "artists": [
+        {
+          "name": "Les Mis\u00e9rables-Original London Cast",
+          "url": "https://open.spotify.com/artist/7EzZtsaDuv0EecScnO7wrh"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Bring Him Home",
+      "url": "https://open.spotify.com/track/3FzFmeyzLFmPXCSx3hSS88"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Dreamgirls: Original Broadway Cast Album (25th Anniversary Special Edition)",
+        "url": "https://open.spotify.com/album/6XurFIcLRBy0OKPSVQ0ifa"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Holliday",
+          "url": "https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "And I Am Telling You I'm Not Going - Original Broadway Cast/1982",
+      "url": "https://open.spotify.com/track/3ZPpFEandljtmTnz8D4trH"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Waitress (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1E1tdqqLmyi03P0TJhGuw8"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mueller",
+          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
+        }
+      ],
+      "duration_ms": 260573,
+      "name": "She Used to Be Mine",
+      "url": "https://open.spotify.com/track/7CBrUf50mf2IqcRZla38by"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Merrily We Roll Along (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1ysKXBVW9cBAmeKgbtxRZd"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Daniel Radcliffe",
+          "url": "https://open.spotify.com/artist/2YD3t3MBtQo16C8FrEYVh3"
+        },
+        {
+          "name": "Lindsay Mendez",
+          "url": "https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2"
+        },
+        {
+          "name": "New Broadway Cast of Merrily We Roll Along",
+          "url": "https://open.spotify.com/artist/6LMssK1H6Zrtcccwp1aKlt"
+        }
+      ],
+      "duration_ms": 274266,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/4IRHXPQ794fL8BklZmxgwF"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Six: The Musical (Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh"
+      },
+      "artists": [
+        {
+          "name": "SIX",
+          "url": "https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0"
+        },
+        {
+          "name": "Christina Modestou",
+          "url": "https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7"
+        }
+      ],
+      "duration_ms": 245303,
+      "name": "Don't Lose Ur Head",
+      "url": "https://open.spotify.com/track/6sUQqRmOcRyAG5M3EWXzr3"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "The Notebook (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/63ujCmTJYeJBkHI3pPg7La"
+      },
+      "artists": [
+        {
+          "name": "Joy Woods",
+          "url": "https://open.spotify.com/artist/4ANaCMgO8VHtP89pRV46pW"
+        }
+      ],
+      "duration_ms": 222239,
+      "name": "My Days",
+      "url": "https://open.spotify.com/track/3xHktpSiOvB1UxJzXxh0lU"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Independently Owned | Shucked (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2nbfi3Cu6RUmwB1VvyeE4p"
+      },
+      "artists": [
+        {
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
+        },
+        {
+          "name": "Original Broadway Cast of Shucked",
+          "url": "https://open.spotify.com/artist/2Dc5cmoiYcZNXnI6BkDHDj"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Independently Owned",
+      "url": "https://open.spotify.com/track/3iOL9G1ENCSNUw0X6yv5pF"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "The Worst Pies in London (2023 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2btamy2Km4GO3o3Zfu4cL2"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Maria Bilbao",
+          "url": "https://open.spotify.com/artist/6HwBejyNHV2ncb4Vfitf5J"
+        },
+        {
+          "name": "Ruthie Ann Miles",
+          "url": "https://open.spotify.com/artist/0KvyvyfojiiGL7yBIWrwLI"
+        },
+        {
+          "name": "Stephen Sondheim",
+          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
+        },
+        {
+          "name": "Sweeney Todd 2023 Broadway Company",
+          "url": "https://open.spotify.com/artist/70VT6oVDiCQO0VuE347OUh"
+        }
+      ],
+      "duration_ms": 320091,
+      "name": "Johanna (Act 2 Sequence)",
+      "url": "https://open.spotify.com/track/0kcZoSJ5Pxtal7zvitS5tb"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
+      },
+      "artists": [
+        {
+          "name": "Brody Grant",
+          "url": "https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj"
+        },
+        {
+          "name": "Original Broadway Cast of The Outsiders - A New Musical",
+          "url": "https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w"
+        }
+      ],
+      "duration_ms": 241182,
+      "name": "Great Expectations",
+      "url": "https://open.spotify.com/track/0Xz5CpBCzusTFmFA3ufFpO"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
         "name": "Little Shop of Horrors (The New Off-Broadway Cast Album)",
         "url": "https://open.spotify.com/album/7Cag7tktEaptbKO2PhtUJ0"
       },
@@ -489,20 +489,240 @@
       "url": "https://open.spotify.com/track/0kjCT2l86GTuNwxfouBoLf"
     },
     {
-      "added_at": "2024-06-16 15:18:50",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Dreamgirls: Original Broadway Cast Album (25th Anniversary Special Edition)",
-        "url": "https://open.spotify.com/album/6XurFIcLRBy0OKPSVQ0ifa"
+        "name": "SUNSET BLVD: The Album",
+        "url": "https://open.spotify.com/album/4NatUeuL2oG0XN9c2KcE45"
       },
       "artists": [
         {
-          "name": "Jennifer Holliday",
-          "url": "https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t"
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
         }
       ],
-      "duration_ms": 244000,
-      "name": "And I Am Telling You I'm Not Going - Original Broadway Cast/1982",
-      "url": "https://open.spotify.com/track/3ZPpFEandljtmTnz8D4trH"
+      "duration_ms": 360400,
+      "name": "As If We Never Said Goodbye",
+      "url": "https://open.spotify.com/track/2cwENimYctSV8AD1vxzlHF"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Les Mis\u00e9rables (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0pL8NPcLbZ9KLuEiQ56mP3"
+      },
+      "artists": [
+        {
+          "name": "Alain Boublil",
+          "url": "https://open.spotify.com/artist/2EnzSSPMaRMJRQod7erlhW"
+        },
+        {
+          "name": "Claude-Michel Sch\u00f6nberg",
+          "url": "https://open.spotify.com/artist/2OqTX6uyzll0y3ydeccZGR"
+        },
+        {
+          "name": "Randy Graff",
+          "url": "https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz"
+        },
+        {
+          "name": "Robert Billig",
+          "url": "https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p"
+        }
+      ],
+      "duration_ms": 254160,
+      "name": "I Dreamed A Dream",
+      "url": "https://open.spotify.com/track/3eX980bRAfdLeSdxg0Ex3w"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Moulin Rouge! The Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk"
+      },
+      "artists": [
+        {
+          "name": "Aaron Tveit",
+          "url": "https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx"
+        },
+        {
+          "name": "Karen Olivo",
+          "url": "https://open.spotify.com/artist/01hcqBKMrPmHtg3RBJsxaP"
+        },
+        {
+          "name": "Original Broadway Cast of Moulin Rouge! The Musical",
+          "url": "https://open.spotify.com/artist/2W2MyOwxAxKWGxWVk0vw8v"
+        }
+      ],
+      "duration_ms": 325293,
+      "name": "Elephant Love Medley",
+      "url": "https://open.spotify.com/track/5JRgVMONxTRjC1g1d0XsvX"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "& Juliet (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
+      },
+      "artists": [
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Lorna Courtney",
+          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
+        }
+      ],
+      "duration_ms": 209394,
+      "name": "That\u2019s the Way It Is",
+      "url": "https://open.spotify.com/track/4gpbXdxDIRmRnJccrjsXsh"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "The Book of Mormon",
+        "url": "https://open.spotify.com/album/5hk2UWDW3bm8tOmTLFeVMI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rannells",
+          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
+        },
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Rory O'Malley",
+          "url": "https://open.spotify.com/artist/4ypbxQ7Pb5JKm2ulHXDcBP"
+        },
+        {
+          "name": "Scott Barnhardt",
+          "url": "https://open.spotify.com/artist/1A4dOeSiYZ0yBf6l5uYY7m"
+        },
+        {
+          "name": "Justin Bohon",
+          "url": "https://open.spotify.com/artist/4MYUIgtNTRdEfksW6IwvAe"
+        },
+        {
+          "name": "Kevin Duda",
+          "url": "https://open.spotify.com/artist/6b1coNssyWbKkbgZfK9MB5"
+        },
+        {
+          "name": "Clark Johnson",
+          "url": "https://open.spotify.com/artist/55592WuUTOVHvaPgjKpSZv"
+        },
+        {
+          "name": "Benjamin Schrader",
+          "url": "https://open.spotify.com/artist/5OPT8oIrU42hqfKMJv0b5B"
+        },
+        {
+          "name": "Brian Sears",
+          "url": "https://open.spotify.com/artist/7prZJzDK9Eaidya20kUciB"
+        },
+        {
+          "name": "Jason Michael Snow",
+          "url": "https://open.spotify.com/artist/32oXmsd7TLzVccshoWY0mm"
+        },
+        {
+          "name": "Lewis Cleale",
+          "url": "https://open.spotify.com/artist/7tihd0CgVerCoDl6LeDHQW"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Hello!",
+      "url": "https://open.spotify.com/track/4aoF3pcr9rFBsVHUlvGqVJ"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1woCvthHJakakroP6dXNxs"
+      },
+      "artists": [
+        {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
+        }
+      ],
+      "duration_ms": 306893,
+      "name": "For Good - From \"Wicked\" Original Broadway Cast Recording/2003",
+      "url": "https://open.spotify.com/track/3WkgLAd7jGX3sZikfkF0lU"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Hairspray (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3XPjEfpawBvohxBMDXwXXW"
+      },
+      "artists": [
+        {
+          "name": "Marissa Jaret Winokur",
+          "url": "https://open.spotify.com/artist/4zdCODAJOsWFl6I9H7z1bX"
+        },
+        {
+          "name": "Original Broadway Cast of Hairspray",
+          "url": "https://open.spotify.com/artist/2fonmVretCT6oQ7woD6p4E"
+        }
+      ],
+      "duration_ms": 220426,
+      "name": "Good Morning Baltimore",
+      "url": "https://open.spotify.com/track/5HDLfQNN2AwAZWqzjDLxb5"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Heathers the Musical (Original West End Cast Recording)",
+        "url": "https://open.spotify.com/album/6r3jhI1kXM7NkEDowpkxOU"
+      },
+      "artists": [
+        {
+          "name": "Jamie Muscato",
+          "url": "https://open.spotify.com/artist/5uJiTfwUrMiaGG1PwuKCp3"
+        },
+        {
+          "name": "Original West End Cast of Heathers",
+          "url": "https://open.spotify.com/artist/4WK6ZRLcS2beZfrDoNvjK7"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Meant to be Yours",
+      "url": "https://open.spotify.com/track/6zQPRiKYLdpAIn5HDtzDYc"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/6PaCKF5VoZp0Q1anuqXjf1"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sondheim",
+          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
+        }
+      ],
+      "duration_ms": 306760,
+      "name": "Being Alive",
+      "url": "https://open.spotify.com/track/4GDSnxxtmIyVS4Twl7Y7UB"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -567,42 +787,6 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
-        "name": "Heathers the Musical (Original West End Cast Recording)",
-        "url": "https://open.spotify.com/album/6r3jhI1kXM7NkEDowpkxOU"
-      },
-      "artists": [
-        {
-          "name": "Jamie Muscato",
-          "url": "https://open.spotify.com/artist/5uJiTfwUrMiaGG1PwuKCp3"
-        },
-        {
-          "name": "Original West End Cast of Heathers",
-          "url": "https://open.spotify.com/artist/4WK6ZRLcS2beZfrDoNvjK7"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "Meant to be Yours",
-      "url": "https://open.spotify.com/track/6zQPRiKYLdpAIn5HDtzDYc"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Company",
-        "url": "https://open.spotify.com/album/6PaCKF5VoZp0Q1anuqXjf1"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sondheim",
-          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
-        }
-      ],
-      "duration_ms": 306760,
-      "name": "Being Alive",
-      "url": "https://open.spotify.com/track/4GDSnxxtmIyVS4Twl7Y7UB"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
         "name": "The Phantom Of The Opera",
         "url": "https://open.spotify.com/album/36bEg6FTBaZGLg9ngJZIU6"
       },
@@ -627,6 +811,22 @@
       "duration_ms": 254666,
       "name": "All I Ask Of You",
       "url": "https://open.spotify.com/track/52KiYg6Kn2NB9riY2IwUgi"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Into The Woods (2022 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/5z6BFXI711HbSAXDjgOAHE"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 183331,
+      "name": "Moments In The Woods",
+      "url": "https://open.spotify.com/track/5rUHTkUWnJ7M1l6glNkBJi"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -689,316 +889,24 @@
       "url": "https://open.spotify.com/track/0LgODbepSswNlLUK8EEH8v"
     },
     {
-      "added_at": "2024-06-16 15:18:50",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Evita",
-        "url": "https://open.spotify.com/album/6q7kvF1D7EFQFWDaoAxJMj"
+        "name": "Sunset Boulevard",
+        "url": "https://open.spotify.com/album/2gP8X7vYXXLRRc1xc236Ji"
       },
       "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/1BmpFeWuQkyVbGLIzebnRD"
+        },
         {
           "name": "Andrew Lloyd Webber",
           "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
-        },
-        {
-          "name": "Original Evita Cast",
-          "url": "https://open.spotify.com/artist/7r0Mc0nEZCwo3tLMahpcfn"
         }
       ],
-      "duration_ms": 351373,
-      "name": "Don't Cry For Me Argentina",
-      "url": "https://open.spotify.com/track/7mhxoW5aWHn5QiZqT4rS4S"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Moulin Rouge! The Musical (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1catLRW8LZfugEmfjnTWCk"
-      },
-      "artists": [
-        {
-          "name": "Aaron Tveit",
-          "url": "https://open.spotify.com/artist/68h2f0WXn4zEctSgNYozXx"
-        },
-        {
-          "name": "Karen Olivo",
-          "url": "https://open.spotify.com/artist/01hcqBKMrPmHtg3RBJsxaP"
-        },
-        {
-          "name": "Original Broadway Cast of Moulin Rouge! The Musical",
-          "url": "https://open.spotify.com/artist/2W2MyOwxAxKWGxWVk0vw8v"
-        }
-      ],
-      "duration_ms": 325293,
-      "name": "Elephant Love Medley",
-      "url": "https://open.spotify.com/track/5JRgVMONxTRjC1g1d0XsvX"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Legally Blonde",
-        "url": "https://open.spotify.com/album/15PeS1lN9gmoYmJMY60DxA"
-      },
-      "artists": [
-        {
-          "name": "Legally Blonde Cast",
-          "url": "https://open.spotify.com/artist/0bPaVOGlZ9vcoBJbGTVSVJ"
-        },
-        {
-          "name": "Legally Blonde",
-          "url": "https://open.spotify.com/artist/14a5mllzGkiYhfrqVRzKty"
-        }
-      ],
-      "duration_ms": 346813,
-      "name": "Omigod You Guys",
-      "url": "https://open.spotify.com/track/2UNxP9jLuK0QkE8CK3x5vc"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Mrs. Doubtfire (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/41pRvcv2v9zhFu3I3LNpPb"
-      },
-      "artists": [
-        {
-          "name": "Analise Scarpaci",
-          "url": "https://open.spotify.com/artist/3x8IEkKbNzxJ25ekcKJir6"
-        },
-        {
-          "name": "Jake Ryan Flynn",
-          "url": "https://open.spotify.com/artist/1QPTHXqn97qpOvy677Pxsm"
-        },
-        {
-          "name": "Avery Sell",
-          "url": "https://open.spotify.com/artist/0QxoXIfyJSKDvWAk2OmDiK"
-        },
-        {
-          "name": "Wayne Kirkpatrick",
-          "url": "https://open.spotify.com/artist/2rZxDlwRd2lhu8z7lGKSLo"
-        },
-        {
-          "name": "Karey Kirkpatrick",
-          "url": "https://open.spotify.com/artist/2nz6FQDK68wvL0QQGc8r8O"
-        },
-        {
-          "name": "Mrs. Doubtfire Original Broadway Cast",
-          "url": "https://open.spotify.com/artist/0J8RcCfJDvpl8agX1plZ56"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "What The Hell",
-      "url": "https://open.spotify.com/track/4BC2R5KBK6DwO0BudDZSCY"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Les Miserables (The Original London Cast Recording)",
-        "url": "https://open.spotify.com/album/4h0K87rOHZXeuOqeXAsah8"
-      },
-      "artists": [
-        {
-          "name": "Les Mis\u00e9rables-Original London Cast",
-          "url": "https://open.spotify.com/artist/7EzZtsaDuv0EecScnO7wrh"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Bring Him Home",
-      "url": "https://open.spotify.com/track/3FzFmeyzLFmPXCSx3hSS88"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "& Juliet (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2lZR9j0d9P7u7bvJZwJOKD"
-      },
-      "artists": [
-        {
-          "name": "Justin David Sullivan",
-          "url": "https://open.spotify.com/artist/5yLz64XzBGjynT2efGGKRp"
-        },
-        {
-          "name": "Lorna Courtney",
-          "url": "https://open.spotify.com/artist/4DwDek55Rhdcv119OlR0ap"
-        }
-      ],
-      "duration_ms": 204787,
-      "name": "I\u2019m Not a Girl, Not Yet a Woman",
-      "url": "https://open.spotify.com/track/3CL9onFqjkQ8nL6BJ0w5wb"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
-          "name": "Phillipa Soo",
-          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/4B3qvzOMzLQXLeYgPsG3KA"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Beetlejuice (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3Nkueud4hqLWhSzOepKi7p"
-      },
-      "artists": [
-        {
-          "name": "Sophia Anne Caruso",
-          "url": "https://open.spotify.com/artist/6DQwC1hPrwv3JRmvxONCoZ"
-        },
-        {
-          "name": "Beetlejuice Original Broadway Cast Recording Ensemble",
-          "url": "https://open.spotify.com/artist/5EJf9pRO532SnGtOaeiw4F"
-        }
-      ],
-      "duration_ms": 184147,
-      "name": "Dead Mom",
-      "url": "https://open.spotify.com/track/7fRt5HCt4KgLlH45wFQCho"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Hadestown (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
-      },
-      "artists": [
-        {
-          "name": "Hadestown Original Broadway Company",
-          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 300246,
-      "name": "Way Down Hadestown",
-      "url": "https://open.spotify.com/track/5fnl0Tyeh4r5gPANdaVu61"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "A Chorus Line (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/2WFqKARZjG0ybZfzLRKFCe"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Lopez",
-          "url": "https://open.spotify.com/artist/6CUIkKr2kYg6rvDK3DxWXV"
-        }
-      ],
-      "duration_ms": 257666,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/46N5j7yZCLafz4xJiIfxMx"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Les Mis\u00e9rables (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/0pL8NPcLbZ9KLuEiQ56mP3"
-      },
-      "artists": [
-        {
-          "name": "Alain Boublil",
-          "url": "https://open.spotify.com/artist/2EnzSSPMaRMJRQod7erlhW"
-        },
-        {
-          "name": "Claude-Michel Sch\u00f6nberg",
-          "url": "https://open.spotify.com/artist/2OqTX6uyzll0y3ydeccZGR"
-        },
-        {
-          "name": "Randy Graff",
-          "url": "https://open.spotify.com/artist/2iRiwwxcJb6fXCxO5jt1cz"
-        },
-        {
-          "name": "Robert Billig",
-          "url": "https://open.spotify.com/artist/3Ybg9gi5V2x6i8OsLc9M7p"
-        }
-      ],
-      "duration_ms": 254160,
-      "name": "I Dreamed A Dream",
-      "url": "https://open.spotify.com/track/3eX980bRAfdLeSdxg0Ex3w"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "The Book of Mormon",
-        "url": "https://open.spotify.com/album/5hk2UWDW3bm8tOmTLFeVMI"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rannells",
-          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
-        },
-        {
-          "name": "Josh Gad",
-          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
-        },
-        {
-          "name": "Rory O'Malley",
-          "url": "https://open.spotify.com/artist/4ypbxQ7Pb5JKm2ulHXDcBP"
-        },
-        {
-          "name": "Scott Barnhardt",
-          "url": "https://open.spotify.com/artist/1A4dOeSiYZ0yBf6l5uYY7m"
-        },
-        {
-          "name": "Justin Bohon",
-          "url": "https://open.spotify.com/artist/4MYUIgtNTRdEfksW6IwvAe"
-        },
-        {
-          "name": "Kevin Duda",
-          "url": "https://open.spotify.com/artist/6b1coNssyWbKkbgZfK9MB5"
-        },
-        {
-          "name": "Clark Johnson",
-          "url": "https://open.spotify.com/artist/55592WuUTOVHvaPgjKpSZv"
-        },
-        {
-          "name": "Benjamin Schrader",
-          "url": "https://open.spotify.com/artist/5OPT8oIrU42hqfKMJv0b5B"
-        },
-        {
-          "name": "Brian Sears",
-          "url": "https://open.spotify.com/artist/7prZJzDK9Eaidya20kUciB"
-        },
-        {
-          "name": "Jason Michael Snow",
-          "url": "https://open.spotify.com/artist/32oXmsd7TLzVccshoWY0mm"
-        },
-        {
-          "name": "Lewis Cleale",
-          "url": "https://open.spotify.com/artist/7tihd0CgVerCoDl6LeDHQW"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Hello!",
-      "url": "https://open.spotify.com/track/4aoF3pcr9rFBsVHUlvGqVJ"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Hairspray (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/3XPjEfpawBvohxBMDXwXXW"
-      },
-      "artists": [
-        {
-          "name": "Marissa Jaret Winokur",
-          "url": "https://open.spotify.com/artist/4zdCODAJOsWFl6I9H7z1bX"
-        },
-        {
-          "name": "Original Broadway Cast of Hairspray",
-          "url": "https://open.spotify.com/artist/2fonmVretCT6oQ7woD6p4E"
-        }
-      ],
-      "duration_ms": 220426,
-      "name": "Good Morning Baltimore",
-      "url": "https://open.spotify.com/track/5HDLfQNN2AwAZWqzjDLxb5"
+      "duration_ms": 198160,
+      "name": "Sunset Boulevard",
+      "url": "https://open.spotify.com/track/4fVWMrGH0eBrfZtnbkN7RZ"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -1041,6 +949,146 @@
       "url": "https://open.spotify.com/track/5uOzyQXpZugA0YBnKxmOUx"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Dear Evan Hansen (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Kristolyn Lloyd",
+          "url": "https://open.spotify.com/artist/31Rv7Yk0rBrYdQ0ELNZDaR"
+        },
+        {
+          "name": "Will Roland",
+          "url": "https://open.spotify.com/artist/2FYB9zfwe2ayj4zfNeh466"
+        },
+        {
+          "name": "Laura Dreyfuss",
+          "url": "https://open.spotify.com/artist/5hqM93qFRmwRv3QGrLO0jK"
+        },
+        {
+          "name": "Original Broadway Cast of Dear Evan Hansen",
+          "url": "https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij"
+        }
+      ],
+      "duration_ms": 360906,
+      "name": "You Will Be Found",
+      "url": "https://open.spotify.com/track/1H7Zqkq54andtaSSnLRrfp"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Spring Awakening (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4wzRScAgwPd1iQh3HIegFs"
+      },
+      "artists": [
+        {
+          "name": "Lea Michele",
+          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
+        }
+      ],
+      "duration_ms": 140653,
+      "name": "Mama Who Bore Me - Original Broadway Cast Recording/2006",
+      "url": "https://open.spotify.com/track/1UhzqVtJMasLHAe2UnkMFK"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Evita",
+        "url": "https://open.spotify.com/album/6q7kvF1D7EFQFWDaoAxJMj"
+      },
+      "artists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
+        },
+        {
+          "name": "Original Evita Cast",
+          "url": "https://open.spotify.com/artist/7r0Mc0nEZCwo3tLMahpcfn"
+        }
+      ],
+      "duration_ms": 351373,
+      "name": "Don't Cry For Me Argentina",
+      "url": "https://open.spotify.com/track/7mhxoW5aWHn5QiZqT4rS4S"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Legally Blonde",
+        "url": "https://open.spotify.com/album/15PeS1lN9gmoYmJMY60DxA"
+      },
+      "artists": [
+        {
+          "name": "Legally Blonde Cast",
+          "url": "https://open.spotify.com/artist/0bPaVOGlZ9vcoBJbGTVSVJ"
+        },
+        {
+          "name": "Legally Blonde",
+          "url": "https://open.spotify.com/artist/14a5mllzGkiYhfrqVRzKty"
+        }
+      ],
+      "duration_ms": 346813,
+      "name": "Omigod You Guys",
+      "url": "https://open.spotify.com/track/2UNxP9jLuK0QkE8CK3x5vc"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Hamilton (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
+      },
+      "artists": [
+        {
+          "name": "Phillipa Soo",
+          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/4B3qvzOMzLQXLeYgPsG3KA"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Hadestown (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
+      },
+      "artists": [
+        {
+          "name": "Hadestown Original Broadway Company",
+          "url": "https://open.spotify.com/artist/3brvz8iY9RVIbbM8KDb3hH"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 300246,
+      "name": "Way Down Hadestown",
+      "url": "https://open.spotify.com/track/5fnl0Tyeh4r5gPANdaVu61"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "A Chorus Line (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2WFqKARZjG0ybZfzLRKFCe"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Lopez",
+          "url": "https://open.spotify.com/artist/6CUIkKr2kYg6rvDK3DxWXV"
+        }
+      ],
+      "duration_ms": 257666,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/46N5j7yZCLafz4xJiIfxMx"
+    },
+    {
       "added_at": "2024-06-16 15:18:50",
       "album": {
         "name": "In the Heights (Original Broadway Cast Recording)",
@@ -1059,6 +1107,86 @@
       "duration_ms": 458906,
       "name": "In the Heights",
       "url": "https://open.spotify.com/track/4dS1QQw8askb1KSDLCKuvK"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Beetlejuice (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/3Nkueud4hqLWhSzOepKi7p"
+      },
+      "artists": [
+        {
+          "name": "Sophia Anne Caruso",
+          "url": "https://open.spotify.com/artist/6DQwC1hPrwv3JRmvxONCoZ"
+        },
+        {
+          "name": "Beetlejuice Original Broadway Cast Recording Ensemble",
+          "url": "https://open.spotify.com/artist/5EJf9pRO532SnGtOaeiw4F"
+        }
+      ],
+      "duration_ms": 184147,
+      "name": "Dead Mom",
+      "url": "https://open.spotify.com/track/7fRt5HCt4KgLlH45wFQCho"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "The Ballad of Sweeney Todd (Opening) [2023 Broadway Cast Recording]",
+        "url": "https://open.spotify.com/album/12vItdgogyxo0MY72MfBVm"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Paul-Jordan Jansen",
+          "url": "https://open.spotify.com/artist/6tW34Oiy4OKMEEkYWqOgHR"
+        },
+        {
+          "name": "Daniel Torres",
+          "url": "https://open.spotify.com/artist/5t2EcA6jYfjovECi69B9Ha"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Maria Bilbao",
+          "url": "https://open.spotify.com/artist/6HwBejyNHV2ncb4Vfitf5J"
+        },
+        {
+          "name": "Nicholas Christopher",
+          "url": "https://open.spotify.com/artist/1bc4RK3BAuMC9yCEYM8MrN"
+        },
+        {
+          "name": "Gaten Matarazzo",
+          "url": "https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6"
+        },
+        {
+          "name": "John Rapson",
+          "url": "https://open.spotify.com/artist/07Ewd7U9XMaZwOS4tQNVmz"
+        },
+        {
+          "name": "Jamie Jackson",
+          "url": "https://open.spotify.com/artist/24xUZlzAv0X0RRx8YtsYZu"
+        },
+        {
+          "name": "Ruthie Ann Miles",
+          "url": "https://open.spotify.com/artist/0KvyvyfojiiGL7yBIWrwLI"
+        },
+        {
+          "name": "Sweeney Todd 2023 Broadway Company",
+          "url": "https://open.spotify.com/artist/70VT6oVDiCQO0VuE347OUh"
+        },
+        {
+          "name": "Stephen Sondheim",
+          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "The Ballad of Sweeney Todd",
+      "url": "https://open.spotify.com/track/6mWNUGxfHYcLOC02N2GLwX"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -1119,6 +1247,26 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
+        "name": "Kinky Boots (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/0VfNZpKsykX5WPuyEdBilR"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        },
+        {
+          "name": "Kinky Boots Ensemble",
+          "url": "https://open.spotify.com/artist/4RLUtUZh8bb6wfoMfwjO9q"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Land of Lola",
+      "url": "https://open.spotify.com/track/6zwCy9ZNn6cQNcOzP0aYkS"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
         "name": "Oklahoma! (1998 Royal National Theatre Recording)",
         "url": "https://open.spotify.com/album/2HniCCShVLvJUGyoE8QoAN"
       },
@@ -1159,22 +1307,6 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
-        "name": "Spring Awakening (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/4wzRScAgwPd1iQh3HIegFs"
-      },
-      "artists": [
-        {
-          "name": "Lea Michele",
-          "url": "https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp"
-        }
-      ],
-      "duration_ms": 140653,
-      "name": "Mama Who Bore Me - Original Broadway Cast Recording/2006",
-      "url": "https://open.spotify.com/track/1UhzqVtJMasLHAe2UnkMFK"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
         "name": "I'd Rather Be Me",
         "url": "https://open.spotify.com/album/0VcdcVK5S1CTyZ22KjrbGf"
       },
@@ -1191,6 +1323,26 @@
       "duration_ms": 170639,
       "name": "I'd Rather Be Me",
       "url": "https://open.spotify.com/track/2UNt0aiJNNXbbtSN5Aag0x"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Heathers: The Musical (World Premiere Cast Recording)",
+        "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
+      },
+      "artists": [
+        {
+          "name": "Barrett Wilbert Weed",
+          "url": "https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz"
+        },
+        {
+          "name": "Ryan McCartan",
+          "url": "https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn"
+        }
+      ],
+      "duration_ms": 204613,
+      "name": "Dead Girl Walking",
+      "url": "https://open.spotify.com/track/5L5N8YOsBxdzR9h9sudBgG"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -1263,50 +1415,6 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
-        "name": "Hamilton (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc"
-      },
-      "artists": [
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        },
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Okieriete Onaodowan",
-          "url": "https://open.spotify.com/artist/6G3sPhnj4JBCsBVBGvZnkk"
-        },
-        {
-          "name": "Lin-Manuel Miranda",
-          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
-        },
-        {
-          "name": "Phillipa Soo",
-          "url": "https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy"
-        },
-        {
-          "name": "Christopher Jackson",
-          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
-        },
-        {
-          "name": "Original Broadway Cast of Hamilton",
-          "url": "https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu"
-        },
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        }
-      ],
-      "duration_ms": 236737,
-      "name": "Alexander Hamilton",
-      "url": "https://open.spotify.com/track/4TTV7EcfroSLWzXRY6gLv6"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
         "name": "Come From Away (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6SisHkIpxo4JN5kRcBEv9Z"
       },
@@ -1339,58 +1447,6 @@
       "duration_ms": 134506,
       "name": "Sherry",
       "url": "https://open.spotify.com/track/08AqNLS5haUpTSacAbMHA0"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "The Book of Mormon",
-        "url": "https://open.spotify.com/album/2IkdS6wZ1Hq7qrY3lTRi6y"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rannells",
-          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
-        },
-        {
-          "name": "Josh Gad",
-          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
-        },
-        {
-          "name": "Rory O'Malley",
-          "url": "https://open.spotify.com/artist/4ypbxQ7Pb5JKm2ulHXDcBP"
-        },
-        {
-          "name": "Scott Barnhardt",
-          "url": "https://open.spotify.com/artist/1A4dOeSiYZ0yBf6l5uYY7m"
-        },
-        {
-          "name": "Justin Bohon",
-          "url": "https://open.spotify.com/artist/4MYUIgtNTRdEfksW6IwvAe"
-        },
-        {
-          "name": "Kevin Duda",
-          "url": "https://open.spotify.com/artist/6b1coNssyWbKkbgZfK9MB5"
-        },
-        {
-          "name": "Clark Johnsen",
-          "url": "https://open.spotify.com/artist/6xWxKaEFEKU3r7AUzUKylT"
-        },
-        {
-          "name": "Benjamin Schrader",
-          "url": "https://open.spotify.com/artist/5OPT8oIrU42hqfKMJv0b5B"
-        },
-        {
-          "name": "Brian Sears",
-          "url": "https://open.spotify.com/artist/7prZJzDK9Eaidya20kUciB"
-        },
-        {
-          "name": "Jason Michael Snow",
-          "url": "https://open.spotify.com/artist/32oXmsd7TLzVccshoWY0mm"
-        }
-      ],
-      "duration_ms": 303360,
-      "name": "Turn It Off",
-      "url": "https://open.spotify.com/track/7ifB6Lb0Z0mqifFb5Jp6Pn"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -1587,50 +1643,6 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
-        "name": "Illinoise: A New Musical (Original Cast Recording)",
-        "url": "https://open.spotify.com/album/7bELJsLJfeTYzgtVsQiwUa"
-      },
-      "artists": [
-        {
-          "name": "Elijah Lyons",
-          "url": "https://open.spotify.com/artist/3mNGrNlQWwUMXeVH6erp17"
-        },
-        {
-          "name": "My Brightest Diamond",
-          "url": "https://open.spotify.com/artist/37qXWlhfRvpxmIeTKvfw8B"
-        },
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        },
-        {
-          "name": "Original Cast of Illinoise: A New Musical",
-          "url": "https://open.spotify.com/artist/60YCQIxNBYpPLVhEvCy8Mr"
-        }
-      ],
-      "duration_ms": 394234,
-      "name": "Come On! Feel the Illinoise!",
-      "url": "https://open.spotify.com/track/4gzJqq8u5qlv13gbmQjm8d"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Chicago The Musical (New Broadway Cast Recording (1997))",
-        "url": "https://open.spotify.com/album/5zgxFgQiGAqNmAY5EhgVWv"
-      },
-      "artists": [
-        {
-          "name": "Chicago Ensemble (1997)",
-          "url": "https://open.spotify.com/artist/5mitnQA7skz8pAo8W6t9ph"
-        }
-      ],
-      "duration_ms": 305466,
-      "name": "All That Jazz",
-      "url": "https://open.spotify.com/track/3nAuX0TA8yhqsPDHO8ybFe"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
         "name": "RENT (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7JR7tGOAvqFSpVmDlCzHIJ"
       },
@@ -1647,6 +1659,26 @@
       "duration_ms": 149773,
       "name": "I'll Cover You",
       "url": "https://open.spotify.com/track/3HMhPsOVZXZZRbZKx4f2V0"
+    },
+    {
+      "added_at": "2024-06-16 15:18:50",
+      "album": {
+        "name": "Six: The Musical (Studio Cast Recording)",
+        "url": "https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh"
+      },
+      "artists": [
+        {
+          "name": "SIX",
+          "url": "https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0"
+        },
+        {
+          "name": "Natalie Paris",
+          "url": "https://open.spotify.com/artist/4rNKsg7PLOeJY6EFH2sW2u"
+        }
+      ],
+      "duration_ms": 311301,
+      "name": "Heart of Stone",
+      "url": "https://open.spotify.com/track/3akeuMy9bqJbqDlfYevbwN"
     },
     {
       "added_at": "2024-06-16 15:18:50",
@@ -1835,26 +1867,6 @@
     {
       "added_at": "2024-06-16 15:18:50",
       "album": {
-        "name": "Heathers: The Musical (World Premiere Cast Recording)",
-        "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
-      },
-      "artists": [
-        {
-          "name": "Barrett Wilbert Weed",
-          "url": "https://open.spotify.com/artist/5yCkSShz4MTqE4Lp6fVZMz"
-        },
-        {
-          "name": "Ryan McCartan",
-          "url": "https://open.spotify.com/artist/0E3lRHTut04XpirvWC45bn"
-        }
-      ],
-      "duration_ms": 204613,
-      "name": "Dead Girl Walking",
-      "url": "https://open.spotify.com/track/5L5N8YOsBxdzR9h9sudBgG"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
         "name": "School of Rock: The Musical (Original Cast Recording)",
         "url": "https://open.spotify.com/album/05btYRpojJ7muQ3r6YAF4N"
       },
@@ -1867,46 +1879,6 @@
       "duration_ms": 192346,
       "name": "Stick It to the Man",
       "url": "https://open.spotify.com/track/0Yyr78TLC2HEhcMFfuoKfZ"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Kinky Boots (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/0VfNZpKsykX5WPuyEdBilR"
-      },
-      "artists": [
-        {
-          "name": "Billy Porter",
-          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
-        },
-        {
-          "name": "Kinky Boots Ensemble",
-          "url": "https://open.spotify.com/artist/4RLUtUZh8bb6wfoMfwjO9q"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Land of Lola",
-      "url": "https://open.spotify.com/track/6zwCy9ZNn6cQNcOzP0aYkS"
-    },
-    {
-      "added_at": "2024-06-16 15:18:50",
-      "album": {
-        "name": "Six: The Musical (Studio Cast Recording)",
-        "url": "https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh"
-      },
-      "artists": [
-        {
-          "name": "SIX",
-          "url": "https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0"
-        },
-        {
-          "name": "Natalie Paris",
-          "url": "https://open.spotify.com/artist/4rNKsg7PLOeJY6EFH2sW2u"
-        }
-      ],
-      "duration_ms": 311301,
-      "name": "Heart of Stone",
-      "url": "https://open.spotify.com/track/3akeuMy9bqJbqDlfYevbwN"
     }
   ],
   "unique_name": "Broadway Hits",

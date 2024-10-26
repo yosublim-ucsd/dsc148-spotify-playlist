@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: أحمد كامل
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,366 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,399 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 26 | [بعد فراقنا](https://open.spotify.com/track/5X7X3cwVPw6R0ou8HwtVJr) | [Ahmed Ehab](https://open.spotify.com/artist/3P9Etdmy2JoRlvlelYxZVl) | [بعد فراقنا](https://open.spotify.com/album/01odnaHYD4MlI6zkzxG8U1) | 2:28 |
 | 27 | [Salamat](https://open.spotify.com/track/51ItnGRB1cDLcLjf0B2TNA) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [Salamat](https://open.spotify.com/album/4q9kjLC336PBlGFYoLV3vm) | 2:58 |
 | 28 | [Ya Bahr](https://open.spotify.com/track/2yJCX51fBGHqzSTq2SlBFi) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Ya Bahr](https://open.spotify.com/album/2muAeXjgfziF7GDdMtaXaK) | 3:59 |
-| 29 | [Ah Ya Alby \- TWEAK Remix](https://open.spotify.com/track/1L96Fjr6LSoBzvrXXm4xa6) | [TWEAK](https://open.spotify.com/artist/44ULaMXIkxkAGmEyXyhefK), [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ah Ya Alby](https://open.spotify.com/album/52IrOu3Aac8zKuPr1bYseE) | 2:50 |
+| 29 | [Ah Ya Alby \- Tweak Remix](https://open.spotify.com/track/1L96Fjr6LSoBzvrXXm4xa6) | [TWEAK](https://open.spotify.com/artist/44ULaMXIkxkAGmEyXyhefK), [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ah Ya Alby](https://open.spotify.com/album/52IrOu3Aac8zKuPr1bYseE) | 2:50 |
 | 30 | [معرفش ينساني Ma3refsh yensany](https://open.spotify.com/track/0rLWtukItSaXp0MuGh8aIL) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [معرفش ينساني Ma3refsh yensany](https://open.spotify.com/album/067UFFeScR8TSYslrA8TrF) | 3:32 |
 | 31 | [حوش الدلع](https://open.spotify.com/track/1bmpsrIYMeY9VmveBYu6Cc) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [حوش الدلع](https://open.spotify.com/album/0Xg67d18Abk7FgLGE9PDBQ) | 2:10 |
 | 32 | [Wahshak](https://open.spotify.com/track/5QVN7a9quXpdKgYKPgmVsf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Wahshak](https://open.spotify.com/album/6COX98TbK2BoUMw6e3Oc6x) | 3:48 |

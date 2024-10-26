@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Gabry Ponte, Sean Paul & Natti Natasha
 
-733 songs - 1 day 11 hr 32 min
+734 songs - 1 day 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-27 | 2023-03-28 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-09-26 |  |
 | [Dingen Die Ik Doe](https://open.spotify.com/track/4l4GsNFlVt6J3Wr4LJqmlg) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Vlieg Hoog](https://open.spotify.com/album/3CsqojxAZHZpVQW7TFYoGQ) | 2:27 | 2023-09-14 | 2023-10-13 |
+| [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-24 |  |
 | [Do It All Again](https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Do It All Again](https://open.spotify.com/album/0fSwedf5yAl2AmIdZ2yrR0) | 2:35 | 2024-10-03 |  |
 | [Doe Maar](https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Doe Maar](https://open.spotify.com/album/0jw6ieOuuks0vMYStBr1yY) | 2:30 | 2024-05-16 | 2024-07-05 |
 | [Doe Me Dansje](https://open.spotify.com/track/79LE0asiuQOsZoe2Uwp898) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Doe Me Dansje](https://open.spotify.com/album/2WsN1f9lwKcmJHO9VupsZa) | 2:41 | 2023-04-06 | 2023-05-12 |

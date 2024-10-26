@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:0xmUZqkqmJfezc0fzyfboj\"> Sinmidele </a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists. Cover: <a href=\"spotify:artist:3qfrrrSO7utFdJkM2tvMRb\"> CeCe Winans </a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -8441,6 +8441,32 @@
     },
     {
       "album": {
+        "name": "Redeemer (Live)",
+        "url": "https://open.spotify.com/album/7msY76l3ziqjT1poQScvy8"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Rose Meregini",
+          "url": "https://open.spotify.com/artist/4Jl4Ek6XpMDBGkZHb2idl6"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435000,
+      "name": "Redeemer - Live",
+      "url": "https://open.spotify.com/track/6w28OVArdZUvPqwmzrNZOq"
+    },
+    {
+      "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/3eDMY9RySuq97wflZUQ9XF"
       },
@@ -8869,6 +8895,28 @@
     },
     {
       "album": {
+        "name": "Shekinah",
+        "url": "https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420025,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
+    },
+    {
+      "album": {
         "name": "Shelter (Live At The Manor)",
         "url": "https://open.spotify.com/album/4NuBHIUYsoqYiTN2EhnET4"
       },
@@ -9202,7 +9250,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 394715,
       "name": "Something Good - Live",
       "url": "https://open.spotify.com/track/4lde92LAgTpa5SSWhQa8me"
@@ -11096,7 +11144,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 367965,
       "name": "We Always Win - Live at Ramp Church Texas",
       "url": "https://open.spotify.com/track/1i7ukStv7lTLkMAF00Q9f1"

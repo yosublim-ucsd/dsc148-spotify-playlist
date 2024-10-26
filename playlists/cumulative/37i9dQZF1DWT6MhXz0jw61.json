@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "The Drive Home",
+        "url": "https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149057,
+      "name": "100sqft",
+      "url": "https://open.spotify.com/track/7gaYEAG0BQuoiahRcaV0UH"
+    },
+    {
+      "album": {
         "name": "Wiz Owens",
         "url": "https://open.spotify.com/album/4BSjZSAOEX6Gs4f8e1xatg"
       },
@@ -1423,6 +1441,28 @@
     },
     {
       "album": {
+        "name": "The Lotus Child",
+        "url": "https://open.spotify.com/album/39FpJp8gjraLFv0HZByz0D"
+      },
+      "artists": [
+        {
+          "name": "Che Noir",
+          "url": "https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J"
+        },
+        {
+          "name": "The Soulyghost",
+          "url": "https://open.spotify.com/artist/5I0MlK68aOYfPGsIdmBrIr"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210610,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/2hTSBtuYVdSItzhgXQ5O4d"
+    },
+    {
+      "album": {
         "name": "STILL (Five & A F*** You) [Deluxe]",
         "url": "https://open.spotify.com/album/3ntrXHNZUCz0ScUKDziuP8"
       },
@@ -2578,7 +2618,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 241848,
       "name": "Blame On Me",
       "url": "https://open.spotify.com/track/5w7IRpQTMNA2EuWrHDmClX"
@@ -3165,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "Bronx Zoo",
+        "url": "https://open.spotify.com/album/16l6OMtVHYROf8b9KGWJqN"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166868,
+      "name": "Bronx Zoo",
+      "url": "https://open.spotify.com/track/6hlJbGpqgvf8m7Cmh1KHSA"
+    },
+    {
+      "album": {
         "name": "Brotherly Love",
         "url": "https://open.spotify.com/album/3NAl8JnImRMaP2vRu8mRlM"
       },
@@ -3351,6 +3409,32 @@
     },
     {
       "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/49XXnXZyajupirusZZ8fow"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        },
+        {
+          "name": "Mojam",
+          "url": "https://open.spotify.com/artist/5Ow1i0OsFyhm7yXFnHGfPu"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200533,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/5YAMpdokIKFGs8pYkCKITc"
+    },
+    {
+      "album": {
         "name": "Buzz",
         "url": "https://open.spotify.com/album/3BbEx59aAP3YPVr505lj3r"
       },
@@ -3388,6 +3472,24 @@
       "duration_ms": 193168,
       "name": "C Carter",
       "url": "https://open.spotify.com/track/37kW9eEI0EJFM0ip2mf1Wy"
+    },
+    {
+      "album": {
+        "name": "CA$HMERE TEAR$",
+        "url": "https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242242,
+      "name": "CA$HMERE TEAR$",
+      "url": "https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav"
     },
     {
       "album": {
@@ -5936,7 +6038,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 136170,
       "name": "Dream Youngin",
       "url": "https://open.spotify.com/track/1p87LMPtvGstwN6MIGMNQ0"
@@ -6195,6 +6297,28 @@
     },
     {
       "album": {
+        "name": "Ecstasy (Freestyle)",
+        "url": "https://open.spotify.com/album/4l5ytI2ykKixML9AQwbL9X"
+      },
+      "artists": [
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117562,
+      "name": "Ecstasy (Freestyle)",
+      "url": "https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik"
+    },
+    {
+      "album": {
         "name": "Eee Zee",
         "url": "https://open.spotify.com/album/07osvOkL07RkoPMQDvqYqQ"
       },
@@ -6308,6 +6432,24 @@
       "duration_ms": 136738,
       "name": "Enough",
       "url": "https://open.spotify.com/track/5Sl5t1EmMtNWAIbLUhKF3y"
+    },
+    {
+      "album": {
+        "name": "The Drive Home (Clean Version)",
+        "url": "https://open.spotify.com/album/6Hg7S5WSBU3yiochCMaXLk"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160784,
+      "name": "Entry #149",
+      "url": "https://open.spotify.com/track/3jlIKHFVJTPqjaUGgAt0Rk"
     },
     {
       "album": {
@@ -7830,7 +7972,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 203529,
       "name": "Gallery",
       "url": "https://open.spotify.com/track/0Rhzk5DxjCoC4eVYV1RVSx"
@@ -9153,6 +9295,28 @@
     },
     {
       "album": {
+        "name": "Hide It (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/4sAQkEB9HwmyKAd9JNZ7ee"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207501,
+      "name": "Hide It (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS"
+    },
+    {
+      "album": {
         "name": "Laughing so Hard, it Hurts",
         "url": "https://open.spotify.com/album/0zI5KZ81RN2x6RrQchLLBQ"
       },
@@ -9585,6 +9749,28 @@
     },
     {
       "album": {
+        "name": "houstoncomet",
+        "url": "https://open.spotify.com/album/7oCcvzTpQmQTKNPVYT2AB1"
+      },
+      "artists": [
+        {
+          "name": "Blvck Svm",
+          "url": "https://open.spotify.com/artist/7gwpZPmZHIx4B2uLl6uimj"
+        },
+        {
+          "name": "Stoic",
+          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143963,
+      "name": "houstoncomet",
+      "url": "https://open.spotify.com/track/3LEIP7YKKdUcqhjC1rRI8o"
+    },
+    {
+      "album": {
         "name": "How It Coulda Been / My Life",
         "url": "https://open.spotify.com/album/6GZADmuCmkkVvePPhiXC2o"
       },
@@ -9618,6 +9804,28 @@
       "duration_ms": 183204,
       "name": "How Much Do You Love Me?",
       "url": "https://open.spotify.com/track/7gMyrexAEJ9fL5GtKvDFNx"
+    },
+    {
+      "album": {
+        "name": "How to Impress God",
+        "url": "https://open.spotify.com/album/7pJJ3QKvYRqPAShAqzwQFs"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "How to Impress God",
+      "url": "https://open.spotify.com/track/1o5j4OuuHUVMTG0sv35Lsa"
     },
     {
       "album": {
@@ -10300,7 +10508,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 163124,
       "name": "In The Dirt",
       "url": "https://open.spotify.com/track/0w8xLwXp9WDrlPxyWofCUS"
@@ -11018,7 +11226,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 190210,
       "name": "Keep It To Me",
       "url": "https://open.spotify.com/track/6xMLAiZCQh5YvpkuvcKgvf"
@@ -11058,7 +11266,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 149671,
       "name": "Keep Your Grin Up",
       "url": "https://open.spotify.com/track/0ZCToNspnEjkN2Jcpi5hwX"
@@ -12052,7 +12260,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 156384,
       "name": "Look Again",
       "url": "https://open.spotify.com/track/6wVUTCjnlGQ1z8fcHheF1a"
@@ -12370,7 +12578,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 166257,
       "name": "Magnolia Rain",
       "url": "https://open.spotify.com/track/5UHNA6wKJ4NEYC4H9NJ8ys"
@@ -14867,6 +15075,28 @@
     },
     {
       "album": {
+        "name": "Passenger Princess / Adam",
+        "url": "https://open.spotify.com/album/6eszObM49D1h61rbPxS7po"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147961,
+      "name": "Passenger Princess (feat. Smino)",
+      "url": "https://open.spotify.com/track/4XXARhW0U9SKGQJcnYIDAC"
+    },
+    {
+      "album": {
         "name": "Passports & Suitcases (feat. KayCyy)",
         "url": "https://open.spotify.com/album/51CsULE4CnOMvX0Vkiau0s"
       },
@@ -15702,6 +15932,24 @@
       "duration_ms": 329295,
       "name": "Purple Hearts",
       "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
+    },
+    {
+      "album": {
+        "name": "Pursuit Of Happiness / Gold Flowers, Pt. 3",
+        "url": "https://open.spotify.com/album/0w2dz9bTALBGC3l6Q3JsWG"
+      },
+      "artists": [
+        {
+          "name": "AKTHESAVIOR",
+          "url": "https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154940,
+      "name": "Pursuit Of Happiness",
+      "url": "https://open.spotify.com/track/2JA3CSRzYoINUZ77Ktl4IK"
     },
     {
       "album": {
@@ -17164,7 +17412,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 168802,
       "name": "Shine Bright",
       "url": "https://open.spotify.com/track/7z1zqhWUuQ6E1WxvpppMo9"
@@ -17558,7 +17806,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 97641,
       "name": "SLOW MONEY",
       "url": "https://open.spotify.com/track/4k53NT1TxClQ53PL0S323t"
@@ -19580,7 +19828,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 233323,
       "name": "The Quest",
       "url": "https://open.spotify.com/track/4ZhOSdcezNOSI8StRRqqik"
@@ -20126,7 +20374,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 236873,
       "name": "To You (feat. Robert Glasper, Emi Secrest)",
       "url": "https://open.spotify.com/track/5vqAcaqvnU7mKey51GcwXy"
@@ -20174,6 +20422,24 @@
       "duration_ms": 181910,
       "name": "Together Forever (Big Sean & The Alchemist)",
       "url": "https://open.spotify.com/track/38W7Dc1FqHiYgqWpoxrBd1"
+    },
+    {
+      "album": {
+        "name": "PEACE 2 DA WORLD",
+        "url": "https://open.spotify.com/album/0gOTg0Yi6YMKH7o58VtW17"
+      },
+      "artists": [
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118400,
+      "name": "Tokyo Drift",
+      "url": "https://open.spotify.com/track/0awtrNwj7Tc3tnR8pGKBPT"
     },
     {
       "album": {
@@ -20354,7 +20620,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 144098,
       "name": "Top Of The Morning",
       "url": "https://open.spotify.com/track/5dlxwBSejcXd9gxn80aSH3"

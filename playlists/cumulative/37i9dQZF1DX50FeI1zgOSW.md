@@ -2,7 +2,7 @@
 
 ### [RADAR Tamil](https://open.spotify.com/playlist/37i9dQZF1DX50FeI1zgOSW)
 
-> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall
+> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sandhya Chari
 
 390 songs - 22 hr 26 min
 
@@ -250,7 +250,7 @@
 | [OORO](https://open.spotify.com/track/0gJyRJTtghZEfOz9dJIcv2) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [OORO](https://open.spotify.com/album/1ZDtWTvDxsL2c6bPKSM6df) | 2:18 | 2024-04-15 | 2024-10-25 |
 | [Ooru Sanam](https://open.spotify.com/track/00gwJJMsxFJ4Dm5MfJcr2Z) | [A T Ram](https://open.spotify.com/artist/4ORr051zUJKNxE2cS57UpO), [Muthu Sirpi](https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm), [FANOHA](https://open.spotify.com/artist/5WFn5wt1M57jYMfmKoUSUx) | [Ooru Sanam](https://open.spotify.com/album/3QnlQ9p9YcUM3drcQxH0iM) | 4:11 | 2023-07-31 | 2023-12-12 |
 | [Oru Paarvai](https://open.spotify.com/track/3CRuPRCfetM8q1L9xPloyw) | [Srini Vasan](https://open.spotify.com/artist/3lOepsCr1cfJYBm14d77Bw) | [Oru Paarvai](https://open.spotify.com/album/5XJcvKbj9WzygWDEENDqyW) | 4:31 | 2023-12-22 | 2024-07-30 |
-| [Oru Panithuli](https://open.spotify.com/track/0sQx2kPgztAoyYrZ1KZEUG) | [Pranav Sooraj](https://open.spotify.com/artist/0LL6UrzvgzwSi3M3gllE3I), [Devaharshan](https://open.spotify.com/artist/15vvBI4vPBuQKm7Fskcdv0) | [Oru Panithuli](https://open.spotify.com/album/26GwJWIMxEGLXwl34BrK00) | 4:25 | 2024-07-09 |  |
+| [Oru Panithuli](https://open.spotify.com/track/0sQx2kPgztAoyYrZ1KZEUG) | [Pranav Sooraj](https://open.spotify.com/artist/0LL6UrzvgzwSi3M3gllE3I), [Devaharshan](https://open.spotify.com/artist/15vvBI4vPBuQKm7Fskcdv0) | [Oru Panithuli](https://open.spotify.com/album/26GwJWIMxEGLXwl34BrK00) | 4:25 | 2024-07-09 | 2024-10-26 |
 | [Oru Parvaiyaal](https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER) | [Mysterix Infinity](https://open.spotify.com/artist/6JsH7HKaRCfSsRSHrLCAK3) | [Oru Parvaiyaal](https://open.spotify.com/album/3WEYvBWiMwhxmyG9MrJufN) | 5:43 | 2023-03-21 | 2023-06-24 |
 | [Oru Theniyin Kadhal](https://open.spotify.com/track/25pEd2JmX87sckTCxRFwDU) | [RK Vilasini](https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy) | [Oru Theniyin Kadhal](https://open.spotify.com/album/4RPjQ9C8VwrCvjzGNawgwX) | 4:11 | 2023-03-21 | 2023-07-25 |
 | [Oru Uvamai](https://open.spotify.com/track/5UMeOW8eAD5XRI9JnqG1Ta) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Oru Uvamai](https://open.spotify.com/album/1OJk6AwLsV8dqT4xLmDgAD) | 3:02 | 2023-03-21 | 2023-08-03 |

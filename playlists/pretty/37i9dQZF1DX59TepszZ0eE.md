@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z?si=VcgCrDWERjmZOzQot\_HNbA>Solly Moholo</a>
+> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og?si=IYyfPa41TjeStwSPU7D1nA>Ntokozo Mbabo</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,967 likes - 105 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,040 likes - 105 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Banaka Nako Ea Me E Haufi](https://open.spotify.com/track/3rtv6UeFWYOAbegjRrrGCB) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Motlhang Ke Kolobetswa 'Die Poppe Sal Dans'](https://open.spotify.com/album/6OIg6NwgtsE7kfcPH3PL23) | 5:28 |
 | 2 | [Ngegama Lakho Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/7aRQTRifIQY3BQ8p3Ypo2f) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Ngegama Lakho Jesu \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/4NkqciMpps60RHj9ZDAnpD) | 7:05 |
-| 3 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 |
-| 4 | [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 |
-| 5 | [If I Be Lifted](https://open.spotify.com/track/7rPWiMCnXKmZp3D5s1UHNe) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Lavish Worship Praise Medley](https://open.spotify.com/album/7nGYOYJ9fqWdGAubqqc4vV) | 4:58 |
+| 3 | [If I Be Lifted](https://open.spotify.com/track/7rPWiMCnXKmZp3D5s1UHNe) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Lavish Worship Praise Medley](https://open.spotify.com/album/7nGYOYJ9fqWdGAubqqc4vV) | 4:58 |
+| 4 | [Bamba Mzalwane \(Live\)](https://open.spotify.com/track/7EK0Se77nYoRndoAJXUWHq) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Pastor M Tshabalala](https://open.spotify.com/artist/4y1C1Os7WSQmz4c25ulZQQ) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 9:16 |
+| 5 | [Asikho Isikhali \(Live\)](https://open.spotify.com/track/2b35KuJzUmtfroem1tRM8R) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Asikho Isikhali \(Live\)](https://open.spotify.com/album/141EOfzwPAMzBYjuPimZly) | 12:24 |
 | 6 | [Pela Hao / Jehovah o Lefika \- Live](https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 8:41 |
 | 7 | [Wubani O zo Pepeza](https://open.spotify.com/track/13Upyibdp5rgnRkG8Jbsoy) | [Solly Moholo](https://open.spotify.com/artist/5rPklQ6cqWrAGWgHxjZS8Z) | [Wubani O zo Pepeza](https://open.spotify.com/album/01XauFW5LraNVO4CP2BoNm) | 4:50 |
 | 8 | [Sewakhile](https://open.spotify.com/track/6SPsSZsCkUpP2IzUpIoMvT) | [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Greatest Hits](https://open.spotify.com/album/1zj2POKS3mxCWamZPlJcWZ) | 4:42 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 104 | [Ngiza Ngokukholwa \(Live at the Durban Icc\)](https://open.spotify.com/track/7ni9SGonngu16zwAbFwVW9) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(Live at the Durban Icc\)](https://open.spotify.com/album/2F6EYWwEN8z7yuzjtV5WB2) | 10:36 |
 | 105 | [Simbona Ngothando Lwakhe \- Medley 5](https://open.spotify.com/track/172mC4BMtR3eLkAU9BVWuT) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Simbona Ngothando Lwakhe \(Medley 5\)](https://open.spotify.com/album/3UPce4KDwaZsWJnmWXbMji) | 5:42 |
 
-Snapshot ID: `ZxrfvAAAAABJ/Om19XmfjtDHtecmrJMl`
+Snapshot ID: `ZxtVxQAAAACQghCdbkrLdixBUdYVCX8G`

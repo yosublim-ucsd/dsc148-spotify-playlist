@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits Cover: Kublai Khan TX
 
-1,036 songs - 2 day 16 hr 5 min
+1,038 songs - 2 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Blood For Blood](https://open.spotify.com/track/6K7CKGJS74vxcW8QmyWP2p) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [Blood For Blood](https://open.spotify.com/album/0ZLXQ4hfuQxAjxICWDXalb) | 2:45 | 2024-08-12 | 2024-09-01 |
 | [Blood Spiller](https://open.spotify.com/track/4U0ZkhJ5q8JOFzDhRrCsVI) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Blood Spiller](https://open.spotify.com/album/4INTfLLX0IkZALmFceJKuZ) | 4:01 | 2022-04-29 | 2022-06-11 |
 | [Bloodworm](https://open.spotify.com/track/5Pjh6ASGIGPUBPHUBVkx3V) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Bloodworm](https://open.spotify.com/album/3FhzcYTV0wpJjVlw7mf3D4) | 3:14 | 2024-08-25 | 2024-09-21 |
+| [Bloom](https://open.spotify.com/track/3iL042KGHm1rbvtczHOfXQ) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Bloom](https://open.spotify.com/album/0DhnBougYQz6wzMIyxL52g) | 3:25 | 2024-10-18 |  |
 | [BlüdGod \(feat\. Taylor Barber\)](https://open.spotify.com/track/73CqRvFzveR4Ckw9lrbG0z) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [BlüdGod \(feat\. Taylor Barber\)](https://open.spotify.com/album/3L1QV2uTt9Y0tqG2Uyv9CL) | 3:30 | 2024-06-04 | 2024-09-12 |
 | [Boltcutter](https://open.spotify.com/track/094hTvgTyLna5FsFulp3DH) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Boltcutter](https://open.spotify.com/album/6OP2USRvGKWn7YUrwa8zur) | 3:37 | 2022-12-02 | 2023-02-18 |
 | [Bonebreaker](https://open.spotify.com/track/4XIyKIqxM2wo4mZJYPwoqa) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kostolom](https://open.spotify.com/album/3VdKGKINXzkSLDXIqmhw6T) | 4:25 | 2022-07-13 | 2022-07-23 |
@@ -249,7 +250,7 @@
 | [Deadlock](https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i) | 4:15 | 2022-01-14 | 2022-04-23 |
 | [Deadly Potential](https://open.spotify.com/track/1JZx2mGv66ttbIExCIDytp) | [Unseen Faith](https://open.spotify.com/artist/0jxsB41mcHVlqUygQZ9o7V), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Deadly Potential](https://open.spotify.com/album/3MQj3V69ZtkWi9mLV3lcmy) | 3:04 | 2022-10-08 | 2022-12-17 |
 | [Deadman](https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Deadman](https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs) | 3:29 | 2022-01-28 | 2022-04-09 |
-| [Deadweight](https://open.spotify.com/track/6acStZnAy3HC0IOQtQWnmQ) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Deadweight](https://open.spotify.com/album/1cHbSBOKZktVPSrjClBDcj) | 4:03 | 2024-10-18 |  |
+| [Deadweight](https://open.spotify.com/track/6acStZnAy3HC0IOQtQWnmQ) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Deadweight](https://open.spotify.com/album/1cHbSBOKZktVPSrjClBDcj) | 4:03 | 2024-10-18 | 2024-10-26 |
 | [Dear Wendy](https://open.spotify.com/track/0eD0Svr1TOFx8QgNkpTBsT) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Long Time, No Sea \(Expanded Edition\)](https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7) | 3:27 | 2021-12-17 | 2022-07-23 |
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-01-14 | 2022-07-23 |
 | [DEATH \(By Modern Error\)](https://open.spotify.com/track/2Komicfi85vw7aPJI0xxZA) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt), [Modern Error](https://open.spotify.com/artist/1QvyglfXAHITHVc45nSc1T) | [DEATH \(By Modern Error\)](https://open.spotify.com/album/0KvJUEcjyV6KB2ECXbkqvq) | 3:32 | 2022-04-29 | 2022-07-08 |
@@ -388,6 +389,7 @@
 | [Forever Bloom \(feat\. Trevor Strnad\)](https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b), [Trevor Strnad](https://open.spotify.com/artist/5ABUXkPbITc1OnlxG0fPmf) | [Forever Bloom](https://open.spotify.com/album/2Nvrs4vBmCZcHLnALbN2hk) | 2:49 | 2022-11-18 | 2022-12-17 |
 | [Forever Yours](https://open.spotify.com/track/42QjPSl9BLQ6X0ciDJXMpD) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Forever Yours](https://open.spotify.com/album/6bhTmeMKYsSgqg7hAaU8KQ) | 3:10 | 2022-04-08 | 2022-07-01 |
 | [Forever Yours](https://open.spotify.com/track/7e7meNa1AtJ1PGntydHkaZ) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Between Me and The Machine](https://open.spotify.com/album/6l8CriAGZ9xzFOFazJCYSk) | 4:38 | 2021-12-17 | 2022-02-18 |
+| [Forget It](https://open.spotify.com/track/1hNgjucoAolEIp6uSantcp) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Forget It](https://open.spotify.com/album/1FKP9SXb95FsJ6AplRcWC8) | 3:46 | 2024-10-18 |  |
 | [Forgive And Forget \(feat\. Fit For A King\)](https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237), [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Forgive and Forget \(feat\. Fit For A King\)](https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN) | 3:35 | 2024-07-12 |  |
 | [Forgotten](https://open.spotify.com/track/0ZZCltcOacjI1kY4BnVDjt) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 1](https://open.spotify.com/album/6wurDqEmcCcIoria5SRmom) | 2:55 | 2024-01-12 | 2024-03-09 |
 | [Forgotten](https://open.spotify.com/track/277kkbKWZtQUpnK19WcEM6) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Forgotten](https://open.spotify.com/album/4RnQzNSS5tZCgSOSuK7dM1) | 2:55 | 2023-09-15 | 2024-01-19 |
@@ -445,7 +447,7 @@
 | [Hear You Scream](https://open.spotify.com/track/5fegfkA0EiK5yL8gSJi8o4) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Hear You Scream](https://open.spotify.com/album/0uUoMHRLw4sC5BWRjQlK3O) | 3:28 | 2023-08-18 | 2024-02-24 |
 | [Heathens](https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heathens](https://open.spotify.com/album/3tjvaW6nGu53X7iwbIUNqk) | 3:30 | 2022-05-20 | 2022-07-23 |
 | [Heaven Shall Burn](https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven Shall Burn](https://open.spotify.com/album/7nJzHteWK38ha0G1J8i57V) | 4:07 | 2023-11-27 | 2024-02-24 |
-| [HEAVY RAIN](https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [HEAVY RAIN](https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih) | 3:54 | 2023-09-29 |  |
+| [HEAVY RAIN](https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [HEAVY RAIN](https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih) | 3:54 | 2023-09-29 | 2024-10-26 |
 | [Heir to the Serpent](https://open.spotify.com/track/2kBVTplPtDRx0sqXWtTYOh) | [The Guild](https://open.spotify.com/artist/5BVgUzoX3ui5r5bBWMNGLX) | [Heir to the Serpent](https://open.spotify.com/album/1KkGP91FL5N5zxc9Jb8Fpd) | 4:23 | 2022-07-13 | 2022-07-23 |
 | [Hell is Other People](https://open.spotify.com/track/7q7ZgeTsfhCDewBSb5tIim) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Hell is Other People](https://open.spotify.com/album/4RWvDCNII3onIm2bZvjzdy) | 3:39 | 2022-07-13 | 2022-07-19 |
 | [Hell Is Where The Heart Is](https://open.spotify.com/track/4jZFmBhYpwwiWjuEYmlEYq) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. III: Clarity](https://open.spotify.com/album/7lt5GA2p1R951h7cg6IycG) | 3:53 | 2022-11-25 | 2023-08-28 |

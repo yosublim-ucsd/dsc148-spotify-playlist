@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country music that rocks. Cover: Treaty Oak Revival",
+  "description": "Country music that rocks. Cover: Ryan Hurd",
   "name": "Country Rocks",
   "tracks": [
     {
@@ -3206,7 +3206,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 172106,
       "name": "I'm Not For Everyone",
       "url": "https://open.spotify.com/track/4OFh1cyIE0Ycd0LbNl9WgX"
@@ -6058,6 +6058,24 @@
       "duration_ms": 206307,
       "name": "These Old Boots",
       "url": "https://open.spotify.com/track/7eaqzZaLKrUZYW58SALER2"
+    },
+    {
+      "album": {
+        "name": "This Party Sucks",
+        "url": "https://open.spotify.com/album/37Ld8z5zVCOJa4PylMH0B4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181570,
+      "name": "This Party Sucks",
+      "url": "https://open.spotify.com/track/62r3cMCWOd8FuAuVU1yJD4"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24223,
+  "num_followers": 24229,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAACZhnReVLJ/yZ8A4uGZrgkd",
+  "snapshot_id": "ZxmOAAAAAABs1zvTK5Ijtc7yOufqythr",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/7ql438zy2icDWhxBHGOieI"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 187943,
-      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
-      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
+      "duration_ms": 212906,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j"
     },
     {
       "added_at": null,
@@ -171,22 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something New",
-        "url": "https://open.spotify.com/album/7ql438zy2icDWhxBHGOieI"
+        "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
+        "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
       },
       "artists": [
         {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 212906,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j"
+      "duration_ms": 187943,
+      "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
+      "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
     },
     {
       "added_at": null,

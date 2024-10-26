@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/quintab/\">Quinta Brunson</a>",
-  "num_followers": 70545,
+  "num_followers": 70587,
   "original_name": "Quinta Brunson's Taste",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,22 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "I Care 4 U",
-        "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
       "artists": [
         {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 265666,
-      "name": "Are You That Somebody",
-      "url": "https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb"
+      "duration_ms": 296266,
+      "name": "Every Time I Close My Eyes (with Kenny G)",
+      "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
     },
     {
       "added_at": "2022-10-01 16:54:27",
@@ -263,22 +267,18 @@
     {
       "added_at": "2022-10-01 16:54:27",
       "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+        "name": "I Care 4 U",
+        "url": "https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
         }
       ],
-      "duration_ms": 296266,
-      "name": "Every Time I Close My Eyes (with Kenny G)",
-      "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
+      "duration_ms": 265666,
+      "name": "Are You That Somebody",
+      "url": "https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb"
     },
     {
       "added_at": "2022-10-01 16:54:27",

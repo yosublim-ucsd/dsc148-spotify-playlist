@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Claudia Bouvette
 
-1,901 songs - 4 day 1 hr 44 min
+1,902 songs - 4 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [birds](https://open.spotify.com/track/4QfpUdVYrK4oty2CpKxpA3) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [birds](https://open.spotify.com/album/7F5PY8X0JQQdHnyyKNTHft) | 4:34 | 2023-02-03 | 2023-03-04 |
 | [Bitches In The Bathroom](https://open.spotify.com/track/1I6kjA6CsQP7kwI1LCj6WA) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bitches In The Bathroom](https://open.spotify.com/album/1elbtwTB9KibNv16C9QUp4) | 2:59 | 2022-01-07 | 2022-02-05 |
 | [Bitches In The Bathroom \- Charlie Burg Remix](https://open.spotify.com/track/0kYiROCi36yejkwbuDlofB) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR), [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Bitches In The Bathroom](https://open.spotify.com/album/1elbtwTB9KibNv16C9QUp4) | 2:41 | 2021-12-06 | 2022-01-08 |
+| [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 | 2024-10-25 |  |
 | [BITTER](https://open.spotify.com/track/0DvKlrYXQsoJGotGzsqcbA) | [DACEY](https://open.spotify.com/artist/76y8Or7IQGZcKZZ4B8ypw0) | [BITTER](https://open.spotify.com/album/5oFxHBhSxMPLC2dSJufqDw) | 4:17 | 2021-12-06 | 2022-01-08 |
 | [Bitter](https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Bitter](https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp) | 2:18 | 2022-11-11 | 2022-12-01 |
 | [Bitter Melon](https://open.spotify.com/track/4YUN90iIpBt9n0GOkpfSSd) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Bitter Melon](https://open.spotify.com/album/6fgDkFlNpycP6P6zs1J615) | 6:09 | 2024-04-16 | 2024-05-03 |
@@ -1475,7 +1476,7 @@
 | [signal](https://open.spotify.com/track/2A4kNoERFvveZIeOQepSDs) | [shy kids](https://open.spotify.com/artist/1ttJm0dfyxCPbCJCRDzjAv), [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [signal](https://open.spotify.com/album/4T38Y8MEFE8IUaIKuCqD0U) | 3:32 | 2024-08-02 | 2024-09-07 |
 | [Silver Girl](https://open.spotify.com/track/4ZbwKnGwcgufvQ74Le0RGu) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Silver Girl](https://open.spotify.com/album/7jRY6EP1tBPyLO1zs14Gmq) | 2:23 | 2023-10-05 | 2023-11-11 |
 | [Silver Lining](https://open.spotify.com/track/1yLYOqEaafdA6LzWpfzFIL) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Silver Lining](https://open.spotify.com/album/2OieKLUZmHUcwMqtLpHoBg) | 3:39 | 2022-06-03 | 2022-07-02 |
-| [SILVER LINING](https://open.spotify.com/track/2R3kVpQXs8JDxPDTaxVCI0) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [SILVER LINING](https://open.spotify.com/album/1IanrkCilDUYp7SJoe0oW7) | 4:43 | 2024-10-04 |  |
+| [SILVER LINING](https://open.spotify.com/track/2R3kVpQXs8JDxPDTaxVCI0) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [SILVER LINING](https://open.spotify.com/album/1IanrkCilDUYp7SJoe0oW7) | 4:43 | 2024-10-04 | 2024-10-26 |
 | [SILVERSTONE SUMMERTIMES III.](https://open.spotify.com/track/4nSIagdYwtuni95rRopyty) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SILVERSTONE SUMMERTIMES III.](https://open.spotify.com/album/1FgNpmK9hdaVy9fZq5HK5P) | 4:02 | 2024-09-06 | 2024-10-05 |
 | [Since I Met You](https://open.spotify.com/track/2V5rvUTRORhRqRIamSO5ZW) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Since I Met You](https://open.spotify.com/album/0wctdcNAm9vZGtGwRLYRa2) | 4:30 | 2022-03-04 | 2022-04-02 |
 | [SING 4 U](https://open.spotify.com/track/3QFAVcykO2pFIblFgpmbMJ) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA), [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [SING 4 U](https://open.spotify.com/album/4HSG04TwkhT8HA9IkbXvst) | 2:35 | 2021-12-06 | 2022-01-08 |

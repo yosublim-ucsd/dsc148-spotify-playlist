@@ -4,7 +4,7 @@
 
 > Music to take the pain of homework away.
 
-718 songs - 1 day 14 hr 55 min
+719 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 | 2024-08-09 |  |
 | [Break My Heart Again](https://open.spotify.com/track/0DGh73t9eaZA3X3ZXHf4Qe) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1oX0tpdqOXCq3FqoPoQEnh) | 3:58 | 2023-06-30 | 2023-08-05 |
 | [Break My Heart Again](https://open.spotify.com/track/7gGBgh0bVxHPgZjA505bo9) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/1O1Ulu4uuaceAzsNfN7ks0) | 3:58 | 2022-04-14 | 2022-07-29 |
+| [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-10-25 |  |
 | [Breeze](https://open.spotify.com/track/4GYUFc9nA3CqfotomfA95m) | [Matt Hylom](https://open.spotify.com/artist/3FQ8OZA3NwBaVfTbldZYa5) | [Breeze](https://open.spotify.com/album/1uRgqvN7v9cYCEZWkpvJa2) | 1:51 | 2022-04-14 | 2022-04-21 |
 | [Broke](https://open.spotify.com/track/1HgtvcT9glbQatbAyrBgSj) | [Siné](https://open.spotify.com/artist/5HYaLf4JMuWw7OrO01YFiN) | [Broke](https://open.spotify.com/album/1lJDPnEA1FiJCDqbUh6Agc) | 3:01 | 2022-04-14 | 2022-04-21 |
 | [Broken Clocks](https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 | 2022-09-09 | 2022-10-08 |
@@ -181,7 +182,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-15 |  |
 | [Espresso \- triple j Like A Version](https://open.spotify.com/track/0A4C1zlDJIA4ZBlAZFqA3s) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Espresso \(triple j Like A Version\)](https://open.spotify.com/album/3k95lpBszHfEn5dZqdqMEF) | 3:04 | 2024-08-09 | 2024-08-11 |
 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2024-03-29 |  |
-| [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2022-05-31 |  |
+| [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2022-05-31 | 2024-10-26 |
 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 | 2022-04-14 | 2023-01-22 |
 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 | 2022-07-08 | 2022-09-10 |
 | [Except For You](https://open.spotify.com/track/1v9pQYUip7vu6JMGgRzluo) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [I hate ur guts](https://open.spotify.com/album/4AcH75si00XDu4k3UgRHLV) | 3:08 | 2022-04-14 | 2022-04-21 |

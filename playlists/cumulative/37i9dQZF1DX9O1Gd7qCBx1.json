@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Calavera",
+        "url": "https://open.spotify.com/album/1JperEumGPkfKIZ33QdJ8C"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178280,
+      "name": "Calavera",
+      "url": "https://open.spotify.com/track/02fIKoqU1S6i4UQdqjGS1R"
+    },
+    {
+      "album": {
         "name": "La Marcha de la Vida",
         "url": "https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD"
       },
@@ -216,7 +234,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 269640,
       "name": "Calaveras (with Lila Downs)",
       "url": "https://open.spotify.com/track/3YpDNLFNIBJjoUFJHyGC65"
@@ -314,7 +332,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 260974,
       "name": "Calaveritas",
       "url": "https://open.spotify.com/track/3kvZCUYzkTDGsxeH0bc1nE"
@@ -813,6 +831,24 @@
     },
     {
       "album": {
+        "name": "Especial de D\u00eda de Muertos (En Vivo)",
+        "url": "https://open.spotify.com/album/7rMipwOaDCAanINiqam8M8"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219807,
+      "name": "El Corrido de Miguel Rivera - En Vivo",
+      "url": "https://open.spotify.com/track/5hX714XFVzo8n6pUtIovFc"
+    },
+    {
+      "album": {
         "name": "Coco (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI"
       },
@@ -867,6 +903,24 @@
     },
     {
       "album": {
+        "name": "Yang",
+        "url": "https://open.spotify.com/album/3dhNpAkl8UJoj5N1MDLbUy"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163815,
+      "name": "El D\u00eda de Tu Muerte",
+      "url": "https://open.spotify.com/track/0si30sd2Zl0lXnNUC8FxyS"
+    },
+    {
+      "album": {
         "name": "Ajenos / El D\u00eda de tu Muerte",
         "url": "https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR"
       },
@@ -878,7 +932,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 163815,
       "name": "El D\u00eda de Tu Muerte",
       "url": "https://open.spotify.com/track/5SzKwKMc5CzPNE8FMCrhrP"
@@ -1037,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
+    },
+    {
+      "album": {
         "name": "\u00a1\u00a1En Escena!!",
         "url": "https://open.spotify.com/album/6dyxIMSQ3DDb41D2Myhp1U"
       },
@@ -1102,7 +1174,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 241493,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/7BREGQPY6ZABmdfqcNbgEZ"
@@ -2710,7 +2782,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 207960,
       "name": "Trece Cielos (Con Cerveza Victoria)",
       "url": "https://open.spotify.com/track/5lMgrfqMHikrPx0trUm5aT"
@@ -2847,6 +2919,32 @@
     },
     {
       "album": {
+        "name": "Chao",
+        "url": "https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309221,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Alto",
         "url": "https://open.spotify.com/album/2Gxxed1c45BQTqHbfBbmsG"
       },
@@ -2870,10 +2968,28 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 217053,
       "name": "Xochipitzahua",
       "url": "https://open.spotify.com/track/0r82j8iwYUY9XMA2YX5S9s"
+    },
+    {
+      "album": {
+        "name": "Y Que Tal Si Te Escapas Del Cielo",
+        "url": "https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211750,
+      "name": "Y Que Tal Si Te Escapas Del Cielo",
+      "url": "https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T"
     },
     {
       "album": {

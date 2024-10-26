@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-299 songs - 18 hr 3 min
+300 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Endukala \(Lovers No More\)](https://open.spotify.com/track/6WavcWZXgeh0cvGvkh5tS6) | [Alluri](https://open.spotify.com/artist/1MJd59IWbIWtj6CdlJhWG8) | [O Katha](https://open.spotify.com/album/4mj1O1w8H5TjhoYWzyKxYC) | 3:25 | 2024-02-02 | 2024-04-06 |
 | [Ennenni Chitralu Chesave](https://open.spotify.com/track/5W4Wm1O3ShKn6uBzskh4TE) | [BG Shirdi](https://open.spotify.com/artist/1JeCUmcHMT3B8PUndozsMt), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2) | [Ennenni Chitralu Chesave](https://open.spotify.com/album/6PsFOsPksHBSGE17dkDVSU) | 3:40 | 2024-07-29 | 2024-08-24 |
 | [Eruvaka Sagalantey](https://open.spotify.com/track/5kMC9Aqzxn5NPCsFqNezIM) | [Pavan Cherukumilli](https://open.spotify.com/artist/29aXKnUQ2PdTgNstCIsHGo), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Eruvaka Sagalantey](https://open.spotify.com/album/04iY4I4kLfrytTgH362Axn) | 2:47 | 2024-02-21 |  |
+| [Fake Friends](https://open.spotify.com/track/5cut2IXPLaYEA4m66TFDiC) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Fake Friends](https://open.spotify.com/album/7IOrnoDVBydJ2TSbbffDRR) | 2:57 | 2024-10-25 |  |
 | [FLYHIGH](https://open.spotify.com/track/0U0iKIRF1TlNbl12VulMN5) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [FLYHIGH](https://open.spotify.com/album/5ZId7XjlQ5Wh8PpgfVLrVR) | 3:55 | 2023-06-29 | 2023-08-06 |
 | [Friendship Song \- Idhi Sneham, From "Ginna"](https://open.spotify.com/track/3jkbTIzLRyeFzBE5B0L1xK) | [Ariaana Manchu](https://open.spotify.com/artist/6NgAnOgY6uNLCWEdghi7jZ), [Viviana Manchu](https://open.spotify.com/artist/4qJ2VRqBg8YHSURZcx0QuS), [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp) | [Friendship Song \(Idhi Sneham, From "Ginna"\)](https://open.spotify.com/album/7njwrgvR9JWSzB0rv56g5U) | 3:55 | 2022-07-26 | 2023-05-23 |
 | [Gaayam](https://open.spotify.com/track/29s6xk3dSdZKncZ3vs8Vd3) | [Manish Kumar](https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW), [Vyshu Maya](https://open.spotify.com/artist/2FEvji9wl0Qx3jUyYd0pQQ) | [Gaayam](https://open.spotify.com/album/05TeXFjEj6uc5mxLEX4Qng) | 5:15 | 2023-11-15 | 2024-05-28 |

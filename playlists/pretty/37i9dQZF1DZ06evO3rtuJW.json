@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33190,
+  "num_followers": 33193,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAADnIUOx5Fc2O+xbM9zZzejY",
+  "snapshot_id": "ZxmOAAAAAABCyjfwl7p82c7KZ8vFNgRi",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kid That Did",
-        "url": "https://open.spotify.com/album/584NttnQ3jTv0yoCArM0yx"
+        "name": "Welcome to Fazoland",
+        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
       },
       "artists": [
         {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Bibby",
+          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
         }
       ],
-      "duration_ms": 111375,
-      "name": "2 for 6",
-      "url": "https://open.spotify.com/track/0SAtnx2juacTBniqrwvYRU"
+      "duration_ms": 179444,
+      "name": "Kill Shit (feat. Lil Bibby) - Bonus Track",
+      "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
     },
     {
       "added_at": null,
@@ -547,22 +547,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland",
-        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
+        "name": "The Kid That Did",
+        "url": "https://open.spotify.com/album/584NttnQ3jTv0yoCArM0yx"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 111375,
+      "name": "2 for 6",
+      "url": "https://open.spotify.com/track/0SAtnx2juacTBniqrwvYRU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
       },
       "artists": [
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Bibby",
-          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
         }
       ],
-      "duration_ms": 179444,
-      "name": "Kill Shit (feat. Lil Bibby) - Bonus Track",
-      "url": "https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw"
+      "duration_ms": 188053,
+      "name": "Sessions",
+      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
       "duration_ms": 223045,
       "name": "One in the Head",
       "url": "https://open.spotify.com/track/0M18rB4N0BGYPBXY5Rv98K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sessions",
-        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Sessions",
-      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stress Relief (with G Herbo)",
-        "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
-      },
-      "artists": [
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 160145,
-      "name": "Stress Relief (with G Herbo)",
-      "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swervo",
         "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 214344,
       "name": "Honestly (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stress Relief (with G Herbo)",
+        "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 160145,
+      "name": "Stress Relief (with G Herbo)",
+      "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
     },
     {
       "added_at": null,
@@ -1011,26 +1011,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-        "url": "https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j"
+        "name": "Just Cause Y'all Waited 2",
+        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
         }
       ],
-      "duration_ms": 244853,
-      "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
-      "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+      "duration_ms": 174266,
+      "name": "Chiraq Demons (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3dqsY4TIr0KHJGDgzhGm2t"
     }
   ],
   "unique_name": "This Is G Herbo",

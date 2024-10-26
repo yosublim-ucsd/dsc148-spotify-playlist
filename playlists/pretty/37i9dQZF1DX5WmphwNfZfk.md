@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: Claudia Bouvette
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,908 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,914 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SILVER LINING](https://open.spotify.com/track/2R3kVpQXs8JDxPDTaxVCI0) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [SILVER LINING](https://open.spotify.com/album/1IanrkCilDUYp7SJoe0oW7) | 4:43 |
+| 1 | [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 |
 | 2 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
 | 3 | [come on, baby! be a good girl for the camera](https://open.spotify.com/track/2rLeYg8D418Gbv3VPyM3AS) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [come on, baby! be a good girl for the camera](https://open.spotify.com/album/0D0LEFTzIubUVZAWXjTHv9) | 4:09 |
 | 4 | [IMY](https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOR THE BOY IN ME](https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [Crimes of Passion](https://open.spotify.com/track/0VpnVQR9hn6PNYNhXesVfw) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Crimes of Passion](https://open.spotify.com/album/33h8JrJLwpY2Zvylh0EjjQ) | 3:54 |
 | 50 | [Bones & All](https://open.spotify.com/track/0d7HOxceqxmeD0gBTHPBe9) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Bones & All](https://open.spotify.com/album/6sFOeOLqesGulYADwSz9Ji) | 3:52 |
 
-Snapshot ID: `Zv9oQAAAAAAqohWHnLPu0kowiFsa5zs1`
+Snapshot ID: `ZxsbwAAAAADVPlo+IMKdnYqx0nUiHeX7`

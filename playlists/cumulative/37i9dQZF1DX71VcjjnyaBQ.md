@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-212 songs - 18 hr 17 min
+213 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Going Up](https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst) | 4:35 | 2021-12-21 |  |
 | [Grinde](https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [You Had Me at Goodbye](https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW) | 5:04 | 2022-01-07 |  |
 | [Have a Day](https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Have a Day](https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k) | 6:23 | 2022-04-22 |  |
+| [Hope](https://open.spotify.com/track/347Fpu96gIJPsNrAO2bj9g) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Roni Kaspi](https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9), [Guy Moskovich](https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK) | [Brightlight](https://open.spotify.com/album/1ekjhKwkURkXmbPCWr8rSk) | 4:06 | 2024-10-25 |  |
 | [Hope](https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:01 | 2023-08-29 | 2024-04-19 |
 | [Hope](https://open.spotify.com/track/61MTLrkxDy0A3GyGC13flH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Hope](https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze) | 3:01 | 2023-08-04 |  |
 | [Hopeful Morning](https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Where Will the River Flow](https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf) | 5:34 | 2021-12-21 |  |
@@ -107,7 +108,7 @@
 | [Liberated Brother](https://open.spotify.com/track/4ZVsHkOW4A3ChH1yeLqi1I) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [In Pursuit Of The 27th Man](https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp) | 5:23 | 2021-12-21 | 2022-09-28 |
 | [Little Bird of Passage](https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Little Bird of Passage](https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT) | 5:21 | 2022-11-24 |  |
 | [Little Bird of Passage](https://open.spotify.com/track/5rIX9VD7y3GQW84rAzKyNI) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Migrating Songs](https://open.spotify.com/album/2lyItKoOOi0zMy7PNviiqF) | 5:22 | 2023-03-22 | 2024-04-19 |
-| [Lookin' Up](https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx) | [Lookin' Up](https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk) | 3:02 | 2022-11-24 |  |
+| [Lookin' Up](https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU), [Jules Billé](https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng), [Christophe Piot](https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx) | [Lookin' Up](https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk) | 3:02 | 2022-11-24 | 2024-10-26 |
 | [Loose Caboose](https://open.spotify.com/track/2K9ntrYpyBdgpUhzR4w1H6) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [In a Sentimental Mood](https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l) | 3:48 | 2022-06-30 | 2024-01-18 |
 | [Loose Caboose](https://open.spotify.com/track/58dK5y8ovl8y2lyaPRzax7) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [Loose Caboose](https://open.spotify.com/album/573EOOeUz1MthRowbswtBC) | 3:48 | 2021-12-21 | 2022-07-29 |
 | [Los Bandidos Bogarolles](https://open.spotify.com/track/4Z0iEYAkE3fjpu7DG3n7nw) | [Judith O'Higgins](https://open.spotify.com/artist/3OJqhnI1ZkG8UD6diD6Q51), [Dave O'Higgins](https://open.spotify.com/artist/77i77txKM79mxoukQFNaMm), [His'n'Hers](https://open.spotify.com/artist/1Lq8xzHmwzSI1wr5UaVg92) | [Los Bandidos Bogarolles](https://open.spotify.com/album/7djCtwPzAUjSRsyTAEckuu) | 6:55 | 2021-12-21 | 2024-06-01 |

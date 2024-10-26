@@ -394,10 +394,40 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+    },
+    {
+      "album": {
+        "name": "2 Times (feat. Ann Lee)",
+        "url": "https://open.spotify.com/album/0IeNInzCvCQXfXxmcDWwu1"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+        },
+        {
+          "name": "Ann Lee",
+          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "2 Times (feat. Ann Lee)",
+      "url": "https://open.spotify.com/track/7v4U1UWo5FHd70GRRgzz8c"
     },
     {
       "album": {
@@ -15588,7 +15618,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 151689,
       "name": "GGUM",
       "url": "https://open.spotify.com/track/1QPV3QoWw3rRKPeYoX8kO8"
@@ -27259,6 +27289,28 @@
     },
     {
       "album": {
+        "name": "midnight",
+        "url": "https://open.spotify.com/album/1T8NpYo390bCXj7BQcCa7s"
+      },
+      "artists": [
+        {
+          "name": "kobzx2z",
+          "url": "https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3"
+        },
+        {
+          "name": "Red Luna",
+          "url": "https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129375,
+      "name": "midnight",
+      "url": "https://open.spotify.com/track/2dZsqoEhw8hEhwfRYkfn4m"
+    },
+    {
+      "album": {
         "name": "MIDNIGHT",
         "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
       },
@@ -30310,7 +30362,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
@@ -30889,6 +30941,28 @@
     },
     {
       "album": {
+        "name": "Nie si na to s\u00e1m (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3C7mrF7LGV0wlBpBroTy5h"
+      },
+      "artists": [
+        {
+          "name": "Godzone",
+          "url": "https://open.spotify.com/artist/2cfni3IetyJxc866Xotxp4"
+        },
+        {
+          "name": "Puer Dei",
+          "url": "https://open.spotify.com/artist/6vxapXFaTfGIp4UEgmqYJb"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Nie si na to s\u00e1m - Acoustic Version",
+      "url": "https://open.spotify.com/track/5TX8HfMDjnPzGVuoofYEKh"
+    },
+    {
+      "album": {
         "name": "FOUR (Deluxe)",
         "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
       },
@@ -30900,7 +30974,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -37202,7 +37276,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 200400,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1dQQ2QlnvXUehsRUrukKmf"
@@ -41026,7 +41100,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 256706,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/4lrC9aBnzlG9U5DDoHMnyt"
@@ -43581,6 +43655,44 @@
     },
     {
       "album": {
+        "name": "Songs from Agatha All Along (Episodes 1 & 2)",
+        "url": "https://open.spotify.com/album/18NuXd2GdffzNAVM2xIeVG"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Hahn",
+          "url": "https://open.spotify.com/artist/3XfjX4nsdyVaLMFi1ACXXb"
+        },
+        {
+          "name": "Sasheer Zamata",
+          "url": "https://open.spotify.com/artist/77Xqe7oP7aw4x7ZZOE36UZ"
+        },
+        {
+          "name": "Ali Ahn",
+          "url": "https://open.spotify.com/artist/7JRMcvgup40vibT73zHq8X"
+        },
+        {
+          "name": "Patti LuPone",
+          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
+        },
+        {
+          "name": "Debra Jo Rupp",
+          "url": "https://open.spotify.com/artist/2Z7dKyBwQmNPE4BnSNTJYo"
+        },
+        {
+          "name": "Agatha All Along - Cast",
+          "url": "https://open.spotify.com/artist/3DzAdEl6ES0zSjKx42mjlD"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197692,
+      "name": "The Ballad of the Witches' Road (Sacred Chant Version)",
+      "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
+    },
+    {
+      "album": {
         "name": "The Ballet Girl",
         "url": "https://open.spotify.com/album/3YMpocogsCi7WkfwvcVL4I"
       },
@@ -43682,7 +43794,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -48768,7 +48880,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 129571,
       "name": "Why's this dealer?",
       "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"

@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 419821,
+  "num_followers": 419828,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+        "name": "Another Friday Night / Hot Heavy Summer / Sister",
+        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+      "duration_ms": 229291,
+      "name": "Hot Heavy Summer",
+      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -207,22 +211,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Another Friday Night / Hot Heavy Summer / Sister",
-        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 229291,
-      "name": "Hot Heavy Summer",
-      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+        "name": "Tales Of America",
+        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
       },
       "artists": [
         {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+      "duration_ms": 229906,
+      "name": "Saying Goodbye",
+      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Tales Of America",
-        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
       },
       "artists": [
         {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
         }
       ],
-      "duration_ms": 229906,
-      "name": "Saying Goodbye",
-      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Back to Oz / Fictional California",
-        "url": "https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 252052,
-      "name": "Back To Oz",
-      "url": "https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Back to Oz / Fictional California",
+        "url": "https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 252052,
+      "name": "Back To Oz",
+      "url": "https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "It Must Be Someone Else\u2019s Fault",
-      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Cosmic Dancer",
         "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
       },
@@ -915,22 +899,6 @@
       "duration_ms": 265995,
       "name": "Cosmic Dancer",
       "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -951,6 +919,38 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "It Must Be Someone Else\u2019s Fault",
+      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Watchhouse",
         "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Cala",
-        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
-      },
-      "artists": [
-        {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
-        }
-      ],
-      "duration_ms": 148773,
-      "name": "Collar of Fur",
-      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Southern Star",
         "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 186269,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Cala",
+        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Collar of Fur",
+      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Joy'All",
-      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Desert Woman",
         "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 256402,
       "name": "Desert Woman",
       "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Joy'All",
+      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "all of my lessons",
-        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 176795,
-      "name": "all of my lessons",
-      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Shape of Silence",
         "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 200355,
       "name": "Causing Trouble",
       "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "all of my lessons",
+        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 176795,
+      "name": "all of my lessons",
+      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Big Star (Alt)",
-        "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 244632,
-      "name": "Big Star - Alt",
-      "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Solid Heart",
         "url": "https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 218017,
       "name": "Solid Heart",
       "url": "https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Big Star (Alt)",
+        "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 244632,
+      "name": "Big Star - Alt",
+      "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Shabang",
-        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
-      },
-      "artists": [
-        {
-          "name": "Scott McMicken and THE EVER-EXPANDING",
-          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
-        }
-      ],
-      "duration_ms": 250962,
-      "name": "Diamonds In The Snow",
-      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Wisteria",
         "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 169823,
       "name": "Wisteria",
       "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Shabang",
+        "url": "https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv"
+      },
+      "artists": [
+        {
+          "name": "Scott McMicken and THE EVER-EXPANDING",
+          "url": "https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc"
+        }
+      ],
+      "duration_ms": 250962,
+      "name": "Diamonds In The Snow",
+      "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1635,22 +1635,6 @@
       "duration_ms": 193897,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Latch",
-        "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 209819,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 209819,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "In Heaven",
         "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
       },
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Everything Was Beautiful",
-        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 352333,
-      "name": "Best Thing You Never Had (The D Song)",
-      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Modern Woman",
         "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 204946,
       "name": "Modern Woman",
       "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Everything Was Beautiful",
+        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 352333,
+      "name": "Best Thing You Never Had (The D Song)",
+      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Strange Weather",
+        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
+      },
+      "artists": [
+        {
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
+        }
+      ],
+      "duration_ms": 208817,
+      "name": "Strange Weather",
+      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/5BBpUPQSxVp9KbwFaYy0PP"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 318269,
       "name": "American Life",
       "url": "https://open.spotify.com/track/3MjtWHOC0uCAx753vU5pBs"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Strange Weather",
-        "url": "https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF"
-      },
-      "artists": [
-        {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
-        }
-      ],
-      "duration_ms": 208817,
-      "name": "Strange Weather",
-      "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Star Nation",
-        "url": "https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 246364,
-      "name": "Star Nation",
-      "url": "https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Teeth Marks",
         "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 217130,
       "name": "Teeth Marks",
       "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Star Nation",
+        "url": "https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 246364,
+      "name": "Star Nation",
+      "url": "https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "On the Outside",
-        "url": "https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt"
-      },
-      "artists": [
-        {
-          "name": "Ethan Gruska",
-          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-        }
-      ],
-      "duration_ms": 189215,
-      "name": "On the Outside",
-      "url": "https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Was Always You",
         "url": "https://open.spotify.com/album/5RMTf72VuU88OmhujQNiAS"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 196575,
       "name": "Was Always You",
       "url": "https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "On the Outside",
+        "url": "https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt"
+      },
+      "artists": [
+        {
+          "name": "Ethan Gruska",
+          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+        }
+      ],
+      "duration_ms": 189215,
+      "name": "On the Outside",
+      "url": "https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Growin' Down",
+        "url": "https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9"
+      },
+      "artists": [
+        {
+          "name": "Illiterate Light",
+          "url": "https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Growin' Down",
+      "url": "https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Ignorance (Deluxe Version)",
         "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
       },
@@ -2311,18 +2327,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Growin' Down",
-        "url": "https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9"
+        "name": "Regards to the End",
+        "url": "https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO"
       },
       "artists": [
         {
-          "name": "Illiterate Light",
-          "url": "https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J"
+          "name": "Emily Wells",
+          "url": "https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Growin' Down",
-      "url": "https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic"
+      "duration_ms": 303733,
+      "name": "All Burn No Bridge",
+      "url": "https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2343,22 +2359,6 @@
       "duration_ms": 245656,
       "name": "On A Beach",
       "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Regards to the End",
-        "url": "https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO"
-      },
-      "artists": [
-        {
-          "name": "Emily Wells",
-          "url": "https://open.spotify.com/artist/0tKasOjdZBjHJCMsalvvjb"
-        }
-      ],
-      "duration_ms": 303733,
-      "name": "All Burn No Bridge",
-      "url": "https://open.spotify.com/track/6T5IBcI8Ann5pRPSPSsyFf"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Fresh Water in an Empty Vase",
-        "url": "https://open.spotify.com/album/5O0hpbx3yWviQxJqylFZnA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Schepman",
-          "url": "https://open.spotify.com/artist/03h1gz3BbFHdP7p4AsREGG"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Fresh Water in an Empty Vase",
-      "url": "https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Where I Should End",
         "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 318718,
       "name": "Any Dreams?",
       "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Fresh Water in an Empty Vase",
+        "url": "https://open.spotify.com/album/5O0hpbx3yWviQxJqylFZnA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Schepman",
+          "url": "https://open.spotify.com/artist/03h1gz3BbFHdP7p4AsREGG"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Fresh Water in an Empty Vase",
+      "url": "https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0"
     },
     {
       "added_at": "2024-09-13 04:00:00",

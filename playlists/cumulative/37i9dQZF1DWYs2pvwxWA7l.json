@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Lojay",
+  "description": "The hottest Afropop records on the planet.  Cover: Joshua Baraka",
   "name": "Afropop",
   "tracks": [
     {
@@ -2235,6 +2235,28 @@
     },
     {
       "album": {
+        "name": "Coucou",
+        "url": "https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj"
+      },
+      "artists": [
+        {
+          "name": "LA MAIN SUR LE COEUR",
+          "url": "https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133894,
+      "name": "Coucou",
+      "url": "https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg"
+    },
+    {
+      "album": {
         "name": "Cough",
         "url": "https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx"
       },
@@ -4034,7 +4056,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 152410,
       "name": "F\u00e9",
       "url": "https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u"
@@ -4246,6 +4268,24 @@
       "duration_ms": 179485,
       "name": "Giza (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/1JqxgXNhqWpFss7nZzlwOz"
+    },
+    {
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166720,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q"
     },
     {
       "album": {
@@ -5206,6 +5246,28 @@
       "duration_ms": 147641,
       "name": "Jah",
       "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
+    },
+    {
+      "album": {
+        "name": "JAILER (feat. Victony)",
+        "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235294,
+      "name": "JAILER (feat. Victony)",
+      "url": "https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F"
     },
     {
       "album": {
@@ -6263,6 +6325,24 @@
     },
     {
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
+    },
+    {
+      "album": {
         "name": "Spirit Animal",
         "url": "https://open.spotify.com/album/76xSxFUwJrxoezhhqkeicV"
       },
@@ -6682,7 +6762,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 201931,
       "name": "Man Down",
       "url": "https://open.spotify.com/track/7dj3apq5IE5P4jCkMKRdZS"
@@ -8754,7 +8834,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 159818,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ"
@@ -9542,7 +9622,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Romeo Must Die (RMD)",
       "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
@@ -9834,6 +9914,28 @@
       "duration_ms": 185142,
       "name": "SAD TONIGHT",
       "url": "https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2"
+    },
+    {
+      "album": {
+        "name": "Peace and Love",
+        "url": "https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Saint Tropez",
+      "url": "https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0"
     },
     {
       "album": {
@@ -11244,7 +11346,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 178310,
       "name": "Timing",
       "url": "https://open.spotify.com/track/4KfHB0K5B88tHP4VRNheuT"
@@ -11480,7 +11582,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 276000,
       "name": "Typhoon (feat. Sastii, LaCabra, Lowfeye, Blue Pappi)",
       "url": "https://open.spotify.com/track/0tIDIj46MoZhTuU7lPw4qD"
@@ -11586,7 +11688,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 257937,
       "name": "Uyazkhohlwa",
       "url": "https://open.spotify.com/track/2Z5dUCDAmotABDmBl9rNk2"

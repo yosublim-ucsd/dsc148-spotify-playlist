@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring BIJOU",
+  "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Steve Angello",
   "name": "Nasty Bits",
   "tracks": [
     {
@@ -356,6 +356,24 @@
       "duration_ms": 186240,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/3zMTtFESlmiuKeIx61e0Io"
+    },
+    {
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/0wsAJB0c8RzBqY2Pt0LTtT"
+      },
+      "artists": [
+        {
+          "name": "Alannys Weber",
+          "url": "https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163793,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/0F7sWS1Pi9m6baE9lU759k"
     },
     {
       "album": {
@@ -988,7 +1006,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-09",
+      "date_removed": null,
       "duration_ms": 155774,
       "name": "Back Around",
       "url": "https://open.spotify.com/track/1qBHrESbnwFaTy0xzFADOx"
@@ -2130,6 +2148,28 @@
       "duration_ms": 175127,
       "name": "Black Suede",
       "url": "https://open.spotify.com/track/54wmMYk0uxF7UabA6DTiG7"
+    },
+    {
+      "album": {
+        "name": "Blacked Out",
+        "url": "https://open.spotify.com/album/59UCvfCtvPJvsX1UIhI58F"
+      },
+      "artists": [
+        {
+          "name": "Fly With Us",
+          "url": "https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL"
+        },
+        {
+          "name": "Deijuvhs",
+          "url": "https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221682,
+      "name": "Blacked Out",
+      "url": "https://open.spotify.com/track/0v06s5ISTc1mkO4K0GKrQp"
     },
     {
       "album": {
@@ -3286,7 +3326,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 107536,
       "name": "Chain Gang",
       "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
@@ -3362,7 +3402,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 134769,
       "name": "Cheeky Little Club Banger",
       "url": "https://open.spotify.com/track/2tLJLA0Z4N9BXhuJ6JEsDb"
@@ -4356,7 +4396,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 136875,
       "name": "Destination",
       "url": "https://open.spotify.com/track/1feOxl8OKfXkDFf5NjRxWz"
@@ -4804,10 +4844,36 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 158409,
       "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls)",
       "url": "https://open.spotify.com/track/0iRxPHydedV81XOsc3JWu7"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) [Remixes]",
+        "url": "https://open.spotify.com/album/6hShYQVPRaC1nnn0UkZzDA"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "Levex",
+          "url": "https://open.spotify.com/artist/5m41Q8b6ISK0bbefIZl9Ef"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166363,
+      "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls) - Levex Remix",
+      "url": "https://open.spotify.com/track/0kFnR2iXkxWxYSaZbrfyUy"
     },
     {
       "album": {
@@ -6428,7 +6494,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 157160,
       "name": "Get A Life",
       "url": "https://open.spotify.com/track/305Ji055GbtNECtcBig3Fc"
@@ -6610,7 +6676,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 165354,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/2IvtQzqvs8vmQBEeszvh1k"
@@ -7847,6 +7913,24 @@
     },
     {
       "album": {
+        "name": "Hooligans",
+        "url": "https://open.spotify.com/album/0mKxle4sYleR78Rwj48rlE"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239090,
+      "name": "Hooligans",
+      "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
+      "album": {
         "name": "Heritage",
         "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
       },
@@ -8358,7 +8442,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 165519,
       "name": "Iced Out",
       "url": "https://open.spotify.com/track/1sKfY2RpM8j3DXnAloIqRP"
@@ -8698,7 +8782,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 140495,
       "name": "Jiggy Woogie",
       "url": "https://open.spotify.com/track/3yGpcjSuAiNofSrnsgzNRk"
@@ -9080,7 +9164,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 188571,
       "name": "Leave Me Like This",
       "url": "https://open.spotify.com/track/7vzWtCVhEKDmDkMmT3AiUL"
@@ -11274,7 +11358,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 169523,
       "name": "No Good",
       "url": "https://open.spotify.com/track/0gtMx0Y0pkjuLYvmmCkyGE"
@@ -11911,6 +11995,24 @@
     },
     {
       "album": {
+        "name": "HEX I",
+        "url": "https://open.spotify.com/album/0rIDYYdATJlNtkhuJ47QbQ"
+      },
+      "artists": [
+        {
+          "name": "Savant",
+          "url": "https://open.spotify.com/artist/5RBdF1pJSLF3ugc2Y2PoB8"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "One Good Thing",
+      "url": "https://open.spotify.com/track/267igl3FTKgz9LcEYumiql"
+    },
+    {
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/091ZLib1TUS9pLtkxEXWYG"
       },
@@ -12330,7 +12432,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 244589,
       "name": "Pace",
       "url": "https://open.spotify.com/track/4jH8gENf3F1hb0Svvn3KCy"
@@ -12586,7 +12688,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 168750,
       "name": "PLUR",
       "url": "https://open.spotify.com/track/5HN8RiGIt5km1HqmLBVcZi"
@@ -13150,6 +13252,28 @@
       "duration_ms": 195357,
       "name": "Ravers Bounce",
       "url": "https://open.spotify.com/track/7bfznmPsfkfVtbunCYBmQJ"
+    },
+    {
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/10gejXmmtJKPtl3L838RB0"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        },
+        {
+          "name": "Medium Rare",
+          "url": "https://open.spotify.com/artist/5bt2kSI1bD3Xfc70srooOK"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141230,
+      "name": "RAW",
+      "url": "https://open.spotify.com/track/5ElgsT69PjIdtLzZxV7DcX"
     },
     {
       "album": {
@@ -13830,7 +13954,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 142857,
       "name": "Run It Now",
       "url": "https://open.spotify.com/track/51RyFJOz0BbV979nxqDgvq"
@@ -14104,6 +14228,24 @@
       "duration_ms": 141639,
       "name": "Se Acabo (feat. Method Man) - 4B Remix",
       "url": "https://open.spotify.com/track/6BRlY9uFQOfYhDY1B7vMJC"
+    },
+    {
+      "album": {
+        "name": "Secret",
+        "url": "https://open.spotify.com/album/0hungal5TariaTjwyVMOOi"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135937,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/5OwyWrMXGgB1JokI8LzLsd"
     },
     {
       "album": {
@@ -14572,7 +14714,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 151634,
       "name": "Skank and Rave",
       "url": "https://open.spotify.com/track/5RxHbiXTa9mwjYDQ6mjhSM"
@@ -14976,6 +15118,24 @@
       "duration_ms": 154285,
       "name": "Stack",
       "url": "https://open.spotify.com/track/5jduNsy3jdsT4UwwVTUKai"
+    },
+    {
+      "album": {
+        "name": "Stealing Fire",
+        "url": "https://open.spotify.com/album/57dawWYMECpg7ZGKWNH2q4"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Stealing Fire",
+      "url": "https://open.spotify.com/track/6aTN1V5VCHjn8q73XsXTCT"
     },
     {
       "album": {
@@ -16181,6 +16341,28 @@
     },
     {
       "album": {
+        "name": "The Plot",
+        "url": "https://open.spotify.com/album/1znStHWqUFoBUiPiHNSYB2"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        },
+        {
+          "name": "A. Nayaka",
+          "url": "https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "The Plot",
+      "url": "https://open.spotify.com/track/5OwTQxYGQgDr6ty3TY5sYJ"
+    },
+    {
+      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/2bdfOELL4elrcJ46EQW1jj"
       },
@@ -16320,6 +16502,24 @@
       "duration_ms": 155884,
       "name": "The Tempo",
       "url": "https://open.spotify.com/track/3BYWIYlgpnW18iaMga2E0u"
+    },
+    {
+      "album": {
+        "name": "THE VIBE",
+        "url": "https://open.spotify.com/album/6hyrYszbG7L821jwIw8CLK"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157086,
+      "name": "THE VIBE",
+      "url": "https://open.spotify.com/track/2QS2ALpoBU65F4Du9umVXf"
     },
     {
       "album": {
@@ -16936,7 +17136,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 203520,
       "name": "underground",
       "url": "https://open.spotify.com/track/3CqDUah3hz637y9a2ERyNm"

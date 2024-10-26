@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Fran C.",
+  "description": "Este Flow tiene otro Flow. Foto: Lucky Brown.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 170000,
       "name": "550",
       "url": "https://open.spotify.com/track/2eVnttwApGYEZEt4c4ayVC"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 151875,
       "name": "Amarillaste",
       "url": "https://open.spotify.com/track/0tu8pXY4uKWDvSJGbjh1yu"
@@ -3521,6 +3521,28 @@
     },
     {
       "album": {
+        "name": "I Am Lucky Brown",
+        "url": "https://open.spotify.com/album/43DZYFza9OEvX5pofO1zq2"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Cosa Linda",
+      "url": "https://open.spotify.com/track/30hs2nHYRHbzEJaAXqhJl9"
+    },
+    {
+      "album": {
         "name": "Cosas Chanchas (feat. Simon la Letra, Harry Nach, Salastkbron, El Barto, Kidd Samu & Lolo OG)",
         "url": "https://open.spotify.com/album/642j24NN3uxV4freA9w6OL"
       },
@@ -3690,6 +3712,28 @@
       "duration_ms": 164081,
       "name": "Cuchi Cuchi",
       "url": "https://open.spotify.com/track/1Cnj7AYTdXFvIa0Y2PFyOH"
+    },
+    {
+      "album": {
+        "name": "I Am Lucky Brown",
+        "url": "https://open.spotify.com/album/43DZYFza9OEvX5pofO1zq2"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Cuchi Cuchi",
+      "url": "https://open.spotify.com/track/3t497rFtkwQTW1sU8CAD7Q"
     },
     {
       "album": {
@@ -3922,7 +3966,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 186967,
       "name": "DAMELO BB",
       "url": "https://open.spotify.com/track/5ywKnBCub8NcQ3MX5zuN8S"
@@ -5571,6 +5615,28 @@
     },
     {
       "album": {
+        "name": "I Am Lucky Brown",
+        "url": "https://open.spotify.com/album/43DZYFza9OEvX5pofO1zq2"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151758,
+      "name": "Eso Lo Que Teni",
+      "url": "https://open.spotify.com/track/59ztrm2EoUGPoz4JiOihqS"
+    },
+    {
+      "album": {
         "name": "ESPECIAL Y PELIGROSA",
         "url": "https://open.spotify.com/album/2aFzYal3XMAwjnKqwL1YVq"
       },
@@ -5634,7 +5700,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 156312,
       "name": "Estilo Milloneta",
       "url": "https://open.spotify.com/track/70mfN1HFFqi48BX2sLwnQp"
@@ -5840,7 +5906,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 156734,
       "name": "Fashion Girl",
       "url": "https://open.spotify.com/track/4BX1ecFjTkw5hd7yAgspOp"
@@ -11163,6 +11229,28 @@
     },
     {
       "album": {
+        "name": "MIRALA",
+        "url": "https://open.spotify.com/album/6Mceu7aQRzVzP9dx8tUd2T"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146633,
+      "name": "MIRALA",
+      "url": "https://open.spotify.com/track/3ps5MDjfpA3wAbKMitNWgM"
+    },
+    {
+      "album": {
         "name": "Modelo",
         "url": "https://open.spotify.com/album/6JxWCUQs773w7HF3rUmk2t"
       },
@@ -12158,7 +12246,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 198367,
       "name": "No Pasa de Moda",
       "url": "https://open.spotify.com/track/5y7EUPBk8Q64hi4TbcFNnJ"
@@ -13054,7 +13142,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 173506,
       "name": "Par de Gramos",
       "url": "https://open.spotify.com/track/3I1OqdUGmmZmSKhU62dEiB"
@@ -14164,7 +14252,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 149677,
       "name": "Por el Area - Remix",
       "url": "https://open.spotify.com/track/0CdN5JFkQjk2L5ZxrJotZ3"
@@ -14260,7 +14348,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 231428,
       "name": "Porsche",
       "url": "https://open.spotify.com/track/0rcqXXPvqspfxgXzZWnIcD"
@@ -17828,7 +17916,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 218062,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/1ODGZWR5UbLXVhnVOd8aVV"
@@ -18586,6 +18674,32 @@
       "duration_ms": 172391,
       "name": "Tussi Code Mari",
       "url": "https://open.spotify.com/track/72NnJdEsAgTlnguInmxveg"
+    },
+    {
+      "album": {
+        "name": "TUTTIFRUTTI",
+        "url": "https://open.spotify.com/album/26UtlA2Hwdbzhr3Bao6fkB"
+      },
+      "artists": [
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "TUTTIFRUTTI",
+      "url": "https://open.spotify.com/track/0i7EUy2qdtpKapeJjXgqSJ"
     },
     {
       "album": {

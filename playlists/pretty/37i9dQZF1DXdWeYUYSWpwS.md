@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWeYUYSWpwS.md) - [plain]
 
 > Relaxing, comforting classical music to soothe your dog and reduce separation anxiety.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,482 likes - 107 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,519 likes - 107 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

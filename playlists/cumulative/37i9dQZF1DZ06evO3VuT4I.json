@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 158533,
       "name": "Mother's Song",
       "url": "https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5"
@@ -1627,6 +1627,36 @@
     },
     {
       "album": {
+        "name": "Snow Ritual (feat. Ghost Marrow & Suzanne Ciani)",
+        "url": "https://open.spotify.com/album/0Qj318iUtQEpmd2ip47IGt"
+      },
+      "artists": [
+        {
+          "name": "AF13",
+          "url": "https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E"
+        },
+        {
+          "name": "Greg Leisz",
+          "url": "https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU"
+        },
+        {
+          "name": "Ghost Marrow",
+          "url": "https://open.spotify.com/artist/6ECt44VpzEYOIy4EjfeLNl"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465107,
+      "name": "Snow Ritual (feat. Ghost Marrow & Suzanne Ciani)",
+      "url": "https://open.spotify.com/track/6PhHN00V3tyyngdq3304GU"
+    },
+    {
+      "album": {
         "name": "Milan",
         "url": "https://open.spotify.com/album/7oTgSbWQOVPZ15YUUybwSo"
       },
@@ -2022,7 +2052,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 252333,
       "name": "Time Stops",
       "url": "https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS"
@@ -2170,7 +2200,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 201426,
       "name": "Yang Ming Shen",
       "url": "https://open.spotify.com/track/144VOxc6bRJTg0AiWQnhBj"

@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Craig Lucas
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Nick Ward
 
 1,326 songs - 2 day 23 hr 30 min
 

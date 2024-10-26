@@ -871,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Ann Peebles Greatest Hits",
+        "url": "https://open.spotify.com/album/1EsCY7YEm37qBsNiKwImbj"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183560,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/3M0OsLCcAqbVl9obHq2UxO"
+    },
+    {
+      "album": {
         "name": "Tellin' It",
         "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
       },
@@ -1590,6 +1608,24 @@
       "duration_ms": 165226,
       "name": "Dancing In The Street",
       "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/3WVB8a1INWqY6TUieQzn9t"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164960,
+      "name": "Do I Move You?",
+      "url": "https://open.spotify.com/track/0F4uVFLLDzkpJppPZT1bZt"
     },
     {
       "album": {
@@ -3044,7 +3080,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
@@ -3062,7 +3098,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 155026,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/0C5ex13H3zRMsqSROZu78W"
@@ -4008,7 +4044,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 271906,
       "name": "Just Once",
       "url": "https://open.spotify.com/track/0pXdgGAyShUopblqfzjdCh"
@@ -4062,7 +4098,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 242600,
       "name": "Just To See Her",
       "url": "https://open.spotify.com/track/4veUi0IuVGJ6Yh8gM1N6Vb"
@@ -4538,7 +4574,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 154160,
       "name": "Love Is A Losing Game",
       "url": "https://open.spotify.com/track/3RE6wbVJOxpE0CTTajuLPq"
@@ -5753,6 +5789,24 @@
     },
     {
       "album": {
+        "name": "Curtis Mayfield & The Impressions - Universal Masters",
+        "url": "https://open.spotify.com/album/6rF6gE3AuOFNH4IYeOW0Sf"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157480,
+      "name": "People Get Ready - Single Version",
+      "url": "https://open.spotify.com/track/1MlXd4giftxXZgeMItb3PQ"
+    },
+    {
+      "album": {
         "name": "Rejuvenation",
         "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
       },
@@ -6270,6 +6324,24 @@
       "duration_ms": 238600,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "album": {
+        "name": "Shake You Down",
+        "url": "https://open.spotify.com/album/5l3jMPHay7Jfy1ziPIKBro"
+      },
+      "artists": [
+        {
+          "name": "Gregory Abbott",
+          "url": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244373,
+      "name": "Shake You Down",
+      "url": "https://open.spotify.com/track/6AyURVQJn9o8qwiYvE37nG"
     },
     {
       "album": {
@@ -7638,7 +7710,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 211400,
       "name": "Tonight I Celebrate My Love",
       "url": "https://open.spotify.com/track/622nEHkm52E6ijVShcea9f"

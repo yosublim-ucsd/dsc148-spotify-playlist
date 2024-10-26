@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-463 songs - 23 hr 42 min
+464 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [CHUCULU \- Radio Edit](https://open.spotify.com/track/2xmnIFRxV0wO0AKAI8HHPL) | [Oksaf Mandela](https://open.spotify.com/artist/0Yk6OLWLq2cjIPljpYn3n1), [Jaxz Bond](https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X) | [CHUCULU \(Radio Edit\)](https://open.spotify.com/album/2ecXzVFVxLDAcZOPfXkzZi) | 3:25 | 2022-06-23 | 2022-07-28 |
 | [Clear Road](https://open.spotify.com/track/57aQqUWaQZzF4V8wtp5eIz) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Clear Road](https://open.spotify.com/album/2Lfm01wQBl5vHrzxtO093x) | 2:39 | 2024-01-26 | 2024-04-26 |
 | [Close Am](https://open.spotify.com/track/0GUwRRC0lE53Hrx5cqRw4S) | [Sheye Banks](https://open.spotify.com/artist/00LOJMXU6GdbTX8cA0RvJr) | [Close Am](https://open.spotify.com/album/5K4pHBWaJpYCh0DtgikpDS) | 2:04 | 2022-02-03 | 2022-07-28 |
+| [Collect \- Afrobeat](https://open.spotify.com/track/4wNUpUL8niDXZX8FHeKs2a) | [DJ Baddo](https://open.spotify.com/artist/2Kw1ePXHREwlgngRzbaqR9), [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Nailah Blackman](https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c) | [Collect \(Afrobeat\)](https://open.spotify.com/album/4KtdOekMwPRnpmNFZQJ5nJ) | 2:46 | 2024-10-25 |  |
 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-30 |  |
 | [Comment Allez Vous](https://open.spotify.com/track/31rkhdlOuZLNpNseZHPbXS) | [Gerian](https://open.spotify.com/artist/07DL9OVC5jPi0d29RsF7xq), [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ) | [Comment Allez Vous](https://open.spotify.com/album/3O2folrgcbs5AktzGNpVUr) | 2:37 | 2022-04-28 | 2022-07-26 |
 | [Concussion](https://open.spotify.com/track/4WJaHwTA2AEveZJxycUUyp) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn) | [Concussion](https://open.spotify.com/album/01L0fw4AWHmnE7nAJmhAL9) | 2:37 | 2023-06-30 | 2023-07-20 |
@@ -120,7 +121,7 @@
 | [Don't Stress Me](https://open.spotify.com/track/3jYMQXkFS3Ln24CrL1MSIr) | [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Don't Stress Me](https://open.spotify.com/album/182d8u0WRY0NorZrjemzXX) | 2:53 | 2024-05-10 | 2024-05-17 |
 | [Donow](https://open.spotify.com/track/1OXaXiUjsIigLkTpqSGz8G) | [Article Wan](https://open.spotify.com/artist/3Bw3Syt7xdB3gQc4IoFaLn), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Donow](https://open.spotify.com/album/5SvcnC7O2oHbzIdBj76aGu) | 3:20 | 2023-06-16 | 2023-07-14 |
 | [Double](https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Double](https://open.spotify.com/album/3yVzzFCkrfzcmT8koofo0e) | 2:48 | 2024-05-31 |  |
-| [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-27 |  |
+| [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-27 | 2024-10-26 |
 | [Dum Dum](https://open.spotify.com/track/24QP25ZI2d1HO4Fhn9OgPa) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE) | [Dum Dum](https://open.spotify.com/album/5MeHIpXV4p5Denais96nXl) | 2:48 | 2023-05-11 | 2023-05-20 |
 | [Ego](https://open.spotify.com/track/6W79tvE9ZPzHtV2wPwwGUT) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Nataraja](https://open.spotify.com/album/70Maw3SbX3PPtRbgHc9VKj) | 3:02 | 2021-11-25 | 2022-08-04 |
 | [Egopiano](https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Egopiano](https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A) | 2:31 | 2023-11-10 | 2024-01-01 |

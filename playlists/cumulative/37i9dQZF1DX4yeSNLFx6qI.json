@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 107320,
       "name": "50/50",
       "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
@@ -1156,6 +1156,24 @@
       "duration_ms": 202053,
       "name": "Dices Que Te Vas",
       "url": "https://open.spotify.com/track/0QHOIQxRlIPYPJ1HLgIN8S"
+    },
+    {
+      "album": {
+        "name": "Dispose of Me",
+        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217880,
+      "name": "Dispose of Me",
+      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
     },
     {
       "album": {
@@ -4555,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "TODOS LOS D\u00cdAS TODO EL D\u00cdA",
+        "url": "https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201840,
+      "name": "tengo mucho ruido.",
+      "url": "https://open.spotify.com/track/4mwNF24DEyF9QUSB7hVoqq"
+    },
+    {
+      "album": {
         "name": "Tiempo Pa Olvidar",
         "url": "https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd"
       },
@@ -4734,7 +4770,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 192320,
       "name": "Tu Canci\u00f3n",
       "url": "https://open.spotify.com/track/2AS8N3sySr3xDS2dDG6oSv"

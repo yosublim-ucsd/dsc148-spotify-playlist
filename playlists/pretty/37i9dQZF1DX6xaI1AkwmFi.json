@@ -1,6 +1,6 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 26283,
+  "num_followers": 26296,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-10-24 05:30:43",
       "album": {
+        "name": "MASCARA",
+        "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "MASCARA",
+      "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
+    },
+    {
+      "added_at": "2024-10-24 05:30:43",
+      "album": {
         "name": "\u3072\u3085\u308b\u308a\u3089\u3071\u3063\u3071",
         "url": "https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY"
       },
@@ -755,38 +771,6 @@
     {
       "added_at": "2024-10-24 05:30:43",
       "album": {
-        "name": "MASCARA",
-        "url": "https://open.spotify.com/album/25ljniOTN62coBIA6iD4iC"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "MASCARA",
-      "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
-    },
-    {
-      "added_at": "2024-10-24 05:30:43",
-      "album": {
-        "name": "strobo",
-        "url": "https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 200241,
-      "name": "\u4e0d\u53ef\u5e78\u529b",
-      "url": "https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA"
-    },
-    {
-      "added_at": "2024-10-24 05:30:43",
-      "album": {
         "name": "\u3044\u3089\u306a\u3044\u3082\u306e",
         "url": "https://open.spotify.com/album/3m1YaZKzJdBfUaJqWL64rl"
       },
@@ -807,18 +791,38 @@
     {
       "added_at": "2024-10-24 05:30:43",
       "album": {
-        "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
-        "url": "https://open.spotify.com/album/3OId6Q1stp8y4QOnQUZ9ku"
+        "name": "strobo",
+        "url": "https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 207958,
-      "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
-      "url": "https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L"
+      "duration_ms": 200241,
+      "name": "\u4e0d\u53ef\u5e78\u529b",
+      "url": "https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA"
+    },
+    {
+      "added_at": "2024-10-24 05:30:43",
+      "album": {
+        "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/3CMnxRCZE31EU1UQO571bd"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        },
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 200511,
+      "name": "\u30e1\u30c8\u30ed\u30b7\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/7hZ2wV0F3Ca17GTSYHH2f1"
     }
   ],
   "unique_name": "\u30b9\u30c8\u30ed\u30dc",

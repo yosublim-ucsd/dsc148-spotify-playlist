@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: DAY LIMNS",
-  "num_followers": 140768,
+  "num_followers": 140788,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Desejo Hostil",
-        "url": "https://open.spotify.com/album/6NjmgbqiODgs6Q08tLPvEl"
-      },
-      "artists": [
-        {
-          "name": "Universo Will",
-          "url": "https://open.spotify.com/artist/30N6YR0KILQLFvvR7VTgfw"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Desejo Hostil",
-      "url": "https://open.spotify.com/track/54MHgaSeIjTsTCBL6RVmTI"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Vamos de Viagem",
         "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 238604,
       "name": "Vamos de Viagem",
       "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Desejo Hostil",
+        "url": "https://open.spotify.com/album/6NjmgbqiODgs6Q08tLPvEl"
+      },
+      "artists": [
+        {
+          "name": "Universo Will",
+          "url": "https://open.spotify.com/artist/30N6YR0KILQLFvvR7VTgfw"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Desejo Hostil",
+      "url": "https://open.spotify.com/track/54MHgaSeIjTsTCBL6RVmTI"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Vamos Fingir",
-        "url": "https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8"
-      },
-      "artists": [
-        {
-          "name": "Tuono",
-          "url": "https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL"
-        }
-      ],
-      "duration_ms": 266726,
-      "name": "Vamos Fingir",
-      "url": "https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Espetacular",
         "url": "https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 273488,
       "name": "Espetacular",
       "url": "https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Vamos Fingir",
+        "url": "https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8"
+      },
+      "artists": [
+        {
+          "name": "Tuono",
+          "url": "https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL"
+        }
+      ],
+      "duration_ms": 266726,
+      "name": "Vamos Fingir",
+      "url": "https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Vou Te Encontrar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr"
-      },
-      "artists": [
-        {
-          "name": "Paulo Miklos",
-          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
-        }
-      ],
-      "duration_ms": 270796,
-      "name": "Vou Te Encontrar - Ao Vivo",
-      "url": "https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Proposta",
         "url": "https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 166615,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Vou Te Encontrar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "duration_ms": 270796,
+      "name": "Vou Te Encontrar - Ao Vivo",
+      "url": "https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF"
     },
     {
       "added_at": "2024-10-18 03:00:00",

@@ -625,6 +625,28 @@
     },
     {
       "album": {
+        "name": "Dann leg ich Schlager auf",
+        "url": "https://open.spotify.com/album/3Hod9KyrcwiuI6SWzspYAg"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        },
+        {
+          "name": "Tim Toupet",
+          "url": "https://open.spotify.com/artist/6bt8AKXF0E1m0IoI0o5I4N"
+        }
+      ],
+      "date_added": "2024-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171202,
+      "name": "Dann leg ich Schlager auf",
+      "url": "https://open.spotify.com/track/21YH3LX7O0uayHWOmDGPbL"
+    },
+    {
+      "album": {
         "name": "Atzen Musik Vol.1, 2 & 3",
         "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
       },
@@ -2286,7 +2308,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 204283,
       "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
       "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"

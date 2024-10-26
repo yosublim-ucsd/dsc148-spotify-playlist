@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 124007,
+  "num_followers": 124032,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Onde o Jaguar Espreita (Mose Remix)",
-        "url": "https://open.spotify.com/album/07pgudVmJYXqqgT53Uikli"
-      },
-      "artists": [
-        {
-          "name": "Advan Haschi",
-          "url": "https://open.spotify.com/artist/1xUZsIv7Vl2RlPKMIraFXE"
-        },
-        {
-          "name": "Mose",
-          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
-        }
-      ],
-      "duration_ms": 451200,
-      "name": "Onde o Jaguar Espreita - Mose Remix",
-      "url": "https://open.spotify.com/track/28XlmRM17A8x5igE0HKK4Q"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
         "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
       },
@@ -1071,22 +1051,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Vamo Com Tudo",
         "url": "https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG"
       },
@@ -1107,6 +1071,42 @@
       "duration_ms": 179527,
       "name": "Vamo Com Tudo",
       "url": "https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Onde o Jaguar Espreita (Mose Remix)",
+        "url": "https://open.spotify.com/album/07pgudVmJYXqqgT53Uikli"
+      },
+      "artists": [
+        {
+          "name": "Advan Haschi",
+          "url": "https://open.spotify.com/artist/1xUZsIv7Vl2RlPKMIraFXE"
+        },
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
+        }
+      ],
+      "duration_ms": 451200,
+      "name": "Onde o Jaguar Espreita - Mose Remix",
+      "url": "https://open.spotify.com/track/28XlmRM17A8x5igE0HKK4Q"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Eu Voltei",
+        "url": "https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD"
+      },
+      "artists": [
+        {
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "Eliezer Rezende",
+          "url": "https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Eu Voltei",
+      "url": "https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Deus \u00c9 Bom o Tempo Todo",
         "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 160846,
       "name": "Deus \u00c9 Bom o Tempo Todo",
       "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Eu Voltei",
-        "url": "https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD"
-      },
-      "artists": [
-        {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "Eliezer Rezende",
-          "url": "https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Eu Voltei",
-      "url": "https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2"
     },
     {
       "added_at": "2024-08-30 03:01:00",

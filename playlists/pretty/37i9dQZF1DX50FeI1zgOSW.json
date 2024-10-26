@@ -1,28 +1,124 @@
 {
-  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall",
-  "num_followers": 13322,
+  "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sandhya Chari",
+  "num_followers": 13331,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxr3MQAAAABi7/91e0lfgH8s4a2/ag98",
+  "snapshot_id": "Zxsa0AAAAAAMl01GeQqGQBJU9vKVgBhl",
   "tracks": [
     {
-      "added_at": "2024-08-23 05:09:28",
+      "added_at": "2024-10-18 04:57:06",
       "album": {
-        "name": "Chechi",
-        "url": "https://open.spotify.com/album/6e4ZAz8A7XIA9PBTM6bgP4"
+        "name": "Inidhai",
+        "url": "https://open.spotify.com/album/7BqfCxTAUt9Dnowv2za6pC"
       },
       "artists": [
         {
-          "name": "Marshall",
-          "url": "https://open.spotify.com/artist/2zzq4pWs2DhacmzdKeY0eD"
+          "name": "Sandhya Chari",
+          "url": "https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X"
         }
       ],
-      "duration_ms": 192676,
-      "name": "Chechi",
-      "url": "https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj"
+      "duration_ms": 240666,
+      "name": "Inidhai",
+      "url": "https://open.spotify.com/track/0uYwGSjdw4xpIVMppngaOM"
+    },
+    {
+      "added_at": "2024-10-18 04:54:06",
+      "album": {
+        "name": "Quarter Gaali",
+        "url": "https://open.spotify.com/album/5SnW2c83hJ1QMbV2Bu2fRi"
+      },
+      "artists": [
+        {
+          "name": "FSPROD Vinu",
+          "url": "https://open.spotify.com/artist/5yQd0LJ7Xwb31XIIAw354J"
+        }
+      ],
+      "duration_ms": 228885,
+      "name": "Quarter Gaali",
+      "url": "https://open.spotify.com/track/3jlVcnJ0bvhYw355UV9gVd"
+    },
+    {
+      "added_at": "2024-09-20 05:46:14",
+      "album": {
+        "name": "Kadalora Kavidhai",
+        "url": "https://open.spotify.com/album/625lVL1q4rErAhrL0pECqS"
+      },
+      "artists": [
+        {
+          "name": "Vishal Suresh",
+          "url": "https://open.spotify.com/artist/1uUzGZhdM22MMRbMVGRD3c"
+        },
+        {
+          "name": "Abhijith Njaroli",
+          "url": "https://open.spotify.com/artist/7tcIS62KpqMEBIUREP7p39"
+        },
+        {
+          "name": "Swetha Sugathan",
+          "url": "https://open.spotify.com/artist/16ubs8yIs6z8VQJnwBwe5y"
+        }
+      ],
+      "duration_ms": 286666,
+      "name": "Kadalora Kavidhai",
+      "url": "https://open.spotify.com/track/4OpEEHX7cOWneBcvhQxVD5"
+    },
+    {
+      "added_at": "2024-09-19 11:35:34",
+      "album": {
+        "name": "Thodarum Intha Payanam",
+        "url": "https://open.spotify.com/album/6lRG1g7mDsb7DTckqEOCA7"
+      },
+      "artists": [
+        {
+          "name": "Rama Priya Yegasivanathan",
+          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
+        },
+        {
+          "name": "Sahul",
+          "url": "https://open.spotify.com/artist/1BeKpwnqwVAbGe5IhhRylO"
+        }
+      ],
+      "duration_ms": 280725,
+      "name": "Thodarum Intha Payanam",
+      "url": "https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm"
+    },
+    {
+      "added_at": "2024-09-13 04:45:53",
+      "album": {
+        "name": "Thappa Lucka",
+        "url": "https://open.spotify.com/album/4qywuCNyFS05GvZe3MZPqc"
+      },
+      "artists": [
+        {
+          "name": "Noel-Ryan",
+          "url": "https://open.spotify.com/artist/7gPxhIED4vBdNzq22EZTav"
+        }
+      ],
+      "duration_ms": 194002,
+      "name": "Thappa Lucka",
+      "url": "https://open.spotify.com/track/4sn5TCw8HKcU7vT5lEHZnO"
+    },
+    {
+      "added_at": "2024-09-13 04:45:53",
+      "album": {
+        "name": "ALANGATTI MAZHA",
+        "url": "https://open.spotify.com/album/36DnnMTZWFQdAw5aIBFXmg"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        },
+        {
+          "name": "Rahul Hariharan",
+          "url": "https://open.spotify.com/artist/6tdfRI8aHCxNS9BijZSodn"
+        }
+      ],
+      "duration_ms": 111627,
+      "name": "ALANGATTI MAZHA",
+      "url": "https://open.spotify.com/track/1aXI7tNrCDb4IxskeCFLet"
     },
     {
       "added_at": "2024-09-16 12:16:54",
@@ -125,30 +221,6 @@
       "url": "https://open.spotify.com/track/5KNWO4AbtG5LBKt03aXh3N"
     },
     {
-      "added_at": "2024-09-20 05:46:14",
-      "album": {
-        "name": "Kadalora Kavidhai",
-        "url": "https://open.spotify.com/album/625lVL1q4rErAhrL0pECqS"
-      },
-      "artists": [
-        {
-          "name": "Vishal Suresh",
-          "url": "https://open.spotify.com/artist/1uUzGZhdM22MMRbMVGRD3c"
-        },
-        {
-          "name": "Abhijith Njaroli",
-          "url": "https://open.spotify.com/artist/7tcIS62KpqMEBIUREP7p39"
-        },
-        {
-          "name": "Swetha Sugathan",
-          "url": "https://open.spotify.com/artist/16ubs8yIs6z8VQJnwBwe5y"
-        }
-      ],
-      "duration_ms": 286666,
-      "name": "Kadalora Kavidhai",
-      "url": "https://open.spotify.com/track/4OpEEHX7cOWneBcvhQxVD5"
-    },
-    {
       "added_at": "2024-10-25 01:41:05",
       "album": {
         "name": "Irave",
@@ -165,92 +237,20 @@
       "url": "https://open.spotify.com/track/3pDGt2dpOJJhW9QMSYHK2f"
     },
     {
-      "added_at": "2024-10-18 04:57:06",
+      "added_at": "2024-08-23 05:09:28",
       "album": {
-        "name": "Inidhai",
-        "url": "https://open.spotify.com/album/7BqfCxTAUt9Dnowv2za6pC"
+        "name": "Chechi",
+        "url": "https://open.spotify.com/album/6e4ZAz8A7XIA9PBTM6bgP4"
       },
       "artists": [
         {
-          "name": "Sandhya Chari",
-          "url": "https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X"
+          "name": "Marshall",
+          "url": "https://open.spotify.com/artist/2zzq4pWs2DhacmzdKeY0eD"
         }
       ],
-      "duration_ms": 240666,
-      "name": "Inidhai",
-      "url": "https://open.spotify.com/track/0uYwGSjdw4xpIVMppngaOM"
-    },
-    {
-      "added_at": "2024-09-19 11:35:34",
-      "album": {
-        "name": "Thodarum Intha Payanam",
-        "url": "https://open.spotify.com/album/6lRG1g7mDsb7DTckqEOCA7"
-      },
-      "artists": [
-        {
-          "name": "Rama Priya Yegasivanathan",
-          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
-        },
-        {
-          "name": "Sahul",
-          "url": "https://open.spotify.com/artist/1BeKpwnqwVAbGe5IhhRylO"
-        }
-      ],
-      "duration_ms": 280725,
-      "name": "Thodarum Intha Payanam",
-      "url": "https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm"
-    },
-    {
-      "added_at": "2024-09-13 04:45:53",
-      "album": {
-        "name": "ALANGATTI MAZHA",
-        "url": "https://open.spotify.com/album/36DnnMTZWFQdAw5aIBFXmg"
-      },
-      "artists": [
-        {
-          "name": "ADY KRIZ",
-          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
-        },
-        {
-          "name": "Rahul Hariharan",
-          "url": "https://open.spotify.com/artist/6tdfRI8aHCxNS9BijZSodn"
-        }
-      ],
-      "duration_ms": 111627,
-      "name": "ALANGATTI MAZHA",
-      "url": "https://open.spotify.com/track/1aXI7tNrCDb4IxskeCFLet"
-    },
-    {
-      "added_at": "2024-10-18 04:54:06",
-      "album": {
-        "name": "Quarter Gaali",
-        "url": "https://open.spotify.com/album/5SnW2c83hJ1QMbV2Bu2fRi"
-      },
-      "artists": [
-        {
-          "name": "FSPROD Vinu",
-          "url": "https://open.spotify.com/artist/5yQd0LJ7Xwb31XIIAw354J"
-        }
-      ],
-      "duration_ms": 228885,
-      "name": "Quarter Gaali",
-      "url": "https://open.spotify.com/track/3jlVcnJ0bvhYw355UV9gVd"
-    },
-    {
-      "added_at": "2024-09-13 04:45:53",
-      "album": {
-        "name": "Thappa Lucka",
-        "url": "https://open.spotify.com/album/4qywuCNyFS05GvZe3MZPqc"
-      },
-      "artists": [
-        {
-          "name": "Noel-Ryan",
-          "url": "https://open.spotify.com/artist/7gPxhIED4vBdNzq22EZTav"
-        }
-      ],
-      "duration_ms": 194002,
-      "name": "Thappa Lucka",
-      "url": "https://open.spotify.com/track/4sn5TCw8HKcU7vT5lEHZnO"
+      "duration_ms": 192676,
+      "name": "Chechi",
+      "url": "https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj"
     },
     {
       "added_at": "2024-09-19 11:30:22",
@@ -1127,26 +1127,6 @@
       "duration_ms": 170017,
       "name": "Cosmic Kaadhal (From \"Nodigalal Naam Karaiya\")",
       "url": "https://open.spotify.com/track/7urPC6bNYLfTZk56JEBECA"
-    },
-    {
-      "added_at": "2024-07-09 08:06:34",
-      "album": {
-        "name": "Oru Panithuli",
-        "url": "https://open.spotify.com/album/26GwJWIMxEGLXwl34BrK00"
-      },
-      "artists": [
-        {
-          "name": "Pranav Sooraj",
-          "url": "https://open.spotify.com/artist/0LL6UrzvgzwSi3M3gllE3I"
-        },
-        {
-          "name": "Devaharshan",
-          "url": "https://open.spotify.com/artist/15vvBI4vPBuQKm7Fskcdv0"
-        }
-      ],
-      "duration_ms": 265708,
-      "name": "Oru Panithuli",
-      "url": "https://open.spotify.com/track/0sQx2kPgztAoyYrZ1KZEUG"
     },
     {
       "added_at": "2024-05-03 05:57:50",

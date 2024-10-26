@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,747 likes - 125 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,757 likes - 125 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 |
 | 2 | [Soup](https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Big Ideas](https://open.spotify.com/album/7HQOEMCDGKY8eJyQPdsnYH) | 3:33 |
-| 3 | [Asphalt](https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Asphalt](https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0) | 2:47 |
-| 4 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
+| 3 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
+| 4 | [Asphalt](https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Asphalt](https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0) | 2:47 |
 | 5 | [delusion](https://open.spotify.com/track/4gSi5iErqKf4tL1qclmXnp) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 2:46 |
 | 6 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 |
-| 7 | [Forgive & Forget](https://open.spotify.com/track/0Rxwr5KJUwAq5SMPtMTq0g) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Forgive & Forget](https://open.spotify.com/album/7t37CKgF9GtNTdkFExxegB) | 2:48 |
-| 8 | [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 |
-| 9 | [No Way To Relax When You Are On Fire](https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 4:02 |
-| 10 | [Panic!](https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Panic!](https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ) | 2:45 |
-| 11 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 |
-| 12 | [green light](https://open.spotify.com/track/0ctnLcTOOK4yDNxAq48pZQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [green light](https://open.spotify.com/album/6B4obGwSQ7cPstogpuNs2M) | 3:02 |
-| 13 | [A Little More](https://open.spotify.com/track/6oarSooSpTfMO8EmzJdm4P) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK) | 3:38 |
-| 14 | [Chemical](https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Chemical](https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu) | 4:07 |
-| 15 | [Push Me 'Til I Break](https://open.spotify.com/track/4cjcmxeumdc7QEYFmgCB3z) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Push Me 'Til I Break](https://open.spotify.com/album/3hzrfTej71h1eKS5GUmogY) | 3:01 |
-| 16 | [The Only One](https://open.spotify.com/track/3A87o59RCXV2ZfSelX9KJk) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [The Only One](https://open.spotify.com/album/5wmc647MPLoLrQGAZcCihj) | 3:31 |
-| 17 | [Thank Goodness](https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh) | 3:20 |
-| 18 | [HOW?!](https://open.spotify.com/track/0qA3Wf6XZnPyRb8hwTLXZK) | [Reu](https://open.spotify.com/artist/2ksghJMZXmtumSG2Whgk1a) | [HOW?!](https://open.spotify.com/album/7ie4b1iR1xqoTSmsfHRv6e) | 2:33 |
-| 19 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 |
+| 7 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
+| 8 | [Forgive & Forget](https://open.spotify.com/track/0Rxwr5KJUwAq5SMPtMTq0g) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Forgive & Forget](https://open.spotify.com/album/7t37CKgF9GtNTdkFExxegB) | 2:48 |
+| 9 | [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 |
+| 10 | [No Way To Relax When You Are On Fire](https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 4:02 |
+| 11 | [Panic!](https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Panic!](https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ) | 2:45 |
+| 12 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 |
+| 13 | [green light](https://open.spotify.com/track/0ctnLcTOOK4yDNxAq48pZQ) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [green light](https://open.spotify.com/album/6B4obGwSQ7cPstogpuNs2M) | 3:02 |
+| 14 | [A Little More](https://open.spotify.com/track/6oarSooSpTfMO8EmzJdm4P) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK) | 3:38 |
+| 15 | [Chemical](https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Chemical](https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu) | 4:07 |
+| 16 | [Push Me 'Til I Break](https://open.spotify.com/track/4cjcmxeumdc7QEYFmgCB3z) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Push Me 'Til I Break](https://open.spotify.com/album/3hzrfTej71h1eKS5GUmogY) | 3:01 |
+| 17 | [The Only One](https://open.spotify.com/track/3A87o59RCXV2ZfSelX9KJk) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [The Only One](https://open.spotify.com/album/5wmc647MPLoLrQGAZcCihj) | 3:31 |
+| 18 | [Thank Goodness](https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Thank Goodness](https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh) | 3:20 |
+| 19 | [HOW?!](https://open.spotify.com/track/0qA3Wf6XZnPyRb8hwTLXZK) | [Reu](https://open.spotify.com/artist/2ksghJMZXmtumSG2Whgk1a) | [HOW?!](https://open.spotify.com/album/7ie4b1iR1xqoTSmsfHRv6e) | 2:33 |
 | 20 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
 | 21 | [PARANOID](https://open.spotify.com/track/6SFKld0gd9xlOm3LRMVr6P) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [PARANOID](https://open.spotify.com/album/0R2a80cHrhulPnJM9m1jXc) | 3:09 |
 | 22 | [days i've cried this year](https://open.spotify.com/track/40adPYtUTFHUUrJMn6IovJ) | [priyana](https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ) | [days i've cried this year](https://open.spotify.com/album/35Tf51SMXwuBH6ruqtLvmj) | 4:10 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Homebody](https://open.spotify.com/track/5yR57I2TT78WHVCSXdCQaN) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Homebody](https://open.spotify.com/album/6pckUMFCiCaq1EmPQeStKi) | 3:15 |
 | 125 | [moving on \(feat\. Khary\)](https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [moving on / sugarhoneyiceicetea](https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n) | 2:59 |
 
-Snapshot ID: `ZxHdQAAAAADgw77ISef34xG39Mji8xFe`
+Snapshot ID: `ZxsXwAAAAACQBH/tJk97pm3TUXLtDGUh`

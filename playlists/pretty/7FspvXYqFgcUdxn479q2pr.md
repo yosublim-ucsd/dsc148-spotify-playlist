@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER:  Vibe Chemistry &amp; Maduk
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER:  Alok &amp; Firebeats
 
 [Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,535 likes - 23 songs - 59 min 6 sec
 
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 22 | [SexyBack \- TechnoBack](https://open.spotify.com/track/27DP0kOSbA6j7WNCAXN6vo) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mono Schwarz](https://open.spotify.com/artist/5vOyfExrjM77ls1SXN0CLF) | [SexyBack \(TechnoBack\)](https://open.spotify.com/album/40mGsEE2OZqF5GOsGwt32a) | 2:26 |
 | 23 | [Soundboy Killah](https://open.spotify.com/track/50yWD8iOunA5nQzwe4gJ6U) | [Awiin](https://open.spotify.com/artist/0QUPQsSV7c2IAiftgYr5lP) | [Soundboy Killah](https://open.spotify.com/album/6FBDbAme8h471vzHNlawcb) | 2:30 |
 
-Snapshot ID: `AAArgQH2LoyYx06ccZ2u+pnNj/QqEAN9`
+Snapshot ID: `AAArghgHuScXdlT+Ar9s1jL2WNkBbh/Y`

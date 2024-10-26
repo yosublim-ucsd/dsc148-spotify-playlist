@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: DJ Gigola
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,102 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,110 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 32 | [Was hab ich nur getan?](https://open.spotify.com/track/1WyGuO8jJI4TmAp2ERorb5) | [Mine](https://open.spotify.com/artist/2jmpnuwn52LqrQASBlyQGJ), [Nicola Rost](https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg) | [Was hab ich nur getan?](https://open.spotify.com/album/1icJ1tybkmg30fkU1v1qOA) | 2:52 |
 | 33 | [Hardcore Workout Queen](https://open.spotify.com/track/7K01ebFNRoaVAogSU8gPiM) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hardcore Workout Queen](https://open.spotify.com/album/68pRFIG5YFIYuMkDmApgg1) | 4:54 |
 | 34 | [Catch The Rain](https://open.spotify.com/track/6kkiSenLxDFmqhPlwhxbjA) | [RAHEL](https://open.spotify.com/artist/1PiAhtDO04aDUU9VKEi1j7) | [Catch The Rain](https://open.spotify.com/album/4HaWTik9SSWStlldD21OEd) | 3:20 |
-| 35 | [Wie geht gut alleine sein?](https://open.spotify.com/track/7C0qqfYWwBfKLa45Z6zKSv) | [Ana Kohler](https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw) | [Wie geht gut alleine sein?](https://open.spotify.com/album/0GcqIY3kjrQ7cCCxSzbECv) | 2:06 |
-| 36 | [Heaven is Magnetic](https://open.spotify.com/track/0ZbayZ31moMGhRl3BLW0s6) | [Ella Eliza](https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ) | [Heaven is Magnetic](https://open.spotify.com/album/2VAuT1hLRuyV9qRgMUByxx) | 2:50 |
+| 35 | [Heaven is Magnetic](https://open.spotify.com/track/0ZbayZ31moMGhRl3BLW0s6) | [Ella Eliza](https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ) | [Heaven is Magnetic](https://open.spotify.com/album/2VAuT1hLRuyV9qRgMUByxx) | 2:50 |
+| 36 | [Wie geht gut alleine sein?](https://open.spotify.com/track/7C0qqfYWwBfKLa45Z6zKSv) | [Ana Kohler](https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw) | [Wie geht gut alleine sein?](https://open.spotify.com/album/0GcqIY3kjrQ7cCCxSzbECv) | 2:06 |
 | 37 | [In the Mood](https://open.spotify.com/track/0tIJQNaGHFGhcZGEHJHc9l) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [In the Mood](https://open.spotify.com/album/0dJHNU5d3Jdr2JXeuqenx5) | 4:12 |
 | 38 | [Das Barlach\-Lied](https://open.spotify.com/track/5UrqDV1gpr0nstP1LzqcoK) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk) | [Das Barlach\-Lied](https://open.spotify.com/album/6yWgsXbjLxGhclqocPwtkr) | 3:21 |
 | 39 | [Set Me Free](https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Set Me Free](https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U) | 7:06 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 43 | [My Melody](https://open.spotify.com/track/6abYvlEKi1JLymoapJLnuT) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [My Melody](https://open.spotify.com/album/6BK5VZGzz4rk6bkMzIWNau) | 2:46 |
 | 44 | [fuck you paris](https://open.spotify.com/track/65uI2xul4j4UD8mX8tSg7w) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [fuck you paris](https://open.spotify.com/album/61SCR2w7ZqD01Dxlg6mI2b) | 2:27 |
 | 45 | [Once You Laugh](https://open.spotify.com/track/5MgacnNdBstpZpgGwAT25K) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [Once You Laugh](https://open.spotify.com/album/2j1jn3B1uPdcxhFrOCXtjY) | 2:17 |
-| 46 | [Lonely Men](https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677) | [MOREA](https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX) | [Lonely Men](https://open.spotify.com/album/5snyBoy81dc2LxzvCT4Zt6) | 3:45 |
-| 47 | [Landscape Escape \- Nine Years Later](https://open.spotify.com/track/5YTVwELHfJD93lVmFDgUec) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Dahlia](https://open.spotify.com/album/14WAFfaJHHYb69jyaBXML8) | 5:11 |
+| 46 | [Landscape Escape \- Nine Years Later](https://open.spotify.com/track/5YTVwELHfJD93lVmFDgUec) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Dahlia](https://open.spotify.com/album/14WAFfaJHHYb69jyaBXML8) | 5:11 |
+| 47 | [Lonely Men](https://open.spotify.com/track/2LFTMx8lbbgNPd7kVha677) | [MOREA](https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX) | [Lonely Men](https://open.spotify.com/album/5snyBoy81dc2LxzvCT4Zt6) | 3:45 |
 | 48 | [Girl in a Band](https://open.spotify.com/track/17F1rDQyWwxxfG16TQNOhp) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [An Ode To ?](https://open.spotify.com/album/1UMdIvXkkjfhYqVIL0iIyn) | 3:12 |
 | 49 | [Im\_Possible](https://open.spotify.com/track/2SmZcm0DEOGVk5kFJdDeiS) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL), [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Im\_Possible](https://open.spotify.com/album/65WNRRyeYrxmJ7pgwsFGHc) | 2:41 |
 | 50 | [Reise](https://open.spotify.com/track/6JNFa3C36DOyg83qHoBzl7) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Reise](https://open.spotify.com/album/4d5v1Snws3imspGLpywdZQ) | 3:24 |

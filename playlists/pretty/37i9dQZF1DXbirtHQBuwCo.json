@@ -1,6 +1,6 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: JAEHYUN(\uc7ac\ud604))",
-  "num_followers": 1014082,
+  "num_followers": 1014445,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2024-10-24 09:00:00",
       "album": {
-        "name": "Love Part 2",
-        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        },
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Don't ever say love me (feat. RM of BTS)",
-      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
-    },
-    {
-      "added_at": "2024-10-24 09:00:00",
-      "album": {
         "name": "Know me",
         "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 221693,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
+    },
+    {
+      "added_at": "2024-10-24 09:00:00",
+      "album": {
+        "name": "Love Part 2",
+        "url": "https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Don't ever say love me (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo"
     },
     {
       "added_at": "2024-10-24 09:00:00",

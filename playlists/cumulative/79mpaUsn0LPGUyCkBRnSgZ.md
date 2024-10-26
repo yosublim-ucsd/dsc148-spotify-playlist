@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-762 songs - 2 day 3 hr 4 min
+763 songs - 2 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,6 +384,7 @@
 | [Landlines](https://open.spotify.com/track/5akuJANUZArqcqFXGyBYWH) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh) | 2:58 | 2024-01-09 |  |
 | [Landlines](https://open.spotify.com/track/3VKxyE7OxbxTcTfardM9pU) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/74vN8W3NHvyM69AnrL5Arp) | 2:58 | 2024-08-11 |  |
 | [Latter Days](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 | 2023-12-21 |  |
+| [Laughing Hieroglyphic](https://open.spotify.com/track/0YVDEtkT2SjdR5w7uIFcrj) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Down There](https://open.spotify.com/album/6ttLfw2Z9Wbxu3paarz6h0) | 6:49 | 2024-10-26 |  |
 | [Leather & Lace](https://open.spotify.com/track/33Z5vF0bF0OyZWabDcXgbB) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/1GYm7FRy5UZPNu1cTtOdKs) | 2:01 | 2023-12-03 | 2024-01-07 |
 | [Leave It In My Dreams](https://open.spotify.com/track/31u6rUeIEXGrYVoh10U7eu) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:59 | 2023-09-12 |  |
 | [Leave Us Here \(We're Fine\)](https://open.spotify.com/track/71OhvvtYoZDKkvVT6fUUur) | [Orchards](https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ) | [Trust Issues](https://open.spotify.com/album/5TzJP7CDqmtLCj7YcHPEaL) | 3:16 | 2024-06-11 |  |
@@ -453,7 +454,7 @@
 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 | 2022-04-23 |  |
 | [Nappy Heads](https://open.spotify.com/track/5ZOsm73xqrZPJBBtv4aGpS) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY) | [Blunted On Reality](https://open.spotify.com/album/0SHdsrvo4oGJiUlYLaqCcu) | 4:29 | 2024-05-27 |  |
 | [Native Belle](https://open.spotify.com/track/28N9Albx54zeZwhccbk3qR) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Ark](https://open.spotify.com/album/7Mpy0YPUymmzOopyQrMXw5) | 3:52 | 2024-07-22 |  |
-| [Natural Vaudou](https://open.spotify.com/track/7F5taDAEzGYIcKA6mYNlCs) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz) | [Kidayu](https://open.spotify.com/album/76PW5sf4kKQR5jCZ05gilM) | 3:41 | 2024-01-18 |  |
+| [Natural Vaudou](https://open.spotify.com/track/7F5taDAEzGYIcKA6mYNlCs) | [Vaudou Game](https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz) | [Kidayu](https://open.spotify.com/album/76PW5sf4kKQR5jCZ05gilM) | 3:41 | 2024-01-18 | 2024-10-26 |
 | [Necessary](https://open.spotify.com/track/1oAmBK4NtTlQQHVdTNPl6y) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [90059](https://open.spotify.com/album/1fsvlnonD95p6VTEdQ7zJn) | 3:20 | 2022-07-26 |  |
 | [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 | 2022-10-22 |  |
 | [New Jeans](https://open.spotify.com/track/7woEDtme8YkFiWeyiinIjy) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 1:48 | 2024-02-23 | 2024-03-28 |

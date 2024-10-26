@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Aaron Parks, David Ginyard Jr, Greg Tuohey & Jongkuk Kim",
+  "description": "New jazz for open minds. Cover: Mulatu Astatke",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -8393,6 +8393,28 @@
     },
     {
       "album": {
+        "name": "Dung Gate",
+        "url": "https://open.spotify.com/album/3QMRQH28I1kwXe9nzFtUYd"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        },
+        {
+          "name": "Hoodna Orchestra",
+          "url": "https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247093,
+      "name": "Dung Gate",
+      "url": "https://open.spotify.com/track/2iYKFf2p2mM0YSfRXOdLF4"
+    },
+    {
+      "album": {
         "name": "Duolism - One Two",
         "url": "https://open.spotify.com/album/6y5BbpHAUrc2GABbFRLGox"
       },
@@ -9210,6 +9232,28 @@
       "duration_ms": 205928,
       "name": "Epoca",
       "url": "https://open.spotify.com/track/2BkAmulEiKR12DmygIv1Wq"
+    },
+    {
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/4c26T0Mm19KaMKGEUTog5C"
+      },
+      "artists": [
+        {
+          "name": "Snazzback",
+          "url": "https://open.spotify.com/artist/3bD0qDLbGmvMvbaP8vHr9e"
+        },
+        {
+          "name": "Grove",
+          "url": "https://open.spotify.com/artist/1ymLBAEb4VHg1sObM20pQ3"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211560,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/7EQje357jNqN2WNMHbQ8z7"
     },
     {
       "album": {
@@ -22208,7 +22252,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 351710,
       "name": "Piece of Mind",
       "url": "https://open.spotify.com/track/44CdPwoPxNt8JV80dKqMnh"
@@ -28526,7 +28570,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 297960,
       "name": "Tension",
       "url": "https://open.spotify.com/track/0Q9Z3nPkhn6zgLDwb3KDQI"

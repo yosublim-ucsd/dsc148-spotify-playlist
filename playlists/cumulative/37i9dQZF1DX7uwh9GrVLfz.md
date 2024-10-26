@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: OCHA∞ME
 
-792 songs - 1 day 18 hr 10 min
+793 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [Timesale Nogashitekure](https://open.spotify.com/track/3v3TVrhtFDa69MNBC6ZufV) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [Attention!!](https://open.spotify.com/album/0N0p8xk7Qi0VV0x0UgKtxZ) | 3:57 | 2024-01-10 | 2024-03-08 |
 | [to be continued](https://open.spotify.com/track/2Vjvy82eYW584ZzSpqRfeK) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [to be continued](https://open.spotify.com/album/2426KIh3FQjMSZfNeXktvA) | 4:04 | 2023-10-24 |  |
 | [TOKOSHIENI](https://open.spotify.com/track/2rn0JaKCLzRymIeV6H4Nmf) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [TOKOSHIENI](https://open.spotify.com/album/6EDHO33gg2AdhTBmTyScd3) | 4:06 | 2023-08-08 | 2023-10-18 |
-| [TOKYO ASH](https://open.spotify.com/track/5nBE5YTtvIWxQYvTOG76Wz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [TENDOUJI](https://open.spotify.com/album/0vfzJ1M6LLhqzx6MLmvnjY) | 2:42 | 2024-05-14 |  |
+| [TOKYO ASH](https://open.spotify.com/track/5nBE5YTtvIWxQYvTOG76Wz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [TENDOUJI](https://open.spotify.com/album/0vfzJ1M6LLhqzx6MLmvnjY) | 2:42 | 2024-05-14 | 2024-10-26 |
 | [Tomorrow](https://open.spotify.com/track/5iKomi6VipIbpiwOZtoBsh) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX), [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:36 | 2023-10-17 | 2024-02-28 |
 | [Tomorrow Song](https://open.spotify.com/track/3HmhhB2nqkukgJkSfdIXBw) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [Tomorrow Song](https://open.spotify.com/album/46twmDeKT3UP4A4pE9z80y) | 3:08 | 2022-05-24 | 2022-07-29 |
 | [Tonight](https://open.spotify.com/track/0dnIaNDy2cRcJSbKdANRik) | [COUNTRY YARD](https://open.spotify.com/artist/7zAPELMruolERj0vMJGp76) | [The Roots Evolved](https://open.spotify.com/album/1tNSCVXD75Va3P3U0t733a) | 2:52 | 2022-05-17 | 2022-07-27 |
@@ -527,6 +527,7 @@
 | [Tsunagari SUNSET](https://open.spotify.com/track/0T6XPgGcNJ6WwTnX7k70t9) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:51 | 2023-02-21 | 2023-04-19 |
 | [turning point](https://open.spotify.com/track/3zSBhkgMc4H4wFvEKRb2AW) | [stack44](https://open.spotify.com/artist/4EOraZF0akqvGDt131ALIJ) | [clockwork](https://open.spotify.com/album/7Avr8T0Wu5GFpTVgb0AgHd) | 3:36 | 2022-05-17 | 2022-07-14 |
 | [UMA WITH A MISSION](https://open.spotify.com/track/76Kpt955dzeNTVpyIveNBO) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [UMA WITH A MISSION](https://open.spotify.com/album/3uWTEqofNs8cZ04WqdyQUF) | 3:34 | 2023-02-24 | 2023-03-01 |
+| [UMA WITH A MISSION](https://open.spotify.com/track/1IMy3xrUnqsz9pfCKj5Px6) | [suxingcyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [UMA WITH A MISSION](https://open.spotify.com/album/6HWEdPypaMBYFSPF5fBs94) | 3:34 | 2024-10-15 |  |
 | [UNITY](https://open.spotify.com/track/1FpsMVvNfyQyaJSbTIQ8ax) | [BACK LIFT](https://open.spotify.com/artist/6R0ajUp8xP5GZCFaQwYBrj) | [UNITY](https://open.spotify.com/album/4EWEV9iA8vxu53go2vt2kl) | 1:33 | 2022-06-28 | 2022-07-28 |
 | [Untitled](https://open.spotify.com/track/7HOFDidN6ny6236kuHJfaI) | [KICKASSRAY](https://open.spotify.com/artist/3kDn7aNNfO1sfrK5oCeI36) | [Hold Water EP](https://open.spotify.com/album/2tyiEdraFvdGSigC1dD0ZE) | 2:41 | 2022-05-19 | 2022-07-11 |
 | [Urakan.rana](https://open.spotify.com/track/0JlCdu2HaoYgHT7UyUnMFI) | [OVER LIMIT](https://open.spotify.com/artist/7sU3eIs2Sx9bz3afmehCmg) | [Urakan.rana](https://open.spotify.com/album/5hJ0MgDtFocwjJjinGlvxT) | 1:05 | 2022-11-01 | 2022-11-14 |

@@ -1,29 +1,13 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 22482,
+  "num_followers": 22506,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxg8gAAAAACyx3PAZ0ByOztQAH9S/pWZ",
+  "snapshot_id": "ZxmOAAAAAABGRSZK73IjVZD1nragQMyy",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 218325,
-      "name": "Chasing Yesterdays",
-      "url": "https://open.spotify.com/track/6WvRiJeHUddJnkQuZTMdDG"
-    },
     {
       "added_at": null,
       "album": {
@@ -123,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 218325,
+      "name": "Chasing Yesterdays",
+      "url": "https://open.spotify.com/track/6WvRiJeHUddJnkQuZTMdDG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Piano Whisperer",
         "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Secret Piano",
-        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 115227,
-      "name": "Last Song",
-      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classical Soul Vol. 1",
         "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 63372,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/1RaD3ilt4NTRHwJGvMy2L0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Secret Piano",
+        "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 115227,
+      "name": "Last Song",
+      "url": "https://open.spotify.com/track/5YfZknxIgQayJKaMn5Z11G"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 213644,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/6388HGab7WTMCCJYYtHQ2z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Classical Soul Vol. 1",
         "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 200297,
       "name": "The Way It Was",
       "url": "https://open.spotify.com/track/0Ou52Ie17Xe557e0rCDdgG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 213644,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/6388HGab7WTMCCJYYtHQ2z"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 218130,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/42InL799NohWvvJBYexpxf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 201008,
-      "name": "Returning To You",
-      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/3PxpfUA7ZgEQWAjofSURRV"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 133647,
       "name": "The Promise",
       "url": "https://open.spotify.com/track/0SaUNOXFFmziEOyn0Gyi9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classical Soul Vol. 1",
+        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 201008,
+      "name": "Returning To You",
+      "url": "https://open.spotify.com/track/1Y3iykHwIsjHX1NVC72Pyb"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 218130,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/42InL799NohWvvJBYexpxf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 216625,
       "name": "Story of You",
       "url": "https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 168115,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/6bpsmIyYGFBkNYooj595ji"
     },
     {
       "added_at": null,
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classical Soul Vol. 1",
-        "url": "https://open.spotify.com/album/1o2N59k58i7YOG6qdR7Qv9"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 207626,
-      "name": "Together Without You",
-      "url": "https://open.spotify.com/track/0OoXjNW8NfQwvajvjX84VF"
+      "duration_ms": 168115,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/6bpsmIyYGFBkNYooj595ji"
     },
     {
       "added_at": null,
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 211819,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/2zlfbhaKlYE45y5LyJawmh"
+      "duration_ms": 142402,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6r149zapbSHwCxJUoh0aLD"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/21STh457wYrqmeYQlW1Lvw"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4N4dU9titX6FRpkHnjvAct"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 142402,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/6r149zapbSHwCxJUoh0aLD"
+      "duration_ms": 211819,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/2zlfbhaKlYE45y5LyJawmh"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piano Karma",
+        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 191445,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stolen Lullabies",
         "url": "https://open.spotify.com/album/60I6ryl6K8EqSFnwQeLqWY"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Karma",
-        "url": "https://open.spotify.com/album/4lZkexfsSWFwe73hLx9Tvr"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 191445,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/5nzGqdxOAopeh7KLI9Sy6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Truth",
         "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
       },
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Whisperer",
-        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
+        "name": "Truth - The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
       },
       "artists": [
         {
@@ -712,9 +696,9 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 129745,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa"
+      "duration_ms": 189717,
+      "name": "Hope, Ascending - Solo Piano Version",
+      "url": "https://open.spotify.com/track/3TuN88sSwjNy1RAUDiKTm1"
     },
     {
       "added_at": null,
@@ -743,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth - The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO"
+        "name": "The Piano Whisperer",
+        "url": "https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU"
       },
       "artists": [
         {
@@ -752,9 +736,25 @@
           "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
         }
       ],
-      "duration_ms": 189717,
-      "name": "Hope, Ascending - Solo Piano Version",
-      "url": "https://open.spotify.com/track/3TuN88sSwjNy1RAUDiKTm1"
+      "duration_ms": 129745,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/6otr6vDkjx0vlEEJzbmjsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Solo Piano Collection",
+        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 206740,
+      "name": "Forever Song - Solo Piano Version",
+      "url": "https://open.spotify.com/track/43bkTTThsdr1c94ZbRnpbg"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
       "duration_ms": 104727,
       "name": "Calmer Shores",
       "url": "https://open.spotify.com/track/2zI2ZijxaGuYvSXQk9RMN0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Solo Piano Collection",
-        "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 206740,
-      "name": "Forever Song - Solo Piano Version",
-      "url": "https://open.spotify.com/track/43bkTTThsdr1c94ZbRnpbg"
     },
     {
       "added_at": null,

@@ -260,7 +260,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 235426,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
@@ -958,10 +958,28 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 198626,
       "name": "I'm Not Really Here",
       "url": "https://open.spotify.com/track/0Np34uzd2oP17sO73NTLM3"
+    },
+    {
+      "album": {
+        "name": "Townies",
+        "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198626,
+      "name": "I'm Not Really Here",
+      "url": "https://open.spotify.com/track/2CxUw9KnY5VHugLbBZiCAF"
     },
     {
       "album": {
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 187186,
       "name": "Women's Jeans",
       "url": "https://open.spotify.com/track/5UFlZdTUkIMPIcprjw69KG"

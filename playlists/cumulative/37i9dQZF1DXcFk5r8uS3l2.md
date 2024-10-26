@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
 
-407 songs - 1 day 1 hr 31 min
+408 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Change My Mind](https://open.spotify.com/track/0H2MZlPGsXeQuNzLY6dL1P) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Change My Mind](https://open.spotify.com/album/5D4wpw1J1QrlUFg9N95wHh) | 5:01 | 2021-12-17 | 2023-04-29 |
 | [Clotilda's On Fire](https://open.spotify.com/track/1B3KOfW9ZxFB4sVDK4s9a8) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Clotilda's On Fire](https://open.spotify.com/album/47ADK0ggtSLXrjHdLqRf9D) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2021-12-17 |  |
-| [Colors \- Acoustic](https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o) | 5:23 | 2021-12-17 |  |
+| [Colors \- Acoustic](https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o) | 5:23 | 2021-12-17 | 2024-10-26 |
 | [Cool Whip](https://open.spotify.com/track/11VRbqIoImi99kotcVUDKw) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 3:42 | 2022-08-19 | 2023-04-01 |
 | [Cool Whip](https://open.spotify.com/track/5sj0p138vmExupLI9pOTI7) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Cool Whip](https://open.spotify.com/album/2NyghAoOQRqYCUdHgMNTrl) | 3:42 | 2022-08-19 | 2023-03-02 |
 | [Cover Me](https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) | [Ugly](https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3) | 5:35 | 2024-08-23 |  |
@@ -266,6 +266,7 @@
 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 | 2021-12-17 | 2023-02-25 |
 | [Order out of Chaos](https://open.spotify.com/track/0g4O3fIl76RzfB6YvPjEhI) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [Order out of Chaos](https://open.spotify.com/album/474UZkOJiONk1qZbePll0F) | 5:02 | 2022-04-15 | 2022-06-11 |
 | [Out for Blood](https://open.spotify.com/track/7739yFrjY8ZOg3619Y07yH) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning \(Deluxe\)](https://open.spotify.com/album/7Mz65cNLCpxl7qzFIxfCVA) | 3:54 | 2024-02-09 |  |
+| [Out of All the Stars](https://open.spotify.com/track/5N7ZvlLi9OUmVbBYfuqSwc) | [Deltaphonic](https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8) | [Out of All the Stars](https://open.spotify.com/album/6leH7jcoSppPjueeyLOJlM) | 3:59 | 2024-10-25 |  |
 | [Over the Hill](https://open.spotify.com/track/6EnF6UDdLryXtMIYot9eOe) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Over the Hill](https://open.spotify.com/album/5XS21bnArLJ4pDjdfUNsOU) | 3:25 | 2023-03-10 | 2023-07-15 |
 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 | 2021-12-17 | 2024-03-23 |
 | [Peaches](https://open.spotify.com/track/2lnnBOiuEgoVpvHx5enMTe) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Peaches](https://open.spotify.com/album/6dv2y76f9gdKEfbfXJKMGU) | 5:05 | 2024-06-28 | 2024-08-03 |

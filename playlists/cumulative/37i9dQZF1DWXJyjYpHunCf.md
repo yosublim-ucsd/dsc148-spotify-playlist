@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Jenna Raine
 
-463 songs - 1 day 2 hr 15 min
+465 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Enjoy the view](https://open.spotify.com/track/6WDHGgsxiB2YQIib7kcmRf) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Enjoy the view](https://open.spotify.com/album/1MYDttHKjrYFTc8G9DYeYy) | 2:32 | 2024-07-12 | 2024-10-19 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-01-27 |  |
 | [Everything We Need](https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Everything We Need](https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M) | 3:33 | 2023-08-01 |  |
+| [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-25 |  |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-11-12 | 2023-09-30 |
 | [Fallen Angel](https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Ghost of Our Past](https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT) | 2:44 | 2024-07-12 |  |
 | [Falling Faster](https://open.spotify.com/track/08mpiFeuRWQeJsswcdSTDl) | [Dylan Espeseth](https://open.spotify.com/artist/7wS3LzIpvpoPcpZKFpFAv0) | [Falling Faster](https://open.spotify.com/album/55Kd1nwppQaWjuKmphoeih) | 1:32 | 2024-05-17 |  |
@@ -178,6 +179,7 @@
 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2023-05-19 | 2023-06-13 |
 | [Grace](https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Grace](https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK) | 3:20 | 2023-08-18 | 2024-03-30 |
 | [Greatest Enemy](https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Greatest Enemy](https://open.spotify.com/album/7zSHCMpn2wrQ2ANIlFcoNu) | 3:09 | 2021-11-12 | 2022-08-20 |
+| [Growing Exponentially](https://open.spotify.com/track/0vKaiWad18yPie45nWpDz8) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Growing Through It](https://open.spotify.com/album/3QGYowAWcYKXjbapjtHL5v) | 3:51 | 2024-10-25 |  |
 | [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-19 | 2024-03-30 |
 | [Happy Girl](https://open.spotify.com/track/4KERVj1ZarxTVdsUJJDS3U) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Happy Girl](https://open.spotify.com/album/4lPXRjKmQPMX5yYD81Wodh) | 3:03 | 2022-03-12 | 2022-07-21 |
 | [Harshest Critic](https://open.spotify.com/track/21FgHK5OHDvgNxW3ZgqIfp) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Harshest Critic](https://open.spotify.com/album/49lMIK60bcwjMPgDfaIV71) | 3:16 | 2021-11-12 | 2022-07-29 |
@@ -265,7 +267,7 @@
 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 | 2021-11-12 | 2024-08-24 |
 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 | 2024-02-23 |  |
 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 | 2021-11-12 | 2024-04-19 |
-| [Long Dark Night](https://open.spotify.com/track/5VdRRwhBeLyO2CuAgUvqVY) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [The Process](https://open.spotify.com/album/2sJMzA3LuOW1u3UEKbF6J3) | 3:08 | 2024-05-10 |  |
+| [Long Dark Night](https://open.spotify.com/track/5VdRRwhBeLyO2CuAgUvqVY) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [The Process](https://open.spotify.com/album/2sJMzA3LuOW1u3UEKbF6J3) | 3:08 | 2024-05-10 | 2024-10-26 |
 | [Lose You Now](https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Lose You Now](https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG) | 3:18 | 2024-04-19 |  |
 | [Losing from Within](https://open.spotify.com/track/32yqbK3xTvNU0EdA9BMi37) | [Hayley Reardon](https://open.spotify.com/artist/4US8FhryQWWUOPmLmreZDW) | [Losing from Within](https://open.spotify.com/album/7FzoIWP5nniks0bag7330P) | 3:22 | 2021-11-12 | 2022-07-29 |
 | [Lost](https://open.spotify.com/track/37GoX99NfDFMNcbmXTe40O) | [Jack and White](https://open.spotify.com/artist/2U5RgZDZdAR13tX6yivvRy), [Brooke White](https://open.spotify.com/artist/1feuQE7d9izI54MoL5Lc7t) | [Lost](https://open.spotify.com/album/54bkovX3Y2sBVWerGMHpeb) | 3:45 | 2021-11-12 | 2022-07-28 |
@@ -470,6 +472,6 @@
 | [Your Bones](https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Your Bones](https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV) | 2:39 | 2023-09-01 |  |
 | [Your Look \(Glorious\)](https://open.spotify.com/track/3ZaS6VcE0Rvaccr7hNcuFN) | [The Soundflowers](https://open.spotify.com/artist/4VXXgTmaDC84nI7BhVEQgR) | [The Soundflowers](https://open.spotify.com/album/0OVnqXJRCCxdOxcZJqIM4M) | 3:23 | 2021-11-12 | 2022-07-26 |
 | [Your Needs, My Needs](https://open.spotify.com/track/5S9hlmzNQwZuhynLfxZ8Lg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:27 | 2023-06-16 | 2024-03-30 |
-| [Your Town](https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Your Town](https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb) | 5:06 | 2024-02-16 |  |
+| [Your Town](https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Your Town](https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb) | 5:06 | 2024-02-16 | 2024-10-26 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -3790,7 +3790,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 187368,
       "name": "El Cuarto de Arriba",
       "url": "https://open.spotify.com/track/6mEdKf0GKySt0vqv1xBaWU"
@@ -8989,6 +8989,28 @@
     },
     {
       "album": {
+        "name": "MIRALA",
+        "url": "https://open.spotify.com/album/6Mceu7aQRzVzP9dx8tUd2T"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146633,
+      "name": "MIRALA",
+      "url": "https://open.spotify.com/track/3ps5MDjfpA3wAbKMitNWgM"
+    },
+    {
+      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -9836,7 +9858,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 215800,
       "name": "Nuestra Canci\u00f3n - Culpables Remix",
       "url": "https://open.spotify.com/track/0uet57hmtZRdID59DHTzOh"
@@ -12358,7 +12380,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 182155,
       "name": "SAN TURRONA REMIX",
       "url": "https://open.spotify.com/track/59aD6M6ZIZF5sYRDqymT32"
@@ -13810,7 +13832,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 186666,
       "name": "Telefono",
       "url": "https://open.spotify.com/track/7Bayce0xL1ZUxA7GQpC2RB"
@@ -14290,6 +14312,24 @@
       "duration_ms": 148363,
       "name": "Toy a Mil",
       "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
+    },
+    {
+      "album": {
+        "name": "TOY PERDIO",
+        "url": "https://open.spotify.com/album/41Fx3xFa1msZKkLGXVgm4t"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175102,
+      "name": "TOY PERDIO",
+      "url": "https://open.spotify.com/track/3JXGcoxUTyBU7AYdpsLdH6"
     },
     {
       "album": {
@@ -15105,6 +15145,24 @@
     },
     {
       "album": {
+        "name": "Madrid Sonora",
+        "url": "https://open.spotify.com/album/0unH93ZPnjB9S0SmRkp8EG"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132124,
+      "name": "VINUQUI ROSE",
+      "url": "https://open.spotify.com/track/1Lb3mDgPABZr4rLRkx13uZ"
+    },
+    {
+      "album": {
         "name": "VIP Feat. Totoy El Frio",
         "url": "https://open.spotify.com/album/3gLMROXvvqfEly0VFvYQcB"
       },
@@ -15492,6 +15550,24 @@
       "duration_ms": 192477,
       "name": "X \u00daLTIMA VEZ",
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "album": {
+        "name": "X-100",
+        "url": "https://open.spotify.com/album/2in5hvGyyMAySTPlnZg8gw"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119879,
+      "name": "X-100",
+      "url": "https://open.spotify.com/track/3lg0bdrf3ayL5mc7uDHpss"
     },
     {
       "album": {

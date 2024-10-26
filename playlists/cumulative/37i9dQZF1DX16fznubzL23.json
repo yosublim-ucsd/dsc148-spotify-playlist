@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210051,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD"
+    },
+    {
+      "album": {
         "name": "Bad Influence",
         "url": "https://open.spotify.com/album/6rgGPAYSh9ViRtQG2zSJLy"
       },
@@ -530,7 +548,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
@@ -679,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/26ll6od4Q86oQG0okA25XO"
+      },
+      "artists": [
+        {
+          "name": "Evelle",
+          "url": "https://open.spotify.com/artist/4gnYRqleM3nNYczHoj5rYa"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164318,
+      "name": "Come Back (Stronger)",
+      "url": "https://open.spotify.com/track/7aOmyFWxC21fZLrBB5o8s7"
+    },
+    {
+      "album": {
         "name": "Complete",
         "url": "https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD"
       },
@@ -782,7 +818,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
@@ -2313,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "Love Life",
+        "url": "https://open.spotify.com/album/1Dj0QoB1PtvVFtHH0pVFEJ"
+      },
+      "artists": [
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145925,
+      "name": "Love Life",
+      "url": "https://open.spotify.com/track/5FD19z2xU2pnDFhP10JHHu"
+    },
+    {
+      "album": {
         "name": "Luv Again",
         "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
       },
@@ -2646,7 +2700,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
@@ -2672,6 +2726,28 @@
       "duration_ms": 194440,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/7y8eCLYtwwp7zWRRLnan6Z"
+    },
+    {
+      "album": {
+        "name": "Mr Heartbreaker",
+        "url": "https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f"
+      },
+      "artists": [
+        {
+          "name": "Rose May Alaba",
+          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Mr Heartbreaker",
+      "url": "https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv"
     },
     {
       "album": {
@@ -3442,7 +3518,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-26",
       "duration_ms": 172800,
       "name": "Relationship",
       "url": "https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4"
