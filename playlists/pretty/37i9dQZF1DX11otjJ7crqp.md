@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,650 likes - 96 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,702 likes - 96 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 14 | [IDK](https://open.spotify.com/track/4nvg5uqQ1uGAZVxnPTkwEX) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [IDK](https://open.spotify.com/album/0pmbFZq9Fkm4f26uyaWxSO) | 3:12 |
 | 15 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 |
 | 16 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
-| 17 | [all i do](https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [Generation Numb](https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL) | 2:44 |
+| 17 | [all i do](https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [generation numb](https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL) | 2:44 |
 | 18 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 |
 | 19 | [CHOKE](https://open.spotify.com/track/79Su9VyzxvgDUwqcSATn8O) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [CHOKE](https://open.spotify.com/album/6F9PXpFXHnlLmhR2c0yReW) | 2:10 |
 | 20 | [pain tolerance](https://open.spotify.com/track/0BTIZM7GKMR8Aqu3iqHBmP) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Love Myself](https://open.spotify.com/album/1PKYViRc1AmHw4zde4igm8) | 2:58 |
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 50 | [Read The Room](https://open.spotify.com/track/3gbTMPxtp57FiBtymz7Tqx) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Read The Room](https://open.spotify.com/album/5WtIamotiQtKcfXHyiS4aw) | 3:38 |
 | 51 | [Kids of the Last Days](https://open.spotify.com/track/57ngnKa3wXcN9j3rGRY2z2) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:31 |
 | 52 | [BACKSTABBER](https://open.spotify.com/track/6b0eb25qUlz5M5ogTKZqbI) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [BACKSTABBER](https://open.spotify.com/album/0fbtesLIKCnxirweAZDhVs) | 3:12 |
-| 53 | [how to say goodbye](https://open.spotify.com/track/5DL6xw88HbwFd3TuBWExwM) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [fine ill get in my feelings](https://open.spotify.com/album/4a7THjdUGqUasJlhCUjEDr) | 2:30 |
+| 53 | [how to say goodbye](https://open.spotify.com/track/5DL6xw88HbwFd3TuBWExwM) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [fine ill get in my feelings](https://open.spotify.com/album/4a7THjdUGqUasJlhCUjEDr) | 2:19 |
 | 54 | [No Happy Ending](https://open.spotify.com/track/6L4xSrPRxUlpfLWXSbztyT) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 2:20 |
 | 55 | [Tastes Like Shit](https://open.spotify.com/track/4pojMeJtn8rBlhPG9whoZo) | [BIZZY](https://open.spotify.com/artist/4cWyHZZF6764fNSMnEkYdk) | [Tastes Like Shit](https://open.spotify.com/album/46imVIHKLnT67iCIxjVJmd) | 2:56 |
 | 56 | [Girls Go Crazy feat\. Journey Montana](https://open.spotify.com/track/2IM0P7cVIcgg68SnlKDHAJ) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63), [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Girls Go Crazy feat\. Journey Montana](https://open.spotify.com/album/3yBHRDpRsXGnSkba2NPTLw) | 2:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s\. Cover: Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,435,908 likes - 150 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,437,191 likes - 150 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -714,7 +714,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
@@ -2348,7 +2348,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 463036,
       "name": "Amazwe (feat. Mawhoo)",
       "url": "https://open.spotify.com/track/2Oe52Ggx8lxxI55azZbr5h"
@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -5861,6 +5861,32 @@
     },
     {
       "album": {
+        "name": "Candour",
+        "url": "https://open.spotify.com/album/1NN9VqlcteMaYfbzKBH2QN"
+      },
+      "artists": [
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        },
+        {
+          "name": "Nvcho",
+          "url": "https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548120,
+      "name": "Bo Thata",
+      "url": "https://open.spotify.com/track/219UdZ1b9vuUe45FK2JeWx"
+    },
+    {
+      "album": {
         "name": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
         "url": "https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx"
       },
@@ -5926,7 +5952,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 378882,
       "name": "BoGogo",
       "url": "https://open.spotify.com/track/4kydNoaTX4vfyCPeXE2bpt"
@@ -8561,6 +8587,28 @@
     },
     {
       "album": {
+        "name": "COUNTRY IS FOR ME",
+        "url": "https://open.spotify.com/album/1zvLuzCsvWou3ERPsjkpiN"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        },
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180023,
+      "name": "COUNTRY IS FOR ME",
+      "url": "https://open.spotify.com/track/5ZQThi4zaMjCYWCnJQiCTa"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -9505,6 +9553,36 @@
     },
     {
       "album": {
+        "name": "Loyal To The Plug : The Life & Times Of Don Kilograms",
+        "url": "https://open.spotify.com/album/6WHgxLiN57AC7KZm7eUtuj"
+      },
+      "artists": [
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Marcus Harvey",
+          "url": "https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296326,
+      "name": "Deep Waters (feat. Marcus Harvey, A-Reece & Maglera Doe Boy)",
+      "url": "https://open.spotify.com/track/6deQoo9sdee526ujKHpin7"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -10157,6 +10235,32 @@
     },
     {
       "album": {
+        "name": "Candour",
+        "url": "https://open.spotify.com/album/1NN9VqlcteMaYfbzKBH2QN"
+      },
+      "artists": [
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552262,
+      "name": "Dlala Ngothando",
+      "url": "https://open.spotify.com/track/63Sz2tLPiXrqx8Ac8I6Mg1"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -10444,6 +10548,28 @@
       "duration_ms": 52061,
       "name": "Donda Chant",
       "url": "https://open.spotify.com/track/3VlW71ZRJPEjd17W0bW28D"
+    },
+    {
+      "album": {
+        "name": "Candour",
+        "url": "https://open.spotify.com/album/1NN9VqlcteMaYfbzKBH2QN"
+      },
+      "artists": [
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356189,
+      "name": "Donga",
+      "url": "https://open.spotify.com/track/4ibwBoPg69OLFY4t8F6uSp"
     },
     {
       "album": {
@@ -11356,7 +11482,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 104418,
       "name": "Embrace It",
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
@@ -13726,7 +13852,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 377920,
       "name": "Funk 99",
       "url": "https://open.spotify.com/track/6hqel7QjWBsjk1LJG6J0pD"
@@ -22788,7 +22914,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 249093,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
@@ -23544,7 +23670,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -26785,6 +26911,28 @@
     },
     {
       "album": {
+        "name": "Candour",
+        "url": "https://open.spotify.com/album/1NN9VqlcteMaYfbzKBH2QN"
+      },
+      "artists": [
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "Yallunder",
+          "url": "https://open.spotify.com/artist/4TT5ne6u5XRUIhTUKhZyOo"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493765,
+      "name": "Mthuthuzeli",
+      "url": "https://open.spotify.com/track/7nsG4QCCCsCwKiOKEEGA6f"
+    },
+    {
+      "album": {
         "name": "Amakhothangqoko",
         "url": "https://open.spotify.com/album/3US0Yz8A4um5LpqDKZLooj"
       },
@@ -28226,7 +28374,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 246183,
       "name": "Nhliziyo Yami",
       "url": "https://open.spotify.com/track/1S1K6RxkEkm9a9op800QEk"
@@ -28826,7 +28974,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -30482,6 +30630,28 @@
       "duration_ms": 238953,
       "name": "Pheli Makaveli (Intro)",
       "url": "https://open.spotify.com/track/7psVgiNjEWBT6ruBnpWqaj"
+    },
+    {
+      "album": {
+        "name": "Loyal To The Plug : The Life & Times Of Don Kilograms",
+        "url": "https://open.spotify.com/album/6WHgxLiN57AC7KZm7eUtuj"
+      },
+      "artists": [
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244948,
+      "name": "Phelibasas (feat. Sjava)",
+      "url": "https://open.spotify.com/track/3NGSA1lTGMmzuVdLpxaCH3"
     },
     {
       "album": {
@@ -33604,7 +33774,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -36058,7 +36228,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -37790,7 +37960,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 413584,
       "name": "Sukakude (feat. Sfarzo Rtee)",
       "url": "https://open.spotify.com/track/1rtMuIY76v879DN8kW1fhf"
@@ -38108,7 +38278,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
@@ -39776,7 +39946,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 351428,
       "name": "Thola Umuntu",
       "url": "https://open.spotify.com/track/1z9cFQp5CGOAsACK2IWzCG"
@@ -40076,7 +40246,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -45477,6 +45647,36 @@
     },
     {
       "album": {
+        "name": "RED OCTOBER: INDUCTION",
+        "url": "https://open.spotify.com/album/31FhPubbJtiby6fhz26nh6"
+      },
+      "artists": [
+        {
+          "name": "Tony Dayimane",
+          "url": "https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Usimamane",
+          "url": "https://open.spotify.com/artist/7CAuIrM6rFLrIgisYOV0Fs"
+        },
+        {
+          "name": "Yanga Chief",
+          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190477,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/2hju8taDu6h5cCVQEtEXYq"
+    },
+    {
+      "album": {
         "name": "BUSINESS IS BUSINESS",
         "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
       },
@@ -45868,6 +46068,40 @@
       "duration_ms": 450320,
       "name": "Xola (feat. Nobuhle, Ze2 & Young Stunna)",
       "url": "https://open.spotify.com/track/5uWDenxq03AYLOq83WzLNo"
+    },
+    {
+      "album": {
+        "name": "Candour",
+        "url": "https://open.spotify.com/album/1NN9VqlcteMaYfbzKBH2QN"
+      },
+      "artists": [
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Mzizi",
+          "url": "https://open.spotify.com/artist/68H3nOS0Jt2mK3wB6OzeF9"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468789,
+      "name": "Xola Ntliziyo",
+      "url": "https://open.spotify.com/track/4pXXcPHe7ZGFbUbm5ztdxa"
     },
     {
       "album": {

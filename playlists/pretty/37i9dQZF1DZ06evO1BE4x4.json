@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAADNh3guwJYZMmVatpENFCVh",
+  "snapshot_id": "ZxrfgAAAAACAvJVdP/uTQHd1KNF3iTdl",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Soho (Australia Version)",
-        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
+        "name": "Everything Is A-OK",
+        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 182733,
-      "name": "Eat Your Parents",
-      "url": "https://open.spotify.com/track/5Z0GVyH0RjhgjVcLYwf1cH"
+      "duration_ms": 268519,
+      "name": "Vacation Forever",
+      "url": "https://open.spotify.com/track/0PlcJd4OgydtKD775w0y6J"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is A-OK",
-        "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
+        "name": "Violent Soho (Australia Version)",
+        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 268519,
-      "name": "Vacation Forever",
-      "url": "https://open.spotify.com/track/0PlcJd4OgydtKD775w0y6J"
+      "duration_ms": 182733,
+      "name": "Eat Your Parents",
+      "url": "https://open.spotify.com/track/5Z0GVyH0RjhgjVcLYwf1cH"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Soho (Australia Version)",
-        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
-      },
-      "artists": [
-        {
-          "name": "Violent Soho",
-          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "My Generation",
-      "url": "https://open.spotify.com/track/6RKmCIFlpsc0QjIg59giI0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything Is A-OK",
         "url": "https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 163233,
       "name": "A-OK",
       "url": "https://open.spotify.com/track/7fRmDecaHguRLdKIlccebL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Violent Soho (Australia Version)",
+        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "My Generation",
+      "url": "https://open.spotify.com/track/6RKmCIFlpsc0QjIg59giI0"
     },
     {
       "added_at": null,

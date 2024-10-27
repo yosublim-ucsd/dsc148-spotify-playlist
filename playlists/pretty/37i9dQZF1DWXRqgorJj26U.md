@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: The Rolling Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,312,156 likes - 200 songs - 14 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,313,103 likes - 200 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 | 118 | [Love Is A Long Road](https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:07 |
 | 119 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 |
 | 120 | [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/4jDt1y2gCPiqC3PgWuzLjW) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin](https://open.spotify.com/album/4uYGMRwon6fQ2zOJhfr0iC) | 2:29 |
-| 121 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 2:59 |
+| 121 | [Honky Tonk Women \- Mono Version](https://open.spotify.com/track/3RZMzCvYsmJ0u2ioKTOsmJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks 1964\-1971](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 2:59 |
 | 122 | [Seek & Destroy \(Remastered\)](https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 6:54 |
 | 123 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 124 | [Midnight Rider](https://open.spotify.com/track/7J4WbEdRTZGJDsSr5AACCw) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South](https://open.spotify.com/album/4W8IWA0MKZ9frtxspO2skD) | 2:59 |

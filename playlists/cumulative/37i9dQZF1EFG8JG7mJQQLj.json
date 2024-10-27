@@ -3837,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "I Want Love",
+        "url": "https://open.spotify.com/album/3dpJ8c1Nm5uT60yQcbHKhz"
+      },
+      "artists": [
+        {
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143070,
+      "name": "I Want Love",
+      "url": "https://open.spotify.com/track/3zwklzapK7Zc4LB1V0oB2l"
+    },
+    {
+      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/5FgFZv6Fq6Gw1Tb82yOHgn"
       },

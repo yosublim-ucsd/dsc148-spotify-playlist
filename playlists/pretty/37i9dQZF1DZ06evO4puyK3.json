@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 162211,
+  "num_followers": 162244,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABYYWGpY7vATtCJGLnruWB8",
+  "snapshot_id": "ZxrfgAAAAAC6j2ecTOqP7koM0gLzWDZd",
   "tracks": [
     {
       "added_at": null,
@@ -606,11 +606,15 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         }
       ],
-      "duration_ms": 168887,
-      "name": "BONEKINHA",
-      "url": "https://open.spotify.com/track/5y4Wpk9ts2RzDwYNIAtJ9J"
+      "duration_ms": 198304,
+      "name": "SOBREVIVI",
+      "url": "https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS"
     },
     {
       "added_at": null,
@@ -678,15 +682,11 @@
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         }
       ],
-      "duration_ms": 198304,
-      "name": "SOBREVIVI",
-      "url": "https://open.spotify.com/track/6p8DJ9fr7J9MDVY5iPNGNS"
+      "duration_ms": 168887,
+      "name": "BONEKINHA",
+      "url": "https://open.spotify.com/track/5y4Wpk9ts2RzDwYNIAtJ9J"
     },
     {
       "added_at": null,

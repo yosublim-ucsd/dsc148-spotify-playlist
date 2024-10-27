@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw?si=I9dDiSTZSGakTlE9s38b\_g>Pastor Emmanuel Iren</a>
 
-3,760 songs - 11 day 8 hr 25 min
+3,760 songs - 11 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3380,7 +3380,7 @@
 | [Upside Down Kingdom](https://open.spotify.com/track/1slPTN5JJaHPazUX8UzEjz) | [Carli Lessing](https://open.spotify.com/artist/2FgucmZTEnoevQEb0T5rcC), [Mary Oz](https://open.spotify.com/artist/05w0yASPYbEZ05m1CWfF0p) | [Upside Down Kingdom](https://open.spotify.com/album/6A4bMbBoxy2AvtzYCaSk21) | 3:05 | 2023-12-01 | 2023-12-15 |
 | [Use Me Lord](https://open.spotify.com/track/3XfsgBwb38RYE1ONm1S7Ly) | [Miracle V](https://open.spotify.com/artist/2KkZT2Y0mlbVL1DuF18AdQ) | [Use Me Lord](https://open.spotify.com/album/6iPWYieSog8N92DWBAK6xA) | 5:51 | 2024-05-17 | 2024-06-01 |
 | [Usizo lwami](https://open.spotify.com/track/2T7peEBCVkgcsN06HNoenA) | [lulama lofani](https://open.spotify.com/artist/5tUxz69IpVRSjorHKiAFFC) | [Usizo lwami](https://open.spotify.com/album/58zxvQ0gCN6IMs9hdkpTqR) | 8:10 | 2024-10-25 |  |
-| [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 3:54 | 2024-10-25 |  |
+| [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 7:51 | 2024-10-25 |  |
 | [Uthando Lwakho Luyangengama](https://open.spotify.com/track/3Epue4IrmtoN8KB4O2wF6R) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Uthando Lwakho Luyangengama](https://open.spotify.com/album/5NH9mTLkfgXouUoDG9IhHg) | 4:28 | 2023-10-27 | 2023-11-10 |
 | [Uyabusa \(Live at the Durban Icc\)](https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(The Second Set Live at the Durban Icc\)](https://open.spotify.com/album/1b8ofWviHvmtMysu7jiJcJ) | 9:13 | 2024-08-23 | 2024-09-06 |
 | [UYesu](https://open.spotify.com/track/1TH90Rg3SZ7cNU9YQICwE0) | [Double Drop](https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr), [Healling](https://open.spotify.com/artist/2Gd5qK78l1BeejHMAxBOki) | [What's Coming](https://open.spotify.com/album/7btZCei8TAMJaCoiRPbSmW) | 5:58 | 2023-10-27 | 2023-11-10 |

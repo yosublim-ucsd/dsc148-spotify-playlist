@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,649 likes - 173 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,650 likes - 173 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 65 | [Midnight Snack](https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Midnight Snack](https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc) | 3:47 |
 | 66 | [Help Me Mama](https://open.spotify.com/track/42iQ0ozQbqmzQCD0Eq5NOc) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [The Storm](https://open.spotify.com/album/757AemvYYoWCfp729Xp9eG) | 3:05 |
 | 67 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 |
-| 68 | [Made In The U.S.A.](https://open.spotify.com/track/0WRxiAcMD5yxRhzwVwIAz8) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Radioactive \(Explicit Version\)](https://open.spotify.com/album/3AGMorE666prvzWaHGddKo) | 3:28 |
-| 69 | [Make Me Forget](https://open.spotify.com/track/2KRKTdbS0U1KTIKvZQJ9sj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:58 |
+| 68 | [Make Me Forget](https://open.spotify.com/track/2KRKTdbS0U1KTIKvZQJ9sj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:58 |
+| 69 | [Made In The U.S.A.](https://open.spotify.com/track/0WRxiAcMD5yxRhzwVwIAz8) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Priscilla Renea](https://open.spotify.com/artist/2XqJd0g4yNVm0m90Vm1bbS) | [Radioactive \(Explicit Version\)](https://open.spotify.com/album/3AGMorE666prvzWaHGddKo) | 3:28 |
 | 70 | [The Words](https://open.spotify.com/track/5HMl6aG4uTWFo8TZvJ7pfn) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:53 |
 | 71 | [No R&B](https://open.spotify.com/track/2SJgwPonGSJlFm0Wfjn8cj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:34 |
 | 72 | [New Truck](https://open.spotify.com/track/3rPkYKoR924QmwcmaYjyfo) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 2:22 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 172 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 173 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `AbfwdAAAAACgWJqUrqQ0eq0kYQHMv485`
+Snapshot ID: `Abf2AAAAAAB1OutSf1TxvAkpvZdQKpNj`

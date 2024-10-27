@@ -1265,6 +1265,28 @@
     },
     {
       "album": {
+        "name": "Me Quedo Corto",
+        "url": "https://open.spotify.com/album/08uEMT6l4krbkJDtbhVV8i"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte De Arturo Buenrostro",
+          "url": "https://open.spotify.com/artist/369DgLEdifFiRIfXMYaFFI"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222166,
+      "name": "Me Quedo Corto",
+      "url": "https://open.spotify.com/track/3Y1R9AjjxKvKTTTirCJnlt"
+    },
+    {
+      "album": {
         "name": "Me Qued\u00e9 Esperando",
         "url": "https://open.spotify.com/album/32r7bBWD7vEMEfslIZ4Mjt"
       },

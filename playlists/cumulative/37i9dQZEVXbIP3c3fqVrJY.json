@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 172173,
       "name": "Bad Dayzz",
       "url": "https://open.spotify.com/track/7J46ceAfMvGkECqvkEbPa0"
@@ -4374,7 +4374,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 183529,
       "name": "B\u00e1ba Sp\u00ed",
       "url": "https://open.spotify.com/track/0hh2l0oDAvVe3otCz7bnbG"
@@ -14200,7 +14200,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 173589,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/03RojRDRvvbFEPpabo3Aan"
@@ -21253,6 +21253,24 @@
     },
     {
       "album": {
+        "name": "Over Each Other",
+        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
+    },
+    {
+      "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
@@ -26768,7 +26786,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
@@ -27302,7 +27320,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -27320,7 +27338,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -27446,7 +27464,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 174666,
       "name": "S\u00edla Starejch V\u00edn",
       "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
@@ -29360,7 +29378,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 129600,
       "name": "U Sudu",
       "url": "https://open.spotify.com/track/7jbjyBQQxH6WhyWaEb4aeC"
@@ -29712,7 +29730,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 231193,
       "name": "Upgrade",
       "url": "https://open.spotify.com/track/4o7sNuNNkNVlUombpE3D3F"

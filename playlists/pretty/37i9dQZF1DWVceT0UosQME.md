@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,260 likes - 542 songs - 20 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,378 likes - 542 songs - 20 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

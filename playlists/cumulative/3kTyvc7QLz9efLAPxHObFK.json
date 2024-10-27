@@ -2805,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "Beat Of The Drum",
+        "url": "https://open.spotify.com/album/6uhqXqtlxqvJGVFq6Y6Lfp"
+      },
+      "artists": [
+        {
+          "name": "The Straikerz",
+          "url": "https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112144,
+      "name": "Beat Of The Drum",
+      "url": "https://open.spotify.com/track/0ryREQNVALsNonSQ24okIX"
+    },
+    {
+      "album": {
         "name": "Beatbox Rocker",
         "url": "https://open.spotify.com/album/4a8PMWyKo7HUIEWqwQihgK"
       },
@@ -6706,6 +6724,24 @@
       "duration_ms": 218181,
       "name": "Cruel Place",
       "url": "https://open.spotify.com/track/2JxhJ7cNsLRyZSCxqhnm77"
+    },
+    {
+      "album": {
+        "name": "Emotional Hardcore 1",
+        "url": "https://open.spotify.com/album/0iFQ5KdFY9mE561KsaEfx4"
+      },
+      "artists": [
+        {
+          "name": "Technikore",
+          "url": "https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190619,
+      "name": "Cruel Place - Mixed Cut",
+      "url": "https://open.spotify.com/track/2D9qppYBsVoCLKZLZiFDot"
     },
     {
       "album": {
@@ -18022,6 +18058,28 @@
       "duration_ms": 194117,
       "name": "KOKUSHIMUSOU",
       "url": "https://open.spotify.com/track/3o4ELAID5fuPEJIGC7vJCK"
+    },
+    {
+      "album": {
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/118QsnYZTmidlw0Iwut8bW"
+      },
+      "artists": [
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        },
+        {
+          "name": "Aftermath",
+          "url": "https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184216,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/7Ithcf62lKhaLqonHSXOOq"
     },
     {
       "album": {

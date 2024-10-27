@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,146 likes - 137 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,528 likes - 137 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

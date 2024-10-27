@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 801599,
+  "num_followers": 801930,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABA5PR/CJ3XwcLfFn/Spn2/",
+  "snapshot_id": "ZxrfgAAAAAC6noEW3/BH2mLENVOvVKJ/",
   "tracks": [
     {
       "added_at": null,
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 287929,
-      "name": "Jueves 10",
-      "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"
+      "duration_ms": 210161,
+      "name": "Atrapado en un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/4FJHSPdhQqxovmYP9YpcHN"
     },
     {
       "added_at": null,
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 210161,
-      "name": "Atrapado en un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/4FJHSPdhQqxovmYP9YpcHN"
+      "duration_ms": 287929,
+      "name": "Jueves 10",
+      "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"
     }
   ],
   "unique_name": "This Is Junior H",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 
 > New & best K\-Electronic music is here\. \(Cover: WOOSUNG\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,815 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,812 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

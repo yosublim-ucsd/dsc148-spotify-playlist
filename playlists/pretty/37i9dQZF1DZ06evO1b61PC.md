@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,088 likes - 31 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,086 likes - 31 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 3 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 |
 | 4 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 |
 | 5 | [Starlight](https://open.spotify.com/track/6ATcx30cyXfzIPg2nZ3WJI) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Starlight](https://open.spotify.com/album/72iKM3lr1uD9dMu20pjTYn) | 3:43 |
-| 6 | [Heaven Is Calling](https://open.spotify.com/track/2UWbje8GOCFC6eSPzUK0WU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Heaven Is Calling](https://open.spotify.com/album/5h170L1E0KB6rL0zwnyJT4) | 3:28 |
-| 7 | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/track/3U1lhPo6Gpd7URhJyZJtAr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/album/7BabZSvjym8he0rkorBY3v) | 3:38 |
+| 6 | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/track/3U1lhPo6Gpd7URhJyZJtAr) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Moon Rider \(feat\. Wrabel\)](https://open.spotify.com/album/7BabZSvjym8he0rkorBY3v) | 3:38 |
+| 7 | [Heaven Is Calling](https://open.spotify.com/track/2UWbje8GOCFC6eSPzUK0WU) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Heaven Is Calling](https://open.spotify.com/album/5h170L1E0KB6rL0zwnyJT4) | 3:28 |
 | 8 | [Lose My Mind \(feat\. Mr Gabriel\)](https://open.spotify.com/track/4qCGMn3A5NNy8sLzHDyCC3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:18 |
 | 9 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 |
 | 10 | [blue \- Jai Wolf Remix](https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [trilogy remixes](https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama) | 3:22 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 13 | [Gravity \(feat\. JMR\)](https://open.spotify.com/track/4jo8IfDa6WLOlvexEEWLAz) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:48 |
 | 14 | [Alive \(Radio Edit\)](https://open.spotify.com/track/4hmdQLwAxgYNSTOJzJBItl) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Alive](https://open.spotify.com/album/2CCvxOJHe0ccia0UZXefSC) | 2:46 |
 | 15 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
-| 16 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 |
-| 17 | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM) | 5:18 |
+| 16 | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Like It's Over \(feat\. MNDR\)](https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM) | 5:18 |
+| 17 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 |
 | 18 | [Still Sleeping](https://open.spotify.com/track/6KDDYv7WWi6hJl8HtTtXmq) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:46 |
 | 19 | [The World Is Ours](https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:42 |
 | 20 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST) | 3:38 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 30 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/2AaNTnYTf24qzu5SsT5K8s) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:26 |
 | 31 | [Intro](https://open.spotify.com/track/3Gr5wb6TvXjSd0tGmkmgfk) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 0:39 |
 
-Snapshot ID: `ZxmOAAAAAADVPwuYCD0tllNctqrlCBqc`
+Snapshot ID: `ZxrfgAAAAACKfa1hm1FXks8+QDN/3/q+`

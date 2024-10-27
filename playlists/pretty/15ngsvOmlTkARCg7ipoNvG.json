@@ -1,12 +1,12 @@
 {
   "description": "Beautiful instrumental music to keep you in the flow as you code or study. An ideal playlist for programming during stressful times --- | program | programmer | software | software engineer | computer science | concentrate | concentration | focusing |",
-  "num_followers": 18723,
+  "num_followers": 18721,
   "original_name": "CODING FOCUS",
   "owner": {
     "name": "IW Music",
     "url": "https://open.spotify.com/user/ikwong1979"
   },
-  "snapshot_id": "AAAk9nx3GI9+m3Ll0VwZ2NS+MsAgJivr",
+  "snapshot_id": "AAAk+POT7TuDgGTa3Calt9a8YohdPvwJ",
   "tracks": [
     {
       "added_at": "2024-02-12 06:27:00",
@@ -2167,6 +2167,54 @@
       "duration_ms": 60461,
       "name": "Gentle Breath",
       "url": "https://open.spotify.com/track/7Ct5htZuLBzmiZAhh5XBVU"
+    },
+    {
+      "added_at": "2024-10-26 15:15:12",
+      "album": {
+        "name": "Recover",
+        "url": "https://open.spotify.com/album/1pNQWwnxWP9FrTx1pfrjQE"
+      },
+      "artists": [
+        {
+          "name": "Sunset Harmony",
+          "url": "https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf"
+        }
+      ],
+      "duration_ms": 60280,
+      "name": "Recover",
+      "url": "https://open.spotify.com/track/16MKLesFTfDIIHv4FiwLRA"
+    },
+    {
+      "added_at": "2024-10-26 15:15:12",
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/3G8vKIwjR2dFsVkPvBJJHf"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "duration_ms": 60280,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/7CMBddbXN0XmmGDZ9pJ9jS"
+    },
+    {
+      "added_at": "2024-10-26 15:15:12",
+      "album": {
+        "name": "Sacred Place",
+        "url": "https://open.spotify.com/album/6WDegUWqeAk5V8HW8js8zG"
+      },
+      "artists": [
+        {
+          "name": "Open Blue Sky",
+          "url": "https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC"
+        }
+      ],
+      "duration_ms": 60275,
+      "name": "Sacred Place",
+      "url": "https://open.spotify.com/track/1zOSpKtAqlTDl32LDE179u"
     },
     {
       "added_at": "2024-02-12 06:27:00",

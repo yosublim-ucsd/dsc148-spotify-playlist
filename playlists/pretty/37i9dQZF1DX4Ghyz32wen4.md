@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. HUMBE en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,092 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,109 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 62 | [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji) | 3:35 |
 | 63 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 |
 | 64 | [Solo Tu Y Yo](https://open.spotify.com/track/79IcxcNr3Ddgwi5ux9UiAQ) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Shadow Blow](https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF) | [Solo Tu Y Yo](https://open.spotify.com/album/2Pswi6V4achDoAG7S6EtBy) | 2:28 |
-| 65 | [Multiverso \(feat\. Jay Wheeler\)](https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 2:29 |
+| 65 | [Multiverso \(feat\. Jay Wheeler\)](https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 2:29 |
 | 66 | [Nunca Tuve Tanto](https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/1yHxFivky2OZXF0lNBxrzB) | 2:49 |
 | 67 | [Entre Nosotros](https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Entre Nosotros](https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR) | 3:12 |
 | 68 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 |

@@ -185,6 +185,28 @@
     },
     {
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
+    },
+    {
+      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },

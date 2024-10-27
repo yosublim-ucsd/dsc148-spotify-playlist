@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-138 songs - 6 hr 51 min
+139 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Paraphernalia 2.0 \(feat\. G Herbo\)](https://open.spotify.com/track/5vGKgOsISQNVqAjIRwdry5) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Paraphernalia 2.0 \(feat\. G Herbo\)](https://open.spotify.com/album/5salZxwbYxM9BF54yeI6vf) | 2:25 | 2022-12-17 | 2023-03-13 |
 | [Party in Heaven](https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:16 | 2022-10-28 |  |
 | [Perfect Match \(feat\. 42 Dugg & G Herbo\)](https://open.spotify.com/track/42L59PO4HHI9OMxjtIoX2q) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 3:40 | 2023-12-13 | 2024-05-12 |
+| [Play Your Part \(feat\. Chris Brown\)](https://open.spotify.com/track/1e470JJ1kfkYxS5z4G1OYw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 3:03 | 2024-10-27 |  |
 | [Plenty](https://open.spotify.com/track/0jpyhIyvdVZUagbPP9IiZI) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Plenty](https://open.spotify.com/album/097aY57QMnEguasSbYWyoW) | 3:58 | 2022-12-04 | 2023-12-24 |
 | [Plenty](https://open.spotify.com/track/3OZoJykI0r4G7ycbRXkDhw) | [FaZe Kaysan](https://open.spotify.com/artist/6BgMniiBxLHe43o8nx5MIp), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Plenty](https://open.spotify.com/album/4MZXuEnQWt8bpqTRCpPOyY) | 3:58 | 2023-12-23 | 2024-09-08 |
 | [PTSD](https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:52 | 2022-10-28 |  |

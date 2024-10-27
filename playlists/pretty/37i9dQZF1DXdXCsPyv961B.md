@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXCsPyv961B.md) - [plain]
 
 > Indie Italia presenta: il meglio dell'indie italiano nel 2023! Cover: Calcutta
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,222 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,223 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

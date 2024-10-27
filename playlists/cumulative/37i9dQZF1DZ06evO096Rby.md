@@ -4,13 +4,14 @@
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-94 songs - 4 hr 56 min
+95 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Chillar a otra parte](https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [A Chillar a otra parte](https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW) | 3:33 | 2024-01-29 |  |
 | [Ahi Les Encargo \- En Vivo](https://open.spotify.com/track/0Vn8F3xHv5z2NalIj0akgH) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Ahi Les Encargo \- En Vivo](https://open.spotify.com/album/4SQhbJm9V79GRSheXKGqlS) | 3:03 | 2024-01-29 | 2024-08-19 |
 | [Ahi Les Encargo \- En Vivo](https://open.spotify.com/track/2NJ1908LMoolTW7ka6YlYU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 3:03 | 2024-08-19 |  |
+| [Ajustadón](https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ajustadón](https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j) | 2:39 | 2024-10-27 |  |
 | [Alto y Piel Morena](https://open.spotify.com/track/4o6ZOfHlmVUxofni1mK6IG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 3:22 | 2024-08-22 |  |
 | [Alto y Piel Morena](https://open.spotify.com/track/6gEUZHMdjTWEi74fHNHW52) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:22 | 2024-01-29 | 2024-08-22 |
 | [Andamos Enclicados \- En Vivo](https://open.spotify.com/track/2W7tzc89J9aWW99jHj4UwE) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \- En Vivo](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:06 | 2024-01-29 | 2024-08-21 |

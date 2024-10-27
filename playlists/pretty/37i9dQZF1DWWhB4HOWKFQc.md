@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Idgitaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,536 likes - 94 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,337,741 likes - 94 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 18 | [Asumsi](https://open.spotify.com/track/72DL0kjCGfA4qIDQnR88hT) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [HARAP\-HARAP EMAS](https://open.spotify.com/album/62tBcSn5N7vgrndYZwC4GB) | 4:21 |
 | 19 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
 | 20 | [Badut Baru](https://open.spotify.com/track/2cvKEBxlLOjAWYhsDwOvRC) | [dbatlayar](https://open.spotify.com/artist/6Cl2MkL95uTSdGnkT0epnG) | [Badut Baru](https://open.spotify.com/album/2hHIt7x4I5MPMUiAwNkQcZ) | 3:57 |
-| 21 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 21 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 22 | [Semu](https://open.spotify.com/track/2pBvFdXgF5Q7IOT2EvATWF) | [AMAN](https://open.spotify.com/artist/0lSCTcMXqOhQu7mNCTcMSA) | [Semu](https://open.spotify.com/album/0bRyjuRv6cRSTgdiFaqGJz) | 3:39 |
 | 23 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
 | 24 | [Thick Of It \(feat\. Trippie Redd\)](https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Thick Of It \(feat\. Trippie Redd\) / Low](https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH) | 2:40 |

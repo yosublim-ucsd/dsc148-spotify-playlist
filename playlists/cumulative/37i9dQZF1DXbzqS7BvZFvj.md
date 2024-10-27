@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Leon Fanourakis & Taka Perry
 
-904 songs - 1 day 21 hr 59 min
+905 songs - 1 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Clear the Smoke](https://open.spotify.com/track/0tWvBMSTdobhWgsJyviGeU) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Clear the Smoke](https://open.spotify.com/album/23RLz5Jsy8E54z7BZnH01D) | 3:38 | 2024-05-23 | 2024-06-29 |
 | [Clique](https://open.spotify.com/track/19nfFtKHKKNSyf8ZaDMR7m) | [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8) | [Clique](https://open.spotify.com/album/6M1be62yMv7JvGPdrVdlK2) | 3:05 | 2023-05-25 | 2023-06-23 |
 | [Closed Doors \(feat\. Roddy Ricch\)](https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:48 | 2023-08-10 | 2023-08-29 |
+| [Closure \(with Cash Cobain\)](https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Closure](https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6) | 2:58 | 2024-10-26 |  |
 | [Cloud Surfing](https://open.spotify.com/track/2q0NohCeNd3PIh3ibC6dLT) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv) | [Heads I Win, Tails You Lose](https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d) | 2:15 | 2024-04-18 | 2024-05-24 |
 | [Cobra](https://open.spotify.com/track/3Kh8X9lHztqVBTgw30HbXn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Cobra](https://open.spotify.com/album/08VJzxuxr4leLd9YhJNlQl) | 2:48 | 2023-11-09 | 2023-12-15 |
 | [Cocaine Spoon feat\. Rick Ross](https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:34 | 2023-05-18 | 2023-06-09 |
@@ -313,7 +314,7 @@
 | [Guitar In My Room \(with Lil Durk & Kid Cudi\)](https://open.spotify.com/track/4LPIwB4gtPzuB0YKHjOldj) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Guitar In My Room](https://open.spotify.com/album/2BgCZFN0tmSrb2deTawr5h) | 3:47 | 2023-09-28 | 2023-10-23 |
 | [GUMMY YUMMY](https://open.spotify.com/track/43u36BnruNoxMgxStSLEXQ) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [JV.JARVIS](https://open.spotify.com/artist/3RukKIu27TAGLJ4VT5mNRz), [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [GUMMY YUMMY](https://open.spotify.com/album/47iAhuFISwSujzJFasNVRq) | 4:03 | 2023-04-28 | 2023-05-05 |
 | [Gunsmoke Town](https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 2:54 | 2023-05-25 | 2023-07-01 |
-| [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-09 |  |
+| [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 | 2024-08-09 | 2024-10-27 |
 | [H.O.T.](https://open.spotify.com/track/4ARDoNfzkclZOONnsXnEtB) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HARDC0RE DR3AMZ](https://open.spotify.com/album/13d9lBpUjqyGa1fE4FgcyD) | 2:35 | 2024-03-28 | 2024-05-08 |
 | [Haegeum](https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 2:48 | 2023-04-20 | 2023-05-19 |
 | [Hard To Handle](https://open.spotify.com/track/5Wv4g4QWO3ArPnbyP5Z6Mx) | [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard To Handle](https://open.spotify.com/album/1tJcinzpjwIOAwfO1hmFe0) | 3:35 | 2023-08-17 | 2023-10-19 |

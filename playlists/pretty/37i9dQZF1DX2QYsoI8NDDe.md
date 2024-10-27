@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,094 likes - 200 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,104 likes - 200 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 5 | [Andar Conmigo](https://open.spotify.com/track/3Wnl55R6ugwDNEGYnTnAHz) | [Fatima Campo](https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn) | [Andar Conmigo](https://open.spotify.com/album/0S8Kpysk5NR2tAGDzBSWFp) | 3:36 |
 | 6 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/6Po9vSryLwYSaU3blZQdbo) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [De Jiménez a Jiménez \(En Vivo\)](https://open.spotify.com/album/6LFdHay9D3Vw0749WQeBXw) | 2:30 |
 | 7 | [Cowboy Rockstar](https://open.spotify.com/track/7d5uMAljrHXbnubvVY7msG) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cowboy Rockstar](https://open.spotify.com/album/6psrrgPReXbW0UTui5H8W0) | 2:45 |
-| 8 | [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
+| 8 | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
 | 9 | [Tú, Solamente Tú](https://open.spotify.com/track/71NhyYmqQL4TcCmVvLZG5i) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Tú, Solamente Tú](https://open.spotify.com/album/2vSo3dxG5oktb1HKdI1Mof) | 3:22 |
 | 10 | [Gracias Porque Volviste \- En Vivo](https://open.spotify.com/track/4VNXClKBOcAoOaOgJULXZ7) | [Perla Valenzuela](https://open.spotify.com/artist/7lGS8PPqjf2dH9NOotYNxH) | [Gracias Porque Volviste \(En Vivo\)](https://open.spotify.com/album/0onBB8E2ddzVEt70JfwxfJ) | 4:09 |
 | 11 | [Ni Pedo](https://open.spotify.com/track/3WLdR3ObZtUiFwZgr8n7pE) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Ni Pedo](https://open.spotify.com/album/1V9Cd1r9p6u1oDGuHriLsF) | 2:22 |

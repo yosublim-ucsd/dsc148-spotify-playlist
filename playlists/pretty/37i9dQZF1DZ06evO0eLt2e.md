@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,254 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,261 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 50 | [Please Don't Tell Me How the Story Ends](https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Austin Sessions](https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA) | 2:37 |
 | 51 | [Gettin' By, High and Strange](https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 2:34 |
 
-Snapshot ID: `ZxmOAAAAAACJe9LJOqD1dZr4omgTPSPU`
+Snapshot ID: `ZxrfgAAAAACoFMSrFl00mhGec/KHA5sE`

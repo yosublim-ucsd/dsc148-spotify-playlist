@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Your new favorite pop star ⭐ cover: flowerovlove
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,535,703 likes - 125 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,535,655 likes - 125 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 6 | [Favourite Girl](https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Favourite Girl](https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR) | 2:39 |
 | 7 | [Before The Kiss](https://open.spotify.com/track/1Ul1vJdGk9gJPJMtZCZBgh) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Before The Kiss](https://open.spotify.com/album/0MvMidNkXZRLAEtoFbIXTE) | 2:17 |
 | 8 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 |
-| 9 | [all i do](https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [Generation Numb](https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL) | 2:44 |
+| 9 | [all i do](https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [generation numb](https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL) | 2:44 |
 | 10 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 11 | [Dangerous](https://open.spotify.com/track/7moZuS84OI5AWGc81GVujX) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Dangerous](https://open.spotify.com/album/0Meg1sIEOUL5bkjuWhHjva) | 2:34 |
 | 12 | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/track/0ykHYUYiltQo6Xcmdq3Tp5) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/album/1aRvubQxQHM7IqKnmiJvxE) | 2:54 |

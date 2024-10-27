@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,725 likes - 49 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,728 likes - 49 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 48 | [Vem Quebra As Barreiras / Come And Tear Down The Walls](https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Vem Quebra As Barreiras / Come And Tear Down The Walls](https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h) | 6:06 |
 | 49 | [Santo Aleluia / Holy Hallelujah \- Live](https://open.spotify.com/track/2sUqTxB22HkNZgbdkD9M78) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Mark Alan Schoolmeesters](https://open.spotify.com/artist/0mTJxKhV5L8JtQmXHTJZXy), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [REVERE: Unscripted Portuguese](https://open.spotify.com/album/41kS6H8A18CIWT5DaYsLlu) | 7:19 |
 
-Snapshot ID: `ZxmOAAAAAAA8wN41Kp1DAmPkyHiLcp8W`
+Snapshot ID: `ZxrfgAAAAADjR0NbJjTZpWLqINn5mrsR`

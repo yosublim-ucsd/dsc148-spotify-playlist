@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,442 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,448 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 19 | [Fui Yo](https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Fui Yo](https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP) | 3:04 |
 | 20 | [pa' que sueñes](https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [pa' que sueñes](https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq) | 2:50 |
 | 21 | [Tusa](https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Tusa](https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc) | 2:33 |
-| 22 | [El Día Que Me Odies](https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [El Día Que Me Odies](https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE) | 3:05 |
+| 22 | [El Día Que Me Odies](https://open.spotify.com/track/1IHNLb1RVACKjuYMXUtMo8) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [El Día Que Me Odies](https://open.spotify.com/album/1M9FZmp3CMlmR1MGjvZ6cE) | 3:05 |
 | 23 | [DOLORES](https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
 | 24 | [Fogata](https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Fogata](https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry) | 2:53 |
 | 25 | [Intenciones](https://open.spotify.com/track/5S9qL73dCtClMT4yUsiO8u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Intenciones](https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3) | 2:43 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 34 | [Soy capaz](https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Soy capaz](https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT) | 3:25 |
 | 35 | [Quieres de mi](https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan) | [Anna Zarate](https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2), [Gamboa](https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu) | [Quieres de mi](https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq) | 3:12 |
 | 36 | [Vibe](https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vibe](https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan) | 3:10 |
-| 37 | [Visa](https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Visa](https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o) | 3:07 |
+| 37 | [Visa](https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Visa](https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o) | 3:07 |
 | 38 | [frío](https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Luisa](https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z) | [frío](https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT) | 4:38 |
 | 39 | [Qué Dulce](https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W) | [Jorge Cajías](https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe), [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Qué Dulce](https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5) | 2:13 |
 | 40 | [Sin respirar](https://open.spotify.com/track/62HdGq5m6wEOY7Pvlc75GE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Sin respirar](https://open.spotify.com/album/0qTZiyp0vUHvUFt0xSIOMl) | 3:09 |

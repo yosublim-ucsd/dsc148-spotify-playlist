@@ -401,6 +401,32 @@
     },
     {
       "album": {
+        "name": "Fire (with J Boog)",
+        "url": "https://open.spotify.com/album/6durB9swq3vS70jO5K3MBs"
+      },
+      "artists": [
+        {
+          "name": "Hector Roots Lewis",
+          "url": "https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241675,
+      "name": "Fire (with J Boog)",
+      "url": "https://open.spotify.com/track/4ZNfOxcDF2aycOslsOMbhs"
+    },
+    {
+      "album": {
         "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
         "url": "https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e"
       },

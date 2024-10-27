@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 3977945,
+  "num_followers": 3979730,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAAB3pZCE1eVsKdkU8VnMTdc1",
+  "snapshot_id": "ZxrfgAAAAACvXASOhRkUhi7ldUCQaZhh",
   "tracks": [
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
-        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
+        "name": "Leave The Door Open (Live)",
+        "url": "https://open.spotify.com/album/4rRB9bAIwawVcrdLXuq9Qu"
       },
       "artists": [
         {
@@ -716,13 +716,17 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
         }
       ],
-      "duration_ms": 228300,
-      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
-      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
+      "duration_ms": 260269,
+      "name": "Leave The Door Open - Live",
+      "url": "https://open.spotify.com/track/1Ffw1qFqCw2IaozOJ5mL2O"
     },
     {
       "added_at": null,
@@ -747,30 +751,6 @@
       "duration_ms": 63060,
       "name": "Silk Sonic Intro",
       "url": "https://open.spotify.com/track/4K09vJ27xCOreumtSuU6Ao"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Leave The Door Open (Live)",
-        "url": "https://open.spotify.com/album/4rRB9bAIwawVcrdLXuq9Qu"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 260269,
-      "name": "Leave The Door Open - Live",
-      "url": "https://open.spotify.com/track/1Ffw1qFqCw2IaozOJ5mL2O"
     },
     {
       "added_at": null,

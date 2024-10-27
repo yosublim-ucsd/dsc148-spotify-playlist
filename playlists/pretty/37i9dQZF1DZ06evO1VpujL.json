@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 25362,
+  "num_followers": 25369,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABK80fuAxokoE3XswgNWqwE",
+  "snapshot_id": "ZxrfgAAAAACJYmWA5dKg/RT3/qRhl6qW",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 47003,
-      "name": "I",
-      "url": "https://open.spotify.com/track/1Mq96Jbp8dPgJFOvejoK03"
+      "duration_ms": 244769,
+      "name": "Under Attack",
+      "url": "https://open.spotify.com/track/1eM3Bb2lqftghVmfzijRki"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Cause Ah Riot",
-      "url": "https://open.spotify.com/track/4qoZtnzjvo8PCFRrpfer0N"
+      "duration_ms": 243120,
+      "name": "State of Emergency",
+      "url": "https://open.spotify.com/track/2usLPunZVyBZ5zP2AlTesu"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 244769,
-      "name": "Under Attack",
-      "url": "https://open.spotify.com/track/1eM3Bb2lqftghVmfzijRki"
+      "duration_ms": 217061,
+      "name": "Volume",
+      "url": "https://open.spotify.com/track/7moEfEoYuWllWBbgkqiXNM"
     },
     {
       "added_at": null,
@@ -520,57 +520,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 243120,
-      "name": "State of Emergency",
-      "url": "https://open.spotify.com/track/2usLPunZVyBZ5zP2AlTesu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Union Black",
-        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 251773,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/2OLzB5nuueydMIuLQxhKOk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volume",
-        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 217061,
-      "name": "Volume",
-      "url": "https://open.spotify.com/track/7moEfEoYuWllWBbgkqiXNM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 239072,
-      "name": "Last Chance",
-      "url": "https://open.spotify.com/track/5LkwjQgp9y5KZOlGV9h99w"
+      "duration_ms": 184866,
+      "name": "Cause Ah Riot",
+      "url": "https://open.spotify.com/track/4qoZtnzjvo8PCFRrpfer0N"
     },
     {
       "added_at": null,
@@ -591,6 +543,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Union Black",
+        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 251773,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/2OLzB5nuueydMIuLQxhKOk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 239072,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/5LkwjQgp9y5KZOlGV9h99w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roots Rock Riot",
         "url": "https://open.spotify.com/album/4QIRpo0llXmdo8O1bRUVJn"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volume",
+        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 47003,
+      "name": "I",
+      "url": "https://open.spotify.com/track/1Mq96Jbp8dPgJFOvejoK03"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Union Black",
         "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 231253,
       "name": "Cut Dem",
       "url": "https://open.spotify.com/track/5zad0gzqESqLTSbn6G9xlm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volume",
-        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 200978,
-      "name": "Sound the Siren",
-      "url": "https://open.spotify.com/track/6uhIs0YwxmT2SehGWrFsBH"
     },
     {
       "added_at": null,
@@ -671,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Union Black",
-        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Bad Man Ah Bad Man",
-      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volume",
         "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
       },
@@ -699,6 +667,22 @@
       "duration_ms": 223767,
       "name": "Shut Ya Mouth",
       "url": "https://open.spotify.com/track/0Ng9ji1k1QYwpzHXIwxNfc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Union Black",
+        "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Bad Man Ah Bad Man",
+      "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volume",
+        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 200978,
+      "name": "Sound the Siren",
+      "url": "https://open.spotify.com/track/6uhIs0YwxmT2SehGWrFsBH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Union Black",
         "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volume",
-        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 164615,
-      "name": "No Justice",
-      "url": "https://open.spotify.com/track/4gSdCdpx48dPqmUbWyR9TP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shark Bites and Dog Fights",
         "url": "https://open.spotify.com/album/6Pmx9qwpO7VsB2P27gVKId"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 216733,
       "name": "Days Like These",
       "url": "https://open.spotify.com/track/2vFcKhwJmEEV1uTCGzzXXo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volume",
+        "url": "https://open.spotify.com/album/0h4G4OxUKLVwBhHTGzLNsv"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 164615,
+      "name": "No Justice",
+      "url": "https://open.spotify.com/track/4gSdCdpx48dPqmUbWyR9TP"
     },
     {
       "added_at": null,

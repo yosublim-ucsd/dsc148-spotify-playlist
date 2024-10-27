@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Perfect music for perfect food.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,038 likes - 200 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,071 likes - 200 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

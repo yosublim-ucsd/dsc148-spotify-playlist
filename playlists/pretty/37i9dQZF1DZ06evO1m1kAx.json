@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 6297,
+  "num_followers": 6306,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAAAy7V9jP/JhBM5yRr1S7FNW",
+  "snapshot_id": "ZxrfgAAAAAA/Lmlm9CJJDxUL7mxd5GRk",
   "tracks": [
     {
       "added_at": null,
@@ -155,18 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "REWIND. SELECT. UPDATE",
-        "url": "https://open.spotify.com/album/1PtImLqFwmF9VzNewUlRr4"
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
       },
       "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 264360,
-      "name": "African Queen",
-      "url": "https://open.spotify.com/track/2RJ3YuTvKjUI3PKkBf2YzC"
+      "duration_ms": 303847,
+      "name": "Possibility",
+      "url": "https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj"
     },
     {
       "added_at": null,
@@ -231,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
-      },
-      "artists": [
-        {
-          "name": "P-Square",
-          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 303847,
-      "name": "Possibility",
-      "url": "https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unstoppable International",
         "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
       },
@@ -287,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grass 2 Grace",
-        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "4 Instance",
-      "url": "https://open.spotify.com/track/7FQecMcIQ2oB7dMaW0MYJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horoscopes",
         "url": "https://open.spotify.com/album/6GjoTQIrbosUnJzTqM2oNF"
       },
@@ -327,6 +291,26 @@
       "duration_ms": 163507,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/716irYdOvfRgpu3HeelScT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grass 2 Grace",
+        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "4 Instance",
+      "url": "https://open.spotify.com/track/7FQecMcIQ2oB7dMaW0MYJ2"
     },
     {
       "added_at": null,
@@ -363,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grass 2 Grace",
-        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 286866,
-      "name": "E Be Like Say",
-      "url": "https://open.spotify.com/track/0ZYKnsD8GoiU5tHki9T7Fn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baba Nla",
         "url": "https://open.spotify.com/album/4VMCzDpzW1LRJjDLIGWRXN"
       },
@@ -407,6 +371,26 @@
       "duration_ms": 202569,
       "name": "Baba Nla",
       "url": "https://open.spotify.com/track/741bGvXuyaHaiFZrVEtLza"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grass 2 Grace",
+        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 286866,
+      "name": "E Be Like Say",
+      "url": "https://open.spotify.com/track/0ZYKnsD8GoiU5tHki9T7Fn"
     },
     {
       "added_at": null,
@@ -447,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grass 2 Grace",
-        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "VIP",
-          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
-        }
-      ],
-      "duration_ms": 271720,
-      "name": "No Shakin",
-      "url": "https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AWAY & BEYOND",
         "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
       },
@@ -483,6 +447,26 @@
       "duration_ms": 235781,
       "name": "Higher (Spiritual Healing) [feat. Huma Lara]",
       "url": "https://open.spotify.com/track/3Cx0XcneUukQQv2VZgiAE1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grass 2 Grace",
+        "url": "https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "duration_ms": 271720,
+      "name": "No Shakin",
+      "url": "https://open.spotify.com/track/2I4PuUJLbVQUiGLnZpQRqV"
     },
     {
       "added_at": null,
@@ -547,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 218462,
-      "name": "Dance in the Rain",
-      "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -579,6 +547,22 @@
       "duration_ms": 184420,
       "name": "Target You (feat. Syemca)",
       "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 218462,
+      "name": "Dance in the Rain",
+      "url": "https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX"
     },
     {
       "added_at": null,
@@ -631,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 288920,
-      "name": "Right Here",
-      "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -667,6 +631,26 @@
       "duration_ms": 225827,
       "name": "We Must Groove (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 288920,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd"
     },
     {
       "added_at": null,
@@ -707,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Thank U Lord",
-      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face 10.0",
         "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
       },
@@ -743,6 +707,26 @@
       "duration_ms": 228571,
       "name": "Dance Go (Eau De Vie)",
       "url": "https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Thank U Lord",
+      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
     },
     {
       "added_at": null,
@@ -791,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "U No Holy Pass",
-      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad Over Hills",
         "url": "https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH"
       },
@@ -835,6 +799,26 @@
       "duration_ms": 154529,
       "name": "Mad Over Hills",
       "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "U No Holy Pass",
+      "url": "https://open.spotify.com/track/3dmMDnpDq1GaS9zAX8ycas"
     },
     {
       "added_at": null,
@@ -955,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "W.E.E.D.",
+        "url": "https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY"
+      },
+      "artists": [
+        {
+          "name": "Solidstar",
+          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Nwa Baby",
+      "url": "https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cover Me",
         "url": "https://open.spotify.com/album/32qvTAkxUFBQcipXv9dpkU"
       },
@@ -983,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "W.E.E.D.",
-        "url": "https://open.spotify.com/album/5HXfLb3qCRLpkDiRAHWTrY"
-      },
-      "artists": [
-        {
-          "name": "Solidstar",
-          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Nwa Baby",
-      "url": "https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNSTOPPABLE",
         "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
       },
@@ -1019,6 +1003,26 @@
       "duration_ms": 230191,
       "name": "Free (feat. Ehi Idibia)",
       "url": "https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Frenemies",
+        "url": "https://open.spotify.com/album/40oBQ8EmEXE4zS1t35dgUs"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Waje",
+          "url": "https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0"
+        }
+      ],
+      "duration_ms": 241737,
+      "name": "Frenemies",
+      "url": "https://open.spotify.com/track/7hWvMTMVuxJqKUG98gAACG"
     }
   ],
   "unique_name": "This Is 2Baba",

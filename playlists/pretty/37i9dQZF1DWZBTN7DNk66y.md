@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 
 > El nuevo sonido de la canción sudamericana de la mano de Feli Colina y Vera Frod.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,061 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,060 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Nathania Khow
 
-4,028 songs - 10 day 7 hr 9 min
+4,029 songs - 10 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2746,6 +2746,7 @@
 | [Picture, You.](https://open.spotify.com/track/4N4lh3JSrz7jdPtFv9D3Jr) | [Ravi Andika](https://open.spotify.com/artist/2Nvkc0Qs0ErmxRzhL3bqNl) | [Picture, You.](https://open.spotify.com/album/4jFrGUf3jJCYuhHEXcpwbE) | 3:37 | 2022-05-19 | 2022-06-03 |
 | [pigeons on the block](https://open.spotify.com/track/51zYRE5MgEBJy8CtzZPT7K) | [Cito Gakso](https://open.spotify.com/artist/7N3quq8Eg4bBzq3Jo53zJP) | [pigeons on the block](https://open.spotify.com/album/5o33LbToteY45DoqvS2nVz) | 3:19 | 2022-02-17 | 2022-03-05 |
 | [PIGS](https://open.spotify.com/track/6pM85l0QxkfLQkJG4SebFh) | [Zeeko](https://open.spotify.com/artist/0kGY3Vs9NYFts4xBrYnIF0), [Ner](https://open.spotify.com/artist/5x3MDjIN1tyYunR1YRooBc) | [PIGS](https://open.spotify.com/album/0VOv4O9fiwA2a1QvRrSc6P) | 3:44 | 2023-10-27 | 2023-11-18 |
+| [Pilihan Hidup](https://open.spotify.com/track/7DkpLwefafPoS4nCiLBCw4) | [Verchiel](https://open.spotify.com/artist/6nmzfjDNgeYzaBxfrApvHj) | [Pilihan Hidup](https://open.spotify.com/album/5lEwjsQPhZZH7LboRc3ZKh) | 4:44 | 2024-10-25 |  |
 | [Pilihan Terbaik](https://open.spotify.com/track/5uIkux6cASgZevcw7DD6jl) | [Hugo Kasela](https://open.spotify.com/artist/1SBsX2VwIcpPKcjTqrtIiz) | [Pilihan Terbaik](https://open.spotify.com/album/4Y8bywAxl6oWnqyqvULjJ0) | 3:45 | 2023-10-05 | 2023-10-27 |
 | [Pilu \(T'lah Berlalu\)](https://open.spotify.com/track/2KVD6log9aTd99gAgG4uw2) | [BiruMuda](https://open.spotify.com/artist/0RullS1YL4LIW6KEl4Az1s) | [Pilu \(T'lah Berlalu\)](https://open.spotify.com/album/5E8LQUXP34GYgTV0Entvay) | 4:25 | 2023-05-18 | 2023-06-02 |
 | [Pindah Ke Bulan](https://open.spotify.com/track/0r5V3uZKPhEIX7In5AsdDG) | [Yoko City Ghost](https://open.spotify.com/artist/6cD8bO5ylH8FlE3IGqDXfQ) | [Pindah Ke Bulan](https://open.spotify.com/album/4TfS0xVLUmY47fU17QdlPm) | 4:44 | 2024-01-25 | 2024-02-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Flow Morati, Junior Caldera y Louis BPM
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,303 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,323 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 39 | [No Me Quiero Bañar](https://open.spotify.com/track/18SgLagyHDasjpxuoCl6OY) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [No Me Quiero Bañar](https://open.spotify.com/album/52nWdtSQbxoXqNbiPJEEXE) | 3:28 |
 | 40 | [Arcade](https://open.spotify.com/track/6dLWgR4WB3gAqcUyW3k5Xj) | [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm) | [Arcade](https://open.spotify.com/album/4vsxOtS3Ni1EhMpzGfNm4l) | 3:13 |
 | 41 | [Mi Cuarto](https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [DI LETRA](https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn) | 3:17 |
-| 42 | [2.0](https://open.spotify.com/track/6AjiGIH30jG3ho4BwOvHIg) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [2.0](https://open.spotify.com/album/2lvZqXPTXHYGdCEcL2OVTF) | 3:04 |
+| 42 | [2.0](https://open.spotify.com/track/6AjiGIH30jG3ho4BwOvHIg) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [2.0](https://open.spotify.com/album/2lvZqXPTXHYGdCEcL2OVTF) | 3:04 |
 | 43 | [Me Tienes](https://open.spotify.com/track/6gOsbSsolvkGLvalNpIQ1O) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p) | [Me Tienes](https://open.spotify.com/album/4FKgvX4aa1XS0VLAjV4vrS) | 3:03 |
 | 44 | [EN SOLEDAD \(feat\. ADSO, Akapellah\)](https://open.spotify.com/track/7cSJCBT0AOLMAmgXaauUE0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 4:22 |
 | 45 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 |
-| 46 | [Terapia](https://open.spotify.com/track/4lNqp5wlde1EtSO5q89vub) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Terapia](https://open.spotify.com/album/0Xa8TqM7ZKcFSbwJzK2xCr) | 2:53 |
+| 46 | [Terapia](https://open.spotify.com/track/4lNqp5wlde1EtSO5q89vub) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD), [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Terapia](https://open.spotify.com/album/0Xa8TqM7ZKcFSbwJzK2xCr) | 2:53 |
 | 47 | [Laguna](https://open.spotify.com/track/6QN9glefJXPoy8vPZLiFL0) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Laguna](https://open.spotify.com/album/6HVsbMOf4kXG3KYBa1KOhD) | 3:31 |
 | 48 | [365](https://open.spotify.com/track/5PTyCmP9CmulkI6jUEbFvW) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [RoyalLive](https://open.spotify.com/artist/3Uyp3iic3iV2zBsYzMquwx) | [365](https://open.spotify.com/album/099aqmdNJtkqChYPGWShV3) | 2:27 |
 | 49 | [Veneno](https://open.spotify.com/track/19vrzibX1lFlT2V2ToVQkv) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:42 |

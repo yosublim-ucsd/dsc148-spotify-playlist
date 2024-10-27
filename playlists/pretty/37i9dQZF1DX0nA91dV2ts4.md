@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nA91dV2ts4.md) - [plain]
 
 > Fast\-paced tunes for Tamil party time!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,983 likes - 76 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,126 likes - 76 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

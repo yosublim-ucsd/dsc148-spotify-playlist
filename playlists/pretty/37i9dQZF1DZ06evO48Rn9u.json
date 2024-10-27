@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 143536,
+  "num_followers": 143565,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAAAxpQnnkXBwmqnf+bOtBPM2",
+  "snapshot_id": "ZxrfgAAAAADlRsILEZRLukGkBMZWN14I",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pageant Material",
         "url": "https://open.spotify.com/album/16OVlXWsTKjUkhkPxkgUVa"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 217880,
       "name": "Late To The Party",
       "url": "https://open.spotify.com/track/1uXUAE4lmnGCufaAh6n2D5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Dime Store Cowgirl",
+      "url": "https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fantasy Gateway",
         "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 232298,
       "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
       "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Dime Store Cowgirl",
-      "url": "https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rogue Waves",
         "url": "https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 246293,
       "name": "waves (feat. Kacey Musgraves) - Remix",
       "url": "https://open.spotify.com/track/0JhyMqi5ihsk5neC8DMbbz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pageant Material",
+        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 152453,
+      "name": "Family Is Family",
+      "url": "https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eternal Reach",
         "url": "https://open.spotify.com/album/1PB9Z5JcnmNMssRegx6K61"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 274325,
       "name": "Drive Away",
       "url": "https://open.spotify.com/track/5tw8ebBDTShqoCDzfIpZEo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pageant Material",
-        "url": "https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 152453,
-      "name": "Family Is Family",
-      "url": "https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc"
     }
   ],
   "unique_name": "This Is Kacey Musgraves",

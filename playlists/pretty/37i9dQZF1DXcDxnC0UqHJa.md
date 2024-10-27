@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Josiah and the Bonnevilles
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,252 likes - 115 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,269 likes - 115 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,039 likes - 123 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,044 likes - 123 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 14 | [next to you](https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [next to you](https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW) | 2:34 |
 | 15 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
 | 16 | [i confess](https://open.spotify.com/track/1HIZCdpxgYsYyCAqYi5Vtf) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [i confess](https://open.spotify.com/album/7GKaoGhCA4LBmwRxnsMTdz) | 3:13 |
-| 17 | [Jaguh](https://open.spotify.com/track/5Uylsog2ME0PYFTdV7pEx5) | [XONE](https://open.spotify.com/artist/79wi6DGJItub7HcrqUprDw), [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Jaguh](https://open.spotify.com/album/6ZZk1INOmlhvz9qxMhKGzc) | 3:36 |
+| 17 | [Jaguh \- MPLMY Anthem](https://open.spotify.com/track/5Uylsog2ME0PYFTdV7pEx5) | [XONE](https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo), [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Jaguh \(MPLMY Anthem\)](https://open.spotify.com/album/6ZZk1INOmlhvz9qxMhKGzc) | 3:36 |
 | 18 | [Feeling OK?](https://open.spotify.com/track/4O2akgNKwNVSYwvnzYAwfg) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY), [Pa!nter](https://open.spotify.com/artist/3TLkCvPSwrTgS5vb7TkZ2T) | [Feeling OK?](https://open.spotify.com/album/48DU61VhABrimGzYxRRye0) | 2:33 |
 | 19 | [You Are Not I](https://open.spotify.com/track/6ptIX0lt36WmgNioqKrW5z) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [You Are Not I](https://open.spotify.com/album/2IEFI0My1TWvHxaweaTtSn) | 2:58 |
 | 20 | [No Skibidi](https://open.spotify.com/track/29fTQ2g0s1b9h1KZvwi2IF) | [Caprice](https://open.spotify.com/artist/08kchik08wcyQ6UQCn9R0w), [Nakalness](https://open.spotify.com/artist/1loI0RIE3tosoU6YePYuUI), [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi), [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl), [B\-Heart](https://open.spotify.com/artist/3wkgUQe1MTMFJp6bv3YGcK), [Dani Kurama](https://open.spotify.com/artist/65Oc9F7qZEEfbZbpeITbBe) | [No Skibidi](https://open.spotify.com/album/6jGGuwBQsqrMGi2GqOuIY6) | 3:08 |

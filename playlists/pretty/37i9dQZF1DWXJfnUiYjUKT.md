@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,727 likes - 98 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,729 likes - 98 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 87 | [Dystopia](https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ) | 3:09 |
 | 88 | [Say Goodbye To Mum And Dad](https://open.spotify.com/track/0s5CpCxuZnyITiWTuSWmxI) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs For A Nervous Planet](https://open.spotify.com/album/2DZInrxWAdqrQueZCkqcr3) | 3:45 |
 | 89 | [Hold Still](https://open.spotify.com/track/1PzAY3nwLxJ1pc27ceNFTj) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Hold Still](https://open.spotify.com/album/0MgpMLfL1RdVqZWztwKu06) | 2:49 |
-| 90 | [CAN YOU BREATHE? \(feat\. Hello Forever\)](https://open.spotify.com/track/08dhHm7TCUsbiPLQgUro5n) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Hello Forever](https://open.spotify.com/artist/0WDAQAjHsUAQviHGWRLrGH) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 2:58 |
+| 90 | [CAN YOU BREATHE?](https://open.spotify.com/track/08dhHm7TCUsbiPLQgUro5n) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Hello Forever](https://open.spotify.com/artist/0WDAQAjHsUAQviHGWRLrGH) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 2:58 |
 | 91 | [CA$HMERE TEAR$](https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [CA$HMERE TEAR$](https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs) | 4:02 |
 | 92 | [I'm So Happy](https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I'm So Happy](https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s) | 2:26 |
 | 93 | [Questions](https://open.spotify.com/track/3LpmZrDqY7GsCdCYHRqT3n) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Questions / Nightly](https://open.spotify.com/album/1qNj3UHGr6MK1YsC1iBPRY) | 2:32 |

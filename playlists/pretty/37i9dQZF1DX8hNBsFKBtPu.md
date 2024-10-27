@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💜 Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,968 likes - 129 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,969 likes - 129 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 45 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 |
 | 46 | [Knust](https://open.spotify.com/track/3wqRHnczOsKvn43w5d0YDQ) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Knust](https://open.spotify.com/album/5AGzft7HTMrun5vjPK03oo) | 2:15 |
 | 47 | [fight the urge](https://open.spotify.com/track/5KUlDf4UFCYNn8unodLPNp) | [Ana Juél](https://open.spotify.com/artist/1iHkVAKq12mQH5fZHmKPaU) | [fight the urge](https://open.spotify.com/album/5WACqjLHPiOn1PxK9qWG7b) | 2:27 |
-| 48 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 48 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 49 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
 | 50 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 |
 | 51 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 |

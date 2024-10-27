@@ -5598,7 +5598,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 248533,
       "name": "Blame It on the Rain",
       "url": "https://open.spotify.com/track/5ReqKJslVMTo52XRUaVcRq"
@@ -14580,7 +14580,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 189464,
       "name": "forwards beckon rebound",
       "url": "https://open.spotify.com/track/6PBanBy8L1K2Ry4UN186XH"
@@ -17642,7 +17642,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -17938,7 +17938,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 214086,
       "name": "Her",
       "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
@@ -41918,7 +41918,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
@@ -43686,7 +43686,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 197692,
       "name": "The Ballad of the Witches' Road (Sacred Chant Version)",
       "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
@@ -48880,7 +48880,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 129571,
       "name": "Why's this dealer?",
       "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
@@ -51076,6 +51076,24 @@
       "duration_ms": 137772,
       "name": "\u0414\u0410, \u042f \u0420\u0423\u0421\u0421\u041a\u0418\u0419 (SLOWED PHONK Version)",
       "url": "https://open.spotify.com/track/7AkprUKtXRybOAERV2Jqyy"
+    },
+    {
+      "album": {
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/0yZ6j28YBuwhtI0OjRyzKi"
+      },
+      "artists": [
+        {
+          "name": "Vintage",
+          "url": "https://open.spotify.com/artist/1I8yEn0RSxacRvLxd8N56a"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248760,
+      "name": "\u0415\u0432\u0430",
+      "url": "https://open.spotify.com/track/5pS5TjcUKb8rWQSqgZ2MSm"
     },
     {
       "album": {

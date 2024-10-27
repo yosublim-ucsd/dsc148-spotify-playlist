@@ -71,6 +71,28 @@
     },
     {
       "album": {
+        "name": "Ajustad\u00f3n",
+        "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159685,
+      "name": "Ajustad\u00f3n",
+      "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
+    },
+    {
+      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG"
       },

@@ -415,6 +415,24 @@
     },
     {
       "album": {
+        "name": "Know You Like That",
+        "url": "https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176450,
+      "name": "Know You Like That",
+      "url": "https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO"
+    },
+    {
+      "album": {
         "name": "Home State",
         "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },

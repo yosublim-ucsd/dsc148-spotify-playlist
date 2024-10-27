@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 
 > Hit the dance floor with your favorite bops!
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,955 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,087 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

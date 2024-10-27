@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 7558,
+  "num_followers": 7564,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAAAhRWb5d7CvOvijnpQmlHnc",
+  "snapshot_id": "ZxrfgAAAAACOuuLMOMhe080oRb5H9Gz6",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 174093,
-      "name": "Como Me Doli\u00f3 Tu Adi\u00f3s",
-      "url": "https://open.spotify.com/track/6ftWmU96nKeUc8yvNcCHig"
+      "duration_ms": 203103,
+      "name": "La Guitarra de Lolo",
+      "url": "https://open.spotify.com/track/7jmXCIPj3NzRGsVeS1e46P"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 203103,
-      "name": "La Guitarra de Lolo",
-      "url": "https://open.spotify.com/track/7jmXCIPj3NzRGsVeS1e46P"
+      "duration_ms": 174093,
+      "name": "Como Me Doli\u00f3 Tu Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6ftWmU96nKeUc8yvNcCHig"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 248057,
-      "name": "Que Le Vaya Bien",
-      "url": "https://open.spotify.com/track/2ZH7G5IitnSagZ1ysUwBGU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde Pico Rivera!",
         "url": "https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU"
       },
@@ -415,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 248057,
+      "name": "Que Le Vaya Bien",
+      "url": "https://open.spotify.com/track/2ZH7G5IitnSagZ1ysUwBGU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Ataque",
         "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
       },
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 141026,
-      "name": "Para Qu\u00e9 Volviste",
-      "url": "https://open.spotify.com/track/09I0Ato0Ni6zE48K26QjWP"
+      "duration_ms": 211406,
+      "name": "Mi \u00daltima Parranda",
+      "url": "https://open.spotify.com/track/3FCdny607s4cotns5zJ5SE"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 211406,
-      "name": "Mi \u00daltima Parranda",
-      "url": "https://open.spotify.com/track/3FCdny607s4cotns5zJ5SE"
+      "duration_ms": 141026,
+      "name": "Para Qu\u00e9 Volviste",
+      "url": "https://open.spotify.com/track/09I0Ato0Ni6zE48K26QjWP"
     },
     {
       "added_at": null,

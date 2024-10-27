@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sarah Farias, Kailane Frauches
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,662 likes - 85 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,759 likes - 85 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Raayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,894 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,055 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

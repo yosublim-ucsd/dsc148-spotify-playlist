@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,217 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,240 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 64 | [We Both Smoke Again](https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [We Both Smoke Again](https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV) | 3:28 |
 | 65 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 |
 | 66 | [Take Me to the Beach \(feat\. Baker Boy\)](https://open.spotify.com/track/0VuXOl99YyPwY0EiqP7cS2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [Take Me to the Beach \(feat\. Baker Boy\)](https://open.spotify.com/album/6qe9TokikN4yu5VaPRSouw) | 3:05 |
-| 67 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 67 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 68 | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/track/45eYAsl4BoGXERKu1NurjG) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/album/0wAvinEDstgyEyf3Txrw0Z) | 2:20 |
 | 69 | [PPP](https://open.spotify.com/track/0L0QRxQSbMnWzT9KrEfCu2) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [PPP](https://open.spotify.com/album/22fdpmWw9AzoOuxw8Kki0R) | 2:50 |
 | 70 | [Lost and found](https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Lost and found](https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG) | 3:14 |

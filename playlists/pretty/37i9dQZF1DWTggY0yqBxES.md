@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Powers Pleasant
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,902 likes - 99 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,937 likes - 99 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 56 | [TOP](https://open.spotify.com/track/5kioTVPysYbhgXkVCKUdco) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [LIVE WIRE](https://open.spotify.com/album/2kvzhKV1P3tuKpk0TTf3W4) | 2:18 |
 | 57 | [SALAD](https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby) | [Oblé Reed](https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn), [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [SALAD](https://open.spotify.com/album/0xkWdFSnZVaHICeiGyiVIY) | 2:53 |
 | 58 | [007 \(OG Mix\)](https://open.spotify.com/track/2DW3A3W3ADxqtLzLgvQWrx) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull DLX](https://open.spotify.com/album/5u8lkrEjY9W9yUevdcueWm) | 2:33 |
-| 59 | [CAN YOU BREATHE? \(feat\. Hello Forever\)](https://open.spotify.com/track/08dhHm7TCUsbiPLQgUro5n) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Hello Forever](https://open.spotify.com/artist/0WDAQAjHsUAQviHGWRLrGH) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 2:58 |
+| 59 | [CAN YOU BREATHE?](https://open.spotify.com/track/08dhHm7TCUsbiPLQgUro5n) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Hello Forever](https://open.spotify.com/artist/0WDAQAjHsUAQviHGWRLrGH) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 2:58 |
 | 60 | [Barry](https://open.spotify.com/track/3z5hvnhC1rksnJNKR7rvqX) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [WE'RE ALL BRODIES\*](https://open.spotify.com/album/6vIfYqKIvseLIBU7e1E34c) | 2:16 |
 | 61 | [don't rely on other men](https://open.spotify.com/track/2RZBNHSfrxyIs8u9ciLKLf) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [don't rely on other men](https://open.spotify.com/album/0S3p06Juu3pFmzpdQbOHOK) | 3:14 |
 | 62 | [WHY WOULD U WANNA BREAKUP?](https://open.spotify.com/track/5sivnrvegQy0vKTWRttSTk) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [WHY WOULD U WANNA BREAKUP?](https://open.spotify.com/album/0yC1ubNCqyHybmt4BljDdn) | 2:00 |

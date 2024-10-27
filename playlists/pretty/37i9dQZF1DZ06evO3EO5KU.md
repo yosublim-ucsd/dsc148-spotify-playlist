@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,078 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,108 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 41 | [11 + 11](https://open.spotify.com/track/2YwUKXOwzoVhgSDZ5XzCjU) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [La Duda](https://open.spotify.com/artist/76PanOLrnvlpAjGLTOR3y6) | [11 + 11](https://open.spotify.com/album/7kaAUf0ZpoG6tAMAHLgz21) | 3:16 |
 | 42 | [Amor Pasajero](https://open.spotify.com/track/4G4SU5CjZZuzneQlkpb8zJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/2u7lP3WGZ7QusWcvPaqzXo) | 3:30 |
 | 43 | [El Mencho \- En Vivo](https://open.spotify.com/track/2Za9V65HXmc5QD3IVhe0lR) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/0FLKfCwVfCW9GKHBlrPm0s) | 2:49 |
-| 44 | [Luces, Cámara y Acción](https://open.spotify.com/track/3mdFsWlgPsY9SH9281Tk2f) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Luces, Cámara y Acción](https://open.spotify.com/album/7apdNS89KMDFKuU7ztnaQ3) | 2:59 |
-| 45 | [Alguien Como Tú](https://open.spotify.com/track/10bHLOwkm2l51jANpw1Hni) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/2udRZWpORdAe1jhyU14Hus) | 3:21 |
+| 44 | [Alguien Como Tú](https://open.spotify.com/track/10bHLOwkm2l51jANpw1Hni) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/2udRZWpORdAe1jhyU14Hus) | 3:21 |
+| 45 | [Luces, Cámara y Acción](https://open.spotify.com/track/3mdFsWlgPsY9SH9281Tk2f) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Luces, Cámara y Acción](https://open.spotify.com/album/7apdNS89KMDFKuU7ztnaQ3) | 2:59 |
 | 46 | [Bola de Cristal](https://open.spotify.com/track/5lKY5UvsHitVG5Ne9YNmIo) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Serenata Digital](https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP) | 3:10 |
 | 47 | [Enseñame A Olvidar \- En Vivo](https://open.spotify.com/track/2ESkunF1uu2uCuH8FDVnuh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol\. 2](https://open.spotify.com/album/2okCaaMVgh8LmwDD7a85oa) | 3:07 |
 | 48 | [Jugar a Los Besos](https://open.spotify.com/track/4USVL7tlqkVyMWa2DVFqSz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Jugar a Los Besos](https://open.spotify.com/album/2jSFLjVvDjXvWAaSlWj5lw) | 2:48 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 50 | [Los Versos De Muel](https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2) | [Darey de la Sierra](https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Los Versos De Muel](https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a) | 3:25 |
 | 51 | [El Karma](https://open.spotify.com/track/13R9AXTH4UccfzSof4Qecf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/7uHs4aANFXcETXJ3REH0kM) | 3:30 |
 
-Snapshot ID: `ZxmOAAAAAAAHmmAJEJHfPRuec1zjeFIt`
+Snapshot ID: `ZxrfgAAAAAAB2kqwGJd/SIRYPgP6FzL2`

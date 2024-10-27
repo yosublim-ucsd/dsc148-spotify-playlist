@@ -73,6 +73,6 @@
 | [Veinte Mujeres De Negro](https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:43 | 2022-10-24 |  |
 | [Vida Prestada](https://open.spotify.com/track/1pJvXwGDQCaYKErJfNL20j) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Exitos 10, Vol\. 1: Cumbias & Rancheras](https://open.spotify.com/album/41ZUMbfkl3CZWl4RX67RcU) | 2:44 | 2022-10-24 |  |
 | [Vuela y Vuela](https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s) | [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9) | [Vuela y Vuela](https://open.spotify.com/album/35EBcHRE2GuFcYfCkwyX7l) | 3:01 | 2022-10-24 |  |
-| [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 | 2024-10-25 |  |
+| [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 | 2024-10-25 |  |
 
 \*This playlist was first scraped on 2022-11-02. Prior content cannot be recovered.

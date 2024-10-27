@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,793 songs - 4 day 0 hr 8 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,796 songs - 4 day 0 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1801,5 +1801,8 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1791 | [CAN'T STOP WON'T STOP](https://open.spotify.com/track/5RryqMI5aokTEdcrFEjAMQ) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [CAN'T STOP WON'T STOP](https://open.spotify.com/album/5T9esNqz99018bZFPrdMNV) | 2:42 |
 | 1792 | [FREAKSHOW](https://open.spotify.com/track/1dm2RSzrFVDBgQDvJFBBZl) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [FREAKSHOW](https://open.spotify.com/album/6XDI0v0mfddr3Pr2vQdZD6) | 2:42 |
 | 1793 | [YOU AND I \- RAVE LOVE LIVE EDIT](https://open.spotify.com/track/1cS93RYSTrNOgrxiFINgDZ) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [RAVE LOVE PT.2](https://open.spotify.com/album/3p3wFoUkTRpFah1PqWWfTK) | 2:51 |
+| 1794 | [Kryptonite](https://open.spotify.com/track/7Ithcf62lKhaLqonHSXOOq) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Kryptonite](https://open.spotify.com/album/118QsnYZTmidlw0Iwut8bW) | 3:04 |
+| 1795 | [Beat Of The Drum](https://open.spotify.com/track/0ryREQNVALsNonSQ24okIX) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Beat Of The Drum](https://open.spotify.com/album/6uhqXqtlxqvJGVFq6Y6Lfp) | 1:52 |
+| 1796 | [Cruel Place \- Mixed Cut](https://open.spotify.com/track/2D9qppYBsVoCLKZLZiFDot) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Emotional Hardcore 1](https://open.spotify.com/album/0iFQ5KdFY9mE561KsaEfx4) | 3:10 |
 
-Snapshot ID: `AAAHNChGd2tidkrMccv2iRnMkbWmcs1p`
+Snapshot ID: `AAAHN5nbneiXk5kNqZaWF2ReAWH6+rBu`

@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 128579,
       "name": "A Hero Rides With Us",
       "url": "https://open.spotify.com/track/0o9tqLrIYs06aJx1YOPHEg"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 170560,
       "name": "A Lannister Always Pays His Debts",
       "url": "https://open.spotify.com/track/1vPEPhmGDnp8RR6GCBozaa"
@@ -210,7 +210,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 82837,
       "name": "Akkadian Empire",
       "url": "https://open.spotify.com/track/7rzvcyHkSU7v9rwM2z0cIF"
@@ -369,6 +369,28 @@
     },
     {
       "album": {
+        "name": "World of Warcraft: Wrath of the Lich King Original Soundtrack",
+        "url": "https://open.spotify.com/album/36Dk0lgHLB8nfpaC8EvGiy"
+      },
+      "artists": [
+        {
+          "name": "Neal Acree",
+          "url": "https://open.spotify.com/artist/5mocQZIZJJsA389LmLpCkk"
+        },
+        {
+          "name": "Jason Hayes",
+          "url": "https://open.spotify.com/artist/1RGNzkIbAdJlqJooCykfG8"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192373,
+      "name": "Arthas, My Son (Cinematic Intro)",
+      "url": "https://open.spotify.com/track/3CIQuyJQZNNyfkHSyBzwvi"
+    },
+    {
+      "album": {
         "name": "Assassin's Creed 4: Black Flag (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/76Sa34PcsBjp52vsjOd0Tz"
       },
@@ -384,7 +406,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 133378,
       "name": "Assassin's Creed IV Black Flag Main Theme",
       "url": "https://open.spotify.com/track/6enLk2V2s0M6D6PGLjHxYv"
@@ -446,7 +468,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 198187,
       "name": "Awaken",
       "url": "https://open.spotify.com/track/3jevgr3fYdv9wYO3IDJq2a"
@@ -504,7 +526,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 463706,
       "name": "Becoming one of \"The People\" Becoming one with Neytiri",
       "url": "https://open.spotify.com/track/1UBd7aWHZCz8yirI9KCvAU"
@@ -638,7 +660,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 110160,
       "name": "Can You Hear The Music",
       "url": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
@@ -808,7 +830,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 208084,
       "name": "Creator of Worlds",
       "url": "https://open.spotify.com/track/6tGtmVVS8ccFbJmewqhUTg"
@@ -924,7 +946,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 257546,
       "name": "Destiny of the Chosen",
       "url": "https://open.spotify.com/track/0scOdTwD5lyyIragAQtY9N"
@@ -1000,7 +1022,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 235636,
       "name": "Dragonborn",
       "url": "https://open.spotify.com/track/2gaZJDgE71VL9PzzUUlpMg"
@@ -1018,7 +1040,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Dream Chasers",
       "url": "https://open.spotify.com/track/6tXtvM9glF9DFlete3EwVY"
@@ -1098,7 +1120,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 254180,
       "name": "El Dorado",
       "url": "https://open.spotify.com/track/4o0sJFXHckKlBhhynZsSIg"
@@ -1124,6 +1146,24 @@
       "duration_ms": 661780,
       "name": "Emerald Princess",
       "url": "https://open.spotify.com/track/3Lsxzkhu8U9hTApMjTrCzm"
+    },
+    {
+      "album": {
+        "name": "Sun",
+        "url": "https://open.spotify.com/album/0KxuFf203h4hZz3UijS90k"
+      },
+      "artists": [
+        {
+          "name": "Thomas Bergersen",
+          "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314537,
+      "name": "Empire of Angels",
+      "url": "https://open.spotify.com/track/3AnYGQ8PB3lYrA6ToVUXa3"
     },
     {
       "album": {
@@ -1226,10 +1266,28 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 260066,
       "name": "Eptesicus",
       "url": "https://open.spotify.com/track/6akwM3md7dzP2LkK8pKk6d"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Two Towers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zIoYLpYOq8d4HFzHJ7vc8"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Evenstar",
+      "url": "https://open.spotify.com/track/1TQKEwq4y9SkNciJuisE1m"
     },
     {
       "album": {
@@ -1427,6 +1485,24 @@
     },
     {
       "album": {
+        "name": "Final Reckoning",
+        "url": "https://open.spotify.com/album/7wuMrns6vGi0uvPi4DudWf"
+      },
+      "artists": [
+        {
+          "name": "Q-Factory by Robert Etoll",
+          "url": "https://open.spotify.com/artist/0wBSkYE9QLovAkVbXP9n8N"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101105,
+      "name": "Final Reckoning",
+      "url": "https://open.spotify.com/track/0RTG9fbE9HY6kOZjzpaFAP"
+    },
+    {
+      "album": {
         "name": "X-MEN: FIRST CLASS",
         "url": "https://open.spotify.com/album/14jwLvbmFd60gtCScp5pcc"
       },
@@ -1456,7 +1532,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 258148,
       "name": "Flight",
       "url": "https://open.spotify.com/track/1mUG7ftwIxuq5fhMPkyM02"
@@ -1518,7 +1594,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 247333,
       "name": "For The Love Of A Princess",
       "url": "https://open.spotify.com/track/22yxHt6UqZpH7tP6W4PooI"
@@ -1554,7 +1630,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 194351,
       "name": "Formula 1 Theme",
       "url": "https://open.spotify.com/track/5r7egnfTIQjaKSGREhIky9"
@@ -1696,10 +1772,60 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 141993,
       "name": "Geralt Of Rivia",
       "url": "https://open.spotify.com/track/5tmhUzJuP7XwqCHglyqnt8"
+    },
+    {
+      "album": {
+        "name": "EPIC: The Wisdom Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/5IaGIT4jt1J2JAXrOBPPck"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rivera-Herrans",
+          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+        },
+        {
+          "name": "Teagan Earley",
+          "url": "https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w"
+        },
+        {
+          "name": "Luke Holt",
+          "url": "https://open.spotify.com/artist/3Bgch077fZjxvqwRrklrES"
+        },
+        {
+          "name": "Brandon McInnis",
+          "url": "https://open.spotify.com/artist/5BSt2fFhlHBz8nG6HrmndO"
+        },
+        {
+          "name": "Mike Rivera",
+          "url": "https://open.spotify.com/artist/12VOo3IyWtm6kD1Ba1vXjs"
+        },
+        {
+          "name": "Janani K. Jha",
+          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
+        },
+        {
+          "name": "Earle Gresham Jr.",
+          "url": "https://open.spotify.com/artist/5ZrrFCnpd82nEYmVxE7e1a"
+        },
+        {
+          "name": "POESY",
+          "url": "https://open.spotify.com/artist/5wzk9261aP0OGmpxLAgYfL"
+        },
+        {
+          "name": "Cast of EPIC: The Musical",
+          "url": "https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319636,
+      "name": "God Games",
+      "url": "https://open.spotify.com/track/2nTbWfwXlp9gK5u205Pcm1"
     },
     {
       "album": {
@@ -1776,7 +1902,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 251493,
       "name": "Halo Theme Mjolnir Mix",
       "url": "https://open.spotify.com/track/7MEeBQYEWT3xhLbTeprdUQ"
@@ -1842,7 +1968,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 68575,
       "name": "Here Comes the King",
       "url": "https://open.spotify.com/track/0q6SjXK02E6Jz9hcy2d4or"
@@ -1860,7 +1986,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 160803,
       "name": "Heroic Opportunities",
       "url": "https://open.spotify.com/track/6nKOXDtfpOWJlC18izYwQI"
@@ -1970,7 +2096,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 79840,
       "name": "Honor Him",
       "url": "https://open.spotify.com/track/4sikZiG7dYZLcIiMlZlc32"
@@ -2064,7 +2190,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 247781,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/7qgi1mkSrj0IYUkVg34QmN"
@@ -2082,7 +2208,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 178893,
       "name": "Imperatrix Mundi",
       "url": "https://open.spotify.com/track/0678L5C9Yb1ERzK8Vk9ZZX"
@@ -2160,7 +2286,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 247500,
       "name": "Keep Your Friends Close",
       "url": "https://open.spotify.com/track/11u4Q89CWq1R3RKpiIFDz2"
@@ -2178,7 +2304,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 175891,
       "name": "Lacrimosa - Epic Version (Mozart) - Original",
       "url": "https://open.spotify.com/track/437ZCOYA5ulnI9x9saubWt"
@@ -2200,6 +2326,24 @@
       "duration_ms": 271120,
       "name": "Last Ride of the Day",
       "url": "https://open.spotify.com/track/6R9j9XEisGCoIE8r8UtbiS"
+    },
+    {
+      "album": {
+        "name": "Ascendance",
+        "url": "https://open.spotify.com/album/2FKQzBFfA9HaYqjSLZQYcJ"
+      },
+      "artists": [
+        {
+          "name": "Audiomachine",
+          "url": "https://open.spotify.com/artist/5F4ObszoeVebqtc0B3XqJa"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204778,
+      "name": "Leap of Faith",
+      "url": "https://open.spotify.com/track/5YkbM6X4Z6dTtSWOsYlUbo"
     },
     {
       "album": {
@@ -2226,7 +2370,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 194442,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/7pM9Mn8WdnjNjYEoMW93Nt"
@@ -2284,7 +2428,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 589094,
       "name": "Light of the Seven",
       "url": "https://open.spotify.com/track/6iLzFJhs4ATwJn7P1utZIJ"
@@ -2376,7 +2520,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 193600,
       "name": "Little Wolf",
       "url": "https://open.spotify.com/track/6eVlPB1UhuyPUQSf9utzit"
@@ -2394,7 +2538,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 294653,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/0tCVkXsVGdkhcg3JPQf7bG"
@@ -2529,6 +2673,32 @@
     },
     {
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/6AcqwTjQ1aE5ChwmIn9p97"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255983,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/4Nl0dkFlwBhkVR0jQSZLi9"
+    },
+    {
+      "album": {
         "name": "Sigma",
         "url": "https://open.spotify.com/album/01oTdTA3L4wV9qv36M8cdB"
       },
@@ -2588,7 +2758,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 116517,
       "name": "Magika",
       "url": "https://open.spotify.com/track/64Crrk0odVnK4lWWJzuN0P"
@@ -2606,7 +2776,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 106280,
       "name": "Main Title",
       "url": "https://open.spotify.com/track/2q6fxAvSpqXR4jx9Ne7RGz"
@@ -2704,7 +2874,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 103024,
       "name": "Misty Mountains",
       "url": "https://open.spotify.com/track/3AAwJ043uT1wXSKDtGyuxF"
@@ -2744,7 +2914,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 194400,
       "name": "Moonlight Sonata - Epic Trailer Version",
       "url": "https://open.spotify.com/track/3jqcJNacs1yDhtMk0wckxv"
@@ -2770,7 +2940,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 197668,
       "name": "My Goodbye",
       "url": "https://open.spotify.com/track/3VQMdY5HVbRf2YM2pjmbq2"
@@ -2832,7 +3002,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 175595,
       "name": "Never Back Down",
       "url": "https://open.spotify.com/track/4boaU9XaS1g6U1nV4lEsMl"
@@ -2890,7 +3060,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 246271,
       "name": "No Time for Caution",
       "url": "https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi"
@@ -3000,7 +3170,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 195640,
       "name": "Optimus",
       "url": "https://open.spotify.com/track/7uhc5ZnEe8gHVvoye4A7Ic"
@@ -3044,7 +3214,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 295426,
       "name": "Pacific Rim (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/0lEHnMNNYusZtbon9XyA2W"
@@ -3066,7 +3236,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 221757,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/1K3IP0FbU1KIpRf5fkXzT9"
@@ -3106,7 +3276,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 269452,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/6P61vGO4oL9oGQbVPzon8Q"
@@ -3186,7 +3356,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 268106,
       "name": "Preliator",
       "url": "https://open.spotify.com/track/6qEikx8igvtqWCYELJwugM"
@@ -3352,7 +3522,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 88358,
       "name": "Requiem For A Tower Two Towers Trailer Mix Remastered",
       "url": "https://open.spotify.com/track/443YcuP1D3FIlHU73x7QEY"
@@ -3370,7 +3540,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 133017,
       "name": "Ride to Glory",
       "url": "https://open.spotify.com/track/03eqdlquKzJQg9LYngD6HO"
@@ -3406,7 +3576,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 435884,
       "name": "Rise",
       "url": "https://open.spotify.com/track/5NFAE8XxEjBrpNu4tEvhqG"
@@ -3458,6 +3628,28 @@
       "duration_ms": 223520,
       "name": "Royalty",
       "url": "https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd"
+    },
+    {
+      "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/7h2ALlSULcSAV4U6tG86Qp"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        },
+        {
+          "name": "Ali Christenhusz",
+          "url": "https://open.spotify.com/artist/7fXEq6QnJxnwZWtO1Ekc7N"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176853,
+      "name": "Run Baby Run",
+      "url": "https://open.spotify.com/track/6X2GnAiT2fpdwmNFRJ30uD"
     },
     {
       "album": {
@@ -3600,7 +3792,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 199466,
       "name": "So Say We All",
       "url": "https://open.spotify.com/track/27c4b7XB6o5tORKU39lmsK"
@@ -3618,7 +3810,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 233053,
       "name": "Sogno di Volare (\u201cThe Dream of Flight\u201d)",
       "url": "https://open.spotify.com/track/1miPwGI7xUKfHj6vIpMfP3"
@@ -3736,7 +3928,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 252453,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/0uipX8PqFOjgiY43E4lgLe"
@@ -3780,7 +3972,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 124306,
       "name": "Strength to Believe",
       "url": "https://open.spotify.com/track/6aNpo6grTqx0bV9g7eF9B1"
@@ -3802,7 +3994,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 150923,
       "name": "Suffering",
       "url": "https://open.spotify.com/track/21oMo9u8Nca3FugaVXFGvu"
@@ -3864,7 +4056,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 195232,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/2UIkO1w2lTXDb0BLzy262r"
@@ -4012,7 +4204,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 440800,
       "name": "The Breaking of the Fellowship (feat. \"In Dreams\")",
       "url": "https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i"
@@ -4060,7 +4252,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 222838,
       "name": "The Call",
       "url": "https://open.spotify.com/track/2iI556oF2qwtac9r1RzrXo"
@@ -4118,7 +4310,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 203226,
       "name": "The Ecstasy Of Gold - 2004 Remaster",
       "url": "https://open.spotify.com/track/6PrKZUXJPmBiobMN44yR8Y"
@@ -4170,7 +4362,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "The Horse and the Infant",
       "url": "https://open.spotify.com/track/6GBKwWdmHaTqbguQgAYOIz"
@@ -4275,6 +4467,24 @@
     },
     {
       "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530532,
+      "name": "The Night King",
+      "url": "https://open.spotify.com/track/1aDklx1GaBqHFowCzz63wU"
+    },
+    {
+      "album": {
         "name": "The Witcher 3: Wild Hunt (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn"
       },
@@ -4316,7 +4526,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "The Underworld",
       "url": "https://open.spotify.com/track/0GTzR6GgyRIF9nIyMDV0ke"
@@ -4446,7 +4656,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 159998,
       "name": "Time to Come",
       "url": "https://open.spotify.com/track/3fmfIR9PtEvN2FW8rNnsPh"
@@ -4464,10 +4674,28 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 165253,
       "name": "Time Will Remember Us",
       "url": "https://open.spotify.com/track/0CydJzczjtWzmrAiM3jm2V"
+    },
+    {
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206546,
+      "name": "To Hell and Back",
+      "url": "https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL"
     },
     {
       "album": {
@@ -4482,7 +4710,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 237202,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/7sgvhY89MQ5ipWtgr9l3NQ"
@@ -4573,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "Makara",
+        "url": "https://open.spotify.com/album/4GhLLFl0mKnTg7jNGTEdMQ"
+      },
+      "artists": [
+        {
+          "name": "E.S. Posthumus",
+          "url": "https://open.spotify.com/artist/1CqW2UkLsaZvByLwkOaNsH"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184746,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1j9hygHMlSWI9PlopV0uqI"
+    },
+    {
+      "album": {
         "name": "Level 11",
         "url": "https://open.spotify.com/album/3jv6Xw9zDwxeCW9yr1HLsG"
       },
@@ -4584,7 +4830,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 222563,
       "name": "Valhalla Calling",
       "url": "https://open.spotify.com/track/2nRKJI3XsWPb5d8VXwn2iK"
@@ -4624,7 +4870,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 320467,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2F9xBxKbx2M0pbgtSu8fLf"
@@ -4720,10 +4966,28 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 204586,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/3f4fc8c8unrQeKecmUPEDR"
+    },
+    {
+      "album": {
+        "name": "Magnus",
+        "url": "https://open.spotify.com/album/0zhNgr494NOICp1vxAetCA"
+      },
+      "artists": [
+        {
+          "name": "Audiomachine",
+          "url": "https://open.spotify.com/artist/5F4ObszoeVebqtc0B3XqJa"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231520,
+      "name": "Wars of Faith",
+      "url": "https://open.spotify.com/track/1eDRJATQfg5l2246fbqX0V"
     },
     {
       "album": {
@@ -4782,7 +5046,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 327338,
       "name": "What Are You Going to Do When You Are Not Saving the World?",
       "url": "https://open.spotify.com/track/6PHMAqyTi2zjs6aXneg0EC"
@@ -4804,6 +5068,24 @@
       "duration_ms": 186723,
       "name": "Where Is Your God Now",
       "url": "https://open.spotify.com/track/3ovtITup4WcZtgDjW7nWZR"
+    },
+    {
+      "album": {
+        "name": "The Dark Knight Rises (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/55vwcYaWuzfVjbZKt7nW1D"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122870,
+      "name": "Why Do We Fall?",
+      "url": "https://open.spotify.com/track/0Mbd5y1ZlWzSUR2jNQAJXY"
     },
     {
       "album": {
@@ -4866,7 +5148,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 272292,
       "name": "Yggdrasil",
       "url": "https://open.spotify.com/track/3V417nSM4Ilh0Tt5CqustV"

@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Fridayy
 
-3,124 songs - 6 day 20 hr 33 min
+3,125 songs - 6 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,6 +729,7 @@
 | [Double Back](https://open.spotify.com/track/14DK4oWkwJVvzWZxWAGgrd) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz) | 2:39 | 2022-11-04 | 2023-02-11 |
 | [Double Back](https://open.spotify.com/track/4Jr0HjXP7TcIJKKaYksaDP) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/58hYoUeR0xA7uhO1IxPWd3) | 2:39 | 2022-11-04 | 2022-11-13 |
 | [double standard](https://open.spotify.com/track/7qtncw0hAI6uTnR88oLXiq) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [double standard](https://open.spotify.com/album/2LGr9hwu5KgGkmxBUrANq4) | 3:23 | 2022-04-08 | 2022-04-29 |
+| [Double Time](https://open.spotify.com/track/1TbRmfLl7wT5MjrKKigGbU) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [Double Time](https://open.spotify.com/album/1BMXPORYXkdUNmkPrUow1z) | 2:05 | 2024-10-26 |  |
 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 | 2024-05-24 | 2024-07-19 |
 | [Double Tragedy \- A COLORS SHOW](https://open.spotify.com/track/45LnuVmnymxokS3QNGJlrN) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy \- A COLORS SHOW](https://open.spotify.com/album/2qB5xtNmOWlJGCNGDQo11B) | 2:45 | 2024-05-17 | 2024-05-25 |
 | [Doubt](https://open.spotify.com/track/2L0goMgNORVfof0S2ULaqm) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Doubt](https://open.spotify.com/album/0S9vPSM57NuSvEMj3QV7Ni) | 3:02 | 2024-02-24 | 2024-04-13 |
@@ -849,7 +850,7 @@
 | [Far Away](https://open.spotify.com/track/3tDAxa9V0bZlGq4rmbAD9O) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Where Do We Go From Here?](https://open.spotify.com/album/0NnR23e1w5XEVCDaUYXrlP) | 2:35 | 2023-07-14 | 2023-09-16 |
 | [Far Away](https://open.spotify.com/track/15TSeUwFv4YAbtxleSPU7J) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Far Away](https://open.spotify.com/album/0ITMYKdS5PdE1cZ1QNdvLy) | 2:48 | 2024-07-05 | 2024-08-31 |
 | [Far Away](https://open.spotify.com/track/0ZZkO4f9yiXtkndRts6yP5) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Lucky 7](https://open.spotify.com/album/14KJbhk4JG4s3Ez0GSxT7Z) | 2:50 | 2024-09-06 | 2024-10-19 |
-| [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5ZY1qGibLsa2xZm0XUe36g) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/0Ss227Tev7vSTbFtTfIm3y) | 4:07 | 2024-09-13 |  |
+| [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5ZY1qGibLsa2xZm0XUe36g) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/0Ss227Tev7vSTbFtTfIm3y) | 4:07 | 2024-09-13 | 2024-10-27 |
 | [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 | 2023-11-17 | 2024-02-17 |
 | [Fatal Attraction](https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:16 | 2023-03-17 | 2023-05-13 |
 | [Fatal Attraction](https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Fatal Attraction](https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT) | 3:16 | 2023-03-17 | 2023-04-27 |

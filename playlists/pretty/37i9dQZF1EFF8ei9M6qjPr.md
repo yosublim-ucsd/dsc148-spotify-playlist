@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361 likes - 148 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 148 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 17 | [Real Life Sux](https://open.spotify.com/track/60pVjEAPLUQ30hkdfFB0TP) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/3wMQxx61faMQkbUk6uJOtz) | 2:23 |
 | 18 | [IMPRINT](https://open.spotify.com/track/0nFenpZcQjGiEcy4y0EZKT) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [EMOTIONS](https://open.spotify.com/album/5SJtQAJHiRPgXfkp9PrOUN) | 3:00 |
 | 19 | [happiness](https://open.spotify.com/track/4hMcb6afvdD4zdPhGSJkxX) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 3:16 |
-| 20 | [Nightstand](https://open.spotify.com/track/54XN8ydl4ZaUnwr7tBq0JP) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Nightstand](https://open.spotify.com/album/306N9U0AKgh5y5ZZTUbUw5) | 2:41 |
-| 21 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 |
-| 22 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 20 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 21 | [Nightstand](https://open.spotify.com/track/54XN8ydl4ZaUnwr7tBq0JP) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Nightstand](https://open.spotify.com/album/306N9U0AKgh5y5ZZTUbUw5) | 2:41 |
+| 22 | [River](https://open.spotify.com/track/3UrmjZcjcYP3zFUdfWOy46) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [River](https://open.spotify.com/album/7jfhFHdRgOjyDAvIZ4WNL8) | 2:36 |
 | 23 | [Cotton Candy Lemonade](https://open.spotify.com/track/1RfPf0W4OlIWROTV5Afs3S) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Cotton Candy Lemonade](https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ) | 2:26 |
 | 24 | [Buttered Up](https://open.spotify.com/track/1Uue730zlycJb8dN6n6PHz) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Sensational](https://open.spotify.com/album/6xd9phTkcEIsi1JWhbxZM3) | 2:50 |
 | 25 | [Cool Kids](https://open.spotify.com/track/3zBBmQa8L6gCCT8OdptVOi) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/1MsuHTwmnG7Wn2ZQcMp4Uv) | 2:12 |
@@ -114,24 +114,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 104 | [OH MY!](https://open.spotify.com/track/6vX0pfXyDgG34SofgP93Hp) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 3:31 |
 | 105 | [Art Of Letting Go \(feat\. James Gillespie\)](https://open.spotify.com/track/4dt4MyGRdBmpAukq0r5GuX) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Discovery](https://open.spotify.com/album/1PpVHHdTAnWPTWg2v6ERZH) | 3:22 |
 | 106 | [Hollywood Sextape](https://open.spotify.com/track/1qPfbQKFBTKMW1z7CjLA9v) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Jawbreaker](https://open.spotify.com/album/4op5G7mWdKWqsKcTpdFU8a) | 3:31 |
-| 107 | [Bebe](https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Bebe](https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3) | 2:16 |
-| 108 | [Cop A Truck \(with Brantley Gilbert\)](https://open.spotify.com/track/4tlcnOZbBJMxjj1UbLd10S) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:25 |
+| 107 | [Cop A Truck \(with Brantley Gilbert\)](https://open.spotify.com/track/4tlcnOZbBJMxjj1UbLd10S) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 2:25 |
+| 108 | [Bebe](https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Bebe](https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3) | 2:16 |
 | 109 | [Waterfall](https://open.spotify.com/track/3uAqz4hbag8RrL1v2kzgn1) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/4uINqK7mi5spfI23cy5GXx) | 2:59 |
 | 110 | [High School](https://open.spotify.com/track/3aWmJVDmjKtmSCLLjUwJ7r) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [High School](https://open.spotify.com/album/7KhHLIouEPya0k5PGv5gBh) | 2:34 |
 | 111 | [My My](https://open.spotify.com/track/1mXZmBOb4wPusZQ0gUG8Ui) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [The Valley](https://open.spotify.com/album/4P0pCYWGTLTJMzrEFGJ0WM) | 3:02 |
-| 112 | [Turn It Up Slow](https://open.spotify.com/track/4XXErZuhTruaAy5FTa6tYM) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 4:23 |
-| 113 | [What They Say](https://open.spotify.com/track/7aWfmi3wJocJJAvyEkG60Y) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [What They Say](https://open.spotify.com/album/6ODwSrvPYR3Y9sSFSzL3t8) | 2:56 |
+| 112 | [What They Say](https://open.spotify.com/track/7aWfmi3wJocJJAvyEkG60Y) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [What They Say](https://open.spotify.com/album/6ODwSrvPYR3Y9sSFSzL3t8) | 2:56 |
+| 113 | [Turn It Up Slow](https://open.spotify.com/track/4XXErZuhTruaAy5FTa6tYM) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Mighty](https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO) | 4:23 |
 | 114 | [Ways To Go](https://open.spotify.com/track/362mICSCjlQZztf36d0aMN) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Ways To Go](https://open.spotify.com/album/6a7ShVrxXLT6tXUGLaltAT) | 2:35 |
 | 115 | [Hear It In Your Voice](https://open.spotify.com/track/4wfrovc9l7XAwNRHni11y9) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Everyone But Me](https://open.spotify.com/album/3ROBpz7qSXXgERjSzg1hgo) | 2:42 |
-| 116 | [different](https://open.spotify.com/track/3EVVGtFinvatJdxTDMuWN7) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [in case you miss me](https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m) | 2:46 |
-| 117 | [Lie](https://open.spotify.com/track/7mW7RyWitnXmA7mxA0xwMk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Missing Something](https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y) | 2:14 |
+| 116 | [Lie](https://open.spotify.com/track/7mW7RyWitnXmA7mxA0xwMk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Missing Something](https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y) | 2:14 |
+| 117 | [different](https://open.spotify.com/track/3EVVGtFinvatJdxTDMuWN7) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [in case you miss me](https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m) | 2:46 |
 | 118 | [Castle Walls](https://open.spotify.com/track/65uAnHQuEx07zf4gCG7bke) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Castle Walls](https://open.spotify.com/album/6fAuCPNq6dlI7CYfExniA9) | 2:33 |
 | 119 | [love me again](https://open.spotify.com/track/0CAq5PJHoIlDOd4A8oFl6F) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [innocence](https://open.spotify.com/album/2RvkkmSJ8jCNB5JyHNMnek) | 2:25 |
 | 120 | [Patience](https://open.spotify.com/track/0fiYCjGZnZJeTJhuSbvgfC) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Fall 2019](https://open.spotify.com/album/16G3DKTEfM3xPcA09B0Igk) | 2:42 |
 | 121 | [Tomorrow](https://open.spotify.com/track/5tzKLWCUnqi951e5dh8dMy) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Tomorrow](https://open.spotify.com/album/6ohU5Ec3OF69kJQaZIbL4N) | 3:13 |
 | 122 | [closer to thirty](https://open.spotify.com/track/5XL8G3q7SK2HLagmg9d2Y2) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [could the grass be greener](https://open.spotify.com/album/6OIa4oByf8NH0vfKTfM9bX) | 2:24 |
-| 123 | [All My Ex's](https://open.spotify.com/track/6YwowKYQtoEzPm5WOkaTCq) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [All My Ex's](https://open.spotify.com/album/3W3MOJBf28Ic4BFLwUGWcN) | 2:24 |
-| 124 | [indigo](https://open.spotify.com/track/6Uj38GEXvpKQFjkU0bv1Im) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 10](https://open.spotify.com/album/25orBHW7uijdOQi29a8wag) | 2:42 |
+| 123 | [indigo](https://open.spotify.com/track/6Uj38GEXvpKQFjkU0bv1Im) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 10](https://open.spotify.com/album/25orBHW7uijdOQi29a8wag) | 2:42 |
+| 124 | [All My Ex's](https://open.spotify.com/track/6YwowKYQtoEzPm5WOkaTCq) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [All My Ex's](https://open.spotify.com/album/3W3MOJBf28Ic4BFLwUGWcN) | 2:24 |
 | 125 | [wouldn't you agree](https://open.spotify.com/track/09Q5x9qOvt2RJyv2Fepwgv) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [in case you miss me](https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m) | 3:14 |
 | 126 | [Go Bad \- From The Netflix Film “He’s All That"](https://open.spotify.com/track/0KrxLbZ5Ii6o6PmDgcWii8) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [He's All That \(Music From The Netflix Film\)](https://open.spotify.com/album/0Avy6QPpUbn3rJ5f76yimK) | 2:07 |
 | 127 | [Choose Me](https://open.spotify.com/track/3qDAy2y8zRVRNat05q8oDN) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:21 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 147 | [Hurry Up and Let Me Down](https://open.spotify.com/track/5vNIgtRteWg8GvF54Rpz4Z) | [David Alexander](https://open.spotify.com/artist/0Wjw5Ny6h7tYYlwYDLFYiE) | [Hurry Up and Let Me Down](https://open.spotify.com/album/7k08YP0Il6IRpHBF2T24kk) | 2:36 |
 | 148 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 |
 
-Snapshot ID: `AbfwdAAAAAC72bWEF+rDfL1Qm6wPp7Wo`
+Snapshot ID: `Abf2FAAAAABT2CwZhIy7Q/2tfRVFGfQT`

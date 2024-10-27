@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 
 > The biggest songs of the 1960s\. Cover: The Beatles
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,146,333 likes - 150 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,146,633 likes - 150 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

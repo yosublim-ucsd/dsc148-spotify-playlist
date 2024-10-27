@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸 <a href="spotify:artist:0dMc2FDDeU7OzAn5EsYKuU">Østen</a> har nyt album ude❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,471 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,480 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

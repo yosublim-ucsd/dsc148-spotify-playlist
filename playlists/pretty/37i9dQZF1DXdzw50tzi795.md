@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: PP Krit
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,701 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,825 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 21 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/6xUrGOUoBkhE6EVXr5RI70) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
 | 22 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 |
 | 23 | [ผิดตั้งแต่เริ่ม \(ชู้รัก\)](https://open.spotify.com/track/0mHD9bPUsI3qbKZzMpxXFh) | [เล็กสเร็น](https://open.spotify.com/artist/61hVICScGPBw0WmGPqWVRE) | [ผิดตั้งแต่เริ่ม \(ชู้รัก\)](https://open.spotify.com/album/75a6DSvKLy5GWEeFzHZezz) | 3:32 |
-| 24 | [ดิ่งดาวน์ \(DOWN\)](https://open.spotify.com/track/1E9X3arqhhm3woKCQtEv01) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [ดิ่งดาวน์ \(DOWN\)](https://open.spotify.com/album/5EeE1FrNjw9sJdSVRbPH3A) | 3:39 |
+| 24 | [ดิ่งดาวน์](https://open.spotify.com/track/1E9X3arqhhm3woKCQtEv01) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [ดิ่งดาวน์](https://open.spotify.com/album/5EeE1FrNjw9sJdSVRbPH3A) | 3:39 |
 | 25 | [กลับมาเพื่อบอกลา \(Just To Let Me Know\)](https://open.spotify.com/track/36VP0QLf0R3KqcWeyJxuEO) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW) | [กลับมาเพื่อบอกลา \(Just To Let Me Know\) \- Single](https://open.spotify.com/album/2HgDU0bpa2LwPdFpXJLsBL) | 3:34 |
 | 26 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 |
 | 27 | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/track/6JtHYZAi56uJEBc8iihR7j) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [วันที่นาฬิกาของเราหมุนไปพร้อมกัน](https://open.spotify.com/album/0KihRWW2XLQgBILidE9sVK) | 3:43 |

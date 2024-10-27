@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 193087,
       "name": "balance (feat. Myghty Tommy)",
       "url": "https://open.spotify.com/track/3wong0Nt7ajSthDJ8i1Lm6"
@@ -3318,10 +3318,40 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 217445,
       "name": "Bro",
       "url": "https://open.spotify.com/track/7Eedf4Hu7q0Z6fbA6CC3H8"
+    },
+    {
+      "album": {
+        "name": "Bro (V-GOD Remix)",
+        "url": "https://open.spotify.com/album/3Trl1q30sY1qhmDVJPfJ0h"
+      },
+      "artists": [
+        {
+          "name": "OMSB",
+          "url": "https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        },
+        {
+          "name": "VaVa",
+          "url": "https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY"
+        },
+        {
+          "name": "V-GOD",
+          "url": "https://open.spotify.com/artist/0gaEEvM1uWJIudvnrbaCRG"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259768,
+      "name": "Bro (V-GOD Remix)",
+      "url": "https://open.spotify.com/track/4XY4IyRhIPSgKq89LJJXQw"
     },
     {
       "album": {
@@ -7516,7 +7546,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 192857,
       "name": "Free My Bro$",
       "url": "https://open.spotify.com/track/2a757GXFm7NnwSpxLKfeLX"
@@ -10468,6 +10498,24 @@
       "duration_ms": 196000,
       "name": "It's Not A Bad Thing",
       "url": "https://open.spotify.com/track/3usca0GHBr9VnlSF07Fzns"
+    },
+    {
+      "album": {
+        "name": "ITSUDEMO",
+        "url": "https://open.spotify.com/album/1Yi2pBJusY5tFfVHQrawVY"
+      },
+      "artists": [
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "ITSUDEMO",
+      "url": "https://open.spotify.com/track/3l35LgmpJ3RfZP91UJ2qtL"
     },
     {
       "album": {
@@ -24608,7 +24656,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 241089,
       "name": "\u30d8\u30d3\u30fc (feat. DADA & Watson)",
       "url": "https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Leony, G\-Eazy
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,656 likes - 89 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,660 likes - 89 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 62 | [Habits Die Hard](https://open.spotify.com/track/26g2OzgtUAzqKtfsD9IllM) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Habits Die Hard](https://open.spotify.com/album/5CENGgegjpYnStFICccayc) | 3:18 |
 | 63 | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/track/0ykHYUYiltQo6Xcmdq3Tp5) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [SAVE A HORSE, BREAK A HEART](https://open.spotify.com/album/1aRvubQxQHM7IqKnmiJvxE) | 2:54 |
 | 64 | [yellow hearts](https://open.spotify.com/track/7nEkfQ6Oxayd1Q1JrxlmHy) | [Polar](https://open.spotify.com/artist/4BOtJ2vRmZzo6HH6cS63Ju) | [yellow hearts](https://open.spotify.com/album/2SiBmYnCCJ7FtP2AqkXwtx) | 2:20 |
-| 65 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 65 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 66 | [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 |
 | 67 | [Anything](https://open.spotify.com/track/3DHyIisyK1wviEdvlv7biN) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Anything](https://open.spotify.com/album/5ECPvF5Cl3xNHF1IKSReU1) | 2:33 |
 | 68 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |

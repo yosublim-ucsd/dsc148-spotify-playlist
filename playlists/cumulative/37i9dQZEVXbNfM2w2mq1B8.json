@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE"
@@ -6791,6 +6791,24 @@
     },
     {
       "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "album": {
         "name": "Disneyland",
         "url": "https://open.spotify.com/album/711PHoZ8QgG0oboTwCB7f3"
       },
@@ -11458,7 +11476,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
@@ -18056,7 +18074,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -22738,7 +22756,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -31537,6 +31555,28 @@
     },
     {
       "album": {
+        "name": "\u0412\u044f\u0442\u044a\u0440\u0430",
+        "url": "https://open.spotify.com/album/5GghhqIxx10U65WCYa6LCE"
+      },
+      "artists": [
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        },
+        {
+          "name": "The Mystery Of The Bulgarian Voices",
+          "url": "https://open.spotify.com/artist/5cgPZA9muODieZY2hEkDN7"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207083,
+      "name": "\u0412\u044f\u0442\u044a\u0440\u0430",
+      "url": "https://open.spotify.com/track/2KBXfG7eaVy22lc3YgsBlh"
+    },
+    {
+      "album": {
         "name": "\u0411\u041b\u041e\u041a 5",
         "url": "https://open.spotify.com/album/0T1sFR74NGDzFxS8to0n4e"
       },
@@ -32374,7 +32414,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 198580,
       "name": "\u0417\u0430\u043f\u0430\u043b\u043a\u0430\u0442\u0430",
       "url": "https://open.spotify.com/track/1i19URHkO0hfawEtZ9JiwO"
@@ -34488,7 +34528,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 207906,
       "name": "\u041f\u0435\u0441\u0435\u043d \u0437\u0430 \u043d\u0435\u044f",
       "url": "https://open.spotify.com/track/6D9qWyFk2zPqYfTFvOSale"

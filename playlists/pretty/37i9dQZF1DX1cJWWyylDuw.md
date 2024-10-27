@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A mix of the best modern Deathcore tracks\. Cover: Whitechapel
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,695 likes - 200 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,816 likes - 200 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

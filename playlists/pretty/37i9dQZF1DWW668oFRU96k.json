@@ -1,6 +1,6 @@
 {
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Armin van Buuren x Oliver Heldens",
-  "num_followers": 202853,
+  "num_followers": 202871,
   "original_name": "Electro Mix",
   "owner": {
     "name": "Spotify",
@@ -536,12 +536,12 @@
       },
       "artists": [
         {
-          "name": "VEATZ",
-          "url": "https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl"
-        },
-        {
           "name": "Kohey",
           "url": "https://open.spotify.com/artist/5700ea7BYSV4Uv5qEPQDnx"
+        },
+        {
+          "name": "VEATZ",
+          "url": "https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl"
         }
       ],
       "duration_ms": 202514,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Declan McKenna is spoiling us this year 🥂
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,942 likes - 87 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,922 likes - 87 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

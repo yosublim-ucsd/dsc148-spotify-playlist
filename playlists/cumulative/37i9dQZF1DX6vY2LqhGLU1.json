@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Before The Manger",
+        "url": "https://open.spotify.com/album/0igsJgvl3bpRWIB8p6FMGC"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        },
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251478,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/1G7DbHCfOvmqTw51vrZEaZ"
+    },
+    {
+      "album": {
         "name": "Angels We Have Heard On High",
         "url": "https://open.spotify.com/album/5dQjOApHr2xDsYjfmmwCF2"
       },

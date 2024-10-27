@@ -1931,6 +1931,28 @@
     },
     {
       "album": {
+        "name": "Alitheia?!",
+        "url": "https://open.spotify.com/album/257lYQDJzkowQA06qh5FfL"
+      },
+      "artists": [
+        {
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
+        },
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183809,
+      "name": "Alitheia?!",
+      "url": "https://open.spotify.com/track/6gXsFmOt4pMjWXagCTL9AZ"
+    },
+    {
+      "album": {
         "name": "Rackattack",
         "url": "https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3"
       },
@@ -2326,7 +2348,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 213846,
       "name": "Allo",
       "url": "https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5"
@@ -3204,7 +3226,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 188473,
       "name": "Apotoma",
       "url": "https://open.spotify.com/track/0alDILQ9n7nRMfwaifGOIK"
@@ -3226,7 +3248,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
@@ -22224,7 +22246,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 157227,
       "name": "MBAPPE",
       "url": "https://open.spotify.com/track/0MNvjSqNtUCZ4ikxrRe8kz"
@@ -25494,7 +25516,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 213733,
       "name": "No Sleep",
       "url": "https://open.spotify.com/track/5nM5TStrOQt5HQAt4VzyHz"

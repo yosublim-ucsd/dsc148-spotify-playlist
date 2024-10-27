@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Lady Gaga, Summer Walker, Halsey, Addison Rae,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,230,446 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,230,720 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 89 | [Dystopia](https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ) | 3:09 |
 | 90 | [Say Goodbye To Mum And Dad](https://open.spotify.com/track/0s5CpCxuZnyITiWTuSWmxI) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs For A Nervous Planet](https://open.spotify.com/album/2DZInrxWAdqrQueZCkqcr3) | 3:45 |
 | 91 | [Hold Still](https://open.spotify.com/track/1PzAY3nwLxJ1pc27ceNFTj) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Hold Still](https://open.spotify.com/album/0MgpMLfL1RdVqZWztwKu06) | 2:49 |
-| 92 | [CAN YOU BREATHE? \(feat\. Hello Forever\)](https://open.spotify.com/track/08dhHm7TCUsbiPLQgUro5n) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Hello Forever](https://open.spotify.com/artist/0WDAQAjHsUAQviHGWRLrGH) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 2:58 |
+| 92 | [CAN YOU BREATHE?](https://open.spotify.com/track/08dhHm7TCUsbiPLQgUro5n) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [Hello Forever](https://open.spotify.com/artist/0WDAQAjHsUAQviHGWRLrGH) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 2:58 |
 | 93 | [CA$HMERE TEAR$](https://open.spotify.com/track/5WvywljeMsfYjcCSrZguav) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [CA$HMERE TEAR$](https://open.spotify.com/album/4HKTUnrk9UQ6N8Jbd1oDGs) | 4:02 |
 | 94 | [I'm So Happy](https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I'm So Happy](https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s) | 2:26 |
 | 95 | [Questions](https://open.spotify.com/track/3LpmZrDqY7GsCdCYHRqT3n) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Questions / Nightly](https://open.spotify.com/album/1qNj3UHGr6MK1YsC1iBPRY) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Sick Kinda WRLD](https://open.spotify.com/track/7wxmLCxUGZ50DvjgfBSe3J) | [A\. Swayze & The Ghosts](https://open.spotify.com/artist/6rbA09kzdZICoLg7sWbkGd) | [Let's Live a Life Better Than This](https://open.spotify.com/album/0JLA2RsuMaex7jAUhkVMCe) | 3:38 |
 | 100 | [This Party Sucks](https://open.spotify.com/track/62r3cMCWOd8FuAuVU1yJD4) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [This Party Sucks](https://open.spotify.com/album/37Ld8z5zVCOJa4PylMH0B4) | 3:01 |
 
-Snapshot ID: `ZxscEAAAAABANdvJAiu+flRSGjw8CvIh`
+Snapshot ID: `ZxxvCwAAAABYSe4Sr7pJL2Dhr+48sUTz`

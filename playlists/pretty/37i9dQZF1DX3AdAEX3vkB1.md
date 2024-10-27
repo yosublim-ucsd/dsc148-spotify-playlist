@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,469 likes - 145 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,582 likes - 145 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 75 | [Help Me, Rhonda \- Single Version/Remastered 2001](https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Summer Days \(And Summer Nights\) \[Remastered\]](https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0) | 2:48 |
 | 76 | [Georgy Girl](https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm) | [The Seekers](https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV) | [The Seekers](https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4) | 2:20 |
 | 77 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Full Metal Jacket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF) | 2:42 |
-| 78 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 3:42 |
+| 78 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks 1964\-1971](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 3:42 |
 | 79 | [No Milk Today \- Mono Version](https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [A's, B's & EP's](https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9) | 2:54 |
 | 80 | [Jambalaya \(On The Bayou\)](https://open.spotify.com/track/6YS9gh6dxp4rYKWk5jjBDC) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Legends Of Rock n' Roll](https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6) | 2:26 |
 | 81 | [Tell Him \- Single Version](https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B) | [The Exciters](https://open.spotify.com/artist/2GF1B0GIaFrLFLdfH6ufRO) | [Tell Him](https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg) | 2:36 |

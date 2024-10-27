@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 200925,
+  "num_followers": 200939,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAAA6dc7l8AyGXPlOhN3zbuNa",
+  "snapshot_id": "ZxrfgAAAAACMDdAK9p9cNQtRldAFcBvK",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
       "artists": [
         {
@@ -356,13 +356,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 294155,
-      "name": "Surrounded By Holy",
-      "url": "https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7"
+      "duration_ms": 526890,
+      "name": "Champion (Live)",
+      "url": "https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN"
       },
       "artists": [
         {
@@ -396,13 +396,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
         }
       ],
-      "duration_ms": 526890,
-      "name": "Champion (Live)",
-      "url": "https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi"
+      "duration_ms": 294155,
+      "name": "Surrounded By Holy",
+      "url": "https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7"
     },
     {
       "added_at": null,

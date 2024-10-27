@@ -592,10 +592,28 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 190557,
       "name": "BUTTERFLY EFFECT",
       "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
+    },
+    {
+      "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/5qeikHFUgeO8f8HXm8k4cA"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190557,
+      "name": "BUTTERFLY EFFECT",
+      "url": "https://open.spotify.com/track/6xcJyGpfZbuuiequtnlKt4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house 😈😈 featuring Steve Angello
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,144 likes - 125 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,188 likes - 125 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

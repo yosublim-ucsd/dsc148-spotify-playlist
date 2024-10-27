@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZ5bk6qqDSy.md) - [plain]
 
 > Ten hours long continuous white noise to help you relax and let go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,553,557 likes - 230 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,647 likes - 230 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

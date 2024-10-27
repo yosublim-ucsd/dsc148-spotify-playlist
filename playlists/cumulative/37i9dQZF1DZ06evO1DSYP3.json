@@ -465,6 +465,32 @@
     },
     {
       "album": {
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Zion I",
+          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
+    },
+    {
+      "album": {
         "name": "Feel Me?",
         "url": "https://open.spotify.com/album/4DfQgX7FfgG5htM1TvxyuG"
       },

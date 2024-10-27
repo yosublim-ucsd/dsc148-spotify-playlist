@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x?si=wdppI\-fhS1qjt9pyyAggSQ>Judikay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,317 likes - 80 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,383 likes - 80 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

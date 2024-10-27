@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,514,322 likes - 85 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,514,547 likes - 85 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 81 | [風化](https://open.spotify.com/track/1Rkis9FsnVHd43Tdw52yF4) | [Nanashi no Taro](https://open.spotify.com/artist/32xxJA5U8ot0QZPDllZ1po) | [風化](https://open.spotify.com/album/2cPe6RMbaxOBUXiv7hWG7F) | 3:42 |
 | 82 | [Endless Happy\-Ending](https://open.spotify.com/track/7ITqaIWbrZIypAwlrtx4T3) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [Endless Happy\-Ending](https://open.spotify.com/album/3vYoZofiKCs1378cMmjWCM) | 3:50 |
 | 83 | [ツララ](https://open.spotify.com/track/3EUD7BpNjkkhjCl4QqG2SI) | [Yobahi](https://open.spotify.com/artist/0aW4wm7ADVDMFMymRNhEvA) | [ツララ](https://open.spotify.com/album/2SeSQc43By8stPrLZ8gLMH) | 3:39 |
-| 84 | [コラージュ](https://open.spotify.com/track/4CRRK6aFioUrTXpB6jqEtF) | [PUFFYとついでにTOOBOE](https://open.spotify.com/artist/4zIIkfmnZiVKxEuv6NkbqT), [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [コラージュ](https://open.spotify.com/album/2iM76auWZvUbAlG91fKpBT) | 3:47 |
+| 84 | [コラージュ](https://open.spotify.com/track/4CRRK6aFioUrTXpB6jqEtF) | [PUFFYとついでにTOOBOE](https://open.spotify.com/artist/4zIIkfmnZiVKxEuv6NkbqT), [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [コラージュ](https://open.spotify.com/album/2iM76auWZvUbAlG91fKpBT) | 3:10 |
 | 85 | [空色の水しぶき](https://open.spotify.com/track/2dsoizWcyesIMzjNg1SydL) | [僕が見たかった青空](https://open.spotify.com/artist/0ZJdQMcIGWJn4Oh1O5Gku5) | [空色の水しぶき](https://open.spotify.com/album/5SDfubCVCA4hXSVlm8gBEF) | 4:40 |
 
 Snapshot ID: `ZxvuyQAAAADoCtzRXLLEVko/TdwjLPK4`

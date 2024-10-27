@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Chinese American Bear, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,926 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,212,975 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 28 | [Sum Love](https://open.spotify.com/track/1VczlNTqhGoDIEKi1jLCTc) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv) | 2:55 |
 | 29 | [TONGUE TIED](https://open.spotify.com/track/3ucImkDP7641I02x0tCd7G) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [TONGUE TIED](https://open.spotify.com/album/1w6bCEfhnBOPGZVzTo1I48) | 2:33 |
 | 30 | [Before The Kiss](https://open.spotify.com/track/1Ul1vJdGk9gJPJMtZCZBgh) | [Lo Lauren](https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq) | [Before The Kiss](https://open.spotify.com/album/0MvMidNkXZRLAEtoFbIXTE) | 2:17 |
-| 31 | [SAMESAME \(feat\. Izza Gara\)](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME feat\. Izza Gara](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
+| 31 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
 | 32 | [Take A Walk](https://open.spotify.com/track/1Sd05WKDL1UfoFiA1TOW6L) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Take A Walk](https://open.spotify.com/album/5TUPt6XwD9k6gzttJfNMtR) | 2:17 |
 | 33 | [Insecure](https://open.spotify.com/track/6qWvfaLH8W4EBCYEMOYNyk) | [Résa](https://open.spotify.com/artist/4a4GE7G3xZ61pA0SAWS62O) | [Insecure](https://open.spotify.com/album/5q0JB8CNJQWiwNQH1SAwHy) | 3:00 |
 | 34 | [Counting Game](https://open.spotify.com/track/5UVtuPog32DnSO1UUvL2t3) | [Office Culture](https://open.spotify.com/artist/1mI6keuM9rBbs9GdbAHzgr) | [Enough](https://open.spotify.com/album/6QdmpZG60MKR3TtpYX9RwE) | 4:40 |

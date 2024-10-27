@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: AV AV AV
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,625 likes - 103 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,628 likes - 103 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 17 | [8](https://open.spotify.com/track/0rPPmYtouQQIuNa9Wlx7fw) | [ALEA](https://open.spotify.com/artist/3ClSyO6X7HY6Buro8tJ27I) | [8](https://open.spotify.com/album/4FNqABpNWgJyuwHhJJddVu) | 1:54 |
 | 18 | [Not My Fault](https://open.spotify.com/track/3B7HhV2CZoFvFIUtcyHqLm) | [Alexia](https://open.spotify.com/artist/4FaQ3InfdDQoNEW75Bn5Eh) | [Not My Fault](https://open.spotify.com/album/2EBzYE28CYHPJnSVn0K38u) | 2:34 |
 | 19 | [ex\-friends](https://open.spotify.com/track/5Bp8tsuBvmjeduS9oiLvHP) | [jazzygold](https://open.spotify.com/artist/5Qq8xrlwbzl6jaK7qjUl7m) | [ex\-friends](https://open.spotify.com/album/5tVvI5VQml1LzaUV7yk5a1) | 3:17 |
-| 20 | [SAMESAME \(feat\. Izza Gara\)](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME feat\. Izza Gara](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
+| 20 | [SAMESAME](https://open.spotify.com/track/6hw3jKZ8XKQpNYQCdHSxc2) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [SAMESAME](https://open.spotify.com/album/4b5Rv2cbZYV0sdWo34gPb3) | 3:38 |
 | 21 | [Greed \- Radio Edit](https://open.spotify.com/track/5iU0vZYbjDbq6JJiOwe6Af) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Greed \(Radio Edit\)](https://open.spotify.com/album/19l8CyTUsMvhVrDXITgi9V) | 3:30 |
 | 22 | [To Let Things Go](https://open.spotify.com/track/7urLpCIuZHpvuWrGdIFOp2) | [Rakel](https://open.spotify.com/artist/6UK7PrBGajQDo2sWvRtdPR) | [To Let Things Go](https://open.spotify.com/album/2avAO1hXM1yaWFL6H0KTKF) | 2:59 |
 | 23 | [I Wanna Dive in the Seven Seas](https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [I Wanna Dive in the Seven Seas](https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq) | 2:44 |

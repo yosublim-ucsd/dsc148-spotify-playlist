@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 47055,
+  "num_followers": 47061,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAADiGkdduFgDmn/+G3O5toN/",
+  "snapshot_id": "ZxrfgAAAAAB8b7MrIl/3a9WgI8cVgLcD",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "creep",
-      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 208813,
       "name": "almost home",
       "url": "https://open.spotify.com/track/1B4XVCWbQcMQ1wFMLrjjOz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "creep",
+      "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 168200,
-      "name": "myrtle ave.",
-      "url": "https://open.spotify.com/track/5bmpuI2QKQm9TQgc4ObqJL"
+      "duration_ms": 158200,
+      "name": "quiet motions",
+      "url": "https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "myrtle ave.",
+      "url": "https://open.spotify.com/track/5bmpuI2QKQm9TQgc4ObqJL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 158200,
-      "name": "quiet motions",
-      "url": "https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa"
+      "duration_ms": 212093,
+      "name": "lessons",
+      "url": "https://open.spotify.com/track/5kDSSV27L3LxQiqFBW8Agg"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "asking for a friend",
-      "url": "https://open.spotify.com/track/40z4JrjH1eR4ALR90tnZv1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "don't play your card",
         "url": "https://open.spotify.com/album/1TYzvjRwqBNQIy48CDnWRi"
       },
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "asking for a friend",
+      "url": "https://open.spotify.com/track/40z4JrjH1eR4ALR90tnZv1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -860,9 +876,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 212093,
-      "name": "lessons",
-      "url": "https://open.spotify.com/track/5kDSSV27L3LxQiqFBW8Agg"
+      "duration_ms": 169413,
+      "name": "no faker",
+      "url": "https://open.spotify.com/track/0RyLL5AEo53smpSW9bENAt"
     },
     {
       "added_at": null,
@@ -879,22 +895,6 @@
       "duration_ms": 222857,
       "name": "hong kong - revisited",
       "url": "https://open.spotify.com/track/78Su2rZNIx5GHHKQhJkuGE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 146626,
-      "name": "first",
-      "url": "https://open.spotify.com/track/26evQTTVOSgM8yuPm3clND"
     }
   ],
   "unique_name": "This Is mxmtoon",

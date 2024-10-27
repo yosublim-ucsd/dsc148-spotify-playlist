@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 
 > Relax with these timeless tunes\. Cover: Tracy Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,553 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,688 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 | 3 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
 | 4 | [Rocky Mountain High](https://open.spotify.com/track/5tlyFGagMcqqpbqo2jYKU5) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w), [Mike Taylor](https://open.spotify.com/artist/46JtIzqxtxDz0ID3fLoqpQ) | [Rocky Mountain High](https://open.spotify.com/album/26puZuYaa7mdM2Q24lBZ1s) | 4:43 |
 | 5 | [If You Could Read My Mind](https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [If You Could Read My Mind](https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s) | 3:48 |
-| 6 | [Wild Horses](https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 5:42 |
+| 6 | [Wild Horses](https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks 1964\-1971](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 5:42 |
 | 7 | [Longer](https://open.spotify.com/track/56ilrbKJF2bph5W6eZaM5E) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Phoenix](https://open.spotify.com/album/7GnMeBxDvE6wJ4Iu6Xdb2a) | 3:15 |
 | 8 | [Lean on Me](https://open.spotify.com/track/5zCJvrT3C7cIfHsR5iG95l) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Lean on Me: The Best of Bill Withers](https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C) | 4:17 |
 | 9 | [At Seventeen \- Remastered](https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Between the Lines \(Remastered\)](https://open.spotify.com/album/6RjDm4cjV3MFndKrpLUxpO) | 4:43 |

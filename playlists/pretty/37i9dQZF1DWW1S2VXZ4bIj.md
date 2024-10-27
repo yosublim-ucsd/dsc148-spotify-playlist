@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: Mew Suppasit
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,846 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,918 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 1 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 2 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
 | 3 | [Absence \(ช่องว่างหัวใจ\)](https://open.spotify.com/track/5z6QCQ55sTrpQnzlqD4s61) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l) | [Absence \(ช่องว่างหัวใจ\)](https://open.spotify.com/album/5kPWSqBaaiSxbvrzslwcqV) | 3:35 |
 | 4 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 56 | [Loop \(ฉันจึงวนกลับมา\)](https://open.spotify.com/track/0Fye2qtgBqOzHxb4cPSjWb) | [ASIA7](https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz) | [Loop \(ฉันจึงวนกลับมา\) \- Single](https://open.spotify.com/album/05DGgZgqUX2HbssDax9YoL) | 3:50 |
 | 57 | [ลูกคุณหนู](https://open.spotify.com/track/7n8XxOyeEnGBNJ7u5ClhCn) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [ลูกคุณหนู \- Single](https://open.spotify.com/album/57EbfAqOQkxyqeevvBmQCj) | 3:48 |
 | 58 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 |
-| 59 | [ดิ่งดาวน์ \(DOWN\)](https://open.spotify.com/track/1E9X3arqhhm3woKCQtEv01) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [ดิ่งดาวน์ \(DOWN\)](https://open.spotify.com/album/5EeE1FrNjw9sJdSVRbPH3A) | 3:39 |
+| 59 | [ดิ่งดาวน์](https://open.spotify.com/track/1E9X3arqhhm3woKCQtEv01) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [ดิ่งดาวน์](https://open.spotify.com/album/5EeE1FrNjw9sJdSVRbPH3A) | 3:39 |
 | 60 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 |
 | 61 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 |
 | 62 | [กลิ่นไอฝน](https://open.spotify.com/track/5zww7lAbXlB9BDS7EY7jhB) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [กลิ่นไอฝน](https://open.spotify.com/album/0y3fI7uqVbqc7EkWBpTsxS) | 4:06 |

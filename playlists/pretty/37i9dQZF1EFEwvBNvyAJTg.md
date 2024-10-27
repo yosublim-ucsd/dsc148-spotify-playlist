@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55 likes - 168 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 56 likes - 168 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 156 | [Motive](https://open.spotify.com/track/2p4s0gtr3rvRexcKALY8Oa) | [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv) | [State of Mine](https://open.spotify.com/album/4cZD8qhHoQCXXEcIbnZ6gD) | 3:03 |
 | 157 | [Ugly Supermodel](https://open.spotify.com/track/5THjcRgSxBqzldH7OTGXwS) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:25 |
 | 158 | [Heroes](https://open.spotify.com/track/7hZ2EoSYkzmONuIKFHWu4s) | [Tommy Down](https://open.spotify.com/artist/01gw02eOtd3kFn3f3rGlxg) | [21st Century Living](https://open.spotify.com/album/0twHIfNLYeDZ4Q7YAEOhUR) | 3:38 |
-| 159 | [Make Yourself Over](https://open.spotify.com/track/0eLlQCo4q3CcNY8UZ25nzA) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:20 |
-| 160 | [Enjoy Youth](https://open.spotify.com/track/3fBT8ulgB2jVaOr77QEV9u) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 4:11 |
+| 159 | [Enjoy Youth](https://open.spotify.com/track/3fBT8ulgB2jVaOr77QEV9u) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 4:11 |
+| 160 | [Make Yourself Over](https://open.spotify.com/track/0eLlQCo4q3CcNY8UZ25nzA) | [Charles Hamilton](https://open.spotify.com/artist/4jOUE5phvhoCUHQBZ3uMyM) | [Hamilton, Charles](https://open.spotify.com/album/4kz8YKOjc0KA9iOyGUtHSO) | 3:20 |
 | 161 | [Revived](https://open.spotify.com/track/196IEpHnMLllSSIRndFEGX) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Enjoy Youth](https://open.spotify.com/album/1kTEBBjFIMXPNX1x1TkKx6) | 3:15 |
 | 162 | [The Feeling \- Tribute to DJ Fresh and RaVaughn](https://open.spotify.com/track/4uqdGFMvULvi9igshw966M) | [Music Waves](https://open.spotify.com/artist/5T0tLYHuLlEQ9ng3itmnrn) | [The Feeling \- Tribute to DJ Fresh and RaVaughn](https://open.spotify.com/album/75N26cF9ADxQQSbHl0Z4wb) | 4:57 |
 | 163 | [Fantasy](https://open.spotify.com/track/7ycOHP8qG6lfvjc0nx6eSG) | [RoZe](https://open.spotify.com/artist/3FnDrB5pRYfH6sN3FSw3L3) | [Fantasy](https://open.spotify.com/album/39NbYK8IiqbxjySgrqJE8U) | 2:53 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 167 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 168 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AbfwdAAAAADDzcYl9AuBmy+/MMG4H1+d`
+Snapshot ID: `Abf2FAAAAADMeR//U3OP33Z4lLEuVVyF`

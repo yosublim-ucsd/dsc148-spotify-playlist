@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!”「あんスタ」シリーズの楽曲を1つのプレイリストで。© 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,955 likes - 70 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,970 likes - 70 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

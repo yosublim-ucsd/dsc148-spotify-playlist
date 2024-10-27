@@ -4,7 +4,7 @@
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-175 songs - 10 hr 31 min
+176 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Intro](https://open.spotify.com/track/0rw5Wf8pmw9H7xYPsN6iIm) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 1:34 | 2021-12-31 |  |
 | [It's My Life](https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [It's My Life](https://open.spotify.com/album/3uSzlKDimKTw7si5clmqud) | 3:45 | 2022-01-17 |  |
 | [Jaara \(feat\. Medikal\)](https://open.spotify.com/track/5jMI58SeuN7iLfV11eqT4J) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/2wpnYzhgnEsbHSgrtKZAgN) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:01 | 2022-01-04 | 2022-09-17 |
+| [JAILER \(feat\. Victony\)](https://open.spotify.com/track/77ONkiqtYonB8lpKSIbc6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [JAILER \(feat\. Victony\)](https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et) | 3:55 | 2024-10-27 |  |
 | [JEALOUS \(feat\. Ambré\)](https://open.spotify.com/track/3UuP7C0942VjdtQHZi4erQ) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Loick Essien](https://open.spotify.com/artist/5q5CX3rBmPev47aPxEBNti), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [JEALOUS \(feat\. Ambré\)](https://open.spotify.com/album/4owkBc2GpCLoSoncX50jrU) | 2:39 | 2024-07-03 | 2024-09-10 |
 | [Jehovah](https://open.spotify.com/track/3MRQW0T4HCkgOYnrsLa6BV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [This Is Not The Tape, Sorry 4 The Wait II](https://open.spotify.com/album/6tE4MR5d8K84Lz1CewM4P8) | 2:32 | 2023-10-01 | 2024-06-23 |
 | [June July](https://open.spotify.com/track/6JP04ZuKnshngkHsj3LSmP) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [June July + Pharasee](https://open.spotify.com/album/1FC1CyUgPKThUZHEqarOIG) | 3:40 | 2024-07-21 |  |

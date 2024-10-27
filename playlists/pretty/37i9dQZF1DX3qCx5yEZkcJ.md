@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,484,643 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,484,667 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Carpet](https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Hot Water](https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9) | 2:22 |
 | 80 | [MAR](https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [MAR](https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO) | 2:49 |
 
-Snapshot ID: `ZxIkiAAAAAAOW1gYUOrsd3mImcDkGimu`
+Snapshot ID: `ZxxvVQAAAAD4krsOUyodH2ggcqD5Y5Bm`

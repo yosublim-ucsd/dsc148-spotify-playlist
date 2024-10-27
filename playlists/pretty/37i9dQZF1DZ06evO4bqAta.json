@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 525262,
+  "num_followers": 525320,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAACr1xR8dMr4ra9b00aybpOx",
+  "snapshot_id": "ZxrfgAAAAADinqWZxOQNstcTi3GT7Hu6",
   "tracks": [
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 174733,
-      "name": "You're Gonna Make Me Lonesome When You Go",
-      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
+      "duration_ms": 203506,
+      "name": "Buckets of Rain",
+      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Buckets of Rain",
-      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
+      "duration_ms": 174733,
+      "name": "You're Gonna Make Me Lonesome When You Go",
+      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE"
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Mozambique",
-      "url": "https://open.spotify.com/track/1gpQMd0R3blMSn8vhXU0Uu"
+      "duration_ms": 171106,
+      "name": "Love Minus Zero",
+      "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
     }
   ],
   "unique_name": "This Is Bob Dylan",

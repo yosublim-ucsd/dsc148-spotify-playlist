@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tyler Joe Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,601 likes - 206 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,666 likes - 206 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

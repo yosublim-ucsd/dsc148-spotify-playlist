@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 136518,
+  "num_followers": 136533,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABfkFOb6qh5X4d/6+cEMovb",
+  "snapshot_id": "ZxrfgAAAAABJmO/5ot0xTVcg/OXZjfZK",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 285115,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/3SpEJEJtn8EE0EzGY6xDdD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Great Thou Art (Until That Day)",
         "url": "https://open.spotify.com/album/4EHbFG6ALlnX76Hff9Dlgr"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 285115,
-      "name": "Lay Me Down",
-      "url": "https://open.spotify.com/track/3SpEJEJtn8EE0EzGY6xDdD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/72AujkDTGgHNkVcPERPLaE"
       },
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burning Lights",
+        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 218747,
+      "name": "God's Great Dance Floor",
+      "url": "https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 272000,
       "name": "We Fall Down / Agnus Dei - Medley",
       "url": "https://open.spotify.com/track/1mCehTLs3ZlEcoQt0aIGiv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burning Lights",
-        "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 218747,
-      "name": "God's Great Dance Floor",
-      "url": "https://open.spotify.com/track/2nVmKOoqzbHt5YMT3dzLnp"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 280960,
-      "name": "We Fall Down",
-      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
+      "duration_ms": 326960,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 326960,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6ChFsa3xElTTIJAo460out"
+      "duration_ms": 280960,
+      "name": "We Fall Down",
+      "url": "https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa"
     },
     {
       "added_at": null,

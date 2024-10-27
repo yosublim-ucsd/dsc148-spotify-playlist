@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 3928,
+  "num_followers": 3931,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAADTSJm8U53lEpH2+n04/gCD",
+  "snapshot_id": "ZxrfgAAAAADj+JYBWQ3x6JoiNLY7jrSH",
   "tracks": [
     {
       "added_at": null,
@@ -596,6 +596,22 @@
       "added_at": null,
       "album": {
         "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/26qFcFUAotjg3XBh41QI9I"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 191890,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3F1SQU5ktUEFIqRyy9f9PR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Clothes",
         "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
       },
       "artists": [
@@ -607,22 +623,6 @@
       "duration_ms": 159151,
       "name": "Swear",
       "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belongs To The Dead",
-        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 180070,
-      "name": "Danielson",
-      "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Clothes",
-        "url": "https://open.spotify.com/album/26qFcFUAotjg3XBh41QI9I"
+        "name": "Belongs To The Dead",
+        "url": "https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 191890,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/3F1SQU5ktUEFIqRyy9f9PR"
+      "duration_ms": 180070,
+      "name": "Danielson",
+      "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake Death",
-        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 128520,
-      "name": "Fake Death",
-      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
+      "duration_ms": 169840,
+      "name": "Dent",
+      "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balance and Composure & Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+        "name": "Fake Death",
+        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 169840,
-      "name": "Dent",
-      "url": "https://open.spotify.com/track/6Anb5Hz5Z7VvjBtzD3jBMo"
+      "duration_ms": 128520,
+      "name": "Fake Death",
+      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 140426,
-      "name": "Test Pattern",
-      "url": "https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL"
+      "duration_ms": 102186,
+      "name": "Return",
+      "url": "https://open.spotify.com/track/5KljkeqE8yAZT177FApDsC"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 102186,
-      "name": "Return",
-      "url": "https://open.spotify.com/track/5KljkeqE8yAZT177FApDsC"
+      "duration_ms": 140426,
+      "name": "Test Pattern",
+      "url": "https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL"
     }
   ],
   "unique_name": "This Is Tigers Jaw",

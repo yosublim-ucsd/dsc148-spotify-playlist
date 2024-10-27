@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,677 likes - 46 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,719 likes - 46 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 45 | [Shut Up Train \(Collab Version With Kelsea Ballerini\)](https://open.spotify.com/track/4P7kLRQNTPeSP9GyWzrqMT) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Shut Up Train \(Collab Version With Kelsea Ballerini\)](https://open.spotify.com/album/20o9VxiC3QA45Db8NaMTO6) | 3:47 |
 | 46 | [Stilettos](https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:26 |
 
-Snapshot ID: `ZxmOAAAAAACofXHcGCf5C26Gme7VUF0Y`
+Snapshot ID: `ZxrfgAAAAADjbxEU1bji+nnzw4j7ZOSA`

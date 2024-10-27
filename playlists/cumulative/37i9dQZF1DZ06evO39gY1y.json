@@ -1337,6 +1337,28 @@
     },
     {
       "album": {
+        "name": "Rosario / \u201cQue Bueno Es Tenerte\u201d",
+        "url": "https://open.spotify.com/album/7skavgAUpwqlVd1svrsOZI"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194507,
+      "name": "Rosario / \u201cQue Bueno Es Tenerte\u201d",
+      "url": "https://open.spotify.com/track/1Gqbvr9teof5F8vj7aBft4"
+    },
+    {
+      "album": {
         "name": "Saori / \u201cHematomas\u201d",
         "url": "https://open.spotify.com/album/7wBj5k4VscRKGeHGgmKNSL"
       },

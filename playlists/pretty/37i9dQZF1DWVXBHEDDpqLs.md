@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best cuts from the underground, at the heart of club culture 💎💎
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,075 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,113 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 33 | [Black Razz](https://open.spotify.com/track/2zQPemdru2fLGPrgo6Dw1G) | [La Boix](https://open.spotify.com/artist/2ecmFLQHjkBncMCGZ5yQKx), [Thee Mike B](https://open.spotify.com/artist/49nsDhtufKEYcLkIYv5cln), [Salva](https://open.spotify.com/artist/0JQaXh3HoqpI68C2pYUbNW) | [La Boix, Vol\. 1](https://open.spotify.com/album/6tHiZBYqt3Iovas6hTy4ex) | 4:27 |
 | 34 | [Krylon](https://open.spotify.com/track/5DE5Rd22uuo6XxDZN4MkyE) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Krylon](https://open.spotify.com/album/3VdkF0PvW7YXT9ik1LILV1) | 4:55 |
 | 35 | [SEVEN](https://open.spotify.com/track/4hq2k2W3zm4DrXfg1FhYk3) | [Rookley](https://open.spotify.com/artist/5Evlo2ZktsorBYAsxGRtIP) | [SEVEN](https://open.spotify.com/album/2oMhjHz6JIzLH5m0xKDCab) | 4:21 |
-| 36 | [Number \(DJ\-Kicks\)](https://open.spotify.com/track/6oMItEYck563PsDgYkpO0S) | [Steven Julien](https://open.spotify.com/artist/37pVxtkN0BLmY6QOliGkJK) | [Number \(DJ\-Kicks\)](https://open.spotify.com/album/2xomwLXH31AobXFz6OiwRr) | 4:20 |
+| 36 | [Number \(DJ\-Kicks\)](https://open.spotify.com/track/6oMItEYck563PsDgYkpO0S) | [Steven Julien](https://open.spotify.com/artist/37pVxtkN0BLmY6QOliGkJK), [Elli](https://open.spotify.com/artist/6xExDBD54iD2XgvBAcWjG8) | [Number \(DJ\-Kicks\)](https://open.spotify.com/album/2xomwLXH31AobXFz6OiwRr) | 4:20 |
 | 37 | [Picking Flowers](https://open.spotify.com/track/2O3cy7DKdobrA8e0bqrPEI) | [Lake Hills](https://open.spotify.com/artist/5y5zEG94qXEAbvj1kP0SR5) | [Picking Flowers](https://open.spotify.com/album/5PaNphWwcQRzuJR0tLAOvB) | 4:16 |
 | 38 | [Set Me Free](https://open.spotify.com/track/12atuSfWaf6tYJIzTrIm5m) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Set Me Free](https://open.spotify.com/album/1GKR4WM0lPCrvfQK3es05U) | 7:06 |
 | 39 | [Zaga](https://open.spotify.com/track/66vYCvUT2aMhIrkQwOSI0D) | [Jaymie Silk](https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr) | [Zaga](https://open.spotify.com/album/1e0brZnYyw52kK6coqBlNb) | 5:05 |

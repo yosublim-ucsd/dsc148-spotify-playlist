@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,891 likes - 61 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,935 likes - 61 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

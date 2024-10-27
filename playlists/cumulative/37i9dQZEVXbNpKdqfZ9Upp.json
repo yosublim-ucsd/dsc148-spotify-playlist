@@ -4634,7 +4634,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-06",
+      "date_removed": null,
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -5452,7 +5452,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -9381,6 +9381,28 @@
     },
     {
       "album": {
+        "name": "Croketita",
+        "url": "https://open.spotify.com/album/3CjX01NbNniBDmTIhMzWaj"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168300,
+      "name": "Croketita",
+      "url": "https://open.spotify.com/track/2viKn02L839kO9ka0FqCkm"
+    },
+    {
+      "album": {
         "name": "pretty",
         "url": "https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ"
       },
@@ -11642,7 +11664,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 236933,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
@@ -14754,7 +14776,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 194588,
       "name": "Familiar (With J. Balvin)",
       "url": "https://open.spotify.com/track/3o5GtsTSrYQ9AwLvWo2F3X"
@@ -18168,7 +18190,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 187426,
       "name": "History",
       "url": "https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso"
@@ -18980,7 +19002,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -19986,7 +20008,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 186093,
       "name": "It's Going Down Now",
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
@@ -25918,7 +25940,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 234077,
       "name": "Mejores Jordans",
       "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
@@ -27779,7 +27801,7 @@
     },
     {
       "album": {
-        "name": "Moonlit Floor",
+        "name": "Moonlit Floor (Kiss Me)",
         "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
       },
       "artists": [
@@ -27792,7 +27814,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 155757,
-      "name": "Moonlit Floor",
+      "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
@@ -27844,7 +27866,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 229106,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/0UAB340gAcSMk3r0a8PTag"
@@ -35338,7 +35360,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 200400,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1dQQ2QlnvXUehsRUrukKmf"
@@ -40519,6 +40541,24 @@
     },
     {
       "album": {
+        "name": "Tattoo (Spanish Version)",
+        "url": "https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86"
+      },
+      "artists": [
+        {
+          "name": "Kevz",
+          "url": "https://open.spotify.com/artist/1bACqFgiKE47Y61x3I8wdg"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152957,
+      "name": "Tattoo - Spanish Version",
+      "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
+    },
+    {
+      "album": {
         "name": "Tatuados",
         "url": "https://open.spotify.com/album/6LG0MTM1kbEnyBBdzh4dwf"
       },
@@ -42194,7 +42234,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -44394,7 +44434,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 172427,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"

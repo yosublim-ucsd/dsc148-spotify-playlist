@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,805 likes - 100 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,861 likes - 100 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 87 | [COUNT THAT](https://open.spotify.com/track/6ME8wJo4BOKfb1pWoTViVt) | [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic) | [COUNT THAT](https://open.spotify.com/album/4ZeLpdSv8xF1yTqq72ErMv) | 2:12 |
 | 88 | [ego death](https://open.spotify.com/track/6qbc8is05vKFQme1DAkBNs) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [ego death](https://open.spotify.com/album/6LsrYf23dOwqeW7oTh6HoP) | 1:55 |
 | 89 | [GANJA GOBLIN](https://open.spotify.com/track/2C0qiqukMAE9WZjvQB76qH) | [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [GANJA GOBLIN](https://open.spotify.com/album/6U4IaeKOwAnscsbdwEF5vJ) | 2:30 |
-| 90 | [GOTH BUNNY](https://open.spotify.com/track/4S6Sbn7zqcLmkJypGLCZc8) | [PYRXCRIED](https://open.spotify.com/artist/00AZMeo9gIwohb6SoS3IPY), [devilry](https://open.spotify.com/artist/4T35XEfUIeYI76mmnXDI7A), [Killheist](https://open.spotify.com/artist/2AJNzNRDtbRWbCDsf9V09T) | [GOTH BUNNY](https://open.spotify.com/album/2GEc14doWMFYKANEcrDrul) | 2:33 |
+| 90 | [GOTH BUNNY](https://open.spotify.com/track/4S6Sbn7zqcLmkJypGLCZc8) | [PYRXCRIED](https://open.spotify.com/artist/00AZMeo9gIwohb6SoS3IPY), [devilry](https://open.spotify.com/artist/4T35XEfUIeYI76mmnXDI7A), [Killheist](https://open.spotify.com/artist/2AJNzNRDtbRWbCDsf9V09T) | [GOTH BUNNY](https://open.spotify.com/album/2GEc14doWMFYKANEcrDrul) | 2:35 |
 | 91 | [VANDAL](https://open.spotify.com/track/2LkLmsfSfYHcAOGY9TTvgX) | [Doe Slurp](https://open.spotify.com/artist/5zpttOqBXJ20cTZumJvN74), [Netuh](https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG) | [VANDAL](https://open.spotify.com/album/5gTPPFypRVHUn13Z3z17so) | 2:38 |
 | 92 | [Run That](https://open.spotify.com/track/3YXh89Tf0LPFbEcWkTIHbr) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3) | [Run That](https://open.spotify.com/album/4nAd9j2Zz7h6sSKgr9fOJJ) | 1:25 |
 | 93 | [There Goes My Mind](https://open.spotify.com/track/2N5xS8yA9NYU5UTduTpr2l) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [There Goes My Mind](https://open.spotify.com/album/7fwRXiCAcXsWASv4XDzMY6) | 3:38 |

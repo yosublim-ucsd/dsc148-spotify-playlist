@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Miel San Marcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,048 likes - 125 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,061 likes - 125 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 124 | [Allá En Belén](https://open.spotify.com/track/55mnwnY900HnMPGz2Dj0np) | [Daniel Fraire](https://open.spotify.com/artist/1tzaPcz7mhxdgFMlgvWdqF) | [Navidad Con Vástago Vol\. 2](https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0) | 3:02 |
 | 125 | [En Un Establo](https://open.spotify.com/track/6tL9lv4bYKoVzkONXcahw8) | [Pecos Romero](https://open.spotify.com/artist/4DHZAMPvCGmf52B8fI7PvZ) | [Navidad Con Vástago](https://open.spotify.com/album/4LcDiwCmeQcUt4TTUeWGUJ) | 3:33 |
 
-Snapshot ID: `ZxHdQAAAAAD3Goxh2o2yXJvp1n3U+qBD`
+Snapshot ID: `Zx2J9wAAAACjTIeiaQXPpeR/jYh/1X71`

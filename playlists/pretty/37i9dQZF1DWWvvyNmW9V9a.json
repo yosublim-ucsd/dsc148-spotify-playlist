@@ -1,13 +1,61 @@
 {
-  "description": "\ud83d\ude18\ud83d\ude18\ud83d\udcf2",
-  "num_followers": 2150162,
+  "description": "laufey with olivia and chappell?! this is my world series",
+  "num_followers": 2149988,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxsfCwAAAAByfGEz7b7cVRp/5p5WsdRG",
+  "snapshot_id": "Zxxl5AAAAAD6pNbrHO4HpPxUr+ByUfd6",
   "tracks": [
+    {
+      "added_at": "2024-10-09 04:10:07",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
+    },
+    {
+      "added_at": "2024-10-26 03:45:40",
+      "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+    },
+    {
+      "added_at": "2024-10-26 03:45:40",
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 204857,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/4rlQza35DE4Prh5yonxnCs"
+    },
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
@@ -639,7 +687,7 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Generation Numb",
+        "name": "generation numb",
         "url": "https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL"
       },
       "artists": [
@@ -687,7 +735,7 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Moonlit Floor",
+        "name": "Moonlit Floor (Kiss Me)",
         "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
       },
       "artists": [
@@ -697,7 +745,7 @@
         }
       ],
       "duration_ms": 155757,
-      "name": "Moonlit Floor",
+      "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
@@ -923,22 +971,6 @@
       "duration_ms": 206293,
       "name": "Sexy Goodbye",
       "url": "https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5"
-    },
-    {
-      "added_at": "2024-10-09 04:10:07",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "love is embarrassing",
-      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
     },
     {
       "added_at": "2024-10-18 15:10:27",

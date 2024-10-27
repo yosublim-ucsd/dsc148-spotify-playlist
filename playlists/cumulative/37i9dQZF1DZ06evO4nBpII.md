@@ -4,7 +4,7 @@
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 45 min
+104 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [99 Revolutions](https://open.spotify.com/track/3CgT96psOXwPssPNvYPclP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡TRÉ!](https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8) | 3:49 | 2022-01-11 | 2022-10-13 |
 | [Alison \- Demo](https://open.spotify.com/track/4DbANKRc1W9ChH2pWchb58) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Alison \(Demo\)](https://open.spotify.com/album/6YEqa6Rd3McfnhXd2wGiBY) | 2:34 | 2023-01-15 | 2023-05-04 |
 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 | 2022-01-11 |  |
+| [American Idiot \(Alt\. Version\) \- Demo](https://open.spotify.com/track/3tSGHoEd3CKJ9E5OtHKFZ1) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug) | 2:34 | 2024-10-27 |  |
 | [Are We the Waiting / St\. Jimmy](https://open.spotify.com/track/5MqV2o7iLd0lNREZ7SYL05) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 5:38 | 2023-02-21 |  |
 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 | 2022-01-11 |  |
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2022-01-11 |  |

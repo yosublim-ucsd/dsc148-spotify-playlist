@@ -235,6 +235,32 @@
     },
     {
       "album": {
+        "name": "Quem Quer F1 Com o G?",
+        "url": "https://open.spotify.com/album/4fkmsXc6PvWwgNJJ5yzW4E"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Jvila",
+          "url": "https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195572,
+      "name": "300 no 7",
+      "url": "https://open.spotify.com/track/6YdJ2jJOo143KhXT9qvQVe"
+    },
+    {
+      "album": {
         "name": "300 no 7",
         "url": "https://open.spotify.com/album/5CHFMrb9SUSjeBiqParhYB"
       },
@@ -258,7 +284,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 195572,
       "name": "300 no 7",
       "url": "https://open.spotify.com/track/3ODUgIaqdpkMXXlsH1kDLh"
@@ -332,7 +358,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 170009,
       "name": "4 Enganados",
       "url": "https://open.spotify.com/track/51K1IJUjukRNYOqTqo596Z"
@@ -2378,7 +2404,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 161798,
       "name": "Arriadin por Tu - Ao Vivo",
       "url": "https://open.spotify.com/track/1R4g4jxHARgfesI2g9H59g"
@@ -3668,7 +3694,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -5300,7 +5326,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 141230,
       "name": "Clack Bum",
       "url": "https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W"
@@ -7276,6 +7302,24 @@
       "duration_ms": 125557,
       "name": "Disco Arranhado - Funk Remix",
       "url": "https://open.spotify.com/track/2Gjt4rUHBUH0rMKpBg0hF4"
+    },
+    {
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
     },
     {
       "album": {
@@ -9370,7 +9414,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 154734,
       "name": "Eu Vou Sentar - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/2pilqAMqJMjbIQSnQVNdMv"
@@ -12028,7 +12072,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 155368,
       "name": "Imagina esse Cen\u00e1rio",
       "url": "https://open.spotify.com/track/2fjqfFUq64thFsqfKN01kS"
@@ -16322,7 +16366,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-24",
+      "date_removed": null,
       "duration_ms": 162190,
       "name": "Mulher Foda - Ao Vivo",
       "url": "https://open.spotify.com/track/0GbvYZsvz7bWyijBDESebX"
@@ -17216,7 +17260,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 172727,
       "name": "Novinha do TKT",
       "url": "https://open.spotify.com/track/6SfcAUMXsi6eW6vZki5tC5"
@@ -19474,7 +19518,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 153466,
       "name": "Pira\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/00hbGsdy4tMD2R0Y5n5E0C"
@@ -22004,7 +22048,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 172091,
       "name": "SE ARREPENDIMENTO MATASSE - Ao Vivo",
       "url": "https://open.spotify.com/track/5pmQRsVD9qPoF4VXoITPUC"
@@ -23138,7 +23182,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 160885,
       "name": "Sombra Desconhecida - Ao Vivo",
       "url": "https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk"
@@ -24470,7 +24514,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
@@ -27086,7 +27130,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 161312,
       "name": "Wi-Fi - Ao Vivo",
       "url": "https://open.spotify.com/track/0S7o4sti5I5CAbbotTUzTM"

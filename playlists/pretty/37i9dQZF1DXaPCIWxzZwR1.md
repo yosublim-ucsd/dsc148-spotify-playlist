@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/><br/>Cover: The Kid LAROI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,861 likes - 98 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296,770 likes - 98 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 9 | [Fantasy](https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Fantasy](https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc) | 3:36 |
 | 10 | [RABBITHOLE](https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [RABBITHOLE](https://open.spotify.com/album/3zxAXVIsNoLPv727sWSqKg) | 2:21 |
 | 11 | [DIRTY LITTLE SECRET](https://open.spotify.com/track/1YLzM2u0jpPxKTcrovSSZP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [DIRTY LITTLE SECRET](https://open.spotify.com/album/5CvA57rVw7Mru6533m6cN6) | 3:34 |
-| 12 | [all i do](https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [Generation Numb](https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL) | 2:44 |
+| 12 | [all i do](https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [generation numb](https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL) | 2:44 |
 | 13 | [No Genius](https://open.spotify.com/track/7K1NTN2YI7ss0aENvjOmsO) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS), [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [No Genius](https://open.spotify.com/album/3vgJpjbFHVCK5bRSv6bZG5) | 2:51 |
 | 14 | [Meant To Be](https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 2:28 |
 | 15 | [Baby OG](https://open.spotify.com/track/576C4UPQH8PgacOTLaDByI) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [TRENCH](https://open.spotify.com/album/3OHhCA38DhT7rBXa5Ea4go) | 3:31 |

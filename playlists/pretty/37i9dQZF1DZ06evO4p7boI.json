@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95194,
+  "num_followers": 95200,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABCZOJWkO/10R/j5AQH6pHA",
+  "snapshot_id": "ZxrfgAAAAABJ4IjJIV+yW2SOGXhwM9a2",
   "tracks": [
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "Glow Up",
+      "url": "https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 177026,
       "name": "Perfect Timing (Intro)",
       "url": "https://open.spotify.com/track/5Od0M7jp6IODTPW0cygHgu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RECKLESS",
-        "url": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "Glow Up",
-      "url": "https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M"
     },
     {
       "added_at": null,

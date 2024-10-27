@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 92569,
+  "num_followers": 92581,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABIxpq2MtEnaAhvMvJxm02S",
+  "snapshot_id": "ZxrfgAAAAABkEZZ+zxIgu93ifuL80Yci",
   "tracks": [
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigues Siendo Dios",
-        "url": "https://open.spotify.com/album/293bvHB3kPSoXVHbar9zqb"
+        "name": "Lo Mejor de Instrumentales",
+        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 276333,
-      "name": "Alabemos",
-      "url": "https://open.spotify.com/track/3nv4qhv3WXpIzOpRryt7O5"
+      "duration_ms": 231601,
+      "name": "Tu Fidelidad",
+      "url": "https://open.spotify.com/track/5zh9x8OxWAySBxWhvTDBW2"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+        "name": "Sigues Siendo Dios",
+        "url": "https://open.spotify.com/album/293bvHB3kPSoXVHbar9zqb"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 231601,
-      "name": "Tu Fidelidad",
-      "url": "https://open.spotify.com/track/5zh9x8OxWAySBxWhvTDBW2"
+      "duration_ms": 276333,
+      "name": "Alabemos",
+      "url": "https://open.spotify.com/track/3nv4qhv3WXpIzOpRryt7O5"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigues Siendo Dios (En Vivo)",
-        "url": "https://open.spotify.com/album/053ovbmjuMUiTEQ6QKAfm5"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 286933,
-      "name": "Sigues Siendo Dios - En Vivo",
-      "url": "https://open.spotify.com/track/7ixh37GsLjSFgUuZpt77eX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor de Instrumentales",
         "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 203206,
       "name": "Tu amor por Mi",
       "url": "https://open.spotify.com/track/2bWQuqMF3uxDIzTi1DRjXT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sigues Siendo Dios (En Vivo)",
+        "url": "https://open.spotify.com/album/053ovbmjuMUiTEQ6QKAfm5"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 286933,
+      "name": "Sigues Siendo Dios - En Vivo",
+      "url": "https://open.spotify.com/track/7ixh37GsLjSFgUuZpt77eX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,595 likes - 88 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,597 likes - 88 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 66 | [My Way](https://open.spotify.com/track/4sLYSy4ELZjFq0LbPDj6nh) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:29 |
 | 67 | [Rendezvous \(feat\. Leon Thomas\)](https://open.spotify.com/track/1c5h0GIyMexX7pMpc3hg1I) | [Kronic](https://open.spotify.com/artist/2V30V0HJG5k0FKh3Zd3UnH), [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce) | [Rendezvous \(feat\. Leon Thomas\)](https://open.spotify.com/album/7pOH9q0rAjdCKAXlWY9wnZ) | 3:28 |
 | 68 | [Mean It](https://open.spotify.com/track/7B4XVwdxXFJ3yzz2BtJPmf) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 2:24 |
-| 69 | [The Get Down](https://open.spotify.com/track/7jWGjydjIZSA1tsGtWW4mF) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases II \- EP](https://open.spotify.com/album/298YQLbdm8HlKXbh0uXKxN) | 3:29 |
-| 70 | [Sweep It Up](https://open.spotify.com/track/2zrR38kgXUVkMDaaIYqZ3t) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Sweep It Up](https://open.spotify.com/album/5VgyQ6VrRVu3XmDlVRr7hY) | 3:17 |
+| 69 | [Sweep It Up](https://open.spotify.com/track/2zrR38kgXUVkMDaaIYqZ3t) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Sweep It Up](https://open.spotify.com/album/5VgyQ6VrRVu3XmDlVRr7hY) | 3:17 |
+| 70 | [The Get Down](https://open.spotify.com/track/7jWGjydjIZSA1tsGtWW4mF) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Phases II \- EP](https://open.spotify.com/album/298YQLbdm8HlKXbh0uXKxN) | 3:29 |
 | 71 | [Rich Shit](https://open.spotify.com/track/29uJqsQwlbLKA797fTo4hi) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Cheater](https://open.spotify.com/album/62lnNIiyfmRak3vHQL89zV) | 2:20 |
 | 72 | [Don't 4get](https://open.spotify.com/track/6955Y2FCvRBBXl06Qq0fh8) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:18 |
 | 73 | [Blue Hundreds](https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:44 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 87 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 88 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AbfwVgAAAACf8czJIwbhqxffm2M7D86B`
+Snapshot ID: `Abf2FQAAAADD6CbzOlC2DL7bLz4zpdoz`

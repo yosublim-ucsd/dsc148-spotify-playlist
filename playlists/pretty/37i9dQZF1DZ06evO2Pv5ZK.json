@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 106856,
+  "num_followers": 106877,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAADkO5ANVDqAHd8esvGvkBLw",
+  "snapshot_id": "ZxrfgAAAAAB6QbpgZv/z8hAjfSdz0Hpu",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 372680,
-      "name": "Songs of the Seas",
-      "url": "https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Opera sauvage (Remastered)",
         "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 300773,
       "name": "L'enfant - Remastered",
       "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 372680,
+      "name": "Songs of the Seas",
+      "url": "https://open.spotify.com/track/0arhGtmkHcZTlwhAurRUF2"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "La mort du loup - Remastered",
+      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 239133,
       "name": "Titans",
       "url": "https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L'apocalypse des animaux (Remastered)",
-        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "La mort du loup - Remastered",
-      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Across the Mountains",
-      "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 340426,
       "name": "Memories of Blue",
       "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Across the Mountains",
+      "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 95666,
-      "name": "Young Alexander",
-      "url": "https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 331426,
       "name": "12 O'Clock",
       "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 95666,
+      "name": "Young Alexander",
+      "url": "https://open.spotify.com/track/4VoqLzKRCYB7Sd1ZOlpNzK"
     },
     {
       "added_at": null,

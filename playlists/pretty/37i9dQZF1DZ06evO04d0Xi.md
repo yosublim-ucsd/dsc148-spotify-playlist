@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,276 likes - 50 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,290 likes - 50 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 15 | [Suas Digitais](https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:50 |
 | 16 | [Coração que Sangra](https://open.spotify.com/track/41AZy4CW6HyXc3eBG3S16J) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 4:23 |
 | 17 | [Rasgando o Coração](https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Liberta\-me](https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT) | 5:01 |
-| 18 | [Apenas um Toque](https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas um Toque](https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel) | 7:00 |
-| 19 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 |
+| 18 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 |
+| 19 | [Apenas um Toque](https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas um Toque](https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel) | 7:00 |
 | 20 | [Não é Tarde](https://open.spotify.com/track/1FrncXJGmRTpAGksXoR9k8) | [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 5:24 |
 | 21 | [Aos Teus Pés](https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 3:32 |
-| 22 | [O Deserto Vale Ouro \(feat\. Fernanda Brum\)](https://open.spotify.com/track/5kMfmB02ngkeIwfI9FgXxZ) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Pra Me Alegrar](https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l) | 4:01 |
-| 23 | [Desciende](https://open.spotify.com/track/3Yz6iMlTsghB92Qy06XcPj) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Atmosfera](https://open.spotify.com/album/3edUQbB5rV3udn3miMBa7a) | 6:17 |
-| 24 | [Puro Nardo](https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas um Toque](https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel) | 4:49 |
-| 25 | [Feliz De Vez](https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Feliz De Vez](https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO) | 4:39 |
+| 22 | [Feliz De Vez](https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Feliz De Vez](https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO) | 4:39 |
+| 23 | [O Deserto Vale Ouro \(feat\. Fernanda Brum\)](https://open.spotify.com/track/5kMfmB02ngkeIwfI9FgXxZ) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Pra Me Alegrar](https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l) | 4:01 |
+| 24 | [Desciende](https://open.spotify.com/track/3Yz6iMlTsghB92Qy06XcPj) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Atmosfera](https://open.spotify.com/album/3edUQbB5rV3udn3miMBa7a) | 6:17 |
+| 25 | [Puro Nardo](https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas um Toque](https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel) | 4:49 |
 | 26 | [Alguém](https://open.spotify.com/track/4U1p9bONY3EWkPhk7Vb8Gt) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Alguém](https://open.spotify.com/album/4FOLCFEUgdKB8jH7Z1JNa3) | 3:49 |
 | 27 | [Alto Preço \- Ao Vivo](https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI) | [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Sóstenes Mendes](https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb) | [Rastros de Amor \(ao Vivo\)](https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF) | 4:22 |
 | 28 | [Adorai, Adonai](https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 5:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 49 | [És Real pra Mim](https://open.spotify.com/track/2hsERnD409nL9T06rhZC01) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [És Real Pra Mim](https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A) | 5:34 |
 | 50 | [Vinho e Pão](https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Paixão de Cristo \- O Musical](https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO) | 3:13 |
 
-Snapshot ID: `ZxmOAAAAAACErxreOHdb+qpsq45HHaqc`
+Snapshot ID: `ZxrfgAAAAACbEvjE6D1QPsEtQRXNvcq3`

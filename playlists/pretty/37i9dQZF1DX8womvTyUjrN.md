@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Sofía Valdés
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,638 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,652 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 25 | [Limón](https://open.spotify.com/track/3Q9nmP7ACk4UG5Ld6D6sYd) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Limón](https://open.spotify.com/album/47VgL6B4zheqaAtnPd5MCo) | 2:27 |
 | 26 | [Te Hice Un Reggae](https://open.spotify.com/track/55pb3ivPdoG9pk3MY3jQDy) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Te Hice Un Reggae](https://open.spotify.com/album/6vfx7UDOvo3Smffaygj88x) | 2:48 |
 | 27 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 |
-| 28 | [Trailer](https://open.spotify.com/track/1Xo00Mhz7PP0lMM92sDFYw) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Trailer](https://open.spotify.com/album/0o2qgb4mqnDjoaspZsgRXN) | 2:51 |
+| 28 | [Trailer](https://open.spotify.com/track/1Xo00Mhz7PP0lMM92sDFYw) | [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Trailer](https://open.spotify.com/album/0o2qgb4mqnDjoaspZsgRXN) | 2:51 |
 | 29 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
 | 30 | [X si acaso quieres regresar](https://open.spotify.com/track/3jaaUIKt4oJgLyDPl0bmSq) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf), [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [X si acaso quieres regresar](https://open.spotify.com/album/6fHcrGdPaJ0H2N1kWM7lqP) | 2:19 |
 | 31 | [LA NOSTALGIA](https://open.spotify.com/track/3kezPeLt6ePJAj9Q7ZfqRO) | [Ainoa Buitrago](https://open.spotify.com/artist/4K2wdPQkTRDesavmN66Zk7) | [LA NOSTALGIA](https://open.spotify.com/album/09F4Y5cIGGhx9VqmwWcPZV) | 2:59 |

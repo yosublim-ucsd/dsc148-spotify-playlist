@@ -4,7 +4,7 @@
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-114 songs - 8 hr 11 min
+115 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG) | 4:24 | 2022-01-11 |  |
 | [Fire](https://open.spotify.com/track/0Tk2agqmwJajtoX6sCxngb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Promise](https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9) | 4:08 | 2022-01-11 | 2024-07-02 |
 | [From Small Things \(Big Things One Day Come\) \- Live at Malieveld, The Hague, Holland \- 06/14/2016](https://open.spotify.com/track/5Nt0z9i8Can8wyQ28D7v6Y) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs From Around The World Vol\. 2](https://open.spotify.com/album/7Mz0fvTwK8aGTXxWmgqPDz) | 4:42 | 2024-05-19 | 2024-06-09 |
-| [Ghosts](https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 5:54 | 2022-01-11 |  |
+| [Ghosts](https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 5:54 | 2022-01-11 | 2024-10-27 |
+| [Ghosts \- Live at Amalie Arena, Tampa, FL \- 2/1/2023](https://open.spotify.com/track/6rlgoNpLL6cw0DMuR129RU) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Bruce Springsteen & The E Street Band \- Road Diary](https://open.spotify.com/album/68vmTrzCatCqV4oTrjwbZy) | 6:05 | 2024-10-27 |  |
 | [Girls In Their Summer Clothes](https://open.spotify.com/track/5kVSDFEAqgjKtcD6tRvRzY) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Magic](https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z) | 4:19 | 2022-05-22 | 2022-11-14 |
 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 | 2022-01-11 |  |
 | [Growin' Up](https://open.spotify.com/track/4Gpao0RtOcrBuedyutJWaP) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greetings from Asbury Park, N.J.](https://open.spotify.com/album/4hQ5RfHzq1SGJNfZWrpg7C) | 3:04 | 2023-01-10 | 2023-02-19 |
@@ -72,7 +73,7 @@
 | [Nightshift](https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nightshift](https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc) | 4:56 | 2022-10-16 | 2022-11-27 |
 | [No Surrender](https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:00 | 2023-05-08 | 2024-10-20 |
 | [Odds of the Blues \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/0YCD9YcNh21iv1jtPQTCFI) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Odds of the Blues \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/0CqeZmRT6JPSUdOISx2tmv) | 4:24 | 2024-06-03 | 2024-06-14 |
-| [One Minute You're Here](https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 2:57 | 2022-01-11 | 2024-07-06 |
+| [One Minute You're Here](https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Letter To You](https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh) | 2:57 | 2022-01-11 |  |
 | [One Step Up](https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 4:21 | 2022-01-11 |  |
 | [Only the Strong Survive](https://open.spotify.com/track/6at33NMZgSJIp7jNoCuTd7) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Only the Strong Survive](https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn) | 2:59 | 2022-11-12 | 2023-01-01 |
 | [Out In the Street](https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 4:17 | 2022-01-12 |  |

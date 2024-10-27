@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,330 likes - 300 songs - 20 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,322 likes - 300 songs - 20 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

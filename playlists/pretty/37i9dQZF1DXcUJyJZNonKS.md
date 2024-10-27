@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 > A brand new anime season has arrived! Check back often to discover your next favorite fall anime tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,826 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,895 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 30 | [Tactics](https://open.spotify.com/track/69Ot57bySGhha8gHmF8euX) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4), [SAIKI](https://open.spotify.com/artist/2tUlHscr9Awaf6hRvblPLb) | [Tactics](https://open.spotify.com/album/1wXE1JyvTVUQJN3CM2eGYI) | 3:34 |
 | 31 | [Side U \(Prod\. AmPm\) \- TV size ver.](https://open.spotify.com/track/7BDnFT41IDJr6aUVYrsYDv) | [Himika Akaneya](https://open.spotify.com/artist/4TDDISoY3TSX4gninvaW8h), [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Side U \(Prod\. AmPm\) \[TV size ver.\]](https://open.spotify.com/album/6fDB5QnZnrZKPCnSpKvoWJ) | 1:29 |
 | 32 | [なに笑ろとんねん](https://open.spotify.com/track/338f1qcV7jDJboTVikqE4i) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [なに笑ろとんねん](https://open.spotify.com/album/6TFFsJk92gkc8XtO5X0BST) | 3:07 |
-| 33 | [コラージュ](https://open.spotify.com/track/4CRRK6aFioUrTXpB6jqEtF) | [PUFFYとついでにTOOBOE](https://open.spotify.com/artist/4zIIkfmnZiVKxEuv6NkbqT), [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [コラージュ](https://open.spotify.com/album/2iM76auWZvUbAlG91fKpBT) | 3:47 |
+| 33 | [コラージュ](https://open.spotify.com/track/4CRRK6aFioUrTXpB6jqEtF) | [PUFFYとついでにTOOBOE](https://open.spotify.com/artist/4zIIkfmnZiVKxEuv6NkbqT), [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [コラージュ](https://open.spotify.com/album/2iM76auWZvUbAlG91fKpBT) | 3:10 |
 | 34 | [Liberation](https://open.spotify.com/track/0KvnRd91T7gWADBgSTrKJq) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [Liberation](https://open.spotify.com/album/7a7W2ajUEaZLUPbTYYigKm) | 3:52 |
 | 35 | [ROCK ME KISS ME \- feat\. MOTSU](https://open.spotify.com/track/35GWJ7WAeSsMHDDpFvJYYK) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP), [motsu](https://open.spotify.com/artist/0pZo9IfX38NN78vI3ru3Lk) | [ROCK ME KISS ME \(feat\. MOTSU\)](https://open.spotify.com/album/7vuwwNArX7RXXYbzNDawt0) | 3:55 |
 | 36 | [しあわせえぼりゅ～しょん♡ ～こむぎ＆いろはVer.～](https://open.spotify.com/track/4tlhanveDT1PSkcObablNG) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV), [後本萌葉](https://open.spotify.com/artist/7ibiDlu55lnB2tumGzajcc), [わんだふるぷりきゅあ！](https://open.spotify.com/artist/4eCEDhxN1YKL8KxRwzc3el) | [わんだふるぷりきゅあ！ 後期主題歌シングル【通常盤】](https://open.spotify.com/album/59T7BAUTd6LuzPkBeJbqI3) | 3:51 |

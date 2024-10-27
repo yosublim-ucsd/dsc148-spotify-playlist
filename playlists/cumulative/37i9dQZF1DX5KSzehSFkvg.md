@@ -2,7 +2,7 @@
 
 ### [Top Maghreb Pop](https://open.spotify.com/playlist/37i9dQZF1DX5KSzehSFkvg)
 
-> Les meilleurs hits de la pop maghrébine\. Cover: Manal
+> Les meilleurs hits de la pop maghrébine\. Cover: Douaa Lahyaoui
 
 151 songs - 8 hr 15 min
 

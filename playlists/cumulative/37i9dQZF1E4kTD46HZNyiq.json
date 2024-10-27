@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "A Dream Through Open Eyes",
+        "url": "https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204040,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy"
+    },
+    {
+      "album": {
         "name": "Young Mister",
         "url": "https://open.spotify.com/album/0S5aw61RjWIoRCeeDuPdp4"
       },
@@ -5000,7 +5018,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 221624,
       "name": "Craving",
       "url": "https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd"
@@ -5508,7 +5526,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 155224,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/5T6HL1eFT1CG27YQpiNWsQ"
@@ -8192,7 +8210,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Freezing Blue",
       "url": "https://open.spotify.com/track/7xRBmiQpqZG3MDnHAbTAKh"
@@ -10902,6 +10920,24 @@
       "duration_ms": 243187,
       "name": "I Wish That You Would",
       "url": "https://open.spotify.com/track/2vsm98u08CG2g7ZoFwmeG0"
+    },
+    {
+      "album": {
+        "name": "A Dream Through Open Eyes",
+        "url": "https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243187,
+      "name": "I Wish That You Would",
+      "url": "https://open.spotify.com/track/6fvbcLqImwREQb1l3h5yOg"
     },
     {
       "album": {
@@ -14372,7 +14408,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 207303,
       "name": "Memories",
       "url": "https://open.spotify.com/track/3lNADf2oo04nn8KZDpRb9e"
@@ -16460,7 +16496,7 @@
       ],
       "date_added": "2022-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Olympia",
       "url": "https://open.spotify.com/track/2ujg7mbti0S8Z1Kj1Uu31H"
@@ -17136,7 +17172,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 211613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
@@ -17494,7 +17530,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 187250,
       "name": "Plans",
       "url": "https://open.spotify.com/track/20FoD7SUV9MIo031ajcuvF"
@@ -17784,7 +17820,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 203600,
       "name": "Put Your Money On Me",
       "url": "https://open.spotify.com/track/0m0WnrSwoiH9cJe0ZxnkfT"
@@ -18234,7 +18270,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 240532,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/7zO6KQDrxDwhJqE6goQ5s7"
@@ -20740,7 +20776,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 280093,
       "name": "Surefire",
       "url": "https://open.spotify.com/track/3GI0wyLTnmq8RgeosaG54Z"

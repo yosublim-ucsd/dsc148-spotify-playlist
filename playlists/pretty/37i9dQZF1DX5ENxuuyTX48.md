@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Regina Song, hongjoin
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,417 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,442 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 5 | [Salty](https://open.spotify.com/track/5TiqVCKHsS0FXwGthlvNPp) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Salty](https://open.spotify.com/album/5LTkimFhjhEAsjHnIrOEre) | 2:12 |
 | 6 | [RECKLESS](https://open.spotify.com/track/2aKOHXO2JQG9m7BImL7b0e) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti), [Rai Anvio](https://open.spotify.com/artist/6y4WbKZooQzBGNHGDsEG0u) | [RECKLESS](https://open.spotify.com/album/4zGdm3XwogvJ62gxsSeM77) | 3:56 |
 | 7 | [Good With That](https://open.spotify.com/track/73hmnv8KR7sujKP0hbKEBd) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Good With That](https://open.spotify.com/album/5QPaLW7l4vqGjz6eVAU0un) | 1:55 |
-| 8 | [No Turning Back](https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [No Turning Back](https://open.spotify.com/album/4lCdkCWOmYNJWdfiRU4Bof) | 4:12 |
+| 8 | [No Turning Back](https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [No Turning Back](https://open.spotify.com/album/4lCdkCWOmYNJWdfiRU4Bof) | 4:07 |
 | 9 | [123](https://open.spotify.com/track/31XKpctltJP4KfBjbnkNVq) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq), [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc) | [123](https://open.spotify.com/album/7CXrO5ZNxfiFd8tO3Fdvxv) | 2:49 |
 | 10 | [BUKIT BINTANG](https://open.spotify.com/track/4Of5JPjcIxFEXOfOnovH1a) | [Tarrarin](https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f) | [BUKIT BINTANG](https://open.spotify.com/album/3EdLgSYC680ajncQZlnUms) | 3:33 |
 | 11 | [Nak Buat Cane?](https://open.spotify.com/track/369PVMSWuwJbWk4bUvest6) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [Nak Buat Cane?](https://open.spotify.com/album/49Ro1iIjClqviZCBsacGoP) | 2:58 |

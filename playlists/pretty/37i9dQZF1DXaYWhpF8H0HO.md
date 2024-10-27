@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Asteriska
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,833 likes - 96 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,836 likes - 96 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 20 | [Hallucinating](https://open.spotify.com/track/1mcRI934kP0AFik3aSl8Yy) | [Helma Namira](https://open.spotify.com/artist/1xzJWprX9mAvTxIUbEaUS1) | [Hallucinating](https://open.spotify.com/album/5S1Um41uYuVKOpMBcI8z1i) | 4:53 |
 | 21 | [so much to say in this road](https://open.spotify.com/track/6LLjhhhjf8wwjYs26ivEgr) | [AneeSa](https://open.spotify.com/artist/2pNvaqWpANQG0LphogYOtM) | [so much to say](https://open.spotify.com/album/2irR1pTNBD966o7TcgJ2mV) | 3:14 |
 | 22 | [Wings](https://open.spotify.com/track/1fq3bgqIetBC9V6EaIENST) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Anna Leeworthy](https://open.spotify.com/artist/262vJxKmW2Xlpl93qaln8W) | [Wings](https://open.spotify.com/album/3l0kuT9Ny5DUhFMyKkdY9N) | 3:35 |
-| 23 | [No Turning Back](https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [No Turning Back](https://open.spotify.com/album/4lCdkCWOmYNJWdfiRU4Bof) | 4:12 |
+| 23 | [No Turning Back](https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [No Turning Back](https://open.spotify.com/album/4lCdkCWOmYNJWdfiRU4Bof) | 4:07 |
 | 24 | [Ontime](https://open.spotify.com/track/00cKHPOFw2rOoYsKCwMmye) | [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7) | [Ontime](https://open.spotify.com/album/3krCAjtsQ42SfF4Y73GZ3Z) | 3:28 |
 | 25 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 |
 | 26 | [At Least We Tried](https://open.spotify.com/track/4HevrR9k6qc3glD3q9Ru5O) | [Agatha Chelsea](https://open.spotify.com/artist/5ODv2f6HUg3lyBdyJ2zyLX) | [At Least We Tried](https://open.spotify.com/album/39Udvsu01UpF8W4f2A9h2s) | 3:48 |

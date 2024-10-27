@@ -1959,6 +1959,32 @@
     },
     {
       "album": {
+        "name": "Bring Me Home",
+        "url": "https://open.spotify.com/album/3U5DhN2CZXraWl3yr8gfYj"
+      },
+      "artists": [
+        {
+          "name": "LexMorris",
+          "url": "https://open.spotify.com/artist/1IE7Pib3j9e5UDbPer4W6a"
+        },
+        {
+          "name": "Harddope",
+          "url": "https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E"
+        },
+        {
+          "name": "Elle Blue",
+          "url": "https://open.spotify.com/artist/0oYf66lhuY6lT7xB5xSXuO"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138305,
+      "name": "Bring Me Home",
+      "url": "https://open.spotify.com/track/3Z01gZjYKXLfRl4mRBxbqU"
+    },
+    {
+      "album": {
         "name": "Brown Eyed Girl",
         "url": "https://open.spotify.com/album/16zEG3fRYo75oTNtUdcJ3o"
       },
@@ -7931,6 +7957,24 @@
     },
     {
       "album": {
+        "name": "leave this town",
+        "url": "https://open.spotify.com/album/5UPvBQOHC1noZJ80dHYxEP"
+      },
+      "artists": [
+        {
+          "name": "toqsary",
+          "url": "https://open.spotify.com/artist/3Rfb3dvY8LFp0MTNplSlHv"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142904,
+      "name": "leave this town",
+      "url": "https://open.spotify.com/track/4QfdseZuVXjDWUP5XwsZOl"
+    },
+    {
+      "album": {
         "name": "Leaving Me",
         "url": "https://open.spotify.com/album/3y6WIOumon20fOKrFbEBbS"
       },
@@ -8366,7 +8410,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Lingered Love (feat. Courtney Storm)",
       "url": "https://open.spotify.com/track/0ri2rVapK5XjXf2fqkAjJK"

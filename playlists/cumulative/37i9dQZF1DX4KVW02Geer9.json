@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "Al Ponto / Tweet Tweet",
+        "url": "https://open.spotify.com/album/0LrG9kfoh3U2862mU7JmLJ"
+      },
+      "artists": [
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        },
+        {
+          "name": "Jukka Eskola",
+          "url": "https://open.spotify.com/artist/1XkMHQpWReEHMCLatUl0St"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221126,
+      "name": "Al Ponto",
+      "url": "https://open.spotify.com/track/0KvncMYji5nBEBdeJERT0l"
+    },
+    {
+      "album": {
         "name": "All in your palms",
         "url": "https://open.spotify.com/album/3hbsqrwoeGyngqpp2I2GsW"
       },
@@ -284,6 +306,32 @@
       "duration_ms": 326240,
       "name": "Best Left Unsolved - Bonus Track",
       "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
+    },
+    {
+      "album": {
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/2JMdv9JmDvUpQ14Pp9nmEP"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Vasmant",
+          "url": "https://open.spotify.com/artist/0a5lsotyiCdV0xmceU44oN"
+        },
+        {
+          "name": "Emilie Boyd",
+          "url": "https://open.spotify.com/artist/0ZQNy5KGr7GRnwFWJ47w2p"
+        },
+        {
+          "name": "Sonedo",
+          "url": "https://open.spotify.com/artist/4pKpMAxOjsmuIhLCBvXEwN"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386453,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/3gelo6F3S6OfyU1XFLhU1O"
     },
     {
       "album": {
@@ -1220,7 +1268,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 245000,
       "name": "i&i&i",
       "url": "https://open.spotify.com/track/1XjvcMVgiaEhbf8bwSjtfI"
@@ -1729,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "Mandible",
+        "url": "https://open.spotify.com/album/458Knv1njrFor2UyZWY1Zr"
+      },
+      "artists": [
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419060,
+      "name": "Mandible",
+      "url": "https://open.spotify.com/track/09MeHWMDhiEKRvF1JyFT4t"
+    },
+    {
+      "album": {
         "name": "MEBAE",
         "url": "https://open.spotify.com/album/5GonM3oQ2zizSIdu6EVVY3"
       },
@@ -1850,7 +1916,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 197686,
       "name": "Morning Bread",
       "url": "https://open.spotify.com/track/6hvdH8mYINFsY9YtbhD1DU"
@@ -2620,7 +2686,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 285650,
       "name": "T.H.E. feat.JUDY.",
       "url": "https://open.spotify.com/track/0Y5wlmlSkc375C3vpCkFzh"

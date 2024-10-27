@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19414,
+  "num_followers": 19417,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAAAw9QcDTHNz22/83NO5CFb4",
+  "snapshot_id": "ZxrfgAAAAAAvRfXcZuOYFL1UA4QnHXxo",
   "tracks": [
     {
       "added_at": null,
@@ -415,38 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 227194,
-      "name": "I F*ck Wit You Girl",
-      "url": "https://open.spotify.com/track/2u2fseIt359oKZoq6TxM6C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 141586,
-      "name": "Unlimited Budget",
-      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ah'chi",
         "url": "https://open.spotify.com/album/4ktxz9GRn32r4GWaHogUr5"
       },
@@ -467,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
       },
       "artists": [
         {
@@ -476,9 +444,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 287085,
-      "name": "Imma Ride",
-      "url": "https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ"
+      "duration_ms": 141586,
+      "name": "Unlimited Budget",
+      "url": "https://open.spotify.com/track/2HJMz5sKM456DXFNSk8Wz3"
     },
     {
       "added_at": null,
@@ -492,15 +460,15 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 265133,
-      "name": "Get TF Out My Face (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk"
+      "duration_ms": 227194,
+      "name": "I F*ck Wit You Girl",
+      "url": "https://open.spotify.com/track/2u2fseIt359oKZoq6TxM6C"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Forever Goin In",
-        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+        "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
       },
       "artists": [
         {
@@ -508,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 252693,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
+      "duration_ms": 287085,
+      "name": "Imma Ride",
+      "url": "https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ"
     },
     {
       "added_at": null,
@@ -535,6 +503,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forever Goin In",
+        "url": "https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "Get TF Out My Face (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
       },
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 209523,
-      "name": "WWYD",
-      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
+      "duration_ms": 114385,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 114385,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
+      "duration_ms": 209523,
+      "name": "WWYD",
+      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Family & Mula",
+        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 144023,
+      "name": "Krazy",
+      "url": "https://open.spotify.com/track/7xhOLtSMUUfZHTK0QVLFnU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Private Room (feat. Rich Homie Quan) - Single",
         "url": "https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 197720,
       "name": "Private Room",
       "url": "https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family & Mula",
-        "url": "https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 144023,
-      "name": "Krazy",
-      "url": "https://open.spotify.com/track/7xhOLtSMUUfZHTK0QVLFnU"
     },
     {
       "added_at": null,

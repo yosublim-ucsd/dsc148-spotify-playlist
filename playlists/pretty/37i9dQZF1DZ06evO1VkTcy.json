@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21728,
+  "num_followers": 21731,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABBklLSTn3Q04Of0JSku42Z",
+  "snapshot_id": "ZxrfgAAAAAByKVQ69AyiItNHRsysZ9KC",
   "tracks": [
     {
       "added_at": null,
@@ -1191,26 +1191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/3LBARLC0hmHkmowMZs4ZnS"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3LrvMMiGPvKyfosuR1upAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3 Mais Uma Vez",
         "url": "https://open.spotify.com/album/3ZksynPYqm5UAwOC90bXW1"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 187564,
       "name": "S\u00f3 Mais Uma Vez",
       "url": "https://open.spotify.com/track/2QGcSUUq9dKu2DGkTUIDu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/3LBARLC0hmHkmowMZs4ZnS"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3LrvMMiGPvKyfosuR1upAv"
     },
     {
       "added_at": null,
@@ -1255,8 +1255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Mundo Parou",
-        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
       "artists": [
         {
@@ -1264,13 +1264,17 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "DJ Thi Marquez",
+          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
         }
       ],
-      "duration_ms": 223354,
-      "name": "O Mundo Parou",
-      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
+      "duration_ms": 179310,
+      "name": "Ressentimento",
+      "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
     },
     {
       "added_at": null,
@@ -1299,8 +1303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+        "name": "O Mundo Parou",
+        "url": "https://open.spotify.com/album/1WB7QHhc876rkNBgJBo1oU"
       },
       "artists": [
         {
@@ -1308,17 +1312,13 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "DJ Thi Marquez",
-          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 179310,
-      "name": "Ressentimento",
-      "url": "https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll"
+      "duration_ms": 223354,
+      "name": "O Mundo Parou",
+      "url": "https://open.spotify.com/track/6qXQLRHwGMpocPeVvHzG11"
     },
     {
       "added_at": null,

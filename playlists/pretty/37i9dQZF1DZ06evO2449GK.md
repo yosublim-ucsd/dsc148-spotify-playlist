@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,321 likes - 48 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,344 likes - 47 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,6 +55,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 45 | [Las Malas Lenguas](https://open.spotify.com/track/3kWTf5gwAO6lt2ktQy3C06) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 3:03 |
 | 46 | [Aero\-Soul](https://open.spotify.com/track/6AUY2FyNLl59BcZtynaXsu) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Viejas Recetas Remixes y Otras Rarezas](https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6) | 3:33 |
 | 47 | [El Show Debe Continuar](https://open.spotify.com/track/7vSGZ1wHnamSQsLaZN1eGF) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [La Revancha de los Timidos](https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9) | 4:04 |
-| 48 | [La Eterna \(2.007\)](https://open.spotify.com/track/4OmOic8DVLpfaL9jXMzsyF) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 5:29 |
 
-Snapshot ID: `ZxmOAAAAAAD/J4T79IPOdtp+n2sTy4Ue`
+Snapshot ID: `ZxrfgAAAAADgselHCjdxyqLO1iPjkzia`

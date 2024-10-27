@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Recordamos al Príncipe de la Canción, a cinco años de su partida, con una canción inédita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,504 likes - 200 songs - 13 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,681 likes - 200 songs - 13 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

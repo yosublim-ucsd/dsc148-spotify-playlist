@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 285649,
+  "num_followers": 285691,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAACw2ne8PEYUgy7LbViELylY",
+  "snapshot_id": "ZxrfgAAAAAAyzGwFAgiri8+QvKSRSg0G",
   "tracks": [
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida aos Sepulcros",
-        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 293702,
-      "name": "Vida aos Sepulcros",
-      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tumbas A Jardines",
         "url": "https://open.spotify.com/album/6x77tBsuSV3YvKbFx2NAYf"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 353507,
       "name": "Tumbas A Jardines (Graves Into Gardens) (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/0LetLotK5ziqrdD7WWpGN1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida aos Sepulcros",
+        "url": "https://open.spotify.com/album/7lxtRrXDl6cekYe78zSJaV"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 293702,
+      "name": "Vida aos Sepulcros",
+      "url": "https://open.spotify.com/track/6oq4dspH3sjmAWm3QaViSW"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Is Not Against Me (Radio Version)",
-        "url": "https://open.spotify.com/album/0CeLII36k8Gl5r1JNyFp61"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 246754,
-      "name": "God Is Not Against Me - Radio Version",
-      "url": "https://open.spotify.com/track/2N5f3KRzq8PooIqm3TJGfv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hallelujah Here Below",
         "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 424754,
       "name": "Won't Stop Now",
       "url": "https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Is Not Against Me (Radio Version)",
+        "url": "https://open.spotify.com/album/0CeLII36k8Gl5r1JNyFp61"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 246754,
+      "name": "God Is Not Against Me - Radio Version",
+      "url": "https://open.spotify.com/track/2N5f3KRzq8PooIqm3TJGfv"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At Midnight - EP",
-        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 350358,
-      "name": "It Is So",
-      "url": "https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 410508,
       "name": "Never Lost (Live) (feat. Tauren Wells)",
       "url": "https://open.spotify.com/track/0Ck8Iw5OM5Ag8q2CjBqjrV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 350358,
+      "name": "It Is So",
+      "url": "https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr"
     },
     {
       "added_at": null,

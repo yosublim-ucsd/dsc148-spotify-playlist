@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Armin van Buuren x Oliver Heldens
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,853 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,871 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 23 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 |
 | 24 | [Feel The Passion](https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Feel The Passion](https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA) | 3:00 |
 | 25 | [NoMoreLuv4u](https://open.spotify.com/track/55Asr8Anq1QuP1URYIaSdH) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [NoMoreLuv4u](https://open.spotify.com/album/2uYqyx1hSxvLwD2KvyF4Ao) | 3:16 |
-| 26 | [Weight Of The World](https://open.spotify.com/track/2tifgXqWZVeW1Nx5ylVP3D) | [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl), [Kohey](https://open.spotify.com/artist/5700ea7BYSV4Uv5qEPQDnx) | [Weight Of The World](https://open.spotify.com/album/4g5cS9amADNUF44RiD3ucT) | 3:22 |
+| 26 | [Weight Of The World](https://open.spotify.com/track/2tifgXqWZVeW1Nx5ylVP3D) | [Kohey](https://open.spotify.com/artist/5700ea7BYSV4Uv5qEPQDnx), [VEATZ](https://open.spotify.com/artist/6Dwa6UQghnEAJegF1v6wrl) | [Weight Of The World](https://open.spotify.com/album/4g5cS9amADNUF44RiD3ucT) | 3:22 |
 | 27 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 |
 | 28 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 |
 | 29 | [One Day](https://open.spotify.com/track/5cxpXbXdOYF78n6dHBCAci) | [DJ Fuzz](https://open.spotify.com/artist/1YfTLG8X1AGBhEuUegQJrb) | [One Day](https://open.spotify.com/album/4JmKltx4QD708dCLjOdSvG) | 3:08 |

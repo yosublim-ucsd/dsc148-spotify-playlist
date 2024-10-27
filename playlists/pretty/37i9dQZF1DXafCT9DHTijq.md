@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafCT9DHTijq.md) - [plain]
 
 > A spine\-chilling selection of classical favourites and supernatural soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,868 likes - 57 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,107 likes - 57 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

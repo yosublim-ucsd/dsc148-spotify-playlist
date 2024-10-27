@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,962 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,985 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 49 | [I'LL QUIT LOVIN' YOU](https://open.spotify.com/track/7CZzjj7siHfqvWnbSqEfXw) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [WHERE TO FIND ME](https://open.spotify.com/album/36XfuyICPjeP7EJVbuo7WF) | 3:27 |
 | 50 | [Some Things Never Change \(feat\. HARDY\)](https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Timeless](https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE) | 2:51 |
 
-Snapshot ID: `ZxmOAAAAAADzCQ8R3Z2stMejJEoFj9Xr`
+Snapshot ID: `ZxrfgAAAAACuszVpEOgxeucdxDO/es8v`

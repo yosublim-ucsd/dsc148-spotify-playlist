@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 21049,
+  "num_followers": 21053,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAACtWSzj//AUdCh2g47KZkcn",
+  "snapshot_id": "ZxrfgAAAAACfxy3UosuVZxZCf9iChMeJ",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hell of a Career",
-        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Hawkesbury River Lovin'",
-      "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mates on the Road",
         "url": "https://open.spotify.com/album/3sm8lCfuVRcVbrYd2Zorqr"
       },
@@ -639,22 +623,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
       },
       "artists": [
-        {
-          "name": "Adam Harvey",
-          "url": "https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf"
-        },
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 126586,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
+      "duration_ms": 208560,
+      "name": "Hawkesbury River Lovin'",
+      "url": "https://open.spotify.com/track/6Lemvl39DNczbvLt7BIymQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "Tubbo Station",
+      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
     },
     {
       "added_at": null,
@@ -675,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
       },
       "artists": [
+        {
+          "name": "Adam Harvey",
+          "url": "https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf"
+        },
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 271160,
-      "name": "Tubbo Station",
-      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
+      "duration_ms": 126586,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
     },
     {
       "added_at": null,

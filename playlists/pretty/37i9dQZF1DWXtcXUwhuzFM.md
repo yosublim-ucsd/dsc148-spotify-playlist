@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Vesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,563 likes - 121 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,585 likes - 121 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 70 | [Hero](https://open.spotify.com/track/6Xr5kvIa1JnTxlcIucRLk3) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Hero](https://open.spotify.com/album/3NqOefjMNFryDmlbhcz6MI) | 2:40 |
 | 71 | [Nice To Meet Me](https://open.spotify.com/track/5xA9Y5MQ3UdHOthViOVg2K) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Nice To Meet Me](https://open.spotify.com/album/0UkpkkacCX6qmSNsAEOZrv) | 3:04 |
 | 72 | [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 |
-| 73 | [Anteeks](https://open.spotify.com/track/73UJ9gpaVjMYo3w3eIMh2a) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Anteeks](https://open.spotify.com/album/4ydOG9AXcBaBuHr6FY6YTh) | 3:43 |
+| 73 | [Anteeks \- Vain elämää kausi 15](https://open.spotify.com/track/73UJ9gpaVjMYo3w3eIMh2a) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Anteeks \(Vain elämää kausi 15\)](https://open.spotify.com/album/4ydOG9AXcBaBuHr6FY6YTh) | 3:43 |
 | 74 | [Play With Fire](https://open.spotify.com/track/7GnTjZFqTScZntUokrcvOc) | [Felicia Lu](https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV) | [Play With Fire](https://open.spotify.com/album/4YzUvdk0evYcfVp9acfOVl) | 2:43 |
 | 75 | [Voimanainen \(Vain elämää kausi 15\)](https://open.spotify.com/track/0cConfu9ZYxF9EVE3IOwLo) | [Hanna Pakarinen](https://open.spotify.com/artist/5b7lGX7blhgNvI2i5V6BhE) | [Voimanainen \(Vain elämää kausi 15\)](https://open.spotify.com/album/3TuondDx0uRZBFVoTmpyVf) | 2:40 |
 | 76 | [Mit vit sit?](https://open.spotify.com/track/1HOmwRS2Ew0BVwp91R2Aef) | [Vinttikoira](https://open.spotify.com/artist/5BYjPxHBd5aCz5Pt8igAXl), [NickyDiesel](https://open.spotify.com/artist/2Wo5oaP19W1SpOtkY8Rxof), [FORRESTER](https://open.spotify.com/artist/4A3v0ZA50EKyGNBtEJLZA8) | [Mit vit sit?](https://open.spotify.com/album/3y2n3anuLGpHB43xyWGZnL) | 3:25 |

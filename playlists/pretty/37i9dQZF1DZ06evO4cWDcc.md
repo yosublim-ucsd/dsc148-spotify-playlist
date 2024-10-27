@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,775 likes - 51 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,796 likes - 51 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 23 | [Wait Until Tomorrow](https://open.spotify.com/track/2YtVzmZzew1ILUdNueyWd7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:02 |
 | 24 | [Fire](https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:43 |
 | 25 | [Born Under a Bad Sign](https://open.spotify.com/track/1HbOlAS9kF9d5j7WNQbin9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:37 |
-| 26 | [Drifter's Escape \- Takes 1 & 2](https://open.spotify.com/track/5p1RIGcfKyX6dy9R6t93h4) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:18 |
+| 26 | [Ezy Ryder](https://open.spotify.com/track/6gZlwqE1zWmT57IN6FNheT) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:46 |
 | 27 | [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 |
 | 28 | [Somewhere](https://open.spotify.com/track/64ICrhXuANvFTmJutuZJ1k) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 4:05 |
 | 29 | [Catfish Blues](https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:47 |
-| 30 | [Ezy Ryder](https://open.spotify.com/track/6gZlwqE1zWmT57IN6FNheT) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:46 |
+| 30 | [Drifter's Escape \- Takes 1 & 2](https://open.spotify.com/track/5p1RIGcfKyX6dy9R6t93h4) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:18 |
 | 31 | [Mannish Boy](https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 5:01 |
-| 32 | [Fool for You Baby \(feat\. Jimi Hendrix\)](https://open.spotify.com/track/2nVgBK2QQoIzTH6qROcix2) | [Curtis Knight & The Squires](https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl), [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [You Can't Use My Name \(feat\. Jimi Hendrix\)](https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l) | 2:14 |
-| 33 | [Angel](https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 4:25 |
+| 32 | [Angel](https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 4:25 |
+| 33 | [Fool for You Baby \(feat\. Jimi Hendrix\)](https://open.spotify.com/track/2nVgBK2QQoIzTH6qROcix2) | [Curtis Knight & The Squires](https://open.spotify.com/artist/7zakdAMC3vbUue4IxQh9Xl), [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [You Can't Use My Name \(feat\. Jimi Hendrix\)](https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l) | 2:14 |
 | 34 | [Straight Ahead \- Takes 1 & 2](https://open.spotify.com/track/0NNtvGMVxeZtU9jRgNXhjg) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 6:12 |
 | 35 | [Pali Gap](https://open.spotify.com/track/3rj08Z7MlxxLm8r3wW2fID) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 5:07 |
 | 36 | [Lover Man](https://open.spotify.com/track/4pufpcO8KDHalIp3Uh8GEU) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:03 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 50 | [Georgia Blues](https://open.spotify.com/track/1hRZUpohbhw2WUtWQo3K9x) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 7:55 |
 | 51 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 |
 
-Snapshot ID: `ZxmOAAAAAADzFzgyDYySafb3F6d413dB`
+Snapshot ID: `ZxrfgAAAAADGITEPh/2C52wCpTZAjjnG`

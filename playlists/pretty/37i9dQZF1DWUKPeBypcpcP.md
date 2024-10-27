@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKPeBypcpcP.md) - [plain]
 
 > Where nature and white noise meet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,955 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,009 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

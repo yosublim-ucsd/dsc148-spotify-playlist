@@ -1581,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Big Stepper",
+        "url": "https://open.spotify.com/album/5eV0ff8KDK6MjxEQXE5wei"
+      },
+      "artists": [
+        {
+          "name": "JETG",
+          "url": "https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166075,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/5HozX33fkmavrDrpHXLi0L"
+    },
+    {
+      "album": {
         "name": "BINBO",
         "url": "https://open.spotify.com/album/7iZN9psShtHZhWXr0rh4Ai"
       },
@@ -2038,6 +2056,28 @@
       "duration_ms": 192000,
       "name": "Bullet Bill (feat. BANDOH, Ochna, Sicke Tamaki & cafard)",
       "url": "https://open.spotify.com/track/6LzvKiMSvaWVBI2IEDIsty"
+    },
+    {
+      "album": {
+        "name": "TAD",
+        "url": "https://open.spotify.com/album/6eGfXkLZC1h6PBftRMEzZs"
+      },
+      "artists": [
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        },
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141951,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/20EF6W7Egi1d1rUEboe5MB"
     },
     {
       "album": {
@@ -2542,7 +2582,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 194375,
       "name": "Conclusion",
       "url": "https://open.spotify.com/track/4cmbrjnTyMLy7DCnRpxh2Q"
@@ -11512,7 +11552,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 161764,
       "name": "Swag",
       "url": "https://open.spotify.com/track/3lc4wRpHe4BsM8kSkrfoyv"

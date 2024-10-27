@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,921 likes - 39 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,021 likes - 39 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 8 | [Boyz Don't Cry](https://open.spotify.com/track/3DcfXXPsVIjU1UgY0YBtAM) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/4n2Wo5AqL6FUuheNYGZI4f) | 2:46 |
 | 9 | [Street Runner](https://open.spotify.com/track/5iMRhOHzze2CujxHiJ6cRL) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 4:12 |
 | 10 | [Never Mind](https://open.spotify.com/track/3HcLydGKgxuQnenonTqj0v) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:50 |
-| 11 | [Heart On Ice](https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:39 |
+| 11 | [Fall Fast in Love](https://open.spotify.com/track/1mg8rzws9v1V7OrHAIwT84) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Fall Fast in Love](https://open.spotify.com/album/7cJpvSog0CL1J7hWZ2JtHo) | 2:52 |
 | 12 | [Fight The Feeling](https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:40 |
-| 13 | [Fall Fast in Love](https://open.spotify.com/track/1mg8rzws9v1V7OrHAIwT84) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Fall Fast in Love](https://open.spotify.com/album/7cJpvSog0CL1J7hWZ2JtHo) | 2:52 |
+| 13 | [Heart On Ice](https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:39 |
 | 14 | [Even Love](https://open.spotify.com/track/3vVsF6ReTQd6KuunPE1qpb) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:34 |
 | 15 | [Letter From Houston](https://open.spotify.com/track/64NX4R1rgHb1LMLDAnNNPp) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9) | 2:53 |
 | 16 | [Turks & Caicos \(feat\. 21 Savage\)](https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 3:23 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 38 | [Poison](https://open.spotify.com/track/5C1PY8gSPXadGda4SKH1Cs) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 3:15 |
 | 39 | [Changing](https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 3:00 |
 
-Snapshot ID: `ZxmOAAAAAAC5w/qxDRvRVMXxp7Fsqbpw`
+Snapshot ID: `ZxrfgAAAAAC7u6oKcnbXdf8tDo6zy8pS`

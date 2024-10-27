@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3463,
+  "num_followers": 3464,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABR0A6XfhOjmuhq0xPFlFBi",
+  "snapshot_id": "ZxrfgAAAAAATkCHYq0CdRytdXBouGaQx",
   "tracks": [
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -111,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age of Apathy",
         "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
       },
@@ -143,6 +143,30 @@
       "duration_ms": 212255,
       "name": "Passengers",
       "url": "https://open.spotify.com/track/4DQFYIY3Dg3LwpSAEFWoi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 291200,
+      "name": "Summer Rain (feat. Madison Cunningham & Chris Thile)",
+      "url": "https://open.spotify.com/track/5Mf8pNKP5NlUKL2cbE81iU"
     },
     {
       "added_at": null,
@@ -183,30 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djesse Vol. 4",
-        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "Summer Rain (feat. Madison Cunningham & Chris Thile)",
-      "url": "https://open.spotify.com/track/5Mf8pNKP5NlUKL2cbE81iU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cunningham Bird",
-        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 72706,
-      "name": "Django",
-      "url": "https://open.spotify.com/track/7osq2LlUdidMNF7FXDXV8W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Departures",
         "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 253213,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cunningham Bird",
+        "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 72706,
+      "name": "Django",
+      "url": "https://open.spotify.com/track/7osq2LlUdidMNF7FXDXV8W"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Pin It Down",
+      "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 151213,
       "name": "Lola (My Love)",
       "url": "https://open.spotify.com/track/6xfbp79nVK2quJDtoZyUPe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Pin It Down",
-      "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 215773,
       "name": "Races Are Run",
       "url": "https://open.spotify.com/track/1Of90R6Q9TtVVx2EPnZCwF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Age Of Worry",
+        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "The Age Of Worry",
+      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cunningham Bird",
         "url": "https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 283106,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/2H3gBsloNdjGWlnct8GR1d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Age Of Worry",
-        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "The Age Of Worry",
-      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
     },
     {
       "added_at": null,
@@ -559,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+        "name": "Work Songs: The Porter's Gate Worship Project Vol 1",
+        "url": "https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI"
       },
       "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
+      "duration_ms": 307157,
+      "name": "Little Things With Great Love (Live) [feat. Madison Cunningham]",
+      "url": "https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV"
     },
     {
       "added_at": null,
@@ -591,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Work Songs: The Porter's Gate Worship Project Vol 1",
-        "url": "https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
       "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 307157,
-      "name": "Little Things With Great Love (Live) [feat. Madison Cunningham]",
-      "url": "https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV"
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "added_at": null,

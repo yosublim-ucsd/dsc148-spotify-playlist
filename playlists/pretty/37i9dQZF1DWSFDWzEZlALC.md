@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz, $OHO BANI
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,095 likes - 80 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,200 likes - 80 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 56 | [Interesse](https://open.spotify.com/track/43nq2udT4T8dWEEhHcY3xZ) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Interesse](https://open.spotify.com/album/1k7edVnkFM2I84o83MZZTd) | 2:17 |
 | 57 | [letzter sommer](https://open.spotify.com/track/2NAeSJODXTDq6j4RBFysx4) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [letzter sommer](https://open.spotify.com/album/36L9dKEIk2HSWTEFRBzyaV) | 2:38 |
 | 58 | [aufwachen](https://open.spotify.com/track/5Fyot7NVMcBOEi5vrd3BTp) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [gesicht verlieren](https://open.spotify.com/album/7gfgvrICiDex3PlrGGIYYv) | 3:01 |
-| 59 | [bulletholes](https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB) | 2:32 |
+| 59 | [bulletholes](https://open.spotify.com/track/1rhBLp3LOrjVWn8nxKgbZO) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/2uVzacKODdSUOATdB7K2yB) | 2:32 |
 | 60 | [BYE X3 \(MIT JEREMIAS\)](https://open.spotify.com/track/0ULpry2sJKjbSzabrh0yL3) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [BYE X3 \(MIT JEREMIAS\)](https://open.spotify.com/album/5YTiunGRpgmom2Xr1PYtel) | 2:10 |
 | 61 | [brauchst mich nicht](https://open.spotify.com/track/1eo2xIdXZlZxDMxuhSFwXQ) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [brauchst mich nicht](https://open.spotify.com/album/5KP3WYfsimvLgSrodlWQvB) | 2:27 |
 | 62 | [lauf](https://open.spotify.com/track/2BoFXyQK51mh6C9lUQd8Ok) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [lauf](https://open.spotify.com/album/7qVoIKsmBemsKvxDitsvWr) | 3:32 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 73 | [10 Sekunden](https://open.spotify.com/track/277uZsTtRCyTXlGyTGXjlR) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [10 Sekunden](https://open.spotify.com/album/2BaiALCu9Pfil1oIPodxHy) | 2:54 |
 | 74 | [War schön mit euch \(feat\. Haller\)](https://open.spotify.com/track/6YcW4D35MXsKnqAVF2EyO1) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Das Ende Der Welt \(Deluxe\)](https://open.spotify.com/album/2gbVLhIERSGH9tkeJybUpA) | 3:10 |
 | 75 | [AMNESIE AMNESIE](https://open.spotify.com/track/6FDXWV4OkQeu84JAxt8Vyw) | [LAZLO](https://open.spotify.com/artist/435fmLcbvAJdnVy78faNWY), [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [AMNESIE AMNESIE](https://open.spotify.com/album/1ZEmiBJqnEGp7LtGnXCNgb) | 2:26 |
-| 76 | [fliegen](https://open.spotify.com/track/4Or1AiWX58dlO8mIfUTh2p) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [fliegen](https://open.spotify.com/album/4twWyL7n4WEoepG6OcJcUh) | 2:19 |
+| 76 | [fliegen](https://open.spotify.com/track/4Or1AiWX58dlO8mIfUTh2p) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [fliegen](https://open.spotify.com/album/4twWyL7n4WEoepG6OcJcUh) | 2:19 |
 | 77 | [pokémon](https://open.spotify.com/track/5ipIrjelg2ER3t7D3D9NSP) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [8 stufen ep](https://open.spotify.com/album/7tdFyBxhmbfm9Whp3fo6rK) | 2:52 |
 | 78 | [Der Moment archiviert](https://open.spotify.com/track/0T9jQ9qO7qkGZdYcKrgcVg) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Der Moment archiviert](https://open.spotify.com/album/0ahUvguthyWxiwvQRpCBk1) | 2:36 |
 | 79 | [Alles wieder gut](https://open.spotify.com/track/3Mcn1p3V3mn6ei20gqRYzy) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Extra](https://open.spotify.com/album/4205ekpRnekrI9dgDS3n4I) | 3:39 |

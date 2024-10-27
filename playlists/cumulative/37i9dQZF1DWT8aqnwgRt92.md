@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,633 songs - 4 day 5 hr 56 min
+1,633 songs - 4 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1099,7 +1099,7 @@
 | [コイセカイ](https://open.spotify.com/track/3OR2CPua0cNMJMrenVwhQ1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [コイセカイ](https://open.spotify.com/album/1ltLeck3h6VmSpk8k7plNl) | 4:45 | 2024-05-21 | 2024-07-10 |
 | [ココロノナカ](https://open.spotify.com/track/1xwWE4zRoftoPUTJixYkGM) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [ココロノナカ](https://open.spotify.com/album/6HgE9a7sSWE9Iag3JGrrCZ) | 4:02 | 2024-01-06 | 2024-01-08 |
 | [コト・モノ・トキ](https://open.spotify.com/track/1SQH9DuoKwEa8mPVwlFJJZ) | [Tetsuya Kakihara](https://open.spotify.com/artist/1p3FN7q7Hd6AaVGOgyJMku) | [笑っていて…](https://open.spotify.com/album/3jaaO4xOwXZUbCIHn5NPbE) | 5:08 | 2023-07-18 | 2023-08-02 |
-| [コラージュ](https://open.spotify.com/track/4CRRK6aFioUrTXpB6jqEtF) | [PUFFYとついでにTOOBOE](https://open.spotify.com/artist/4zIIkfmnZiVKxEuv6NkbqT), [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [コラージュ](https://open.spotify.com/album/2iM76auWZvUbAlG91fKpBT) | 3:47 | 2024-10-08 |  |
+| [コラージュ](https://open.spotify.com/track/4CRRK6aFioUrTXpB6jqEtF) | [PUFFYとついでにTOOBOE](https://open.spotify.com/artist/4zIIkfmnZiVKxEuv6NkbqT), [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [コラージュ](https://open.spotify.com/album/2iM76auWZvUbAlG91fKpBT) | 3:10 | 2024-10-08 |  |
 | [ゴールデンレイ](https://open.spotify.com/track/2FyEQ8GVybmQQUvNuY1BZj) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ゴールデンレイ](https://open.spotify.com/album/5wlli6KCnWqdMNLAsIaNDY) | 3:17 | 2023-07-04 | 2023-08-23 |
 | [サイダー](https://open.spotify.com/track/1pgT2Ue3CjtILtKHkifnmS) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [サイダー](https://open.spotify.com/album/3hCLUq4eAthQqGFZ3KfJbY) | 4:27 | 2022-07-05 | 2022-08-06 |
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-05-28 | 2022-07-06 |

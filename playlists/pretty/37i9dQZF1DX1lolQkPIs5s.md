@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lolQkPIs5s.md) - [plain]
 
 > ディズニーの人気曲を集めた公式プレイリスト♪　ディズニー最新楽曲から、『モアナと伝説の海』、『アナと雪の女王』、『アラジン』、『ライオン・キング』等の名曲、パークの大人気曲までセレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,769 likes - 114 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,785 likes - 114 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

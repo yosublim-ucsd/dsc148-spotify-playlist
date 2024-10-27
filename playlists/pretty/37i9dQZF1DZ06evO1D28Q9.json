@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAACUifH9aB6WdOdcYN4pnrUE",
+  "snapshot_id": "ZxrfgAAAAAC+Q/qZkicYQi/ZtEfo6tsv",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry Drummer & Friends, Vol. 2",
+        "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
+      },
+      "artists": [
+        {
+          "name": "Sorry Drummer",
+          "url": "https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/4RzzS0tS9p2D3IXXYsnOll"
+        },
+        {
+          "name": "Tatiana Bispo",
+          "url": "https://open.spotify.com/artist/0Z3J1nYuQunKAqOeVmRXeX"
+        },
+        {
+          "name": "DJ Negrito",
+          "url": "https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1"
+        }
+      ],
+      "duration_ms": 222142,
+      "name": "Perto de Mim",
+      "url": "https://open.spotify.com/track/5Rc2h0yW0OeHusr4gwwtt7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elza",
         "url": "https://open.spotify.com/album/3haMa3eXxCjDFz5BOB6Yno"
       },
@@ -311,38 +343,6 @@
       "duration_ms": 364682,
       "name": "Elza",
       "url": "https://open.spotify.com/track/303Ggzkhj1cUVhV5BbQL0d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry Drummer & Friends, Vol. 2",
-        "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
-      },
-      "artists": [
-        {
-          "name": "Sorry Drummer",
-          "url": "https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/4RzzS0tS9p2D3IXXYsnOll"
-        },
-        {
-          "name": "Tatiana Bispo",
-          "url": "https://open.spotify.com/artist/0Z3J1nYuQunKAqOeVmRXeX"
-        },
-        {
-          "name": "DJ Negrito",
-          "url": "https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1"
-        }
-      ],
-      "duration_ms": 222142,
-      "name": "Perto de Mim",
-      "url": "https://open.spotify.com/track/5Rc2h0yW0OeHusr4gwwtt7"
     },
     {
       "added_at": null,
@@ -451,34 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coroa de Flores",
-        "url": "https://open.spotify.com/album/3dmJmIcejU0YpJrq3EJuIk"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Gigante No Mic",
-          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
-        },
-        {
-          "name": "Grou",
-          "url": "https://open.spotify.com/artist/6CXYepBZnf1m6f5otiUm8X"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 258656,
-      "name": "Coroa de Flores",
-      "url": "https://open.spotify.com/track/3p9uy80dCV8Mvwqxk4lnSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/3gpGDZnLal3U3Izek5Q2bt"
       },
@@ -515,6 +487,34 @@
       "duration_ms": 298412,
       "name": "Quem \u00c9 Voc\u00ea?",
       "url": "https://open.spotify.com/track/5Qboq3MHp7FJ7FfKAaW4aG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coroa de Flores",
+        "url": "https://open.spotify.com/album/3dmJmIcejU0YpJrq3EJuIk"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Gigante No Mic",
+          "url": "https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX"
+        },
+        {
+          "name": "Grou",
+          "url": "https://open.spotify.com/artist/6CXYepBZnf1m6f5otiUm8X"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 258656,
+      "name": "Coroa de Flores",
+      "url": "https://open.spotify.com/track/3p9uy80dCV8Mvwqxk4lnSQ"
     },
     {
       "added_at": null,
@@ -875,6 +875,46 @@
       "duration_ms": 187634,
       "name": "Chato",
       "url": "https://open.spotify.com/track/0ZOE62MG5rUfwBHvooAaN5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pau-de-d\u00e1-em-Doido, Vol. 2",
+        "url": "https://open.spotify.com/album/47CLbdINpTt6L03VgNLfac"
+      },
+      "artists": [
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "En\u00e9zimo",
+          "url": "https://open.spotify.com/artist/5zYUMGYILLHjpsQwBJa3Xu"
+        },
+        {
+          "name": "Eri Q.I.",
+          "url": "https://open.spotify.com/artist/1VCBqiaJjrdy4rXHtJoSkS"
+        },
+        {
+          "name": "Max Musicamente",
+          "url": "https://open.spotify.com/artist/0sSi17zwKrvUgQOZiiQZ5b"
+        },
+        {
+          "name": "Preto-R",
+          "url": "https://open.spotify.com/artist/1heNsKjqxFtnyaDLnXGASL"
+        },
+        {
+          "name": "Andr\u00e9 Sagat",
+          "url": "https://open.spotify.com/artist/754zM25AMHnld1i3GzvbUC"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Perigo",
+      "url": "https://open.spotify.com/track/4PmQCWdTqSIXEUtxxrCsoC"
     },
     {
       "added_at": null,

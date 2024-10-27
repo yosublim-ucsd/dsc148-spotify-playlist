@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 
 > Rapping into your hearts from the alleys of Mumbai\. Cover\- MC Altaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,359 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,374 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dhyaan Se](https://open.spotify.com/track/5vBl4keuohlsqXdmz5hw76) | [vijay dada](https://open.spotify.com/artist/5inpoNmMNM5jGVdvyzm4wL), [Arabinda Neog](https://open.spotify.com/artist/4O0UY7QlS80oeDZB1g7iWf), [Gauranga Shekhar](https://open.spotify.com/artist/7KCPaxk6t5K6DLdZfdakYy) | [Dhyaan Se](https://open.spotify.com/album/2YpqvLTfOCzVBfa4lE3SNh) | 3:11 |
 | 2 | [Taambdi Chaamdi](https://open.spotify.com/track/14M0pSvqNEhPdByBNw159R) | [Kratex](https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo), [Shreyas](https://open.spotify.com/artist/65qLuo5zSTqg8Qb17OCnLu) | [Taambdi Chaamdi](https://open.spotify.com/album/1z1BAADazRIogvfkRqvl8w) | 2:38 |
 | 3 | [4.10](https://open.spotify.com/track/1AcoISAQZgYBflkE9JgOl4) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Lal Chand Yamla Jatt](https://open.spotify.com/artist/4agUz5gEUgjnDHiZfZZ3yX) | [4.10](https://open.spotify.com/album/0B4QhB4Acp4Ct9F8dkllWN) | 2:49 |
-| 4 | [Halaat](https://open.spotify.com/track/5QNSqCKL7raNt8JPYSYxP9) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 2:40 |
+| 4 | [Halaat](https://open.spotify.com/track/5QNSqCKL7raNt8JPYSYxP9) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 2:40 |
 | 5 | [Vazan \- Red Bull 64 Bars](https://open.spotify.com/track/5fUYbXhJkv1nL8DVq1QOwK) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Vazan \(Red Bull 64 Bars\)](https://open.spotify.com/album/1AvWSlHsofobJDHirHKrXc) | 3:09 |
 | 6 | [Chalis](https://open.spotify.com/track/3Y2QAPM1Vsw7yKKnVMsxhD) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Chalis](https://open.spotify.com/album/5Mp4zVYRkIbJ4AZyXB27Nw) | 3:04 |
 | 7 | [Gulab Aur Kaante](https://open.spotify.com/track/4EU7KUawcpfOVIdlDdHsLX) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Gulab Aur Kaante](https://open.spotify.com/album/37wInAUaqFnnUogrDxOMDu) | 3:28 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSaMQIHweTw.md) - [plain]
 | 40 | [Shaane Bolte](https://open.spotify.com/track/5EEJMqZOCDPWKE0bAyFgPW) | [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V) | [Shaane Bolte](https://open.spotify.com/album/4GHznD1XMQgEyACxdB71JZ) | 2:54 |
 | 41 | [Chooke Dekh](https://open.spotify.com/track/3n3Urxb6O9OzXkYng9W60V) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 2:55 |
 | 42 | [Rehem](https://open.spotify.com/track/0kxygsw2zngxvhsmNMbpwj) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Rehem](https://open.spotify.com/album/0xsZ9ulRB98Df9mTZqPWQn) | 2:24 |
-| 43 | [Chhod Bhai](https://open.spotify.com/track/4KRZ47E9wDiCyRAxmBxOAQ) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 2:57 |
+| 43 | [Chhod Bhai](https://open.spotify.com/track/4KRZ47E9wDiCyRAxmBxOAQ) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 2:57 |
 | 44 | [ALAG BT](https://open.spotify.com/track/6UWlAw7SRidFHyYgiqlqX0) | [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Hitzone](https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [ALAG BT](https://open.spotify.com/album/0w17qtUDmxXdh5fsHynOCm) | 3:20 |
 | 45 | [Roshni](https://open.spotify.com/track/2lJn0R9LM9ttaSOtBMwB64) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2), [Vernon Tauro](https://open.spotify.com/artist/34o46ubfKWo2VtkVzZJ5Yx) | [Roshni](https://open.spotify.com/album/7FH9OhjduEaO1ZYKlAsp7T) | 2:22 |
 | 46 | [THE END](https://open.spotify.com/track/3DNaRfmcyNpV2iVnL5OeKZ) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [sPEAK](https://open.spotify.com/album/3quAHA3o8HZARSckuVJLoo) | 2:03 |
 | 47 | [Laapata](https://open.spotify.com/track/0LMteNwmU1fqJMFiCYHpSi) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO), [Maanuni](https://open.spotify.com/artist/0RAKDApsLaVDbTPbtlLReP), [Outfly](https://open.spotify.com/artist/3lpYJAdDhRGm9mFyPxEKBi) | [Moonbounce](https://open.spotify.com/album/4RkBTTmG4mTKnjftCS48wQ) | 4:14 |
 | 48 | [Kehne Bhi De](https://open.spotify.com/track/3eGhjlURW4FfzShAlWVkPx) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o), [Refix](https://open.spotify.com/artist/2QD7mDvWWHZmkOxtXBurr0) | [Kehne Bhi De](https://open.spotify.com/album/4EOQEw6j8ojRKGmydNt2hN) | 2:36 |
-| 49 | [Hood Poetry](https://open.spotify.com/track/12BbD4eFxsNdbJpkmd3p7g) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 3:15 |
+| 49 | [Hood Poetry](https://open.spotify.com/track/12BbD4eFxsNdbJpkmd3p7g) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [Halaat](https://open.spotify.com/album/2E8QetLkISeArC5rDwgcjT) | 3:15 |
 | 50 | [Bambaiyya](https://open.spotify.com/track/2P9K6C6D38v6RnVihnHnVK) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Bambaiyya](https://open.spotify.com/album/5RgbalAqEptsXQKgvwZ2X8) | 2:15 |
 
 Snapshot ID: `ZxiVwQAAAABfDbfxsWbWr3m/aJqtmjar`

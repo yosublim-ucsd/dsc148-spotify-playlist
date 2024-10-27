@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 
 > The best in house music
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,114 likes - 120 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,112 likes - 120 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fallin In Love](https://open.spotify.com/track/6zIoRp8gHbDcXz1MtCCvtt) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Fallin In Love](https://open.spotify.com/album/4UF3C8gyJe5SWSTDaZZ7Kl) | 3:23 |
 | 2 | [Heat](https://open.spotify.com/track/1Q09LzROZCdwuPtvtKGd0f) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [Heat](https://open.spotify.com/album/2qW5OsFApVV4uFsXSHu1YF) | 3:52 |
 | 3 | [Dance With You \(All Night\)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You \(All Night\)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 3:08 |
-| 4 | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/track/0EWG5cpMUT0Jp0Pye9S0Ne) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/album/37nzbaUgb3Y5Tfx1JhObvR) | 3:00 |
+| 4 | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/track/0EWG5cpMUT0Jp0Pye9S0Ne) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/album/37nzbaUgb3Y5Tfx1JhObvR) | 3:00 |
 | 5 | [Come Back](https://open.spotify.com/track/5qwZdH9utUYiQhx8xnHoza) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Come Back EP](https://open.spotify.com/album/35YILegVmuxMYbIarvgXIt) | 5:05 |
 | 6 | [Good 4 U](https://open.spotify.com/track/09bwwB0fpgLQbWQmQ5Q5sm) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Good 4 U](https://open.spotify.com/album/6J4Y082MYxnsdifyTLdG8p) | 3:28 |
 | 7 | [Aguacero](https://open.spotify.com/track/5MYPNXFVW54dxVVDLnNuwS) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Alé Kumá](https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0) | [Aguacero](https://open.spotify.com/album/0mzRSP5b0Mn9hVEYIeuJcn) | 3:07 |

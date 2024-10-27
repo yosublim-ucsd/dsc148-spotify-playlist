@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Elderbrook
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,220 likes - 115 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,392 likes - 115 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

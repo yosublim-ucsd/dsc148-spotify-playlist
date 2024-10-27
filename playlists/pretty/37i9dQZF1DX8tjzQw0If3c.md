@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Unearthing trailblazers\. Cover: Axel Brizzy, LAYYI
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,777 likes - 87 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,778 likes - 87 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

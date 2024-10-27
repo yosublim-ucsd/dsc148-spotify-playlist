@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ILLIT\(아일릿\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,411 likes - 362 songs - 20 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,471 likes - 362 songs - 20 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,7 +181,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 171 | [Put It Down](https://open.spotify.com/track/3ujLat2CUEkPMEgIENXzN1) | [Wavycake](https://open.spotify.com/artist/2fwYaw5xb32ox263Uo7nPR), [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK), [some:r](https://open.spotify.com/artist/1ZJYvV4f75IHr1RJds1Eit) | [Put It Down](https://open.spotify.com/album/5ODHdwVzgNg1kvlYG4bBwQ) | 3:42 |
 | 172 | [Bones \(Prod\. Czaer\)](https://open.spotify.com/track/7jCZrWGVwr0UVNqypH9t60) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [STAGE FIGHTER\(STF\) Original, Vol\. 2.5](https://open.spotify.com/album/3CkIjct7gN1BFvKC3ybzoE) | 3:46 |
 | 173 | [Run to you](https://open.spotify.com/track/56Pn7yroFFih1lm3RO2DCs) | [TANAKA](https://open.spotify.com/artist/5FZYWdNeBGAItqlOdEKNKT) | [Run to you](https://open.spotify.com/album/0KBaTeJcYYRtG0gFOnXopb) | 3:53 |
-| 174 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 174 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 175 | [I gotta go](https://open.spotify.com/track/4abT9Sa2SU1zsK2dd2Ez9r) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [I gotta go](https://open.spotify.com/album/0EeA7tMBeRvU06rYVCejpP) | 3:04 |
 | 176 | [A Sleepless Night](https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [X](https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u) | 2:45 |
 | 177 | [Night before the end](https://open.spotify.com/track/39TvS8OLjrdKAQEkFAn2pc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [LIVE and FALL](https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd) | 3:25 |

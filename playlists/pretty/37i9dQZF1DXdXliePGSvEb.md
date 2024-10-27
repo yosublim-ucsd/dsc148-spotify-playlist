@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,301 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,317 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 72 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 |
 | 73 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
 | 74 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 |
-| 75 | [Beautiful World](https://open.spotify.com/track/3fZuXjjxxCjnFi8jcx0X0e) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Steve Smith](https://open.spotify.com/artist/6WUz3m9cjNKSvtQ8uAu9qu) | [Beautiful World](https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC) | 6:15 |
+| 75 | [Beautiful World](https://open.spotify.com/track/3fZuXjjxxCjnFi8jcx0X0e) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Steve Smith](https://open.spotify.com/artist/0ut1xByBq3g7PwSuKwh2pB) | [Beautiful World](https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC) | 6:15 |
 
 Snapshot ID: `ZWt3NQAAAACAQQn1bEUEooSl6tXq+qCS`

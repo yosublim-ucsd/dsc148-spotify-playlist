@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,029,952 likes - 675 songs - 1 day 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,030,196 likes - 675 songs - 1 day 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -512,7 +512,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 502 | [petal](https://open.spotify.com/track/3dkGPR1S8xKvV9RwmII3Mp) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [petal](https://open.spotify.com/album/4n6F9v7ajeO9Fp6lmFeLnH) | 2:01 |
 | 503 | [Nocturna](https://open.spotify.com/track/3EiXe5wm6GitRksxmUXnHD) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [New Era \- Side A](https://open.spotify.com/album/4jf3PHOYqvOCK8CxgjE2gb) | 1:20 |
 | 504 | [Fade](https://open.spotify.com/track/5AOVlBVKca5uYJ18Q29U6D) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Fade](https://open.spotify.com/album/6IFb5yjI69X7igE69Gm2dY) | 3:05 |
-| 505 | [Comfort](https://open.spotify.com/track/1ivNmhq0yeZEskleFpDqeL) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe), [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR) | [Comfort](https://open.spotify.com/album/5B26xnwWazwrUEOqHeycy0) | 2:09 |
+| 505 | [Comfort](https://open.spotify.com/track/1ivNmhq0yeZEskleFpDqeL) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe), [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR), [dnvn.beats](https://open.spotify.com/artist/6a7nfnO8b7WiXvVR5IkN7X) | [Comfort](https://open.spotify.com/album/5B26xnwWazwrUEOqHeycy0) | 2:09 |
 | 506 | [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 |
 | 507 | [Acromantula](https://open.spotify.com/track/6NnxWChrKgwq0cRnPdkikw) | [Nagini](https://open.spotify.com/artist/0ZxRpoI2PLAU4FffUoMh4K) | [Acromantula](https://open.spotify.com/album/3rNx2Neqfu2ZFufwxZ1zkU) | 2:02 |
 | 508 | [resonance](https://open.spotify.com/track/4hsJSNWp8cONeOquz12aRk) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [resonance](https://open.spotify.com/album/3TYhhtSd0cqyCSPRlty5hQ) | 2:53 |

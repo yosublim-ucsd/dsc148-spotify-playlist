@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 20625,
+  "num_followers": 20628,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAADaoMpFqvjg1idLVDqKkdLj",
+  "snapshot_id": "ZxrfgAAAAACr1xMrvh5nVUtjJOSTTJq3",
   "tracks": [
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 358626,
-      "name": "Heygana",
-      "url": "https://open.spotify.com/track/3Oip7ZTE83W11hcHLqyrWS"
+      "duration_ms": 380973,
+      "name": "Ai Bine",
+      "url": "https://open.spotify.com/track/0dtl6YQbvXjBQ0I18270zR"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 253226,
-      "name": "Instrumental",
-      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
+      "duration_ms": 197880,
+      "name": "Ali's Here",
+      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
     },
     {
       "added_at": null,
@@ -556,25 +556,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 380973,
-      "name": "Ai Bine",
-      "url": "https://open.spotify.com/track/0dtl6YQbvXjBQ0I18270zR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "Ali's Here",
-      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
+      "duration_ms": 358626,
+      "name": "Heygana",
+      "url": "https://open.spotify.com/track/3Oip7ZTE83W11hcHLqyrWS"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 321440,
+      "name": "Penda Yoro",
+      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voyageur",
         "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "Instrumental",
+      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Savane",
         "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 321440,
-      "name": "Penda Yoro",
-      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
+      "duration_ms": 153000,
+      "name": "Hanana",
+      "url": "https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf"
     },
     {
       "added_at": null,
@@ -732,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Hanana",
-      "url": "https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf"
+      "duration_ms": 194240,
+      "name": "Ledi Coumbe",
+      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 267372,
       "name": "Kombo Galia",
       "url": "https://open.spotify.com/track/0OZENqfFTW8YSuirwg8Fvm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Ledi Coumbe",
-      "url": "https://open.spotify.com/track/5Bxo3qKhyYk63E02M1wmYE"
     },
     {
       "added_at": null,

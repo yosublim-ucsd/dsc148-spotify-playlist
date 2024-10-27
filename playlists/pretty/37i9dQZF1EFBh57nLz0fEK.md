@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 78 | [Witness](https://open.spotify.com/track/4CwrUYKXLeUyAFhEYlbJld) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 4:16 |
 | 79 | [Just Like Jenny](https://open.spotify.com/track/39fXwsp5ZQG76nN9mGBzbb) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:58 |
 | 80 | [Pay for the Pain](https://open.spotify.com/track/37tYiGnTLQgu5PnSI7R7m0) | [Gild Walton](https://open.spotify.com/artist/2ienhCqiGU2x3g8jbLwx2s) | [Pay for the Pain](https://open.spotify.com/album/0vskX5pm17kkNLiSYWfcjW) | 2:42 |
-| 81 | [Shinanigins](https://open.spotify.com/track/6YTpBXHHEY0PGTxOkJX6wX) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:42 |
-| 82 | [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 |
+| 81 | [Sinner](https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Sinner](https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU) | 3:03 |
+| 82 | [Shinanigins](https://open.spotify.com/track/6YTpBXHHEY0PGTxOkJX6wX) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 2:42 |
 | 83 | [Bloodline](https://open.spotify.com/track/2qvrRtYFN7MGRokO77TZKK) | [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [The Birth of a Nation: The Inspired By Album](https://open.spotify.com/album/6miimmKAefrNxnErwCTGmj) | 4:12 |
 | 84 | [Dance Scream](https://open.spotify.com/track/4Q1Rd72FnS8xWPg7tHaVDf) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:04 |
 | 85 | [richest girl alive](https://open.spotify.com/track/33wxqsZkzl0ADSdfUFXo8d) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:20 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBh57nLz0fEK.md) - [plain]
 | 105 | [This Time](https://open.spotify.com/track/2vhYlpTjJR6WNcLbt6VohD) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp) | [Blood, Sweat & Tears](https://open.spotify.com/album/1agGkgiRsIb0lC6TUApqDS) | 4:07 |
 | 106 | [INTERLUDE](https://open.spotify.com/track/4RyDxpwqXhN5zI39QumvVe) | [T$](https://open.spotify.com/artist/00xAzuaRdsIegeqqDtlzae), [Willie Truitt](https://open.spotify.com/artist/3rrNr8VdtVf9y7PBg5xS9w) | [PURPLE BLOOD](https://open.spotify.com/album/4ECQGzAEn0Vj0RiPWLh1gH) | 0:37 |
 
-Snapshot ID: `AbfwdAAAAAArnyqT76Ja3EMSiauqjaoh`
+Snapshot ID: `Abf2FQAAAACgBTk2yTq2E4gLJqErysQD`

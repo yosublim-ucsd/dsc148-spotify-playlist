@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPiubrCbXxp.md) - [plain]
 
 > that 50s kinda feeling, cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,759 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,810 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

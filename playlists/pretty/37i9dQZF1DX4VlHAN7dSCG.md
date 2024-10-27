@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 恐龍的皮 \(The Dinosaur's Skin\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,125 likes - 74 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,129 likes - 74 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Meteor Shower](https://open.spotify.com/track/4U04CJyjD2HzMjHMBnVn0h) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [I Dig You](https://open.spotify.com/album/118ouAtcHqDD7t7YV2hD1O) | 3:03 |
 | 2 | [Story From The Hill](https://open.spotify.com/track/1kwc24o5EMK0YnuLfFi1K4) | [Bremen Entertainment Inc.](https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA) | [Second hand stories](https://open.spotify.com/album/11gQNgMISJ0ILfEGP0pmlK) | 5:37 |
 | 3 | [神的孩子都在摔跤](https://open.spotify.com/track/5qANggpluY26UYONwunDtv) | [無妄合作社](https://open.spotify.com/artist/6py5j29igdKEvG75sZpTbW) | [開往天堂的海盜船](https://open.spotify.com/album/4MeuCJLMPrbkEO8Q9alBtQ) | 5:45 |
-| 4 | [思念俱焚](https://open.spotify.com/track/0Nv4dWROueVRrdJFAOnX9G) | [OVDS](https://open.spotify.com/artist/73OoUzzgefq2AoHsfTZ39j), [柯泯薰](https://open.spotify.com/artist/3gSJBHeEHXFMeZx47m443S) | [思念俱焚](https://open.spotify.com/album/6LRa78vBMPgRAkMCPhuogg) | 6:12 |
+| 4 | [思念俱焚](https://open.spotify.com/track/0Nv4dWROueVRrdJFAOnX9G) | [OVDS](https://open.spotify.com/artist/73OoUzzgefq2AoHsfTZ39j), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [思念俱焚](https://open.spotify.com/album/6LRa78vBMPgRAkMCPhuogg) | 6:12 |
 | 5 | [I'm not Elvis](https://open.spotify.com/track/1izr6wtl16ptV3aQrIN9V9) | [原子少年2 克卜勒](https://open.spotify.com/artist/1N8ihrLV42k0a9UfR4FSel), [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [I'm not Elvis](https://open.spotify.com/album/2es6COS9nyMmIJsMyXc8rL) | 3:30 |
 | 6 | [English Song](https://open.spotify.com/track/41oIwYzv9rEuUAreANKf3u) | [老破麻 O.S.D](https://open.spotify.com/artist/1XTqrb13XsNe67Ks1Jnn0y) | [English song](https://open.spotify.com/album/76SNf2zI8hZa6vNfEd7aYa) | 4:19 |
 | 7 | [Run](https://open.spotify.com/track/0V77ol1pIpgdioIIIZDeV6) | [原子少年2 鑽石星球](https://open.spotify.com/artist/1hUqbTXYoW4zQ20HptnX86) | [Run](https://open.spotify.com/album/4UK8l0wLSoUwRHlcfyZdjb) | 3:06 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 10 | [日落](https://open.spotify.com/track/40lq0knuIWclTUTECXja5V) | [Radio Mars](https://open.spotify.com/artist/7zfFkHBs5y9m83dIoptl7g) | [日落](https://open.spotify.com/album/4SqzrBqbM7zZenFFlt46VM) | 5:51 |
 | 11 | [守護兵](https://open.spotify.com/track/3BGi1cSPOHkGHKfvpcRN9H) | [Whistle 夜萧](https://open.spotify.com/artist/7wKs35Zk43WEeSbxa5snCq) | [守護兵](https://open.spotify.com/album/6MH45ONwMSEhUXUVP919al) | 2:18 |
 | 12 | [海水](https://open.spotify.com/track/3AGTvYH7po8qEQUIFGPyxn) | [吐司貓 Tosuto Neko](https://open.spotify.com/artist/4ueWbxowZhDNbEPxxPP0yJ) | [海水](https://open.spotify.com/album/40UbmhtxqDiu5rJezZcDmx) | 3:51 |
-| 13 | [河床](https://open.spotify.com/track/6Sucn73s1JDJf81hH90Aei) | [憂憂](https://open.spotify.com/artist/1WsfnDefHmKEy5RXG7FiGx) | [仙湖](https://open.spotify.com/album/7p56xljYONLyXIN9H3vP7P) | 4:23 |
+| 13 | [河床](https://open.spotify.com/track/6Sucn73s1JDJf81hH90Aei) | [憂憂](https://open.spotify.com/artist/3t5mkVPf9oeHvrkNJa41Jt) | [仙湖](https://open.spotify.com/album/7p56xljYONLyXIN9H3vP7P) | 4:23 |
 | 14 | [你到底有什麼毛病](https://open.spotify.com/track/3wT74JdDdgDNHJEzRfAYHU) | [Dominant 7](https://open.spotify.com/artist/4UfMvNEDMy9yneqourV5c5) | [你到底有什麼毛病](https://open.spotify.com/album/2n9gIk639ai7qtnzLDyRhJ) | 2:51 |
 | 15 | [送你到天涯海角](https://open.spotify.com/track/5LofaKZaUhmkhbK5ouw7jQ) | [莎賓娜大樂隊](https://open.spotify.com/artist/74udFgEhNcX0Sn6NdZZPWL) | [送你到天涯海角](https://open.spotify.com/album/7s6NO8GYSm78MHicVE0mDl) | 4:14 |
 | 16 | [昏沉下雨天 \(Dizzy Drizzle\)](https://open.spotify.com/track/4fuGw9or2VN06oRYvXv2Vj) | [Bad Sweetheart](https://open.spotify.com/artist/1y793kDfhxKcz1gX3E22bN) | [昏沉下雨天 \(Dizzy Drizzle\)](https://open.spotify.com/album/0397QMgg9TnjdhsRrBKbCv) | 4:55 |

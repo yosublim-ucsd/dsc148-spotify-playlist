@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Halsey
 
-6,688 songs - 13 day 21 hr 9 min
+6,688 songs - 13 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,7 @@
 | [All For You](https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Hardest Love](https://open.spotify.com/album/17cNWP1FoUxSTwr3ki8MnX) | 3:45 | 2022-11-04 | 2022-11-19 |
 | [All For You](https://open.spotify.com/track/4rUkHeajfrP6YCMGgGcHQj) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [All For You](https://open.spotify.com/album/3cVgJaFSI609MSqk80Yg6v) | 2:21 | 2024-05-03 | 2024-05-18 |
 | [All Girls Go to Heaven](https://open.spotify.com/track/4DARCDYP7uNc0tp7ABx154) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [All Girls Go to Heaven](https://open.spotify.com/album/4APWqD1zWFke34VGBzgroW) | 2:44 | 2024-03-15 | 2024-03-30 |
-| [all i do](https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [Generation Numb](https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL) | 2:44 | 2024-10-25 |  |
+| [all i do](https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [generation numb](https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL) | 2:44 | 2024-10-25 |  |
 | [All I Do Is Try](https://open.spotify.com/track/69p5jinvmXYi9XZX8dURIQ) | [Anthonia Edwards](https://open.spotify.com/artist/1RaPkxbAuGOQxWnXh43O7C) | [All I Do Is Try](https://open.spotify.com/album/4MiUTSgXKAGFVNjV4Om29U) | 3:23 | 2023-12-22 | 2024-01-20 |
 | [all i do is try my best](https://open.spotify.com/track/2u0jaGY3UtmxaNXzACnxPO) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [all i do is try my best](https://open.spotify.com/album/64hMpVUUfv4De0CK76WQYr) | 2:49 | 2023-06-09 | 2023-06-24 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-11 | 2022-03-26 |
@@ -2779,7 +2779,7 @@
 | [How to Be Alone](https://open.spotify.com/track/6xWHPPreZAD93a1g14Noun) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [How to Be Alone](https://open.spotify.com/album/5cFmtcEpZiTgFTR26I1TwV) | 2:31 | 2022-03-04 | 2022-03-26 |
 | [how to change a tire](https://open.spotify.com/track/6ZlwbgqfMALnnwi8zVJTyr) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [how to change a tire](https://open.spotify.com/album/09oYcPRYGDwOZcP7XkO6Mr) | 3:00 | 2024-03-15 | 2024-03-30 |
 | [How To Drive](https://open.spotify.com/track/4memBjRe8ZXDJha8grYdRm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [How To Drive](https://open.spotify.com/album/6ztNIufAkZjQ7aadvJdTN0) | 3:39 | 2023-01-27 | 2023-02-11 |
-| [how to say goodbye](https://open.spotify.com/track/5DL6xw88HbwFd3TuBWExwM) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [fine ill get in my feelings](https://open.spotify.com/album/4a7THjdUGqUasJlhCUjEDr) | 2:30 | 2024-10-25 |  |
+| [how to say goodbye](https://open.spotify.com/track/5DL6xw88HbwFd3TuBWExwM) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [fine ill get in my feelings](https://open.spotify.com/album/4a7THjdUGqUasJlhCUjEDr) | 2:19 | 2024-10-25 |  |
 | [how u feel](https://open.spotify.com/track/4iMNys9dTJ1DTAamO8IV53) | [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb), [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [how u feel](https://open.spotify.com/album/6EmduoDGQ6FhaYfPmm0TQl) | 2:27 | 2023-10-27 | 2023-11-18 |
 | [HOW U FEELIN](https://open.spotify.com/track/4zck4tvazBAvyXI8JLOnso) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [HOW U FEELIN](https://open.spotify.com/album/5oEQ744C5gWQdEskIvCn69) | 3:14 | 2022-09-17 | 2022-09-24 |
 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 | 2024-04-12 | 2024-04-27 |

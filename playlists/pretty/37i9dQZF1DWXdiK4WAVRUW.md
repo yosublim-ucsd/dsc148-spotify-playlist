@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > We're celebrating the 10th anniversary of Sam Hunt's album "Montevallo" on 2010s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,806 likes - 150 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,920 likes - 150 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

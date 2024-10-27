@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,318 likes - 66 songs - 3 hr 22 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,315 likes - 66 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 1 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 2 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 |
 | 3 | [Opportunist](https://open.spotify.com/track/7ESmcSz98ZGni2Wm8Zucog) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Opportunist](https://open.spotify.com/album/6DfPfun9gjXfKQfPTe6i5P) | 2:36 |
 | 4 | [Limbo](https://open.spotify.com/track/0S9JTiTJwZwkHI0VyoDeGn) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Limbo](https://open.spotify.com/album/3MQzzTzLhhGqPRJTyMCgqj) | 3:03 |

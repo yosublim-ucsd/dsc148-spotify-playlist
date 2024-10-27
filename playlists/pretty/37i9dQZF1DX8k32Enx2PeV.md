@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,692 likes - 91 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,701 likes - 91 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 86 | [Azul](https://open.spotify.com/track/6GXiF7VKiCC4dZRQyWu8Sj) | [La Beat Machine](https://open.spotify.com/artist/6mCAbMWEuo0uz3pRMVZZN6) | [Azul](https://open.spotify.com/album/1m41idRHu1CBWPGwQpXiWd) | 3:22 |
 | 87 | [Estás Escuchando \(with El David Aguilar\) \- Single Edit](https://open.spotify.com/track/2khOYj1vDGhmS84m4Wm7cc) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [David Aguilar](https://open.spotify.com/artist/3UxQcJ5P3W30gW0zHtBcKY) | [Estás Escuchando \(with El David Aguilar\)](https://open.spotify.com/album/4ofoHq8EzjKBLBOX2K4OhA) | 2:17 |
 | 88 | [Porrito y a Dormir](https://open.spotify.com/track/1WzX44DmzXQytMNksHn3Ez) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Xico](https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9), [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM) | [Porrito y a Dormir](https://open.spotify.com/album/2tNuQBtqlz5HKMikowZ6dG) | 3:18 |
-| 89 | [Un Día a la Vez](https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Un Día a la Vez](https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA) | 4:06 |
+| 89 | [Un Día a la Vez](https://open.spotify.com/track/1tlIVwWxXIIoNfqa9aELW9) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [NOREH](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Un Día a la Vez](https://open.spotify.com/album/1ou9ssBPUFB9hQzieb1ctA) | 4:06 |
 | 90 | [NINA](https://open.spotify.com/track/75D6ddFBgFvobY7niIcGSv) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [NINA](https://open.spotify.com/album/4K6tYEEDctTzhjXwCXLCXv) | 4:59 |
 | 91 | [Váyanse Todos A Mamá](https://open.spotify.com/track/05r3MeRsOjqOymPj6KDzoC) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Váyanse Todos A Mamá](https://open.spotify.com/album/2wYOAS6qRNW0MVZ6ThpQbC) | 4:59 |
 

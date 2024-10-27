@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5?si=yo\-vYpHMTMWctqxLmUH\_zw">GSTRiNG</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,493 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,511 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -296,6 +318,24 @@
       "duration_ms": 174267,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/14C1wNCWXW9KZgQHCPCbWe"
+    },
+    {
+      "album": {
+        "name": "Bunny Girl",
+        "url": "https://open.spotify.com/album/1mxib3LFgnhuMciehemliH"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217492,
+      "name": "Bunny Girl",
+      "url": "https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h"
     },
     {
       "album": {
@@ -556,7 +596,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 182221,
       "name": "Doctor (Work It Out) [feat. Miley Cyrus]",
       "url": "https://open.spotify.com/track/4f9wNNZET9wH7eMBgONd3d"
@@ -578,6 +618,24 @@
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189897,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J"
     },
     {
       "album": {
@@ -988,7 +1046,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 263760,
       "name": "In The Living Room",
       "url": "https://open.spotify.com/track/7Kzy7StKclwXPJWFIJ7l1X"
@@ -1162,7 +1220,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
@@ -1591,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Over Each Other",
+        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
+    },
+    {
+      "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
       },
@@ -1772,6 +1848,24 @@
       "duration_ms": 222818,
       "name": "Runner's High",
       "url": "https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR"
+    },
+    {
+      "album": {
+        "name": "Same Blue",
+        "url": "https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237836,
+      "name": "Same Blue",
+      "url": "https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les"
     },
     {
       "album": {
@@ -2840,7 +2934,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 202535,
       "name": "\u611b\u3068U",
       "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
@@ -2876,7 +2970,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 187266,
       "name": "\u62e1\u6563\u30b7\u30c6",
       "url": "https://open.spotify.com/track/38N8inClTPvoyCE8umRT18"

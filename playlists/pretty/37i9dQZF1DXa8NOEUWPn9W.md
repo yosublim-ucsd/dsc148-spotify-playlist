@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > House music lives here\. United under one roof, featuring The Blessed Madonna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,950,082 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,950,108 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 9 | [All My Friends Are Hot](https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [All My Friends Are Hot](https://open.spotify.com/album/73VTNr5Sfek6XuuudiVaM0) | 2:59 |
 | 10 | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/track/0gCLVhDXFT8iPC63rABwr4) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Brand New \(feat\. James Vincent McMorrow and A\-Trak\)](https://open.spotify.com/album/4DNFg3mPxTEIlGHpPK06Bd) | 5:08 |
 | 11 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:39 |
-| 12 | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/track/0EWG5cpMUT0Jp0Pye9S0Ne) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/album/37nzbaUgb3Y5Tfx1JhObvR) | 3:00 |
+| 12 | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/track/0EWG5cpMUT0Jp0Pye9S0Ne) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/album/37nzbaUgb3Y5Tfx1JhObvR) | 3:00 |
 | 13 | [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Sam WOLFE](https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [YES B!TCH \(feat\. Rome Fortune\)](https://open.spotify.com/album/05DAvfknkXbvp2RkYs1R5a) | 2:33 |
 | 14 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 |
 | 15 | [Somedays](https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Somedays](https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK) | 3:27 |

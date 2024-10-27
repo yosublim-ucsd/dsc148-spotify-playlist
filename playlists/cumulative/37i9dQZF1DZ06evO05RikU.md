@@ -4,7 +4,7 @@
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 57 min
+78 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Il tuo profumo](https://open.spotify.com/track/0sqbGUEecNagMilnntIsuZ) | [Fred De Palma](https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Uebe](https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un) | 2:40 | 2023-09-25 |  |
 | [La Bachata](https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:16 | 2023-09-25 |  |
 | [La Batidora](https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:36 | 2023-11-10 |  |
+| [La Loca](https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [La Loca](https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96) | 3:47 | 2024-10-27 |  |
 | [Limones](https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 2:56 | 2023-09-25 | 2024-07-24 |
 | [Llegaste tú \(feat\. Reykon\)](https://open.spotify.com/track/79Bm3DTEYuQsDpUVHbSRsL) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Louder!.](https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8) | 3:45 | 2023-09-25 |  |
 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:52 | 2023-09-25 |  |

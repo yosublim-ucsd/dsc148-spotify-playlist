@@ -1,15 +1,31 @@
 {
   "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.",
-  "num_followers": 60843,
+  "num_followers": 60861,
   "original_name": "Gospel Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuKkhQAAAAB9BHNlQSCVwtRfTu9vCkNG",
+  "snapshot_id": "Zx2MhAAAAAACET31GXA/GHENwq6FfKAM",
   "tracks": [
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Joyful, Joyful: A Christmas Album",
+        "url": "https://open.spotify.com/album/4An2BQLzYuh01bcJGpDLKB"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/3GQ84gktFkyZjr8b8cfTZp"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "The Christmas Song (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
@@ -25,7 +41,23 @@
       "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Red & Green",
+        "url": "https://open.spotify.com/album/75zm0ijlN6oBLmd1i6l6F4"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 239012,
+      "name": "Red & Green",
+      "url": "https://open.spotify.com/track/0OA9nGUWhcTXFjq70repQ0"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4"
@@ -41,23 +73,23 @@
       "url": "https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
-        "name": "Joy To The World - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/7gHKfU5w1qlLNoOp9DNnyv"
+        "name": "Feels Like Christmas (Live)",
+        "url": "https://open.spotify.com/album/3zbwpgm0jj9SSiybjnzQzU"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
         }
       ],
-      "duration_ms": 237366,
-      "name": "Joy To The World - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/7eY3FLrGc3cdEj3xbMOfHl"
+      "duration_ms": 170398,
+      "name": "Everybody Knows - Live",
+      "url": "https://open.spotify.com/track/0Z7w4U1cX7QtpVhkoQG4Rs"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Fall in Love at Christmas",
         "url": "https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI"
@@ -81,23 +113,7 @@
       "url": "https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "Feels Like Christmas (Live)",
-        "url": "https://open.spotify.com/album/3zbwpgm0jj9SSiybjnzQzU"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 170398,
-      "name": "Everybody Knows - Live",
-      "url": "https://open.spotify.com/track/0Z7w4U1cX7QtpVhkoQG4Rs"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Psalms, Hymns & Spiritual Songs",
         "url": "https://open.spotify.com/album/20Ahz7xI2IFw7bdl0FE6On"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/5ebTabNcIlDSVJ4uylOcX3"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Very Maverick Christmas",
         "url": "https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/39vrg74sgzrd8fSX94e5RM"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Tori Kelly Christmas",
         "url": "https://open.spotify.com/album/3T1Te4622DNLaTajXIkY9l"
@@ -157,7 +173,39 @@
       "url": "https://open.spotify.com/track/64AQwAGYH1DhgeopzyJGMB"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Joy To The World - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7gHKfU5w1qlLNoOp9DNnyv"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 237366,
+      "name": "Joy To The World - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7eY3FLrGc3cdEj3xbMOfHl"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin & The Family",
+          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
+        }
+      ],
+      "duration_ms": 345200,
+      "name": "Jesus Is The Reason For The Season",
+      "url": "https://open.spotify.com/track/1uIZzIYJFm7HpWMSZYvH1h"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "8 Days Of Christmas",
         "url": "https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ"
@@ -177,55 +225,7 @@
       "url": "https://open.spotify.com/track/08GJVn2LyrveaRZvhSOV5Q"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "Like A Child",
-        "url": "https://open.spotify.com/album/16grvtJnFp58G4sS7rt7K9"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 172809,
-      "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/1eDJEL8bpj88WReUBTaYxb"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & The Family",
-          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
-        }
-      ],
-      "duration_ms": 345200,
-      "name": "Jesus Is The Reason For The Season",
-      "url": "https://open.spotify.com/track/1uIZzIYJFm7HpWMSZYvH1h"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "The Star - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/4AnL89Yy1KzghgRufxv2BX"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 246986,
-      "name": "We Three Kings",
-      "url": "https://open.spotify.com/track/0Tvb3mQASB2LpcB28aELxy"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "O Come, O Come Emmanuel (feat. IAMSON)",
         "url": "https://open.spotify.com/album/7CDPF0LkzljWNbw1TbD0zw"
@@ -245,39 +245,7 @@
       "url": "https://open.spotify.com/track/6dH57NYV3qppnaef1bx6QP"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "Mary Did You Know? (Radio Version)",
-        "url": "https://open.spotify.com/album/0I7r8bytAaTnRtjukX0MJ5"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        }
-      ],
-      "duration_ms": 174320,
-      "name": "Mary Did You Know? - Radio Version",
-      "url": "https://open.spotify.com/track/3msuA22zBie3qiCG7BVf9L"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "The Gift",
-        "url": "https://open.spotify.com/album/2wC0LQeUpBAEUqW4Ca0J41"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 247141,
-      "name": "Generous God (Gloria)",
-      "url": "https://open.spotify.com/track/6WS8XlgxOp6rEqZGAjj0CY"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "One Wish / The Holiday Album",
         "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
@@ -293,7 +261,39 @@
       "url": "https://open.spotify.com/track/2rMq0mJtZhgXwwn46qFGLK"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "The Gift",
+        "url": "https://open.spotify.com/album/2wC0LQeUpBAEUqW4Ca0J41"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 247141,
+      "name": "Generous God (Gloria)",
+      "url": "https://open.spotify.com/track/6WS8XlgxOp6rEqZGAjj0CY"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Mary Did You Know? (Radio Version)",
+        "url": "https://open.spotify.com/album/0I7r8bytAaTnRtjukX0MJ5"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        }
+      ],
+      "duration_ms": 174320,
+      "name": "Mary Did You Know? - Radio Version",
+      "url": "https://open.spotify.com/track/3msuA22zBie3qiCG7BVf9L"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Christmas With PJ Morton",
         "url": "https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/4Arl2nYTR4A0vTs4im5mYb"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/1PehjA0qDUsDeLJY7yIZ8v"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/21HybBY92stwLkDGNMvB6N"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "He Shall Reign",
         "url": "https://open.spotify.com/album/4TTqJzfb7GKJy9VOz4GqpB"
@@ -353,23 +353,107 @@
       "url": "https://open.spotify.com/track/1RV5mHAAko9d2oM7sAkjuf"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0gwUzsFLnpWbXBXPuSVJ6z"
+        "name": "Go Tell It",
+        "url": "https://open.spotify.com/album/05kyKUGuOV18byxkRCmLCs"
       },
       "artists": [
         {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
         }
       ],
-      "duration_ms": 248023,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/1jKORq0awoj9ZLvP7z8R5j"
+      "duration_ms": 205138,
+      "name": "Oh What A Gift",
+      "url": "https://open.spotify.com/track/76o632mxehS0QgWFlBmlwB"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "The Star - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4AnL89Yy1KzghgRufxv2BX"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 246986,
+      "name": "We Three Kings",
+      "url": "https://open.spotify.com/track/0Tvb3mQASB2LpcB28aELxy"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Christmas With Dottie",
+        "url": "https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU"
+      },
+      "artists": [
+        {
+          "name": "Dottie Peoples",
+          "url": "https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Jesus What a Wonderful Child",
+      "url": "https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin & The Family",
+          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
+        }
+      ],
+      "duration_ms": 318400,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/4Ck4Qah5oq4a8hyVROESHj"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Fall In Love With Christmas Again",
+        "url": "https://open.spotify.com/album/2OqpILhCwceV8ymEpHCbPB"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Kennedy + Jay",
+          "url": "https://open.spotify.com/artist/3ce0yzTNJx60nvTvHEYcay"
+        }
+      ],
+      "duration_ms": 219081,
+      "name": "Fall In Love With Christmas Again",
+      "url": "https://open.spotify.com/track/5u6czSg2XmbwWwWID9BxvZ"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Very Maverick Christmas",
         "url": "https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ"
@@ -393,91 +477,7 @@
       "url": "https://open.spotify.com/track/0vuR826xMexFpO8pPJOmc0"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "Christmas With Dottie",
-        "url": "https://open.spotify.com/album/6fgwFXYGyJ6XgCtxCjLKJU"
-      },
-      "artists": [
-        {
-          "name": "Dottie Peoples",
-          "url": "https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Jesus What a Wonderful Child",
-      "url": "https://open.spotify.com/track/0lhWmXuHinXh3CTXOVECEC"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & The Family",
-          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
-        }
-      ],
-      "duration_ms": 318400,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/4Ck4Qah5oq4a8hyVROESHj"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "First Christmas",
-        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
-      },
-      "artists": [
-        {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
-        }
-      ],
-      "duration_ms": 263866,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "Fall In Love With Christmas Again",
-        "url": "https://open.spotify.com/album/2OqpILhCwceV8ymEpHCbPB"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "Kennedy + Jay",
-          "url": "https://open.spotify.com/artist/3ce0yzTNJx60nvTvHEYcay"
-        }
-      ],
-      "duration_ms": 219081,
-      "name": "Fall In Love With Christmas Again",
-      "url": "https://open.spotify.com/track/5u6czSg2XmbwWwWID9BxvZ"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "Fred Hammond Christmas... Just Remember",
-        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
-      },
-      "artists": [
-        {
-          "name": "Fred Hammond",
-          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
-        }
-      ],
-      "duration_ms": 230026,
-      "name": "Go Tell It On The Mountain",
-      "url": "https://open.spotify.com/track/1wJ8rs2jbN3fE1aRU3IsNa"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Oba Ti De (The King Has Come)",
         "url": "https://open.spotify.com/album/7b1uYXS3lvyK5mKOnE9hFH"
@@ -493,7 +493,23 @@
       "url": "https://open.spotify.com/track/6xjVbr6rKmM1KIu0lvIDd9"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Fred Hammond Christmas... Just Remember",
+        "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "Go Tell It On The Mountain",
+      "url": "https://open.spotify.com/track/1wJ8rs2jbN3fE1aRU3IsNa"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "This Christmas (Recorded At Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/3X3z40mBB0GyMVX3LFRfrg"
@@ -509,7 +525,23 @@
       "url": "https://open.spotify.com/track/0Kdhb8UqEMYPjUMOXRQWD0"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0gwUzsFLnpWbXBXPuSVJ6z"
+      },
+      "artists": [
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        }
+      ],
+      "duration_ms": 248023,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/1jKORq0awoj9ZLvP7z8R5j"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "One Place Live (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8"
@@ -525,31 +557,7 @@
       "url": "https://open.spotify.com/track/5rOvqA7zdL4jliyUNHjgNN"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "Joy Is Here (Live)",
-        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        },
-        {
-          "name": "Gathering Place Worship Choir",
-          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
-        }
-      ],
-      "duration_ms": 499448,
-      "name": "We Adore You - Live",
-      "url": "https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Motown Christmas",
         "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
@@ -569,7 +577,7 @@
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "It's Christmas",
         "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
@@ -585,7 +593,7 @@
       "url": "https://open.spotify.com/track/4DEyCl5t6wuxLZnUBQss8N"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "O Holy Night",
         "url": "https://open.spotify.com/album/5vfXOSlFK6iXixw7PXHIpe"
@@ -605,23 +613,23 @@
       "url": "https://open.spotify.com/track/6vhEfu9CT6t8eH2hJNf48l"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
-        "name": "Silent Night: Songs For Christmas",
-        "url": "https://open.spotify.com/album/5xInXUBHp3zpSTpwUsgvmp"
+        "name": "Like A Child",
+        "url": "https://open.spotify.com/album/16grvtJnFp58G4sS7rt7K9"
       },
       "artists": [
         {
-          "name": "Mahalia Jackson",
-          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
         }
       ],
-      "duration_ms": 234440,
-      "name": "O Little Town of Bethlehem",
-      "url": "https://open.spotify.com/track/68edTo4Prl09iToMTtqanW"
+      "duration_ms": 172809,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/1eDJEL8bpj88WReUBTaYxb"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Hear Feel Play Christmas",
         "url": "https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx"
@@ -645,7 +653,23 @@
       "url": "https://open.spotify.com/track/5OBE1D4jtm1TJUZmViqOQQ"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Silent Night: Songs For Christmas",
+        "url": "https://open.spotify.com/album/5xInXUBHp3zpSTpwUsgvmp"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+        }
+      ],
+      "duration_ms": 234440,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/68edTo4Prl09iToMTtqanW"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Mary Mary Christmas",
         "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
@@ -661,7 +685,7 @@
       "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Tell God Thank You",
         "url": "https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ"
@@ -677,7 +701,7 @@
       "url": "https://open.spotify.com/track/0fEHRLNtuI86lLu02JAXY5"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh"
@@ -693,7 +717,7 @@
       "url": "https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Hello Christmas",
         "url": "https://open.spotify.com/album/3UjtKsPzVAjSrI4R3jr1Ly"
@@ -713,7 +737,7 @@
       "url": "https://open.spotify.com/track/3vjZ6PHJ6QOLHjo1P1K3re"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Mothers And Shepherds",
         "url": "https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj"
@@ -733,7 +757,7 @@
       "url": "https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4nqXQtHR0LvUKpqlqdFiZu"
@@ -749,7 +773,7 @@
       "url": "https://open.spotify.com/track/6uNbbgZQjCSetcstGKFGbp"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Timeless Christmas",
         "url": "https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8"
@@ -765,7 +789,7 @@
       "url": "https://open.spotify.com/track/32u9xTZ9N9fJX9mMNymVhx"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Family Christmas",
         "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
@@ -781,7 +805,7 @@
       "url": "https://open.spotify.com/track/2M4bPMboF6KmA4paixqo0I"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "This Christmas Live",
         "url": "https://open.spotify.com/album/3OJ0sHFz461MWifO2LFkvN"
@@ -797,7 +821,7 @@
       "url": "https://open.spotify.com/track/5LmVA12cXHnJpUGi4ky6cz"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Fred Hammond Christmas... Just Remember",
         "url": "https://open.spotify.com/album/60FGRPh1qIBo8lXzk5Vkv9"
@@ -813,7 +837,7 @@
       "url": "https://open.spotify.com/track/2kqPEt1i8GxrBdTC0xpbFL"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Christmas with Yolanda Adams",
         "url": "https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5"
@@ -829,7 +853,7 @@
       "url": "https://open.spotify.com/track/5vSRDbe5QYVeGrug8hFEER"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Home This Christmas",
         "url": "https://open.spotify.com/album/3DPjsXVOAFrgnuujEnJyJc"
@@ -857,7 +881,7 @@
       "url": "https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Christmas Card",
         "url": "https://open.spotify.com/album/3nDsomMe31JVCIlnaQizwU"
@@ -877,7 +901,7 @@
       "url": "https://open.spotify.com/track/4gGEaTqjTlEK0uf3guEhDI"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "First Christmas",
         "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
@@ -893,7 +917,7 @@
       "url": "https://open.spotify.com/track/6vCh1sz0DsccWhs5nJHk3q"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "He Is Christmas",
         "url": "https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR"
@@ -909,7 +933,7 @@
       "url": "https://open.spotify.com/track/7lOXKKbn55lAJuTQIRopL1"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "His Gift",
         "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
@@ -925,7 +949,7 @@
       "url": "https://open.spotify.com/track/00RtAVdwxMbzkGAClFmZpo"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Verity Records: The First Decade, A Celebration Of Christmas",
         "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
@@ -945,7 +969,7 @@
       "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "The Christmas Collection, Vol. II",
         "url": "https://open.spotify.com/album/6NgePcACnWDn6juiNatZc9"
@@ -961,7 +985,7 @@
       "url": "https://open.spotify.com/track/7cIXP0NlDmF1MYy9rMrvLA"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Hello Christmas",
         "url": "https://open.spotify.com/album/3UjtKsPzVAjSrI4R3jr1Ly"
@@ -985,7 +1009,7 @@
       "url": "https://open.spotify.com/track/1CLKbZfiNy5LoSOsJtOE4c"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Mary Mary Christmas",
         "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
@@ -1001,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2v73c52CSbgGcYnpoGF7Dw"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Infinite Christmas",
         "url": "https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h"
@@ -1017,7 +1041,7 @@
       "url": "https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "For Christmas",
         "url": "https://open.spotify.com/album/50ZqgHJTyMexdhWLWPP9kB"
@@ -1033,7 +1057,7 @@
       "url": "https://open.spotify.com/track/4Xng9dh4pebQMuPpEv8Vpe"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "I'll Be Thinking of You",
         "url": "https://open.spotify.com/album/1aabBowSBelQ7nPqOSbCe5"
@@ -1049,7 +1073,7 @@
       "url": "https://open.spotify.com/track/0qRAekAEOE5cW0EdXKfOYz"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Great Christmas",
         "url": "https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw"
@@ -1065,7 +1089,7 @@
       "url": "https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Joy to the World",
         "url": "https://open.spotify.com/album/6Uw2K7lvvXSKZkSO8JCreM"
@@ -1081,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5Ta266xo0Lzq5c4Kgm4rot"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "What Christmas Really Means",
         "url": "https://open.spotify.com/album/4ZNkaeKVTxeVewNBM9fLLw"
@@ -1097,7 +1121,7 @@
       "url": "https://open.spotify.com/track/0ADx1ssYtTWJODfaTAfL8O"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Warm",
         "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
@@ -1117,7 +1141,7 @@
       "url": "https://open.spotify.com/track/5spzlJAr9QnRzkF0kJhGhv"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Praise Your Name",
         "url": "https://open.spotify.com/album/0Jf5B7Jjlq6f2UmQgzjHOh"
@@ -1137,7 +1161,7 @@
       "url": "https://open.spotify.com/track/3ANx51wHXUBqD2EhHcC5FK"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "At Christmas",
         "url": "https://open.spotify.com/album/3jmX3MSnMgdVtr8Lni0Sdt"
@@ -1153,7 +1177,7 @@
       "url": "https://open.spotify.com/track/0pS8XbINFfYdlFo8W8Z41L"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Timeless Christmas",
         "url": "https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8"
@@ -1169,7 +1193,7 @@
       "url": "https://open.spotify.com/track/3xizrkWnSm5XHZ9HAatpbq"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Motown Christmas",
         "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
@@ -1185,7 +1209,7 @@
       "url": "https://open.spotify.com/track/6w8pIZZHREBSk1qpHuA7cB"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Joy To The World",
         "url": "https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK"
@@ -1201,7 +1225,7 @@
       "url": "https://open.spotify.com/track/3DeqedtaqSp4TDnYD5VXcy"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Christmas with Mahalia",
         "url": "https://open.spotify.com/album/0MXMxhg7CR3TMsvlnwWJT0"
@@ -1217,7 +1241,7 @@
       "url": "https://open.spotify.com/track/4oA28gyvU6PMCH9nAGP2z1"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Holiday Love Sounds of Christmas",
         "url": "https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs"
@@ -1237,7 +1261,7 @@
       "url": "https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Christmas Time Is Here",
         "url": "https://open.spotify.com/album/1oH2Jh8UaBTy8EgQPrW7Gj"
@@ -1253,7 +1277,7 @@
       "url": "https://open.spotify.com/track/2EPBlKjnAF8KqRHYGQkIbt"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
@@ -1269,7 +1293,7 @@
       "url": "https://open.spotify.com/track/12cTeug1pE6zXTxZY5tJHj"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Christmas with Yolanda Adams",
         "url": "https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5"
@@ -1285,7 +1309,7 @@
       "url": "https://open.spotify.com/track/2EtIX4Jay8443y66nzTTpr"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Let There Be Peace on Earth",
         "url": "https://open.spotify.com/album/0hTxmgpCiExm895BIhQ6Vv"
@@ -1305,7 +1329,7 @@
       "url": "https://open.spotify.com/track/2oD7uX89PowHqD3CPFkULx"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Holiday Love Sounds of Christmas",
         "url": "https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs"
@@ -1321,7 +1345,7 @@
       "url": "https://open.spotify.com/track/5Xlqkwclz9W9aW8yeles2Q"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Christmas Joy",
         "url": "https://open.spotify.com/album/04GuFkpdc8tIOklBEsS8Tl"
@@ -1337,7 +1361,7 @@
       "url": "https://open.spotify.com/track/160XASc2EehpJy98jRemCI"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Emmanuel is Here",
         "url": "https://open.spotify.com/album/7MLDmQxZUyRAtVQ8cSLbmf"
@@ -1353,7 +1377,7 @@
       "url": "https://open.spotify.com/track/0DDNfG9ZxThYp79QSsp36H"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Home With You (feat. Chant\u00e9 Moore)",
         "url": "https://open.spotify.com/album/4SP3l1UjxAcb1Tj7NmqCdu"
@@ -1373,7 +1397,7 @@
       "url": "https://open.spotify.com/track/6vXINx2IM1WpPYMm3xb816"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Family Christmas",
         "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
@@ -1389,7 +1413,7 @@
       "url": "https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Motown Gospel Christmas",
         "url": "https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr"
@@ -1405,7 +1429,7 @@
       "url": "https://open.spotify.com/track/3oKfngho6ZWUTlWN3p5nIR"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Maranda Presents A Holy Christmas",
         "url": "https://open.spotify.com/album/0c1zGZMDhb2UNZlmQ8cfKN"
@@ -1425,7 +1449,7 @@
       "url": "https://open.spotify.com/track/3ucYWAeWRbwmR5sUzyGjnA"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Soulful Holiday",
         "url": "https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT"
@@ -1441,7 +1465,7 @@
       "url": "https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Motown Gospel Christmas",
         "url": "https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr"
@@ -1457,7 +1481,7 @@
       "url": "https://open.spotify.com/track/2vbCMcecSWwccm1ojWKOaZ"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Jesus Oh What a Wonderful Child",
         "url": "https://open.spotify.com/album/4MRqalm1uAT8EohleX3W9O"
@@ -1473,23 +1497,7 @@
       "url": "https://open.spotify.com/track/6F6mzjDsaDHYxxFyWtMwTt"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "Christmas Best",
-        "url": "https://open.spotify.com/album/058tFyVjMZg2AvSfuRpaDR"
-      },
-      "artists": [
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 160960,
-      "name": "Noel",
-      "url": "https://open.spotify.com/track/1vcmDhNzB2BnmciwE6H6f7"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Mary, Did You Know?",
         "url": "https://open.spotify.com/album/1tNNGU5nKBWK4kCn7fKjtR"
@@ -1505,7 +1513,23 @@
       "url": "https://open.spotify.com/track/6jnlivJEMYthMmpbCWBWHE"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Christmas Best",
+        "url": "https://open.spotify.com/album/058tFyVjMZg2AvSfuRpaDR"
+      },
+      "artists": [
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "duration_ms": 160960,
+      "name": "Noel",
+      "url": "https://open.spotify.com/track/1vcmDhNzB2BnmciwE6H6f7"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Heaven Sent (Gift)",
         "url": "https://open.spotify.com/album/40xoVCjXCcPPRBIsXVO1vf"
@@ -1525,7 +1549,7 @@
       "url": "https://open.spotify.com/track/0ooKBUcLFGskn1nq5cNNnB"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy"
@@ -1541,7 +1565,7 @@
       "url": "https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Family Christmas",
         "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
@@ -1557,7 +1581,7 @@
       "url": "https://open.spotify.com/track/4Zgd9TerFAB6delKBFITmX"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Christmas at Home with Juanita Bynum",
         "url": "https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN"
@@ -1573,7 +1597,7 @@
       "url": "https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Black Nativity: A Gospel Christmas Musical Experience",
         "url": "https://open.spotify.com/album/0YNDjOd9X8zQatXKeBxH2X"
@@ -1589,7 +1613,7 @@
       "url": "https://open.spotify.com/track/3lcGSSpKMK42flmisBIgwC"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Deitrick Haddon Christmas",
         "url": "https://open.spotify.com/album/7HYSm5yiDvvIX8oT9eAVwW"
@@ -1605,7 +1629,7 @@
       "url": "https://open.spotify.com/track/4qFMAM1cLrZ4eda48cBQbp"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/2Av22aITO2k7nSWL0QeRvY"
@@ -1621,7 +1645,7 @@
       "url": "https://open.spotify.com/track/7kAiSopIZQPmJIr2uxhlyP"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Verity Records: The First Decade, A Celebration Of Christmas",
         "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
@@ -1637,7 +1661,7 @@
       "url": "https://open.spotify.com/track/7peW5UXzirPe8Lhcsc3cxi"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/1Bep3JEfFFmVL8EA2Fugvz"
@@ -1657,7 +1681,7 @@
       "url": "https://open.spotify.com/track/08wpq3prs1o1DLQyNukmjB"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Presents The Family, No Christmas Without You",
         "url": "https://open.spotify.com/album/4INLEQC6BDLqHaCwoP8xY6"
@@ -1673,7 +1697,7 @@
       "url": "https://open.spotify.com/track/6BWDAG7jAXf6ZWRakQdKjn"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Christmas With Shirley Caesar",
         "url": "https://open.spotify.com/album/2qyAawhIrl41sHRVG7Zwzy"
@@ -1689,7 +1713,7 @@
       "url": "https://open.spotify.com/track/0KAERzL7Izhd5Knm9EDsnM"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/5WrSkuYU9dh2AbYMR5thQ0"
@@ -1713,7 +1737,7 @@
       "url": "https://open.spotify.com/track/0mGKRZQz3uENGLjEhXbsSr"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Joy To The World (feat. Eryka Edmund)",
         "url": "https://open.spotify.com/album/7nBbkSBamXj4ki3mlr53eY"
@@ -1733,7 +1757,7 @@
       "url": "https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Holiday Love (Radio Edit)",
         "url": "https://open.spotify.com/album/74W9K9aGmaTKAlwhwYqE0C"
@@ -1749,7 +1773,7 @@
       "url": "https://open.spotify.com/track/4zo7m7O0dB9oGaqp3Oixqh"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "I'm So Glad It's Christmas",
         "url": "https://open.spotify.com/album/1mDAVcoJ8sJGTWKgVY8GB3"
@@ -1765,7 +1789,7 @@
       "url": "https://open.spotify.com/track/3ooBBNfyGhJcctJuEvwQuF"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "The Gift of Christmas",
         "url": "https://open.spotify.com/album/1o6bELQCbdJaBMMVqVNPM6"
@@ -1781,7 +1805,7 @@
       "url": "https://open.spotify.com/track/2He6pRzFecj20ERLuqk5b5"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Holiday Love: The Rebirth",
         "url": "https://open.spotify.com/album/6ZrPBCoj4N9621iaZ4tuOI"
@@ -1797,7 +1821,7 @@
       "url": "https://open.spotify.com/track/76DWigqwydczFqlnEPB7Bf"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/0ASaO0DREGZATv0CoQlxAc"
@@ -1817,7 +1841,7 @@
       "url": "https://open.spotify.com/track/3bizf9qXDaLmDdhIVcTsVs"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Rejoice (with Vision)",
         "url": "https://open.spotify.com/album/2vENNMJ5dsWEf2bjpcvN97"
@@ -1837,7 +1861,7 @@
       "url": "https://open.spotify.com/track/3r1lK0GxyBJaGORF17XMpL"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A Charles Jenkins Christmas",
         "url": "https://open.spotify.com/album/2cBqPDfPm945PP4fHQ9QDs"
@@ -1853,7 +1877,7 @@
       "url": "https://open.spotify.com/track/55HGuPjF900qc1E3nTHPzQ"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Comfort and Joy",
         "url": "https://open.spotify.com/album/0awWnYlgaVcJ9KWQdYcis1"
@@ -1869,7 +1893,7 @@
       "url": "https://open.spotify.com/track/27Eci1q6LObKgx6wL0u0tM"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "The Real Meaning Of Christmas Volume 2",
         "url": "https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM"
@@ -1885,7 +1909,7 @@
       "url": "https://open.spotify.com/track/5FMoCyIlPwmEE5mdyBCJBi"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Make Room (feat. AB Vital-Herne)",
         "url": "https://open.spotify.com/album/3dkSaBic2mMrkF1oSYN8sb"
@@ -1905,7 +1929,7 @@
       "url": "https://open.spotify.com/track/5trAlg2Ejz3ISXt50oVbP2"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "For the Love of Christmas",
         "url": "https://open.spotify.com/album/7djfkEeCbJJpf3HLQDjhRC"
@@ -1945,7 +1969,7 @@
       "url": "https://open.spotify.com/track/2m1QvyW8nEGt8lvd460ol1"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "The Real Meaning Of Christmas Volume 2",
         "url": "https://open.spotify.com/album/3NJ0ufceK9IpaPOrb4uZRM"
@@ -1961,7 +1985,7 @@
       "url": "https://open.spotify.com/track/3j4soLmqnjVevHHTUpnbJT"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "My Christmas Prayer",
         "url": "https://open.spotify.com/album/24QzSoc6Pw3RoPVhyDqyBL"
@@ -1977,7 +2001,7 @@
       "url": "https://open.spotify.com/track/3T8eTfnvbDKKfCKaN3TsOF"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/24IoAKBtORiFhOt6Po1B2n"
@@ -1993,7 +2017,7 @@
       "url": "https://open.spotify.com/track/5z0XBkinFlgjmpbKou7pjc"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "You Bring The Love",
         "url": "https://open.spotify.com/album/58VcFrioXE1f8hhqwqA6y6"
@@ -2017,7 +2041,31 @@
       "url": "https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
+        }
+      ],
+      "duration_ms": 499448,
+      "name": "We Adore You - Live",
+      "url": "https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE"
+    },
+    {
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Follow That Star",
         "url": "https://open.spotify.com/album/4H2iB9EQCZD4Zl031kB8ML"
@@ -2033,7 +2081,7 @@
       "url": "https://open.spotify.com/track/6GlITLVkUAH2XsVNuUWeLj"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "O Holy Night (Amapiano)",
         "url": "https://open.spotify.com/album/7IWxsAiyW3GnBaM2gWW81T"
@@ -2053,7 +2101,7 @@
       "url": "https://open.spotify.com/track/3QI8wVjDKqVMJAc5jDfHei"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Grace Gift",
         "url": "https://open.spotify.com/album/06k8Eb1dWqQp4msyqsr4Kr"
@@ -2073,7 +2121,7 @@
       "url": "https://open.spotify.com/track/1YVPVe19tyyZkVdbH2W0Fk"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A J Holiday",
         "url": "https://open.spotify.com/album/7nYI4O4KW5oXYITzggtu6M"
@@ -2093,7 +2141,7 @@
       "url": "https://open.spotify.com/track/2pcA8F0cSYeMhXCHqBxBoX"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Christmas Pick Me Up",
         "url": "https://open.spotify.com/album/44odr8fGUzUtNRRNqeTyJu"
@@ -2113,7 +2161,7 @@
       "url": "https://open.spotify.com/track/0QN8SGs82YIuYsz2wOAH9N"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Gospel Heritage Christmas Vol. 2",
         "url": "https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p"
@@ -2129,7 +2177,7 @@
       "url": "https://open.spotify.com/track/2ROTDFwYPHaf1xlEWVVOta"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "A VGNBae Christmas",
         "url": "https://open.spotify.com/album/0U8IUFHq5HDnMOTpH5HeVj"
@@ -2149,7 +2197,7 @@
       "url": "https://open.spotify.com/track/7MF4wDB1bvI0QpOwIrAIuO"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "Gospel Heritage Christmas Vol. 2",
         "url": "https://open.spotify.com/album/401xeKiJnhyWCWDLdca40p"
@@ -2165,7 +2213,7 @@
       "url": "https://open.spotify.com/track/3GiK89ZgpCTYgefDuHLP0Y"
     },
     {
-      "added_at": "2024-09-12 08:21:25",
+      "added_at": "2024-10-27 00:42:44",
       "album": {
         "name": "All About Christ",
         "url": "https://open.spotify.com/album/3rmvbkeXmb9eTQOj26Hg6t"
@@ -2179,58 +2227,6 @@
       "duration_ms": 201475,
       "name": "All About Christ",
       "url": "https://open.spotify.com/track/4ALHLGk4L3iJ1FsaHbnQWu"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "You Are Our Joy Christmas - Single",
-        "url": "https://open.spotify.com/album/5ZZZb56SsULyqOgcgTzuMi"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "You Are Our Joy Christmas",
-      "url": "https://open.spotify.com/track/1ubujbBg5S9NvxNtmJzOBB"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "This Christmas Aretha",
-        "url": "https://open.spotify.com/album/3JEvXjX2yApZaGLuXjBAc5"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 232720,
-      "name": "Christmas Ain't Christmas (Without The One You Love)",
-      "url": "https://open.spotify.com/track/7mzQgvrYsw1U1dGYUgCTHH"
-    },
-    {
-      "added_at": "2024-09-12 08:21:25",
-      "album": {
-        "name": "Away In A Manger",
-        "url": "https://open.spotify.com/album/4ZENQNgVwl7qkgHIhmDOk6"
-      },
-      "artists": [
-        {
-          "name": "The McCrary Sisters",
-          "url": "https://open.spotify.com/artist/2YXGrg4YP1eBA4bLPTP5lq"
-        },
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "Joyful, Joyful",
-      "url": "https://open.spotify.com/track/1lu6ScmSxrsI0J2FzjohGw"
     }
   ],
   "unique_name": "Gospel Christmas",

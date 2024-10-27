@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9?si=sNzKEja4QUSyKbvVx\_7TLQ">25K</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,565 likes - 85 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,651 likes - 85 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 17 | [Bath’uThwele](https://open.spotify.com/track/7bEvEjWP4LN8r5feX5Y93b) | [TNS](https://open.spotify.com/artist/5uAbOIIAk6nHfy7gikjmYy), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86) | [Bath’uThwele](https://open.spotify.com/album/6zf424xOIYmRHdPougQ9oM) | 5:06 |
 | 18 | [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 |
 | 19 | [Saint Tropez](https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 3:02 |
-| 20 | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 3:54 |
+| 20 | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 7:51 |
 | 21 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 |
 | 22 | [You Don’t Love Me](https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [You Don’t Love Me](https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9) | 2:37 |
 | 23 | [Telly](https://open.spotify.com/track/6MOIqaJai7o7NQ4jCbDbLI) | [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Telly](https://open.spotify.com/album/1z5bNapZnBVaXzTGbcJgLn) | 2:07 |

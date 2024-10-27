@@ -14107,6 +14107,24 @@
     },
     {
       "album": {
+        "name": "Double Time",
+        "url": "https://open.spotify.com/album/1BMXPORYXkdUNmkPrUow1z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125350,
+      "name": "Double Time",
+      "url": "https://open.spotify.com/track/1TbRmfLl7wT5MjrKKigGbU"
+    },
+    {
+      "album": {
         "name": "Double Tragedy",
         "url": "https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H"
       },
@@ -16434,7 +16452,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 247580,
       "name": "FAR FETCHED (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5ZY1qGibLsa2xZm0XUe36g"

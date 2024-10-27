@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,570 likes - 104 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,648 likes - 104 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

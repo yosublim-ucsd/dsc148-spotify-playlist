@@ -51365,6 +51365,24 @@
     },
     {
       "album": {
+        "name": "Pilihan Hidup",
+        "url": "https://open.spotify.com/album/5lEwjsQPhZZH7LboRc3ZKh"
+      },
+      "artists": [
+        {
+          "name": "Verchiel",
+          "url": "https://open.spotify.com/artist/6nmzfjDNgeYzaBxfrApvHj"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284500,
+      "name": "Pilihan Hidup",
+      "url": "https://open.spotify.com/track/7DkpLwefafPoS4nCiLBCw4"
+    },
+    {
+      "album": {
         "name": "Pilihan Terbaik",
         "url": "https://open.spotify.com/album/4Y8bywAxl6oWnqyqvULjJ0"
       },

@@ -1,13 +1,37 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 14693,
+  "num_followers": 14699,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAADjkLFsy3l8SZfoABSFfCg9",
+  "snapshot_id": "ZxrfgAAAAAABqXwawY014sdQLVNyxg9Z",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire (with J Boog)",
+        "url": "https://open.spotify.com/album/6durB9swq3vS70jO5K3MBs"
+      },
+      "artists": [
+        {
+          "name": "Hector Roots Lewis",
+          "url": "https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        }
+      ],
+      "duration_ms": 241675,
+      "name": "Fire (with J Boog)",
+      "url": "https://open.spotify.com/track/4ZNfOxcDF2aycOslsOMbhs"
+    },
     {
       "added_at": null,
       "album": {
@@ -275,26 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monterey or Bust, Vol. 2",
-        "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
+        "name": "See Her Again - Single",
+        "url": "https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV"
       },
       "artists": [
         {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        },
-        {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 193400,
-      "name": "No Other Love",
-      "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
+      "duration_ms": 189677,
+      "name": "See Her Again",
+      "url": "https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid"
     },
     {
       "added_at": null,
@@ -315,18 +331,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "See Her Again - Single",
-        "url": "https://open.spotify.com/album/1f5ECVICe8ixZ9BBiCCrkV"
+        "name": "Monterey or Bust, Vol. 2",
+        "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
       },
       "artists": [
         {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 189677,
-      "name": "See Her Again",
-      "url": "https://open.spotify.com/track/3Ibxs1OxL9wH3jBwpIQGid"
+      "duration_ms": 193400,
+      "name": "No Other Love",
+      "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
     },
     {
       "added_at": null,

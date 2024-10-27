@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "JAGUAR II : Deluxe",
+        "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149195,
+      "name": "1900's",
+      "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
+    },
+    {
+      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -227,6 +245,24 @@
     },
     {
       "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134786,
+      "name": "Bad Idea",
+      "url": "https://open.spotify.com/track/4hTFbz1G3He7e3MKqXjcGx"
+    },
+    {
+      "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
       },
@@ -242,7 +278,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 173087,
       "name": "Big Boy (feat. Starrah)",
       "url": "https://open.spotify.com/track/6617OvEesvCz7kGfXLYW4h"
@@ -814,10 +850,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 235693,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/1cAL4sFzXXRMbpZnTPa7Zi"
+    },
+    {
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200613,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/5Ssv6DaKrW0HczVqx6zXdl"
     },
     {
       "album": {
@@ -982,7 +1036,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 240666,
       "name": "Doo Wop (That Thing) - Edit",
       "url": "https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls"
@@ -1132,7 +1186,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 206080,
       "name": "Formation",
       "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
@@ -1370,7 +1424,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 213987,
       "name": "Gone (with Bryson Tiller)",
       "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
@@ -1530,7 +1584,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 193173,
       "name": "Guess",
       "url": "https://open.spotify.com/track/51t119U9qFdDHorI8GpNPb"
@@ -2018,7 +2072,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 167493,
       "name": "Know Myself",
       "url": "https://open.spotify.com/track/0d8anwJJGti8jE79Y4tXUD"
@@ -2268,6 +2322,24 @@
       "duration_ms": 255773,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0"
+    },
+    {
+      "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217304,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
     },
     {
       "album": {
@@ -3309,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "album": {
         "name": "When I Hear Your Name",
         "url": "https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM"
       },
@@ -3681,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183193,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM"
+    },
+    {
+      "album": {
         "name": "Smoke (feat. Lucky Daye)",
         "url": "https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA"
       },
@@ -3696,10 +3804,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 186157,
       "name": "Smoke (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
+    },
+    {
+      "album": {
+        "name": "Sunday At Zuri's",
+        "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184552,
+      "name": "Soh-Soh",
+      "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
       "album": {
@@ -4454,6 +4580,24 @@
       "duration_ms": 281906,
       "name": "Who's That Girl?",
       "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
+    },
+    {
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/0heiEtIymWsOMyXwxvb7cR"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205139,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
       "album": {

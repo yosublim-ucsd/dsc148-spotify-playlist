@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 789527,
+  "num_followers": 789602,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAADdEgCIbR6LYyNJ5lcVFM0R",
+  "snapshot_id": "ZxrfgAAAAABsiL5+95lqMg3vxW432Toj",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1685 (feat. Muse)",
         "url": "https://open.spotify.com/album/2AxRNzVhdHgJwtCwbr405e"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 236189,
       "name": "1685 (feat. Muse)",
       "url": "https://open.spotify.com/track/0ZVjdWHetSBLb4udxSyofy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 262973,
-      "name": "Muscle Museum",
-      "url": "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Will Of The People",
         "url": "https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 206106,
       "name": "Thought Contagion",
       "url": "https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 262973,
+      "name": "Muscle Museum",
+      "url": "https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF"
     },
     {
       "added_at": null,

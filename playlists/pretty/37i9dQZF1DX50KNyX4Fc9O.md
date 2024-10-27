@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Mallrat
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,380 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,385 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 15 | [Empire](https://open.spotify.com/track/7fvEYq4YuLOmijzd38CPlV) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue](https://open.spotify.com/album/5PaINdUpmQ34V0zbg26xlj) | 3:04 |
 | 16 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 |
 | 17 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 |
-| 18 | [all i do](https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [Generation Numb](https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL) | 2:44 |
+| 18 | [all i do](https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [generation numb](https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL) | 2:44 |
 | 19 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 20 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 |
 | 21 | [People Still Show Up](https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [People Still Show Up](https://open.spotify.com/album/4RAsOX4JG7hH7BCvGoBfK4) | 2:52 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 33 | [Bye Bye Baby](https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bye Bye Baby](https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk) | 2:59 |
 | 34 | [Panic!](https://open.spotify.com/track/6DV5XP3UNJom7XLrL0fPYA) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Panic!](https://open.spotify.com/album/3ggN3FVPLnBfAKRxj6wXFQ) | 2:45 |
 | 35 | [Dirty Laundry](https://open.spotify.com/track/3O0VDbjTaFDKQlSyE54xxf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dirty Laundry](https://open.spotify.com/album/1toxicdmCTYNhoghfU51lT) | 2:21 |
-| 36 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 36 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 37 | [Where You Are](https://open.spotify.com/track/6hYLwcur3csaL9ztenvl3a) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Where You Are](https://open.spotify.com/album/45ns7SNpDKkcLIL4Hkg2wa) | 3:07 |
 | 38 | [like i do](https://open.spotify.com/track/507mnNkO1uEOEvGOniwYDh) | [Eluera](https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q) | [like i do](https://open.spotify.com/album/1P9YT61dPMTK0KmdVUqK8j) | 3:46 |
 | 39 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 |

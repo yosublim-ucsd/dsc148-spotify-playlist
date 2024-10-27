@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Ný tónlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,124 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,123 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 75 | [Signs](https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Signs](https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq) | 3:19 |
 | 76 | [Sometimes](https://open.spotify.com/track/7e7RYuXIC276vlW376STKH) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Hanno](https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg) | [Sometimes](https://open.spotify.com/album/1Xp77jDWWhFYAOEZ8IuwHZ) | 2:48 |
 | 77 | [Sweat](https://open.spotify.com/track/7xzQCX7zR9shiyMtSFF2cc) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Sweat](https://open.spotify.com/album/0IOUZGjCamqdOUxwC4GrWR) | 2:31 |
-| 78 | [The Stockholm Syndrome \- Vidojean X Oliver Loenn Remix](https://open.spotify.com/track/2I14DtGvTlRsuHJ0aGQuFN) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Kish](https://open.spotify.com/artist/1aibOIpcUeyXNAYrEJxZEt), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH), [Vidushan Ravindran](https://open.spotify.com/artist/4QElfwdpDZqAaOa07ufz0W), [Oliver Fridström Lönn](https://open.spotify.com/artist/5hPcD4MliX7VLsgj8VH3jm) | [The Stockholm Syndrome \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/4xzPPIWUtWD5hfeJDZQyfX) | 2:57 |
+| 78 | [The Stockholm Syndrome \- Vidojean X Oliver Loenn Remix](https://open.spotify.com/track/2I14DtGvTlRsuHJ0aGQuFN) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Kish](https://open.spotify.com/artist/1aibOIpcUeyXNAYrEJxZEt), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [The Stockholm Syndrome \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/4xzPPIWUtWD5hfeJDZQyfX) | 2:57 |
 | 79 | [Other Girls](https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Other Girls](https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD) | 3:18 |
 | 80 | [Fade Together](https://open.spotify.com/track/4aiIC5QqNtzPQcjzvB06sp) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Fade Together](https://open.spotify.com/album/1VIo7xdJoEqT7YFRooZlLC) | 5:00 |
 | 81 | [Provocateur](https://open.spotify.com/track/4WM16ujAuOr9QGwPkBT8u4) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Provocateur](https://open.spotify.com/album/7IIqR1U6AyKVYrLQeEbczI) | 2:54 |

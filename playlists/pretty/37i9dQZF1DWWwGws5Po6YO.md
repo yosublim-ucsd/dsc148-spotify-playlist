@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Hollie Kenniff
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,164 likes - 100 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,232 likes - 100 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

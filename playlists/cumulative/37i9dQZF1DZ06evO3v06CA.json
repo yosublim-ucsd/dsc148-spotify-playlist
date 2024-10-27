@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "Lost Cause",
+        "url": "https://open.spotify.com/album/2qmGTgkEnPBuRGrLgZuIV5"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212746,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/4xrdJ5V7HrfNwFWvaKak1n"
+    },
+    {
+      "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },

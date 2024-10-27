@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy and breezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,610 likes - 90 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,608 likes - 90 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 10 | [My Favourite Game](https://open.spotify.com/track/4GGu1HfGUG5qOBXgN1slUa) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M) | [My Favourite Game](https://open.spotify.com/album/5k19pURiFqjHnhl3zTr2EV) | 3:41 |
 | 11 | [Take Me Away](https://open.spotify.com/track/7t2Ic3EE3XOkUPlre0xGgm) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Take Me Away](https://open.spotify.com/album/4KV4UQydIms28mOGsIHWDj) | 3:06 |
 | 12 | [Yellow](https://open.spotify.com/track/0Qo7CkcDDO6DqFvXD50kYm) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [Yellow](https://open.spotify.com/album/3X0qecgrGCKkWRuZ0KfnZL) | 3:12 |
-| 13 | [Voices](https://open.spotify.com/track/4qjvWTRuEXI3eiRQgIbh96) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Voices](https://open.spotify.com/album/3jiuqMGhcLNUOsKGegQdwO) | 2:10 |
+| 13 | [Voices](https://open.spotify.com/track/4qjvWTRuEXI3eiRQgIbh96) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Voices](https://open.spotify.com/album/3jiuqMGhcLNUOsKGegQdwO) | 2:07 |
 | 14 | [Bloom](https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn) | [Bloom](https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd) | 2:32 |
 | 15 | [Unrequited](https://open.spotify.com/track/5bJR6i9egmQTzBuqez7eo7) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [fwd/slash](https://open.spotify.com/artist/6tFIXOQGf0Hld1gCjBkLaw) | [Unrequited](https://open.spotify.com/album/5vcOqTHsZfnlzcDoqxND2P) | 2:51 |
 | 16 | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/track/3RQHMgJrpWmWaTNbB5svBx) | [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj), [Jorden Dux](https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/album/0nSnzGCV5AvTxOgO3weiou) | 2:04 |

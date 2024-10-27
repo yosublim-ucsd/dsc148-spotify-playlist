@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 232053,
+  "num_followers": 232086,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAACpNFJ/VtFEZ+9dG1Ij9fla",
+  "snapshot_id": "ZxrfgAAAAAAjQkUKc6b6/3k0kYFDKe59",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dove c'\u00e8 musica",
         "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 335440,
       "name": "L'aurora",
       "url": "https://open.spotify.com/track/22jJTOMRp6aJrLROjDzcz4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Ahora Tu - Remastered 2021",
-      "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eros 30 (Spanish/Latin Version)",
         "url": "https://open.spotify.com/album/7aCxSW8pYwE5v1lRdw89tF"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 271093,
       "name": "Un Angel No Es",
       "url": "https://open.spotify.com/track/76vjX2eeCQyuFWHAyuo4Lu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Ahora Tu - Remastered 2021",
+      "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Battito Infinito",
-        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Ama",
-      "url": "https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 279666,
       "name": "Estrella Gemela",
       "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Battito Infinito",
+        "url": "https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Ama",
+      "url": "https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Certi Momenti",
-        "url": "https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 249893,
-      "name": "Ma che bello questo amore",
-      "url": "https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfetto",
         "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 228080,
       "name": "Sei Un Pensiero Speciale",
       "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Certi Momenti",
+        "url": "https://open.spotify.com/album/2tDqY2Aw9iCJtM9rtafPdd"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 249893,
+      "name": "Ma che bello questo amore",
+      "url": "https://open.spotify.com/track/12s8fpxTKhQl4HmKUKEYZv"
     },
     {
       "added_at": null,

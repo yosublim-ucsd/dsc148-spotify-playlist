@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 59246,
+  "num_followers": 59247,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABg+gumsSvKZEpzWovB7jxW",
+  "snapshot_id": "ZxrfgAAAAACPHVIkubxfzaQmsck0/y8K",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Lofi Christmas.",
-        "url": "https://open.spotify.com/album/18o8Xw3IFfjR6IoLsoY8xO"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "Home for the Holidays",
-      "url": "https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay (With Me).",
         "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 303355,
       "name": "Stay (With Me).",
       "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Lofi Christmas.",
+        "url": "https://open.spotify.com/album/18o8Xw3IFfjR6IoLsoY8xO"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "Home for the Holidays",
+      "url": "https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74"
     },
     {
       "added_at": null,

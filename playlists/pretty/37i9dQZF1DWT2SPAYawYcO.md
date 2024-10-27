@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Amyl and The Sniffers
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,191 likes - 113 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,227 likes - 113 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G2MXp8YYmm.md) - [plain]
 
 > Popun sevilen isimleri\. Kapak: İkilem
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,554 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,604 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 358150,
+  "num_followers": 358185,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAAAffI91y8WUdV7LLi2Abd0w",
+  "snapshot_id": "ZxrfgAAAAABIqU/39NiDah7kfPq2CbD+",
   "tracks": [
     {
       "added_at": null,
@@ -426,15 +426,11 @@
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 306000,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/5oq29tJEj14LjLjXyaXCEF"
+      "duration_ms": 424000,
+      "name": "Heart of a Child",
+      "url": "https://open.spotify.com/track/46lCvAJ3oFvkd8mKMsjJio"
     },
     {
       "added_at": null,
@@ -498,11 +494,15 @@
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 424000,
-      "name": "Heart of a Child",
-      "url": "https://open.spotify.com/track/46lCvAJ3oFvkd8mKMsjJio"
+      "duration_ms": 306000,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/5oq29tJEj14LjLjXyaXCEF"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "Heads in Georgia",
-      "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Jimmie Vaughan",
         "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
       },
@@ -915,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 249440,
+      "name": "Heads in Georgia",
+      "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -951,22 +951,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+        "name": "One Woman",
+        "url": "https://open.spotify.com/album/2g21A6cU3aJSXGmDxwJkL9"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 256866,
-      "name": "It's Easy",
-      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
+      "duration_ms": 290000,
+      "name": "One Woman",
+      "url": "https://open.spotify.com/track/2Qp9PjglYUa3rwgi2hRrMN"
     }
   ],
   "unique_name": "This Is Eric Clapton",

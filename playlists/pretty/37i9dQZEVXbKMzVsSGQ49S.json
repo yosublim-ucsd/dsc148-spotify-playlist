@@ -1,15 +1,175 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 42245,
+  "num_followers": 42251,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lq8HSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LrBbIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Svartkl\u00e6ddir",
+      "url": "https://open.spotify.com/track/7uimUbWqPGvuwzelOsBSAD"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 174066,
+      "name": "Yfir borgina",
+      "url": "https://open.spotify.com/track/4eY7MzP4tvfsExJx7KxFwh"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "Svefnlaus",
+      "url": "https://open.spotify.com/track/4QLKwpO7Dd30fr4UV8iSqc"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 136973,
+      "name": "Menningarstr\u00ed\u00f0",
+      "url": "https://open.spotify.com/track/5K5y7zaJsQFKk0LnQs0jrM"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 145053,
+      "name": "\u00der\u00e1hyggja",
+      "url": "https://open.spotify.com/track/57Et9vhK7czkuORjJ11yne"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Spjalla saman",
+      "url": "https://open.spotify.com/track/2s7W9w8K9eg4eZwZWmGsTn"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "I Can't Do This",
+        "url": "https://open.spotify.com/album/1IF7coVirqmpfJ1M0k5r5d"
+      },
+      "artists": [
+        {
+          "name": "phvrien",
+          "url": "https://open.spotify.com/artist/4V1JGaADDuIWiWsWFwoHVE"
+        }
+      ],
+      "duration_ms": 141909,
+      "name": "I Can't Do This",
+      "url": "https://open.spotify.com/track/53qdbojYem0XyIBnXxtp36"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 270813,
+      "name": "Hr\u00e6ddur",
+      "url": "https://open.spotify.com/track/7lxZwPSkeWH7gVls69WaW6"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 218280,
+      "name": "Engill",
+      "url": "https://open.spotify.com/track/4TR63fmqzqG9qCQ9J8mPDz"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 252213,
+      "name": "\u00c1n m\u00edn",
+      "url": "https://open.spotify.com/track/5Kuj0CVENlgFOn5KxLZJ06"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "\u00deEGAR \u00c9G SEGI MONN\u00cd",
         "url": "https://open.spotify.com/album/1EYEkxynekHLJ2Kyv1ZEnc"
@@ -25,27 +185,23 @@
       "url": "https://open.spotify.com/track/6BSGXVXtz8EMyyoSMcA1z8"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
-        "name": "St\u00f3rasta plata \u00ed heimi",
-        "url": "https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq"
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
       },
       "artists": [
         {
-          "name": "HubbaBubba",
-          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
-        },
-        {
-          "name": "\u00de\u00f3runn Anton\u00eda",
-          "url": "https://open.spotify.com/artist/6100Rwk1ypJpElhvxSKju4"
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Aldrei of seint",
-      "url": "https://open.spotify.com/track/64G6LcehgioFPs03gzbIv0"
+      "duration_ms": 207906,
+      "name": "\u00c1st",
+      "url": "https://open.spotify.com/track/7w0a6gsZjnnNtGr5Cr096g"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -65,7 +221,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "KBE kynnir: Legend \u00ed Leiknum",
         "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
@@ -81,7 +237,43 @@
       "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Ef \u00e9g dey",
+      "url": "https://open.spotify.com/track/0NVBNDMICMe6WeqgDVGyZv"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "St\u00f3rasta plata \u00ed heimi",
+        "url": "https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq"
+      },
+      "artists": [
+        {
+          "name": "HubbaBubba",
+          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
+        },
+        {
+          "name": "\u00de\u00f3runn Anton\u00eda",
+          "url": "https://open.spotify.com/artist/6100Rwk1ypJpElhvxSKju4"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Aldrei of seint",
+      "url": "https://open.spotify.com/track/64G6LcehgioFPs03gzbIv0"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "1918",
         "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
@@ -97,7 +289,23 @@
       "url": "https://open.spotify.com/track/0q2TiBDwdGZ4B8g3M7dNuO"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Floni 3",
+        "url": "https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5"
+      },
+      "artists": [
+        {
+          "name": "Floni",
+          "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        }
+      ],
+      "duration_ms": 181173,
+      "name": "S\u00e1rum",
+      "url": "https://open.spotify.com/track/16mce6RUORRIt5BkRG2LTI"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -113,7 +321,7 @@
       "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -129,23 +337,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "1918",
-        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
-      },
-      "artists": [
-        {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
-        }
-      ],
-      "duration_ms": 189107,
-      "name": "Draumaprins",
-      "url": "https://open.spotify.com/track/0anpZWVGOxY1KTM0z5U8qS"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
@@ -161,7 +353,23 @@
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "duration_ms": 189107,
+      "name": "Draumaprins",
+      "url": "https://open.spotify.com/track/0anpZWVGOxY1KTM0z5U8qS"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -181,7 +389,39 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "1918",
+        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "duration_ms": 130392,
+      "name": "Leikkona",
+      "url": "https://open.spotify.com/track/3KF2ggQWnAJV5QyK0PbJu3"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "St\u00f3rasta plata \u00ed heimi",
         "url": "https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq"
@@ -205,55 +445,7 @@
       "url": "https://open.spotify.com/track/6ueoaH3Id7USsN5hpqHZZ2"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "1918",
-        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
-      },
-      "artists": [
-        {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
-        }
-      ],
-      "duration_ms": 130392,
-      "name": "Leikkona",
-      "url": "https://open.spotify.com/track/3KF2ggQWnAJV5QyK0PbJu3"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -269,7 +461,23 @@
       "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "\u00deEGAR \u00c9G SEGI MONN\u00cd",
         "url": "https://open.spotify.com/album/1EYEkxynekHLJ2Kyv1ZEnc"
@@ -285,7 +493,7 @@
       "url": "https://open.spotify.com/track/7stOLFwEqgpv7LiTiVcAmm"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "Andvaka",
         "url": "https://open.spotify.com/album/7Dq9vXLX3tDD256JjbdrN9"
@@ -305,55 +513,39 @@
       "url": "https://open.spotify.com/track/5p8cnx65q4YJPGeCNlBbdI"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "Risa Tilkynning",
+        "url": "https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "ClubDub",
+          "url": "https://open.spotify.com/artist/5A5hVxY3BogJUch1IUcuw7"
         }
       ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+      "duration_ms": 130600,
+      "name": "bad bitch \u00ed RVK",
+      "url": "https://open.spotify.com/track/1qIEu0g7jbL4KhZbjTeVW9"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -373,7 +565,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -384,12 +576,28 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -400,108 +608,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "1918",
         "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
@@ -517,55 +629,119 @@
       "url": "https://open.spotify.com/track/7yrXhrDYVS95g4MaTpfccn"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
-        "name": "Risa Tilkynning",
-        "url": "https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "ClubDub",
-          "url": "https://open.spotify.com/artist/5A5hVxY3BogJUch1IUcuw7"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 130600,
-      "name": "bad bitch \u00ed RVK",
-      "url": "https://open.spotify.com/track/1qIEu0g7jbL4KhZbjTeVW9"
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
-        "name": "\u00deEGAR \u00c9G SEGI MONN\u00cd",
-        "url": "https://open.spotify.com/album/1EYEkxynekHLJ2Kyv1ZEnc"
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
       "artists": [
         {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 216240,
-      "name": "BAMBI",
-      "url": "https://open.spotify.com/track/7IEv17oae9Qk3oHRx8KSAy"
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+      "duration_ms": 191332,
+      "name": "\u00c6vint\u00fdral\u00f6nd",
+      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -581,7 +757,23 @@
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -597,7 +789,7 @@
       "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -613,7 +805,7 @@
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -629,23 +821,7 @@
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
     },
     {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "FOUR (Deluxe)",
-        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 226600,
-      "name": "Night Changes",
-      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
+      "added_at": "2024-10-26 15:37:20",
       "album": {
         "name": "\u00deEGAR \u00c9G SEGI MONN\u00cd",
         "url": "https://open.spotify.com/album/1EYEkxynekHLJ2Kyv1ZEnc"
@@ -663,198 +839,6 @@
       "duration_ms": 234186,
       "name": "UPP \u00c1 N\u00ddTT (feat. Daniil)",
       "url": "https://open.spotify.com/track/3e8qhPz2KzurmIMhQmTMGY"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "1918",
-        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
-      },
-      "artists": [
-        {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
-        }
-      ],
-      "duration_ms": 180328,
-      "name": "Fegurstu Bl\u00f3min Vaxa Villt",
-      "url": "https://open.spotify.com/track/4MvYscYDsTEMF4mleYceGK"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 86983,
-      "name": "NIGHTS LIKE THIS",
-      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "See You Again (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "1918",
-        "url": "https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd"
-      },
-      "artists": [
-        {
-          "name": "ICEGUYS",
-          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
-        }
-      ],
-      "duration_ms": 219519,
-      "name": "R\u00falletta",
-      "url": "https://open.spotify.com/track/0sif2VCq50LdzkNfqIKFEM"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "Til \u00ed allt, Pt. III",
-        "url": "https://open.spotify.com/album/09KYxBRoopLruITkHnv69i"
-      },
-      "artists": [
-        {
-          "name": "Fri\u00f0rik D\u00f3r",
-          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
-        },
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        },
-        {
-          "name": "Steindi Jr.",
-          "url": "https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE"
-        }
-      ],
-      "duration_ms": 234166,
-      "name": "Til \u00ed allt, Pt. III",
-      "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
-    },
-    {
-      "added_at": "2024-10-25 21:01:28",
-      "album": {
-        "name": "St\u00f3rasta plata \u00ed heimi",
-        "url": "https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq"
-      },
-      "artists": [
-        {
-          "name": "HubbaBubba",
-          "url": "https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma"
-        },
-        {
-          "name": "Luigi",
-          "url": "https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN"
-        }
-      ],
-      "duration_ms": 119520,
-      "name": "HubbaBubba",
-      "url": "https://open.spotify.com/track/6k0nYbjKbuhMIBxheISfwp"
     }
   ],
   "unique_name": "Top 50 - Iceland",

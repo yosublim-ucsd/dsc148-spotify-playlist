@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: Andr
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,954 likes - 134 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,963 likes - 134 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 9 | [JDM](https://open.spotify.com/track/19MlFC8yb076BCR8kVuuqZ) | [Chun Feng](https://open.spotify.com/artist/5YI9bsfmia2mwz7shRlTlz) | [JDM](https://open.spotify.com/album/5lrv2wHA3Q0v2AoKXwcSxe) | 3:10 |
 | 10 | [撲火的飛蛾](https://open.spotify.com/track/4s4zKHsHIYQJJKTo8e1sgf) | [ZEO](https://open.spotify.com/artist/7vtia4HP3xY8RPfBLIvkM6), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [撲火的飛蛾](https://open.spotify.com/album/1KogpwW4KG2cthGJKVOkLE) | 3:26 |
 | 11 | [BITE](https://open.spotify.com/track/2VdwhqPXMmjKH31CP5tq3a) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [BITE](https://open.spotify.com/album/1sieyXKdYpUAFPP1OJOvuL) | 2:51 |
-| 12 | [思念俱焚](https://open.spotify.com/track/0Nv4dWROueVRrdJFAOnX9G) | [OVDS](https://open.spotify.com/artist/73OoUzzgefq2AoHsfTZ39j), [柯泯薰](https://open.spotify.com/artist/3gSJBHeEHXFMeZx47m443S) | [思念俱焚](https://open.spotify.com/album/6LRa78vBMPgRAkMCPhuogg) | 6:12 |
+| 12 | [思念俱焚](https://open.spotify.com/track/0Nv4dWROueVRrdJFAOnX9G) | [OVDS](https://open.spotify.com/artist/73OoUzzgefq2AoHsfTZ39j), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [思念俱焚](https://open.spotify.com/album/6LRa78vBMPgRAkMCPhuogg) | 6:12 |
 | 13 | [咖啡因 \(feat\. CØZY\)](https://open.spotify.com/track/2se3LeCJL2vFCcmNzvtjr5) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh), [CØZY](https://open.spotify.com/artist/1WrNLZeznXRwf1cOJkN2ma) | [咖啡因 \(feat\. CØZY\)](https://open.spotify.com/album/5tnsQ0u5sbhWuWZ311E1RS) | 2:22 |
 | 14 | [Never the Same](https://open.spotify.com/track/265kjpZkgvapmEkEFIOZvp) | [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB) | [Never the Same](https://open.spotify.com/album/7ICXQ19jbK4TsMU7wvzSzP) | 3:32 |
 | 15 | [California Love \(夏日热恋\)](https://open.spotify.com/track/2O8vGHLHiOGYuCzvQafLpJ) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [California Love \(夏日热恋\)](https://open.spotify.com/album/7K11nx8Dbu7ekLrxAAULkN) | 2:33 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 53 | [你到底有什麼毛病](https://open.spotify.com/track/3wT74JdDdgDNHJEzRfAYHU) | [Dominant 7](https://open.spotify.com/artist/4UfMvNEDMy9yneqourV5c5) | [你到底有什麼毛病](https://open.spotify.com/album/2n9gIk639ai7qtnzLDyRhJ) | 2:51 |
 | 54 | [窒息](https://open.spotify.com/track/4cczKSyra9lTxPgdB0CWFj) | [葉又銘](https://open.spotify.com/artist/1vh7395Z8VG4pAz3SQ2GzR) | [窒息](https://open.spotify.com/album/12wYLeAWBR6FjSBCKzHM2j) | 3:21 |
 | 55 | [心理作用 \- Demo](https://open.spotify.com/track/16O7iE2UoAJR0XtnlboamI) | [MopeAndHope](https://open.spotify.com/artist/1pMixCWjpmegyt4aW9Q6Jf) | [心理作用 \(Demo\)](https://open.spotify.com/album/4I2HAq3RGi0CdkVSU5r3VB) | 5:03 |
-| 56 | [河床](https://open.spotify.com/track/6Sucn73s1JDJf81hH90Aei) | [憂憂](https://open.spotify.com/artist/1WsfnDefHmKEy5RXG7FiGx) | [仙湖](https://open.spotify.com/album/7p56xljYONLyXIN9H3vP7P) | 4:23 |
+| 56 | [河床](https://open.spotify.com/track/6Sucn73s1JDJf81hH90Aei) | [憂憂](https://open.spotify.com/artist/3t5mkVPf9oeHvrkNJa41Jt) | [仙湖](https://open.spotify.com/album/7p56xljYONLyXIN9H3vP7P) | 4:23 |
 | 57 | [一隻狗的一生](https://open.spotify.com/track/787aLw0GO41RQ8GeCywLJw) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [一隻狗的一生](https://open.spotify.com/album/2hRMX0olGfu7dZsjHT2YPX) | 4:35 |
 | 58 | [自然之力](https://open.spotify.com/track/3QtFzWFeENJYcpw60xuYXg) | [徐嘉蔚 Emiko](https://open.spotify.com/artist/4bK7mDOruR44Qo5rYajCf3), [許淨淳 XuDo](https://open.spotify.com/artist/4mK9wP3PlQuQcEL32KEMON) | [不斷不斷整裝待發!](https://open.spotify.com/album/3QADAAj9XRerrj1ekZIYGZ) | 3:30 |
 | 59 | [想妳規暝](https://open.spotify.com/track/60cNRxIkBa0GX4e1uJTD86) | [丹恩DaN](https://open.spotify.com/artist/5kkdShSDDV0EyPUYR1v3rt) | [想妳規暝](https://open.spotify.com/album/6WczJ91O35ZR2GRIQe7ggm) | 4:50 |

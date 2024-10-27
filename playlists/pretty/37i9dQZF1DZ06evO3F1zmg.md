@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,181 likes - 53 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,186 likes - 53 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 48 | [BIRTHDAY](https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [BIRTHDAY](https://open.spotify.com/album/74DRp3ZapBKDdPmZ0zMc74) | 2:55 |
 | 49 | [Get It Girl \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/track/2QcWBgN96CO3eex8VSKJOh) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [Get It Girl \(from Insecure: Music From The HBO Original Series, Season 5\)](https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res) | 2:45 |
 | 50 | [YUSO \(feat\. Lil Wayne & Saweetie\)](https://open.spotify.com/track/38Vjqr7xTeIzDpclKOkzli) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Missed Calls](https://open.spotify.com/album/3xqJtp0XRdgFuvipOOCKX9) | 2:53 |
-| 51 | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI) | 3:18 |
-| 52 | [Pissed](https://open.spotify.com/track/61big1BzOklF2jK5t4FzZ6) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pissed](https://open.spotify.com/album/0oiYI6kp2vKJgtCTjKIWV9) | 2:15 |
+| 51 | [Pissed](https://open.spotify.com/track/61big1BzOklF2jK5t4FzZ6) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Pissed](https://open.spotify.com/album/0oiYI6kp2vKJgtCTjKIWV9) | 2:15 |
+| 52 | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI) | 3:18 |
 | 53 | [I'm That Bitch \(feat\. Saweetie\)](https://open.spotify.com/track/7jJVq2u7EP9XoAxMIc5Dro) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 3:14 |
 
-Snapshot ID: `ZxmOAAAAAAAQT8SHU6+A4Rqvl337IV/c`
+Snapshot ID: `ZxrfgAAAAACUyFruaUbp4DiRhD6uo+xO`

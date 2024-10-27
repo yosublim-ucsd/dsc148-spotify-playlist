@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,548 likes - 107 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,612 likes - 107 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 25 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 |
 | 26 | [Wreck](https://open.spotify.com/track/5bpIkRGZXnayOaWEszMSK1) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Wreck](https://open.spotify.com/album/30sDoUge1EZ2O8jG3hdkli) | 2:39 |
 | 27 | [I'm Really Old](https://open.spotify.com/track/1NeatWOb3J2JKgAmIjV4Bu) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K) | [I'm Really Old](https://open.spotify.com/album/7wphjyhvaZTHv9p9z63Ygy) | 3:29 |
-| 28 | [The Stockholm Syndrome \- Vidojean X Oliver Loenn Remix](https://open.spotify.com/track/2I14DtGvTlRsuHJ0aGQuFN) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Kish](https://open.spotify.com/artist/1aibOIpcUeyXNAYrEJxZEt), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH), [Vidushan Ravindran](https://open.spotify.com/artist/4QElfwdpDZqAaOa07ufz0W), [Oliver Fridström Lönn](https://open.spotify.com/artist/5hPcD4MliX7VLsgj8VH3jm) | [The Stockholm Syndrome \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/4xzPPIWUtWD5hfeJDZQyfX) | 2:57 |
+| 28 | [The Stockholm Syndrome \- Vidojean X Oliver Loenn Remix](https://open.spotify.com/track/2I14DtGvTlRsuHJ0aGQuFN) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Kish](https://open.spotify.com/artist/1aibOIpcUeyXNAYrEJxZEt), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [The Stockholm Syndrome \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/4xzPPIWUtWD5hfeJDZQyfX) | 2:57 |
 | 29 | [Hibjørnen](https://open.spotify.com/track/10D9EfOCDrswH6b33eqvQW) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Hibjørnen](https://open.spotify.com/album/2nLM3Cr0Gj0sKvQQXXkJvb) | 3:02 |
 | 30 | [Egotrip](https://open.spotify.com/track/6C3zo1ZwpVX8J5WTRr3j9l) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Egotrip](https://open.spotify.com/album/5kmFeXcbPXCP5iFnJ571HA) | 2:13 |
 | 31 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 |

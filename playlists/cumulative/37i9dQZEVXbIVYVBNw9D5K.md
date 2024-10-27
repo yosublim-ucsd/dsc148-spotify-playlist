@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,040 songs - 2 day 3 hr 46 min
+1,041 songs - 2 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [2T1BB](https://open.spotify.com/track/5UueGx6aALmUslrPdWOB9K) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [2T1BB](https://open.spotify.com/album/3sCR3ePqo2k2QKUILGWTRa) | 3:06 | 2022-06-24 | 2022-10-26 |
 | [50 Kilo](https://open.spotify.com/track/5w9eH1mVty5J0pRQJTkFr9) | [GRiNGO](https://open.spotify.com/artist/5Sjj30aHCmKcM9SdVX7PBK), [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [50 Kilo](https://open.spotify.com/album/3vaWPm5ofwyFRCGcnknmJF) | 3:00 | 2021-07-11 | 2021-07-17 |
 | [80 Kere](https://open.spotify.com/track/4CFYUqMwzV3ENIeLEpj2MU) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ) | [80 Kere](https://open.spotify.com/album/7fyM6D2LVNs7J3s44n0SJE) | 2:39 | 2021-09-12 | 2021-10-09 |
+| [9mm](https://open.spotify.com/track/4X5si99I9YSbJ12g2yL6gh) | [Cash Flow](https://open.spotify.com/artist/7J7IAR4rkzo4FcZTDid3Jk), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [9mm](https://open.spotify.com/album/48z19Z1hAbwHucnqX1UemL) | 3:17 | 2024-10-26 |  |
 | [A La Carte](https://open.spotify.com/track/3H2DdWCysSQcshvC0Sjwn6) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Lacuna](https://open.spotify.com/album/4l3xb6bpLCGtf8ly7TiBjO) | 2:35 | 2024-02-17 | 2024-03-18 |
 | [A La Carte](https://open.spotify.com/track/4MmvreU6tS8j2o693cUgpp) | [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [A La Carte](https://open.spotify.com/album/2RzrB6Tlphecdy8K5NV7RD) | 2:35 | 2023-12-16 | 2024-02-18 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-14 | 2022-01-15 |
@@ -337,7 +338,7 @@
 | [Enerci](https://open.spotify.com/track/3a8mVeic6p5DdMSbsQXWIx) | [Dilan Polat](https://open.spotify.com/artist/3VN1vaUIJPMBa90eZP2yeB) | [Enerci](https://open.spotify.com/album/7HanPFqztqG1srQ7pNxDwB) | 2:50 | 2023-07-25 | 2023-09-20 |
 | [Enerci](https://open.spotify.com/track/6OwX9jzYTrJESYoPid6aLN) | [Roe571](https://open.spotify.com/artist/5paVawWdXR8wsHrEMDMoA8) | [Enerci](https://open.spotify.com/album/77TNiOGd3L1H8lCmJUkTQK) | 2:50 | 2023-08-08 | 2023-08-26 |
 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 | 2024-07-06 | 2024-09-15 |
-| [ESC\*BAR](https://open.spotify.com/track/7JVUP1J9urt49OdiFbWGeZ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:16 | 2024-09-14 |  |
+| [ESC\*BAR](https://open.spotify.com/track/7JVUP1J9urt49OdiFbWGeZ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:16 | 2024-09-14 | 2024-10-27 |
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2021-11-07 | 2021-11-08 |
 | [Eskisi Gibi](https://open.spotify.com/track/44a3EWRqHiOJEGzWgaX8dd) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [Kozmos](https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6) | [Eskisi Gibi](https://open.spotify.com/album/3wn6SfgDifkgzusYoiH5Eg) | 3:06 | 2021-10-21 | 2022-01-08 |
 | [ESKİSİ GİBİ](https://open.spotify.com/track/46NbMk4UvceAERweyAgBtU) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 3:07 | 2024-09-14 | 2024-09-18 |

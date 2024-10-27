@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: VIDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,531 likes - 128 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,543 likes - 128 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 14 | [Malu Malu Tapi Nyaman](https://open.spotify.com/track/1jKyWssDMP83VtugbwCJ6g) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Melangkah](https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov) | 3:39 |
 | 15 | [Selalu Untuk Selamanya](https://open.spotify.com/track/0c133r0IkodWNwKgaUFeJt) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Selalu Untuk Selamanya](https://open.spotify.com/album/1ghY5gSCHR6xzUtzUloihW) | 4:05 |
 | 16 | [Rainbow](https://open.spotify.com/track/3V0ArrICvrvC0wgzrnJPdg) | [Ten2Five](https://open.spotify.com/artist/5Tl7XjM9Y7Q2D9eIHz5GTO) | [Rainbow](https://open.spotify.com/album/6VpyQTOEJBXdZD3K9WxxoK) | 3:28 |
-| 17 | [Diantara Kata](https://open.spotify.com/track/4LnuU4KBYfy6Cg4CEJ23Pu) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Diantara Kata](https://open.spotify.com/album/1dgr7AUFb8kbP45M6dhpBe) | 4:13 |
+| 17 | [Diantara Kata](https://open.spotify.com/track/4LnuU4KBYfy6Cg4CEJ23Pu) | [Fariz RM](https://open.spotify.com/artist/1m5XLTx8naayWUXhNNrHjT), [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Diantara Kata](https://open.spotify.com/album/1dgr7AUFb8kbP45M6dhpBe) | 4:13 |
 | 18 | [Ada Yang Hilang](https://open.spotify.com/track/7MIR2IjKU4Q1vJBJAPIXK3) | [Ipang Lazuardi](https://open.spotify.com/artist/6j7d3OtOyA95ESoCHJIJEh) | [Hits Ipang Lazuardi](https://open.spotify.com/album/70LLL4EGfndl8zsfCp4Rc3) | 3:50 |
 | 19 | [Sisi Lain](https://open.spotify.com/track/0Q3MtsZm9zbuEY5FtSDutq) | [Cece Caramel](https://open.spotify.com/artist/1AGoLYap5zJzPMHu2lO5EY), [Eka Gustiwana](https://open.spotify.com/artist/0VDaMGtUchXP8EtF1iUVIi) | [Sisi Lain](https://open.spotify.com/album/2NikLcT3ELltH0KYnVgUmd) | 2:38 |
 | 20 | [Rockstar Cetar](https://open.spotify.com/track/3xFJN0oXfNaQf1fmShHl0g) | [Musisi Lupa Umur](https://open.spotify.com/artist/6pfcZbgeDbMk2HdjQOxzuz) | [Rockstar Cetar](https://open.spotify.com/album/3sm5MgcPe00Vaf9Gy3oTYD) | 3:39 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 84 | [Magnet](https://open.spotify.com/track/1xmR2idNjgxB8MTkBFh47L) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Magnet](https://open.spotify.com/album/1DvGtGi6iUv4QHQIueLWYk) | 3:36 |
 | 85 | [Flamboyanku](https://open.spotify.com/track/7bR0JE6Vo5GxHUUZDUlY1r) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Flamboyanku](https://open.spotify.com/album/3fvB2EsCywZHacStLmBVkm) | 5:11 |
 | 86 | [Dendam](https://open.spotify.com/track/5GrSLHiNBbNCE0EFKCZGIL) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288), [Sansan](https://open.spotify.com/artist/3P4GuhNOuhUVomoKZiIVVl) | [Dendam](https://open.spotify.com/album/7LmipMyxzjFCeTyzNGio09) | 4:13 |
-| 87 | [No Turning Back](https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [No Turning Back](https://open.spotify.com/album/4lCdkCWOmYNJWdfiRU4Bof) | 4:12 |
+| 87 | [No Turning Back](https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [No Turning Back](https://open.spotify.com/album/4lCdkCWOmYNJWdfiRU4Bof) | 4:07 |
 | 88 | [Selama Ku Bernafas](https://open.spotify.com/track/2x8v50JevSgEgBB8SDtY9T) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Selama Ku Bernafas](https://open.spotify.com/album/73IVBgWRjUeOAlAjFTS3CX) | 4:54 |
 | 89 | [Benar Salah](https://open.spotify.com/track/5KqEwJnIyjaiLQ866MkHHY) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Benar Salah](https://open.spotify.com/album/44FncBBPS20DbZJEIL7VYN) | 3:27 |
 | 90 | [Senyumannya Tutupi Semua Lelah](https://open.spotify.com/track/1ThFs1Gm7X8UmO0AGXcScC) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Senyumannya Tutupi Semua Lelah](https://open.spotify.com/album/2z13aj3gFHxsWMuvDhFX2R) | 3:39 |

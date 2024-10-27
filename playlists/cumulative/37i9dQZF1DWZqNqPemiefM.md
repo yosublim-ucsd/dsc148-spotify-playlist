@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-663 songs - 2 day 3 hr 43 min
+665 songs - 2 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,11 +302,12 @@
 | [Levitate](https://open.spotify.com/track/7EMteO0dlSLubgeYbTplsO) | [soma hayato](https://open.spotify.com/artist/7Ggi7oQcGOPoOZe1tMbxnJ) | [made in bebe.](https://open.spotify.com/album/3qD9pj02W8jjatkBXnpLX6) | 4:10 | 2022-04-26 | 2022-07-27 |
 | [Li Ma Li](https://open.spotify.com/track/0iQZ81pN5ykDwDVOE98vpU) | [Tō Yō](https://open.spotify.com/artist/1HsbWI9eeccgUpzffKCYQT) | [Stray Birds From The Far East](https://open.spotify.com/album/6Fj8AWo4WMh7Qc5R8DEc8I) | 6:17 | 2024-02-08 | 2024-08-23 |
 | [Light Dance](https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [How My Heart Sings](https://open.spotify.com/album/4d8ZRppxf7DKl8spE3qbbg) | 4:49 | 2022-04-07 | 2024-02-09 |
-| [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 | 2024-05-23 |  |
+| [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 | 2024-05-23 | 2024-10-27 |
 | [lighthouse](https://open.spotify.com/track/75bwkrAjDrR1sI9Cij1fUZ) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [lighthouse](https://open.spotify.com/album/2pBOANdncgocwoEnEd7Wpt) | 2:25 | 2023-10-26 | 2023-11-24 |
 | [Lipsynch](https://open.spotify.com/track/1FOyi1kvs83OApHPPtPlqv) | [Kazumichi Komatsu](https://open.spotify.com/artist/3yUHV7CvOnKXqZ3D4KB0C9) | [Emboss Star](https://open.spotify.com/album/1M3z7GjsBnhtk1wfIUTK96) | 2:34 | 2022-03-31 | 2022-07-08 |
 | [Little Song at Little Time](https://open.spotify.com/track/42Syy15FClLY4OIb9EW6DV) | [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Light in August, Later](https://open.spotify.com/album/5DC0TO8peA6IGhux6OMyCz) | 4:41 | 2022-04-07 | 2022-04-19 |
 | [Little Sunset](https://open.spotify.com/track/5xeGCNSHuGl7u95P7dqsik) | [Yuichiro Fujimoto](https://open.spotify.com/artist/2P0IReI87eMGenUXZjnnAP) | [Komorebi](https://open.spotify.com/album/4rgYDGA3VJLBZvFztCF6Vd) | 2:59 | 2022-03-31 | 2022-06-14 |
+| [LLYN PERIS](https://open.spotify.com/track/2du14pOYyz03nIK8uSjOwC) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [LLYN PERIS](https://open.spotify.com/album/0F29HjHNNsZjSjlpBRHntj) | 4:07 | 2024-10-26 |  |
 | [Lo\-Pencil](https://open.spotify.com/track/6tQcOrULPM0aXoN8fzAlxU) | [.tape.](https://open.spotify.com/artist/1iuxGT5PTiH3VpgZ3Lh0Wk) | [paintings](https://open.spotify.com/album/69ONFD6PX42tebjAurVsPY) | 3:53 | 2022-03-31 | 2022-04-21 |
 | [logical](https://open.spotify.com/track/3E87Le6IN9RYKhgRfJp3BN) | [Shuttle358](https://open.spotify.com/artist/1scitKDOobvcQlJb8DdP4n) | [Chessa](https://open.spotify.com/album/3vnNHitqzdPjWNBNGuZSrl) | 3:02 | 2022-03-31 | 2022-11-04 |
 | [londonderry air](https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD) | [Shin Ichikawa](https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk) | [londonderry air](https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj) | 3:01 | 2024-08-09 |  |
@@ -353,7 +354,7 @@
 | [Monotony](https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:22 | 2023-04-06 | 2024-02-09 |
 | [montage](https://open.spotify.com/track/2vy9htJ5lfBHoOnuLvJIpL) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [still life](https://open.spotify.com/album/5qfOJegGelCj3EaKJ5dGAd) | 3:01 | 2024-07-12 | 2024-09-06 |
 | [Moon Palace](https://open.spotify.com/track/5hxAMeHC2UTepO4tmG3z3Y) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Lunar Maria](https://open.spotify.com/album/56gwSOqLKyYRatpYAtazxs) | 5:15 | 2022-03-31 | 2022-07-25 |
-| [Moon View](https://open.spotify.com/track/1ylp5pblMWBvmcJN8KtZhv) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/23Ho2wXmpi2ZHzEM3pKoeA) | 5:47 | 2024-09-06 |  |
+| [Moon View](https://open.spotify.com/track/1ylp5pblMWBvmcJN8KtZhv) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/23Ho2wXmpi2ZHzEM3pKoeA) | 5:47 | 2024-09-06 | 2024-10-27 |
 | [Moon, Fog Moon](https://open.spotify.com/track/3qyU3L6mR9fuzPDBSkdIUx) | [Fraqsea](https://open.spotify.com/artist/4P0Eagvas76fjHAPlhKeWk) | [Star Cocktail](https://open.spotify.com/album/5VhIB8zdbAWHHnOBbxmJIS) | 5:08 | 2022-04-07 | 2022-06-16 |
 | [Morning Tone](https://open.spotify.com/track/2Hs9rdlZV26GzbZiUB21jW) | [Pawn](https://open.spotify.com/artist/2hNubES3yBW7Q9llPdSyaj) | [Tone Sketch](https://open.spotify.com/album/3zZegpQqTBcLXOvDvrqJon) | 3:45 | 2022-03-31 | 2022-04-09 |
 | [Morning View](https://open.spotify.com/track/3x8OIBcws4xOW4Af4vMwfD) | [Takashi Wada](https://open.spotify.com/artist/2H9h8TDnxtfpPAbUeaMHd6) | [Meguro](https://open.spotify.com/album/4uy8RYCyIba9T8pKA6LiCr) | 3:35 | 2022-04-07 | 2022-04-17 |
@@ -365,6 +366,7 @@
 | [Nagi](https://open.spotify.com/track/5oIrCpLdLx9CyAB6GGkTxg) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Scenes of Scapes](https://open.spotify.com/album/5F0PggZWgqrLYewAHRozdL) | 4:52 | 2022-03-31 | 2022-07-20 |
 | [Nami](https://open.spotify.com/track/31RgdmIsnmQwgFgF2qA8yB) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/3QfrNNsvv0GxBSQvrwwfZQ) | 3:56 | 2022-03-31 | 2022-07-27 |
 | [Nami](https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:56 | 2022-07-28 | 2024-02-09 |
+| [naminokatachi](https://open.spotify.com/track/6q75PDFyML5ds2laJ1aPjd) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [naminokatachi](https://open.spotify.com/album/4PPx8ZLh92o26Eft2Hq7Sy) | 3:19 | 2024-10-26 |  |
 | [Nausicaä of the Valley of the Wind \- 2024 ver.](https://open.spotify.com/track/3OwTCA0MIrO6EvQJOUar32) | [Narumi Yasuda](https://open.spotify.com/artist/38fnw8iZ8LYt1Es6gIId0I), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Nausicaä of the Valley of the Wind \(2024 ver.\)](https://open.spotify.com/album/4mDDWOT4vrlUJ9ZE8hopTf) | 5:25 | 2024-02-15 | 2024-04-19 |
 | [Never Mind](https://open.spotify.com/track/4v5cYu2lgqsoblMtYVeMmj) | [Ippu\-Do](https://open.spotify.com/artist/6spBI2ueYjGHoTzRJ9fcAR) | [NIGHT MIRAGE +7](https://open.spotify.com/album/531P2A9feRSk86bIiDLhJa) | 5:14 | 2022-03-31 | 2022-07-24 |
 | [New Urban Center \(UP\-09\)](https://open.spotify.com/track/0Qnp2Gd5uMrdZGM3JyqNpr) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm), [Duenn](https://open.spotify.com/artist/4PJKrQq6F58DY9zND9uLTv) | [都市計画\(Urban Planning\)](https://open.spotify.com/album/2cMqAVNsiTGIeQfn9ZUtuv) | 1:45 | 2022-04-07 | 2022-04-20 |

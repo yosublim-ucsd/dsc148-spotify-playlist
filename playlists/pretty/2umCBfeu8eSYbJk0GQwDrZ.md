@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Myles Smtih.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,756 likes - 60 songs - 3 hr 14 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,757 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 32 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 |
 | 33 | [Boyfriend](https://open.spotify.com/track/2pCUsphV4bFzpyt1zvzTPD) | [T\. Thomason](https://open.spotify.com/artist/4qW3B9lAaefCiA5m5fUAZg) | [Boyfriend](https://open.spotify.com/album/5QxIPDXX56fHgGWeERwozc) | 2:35 |
 | 34 | [Say We're Alright](https://open.spotify.com/track/4Nx1JI4XQaswHimcmjMh7x) | [Frank Mighty](https://open.spotify.com/artist/21AsIHgx9RggFb0aD29T3U) | [Say We're Alright](https://open.spotify.com/album/0sxl7pzCO7I6KpYO1sSSyV) | 3:16 |
-| 35 | [I'm Not Dyin' \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/6gClmJ0dRPWaBRuxDVj4K8) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I'm Not Dyin' \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/2Q1nWyzwV4uRZN3OaNWX0Q) | 3:22 |
+| 35 | [I'm Not Dyin'](https://open.spotify.com/track/6gClmJ0dRPWaBRuxDVj4K8) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I'm Not Dyin'](https://open.spotify.com/album/2Q1nWyzwV4uRZN3OaNWX0Q) | 3:22 |
 | 36 | [God Save the Dream](https://open.spotify.com/track/13mm25FYuZw1ih9cvFhXvH) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [The Drama](https://open.spotify.com/album/2c1QPvyMmQADYp9qB5Aslv) | 3:16 |
 | 37 | [Chemical](https://open.spotify.com/track/4WyuYATlsnHmdjfPQInnr2) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Chemical](https://open.spotify.com/album/5ZLmMyn2KqI1R3Tzr9vRTu) | 4:07 |
 | 38 | [Tiny Screens](https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Tiny Screens](https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p) | 2:58 |

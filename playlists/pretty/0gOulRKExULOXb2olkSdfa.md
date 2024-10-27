@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0gOulRKExULOXb2olkSdfa.md) - [plain]
 
 > feel good jams
 
-[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 1 like - 24 songs - 1 hr 10 min
+[Noah](https://open.spotify.com/user/k4ywenjsouypjg1tkpbu4lt0w) - 1 like - 25 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,5 +32,6 @@ pretty - [cumulative](/playlists/cumulative/0gOulRKExULOXb2olkSdfa.md) - [plain]
 | 22 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 |
 | 23 | [Play Date](https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 2:59 |
 | 24 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/4ZUpTMKPYFTfJqamWFU9Zv) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 2:20 |
+| 25 | [Offended](https://open.spotify.com/track/4CBlt34IGHQa0XvpYDtoMS) | [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [To Hell With Hollywood](https://open.spotify.com/album/55fEgDbnl0J1GVXJrwgYek) | 2:22 |
 
-Snapshot ID: `AAAAITpOhx9jbQ/RBUwHWMfciUapP4tJ`
+Snapshot ID: `AAAAImycncy7M2sutkvXdnVc44osRK10`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1?si=pTzUURrPR56WK8mXojlYtw">James Johnston</a>  & <a href="https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=OuqbJY55RemWdRS7DNPZiw">Appel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,956 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,392 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Mc Luanna e mais mulheres no volume máximo! Co\-curadoria com <a href="spotify:playlist:37i9dQZF1DZ06evO45TXx1">Mc Luanna</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,114 likes - 59 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,111 likes - 59 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABRKA0QcW2jRDuRKhOHltGe",
+  "snapshot_id": "ZxrfgAAAAABZqycYNyxFwDVF7U85EShg",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 200150,
-      "name": "Para la Reina",
-      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hermosa Tirana",
         "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 177711,
       "name": "De Su Vida Me Ire",
       "url": "https://open.spotify.com/track/5CSN3xcAG1e8jpPKDaoj4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 200150,
+      "name": "Para la Reina",
+      "url": "https://open.spotify.com/track/5Ok9Oqj5HAvIfcbfMt6vPc"
     },
     {
       "added_at": null,

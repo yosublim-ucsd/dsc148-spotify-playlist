@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,447 likes - 80 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,650 likes - 80 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

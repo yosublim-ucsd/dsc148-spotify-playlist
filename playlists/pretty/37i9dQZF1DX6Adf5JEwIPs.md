@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Alejandro Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,821 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,842 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 5 | [Fruta Prohibida \- En Vivo](https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5) | 2:52 |
 | 6 | [Homeless](https://open.spotify.com/track/35GGMvT7uigj8gQZkziW0V) | [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Homeless](https://open.spotify.com/album/3IzoFVdIn5cyd2mqtjnUos) | 3:16 |
 | 7 | [Amor Propio](https://open.spotify.com/track/5WCl1F8tCPDECysU3yrwQ9) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [DIAMANTES VVS1](https://open.spotify.com/album/3GdwNPqgw9mhKbHT0PLEYf) | 3:25 |
-| 8 | [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
+| 8 | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
 | 9 | [Si No Estás](https://open.spotify.com/track/13czBr47P8XwfJqeFCbLfJ) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Si No Estás](https://open.spotify.com/album/3zhaSTA5UPYkilZ3EsQwGL) | 3:35 |
 | 10 | [Hablemos \- En Vivo](https://open.spotify.com/track/1dGDAgXnqtOdZElH0QoMMu) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Una Más Desde el Llano 1ra\. Función \(En Vivo\)](https://open.spotify.com/album/445QAYvPjeVuxZ4a1yztc8) | 3:03 |
 | 11 | [El Favorito \(Chalo Araujo\)](https://open.spotify.com/track/0gThcCWyJO0kiob48Peye5) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Favorito \(Chalo Araujo\)](https://open.spotify.com/album/1ql3NEHuyb6HH9lxzgQJFs) | 2:23 |

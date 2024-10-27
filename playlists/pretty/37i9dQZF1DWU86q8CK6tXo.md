@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Celebrating our EQUAL ambassador Cher and her favorite female voices at the top of our list!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,674 likes - 72 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,677 likes - 72 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

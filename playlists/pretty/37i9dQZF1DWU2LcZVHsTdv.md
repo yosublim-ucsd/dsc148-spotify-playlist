@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,398 likes - 207 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,417 likes - 207 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 30 | [Red Letter Blueprint](https://open.spotify.com/track/1jTUo8zxmyiLwkaDjkj45w) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Red Letter Blueprint](https://open.spotify.com/album/6sdTmbOCQejn4phKQn47a0) | 3:52 |
 | 31 | [Church In A Chevy](https://open.spotify.com/track/5Kuvvw2blL70n9GqVFx3vF) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Jordan Davis](https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c) | 3:43 |
 | 32 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 |
-| 33 | [Fit for a King](https://open.spotify.com/track/12gjVw7ygbVxSKWhQhQI1T) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji) | [Fit for a King](https://open.spotify.com/album/6k8iU1wIQSMHz6wlf0EyCn) | 2:54 |
+| 33 | [Fit For A King](https://open.spotify.com/track/12gjVw7ygbVxSKWhQhQI1T) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji) | [Fit For A King](https://open.spotify.com/album/6k8iU1wIQSMHz6wlf0EyCn) | 2:54 |
 | 34 | [Where I Find God](https://open.spotify.com/track/6eQePEKwbt1y9CkCE6faYi) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Where I Find God](https://open.spotify.com/album/26pbiUILSs4FA7boHlB3QY) | 4:09 |
 | 35 | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 |
 | 36 | [Jesus Saves](https://open.spotify.com/track/6Jp2r3WXDaQ61f1ydATsVS) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Way Out Here](https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7) | 3:52 |

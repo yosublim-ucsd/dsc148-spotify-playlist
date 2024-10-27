@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Lady Gaga, Tyler, The Creator, Linkin Park, Ado, imase, Halsey and more! cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,691 likes - 93 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,720 likes - 93 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

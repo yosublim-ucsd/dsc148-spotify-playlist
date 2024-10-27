@@ -9842,7 +9842,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 250640,
       "name": "Eres M\u00eda",
       "url": "https://open.spotify.com/track/6I86RF3odBlcuZA9Vfjzeq"
@@ -18795,6 +18795,24 @@
     },
     {
       "album": {
+        "name": "Mi Bro",
+        "url": "https://open.spotify.com/album/673oBTSqYwWwtdfnKGWe7d"
+      },
+      "artists": [
+        {
+          "name": "La Frecuencia",
+          "url": "https://open.spotify.com/artist/0UjaWVlAXWCdpJdt0WpIbp"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Mi Bro",
+      "url": "https://open.spotify.com/track/4czXztMbrs3En925QdRtCR"
+    },
+    {
+      "album": {
         "name": "Mi Camino",
         "url": "https://open.spotify.com/album/3EtJK7xvyaOndtmVuY5Mb4"
       },
@@ -26394,7 +26412,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 134400,
       "name": "Salida",
       "url": "https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv"
@@ -28560,7 +28578,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 137000,
       "name": "Sou Baiana",
       "url": "https://open.spotify.com/track/2jOOrtPppgKV7ELxy4KmpD"
@@ -29874,6 +29892,32 @@
       "duration_ms": 152373,
       "name": "TETEO",
       "url": "https://open.spotify.com/track/21L0hDSgXhFxniIBug6WAO"
+    },
+    {
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6UZakYFr3nYNaAcFvvbcsf"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        },
+        {
+          "name": "White Star",
+          "url": "https://open.spotify.com/artist/70nM9ixtEAtdmEQrmxgMHf"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245432,
+      "name": "TETEO (feat. Axel Rulay, White Star)",
+      "url": "https://open.spotify.com/track/0Vhn5cKzaOuAXq0G7fnY0H"
     },
     {
       "album": {
@@ -31752,6 +31796,28 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "album": {
+        "name": "UNA BOKA",
+        "url": "https://open.spotify.com/album/7j9E8n2j2T948hupgcuqBw"
+      },
+      "artists": [
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        },
+        {
+          "name": "Toploud",
+          "url": "https://open.spotify.com/artist/5tgFUVWQA7u6tF7Ut79Mge"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150588,
+      "name": "UNA BOKA",
+      "url": "https://open.spotify.com/track/3wSZvk3xWv2bzUpUAalO55"
     },
     {
       "album": {

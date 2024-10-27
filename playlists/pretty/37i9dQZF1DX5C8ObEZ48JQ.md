@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/18VjYL567PiS4rphPwzWA6?si=wtpL4eDmQA\-TAJhFV366CA">Niambi</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,118 likes - 57 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,141 likes - 57 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

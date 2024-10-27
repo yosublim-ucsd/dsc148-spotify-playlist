@@ -4,7 +4,7 @@
 
 > 
 
-1,797 songs - 4 day 0 hr 23 min
+1,800 songs - 4 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [BE THERE](https://open.spotify.com/track/3AAjgwno8RvMJPD7TZl4pq) | [Avi8](https://open.spotify.com/artist/1GNl1iTql0c4P9brn1Fj6m) | [BE THERE](https://open.spotify.com/album/3kMP45zMaoiidk8Gvqzcsd) | 3:27 | 2023-09-01 |  |
 | [Be With U](https://open.spotify.com/track/6JPeJvJYsCdSlr7T6DC5tn) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Be With U](https://open.spotify.com/album/7FFg8lMRvTarqDCTAZZoFl) | 2:39 | 2023-02-25 |  |
 | [BEAT DROP](https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1) | [BEAT DROP](https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH) | 3:26 | 2023-04-10 |  |
+| [Beat Of The Drum](https://open.spotify.com/track/0ryREQNVALsNonSQ24okIX) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Beat Of The Drum](https://open.spotify.com/album/6uhqXqtlxqvJGVFq6Y6Lfp) | 1:52 | 2024-10-27 |  |
 | [Beatbox Rocker](https://open.spotify.com/track/65QR5zWJ17jqNafWA4fuip) | [Maltorian](https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5) | [Beatbox Rocker](https://open.spotify.com/album/4a8PMWyKo7HUIEWqwQihgK) | 2:52 | 2023-10-27 |  |
 | [Beautiful People \- 2023 Refix](https://open.spotify.com/track/7GFUKO2rla3oCs6g4MmfEJ) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6) | [Beautiful People \(2023 Refix\)](https://open.spotify.com/album/6cez1sSRj6PqSutimIlKY6) | 3:30 | 2023-09-20 |  |
 | [Became Hardcore](https://open.spotify.com/track/5p1IzNQ6V58MbaaXuEg5y2) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Became Hardcore](https://open.spotify.com/album/7hGNddFyn5eypkuqAXoeHg) | 3:06 | 2023-12-30 |  |
@@ -338,6 +339,7 @@
 | [CrossFire](https://open.spotify.com/track/3NmnT8Vj2cyagwkFyKIULQ) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [CrossFire](https://open.spotify.com/album/0DQPHQwaNiI9yXYIkiX8MF) | 2:25 | 2023-10-26 |  |
 | [Crowd Jumpin'](https://open.spotify.com/track/6ccvMhf7E3tVESztZvJ0vZ) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Crowd Jumpin'](https://open.spotify.com/album/0Hh55UzPWEH99eZYYzIdqD) | 3:13 | 2024-06-08 |  |
 | [Cruel Place](https://open.spotify.com/track/2JxhJ7cNsLRyZSCxqhnm77) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Cruel Place](https://open.spotify.com/album/2cpzPtcXMQQdfsb3iG6Cod) | 3:38 | 2023-11-20 |  |
+| [Cruel Place \- Mixed Cut](https://open.spotify.com/track/2D9qppYBsVoCLKZLZiFDot) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Emotional Hardcore 1](https://open.spotify.com/album/0iFQ5KdFY9mE561KsaEfx4) | 3:10 | 2024-10-27 |  |
 | [Crunch](https://open.spotify.com/track/67ERjTGEze2g1UVNCog2Je) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Crunch](https://open.spotify.com/album/6Ik9MjMnvXaI5y7IBCgQSg) | 1:38 | 2024-05-29 |  |
 | [Crying](https://open.spotify.com/track/5yGWXj4E3V0Fik6zEkLkvs) | [Matduke](https://open.spotify.com/artist/2iTdqBeEWz0QriMt81o9CN) | [Crying](https://open.spotify.com/album/29mF3Lfm9DWqif80BYbWGF) | 4:37 | 2022-08-22 |  |
 | [Cthugha](https://open.spotify.com/track/5MNLgtuEF9mMaYvyzgW943) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Cthugha](https://open.spotify.com/album/0LIYml6yhXCgbkIVt6e7xk) | 2:35 | 2022-08-11 |  |
@@ -884,6 +886,7 @@
 | [Knocked Out](https://open.spotify.com/track/3dAGQ2aSRpNeNWE904E9va) | [N3bula](https://open.spotify.com/artist/0bKtsZIFkV1M2sl1j0OeGq) | [Knocked Out](https://open.spotify.com/album/5I5n46FiJsUWAIvWdcDP53) | 3:23 | 2024-04-03 |  |
 | [KO](https://open.spotify.com/track/1zk0QdUYmguWujXc5T0NJO) | [Bumloco](https://open.spotify.com/artist/7aHh1erN0CVFVwDd7oG26M), [Hickz](https://open.spotify.com/artist/7sLMlmiXlbkdDP7OnEYOCO) | [KO](https://open.spotify.com/album/4dBKKdcHSqZe7j6cKpZD4S) | 3:15 | 2024-05-04 |  |
 | [KOKUSHIMUSOU](https://open.spotify.com/track/3o4ELAID5fuPEJIGC7vJCK) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [KOKUSHIMUSOU](https://open.spotify.com/album/2NsQgw0uNzapLd9rTeguZg) | 3:14 | 2023-05-01 |  |
+| [Kryptonite](https://open.spotify.com/track/7Ithcf62lKhaLqonHSXOOq) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Aftermath](https://open.spotify.com/artist/0Lgj8F0H0zOqgiPaA0hCuC) | [Kryptonite](https://open.spotify.com/album/118QsnYZTmidlw0Iwut8bW) | 3:04 | 2024-10-27 |  |
 | [La Bomba \- 2023 Refix](https://open.spotify.com/track/1VDaYGhQvWnWq1RVUtoHJV) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7) | [We Roar Special](https://open.spotify.com/album/0K9Jpxbt3Er6NMwMkEFR0r) | 3:59 | 2023-10-20 |  |
 | [LA DI DA](https://open.spotify.com/track/6l07fK093JBCIh6enC4cof) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [DJane HouseKat](https://open.spotify.com/artist/64tnAMgE8bc2zTMBcBsLdx) | [LA DI DA](https://open.spotify.com/album/2WquxpybBSGTu5fqYIYIrR) | 2:59 | 2024-04-26 |  |
 | [La Grande Embrouille](https://open.spotify.com/track/0ozyvtiQiApIfdqOyQ8IDC) | [Maissouille](https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU) | [La Grande Embrouille](https://open.spotify.com/album/4slEQQsFtUL7KFXKtspCXZ) | 3:38 | 2022-04-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 124 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 232 likes - 124 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 49 | [Caught In Your Rhythm](https://open.spotify.com/track/2UjMBCiA9gdDoSguLxrbBP) | [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Caught In Your Rhythm](https://open.spotify.com/album/5DksuDz9GUGMV5vOmMBo7U) | 3:11 |
 | 50 | [No One Else](https://open.spotify.com/track/2gWRWycfoK1CMbOWKy0bp2) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 4:13 |
 | 51 | [1000 Miles](https://open.spotify.com/track/74NPJ5FDyMzvKi063Zxd5I) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [A View of U](https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481) | 5:41 |
-| 52 | [Echoes](https://open.spotify.com/track/5Bd3biotsdxkuENxrWxFmM) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [The Old Days](https://open.spotify.com/album/4VAog91t9To2gujuttmguG) | 3:43 |
-| 53 | [Stay With Me](https://open.spotify.com/track/6NPuaE61QbNqRb6vZxe8lZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 4:22 |
+| 52 | [Stay With Me](https://open.spotify.com/track/6NPuaE61QbNqRb6vZxe8lZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 4:22 |
+| 53 | [Echoes](https://open.spotify.com/track/5Bd3biotsdxkuENxrWxFmM) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [The Old Days](https://open.spotify.com/album/4VAog91t9To2gujuttmguG) | 3:43 |
 | 54 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
 | 55 | [Give It To Me Good](https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Give It To Me Good](https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT) | 2:49 |
 | 56 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 123 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 124 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `AbfwdAAAAACTBdHECk5KmPbwJFsF7gSZ`
+Snapshot ID: `Abf2FAAAAACegzoY3d2/QbGr3UG2o3et`

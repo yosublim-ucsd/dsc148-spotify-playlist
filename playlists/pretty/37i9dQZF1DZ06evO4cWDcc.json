@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 311775,
+  "num_followers": 311796,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAADzFzgyDYySafb3F6d413dB",
+  "snapshot_id": "ZxrfgAAAAADGITEPh/2C52wCpTZAjjnG",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 198626,
-      "name": "Drifter's Escape - Takes 1 & 2",
-      "url": "https://open.spotify.com/track/5p1RIGcfKyX6dy9R6t93h4"
+      "duration_ms": 226026,
+      "name": "Ezy Ryder",
+      "url": "https://open.spotify.com/track/6gZlwqE1zWmT57IN6FNheT"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 226026,
-      "name": "Ezy Ryder",
-      "url": "https://open.spotify.com/track/6gZlwqE1zWmT57IN6FNheT"
+      "duration_ms": 198626,
+      "name": "Drifter's Escape - Takes 1 & 2",
+      "url": "https://open.spotify.com/track/5p1RIGcfKyX6dy9R6t93h4"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Cry of Love",
+        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 265813,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Can't Use My Name (feat. Jimi Hendrix)",
         "url": "https://open.spotify.com/album/4Zf9s5cZnvprrmMF0Dnl5l"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 134400,
       "name": "Fool for You Baby (feat. Jimi Hendrix)",
       "url": "https://open.spotify.com/track/2nVgBK2QQoIzTH6qROcix2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Cry of Love",
-        "url": "https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 265813,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4m6KlFD4eMiQFzh4IVVFVm"
     },
     {
       "added_at": null,

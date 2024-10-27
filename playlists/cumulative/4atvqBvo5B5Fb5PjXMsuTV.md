@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 26 Oct 01:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 26 Oct 04:02 UTC.
 
-3,142 songs - 7 day 7 hr 4 min
+3,143 songs - 7 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1252,7 +1252,7 @@
 | [Hit \(feat\. Lil Wayne\)](https://open.spotify.com/track/4PzSxga45btTghaYbKvB0z) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hit](https://open.spotify.com/album/54IQ94osvt6eRh67IE83n7) | 3:18 | 2024-08-16 | 2024-08-22 |
 | [Hit Em Up](https://open.spotify.com/track/4pIutjvPOlkJPTPtpp0kwX) | [Мэйби Бэйби](https://open.spotify.com/artist/2u3ZpvdeLOLg3mIvQg0jZh) | [Hit Em Up](https://open.spotify.com/album/1x6hgZVelrWvq2fQtc5BFA) | 2:39 | 2024-10-25 |  |
 | [Hog Calling Contest](https://open.spotify.com/track/2aDXjC0A2mnqslmeDdHIVH) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Hog Calling Contest](https://open.spotify.com/album/0plf2eqTDrtPJ2f9QeW7iH) | 3:20 | 2024-07-24 | 2024-07-27 |
-| [hold my hand](https://open.spotify.com/track/3GPmn3HANnZTlEovc2J9nt) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH) | [hold my hand](https://open.spotify.com/album/0CgtiMzPmtvTM115elKHao) | 4:26 | 2024-10-25 |  |
+| [hold my hand](https://open.spotify.com/track/3GPmn3HANnZTlEovc2J9nt) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH) | [hold my hand](https://open.spotify.com/album/0CgtiMzPmtvTM115elKHao) | 4:26 | 2024-10-25 | 2024-10-27 |
 | [Hold Tight](https://open.spotify.com/track/1nQA9YTulXKKA2dtFBvmHa) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [Hold Tight](https://open.spotify.com/album/156VItpTnRSIJXdvUg19xp) | 4:20 | 2024-08-07 | 2024-08-09 |
 | [Holding On](https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holding On](https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0) | 3:50 | 2024-10-18 | 2024-10-23 |
 | [Holidays](https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Holidays](https://open.spotify.com/album/2ThtBfqXl82TjNx76GYqK2) | 3:41 | 2024-10-18 | 2024-10-24 |
@@ -1631,6 +1631,7 @@
 | [Lonely](https://open.spotify.com/track/2c6PNDLjisZLJe08W3j3PU) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Lonely](https://open.spotify.com/album/7qqThyYgtFmqIzhTKbVHRe) | 2:19 | 2024-09-12 | 2024-09-14 |
 | [Lonely](https://open.spotify.com/track/3lRX4cmV9miVBF06ZOEtLC) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Lonely](https://open.spotify.com/album/5avsKDJKSNjssCGsQysTFJ) | 2:56 | 2024-07-10 | 2024-07-12 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-08-23 | 2024-08-27 |
+| [Lonely Heart](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Lonely Heart](https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH) | 2:43 | 2024-10-26 |  |
 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 | 2024-08-15 | 2024-08-17 |
 | [Lonely With Our Love](https://open.spotify.com/track/3Vzzah8uuoNYXRXtKFu9Zr) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Lonely With Our Love](https://open.spotify.com/album/1Ok9yuSPTt1TGlKAeXjheL) | 3:28 | 2024-05-13 | 2024-05-15 |
 | [Long Dark Night](https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Long Dark Night](https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde) | 3:33 | 2024-07-24 | 2024-07-27 |

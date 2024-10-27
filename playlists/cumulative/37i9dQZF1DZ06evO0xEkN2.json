@@ -963,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3solPVVHmhUzprYGKnscdO"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186678,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/6vxMc5SYWEGgytAujpabyO"
+    },
+    {
+      "album": {
         "name": "Compa\u00f1eros Musicales",
         "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },

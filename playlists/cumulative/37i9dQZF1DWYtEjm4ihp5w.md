@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> New music from ElGrandeToto, Madd & OUENZA.
+> a7san ma kayn f rap maghribi.
 
-306 songs - 16 hr 27 min
+307 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Before Iceberg](https://open.spotify.com/track/1FY6b78b0u4GRhY1a3RAuL) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Before Iceberg](https://open.spotify.com/album/0fY9vEMGhf3326m70o0jzj) | 2:35 | 2023-12-09 | 2024-02-02 |
 | [Before Iceberg](https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Before Iceberg](https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW) | 2:35 | 2023-06-08 | 2023-12-10 |
 | [BGHAWNI](https://open.spotify.com/track/1wrvsIADrnhWKBCw27UxZ9) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:17 | 2023-11-24 | 2024-06-14 |
-| [Bilal](https://open.spotify.com/track/78yskfJqcpFfRFDTyo3XVN) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Bilal](https://open.spotify.com/album/4D6AoXPlCkQX18mJLtzVJD) | 3:12 | 2024-10-02 |  |
+| [Bilal](https://open.spotify.com/track/78yskfJqcpFfRFDTyo3XVN) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Bilal](https://open.spotify.com/album/4D6AoXPlCkQX18mJLtzVJD) | 3:12 | 2024-10-02 | 2024-10-27 |
 | [Bin o Bin](https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Atmosphere](https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG) | 2:31 | 2023-04-07 | 2024-01-26 |
 | [Blood](https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Blood](https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya) | 4:10 | 2022-12-31 | 2023-03-16 |
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-08-01 | 2024-09-18 |
@@ -286,6 +286,7 @@
 | [VIRA \- SLABA](https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [VIRA \- SLABA](https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb) | 2:48 | 2024-06-18 |  |
 | [VISA](https://open.spotify.com/track/4oajGi0Wd33IL0LzjiU6Si) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [VISA](https://open.spotify.com/album/3wxWPfLUzoFHLOTaMadDly) | 2:04 | 2023-08-23 | 2024-05-18 |
 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 | 2023-01-06 |  |
+| [W](https://open.spotify.com/track/3WyQmaqMKBHYWLxyFzvbBV) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [W](https://open.spotify.com/album/0Gyj8PmPy4cD2fg0vYuf43) | 2:47 | 2024-10-26 |  |
 | [Wa3ra](https://open.spotify.com/track/4ZhL9IgqKHsVa7goaJ6MVD) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Wa3ra](https://open.spotify.com/album/1K2UJSMp9GcnyESsOk9Zmg) | 2:16 | 2024-04-26 |  |
 | [Wassup Fam](https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 2:57 | 2023-05-25 | 2023-08-13 |
 | [Wassup Fam](https://open.spotify.com/track/0aOGcylPs9MtS21nfhTDJj) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Wassup Fam](https://open.spotify.com/album/4gSUb0XWeu3v0zd2NJSzjO) | 2:57 | 2023-06-22 | 2023-06-29 |

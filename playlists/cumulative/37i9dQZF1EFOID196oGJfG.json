@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "you taught me to read between the lines",
+        "url": "https://open.spotify.com/album/51rJr1CW5K5BhIM0mkouxh"
+      },
+      "artists": [
+        {
+          "name": "Michael Gerow",
+          "url": "https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175397,
+      "name": "Standing In The Fire",
+      "url": "https://open.spotify.com/track/26FYWtfqCJLTz00ZV8VFcz"
+    },
+    {
+      "album": {
         "name": "Stare",
         "url": "https://open.spotify.com/album/4JOgEZjd8KPfqIXwblB7Z1"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG?si=NBAxtqbwS3G6Wo4ujiJgJw">Babalwa M</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,810 likes - 60 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,676 likes - 60 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

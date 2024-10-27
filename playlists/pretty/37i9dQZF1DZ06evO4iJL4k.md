@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,373 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,466 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 50 | [Acende a Vela](https://open.spotify.com/track/4aTa2DgvWg9njylIa5KMl7) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:48 |
 | 51 | [Glória Pra Nós](https://open.spotify.com/track/5Zobl93oFR01ZBcjiQW2PE) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 3:42 |
 
-Snapshot ID: `ZxmOAAAAAABnHB2947luBgVtm+H2CPmA`
+Snapshot ID: `ZxrfgAAAAAAFSpCquxA7O9l+t2T5lj4I`

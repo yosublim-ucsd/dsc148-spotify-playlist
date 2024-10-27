@@ -4,7 +4,7 @@
 
 > Chill r&b vibes for your most relaxed moods\. Cover: Elmiene
 
-1,074 songs - 2 day 11 hr 57 min
+1,075 songs - 2 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -964,6 +964,7 @@
 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 | 2023-05-19 | 2024-07-13 |
 | [Tightrope](https://open.spotify.com/track/0qEeRTvWCUZ9PaCaS1ehwK) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Tightrope](https://open.spotify.com/album/30ksqmYH8xPqSQzOEII0mp) | 2:49 | 2022-11-04 | 2023-01-28 |
 | [Time](https://open.spotify.com/track/5NaM1Pvh51i5Ja5EMb7D31) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [I C U U C ME Pt\. II](https://open.spotify.com/album/79hGmwzwPIpVx03qVYFGMP) | 3:30 | 2019-07-10\* | 2019-11-23 |
+| [Time And Trust](https://open.spotify.com/track/1eWH4VqJ6O3AZ6NOSYgpaj) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Obsidian](https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6) | 2:29 | 2024-10-26 |  |
 | [Time In Our Lives](https://open.spotify.com/track/7Gbit25MiuKzmybIw1bDBr) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Time In Our Lives](https://open.spotify.com/album/13iVhxOwGBTV46Wat0jZpK) | 2:38 | 2022-11-04 | 2023-04-15 |
 | [Time Today](https://open.spotify.com/track/1ENwTLdSFBmbIfmiK6o6Ue) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Time Today](https://open.spotify.com/album/4XmIG6EqLRDjTGsG0i8Bu5) | 3:19 | 2019-07-10\* | 2019-10-22 |
 | [Time Today \- Remix](https://open.spotify.com/track/6xQObuonHYg7NbuHngLlcg) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Time Today \(Remix\)](https://open.spotify.com/album/2hA9pr8kwJ4haAAstHtE3n) | 3:19 | 2019-10-22 | 2020-02-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Lady Gaga au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,748 likes - 90 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,793 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 15 | [Pushing Daisies](https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Pushing Daisies](https://open.spotify.com/album/1CFppXbRFmw8INpeQQMfQc) | 3:27 |
 | 16 | [4 Kampé](https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [4 Kampé](https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88) | 3:34 |
 | 17 | [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY) | 2:43 |
-| 18 | [LOOPING](https://open.spotify.com/track/7pclPTC0ht9dQJfUbKEcUR) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [LOOPING](https://open.spotify.com/album/0dodDMxgomy2hrSNwGuo1a) | 2:21 |
+| 18 | [LOOPING](https://open.spotify.com/track/7pclPTC0ht9dQJfUbKEcUR) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc), [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh) | [LOOPING](https://open.spotify.com/album/0dodDMxgomy2hrSNwGuo1a) | 2:21 |
 | 19 | [Un vœu](https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Un vœu](https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL) | 3:58 |
 | 20 | [Old Friend](https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Old Friend](https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg) | 2:37 |
 | 21 | [Good Enough](https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Good Enough](https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH) | 2:18 |

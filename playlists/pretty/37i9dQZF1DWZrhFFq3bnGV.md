@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,613 likes - 97 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,631 likes - 97 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Four Flights to Fibs](https://open.spotify.com/track/339mditL5UwdFiPbUsBOa0) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU) | [Four Flights to Fibs](https://open.spotify.com/album/0EY2T0dzaS7NdBGY0qmAQ3) | 3:48 |
-| 2 | [Diantara Kata](https://open.spotify.com/track/4LnuU4KBYfy6Cg4CEJ23Pu) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Diantara Kata](https://open.spotify.com/album/1dgr7AUFb8kbP45M6dhpBe) | 4:13 |
+| 2 | [Diantara Kata](https://open.spotify.com/track/4LnuU4KBYfy6Cg4CEJ23Pu) | [Fariz RM](https://open.spotify.com/artist/1m5XLTx8naayWUXhNNrHjT), [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Diantara Kata](https://open.spotify.com/album/1dgr7AUFb8kbP45M6dhpBe) | 4:13 |
 | 3 | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80) | 2:50 |
 | 4 | [Tanya](https://open.spotify.com/track/2OF4WQCcU0j99WWVjyj9UL) | [Satrio Rachmadi](https://open.spotify.com/artist/6ijmsL08ScEX44davlIGV5) | [Perasa](https://open.spotify.com/album/6aOJTpyar68TCZy6XAZ65i) | 4:16 |
 | 5 | [Isn't It Romantic?](https://open.spotify.com/track/1x5Xlm3uF84c6brdgeBxoH) | [Dua Empat](https://open.spotify.com/artist/5dPAU1hj01l7evl47KdU9L), [Duo MobySade](https://open.spotify.com/artist/7cOjhMwF2kd9ngOO3aA9EU) | [Isn't It Romantic?](https://open.spotify.com/album/7j03BBCzOQrBVJxmuIlxva) | 4:34 |

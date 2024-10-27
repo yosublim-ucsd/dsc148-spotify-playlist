@@ -4,7 +4,7 @@
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-85 songs - 3 hr 27 min
+86 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dream Of Higher Altitudes](https://open.spotify.com/track/0s26mtu36zpnnNRVZd7keR) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Nanga Parbat \(Original Soundtrack\)](https://open.spotify.com/album/2YKag72MOjVzBuGtZUUsEa) | 1:15 | 2023-08-31 | 2024-05-11 |
 | [Ella](https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 1:40 | 2023-08-31 |  |
 | [Fleeting](https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us \- Vol\. 2 \(Video Game Soundtrack\)](https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV) | 3:00 | 2024-02-10 |  |
+| [Forgotten Memories](https://open.spotify.com/track/4TVtXw28cKW0qT8aNM2ODh) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:07 | 2024-10-27 |  |
 | [Forsaken](https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:42 | 2023-08-31 |  |
 | [Gaucho \- 2024 Remaster](https://open.spotify.com/track/5pEQmdEuQNUeZHA9ojjwqP) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:11 | 2024-06-27 | 2024-08-28 |
 | [Greater Purpose](https://open.spotify.com/track/6OjSyUp4cLDv9RYvVYYrQc) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Jake Staley](https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:03 | 2023-08-31 | 2024-02-19 |
@@ -80,7 +81,7 @@
 | [The Choice](https://open.spotify.com/track/2IXJyG1DX93g2EhFXghz37) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Alan Umstead](https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:42 | 2023-08-31 |  |
 | [The Last of Us](https://open.spotify.com/track/285ieonEuLkll3zknYK2TY) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 3:03 | 2023-08-31 |  |
 | [The Last of Us Part II](https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:52 | 2023-08-31 |  |
-| [The Path \(A New Beginning\)](https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 2:47 | 2023-08-31 |  |
+| [The Path \(A New Beginning\)](https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 2:47 | 2023-08-31 | 2024-10-27 |
 | [The Settlement](https://open.spotify.com/track/7naQN2rKMnye6uuzV2L0wh) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:50 | 2024-01-10 | 2024-03-14 |
 | [The Wings](https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:52 | 2023-08-31 |  |
 | [There Is No Girl](https://open.spotify.com/track/54Ybc5gEmC1Vdm2hqazAr1) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:05 | 2024-01-31 | 2024-08-01 |

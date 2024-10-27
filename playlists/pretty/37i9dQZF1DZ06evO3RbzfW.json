@@ -1,12 +1,12 @@
 {
   "description": "This is Rammstein. The essential tracks, all in one playlist.",
-  "num_followers": 1361277,
+  "num_followers": 1361478,
   "original_name": "This Is Rammstein",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAAAhAR4al8ZuCkdYFhPYjzsW",
+  "snapshot_id": "ZxrfgAAAAAA82Kzt7wGRRykPKDoQbLTc",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 315850,
       "name": "Wollt ihr das Bett in Flammen sehen",
       "url": "https://open.spotify.com/track/2MC5MLUdhrVUWGHUFHvaLF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liebe ist f\u00fcr alle da (Special Edition)",
-        "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Wiener Blut",
-      "url": "https://open.spotify.com/track/08JxNhMdDeknB1vXn8wO9q"
     },
     {
       "added_at": null,

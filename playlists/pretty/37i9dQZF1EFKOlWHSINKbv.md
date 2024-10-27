@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,206 likes - 148 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210 likes - 148 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 13 | [Fly As Me](https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:39 |
 | 14 | [Blast Off](https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:44 |
 | 15 | [Whoa](https://open.spotify.com/track/38EhHqsV5NX9JrC2D2qXNI) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD) | 3:19 |
-| 16 | [This Is Us](https://open.spotify.com/track/0Ntau8cz6Cp2HDZOt7yORF) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 3:25 |
-| 17 | [Put On A Smile](https://open.spotify.com/track/5f7UJCMrA1VRLvbPrq1h0G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:15 |
+| 16 | [Put On A Smile](https://open.spotify.com/track/5f7UJCMrA1VRLvbPrq1h0G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:15 |
+| 17 | [This Is Us](https://open.spotify.com/track/0Ntau8cz6Cp2HDZOt7yORF) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Bettie James Gold Edition](https://open.spotify.com/album/4qLuvW8Tyfzr8c79VM531V) | 3:25 |
 | 18 | [Silk Sonic Intro](https://open.spotify.com/track/7LK0IWXe2Yd0JGgSjJThex) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 1:03 |
 | 19 | [777](https://open.spotify.com/track/2K6vUau7bnZUamjbRSOOvJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 2:45 |
 | 20 | [Roll Some Mo](https://open.spotify.com/track/1sQBPGypjSgEgJZvD8u8ty) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 4:52 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOlWHSINKbv.md) - [plain]
 | 147 | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/63S7ixo9OYf1VLCRjGoBWI) | [Keep Cool](https://open.spotify.com/artist/6YihZKGlCq75jYZbfRFrtt), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Warzone \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/4rKCnoYMhbRTdsaIxjjh7K) | 3:41 |
 | 148 | [First Place Loser \- Bonus Track](https://open.spotify.com/track/1d5AxYa4bOiTaHTOC3UvTg) | [Diddy \- Dirty Money](https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV) | [Last Train To Paris \(Deluxe\)](https://open.spotify.com/album/4Ofqtk9mm4nmBuCPhctq0e) | 4:28 |
 
-Snapshot ID: `AbfwdAAAAACYZ4l6/KAFqDJ97zcPJ/BS`
+Snapshot ID: `Abf2AAAAAACk9qfE4xOgtVPYPnn7XCua`

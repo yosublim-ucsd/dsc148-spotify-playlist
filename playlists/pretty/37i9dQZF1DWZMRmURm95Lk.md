@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Ghemon in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,495 likes - 155 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,512 likes - 155 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

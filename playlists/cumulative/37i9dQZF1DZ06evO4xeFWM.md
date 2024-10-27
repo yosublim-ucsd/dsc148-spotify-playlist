@@ -4,7 +4,7 @@
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 27 min
+96 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Distorted Light Beam](https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Distorted Light Beam](https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz) | 2:57 | 2022-10-26 |  |
 | [Divide](https://open.spotify.com/track/3hwGJn49kUbDP2gIgXHPKE) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:52 | 2024-05-10 | 2024-07-24 |
 | [Doom Days](https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 2:18 | 2022-10-26 |  |
+| [Drawbridge & The Baroness](https://open.spotify.com/track/0S0wpBa0ZOK1fW1dfPZsX2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/6eSdz2cBX7j23bxXonSqA2) | 3:41 | 2024-10-27 |  |
 | [Dreams](https://open.spotify.com/track/4SDp6x8UZP2xjI4JDCzwho) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Bad Blood X \(10th Anniversary Edition\)](https://open.spotify.com/album/74E7ppPrtoui2EO0Qi3QKz) | 4:20 | 2023-07-28 | 2023-08-05 |
 | [Eight Hours](https://open.spotify.com/track/5rO5unCSIjPlKdwNxroqcx) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Tyde](https://open.spotify.com/artist/0chEYcnxOGTcwHRfmoEOYH) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:28 | 2022-10-26 | 2024-07-24 |
 | [Emily & Her Penthouse In The Sky](https://open.spotify.com/track/5BKgP3WXYSyLoRa0MaPU5c) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/0fqhKnVC87t0zG5i0Mba6S) | 3:22 | 2024-07-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover:  Laura Marling
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,190 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,315 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 71 | [Without A Leg To Stand On](https://open.spotify.com/track/31J0OSQnOjWtLBdrcD0rEm) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Without A Leg To Stand On](https://open.spotify.com/album/4hJ5xoH77zEDmqJONIxSGp) | 4:12 |
 | 72 | [Much Ado About Nothing](https://open.spotify.com/track/1ptXvuSGFStaYw6eumiesq) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Much Ado About Nothing](https://open.spotify.com/album/4gHhAhd9V5f6GkZXQT8xRN) | 3:49 |
 | 73 | [Neon Signs](https://open.spotify.com/track/1Ar6TClO5jtDLNRDpGbp2w) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Neon Signs](https://open.spotify.com/album/42vZKcVepSEpAt2c1LniXQ) | 5:07 |
-| 74 | [I'm Not Dyin' \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/6gClmJ0dRPWaBRuxDVj4K8) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I'm Not Dyin' \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/2Q1nWyzwV4uRZN3OaNWX0Q) | 3:22 |
+| 74 | [I'm Not Dyin'](https://open.spotify.com/track/6gClmJ0dRPWaBRuxDVj4K8) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I'm Not Dyin'](https://open.spotify.com/album/2Q1nWyzwV4uRZN3OaNWX0Q) | 3:22 |
 | 75 | [Porcupine Tattoo](https://open.spotify.com/track/68A5pJVydyEjMXMMxzGsyU) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Porcupine Tattoo](https://open.spotify.com/album/7yHTcBmhMU0hRmoFQIDVOf) | 3:26 |
 | 76 | [Mean Guy](https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [With a Lightning Strike](https://open.spotify.com/album/64Pwh2WtRjuraxtKnq62wr) | 3:29 |
 | 77 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |

@@ -3593,6 +3593,32 @@
     },
     {
       "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/4nDtOJHPxI43ZaBoWRHSx6"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178346,
+      "name": "Closure (with Cash Cobain)",
+      "url": "https://open.spotify.com/track/5RXnHx69EemG0EXsmhtfki"
+    },
+    {
+      "album": {
         "name": "Heads I Win, Tails You Lose",
         "url": "https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d"
       },
@@ -6690,7 +6716,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 146893,
       "name": "H&M",
       "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"

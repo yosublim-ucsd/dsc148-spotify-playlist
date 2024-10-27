@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,998 likes - 200 songs - 17 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,022 likes - 200 songs - 17 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

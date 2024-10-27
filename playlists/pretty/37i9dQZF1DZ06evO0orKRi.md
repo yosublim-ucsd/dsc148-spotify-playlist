@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,586 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,585 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 36 | [Kelly's Offsider](https://open.spotify.com/track/1xWdSpL2zvuafjX6mFPe5Y) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Give Me The Road \(Remastered\)](https://open.spotify.com/album/0ih1aK9XXImHlI8Zyr4bX5) | 3:25 |
 | 37 | [By A Fire Of Gidgee Coal \- 1996 Digital Remaster](https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty Sings Stan Coster](https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp) | 2:58 |
 | 38 | [Plains Of Peppimenarti \- 1998 Remaster](https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 3:13 |
-| 39 | [I'm Married To My Bulldog Mack \- 2009 Digital Remaster](https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:18 |
+| 39 | [Highway Fever \- 2009 Digital Remaster](https://open.spotify.com/track/4rvvKIQ47CesB4m5ke6DYW) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 2:48 |
 | 40 | [Along The Road To Gundagai \- Remaster 1995](https://open.spotify.com/track/7lTT3wNt9aK42uqJGDNgVC) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [I'll Take Mine Country Style](https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59) | 1:52 |
 | 41 | [Gotta Keep Moving](https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 3:11 |
 | 42 | [Trumby \- 1994 Remaster](https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Old Time Drover's Lament](https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480) | 3:29 |
-| 43 | [Highway Fever \- 2009 Digital Remaster](https://open.spotify.com/track/4rvvKIQ47CesB4m5ke6DYW) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 2:48 |
+| 43 | [I'm Married To My Bulldog Mack \- 2009 Digital Remaster](https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:18 |
 | 44 | [Matilda No More](https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:41 |
 | 45 | [Star Trucker](https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 4:13 |
 | 46 | [Traveller's Prayer \- 1996 Remaster](https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Singer From Down Under](https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 49 | [Something In The Pilliga](https://open.spotify.com/track/42fl1eHeTq8xsSvNZKoJ9u) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 4:00 |
 | 50 | [The Road To Gundagai \- 2004 Remaster](https://open.spotify.com/track/7vKyWcioaiGKFVGQ4ymOSI) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Classic Albums \- 1960's](https://open.spotify.com/album/6YJQPvhGypKpc9gEKwQBPS) | 1:54 |
 
-Snapshot ID: `ZxmOAAAAAAA1GbE0APxTlt4N5IF6I98e`
+Snapshot ID: `ZxrfgAAAAAAsQK/4aGRAUuHz3LYui+FD`

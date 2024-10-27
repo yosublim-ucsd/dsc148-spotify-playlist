@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,389 likes - 168 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,390 likes - 168 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 29 | [Phone Down](https://open.spotify.com/track/5bvNpG6wiIEf1PA13TkTu2) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Phone Down](https://open.spotify.com/album/2jEoK4yuqMQOrxXj2006mu) | 3:35 |
 | 30 | [Recess](https://open.spotify.com/track/1QtpKRXtJZSdJp3Y299zkQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:50 |
 | 31 | [Stay Together](https://open.spotify.com/track/5R4HqXCZ6uTjxxnGdLt2S6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stay Together](https://open.spotify.com/album/7Hlsir9c1oIMeWCTLUxn9e) | 3:12 |
-| 32 | [Don’t Feel Like Crying](https://open.spotify.com/track/1ABvDz0JnQGO8M8NYjRNMp) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 2:37 |
-| 33 | [My Type](https://open.spotify.com/track/6V9kwssTrwkKT72imgowj9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:37 |
+| 32 | [My Type](https://open.spotify.com/track/6V9kwssTrwkKT72imgowj9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:37 |
+| 33 | [Don’t Feel Like Crying](https://open.spotify.com/track/1ABvDz0JnQGO8M8NYjRNMp) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/4OaTrPkuAYkelxCnm92njS) | 2:37 |
 | 34 | [Twenty One](https://open.spotify.com/track/1NgCWYuBLfqBDA3b8MgSVU) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:04 |
 | 35 | [Watch Me Work](https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b), [Brianna Mazzola](https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:30 |
 | 36 | [If You See Her](https://open.spotify.com/track/3coUcc0CDAHz2QwdP7Pee8) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:02 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 167 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 168 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbfwdAAAAADRBUwkqJPEIVoADsoilvX3`
+Snapshot ID: `Abf2FAAAAADpcpVyXYQx7HYFiiBqMT+T`

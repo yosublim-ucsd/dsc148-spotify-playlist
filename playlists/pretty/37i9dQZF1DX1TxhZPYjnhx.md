@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Gracie Abrams
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,940 likes - 113 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,942 likes - 113 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 23 | [annie\. \(clean\)](https://open.spotify.com/track/5E84ZtPQnMZrsXLhBXn7n6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [play with earth! 0.03 \(extended\)](https://open.spotify.com/album/4jBFN4Em3PmeTmJLGT2NDQ) | 3:20 |
 | 24 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 |
 | 25 | [Lotus Eater](https://open.spotify.com/track/3Y6yJhnGJdNTQwgIyKMLE8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Lotus Eater](https://open.spotify.com/album/494g1fkelfoloDvUuqdAED) | 3:51 |
-| 26 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 26 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 27 | [To Love Somebody \- Music From The Motion Picture](https://open.spotify.com/track/7FyQqFixAnYRi64pcM63Nx) | [Joaquin Phoenix](https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joker: Folie à Deux \(Music From The Motion Picture\)](https://open.spotify.com/album/3X2oYJbZtrmszmNeXRpckc) | 1:49 |
 | 28 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
 | 29 | [i don't rly care bout u!](https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [i don't rly care bout u!](https://open.spotify.com/album/0NcC6LXLRpKMmD1zjPCaKS) | 3:22 |

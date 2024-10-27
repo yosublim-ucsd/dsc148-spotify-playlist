@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,142 likes - 119 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,134 likes - 119 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 12 | [I'll Be There](https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [I'll Be There](https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay) | 3:01 |
 | 13 | [Terpatah Terluka](https://open.spotify.com/track/7wsAlbsjk0unxRsB4Sug4B) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Terpatah Terluka](https://open.spotify.com/album/2IpdxbEmOcllJBByXu3AAB) | 3:34 |
 | 14 | [blue](https://open.spotify.com/track/2ezMnGfGww3WSOJp7TwI1N) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn) | 3:34 |
-| 15 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 15 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 16 | [Yang Baru](https://open.spotify.com/track/4c1wBkdJEgqfs10hYnghBY) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Yang Baru](https://open.spotify.com/album/35tySmLnfKYopvjYa2OoWM) | 3:14 |
 | 17 | [Senyumin Dulu Aja](https://open.spotify.com/track/2DpWJsNrCjkXkk7aW3lC9A) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Senyumin Dulu Aja](https://open.spotify.com/album/6ZHe5db0j2FZrxuu6tqsb2) | 2:35 |
 | 18 | [Hai Apa Kabar](https://open.spotify.com/track/6nMBB1JxN74JT9fkxsWkoe) | [Gisel](https://open.spotify.com/artist/4L0t6db3fWWG07bh14TxUw) | [Hai Apa Kabar](https://open.spotify.com/album/7scoQ8RAsPznEfJPtMb9LB) | 4:15 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 68 | [Sampai Bertemu Lagi](https://open.spotify.com/track/0nXp170HMJr7a5Zj1uU5As) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Sampai Bertemu Lagi](https://open.spotify.com/album/7MrqprT4KZWTzdXYLseZuE) | 4:11 |
 | 69 | [Dirty Laundry](https://open.spotify.com/track/3O0VDbjTaFDKQlSyE54xxf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dirty Laundry](https://open.spotify.com/album/1toxicdmCTYNhoghfU51lT) | 2:21 |
 | 70 | [In My Vein](https://open.spotify.com/track/4mYBFTsABvQtmm2l1l65QB) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [BORN LIKE THIS](https://open.spotify.com/album/4aJ7v5848ubd4iQF3lONqk) | 3:09 |
-| 71 | [No Turning Back](https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [No Turning Back](https://open.spotify.com/album/4lCdkCWOmYNJWdfiRU4Bof) | 4:12 |
+| 71 | [No Turning Back](https://open.spotify.com/track/0ZYhCY76jYg9kwuhgmeIJh) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [No Turning Back](https://open.spotify.com/album/4lCdkCWOmYNJWdfiRU4Bof) | 4:07 |
 | 72 | [Eleven \- Alternate Version](https://open.spotify.com/track/1pwhINWGuysBs8IsI2LtuO) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4), [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Eleven \(Alternate Version\)](https://open.spotify.com/album/7BcI6gwjYOy3yFVTfAndmS) | 3:27 |
 | 73 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
 | 74 | [Gimme A Minute \(Feat\. CHUNG HA\)](https://open.spotify.com/track/7jYRRvidgWHyHmlIu5lyx7) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 3:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Brett Young, Kelsea Ballerini, Jordan Davis and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,109 likes - 77 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,407 likes - 77 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 30 | [COUNTRY IS FOR ME](https://open.spotify.com/track/5ZQThi4zaMjCYWCnJQiCTa) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [COUNTRY IS FOR ME](https://open.spotify.com/album/1zvLuzCsvWou3ERPsjkpiN) | 3:00 |
 | 31 | [Mama's Boys](https://open.spotify.com/track/1NmdTJi2TBp1FDsNEGmv9R) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Mama's Boys](https://open.spotify.com/album/4plUOdJyu7r2Jb5lNkDHTB) | 2:48 |
 | 32 | [Leave You Behind](https://open.spotify.com/track/5jTnTImVNfv6NDToLImHa6) | [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Leave You Behind](https://open.spotify.com/album/48LFtpTv4hl7hbwPfWCEu7) | 2:42 |
-| 33 | [Same Kind of Crazy as Me \- Duet with Ward Davis](https://open.spotify.com/track/7Ll4fzeoBCPqPx1YcwGHHN) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD), [Ward Davis](https://open.spotify.com/artist/2Tpxz9WfPRZGQNSCzrjk0a) | [Same Kind of Crazy as Me \(Duet with Ward Davis\)](https://open.spotify.com/album/1FuAmdCMfSDPqDAwMh1vlp) | 3:43 |
+| 33 | [Same Kind of Crazy as Me \- Duet with Ward Davis](https://open.spotify.com/track/7Ll4fzeoBCPqPx1YcwGHHN) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD), [Ward Davis](https://open.spotify.com/artist/4B5bxRHl9DMhuzf5So5akk) | [Same Kind of Crazy as Me \(Duet with Ward Davis\)](https://open.spotify.com/album/1FuAmdCMfSDPqDAwMh1vlp) | 3:43 |
 | 34 | [Two Sides](https://open.spotify.com/track/5IWTPFbwDqrQNNOWWbTZBf) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Two Sides](https://open.spotify.com/album/5NPznFQqhu6KL52sqmlDmh) | 3:58 |
 | 35 | [Lose You Again \(Acoustic\)](https://open.spotify.com/track/42BK7551EQuQZcSUFTbg94) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Lose You Again \(Acoustic\)](https://open.spotify.com/album/2ORW1vJAsDtuSKJdpBQJnj) | 2:46 |
 | 36 | [Trainwreck](https://open.spotify.com/track/04K2fJcI1XdEI9WKy4SgdJ) | [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [Clever](https://open.spotify.com/album/4IHRm6kK7CHimGm9aH3La8) | 3:52 |

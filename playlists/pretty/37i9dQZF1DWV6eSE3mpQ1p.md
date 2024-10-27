@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6eSE3mpQ1p.md) - [plain]
 
 > Let the music take you on a journey of peace, love, and good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,104 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,243 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6eSE3mpQ1p.md) - [plain]
 | 44 | [Everybody’s Gotta Live](https://open.spotify.com/track/1Og2Qi5XwYdr0YI6rn79Zb) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Reel To Real](https://open.spotify.com/album/5fhrpFxoThV3rhboaG1PzC) | 3:24 |
 | 45 | [Itchycoo Park \(Mono\)](https://open.spotify.com/track/5q1dqOJ4qBL6cMaOvL0mWR) | [Small Faces](https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ) | [Small Faces \(Deluxe Edition\)](https://open.spotify.com/album/272beLTeCHahNEM6RoymEK) | 2:46 |
 | 46 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
-| 47 | [Good Morning Rain](https://open.spotify.com/track/7JFT4vlqldsc9INK5NZQSe) | [Bonnie Dobson](https://open.spotify.com/artist/4dPzv5MtRPCR4qIVN4Y15I) | [Good Morning Rain](https://open.spotify.com/album/7JsEzSrxXVyenKmcFEcpWx) | 2:21 |
+| 47 | [Good Morning Rain](https://open.spotify.com/track/7JFT4vlqldsc9INK5NZQSe) | [Bonnie Dobson](https://open.spotify.com/artist/62dp4ukQTgdD8vhPD2gb67) | [Good Morning Rain](https://open.spotify.com/album/7JsEzSrxXVyenKmcFEcpWx) | 2:21 |
 | 48 | [Get Together](https://open.spotify.com/track/7CQXyFX44CXmnuq8Bi9Dyc) | [The Youngbloods](https://open.spotify.com/artist/5I6MzhNEMk27cZsCqGAIYo) | [The Youngbloods](https://open.spotify.com/album/5s0VNKqar5MPHpL5atfTFG) | 4:39 |
 | 49 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 |
 | 50 | [San Francisco \(Be Sure to Wear Flowers In Your Hair\)](https://open.spotify.com/track/6UsdldEfcEXSID2G3nA89J) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [Forrest Gump \- The Soundtrack](https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk) | 2:58 |

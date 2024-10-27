@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 
 > 🎀  𝓢𝓸𝓶𝓮𝓽𝓲𝓶𝓮𝓼, 𝓰𝓲𝓻𝓵𝓼 𝓳𝓾𝓼𝓽 𝓰𝓸𝓽𝓽𝓪 𝓱𝓪𝓿𝓮 𝓯𝓾𝓷 💅
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,288 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,300 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

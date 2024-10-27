@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Damiano David
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,390 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,401 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 67 | [Scirocco ペ](https://open.spotify.com/track/5k3OlIlJBeZ7mfbKGRTQYj) | [DARRN](https://open.spotify.com/artist/7tIRfM2ZxdW5Qz2qVQIpB4) | [Radici Veloci](https://open.spotify.com/album/226n3hZunHa5vea0F1Lp7e) | 3:37 |
 | 68 | [Babylon](https://open.spotify.com/track/4iZxUb2hnfS9TLgXoLgGaG) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Babylon](https://open.spotify.com/album/48r02r15RZbykBX2z5WQs3) | 5:41 |
 | 69 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 |
-| 70 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 70 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 71 | [Pretesto](https://open.spotify.com/track/1a9MrZQILdbmKOqUb51Zfs) | [Bye.Tide](https://open.spotify.com/artist/30Ufi67H57YMdnKTV5wNJH) | [Pretesto](https://open.spotify.com/album/6oq3HUb5x0miJq2uZTmEHL) | 2:56 |
 | 72 | [Vigliacco](https://open.spotify.com/track/1BTU1ZDBStYh2uwF6Flpro) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Vigliacco](https://open.spotify.com/album/5cx8qagp92T96D7CXYMMbS) | 3:13 |
 | 73 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |

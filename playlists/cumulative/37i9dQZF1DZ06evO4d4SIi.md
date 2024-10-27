@@ -4,7 +4,7 @@
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 50 min
+55 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Guiding Light \(feat\. Sam Hunt / Live Acoustic\)](https://open.spotify.com/track/5lA1Xfr3ZnIKGJRDPcdfxY) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Guiding Light \(feat\. Sam Hunt / Live Acoustic\)](https://open.spotify.com/album/2Yivsi4urNKVmfWlQPhejR) | 5:04 | 2024-04-21 |  |
 | [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 | 2024-07-27 |  |
 | [I Still Smoked](https://open.spotify.com/track/2SMzVQE4Y1k0idunVh6R2R) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:26 | 2024-05-17 | 2024-07-21 |
+| [Know You Like That](https://open.spotify.com/track/2zNRgMzYj5VlfxNDZK7RGO) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Know You Like That](https://open.spotify.com/album/4xgNgsr0mwtN1YraSZMGjl) | 2:56 | 2024-10-27 |  |
 | [Leaving New Orleans](https://open.spotify.com/track/4CZ0nzD7AsWeSEElxKodqq) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:30 | 2024-07-04 | 2024-07-23 |
 | [Lose You](https://open.spotify.com/track/6t9p9BwdZMCgXeAlkfA0RP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 3:23 | 2023-02-08 |  |
 | [Made That Way](https://open.spotify.com/track/2k4Chj6SG01uoySJzBK1lO) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 2:53 | 2023-02-08 | 2024-06-01 |

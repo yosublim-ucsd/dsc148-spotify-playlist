@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "To Hell With Hollywood",
+        "url": "https://open.spotify.com/album/55fEgDbnl0J1GVXJrwgYek"
+      },
+      "artists": [
+        {
+          "name": "Call Me Karizma",
+          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142268,
+      "name": "Offended",
+      "url": "https://open.spotify.com/track/4CBlt34IGHQa0XvpYDtoMS"
+    },
+    {
+      "album": {
         "name": "Overwhelmed",
         "url": "https://open.spotify.com/album/7E7HRywUyuqW5qH793yPbP"
       },

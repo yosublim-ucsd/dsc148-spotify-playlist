@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279404,
+  "num_followers": 279402,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAADPk3ojSrCsYoNVkm/wNmbe",
+  "snapshot_id": "ZxrfgAAAAAB2NYEVN2db+DkTKf2XPran",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRISCILLA",
-        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
       "artists": [
         {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "Mc Alleff",
+          "url": "https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l"
         },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 136037,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa"
+      "duration_ms": 174213,
+      "name": "BRUXARIA 3000",
+      "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
     },
     {
       "added_at": null,
@@ -447,30 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO FLUXO",
-        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+        "name": "PRISCILLA",
+        "url": "https://open.spotify.com/album/7CwRBVDac8q1nUsl5Fx7Ik"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Yure IDD",
-          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
-        },
-        {
-          "name": "Mc Alleff",
-          "url": "https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l"
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 174213,
-      "name": "BRUXARIA 3000",
-      "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
+      "duration_ms": 136037,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/3c2kCfk3gt82jFroErOvBa"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 166108,
-      "name": "No Hablo Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 136844,
       "name": "Parab\u00e9ns",
       "url": "https://open.spotify.com/track/3mikf8qZaNp6wrrWxHgawH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 166108,
+      "name": "No Hablo Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 157508,
+      "name": "Rajad\u00e3o",
+      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 179995,
       "name": "Calma Amiga (feat. Anitta) - Dj RaMeMes (O DESTRUIDOR DO FUNK) & DJ Tonias Extended Mix",
       "url": "https://open.spotify.com/track/3TRIwk9p4ACUJwTxs8SqWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 157508,
-      "name": "Rajad\u00e3o",
-      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
     },
     {
       "added_at": null,

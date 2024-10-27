@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 439308,
+  "num_followers": 439382,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAACzz3A01GW1mWmj88NpdQAO",
+  "snapshot_id": "ZxrfgAAAAABYgWOVCFliY3BSIAaWftAq",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 155292,
       "name": "HOT WIND BLOWS (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
     },
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Mornings (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 263449,
-      "name": "Saturday Mornings (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me U & Hennessy (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 224971,
       "name": "Me U & Hennessy (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saturday Mornings (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/3IySMEnXL20Sm0ZwZXxS66"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 263449,
+      "name": "Saturday Mornings (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2dk1fsLg7YEsKJdVm4P5cu"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believer (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 219705,
-      "name": "Believer (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cherry Bomb",
         "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 334363,
       "name": "SMUCKERS (feat. Lil Wayne & Kanye West)",
       "url": "https://open.spotify.com/track/078C2jXg7XsMgW78Gfx1JA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believer (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 219705,
+      "name": "Believer (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"
     },
     {
       "added_at": null,
@@ -879,30 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here I Stand",
-        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 309040,
-      "name": "Love in This Club, Pt. II (feat. Beyonc\u00e9 & Lil' Wayne)",
-      "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 227478,
       "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here I Stand",
+        "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 309040,
+      "name": "Love in This Club, Pt. II (feat. Beyonc\u00e9 & Lil' Wayne)",
+      "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
     },
     {
       "added_at": null,

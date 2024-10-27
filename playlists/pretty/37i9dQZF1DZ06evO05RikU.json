@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 42448,
+  "num_followers": 42450,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABZ8Q+JHY6b9FMLyWJqVXcx",
+  "snapshot_id": "ZxrfgAAAAABGyr92cKeU+K1ULrBZMALH",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
       "duration_ms": 218800,
       "name": "Marte",
       "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Loca",
+        "url": "https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96"
+      },
+      "artists": [
+        {
+          "name": "Karina Sofia",
+          "url": "https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 227160,
+      "name": "La Loca",
+      "url": "https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD"
     },
     {
       "added_at": null,
@@ -947,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/23sn6gTKYXUA29zWrUSChH"
-      },
-      "artists": [
-        {
-          "name": "Awgust",
-          "url": "https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 191257,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/6WJWxEIY8c8wmW6TxCplw7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Let You Go (feat. Sofia Reyes)",
         "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
       },
@@ -983,6 +983,26 @@
       "duration_ms": 162537,
       "name": "Never Let You Go (feat. Sofia Reyes)",
       "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/23sn6gTKYXUA29zWrUSChH"
+      },
+      "artists": [
+        {
+          "name": "Awgust",
+          "url": "https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 191257,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/6WJWxEIY8c8wmW6TxCplw7"
     },
     {
       "added_at": null,
@@ -1007,6 +1027,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 156831,
+      "name": "La Batidora",
+      "url": "https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TICK TOCK",
         "url": "https://open.spotify.com/album/61vhLJ6tGWrE9XlmIedFmb"
       },
@@ -1027,26 +1067,6 @@
       "duration_ms": 171082,
       "name": "TICK TOCK",
       "url": "https://open.spotify.com/track/6v9dLKmPBQYOAeoHuwu8wa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 156831,
-      "name": "La Batidora",
-      "url": "https://open.spotify.com/track/2e4muS8FH9hY5WY6IqANlA"
     },
     {
       "added_at": null,

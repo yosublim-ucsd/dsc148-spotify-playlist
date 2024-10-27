@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 273221,
       "name": "Baba",
       "url": "https://open.spotify.com/track/36h8chyy24HG3382bLeKbz"
@@ -876,6 +876,24 @@
       "duration_ms": 187826,
       "name": "BLUE LOVE",
       "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
+    },
+    {
+      "album": {
+        "name": "Depuis le temps (Part. 2)",
+        "url": "https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176248,
+      "name": "Ca parle mal",
+      "url": "https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi"
     },
     {
       "album": {

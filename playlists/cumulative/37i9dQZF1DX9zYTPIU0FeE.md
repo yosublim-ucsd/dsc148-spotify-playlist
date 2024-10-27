@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0?si=2m1OIjRLRFa0tE28uktFTw">Letta Mbulu</a>
 
-236 songs - 1 day 1 hr 4 min
+236 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Unh!](https://open.spotify.com/track/01cQKyyDqA0l7r9hyMbzde) | [Philip Tabane](https://open.spotify.com/artist/3wC1W9e4Ycoji9LEM1MBTa), [Malombo](https://open.spotify.com/artist/4bXWyXENW0qmuSg1Lnkj7q) | [Unh!](https://open.spotify.com/album/3teAF7CtG2q9seDpgiZ9zJ) | 3:33 | 2023-11-01 | 2023-11-17 |
 | [uNongoma](https://open.spotify.com/track/2vcHzKopy1YAUDU074p503) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [Isambulo](https://open.spotify.com/album/0SPsHKZyf7VGSjeyquxccs) | 6:01 | 2022-06-23 | 2023-02-10 |
 | [uNongoma](https://open.spotify.com/track/58pRCGe1pQguRfIuZeFS7v) | [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Paras](https://open.spotify.com/artist/4KXt4PyOQbec8NA3hURZ8c) | [uNongoma](https://open.spotify.com/album/62qSpZQ42mPEVKX1cq2j9L) | 6:01 | 2022-06-23 | 2022-11-02 |
-| [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 3:54 | 2024-10-24 |  |
+| [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 7:51 | 2024-10-24 |  |
 | [uThixo uKhona](https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Azania](https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v) | 4:13 | 2023-08-25 |  |
 | [Voice](https://open.spotify.com/track/4i0JGQjQ0A0rq6NtzDmEBl) | [Mthunzi Mvubu](https://open.spotify.com/artist/6oOo5M8BQsi01kxDE3sKT6) | [The 1st Gospel](https://open.spotify.com/album/2r8YjJrjJzslaSWemjQhdB) | 8:15 | 2023-08-25 | 2024-07-27 |
 | [Voila](https://open.spotify.com/track/4twXDwwdDoN2S6EWu4XNZf) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [Daniel Casimir](https://open.spotify.com/artist/3J4HhohiA3sFTwyHTBqKs1) | [Universal Beings](https://open.spotify.com/album/3cFJZIeJK3Tdkkq4iuvsBS) | 5:00 | 2023-11-01 | 2023-11-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,943 likes - 327 songs - 20 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,945 likes - 327 songs - 20 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,8 +240,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 230 | [Waiting To Die](https://open.spotify.com/track/5GOijxEW8K8l69SRLCctix) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/5eqHucyy09GuijWam8RAja) | 3:41 |
 | 231 | [Towards The Sun](https://open.spotify.com/track/56Jm8UQS5PD86xfKjanI3r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:47 |
 | 232 | [Chaos](https://open.spotify.com/track/0KAAMcIYH5D9JwVLXcTQmb) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/2yZlo1UzbQDfiokZooVfaF) | 4:05 |
-| 233 | [Unite](https://open.spotify.com/track/7dx1maQh7mN7PHRTnZNFI9) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Alive \(Deluxe Edition\)](https://open.spotify.com/album/7duJuFUm0IlZW4ppyWSXu5) | 3:51 |
-| 234 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 233 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
+| 234 | [Unite](https://open.spotify.com/track/7dx1maQh7mN7PHRTnZNFI9) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Alive \(Deluxe Edition\)](https://open.spotify.com/album/7duJuFUm0IlZW4ppyWSXu5) | 3:51 |
 | 235 | [Wanna Be Known](https://open.spotify.com/track/3qV77JjyBtqHovXoYSLnr3) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:46 |
 | 236 | [Get over U](https://open.spotify.com/track/5HvN5wQFNTNxlNBgeaPGbf) | [Neon Hitch](https://open.spotify.com/artist/2TnJ7VOpGzjtKUn0ObpEYe) | [Get Over U](https://open.spotify.com/album/1vleMZIYYhBSXyAWPUeSIX) | 3:24 |
 | 237 | [Wrapped Up](https://open.spotify.com/track/536LtAJlONCorMQe539cKy) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1), [Vox Lux](https://open.spotify.com/artist/7cTvNYz4p7LDVwfGEsBDji) | [Wrapped Up / Alive \(Vox Lux Original Motion Picture Soundtrack\)](https://open.spotify.com/album/344A3w5aYjSEPkBNRUj2Md) | 4:29 |
@@ -336,4 +336,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 326 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 327 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbfwdAAAAADs2wXnH73SWVOUST1b9iuV`
+Snapshot ID: `Abf2HgAAAAAPindvmgiBgKRSgXclUHWp`

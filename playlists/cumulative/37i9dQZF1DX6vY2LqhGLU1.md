@@ -4,7 +4,7 @@
 
 > Celebrate the Savior being born by worshipping along with these Christmas songs.
 
-204 songs - 14 hr 23 min
+205 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Angels \(Glory To God\)](https://open.spotify.com/track/4ASV09jmQAEeFZ3HGhVd3W) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Angels \(Glory To God\)](https://open.spotify.com/album/53ZCLnZFLXNuZuMR85fN2u) | 3:43 | 2024-09-12 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/4ETJMclUUGGn8YDV4N4XSb) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Angels We Have Heard On High](https://open.spotify.com/album/0YTBVRxwnR5LOGksOnomhP) | 3:17 | 2022-11-26 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/6r2uT3BQAYuNygl5BKv3v3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:41 | 2020-12-21 | 2022-11-27 |
+| [Angels We Have Heard On High](https://open.spotify.com/track/1G7DbHCfOvmqTw51vrZEaZ) | [Travis Cottrell](https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Before The Manger](https://open.spotify.com/album/0igsJgvl3bpRWIB8p6FMGC) | 4:11 | 2024-10-27 |  |
 | [Angels We Have Heard On High](https://open.spotify.com/track/2mCGyYZna7YLFPonIziP0x) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Tina Colón Williams](https://open.spotify.com/artist/2BH2hojvyoVD7WKMWU8TNl) | [Angels We Have Heard On High](https://open.spotify.com/album/5dQjOApHr2xDsYjfmmwCF2) | 3:49 | 2022-11-26 |  |
 | [Away In a Manger](https://open.spotify.com/track/6kqfTZO1rOY1M4Ilcc2noQ) | [Highlands Worship](https://open.spotify.com/artist/48ubKBTTmlA82dffZ223In) | [Comfort and Joy](https://open.spotify.com/album/6ln6oSxJB8fCXtTu4eezD9) | 3:20 | 2022-11-26 |  |
 | [Away In A Manger \(Forever Amen\)](https://open.spotify.com/track/0AIIvSYZUvrURBcWTwhC7e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Christmas](https://open.spotify.com/album/1TzI5wwnlBtglKMxIW0Bx7) | 3:14 | 2020-12-21 |  |

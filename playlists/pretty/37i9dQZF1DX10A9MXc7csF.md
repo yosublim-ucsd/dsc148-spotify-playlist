@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Hans El Oso, T3R Elemento
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,741 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,821 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 7 | [DEMASIADO PARA MI](https://open.spotify.com/track/100VQchOOV43IqQHgY668o) | [Daren](https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP) | [DEMASIADO PARA MI](https://open.spotify.com/album/4wZ5uxnWBVOqZXudmXIIlL) | 3:51 |
 | 8 | [Los Ultimos Son Los Primeros](https://open.spotify.com/track/2mWdFicDI0oYBCic5506My) | [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Los Ultimos Son Los Primeros](https://open.spotify.com/album/12AfYR9rwjDAXWsZQvaXof) | 3:47 |
 | 9 | [Mucho Relajo](https://open.spotify.com/track/1fx2FDN9dMvAagk8oSQk9Z) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [CORRIDOS CHAKALOSOS II](https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH) | 2:49 |
-| 10 | [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
+| 10 | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
 | 11 | [Felicito a Ese Gato](https://open.spotify.com/track/3aKHJQLn2iQjIuOnYmSdRI) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [Felicito a Ese Gato](https://open.spotify.com/album/7e1WPGMACwOAUSOf1Y0FNf) | 3:30 |
 | 12 | [Mami](https://open.spotify.com/track/6hH2mh9ZttaTSCEhjsu9Lb) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Mami](https://open.spotify.com/album/6RUpyrHMlNdwnWnWk5mI8R) | 3:13 |
 | 13 | [MALIBU](https://open.spotify.com/track/04lV85JVGnjC2cRtDIthqx) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [Vision](https://open.spotify.com/album/3CVObq7AFkpwOkwdhJYJQo) | 3:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw?si=I9dDiSTZSGakTlE9s38b\_g>Pastor Emmanuel Iren</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,562 likes - 97 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,581 likes - 97 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 8 | [Father We Declare](https://open.spotify.com/track/6fDCxjnAQbcizv2yvzztGY) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Father We Declare](https://open.spotify.com/album/3rL19E0P92E592NhhgycgN) | 2:20 |
 | 9 | [God Is](https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [God Is](https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl) | 3:05 |
 | 10 | [Jesus Made \(JM\)](https://open.spotify.com/track/3Zow6vtdrl7POvw0ihW2LA) | [Feezeh](https://open.spotify.com/artist/1mON6A1qqbSP8RUgJWHzRA), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Jesus Made \(JM\)](https://open.spotify.com/album/23ic4HHTsaT6dW4R3GH3Py) | 2:22 |
-| 11 | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 3:54 |
+| 11 | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/track/4tuvLHfZ9vHeGS000zP20G) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Soweto Central Chorus of the Salvation Army](https://open.spotify.com/artist/4Zc8DpzZaFNWqqnoijs6Cg), [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Usuku Oluzayo \(feat\. Ndabo Zulu & Terrace Martin\)](https://open.spotify.com/album/0UMsyKw3yImVOrbpIFXGle) | 7:51 |
 | 12 | [Little Me](https://open.spotify.com/track/3UZoiBEuHoKIb6TqJGKi7Z) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Emerge](https://open.spotify.com/album/1yewzTyF45OJ3pMYKWS5Uz) | 4:15 |
 | 13 | [Holy](https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Miracles](https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3) | 3:19 |
 | 14 | [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 |

@@ -4,7 +4,7 @@
 
 > A brand new anime season has arrived! Check back often to discover your next favorite fall anime tracks.
 
-82 songs - 4 hr 51 min
+82 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [ギミギミ](https://open.spotify.com/track/0rV0W6Hp9qeCumczGXPjL9) | [りぶ\(CV:ファイルーズあい\)](https://open.spotify.com/artist/5wwzTSv7Uw6AjvfE3TTrYf), [苺子\(CV:伊藤ゆいな\)](https://open.spotify.com/artist/0NBtlxA07nkxc0Z0FIOMJ2), [譜風\(CV:羊宮妃那\)](https://open.spotify.com/artist/0S3jo4bRYRiG1ZwEtFHTTr), [十景\(CV:上田瞳\)](https://open.spotify.com/artist/3mDj3M54oDhi3E5giK4Z37), [ゆき\(CV:茅野愛衣）](https://open.spotify.com/artist/0AUxIWmmNUihnWN3cj4ENm) | [TVアニメ「真夜中ぱんチ」テーマソングシングル「ギミギミ / 編集点」](https://open.spotify.com/album/27yQYRaAS6aEAfptrxQCsz) | 4:08 | 2024-08-19 | 2024-10-12 |
 | [クランクアップ](https://open.spotify.com/track/5U9AuW2kaBCcoMgyUUDUti) | [Ikusaburo Yamazaki](https://open.spotify.com/artist/6Gb2Ypn3fY7iNn9aHQDu85) | [クランクアップ](https://open.spotify.com/album/7FUhKHzyXR1XcJTwTYOLHi) | 4:23 | 2024-08-19 | 2024-10-05 |
 | [クランシック](https://open.spotify.com/track/2Bl5D08JrQTfY1OcZwsm3d) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [北澤ゆうほ](https://open.spotify.com/artist/16GairTgKufSywJwInf6O7) | [クランシック](https://open.spotify.com/album/6jNDEvVwbdyOt5g0qMfLJY) | 3:02 | 2024-10-11 |  |
-| [コラージュ](https://open.spotify.com/track/4CRRK6aFioUrTXpB6jqEtF) | [PUFFYとついでにTOOBOE](https://open.spotify.com/artist/4zIIkfmnZiVKxEuv6NkbqT), [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [コラージュ](https://open.spotify.com/album/2iM76auWZvUbAlG91fKpBT) | 3:47 | 2024-10-11 |  |
+| [コラージュ](https://open.spotify.com/track/4CRRK6aFioUrTXpB6jqEtF) | [PUFFYとついでにTOOBOE](https://open.spotify.com/artist/4zIIkfmnZiVKxEuv6NkbqT), [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [コラージュ](https://open.spotify.com/album/2iM76auWZvUbAlG91fKpBT) | 3:10 | 2024-10-11 |  |
 | [シカせんべいのうた](https://open.spotify.com/track/14QDd4PKIL6UhIx8vxOmJ4) | [鹿乃子のこ \(CV.潘めぐみ\)](https://open.spotify.com/artist/7Du39NxqFzjL8LmvlPJEAN), [虎視虎子 \(CV.藤田 咲\)](https://open.spotify.com/artist/6QiTCAQ2JAt94Q7YF9dQNd) | [シカせんべいのうた](https://open.spotify.com/album/2WNV4oobBqwksD8MNBo4Fy) | 3:10 | 2024-08-19 | 2024-10-05 |
 | [シカ色デイズ](https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD) | [鹿乃子のこ \(CV.潘めぐみ\)](https://open.spotify.com/artist/7Du39NxqFzjL8LmvlPJEAN), [虎視虎子 \(CV.藤田 咲\)](https://open.spotify.com/artist/6QiTCAQ2JAt94Q7YF9dQNd), [虎視餡子 \(CV.田辺留依\)](https://open.spotify.com/artist/7M7GeLY7h8g2URiwv93XsT), [馬車芽めめ \(CV.和泉風花\)](https://open.spotify.com/artist/73326vNByOtmvaXTJryL19) | [シカ色デイズ](https://open.spotify.com/album/2Hcqkag1iqVc1wAuoIC4gG) | 3:21 | 2024-08-19 |  |
 | [スイートメモリー](https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [スイートメモリー](https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD) | 3:19 | 2024-08-19 | 2024-10-12 |

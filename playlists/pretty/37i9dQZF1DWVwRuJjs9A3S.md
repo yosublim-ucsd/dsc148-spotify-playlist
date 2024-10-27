@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Say Lou Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,277 likes - 159 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,285 likes - 159 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 11 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 |
 | 12 | [Stockholm brinner](https://open.spotify.com/track/2ZLrHZTegwnUKYWjQxQkfW) | [Jonathan Fröberg](https://open.spotify.com/artist/28rcX29N6hHPAhlD4JmjOc) | [Stockholm brinner](https://open.spotify.com/album/7AOWEjRukVK9xgxNNv3qZT) | 4:07 |
 | 13 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
-| 14 | [Tjuven](https://open.spotify.com/track/1SRJYK2h7ITaLFYuRQYhmC) | [CIVIL POLIS](https://open.spotify.com/artist/1s0yejjUPTegZhGOxK2SsZ) | [Tjuven](https://open.spotify.com/album/0OAmCLkx2ISXJLMWHnl0vw) | 3:35 |
+| 14 | [Tjuven](https://open.spotify.com/track/1SRJYK2h7ITaLFYuRQYhmC) | [CIVIL POLIS](https://open.spotify.com/artist/1s0yejjUPTegZhGOxK2SsZ), [Infinite Mass](https://open.spotify.com/artist/0vrtC9TrcdezrJZshpwLkg) | [Tjuven](https://open.spotify.com/album/0OAmCLkx2ISXJLMWHnl0vw) | 3:35 |
 | 15 | [As Good As It Gets](https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN) | [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [What A Relief](https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ) | 3:02 |
 | 16 | [EXIT](https://open.spotify.com/track/7q9xa6dfbTKXhmnXxQtJXe) | [Emma Håård](https://open.spotify.com/artist/7efUZcMGY04yOrQbW7fpRI) | [EXIT](https://open.spotify.com/album/6hs5fef4nuhd4nEb2tzk6y) | 3:19 |
 | 17 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |

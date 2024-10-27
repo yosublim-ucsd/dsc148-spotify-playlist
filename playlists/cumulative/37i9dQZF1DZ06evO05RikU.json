@@ -901,6 +901,28 @@
     },
     {
       "album": {
+        "name": "La Loca",
+        "url": "https://open.spotify.com/album/0tiwesFTM7qpCT7k61Yu96"
+      },
+      "artists": [
+        {
+          "name": "Karina Sofia",
+          "url": "https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "La Loca",
+      "url": "https://open.spotify.com/track/23VRMLWnOte5iYFbDSwwqD"
+    },
+    {
+      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },

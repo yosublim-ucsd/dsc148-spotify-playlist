@@ -4,7 +4,7 @@
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 54 min
+65 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Every Little Thing](https://open.spotify.com/track/7bCO23jh0OHr7yRxtmIvDm) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:38 | 2024-01-29 | 2024-04-28 |
 | [Every Little Thing \(feat\. Fiji\)](https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:38 | 2024-04-28 |  |
 | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 | 2024-01-29 |  |
+| [Fire \(with J Boog\)](https://open.spotify.com/track/4ZNfOxcDF2aycOslsOMbhs) | [Hector Roots Lewis](https://open.spotify.com/artist/3SavOzufIaXEFhSy4MofAw), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL) | [Fire \(with J Boog\)](https://open.spotify.com/album/6durB9swq3vS70jO5K3MBs) | 4:01 | 2024-10-27 |  |
 | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e) | 3:56 | 2024-04-21 |  |
 | [Ganja Farmer](https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:51 | 2024-01-29 |  |
 | [Good Cry \(feat\. Chaka Demus\)](https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Chaka Demus](https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 3:41 | 2024-01-29 |  |

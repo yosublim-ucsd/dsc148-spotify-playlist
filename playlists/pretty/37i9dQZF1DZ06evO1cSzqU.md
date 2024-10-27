@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,119 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,179 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 21 | [House of Cards](https://open.spotify.com/track/1MAYOJYnihOZr8fZuMv3HD) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 5:05 |
 | 22 | [Rock Believer](https://open.spotify.com/track/2aTfmRBiYginQLFD4e5cie) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Rock Believer \(Deluxe\)](https://open.spotify.com/album/3buy6DvCMUseqKyEC4RI4g) | 3:57 |
 | 23 | [Holiday \(2015 \- Remaster\)](https://open.spotify.com/track/73ej5lGd0Pyji6pbIBQ9fi) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Lovedrive](https://open.spotify.com/album/3Kd2XJF2ObCCLEhWOYMBHt) | 6:31 |
-| 24 | [Maybe I Maybe You](https://open.spotify.com/track/1W95JRlpnOqFdEhPm3ja1h) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Unbreakable](https://open.spotify.com/album/6A7yMNb49roe3ENbpKDu4j) | 3:30 |
-| 25 | [Tease Me Please Me](https://open.spotify.com/track/2QpY0RaiEsfiguZZRcMWo0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:45 |
+| 24 | [Tease Me Please Me](https://open.spotify.com/track/2QpY0RaiEsfiguZZRcMWo0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:45 |
+| 25 | [Maybe I Maybe You](https://open.spotify.com/track/1W95JRlpnOqFdEhPm3ja1h) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Unbreakable](https://open.spotify.com/album/6A7yMNb49roe3ENbpKDu4j) | 3:30 |
 | 26 | [Born to Touch Your Feelings \- Studio Edit](https://open.spotify.com/track/2zx0Fenu8cjtt3d8llIokv) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [MTV Unplugged \(The Studio Edits\)](https://open.spotify.com/album/0qnfKJaZ29PXoBeMIuUkrb) | 4:01 |
 | 27 | [In Trance](https://open.spotify.com/track/6xWu4B3ezd1Ad6K2cEtGfu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [In Trance](https://open.spotify.com/album/2wyFQRlRWuxOjFU9p7Qk31) | 4:42 |
 | 28 | [White Dove](https://open.spotify.com/track/3C5OACv4JfvLAmUdxVugrk) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Live Bites](https://open.spotify.com/album/7CJ59CBDycdjun1rBbSKlK) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [Coming Home \(2015 \- Remaster\)](https://open.spotify.com/track/0fHqE1z5xYm8htOWED8QA2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/5eiWWiHKC7Elfml59PORlF) | 4:59 |
 | 50 | [Hit Between The Eyes](https://open.spotify.com/track/6pVnEL98xUnESYP0JbLXJI) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:32 |
 
-Snapshot ID: `ZxmOAAAAAABTNGbUyk2/XruNjhjQheEP`
+Snapshot ID: `ZxrfgAAAAACOTYGh7iU/RZlA3BC0RgM3`

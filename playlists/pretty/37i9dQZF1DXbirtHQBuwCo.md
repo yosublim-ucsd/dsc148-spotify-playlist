@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: JAEHYUN\(재현\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,445 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,760 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Unconditional](https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Unconditional](https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9) | 3:04 |
-| 2 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 2 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 3 | [Gimme A Minute \(Feat\. CHUNG HA\)](https://open.spotify.com/track/7jYRRvidgWHyHmlIu5lyx7) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 3:05 |
 | 4 | [365 \(Feat\. JUNNY\)](https://open.spotify.com/track/1g44dTzKW337AAReshbgUm) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [In too deep](https://open.spotify.com/album/6rK5rSNCoAzUQCuHY5mldq) | 3:24 |
 | 5 | [Sip Ona Lil Sum' \(Feat\. NINGNING of aespa\)](https://open.spotify.com/track/1H5rqmKEhkc0ICxvRlSBhn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NINGNING](https://open.spotify.com/artist/5t1uryofgueHrjrryqX8vM) | [THE ONE YOU WANTED](https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv) | 3:34 |

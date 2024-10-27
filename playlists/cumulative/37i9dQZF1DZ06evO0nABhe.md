@@ -4,7 +4,7 @@
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 9 min
+55 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Breed](https://open.spotify.com/track/6au9Bvep5wCkXTZ4KyFHHo) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'](https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo) | 3:03 | 2022-10-25 | 2023-03-12 |
 | [Can Anybody Hear Me](https://open.spotify.com/track/6GxKFZkRFlNdN3llZgut2p) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 4:28 | 2022-10-25 |  |
 | [Can't Save You](https://open.spotify.com/track/6hkjKixSrlQurLqgc9RSGx) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:29 | 2023-03-11 | 2023-04-14 |
+| [Can't Slow Down](https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Can't Slow Down](https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY) | 3:50 | 2024-10-27 |  |
 | [Choose Your Fate](https://open.spotify.com/track/7MdAuHu62UdrjybUxrJEcv) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:33 | 2022-10-25 |  |
 | [Dead and Gone](https://open.spotify.com/track/3U5dEKW8mZrMHiKdPp2Ano) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:03 | 2023-03-11 | 2023-04-22 |
 | [Dive Right In](https://open.spotify.com/track/2hRhyzaXcVwHQHNVt23KUG) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:15 | 2023-03-22 |  |

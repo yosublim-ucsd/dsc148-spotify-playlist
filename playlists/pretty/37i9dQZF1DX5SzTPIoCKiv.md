@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,790 likes - 85 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,908 likes - 85 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

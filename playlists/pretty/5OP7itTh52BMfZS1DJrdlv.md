@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 > Celebrate the holiday season with 100 of the biggest Christmas songs in 2024 and beyond! Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul! 🎁 🎄
 
-[Topsify](https://open.spotify.com/user/topsify) - 949,384 likes - 100 songs - 5 hr 16 min
+[Topsify](https://open.spotify.com/user/topsify) - 950,719 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "4 Kamp\u00e9",
+        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214971,
+      "name": "4 Kamp\u00e9",
+      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
+    },
+    {
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/18JyTvFLFrwZowo7rw9wO2"
       },
@@ -1106,6 +1124,32 @@
       "duration_ms": 172293,
       "name": "911",
       "url": "https://open.spotify.com/track/2chIkORxBLpPVgruGiMY8k"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261021,
+      "name": "911",
+      "url": "https://open.spotify.com/track/15vgJnJKS1iNf0eHJLmv3a"
     },
     {
       "album": {
@@ -1812,7 +1856,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -1838,7 +1882,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/6G15l720kBWvIQZyoEJEYE"
@@ -3347,6 +3391,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198210,
+      "name": "Authentique",
+      "url": "https://open.spotify.com/track/55H5v5oCSog3JwX9zbcmyX"
+    },
+    {
+      "album": {
         "name": "Autobahn",
         "url": "https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII"
       },
@@ -4416,7 +4482,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -5565,6 +5631,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205045,
+      "name": "Boucherie",
+      "url": "https://open.spotify.com/track/0EDAdelJuVt815AlBn4HCF"
+    },
+    {
+      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -5682,6 +5770,28 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140677,
+      "name": "Broly",
+      "url": "https://open.spotify.com/track/5erBXwT46WYbPDOwEEGCoN"
     },
     {
       "album": {
@@ -6340,7 +6450,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 209000,
       "name": "C63",
       "url": "https://open.spotify.com/track/4OMLC6CWEqwCvfv289QNlw"
@@ -8059,6 +8169,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148656,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/5Cs4kQRpfYgcBMFsvezdbZ"
+    },
+    {
+      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
       },
@@ -8074,7 +8206,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 148657,
       "name": "Coco",
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
@@ -8360,6 +8492,28 @@
       "duration_ms": 168746,
       "name": "Colis\u00e9e (feat. SDM)",
       "url": "https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174153,
+      "name": "Collabo",
+      "url": "https://open.spotify.com/track/5SLs7GOdSvWhbxxJkTqf2u"
     },
     {
       "album": {
@@ -11393,6 +11547,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164783,
+      "name": "Du Sal",
+      "url": "https://open.spotify.com/track/1M9jUi9pchew8ahF3rFERK"
+    },
+    {
+      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -11720,7 +11896,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 248000,
       "name": "EL GEMANO",
       "url": "https://open.spotify.com/track/2s0ECLNrusYkBud3ZuoVrc"
@@ -12326,7 +12502,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -12850,7 +13026,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 185142,
       "name": "FC BEAUDOTTES",
       "url": "https://open.spotify.com/track/0PdmMS73RZkMDA0q4MeiQK"
@@ -14378,7 +14554,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 165586,
       "name": "GARS DU ZOO",
       "url": "https://open.spotify.com/track/6zOROWSana8gXPcDlvYggu"
@@ -14462,7 +14638,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
@@ -14600,6 +14776,28 @@
       "duration_ms": 137437,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168629,
+      "name": "Ghetto Star",
+      "url": "https://open.spotify.com/track/4ikvK0etm3r2KgL9w32xMz"
     },
     {
       "album": {
@@ -15331,6 +15529,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188326,
+      "name": "Guitare",
+      "url": "https://open.spotify.com/track/7oLwILcYNPTNbmb4mJOGCE"
+    },
+    {
+      "album": {
         "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
       },
@@ -15480,6 +15700,28 @@
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149506,
+      "name": "HAQ",
+      "url": "https://open.spotify.com/track/6FiyLRvE3u1w1luIMb93Oo"
     },
     {
       "album": {
@@ -18102,7 +18344,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 138306,
       "name": "Joie de filles (feat. Vacra)",
       "url": "https://open.spotify.com/track/0s6VVcHt9LBdoMhR2itOQ8"
@@ -18314,6 +18556,28 @@
       "duration_ms": 143764,
       "name": "Journ\u00e9e",
       "url": "https://open.spotify.com/track/1R0mCgczlcTI3K3FsKoXum"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181460,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq"
     },
     {
       "album": {
@@ -21813,6 +22077,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186108,
+      "name": "Loin d'eux",
+      "url": "https://open.spotify.com/track/1tbAqVthS9u1YxQyHJEz5Y"
+    },
+    {
+      "album": {
         "name": "Lola",
         "url": "https://open.spotify.com/album/5ERCsLDY5NZsahMBKE6WFW"
       },
@@ -23151,6 +23437,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207008,
+      "name": "Malsain",
+      "url": "https://open.spotify.com/track/5emqWk3rC2dm20H2W4DI3e"
+    },
+    {
+      "album": {
         "name": "15",
         "url": "https://open.spotify.com/album/4HAWT9gg8vtNDnbi9kzb02"
       },
@@ -24258,7 +24566,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 201912,
       "name": "METALLICA",
       "url": "https://open.spotify.com/track/0saCzF4CuH4ru3PrGDM2UV"
@@ -25744,7 +26052,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 181973,
       "name": "M\u00e9lanine",
       "url": "https://open.spotify.com/track/0t7d6wbJLS2A31yqlHFew7"
@@ -26324,7 +26632,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 165813,
       "name": "No lo s\u00e9",
       "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
@@ -27157,6 +27465,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157666,
+      "name": "Opinel 12",
+      "url": "https://open.spotify.com/track/4nFZNWM6tKFFo1qj7TMFod"
+    },
+    {
+      "album": {
         "name": "SZR 2001",
         "url": "https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac"
       },
@@ -27324,7 +27654,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 235746,
       "name": "O\u00f9 aller",
       "url": "https://open.spotify.com/track/2lftd3hyoAZ0DdxwyUqBw5"
@@ -28402,7 +28732,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 217259,
       "name": "Petit g\u00e9nie",
       "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
@@ -37138,7 +37468,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 169000,
       "name": "Tu connais",
       "url": "https://open.spotify.com/track/3rIX5DA9rUk89KUOZdGFaN"
@@ -38485,6 +38815,28 @@
     },
     {
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174415,
+      "name": "Waribana",
+      "url": "https://open.spotify.com/track/0rWKdhSlW2U0EBj2lxqlar"
+    },
+    {
+      "album": {
         "name": "Wasted Love (feat. Lagique)",
         "url": "https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B"
       },
@@ -38580,7 +38932,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 148786,
       "name": "Wayeh",
       "url": "https://open.spotify.com/track/7EMzOyDT87Uq9Hi08Mxe31"

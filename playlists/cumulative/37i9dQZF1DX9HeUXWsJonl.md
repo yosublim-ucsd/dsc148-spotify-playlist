@@ -4,7 +4,7 @@
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-234 songs - 14 hr 8 min
+235 songs - 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Ana Li Bghit](https://open.spotify.com/track/4p1sxxbjtfhWQfyaF2mm5d) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ana Li Bghit](https://open.spotify.com/album/6iad05pe3Sb9HDP7ffVTJU) | 3:49 | 2021-12-10 | 2022-11-10 |
 | [Ana Weyak](https://open.spotify.com/track/5aqmJaDvhBRPKl7ouuLqiu) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [أنا وياك](https://open.spotify.com/album/4y49FwQLBB611add8CodNd) | 2:38 | 2022-07-14 | 2022-11-27 |
 | [Ba3douk \- بعدوك](https://open.spotify.com/track/7lZxuhO0ZlFieEOkXvvs2e) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Ba3douk \(بعدوك\)](https://open.spotify.com/album/0Lul8TagxbnjhRZpX2aX0o) | 2:20 | 2023-06-27 | 2023-08-20 |
-| [Baba](https://open.spotify.com/track/36h8chyy24HG3382bLeKbz) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Baba](https://open.spotify.com/album/0GvXMvJ9iEKSmvFYN7rCLQ) | 4:33 | 2023-06-27 |  |
+| [Baba](https://open.spotify.com/track/36h8chyy24HG3382bLeKbz) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Baba](https://open.spotify.com/album/0GvXMvJ9iEKSmvFYN7rCLQ) | 4:33 | 2023-06-27 | 2024-10-27 |
 | [Bad Love](https://open.spotify.com/track/3jI5FBlOWlKYglME1q48B4) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Bad Love](https://open.spotify.com/album/4spBd91JN0Z6286LG86wDv) | 3:48 | 2022-02-25 | 2022-11-27 |
 | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [BAND4BAND \(feat\. Lil Baby\)](https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy) | 2:20 | 2024-07-18 |  |
 | [Bannié](https://open.spotify.com/track/4kJBCP7CJLys6lWylczq6A) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Bannié](https://open.spotify.com/album/64xlqkinSkv9qeuW2Klb4V) | 2:54 | 2021-12-10 | 2022-01-15 |
@@ -53,6 +53,7 @@
 | [Blata](https://open.spotify.com/track/0zVePr5IuAQISOFQXjQ1D9) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Blata](https://open.spotify.com/album/7ru31Nlx5qRZDvupo3euWo) | 3:53 | 2021-12-10 | 2023-01-06 |
 | [Blonda](https://open.spotify.com/track/7numLiPibzIhZ2oITph8z4) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [Romeo](https://open.spotify.com/album/6X6DhXAyYwrJR5KySBgGhj) | 3:42 | 2021-12-10 | 2022-05-20 |
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-07-18 |  |
+| [Ca parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \(Part\. 2\)](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 | 2024-10-26 |  |
 | [Cheda W Tzoul](https://open.spotify.com/track/0gSIsNOlouCajRSw0yK6Kj) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Cheda W Tzoul](https://open.spotify.com/album/125HbmJXycVBvnQdxCUNEr) | 3:26 | 2021-12-10 | 2022-12-06 |
 | [Chkoun F'eddar](https://open.spotify.com/track/5koKnPTZc5Cb2mKckBV9nF) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Chkoun F'eddar](https://open.spotify.com/album/0OKERQHLeD3og47pdZrcWi) | 3:22 | 2022-01-14 | 2022-04-01 |
 | [Chlonak](https://open.spotify.com/track/3rkuOoH3o33ni0sNOEZQs7) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Chlonak](https://open.spotify.com/album/0cGkSy5xNbR16gSUlqgtIe) | 3:26 | 2022-12-12 | 2023-06-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 38 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 38 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 9 | [To Rome](https://open.spotify.com/track/042S4XST0fErx11OThUPEo) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [To Rome](https://open.spotify.com/album/1EOo3qQCXs7Fsuek9NDxmP) | 2:43 |
 | 10 | [Déjà Vu](https://open.spotify.com/track/5f6nlDTGRzH9zR7vHIxlp7) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Déjà Vu](https://open.spotify.com/album/49suZMTVKKsLNX34EqQ7mc) | 2:31 |
 | 11 | [Better Now](https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Better Now](https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY) | 2:49 |
-| 12 | [Somebody New](https://open.spotify.com/track/1n7Gc7LbzQWDSJ7g5IoOdP) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Somebody New](https://open.spotify.com/album/1Rt2VGbNDz7uUtobyHGu2k) | 2:48 |
-| 13 | [Life](https://open.spotify.com/track/1HgjoA630jkSVIaEae16hW) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Life](https://open.spotify.com/album/3bNuNikQV86Lj8DrdvDYCr) | 2:54 |
+| 12 | [Life](https://open.spotify.com/track/1HgjoA630jkSVIaEae16hW) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Life](https://open.spotify.com/album/3bNuNikQV86Lj8DrdvDYCr) | 2:54 |
+| 13 | [Somebody New](https://open.spotify.com/track/1n7Gc7LbzQWDSJ7g5IoOdP) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Somebody New](https://open.spotify.com/album/1Rt2VGbNDz7uUtobyHGu2k) | 2:48 |
 | 14 | [This Time](https://open.spotify.com/track/2Yd4qXngsCBJMGnl7jpd4J) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r), [Desiree Dawson](https://open.spotify.com/artist/1BeMe0yy4Sqo29rnqkZ1tc) | [This Time](https://open.spotify.com/album/5lg1ZSzwI54olu69s3Uw37) | 2:50 |
 | 15 | [Madison \(feat\. Janieck\)](https://open.spotify.com/track/2dxfmq4OI7iy8ckdQE6J8q) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Music Is My Best Friend](https://open.spotify.com/album/32QOMbVCKKaKkFiEmX4laq) | 2:45 |
 | 16 | [22](https://open.spotify.com/track/3ZBeBPho2tpNn6vHcic9Jd) | [Sarah McTernan](https://open.spotify.com/artist/5KHDZuaKZOP6cJWRtSHWe8) | [22](https://open.spotify.com/album/7dakU6o0pVLhFyKOpBD1JY) | 2:53 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 37 | [Best Days](https://open.spotify.com/track/1hlVq4qDWAbk5daRO8c8nY) | [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd), [Bk](https://open.spotify.com/artist/2ZXi5gHD72bz9mdRBaVgOT) | [Best Days](https://open.spotify.com/album/0MNwcjq8gOTy2BOsKGiXEn) | 3:08 |
 | 38 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AbfwdAAAAACRayfgBLHznCLs5Q6D0iVb`
+Snapshot ID: `Abf2FAAAAAAbIbxIh0m0jf4snANrM+lr`

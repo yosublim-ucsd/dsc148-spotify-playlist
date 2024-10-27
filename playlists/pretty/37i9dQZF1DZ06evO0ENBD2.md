@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,895,673 likes - 52 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,895,858 likes - 52 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0ENBD2.md) - [plain]
 | 51 | [One Vision \- Remastered 2011](https://open.spotify.com/track/3ROPrLWea9uICOW4V2Px1y) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind Of Magic \(2011 Remaster\)](https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn) | 5:11 |
 | 52 | [The Night Comes Down \- 2024 Mix](https://open.spotify.com/track/4EEiMtxWNU7k0JHNZdloUI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Night Comes Down \(2024 Mix\)](https://open.spotify.com/album/6qifDKuIH45I8IJptMzH1d) | 4:21 |
 
-Snapshot ID: `ZxmOAAAAAACr5va7FsSYZXMxuNECjwvq`
+Snapshot ID: `ZxrfgAAAAAAyTsFh7YlxjafpY843ZtBm`

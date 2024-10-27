@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: KMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,360 likes - 59 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,376 likes - 59 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

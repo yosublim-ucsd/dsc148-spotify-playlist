@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > All killer, 100% indie floorfillers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,667 likes - 250 songs - 16 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,712 likes - 250 songs - 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2272,7 +2272,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -4595,6 +4595,24 @@
     },
     {
       "album": {
+        "name": "Bro Code",
+        "url": "https://open.spotify.com/album/0n0xggIZu6JxTChKME0kea"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131279,
+      "name": "Bro Code",
+      "url": "https://open.spotify.com/track/3FQ5BOtI48xiIjWesIXvET"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -6396,6 +6414,28 @@
       "duration_ms": 40800,
       "name": "Dag Sinterklaasje",
       "url": "https://open.spotify.com/track/4YBEtbyOU356ZYQAvJjTsD"
+    },
+    {
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130615,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
     },
     {
       "album": {
@@ -11074,7 +11114,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 196909,
       "name": "Gesmolten Banden",
       "url": "https://open.spotify.com/track/7xViYpmwmp5ANjnhcqr0MA"
@@ -12840,10 +12880,32 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 195859,
       "name": "Hier Mag Alles",
       "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
+    },
+    {
+      "album": {
+        "name": "Hier Mag Alles",
+        "url": "https://open.spotify.com/album/4n0ip6yg3sXNmuAWwXEIEd"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195859,
+      "name": "Hier Mag Alles",
+      "url": "https://open.spotify.com/track/3yaBa27IQ5DbQNsMBDVqUh"
     },
     {
       "album": {
@@ -13654,7 +13716,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 149732,
       "name": "Huisfeestje",
       "url": "https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k"
@@ -20782,7 +20844,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -28644,10 +28706,28 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 187357,
       "name": "Terug In De Tijd",
       "url": "https://open.spotify.com/track/0vrKBjEBQAVn3sdhIXmpHE"
+    },
+    {
+      "album": {
+        "name": "Terug In De Tijd",
+        "url": "https://open.spotify.com/album/1LxkP1MDAVAKwYfo3WYM3w"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187357,
+      "name": "Terug In De Tijd",
+      "url": "https://open.spotify.com/track/4AL9zhaskF0Hz6gX7pjtRi"
     },
     {
       "album": {
@@ -32222,6 +32302,24 @@
       "duration_ms": 218880,
       "name": "Werkpaarden",
       "url": "https://open.spotify.com/track/3aypmO20NtT2LKFag6ek9Y"
+    },
+    {
+      "album": {
+        "name": "Wervelwind",
+        "url": "https://open.spotify.com/album/0UDhi7JWas881DRdCM3cBg"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185236,
+      "name": "Wervelwind",
+      "url": "https://open.spotify.com/track/0jWAtZeNlMSdrmG6LGMRhb"
     },
     {
       "album": {

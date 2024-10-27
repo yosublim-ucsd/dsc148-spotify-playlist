@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,644 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,667 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 |
 | 2 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 3 | [Обиратиму себе](https://open.spotify.com/track/5MR4WYVpjpvjjpsjRwdwxJ) | [MÉLOVIN](https://open.spotify.com/artist/4nym9MDEPnWmPfuWwsyKeL), [iSKra](https://open.spotify.com/artist/2eaguEJBVEQVZhim3JryHD) | [Обиратиму себе](https://open.spotify.com/album/12QG9ZiJbsT0kHEsks4Ylm) | 3:12 |
-| 4 | [Moonlit Floor](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
+| 4 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 |
 | 5 | [Не лякай](https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ) | [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Не лякай](https://open.spotify.com/album/24wMgJBKYxWz1cSScyEBiz) | 2:54 |
 | 6 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
 | 7 | [Сьогодні](https://open.spotify.com/track/36jIXNZbKDYOIgKzRzttSX) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [ONUKA](https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6) | [Сьогодні](https://open.spotify.com/album/5R3xvKhJMMlhK0KjMb8Zug) | 3:00 |

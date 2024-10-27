@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر:  <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=iy\_gXgKBRwuQWeAb\_7HLoQ"> كريم كرستيانو </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,961 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,268 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 19 | [احنا صيع منحرفين](https://open.spotify.com/track/1knAwiRcTrsScBYDFPXLlw) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [احنا صيع منحرفين](https://open.spotify.com/album/7AcGD0Nl9ROGIEhMCvik7J) | 3:36 |
 | 20 | [طريق الاندال](https://open.spotify.com/track/6pP4EikVjGVJCfdSrZ2En4) | [حمادة الليثي](https://open.spotify.com/artist/6yIBTdBaWdzRIJUsi0LW4H), [عمرو سلامة](https://open.spotify.com/artist/0BkckxZ8XJWwqPTxaVF5m9) | [طريق الاندال](https://open.spotify.com/album/7lvahNz4G2BQlwxjdZqyxr) | 4:04 |
 | 21 | [مش شايفك](https://open.spotify.com/track/348qlmHvImqrjdgqlwvPjr) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [مش شايفك](https://open.spotify.com/album/0C8L9omqkyv8af3yCXNg7L) | 2:21 |
-| 22 | [ايويا يا حبيبتي وحشتيني](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Kalosha](https://open.spotify.com/artist/33bu3ZoO8twryUNoOLuT1S) | [ايويا يا حبيبتي وحشتيني](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 |
+| 22 | [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Kalosha](https://open.spotify.com/artist/33bu3ZoO8twryUNoOLuT1S) | [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 |
 | 23 | [احنا الهيبة](https://open.spotify.com/track/4wLQo5Wrr1OjsRVmKSpdkn) | [Ahmed Amer](https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0), [Mohamed Beka](https://open.spotify.com/artist/3XdQFInKQcu4JNz1XCjwx5) | [احنا الهيبة](https://open.spotify.com/album/3quezxEI0CUjCJ3KgDaK0S) | 3:49 |
 | 24 | [شقطت منك حبيبتك](https://open.spotify.com/track/53U8I2P8ScFHNC2fa9Q3FY) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [شقطت منك حبيبتك](https://open.spotify.com/album/3X1Mf3RY35DhpvtAhLuv0Q) | 6:02 |
 | 25 | [2al Eh Fakerni Shab Nighty](https://open.spotify.com/track/4xAjSHg3tyw9I35Rmlj5Et) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [2al Eh Fakerni Shab Nighty](https://open.spotify.com/album/0U42ZjkVotcliDQFBlDQ1O) | 3:36 |

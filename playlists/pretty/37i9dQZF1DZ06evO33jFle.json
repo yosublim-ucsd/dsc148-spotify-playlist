@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 479605,
+  "num_followers": 479738,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABefB8XT1A/x3w6ZL3Lh9uc",
+  "snapshot_id": "ZxrfgAAAAABv3TYLERX5kfMWi1Mn++d5",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Tu Camisa Puesta",
-      "url": "https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente la Mejor",
         "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 178840,
       "name": "Querida Socia",
       "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Tu Camisa Puesta",
+      "url": "https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T"
     },
     {
       "added_at": null,

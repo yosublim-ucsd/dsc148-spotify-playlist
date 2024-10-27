@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LÜCY
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,297 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,306 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

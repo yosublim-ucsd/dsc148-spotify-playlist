@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 
 > This is Grupo Firme\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,647 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,820 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F6y9e.md) - [plain]
 | 49 | [Muchacha \- Con Grupo Firme](https://open.spotify.com/track/3DOu0f6GA30IurY1cAE4zz) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [CHSM El Higado!](https://open.spotify.com/album/3VbpI9PvaAPstho7ce8umB) | 3:13 |
 | 50 | [Y Soporta](https://open.spotify.com/track/6oRTMQZSanMe68UL3WCIDu) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Y Soporta](https://open.spotify.com/album/1w3ucNPARcDVkYz715EXwg) | 2:44 |
 
-Snapshot ID: `ZxmOAAAAAAA9PXep1q0hZka0gqT+PrXU`
+Snapshot ID: `ZxrfgAAAAADU6+5lFtEIwbJR3GrSCCLg`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014 likes - 181 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013 likes - 181 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 57 | [In The Morning](https://open.spotify.com/track/5Tb0IjmjKKNa81rCXjqBiG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [In The Morning](https://open.spotify.com/album/5ZbJqA9d9JtOVwVb5nZYkU) | 2:47 |
 | 58 | [Worst Day](https://open.spotify.com/track/2cqpniiN33wLMzSuxaIRah) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:47 |
 | 59 | [Tattoo](https://open.spotify.com/track/1mxiMQWvsjMQKV0V7EAj3x) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tattoos](https://open.spotify.com/album/1OdcBxCNY52OXH0r4odXqP) | 3:26 |
-| 60 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
-| 61 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 |
+| 60 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 |
+| 61 | [Dopamine](https://open.spotify.com/track/5rbqqOZuv9wv6pdPNPd87e) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Dopamine](https://open.spotify.com/album/11hF8SQCnbiqTclrXLBCmX) | 2:59 |
 | 62 | [No Good](https://open.spotify.com/track/7j2jFc1LlQLNPRwbjrgXuv) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [No Good](https://open.spotify.com/album/4roqYaI40M8uIbDJd69ZHj) | 3:11 |
 | 63 | [Overnight](https://open.spotify.com/track/3mVQUlrhWN5Z1i1HUhU8ZH) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Overnight](https://open.spotify.com/album/00lWTbQ4MQezqzl0S8M37D) | 3:37 |
 | 64 | [Better](https://open.spotify.com/track/1uANN3gRrtjSUd4qegchpK) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/3fshReYna7OJ7cl3Rn8h2W) | 2:25 |
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 109 | [Cruel](https://open.spotify.com/track/7MaRmvRgXtScvGuMj7e7dE) | [Oli Fox](https://open.spotify.com/artist/6L7tIdRpMMZb5l2tk42YLA) | [Cruel](https://open.spotify.com/album/04M4kFfCnyUYOsazsEylcX) | 3:11 |
 | 110 | [Promise Me](https://open.spotify.com/track/5BTgy0YT2HNKbBbsoodIox) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:38 |
 | 111 | [leave the light on](https://open.spotify.com/track/6b9NHiVNflrq1zd1dxkaLC) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [all the things that could go wrong](https://open.spotify.com/album/7dBZzRYR6Q0nOhvuxN6H4H) | 2:55 |
-| 112 | [Making Me Dance](https://open.spotify.com/track/4CXzB7sfask9ekNzdXX83q) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Making Me Dance](https://open.spotify.com/album/6aN6Gf2xG7PLTACXGsu4kU) | 3:28 |
-| 113 | [Real Life](https://open.spotify.com/track/1HSV0jgzH5VCVtsFwPL2B5) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/4KTxUa5hNsGpT41XcdLicL) | 3:32 |
+| 112 | [Real Life](https://open.spotify.com/track/1HSV0jgzH5VCVtsFwPL2B5) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/4KTxUa5hNsGpT41XcdLicL) | 3:32 |
+| 113 | [Making Me Dance](https://open.spotify.com/track/4CXzB7sfask9ekNzdXX83q) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Making Me Dance](https://open.spotify.com/album/6aN6Gf2xG7PLTACXGsu4kU) | 3:28 |
 | 114 | [I'll Remember You](https://open.spotify.com/track/3PuyCRR2JN1Nbk1yjl0xYE) | [Nathan Sykes](https://open.spotify.com/artist/2Rf4X6m0oayCJhaJ5K63GQ) | [Unfinished Business \(Deluxe\)](https://open.spotify.com/album/3WYRdsLkvrKgLgtxd8VV6X) | 4:06 |
 | 115 | [Summer](https://open.spotify.com/track/6s5i9piq629tK2Sfb9duiL) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Summer](https://open.spotify.com/album/04MBUojWMVW7DIYsgNcxzk) | 2:54 |
 | 116 | [Happy](https://open.spotify.com/track/6jbvtCxnmDhqIMb36AE94R) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 180 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 181 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 
-Snapshot ID: `AbfwdAAAAAAgz6BLApbO4Xho+yNO6YHZ`
+Snapshot ID: `Abf2AAAAAAASg/AXHVkfVHi3hGsbCK09`

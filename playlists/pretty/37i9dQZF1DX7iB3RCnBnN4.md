@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\.  Cover: Bizarrap & Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,403 likes - 777 songs - 1 day 23 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,850 likes - 777 songs - 1 day 23 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

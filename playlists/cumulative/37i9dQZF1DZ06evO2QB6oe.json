@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Esto Se Jodi\u00f3",
+        "url": "https://open.spotify.com/album/0F0A7affQSG3f8yJEH8KlY"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159655,
+      "name": "Esto Se Jodi\u00f3",
+      "url": "https://open.spotify.com/track/1PPJODzFMJ0pnn5DgknzSS"
+    },
+    {
+      "album": {
         "name": "En Letra de Otro",
         "url": "https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n"
       },

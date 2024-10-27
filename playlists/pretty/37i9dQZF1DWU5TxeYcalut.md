@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 
 > Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,015 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,029 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

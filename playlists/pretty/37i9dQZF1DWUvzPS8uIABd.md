@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Bee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,097 likes - 78 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,120 likes - 78 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 64 | [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 |
 | 65 | [Iskelmää](https://open.spotify.com/track/0dqtnUAiNVHoffw7FUGi6D) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [Iskelmää](https://open.spotify.com/album/2LXiIuRUeyfAcjZnZcrcDF) | 2:16 |
 | 66 | [Kuollut liekki](https://open.spotify.com/track/1pEiJfcpRDglgmE50pf1uQ) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Kuollut liekki](https://open.spotify.com/album/2ZDCC2wA73083ZG8t2xmYV) | 2:58 |
-| 67 | [Anteeks](https://open.spotify.com/track/73UJ9gpaVjMYo3w3eIMh2a) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Anteeks](https://open.spotify.com/album/4ydOG9AXcBaBuHr6FY6YTh) | 3:43 |
+| 67 | [Anteeks \- Vain elämää kausi 15](https://open.spotify.com/track/73UJ9gpaVjMYo3w3eIMh2a) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Anteeks \(Vain elämää kausi 15\)](https://open.spotify.com/album/4ydOG9AXcBaBuHr6FY6YTh) | 3:43 |
 | 68 | [Sitä ei muuta mikään](https://open.spotify.com/track/1ivwNDz7HEuF8jTE83LrhH) | [Antti Ketonen](https://open.spotify.com/artist/5YxFBIX6yyncauK1DmRPY7) | [Sitä ei muuta mikään](https://open.spotify.com/album/0DilZjWVzpSDJtrNPyQaHY) | 3:12 |
 | 69 | [Tuhat turhaa tarinaa](https://open.spotify.com/track/7nwyLGiHYB8AcNE0T7KNnU) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Tuhat turhaa tarinaa](https://open.spotify.com/album/0My37koWz1cJWJf3fwTV0R) | 3:00 |
 | 70 | [Koukkuun \(Vain elämää kausi 15\)](https://open.spotify.com/track/3wWQTZw4j4WpKFZMQL25Mr) | [Costello](https://open.spotify.com/artist/6zhuyOhf4YRpaH8cgn6Kxx) | [Koukkuun \(Vain elämää kausi 15\)](https://open.spotify.com/album/3vxZB7YdPksUNR41LzIoh1) | 3:02 |

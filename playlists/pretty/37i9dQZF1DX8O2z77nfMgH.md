@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Rawayana, Akapellah
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,255 likes - 64 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,246 likes - 64 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 19 | [I'm So Happy](https://open.spotify.com/track/4kwGTSGsvfoU8pNDpdntzw) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I'm So Happy](https://open.spotify.com/album/1YhROhBLGiTjyyC9lCTk7s) | 2:26 |
 | 20 | [PERFUME](https://open.spotify.com/track/04wRhNvu27f04JlvZnazWx) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [PERFUME](https://open.spotify.com/album/2WmyzZpgVIo0DFMQRq4Qkb) | 2:37 |
 | 21 | [todo y nada](https://open.spotify.com/track/7Dj6drRthSTvR787ejc4eI) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [todo y nada](https://open.spotify.com/album/2LSNz2CcGALSM8JVv9cWNS) | 3:31 |
-| 22 | [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
+| 22 | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
 | 23 | [Angelito](https://open.spotify.com/track/1QPMDWGOXMrnaZy1QLLcEV) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Angelito](https://open.spotify.com/album/58kr7RNXx2hGmeu5PSKHCz) | 3:19 |
 | 24 | [Cero Empatía](https://open.spotify.com/track/03MqlviAY1kvFqdaGl5Mhg) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [¿Quién?](https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy) | 3:09 |
 | 25 | [No Me Sé Rajar](https://open.spotify.com/track/3iSGqILpD93gkvy3J3SAGL) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Me Sé Rajar](https://open.spotify.com/album/4dkDbcc16kqNJWCpbSGxVt) | 2:25 |

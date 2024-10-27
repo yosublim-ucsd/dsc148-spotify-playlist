@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 122757,
+  "num_followers": 122783,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAABSQ6Yim0zATb5CoGPmraOa",
+  "snapshot_id": "ZxrfgAAAAACa0+cA2SRIVgTbqRrxeUf1",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 137386,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Love You (432 Hz) (with Greeicy)",
         "url": "https://open.spotify.com/album/3HI2xAgLyGEw4w66lmwUQk"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 171000,
       "name": "I Love You (432 Hz) (with Greeicy)",
       "url": "https://open.spotify.com/track/1ICUVPtaZlWQ45aQCtmW2y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 154786,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Piti",
         "url": "https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 183680,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "Qu\u00edmica",
-      "url": "https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 129106,
+      "name": "Tal vez",
+      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ant\u00eddoto",
         "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 206666,
       "name": "Ant\u00eddoto",
       "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 129106,
-      "name": "Tal vez",
-      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "De a poco",
+      "url": "https://open.spotify.com/track/2mgtIhE33xF9llZ49xoqck"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jacuzzi",
         "url": "https://open.spotify.com/album/6hourrBLixE67puzTocZUh"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 184106,
       "name": "Jacuzzi",
       "url": "https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "De a poco",
-      "url": "https://open.spotify.com/track/2mgtIhE33xF9llZ49xoqck"
     },
     {
       "added_at": null,
@@ -947,6 +947,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "I Try For You",
+      "url": "https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cartagena ft. Greeicy",
         "url": "https://open.spotify.com/album/7itQ1pyZFriXBV2IzJ1rCU"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 163438,
       "name": "Cartagena ft. Greeicy",
       "url": "https://open.spotify.com/track/4LeXtJq2kY4Htg8K7Juw1t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 136293,
-      "name": "I Try For You",
-      "url": "https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu"
     },
     {
       "added_at": null,

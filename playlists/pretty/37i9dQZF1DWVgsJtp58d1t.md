@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > All Black like the cover of Essence\. Cover: <a href="spotify:artist:7sP4SQ0WY6jfps1I19Ot7i">Fridayy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028,182 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,028,226 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

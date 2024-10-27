@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 
 > This is Aventura\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 606,212 likes - 41 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,509 likes - 41 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 | 24 | [Tu Jueguito](https://open.spotify.com/track/6Ezrvk64WB6scceSL3lDjp) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:42 |
 | 25 | [Mi Niña Cambió](https://open.spotify.com/track/3ORQsL0g4APGsXoqD5tkpm) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 4:33 |
 | 26 | [José](https://open.spotify.com/track/4TLzeL9PFoBoUNQv4sc7me) | [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx), [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [K.O.B\. Live](https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz) | 4:13 |
-| 27 | [Amor de Madre](https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 5:50 |
-| 28 | [La Novelita](https://open.spotify.com/track/0UuMzFglgjKnYuAmkICf1P) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:04 |
+| 27 | [La Novelita](https://open.spotify.com/track/0UuMzFglgjKnYuAmkICf1P) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:04 |
+| 28 | [Amor de Madre](https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 5:50 |
 | 29 | [La Pelicula](https://open.spotify.com/track/4MSVpbF5oOFyOxpsmbFAsH) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Love & Hate](https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7) | 5:32 |
 | 30 | [Our Song](https://open.spotify.com/track/4AuBmjPXmbBc0ZxFuaqcVQ) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [God's Project](https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5) | 4:28 |
 | 31 | [Lágrimas](https://open.spotify.com/track/4qo9CljCI7Nn9VmRxC0246) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 3:45 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0MLcpW.md) - [plain]
 | 40 | [Amor Bonito \(Novela 2\)](https://open.spotify.com/track/6vw2D0AeWBSJhJi0OrnudX) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 3:37 |
 | 41 | [No Lo Perdona Dios](https://open.spotify.com/track/5ERhiZwEhNFIeXEG6RstN9) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Generation Next](https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp) | 4:32 |
 
-Snapshot ID: `ZxmOAAAAAAB1wGOcqD9EjI2akQUNSlxo`
+Snapshot ID: `ZxrfgAAAAAAEaYowfQ87LxyS+cS0HWEJ`

@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 86557,
       "name": "Her loss",
       "url": "https://open.spotify.com/track/785GgCAABPnVr3qaGTbhFU"
@@ -1522,6 +1522,24 @@
       "duration_ms": 123200,
       "name": "I Love God",
       "url": "https://open.spotify.com/track/4eNY3PuZxOIwNPXMHDe1GA"
+    },
+    {
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181677,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU"
     },
     {
       "album": {
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -2836,7 +2854,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -5216,7 +5234,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 156116,
       "name": "\u041d\u0435\u0436\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/1VFbCJBWO26Gv641kr8ZMQ"
@@ -7040,7 +7058,7 @@
       ],
       "date_added": "2024-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 200100,
       "name": "\u0427\u0421\u0412",
       "url": "https://open.spotify.com/track/76CHKMe1uNd7IgZeCZufhs"

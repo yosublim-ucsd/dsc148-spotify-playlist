@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,163 likes - 53 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,186 likes - 53 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,6 +60,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 50 | [Agnus Dei \- Ao Vivo](https://open.spotify.com/track/16hnXXqWrwbQGoNtvLx72r) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Agnus Dei \(Ao Vivo\)](https://open.spotify.com/album/0xyj8syjIH4Mlg1ZrnBzxF) | 4:46 |
 | 51 | [Santo Espírito Vem](https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 6:56 |
 | 52 | [Me Lembro \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/2no4Dq2nbKKTjpraKC8Hq1) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Me Lembro \(feat\. Gabriela Rocha\) \[Ao Vivo\]](https://open.spotify.com/album/466xz1jfDwRSeHZxxLXpsw) | 8:55 |
-| 53 | [Abraça\-me \- Live 2020](https://open.spotify.com/track/4o5WmT5T3jZl6EA3L4W8Wf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 3:42 |
+| 53 | [Não Vou Calar Meus Lábios](https://open.spotify.com/track/1mbrpFshkUSfbqgCdgawwQ) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Não Vou Calar Meus Lábios](https://open.spotify.com/album/2HLQRl4hX19lciv1rJUWAD) | 3:15 |
 
-Snapshot ID: `ZxmOAAAAAAB/Dfqxg+UxcH/GpSH+ui0o`
+Snapshot ID: `ZxrfgAAAAAAN4YEf0uMsGO0JsHVp14Ax`

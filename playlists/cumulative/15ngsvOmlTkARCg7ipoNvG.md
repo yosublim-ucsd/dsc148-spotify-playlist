@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,823 songs - 1 day 13 hr 28 min
+1,826 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1259,6 +1259,7 @@
 | [Reaching Reimagined](https://open.spotify.com/track/7LU14DQyXruYc1YqmzBkVl) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Reimagination](https://open.spotify.com/album/508wIPed3LB2Kx3jhx8cJX) | 1:01 | 2023-07-06 | 2024-01-30 |
 | [Reading The Clouds](https://open.spotify.com/track/6SvWKLeu59Vys0mYhYZ2cA) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT), [Rich Batsford](https://open.spotify.com/artist/62YkNnSYBl9pu7CWcTsQOC) | [Reading The Clouds](https://open.spotify.com/album/6gymokvnt7nE0apSh1KyKN) | 2:47 | 2022-01-12 | 2023-04-09 |
 | [Realize](https://open.spotify.com/track/1bLq132ygVL8pqjnJQVJqJ) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Realize](https://open.spotify.com/album/3gA5WnT1Ix1O0umqGST1Mp) | 1:00 | 2024-08-19 |  |
+| [Recover](https://open.spotify.com/track/16MKLesFTfDIIHv4FiwLRA) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Recover](https://open.spotify.com/album/1pNQWwnxWP9FrTx1pfrjQE) | 1:00 | 2024-10-26 |  |
 | [Recreating](https://open.spotify.com/track/0k2eVvdDcy385P0RHRPtSS) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:26 | 2022-01-20 |  |
 | [Reflecting \- Strings Version](https://open.spotify.com/track/2jnbetbmRNniC4dlBjnvVJ) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Silent Sunset, Vol\. 2 \(Strings Version\)](https://open.spotify.com/album/3LQhrHUYb4EsaVfYxK3fju) | 1:07 | 2024-02-09 | 2024-02-13 |
 | [Reflecting Light](https://open.spotify.com/track/6KTQCrG3ZcdrpUn7pbU0JH) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Reflecting Light](https://open.spotify.com/album/4YfeXu0eclOImmjlD5aZpX) | 1:00 | 2023-01-19 |  |
@@ -1269,6 +1270,7 @@
 | [Relate \- Cello Version](https://open.spotify.com/track/55HXQAkEtjllq0Jv52syeE) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Relate](https://open.spotify.com/album/5S3hTycl4qYCO84apl3nWV) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Relate \- Strings Version](https://open.spotify.com/track/6LmGydTSDk8gXDH4NV032n) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Relate \(Strings Version\)](https://open.spotify.com/album/49jbXzPrisv75qK0ntY0Ez) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Relative](https://open.spotify.com/track/4REktrP1OR1w04vkePLS6P) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:13 | 2022-01-12 |  |
+| [Release](https://open.spotify.com/track/7CMBddbXN0XmmGDZ9pJ9jS) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Release](https://open.spotify.com/album/3G8vKIwjR2dFsVkPvBJJHf) | 1:00 | 2024-10-26 |  |
 | [Release](https://open.spotify.com/track/2kyAl8r7d4iIcLE1z7Gexo) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Awake](https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS) | 1:19 | 2022-01-12 |  |
 | [Releasing](https://open.spotify.com/track/1bySKfT0C74uGnpBw7PWJh) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Violin Stories](https://open.spotify.com/album/3BTOLeGloaDKJSALipbrhQ) | 1:17 | 2024-01-29 |  |
 | [Relief](https://open.spotify.com/track/3C5oRJRh268kcoh7qrJFIf) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Relief](https://open.spotify.com/album/09S5Sq7iT1OeqM0DGuIk9t) | 1:00 | 2024-03-13 |  |
@@ -1332,6 +1334,7 @@
 | [Sacred](https://open.spotify.com/track/53g0TYb6fJnyaBKAWxy4Lx) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios, Vol\. 2](https://open.spotify.com/album/61EfeMvitQ0F6lSdE4ILT2) | 1:14 | 2024-01-29 |  |
 | [Sacred Echoes](https://open.spotify.com/track/0TObaHfRFgloCNt0pfzWvU) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Hope In Silence](https://open.spotify.com/album/6eE0uY90mWQ20vcz3MOtvP) | 1:03 | 2022-03-02 |  |
 | [Sacred Moments](https://open.spotify.com/track/2aOx55qOcBK74Sru2ipoGY) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:31 | 2022-01-12 |  |
+| [Sacred Place](https://open.spotify.com/track/1zOSpKtAqlTDl32LDE179u) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sacred Place](https://open.spotify.com/album/6WDegUWqeAk5V8HW8js8zG) | 1:00 | 2024-10-26 |  |
 | [Sacred Sounds From The Sky](https://open.spotify.com/track/6a91vLDcxmPKRGkr3oW6HO) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Nostalgic Echoes](https://open.spotify.com/album/0qB3myuWrSK1W6rXHwYX3k) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Sacred Space](https://open.spotify.com/track/5BXXVrHtIcuhXuhpoBgvrb) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Sacred Space](https://open.spotify.com/album/62h6BQjurVHJQWCKSBkPwd) | 2:15 | 2022-01-12 |  |
 | [Sacred Space \- Cello Version](https://open.spotify.com/track/5CbRIJ5tp0uQcwIYKHc5ji) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Silent Conversations](https://open.spotify.com/album/0tp6n3Guc7vHanWP74gKFv) | 2:11 | 2022-01-12 | 2024-01-30 |

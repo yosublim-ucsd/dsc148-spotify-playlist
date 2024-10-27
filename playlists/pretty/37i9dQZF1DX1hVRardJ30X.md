@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Judeline, LATIN MAFIA, Carin Leon & Gabito Ballesteros and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,445 likes - 53 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,569 likes - 53 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 31 | [OBSSD](https://open.spotify.com/track/0n8WzMs4jHCsy9HliyePmg) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [OBSSD](https://open.spotify.com/album/7ETC5oDSRHVCv2A0RgYxqy) | 2:40 |
 | 32 | [Arrebatao \(feat\. Tayson Kryss\)](https://open.spotify.com/track/4X98vdZ7WXOCFyzC05PPOv) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Sebastian Ledher](https://open.spotify.com/artist/6KUSLPXO8e94sZWVksv4nn), [Joseph Ren](https://open.spotify.com/artist/0TG7p0ATDDBfhBjl9EBvIb), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Arrebatao \(feat\. Tayson Kryss\)](https://open.spotify.com/album/4AHUp3FsMi7XQqiYQJz4e8) | 2:47 |
 | 33 | [Es La Hora](https://open.spotify.com/track/1srxm85ipeTn89EZACaWEF) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Es La Hora](https://open.spotify.com/album/1ubaszU0AtWQL82uYKnaSo) | 3:46 |
-| 34 | [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Que Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
+| 34 | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/track/4ZMfEFMhh3MjulypN7jR2T) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Y Qué Tal Si Te Escapas Del Cielo](https://open.spotify.com/album/0jAU4Tz7C1eHEGn233Zx9i) | 3:31 |
 | 35 | [rang€ rov€r \- r€mix](https://open.spotify.com/track/1p0Cp88RdOlevbDhGwbqug) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [blu€s \(d€lux€\)](https://open.spotify.com/album/4cdd2jx9GScUzDETwJ6GEk) | 2:33 |
 | 36 | [PETITE](https://open.spotify.com/track/1eTmkqk4PHdtMYpjjR1ZWG) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [PETITE](https://open.spotify.com/album/6arDXXLzgsELJIPIuaBplg) | 2:20 |
 | 37 | [COMEBACK](https://open.spotify.com/track/6DihR49IlT7UQ1nO9adxGu) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [La Exce](https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj) | [COMEBACK](https://open.spotify.com/album/5APrLYqz69G2GY2OMb5TA2) | 2:47 |

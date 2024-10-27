@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Cesara Linaaaaaaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,293 likes - 351 songs - 1 day 0 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,499 likes - 351 songs - 1 day 0 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 18 | [Fine Day \- BLR Afro Summer Mix](https://open.spotify.com/track/1MYPCcjGTjdpyU3fB3Fj49) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Fine Day \(BLR Afro Summer Mix\)](https://open.spotify.com/album/2G1TJXG45LkIK9TTgCpjIc) | 3:58 |
 | 19 | [Guessing Game \- Kasango Remix](https://open.spotify.com/track/1GlKHEfeNMkScSZNGdk8Ya) | [TMPLE](https://open.spotify.com/artist/1cVyy9YlIG2TVbohGYiYS8), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Guessing Game](https://open.spotify.com/album/0tw983Hdo6I70OPeu8FBNi) | 4:00 |
 | 20 | [Messi \- Sunset Mix](https://open.spotify.com/track/7CUWutx9wMNEeCsv5Uypjk) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh) | [Messi \(Sunset Mix\)](https://open.spotify.com/album/3CSvqp4YtKKf70ypELxFX7) | 4:32 |
-| 21 | [The Stockholm Syndrome \- Vidojean X Oliver Loenn Remix](https://open.spotify.com/track/2I14DtGvTlRsuHJ0aGQuFN) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Kish](https://open.spotify.com/artist/1aibOIpcUeyXNAYrEJxZEt), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH), [Vidushan Ravindran](https://open.spotify.com/artist/4QElfwdpDZqAaOa07ufz0W), [Oliver Fridström Lönn](https://open.spotify.com/artist/5hPcD4MliX7VLsgj8VH3jm) | [The Stockholm Syndrome \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/4xzPPIWUtWD5hfeJDZQyfX) | 2:57 |
+| 21 | [The Stockholm Syndrome \- Vidojean X Oliver Loenn Remix](https://open.spotify.com/track/2I14DtGvTlRsuHJ0aGQuFN) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Kish](https://open.spotify.com/artist/1aibOIpcUeyXNAYrEJxZEt), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [The Stockholm Syndrome \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/4xzPPIWUtWD5hfeJDZQyfX) | 2:57 |
 | 22 | [Ndaci](https://open.spotify.com/track/7atoqxMvJOfkS0UOKhYMQr) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp) | [Ndaci](https://open.spotify.com/album/6Xtu5QJShTggoVJm2c4aBB) | 2:37 |
 | 23 | [Home](https://open.spotify.com/track/720qIwg2UGaoUAUTo31RIn) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Home](https://open.spotify.com/album/7jkMHuLVLs710EfdevWhHs) | 3:17 |
 | 24 | [Adieu \(Maesic & Hour 11 Remix\)](https://open.spotify.com/track/2FMFDyUVmhCZlkNXry5jOf) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Hour 11](https://open.spotify.com/artist/50b8gVr5bLDzYq9UASTdaV) | [Adieu \(Maesic & Hour 11 Remix\)](https://open.spotify.com/album/5ZtBEdXidM7mP5N6fqU38M) | 3:25 |

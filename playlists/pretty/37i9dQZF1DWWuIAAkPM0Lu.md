@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:6xfKNngTw1zxViM96HSTCq">Mumle</a> ✨ <a href="spotify:album:2BqcbwyLGCvbNOVwPyAd3a">Mumler Ikke</a> på den nye EP ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,370 likes - 106 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,381 likes - 106 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -612,10 +612,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 354813,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L"
+    },
+    {
+      "album": {
+        "name": "Bruce Springsteen & The E Street Band - Road Diary",
+        "url": "https://open.spotify.com/album/68vmTrzCatCqV4oTrjwbZy"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365000,
+      "name": "Ghosts - Live at Amalie Arena, Tampa, FL - 2/1/2023",
+      "url": "https://open.spotify.com/track/6rlgoNpLL6cw0DMuR129RU"
     },
     {
       "album": {
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 177840,
       "name": "One Minute You're Here",
       "url": "https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf"

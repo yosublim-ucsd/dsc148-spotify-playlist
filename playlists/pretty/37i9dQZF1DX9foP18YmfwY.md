@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Irmã Ana Paula
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,593 likes - 70 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,658 likes - 70 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

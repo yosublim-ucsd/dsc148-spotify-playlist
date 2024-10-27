@@ -1525,6 +1525,36 @@
     },
     {
       "album": {
+        "name": "Recome\u00e7o",
+        "url": "https://open.spotify.com/album/5MoBxDzlYReoWJMSRwxFDp"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "DUNDUM NTS",
+          "url": "https://open.spotify.com/artist/0gGRfgyjJayTbNkikRPMYQ"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Recome\u00e7o",
+      "url": "https://open.spotify.com/track/7cOZisYC7MaDLfavfq86Ed"
+    },
+    {
+      "album": {
         "name": "Safadinha",
         "url": "https://open.spotify.com/album/7qLJZYDUWFY4JhwSkhqazr"
       },

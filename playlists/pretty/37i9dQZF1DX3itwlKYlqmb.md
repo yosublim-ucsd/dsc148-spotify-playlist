@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3itwlKYlqmb.md) - [plain]
 
 > La 🍓da va pa la albercada 🥂😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,826 likes - 125 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,894 likes - 125 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

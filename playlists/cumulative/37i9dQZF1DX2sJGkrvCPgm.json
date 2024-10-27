@@ -96,7 +96,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 257547,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/1iQ27gSsVIiBfz9zfEXrL9"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 246106,
       "name": "All Glory Be to Christ",
       "url": "https://open.spotify.com/track/6n6mxrwP9XnKeTpfLITphR"
@@ -498,6 +498,28 @@
       "duration_ms": 221546,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/6r2uT3BQAYuNygl5BKv3v3"
+    },
+    {
+      "album": {
+        "name": "Before The Manger",
+        "url": "https://open.spotify.com/album/0igsJgvl3bpRWIB8p6FMGC"
+      },
+      "artists": [
+        {
+          "name": "Travis Cottrell",
+          "url": "https://open.spotify.com/artist/4q7PS6zi0CyrEo23orQCkW"
+        },
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251478,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/1G7DbHCfOvmqTw51vrZEaZ"
     },
     {
       "album": {
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 240066,
       "name": "Carol Of The Bells / Sing We Now Of Christmas",
       "url": "https://open.spotify.com/track/4KYEPUyjMxVq6nmHftdhXO"
@@ -1543,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "New Star Shining",
+        "url": "https://open.spotify.com/album/3LJYzeIAJ7EkDAUZzqXvZ8"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207242,
+      "name": "Come And See What's Happenin'",
+      "url": "https://open.spotify.com/track/0w6mZ4kicxzDtIJobQ8cOx"
+    },
+    {
+      "album": {
         "name": "Come Home for Christmas",
         "url": "https://open.spotify.com/album/15uMS77uo95r4Q92eSDKHE"
       },
@@ -1746,6 +1786,24 @@
       "duration_ms": 192245,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/4HIfV8l6VGif6AtEIh80aA"
+    },
+    {
+      "album": {
+        "name": "Do You Hear What I Hear? (LIVE)",
+        "url": "https://open.spotify.com/album/43DC6mc5FoKCu7Id8jr7eu"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189642,
+      "name": "Do You Hear What I Hear? (LIVE)",
+      "url": "https://open.spotify.com/track/0D8DGPrN1qRvlepl1Xwthn"
     },
     {
       "album": {
@@ -2154,7 +2212,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 316040,
       "name": "Glory To You In The Highest (O Come Let Us Adore)",
       "url": "https://open.spotify.com/track/2XPZo7qF5lQY7wnbqtmkG8"
@@ -2601,6 +2659,50 @@
     },
     {
       "album": {
+        "name": "Hark (Hear the Angels Sing)",
+        "url": "https://open.spotify.com/album/1lVBIOGjJChfkEE3ynUNUo"
+      },
+      "artists": [
+        {
+          "name": "Faith Worship Arts",
+          "url": "https://open.spotify.com/artist/7lMdRbr3ZYJ98Kyhf3r2ex"
+        },
+        {
+          "name": "John Dreher",
+          "url": "https://open.spotify.com/artist/2xPTT6nveKcSqdSdHLsDtM"
+        },
+        {
+          "name": "Sydney James",
+          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Hark (Hear the Angels Sing)",
+      "url": "https://open.spotify.com/track/2zJiEuecwS1rhFqhhBOUFA"
+    },
+    {
+      "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/2saqIsSf0pCBCViucnHK2a"
+      },
+      "artists": [
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/3SrvLPdiK7TpraE8gZ2BJw"
+    },
+    {
+      "album": {
         "name": "The Advent of Christmas",
         "url": "https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg"
       },
@@ -2616,6 +2718,24 @@
       "duration_ms": 253733,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/6J2CmPOqOD3Bdi5rf9u4zc"
+    },
+    {
+      "album": {
+        "name": "Hark! The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/4cwPn3HcOg2Xil0QFInOFu"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202167,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/6ROvyTNjYgIM7UmBdFwW74"
     },
     {
       "album": {
@@ -2710,6 +2830,28 @@
       "duration_ms": 243466,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/37TK06f0yK9NvQu0te1dbu"
+    },
+    {
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/11HlNo4BzgDoPyK4zEVWMC"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Hart",
+          "url": "https://open.spotify.com/artist/3eb9mDPsoRYnafWldTwz96"
+        },
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282522,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5XBBLp2quztPBIPeAH6Cjg"
     },
     {
       "album": {
@@ -2992,7 +3134,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 137996,
       "name": "Home For The Holidays",
       "url": "https://open.spotify.com/track/67EbT1LcNcBpndoOpQi9J1"
@@ -3040,7 +3182,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 238400,
       "name": "How Glorious The Love Of Heaven",
       "url": "https://open.spotify.com/track/3VJLvwssjJJEZgE2BwjU5L"
@@ -4429,6 +4571,28 @@
     },
     {
       "album": {
+        "name": "There Is Hope",
+        "url": "https://open.spotify.com/album/7e5LZDlJo6jSuHXwnSyLSe"
+      },
+      "artists": [
+        {
+          "name": "Mark Lowry",
+          "url": "https://open.spotify.com/artist/7DpnqUope0VrBdoh4T5Uod"
+        },
+        {
+          "name": "The Isaacs",
+          "url": "https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221800,
+      "name": "Mary, Did You Know?",
+      "url": "https://open.spotify.com/track/7HH7CWnlf42s91sss7Okzk"
+    },
+    {
+      "album": {
         "name": "The Light Came Down",
         "url": "https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl"
       },
@@ -5505,6 +5669,24 @@
     },
     {
       "album": {
+        "name": "The Company Christmas Album",
+        "url": "https://open.spotify.com/album/6BWNXJjs3rEavojmBOsocl"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Ribbons and Bows",
+      "url": "https://open.spotify.com/track/49fP67TftXJyBNY8wkcXIC"
+    },
+    {
+      "album": {
         "name": "Ring Them Bells",
         "url": "https://open.spotify.com/album/0GxLNpsn2hp1oKycqB1Poa"
       },
@@ -5896,7 +6078,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 85720,
       "name": "Star of Wonder",
       "url": "https://open.spotify.com/track/1LpLEqamxX9UzruiSL8MYp"
@@ -6152,7 +6334,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 226866,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/0A72PAniE3r51RQB1YjfWt"
@@ -6271,6 +6453,24 @@
     },
     {
       "album": {
+        "name": "The One We\u2019ve Waited For (God Rest Ye Merry Gentlemen)",
+        "url": "https://open.spotify.com/album/5mvz4NoOwk9XWe1ZCZV0d9"
+      },
+      "artists": [
+        {
+          "name": "The Band JAREN",
+          "url": "https://open.spotify.com/artist/41z8g885N9Yip6AGuV5TGX"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233774,
+      "name": "The One We\u2019ve Waited For (God Rest Ye Merry Gentlemen)",
+      "url": "https://open.spotify.com/track/6HKrAqwF5H6mGXeIsi891E"
+    },
+    {
+      "album": {
         "name": "The Prayer",
         "url": "https://open.spotify.com/album/7d1FBSYh0Kl91TJ3Nspaxl"
       },
@@ -6380,7 +6580,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 171357,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/1KfsVSKcKTh6hRjBSPL73J"
@@ -7158,7 +7358,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 232496,
       "name": "Who Would Have Dreamed",
       "url": "https://open.spotify.com/track/7Ltz3D5rdlqkJACASe7aRS"

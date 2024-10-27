@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,925 likes - 51 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,939 likes - 51 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 14 | [Too Good To Not Believe \(Live\)](https://open.spotify.com/track/19HEhNwTDEciyWL62zvEf9) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 10:33 |
 | 15 | [You're Gonna Be Ok](https://open.spotify.com/track/66JDQEKj1rdeAz1D080mJw) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 4:20 |
 | 16 | [Surrounded \(Fight My Battles\)](https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:01 |
-| 17 | [Surrounded By Holy](https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 4:54 |
+| 17 | [Champion \(Live\)](https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 8:46 |
 | 18 | [All Hail King Jesus \(Live\)](https://open.spotify.com/track/0dr0OZdQlpGhQizJSm0gMr) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:36 |
-| 19 | [Champion \(Live\)](https://open.spotify.com/track/55dcgR4fGVMo6rpEYpEZUi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 8:46 |
+| 19 | [Surrounded By Holy](https://open.spotify.com/track/0YCOTbsLcODzITM0WsSnD7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Zahriya Zachary](https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L) | [Come Up Here](https://open.spotify.com/album/4d5y9lclXFqb4ADKfEnBDN) | 4:54 |
 | 20 | [Dancing on the Waves](https://open.spotify.com/track/7D2dX1omKWoLatKZyYMhCV) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 6:14 |
 | 21 | [Holy Song \- Live](https://open.spotify.com/track/5G90HfeG2QjmyVfQFQKG5P) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Holy Song \(Live\)](https://open.spotify.com/album/2CoiZsWzzzWploRHygPDY5) | 5:36 |
 | 22 | [Ever Be](https://open.spotify.com/track/1qmvkIBa44LfKKLAoHbKI3) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [We Will Not Be Shaken](https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux) | 5:22 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 50 | [Luminosity](https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG) | 4:08 |
 | 51 | [Nothing Else \(Spontaneous\) \[Live\]](https://open.spotify.com/track/0Kt7R8V7dWWQTQXvTI0xTL) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 8:46 |
 
-Snapshot ID: `ZxmOAAAAAAA6dc7l8AyGXPlOhN3zbuNa`
+Snapshot ID: `ZxrfgAAAAACMDdAK9p9cNQtRldAFcBvK`

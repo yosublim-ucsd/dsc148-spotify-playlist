@@ -4,7 +4,7 @@
 
 > This is P\-Lo\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 8 min
+89 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [CHUY GOMEZ](https://open.spotify.com/track/62xCwA9lzqaXmt1Ryt8Mo3) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO) | [Moovie! 2: The Yeequel](https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps) | 2:10 | 2024-07-07 | 2024-08-22 |
 | [DAMN](https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [MALACHI](https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [MAJORLY INDEPENDENT](https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b) | 2:55 | 2024-07-11 |  |
 | [Do It For The Bay](https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Do It For The Bay](https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60) | 1:58 | 2024-01-29 |  |
+| [Don't Lose Your Head](https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Zion I](https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ) | [Don't Lose Your Head](https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI) | 2:41 | 2024-10-27 |  |
 | [Feel Me?](https://open.spotify.com/track/6k9BKlPz5J4uXMOtita08J) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Feel Me?](https://open.spotify.com/album/4DfQgX7FfgG5htM1TvxyuG) | 2:19 | 2024-09-29 |  |
 | [GEEKED UP](https://open.spotify.com/track/0bECDoioSpFL5tElMpH4sR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO) | [Moovie! 2: The Yeequel](https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps) | 2:05 | 2024-07-07 | 2024-10-14 |
 | [Get Me Lit](https://open.spotify.com/track/3NHIF5vQRcSN4sGbtL2E8M) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Get Me Lit](https://open.spotify.com/album/7FpzFkovqgilEa9eF7LJZW) | 2:11 | 2024-01-29 |  |

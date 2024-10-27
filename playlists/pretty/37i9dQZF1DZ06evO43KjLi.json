@@ -1,12 +1,12 @@
 {
   "description": "This is Esteban Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 21458,
+  "num_followers": 21466,
   "original_name": "This Is Esteban Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAACIyvMhoQfa/0/yYKnmtb7S",
+  "snapshot_id": "ZxrfgAAAAAAEmOMKg6igY3EehdEV3r1S",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damas y Placeres",
-        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 194793,
-      "name": "Sigue Vivo",
-      "url": "https://open.spotify.com/track/4dXxpBzdOd9ltzzqsY9vRM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gordo Pesado",
         "url": "https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 214186,
       "name": "Gordo Pesado",
       "url": "https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 169929,
+      "name": "Damas y Placeres",
+      "url": "https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 169929,
-      "name": "Damas y Placeres",
-      "url": "https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp"
+      "duration_ms": 228048,
+      "name": "Frostix",
+      "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
         }
       ],
-      "duration_ms": 228048,
-      "name": "Frostix",
-      "url": "https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn"
+      "duration_ms": 194793,
+      "name": "Sigue Vivo",
+      "url": "https://open.spotify.com/track/4dXxpBzdOd9ltzzqsY9vRM"
     },
     {
       "added_at": null,

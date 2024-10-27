@@ -18945,6 +18945,24 @@
     },
     {
       "album": {
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149504,
+      "name": "Time And Trust",
+      "url": "https://open.spotify.com/track/1eWH4VqJ6O3AZ6NOSYgpaj"
+    },
+    {
+      "album": {
         "name": "Time In Our Lives",
         "url": "https://open.spotify.com/album/13iVhxOwGBTV46Wat0jZpK"
       },

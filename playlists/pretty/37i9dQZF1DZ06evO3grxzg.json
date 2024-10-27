@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 230174,
+  "num_followers": 230179,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAAB32XXiM3WooaHa86dNtTt6",
+  "snapshot_id": "ZxrfgAAAAACWW/bS+QmVbH5ECL10saEP",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "Oye Pablo",
+      "url": "https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 173613,
       "name": "Nada",
       "url": "https://open.spotify.com/track/1U7QlWG6O98xgsJtVjYREj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "Oye Pablo",
-      "url": "https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Danna Paola (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Noel Schajris",
-          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "No Es Cierto",
-      "url": "https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "tqum",
         "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 149589,
       "name": "tqum",
       "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Danna Paola (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "No Es Cierto",
+      "url": "https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV"
     },
     {
       "added_at": null,
@@ -839,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Mami",
-        "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
+        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+        "url": "https://open.spotify.com/album/4Zh7uV38M1p6v2JdS8lUA2"
       },
       "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 131671,
-      "name": "Sugar Mami",
-      "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
+      "duration_ms": 244800,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/1PyINqIUN9HFVrmhBACtBz"
     },
     {
       "added_at": null,
@@ -875,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-        "url": "https://open.spotify.com/album/4Zh7uV38M1p6v2JdS8lUA2"
+        "name": "Sugar Mami",
+        "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
       },
       "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
         {
           "name": "Danna Paola",
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 244800,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/1PyINqIUN9HFVrmhBACtBz"
+      "duration_ms": 131671,
+      "name": "Sugar Mami",
+      "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
     },
     {
       "added_at": null,

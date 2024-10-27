@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 40181,
+  "num_followers": 40186,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAAAQT8SHU6+A4Rqvl337IV/c",
+  "snapshot_id": "ZxrfgAAAAACUyFruaUbp4DiRhD6uo+xO",
   "tracks": [
     {
       "added_at": null,
@@ -1023,6 +1023,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pissed",
+        "url": "https://open.spotify.com/album/0oiYI6kp2vKJgtCTjKIWV9"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 135621,
+      "name": "Pissed",
+      "url": "https://open.spotify.com/track/61big1BzOklF2jK5t4FzZ6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Up Now (feat. G-Eazy and Rich The Kid)",
         "url": "https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 198087,
       "name": "Up Now (feat. G-Eazy and Rich The Kid)",
       "url": "https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pissed",
-        "url": "https://open.spotify.com/album/0oiYI6kp2vKJgtCTjKIWV9"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 135621,
-      "name": "Pissed",
-      "url": "https://open.spotify.com/track/61big1BzOklF2jK5t4FzZ6"
     },
     {
       "added_at": null,

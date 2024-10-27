@@ -139,6 +139,22 @@
     {
       "added_at": "2024-10-25 00:00:00",
       "album": {
+        "name": "Pilihan Hidup",
+        "url": "https://open.spotify.com/album/5lEwjsQPhZZH7LboRc3ZKh"
+      },
+      "artists": [
+        {
+          "name": "Verchiel",
+          "url": "https://open.spotify.com/artist/6nmzfjDNgeYzaBxfrApvHj"
+        }
+      ],
+      "duration_ms": 284500,
+      "name": "Pilihan Hidup",
+      "url": "https://open.spotify.com/track/7DkpLwefafPoS4nCiLBCw4"
+    },
+    {
+      "added_at": "2024-10-25 00:00:00",
+      "album": {
         "name": "3 In The Morning",
         "url": "https://open.spotify.com/album/0IIWyvEMdEeGfOzPWOdmnI"
       },

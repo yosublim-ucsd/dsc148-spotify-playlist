@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Gallant
+> Leaders of the new school...Alternative R&B\. Cover: Mereba
 
-1,320 songs - 2 day 21 hr 37 min
+1,322 songs - 2 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,13 +265,14 @@
 | [COMPLEX OF KILLING A MAN](https://open.spotify.com/track/6ihpg1nZjVS5N7rLIWeEXn) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [COMPLEX OF KILLING A MAN](https://open.spotify.com/album/0kroCqy4KxlRc6gRT9PneG) | 3:11 | 2022-06-10 | 2022-07-27 |
 | [concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 | 2023-11-10 | 2023-12-09 |
 | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 | 2024-04-28 |
-| [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-10 |  |
+| [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-10 | 2024-10-27 |
 | [Confused](https://open.spotify.com/track/7ocp0iNDImb4PzHnjYTQi0) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Confused](https://open.spotify.com/album/5BRM2xQqW2bTL6qZR6qF7Q) | 2:06 | 2022-04-01 | 2022-04-05 |
 | [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 | 2023-01-20 | 2023-02-11 |
 | [Conversations](https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Conversations](https://open.spotify.com/album/2Ny2uwkmwda4hhIKCpo086) | 3:12 | 2024-01-26 | 2024-04-20 |
 | [coogie](https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [coogie](https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf) | 3:09 | 2023-03-04 | 2023-03-18 |
 | [cOoL WATeR foR thE nIGHT](https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:54 | 2024-02-09 | 2024-05-18 |
 | [Coolest Girl In California](https://open.spotify.com/track/12j3vi8b1f3mdR5phhSv0d) | [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [sPaCe \(528hz\) / Coolest Girl In California](https://open.spotify.com/album/6p6IFdRzEhIz5hE190x4sR) | 2:18 | 2023-10-06 | 2023-10-21 |
+| [Counterfeit](https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Counterfeit](https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo) | 3:12 | 2024-10-26 |  |
 | [Cranes in the Sky \- Spotify Singles](https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Cranes in the Sky \(Spotify Singles\)](https://open.spotify.com/album/260Kae28MIGcLpp248A869) | 4:28 | 2024-08-02 |  |
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2022-09-21 |
 | [Creep](https://open.spotify.com/track/0QitpTfcRgVysg155AVnRv) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Creep](https://open.spotify.com/album/6NhPRwbBiiNSD7lf91VbBm) | 2:34 | 2024-05-24 | 2024-08-10 |
@@ -526,7 +527,7 @@
 | [Her](https://open.spotify.com/track/1lvbDafT3jgfqrV7zJfVhT) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Coming Clean](https://open.spotify.com/album/0SgYriWkwz4xvXQEQhxVdA) | 4:21 | 2021-03-19 | 2022-04-15 |
 | [Hey, Love!](https://open.spotify.com/track/5HR4E0PlY8bIyF1aVukVCj) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Hey, Love!](https://open.spotify.com/album/2M3rb1vhyQmiiPFZKMSoJM) | 2:29 | 2023-09-08 | 2024-06-29 |
 | [High & Dry](https://open.spotify.com/track/3euV86x39viux87PuKhgMq) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [High & Dry](https://open.spotify.com/album/4NZ8TvWas89czIE5aGxUGw) | 2:38 | 2022-04-01 | 2022-04-15 |
-| [high 5ive'](https://open.spotify.com/track/5d87MHZcE9yekAmLTM44Ho) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [high 5ive'](https://open.spotify.com/album/6LRhGxOFnHSAngDXAqbBpm) | 2:57 | 2024-10-20 |  |
+| [high 5ive'](https://open.spotify.com/track/5d87MHZcE9yekAmLTM44Ho) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [high 5ive'](https://open.spotify.com/album/6LRhGxOFnHSAngDXAqbBpm) | 2:57 | 2024-10-20 | 2024-10-27 |
 | [Higher Self](https://open.spotify.com/track/6QZvO5OvBNZSqfLDkMsOFK) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Higher Self](https://open.spotify.com/album/7tQKPWJuOifYCvqhRf2bn0) | 3:11 | 2023-05-26 | 2023-06-16 |
 | [hillside](https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [hillside](https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR) | 2:52 | 2024-09-06 |  |
 | [Hillside \(feat\. Savannah Ré\)](https://open.spotify.com/track/5uPoubTLkvcCMy7VfqZZPi) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Hillside \(feat\. Savannah Ré\)](https://open.spotify.com/album/08yGUFP2pDEh8gqeUqPY4W) | 2:39 | 2024-10-20 |  |
@@ -947,6 +948,7 @@
 | [RISEN](https://open.spotify.com/track/34OImRuWIDWmXazkQsUY2y) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Tales Of The Town](https://open.spotify.com/artist/1ZgPUEWXZparNifIcZgsKT) | [RISEN](https://open.spotify.com/album/47DHGHxFBNj2oq66AefWxF) | 2:39 | 2022-09-30 | 2023-09-02 |
 | [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 | 2022-11-18 | 2023-12-09 |
 | [Rollin'](https://open.spotify.com/track/1o8aLzMLNpW6wsMpVCpLpy) | [Chanel Loren](https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK) | [Rollin'](https://open.spotify.com/album/5qVB1w5FpWODqzRjMT3mnN) | 2:43 | 2022-09-30 | 2023-07-08 |
+| [Rolling Stone](https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy) | 2:23 | 2024-10-26 |  |
 | [Roots](https://open.spotify.com/track/5HorjQJbDWGabguEDSwQvl) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Roots](https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ) | 2:50 | 2021-04-30 | 2022-04-10 |
 | [Roots](https://open.spotify.com/track/72mY1ayNi7axNGpAN8CSRr) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love](https://open.spotify.com/album/68ioJPPDh78BdVruabXHVn) | 2:52 | 2022-02-25 | 2022-05-28 |
 | [Rose Rouge](https://open.spotify.com/track/36apwMphkcaS63LY3JJMPh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Rose Rouge](https://open.spotify.com/album/22cvF1LVMD3IUQeKE42r1s) | 5:57 | 2022-04-01 | 2022-04-14 |

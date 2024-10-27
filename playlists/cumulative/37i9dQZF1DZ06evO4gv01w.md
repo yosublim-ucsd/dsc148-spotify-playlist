@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-151 songs - 8 hr 35 min
+152 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Mississippi](https://open.spotify.com/track/0JsQSLUInJGc5RmWAOBs9p) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:39 | 2022-08-05 | 2023-06-18 |
 | [Mississippi](https://open.spotify.com/track/7CXRa4YziOw5uppjyrNn4m) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 3:39 | 2023-11-10 | 2024-01-03 |
 | [Mississippi \(feat\. Tyler Bryant\)](https://open.spotify.com/track/7I6sXnSLWoc3LEQisxG86Y) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Tyler Bryant](https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:39 | 2023-06-17 |  |
-| [Mockingbird](https://open.spotify.com/track/6J6MRQCFntHLHUovYUFJC6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mockingbird](https://open.spotify.com/album/6WXRDcHhPvdHZ2euLWGldM) | 4:06 | 2024-10-26 |  |
+| [Mockingbird](https://open.spotify.com/track/04GLIP00vRsOHC6m7P6Cps) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mockingbird](https://open.spotify.com/album/6hssadq1z58kah8yy7HHRS) | 4:06 | 2024-10-27 |  |
+| [Mockingbird](https://open.spotify.com/track/6J6MRQCFntHLHUovYUFJC6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mockingbird](https://open.spotify.com/album/6WXRDcHhPvdHZ2euLWGldM) | 4:06 | 2024-10-26 | 2024-10-27 |
 | [Nights In White Satin](https://open.spotify.com/track/1dVLQBgBkC8PEt4vd8xVOy) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/2cXTHO6vrMFAD5qRDgQWme) | 3:40 | 2023-03-19 |  |
 | [Nights In White Satin](https://open.spotify.com/track/5VuqRSDZ2qjA13Ngu8PDo0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/31HGWFxU5AgjAoMZH1t5ft) | 3:40 | 2022-08-05 | 2023-03-20 |
 | [One and Lonely](https://open.spotify.com/track/0mEFu5GO1uwtO6ld9MUCON) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Electrified](https://open.spotify.com/album/0w5dfWITAlYVsInFzVtnXH) | 2:43 | 2024-05-12 |  |

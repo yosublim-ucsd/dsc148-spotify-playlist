@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQX7bVSkxBy.md) - [plain]
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ?si=USJt32zsRgCkN7bfZyv2\_w>Tjsarx</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,263 likes - 50 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,291 likes - 50 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

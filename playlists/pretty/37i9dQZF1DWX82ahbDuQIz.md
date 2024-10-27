@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX82ahbDuQIz.md) - [plain]
 
 > Musical songs from Broadway, the West End and beyond\. Cover: SUNSET BLVD
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,088 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,136 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Il rap è uno sport competitivo 🔥 Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,207 likes - 120 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,203 likes - 120 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

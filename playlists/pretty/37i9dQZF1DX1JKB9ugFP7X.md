@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del pop electrónico latino\. Foto: Javiera Mena
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,237 likes - 90 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,238 likes - 90 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

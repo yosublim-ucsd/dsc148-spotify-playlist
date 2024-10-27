@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7307,
+  "num_followers": 7308,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxmOAAAAAAAWLSu+j8xEpiwHKvK0Gra7",
+  "snapshot_id": "ZxrfgAAAAADPXHmgU3n5NWRrj7pfwUu4",
   "tracks": [
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 177818,
-      "name": "Mi Tesoro",
-      "url": "https://open.spotify.com/track/57rH2ju0NCA5K1m4GxmIfU"
+      "duration_ms": 234382,
+      "name": "Con La Tinta De Mi Sangre",
+      "url": "https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras Cantineras, Vol. 1",
-        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 177573,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/7ngG8qYkRzXuddBMbDLB3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doble 2 En 1",
         "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 162160,
       "name": "Hay Ojitos",
       "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/7ngG8qYkRzXuddBMbDLB3p"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales",
-        "url": "https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 150920,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/6fSLmrZTluiHUv4XxPcDx4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 de Coleccion",
         "url": "https://open.spotify.com/album/2ptme72Ts7zUbWInvEiXAH"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 132306,
       "name": "Devolucion",
       "url": "https://open.spotify.com/track/7KINw8GLCQfV2SrD6hVKFr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales",
+        "url": "https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 150920,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/6fSLmrZTluiHUv4XxPcDx4"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Boleros de Colecci\u00f3n, vol. 2",
-        "url": "https://open.spotify.com/album/6GqILMDFoeerlBqSL8QnhS"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Una L\u00e1grima y un Recuerdo",
-      "url": "https://open.spotify.com/track/6qUKLYivd4KbFGuAk3tHXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Country Roland Vs. Los Relampagos",
         "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 197734,
       "name": "Pancha La Contrabandista",
       "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Boleros de Colecci\u00f3n, vol. 2",
+        "url": "https://open.spotify.com/album/6GqILMDFoeerlBqSL8QnhS"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Una L\u00e1grima y un Recuerdo",
+      "url": "https://open.spotify.com/track/6qUKLYivd4KbFGuAk3tHXX"
     },
     {
       "added_at": null,

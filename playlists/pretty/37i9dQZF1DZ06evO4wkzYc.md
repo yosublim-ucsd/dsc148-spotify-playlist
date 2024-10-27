@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,845 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,954 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 23 | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/track/4s2fRub8kyh1hD2m8xZ9cv) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/album/1948hF6tu8CHLjz7RbTA0H) | 3:59 |
 | 24 | [Que Te Vaya Bien](https://open.spotify.com/track/0ac4sEU1SGqi5wbdrbLA4a) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Que Te Vaya Bien](https://open.spotify.com/album/3CR0d75jbVjA69ssyD2U9G) | 3:58 |
 | 25 | [El Mago](https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:57 |
-| 26 | [El Cuadros \- Live](https://open.spotify.com/track/5qiQEFkHH84ezsj7aGCnwV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Cuadros \(Live\)](https://open.spotify.com/album/6l8x9Tk6AcApr0IzT3iGWK) | 4:06 |
-| 27 | [Mario Portillo](https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:16 |
+| 26 | [Mario Portillo](https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:16 |
+| 27 | [El Cuadros \- Live](https://open.spotify.com/track/5qiQEFkHH84ezsj7aGCnwV) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Cuadros \(Live\)](https://open.spotify.com/album/6l8x9Tk6AcApr0IzT3iGWK) | 4:06 |
 | 28 | [La Pareja Ideal \- Live](https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Pareja Ideal \(Live\)](https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F) | 4:09 |
 | 29 | [El Chico \- En Vivo](https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chico \(En Vivo\)](https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF) | 2:27 |
 | 30 | [No Me Quiero Enamorar](https://open.spotify.com/track/738iesV0OE6jDUGr1f8YZE) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/05MOmiCmOiE1pmkUGdrMZE) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [Mejor Para Los 2](https://open.spotify.com/track/6pNCkJBoyHMDdLp5BQqa1i) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mejor Para Los Dos](https://open.spotify.com/album/3G8jIUQyVMtgpcm2w7gAch) | 2:38 |
 | 50 | [Serafín \- En Vivo](https://open.spotify.com/track/6aFS8Lvqlbtgt0EchjOsd2) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Pa Que Amarre \(En Vivo\)](https://open.spotify.com/album/1gLP7AqIXc00rEWnAKE066) | 4:16 |
 
-Snapshot ID: `ZxmOAAAAAACnzZ718rwyeZ5mZCVKqXtL`
+Snapshot ID: `ZxrfgAAAAABs3UE7CeFjc6XOMrX3PQ4l`

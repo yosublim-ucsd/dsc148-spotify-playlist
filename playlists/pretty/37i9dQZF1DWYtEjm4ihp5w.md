@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> New music from ElGrandeToto, Madd & OUENZA.
+> a7san ma kayn f rap maghribi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,984 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,313 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DIPLOMATICO](https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [DIPLOMATICO](https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH) | 3:16 |
 | 2 | [Papiers](https://open.spotify.com/track/5wlHxud11fPNBjYMMppCAY) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 2:44 |
-| 3 | [LA ZONE MAHKOMA](https://open.spotify.com/track/73fwmnYlCC3fF9CzEXgtFi) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [LA ZONE MAHKOMA](https://open.spotify.com/album/3cep6IegTMEPCtnhhzf5T2) | 4:05 |
-| 4 | [JEFE](https://open.spotify.com/track/70oobY95oHVXYPpYthV9gz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [JEFE](https://open.spotify.com/album/0eRlilYJYju9RqugJ2BZlM) | 2:27 |
-| 5 | [Expensive](https://open.spotify.com/track/43XQVlTRzQKFtTYjneCu4h) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Expensive](https://open.spotify.com/album/5lJcGdfH7BEJt7SqjnCrl8) | 2:41 |
-| 6 | [OU TT](https://open.spotify.com/track/7AWvPNgwHdkVypwKao03Zh) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [OU TT](https://open.spotify.com/album/7AyaR72XJIBdIqkN3NW94E) | 4:04 |
-| 7 | [Cabo Marsilia](https://open.spotify.com/track/5oYNFgjcI54w0S0xWvyw6z) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf) | [Leêjb V](https://open.spotify.com/album/7wqLrgT0JgH0KXgbpEzTSz) | 2:38 |
-| 8 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 |
-| 9 | [Messi](https://open.spotify.com/track/47x0OLzz5GUTS0fZOHpS8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Messi](https://open.spotify.com/album/3DN32dCAFQUobrMOFECRyk) | 3:30 |
-| 10 | [NDAM!](https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [NDAM!](https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m) | 3:23 |
-| 11 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 |
-| 12 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 |
-| 13 | [Bilal](https://open.spotify.com/track/78yskfJqcpFfRFDTyo3XVN) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Bilal](https://open.spotify.com/album/4D6AoXPlCkQX18mJLtzVJD) | 3:12 |
+| 3 | [W](https://open.spotify.com/track/3WyQmaqMKBHYWLxyFzvbBV) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [W](https://open.spotify.com/album/0Gyj8PmPy4cD2fg0vYuf43) | 2:47 |
+| 4 | [LA ZONE MAHKOMA](https://open.spotify.com/track/73fwmnYlCC3fF9CzEXgtFi) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [LA ZONE MAHKOMA](https://open.spotify.com/album/3cep6IegTMEPCtnhhzf5T2) | 4:05 |
+| 5 | [JEFE](https://open.spotify.com/track/70oobY95oHVXYPpYthV9gz) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [JEFE](https://open.spotify.com/album/0eRlilYJYju9RqugJ2BZlM) | 2:27 |
+| 6 | [Expensive](https://open.spotify.com/track/43XQVlTRzQKFtTYjneCu4h) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS) | [Expensive](https://open.spotify.com/album/5lJcGdfH7BEJt7SqjnCrl8) | 2:41 |
+| 7 | [OU TT](https://open.spotify.com/track/7AWvPNgwHdkVypwKao03Zh) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [OU TT](https://open.spotify.com/album/7AyaR72XJIBdIqkN3NW94E) | 4:04 |
+| 8 | [Cabo Marsilia](https://open.spotify.com/track/5oYNFgjcI54w0S0xWvyw6z) | [Msaweb Hakka](https://open.spotify.com/artist/3RTgG5hrcDpBeakIHCwqhf) | [Leêjb V](https://open.spotify.com/album/7wqLrgT0JgH0KXgbpEzTSz) | 2:38 |
+| 9 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 |
+| 10 | [Messi](https://open.spotify.com/track/47x0OLzz5GUTS0fZOHpS8v) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Messi](https://open.spotify.com/album/3DN32dCAFQUobrMOFECRyk) | 3:30 |
+| 11 | [NDAM!](https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [NDAM!](https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m) | 3:23 |
+| 12 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 |
+| 13 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 |
 | 14 | [Zahri](https://open.spotify.com/track/7epBNl7bl4Gi5UwA5tdmyN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Zahri](https://open.spotify.com/album/3tsez1d6MZIe6QwkVfTc47) | 3:20 |
 | 15 | [Douwi Douwi](https://open.spotify.com/track/7wFJmDfeb7CtN8xAr4ftSV) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Douwi Douwi](https://open.spotify.com/album/17Zn5YkVV8L3sNpBDTS71K) | 3:02 |
 | 16 | [MARADONA](https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 |
 | 50 | [M3a L3echrane](https://open.spotify.com/track/39Tt3K2AHv4hJS4W6QIPgZ) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/0wmeXAtXpjaeevmIFsLPGh) | 3:52 |
 
-Snapshot ID: `ZxszDgAAAACbkNr0aMq/nMKnCY36n6IE`
+Snapshot ID: `Zx03HwAAAACsc5HM+jFiHWtaJW60nWDy`

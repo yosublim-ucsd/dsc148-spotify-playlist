@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw"
@@ -6958,6 +6958,28 @@
       "duration_ms": 137389,
       "name": "Book of OL",
       "url": "https://open.spotify.com/track/4dOreYhcafLHEH4F5P2aME"
+    },
+    {
+      "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/3xBCJiOfhYgU0sqmESyih9"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133528,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/2ZpcYhAPAeXtjh3o7KzUND"
     },
     {
       "album": {
@@ -11588,7 +11610,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 249600,
       "name": "Don't Stop Believin' (2022 Remaster)",
       "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
@@ -16005,6 +16027,24 @@
     },
     {
       "album": {
+        "name": "fr\u00fcher sterben",
+        "url": "https://open.spotify.com/album/3qhVNTz1VArZdav07Fx0bO"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159017,
+      "name": "fr\u00fcher sterben",
+      "url": "https://open.spotify.com/track/2wpId6tH11xC1bYCqkPY9j"
+    },
+    {
+      "album": {
         "name": "Fr\u00fchling im Viertel",
         "url": "https://open.spotify.com/album/2LmBk1TwkIzHxmNnSsudf9"
       },
@@ -16772,7 +16812,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 165850,
       "name": "Geschlossene Augen",
       "url": "https://open.spotify.com/track/4qdGZUy2bzM8GB2qBaMWpR"
@@ -20348,7 +20388,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -21198,7 +21238,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 216800,
       "name": "In the End",
       "url": "https://open.spotify.com/track/3tSmXSxaAnU1EPGKa6NytH"
@@ -21216,7 +21256,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -21590,6 +21630,28 @@
       "duration_ms": 145539,
       "name": "It feels like I've forgotten something (Ambient Version)",
       "url": "https://open.spotify.com/track/2jX8mJNlHQtJpgzXxdGQOF"
+    },
+    {
+      "album": {
+        "name": "It Girl (feat. Sampagne)",
+        "url": "https://open.spotify.com/album/3jc1H7VUFWvbnzyv4jGHko"
+      },
+      "artists": [
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        },
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143622,
+      "name": "It Girl (feat. Sampagne)",
+      "url": "https://open.spotify.com/track/2byoNXF9Y6qhIGBq33ATEm"
     },
     {
       "album": {
@@ -24530,6 +24592,28 @@
       "duration_ms": 185283,
       "name": "Lieb mich",
       "url": "https://open.spotify.com/track/4C9bsG159VjOQe0g1RgMi9"
+    },
+    {
+      "album": {
+        "name": "NUR F\u00dcR DICH 2",
+        "url": "https://open.spotify.com/album/683tr5kSr4gK2pu5cqqlwf"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193068,
+      "name": "LIEBE (feat. Nina Chuba)",
+      "url": "https://open.spotify.com/track/1moKZKZydvCRie5SQ8wlis"
     },
     {
       "album": {
@@ -28737,7 +28821,7 @@
     },
     {
       "album": {
-        "name": "Moonlit Floor",
+        "name": "Moonlit Floor (Kiss Me)",
         "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
       },
       "artists": [
@@ -28750,7 +28834,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 155757,
-      "name": "Moonlit Floor",
+      "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
     },
     {
@@ -30478,7 +30562,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -30558,7 +30642,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -32177,6 +32261,24 @@
     },
     {
       "album": {
+        "name": "Over Each Other",
+        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
+    },
+    {
+      "album": {
         "name": "Overdose",
         "url": "https://open.spotify.com/album/1Nw6WuaXLgABnThiOh2Kdc"
       },
@@ -33549,6 +33651,24 @@
     },
     {
       "album": {
+        "name": "berq",
+        "url": "https://open.spotify.com/album/0IuwP0usnrJ9wU5PEyELdn"
+      },
+      "artists": [
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "date_added": "2024-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147811,
+      "name": "PIROUETTEN",
+      "url": "https://open.spotify.com/track/3Vw4SxsPsVwG4xwK3Il0mP"
+    },
+    {
+      "album": {
         "name": "Pismo",
         "url": "https://open.spotify.com/album/75FUlnn9LaF6kOEPAjK523"
       },
@@ -34886,7 +35006,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 186255,
       "name": "Rapstar",
       "url": "https://open.spotify.com/track/57gjUsErLOYxTOqyiK6CVm"
@@ -40764,7 +40884,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -40782,7 +40902,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -41978,7 +42098,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -41996,7 +42116,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -42836,7 +42956,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -42890,7 +43010,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
@@ -46860,7 +46980,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-27",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

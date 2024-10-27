@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: LAMOON
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,667 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,666 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 22 | [Let Me Go](https://open.spotify.com/track/1vgDGTB8b0ZIvDadcAgsVu) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [Let Me Go](https://open.spotify.com/album/4vJOCN7mKkC1FkzRwE7iff) | 2:50 |
 | 23 | [Tô Lên Trái Tim](https://open.spotify.com/track/2EwRpiGdOtFcVOsaoMRER4) | [Lê Vũ](https://open.spotify.com/artist/5t18GHcI1L5EeeMCQLKchZ), [Rion](https://open.spotify.com/artist/469MG5PUZQ6GYDjYYr5EnQ) | [Tô Lên Trái Tim](https://open.spotify.com/album/6VYruqIboiZ6DMNT0ab48M) | 4:02 |
 | 24 | [Đã Yêu Được Đâu](https://open.spotify.com/track/483XSEwajS6MTjEjd3SH2T) | [Mây Bae](https://open.spotify.com/artist/15RKeJqxSbkcmwkBFoALjs) | [Đã Yêu Được Đâu](https://open.spotify.com/album/6zBwtAbMyMpbUDmR1xGhl5) | 3:42 |
-| 25 | [Kiếm Tiền](https://open.spotify.com/track/36Lz7uh09itLGdahxUqWPb) | [ICY RIX](https://open.spotify.com/artist/18UvSgH0pVJChXNug0V8qZ), [ICY FAMOU$](https://open.spotify.com/artist/3ETpEKg1jqGY10PtUJSRI1), [ICY TENO](https://open.spotify.com/artist/6RComfi3bafwqvU96HqWms) | [Kiếm Tiền](https://open.spotify.com/album/6RS55vAci8bI1lKBp9w2zn) | 2:43 |
+| 25 | [Kiếm Tiền](https://open.spotify.com/track/36Lz7uh09itLGdahxUqWPb) | [ICY RIX](https://open.spotify.com/artist/18UvSgH0pVJChXNug0V8qZ), [ICY TENO](https://open.spotify.com/artist/6RComfi3bafwqvU96HqWms) | [Kiếm Tiền](https://open.spotify.com/album/6RS55vAci8bI1lKBp9w2zn) | 2:43 |
 | 26 | [Yêu Nhau Lần Cuối](https://open.spotify.com/track/3RIIPWVaMUEIiycNhUYJ4b) | [Đoàn Khánh Linh](https://open.spotify.com/artist/5Ccao0aC8Xkw93XHgdaupq) | [Yêu Nhau Lần Cuối](https://open.spotify.com/album/4cremiJvlI7yNtIbEJHvhh) | 4:37 |
 | 27 | [Chấp Nhận](https://open.spotify.com/track/3pQjeWbArshjtwxVWE3gMY) | [RichK](https://open.spotify.com/artist/4uFdC5voSRbOnwYYJqsZrg) | [Chấp Nhận](https://open.spotify.com/album/43cuuHTRCGR2F7XBqzkygs) | 4:10 |
 | 28 | [BABY OH NAH](https://open.spotify.com/track/00Pk5kEsqy533Ayr2kEDUg) | [Trash Dee](https://open.spotify.com/artist/4d4gNVfuHfIwndxSpUyk4e) | [BABY OH NAH](https://open.spotify.com/album/0S8Dc1QC91tAzjrCNFsS85) | 2:00 |
