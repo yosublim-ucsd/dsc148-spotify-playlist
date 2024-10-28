@@ -24,7 +24,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 138750,
       "name": "212",
       "url": "https://open.spotify.com/track/2qCKJpRqf9qcG2VsyGbqtF"
@@ -72,7 +72,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 159283,
       "name": "As The Beat Goes Onnn",
       "url": "https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm"
@@ -1050,6 +1050,24 @@
       "duration_ms": 155625,
       "name": "Came To Rave",
       "url": "https://open.spotify.com/track/2HyVwSgUuuGI50OgGuunJI"
+    },
+    {
+      "album": {
+        "name": "Can You Feel It EP",
+        "url": "https://open.spotify.com/album/0r6xBN0YY86GVDuhBEgzr3"
+      },
+      "artists": [
+        {
+          "name": "Zilka",
+          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162519,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/3ZK5YH5JMV9iVOJnGgBkjz"
     },
     {
       "album": {
@@ -2472,6 +2490,32 @@
       "duration_ms": 129522,
       "name": "Francorum (frans)",
       "url": "https://open.spotify.com/track/63rnsRWav7WiskWVuJnQY0"
+    },
+    {
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/77k6BUHwdwg5Ym3ejxolDv"
+      },
+      "artists": [
+        {
+          "name": "Fantom Freq",
+          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
+        },
+        {
+          "name": "NEZIEL",
+          "url": "https://open.spotify.com/artist/2KAMKVCgamR8Oc59zx7wOY"
+        },
+        {
+          "name": "Apotheca",
+          "url": "https://open.spotify.com/artist/2nVEWj0OU37kBPoXChRRHa"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/7ntUnPh0mOMe4q6kObFZxc"
     },
     {
       "album": {
@@ -4054,6 +4098,24 @@
       "duration_ms": 225230,
       "name": "Meant 2 B",
       "url": "https://open.spotify.com/track/3q36irtiQN2lAvuWQwosI6"
+    },
+    {
+      "album": {
+        "name": "Medellin",
+        "url": "https://open.spotify.com/album/3hSTMSyvmo5iFLyd4vl4Lw"
+      },
+      "artists": [
+        {
+          "name": "Paddy Barry",
+          "url": "https://open.spotify.com/artist/1quo9rkWDHjKWgAku9nEWc"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Medellin",
+      "url": "https://open.spotify.com/track/2bijAaIbxHSXwJ0gU51No9"
     },
     {
       "album": {
@@ -6307,6 +6369,28 @@
     },
     {
       "album": {
+        "name": "Sweet Escape",
+        "url": "https://open.spotify.com/album/5k6ia1UMQpbpzMmlIOOfeU"
+      },
+      "artists": [
+        {
+          "name": "Lahox",
+          "url": "https://open.spotify.com/artist/5aePNdleZnrAJYwd6zv1LR"
+        },
+        {
+          "name": "Chris Valencia",
+          "url": "https://open.spotify.com/artist/4egxQDezZvDAIvCjBFU7CZ"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162656,
+      "name": "Sweet Escape - Radio Mix",
+      "url": "https://open.spotify.com/track/62kj9gsxBxQlOryh5vmWcf"
+    },
+    {
+      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/6ZsBKHD6yJN90aP1nP4QU6"
       },
@@ -7042,7 +7126,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 238098,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/6FtzDS0fUVG0TJQY59jHy0"

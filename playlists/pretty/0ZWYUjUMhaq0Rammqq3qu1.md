@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Music for the strange, unusual, and recently deceased\. Get ready for the Spooky Season with Halloween Hits including 'Spooky, Scary Skeletons', 'Monster Mash' and 'Super Freak'.
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 114,855 likes - 82 songs - 5 hr 22 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 115,028 likes - 82 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 46 | [In The Next Life](https://open.spotify.com/track/4q9EwMju6FNZEhRyJe2Fw5) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 3:44 |
 | 47 | [Trick Or Treat \- English Version](https://open.spotify.com/track/5jMdOrqqHmO2NrO6eVafkr) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg) | [Trick Or Treat](https://open.spotify.com/album/71B31IfFoO5Qd6PhCLci8D) | 2:46 |
 | 48 | [Witch](https://open.spotify.com/track/65hzDZbjAZpJZZf3diITpP) | [the bird and the bee](https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD) | [Ray Guns Are Not Just The Future](https://open.spotify.com/album/4ETVvsILHTLUHGYe3SSpgu) | 3:54 |
-| 49 | [I Was A Teenage Werewolf \- Remastered](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
+| 49 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
 | 50 | [The Purple People Eater](https://open.spotify.com/track/0WkZQPNC0c7yrsMX1arVAd) | [Sheb Wooley](https://open.spotify.com/artist/2dOTS74R4yPISc7AVU9QzD) | [The Purple People Eater](https://open.spotify.com/album/6aNbS6LXGqL1XVwU1bSzDu) | 2:17 |
 | 51 | [Strange Brew](https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:46 |
 | 52 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 81 | [Skulls](https://open.spotify.com/track/5GVJMiKlCEQUPDzaZaYHfO) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 4:11 |
 | 82 | [Wolves](https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Wolves](https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP) | 3:17 |
 
-Snapshot ID: `AAAUDiWt8bEvCy/dGwnxhyDE5XWBJxiA`
+Snapshot ID: `AAAUEfWWtyQQAii++Cm5zuoPGi/RKYUl`

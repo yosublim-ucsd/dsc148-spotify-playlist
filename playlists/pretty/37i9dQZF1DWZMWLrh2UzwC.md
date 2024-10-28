@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,044 likes - 123 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,054 likes - 123 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 12 | [Get Loose](https://open.spotify.com/track/6HkECn6elRsylPQmDGmDxq) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK), [Khally](https://open.spotify.com/artist/4PqeHxPLqzI2yCNerkPrES), [SoundClout](https://open.spotify.com/artist/3LcwAiTjlQTT25TtU39kSB), [PravOnTheLoose](https://open.spotify.com/artist/5HvJGgEq2XovGcbdGmWKXg) | [Get Loose](https://open.spotify.com/album/6bPxTPEqF4jd5ugFWShH0A) | 3:15 |
 | 13 | [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 |
 | 14 | [next to you](https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [next to you](https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW) | 2:34 |
-| 15 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 15 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 16 | [i confess](https://open.spotify.com/track/1HIZCdpxgYsYyCAqYi5Vtf) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [i confess](https://open.spotify.com/album/7GKaoGhCA4LBmwRxnsMTdz) | 3:13 |
 | 17 | [Jaguh \- MPLMY Anthem](https://open.spotify.com/track/5Uylsog2ME0PYFTdV7pEx5) | [XONE](https://open.spotify.com/artist/2lyspCmelAZ80xwyCp1uWo), [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Jaguh \(MPLMY Anthem\)](https://open.spotify.com/album/6ZZk1INOmlhvz9qxMhKGzc) | 3:36 |
 | 18 | [Feeling OK?](https://open.spotify.com/track/4O2akgNKwNVSYwvnzYAwfg) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY), [Pa!nter](https://open.spotify.com/artist/3TLkCvPSwrTgS5vb7TkZ2T) | [Feeling OK?](https://open.spotify.com/album/48DU61VhABrimGzYxRRye0) | 2:33 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 33 | [Yang Baru](https://open.spotify.com/track/4c1wBkdJEgqfs10hYnghBY) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Yang Baru](https://open.spotify.com/album/35tySmLnfKYopvjYa2OoWM) | 3:14 |
 | 34 | [Senyumin Dulu Aja](https://open.spotify.com/track/2DpWJsNrCjkXkk7aW3lC9A) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Senyumin Dulu Aja](https://open.spotify.com/album/6ZHe5db0j2FZrxuu6tqsb2) | 2:35 |
 | 35 | [Hai Apa Kabar](https://open.spotify.com/track/6nMBB1JxN74JT9fkxsWkoe) | [Gisel](https://open.spotify.com/artist/4L0t6db3fWWG07bh14TxUw) | [Hai Apa Kabar](https://open.spotify.com/album/7scoQ8RAsPznEfJPtMb9LB) | 4:15 |
-| 36 | [如果月亮会说话](https://open.spotify.com/track/2uYFVpPl4Js01SmazSvJPw) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [如果月亮会说话](https://open.spotify.com/album/0RNLw3IPNuk769CJHtmY4d) | 3:02 |
+| 36 | [如果月亮會說話](https://open.spotify.com/track/2uYFVpPl4Js01SmazSvJPw) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [如果月亮会说话](https://open.spotify.com/album/0RNLw3IPNuk769CJHtmY4d) | 3:02 |
 | 37 | [99](https://open.spotify.com/track/0TEZhoK0jSuJRxaXqWHZyZ) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/6kxz8fmF1Fq1mllkaOrnzI) | 4:46 |
 | 38 | [TIME](https://open.spotify.com/track/03WkNEYCdNfhtU93wocU9g) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [TIME](https://open.spotify.com/album/3TSA3QsxyYhFJWx09a3brQ) | 3:23 |
 | 39 | [愛 離開 kumudakuda](https://open.spotify.com/track/7KbyZNZKGsxMArsbNObNsP) | [桑布伊](https://open.spotify.com/artist/0Ot0iFI0JTxh3XUS3vRo8Z) | [靠近 mudalrep](https://open.spotify.com/album/67V81N2olXmm5ZMK1rjA5E) | 5:05 |

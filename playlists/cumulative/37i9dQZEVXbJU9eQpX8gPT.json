@@ -12879,6 +12879,24 @@
     },
     {
       "album": {
+        "name": "JEFE",
+        "url": "https://open.spotify.com/album/0eRlilYJYju9RqugJ2BZlM"
+      },
+      "artists": [
+        {
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "JEFE",
+      "url": "https://open.spotify.com/track/70oobY95oHVXYPpYthV9gz"
+    },
+    {
+      "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
@@ -16250,7 +16268,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 144576,
       "name": "Ma Jolie",
       "url": "https://open.spotify.com/track/1RpfpLMsvQB9voSXa973SP"
@@ -16360,7 +16378,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 184000,
       "name": "Ma3ndiche L7a9",
       "url": "https://open.spotify.com/track/35NjJF9JWkHVq2Ofv1l2Zn"
@@ -24862,7 +24880,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 236000,
       "name": "SO HIGH",
       "url": "https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME"
@@ -25872,7 +25890,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 140649,
       "name": "Sucr\u00e9 Sal\u00e9",
       "url": "https://open.spotify.com/track/7scditB0ba2LS1MI2tH5J2"
@@ -28398,6 +28416,28 @@
       "duration_ms": 199960,
       "name": "V\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/1O1EqgvgRyj1ejZPUxI0UX"
+    },
+    {
+      "album": {
+        "name": "W",
+        "url": "https://open.spotify.com/album/0Gyj8PmPy4cD2fg0vYuf43"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        },
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167936,
+      "name": "W",
+      "url": "https://open.spotify.com/track/3WyQmaqMKBHYWLxyFzvbBV"
     },
     {
       "album": {

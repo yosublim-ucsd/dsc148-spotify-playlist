@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 22089,
+  "num_followers": 22091,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAABekbScbgAjch7go19dJwsQ",
+  "snapshot_id": "ZxwxAAAAAAC4ogxp6HwXNfbyJjnohRVI",
   "tracks": [
     {
       "added_at": null,
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 172560,
-      "name": "The Last of Us Part II",
-      "url": "https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU"
+      "duration_ms": 278800,
+      "name": "Unbroken",
+      "url": "https://open.spotify.com/track/6KAf1Y6OHR34qdmgUFO5zf"
     },
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 278800,
-      "name": "Unbroken",
-      "url": "https://open.spotify.com/track/6KAf1Y6OHR34qdmgUFO5zf"
+      "duration_ms": 172560,
+      "name": "The Last of Us Part II",
+      "url": "https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU"
     },
     {
       "added_at": null,
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 139906,
-      "name": "Lago Fr\u00edas",
-      "url": "https://open.spotify.com/track/4zce2MGBnswuQl9vqrGwgN"
+      "duration_ms": 89173,
+      "name": "La Partida",
+      "url": "https://open.spotify.com/track/0XQchatEKAnLfN4E3YFfrX"
     },
     {
       "added_at": null,
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 89173,
-      "name": "La Partida",
-      "url": "https://open.spotify.com/track/0XQchatEKAnLfN4E3YFfrX"
+      "duration_ms": 139906,
+      "name": "Lago Fr\u00edas",
+      "url": "https://open.spotify.com/track/4zce2MGBnswuQl9vqrGwgN"
     },
     {
       "added_at": null,
@@ -959,6 +959,26 @@
       "duration_ms": 164560,
       "name": "Sue\u00f1o del Matungo",
       "url": "https://open.spotify.com/track/6UYsBywcQnWSgRF6sEpXpN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 240333,
+      "name": "Algun Dia (Unplugged) (En Vivo) (with Gustavo Santaolalla)",
+      "url": "https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror"
     },
     {
       "added_at": null,

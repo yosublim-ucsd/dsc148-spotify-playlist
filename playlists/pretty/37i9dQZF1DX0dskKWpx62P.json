@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 49639,
+  "num_followers": 49678,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Los Errantes",
-        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
+        "name": "Amanda Portales la Novia del Per\u00fa",
+        "url": "https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn"
       },
       "artists": [
         {
-          "name": "Los Errantes",
-          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
+          "name": "Amanda Portales",
+          "url": "https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51"
         }
       ],
-      "duration_ms": 192973,
-      "name": "Chuquibambinita",
-      "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
+      "duration_ms": 217533,
+      "name": "Vaso de Cristal",
+      "url": "https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Amanda Portales la Novia del Per\u00fa",
-        "url": "https://open.spotify.com/album/30eO7WmS3tMRiY9MLfLWMn"
+        "name": "Los Errantes",
+        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
       },
       "artists": [
         {
-          "name": "Amanda Portales",
-          "url": "https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51"
+          "name": "Los Errantes",
+          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
         }
       ],
-      "duration_ms": 217533,
-      "name": "Vaso de Cristal",
-      "url": "https://open.spotify.com/track/2trFtYxzQR6FnNfwuHLpXf"
+      "duration_ms": 192973,
+      "name": "Chuquibambinita",
+      "url": "https://open.spotify.com/track/3vhm0bQl9Ag22O2XUKaef8"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
-      },
-      "artists": [
-        {
-          "name": "Max Castro",
-          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
-        }
-      ],
-      "duration_ms": 361573,
-      "name": "Huaynos Norte\u00f1os (Todo Empez\u00f3 Como Jugando / Casualidad)",
-      "url": "https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Un Sentimiento de Amor",
         "url": "https://open.spotify.com/album/2TBbljVi1JnwCNuVMBHmiJ"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 277603,
       "name": "Amor Ajeno",
       "url": "https://open.spotify.com/track/3UlgjKoybmeyMmfIspHBe9"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/4HU9eCiuTHoxRANEAlQ8xu"
+      },
+      "artists": [
+        {
+          "name": "Max Castro",
+          "url": "https://open.spotify.com/artist/0yBAksfvttaIwTvj812Ytr"
+        }
+      ],
+      "duration_ms": 361573,
+      "name": "Huaynos Norte\u00f1os (Todo Empez\u00f3 Como Jugando / Casualidad)",
+      "url": "https://open.spotify.com/track/3xmSFdTIOFgFrbIN2q4IiY"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -435,6 +435,38 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
+        "name": "Los Pacharacos",
+        "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
+      },
+      "artists": [
+        {
+          "name": "Los Pacharacos",
+          "url": "https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Chinita Ingrata",
+      "url": "https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Lo Mejor del Incomparable...Mario Mendoza",
+        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
+      },
+      "artists": [
+        {
+          "name": "Mario Mendoza",
+          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Tomando Cerveza",
+      "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
         "name": "Conjunto Condemayta de Acomayo",
         "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
       },
@@ -483,38 +515,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Lo Mejor del Incomparable...Mario Mendoza",
-        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
-      },
-      "artists": [
-        {
-          "name": "Mario Mendoza",
-          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Tomando Cerveza",
-      "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Los Pacharacos",
-        "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
-      },
-      "artists": [
-        {
-          "name": "Los Pacharacos",
-          "url": "https://open.spotify.com/artist/1zo4zNnsG4FZjK7OFqvDLW"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Chinita Ingrata",
-      "url": "https://open.spotify.com/track/5Zg2sTf0f476qo0u9h0wOB"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Sobreviviendo",
         "url": "https://open.spotify.com/album/4DqONiFlTWK15YkDQ62D9R"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Cantares Huaracinos",
-        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
-      },
-      "artists": [
-        {
-          "name": "Jilguero Del Huascar\u00e1n",
-          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Al Comp\u00e1s de Mi Guitarra",
-      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Mis \u00c9xitos Eternos Vol. 2",
         "url": "https://open.spotify.com/album/06vV1HQ2BaOUSqK70fYMi2"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 222973,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/1hX2Kv3f6X1fUJpMzuihgi"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Cantares Huaracinos",
+        "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
+      },
+      "artists": [
+        {
+          "name": "Jilguero Del Huascar\u00e1n",
+          "url": "https://open.spotify.com/artist/3ys2iBkiK7WY5yx248KIpx"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Al Comp\u00e1s de Mi Guitarra",
+      "url": "https://open.spotify.com/track/2K7LHE6Y0JU1qoL7cyesxY"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Ayacucho En El Corazon De Todos Vol.2",
-        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
-      },
-      "artists": [
-        {
-          "name": "Kiko Revatta",
-          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Donde Estar\u00e1s Palomita",
-      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Cantares Huaracinos",
         "url": "https://open.spotify.com/album/1XdlfgaPbCWRq3XGmEP9OK"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 160200,
       "name": "Carrito del Gobierno",
       "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Ayacucho En El Corazon De Todos Vol.2",
+        "url": "https://open.spotify.com/album/5J36nWq3TbIe8S9zvQaERi"
+      },
+      "artists": [
+        {
+          "name": "Kiko Revatta",
+          "url": "https://open.spotify.com/artist/13biTRIVK4wnKZ8KVvTgRa"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Donde Estar\u00e1s Palomita",
+      "url": "https://open.spotify.com/track/3M4eyS4qeq1GXUNAVdTGHN"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Puro Sentimiento",
-        "url": "https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Curi",
-          "url": "https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9"
-        }
-      ],
-      "duration_ms": 264736,
-      "name": "Tu recuerdo",
-      "url": "https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Los Grandes del Folklore Peruano",
         "url": "https://open.spotify.com/album/5ZG4tBKt2aJqOtaX2qbuUF"
       },
@@ -835,18 +819,18 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Enlazando Cantos II",
-        "url": "https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81"
+        "name": "Puro Sentimiento",
+        "url": "https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N"
       },
       "artists": [
         {
-          "name": "Manuelcha Prado",
-          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+          "name": "Los Hermanos Curi",
+          "url": "https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9"
         }
       ],
-      "duration_ms": 249155,
-      "name": "Clavel de mi pecho",
-      "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
+      "duration_ms": 264736,
+      "name": "Tu recuerdo",
+      "url": "https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -863,6 +847,22 @@
       "duration_ms": 388813,
       "name": "Flor de Retana",
       "url": "https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Enlazando Cantos II",
+        "url": "https://open.spotify.com/album/7pwM0y78SKw4b1kSHjWL81"
+      },
+      "artists": [
+        {
+          "name": "Manuelcha Prado",
+          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+        }
+      ],
+      "duration_ms": 249155,
+      "name": "Clavel de mi pecho",
+      "url": "https://open.spotify.com/track/7f9iGF8ycjnYEXc9c8Gb4U"
     },
     {
       "added_at": "2024-06-24 17:38:16",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
+        "name": "Madre Andina",
+        "url": "https://open.spotify.com/album/3QiXpzSp5X9J2IxfAP4eGe"
+      },
+      "artists": [
+        {
+          "name": "Manuelcha Prado",
+          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+        }
+      ],
+      "duration_ms": 264855,
+      "name": "Expreso Puquio",
+      "url": "https://open.spotify.com/track/7vEXd2YBNHeyeY9YOBB83K"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
         "name": "el Cofre del Recuerdo",
         "url": "https://open.spotify.com/album/6z0ILslVFO1nSjLijU2xhQ"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 382902,
       "name": "Soy Provinciano",
       "url": "https://open.spotify.com/track/48gJ019YstMfy2k6tp9Sja"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
-        "name": "Mensajes Andinos",
-        "url": "https://open.spotify.com/album/3JgzRlcbxu5l5I9VtcwzNH"
-      },
-      "artists": [
-        {
-          "name": "Porfirio Ayvar",
-          "url": "https://open.spotify.com/artist/1nu4Tbh3AzDwDMXIaEFRzx"
-        }
-      ],
-      "duration_ms": 220746,
-      "name": "Siwarquinticha",
-      "url": "https://open.spotify.com/track/6rqSrUpqSCth4jrz7FJ3zr"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

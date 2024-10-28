@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > ¡Nos vemos el 18\-20 y 25\-27 de Octubre en la SEVENTEEN \(M12\) Pop Up Store! 곧 만나요! 💎🫰🏼✨ Reserva tu lugar <a href="https://go.weverse.io/RM44/gkgtr6mn"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,973 likes - 36 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,020 likes - 36 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

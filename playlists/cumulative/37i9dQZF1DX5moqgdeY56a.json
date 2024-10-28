@@ -794,10 +794,28 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 180604,
       "name": "El Caballo Blanco",
       "url": "https://open.spotify.com/track/39Ou6DEHzZAZUa8QQT2u0N"
+    },
+    {
+      "album": {
+        "name": "15 Corridos De Caballos - Antonio Aguilar",
+        "url": "https://open.spotify.com/album/5BCEuGy3UosQe1jpmbVYDV"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2024-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208004,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/4EGoIDuTFm5wbZRvcZNmBS"
     },
     {
       "album": {

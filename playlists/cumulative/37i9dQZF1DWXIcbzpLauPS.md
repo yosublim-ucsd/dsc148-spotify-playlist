@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits Cover: Kublai Khan TX
 
-1,038 songs - 2 day 16 hr 12 min
+1,039 songs - 2 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Feast Is Over](https://open.spotify.com/track/1ajCWFb64q72MfXMftyNlV) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Feast Is Over](https://open.spotify.com/album/5iTnzg9NyoAOmkAdSDv9ox) | 3:12 | 2023-03-17 | 2024-02-24 |
 | [Feast on the Living](https://open.spotify.com/track/1pL4wqHUtrMTancAmAs5fV) | [The Agonist](https://open.spotify.com/artist/3NrGqWwh6dKk99v1UFqQak) | [Feast on the Living](https://open.spotify.com/album/2PwI1RioDm1RxP7fhfxgSd) | 3:22 | 2022-07-13 | 2022-07-23 |
 | [Feasting Upon a False God](https://open.spotify.com/track/32wy15KlsVRtRW0x7YvdGc) | [Extinction in Progress](https://open.spotify.com/artist/2ctB3hDSIIyxpKYDtYlzKY) | [Feasting Upon a False God](https://open.spotify.com/album/5s6INzs47jeAp40pkWNIif) | 3:22 | 2022-07-13 | 2022-07-19 |
+| [Fed by Violence](https://open.spotify.com/track/3dTLFY7SU7eBt6NyIduKLO) | [Frontières](https://open.spotify.com/artist/4LQCWMBhE1888kPXrl55Gc) | [Fed by Violence](https://open.spotify.com/album/0dAdjwMqwqDU8TZuryA2Os) | 3:54 | 2024-10-18 |  |
 | [Feeding Demons](https://open.spotify.com/track/0S7aPnRsDKpvuKOt91iNdq) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0), [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Feeding Demons](https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG) | 3:17 | 2023-11-27 |  |
 | [Feel Alive](https://open.spotify.com/track/4znWqxuT0H5jhzq00oaA75) | [Patient Sixty\-Seven](https://open.spotify.com/artist/1wklENd4yCkEW1u0fkJR2c), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Feel Alive](https://open.spotify.com/album/12VlpHTisx4dXj00opt0kV) | 3:42 | 2022-05-20 | 2022-06-24 |
 | [Fever](https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [Fever](https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc) | 3:08 | 2022-07-01 | 2022-12-17 |
@@ -389,7 +390,7 @@
 | [Forever Bloom \(feat\. Trevor Strnad\)](https://open.spotify.com/track/5mavoeczZoK9jeHFVWTkv6) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b), [Trevor Strnad](https://open.spotify.com/artist/5ABUXkPbITc1OnlxG0fPmf) | [Forever Bloom](https://open.spotify.com/album/2Nvrs4vBmCZcHLnALbN2hk) | 2:49 | 2022-11-18 | 2022-12-17 |
 | [Forever Yours](https://open.spotify.com/track/42QjPSl9BLQ6X0ciDJXMpD) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Forever Yours](https://open.spotify.com/album/6bhTmeMKYsSgqg7hAaU8KQ) | 3:10 | 2022-04-08 | 2022-07-01 |
 | [Forever Yours](https://open.spotify.com/track/7e7meNa1AtJ1PGntydHkaZ) | [Resolve](https://open.spotify.com/artist/52tIYMYQgBbgOFIJHaOPxY) | [Between Me and The Machine](https://open.spotify.com/album/6l8CriAGZ9xzFOFazJCYSk) | 4:38 | 2021-12-17 | 2022-02-18 |
-| [Forget It](https://open.spotify.com/track/1hNgjucoAolEIp6uSantcp) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Forget It](https://open.spotify.com/album/1FKP9SXb95FsJ6AplRcWC8) | 3:46 | 2024-10-18 |  |
+| [Forget It](https://open.spotify.com/track/1hNgjucoAolEIp6uSantcp) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [Forget It](https://open.spotify.com/album/1FKP9SXb95FsJ6AplRcWC8) | 3:46 | 2024-10-18 | 2024-10-28 |
 | [Forgive And Forget \(feat\. Fit For A King\)](https://open.spotify.com/track/1SahhLAsfDwQnE83ga46Ak) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237), [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Forgive and Forget \(feat\. Fit For A King\)](https://open.spotify.com/album/2fgiy6FWbaru2ezpUNQ5bN) | 3:35 | 2024-07-12 |  |
 | [Forgotten](https://open.spotify.com/track/0ZZCltcOacjI1kY4BnVDjt) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 1](https://open.spotify.com/album/6wurDqEmcCcIoria5SRmom) | 2:55 | 2024-01-12 | 2024-03-09 |
 | [Forgotten](https://open.spotify.com/track/277kkbKWZtQUpnK19WcEM6) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Forgotten](https://open.spotify.com/album/4RnQzNSS5tZCgSOSuK7dM1) | 2:55 | 2023-09-15 | 2024-01-19 |

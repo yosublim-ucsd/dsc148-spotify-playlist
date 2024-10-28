@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Dogo Janja
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,581 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,584 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bachela](https://open.spotify.com/track/3P0h3icGbxwgsdH3FIbPs4) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq) | [Bachela](https://open.spotify.com/album/5FAm31IKryLF4D7F7ZyYlO) | 3:49 |
-| 2 | [Pisi](https://open.spotify.com/track/788uP7aH98lMiRYIadYW6h) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Pisi](https://open.spotify.com/album/1mp2vUSOmcgGJlfrRtZxV7) | 3:50 |
+| 2 | [Pisi \- remix](https://open.spotify.com/track/788uP7aH98lMiRYIadYW6h) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Pisi](https://open.spotify.com/album/1mp2vUSOmcgGJlfrRtZxV7) | 3:50 |
 | 3 | [DROP IT](https://open.spotify.com/track/6VSdH5mGhRQ3agWAX7m5BJ) | [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni) | [DROP IT](https://open.spotify.com/album/15ctfYgSx4gQ42JwuPPkW9) | 2:01 |
 | 4 | [Everyday \(Energy\)](https://open.spotify.com/track/5DoeazOk3xqe01MWGbXd5a) | [Conboi Cannabino](https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Everyday \(Energy\)](https://open.spotify.com/album/4XDefqXCDJVKEg9iq5Thxm) | 3:16 |
 | 5 | [Hii Hapa](https://open.spotify.com/track/6OdlGVgbF5r7ZGEnZg42pb) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [Hii Hapa](https://open.spotify.com/album/61JiVZe3Ati0R8qVux7XOo) | 4:18 |

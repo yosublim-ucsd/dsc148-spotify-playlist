@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Leon Fanourakis & Taka Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,388 likes - 84 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,385 likes - 84 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FLY](https://open.spotify.com/track/0y2viBvXtPSmEH0j7t1AMD) | [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [THE GRIFFIN TAPES](https://open.spotify.com/album/4YMGw7zIbk27pQo3kIrCoI) | 2:32 |
-| 2 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 2 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 3 | [Thought I Was Dead](https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Thought I Was Dead](https://open.spotify.com/album/4IUCrwXucmLoVO6geJ3Vjr) | 2:28 |
 | 4 | [VIRGINIA Boy \(feat\. Tyler, The Creator\) \- Remix](https://open.spotify.com/track/1ewLDmADNjHl1rzF5Ink3s) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Piece By Piece \- Music from the Motion Picture](https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE) | 2:08 |
 | 5 | [Me & My Musik \(feat\. JJJ\)](https://open.spotify.com/track/0jYU5Tq5KWFriOG1kYX2Ui) | [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [Gradis Nice](https://open.spotify.com/artist/2XKsSlSM70ukspdNBTSWBc), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Day'N'Nite 2](https://open.spotify.com/album/4S8rLJZa2GAFA5OrTZy2sw) | 2:58 |

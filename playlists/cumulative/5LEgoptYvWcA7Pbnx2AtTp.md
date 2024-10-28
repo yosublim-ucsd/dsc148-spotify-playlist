@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-138 songs - 7 hr 50 min
+141 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Freaks \- Radio Edit](https://open.spotify.com/track/0LXcDLTEW5ybAt2IOVQnfe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Freaks](https://open.spotify.com/album/5uUOnwqz2WTNsCLQBRIg6m) | 2:50 | 2022-05-07 |  |
 | [Funk da Netflix: onde tudo começou](https://open.spotify.com/track/04pEkmPO7jLJfRhM9UGQA4) | [Hefty](https://open.spotify.com/artist/7hOM7jG6GXxugQGe9JN8Kk) | [Tudum Remix](https://open.spotify.com/album/38e5jYSDDCkTEKFYy5IGss) | 0:30 | 2024-04-29 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2024-09-20 |  |
+| [Giorno's Theme \(Jay D Remix by JoRoYT\)](https://open.spotify.com/episode/2RwtULDIIem7Q7ENpMaKxo) | [AniCast](https://open.spotify.com/show/59PNAB2nCZNVzvE793UE1I) | [AniCast](https://open.spotify.com/album/59PNAB2nCZNVzvE793UE1I) | 2:30 | 2024-10-27 |  |
 | [Godspeed](https://open.spotify.com/track/0Jbe7lcwFY5DgX4abMPigH) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 3:43 | 2023-03-23 |  |
 | [Goodnight Socialite](https://open.spotify.com/track/3lWU0u5AZTmr0vm3m8VV2R) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 3:19 | 2023-01-07 |  |
 | [H.S](https://open.spotify.com/track/130XZ5bHECnpHvUeUkEPlg) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [H.S](https://open.spotify.com/album/7kcjzW149228s4dQmIIPUu) | 3:57 | 2023-11-20 |  |
@@ -55,11 +56,13 @@
 | [Hate the Villanelle](https://open.spotify.com/track/3lFVypGtmGTyjNFxunEqme) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Glean](https://open.spotify.com/album/6FvZjncN6KWxadSUOd8hpw) | 1:52 | 2023-03-25 |  |
 | [Haunt, The Cartoon Heart](https://open.spotify.com/track/07wdHt1i1Mhba54cjKvDM1) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Haunt, The Cartoon Heart](https://open.spotify.com/album/5Auri0aA3uPJJWVFvqK07e) | 3:38 | 2023-08-10 |  |
 | [he's a cannibal!](https://open.spotify.com/track/4rrEmQtXvNL9KErI6RnOTd) | [elliotly](https://open.spotify.com/artist/1rJ2wnDnAK4aZGGyKGZ4Zv) | [he's a cannibal!](https://open.spotify.com/album/4hVEOfzM7B4Rzkxuc9Wnwe) | 2:18 | 2024-09-25 |  |
+| [Hey Bulldog](https://open.spotify.com/track/4epbwW20tHuF9Q6FufAn7Y) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine Songtrack](https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE) | 3:11 | 2024-10-27 |  |
 | [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 | 2023-01-04 |  |
 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 | 2024-09-16 |  |
 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 | 2024-10-22 |  |
 | [I Don't Mind](https://open.spotify.com/track/7HJdedjmSkQAfTRwmep20s) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Sleepy Baby EP](https://open.spotify.com/album/6aSqVq91GliE53WYLkHKtJ) | 3:56 | 2024-09-16 |  |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2024-10-09 |  |
+| [I'd Love to Change the World \- 2004 Remaster](https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [A Space in Time \(Deluxe Version\)](https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE) | 3:44 | 2024-10-27 |  |
 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 | 2024-09-16 |  |
 | [If It Wasn't For The Nights](https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 5:09 | 2024-09-20 |  |
 | [Immigrant Song \- Remaster](https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin III \(Remaster\)](https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut) | 2:26 | 2024-09-17 |  |

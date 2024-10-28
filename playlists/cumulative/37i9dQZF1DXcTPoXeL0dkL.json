@@ -516,7 +516,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 283293,
       "name": "Cuando Casi Te Olvidaba",
       "url": "https://open.spotify.com/track/5oPFYXq8KnZuYXiSUkjDFT"
@@ -1008,7 +1008,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 307720,
       "name": "Las Razones Del Amor",
       "url": "https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-13",
+      "date_removed": null,
       "duration_ms": 275866,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/5lWEvj1lWNwC5lJdaSerHi"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 292800,
       "name": "Perd\u00f3name la Vida",
       "url": "https://open.spotify.com/track/1MdKgwGs2hW1cJUzsIxWVV"
@@ -1950,6 +1950,24 @@
       "duration_ms": 257696,
       "name": "Se Le Moja la Canoa",
       "url": "https://open.spotify.com/track/1R7xRGu2YdVc5HZyhXeUFv"
+    },
+    {
+      "album": {
+        "name": "Historia Musical de Los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258218,
+      "name": "Se Le Moja la Canoa (La Canoa)",
+      "url": "https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl"
     },
     {
       "album": {
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 253066,
       "name": "T\u00fa Vas a Volar",
       "url": "https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA"

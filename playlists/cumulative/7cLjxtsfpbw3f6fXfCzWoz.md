@@ -4,7 +4,7 @@
 
 > For the bisexuals.
 
-49 songs - 2 hr 52 min
+52 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,11 +14,14 @@
 | [Breakthru \- Remastered 2011](https://open.spotify.com/track/2HPvr5vD9rjbc0tejSmkkp) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Miracle \(Deluxe Remastered Version\)](https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs) | 4:08 | 2023-03-21 |  |
 | [Clusterhug](https://open.spotify.com/track/28sSuDmo31aPPDrTBE1N02) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ \(Deluxe Edition\)](https://open.spotify.com/album/5ailYYtAaFrrb9TYNlJOri) | 3:12 | 2022-09-07 |  |
 | [Cold as Ice](https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Foreigner \(Expanded\)](https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M) | 3:23 | 2023-11-20 |  |
+| [Cubicles](https://open.spotify.com/track/0Unc6GaK4h3RXmUbUAvtdc) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 3:51 | 2024-10-27 |  |
 | [Cubs In Five](https://open.spotify.com/track/3eqL5oHLBmtqZYfLENN9GO) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Nine Black Poppies](https://open.spotify.com/album/6M04qhJl6Fx1Vn3QIHbm1A) | 2:05 | 2023-01-07 |  |
 | [Dangerous](https://open.spotify.com/track/2b7hOtMdYJ7QvL6Vd3sk4a) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [1.0](https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq) | 4:40 | 2024-01-31 |  |
 | [Distance](https://open.spotify.com/track/5TQ6MARpfdGi3lToty2TH6) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Knife Man](https://open.spotify.com/album/131vOQexOX9KXcOvcK4vM9) | 2:33 | 2023-12-05 |  |
 | [Eyes Don’t Lie](https://open.spotify.com/track/2SoIn6rKqGXFtSmPelBamb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Eyes Don’t Lie \(Acoustic\)](https://open.spotify.com/album/7GhoYUVCNtW9BOgw7YYVHm) | 3:56 | 2022-09-07 |  |
+| [Give 'Em Hell, Kid](https://open.spotify.com/track/0axF06XwNLobcx5z8BVtYw) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 2:18 | 2024-10-27 |  |
 | [Hasta Manana](https://open.spotify.com/track/3wvrmmNB16rtreCvgw3sqv) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Waterloo \(Deluxe Edition\)](https://open.spotify.com/album/4hHXvnHGn6pmHhdnnmNdmn) | 3:09 | 2024-09-19 |  |
+| [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2024-10-27 |  |
 | [I Don't Love You](https://open.spotify.com/track/0Jli6hojT6aSBcFg4L2P5f) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:58 | 2023-01-11 |  |
 | [I Want To Break Free \- Remastered 2011](https://open.spotify.com/track/6wiXLuJPmqambLyVJBg0fy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set Vol\. 3](https://open.spotify.com/album/4uuyUxFLxkU05tyu4VnA52) | 3:18 | 2023-03-21 |  |
 | [I Want You to Want Me](https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [In Color](https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR) | 3:11 | 2024-09-16 |  |

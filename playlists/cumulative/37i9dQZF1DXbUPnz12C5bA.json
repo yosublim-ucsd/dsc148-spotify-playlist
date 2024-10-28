@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 267840,
       "name": "A Besitos",
       "url": "https://open.spotify.com/track/5qlIIog5kwh0hhiSO5yGv0"
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 231066,
       "name": "Esa",
       "url": "https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn"
@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 275866,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/5lWEvj1lWNwC5lJdaSerHi"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 261226,
       "name": "Manantial de Amor",
       "url": "https://open.spotify.com/track/74QAvbvgkM9yjyV0beRPMN"
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 287426,
       "name": "Me Vas A Extra\u00f1ar",
       "url": "https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2"
@@ -2338,7 +2338,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 306040,
       "name": "Mi Dulce Amor",
       "url": "https://open.spotify.com/track/57rekXZeqI5FEQ9sfJAJvX"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 270602,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/0AUvqI8gBOxFN3ZxA3SScw"
@@ -3210,6 +3210,24 @@
       "duration_ms": 308040,
       "name": "Regalame una Noche",
       "url": "https://open.spotify.com/track/4PwSEW1snw9THXDXZrcxtq"
+    },
+    {
+      "album": {
+        "name": "Historia Musical de Los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/1ttEZHvwYpa4eUwpSg1PaS"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258218,
+      "name": "Se Le Moja la Canoa (La Canoa)",
+      "url": "https://open.spotify.com/track/5M7HcDhJzZzhB2JaLQGbRl"
     },
     {
       "album": {

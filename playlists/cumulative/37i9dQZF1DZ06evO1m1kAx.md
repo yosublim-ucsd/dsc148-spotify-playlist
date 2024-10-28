@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-118 songs - 7 hr 54 min
+119 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Bother You](https://open.spotify.com/track/1fHW8dbdd4gnIKEFcKjHqw) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:16 | 2021-12-28 | 2023-02-13 |
 | [Bother You \(feat\. Terry Da Rapman\)](https://open.spotify.com/track/6YI8BQfLb1QdlTjB4lduCK) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Terry Da Rapman](https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 4:16 | 2024-04-19 | 2024-10-01 |
 | [Coded Tinz](https://open.spotify.com/track/2vrMrplf0UBqixxCA7hJpU) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Chief Obi](https://open.spotify.com/artist/4eXIbW9SDhsAowo6FJXiLr) | [Afro Hip Hop, Vol\. 7](https://open.spotify.com/album/6aAw8fSxxxvba2BTSCoXNp) | 4:11 | 2021-12-29 | 2022-09-26 |
-| [Cover Me](https://open.spotify.com/track/2ZjpGRPvDfnUvFjtMJenxQ) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ) | [Cover Me](https://open.spotify.com/album/32qvTAkxUFBQcipXv9dpkU) | 4:05 | 2023-11-10 |  |
+| [Cover Me](https://open.spotify.com/track/2ZjpGRPvDfnUvFjtMJenxQ) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ) | [Cover Me](https://open.spotify.com/album/32qvTAkxUFBQcipXv9dpkU) | 4:05 | 2023-11-10 | 2024-10-28 |
 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 | 2021-12-28 |  |
 | [Dance in the Rain](https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:38 | 2024-03-25 |  |
 | [Dance in the Rain](https://open.spotify.com/track/71nvD9S3qUai7oeccEL9ZM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 3:38 | 2021-12-28 | 2024-03-26 |
@@ -69,6 +69,7 @@
 | [Keep On Rocking](https://open.spotify.com/track/3jDiJeeFb0Q81eqBzAzKHt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Natives](https://open.spotify.com/artist/6ozAOYLSYudeC7tGPZmlOF), [Lil Seal](https://open.spotify.com/artist/0zl7XmAPF3skccdLoftWHL) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 5:45 | 2021-12-28 | 2024-06-01 |
 | [Keep on Rocking \- Remastered Version](https://open.spotify.com/track/6lbjsi4ZoerN7tJLot91VD) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Natives](https://open.spotify.com/artist/6ozAOYLSYudeC7tGPZmlOF), [Lil Seal](https://open.spotify.com/artist/0zl7XmAPF3skccdLoftWHL) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 5:43 | 2022-03-31 | 2022-09-07 |
 | [Kiss Of Life](https://open.spotify.com/track/6QRS80Nx3hIIL1Tg5HsZDF) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Ascension](https://open.spotify.com/album/3IbjUuSFsXLeBd6hz5ZJEY) | 3:45 | 2022-01-29 | 2022-10-07 |
+| [KUKU GOOGLE AM](https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [KUKU GOOGLE AM](https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX) | 3:30 | 2024-10-28 |  |
 | [Life Is Beautiful \(feat\. 2baba\)](https://open.spotify.com/track/5pAU0AC3qNiORdnXO2kDOg) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Versus](https://open.spotify.com/album/1QLLC5ZGukhxLehg8dFE62) | 5:07 | 2022-05-17 | 2023-09-26 |
 | [Love and Ashes](https://open.spotify.com/track/3ZURg62F2dIG5wTANPatMC) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [In Love & Ashes](https://open.spotify.com/album/20KVvmHDZaEBsxMo3ccWYs) | 4:18 | 2021-12-28 | 2022-10-13 |
 | [Love Me, Love Me](https://open.spotify.com/track/2Lf9sq98qQsJA0Z6JiICOO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:16 | 2022-01-17 | 2022-05-23 |

@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover: Black Sherif",
-  "num_followers": 160089,
+  "num_followers": 160146,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,26 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 181460,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
         "name": "Do I (Remix)",
         "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
       },
@@ -207,26 +227,6 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "NO SLEEP $$$ (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
         "name": "Umva",
         "url": "https://open.spotify.com/album/1JkWxgKl2W2WKN0JtPPy1S"
       },
@@ -243,18 +243,22 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 166000,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
+      "duration_ms": 187368,
+      "name": "NO SLEEP $$$ (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -319,18 +323,18 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "Kilos Milos",
-        "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 157560,
-      "name": "Kilos Milos",
-      "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
+      "duration_ms": 166000,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -355,22 +359,18 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "Time Of My Life",
-        "url": "https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J"
+        "name": "Kilos Milos",
+        "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "ArrDee",
-          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 155028,
-      "name": "Time Of My life",
-      "url": "https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0"
+      "duration_ms": 157560,
+      "name": "Kilos Milos",
+      "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -391,6 +391,26 @@
       "duration_ms": 237410,
       "name": "Real Is Rare (feat. Nasty C)",
       "url": "https://open.spotify.com/track/5fR8jaCoCB932SimKIcGrr"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "Time Of My Life",
+        "url": "https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        }
+      ],
+      "duration_ms": 155028,
+      "name": "Time Of My life",
+      "url": "https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -419,26 +439,6 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "Till We Die (feat. Ruger)",
-        "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 183289,
-      "name": "Till We Die (feat. Ruger)",
-      "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
         "name": "Jehovah",
         "url": "https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM"
       },
@@ -455,38 +455,6 @@
       "duration_ms": 164760,
       "name": "Jehovah",
       "url": "https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
-        "name": "NOT ALL THAT",
-        "url": "https://open.spotify.com/album/69s31hDJvmYWwJx2TOIUHo"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "NOT ALL THAT",
-      "url": "https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
-        "name": "Kill The King: the mixtape",
-        "url": "https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t"
-      },
-      "artists": [
-        {
-          "name": "A-Reece",
-          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
-        }
-      ],
-      "duration_ms": 185620,
-      "name": "the get back",
-      "url": "https://open.spotify.com/track/4IQP1L4qKPamrOrfL7WdAZ"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -511,18 +479,38 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j"
+        "name": "Till We Die (feat. Ruger)",
+        "url": "https://open.spotify.com/album/75BdyAVpJgWI6Dmz9qc9zY"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
+      "duration_ms": 183289,
+      "name": "Till We Die (feat. Ruger)",
+      "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "NOT ALL THAT",
+        "url": "https://open.spotify.com/album/69s31hDJvmYWwJx2TOIUHo"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "NOT ALL THAT",
+      "url": "https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -543,22 +531,34 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "100 MILLION",
-        "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 136000,
-      "name": "100 MILLION (feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
+      "duration_ms": 192000,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "Kill The King: the mixtape",
+        "url": "https://open.spotify.com/album/5XxghpaGYOjMYfaggN0g0t"
+      },
+      "artists": [
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "duration_ms": 185620,
+      "name": "the get back",
+      "url": "https://open.spotify.com/track/4IQP1L4qKPamrOrfL7WdAZ"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -615,6 +615,42 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
+        "name": "100 MILLION",
+        "url": "https://open.spotify.com/album/6zOr6njR2rEbkVlTHncEju"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "100 MILLION (feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/455xPBUG4AFMMGiVEv91fC"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "January 9th",
+        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 222881,
+      "name": "January 9th",
+      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -659,42 +695,6 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "EKELEBE (feat. ODUMODUBLVCK)",
-        "url": "https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "EKELEBE (feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
-        "name": "January 9th",
-        "url": "https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 222881,
-      "name": "January 9th",
-      "url": "https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
         "name": "Streets Is Calling (feat. Moonchild Sanelly & M.anifest)",
         "url": "https://open.spotify.com/album/01hBryfAxX4YavSYQAt1sL"
       },
@@ -719,22 +719,22 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "BABA",
-        "url": "https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD"
+        "name": "EKELEBE (feat. ODUMODUBLVCK)",
+        "url": "https://open.spotify.com/album/19N0mCaeYf3EhJcRGlRGYw"
       },
       "artists": [
         {
-          "name": "Smada",
-          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         },
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 127612,
-      "name": "BABA",
-      "url": "https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv"
+      "duration_ms": 222222,
+      "name": "EKELEBE (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0hhOltFiPTK40diKYu2mU2"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -751,6 +751,46 @@
       "duration_ms": 145195,
       "name": "Haibo Freestyle",
       "url": "https://open.spotify.com/track/7E8XRyfpF1zboV8whQ0pZr"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "KLN",
+          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
+        }
+      ],
+      "duration_ms": 194311,
+      "name": "NO LIMIT",
+      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "BABA",
+        "url": "https://open.spotify.com/album/4j0yrlnoFKbyj3Duw4I1eD"
+      },
+      "artists": [
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 127612,
+      "name": "BABA",
+      "url": "https://open.spotify.com/track/3hzuoV8oxgfBp2C35DCIpv"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -779,42 +819,6 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "BDLM VOL.1",
-        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        },
-        {
-          "name": "KLN",
-          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
-        }
-      ],
-      "duration_ms": 194311,
-      "name": "NO LIMIT",
-      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
-        "name": "Take Care of Yourself Blacko",
-        "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 193381,
-      "name": "YAYA",
-      "url": "https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
         "name": "Gbagada Express Vol 2: Moving Mad",
         "url": "https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p"
       },
@@ -831,6 +835,22 @@
       "duration_ms": 152947,
       "name": "No Option",
       "url": "https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "Take Care of Yourself Blacko",
+        "url": "https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 193381,
+      "name": "YAYA",
+      "url": "https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -923,26 +943,6 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "GOAT",
-        "url": "https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 181460,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0gyfvkV9v7FrgiSp1mGelq"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
         "name": "To Whom It May Concern",
         "url": "https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9"
       },
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "VIOLATION",
-        "url": "https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 148489,
-      "name": "VIOLATION",
-      "url": "https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
         "name": "see u soon",
         "url": "https://open.spotify.com/album/4aYa2JkUWVkOXptMYZtdq5"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 160557,
       "name": "show u luv",
       "url": "https://open.spotify.com/track/6AMKemHX5TjvWwVCQgkYJY"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "VIOLATION",
+        "url": "https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 148489,
+      "name": "VIOLATION",
+      "url": "https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "2025",
-        "url": "https://open.spotify.com/album/6QhHyhSidIqwPEQzWCWeig"
-      },
-      "artists": [
-        {
-          "name": "Didi B",
-          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "2025",
-      "url": "https://open.spotify.com/track/6ByrGBVtpOGYIxyDc5XQYJ"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 230426,
       "name": "Believer",
       "url": "https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "2025",
+        "url": "https://open.spotify.com/album/6QhHyhSidIqwPEQzWCWeig"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "2025",
+      "url": "https://open.spotify.com/track/6ByrGBVtpOGYIxyDc5XQYJ"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "Gwara Gwara",
-        "url": "https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm"
-      },
-      "artists": [
-        {
-          "name": "Moonchild Sanelly",
-          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Gwara Gwara",
-      "url": "https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -1187,6 +1171,38 @@
       "duration_ms": 186191,
       "name": "Accidentally (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 182684,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+    },
+    {
+      "added_at": "2024-10-25 03:58:03",
+      "album": {
+        "name": "Gwara Gwara",
+        "url": "https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm"
+      },
+      "artists": [
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Gwara Gwara",
+      "url": "https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "No More",
-        "url": "https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk"
+        "name": "BRAG",
+        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 182684,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0"
+      "duration_ms": 149504,
+      "name": "BRAG",
+      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -1247,22 +1263,6 @@
       "duration_ms": 166956,
       "name": "Guy Man",
       "url": "https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s"
-    },
-    {
-      "added_at": "2024-10-25 03:58:03",
-      "album": {
-        "name": "BRAG",
-        "url": "https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 149504,
-      "name": "BRAG",
-      "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
     },
     {
       "added_at": "2024-10-25 03:58:03",
@@ -1343,22 +1343,18 @@
     {
       "added_at": "2024-10-25 03:58:03",
       "album": {
-        "name": "Before the Smoke",
-        "url": "https://open.spotify.com/album/59IJp0kGojGYlkWqn2Hnp9"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU"
       },
       "artists": [
         {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         }
       ],
-      "duration_ms": 143692,
-      "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"
+      "duration_ms": 180157,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe"
     }
   ],
   "unique_name": "Afro Bars ",

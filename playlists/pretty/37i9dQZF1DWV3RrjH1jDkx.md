@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,612 likes - 107 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,645 likes - 107 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 18 | [Ambassadør](https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Ambassadør](https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou) | 2:49 |
 | 19 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 |
 | 20 | [Your Love Keeps Me](https://open.spotify.com/track/5pmnNR2hGlk5KgkTqswmcO) | [D'Sound](https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Your Love Keeps Me](https://open.spotify.com/album/65wvCGN3MITdwuYBQS8FvU) | 2:52 |
-| 21 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 21 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 22 | [Ta med deg døra](https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ta med deg døra](https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K) | 3:31 |
 | 23 | [Midtnytt](https://open.spotify.com/track/4yw7Tna6ATc5KsqJTWX3Vp) | [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc), [Lil.Lørda](https://open.spotify.com/artist/5VoDPO3wivvUbXNt2IF4Rp) | [Midtnytt](https://open.spotify.com/album/2bljtVDQSJkxxS9g5FNHLC) | 3:21 |
 | 24 | [The Breakup](https://open.spotify.com/track/6bl0xZIf6IWh3WEspSaoTf) | [bby ivy](https://open.spotify.com/artist/17aZjZK0Dqx0xGd05Ooo0R) | [The Breakup](https://open.spotify.com/album/1TZgimZPlfiItr2pyo3TQC) | 3:24 |

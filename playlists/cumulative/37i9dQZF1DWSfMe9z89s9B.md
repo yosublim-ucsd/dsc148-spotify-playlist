@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Mereba
 
-1,322 songs - 2 day 21 hr 43 min
+1,324 songs - 2 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,7 +598,7 @@
 | [Infrastructure \- ESTA\. Remix](https://open.spotify.com/track/3UpEhvJ3SO0kuTaa8cGbsG) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Infrastructure \(ESTA\. Remix\)](https://open.spotify.com/album/7iVKEG9mm9jfMCRldZY3TZ) | 3:14 | 2022-04-01 | 2022-04-16 |
 | [Inner Peace](https://open.spotify.com/track/3o5ZrzWvJPJY8vlddeSP19) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Inner Peace](https://open.spotify.com/album/2gSP7Vxdp72vtYAUOv9siS) | 3:37 | 2022-09-23 | 2022-10-13 |
 | [Inside Out – A COLORS SHOW](https://open.spotify.com/track/6hjiaLxYiZfQTn70mfasJ2) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Inside Out – A COLORS SHOW](https://open.spotify.com/album/6z6puxSN6gXkYqKKXUTPAh) | 3:52 | 2022-09-30 | 2022-12-10 |
-| [intention 4 u](https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [intention 4 u](https://open.spotify.com/album/5xouGwfdwpVnhldVCy9L57) | 4:00 | 2024-08-30 |  |
+| [intention 4 u](https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [intention 4 u](https://open.spotify.com/album/5xouGwfdwpVnhldVCy9L57) | 4:00 | 2024-08-30 | 2024-10-28 |
 | [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-22 | 2024-06-11 |
 | [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-22 | 2024-04-04 |
 | [Intergalactic Janet](https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe) | 2:40 | 2024-03-22 | 2024-04-19 |
@@ -700,7 +700,7 @@
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-05-03 | 2024-10-20 |
 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 | 2024-10-20 |  |
 | [Love Overgrown](https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:20 | 2022-04-01 | 2022-07-28 |
-| [Love Sick](https://open.spotify.com/track/1G6NXKZ8hslD7ATqhIGZKJ) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Love Sick](https://open.spotify.com/album/7MggIppKYSPlh6TLQeLFjN) | 1:52 | 2024-06-28 |  |
+| [Love Sick](https://open.spotify.com/track/1G6NXKZ8hslD7ATqhIGZKJ) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Love Sick](https://open.spotify.com/album/7MggIppKYSPlh6TLQeLFjN) | 1:52 | 2024-06-28 | 2024-10-28 |
 | [Love Songz](https://open.spotify.com/track/0Ypj1zPzSDiy80kjRSFZf3) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj) | [Love Songz](https://open.spotify.com/album/5FkfJeD1DvqKXXJFTvEjoH) | 3:20 | 2022-11-04 | 2022-11-19 |
 | [Lovebird](https://open.spotify.com/track/27K5vumkmzbBAjw3JMbcJ2) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Shower Shoes](https://open.spotify.com/album/73EsjWw7UaANBMBOymQ4qh) | 2:16 | 2023-03-24 | 2023-10-07 |
 | [Lover, You Should’ve Come Over](https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Lover, You Should’ve Come Over](https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm) | 6:01 | 2023-12-22 | 2024-06-29 |
@@ -786,6 +786,7 @@
 | [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 |  |
 | [New Faces](https://open.spotify.com/track/2QAtG4bBRtLtvgeC3rSTRy) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [New Faces](https://open.spotify.com/album/2tEbyjjMbPQ7uOAXjW7MhR) | 3:09 | 2021-05-14 | 2022-01-09 |
 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM) | 2:10 | 2024-02-23 |  |
+| [Next 2 Me](https://open.spotify.com/track/1W3xsWvZq7k1XtMk9U5Mnr) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Next 2 Me](https://open.spotify.com/album/50CQhtln0o5KQjb5QcTL8p) | 2:43 | 2024-10-26 |  |
 | [Nights Like This](https://open.spotify.com/track/3V20OKj17cqyZTtQAExeUR) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Orion](https://open.spotify.com/album/735gHf5O9KuZlPaXUqilzl) | 2:35 | 2024-09-20 |  |
 | [Nimbus](https://open.spotify.com/track/001EhZ9ZELNRrrLhpuPGQJ) | [Brahny](https://open.spotify.com/artist/5XVcCGWqJUyDVL8u3YsSRX) | [Nimbus](https://open.spotify.com/album/1NZZZZwUsYX2Lnmav1WwLG) | 3:07 | 2022-04-01 | 2022-04-11 |
 | [nite](https://open.spotify.com/track/5d2sBOqleqxg8noBOvQEYa) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [it's not you, it's me..\. it's love](https://open.spotify.com/album/18CRiKrKO856anaMXGjXP9) | 2:23 | 2023-09-01 |  |
@@ -1281,6 +1282,7 @@
 | [Who I Gotta Be](https://open.spotify.com/track/5pw8GzT56mdgDbQL25PqL6) | [oddCouple](https://open.spotify.com/artist/4SNPCk41ou9AgQeMBIEZqi), [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Who I Gotta Be](https://open.spotify.com/album/0ew1GBGpp9n8rfliV3g6Pn) | 4:00 | 2021-06-04 | 2022-01-27 |
 | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/track/2IM8UcsHElXjQkkhlOuODo) | [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg), [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa) | [WHOSE LOVE \(feat\. Tempest\)](https://open.spotify.com/album/0zHwMqEuRB7AbVFoZ57RW3) | 3:30 | 2022-07-15 | 2022-12-03 |
 | [Why](https://open.spotify.com/track/2eQBMUJcOCsbEKTwHSqAdx) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Why](https://open.spotify.com/album/3oBQqjDtb8KWw1SBXJllBO) | 2:29 | 2022-10-14 | 2022-12-03 |
+| [Why Would I](https://open.spotify.com/track/7G87YO6TpWofadn8heUvjB) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Why Would I](https://open.spotify.com/album/48u72CmHkG3jCCIvxZuGzs) | 3:21 | 2024-09-27 |  |
 | [Wild Animals](https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 3:35 | 2022-11-18 | 2023-10-07 |
 | [Wild Animals](https://open.spotify.com/track/3tr8E4dFE9VIuWbIiwiePE) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Wild Animals](https://open.spotify.com/album/5PNDwa8JmKV8m43Y41HD4m) | 3:38 | 2022-11-18 | 2023-02-19 |
 | [wild horses](https://open.spotify.com/track/32f9jlQeaRl1362WmCdGpm) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [wild horses](https://open.spotify.com/album/7k4dnCbTDEXY74f3Z1UXpI) | 3:15 | 2022-02-25 | 2022-04-24 |

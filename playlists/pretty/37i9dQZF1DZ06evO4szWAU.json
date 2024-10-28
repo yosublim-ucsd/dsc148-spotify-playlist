@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 74974,
+  "num_followers": 75014,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAABXNuFVdOf+vf6/9tqsY5jU",
+  "snapshot_id": "ZxwxAAAAAABXxaAABSzc7R761nVOiwQK",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 347280,
-      "name": "Buscando Guayaba",
-      "url": "https://open.spotify.com/track/51pnSx6vfBzV8lkLLNFFpy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -567,22 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estar Lejos",
-        "url": "https://open.spotify.com/album/6lH96T5oRD0PSBkeblpq11"
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
       "artists": [
         {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 247092,
-      "name": "Estar Lejos",
-      "url": "https://open.spotify.com/track/4lmd6jUDk3bUWkID5w0CCA"
+      "duration_ms": 347280,
+      "name": "Buscando Guayaba",
+      "url": "https://open.spotify.com/track/51pnSx6vfBzV8lkLLNFFpy"
     },
     {
       "added_at": null,
@@ -603,6 +583,26 @@
       "duration_ms": 296240,
       "name": "Plantaci\u00f3n Adentro",
       "url": "https://open.spotify.com/track/2OBZVLhtWun61t4Q94HcVR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estar Lejos",
+        "url": "https://open.spotify.com/album/6lH96T5oRD0PSBkeblpq11"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 247092,
+      "name": "Estar Lejos",
+      "url": "https://open.spotify.com/track/4lmd6jUDk3bUWkID5w0CCA"
     },
     {
       "added_at": null,

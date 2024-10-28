@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💜 Addison Rae
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,969 likes - 129 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,972 likes - 129 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

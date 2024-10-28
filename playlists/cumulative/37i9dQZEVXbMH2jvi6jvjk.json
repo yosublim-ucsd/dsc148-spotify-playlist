@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 402896,
       "name": "Amabhoza",
       "url": "https://open.spotify.com/track/3Aw4XtR8BopVdvJ1dGnevM"
@@ -4044,7 +4044,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-23",
+      "date_removed": null,
       "duration_ms": 245760,
       "name": "Bafana (feat. Ba Bethe Gashoazen)",
       "url": "https://open.spotify.com/track/5W6KyyrmTImJK4vGsnfQuZ"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -9007,6 +9007,32 @@
     },
     {
       "album": {
+        "name": "Dali (feat. Bless The Gentleman & DJ Kap)",
+        "url": "https://open.spotify.com/album/0NMpHxP0Qw90Na7xIV2tkY"
+      },
+      "artists": [
+        {
+          "name": "Blaq Major",
+          "url": "https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc"
+        },
+        {
+          "name": "BLESS THE GENTLEMAN",
+          "url": "https://open.spotify.com/artist/3zO4VnpgPzQAE6ibTievv1"
+        },
+        {
+          "name": "DJ KAP",
+          "url": "https://open.spotify.com/artist/6YbUZ7rG3diOQFbAq8cySD"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218274,
+      "name": "Dali (feat. Bless The Gentleman & DJ Kap)",
+      "url": "https://open.spotify.com/track/6ZiPVgBrULcpN0n9qQ3XO4"
+    },
+    {
+      "album": {
         "name": "Dali Nguwe",
         "url": "https://open.spotify.com/album/6w3XlF1P2YhVhag275CZHH"
       },
@@ -9576,7 +9602,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 296326,
       "name": "Deep Waters (feat. Marcus Harvey, A-Reece & Maglera Doe Boy)",
       "url": "https://open.spotify.com/track/6deQoo9sdee526ujKHpin7"
@@ -10254,7 +10280,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 552262,
       "name": "Dlala Ngothando",
       "url": "https://open.spotify.com/track/63Sz2tLPiXrqx8Ac8I6Mg1"
@@ -10566,7 +10592,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 356189,
       "name": "Donga",
       "url": "https://open.spotify.com/track/4ibwBoPg69OLFY4t8F6uSp"
@@ -16058,7 +16084,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 429479,
       "name": "Hleka nabo",
       "url": "https://open.spotify.com/track/4wZB5QFhGjwAHisMeSicPl"
@@ -19966,7 +19992,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 332382,
       "name": "Jealous Down (feat. Dr Skaro)",
       "url": "https://open.spotify.com/track/0WowHKVNsbEBaPLZbB4Zmj"
@@ -24966,7 +24992,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 443556,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo)",
       "url": "https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is"
@@ -26926,7 +26952,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 493765,
       "name": "Mthuthuzeli",
       "url": "https://open.spotify.com/track/7nsG4QCCCsCwKiOKEEGA6f"
@@ -28374,7 +28400,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-27",
+      "date_removed": null,
       "duration_ms": 246183,
       "name": "Nhliziyo Yami",
       "url": "https://open.spotify.com/track/1S1K6RxkEkm9a9op800QEk"
@@ -30648,7 +30674,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 244948,
       "name": "Phelibasas (feat. Sjava)",
       "url": "https://open.spotify.com/track/3NGSA1lTGMmzuVdLpxaCH3"
@@ -34690,7 +34716,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 551579,
       "name": "Selimathunzi",
       "url": "https://open.spotify.com/track/2HiHffF7XArCZDDn5VNUGM"
@@ -37960,7 +37986,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 413584,
       "name": "Sukakude (feat. Sfarzo Rtee)",
       "url": "https://open.spotify.com/track/1rtMuIY76v879DN8kW1fhf"
@@ -39876,7 +39902,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 407953,
       "name": "Thobela",
       "url": "https://open.spotify.com/track/5Zx4pqM2pnIsovPlGwR9fY"
@@ -39946,7 +39972,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-27",
+      "date_removed": null,
       "duration_ms": 351428,
       "name": "Thola Umuntu",
       "url": "https://open.spotify.com/track/1z9cFQp5CGOAsACK2IWzCG"
@@ -40372,7 +40398,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-22",
+      "date_removed": null,
       "duration_ms": 207856,
       "name": "Tlala o nyele",
       "url": "https://open.spotify.com/track/4wU6xUwAgFnMwjMlxLevHb"
@@ -45670,7 +45696,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 190477,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/2hju8taDu6h5cCVQEtEXYq"
@@ -46098,7 +46124,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 468789,
       "name": "Xola Ntliziyo",
       "url": "https://open.spotify.com/track/4pXXcPHe7ZGFbUbm5ztdxa"

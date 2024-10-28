@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Wretch 32
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,391,938 likes - 81 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,391,970 likes - 81 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

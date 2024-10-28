@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Baggage",
+        "url": "https://open.spotify.com/album/0Lfi7gQjlxf7HMy0HzYt6p"
+      },
+      "artists": [
+        {
+          "name": "Persia Holder",
+          "url": "https://open.spotify.com/artist/3b6h32F8106P4eodXJHhmd"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161960,
+      "name": "Baggage",
+      "url": "https://open.spotify.com/track/5B1ZzhdccdLGZFNHksTcOx"
+    },
+    {
+      "album": {
         "name": "biting my tongue",
         "url": "https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK"
       },

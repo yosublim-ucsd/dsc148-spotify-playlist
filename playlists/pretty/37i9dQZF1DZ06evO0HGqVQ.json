@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 28158,
+  "num_followers": 28167,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAADbGW5SRNYbC0zTtoSwR/Ku",
+  "snapshot_id": "ZxwxAAAAAAADjXHX/J0uaTPGP5U0ghb9",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Me Duele Tanto",
-      "url": "https://open.spotify.com/track/1zwn8JE6FyQ5FX4p8KutHi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Presente y Futuro",
         "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 313933,
       "name": "Vivimos Lo Nuestro",
       "url": "https://open.spotify.com/track/4HqY4sYQqEDcxLp9lemip5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Me Duele Tanto",
+      "url": "https://open.spotify.com/track/1zwn8JE6FyQ5FX4p8KutHi"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Cuando Te Vayas",
-      "url": "https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inquietos por el Mundo",
         "url": "https://open.spotify.com/album/01AO43F1xJA1t6m8g5QlJW"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 278053,
       "name": "No Te Olvides de Mi",
       "url": "https://open.spotify.com/track/0DbE1B9SW27XmoHPdGfJG5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Cuando Te Vayas",
+      "url": "https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 251000,
       "name": "Piel A Piel",
       "url": "https://open.spotify.com/track/3K5R2VjdoC87rVcMc0C5wk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Internacionales",
-        "url": "https://open.spotify.com/album/780sagysRihPhiKc6H9TQG"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 213834,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/6PfPRm6iclFF0L01QiaAk3"
     }
   ],
   "unique_name": "This Is Los inquietos del vallenato",

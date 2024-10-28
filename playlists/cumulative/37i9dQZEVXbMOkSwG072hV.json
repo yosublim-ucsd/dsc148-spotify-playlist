@@ -1985,6 +1985,32 @@
     },
     {
       "album": {
+        "name": "Acende Outra Vez (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rMgYMDCmcs185aMwbt56Y"
+      },
+      "artists": [
+        {
+          "name": "yeixs",
+          "url": "https://open.spotify.com/artist/51hQ28H5BjnESK2nUoloVC"
+        },
+        {
+          "name": "M4RLBORO",
+          "url": "https://open.spotify.com/artist/7d4t6iQ96DSuN1JPhChNMd"
+        },
+        {
+          "name": "lovekillsus",
+          "url": "https://open.spotify.com/artist/1U2ANZ0eSfOJJfnkfpsSAN"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474517,
+      "name": "Acende Outra Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/5lhq9aAxK66gzHwfUaHB2d"
+    },
+    {
+      "album": {
         "name": "Acerola - Ac\u00fastico de Quarto",
         "url": "https://open.spotify.com/album/794ujyiDhWd7ELbpBGfWLS"
       },
@@ -7308,10 +7334,36 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 284833,
       "name": "Bem longe de magnata",
       "url": "https://open.spotify.com/track/1wWcLWaQDIWcVZTfvalQPo"
+    },
+    {
+      "album": {
+        "name": "Bem Longe De Magnata",
+        "url": "https://open.spotify.com/album/1hO9PZGx278041tlCWN86l"
+      },
+      "artists": [
+        {
+          "name": "Jeppa",
+          "url": "https://open.spotify.com/artist/3Ls1UtrZPJYSzWe1mCgrG1"
+        },
+        {
+          "name": "Qua",
+          "url": "https://open.spotify.com/artist/6uGa7tsSk4HB0S4Yl9sO1k"
+        },
+        {
+          "name": "PIQUE RJ",
+          "url": "https://open.spotify.com/artist/1yYGkzLt48XQALxNT4hAnU"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284004,
+      "name": "Bem Longe De Magnata",
+      "url": "https://open.spotify.com/track/2EclA0sDjHlTsurx0hfyaD"
     },
     {
       "album": {
@@ -21815,6 +21867,28 @@
     },
     {
       "album": {
+        "name": "Folga No Trampo",
+        "url": "https://open.spotify.com/album/4JUaN7FvGbXTm7KrGo4BtL"
+      },
+      "artists": [
+        {
+          "name": "MC Luiggi",
+          "url": "https://open.spotify.com/artist/3Ie7tlw7AZSqd9GNFjCRAP"
+        },
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143769,
+      "name": "Folga No Trampo",
+      "url": "https://open.spotify.com/track/1uGVaYQNjMPmVO0gAtzHnZ"
+    },
+    {
+      "album": {
         "name": "LP1",
         "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
       },
@@ -21830,7 +21904,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 242827,
       "name": "For You (With Rita Ora)",
       "url": "https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU"
@@ -44764,7 +44838,7 @@
       ],
       "date_added": "2024-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
@@ -57440,7 +57514,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 67596,
       "name": "VAPO NO SETOR",
       "url": "https://open.spotify.com/track/25MzUGleMnmyoeTNRZ8QF1"
@@ -57672,7 +57746,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 418698,
       "name": "Vem Me Buscar - Ao Vivo",
       "url": "https://open.spotify.com/track/0bMAWV9DDN2fllpvCtpzWl"
@@ -61038,10 +61112,28 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 154553,
       "name": "\u00daltima Noite",
       "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
+    },
+    {
+      "album": {
+        "name": "Obrigado Deus",
+        "url": "https://open.spotify.com/album/1jUaMGClL6BGdKqbyw0sjX"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154553,
+      "name": "\u00daltima Noite",
+      "url": "https://open.spotify.com/track/3Na05ukzM1l7QXBqQmWyfo"
     },
     {
       "album": {

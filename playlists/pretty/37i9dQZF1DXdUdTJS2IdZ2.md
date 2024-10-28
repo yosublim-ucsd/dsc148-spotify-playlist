@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Rangga Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,883 likes - 139 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,885 likes - 139 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

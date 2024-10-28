@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Insomniacks
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,256 likes - 58 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,324 likes - 58 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

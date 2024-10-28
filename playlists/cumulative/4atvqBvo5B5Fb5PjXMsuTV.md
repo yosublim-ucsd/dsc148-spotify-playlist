@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 26 Oct 04:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 27 Oct 22:02 UTC.
 
-3,143 songs - 7 day 7 hr 7 min
+3,145 songs - 7 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-07 | 2024-05-10 |
 | [BOOOOOORING](https://open.spotify.com/track/70o4Z35wOgtzQEAxLZuPtc) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2) | [BOOOOOORING](https://open.spotify.com/album/6VXCZBD2Hn005pri5hmwKg) | 2:56 | 2024-08-20 | 2024-08-23 |
 | [Born To Rave](https://open.spotify.com/track/1UG9XQqCSsCyrm3fjnQZkg) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Born To Rave](https://open.spotify.com/album/1HgwyII49Df2mYFXBtfkjh) | 2:17 | 2024-09-12 | 2024-09-14 |
-| [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-10-25 |  |
+| [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-10-25 | 2024-10-28 |
 | [born with power](https://open.spotify.com/track/5r4SYNrmYccS12HT9psaxc) | [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [born with power](https://open.spotify.com/album/0oeAHa0oWwBEVRS8oRYg6K) | 3:35 | 2024-08-20 | 2024-08-23 |
 | [Borse Hermès](https://open.spotify.com/track/1MRDqKrcGYLw883LuVmDjy) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Borse Hermès](https://open.spotify.com/album/4K4WFgRUEfOrPD4ioCBppM) | 2:39 | 2024-10-25 |  |
 | [Boss Affirmations](https://open.spotify.com/track/1rDZbka59VIuNxOunUml0b) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Boss Affirmations](https://open.spotify.com/album/5SOdHCozqHXM7SV12PjdP8) | 1:56 | 2024-10-04 | 2024-10-07 |
@@ -687,7 +687,7 @@
 | [Delphinium Blue](https://open.spotify.com/track/27ws2QOhH3gNqyy30thMzR) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Delphinium Blue](https://open.spotify.com/album/4lfIqAm7yH6WcnO0qMzej8) | 3:37 | 2024-05-14 | 2024-05-16 |
 | [Demolition Man](https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Demolition Man](https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8) | 2:45 | 2024-07-17 | 2024-07-19 |
 | [Demon Child](https://open.spotify.com/track/7tr90i9oJAQgybcAhWlZ4l) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Demon Child](https://open.spotify.com/album/5zPpTyZxAySmZGRmHsJqiK) | 2:55 | 2024-08-28 | 2024-08-31 |
-| [Demon's Glue](https://open.spotify.com/track/6FDyHSaWiDtDIO72el0jh7) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Demon's Glue](https://open.spotify.com/album/0CM1zkvCRxp3nvqIioJ1pA) | 5:09 | 2024-10-25 |  |
+| [Demon's Glue](https://open.spotify.com/track/6FDyHSaWiDtDIO72el0jh7) | [Black Moth Super Rainbow](https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l) | [Demon's Glue](https://open.spotify.com/album/0CM1zkvCRxp3nvqIioJ1pA) | 5:09 | 2024-10-25 | 2024-10-28 |
 | [Demons In The Dark](https://open.spotify.com/track/7ePN9wgTZtse3drcVI4YD4) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Demons In The Dark](https://open.spotify.com/album/2b9zu0KdTmeLAdtNSNcvZw) | 2:36 | 2024-10-04 | 2024-10-10 |
 | [Demons My Darling](https://open.spotify.com/track/7BlPetJykI8OtOilT4TXLx) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Demons My Darling](https://open.spotify.com/album/6Ga4ZK5le3b2w92a5OWd4t) | 3:08 | 2024-08-05 | 2024-08-08 |
 | [DENK ZU VIEL NACH](https://open.spotify.com/track/1ctq4FdMatfR9ZNCY8WKbM) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [DENK ZU VIEL NACH](https://open.spotify.com/album/3rIVdn7T2glnMoBobBvjlA) | 2:24 | 2024-07-19 | 2024-07-20 |
@@ -854,6 +854,7 @@
 | [Esperança](https://open.spotify.com/track/56IfHJlxw8fkQ5ldt52T3G) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Esperança](https://open.spotify.com/album/2iKq0sQSndxZ2MbSuO4iFt) | 4:21 | 2024-05-24 | 2024-05-29 |
 | [espero que esse samba te encontre bem](https://open.spotify.com/track/4UglGqbUEg1Y8yxvaiwWo1) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf) | [espero que esse samba te encontre bem](https://open.spotify.com/album/3ylo63ECk15nvZoTLaOHu8) | 1:01 | 2024-06-08 | 2024-06-12 |
 | [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Etc \(feat\. Nardo Wick\)](https://open.spotify.com/album/1gHHbM7rsEjkl4P6eQ7CKp) | 2:08 | 2024-10-25 |  |
+| [Etéreo](https://open.spotify.com/track/5OvebLWSaA7y3lHsIfjvpt) | [Aldoxito](https://open.spotify.com/artist/5MgScuTTQqQJwBieWOx6Mu) | [Etéreo](https://open.spotify.com/album/3748tZ79dqW8IhO2zE7K1o) | 3:23 | 2024-10-27 |  |
 | [Eulogy](https://open.spotify.com/track/4ifohupUuOuCxTZvVtbMAL) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [Eulogy](https://open.spotify.com/album/6lq4DFt4YV2EKRVDbJh88H) | 4:28 | 2024-05-10 | 2024-05-14 |
 | [Euphorbia Milli](https://open.spotify.com/track/5kLhb56IgFVGATJ9T7g7WY) | [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Euphorbia Milli](https://open.spotify.com/album/1q9zzOoEYV6oehCc8nsSip) | 3:36 | 2024-09-24 | 2024-09-27 |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-04-30 | 2024-05-03 |
@@ -1228,6 +1229,7 @@
 | [Hex So Heavy](https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Hex So Heavy](https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4) | 3:05 | 2024-08-30 | 2024-09-03 |
 | [Hey Arthur!](https://open.spotify.com/track/1eAL6SURJYr5yko6FClNDO) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Hey Arthur!](https://open.spotify.com/album/4bHgCso2O62quFXiyydKWr) | 2:46 | 2024-10-24 | 2024-10-26 |
 | [Hey Homie](https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Hey Homie](https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR) | 3:09 | 2024-07-19 | 2024-07-20 |
+| [Hey Mister!](https://open.spotify.com/track/7e9hSOyaSFnYyTNcBVwpEa) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [SadGirlsVsTheWorld](https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61), [Yōko](https://open.spotify.com/artist/0Cznh5kr6Hlgyl2oHxEFF4) | [Hey Mister!](https://open.spotify.com/album/1CPG5qDYbIadB9Jizgpkz8) | 2:27 | 2024-10-27 |  |
 | [Hey Now](https://open.spotify.com/track/3EZaMCW820EhjBOMSmQgaq) | [Shauna Dean Cokeland](https://open.spotify.com/artist/0vbNLTyYwdVv2m0gzQ8skz) | [Hey Now](https://open.spotify.com/album/79vDMe6HN4DfiYCQhs5RXp) | 2:18 | 2024-10-06 | 2024-10-10 |
 | [Hey Stranger](https://open.spotify.com/track/5q5b6Gw2USuYFYSSAkolFT) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [Hey Stranger](https://open.spotify.com/album/0TkEpeSPKmCkpSgZWq8hRc) | 4:48 | 2024-06-11 | 2024-06-13 |
 | [hey! hey!](https://open.spotify.com/track/6vSpm3PAXA1PLyEINx3DJC) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [hey! hey!](https://open.spotify.com/album/6yGdGCWksLfDes9U81SRkP) | 3:12 | 2024-06-05 | 2024-06-07 |

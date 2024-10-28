@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Epik High\)
 
-1,356 songs - 3 day 1 hr 35 min
+1,357 songs - 3 day 1 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [GIOTL](https://open.spotify.com/track/1Tj8jpYF0fSS3k0Q2LYUk1) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [KCTAPE, Vol\. 1](https://open.spotify.com/album/5HOAYUSRwCgV0SVxcug4l3) | 3:17 | 2024-05-24 | 2024-10-15 |
 | [Girl's Remedy \(feat\. Royal 44 & Leellamarz\)](https://open.spotify.com/track/1N8Qy5DhiBHE1WTJniYM1m) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE), [T₩OTUK](https://open.spotify.com/artist/3iAOHQi9GKQ8ARxHfD6YFt), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Girl's Remedy \(feat\. Royal 44 & Leellamarz\)](https://open.spotify.com/album/0qGqRlZPFPDjoZULwItlXn) | 3:33 | 2023-01-02 | 2023-03-28 |
 | [Girls Back Home \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/4FJ3U3FHXPdIOSP6e1tQfb) | [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Girls Back Home \(Feat\. Lee Young Ji\)](https://open.spotify.com/album/0LGV5taFE9qH4XAJbykaAY) | 2:15 | 2022-08-31 | 2022-10-30 |
+| [GIVE IT TO ME \(Feat\. JAEHA\)](https://open.spotify.com/track/1OhIyPBnQZRpCaiqj0Rnqr) | [KAMBO](https://open.spotify.com/artist/2LE4iuwlb4vZMWKTw68g4i), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [GIVE IT TO ME \(Feat\. JAEHA\)](https://open.spotify.com/album/5lYZQsnHkFau0ML7t1tiwo) | 2:28 | 2024-10-27 |  |
 | [Glow \(feat\. Royal 44\)](https://open.spotify.com/track/3eO9L6VaAiXmX1s59uD3b1) | [Xwally](https://open.spotify.com/artist/1bJudkGbYinY2AIQeEi9Cd), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [XARCHIVE](https://open.spotify.com/album/4cP3cA5rtTkXi5iIDrfwaW) | 3:25 | 2023-02-24 | 2023-09-08 |
 | [Go \(Feat\. Jay Park\)](https://open.spotify.com/track/10vaWkTHEGPfSkiH9Z7Ndk) | [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SKANDALOUZ 2](https://open.spotify.com/album/0Zcd58EPivpLZZPR38UTnN) | 3:32 | 2024-06-28 | 2024-10-24 |
 | [Go \(Prod\. GIRIBOY\)](https://open.spotify.com/track/3os9pSsg1aiL9sds6vFr8h) | [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [Fleeky Bang](https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:01 | 2023-01-02 | 2023-06-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 41220,
+  "num_followers": 41256,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Locomotiva Ibiza 2099 II",
-        "url": "https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm"
-      },
-      "artists": [
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        },
-        {
-          "name": "Artisian",
-          "url": "https://open.spotify.com/artist/2qO4AfWBnBCnbaNxZIR1I7"
-        }
-      ],
-      "duration_ms": 303230,
-      "name": "Estribeira",
-      "url": "https://open.spotify.com/track/2GhTcfg03sFW9FxOeCqayc"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Reso Riddim EP",
         "url": "https://open.spotify.com/album/1uurwcKOxS5fiY464eOmo0"
       },
@@ -1163,6 +1143,42 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Locomotiva Ibiza 2099 II",
+        "url": "https://open.spotify.com/album/6nIry8iPceW6XDXT8UTSUm"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        },
+        {
+          "name": "Artisian",
+          "url": "https://open.spotify.com/artist/2qO4AfWBnBCnbaNxZIR1I7"
+        }
+      ],
+      "duration_ms": 303230,
+      "name": "Estribeira",
+      "url": "https://open.spotify.com/track/2GhTcfg03sFW9FxOeCqayc"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Handle This",
         "url": "https://open.spotify.com/album/6tmRX0XkPnjjktAjYyiV7N"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Running from the Noise (Edit)",
         "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Rave Culture",
-        "url": "https://open.spotify.com/album/1IM6gMFOAjeklNpPOR3yHX"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        }
-      ],
-      "duration_ms": 381818,
-      "name": "Rave Culture",
-      "url": "https://open.spotify.com/track/54bX2wKc8t8eRZnJbGPp0g"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "Rave Culture",
+        "url": "https://open.spotify.com/album/1IM6gMFOAjeklNpPOR3yHX"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 381818,
+      "name": "Rave Culture",
+      "url": "https://open.spotify.com/track/54bX2wKc8t8eRZnJbGPp0g"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Whatchagonnado EP",
         "url": "https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "In You",
-        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 373920,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/6ywoB9hVatWArPteOqzH1a"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 200625,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/4l7tyaNeztF51PePtqyezc"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "In You",
+        "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 373920,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
+        "name": "SIMPLE ONE",
+        "url": "https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV"
+      },
+      "artists": [
+        {
+          "name": "ChaseWest",
+          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "SIMPLE ONE",
+      "url": "https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
         "name": "Don't Stahp (Edit)",
         "url": "https://open.spotify.com/album/7kvoJUmOb7LmrzNknTsX4D"
       },
@@ -1623,38 +1639,6 @@
     {
       "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "Teki Teki",
-        "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
-      },
-      "artists": [
-        {
-          "name": "Ishimaru",
-          "url": "https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "Teki Teki",
-      "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "SIMPLE ONE",
-        "url": "https://open.spotify.com/album/6JD65vVCXYIbdc6LAp4EGV"
-      },
-      "artists": [
-        {
-          "name": "ChaseWest",
-          "url": "https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "SIMPLE ONE",
-      "url": "https://open.spotify.com/track/7IfSrPPESiPzPDwHBllPVf"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
         "name": "Fakez",
         "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 271200,
       "name": "Fakez",
       "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Teki Teki",
+        "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
+      },
+      "artists": [
+        {
+          "name": "Ishimaru",
+          "url": "https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "Teki Teki",
+      "url": "https://open.spotify.com/track/7kqRcKrVTkBngaePmZ9CJR"
     },
     {
       "added_at": "2024-10-25 04:00:00",

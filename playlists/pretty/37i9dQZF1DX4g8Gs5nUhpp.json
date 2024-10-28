@@ -1,12 +1,12 @@
 {
   "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: Ho\u00e0ng D\u0169ng",
-  "num_followers": 173659,
+  "num_followers": 173674,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxjzUAAAAAALNWGonTYCkjIDzM/Stfd2",
+  "snapshot_id": "Zx4h+gAAAAC9LZV6I3FWMrDM4HHdPzpo",
   "tracks": [
     {
       "added_at": "2024-10-23 13:00:00",
@@ -55,26 +55,6 @@
     {
       "added_at": "2024-10-23 13:00:00",
       "album": {
-        "name": "LA B\u00c0N",
-        "url": "https://open.spotify.com/album/2CbMaILGMALRPOZmayjiYD"
-      },
-      "artists": [
-        {
-          "name": "Ho\u00e0ng D\u0169ng",
-          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
-        },
-        {
-          "name": "Pixel Neko",
-          "url": "https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7"
-        }
-      ],
-      "duration_ms": 186550,
-      "name": "LA B\u00c0N",
-      "url": "https://open.spotify.com/track/5G8D7sPL8mUhrNOm5jC3Sm"
-    },
-    {
-      "added_at": "2024-10-23 13:00:00",
-      "album": {
         "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
         "url": "https://open.spotify.com/album/493DApdcbUofbYUTNvHySe"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
+    },
+    {
+      "added_at": "2024-10-23 13:00:00",
+      "album": {
+        "name": "LA B\u00c0N",
+        "url": "https://open.spotify.com/album/2CbMaILGMALRPOZmayjiYD"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng D\u0169ng",
+          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
+        },
+        {
+          "name": "Pixel Neko",
+          "url": "https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7"
+        }
+      ],
+      "duration_ms": 186550,
+      "name": "LA B\u00c0N",
+      "url": "https://open.spotify.com/track/5G8D7sPL8mUhrNOm5jC3Sm"
     },
     {
       "added_at": "2024-10-23 13:00:00",

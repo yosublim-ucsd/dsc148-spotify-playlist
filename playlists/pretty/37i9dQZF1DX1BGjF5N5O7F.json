@@ -1,6 +1,6 @@
 {
   "description": "sensual roots & indie folk.",
-  "num_followers": 550004,
+  "num_followers": 549978,
   "original_name": "intertwined",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-05 21:12:54",
       "album": {
-        "name": "Take Care of Yourself",
-        "url": "https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo"
-      },
-      "artists": [
-        {
-          "name": "Le Siren",
-          "url": "https://open.spotify.com/artist/2S3JqbYUGXlM10ljtBH1wC"
-        }
-      ],
-      "duration_ms": 157802,
-      "name": "Burnt Sage",
-      "url": "https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz"
-    },
-    {
-      "added_at": "2024-07-05 21:12:54",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 331266,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/7FUxSlW3F4vih5wMVv4Yh4"
+    },
+    {
+      "added_at": "2024-07-05 21:12:54",
+      "album": {
+        "name": "Take Care of Yourself",
+        "url": "https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo"
+      },
+      "artists": [
+        {
+          "name": "Le Siren",
+          "url": "https://open.spotify.com/artist/2S3JqbYUGXlM10ljtBH1wC"
+        }
+      ],
+      "duration_ms": 157802,
+      "name": "Burnt Sage",
+      "url": "https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz"
     },
     {
       "added_at": "2024-07-05 21:12:54",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-07-05 21:12:54",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
-    },
-    {
-      "added_at": "2024-07-05 21:12:54",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/6YYarhAfY1nBoYsDichIts"
       },
@@ -807,18 +791,34 @@
     {
       "added_at": "2024-07-05 21:12:54",
       "album": {
-        "name": "Carrying Stars (Bonus Version)",
-        "url": "https://open.spotify.com/album/7w1hkVKmKxc01FyHDWnMre"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
       },
       "artists": [
         {
-          "name": "Nikolaj Grandjean",
-          "url": "https://open.spotify.com/artist/1ggbWttqLqXwrJTtYMtna9"
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
         }
       ],
-      "duration_ms": 226320,
-      "name": "Uncuff Me",
-      "url": "https://open.spotify.com/track/4Xv1crOLCZIuWDRW4d7ePJ"
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
+    },
+    {
+      "added_at": "2024-07-05 21:12:54",
+      "album": {
+        "name": "Path of Least Resistance",
+        "url": "https://open.spotify.com/album/6JXDyA1oQ7KETUndJDu6f2"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 170897,
+      "name": "Path of Least Resistance",
+      "url": "https://open.spotify.com/track/54nZbMoe196usom085LA0X"
     }
   ],
   "unique_name": "intertwined",

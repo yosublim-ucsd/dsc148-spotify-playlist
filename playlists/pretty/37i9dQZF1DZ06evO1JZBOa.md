@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,451 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,453 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 24 | [New Bell](https://open.spotify.com/track/32CdxI1J7RuzQSE4A9AnbV) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 6:48 |
 | 25 | [Reggae Makossa](https://open.spotify.com/track/7yVaY0KgC79HynS5qJPJ72) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 6:36 |
 | 26 | [Walking to Waza](https://open.spotify.com/track/3VpzSUaFT1vywhVgJNsqxU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 4:02 |
-| 27 | [Emma \(feat\. Salif Keita\)](https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:54 |
-| 28 | [Lagos Go Slow](https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Woodoo](https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv) | 3:50 |
+| 27 | [Lagos Go Slow](https://open.spotify.com/track/0JQSknccRupmf6K8UPfCWl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Woodoo](https://open.spotify.com/album/3KoCNy8UEBuCcrz5GLFHiv) | 3:50 |
+| 28 | [Emma \(feat\. Salif Keita\)](https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:54 |
 | 29 | [Tek Time](https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Gone Clear \(The Complete Kingston Sessions\)](https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt) | 7:00 |
 | 30 | [Night In Zeralda](https://open.spotify.com/track/6KBQ2SXkZeMRb72ch5XXJ3) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 4:36 |
 | 31 | [Monkey Beat](https://open.spotify.com/track/6kwVRmLm8vdgd5sXMFLTt7) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:42 |
 | 32 | [Les garçons ne pleurent pas](https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Taciturne](https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC) | 4:34 |
 | 33 | [Africa Boogie](https://open.spotify.com/track/2G7bPzKZl4pQjn1OalcIuQ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Waka Juju](https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh) | 4:16 |
 | 34 | [Wouri](https://open.spotify.com/track/69WLiFnG9CHtdh2ngmzNpE) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Best Of](https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV) | 3:16 |
-| 35 | [Goro City](https://open.spotify.com/track/2MduGlWbGQfy1RaYe0L2tZ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [À La Jamaïque](https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT) | 8:34 |
+| 35 | [Salvamm' o munno \- 2024 Remaster](https://open.spotify.com/track/07nEudDeniMFVGWSmjTx8X) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Bottari](https://open.spotify.com/artist/5REMQdXJQ6H1R3Od8I5dtF), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Salvamm 'o munno \(20th Anniversary\)](https://open.spotify.com/album/6tLQig0rGAwnlSm0u72eKF) | 3:52 |
 | 36 | [Diarabi \(feat\. Bonga, Touré Kunda\)](https://open.spotify.com/track/2UMCl2uPMWVoylBBOAjkqG) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Bonga](https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 4:58 |
-| 37 | [Salvamm' o munno \- 2024 Remaster](https://open.spotify.com/track/07nEudDeniMFVGWSmjTx8X) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO), [Bottari](https://open.spotify.com/artist/5REMQdXJQ6H1R3Od8I5dtF), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Salvamm 'o munno \(20th Anniversary\)](https://open.spotify.com/album/6tLQig0rGAwnlSm0u72eKF) | 3:52 |
+| 37 | [Goro City](https://open.spotify.com/track/2MduGlWbGQfy1RaYe0L2tZ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [À La Jamaïque](https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT) | 8:34 |
 | 38 | [Kwele](https://open.spotify.com/track/77mPkxBLi0zaYGorJTWs9Y) | [James BKS](https://open.spotify.com/artist/4BiG83KS9YKZsNAvtmmjiV), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Wolves of Africa \(Part 1/2\)](https://open.spotify.com/album/1akHGNTcQLSYfW9absfZul) | 3:21 |
 | 39 | [Qui Est Fou De Qui? \- Chouchou](https://open.spotify.com/track/24yVlN5kOcPLzAe0nuZ9p5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 4:01 |
 | 40 | [Big Blow](https://open.spotify.com/track/7McyuC2aBOHuISZDaV5vNK) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Seventie's](https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP) | 5:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JZBOa.md) - [plain]
 | 49 | [Cielito Lindo](https://open.spotify.com/track/4QXE4rSr52gCAgloBpo78L) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Cuarteto Patria](https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG) | [Cubafrica](https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z) | 3:14 |
 | 50 | [Over the rainbow](https://open.spotify.com/track/3TWknpjYfEiYxnI0Ki8bAU) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Ballad Emotion](https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX) | 3:51 |
 
-Snapshot ID: `ZxrfgAAAAAAej2B2xNnsIDaDavMw0AHj`
+Snapshot ID: `ZxwxAAAAAAA7PYIbjyoQ7V1GSf2V/i1X`

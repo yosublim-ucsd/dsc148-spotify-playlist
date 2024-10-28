@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-12",
-  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Park Ki Young(\ubc15\uae30\uc601)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Hong Jin Ho(\ud64d\uc9c4\ud638)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "Classics Korea",
   "tracks": [
     {
@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348446,
+      "name": "Cello Forest",
+      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
+    },
+    {
+      "album": {
         "name": "White Night",
         "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
       },
@@ -946,7 +964,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-21",
+      "date_removed": null,
       "duration_ms": 293409,
       "name": "Crying for Love",
       "url": "https://open.spotify.com/track/017DPfnKqKlln2ppPS6cQz"
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 628546,
       "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
       "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 347080,
       "name": "Piano Sonata No. 8 in E-Flat Major, D. 568: II. Andante molto",
       "url": "https://open.spotify.com/track/5OsaAWJPbbVeEz8jN9TFT9"
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 507120,
       "name": "Sonata for Violin and Piano in A, D. 574 - I. Allegro moderato",
       "url": "https://open.spotify.com/track/2ThAvQYyd3ZqXhXLQfZ0Qa"
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 169853,
       "name": "Tosca, SC 69, Act I: Recondita armonia",
       "url": "https://open.spotify.com/track/1fPMSIOJRNZLqhEitUupuk"
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 231360,
       "name": "Two Pieces for Cello and Piano, Op.2 : I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/6zI5QVxrwU3rOl03Ao5vzb"
@@ -3038,6 +3056,24 @@
       "duration_ms": 145973,
       "name": "when it snows in May",
       "url": "https://open.spotify.com/track/26EiFb8JMXdwKWCkT4cc6Q"
+    },
+    {
+      "album": {
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195283,
+      "name": "When We Meet Again",
+      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
     },
     {
       "album": {

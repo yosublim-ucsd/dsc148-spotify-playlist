@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 117329,
+  "num_followers": 117343,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAAANqs/AhLs4Jyel4RIrX3ek",
+  "snapshot_id": "ZxwxAAAAAAAWfGVM4VnE7vvdLY2+EwMo",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "Does That Blue Moon Ever Shine On You",
+      "url": "https://open.spotify.com/track/4qjQGcyqNd6fKWFADrdFRF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "License to Chill",
         "url": "https://open.spotify.com/album/2NXJVffjFFrlAKHQtoUXmg"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 183293,
       "name": "Hey Good Lookin'",
       "url": "https://open.spotify.com/track/2TSc7ee1OQPb4tuXsi2X7W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "Does That Blue Moon Ever Shine On You",
-      "url": "https://open.spotify.com/track/4qjQGcyqNd6fKWFADrdFRF"
     },
     {
       "added_at": null,

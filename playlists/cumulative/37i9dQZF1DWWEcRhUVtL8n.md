@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Faye Webster
 
-1,988 songs - 4 day 9 hr 4 min
+1,990 songs - 4 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-18 | 2022-09-02 |
 | [Anything Could Happen](https://open.spotify.com/track/7cdS2ZpDLR4kOug7FrRssx) | [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z) | [Anything Could Happen](https://open.spotify.com/album/5aBYZUmWL1v3mmk3Ji3M9Y) | 3:27 | 2021-03-16 | 2021-10-13 |
 | [Appetite](https://open.spotify.com/track/5VbH21TVJrKIsDpNbpTi7B) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PETROL BLOOM](https://open.spotify.com/album/2dAk99NhCCyRdko6BPPe9q) | 3:32 | 2020-12-08 | 2021-05-26 |
+| [Aquamarine](https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Aquamarine](https://open.spotify.com/album/1beK8FLMznalelPYVW3ZeS) | 2:42 | 2024-10-25 |  |
 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 | 2024-10-11 |  |
 | [are we done yet?](https://open.spotify.com/track/1BdzvR20FObuU4AdB7EuTs) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [are we done yet?](https://open.spotify.com/album/42mnwpVIAIYSNXjgCKsyLu) | 4:01 | 2022-09-23 | 2022-10-08 |
 | [Are We Having Any Fun Yet?](https://open.spotify.com/track/63koRk9rszZKFiVLuhdo88) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [Are We Having Any Fun Yet?](https://open.spotify.com/album/11iKlt3QabcuCbewlu2xHj) | 3:17 | 2020-10-20 | 2021-10-22 |
@@ -351,7 +352,7 @@
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-14 |  |
 | [Claire](https://open.spotify.com/track/3hrwNjDxSbXdJGcAEO1nvn) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [Claire](https://open.spotify.com/album/7ewajiwNi8wLetuZvnWbS8) | 3:02 | 2024-08-23 |  |
 | [Classic](https://open.spotify.com/track/3nXCsRBwRBCJv8owAJnYQ0) | [Tori Templet](https://open.spotify.com/artist/7ulINFYFROOmdGxDhsjMqG) | [Classic](https://open.spotify.com/album/2PYKaf5p9Ot4IHx2MFkWUh) | 2:47 | 2020-11-17 | 2021-01-28 |
-| [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-05-03 |  |
+| [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 | 2024-05-03 | 2024-10-28 |
 | [Clean](https://open.spotify.com/track/2AmVGGu8jIgS7Kn3j6rB0K) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Clean](https://open.spotify.com/album/3ykmyLn6RefAdwzkllA5dr) | 3:08 | 2021-08-13 | 2022-07-29 |
 | [Cliché](https://open.spotify.com/track/2pBym9Ta4unUYYefC1qEjy) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN) | [Cliché](https://open.spotify.com/album/7fL5UDmFr1IdZH3DNP5xhG) | 3:03 | 2021-07-29 | 2021-10-14 |
 | [Cliff Drive](https://open.spotify.com/track/12nBSOCCLxfmRlwNJg5zfp) | [The Sunshine State](https://open.spotify.com/artist/7fvI8ORZUF64qlb2GDcDQ7) | [Cliff Drive](https://open.spotify.com/album/1D41CViWI68S6RuDu3Wbzt) | 3:12 | 2020-11-10 | 2020-11-15 |
@@ -1421,6 +1422,7 @@
 | [Push It Down](https://open.spotify.com/track/2x8n3P1a78GjCtMDQfnwrW) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Push It Down](https://open.spotify.com/album/44jqOG7z7RVwI9WBXpOMe0) | 3:03 | 2021-08-25 | 2021-08-26 |
 | [Push Me Away](https://open.spotify.com/track/2o1JACZB8lpw7lkXlE3QYf) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Push Me Away](https://open.spotify.com/album/4hlNGJ1p7zNa009uiFFFSQ) | 2:44 | 2021-05-03 | 2021-10-12 |
 | [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 | 2024-03-15 | 2024-05-04 |
+| [Pushing Daisies](https://open.spotify.com/track/5UUttIrxWcB5IZER2LfQpl) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Pushing Daisies](https://open.spotify.com/album/1CFppXbRFmw8INpeQQMfQc) | 3:27 | 2024-10-25 |  |
 | [Put It All On Me](https://open.spotify.com/track/3EppIsAu2pgwtXTAgmN2jP) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Put It All On Me](https://open.spotify.com/album/4CvCGMHdOUXT4gi1kz9Jwm) | 3:16 | 2020-10-20 | 2020-10-21 |
 | [PWR](https://open.spotify.com/track/7N2hQ47vk6s35F1rSoodDm) | [Grand Pax](https://open.spotify.com/artist/7KN4ibZ3dD1ey3lfo3ojQt) | [PWR](https://open.spotify.com/album/39w0JS1MaVbfgz6g5YcxbN) | 3:22 | 2021-02-28 | 2021-05-23 |
 | [Queen](https://open.spotify.com/track/4rPzJZqLHE1b5rx6WbFvqe) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Queen](https://open.spotify.com/album/6RGVxi5a7hDGRSEnG1U0xt) | 3:16 | 2021-01-21 | 2021-04-03 |
@@ -1929,7 +1931,7 @@
 | [Who Am I Really Fooling Anyway](https://open.spotify.com/track/6cJZ8mEfST3enMQSUVSrSP) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Who Am I Really Fooling Anyway](https://open.spotify.com/album/0A0kiY3JBZNkvxDzEXPIcD) | 3:09 | 2022-05-20 | 2022-06-07 |
 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 | 2024-10-18 |  |
 | [WHO'S TO SAY](https://open.spotify.com/track/4lCZkfA7RnO0GPplH62e5Z) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [WHO'S TO SAY](https://open.spotify.com/album/7w8TdI8N8Iy2woALB59AwP) | 3:15 | 2023-03-31 | 2023-04-11 |
-| [Whole World](https://open.spotify.com/track/6l4d6IKVNSC6Ic9wbxv0Ai) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Whole World](https://open.spotify.com/album/277XEKE1geqVvUV3yCjoCS) | 3:04 | 2024-08-30 |  |
+| [Whole World](https://open.spotify.com/track/6l4d6IKVNSC6Ic9wbxv0Ai) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Whole World](https://open.spotify.com/album/277XEKE1geqVvUV3yCjoCS) | 3:04 | 2024-08-30 | 2024-10-28 |
 | [Why Did You Tell Me That You Loved Me?](https://open.spotify.com/track/62FVhzJNJZ0DsO0hhLu3f4) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn) | [Why Did You Tell Me That You Loved Me?](https://open.spotify.com/album/5pvDSgAqiFMntQpeiVXn6M) | 2:55 | 2021-02-22 | 2021-02-26 |
 | [why do i do that](https://open.spotify.com/track/74ghwSkVzbegV8Iv2Y2BqM) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc), [Chaos Canine](https://open.spotify.com/artist/2tZK5LSQQ3wuyWcHnI93NR) | [why do i do that](https://open.spotify.com/album/7DUt8tkbMVz0fBBLDqHWXf) | 2:24 | 2022-04-29 | 2022-05-12 |
 | [Why is everyone a DJ?](https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Why is everyone a DJ?](https://open.spotify.com/album/3yscJ56s1RNgZSZngqDBNa) | 2:28 | 2024-05-03 | 2024-06-22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 250306,
+  "num_followers": 250418,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAACwMjGhD3j4n3pfjbK6p/Ah",
+  "snapshot_id": "ZxwxAAAAAADgDjxSlx1XprdsKDMLvhjj",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volver a Ser",
+        "url": "https://open.spotify.com/album/1YAjbNfxw6lhZ0X2I2I4AQ"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 351589,
+      "name": "Volver a Ser",
+      "url": "https://open.spotify.com/track/3Fac6wn77bH534pIv3YAoU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Mexico Song",
         "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 213812,
       "name": "De Mexico Song",
       "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volver a Ser",
-        "url": "https://open.spotify.com/album/1YAjbNfxw6lhZ0X2I2I4AQ"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 351589,
-      "name": "Volver a Ser",
-      "url": "https://open.spotify.com/track/3Fac6wn77bH534pIv3YAoU"
     },
     {
       "added_at": null,
@@ -451,42 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Locofon\u00edas",
-        "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
-      },
-      "artists": [
-        {
-          "name": "TREN LOKOTE",
-          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 182700,
-      "name": "La Misi\u00f3n",
-      "url": "https://open.spotify.com/track/5fH4tV2DyGaKI0rIFewqQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Donde Se Pueda, Vol. 2",
-        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 316003,
-      "name": "Si Tuviera una Fortuna",
-      "url": "https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico 20s",
         "url": "https://open.spotify.com/album/4argPRWfGI3UkwodqRA7Um"
       },
@@ -507,6 +471,42 @@
       "duration_ms": 202597,
       "name": "No que no eras fan",
       "url": "https://open.spotify.com/track/3NPQw5kgc3U6nMIy7oXgPW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta Donde Se Pueda, Vol. 2",
+        "url": "https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 316003,
+      "name": "Si Tuviera una Fortuna",
+      "url": "https://open.spotify.com/track/0CjqRvsq5bClGoT5JCw9SS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Locofon\u00edas",
+        "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 182700,
+      "name": "La Misi\u00f3n",
+      "url": "https://open.spotify.com/track/5fH4tV2DyGaKI0rIFewqQ8"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seguimos Fumando",
+        "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 223301,
+      "name": "Como Borrar Tus Besos",
+      "url": "https://open.spotify.com/track/08QUmfGtqhkxXdBHcQb5U9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No te puedo olvidar",
         "url": "https://open.spotify.com/album/69sIAVejtXSmSZsO18V5Q8"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 214210,
       "name": "No te puedo olvidar",
       "url": "https://open.spotify.com/track/6nFI6MLsdCrRgK81aPOge6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seguimos Fumando",
-        "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 223301,
-      "name": "Como Borrar Tus Besos",
-      "url": "https://open.spotify.com/track/08QUmfGtqhkxXdBHcQb5U9"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No S\u00e9 Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 216058,
+      "name": "No S\u00e9 Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Locofon\u00edas",
         "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 360724,
       "name": "Liga Malandra",
       "url": "https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No S\u00e9 Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "No S\u00e9 Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
     },
     {
       "added_at": null,

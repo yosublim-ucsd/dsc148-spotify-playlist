@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAACOrW7LnqIClEPia/NQL69ZlW24ja",
+  "snapshot_id": "AAAACX1ymqE1GRPk35G1Yfnlm1JVK+yT",
   "tracks": [
     {
       "added_at": "2023-11-22 08:49:28",
@@ -71,6 +71,22 @@
       "duration_ms": 295960,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/3m4Q0H3PIlxlBjERC7zWh2"
+    },
+    {
+      "added_at": "2024-10-27 06:43:35",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "You Know What They Do to Guys Like Us in Prison",
+      "url": "https://open.spotify.com/track/5bTuwAgYUD5MABOIPH8ZMt"
     }
   ],
   "unique_name": "Clawing For It",

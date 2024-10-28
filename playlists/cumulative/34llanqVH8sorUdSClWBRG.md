@@ -4,7 +4,7 @@
 
 > Mental illness
 
-44 songs - 2 hr 26 min
+46 songs - 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [I'm Going Slightly Mad](https://open.spotify.com/track/0sA5xCFx2bF3jrz5Y5r0m1) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Innuendo](https://open.spotify.com/album/5yAM3CcaXF6DPRJW3oL6Ya) | 4:22 | 2023-08-16 |  |
 | [I'm Gonna Win](https://open.spotify.com/track/6bWP2PGRjyRjbHTdnMRDk9) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Not a Trampoline](https://open.spotify.com/album/1Y5i7JllvK9heVzVfcEyIE) | 2:38 | 2023-07-04 |  |
 | [I'm Not Ok](https://open.spotify.com/track/17weS3aO2oaGYJ9Q9yM56X) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Kids In The Night](https://open.spotify.com/album/2Qq8f0QWdoBSxk2pxjEQmH) | 3:01 | 2024-02-19 |  |
+| [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 | 2024-10-27 |  |
 | [I\`m OK](https://open.spotify.com/track/6bkzn3e9gtiP0xJTJnQ2eM) | [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [I\`m OK](https://open.spotify.com/album/2WfSPgV1Bm4RWhP9cEG622) | 3:07 | 2024-10-09 |  |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2024-01-02 |  |
 | [McCafferty's Bib](https://open.spotify.com/track/65WSrB4IuSAcdAMdbHdjX8) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [I Like Fun](https://open.spotify.com/album/0NphwDR3zIVfULKcBDQ9Ap) | 2:35 | 2023-03-26 |  |
@@ -46,6 +47,7 @@
 | [The Show Must Go On \- Remastered 2011](https://open.spotify.com/track/1jiOzPL9XnIuDemSMsuFmP) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits In Japan](https://open.spotify.com/album/5IDp4migjsVDqsTXFczTX2) | 4:32 | 2023-03-21 |  |
 | [The Wolf](https://open.spotify.com/track/1ZreCbCSHpRcvqYpXlxnYC) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [BOUNCE INTO THE MUSIC](https://open.spotify.com/album/4awqk2I0x3WC8XjNBNxvcI) | 3:06 | 2023-10-28 |  |
 | [there is a rock in my house](https://open.spotify.com/track/7r4beojXQxicLWkBh32idX) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [there is a rock in my house](https://open.spotify.com/album/5UD6aBZuA7ajJjsoD5hJMQ) | 1:50 | 2023-03-28 |  |
+| [Vampires Will Never Hurt You](https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 5:26 | 2024-10-27 |  |
 | [Wait Actually Yeah No](https://open.spotify.com/track/2iXItGd5Z7N8UyljFsS3nt) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [BOOK](https://open.spotify.com/album/5QbnWsYJtws83X3yXSOKkH) | 3:20 | 2023-03-26 |  |
 | [Where Do I Sign?](https://open.spotify.com/track/5Myf2whTzO5haXrfeisXG8) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Are We Having Fun?](https://open.spotify.com/album/1wgbdPdJF3G4EvsA289x5g) | 3:11 | 2024-02-19 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/5cOM0fTHceCkJVwuyHdMnk) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:20 | 2024-10-08 |  |

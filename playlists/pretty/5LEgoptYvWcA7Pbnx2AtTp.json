@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAsL7Nrt3GpUlnwKTCTRhbsCz5nxqd",
+  "snapshot_id": "AAAAs9ZaoXLERRJmqkRFrmAKaMu49opN",
   "tracks": [
     {
       "added_at": "2022-05-06 11:09:16",
@@ -2195,6 +2195,54 @@
       "duration_ms": 282746,
       "name": "Hot for Teacher - 2015 Remaster",
       "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
+    },
+    {
+      "added_at": "2024-10-27 13:09:14",
+      "album": {
+        "name": "Yellow Submarine Songtrack",
+        "url": "https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "Hey Bulldog",
+      "url": "https://open.spotify.com/track/4epbwW20tHuF9Q6FufAn7Y"
+    },
+    {
+      "added_at": "2024-10-27 13:27:28",
+      "album": {
+        "name": "A Space in Time (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "I'd Love to Change the World - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66"
+    },
+    {
+      "added_at": "2024-10-27 14:46:40",
+      "album": {
+        "name": "AniCast",
+        "url": "https://open.spotify.com/album/59PNAB2nCZNVzvE793UE1I"
+      },
+      "artists": [
+        {
+          "name": "AniCast",
+          "url": "https://open.spotify.com/show/59PNAB2nCZNVzvE793UE1I"
+        }
+      ],
+      "duration_ms": 150762,
+      "name": "Giorno's Theme (Jay D Remix by JoRoYT)",
+      "url": "https://open.spotify.com/episode/2RwtULDIIem7Q7ENpMaKxo"
     }
   ],
   "unique_name": "Questionable Bops",

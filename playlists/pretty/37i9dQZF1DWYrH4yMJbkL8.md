@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Snotty Nose Rez Kids.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,888 likes - 25 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,885 likes - 25 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 2 | [Shine](https://open.spotify.com/track/2OiOmEpi56bXb6o00zMdzf) | [Travis Thompson](https://open.spotify.com/artist/6WZfEqqsYujHTUDuNd5Lbc) | [Rez Ball \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1EtlTCulJqpIJtkGYEpR8A) | 2:28 |
 | 3 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 |
 | 4 | [Good Day$ \(7 Nightz\)](https://open.spotify.com/track/2FloWetdZhAaMWFDRiXP4l) | [NorthSideBaby](https://open.spotify.com/artist/0l9tQsNc6OdBFexHhjrI23) | [Good Day$ \(7 Nightz\)](https://open.spotify.com/album/30omYMPO7lA2MrFRBZgukO) | 3:16 |
-| 5 | [FREE \(feat\. Aysanabee, Drezus, Chief Rueben George\)](https://open.spotify.com/track/1w0Db8dEYlzMaPVD0MqF4j) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5), [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ), [Chief Rueben George](https://open.spotify.com/artist/6dRQUz3KSfxPIDqZcbBbYI) | [RED FUTURE](https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a) | 4:28 |
+| 5 | [FREE \(feat\. Aysanabee, Drezus & Chief Rueben George\)](https://open.spotify.com/track/1w0Db8dEYlzMaPVD0MqF4j) | [Snotty Nose Rez Kids](https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5), [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5), [Drezus](https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ), [Chief Rueben George](https://open.spotify.com/artist/6dRQUz3KSfxPIDqZcbBbYI) | [RED FUTURE](https://open.spotify.com/album/7445IRz5iyAR4DLwkZJD5a) | 4:28 |
 | 6 | [Somebody Else](https://open.spotify.com/track/7oPx8sHqaifEvFlqQ48CB2) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Somebody Else](https://open.spotify.com/album/475WKj7pnoZ1bjU9JLwcla) | 2:53 |
 | 7 | [Plastic Trees](https://open.spotify.com/track/39hfc0plEP0VxvduMz9oXZ) | [Tia Wood](https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC) | [Pretty Red Bird](https://open.spotify.com/album/4CVvKdcEb3rkac230DsOQB) | 2:40 |
 | 8 | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/track/7vjh9C0Dd2E9gm58AzWBy0) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Motewolonuwok](https://open.spotify.com/album/0GSKrVvb8FZlMfsBpTLFjL) | 3:42 |

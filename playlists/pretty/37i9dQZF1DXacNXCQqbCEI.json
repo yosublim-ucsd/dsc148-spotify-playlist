@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 353910,
+  "num_followers": 353926,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Tranquillitas",
-        "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
+        "name": "Sonic Forest",
+        "url": "https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
         },
         {
-          "name": "Wabi Sabi",
-          "url": "https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Nidia Gongora",
+          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
         }
       ],
-      "duration_ms": 373333,
-      "name": "Mojanda (feat. Wabi Sabi)",
-      "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
+      "duration_ms": 169094,
+      "name": "Sonic Forest (D\u00e9jame Respirar)",
+      "url": "https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -107,26 +111,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Sonic Forest",
-        "url": "https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6"
+        "name": "Tranquillitas",
+        "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
       },
       "artists": [
         {
-          "name": "Monte",
-          "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
         },
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Nidia Gongora",
-          "url": "https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8"
+          "name": "Wabi Sabi",
+          "url": "https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS"
         }
       ],
-      "duration_ms": 169094,
-      "name": "Sonic Forest (D\u00e9jame Respirar)",
-      "url": "https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3"
+      "duration_ms": 373333,
+      "name": "Mojanda (feat. Wabi Sabi)",
+      "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/2Fqn3yj8vWJKUK6fXaLd3w"
       },
@@ -351,38 +367,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Conciencia",
-        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
-      },
-      "artists": [
-        {
-          "name": "La Payara",
-          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Bogot\u00e1",
-      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Astra",
         "url": "https://open.spotify.com/album/4OAUrKQYGBtbThIVRIAVQx"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 313198,
       "name": "Sin Freno",
       "url": "https://open.spotify.com/track/24drvQN3WTdQE2wzR37GAb"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Conciencia",
+        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
+      },
+      "artists": [
+        {
+          "name": "La Payara",
+          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Como Lo Ped\u00ed",
-      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
       },
@@ -495,22 +475,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "DANZAAA",
-        "url": "https://open.spotify.com/album/5qTwb1KGly0bTI9KhBr1OT"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct"
       },
       "artists": [
         {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         },
         {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
         }
       ],
-      "duration_ms": 210989,
-      "name": "CACHITO",
-      "url": "https://open.spotify.com/track/1mTsiEqpM76pUo1nn8bkGz"
+      "duration_ms": 245280,
+      "name": "Como Lo Ped\u00ed",
+      "url": "https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -563,6 +543,26 @@
       "duration_ms": 319169,
       "name": "Mu\u00ed\u00f1o",
       "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "DANZAAA",
+        "url": "https://open.spotify.com/album/5qTwb1KGly0bTI9KhBr1OT"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        },
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "CACHITO",
+      "url": "https://open.spotify.com/track/1mTsiEqpM76pUo1nn8bkGz"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -627,22 +627,6 @@
       "duration_ms": 194531,
       "name": "La Que Es",
       "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Varias Dudas Despu\u00e9s",
-        "url": "https://open.spotify.com/album/34fVndRedzzRL0wCMNeavG"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00fa",
-          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Me Recordaras",
-      "url": "https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -763,6 +747,22 @@
       "duration_ms": 228754,
       "name": "Olv\u00eddame",
       "url": "https://open.spotify.com/track/0S7YJBN4QRwXLLRTAhlhew"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Varias Dudas Despu\u00e9s",
+        "url": "https://open.spotify.com/album/34fVndRedzzRL0wCMNeavG"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00fa",
+          "url": "https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Me Recordaras",
+      "url": "https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "El Cafetal",
+        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 244660,
+      "name": "El Cafetal",
+      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Corriente EP",
         "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
       },
@@ -1079,6 +1095,22 @@
       "duration_ms": 179634,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "El Corredor Del Jaguar",
+        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 199799,
+      "name": "Frio Severo",
+      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1103,46 +1135,6 @@
       "duration_ms": 287903,
       "name": "Ultravioleta - DJ Raff Remix",
       "url": "https://open.spotify.com/track/5yoxKVZ1cqiB0ocI03iFeq"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Las Mellas (Cerrero Dub Mix)",
-        "url": "https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC"
-      },
-      "artists": [
-        {
-          "name": "Los Gaiteros de San Jacinto",
-          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
-        },
-        {
-          "name": "Carmelo Torres",
-          "url": "https://open.spotify.com/artist/5Ylr6KUaImTujMNIhxtCSi"
-        },
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        }
-      ],
-      "duration_ms": 271335,
-      "name": "Las Mellas - Cerrero Dub Mix",
-      "url": "https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "El Cafetal",
-        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 244660,
-      "name": "El Cafetal",
-      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

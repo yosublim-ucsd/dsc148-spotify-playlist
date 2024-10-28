@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-242 songs - 10 hr 33 min
+243 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Benzin](https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Benzin](https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R) | 1:56 | 2024-01-04 | 2024-04-22 |
 | [Beverly Hills](https://open.spotify.com/track/5ZfR2ZsJrBJpLIMsN7zMIn) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Beverly Hills](https://open.spotify.com/album/7hSjecsWNsaLrypYmc0tN5) | 3:08 | 2024-05-30 | 2024-06-10 |
 | [BIG BANDZ](https://open.spotify.com/track/5QYc0tl5ZAz8I7lMmlCuYJ) | [Rvzeli](https://open.spotify.com/artist/1ufmj2rsu21unXQ7C6naYy), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BIG BANDZ](https://open.spotify.com/album/38HjO1arCoX18hmmBSoR8c) | 2:31 | 2023-10-26 | 2023-11-11 |
+| [BIPOLAR](https://open.spotify.com/track/1K1MXnB7zbeouWZ0B6wlsf) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:50 | 2024-10-24 |  |
 | [Birken](https://open.spotify.com/track/481nGipeRBS6wgMO6sMnfI) | [M4](https://open.spotify.com/artist/0bqmtof2t8iOEZxZXeqSib), [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Birken](https://open.spotify.com/album/6QtYBxelHBopL9DwsJYX9v) | 3:08 | 2024-04-27 | 2024-07-19 |
 | [BLANCO](https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BLANCO](https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2) | 2:15 | 2023-09-21 |  |
 | [Blicky](https://open.spotify.com/track/5U0ndjpjzmT1aoLr3pB4zO) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Blicky](https://open.spotify.com/album/5k2auh0NC6uVPr1HsxHlTl) | 2:28 | 2024-05-30 | 2024-09-27 |
@@ -54,7 +55,7 @@
 | [Cuando Menos Lo Espera](https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Menos Lo Espera](https://open.spotify.com/album/5I4I0k75uiUnqyJvh7vxLC) | 3:00 | 2023-09-21 | 2024-03-01 |
 | [Daddy Issues \(feat\. Simon Superti\)](https://open.spotify.com/track/60268qveqkO0vl7xmGdmHL) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [BABA IVO](https://open.spotify.com/album/00P9bSwLKrj72bkf0gnaqU) | 2:29 | 2024-02-29 | 2024-04-26 |
 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 | 2023-09-21 |  |
-| [Dansar Med Demoner](https://open.spotify.com/track/013JhskiJZIa42WVsTgdmy) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp) | [Dansar Med Demoner](https://open.spotify.com/album/4PU3aoHJOvRwquYTLT3Ru5) | 3:56 | 2024-09-19 |  |
+| [Dansar Med Demoner](https://open.spotify.com/track/013JhskiJZIa42WVsTgdmy) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp) | [Dansar Med Demoner](https://open.spotify.com/album/4PU3aoHJOvRwquYTLT3Ru5) | 3:56 | 2024-09-19 | 2024-10-28 |
 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 | 2023-09-21 | 2023-09-29 |
 | [DEJA VU](https://open.spotify.com/track/1lIAdiuji8iJXGHOdAGCj7) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a) | [ALT DET HER FOR HVA?](https://open.spotify.com/album/6QxpsJgAPM242CqMshoHW3) | 2:19 | 2023-10-19 | 2023-11-11 |
 | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567) | [AVGVSTVS](https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr) | [Det Regner Penger \(Allez Allez\)](https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k) | 1:33 | 2024-02-22 |  |

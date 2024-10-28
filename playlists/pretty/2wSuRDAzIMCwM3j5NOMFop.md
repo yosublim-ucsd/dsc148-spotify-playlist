@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 
 > Fucked up and evil\. What an absolute bop.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 39 songs - 2 hr 2 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,6 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 | 37 | [One by One](https://open.spotify.com/track/6JyqoYZzjE6L50iDC5SbhB) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [One by One](https://open.spotify.com/album/6Rac9Az8RQyXqodgu2ispe) | 2:52 |
 | 38 | [Mania](https://open.spotify.com/track/1GAj3Wxx6TXZMyLPCB5cQd) | [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/artist/4rChEc17dTzO2ep7yajKfy), [Gloom Darkheart](https://open.spotify.com/artist/2vIH8aDm7FlN5d1raMzfPt) | [Mania](https://open.spotify.com/album/2G6u4UcRes928vUNBT4dE7) | 3:33 |
 | 39 | [The Dismemberment Song](https://open.spotify.com/track/0HsOPviUHT6VVZWhjkAoZm) | [Blue Kid](https://open.spotify.com/artist/6CcuV6ZeqjmIzO5IG0PwPN) | [Upright, Love](https://open.spotify.com/album/4nheUSxaxK65SnLoLCM9cd) | 4:36 |
+| 40 | [I Never Told You What I Do for a Living](https://open.spotify.com/track/6gLn8QhAYL4dEwdpVjfCPl) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:52 |
 
-Snapshot ID: `AAAALSKUme1E7QMrJL6ZzILT3ksqeSoG`
+Snapshot ID: `AAAALj+5UiGgiAJWeKFd9TZQto9cQ5MQ`

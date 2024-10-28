@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Hoàng Dũng
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,659 likes - 56 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,674 likes - 56 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bầu Trời Mới](https://open.spotify.com/track/49kZuPsl8pXRJJGHmwRuW7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Bầu Trời Mới](https://open.spotify.com/album/5Sde3witydNsarGlkHYAtm) | 4:22 |
 | 2 | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 |
-| 3 | [LA BÀN](https://open.spotify.com/track/5G8D7sPL8mUhrNOm5jC3Sm) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [LA BÀN](https://open.spotify.com/album/2CbMaILGMALRPOZmayjiYD) | 3:06 |
-| 4 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/5SUXc3Xe4GaWyDo45v6Lea) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/493DApdcbUofbYUTNvHySe) | 3:53 |
-| 5 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
+| 3 | [Dù Cho Mai Về Sau](https://open.spotify.com/track/5SUXc3Xe4GaWyDo45v6Lea) | [buitruonglinh](https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm) | [Dù Cho Mai Về Sau](https://open.spotify.com/album/493DApdcbUofbYUTNvHySe) | 3:53 |
+| 4 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
+| 5 | [LA BÀN](https://open.spotify.com/track/5G8D7sPL8mUhrNOm5jC3Sm) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74), [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7) | [LA BÀN](https://open.spotify.com/album/2CbMaILGMALRPOZmayjiYD) | 3:06 |
 | 6 | [PHÓNG ZÌN ZÌN](https://open.spotify.com/track/3COYA2vgfcUhDyRlVpZy5p) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [FLVR](https://open.spotify.com/album/71L9y03HASgkNoYodycslE) | 3:22 |
 | 7 | [Ngày Đẹp Trời Để Nói Chia Tay](https://open.spotify.com/track/3Alwi53Ahc2GwHgvel42b2) | [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Ngày Đẹp Trời Để Nói Chia Tay](https://open.spotify.com/album/3iFlB14QgBcKFkaChZ9cYq) | 3:40 |
 | 8 | [Say Yes \(Vietnamese Version\)](https://open.spotify.com/track/7mbWwlHgukuuW8r7Nc3FHv) | [Chọn gì? Chọn đi!](https://open.spotify.com/artist/61ydMyohF67xBZmWSPA3YQ), [OgeNus](https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p), [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54) | [Chọn Gì? Chọn Đi! Mùa 1](https://open.spotify.com/album/27m2MtfhK5YMZyCzZft8Xr) | 3:43 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 55 | [Đi Tìm Tình Yêu](https://open.spotify.com/track/4cdlZnUEuT8EYisPQkf01g) | [MONO](https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Đi Tìm Tình Yêu](https://open.spotify.com/album/2bFVJWOCPsgeAWCf55diYO) | 3:23 |
 | 56 | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/album/6TnmFHbUYVfe4iuQjPQB2r) | 4:39 |
 
-Snapshot ID: `ZxjzUAAAAAALNWGonTYCkjIDzM/Stfd2`
+Snapshot ID: `Zx4h+gAAAAC9LZV6I3FWMrDM4HHdPzpo`

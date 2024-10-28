@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-661 songs - 2 day 17 hr 3 min
+662 songs - 2 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Cloud 9](https://open.spotify.com/track/6PCkmEG2qnLbewSW1cN1rD) | [Irajá](https://open.spotify.com/artist/4FMTGkOjozsv1N6aMiR6nw), [Black Box](https://open.spotify.com/artist/7IHGC6y8NjBwwWhWCF2lKR), [Luc Rushmere](https://open.spotify.com/artist/7IfsuGH0v0gCTz4e5ZSD1p) | [Cloud 9](https://open.spotify.com/album/5pjdf866qmNg2RMMOC1np6) | 3:35 | 2022-10-28 | 2022-11-24 |
 | [Coffee](https://open.spotify.com/track/3Myu3hGDqQXZYqQRWtAqlv) | [Taglo](https://open.spotify.com/artist/4dQDfHDSlal2ceGhs4ZQTD) | [Coffee](https://open.spotify.com/album/75S36sAFceZXQrOo5X8GlV) | 5:59 | 2020-11-21 | 2021-02-27 |
 | [COL](https://open.spotify.com/track/3L5LIZs4OOxQrLNrwPUYAK) | [Circle of Life](https://open.spotify.com/artist/42RQg877YIAzBlaGWWGEPs) | [COL](https://open.spotify.com/album/3D2xhuW1DSLNxqdJzwWn7E) | 7:40 | 2021-02-23 | 2021-05-28 |
-| [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 | 2023-06-30 |  |
+| [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 | 2023-06-30 | 2024-10-28 |
 | [Come Together](https://open.spotify.com/track/7GA49BEANCELzwyBxQVxU1) | [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Together EP](https://open.spotify.com/album/6mCctpikauFgj3maH8BgBp) | 7:34 | 2020-04-26 | 2021-12-21 |
 | [COMFORT \- Florian Kruse Remix](https://open.spotify.com/track/3ml3Ua61sp0hcQIlsZ9QIP) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Florian Kruse](https://open.spotify.com/artist/7GhGgxIAhzJxZXvF1bEYZ8) | [TOO MUCH HATE \(Remixes\)](https://open.spotify.com/album/6fT6swhDeDdtr8CU5f0fIY) | 7:16 | 2019-08-06\* | 2020-03-05 |
 | [Cosmic Noise](https://open.spotify.com/track/3BpLvi63Sk9u1Aa1zfqZHV) | [CIOZ](https://open.spotify.com/artist/43B3rN5TKnZLpfusky1fnp) | [Cosmic Silence](https://open.spotify.com/album/7nx72jsVmjr2d0tGURIRIA) | 8:38 | 2021-02-23 | 2021-03-22 |
@@ -485,6 +485,7 @@
 | [Safe \- Edit](https://open.spotify.com/track/1voZzPyAv1TRn5FfG9V0sK) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Safe](https://open.spotify.com/album/0URQWcDJyljHYCe1O19onb) | 3:59 | 2021-05-08 | 2021-05-26 |
 | [Same \- Radio Edit](https://open.spotify.com/track/4nilN27xhbhhBk79LTiBAO) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Yannek Maunz](https://open.spotify.com/artist/2Kpl9Z7stnwWTE8tZK7srj), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Same](https://open.spotify.com/album/6ch0UCMHhQNKWdf7OS7HLO) | 3:52 | 2019-08-06\* | 2020-10-21 |
 | [Samson](https://open.spotify.com/track/34fx5Qr2oEkQfqRS8FlbJt) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Samson](https://open.spotify.com/album/2HlExpMOAcyS1Wyc5I7F5H) | 7:00 | 2019-08-06\* | 2020-06-12 |
+| [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-25 |  |
 | [Schlafen](https://open.spotify.com/track/6W9p8YvgzEMJT8ENSaw32S) | [COMPUTER DATA](https://open.spotify.com/artist/5wwnitxvqbrtiGk3QW3BuN) | [Schlafen](https://open.spotify.com/album/5gdAuC2O2YWcU6JtyKqU3U) | 6:52 | 2019-10-24 | 2020-05-14 |
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
 | [See Me](https://open.spotify.com/track/00Aadz2JtbpEilrOUWsrVt) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [See Me](https://open.spotify.com/album/6lxCZOVCs1PPvXcEmp9Wed) | 3:40 | 2024-05-31 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44355,
+  "num_followers": 44361,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAABB+LUpqFh+5KvrZx9/palY",
+  "snapshot_id": "ZxwxAAAAAAASwhDLfWIDVQfMSFt6ydd/",
   "tracks": [
     {
       "added_at": null,
@@ -779,26 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olv\u00eddala",
-        "url": "https://open.spotify.com/album/4ZowiypZomVYtSJ46ArTGJ"
+        "name": "Quise Olvidar",
+        "url": "https://open.spotify.com/album/3IKzgoIkPXQm7GOzOKSPfX"
       },
       "artists": [
         {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
         },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Vallenatos Norte\u00f1os",
-          "url": "https://open.spotify.com/artist/6XfjRUwgJpsY7UfUdIjc98"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/39NILND6Hwmj28GJpfU8Cq"
+      "duration_ms": 181986,
+      "name": "Quise Olvidar",
+      "url": "https://open.spotify.com/track/4SYoxA8J9FXJfnYqDngVUP"
     },
     {
       "added_at": null,
@@ -819,22 +815,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quise Olvidar",
-        "url": "https://open.spotify.com/album/3IKzgoIkPXQm7GOzOKSPfX"
+        "name": "Olv\u00eddala",
+        "url": "https://open.spotify.com/album/4ZowiypZomVYtSJ46ArTGJ"
       },
       "artists": [
         {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
         },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Vallenatos Norte\u00f1os",
+          "url": "https://open.spotify.com/artist/6XfjRUwgJpsY7UfUdIjc98"
         }
       ],
-      "duration_ms": 181986,
-      "name": "Quise Olvidar",
-      "url": "https://open.spotify.com/track/4SYoxA8J9FXJfnYqDngVUP"
+      "duration_ms": 276000,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/39NILND6Hwmj28GJpfU8Cq"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yo Soy La Mujer",
-        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "Ahora Me Toca a Mi",
-      "url": "https://open.spotify.com/track/5OZgyid8qEyB2QZuF3JyK1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Metiste",
         "url": "https://open.spotify.com/album/1fulO1nte9iyff5EOhVj37"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 224160,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/3TGHcASjfvxAdjg92V63y5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yo Soy La Mujer",
+        "url": "https://open.spotify.com/album/3yEDiwSeDMiYh7oJLzl7QC"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "Ahora Me Toca a Mi",
+      "url": "https://open.spotify.com/track/5OZgyid8qEyB2QZuF3JyK1"
     },
     {
       "added_at": null,

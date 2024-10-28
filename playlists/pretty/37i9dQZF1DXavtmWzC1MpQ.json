@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 140162,
+  "num_followers": 140211,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "Suburban Forest Rain",
-        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
-      },
-      "artists": [
-        {
-          "name": "Aquagirl",
-          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Suburban Forest Rain 1",
-      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
-    },
-    {
-      "added_at": "2024-08-23 13:01:20",
-      "album": {
         "name": "Forest Bird Sounds Vol. 1",
         "url": "https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "Rain Awakening",
-        "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
+        "name": "Suburban Forest Rain",
+        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
       },
       "artists": [
         {
-          "name": "Natural Awakening",
-          "url": "https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3"
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Bird Chatter In Rainforest",
-      "url": "https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF"
+      "duration_ms": 138000,
+      "name": "Suburban Forest Rain 1",
+      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
     },
     {
       "added_at": "2024-08-23 13:01:20",
@@ -439,6 +423,22 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
+        "name": "Rain Awakening",
+        "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
+      },
+      "artists": [
+        {
+          "name": "Natural Awakening",
+          "url": "https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Bird Chatter In Rainforest",
+      "url": "https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF"
+    },
+    {
+      "added_at": "2024-08-23 13:01:20",
+      "album": {
         "name": "Relaxed Minds",
         "url": "https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 155295,
       "name": "Tropical Waves",
       "url": "https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs"
+    },
+    {
+      "added_at": "2024-08-23 13:01:20",
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
+      },
+      "artists": [
+        {
+          "name": "Pinetree Way",
+          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+        }
+      ],
+      "duration_ms": 241374,
+      "name": "Chill Waves & Wind in Leaves",
+      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
     },
     {
       "added_at": "2024-08-23 13:01:20",
@@ -487,22 +503,6 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "Country Birds",
-        "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
-      },
-      "artists": [
-        {
-          "name": "Hinterl\u00e4nder",
-          "url": "https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Pretty Birds",
-      "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
-    },
-    {
-      "added_at": "2024-08-23 13:01:20",
-      "album": {
         "name": "Bird Life",
         "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
       },
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
+        "name": "Country Birds",
+        "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
       },
       "artists": [
         {
-          "name": "Pinetree Way",
-          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+          "name": "Hinterl\u00e4nder",
+          "url": "https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI"
         }
       ],
-      "duration_ms": 241374,
-      "name": "Chill Waves & Wind in Leaves",
-      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
+      "duration_ms": 142000,
+      "name": "Pretty Birds",
+      "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
     },
     {
       "added_at": "2024-08-23 13:01:20",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-23 13:01:20",
       "album": {
-        "name": "Light Forest Rain",
-        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
-      },
-      "artists": [
-        {
-          "name": "Smoothe Sounds",
-          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Light Forest Rain 2",
-      "url": "https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6"
-    },
-    {
-      "added_at": "2024-08-23 13:01:20",
-      "album": {
         "name": "Terapheutic Thunder",
         "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 179938,
       "name": "Power and Meditation",
       "url": "https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze"
+    },
+    {
+      "added_at": "2024-08-23 13:01:20",
+      "album": {
+        "name": "Light Forest Rain",
+        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
+      },
+      "artists": [
+        {
+          "name": "Smoothe Sounds",
+          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Light Forest Rain 2",
+      "url": "https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6"
     },
     {
       "added_at": "2024-08-23 13:01:20",

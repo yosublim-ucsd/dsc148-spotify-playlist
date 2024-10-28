@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,702 likes - 96 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,751 likes - 96 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 17 | [all i do](https://open.spotify.com/track/4RnqEzpgOQOb21iE8j0GGy) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [generation numb](https://open.spotify.com/album/1bV71tv5rxmuyf2PY4fTfL) | 2:44 |
 | 18 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 |
 | 19 | [CHOKE](https://open.spotify.com/track/79Su9VyzxvgDUwqcSATn8O) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [CHOKE](https://open.spotify.com/album/6F9PXpFXHnlLmhR2c0yReW) | 2:10 |
-| 20 | [pain tolerance](https://open.spotify.com/track/0BTIZM7GKMR8Aqu3iqHBmP) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Love Myself](https://open.spotify.com/album/1PKYViRc1AmHw4zde4igm8) | 2:58 |
+| 20 | [pain tolerance](https://open.spotify.com/track/0BTIZM7GKMR8Aqu3iqHBmP) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [love myself](https://open.spotify.com/album/1PKYViRc1AmHw4zde4igm8) | 2:58 |
 | 21 | [Move Like That](https://open.spotify.com/track/7rCKPz1nF2GgGY4bi4sIgP) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Anywhere But Here](https://open.spotify.com/album/1qsC5Fb06N3SL6IcplWJuP) | 2:04 |
 | 22 | [Tempo](https://open.spotify.com/track/4v4WtPd5Kd1UCYxti6t6Ij) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Tempo](https://open.spotify.com/album/1H6DBUXXrwafhRwJQUbDnk) | 2:50 |
 | 23 | [Skin & Bones](https://open.spotify.com/track/42NTvEyFiluZCbMGoiyWyD) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Elijah Would!](https://open.spotify.com/album/2LTl1LnmvSFhW6qzFJkAHB) | 2:28 |

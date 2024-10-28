@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa Teddy Swims.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,665 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,670 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 43 | [Provocateur](https://open.spotify.com/track/4WM16ujAuOr9QGwPkBT8u4) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Provocateur](https://open.spotify.com/album/7IIqR1U6AyKVYrLQeEbczI) | 2:54 |
 | 44 | [Rock n Roll](https://open.spotify.com/track/1T2zLWVcr4nXMrMnzyHUVl) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Rock n Roll](https://open.spotify.com/album/1Jey66mOXbJOwGtVKwdUWb) | 2:38 |
 | 45 | [Ei tänää](https://open.spotify.com/track/2HoMv4IByvh1vpWzlWgm16) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [NEVERSELLOUT](https://open.spotify.com/album/0bMpFBfJWWVb3t8vIw2h44) | 2:03 |
-| 46 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 46 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 47 | [Kyl Sä Tiiät](https://open.spotify.com/track/2mvxdfJD9tqz4nxF3jMTbi) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Kyl Sä Tiiät](https://open.spotify.com/album/20OcRKV8CQyRGj7uA1uyh0) | 2:49 |
 | 48 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 49 | [Ota musta kii \(feat\. Asla Jo\)](https://open.spotify.com/track/7b2EXARgqqX9xq3SdwKp9W) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u), [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Ilmaista terapiaa](https://open.spotify.com/album/0MqERRYaS1FXXPhoDrZUJj) | 3:00 |

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAALSKUme1E7QMrJL6ZzILT3ksqeSoG",
+  "snapshot_id": "AAAALj+5UiGgiAJWeKFd9TZQto9cQ5MQ",
   "tracks": [
     {
       "added_at": "2023-01-07 05:08:09",
@@ -663,6 +663,22 @@
       "duration_ms": 276648,
       "name": "The Dismemberment Song",
       "url": "https://open.spotify.com/track/0HsOPviUHT6VVZWhjkAoZm"
+    },
+    {
+      "added_at": "2024-10-27 14:23:20",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "I Never Told You What I Do for a Living",
+      "url": "https://open.spotify.com/track/6gLn8QhAYL4dEwdpVjfCPl"
     }
   ],
   "unique_name": "From the Mouth of Evil",

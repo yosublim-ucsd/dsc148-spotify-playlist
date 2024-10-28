@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 837,
+  "num_followers": 840,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAACdsMLUerkNLMoCY5VMY+Ek",
+  "snapshot_id": "ZxwxAAAAAADPb5Jrl0uWwAB2G456xCgJ",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 259773,
-      "name": "A Woman In Love (It's Not Me)",
-      "url": "https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 330306,
       "name": "Swingin'",
       "url": "https://open.spotify.com/track/61SdG3F3LncuuMLAS8oN6j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 259773,
+      "name": "A Woman In Love (It's Not Me)",
+      "url": "https://open.spotify.com/track/2OECBjmrt1tupVdg8jcfE1"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
-        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "Mary Jane's Last Dance",
-      "url": "https://open.spotify.com/track/0UWhRKpZxLEUZhmku98WcH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long After Dark (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ"
       },
@@ -351,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Between Two Worlds (French TV) / Straight Into Darkness (French TV)",
-        "url": "https://open.spotify.com/album/5abbGvmbifA3b4vNkj0Ckr"
+        "name": "The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016",
+        "url": "https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH"
       },
       "artists": [
         {
@@ -360,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 230040,
-      "name": "Between Two Worlds - French TV",
-      "url": "https://open.spotify.com/track/3HmisVTXuiyKuw36VWM8XA"
+      "duration_ms": 271653,
+      "name": "Mary Jane's Last Dance",
+      "url": "https://open.spotify.com/track/0UWhRKpZxLEUZhmku98WcH"
     },
     {
       "added_at": null,
@@ -379,6 +363,22 @@
       "duration_ms": 249093,
       "name": "Jammin' Me",
       "url": "https://open.spotify.com/track/2AFJkvRUFVx0MccykGaHV2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Between Two Worlds (French TV) / Straight Into Darkness (French TV)",
+        "url": "https://open.spotify.com/album/5abbGvmbifA3b4vNkj0Ckr"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 230040,
+      "name": "Between Two Worlds - French TV",
+      "url": "https://open.spotify.com/track/3HmisVTXuiyKuw36VWM8XA"
     },
     {
       "added_at": null,
@@ -552,9 +552,25 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 217560,
-      "name": "We Stand A Chance",
-      "url": "https://open.spotify.com/track/7HTamvqtLGblR6jVKelhdW"
+      "duration_ms": 228320,
+      "name": "Straight Into Darkness",
+      "url": "https://open.spotify.com/track/6Cr9cPkaLOryGUbUaPyGMb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turning Point / Between Two Worlds / Straight Into Darkness",
+        "url": "https://open.spotify.com/album/6uwrkSfRYrIDrCZe508e97"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Turning Point - Original Drums Version",
+      "url": "https://open.spotify.com/track/4UJKr8qWBnfmRpMxy0zkaW"
     },
     {
       "added_at": null,
@@ -571,22 +587,6 @@
       "duration_ms": 250520,
       "name": "Something Good Coming",
       "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Me Up (I've Had Enough)",
-        "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 191533,
-      "name": "It'll All Work Out",
-      "url": "https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF"
     },
     {
       "added_at": null,
@@ -616,15 +616,15 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 228320,
-      "name": "Straight Into Darkness",
-      "url": "https://open.spotify.com/track/6Cr9cPkaLOryGUbUaPyGMb"
+      "duration_ms": 217560,
+      "name": "We Stand A Chance",
+      "url": "https://open.spotify.com/track/7HTamvqtLGblR6jVKelhdW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Turning Point / Between Two Worlds / Straight Into Darkness",
-        "url": "https://open.spotify.com/album/6uwrkSfRYrIDrCZe508e97"
+        "name": "Let Me Up (I've Had Enough)",
+        "url": "https://open.spotify.com/album/1jti40LLiMKDuSci8PB2RZ"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Turning Point - Original Drums Version",
-      "url": "https://open.spotify.com/track/4UJKr8qWBnfmRpMxy0zkaW"
+      "duration_ms": 191533,
+      "name": "It'll All Work Out",
+      "url": "https://open.spotify.com/track/18N4jiKRHtC5v5bgMtFeUF"
     },
     {
       "added_at": null,

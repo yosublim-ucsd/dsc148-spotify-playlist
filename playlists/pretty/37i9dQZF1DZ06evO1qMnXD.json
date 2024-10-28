@@ -1,12 +1,12 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 278489,
+  "num_followers": 278537,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAACZo+/YpLcgwtsifT5zV3Js",
+  "snapshot_id": "ZxwxAAAAAADf233aLFcuf2TKTtgF/RFV",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 209533,
-      "name": "I'm Your Man",
-      "url": "https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9"
+      "duration_ms": 126746,
+      "name": "Jobless Monday",
+      "url": "https://open.spotify.com/track/3ngZf8e29zHlW4gNMQb6IR"
     },
     {
       "added_at": null,
@@ -411,54 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bury Me At Makeout Creek",
-        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 126746,
-      "name": "Jobless Monday",
-      "url": "https://open.spotify.com/track/3ngZf8e29zHlW4gNMQb6IR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Real Men",
-      "url": "https://open.spotify.com/track/1BkQ2tVHP4VATMyuu7KU8Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 157982,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/17o747C5ZZ3UnAg0zNBjOW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -468,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
+      "duration_ms": 209533,
+      "name": "I'm Your Man",
+      "url": "https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9"
     },
     {
       "added_at": null,
@@ -491,6 +443,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 92089,
+      "name": "A Loving Feeling",
+      "url": "https://open.spotify.com/track/5usQET86kxSpLdk7iCP1pw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Real Men",
+      "url": "https://open.spotify.com/track/1BkQ2tVHP4VATMyuu7KU8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cop Car",
         "url": "https://open.spotify.com/album/38W7WU8kz5SHqcNdx9ZtmC"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 188672,
       "name": "Cop Car",
       "url": "https://open.spotify.com/track/76uPM2ijcGSNinnRQmWMJF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 144250,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/6x5yiC9qgFIO0XPekWdjF1"
     },
     {
       "added_at": null,
@@ -539,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retired from Sad, New Career in Business",
-        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 144250,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/6x5yiC9qgFIO0XPekWdjF1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Laurel Hell",
         "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 185070,
+      "name": "Because Dreaming Costs Money, My Dear",
+      "url": "https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
       "duration_ms": 168480,
       "name": "The Frost",
       "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Retired from Sad, New Career in Business",
-        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 185070,
-      "name": "Because Dreaming Costs Money, My Dear",
-      "url": "https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop"
     },
     {
       "added_at": null,

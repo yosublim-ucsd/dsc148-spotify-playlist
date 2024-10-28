@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Lhasa de Sela.
 
-692 songs - 1 day 17 hr 12 min
+693 songs - 1 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [NACE UNA MADRE](https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [NACE UNA MADRE](https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7) | 2:24 | 2023-12-01 | 2024-03-09 |
 | [Nada Importa](https://open.spotify.com/track/29FRWNC4lPdoyltN1mQ9oF) | [Lina de Sol](https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK) | [Nada Importa](https://open.spotify.com/album/7lFMgjDMyD4poD8JKfzI1b) | 3:16 | 2023-01-16 | 2023-05-20 |
 | [Nadie me lo enseñó](https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl) | [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez) | [La Certeza del Dolor](https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5) | 3:32 | 2023-07-21 | 2023-12-16 |
-| [Naga](https://open.spotify.com/track/55Z2TsPxp4YwsmwcQ0W6lS) | [Moncaya](https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu) | [Naga](https://open.spotify.com/album/7m8LRbpqqC1UQNkp0TuFMh) | 3:37 | 2024-10-01 |  |
+| [Naga](https://open.spotify.com/track/55Z2TsPxp4YwsmwcQ0W6lS) | [Moncaya](https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu) | [Naga](https://open.spotify.com/album/7m8LRbpqqC1UQNkp0TuFMh) | 3:37 | 2024-10-01 | 2024-10-28 |
 | [Nana para mí](https://open.spotify.com/track/5IY5cuo1nQbcJvzE8h2YvF) | [Clara Peya](https://open.spotify.com/artist/3VAefaRPtanzJsMLfj9c7S), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Corsé](https://open.spotify.com/album/7oVk2hpD8pmrrwKOkRgDQk) | 5:06 | 2023-09-15 | 2023-12-16 |
 | [nana triste](https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Otras Alas](https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4) | 3:07 | 2021-12-24 | 2024-02-10 |
 | [Naranjas Al Mar](https://open.spotify.com/track/0OBOZWBSwnUhDUeGDwXJXU) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [Naranjas Al Mar](https://open.spotify.com/album/1TeVkrngJJKL0wKcOJAOnv) | 3:10 | 2024-05-09 | 2024-09-07 |
@@ -448,6 +448,7 @@
 | [No somos lo que nos dicen que somos](https://open.spotify.com/track/6DKkbcVmw5uzuej6TyMwYk) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Acto II: La \(Des\) Mesura](https://open.spotify.com/album/0UDCnifL25jz7KOpYXfGXu) | 5:27 | 2022-11-11 | 2022-11-26 |
 | [No Son Un Juguete](https://open.spotify.com/track/7bKHTUYOOQWMx7z0d7FtxJ) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [No son un juguete](https://open.spotify.com/album/1za2kZMIG6fuhhc4WN8zRw) | 2:47 | 2023-12-01 | 2023-12-23 |
 | [No supe verme](https://open.spotify.com/track/27E8QSVZ1u1IM7L7Va6GO1) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz), [Miguelichi López](https://open.spotify.com/artist/6IX6MVQxwe14jYiIJUIVzn) | [No supe verme](https://open.spotify.com/album/5UklZCjxd3FybV0D7Dmyda) | 3:31 | 2024-03-01 |  |
+| [No tenemos tiempo](https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE) | [Lia](https://open.spotify.com/artist/6eGEvxkkLYybfvt5B8CAfA) | [No tenemos tiempo](https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu) | 3:32 | 2024-10-25 |  |
 | [No Ves Tal Vez](https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [No Ves Tal Vez](https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv) | 3:29 | 2022-12-23 | 2023-01-21 |
 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 | 2023-05-29 | 2023-06-03 |
 | [Nos Ocupamos del Mar \(Hermanos Krahe\)](https://open.spotify.com/track/78JZFiirZ0CcbW8os7scgq) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y) | [Nos Ocupamos del Mar \(Hermanos Krahe\)](https://open.spotify.com/album/0e528evmmuLZaHL87fohAF) | 3:36 | 2022-03-11 | 2022-04-20 |

@@ -12524,7 +12524,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 133333,
       "name": "Flying",
       "url": "https://open.spotify.com/track/6wm9hYs3yKMUmlKEQS6t7Z"
@@ -16597,6 +16597,24 @@
     },
     {
       "album": {
+        "name": "imstillfallingfor",
+        "url": "https://open.spotify.com/album/0L7lZEjd0QxY2ApHlwmUbZ"
+      },
+      "artists": [
+        {
+          "name": "ELEWAKA",
+          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "imstillfallingfor",
+      "url": "https://open.spotify.com/track/2hug5L1Q26tKppSYubogeh"
+    },
+    {
+      "album": {
         "name": "in a... mood",
         "url": "https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc"
       },
@@ -18428,6 +18446,24 @@
       "duration_ms": 119916,
       "name": "late night walking",
       "url": "https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a"
+    },
+    {
+      "album": {
+        "name": "late nights",
+        "url": "https://open.spotify.com/album/4MyA7lyAneHYWnuR9S7NeA"
+      },
+      "artists": [
+        {
+          "name": "Slowday",
+          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157021,
+      "name": "late nights",
+      "url": "https://open.spotify.com/track/7eFgCZQYH6fHKxwn6HPMas"
     },
     {
       "album": {
@@ -21414,7 +21450,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 156374,
       "name": "meadows",
       "url": "https://open.spotify.com/track/1sP0q6Egdh6pSclFNwpWBa"
@@ -25418,7 +25454,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 135000,
       "name": "Orb",
       "url": "https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1"
@@ -35559,6 +35595,24 @@
     },
     {
       "album": {
+        "name": "The Tallest Mountain",
+        "url": "https://open.spotify.com/album/38OaG5sdb67iy5IFNPpcwy"
+      },
+      "artists": [
+        {
+          "name": "Cyber Bloom",
+          "url": "https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136750,
+      "name": "The Tallest Mountain",
+      "url": "https://open.spotify.com/track/14rZzlYzQ5emCMpb5FLeR5"
+    },
+    {
+      "album": {
         "name": "The Thing You Do",
         "url": "https://open.spotify.com/album/0H95L6BfWccbPaHlAPJJo8"
       },
@@ -38434,7 +38488,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 182922,
       "name": "waves",
       "url": "https://open.spotify.com/track/75lbe3dkMnMlOk2NiXhD7b"
@@ -40054,7 +40108,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 105903,
       "name": "Zlatan",
       "url": "https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F"

@@ -4,7 +4,7 @@
 
 > indie folk latino de estación\. Foto: Pol Nada
 
-313 songs - 17 hr 4 min
+314 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Que Placer](https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Locomotora](https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf) | 3:05 | 2022-11-11 |  |
 | [Quiero Seguir Durmiendo](https://open.spotify.com/track/6vo21NT3rATjoi1ZWtc6sU) | [César Avila](https://open.spotify.com/artist/3rngVMXFqeLP0WFB1ss6J1) | [Quiero Seguir Durmiendo](https://open.spotify.com/album/5UJhwNUlF8F9Y4WbRD7MDu) | 2:49 | 2022-05-20 | 2023-03-06 |
 | [Quizás](https://open.spotify.com/track/5Ngde5wQSWBf4CB76Uvugo) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Fin De Los Tiempos](https://open.spotify.com/album/1sAIlus0nePmPgjEGJkqSL) | 3:54 | 2024-04-12 | 2024-09-27 |
-| [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 | 2023-05-26 |  |
+| [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 | 2023-05-26 | 2024-10-28 |
 | [Quién Pudiera?](https://open.spotify.com/track/3TWAnB0Pok8EnOLimD18ue) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/5uIL8ryzMnjBbgRx7wVCwW) | 3:33 | 2024-03-21 | 2024-04-19 |
 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 | 2022-05-20 | 2022-07-16 |
 | [Rara](https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Planes para Hoy](https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc) | 4:43 | 2022-05-20 | 2023-04-15 |
@@ -286,6 +286,7 @@
 | [Todo el Día Loca](https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [Puro](https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle) | 2:58 | 2022-05-20 | 2023-04-09 |
 | [Todo me sabe a poco](https://open.spotify.com/track/1QwPlQPqx4CiYdGJSTi1EV) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 2:52 | 2022-05-20 | 2023-04-15 |
 | [Track Track](https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Track](https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL) | 3:24 | 2023-04-07 |  |
+| [Trance](https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Trance](https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ) | 4:01 | 2024-10-25 |  |
 | [trece](https://open.spotify.com/track/7gFN7bu7EW7jNXKHDrKfHd) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL) | [trece](https://open.spotify.com/album/7HXSoYe3CcsYWsDwBFTnwZ) | 2:52 | 2022-05-20 | 2023-03-10 |
 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 | 2022-05-20 | 2023-04-15 |
 | [Tu Nombre](https://open.spotify.com/track/6nTACiUMLcPh7mjfGXCFjA) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [Tu Nombre](https://open.spotify.com/album/0NvNtFrr5XEUUDSt5hytL0) | 3:01 | 2022-05-20 | 2023-04-09 |

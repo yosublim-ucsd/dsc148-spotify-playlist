@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 24914,
+  "num_followers": 24927,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
-        "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
+        "name": "Soranji",
+        "url": "https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb"
       },
       "artists": [
         {
-          "name": "\u51a8\u5ca1\u611b",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 201137,
-      "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
-      "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
+      "duration_ms": 344226,
+      "name": "Soranji",
+      "url": "https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "Soranji",
-        "url": "https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb"
+        "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
+        "url": "https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "\u51a8\u5ca1\u611b",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
         }
       ],
-      "duration_ms": 344226,
-      "name": "Soranji",
-      "url": "https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB"
+      "duration_ms": 201137,
+      "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
+      "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u5618\u3064\u304d\u306e\u541b\u304c\u597d\u304d",
-        "url": "https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs"
-      },
-      "artists": [
-        {
-          "name": "\u97f3\u7530 \u96c5\u5247",
-          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
-        }
-      ],
-      "duration_ms": 194591,
-      "name": "\u5618\u3064\u304d\u306e\u541b\u304c\u597d\u304d",
-      "url": "https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "Marshmallow",
         "url": "https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 182321,
       "name": "Marshmallow",
       "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "\u5618\u3064\u304d\u306e\u541b\u304c\u597d\u304d",
+        "url": "https://open.spotify.com/album/4aSOGfFjJiJpqsP5HwHYhs"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        }
+      ],
+      "duration_ms": 194591,
+      "name": "\u5618\u3064\u304d\u306e\u541b\u304c\u597d\u304d",
+      "url": "https://open.spotify.com/track/4f38Jn95Ls3TEpqeeTdJjT"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "\u6708\u5149\u6d74",
-        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "YRD Leo",
+          "url": "https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3"
         }
       ],
-      "duration_ms": 248130,
-      "name": "\u6708\u5149\u6d74",
-      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
+      "duration_ms": 175871,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP"
+        "name": "\u6708\u5149\u6d74",
+        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
       },
       "artists": [
         {
-          "name": "YRD Leo",
-          "url": "https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 175871,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0"
+      "duration_ms": 248130,
+      "name": "\u6708\u5149\u6d74",
+      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -707,38 +707,6 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 190331,
-      "name": "1\u30ea\u30c3\u30bf\u30fc\u5206\u306e\u611b\u3092\u3053\u3081\u3066",
-      "url": "https://open.spotify.com/track/12CAcVzra8ZX8WGCRs73r9"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
-        "name": "\u5275\u4f5c",
-        "url": "https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 290266,
-      "name": "\u6625\u6ce5\u68d2",
-      "url": "https://open.spotify.com/track/7wTJ0tQcpxBIr9mU9q86nF"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
         "name": "I gotta go (feat. Hiplin, WILYWNKA & kojikoji)",
         "url": "https://open.spotify.com/album/3ABotZ0kjriT2TgaVIwo2y"
       },
@@ -763,6 +731,22 @@
       "duration_ms": 312972,
       "name": "I gotta go (feat. Hiplin, WILYWNKA & kojikoji)",
       "url": "https://open.spotify.com/track/5EBsireOwbvRqFb0md9BDu"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 190331,
+      "name": "1\u30ea\u30c3\u30bf\u30fc\u5206\u306e\u611b\u3092\u3053\u3081\u3066",
+      "url": "https://open.spotify.com/track/12CAcVzra8ZX8WGCRs73r9"
     },
     {
       "added_at": "2024-10-22 15:00:00",
@@ -815,6 +799,22 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
+        "name": "\u5275\u4f5c",
+        "url": "https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 290266,
+      "name": "\u6625\u6ce5\u68d2",
+      "url": "https://open.spotify.com/track/7wTJ0tQcpxBIr9mU9q86nF"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
         "name": "The Beam",
         "url": "https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh"
       },
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-10-22 15:00:00",
       "album": {
+        "name": "\u9003\u907f\u884c",
+        "url": "https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 191689,
+      "name": "\u9003\u907f\u884c",
+      "url": "https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z"
+    },
+    {
+      "added_at": "2024-10-22 15:00:00",
+      "album": {
         "name": "\u9be8\u306e\u5b50",
         "url": "https://open.spotify.com/album/72OedMUACIRxK4gVHnPgKB"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 253364,
       "name": "\u9be8\u306e\u5b50",
       "url": "https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg"
-    },
-    {
-      "added_at": "2024-10-22 15:00:00",
-      "album": {
-        "name": "20 (Complete Mixtape)",
-        "url": "https://open.spotify.com/album/1ByMReXpO8LZwcqNzF4eMD"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
-        }
-      ],
-      "duration_ms": 208902,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ"
     }
   ],
   "unique_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",

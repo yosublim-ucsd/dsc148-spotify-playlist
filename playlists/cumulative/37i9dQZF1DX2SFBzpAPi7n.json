@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/6eba8K9SfZTZ5b3zz0ga2d"
+      },
+      "artists": [
+        {
+          "name": "TOUCHED",
+          "url": "https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185841,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/0u7mqw0JiK3AVL3lOtzgxM"
+    },
+    {
+      "album": {
         "name": "VINCENZO (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3"
       },
@@ -2462,6 +2480,24 @@
       "duration_ms": 240466,
       "name": "Dark Cloud",
       "url": "https://open.spotify.com/track/1m6hChgffW1gqFKbpkGQrk"
+    },
+    {
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/3SyG2CrI1QNdZSwvNONVVI"
+      },
+      "artists": [
+        {
+          "name": "EUNICE",
+          "url": "https://open.spotify.com/artist/1ptpMZmWJI8ENe5I7TzEqU"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243562,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/3jLe3Jb7Ri2Tjcvnn03kZ6"
     },
     {
       "album": {
@@ -5178,7 +5214,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 190000,
       "name": "I hate you",
       "url": "https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX"
@@ -7694,7 +7730,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 215466,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"

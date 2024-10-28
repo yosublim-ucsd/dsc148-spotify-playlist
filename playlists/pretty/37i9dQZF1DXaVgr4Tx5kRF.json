@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 652359,
+  "num_followers": 652400,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 240120,
-      "name": "The Universal",
-      "url": "https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -315,34 +299,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Coming Up (Remastered)",
-        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
       "artists": [
         {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 230866,
-      "name": "Beautiful Ones (Remastered)",
-      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp"
-      },
-      "artists": [
-        {
-          "name": "Republica",
-          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
-        }
-      ],
-      "duration_ms": 301533,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
+      "duration_ms": 240120,
+      "name": "The Universal",
+      "url": "https://open.spotify.com/track/0qmCWYu7hOvriyuqXfPw7I"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -363,18 +331,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "International Velvet",
-        "url": "https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a"
+        "name": "Coming Up (Remastered)",
+        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
       },
       "artists": [
         {
-          "name": "Catatonia",
-          "url": "https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv"
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
         }
       ],
-      "duration_ms": 251266,
-      "name": "Mulder and Scully",
-      "url": "https://open.spotify.com/track/2jlJVAqrN7bHsw7EwPOIIi"
+      "duration_ms": 230866,
+      "name": "Beautiful Ones (Remastered)",
+      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -391,6 +359,38 @@
       "duration_ms": 492946,
       "name": "I Am the Resurrection - Remastered 2009",
       "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "International Velvet",
+        "url": "https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a"
+      },
+      "artists": [
+        {
+          "name": "Catatonia",
+          "url": "https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Mulder and Scully",
+      "url": "https://open.spotify.com/track/2jlJVAqrN7bHsw7EwPOIIi"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp"
+      },
+      "artists": [
+        {
+          "name": "Republica",
+          "url": "https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge"
+        }
+      ],
+      "duration_ms": 301533,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -523,38 +523,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Everything Must Go 20 (Remastered)",
-        "url": "https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 257653,
-      "name": "A Design for Life - 2016 Remastered Version",
-      "url": "https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Songs For The Front Row - The Best Of Ocean Colour Scene",
-        "url": "https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG"
-      },
-      "artists": [
-        {
-          "name": "Ocean Colour Scene",
-          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
-        }
-      ],
-      "duration_ms": 298640,
-      "name": "The Riverboat Song",
-      "url": "https://open.spotify.com/track/1oPg2EYKf2hbS7aDyE8j3S"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "The Good Will Out",
         "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
       },
@@ -571,6 +539,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Everything Must Go 20 (Remastered)",
+        "url": "https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 257653,
+      "name": "A Design for Life - 2016 Remastered Version",
+      "url": "https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
         "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 239746,
       "name": "Kinky Afro - 2007 Remaster",
       "url": "https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Songs For The Front Row - The Best Of Ocean Colour Scene",
+        "url": "https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG"
+      },
+      "artists": [
+        {
+          "name": "Ocean Colour Scene",
+          "url": "https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U"
+        }
+      ],
+      "duration_ms": 298640,
+      "name": "The Riverboat Song",
+      "url": "https://open.spotify.com/track/1oPg2EYKf2hbS7aDyE8j3S"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Forever Delayed",
-        "url": "https://open.spotify.com/album/528UKMsqR0kfioYOim3LJU"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 305693,
-      "name": "Motorcycle Emptiness",
-      "url": "https://open.spotify.com/track/61dhQ6Mc3H66zxx1hBdeoI"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "I Should Coco",
         "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
       },
@@ -679,22 +663,6 @@
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Urban Hymns",
-        "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 358426,
-      "name": "Bitter Sweet Symphony",
-      "url": "https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -715,6 +683,38 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Urban Hymns",
+        "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 358426,
+      "name": "Bitter Sweet Symphony",
+      "url": "https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Forever Delayed",
+        "url": "https://open.spotify.com/album/528UKMsqR0kfioYOim3LJU"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 305693,
+      "name": "Motorcycle Emptiness",
+      "url": "https://open.spotify.com/track/61dhQ6Mc3H66zxx1hBdeoI"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Brimful of Asha",
         "url": "https://open.spotify.com/album/3zImpd2BehQCHbnTiIJlZB"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Some Friendly",
         "url": "https://open.spotify.com/album/0JWdN38GXUuoG3zHmXKmnj"
       },
@@ -759,6 +743,38 @@
       "duration_ms": 238120,
       "name": "The Only One I Know",
       "url": "https://open.spotify.com/track/17hdos7cv1vAvcfoTU4Pym"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Stupid Girl",
+      "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -795,22 +811,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/3gcPVCFXfShcfVtFdMBXNG"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "Stupid Girl",
-      "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "The Best Of Ash (Remastered Version)",
         "url": "https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 213533,
       "name": "Girl From Mars",
       "url": "https://open.spotify.com/track/1JYs5OOgeW1jAOaiiLlJdx"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -891,6 +875,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
         "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Urban Hymns",
-        "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 305066,
-      "name": "The Drugs Don't Work",
-      "url": "https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "His 'N' Hers",
         "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 244826,
       "name": "Babies",
       "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Urban Hymns",
+        "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "The Drugs Don't Work",
+      "url": "https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Ace A's + Killer B's",
-        "url": "https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf"
-      },
-      "artists": [
-        {
-          "name": "Dodgy",
-          "url": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
-        }
-      ],
-      "duration_ms": 239840,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
         "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 289146,
       "name": "Cigarettes & Alcohol - Remastered",
       "url": "https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Ace A's + Killer B's",
+        "url": "https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf"
+      },
+      "artists": [
+        {
+          "name": "Dodgy",
+          "url": "https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W"
+        }
+      ],
+      "duration_ms": 239840,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd"
     },
     {
       "added_at": "2024-03-18 22:10:08",

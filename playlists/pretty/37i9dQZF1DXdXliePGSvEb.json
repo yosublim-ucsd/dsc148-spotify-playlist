@@ -1,6 +1,6 @@
 {
   "description": "Our favorite electronic songs from around the world this year. Cover: Anyma",
-  "num_followers": 63317,
+  "num_followers": 63325,
   "original_name": "Best Electronic Songs of 2023",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 258573,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "Welcome To My Island (George Daniel & Charli XCX Remix)",
         "url": "https://open.spotify.com/album/59dB0tQKHfwA837bRXuId4"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 202494,
       "name": "Welcome To My Island - George Daniel & Charli XCX Remix",
       "url": "https://open.spotify.com/track/2nQeWDP8OA9vFqiCfghot2"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 258573,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "The Abyss",
-        "url": "https://open.spotify.com/album/2qqXh9MaZzgaGfw4PCGtOS"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 438750,
-      "name": "The Abyss",
-      "url": "https://open.spotify.com/track/6YUnruRH7cz1pe1YruJrdR"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Everything I Do",
         "url": "https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 189000,
       "name": "Ankerklause (Is The Feeling Only Strong)",
       "url": "https://open.spotify.com/track/3dvInTU2QDIGjIDGrfV4N0"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "The Abyss",
+        "url": "https://open.spotify.com/album/2qqXh9MaZzgaGfw4PCGtOS"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 438750,
+      "name": "The Abyss",
+      "url": "https://open.spotify.com/track/6YUnruRH7cz1pe1YruJrdR"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "The One's",
-        "url": "https://open.spotify.com/album/3aRGBESAlNiPZUeEMixsYR"
-      },
-      "artists": [
-        {
-          "name": "Einmusik",
-          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
-        },
-        {
-          "name": "Jordan Arts",
-          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
-        }
-      ],
-      "duration_ms": 196882,
-      "name": "The One's",
-      "url": "https://open.spotify.com/track/2c2GRURdaTQS879w0bcGU0"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "What You Done",
         "url": "https://open.spotify.com/album/1Ov1O2B3CeuAmHhFG5f0yL"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 174048,
       "name": "What You Done",
       "url": "https://open.spotify.com/track/5IouffaYEX67BICjTSCckE"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "The One's",
+        "url": "https://open.spotify.com/album/3aRGBESAlNiPZUeEMixsYR"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        },
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        }
+      ],
+      "duration_ms": 196882,
+      "name": "The One's",
+      "url": "https://open.spotify.com/track/2c2GRURdaTQS879w0bcGU0"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Aria",
-        "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Omnya",
-          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
-        }
-      ],
-      "duration_ms": 236065,
-      "name": "Aria",
-      "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "U Want It",
         "url": "https://open.spotify.com/album/7gtGbIQmB1stRBblGss9B3"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 349565,
       "name": "The Good, the Bad & the Acid",
       "url": "https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "duration_ms": 236065,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
     },
     {
       "added_at": "2023-11-29 12:16:00",

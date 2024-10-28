@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,978 likes - 128 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,994 likes - 128 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 16 | [Angela](https://open.spotify.com/track/0ltWabjFKp4e1qqS93DI2n) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 4:12 |
 | 17 | [My Mistake](https://open.spotify.com/track/73tV41H3LM5YBMpdR02fkX) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [My Mistake](https://open.spotify.com/album/6X8iXth9vVhK1Dblubg5fP) | 2:40 |
 | 18 | [HOLD UP](https://open.spotify.com/track/2J38DVGTR8RV4jLVdDmtQv) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [HOLD UP](https://open.spotify.com/album/5FWdWr7uv3EwmMx8UlyqsJ) | 2:19 |
-| 19 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 19 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 20 | [komvigårhem](https://open.spotify.com/track/6NVc60MXwlYUF8GcevTI9s) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [komvigårhem](https://open.spotify.com/album/0qpYt3Uf2US1KPlFMfqHDw) | 2:27 |
 | 21 | [Burna Boy](https://open.spotify.com/track/2F2ZiGOzgHJ1uAlzDjoNlV) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [Philippe](https://open.spotify.com/artist/23yPgzwt35lJyA3f8ayMfW), [Fu3go](https://open.spotify.com/artist/2uX5jeXMEK3YNrL1bwVWd1) | [Burna Boy](https://open.spotify.com/album/3VnYNpptu0Nbatuhz2nglz) | 2:12 |
 | 22 | [Other Girls](https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Other Girls](https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD) | 3:18 |

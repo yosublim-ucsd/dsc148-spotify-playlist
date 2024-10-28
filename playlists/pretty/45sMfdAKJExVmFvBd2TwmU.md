@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/45sMfdAKJExVmFvBd2TwmU.md) - [plain]
 
 > Monsoon, Monsoon songs, Monsoon Hits, LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional Songs, Love songs, 2023, 2022, Top Hits, Bollywood hits, Arijit Singh Hits, Hindi Songs, Lofi, Soothing songs, Night songs, Broken, Romance, All Time best Bollywood son
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 433,170 likes - 154 songs - 11 hr 49 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 433,473 likes - 154 songs - 11 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/45sMfdAKJExVmFvBd2TwmU.md) - [plain]
 | 93 | [Raat Ka Nasha](https://open.spotify.com/track/4gjFNGQ0BodNqiOAOAOMSW) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Asoka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz) | 5:13 |
 | 94 | [Saiyyan \- Refresh](https://open.spotify.com/track/669j0Dc0CpJJh9xFthfUTt) | [Sumonto Mukherjee](https://open.spotify.com/artist/6g6hYV0STvnWlu1NPD6pDy) | [Saiyyan \(Refresh\)](https://open.spotify.com/album/4iGZNgGOgfniT3tNOfkodH) | 3:41 |
 | 95 | [O Sanam \- Reprise](https://open.spotify.com/track/7kX2gucepepyao9uiLfuP4) | [JalRaj](https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT) | [O Sanam \(Reprise\)](https://open.spotify.com/album/16Ef3PREwSvH9zZqfRovfo) | 3:33 |
-| 96 | [Gerua \(From "Dilwale"\)](https://open.spotify.com/track/7iLA6PQeQWRjLDHOJgGpj5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 5:45 |
+| 96 | [Gerua](https://open.spotify.com/track/7iLA6PQeQWRjLDHOJgGpj5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09AmTEo0Po8vC2WDcpviAT) | 5:45 |
 | 97 | [Dil Ibaadat \- Refresh](https://open.spotify.com/track/6X8BNvXg1wZJOg4xTutlRm) | [JalRaj](https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT) | [Dil Ibaadat \(Refresh\)](https://open.spotify.com/album/5lhM9kGsfmZLTkEM8AMpPV) | 4:05 |
 | 98 | [Bahara X](https://open.spotify.com/track/0BlKsjU5Md37Z1CZ6UY6bT) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Bahara X](https://open.spotify.com/album/23TvDnvBF4D7pZrzWQ4WGm) | 2:47 |
 | 99 | [Kuch Kuch Hota Hai](https://open.spotify.com/track/4RixtPhUXlci9ad4qIMj23) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Kuch Kuch Hota Hai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 4:57 |

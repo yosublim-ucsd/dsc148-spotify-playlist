@@ -3921,6 +3921,24 @@
     },
     {
       "album": {
+        "name": "For Cryin' Out Loud! (Spotify OUTSIDE Version) [Live from Los Angeles, CA]",
+        "url": "https://open.spotify.com/album/3V9duXb3ewSmDoh3qm16XO"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238186,
+      "name": "For Cryin' Out Loud! (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
+      "url": "https://open.spotify.com/track/7AeSEZgpU02dXrVSM32QFc"
+    },
+    {
+      "album": {
         "name": "Pollen",
         "url": "https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU"
       },
@@ -4418,7 +4436,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 176727,
       "name": "Go Boy",
       "url": "https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ"

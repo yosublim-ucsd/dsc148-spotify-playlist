@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9?si=sNzKEja4QUSyKbvVx\_7TLQ">25K</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,651 likes - 85 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,694 likes - 85 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Real Is Rare \(feat\. Nasty C\)](https://open.spotify.com/track/5fR8jaCoCB932SimKIcGrr) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Loyal To The Plug : The Life & Times Of Don Kilograms](https://open.spotify.com/album/6WHgxLiN57AC7KZm7eUtuj) | 3:57 |
-| 2 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 2 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 3 | [Bo Thata](https://open.spotify.com/track/219UdZ1b9vuUe45FK2JeWx) | [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Stixx](https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2), [Nvcho](https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC) | [Candour](https://open.spotify.com/album/1NN9VqlcteMaYfbzKBH2QN) | 9:08 |
 | 4 | [Ng'limele \(feat\. Ceeka RSA\)](https://open.spotify.com/track/17YUnqdkyiKp7XzgwtNsAQ) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY) | [Ng'limele \(feat\. Ceeka RSA\)](https://open.spotify.com/album/2x3nj8ZgQO7WjzNdACTZ4h) | 7:36 |
 | 5 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 |

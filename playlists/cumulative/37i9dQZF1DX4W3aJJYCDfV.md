@@ -4,7 +4,7 @@
 
 > Brand new music from Lady Gaga \(pictured\), Tyler, The Creator, Disclosure and more!
 
-13,107 songs - 29 day 11 hr 39 min
+13,107 songs - 29 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8126,7 +8126,7 @@
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-15 | 2024-08-23 |
 | [Nobu](https://open.spotify.com/track/0cDS3shVdF4kLmy0zmPYQX) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct), [Jesse James Solomon](https://open.spotify.com/artist/6QNL63YF6rLawrWWhrrhYI) | [Nobu](https://open.spotify.com/album/5ug3IefM7Otaxg33krJDLD) | 3:04 | 2024-07-11 | 2024-07-19 |
 | [Noel Groove](https://open.spotify.com/track/3N9L15JK1SEhBvCPQfqRo8) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Kaiser Chiefs' Easy Eighth Album](https://open.spotify.com/album/5dkbWYrgm2ysC8bObtnjON) | 3:02 | 2024-03-01 | 2024-03-08 |
-| [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 | 2024-10-24 |  |
+| [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-24 |  |
 | [Nomad](https://open.spotify.com/track/5NR7XN88d1NhOXKR0vD5XK) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nomad](https://open.spotify.com/album/6Utl8nDyt1rOSXA2vOnqdq) | 3:45 | 2024-06-27 | 2024-07-05 |
 | [NoMoreLuv4u](https://open.spotify.com/track/55Asr8Anq1QuP1URYIaSdH) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [NoMoreLuv4u](https://open.spotify.com/album/2uYqyx1hSxvLwD2KvyF4Ao) | 3:16 | 2024-10-24 |  |
 | [None of Your Business \(from Despicable Me 4\)](https://open.spotify.com/track/6aOaD4kexUZLvOltxQY4ph) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [None of Your Business \(from Despicable Me 4\)](https://open.spotify.com/album/08wn61NK0hH5nfHv0cUzE1) | 2:35 | 2024-06-27 | 2024-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,648 likes - 104 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,663 likes - 104 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 50 | [Still Into You](https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Still Into You](https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5) | 2:31 |
 | 51 | [sterne \(sehen\)](https://open.spotify.com/track/3T89eCrITaSdRKovtzqzUR) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [sterne \(sehen\)](https://open.spotify.com/album/14zt5jp4HcpFO5ulBfmK08) | 2:35 |
 | 52 | [Tu dir weh = Tu mir weh](https://open.spotify.com/track/6pNXDQ8DfD1PP6UeofGZ74) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Tu dir weh = Tu mir weh](https://open.spotify.com/album/3QOSSa14gp04iZECQnffrp) | 3:12 |
-| 53 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 53 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 54 | [Te'Kill'Ya](https://open.spotify.com/track/2FY3V309Dc0X6VS8OWFxC9) | [GXTP](https://open.spotify.com/artist/7aJ0lXaVRlmeij1J0NrrFK), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Te'Kill'Ya](https://open.spotify.com/album/29kd82BQka5Gs290XCHC4G) | 3:39 |
 | 55 | [Bridges](https://open.spotify.com/track/1TP5FtFJoaQkL1k0FOfizI) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Bridges](https://open.spotify.com/album/5H6tDCCQ2QK3OftBeWT0Ze) | 2:38 |
 | 56 | [Freedom](https://open.spotify.com/track/5VoByKp0qo2OVO1ehyPtSa) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Freedom](https://open.spotify.com/album/0jUgrbJG2BgcBfCB5fwr8w) | 2:21 |

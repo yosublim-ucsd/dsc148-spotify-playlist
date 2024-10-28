@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: 310babii
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,337 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,379 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 60 | [Hit Different](https://open.spotify.com/track/3rlHUJINS5opvbNgDTF4Y6) | [Lil Kayla](https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp) | [Hit Different](https://open.spotify.com/album/2NJ10xHpcFTFc2oJEhqYUu) | 3:10 |
 | 61 | [GEEK TIMË](https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:50 |
 | 62 | [Sumn Pretty \(feat\. Rob49\)](https://open.spotify.com/track/0o1ZzlqMUFUizu0Zlke8BD) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Sumn Pretty \(feat\. Rob49\)](https://open.spotify.com/album/38eUplOD97CSAQOQS9djc9) | 3:45 |
-| 63 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 63 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 64 | [It's My Ego](https://open.spotify.com/track/5DtzKlHN5Gay3JkIZKztmS) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [It's My Ego](https://open.spotify.com/album/0efkEgsdM8HpQAI3qq31Gk) | 3:46 |
 | 65 | [Brackin On This Side](https://open.spotify.com/track/3ypdL7GYxHUo66FlCnGB8s) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Brackin On This Side](https://open.spotify.com/album/6MyQ5g4KQmRiLksuNLOKK8) | 3:05 |
 | 66 | [B's Up \(feat\. Jay Rock\) \- Remix](https://open.spotify.com/track/1FcKQsH3C73Bwxx68M0tyQ) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Forever On That](https://open.spotify.com/album/7veyzptFlB7p7knPCY7FHG) | 2:50 |

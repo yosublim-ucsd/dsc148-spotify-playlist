@@ -794,7 +794,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 251173,
       "name": "Care for Me",
       "url": "https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE"
@@ -3390,6 +3390,24 @@
       "duration_ms": 224445,
       "name": "Misty",
       "url": "https://open.spotify.com/track/58qd3nuwT6pse9UpUojZIQ"
+    },
+    {
+      "album": {
+        "name": "Monte Carlo",
+        "url": "https://open.spotify.com/album/3w4lUHrKK2urnIgE4CLBak"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227092,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/3RMHQtjlUAi4SDtinzCuy4"
     },
     {
       "album": {

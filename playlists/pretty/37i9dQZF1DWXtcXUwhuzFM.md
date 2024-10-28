@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Vesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,585 likes - 121 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,601 likes - 121 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 19 | [Viimeiset häät](https://open.spotify.com/track/1l4Nc7WQjivhZtehTVImWz) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Viimeiset häät](https://open.spotify.com/album/7gQckz8H2R6MUdYENUsa2v) | 2:58 |
 | 20 | [Provocateur](https://open.spotify.com/track/4WM16ujAuOr9QGwPkBT8u4) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Provocateur](https://open.spotify.com/album/7IIqR1U6AyKVYrLQeEbczI) | 2:54 |
 | 21 | [P.S\. vieläkin](https://open.spotify.com/track/5GjW7fctpy0BX8RBkMqOuz) | [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Kuolematon](https://open.spotify.com/album/3IDh8AQRdSvEsVffyBsJn9) | 2:59 |
-| 22 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 22 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 23 | [Mitä sulle jää \(feat\. Mariska\) \[Vain elämää kausi 15\]](https://open.spotify.com/track/6S85VHnJg8uamUXmaHMIqs) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r), [Mariska](https://open.spotify.com/artist/69grVcN5UQeX34dKNyV1ut) | [Mitä sulle jää \(feat\. Mariska\) \[Vain elämää kausi 15\]](https://open.spotify.com/album/3AeeW3aSdcsS84uImflRYL) | 3:24 |
 | 24 | [Rock n Roll](https://open.spotify.com/track/1T2zLWVcr4nXMrMnzyHUVl) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Rock n Roll](https://open.spotify.com/album/1Jey66mOXbJOwGtVKwdUWb) | 2:38 |
 | 25 | [Aina](https://open.spotify.com/track/2FIRyQLaMWaatb3ASfldXC) | [Gabri](https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c), [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Aina](https://open.spotify.com/album/5KZrAcRWwTAZ4BGTpiYQJS) | 2:54 |

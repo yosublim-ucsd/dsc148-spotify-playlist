@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Reggae, roots and dub\. Relax, you're on island time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,162 likes - 111 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,179 likes - 111 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 60 | [Tū mai te reo](https://open.spotify.com/track/5fO1dKbtYwOruYrij4SsNT) | [TOHU](https://open.spotify.com/artist/5oUP1Mu9KCC1DqMTGs7zMk) | [Tū mai te reo](https://open.spotify.com/album/3LBfpVKNeotPrUrskaGTc0) | 4:03 |
 | 61 | [Otherside](https://open.spotify.com/track/55vUueIJ1D5zgMqQzAUxjw) | [Valley Kids](https://open.spotify.com/artist/2ICjmWYEED30C1Wc7Et53T) | [Otherside](https://open.spotify.com/album/7c3HBSx949vQO3jnFQgbCf) | 3:44 |
 | 62 | [E Leai Seisi E Tonu I Lenei Olaga](https://open.spotify.com/track/3MJ1bEZO8M6HiPE0TINZwh) | [Sammy Atoa](https://open.spotify.com/artist/7vRrKe1XWwhLqhM4XMyCxD) | [E Leai Seisi E Tonu I Lenei Olaga](https://open.spotify.com/album/4LnW0Ro3VAoGUdtEO5PXyz) | 4:08 |
-| 63 | [Slow Up](https://open.spotify.com/track/6INwzydOIayqZGXtr732YW) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [Slow Up](https://open.spotify.com/album/3nPzDSC3Jx9gmLblpzZtrx) | 3:39 |
+| 63 | [Slow Up](https://open.spotify.com/track/6INwzydOIayqZGXtr732YW) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Slow Up](https://open.spotify.com/album/3nPzDSC3Jx9gmLblpzZtrx) | 3:39 |
 | 64 | [Prince Charming](https://open.spotify.com/track/06goB8fnjdVuCuyDmgTX3F) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [Prince Charming](https://open.spotify.com/album/6hrHPCTTR3Dh1iaYBnw9ax) | 4:09 |
 | 65 | [NEVER](https://open.spotify.com/track/2ck3ktp70iez3oKiLxyIA5) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Junior Soqeta](https://open.spotify.com/artist/1bJTmjgUdH1inz5cCpsOUA), [Folau](https://open.spotify.com/artist/0jj9Os8Krjis4OFaps08Km) | [NEVER \(REMIX\)](https://open.spotify.com/album/2V9Pt2F4G0gXBP4qTJvNpz) | 3:34 |
 | 66 | [Tell me you're Serious](https://open.spotify.com/track/6jOI0CKp4Tq63zLASXTiQa) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Tell me you're Serious](https://open.spotify.com/album/2aCFPHIU8VhmvnKjJVx2DE) | 3:34 |

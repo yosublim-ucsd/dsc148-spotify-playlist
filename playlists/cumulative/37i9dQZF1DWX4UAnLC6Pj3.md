@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Luis Ángel "El Flaco" en portada.
 
-412 songs - 21 hr 41 min
+413 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Jugaste a Quererme](https://open.spotify.com/track/5gQROsI8b7Hn3p0U942kR6) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [XV Aniversario](https://open.spotify.com/album/0ham1Jdp5A6r5issDCJQ3t) | 2:39 | 2023-03-11 | 2023-04-09 |
 | [Junto A Ti](https://open.spotify.com/track/1CyTC2O3w0Pc7hy8SXNG73) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Junto A Ti](https://open.spotify.com/album/4zaF7FTjaWsxhyJejJvcT5) | 2:58 | 2022-07-01 | 2022-07-29 |
 | [Juraré](https://open.spotify.com/track/4ereHXfyUB2Ywg1WlqLq6t) | [La Imponente Vientos de Jalisco](https://open.spotify.com/artist/4Tx6Ti44QhL2JRmHSu1mU7) | [Juraré](https://open.spotify.com/album/0TWuUl87GWazdzs1j6hTQK) | 3:15 | 2023-12-01 | 2023-12-16 |
-| [Jódete](https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pa’Delante](https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4) | 3:10 | 2024-05-03 |  |
+| [Jódete](https://open.spotify.com/track/7qck3nLQcH6RFSSbHxMZg2) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pa’Delante](https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4) | 3:10 | 2024-05-03 | 2024-10-28 |
 | [La Bolsita](https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Bolsita](https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB) | 3:00 | 2022-09-23 |  |
 | [La Bruja \- Radio Edit](https://open.spotify.com/track/11lwWnUgcjlGTzGv4WnDnP) | [Marco Flores Y La Jerez](https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80) | [La Bruja](https://open.spotify.com/album/3ryD37i3Mw2gYL5PJwytTf) | 2:26 | 2023-03-11 | 2024-10-24 |
 | [La Casita](https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Trabajo Es La Suerte](https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk) | 3:37 | 2022-01-28 |  |
@@ -250,6 +250,7 @@
 | [No Hay Nada Mas Que Decir](https://open.spotify.com/track/77sdqXAFOUBRo2ZpCIYGj4) | [Banda Todo Terreno](https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX) | [No Hay Nada Mas Que Decir](https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF) | 3:32 | 2023-06-09 |  |
 | [No Le Digas](https://open.spotify.com/track/2WMz8fentsrb9TpRmymAeY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [No Le Digas](https://open.spotify.com/album/7MZMipgR6C5gGVbhNDxLxd) | 3:25 | 2022-11-03 | 2022-12-03 |
 | [No Le Digas](https://open.spotify.com/track/6bSd8Ci51Q4AoBdhDNFuyG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Edgardo Nuñez Con La Séptima Banda](https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4) | 3:25 | 2022-12-03 | 2023-08-04 |
+| [No Llega El Olvido \(En Vivo\)](https://open.spotify.com/track/2w6pRC9ywVbHG1BFXOvd1t) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Beto Guzman](https://open.spotify.com/artist/6tq31zQs5K8TRzjyyZY0W8) | [No Llega El Olvido \(En Vivo\)](https://open.spotify.com/album/72quJ2zGWeKnLmipKNZTUZ) | 4:43 | 2024-10-23 |  |
 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 | 2024-05-17 | 2024-06-29 |
 | [No Me Mires Así](https://open.spotify.com/track/0KAriPAvH7g4xrTrjvI5rd) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [No Me Mires Así](https://open.spotify.com/album/6GeiFac3GbqLEIWwxYYRXe) | 2:45 | 2023-06-09 | 2024-04-01 |
 | [No Se Lo Deseo a Nadie](https://open.spotify.com/track/6KXVabUACAY7Z2GYpKTn8g) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [No Se Lo Deseo a Nadie](https://open.spotify.com/album/0lbdKFAhe6W8r2FEKczlMs) | 2:23 | 2022-07-01 | 2023-12-16 |

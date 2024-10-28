@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: John Park\(존박\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,022 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,041 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 99 | [Tic Toc](https://open.spotify.com/track/2KnvApXYvFxFU9gqo6bu8o) | [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Tic Toc](https://open.spotify.com/album/04MoyxTIbTxj4jRhNYfG0T) | 3:29 |
 | 100 | [Sag](https://open.spotify.com/track/0WT5exMmrq1biJR2cvJepO) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 4:21 |
 
-Snapshot ID: `ZwZN1QAAAAAj3/ifRd268xYXSphsfz8l`
+Snapshot ID: `Zx46iQAAAAD8JsWzSYRdGB3R/7WFeKOX`

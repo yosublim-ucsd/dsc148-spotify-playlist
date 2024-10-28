@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 207613,
+  "num_followers": 207707,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Goodbye to the Valley Low (Side A)",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 172304,
-      "name": "Cemetery",
-      "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 331785,
       "name": "Desert",
       "url": "https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Goodbye to the Valley Low (Side A)",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 172304,
+      "name": "Cemetery",
+      "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -511,22 +511,18 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Soldier Song",
-        "url": "https://open.spotify.com/album/2eQmUvFYpkN2sIdgxOvalF"
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO"
       },
       "artists": [
         {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
-        },
-        {
-          "name": "Joanne Robertson",
-          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+          "name": "The Oldsfire Band",
+          "url": "https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio"
         }
       ],
-      "duration_ms": 212352,
-      "name": "Soldier Song",
-      "url": "https://open.spotify.com/track/7cpq6ovqtMDVjUWw52aIYp"
+      "duration_ms": 152874,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -547,38 +543,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO"
+        "name": "Soldier Song",
+        "url": "https://open.spotify.com/album/2eQmUvFYpkN2sIdgxOvalF"
       },
       "artists": [
         {
-          "name": "The Oldsfire Band",
-          "url": "https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Rarities",
-        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
         },
         {
-          "name": "Linnea Olsson",
-          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
         }
       ],
-      "duration_ms": 232986,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
+      "duration_ms": 212352,
+      "name": "Soldier Song",
+      "url": "https://open.spotify.com/track/7cpq6ovqtMDVjUWw52aIYp"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -611,6 +591,26 @@
       "duration_ms": 178003,
       "name": "Malory",
       "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+        }
+      ],
+      "duration_ms": 232986,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
+        "name": "I Live After I Died",
+        "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
+      },
+      "artists": [
+        {
+          "name": "Sofia Dragt",
+          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
+        }
+      ],
+      "duration_ms": 164083,
+      "name": "I Live After I Died",
+      "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
         "name": "Innocent",
         "url": "https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Pixie's Parasol",
-      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
         "name": "Wild Geese, Wild Love / Day 2000 Awake",
         "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Pixie's Parasol",
+      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -755,38 +771,6 @@
       "duration_ms": 366160,
       "name": "Meet Me In The Forest",
       "url": "https://open.spotify.com/track/2pV9JcmZBmBB1mSTYfBhac"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "Ordna sig",
-        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e0si",
-          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
-        }
-      ],
-      "duration_ms": 151072,
-      "name": "Ordna sig",
-      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "I Live After I Died",
-        "url": "https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i"
-      },
-      "artists": [
-        {
-          "name": "Sofia Dragt",
-          "url": "https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv"
-        }
-      ],
-      "duration_ms": 164083,
-      "name": "I Live After I Died",
-      "url": "https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -839,8 +823,8 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
+        "name": "Ordna sig",
+        "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
       },
       "artists": [
         {
@@ -848,9 +832,9 @@
           "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
         }
       ],
-      "duration_ms": 176793,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
+      "duration_ms": 151072,
+      "name": "Ordna sig",
+      "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -867,26 +851,6 @@
       "duration_ms": 251180,
       "name": "Doves",
       "url": "https://open.spotify.com/track/2ZAiqpVVlUNif9gKbhGLRW"
-    },
-    {
-      "added_at": "2024-10-17 22:00:00",
-      "album": {
-        "name": "The Sun of the Island",
-        "url": "https://open.spotify.com/album/7m7G39PZmDAeTAUPXffCdl"
-      },
-      "artists": [
-        {
-          "name": "Peter von Poehl",
-          "url": "https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W"
-        },
-        {
-          "name": "Marie Modiano",
-          "url": "https://open.spotify.com/artist/2znK4wNHFUwPKYyTJFOj2R"
-        }
-      ],
-      "duration_ms": 258517,
-      "name": "The Sun of the Island",
-      "url": "https://open.spotify.com/track/2FniJxOBwfJdOiTRaW9icP"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -911,18 +875,22 @@
     {
       "added_at": "2024-10-17 22:00:00",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
+        "name": "The Sun of the Island",
+        "url": "https://open.spotify.com/album/7m7G39PZmDAeTAUPXffCdl"
       },
       "artists": [
         {
-          "name": "Alexander Grandjean",
-          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+          "name": "Peter von Poehl",
+          "url": "https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W"
+        },
+        {
+          "name": "Marie Modiano",
+          "url": "https://open.spotify.com/artist/2znK4wNHFUwPKYyTJFOj2R"
         }
       ],
-      "duration_ms": 220632,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
+      "duration_ms": 258517,
+      "name": "The Sun of the Island",
+      "url": "https://open.spotify.com/track/2FniJxOBwfJdOiTRaW9icP"
     },
     {
       "added_at": "2024-10-17 22:00:00",
@@ -943,6 +911,38 @@
       "duration_ms": 197000,
       "name": "Lucy Rider",
       "url": "https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "duration_ms": 220632,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
+    },
+    {
+      "added_at": "2024-10-17 22:00:00",
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "duration_ms": 176793,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx"
     },
     {
       "added_at": "2024-10-17 22:00:00",

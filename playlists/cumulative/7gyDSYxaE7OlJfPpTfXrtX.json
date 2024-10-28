@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305053,
+      "name": "Early Sunsets Over Monroeville",
+      "url": "https://open.spotify.com/track/2aHqdN4K9naX3oBuUxp6zf"
+    },
+    {
+      "album": {
         "name": "Face It Alone",
         "url": "https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju"
       },

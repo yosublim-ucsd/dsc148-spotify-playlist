@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 205158,
+  "num_followers": 205163,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Love&Adoration",
-        "url": "https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ"
+        "name": "Hopeful Hearts Club",
+        "url": "https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU"
       },
       "artists": [
         {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
         }
       ],
-      "duration_ms": 143000,
-      "name": "Love&Adoration",
-      "url": "https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV"
+      "duration_ms": 400108,
+      "name": "Whole Heart",
+      "url": "https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -439,18 +439,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Hopeful Hearts Club",
-        "url": "https://open.spotify.com/album/7rIMmf6AeHmTb8tCoyddAU"
+        "name": "Love in the West",
+        "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
       },
       "artists": [
         {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+        },
+        {
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
         }
       ],
-      "duration_ms": 400108,
-      "name": "Whole Heart",
-      "url": "https://open.spotify.com/track/3jhN9h9Z2GOYfrDNspFOji"
+      "duration_ms": 138556,
+      "name": "Love in the West",
+      "url": "https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -471,22 +475,18 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Love in the West",
-        "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
+        "name": "Love&Adoration",
+        "url": "https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ"
       },
       "artists": [
         {
-          "name": "Uninvtd",
-          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
-        },
-        {
-          "name": "S A I N T",
-          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 138556,
-      "name": "Love in the West",
-      "url": "https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l"
+      "duration_ms": 143000,
+      "name": "Love&Adoration",
+      "url": "https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Love Me Like I Am",
-        "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 184103,
-      "name": "Love Me Like I Am",
-      "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Meant to Be",
         "url": "https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 224013,
       "name": "Angel",
       "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Love Me Like I Am",
+        "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 184103,
+      "name": "Love Me Like I Am",
+      "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -787,30 +787,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "CC",
-        "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
-      },
-      "artists": [
-        {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        },
-        {
-          "name": "Lightmuzik",
-          "url": "https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        }
-      ],
-      "duration_ms": 118503,
-      "name": "When It Hurts",
-      "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/4xjAeY5J7q6iHlRWEF07b0"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 203268,
       "name": "Just Too Good",
       "url": "https://open.spotify.com/track/23hRAQiS0XqnGIz1Oyb1gR"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "CC",
+        "url": "https://open.spotify.com/album/1RgcrQ5wuYg6EdWQyLylPG"
+      },
+      "artists": [
+        {
+          "name": "Evan Ford",
+          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
+        },
+        {
+          "name": "Lightmuzik",
+          "url": "https://open.spotify.com/artist/01ICBVq4v2QsFvMWvsi9tE"
+        },
+        {
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+        }
+      ],
+      "duration_ms": 118503,
+      "name": "When It Hurts",
+      "url": "https://open.spotify.com/track/79Ns9ajGujomTknvhBWSMd"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Buy You Flowers",
-        "url": "https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa"
-      },
-      "artists": [
-        {
-          "name": "Dawson Hollow",
-          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
-        }
-      ],
-      "duration_ms": 142091,
-      "name": "Buy You Flowers",
-      "url": "https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/3nSpXaQTtT0JMU6JRT0J05"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 133159,
       "name": "ILY",
       "url": "https://open.spotify.com/track/4ApkZY3507VSE1ZXrVO9oT"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Buy You Flowers",
+        "url": "https://open.spotify.com/album/7sA5pNCvur9QC43OY9GxWa"
+      },
+      "artists": [
+        {
+          "name": "Dawson Hollow",
+          "url": "https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R"
+        }
+      ],
+      "duration_ms": 142091,
+      "name": "Buy You Flowers",
+      "url": "https://open.spotify.com/track/2N7XOhYGsS7AOLylimvyYM"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
+        "name": "Love Will Never Fail",
+        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
+      },
+      "artists": [
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "Love Will Never Fail (I Corinthians 13)",
+      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
         "name": "A Little Crazy",
         "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Love Will Never Fail",
-        "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
+        "name": "Slow Renaissance",
+        "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
       },
       "artists": [
         {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+          "name": "Josh Gauton",
+          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
         }
       ],
-      "duration_ms": 199826,
-      "name": "Love Will Never Fail (I Corinthians 13)",
-      "url": "https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY"
+      "duration_ms": 243146,
+      "name": "Love In the Time of Madness",
+      "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Slow Renaissance",
-        "url": "https://open.spotify.com/album/2z2kb5sdhNp9lBnnzGxhi1"
-      },
-      "artists": [
-        {
-          "name": "Josh Gauton",
-          "url": "https://open.spotify.com/artist/4PLDTXCudiHDay44OSM79M"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Love In the Time of Madness",
-      "url": "https://open.spotify.com/track/1lOn7QVLKuNtPQOOjq9Qo6"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "Dear Future Husband",
         "url": "https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 268179,
       "name": "Dear Future Husband",
       "url": "https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
-        "name": "SAFE",
-        "url": "https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq"
-      },
-      "artists": [
-        {
-          "name": "Ki Alexis",
-          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
-        }
-      ],
-      "duration_ms": 231501,
-      "name": "SAFE",
-      "url": "https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Here for You",
-        "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Ki Alexis",
+          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
         }
       ],
-      "duration_ms": 152600,
-      "name": "Here for You",
-      "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
+      "duration_ms": 231501,
+      "name": "SAFE",
+      "url": "https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1207,6 +1191,22 @@
       "duration_ms": 227661,
       "name": "Te Quiero Cerca",
       "url": "https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Here for You",
+        "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "Good Love (feat. Kim Burrell)",
-        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
-      },
-      "artists": [
-        {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
-        },
-        {
-          "name": "Kim Burrell",
-          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
-        }
-      ],
-      "duration_ms": 248066,
-      "name": "Good Love (feat. Kim Burrell)",
-      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "The One Out The Friendzone (Kevin Aleksander Remix)",
         "url": "https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 180240,
       "name": "The One Out The Friendzone - Kevin Aleksander Remix",
       "url": "https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "Good Love (feat. Kim Burrell)",
+        "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        },
+        {
+          "name": "Kim Burrell",
+          "url": "https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA"
+        }
+      ],
+      "duration_ms": 248066,
+      "name": "Good Love (feat. Kim Burrell)",
+      "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
     },
     {
       "added_at": "2024-07-17 04:46:48",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-07-17 04:46:48",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/2BnDCywIU8HvFlFZqkSOAj"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 318933,
-      "name": "Go There With You",
-      "url": "https://open.spotify.com/track/66DrxT38CFyYPTciuHP3aR"
-    },
-    {
-      "added_at": "2024-07-17 04:46:48",
-      "album": {
         "name": "COME MY WAY",
         "url": "https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 180000,
       "name": "COME MY WAY",
       "url": "https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI"
+    },
+    {
+      "added_at": "2024-07-17 04:46:48",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2BnDCywIU8HvFlFZqkSOAj"
+      },
+      "artists": [
+        {
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
+        }
+      ],
+      "duration_ms": 318933,
+      "name": "Go There With You",
+      "url": "https://open.spotify.com/track/66DrxT38CFyYPTciuHP3aR"
     }
   ],
   "unique_name": "Higher Love",

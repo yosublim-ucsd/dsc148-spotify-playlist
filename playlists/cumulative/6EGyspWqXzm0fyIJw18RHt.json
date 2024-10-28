@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326506,
+      "name": "Vampires Will Never Hurt You",
+      "url": "https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl"
+    },
+    {
+      "album": {
         "name": "Excitable Boy",
         "url": "https://open.spotify.com/album/03WJAI8NnJHvCNqnlLw8kg"
       },

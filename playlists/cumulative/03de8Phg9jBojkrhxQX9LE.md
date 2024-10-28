@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-1,911 songs - 4 day 11 hr 51 min
+1,911 songs - 4 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,7 +558,7 @@
 | [feelthisway](https://open.spotify.com/track/3JVtezFwcpFAqvr4pdBBrd) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [feelthisway / 3000 miles](https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB) | 3:32 | 2023-12-08 | 2024-01-13 |
 | [Fen Violet](https://open.spotify.com/track/4BrLRVfZF5Z8ld226xISH0) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Fen Violet](https://open.spotify.com/album/0L7g7avKfjuY9XyFsw3I6X) | 4:05 | 2024-03-08 | 2024-04-06 |
 | [Fever](https://open.spotify.com/track/52g6ivLTMXxAn2vvX4772J) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Fever](https://open.spotify.com/album/2PlgEkyn7D04osG3U6iefw) | 3:31 | 2024-10-18 |  |
-| [Fever](https://open.spotify.com/track/4vqSynbV7NmDYyEulIYwnZ) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Fever](https://open.spotify.com/album/2URXjf8qJqeoTOINaxymmB) | 3:12 | 2024-10-25 |  |
+| [Fever](https://open.spotify.com/track/4vqSynbV7NmDYyEulIYwnZ) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Fever](https://open.spotify.com/album/2URXjf8qJqeoTOINaxymmB) | 2:58 | 2024-10-25 |  |
 | [Fever](https://open.spotify.com/track/4K7flgqKJcTY9R2PdB6DI3) | [WEVLTH](https://open.spotify.com/artist/5N7wAKV4HvGQj66w5HV4bD) | [Fever](https://open.spotify.com/album/6SmneAWKxlT7mmDMlgAyLn) | 4:36 | 2023-12-15 | 2024-01-20 |
 | [Fever](https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ) | [Fever](https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK) | 2:40 | 2023-11-03 | 2023-12-02 |
 | [Fever Dream](https://open.spotify.com/track/1uuwS1OxQ0tM8MbZDRFs3q) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [Annaca](https://open.spotify.com/artist/68bTh9UzHWFypy6Kt54NDZ) | [Fever Dream](https://open.spotify.com/album/1KzUhr5XqwBkTt6kmcPFDa) | 3:31 | 2024-05-10 | 2024-06-08 |

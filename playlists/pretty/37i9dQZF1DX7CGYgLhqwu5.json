@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 378833,
+  "num_followers": 378848,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "The Essential Johnny Cash",
-        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Daddy Sang Bass",
-      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "Townes Van Zandt",
         "url": "https://open.spotify.com/album/6KFVwdp9yZczVIVv4glWue"
       },
@@ -207,22 +191,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Ode To Billie Joe",
-        "url": "https://open.spotify.com/album/05I1EsreLq47JU8pypj7TR"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Gentry",
-          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
-        }
-      ],
-      "duration_ms": 255001,
-      "name": "Ode To Billie Joe",
-      "url": "https://open.spotify.com/track/4FdDorlbJTVHcH3djLbIfn"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "Gentle On My Mind (Remastered)",
         "url": "https://open.spotify.com/album/68eenCTSYqlwSBe80ZEIFE"
       },
@@ -235,6 +203,38 @@
       "duration_ms": 178626,
       "name": "Gentle On My Mind - Remastered 2001",
       "url": "https://open.spotify.com/track/0mLoTgCB8oU0sJGojRtvDu"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Daddy Sang Bass",
+      "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Ode To Billie Joe",
+        "url": "https://open.spotify.com/album/05I1EsreLq47JU8pypj7TR"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Gentry",
+          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
+        }
+      ],
+      "duration_ms": 255001,
+      "name": "Ode To Billie Joe",
+      "url": "https://open.spotify.com/track/4FdDorlbJTVHcH3djLbIfn"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -503,18 +503,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
-        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
+        "name": "The Essential Jim Reeves",
+        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
       "artists": [
         {
-          "name": "Dave Dudley",
-          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 134706,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
+      "duration_ms": 152600,
+      "name": "Welcome to My World",
+      "url": "https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "The Essential Jim Reeves",
-        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
+        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Dave Dudley",
+          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
         }
       ],
-      "duration_ms": 152600,
-      "name": "Welcome to My World",
-      "url": "https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2"
+      "duration_ms": 134706,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 134786,
-      "name": "Just Between You and Me",
-      "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "Streets of Baltimore",
         "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 157640,
       "name": "The Streets of Baltimore",
       "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 134786,
+      "name": "Just Between You and Me",
+      "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0YrQNGNO0qJNIlpUuk5d7C"
       },
@@ -679,18 +695,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 139733,
-      "name": "Am I Losing You",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+      "duration_ms": 168466,
+      "name": "The Bottle Let Me Down",
+      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -755,22 +771,6 @@
       "duration_ms": 136293,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "The Bottle Let Me Down",
-      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "500 Miles Away from Home",
-      "url": "https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "Don't Let Me Cross Over",
         "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 177106,
       "name": "Don't Let Me Cross Over",
       "url": "https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "500 Miles Away from Home",
+      "url": "https://open.spotify.com/track/71gllRzHoMKgU7b2y0OfM7"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
-      },
-      "artists": [
-        {
-          "name": "Ferlin Husky",
-          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Wings Of A Dove",
-      "url": "https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "The Essential Waylon Jennings",
         "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 146133,
       "name": "(That's What You Get) For Lovin' Me",
       "url": "https://open.spotify.com/track/1FrG5yYxDbusk4dK3pQ9le"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
+      },
+      "artists": [
+        {
+          "name": "Ferlin Husky",
+          "url": "https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Wings Of A Dove",
+      "url": "https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "The Cold Hard Facts of Life",
-        "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "The Cold Hard Facts of Life",
-      "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "The Essential Hank Snow",
         "url": "https://open.spotify.com/album/0GcpueUt33P9XoObysUzFR"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 164640,
       "name": "I've Been Everywhere - Remastered",
       "url": "https://open.spotify.com/track/1rFGwz7rswOuW2IdXPd0fv"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "The Cold Hard Facts of Life",
+        "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "The Cold Hard Facts of Life",
+      "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
+        "name": "Burning Memories",
+        "url": "https://open.spotify.com/album/0menjprjsUXBN3jKjGk1XD"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Burning Memories - Single Version",
+      "url": "https://open.spotify.com/track/569rWEzod8v8JX86gO2eX6"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 117053,
       "name": "We'll Get Ahead Someday",
       "url": "https://open.spotify.com/track/7mdB5GWRbuWJDxZ2CbarAv"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
-        "name": "Burning Memories",
-        "url": "https://open.spotify.com/album/0menjprjsUXBN3jKjGk1XD"
-      },
-      "artists": [
-        {
-          "name": "Ray Price",
-          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Burning Memories - Single Version",
-      "url": "https://open.spotify.com/track/569rWEzod8v8JX86gO2eX6"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
+        "name": "Walkin' In The Sunshine",
+        "url": "https://open.spotify.com/album/0f08APYCMBP8URERmkBfCT"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "duration_ms": 105760,
+      "name": "You Didn't Have To Be So Nice",
+      "url": "https://open.spotify.com/track/1zEenuHokRIDtzvB4l65GE"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
         "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
         "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
       },
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "Walkin' In The Sunshine",
-        "url": "https://open.spotify.com/album/0f08APYCMBP8URERmkBfCT"
-      },
-      "artists": [
-        {
-          "name": "Roger Miller",
-          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
-        }
-      ],
-      "duration_ms": 105760,
-      "name": "You Didn't Have To Be So Nice",
-      "url": "https://open.spotify.com/track/1zEenuHokRIDtzvB4l65GE"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -1444,9 +1444,9 @@
           "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
+      "duration_ms": 154466,
+      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "At Folsom Prison (Legacy Edition)",
-        "url": "https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 156426,
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
-      "url": "https://open.spotify.com/track/3ftnDaaL02tMeOZBunIwls"
-    },
-    {
-      "added_at": "2024-07-05 21:22:46",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -1540,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1559,6 +1543,22 @@
       "duration_ms": 143693,
       "name": "Act Naturally",
       "url": "https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi"
+    },
+    {
+      "added_at": "2024-07-05 21:22:46",
+      "album": {
+        "name": "At Folsom Prison (Legacy Edition)",
+        "url": "https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 156426,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",
+      "url": "https://open.spotify.com/track/3ftnDaaL02tMeOZBunIwls"
     },
     {
       "added_at": "2024-07-05 21:22:46",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-07-05 21:22:46",
       "album": {
-        "name": "25 All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/5hoikUKrQZkKm8tspRhwTS"
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 173960,
-      "name": "Send Me The Pillow You Dream On",
-      "url": "https://open.spotify.com/track/60LBZcuecM8zRwXmZm5bQs"
+      "duration_ms": 148000,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/2XEsLZrgYIAEa2YNDiqPYI"
     }
   ],
   "unique_name": "60s Country",

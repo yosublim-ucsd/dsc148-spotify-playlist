@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment.
 
-216 songs - 17 hr 28 min
+217 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Fi Hawmtk Tayh](https://open.spotify.com/track/58qcHWC6FE7hUw1MXW9Qlw) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samorai](https://open.spotify.com/artist/73AJQgudvAFKMhRQWOlEck) | [Fi Hawmtk Tayh](https://open.spotify.com/album/6iv0JgmVA17gmNUVialSf9) | 5:30 | 2023-10-05 | 2023-11-03 |
 | [Ga3 Li Srali](https://open.spotify.com/track/4VwGNd7gYBkudOycgXZWpF) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Ga3 Li Srali](https://open.spotify.com/album/2UIsgooFCMOW5g3cVIH6lX) | 3:34 | 2021-10-19 | 2022-09-21 |
 | [Galbek Hnin](https://open.spotify.com/track/4KDcEc96txreeEubzdDPbD) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Galbek Hnin](https://open.spotify.com/album/1MOev2y0PJadIp52sXjwW2) | 4:00 | 2022-11-14 | 2022-11-21 |
-| [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 | 2022-12-25 |  |
+| [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 | 2022-12-25 | 2024-10-28 |
 | [Galbi Datah](https://open.spotify.com/track/5JsvWH6RGUJB6534yHu6h1) | [Cheb Reda](https://open.spotify.com/artist/4Dv4xd6O64eglhzxOCQDcb), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Datah](https://open.spotify.com/album/6u1mr4vKlPuFnAzUnWpUR8) | 4:36 | 2023-05-01 | 2023-08-26 |
 | [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 | 2023-03-14 |  |
 | [Galbi Ndirleh 3asas](https://open.spotify.com/track/2o9EZRu4Mx5GMFnJi9WpIC) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Ndirleh 3asas](https://open.spotify.com/album/37pvma3AHWm2qQUjh9tA2g) | 2:53 | 2023-01-03 |  |
@@ -200,6 +200,7 @@
 | [Zidini 3ich9ane](https://open.spotify.com/track/78xAW5L8hxmBHnZtIqjyZf) | [Cheb Wahid](https://open.spotify.com/artist/41pjPOVGlvetRYm4xx7bYw) | [Zidini 3ich9ane](https://open.spotify.com/album/2rzYUYgREivgNksfiK5CWT) | 4:38 | 2021-10-19 | 2024-08-08 |
 | [الصغر ما يدوم](https://open.spotify.com/track/4uiZQeOtBPgqspq2eBjEIV) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [الصغر ما يدوم](https://open.spotify.com/album/6zrYBK8X2WIl77dOm7z3mM) | 4:45 | 2022-09-20 | 2022-11-03 |
 | [جبدها يا بابور](https://open.spotify.com/track/6kuAcGBU7zjjh3wAVrYG0J) | [Cheb Faycal](https://open.spotify.com/artist/47gfytQSeoeL85ObS9eNmk) | [جبدها يا بابور](https://open.spotify.com/album/6fqKZBsxKUsE8OBVbDw1ly) | 4:46 | 2024-05-13 |  |
+| [جوارينك برڨاڨين](https://open.spotify.com/track/5cy5bvDvZoH2WzcS6PBqvS) | [Amine Manini](https://open.spotify.com/artist/6D6Iyy90oqY8zw0OE1fav9) | [جوارينك برڨاڨين](https://open.spotify.com/album/0NqCwP9CnOjdMGcIMJRAZz) | 3:53 | 2024-10-27 |  |
 | [خسرت العلاقة](https://open.spotify.com/track/1PbIQ0JtakidqCGcMFI4dn) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [خسرت العلاقة](https://open.spotify.com/album/6ydZDwBkPrTt7yqtfquocl) | 4:18 | 2022-09-20 | 2022-12-27 |
 | [ديرولو الحنة](https://open.spotify.com/track/7ylB5uC2u03oOIdt7ssFhy) | [Cheb Mehdi](https://open.spotify.com/artist/2uonXDQdHacpjve01wdIGE), [DJ Ismail Bba](https://open.spotify.com/artist/6CSGZBcKW5hL7rkJzMuFge) | [ديرولو الحنة](https://open.spotify.com/album/0ubTeMJ7J02UwlDY51oT4C) | 6:26 | 2022-11-14 | 2022-11-21 |
 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 | 2022-09-20 | 2023-07-28 |

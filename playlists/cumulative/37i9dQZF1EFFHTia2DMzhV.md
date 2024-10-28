@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-122 songs - 6 hr 42 min
+123 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Cocked Eyed Optomist \(From "South Pacific"\)](https://open.spotify.com/track/71abmFQjzSB7DUq4MxET7F) | [Mitzi Gaynor](https://open.spotify.com/artist/3RWxCgaw6DuD472vn1HyV6) | [Mitzi and Morris At the Movies](https://open.spotify.com/album/5AKvgQh3Lf6kxTlaIMkyl4) | 1:45 | 2024-07-26 |  |
 | [Dites\-Moi](https://open.spotify.com/track/7GNNyqBNMIduv6qL6tql8H) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Nellie Forbush and Children](https://open.spotify.com/artist/1W1JsPsRqu9tHOZrKjrdQe), [Alfred Newman](https://open.spotify.com/artist/2e7myQwGa7Vyp7sss8brVC) | [Invitation to Musicals](https://open.spotify.com/album/5EKnIOzeGPRzhcAgyzMUZ8) | 1:19 | 2024-07-26 |  |
 | [Do\-Re\-Mi](https://open.spotify.com/track/6aNMGfwdGyELNGCuqs5ldU) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO), [Nicholas Hammond](https://open.spotify.com/artist/0JSadiWcHiwpHQhq8DhXJl), [Debbie Turner](https://open.spotify.com/artist/4HiH23Ui1OvUZfRp5YBQxs), [Duane Chase](https://open.spotify.com/artist/0QWBkbHktK9RQYaMSZnZ01), [Heather Menzies](https://open.spotify.com/artist/54dXJA9AzCTXZ8gmX0nX6T), [Angela Cartwright](https://open.spotify.com/artist/5wPIr3J58uJUeU9Xu2mOuc), [Kym Karath](https://open.spotify.com/artist/2RqZ8Pqz6WmjR3VmQF9dgA), [Charmian Carr](https://open.spotify.com/artist/0mvTBNG2hAuAEzUVgTYpQ2) | [The Sound Of Music \(50th Anniversary Edition\)](https://open.spotify.com/album/6p9jUvfQvXHAzStDArgYj5) | 5:35 | 2024-07-26 |  |
+| [Doll Song](https://open.spotify.com/track/1cE5EAGzW4DYOQXhXEOou7) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Mirror Starts Moving Without Me](https://open.spotify.com/album/0D1VuKK2MQA5d25Nn2gyEK) | 2:26 | 2024-10-27 |  |
 | [Dream](https://open.spotify.com/track/4aNZEdW6OAHMChI1dTXFwL) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [Showtime](https://open.spotify.com/album/3vIieAlnUmoEeMC0js9p0m) | 3:18 | 2024-07-26 |  |
 | [Edelweiss](https://open.spotify.com/track/6IepN5nR2WGxVCVNFxIgbu) | [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ), [Charmian Carr](https://open.spotify.com/artist/0mvTBNG2hAuAEzUVgTYpQ2) | [The Sound Of Music \(50th Anniversary Edition\)](https://open.spotify.com/album/6p9jUvfQvXHAzStDArgYj5) | 2:18 | 2024-07-26 |  |
 | [Fetty Wah](https://open.spotify.com/track/52v7sjzTgPTVl2jlVlEdLd) | [Ruth Garbus](https://open.spotify.com/artist/4n4AixYCSIn4H5BriyTEhm) | [Kleinmeister](https://open.spotify.com/album/7iLU32VjgscMWebg2Jtq5Q) | 4:24 | 2024-07-26 |  |

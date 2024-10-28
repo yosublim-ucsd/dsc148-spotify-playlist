@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: LNY TNZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,969 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,010 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 9 | [Drop That](https://open.spotify.com/track/08XCFa4gCODqSy6FDv2Uhs) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Drop That](https://open.spotify.com/album/7vkG29ElFoSpj42jjfZnFO) | 2:04 |
 | 10 | [2004](https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [2004](https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us) | 3:08 |
 | 11 | [CAN'T STOP WON'T STOP](https://open.spotify.com/track/5RryqMI5aokTEdcrFEjAMQ) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [CAN'T STOP WON'T STOP](https://open.spotify.com/album/5T9esNqz99018bZFPrdMNV) | 2:42 |
-| 12 | [Pilletje Voor De Pep](https://open.spotify.com/track/0ukngQJBcqpCWpK6vYxIbM) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Altijd Larstig & Rob Gasd'rop](https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX) | [Pilletje Voor De Pep](https://open.spotify.com/album/75jXGXQGp5UY4qlPCuV8iX) | 3:13 |
+| 12 | [Pilletje Voor De Pep](https://open.spotify.com/track/0ukngQJBcqpCWpK6vYxIbM) | [Altijd Larstig & Rob Gasd'rop](https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX), [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS) | [Pilletje Voor De Pep](https://open.spotify.com/album/75jXGXQGp5UY4qlPCuV8iX) | 3:13 |
 | 13 | [Going Wild](https://open.spotify.com/track/2t2l6PCNnwgM0bvjdsghIz) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM), [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR) | [FTW](https://open.spotify.com/album/0SccCfCTTGBNxxDTjrgbO6) | 2:36 |
 | 14 | [UP IN FLAMES](https://open.spotify.com/track/4SBVH5ArfSTyH7OM8UGYJ9) | [Thyron](https://open.spotify.com/artist/75jOSvJYkVT21xz5yll1xM) | [UP IN FLAMES](https://open.spotify.com/album/3OIb6GhPQPgsY6OiDK2iiU) | 3:56 |
 | 15 | [Beat Of The Drum](https://open.spotify.com/track/0ryREQNVALsNonSQ24okIX) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Beat Of The Drum](https://open.spotify.com/album/6uhqXqtlxqvJGVFq6Y6Lfp) | 1:52 |

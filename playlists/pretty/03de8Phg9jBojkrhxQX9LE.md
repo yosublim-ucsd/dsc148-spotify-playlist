@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,942 likes - 150 songs - 8 hr 13 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,941 likes - 150 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 27 | [The Plot](https://open.spotify.com/track/5OwTQxYGQgDr6ty3TY5sYJ) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI), [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n) | [The Plot](https://open.spotify.com/album/1znStHWqUFoBUiPiHNSYB2) | 2:40 |
 | 28 | [Hey Baby \(salute remix \- radio edit\)](https://open.spotify.com/track/3Wt9BeTK8SlTG7c3KEBJN5) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Hey Baby \(salute Remix\)](https://open.spotify.com/album/6TejDHnQGR3yqYsrWDCn27) | 3:35 |
 | 29 | [Underground](https://open.spotify.com/track/40HdCxHtaNqFyt2pM8FxSy) | [SUAHN](https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX) | [Underground](https://open.spotify.com/album/2hsSgzxyH5t7PvgXzKB4uA) | 3:00 |
-| 30 | [Fever](https://open.spotify.com/track/4vqSynbV7NmDYyEulIYwnZ) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Fever](https://open.spotify.com/album/2URXjf8qJqeoTOINaxymmB) | 3:12 |
+| 30 | [Fever](https://open.spotify.com/track/4vqSynbV7NmDYyEulIYwnZ) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Fever](https://open.spotify.com/album/2URXjf8qJqeoTOINaxymmB) | 2:58 |
 | 31 | [Remedy](https://open.spotify.com/track/0yxxqR3NisNHFZxd0eKRC7) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [Remedy](https://open.spotify.com/album/0cvAzQQh4oiOf4370MNDvw) | 2:57 |
 | 32 | [Blacked Out](https://open.spotify.com/track/0v06s5ISTc1mkO4K0GKrQp) | [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL), [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Blacked Out](https://open.spotify.com/album/59UCvfCtvPJvsX1UIhI58F) | 3:41 |
 | 33 | [Soul](https://open.spotify.com/track/6DCyeSglUl6dX2GcWF5frs) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Soul](https://open.spotify.com/album/3slTbKjs9faxtbTTVV3kwN) | 3:33 |

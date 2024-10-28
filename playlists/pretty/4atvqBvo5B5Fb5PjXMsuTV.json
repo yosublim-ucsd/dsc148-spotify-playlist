@@ -1,13 +1,53 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Oct 04:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Oct 22:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAMmljONuGc/df3Kx/sUa4924Mgu/5i",
+  "snapshot_id": "AAAMnm6xvML4QZFRIPOxWbN4mwyB7+nd",
   "tracks": [
+    {
+      "added_at": "2024-10-27 04:02:43",
+      "album": {
+        "name": "Hey Mister!",
+        "url": "https://open.spotify.com/album/1CPG5qDYbIadB9Jizgpkz8"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "SadGirlsVsTheWorld",
+          "url": "https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61"
+        },
+        {
+          "name": "Y\u014dko",
+          "url": "https://open.spotify.com/artist/0Cznh5kr6Hlgyl2oHxEFF4"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Hey Mister!",
+      "url": "https://open.spotify.com/track/7e9hSOyaSFnYyTNcBVwpEa"
+    },
+    {
+      "added_at": "2024-10-27 22:02:41",
+      "album": {
+        "name": "Et\u00e9reo",
+        "url": "https://open.spotify.com/album/3748tZ79dqW8IhO2zE7K1o"
+      },
+      "artists": [
+        {
+          "name": "Aldoxito",
+          "url": "https://open.spotify.com/artist/5MgScuTTQqQJwBieWOx6Mu"
+        }
+      ],
+      "duration_ms": 203495,
+      "name": "Et\u00e9reo",
+      "url": "https://open.spotify.com/track/5OvebLWSaA7y3lHsIfjvpt"
+    },
     {
       "added_at": "2024-10-25 07:03:15",
       "album": {
@@ -561,22 +601,6 @@
       "url": "https://open.spotify.com/track/3TPKsQTu9jZyzQJiax5rLA"
     },
     {
-      "added_at": "2024-10-25 10:02:24",
-      "album": {
-        "name": "One Eye Open",
-        "url": "https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 212994,
-      "name": "One Eye Open",
-      "url": "https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2"
-    },
-    {
       "added_at": "2024-10-25 07:03:15",
       "album": {
         "name": "Fable",
@@ -591,6 +615,22 @@
       "duration_ms": 261005,
       "name": "Fable",
       "url": "https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn"
+    },
+    {
+      "added_at": "2024-10-25 10:02:24",
+      "album": {
+        "name": "One Eye Open",
+        "url": "https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 212994,
+      "name": "One Eye Open",
+      "url": "https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2"
     },
     {
       "added_at": "2024-10-25 07:03:15",
@@ -815,38 +855,6 @@
       "duration_ms": 173000,
       "name": "Man Of The House",
       "url": "https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS"
-    },
-    {
-      "added_at": "2024-10-25 13:02:32",
-      "album": {
-        "name": "Demon's Glue",
-        "url": "https://open.spotify.com/album/0CM1zkvCRxp3nvqIioJ1pA"
-      },
-      "artists": [
-        {
-          "name": "Black Moth Super Rainbow",
-          "url": "https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l"
-        }
-      ],
-      "duration_ms": 309340,
-      "name": "Demon's Glue",
-      "url": "https://open.spotify.com/track/6FDyHSaWiDtDIO72el0jh7"
-    },
-    {
-      "added_at": "2024-10-25 07:03:15",
-      "album": {
-        "name": "Born With a Broken Heart",
-        "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 208956,
-      "name": "Born With a Broken Heart",
-      "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     }
   ],
   "unique_name": "New Singles Now",

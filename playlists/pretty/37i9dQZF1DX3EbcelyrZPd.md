@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Nandy & Harmonize
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,462 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,522 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 13 | [Top Notch \(feat\. Marioo\)](https://open.spotify.com/track/5gliaxCldNYSFXk81MJS08) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Starter](https://open.spotify.com/album/0MGanLLTWqlVhXViAzSJQs) | 2:32 |
 | 14 | [Ujana](https://open.spotify.com/track/4aldg54TvCNPThgji8Syda) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Ujana](https://open.spotify.com/album/6z3OZUCoYCuYGnB3eru2nm) | 3:36 |
 | 15 | [Kipofu \(feat\. Alikiba\)](https://open.spotify.com/track/72OnFBAb69Smqm8sqcRMSW) | [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Kipofu \(feat\. Alikiba\)](https://open.spotify.com/album/3HiAnfQyJKtmiMi8gMwUQ6) | 3:55 |
-| 16 | [Pisi](https://open.spotify.com/track/788uP7aH98lMiRYIadYW6h) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Pisi](https://open.spotify.com/album/1mp2vUSOmcgGJlfrRtZxV7) | 3:50 |
+| 16 | [Pisi \- remix](https://open.spotify.com/track/788uP7aH98lMiRYIadYW6h) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Pisi](https://open.spotify.com/album/1mp2vUSOmcgGJlfrRtZxV7) | 3:50 |
 | 17 | [Baridi](https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Baridi](https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX) | 3:15 |
 | 18 | [Yes I Do](https://open.spotify.com/track/4EWsq94xq3M1I4rXZMdEni) | [Barakah The Prince](https://open.spotify.com/artist/2Lrp6RL4vdo88oCzuutNfL), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Yes I Do](https://open.spotify.com/album/1I47crfo4NzhbAxlO4Vfng) | 3:39 |
 | 19 | [Nitadumu Nae](https://open.spotify.com/track/0BP9o03jFihRWj5aDrBYE2) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Nitadumu Nae](https://open.spotify.com/album/3t9HBzFxZqDGqRMX26xp02) | 3:33 |

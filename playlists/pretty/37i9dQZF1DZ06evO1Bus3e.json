@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12143,
+  "num_followers": 12145,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAACAqa7oUBmGsEsEBuW4PIdK",
+  "snapshot_id": "ZxwxAAAAAAB0Agetxc+SCb52FtHharAx",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 238116,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 182624,
+      "name": "Seguiremos Trabajando",
+      "url": "https://open.spotify.com/track/2IIM3kOZaaGAKbmhTbeBiF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DDM Anthem",
         "url": "https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c"
       },
@@ -339,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },
       "artists": [
         {
@@ -348,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 182624,
-      "name": "Seguiremos Trabajando",
-      "url": "https://open.spotify.com/track/2IIM3kOZaaGAKbmhTbeBiF"
+      "duration_ms": 209962,
+      "name": "Calorsitos Del Desierto",
+      "url": "https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A"
     },
     {
       "added_at": null,
@@ -371,22 +403,6 @@
       "duration_ms": 128347,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 209962,
-      "name": "Calorsitos Del Desierto",
-      "url": "https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A"
     },
     {
       "added_at": null,

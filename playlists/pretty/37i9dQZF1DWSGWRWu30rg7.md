@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Nathania Khow
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,602 likes - 107 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,604 likes - 107 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

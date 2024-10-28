@@ -4,7 +4,7 @@
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-257 songs - 14 hr 54 min
+258 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Chocobo Theme](https://open.spotify.com/track/2Kqcwc0MlYkB53OJHZCbfq) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY II Original Soundtrack](https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6) | 0:24 | 2021-05-21 | 2023-06-09 |
 | [Crazy Chocobo](https://open.spotify.com/track/1UYhWzTGVNLMTXetWCQxgN) | [ShootieHG](https://open.spotify.com/artist/3AmPUqTlN4yGPZF1G1eUSP) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 1:55 | 2023-06-25 | 2023-09-08 |
 | [CRISIS CORE Theme \- Succession](https://open.spotify.com/track/4Bt4WrRN6VWwoIkJP1l4vL) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 0:43 | 2023-06-08 | 2024-10-20 |
+| [CRISIS CORE Theme \- Under the Apple Tree](https://open.spotify.com/track/3LHo1P0OTS3u9INCq42xnr) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 4:02 | 2024-09-18 |  |
 | [Dragonsong](https://open.spotify.com/track/0UVvQQdoeJeH7aDcgh9dVL) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Heavensward: FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/6ok6JQ4pIIdniVz3lZHOoC) | 5:42 | 2023-06-08 |  |
 | [DUEL!!](https://open.spotify.com/track/3MtnSqACBKYdvz5VgIAUJD) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:50 | 2023-06-09 | 2024-10-26 |
 | [Duty and Friendship](https://open.spotify.com/track/3YDnSPfWMHpA39rUDx0eDw) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 1:26 | 2023-07-06 | 2024-10-07 |
@@ -107,7 +108,7 @@
 | [Land of Eikons](https://open.spotify.com/track/7qqr7CbTfqsdMeEHkot4sp) | [祖堅 正慶](https://open.spotify.com/artist/2mpgGfU9ADJWttbCdUbjqe), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY XVI Original Soundtrack \(Prelude\)](https://open.spotify.com/album/4SKgLEaL1Zpj6gDrtJ0OHu) | 2:27 | 2023-07-06 | 2024-04-19 |
 | [Liberty or Death](https://open.spotify.com/track/6jSNSADUQQ1NPqXuQzAHdO) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2【1/2】](https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA) | 3:05 | 2023-06-08 | 2024-03-20 |
 | [Listen to the Cries of the Planet \- Battle Edit \- FF7 Rebirth OST Ver.](https://open.spotify.com/track/045utA30J7qEztw4u14FS6) | [島 翔太朗](https://open.spotify.com/artist/4edH5rHkxAdEiV56PcNQUq), [植松 伸夫](https://open.spotify.com/artist/43KYXqrHZyJxmC2aJkyPLW) | [FINAL FANTASY VII REBIRTH Original Soundtrack \(Preview Version\)](https://open.spotify.com/album/6RqbGdc1DNiKAHy3fnWzsy) | 2:08 | 2024-03-19 | 2024-04-19 |
-| [Living Legacy](https://open.spotify.com/track/6OVTAgBSJrevOKaiO9KXbn) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 8:47 | 2024-09-18 |  |
+| [Living Legacy](https://open.spotify.com/track/6OVTAgBSJrevOKaiO9KXbn) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [CRISIS CORE \-FINAL FANTASY VII\- Original Soundtrack](https://open.spotify.com/album/5J7YFCUhQAptIixwtLhLEi) | 8:47 | 2024-09-18 | 2024-10-28 |
 | [Luca](https://open.spotify.com/track/0ZWbnEsONhMZI7gpKOFMcu) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:41 | 2023-06-08 |  |
 | [Macalania Woods](https://open.spotify.com/track/3aSRlnZBth5LhEI9mmYi9k) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:20 | 2023-07-06 | 2023-11-25 |
 | [Main Theme from FINAL FANTASY](https://open.spotify.com/track/3IbnhGZ8S7SyNO8BoGBdY2) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 2:07 | 2021-05-21 | 2023-06-09 |

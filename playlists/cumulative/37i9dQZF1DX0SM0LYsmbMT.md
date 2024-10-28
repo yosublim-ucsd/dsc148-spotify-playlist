@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,267 songs - 6 day 18 hr 49 min
+4,268 songs - 6 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2265,6 +2265,7 @@
 | [Merhaba](https://open.spotify.com/track/6qDTNdB4DfWGaEI4hb4BJL) | [Qadir Bijoux](https://open.spotify.com/artist/26dpXNQaUiknQXGV3zQqzQ) | [M](https://open.spotify.com/album/25EY8GXedHWxDYTdXqB5YV) | 3:03 | 2020-04-24 | 2020-06-29 |
 | [Meridian](https://open.spotify.com/track/1akZQhUlTJH9giqLJkUlVH) | [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Meridian](https://open.spotify.com/album/6hMN7AQidElCryhqSzOvLM) | 2:45 | 2023-08-31 | 2023-10-13 |
 | [Mermaid's Garden](https://open.spotify.com/track/6GL6TKpg1RkYstOcNqhY8e) | [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO), [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg) | [Mermaid's Garden](https://open.spotify.com/album/3FubTRqOiK5q3P78OVmnv8) | 2:23 | 2020-09-18 | 2021-04-09 |
+| [Mesa](https://open.spotify.com/track/17qtnRyqhLvZklPRDaRJBC) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Mesa](https://open.spotify.com/album/6Iwnolwbpzqo1AI2cJHepY) | 1:48 | 2024-10-24 |  |
 | [metelkova](https://open.spotify.com/track/2102AdMDG3ye0LXVGe0TyB) | [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [metelkova / lángos](https://open.spotify.com/album/0sEAKrB7hBSGBFhY2ujgxa) | 1:58 | 2020-04-18 | 2020-06-19 |
 | [Metropolis](https://open.spotify.com/track/5TycMfS6hwjtK0stjkHLnZ) | [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg), [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Metropolis](https://open.spotify.com/album/7blESGfeNdB9KhjQ6avpq3) | 2:14 | 2021-11-19 | 2022-04-08 |
 | [Mi Vida](https://open.spotify.com/track/3CauIbXSxW0RvhD9M0BPu9) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Mi Vida](https://open.spotify.com/album/6BV1B7EYh41WQvR1p6aBSu) | 2:08 | 2024-10-10 |  |
@@ -2500,7 +2501,7 @@
 | [New Moon](https://open.spotify.com/track/2ZbvON6YdaYgcO1PiIA4uw) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [New Moon](https://open.spotify.com/album/6HPQfXJo8OFpyMxGjdIqbm) | 2:25 | 2021-05-14 | 2022-01-21 |
 | [New music](https://open.spotify.com/track/3etlIf9k54KXj8fgY1NQtD) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [New music](https://open.spotify.com/album/51vLWuPjB2yt3GlJRbuGyD) | 1:27 | 2021-06-04 | 2022-07-28 |
 | [New music](https://open.spotify.com/track/3xBmX6bX1uejbi7iLFiRp5) | [Don Philippe](https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU) | [Pleasures](https://open.spotify.com/album/17lrOs4wLpcYKDMJynoQ9p) | 1:27 | 2022-07-28 | 2022-09-27 |
-| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 |  |
+| [New Sneakers](https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Sneakers](https://open.spotify.com/album/6pgebHoouixAkRV1OBHhhX) | 1:28 | 2024-02-15 | 2024-10-28 |
 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 | 2024-01-15 | 2024-01-19 |
 | [New York](https://open.spotify.com/track/1SHW5GLmrJ3PbR5Cbip24V) | [Gregory Ross](https://open.spotify.com/artist/3vHAij1z57NgRTTtTDFAoe) | [New York](https://open.spotify.com/album/6v1lczl6CkTOm3tWO6MGYw) | 3:18 | 2019-11-12 | 2020-03-31 |
 | [New York \- Extended](https://open.spotify.com/track/0x3JF5cqEMI6Sl1EQj0GgS) | [StriveAU](https://open.spotify.com/artist/0gX527ngxcnfHH8kHj1gEe) | [Vans with My Ol' Sweater](https://open.spotify.com/album/5j7ZJBrNIB8SByWJxLalZC) | 1:51 | 2019-05-26\* | 2019-06-15 |

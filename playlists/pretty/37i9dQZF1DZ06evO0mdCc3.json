@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 13117,
+  "num_followers": 13127,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAACXKAbTj6Hk9E9XXLfiXIDw",
+  "snapshot_id": "ZxwxAAAAAAD8qwSL5zlEvylAxWebU4sD",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funeral For Yesterday",
-        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 191024,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1iZRyN9aA1pYdD3hqYxNec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Failed You",
         "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 171773,
       "name": "We Are The Lamb",
       "url": "https://open.spotify.com/track/1p14HQkkE9KFyzAvLMT8IH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funeral For Yesterday",
+        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 191024,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1iZRyN9aA1pYdD3hqYxNec"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brackish (Live)",
-        "url": "https://open.spotify.com/album/3I6DAJjRgLnhgyKStxUnvg"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 172334,
-      "name": "Live At The Tweeter Center Boston / 2000 - Single Edit - Live",
-      "url": "https://open.spotify.com/track/6GftFf7iY3hxND9omCxZSf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Failed You",
         "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 131853,
       "name": "I've Failed You",
       "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brackish (Live)",
+        "url": "https://open.spotify.com/album/3I6DAJjRgLnhgyKStxUnvg"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 172334,
+      "name": "Live At The Tweeter Center Boston / 2000 - Single Edit - Live",
+      "url": "https://open.spotify.com/track/6GftFf7iY3hxND9omCxZSf"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funeral For Yesterday",
-        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
+        "name": "Origins/Evolutions (Live)",
+        "url": "https://open.spotify.com/album/2fZqRekprMG7mxjFP8Fm4Q"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 238038,
-      "name": "Witch Hunt",
-      "url": "https://open.spotify.com/track/6C8vQKRucg3uuwA9UKpyh6"
+      "duration_ms": 281811,
+      "name": "Never Again - Live",
+      "url": "https://open.spotify.com/track/3TnEw9Xea9TMDKIhWvEv26"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins/Evolutions (Live)",
-        "url": "https://open.spotify.com/album/2fZqRekprMG7mxjFP8Fm4Q"
+        "name": "Funeral For Yesterday",
+        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 281811,
-      "name": "Never Again - Live",
-      "url": "https://open.spotify.com/track/3TnEw9Xea9TMDKIhWvEv26"
+      "duration_ms": 194027,
+      "name": "Will To Live",
+      "url": "https://open.spotify.com/track/2bVvEXfRYzpXAd8YKyVIXe"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funeral For Yesterday",
-        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 194027,
-      "name": "Will To Live",
-      "url": "https://open.spotify.com/track/2bVvEXfRYzpXAd8YKyVIXe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Black",
         "url": "https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 197146,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Funeral For Yesterday",
+        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 238038,
+      "name": "Witch Hunt",
+      "url": "https://open.spotify.com/track/6C8vQKRucg3uuwA9UKpyh6"
     },
     {
       "added_at": null,

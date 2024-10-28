@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:1CFCsEqKrCyvAFKOATQHiW">Lecrae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,902 likes - 78 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,939 likes - 78 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 27 | [What If](https://open.spotify.com/track/1hb6oGNerobTD465qgBvTD) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Common Ground](https://open.spotify.com/album/7ufHFG2CBrkfDKELQ5OQ2F) | 3:59 |
 | 28 | [YAHWEH](https://open.spotify.com/track/2X8by6m44p9dpivzyzB14p) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Anike](https://open.spotify.com/album/6PzZRVqEuFrt2U6f5j4yEf) | 2:49 |
 | 29 | [So What](https://open.spotify.com/track/2xLzbQRjWwSbBJupAo6vvW) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Heart of a Human](https://open.spotify.com/album/6HNhZ8LbLSi0o3LKJEhh8A) | 2:29 |
-| 30 | [The Well](https://open.spotify.com/track/2VQ1jiPB2LEjm1SOWylYWa) | [Campus Rush Music](https://open.spotify.com/artist/4v3pVN73q2WOhM5Ne9hOSP), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Sewa](https://open.spotify.com/artist/3bI77I1wSd5xnAu5WqdkSv), [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr) | [The Well](https://open.spotify.com/album/0bWehUL6mhonc542LlBWVg) | 8:17 |
+| 30 | [The Well](https://open.spotify.com/track/2VQ1jiPB2LEjm1SOWylYWa) | [Campus Rush Music](https://open.spotify.com/artist/4v3pVN73q2WOhM5Ne9hOSP), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Sewa](https://open.spotify.com/artist/5YZNJOxEzikNEQryLfqwxD), [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr) | [The Well](https://open.spotify.com/album/0bWehUL6mhonc542LlBWVg) | 8:17 |
 | 31 | [I Have A Father \- Live](https://open.spotify.com/track/6WoDQJKSSelqLgDlFMtvcR) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [I Have A Father \(Live\)](https://open.spotify.com/album/0KzxCAa6x91JzTUSp4qeVF) | 7:39 |
 | 32 | [Pick Up The Pieces](https://open.spotify.com/track/4smAjx8DAwLPw89l8KjOsX) | [Dee Black](https://open.spotify.com/artist/4OuEhBbPXrJc69MX5e7LgI), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Pick Up The Pieces](https://open.spotify.com/album/1zg1jyttmHt8tqIGn0hAuU) | 2:55 |
 | 33 | [Praise \(Lift Him Up\)](https://open.spotify.com/track/0qBRFywdab2FxWLrfo9mhK) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo), [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Praise \(Lift Him Up\)](https://open.spotify.com/album/0sUXCEYIf1f5LnBK4vhYTg) | 4:24 |

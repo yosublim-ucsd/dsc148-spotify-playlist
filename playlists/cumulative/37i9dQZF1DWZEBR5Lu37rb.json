@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 320012,
       "name": "Olufunmi",
       "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
@@ -3310,6 +3310,28 @@
       "duration_ms": 189813,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/1de0B7PogPYdil6GbJNC5y"
+    },
+    {
+      "album": {
+        "name": "Resistance (feat. SGaWD)",
+        "url": "https://open.spotify.com/album/7Mh9PHYIYq6catNcSw91ZT"
+      },
+      "artists": [
+        {
+          "name": "Jess ETA",
+          "url": "https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y"
+        },
+        {
+          "name": "SGaWD",
+          "url": "https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l"
+        }
+      ],
+      "date_added": "2024-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213537,
+      "name": "Resistance (feat. SGaWD)",
+      "url": "https://open.spotify.com/track/3NbbpgWyyprHrllhvSp4xo"
     },
     {
       "album": {

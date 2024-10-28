@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: sept\-oct 2024 \(previous playlists archived on my profile\) \(image source: @therapist\_kirby on IG\)
 
-335 songs - 17 hr 46 min
+336 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Yr Broom](https://open.spotify.com/track/7vtvaC8cBykfsBGoSfUB7N) | [Someone Still Loves You Boris Yeltsin](https://open.spotify.com/artist/28V657x2IVJnSW3Srw6Ubd) | [Broom](https://open.spotify.com/album/1UfpKUcPn3fHIF3g8OoApJ) | 1:37 | 2024-08-05 | 2024-09-08 |
 | [Água](https://open.spotify.com/track/29ZUFEjGpprL595i3JEF50) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan](https://open.spotify.com/album/72O5JvUfLI71iSMqaOdNAY) | 3:39 | 2024-07-12 | 2024-09-08 |
 | [あなたから遠くへ](https://open.spotify.com/track/6hFK7qLwkhxcOZw3ywEq8l) | [金延幸子](https://open.spotify.com/artist/5rT9yvOxKxNBsDevOiKKGs) | [み空](https://open.spotify.com/album/3FnRt5aR3UNby43dumedN9) | 3:29 | 2024-09-18 |  |
+| [アン・オープン・ドア](https://open.spotify.com/track/1DrPpgiTvuogt6Ktxsag4h) | [FLat7](https://open.spotify.com/artist/6qWQ49hbX08ZLyRABxaasl) | [スウィート・グロウ・オブ・サイレンス](https://open.spotify.com/album/21AVBPMluy9ZI8SkMWC4Ar) | 4:43 | 2024-10-27 |  |
 | [甜蜜蜜](https://open.spotify.com/track/0aIQZBntZW3LCptADbkfKZ) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [BTB 鄧麗君15週年](https://open.spotify.com/album/5joHY66NwcFkf0ho0u4Kym) | 3:28 | 2024-04-23 | 2024-05-16 |
 
 \*This playlist was first scraped on 2024-02-12. Prior content cannot be recovered.

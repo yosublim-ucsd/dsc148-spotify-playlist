@@ -7572,7 +7572,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-27",
+      "date_removed": null,
       "duration_ms": 149473,
       "name": "CHIARA",
       "url": "https://open.spotify.com/track/3BK8HOgD5GX3mfwVytDyIR"
@@ -12692,7 +12692,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 128450,
       "name": "Etc (feat. Nardo Wick)",
       "url": "https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG"
@@ -15232,7 +15232,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-27",
+      "date_removed": null,
       "duration_ms": 151926,
       "name": "GHETTO (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/7drdP9n1QfwYFlAjMbix5i"
@@ -32222,7 +32222,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 144992,
       "name": "Porto il Commerciale (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/6MQYhSIrh9vwztmM6mwkzQ"
@@ -34955,6 +34955,28 @@
     },
     {
       "album": {
+        "name": "TUTTA VITA",
+        "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180137,
+      "name": "Scarabocchi",
+      "url": "https://open.spotify.com/track/4X4R6qsIicxIQIFbnDcJLO"
+    },
+    {
+      "album": {
         "name": "Gemelli (ascendente Milano)",
         "url": "https://open.spotify.com/album/5bIm3XT2nJAdPvTLsBlk8g"
       },
@@ -37218,7 +37240,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 146865,
       "name": "SOUTHSIDE (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/3pFrl4cW03RrsLrBhXyMb0"

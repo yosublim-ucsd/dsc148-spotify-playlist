@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Kasablanca
 
-747 songs - 1 day 16 hr 52 min
+748 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/track/62bjfb5YMLvZU44vfjJVxp) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [BEATS FOR THE UNDERGROUND](https://open.spotify.com/album/79kzvy6zqbSZsSIxVK3flH) | 3:34 | 2024-02-09 | 2024-10-05 |
 | [Bel Mercy](https://open.spotify.com/track/1635wWSdp29PO3GxYhy991) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE) | 2:49 | 2022-12-02 |  |
 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 | 2022-12-02 | 2024-04-19 |
+| [Bella Ciao](https://open.spotify.com/track/7D3h8trsx2ZMvrzafWipKX) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [Bella Ciao](https://open.spotify.com/album/22GBiZ8ccOeY4Oeit6AgxO) | 2:00 | 2024-10-25 |  |
 | [Better Off](https://open.spotify.com/track/22519OhPZTb1FPmMHUYFtt) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Better Off](https://open.spotify.com/album/6Iy0tt3C20HehDLaVRfLu8) | 3:05 | 2022-01-14 | 2022-04-16 |
 | [Better Off Leaving](https://open.spotify.com/track/1XoYqY65aFOuc0rnhANLeV) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Tribe Alexander](https://open.spotify.com/artist/1Rj7IzzqQVvx8HtZ1WfwCv) | [Better Off Leaving](https://open.spotify.com/album/0v3Rc54IpZHPQrZbUcegXD) | 3:37 | 2022-01-14 | 2022-04-16 |
 | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4) | 3:25 | 2022-02-04 | 2022-02-26 |
@@ -183,7 +184,7 @@
 | [Dreaming](https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Dreaming](https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB) | 2:16 | 2022-05-06 | 2022-09-24 |
 | [Dreams \(Plasma Reflex\) \(feat\. Crooked Bangs\)](https://open.spotify.com/track/4d3Bpulz7wXrd8hndD7ci1) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [TESSERACT](https://open.spotify.com/album/6ccsXcDzYI8vkqzPhp7SB4) | 4:00 | 2024-02-16 | 2024-04-29 |
 | [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 | 2023-07-21 | 2023-09-09 |
-| [DRENCH](https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [DRENCH](https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H) | 3:17 | 2023-06-09 |  |
+| [DRENCH](https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [DRENCH](https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H) | 3:17 | 2023-06-09 | 2024-10-28 |
 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 | 2023-10-27 |  |
 | [Drop](https://open.spotify.com/track/5iscY6uoraOqqKurX7G8S9) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [Drop](https://open.spotify.com/album/4TotKs9vQYC2JnSNNUvUz6) | 2:08 | 2023-01-20 |  |
 | [DUST](https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [DUST](https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9) | 2:31 | 2023-12-08 | 2024-05-02 |

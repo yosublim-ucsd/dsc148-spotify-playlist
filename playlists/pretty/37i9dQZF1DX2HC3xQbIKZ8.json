@@ -1,6 +1,6 @@
 {
   "description": "Reggae, roots and dub. Relax, you're on island time.",
-  "num_followers": 120162,
+  "num_followers": 120179,
   "original_name": "Island Time",
   "owner": {
     "name": "Spotify",
@@ -1144,12 +1144,12 @@
       },
       "artists": [
         {
-          "name": "Josh Wawa",
-          "url": "https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz"
-        },
-        {
           "name": "Tomorrow People",
           "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        },
+        {
+          "name": "Josh Wawa",
+          "url": "https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz"
         }
       ],
       "duration_ms": 219475,

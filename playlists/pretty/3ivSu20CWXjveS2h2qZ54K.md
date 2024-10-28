@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,612 likes - 96 songs - 5 hr 21 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,611 likes - 96 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 5 | [MI ROSTRO](https://open.spotify.com/track/15SFqYHsArxZLJVdQHxYg6) | [caracazador](https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca) | [REPÚBLICA](https://open.spotify.com/album/5Dnn8i5SsS07et9uMuYUcD) | 4:22 |
 | 6 | [MIL€](https://open.spotify.com/track/4fGpsACgmw8a7JDr0cX46o) | [SVSTO](https://open.spotify.com/artist/29gR6mmbb1FG5n2AT3fK8P) | [MIL€](https://open.spotify.com/album/0r2RzQ6P10BONtUNI8YJQc) | 3:43 |
 | 7 | [Materia Oscura](https://open.spotify.com/track/4cWpIL8wiOeQPpA9o43CQK) | [Dorian](https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk) | [Materia Oscura](https://open.spotify.com/album/6C2DvuFSgxyGHL660PZU8j) | 3:58 |
-| 8 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 8 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 9 | [Heavenly](https://open.spotify.com/track/5Bng1Bwy7PFQys6qByKmdT) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:25 |
 | 10 | [Nada Nuevo](https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [Las Huidas](https://open.spotify.com/album/2nj0oHnEEi5mS8GwX7TqwD) | 2:57 |
 | 11 | [Abigail](https://open.spotify.com/track/6deZayR6kkANHzaEaAvQqe) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Abigail](https://open.spotify.com/album/5fbVCssH2Oei8gJ0LFCbl5) | 3:07 |

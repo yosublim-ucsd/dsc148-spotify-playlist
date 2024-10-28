@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: YouNotUs, Cheat Codes
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,750 likes - 78 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,743 likes - 78 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

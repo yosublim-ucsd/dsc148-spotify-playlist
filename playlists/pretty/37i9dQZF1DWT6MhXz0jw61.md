@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,331,837 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,331,921 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 33 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
 | 34 | [Yak's Prayer \(feat\. Kodak Black\)](https://open.spotify.com/track/2TWYm2ojFFrcq6y2utrCcx) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 3:24 |
 | 35 | [Cream Corn](https://open.spotify.com/track/4qHomAyRWyZKeaQOi3uMfo) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Decisions](https://open.spotify.com/album/1wXA0CPAKjjqonYux7JJvC) | 3:19 |
-| 36 | [Entry \#149](https://open.spotify.com/track/3jlIKHFVJTPqjaUGgAt0Rk) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home \(Clean Version\)](https://open.spotify.com/album/6Hg7S5WSBU3yiochCMaXLk) | 2:40 |
+| 36 | [Entry \#149](https://open.spotify.com/track/3jlIKHFVJTPqjaUGgAt0Rk) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [The Drive Home](https://open.spotify.com/album/6Hg7S5WSBU3yiochCMaXLk) | 2:40 |
 | 37 | [Palaces](https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Samurai](https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e) | 3:45 |
 | 38 | [Good Ol' Days \(feat\. Joey Bada$$\)](https://open.spotify.com/track/2KvVSwEsBgQAelnpsBZ2dq) | [Nyck Caution](https://open.spotify.com/artist/1ZyUXvaBXUsIZ3JD6jYGkt), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [NYCKSTAPE](https://open.spotify.com/album/6zf20SxPe444rl4W29vEJ1) | 3:57 |
 | 39 | [Born In A Crash](https://open.spotify.com/track/4e40siVNT0RE5cJLLdDbyk) | [Wale the Sage](https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD) | [Born In A Crash](https://open.spotify.com/album/0OlUwiZrc1uFlFT0UkQ83H) | 3:06 |

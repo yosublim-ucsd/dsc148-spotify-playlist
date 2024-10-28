@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Pilot\(파일럿\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-941 songs - 2 day 9 hr 7 min
+943 songs - 2 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,9 +692,11 @@
 | [Someday](https://open.spotify.com/track/3uZxAOpw6ZjMT36GrxqDoK) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.1](https://open.spotify.com/album/3IJEj5V5TA7Dbz0LpE7nhJ) | 3:52 | 2023-11-02 | 2024-05-28 |
 | [Somehow](https://open.spotify.com/track/1xknicKLCrmvtOn5IfIBbF) | [란\(RAN\)](https://open.spotify.com/artist/5JCsBzT5iTN0rGLMLfb2EF) | [The Crush Of Spring OST Part.11](https://open.spotify.com/album/23J6KpkSpALFrMGcXd2VZw) | 3:45 | 2022-06-28 | 2022-09-20 |
 | [Sound of your heart](https://open.spotify.com/track/3aC5bdpXLshTQQb7IiCuIR) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Tell Me That You Love Me, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5fZKFbeHsppMiXKKJ5PmrX) | 4:11 | 2023-12-10 | 2024-06-06 |
+| [SPELL](https://open.spotify.com/track/7yMdv3IRM3TnYuYqR8DCvv) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [A Virtuous Business \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1OH02EZ8oerwDqGmeMYS5c) | 2:43 | 2024-10-27 |  |
 | [Spoiler](https://open.spotify.com/track/5y6jryJF3l5KqnCZMPw1qR) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [My Lovely Liar, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5LKJGEt0FiAr1X9PklDkgS) | 3:10 | 2023-08-16 | 2024-02-11 |
 | [Spring Breeze](https://open.spotify.com/track/5o5Z23GVeAq9xJGOp1HU4H) | [NEW \(THE BOYZ\)](https://open.spotify.com/artist/67pva3FofOzEWZ3dSAItPL) | [Spring Breeze \(A Business Proposal OST Part.9\)](https://open.spotify.com/album/25MSSup5Ol8rYaJbdjEqPq) | 3:44 | 2022-03-29 | 2022-05-04 |
 | [Spring days of my life](https://open.spotify.com/track/1tV2JM0BbFinuf2uma2oVX) | [Jeong Hongil](https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b) | [Never give up, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/3mQs0h8lBrS1KQ0xYUSxd3) | 4:04 | 2022-05-11 | 2022-06-24 |
+| [Spring days pass](https://open.spotify.com/track/1WACArKm987xYhEAiuetlx) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Jeongnyeon: The Star is Born, Pt\. 3 : Spring days pass \(Original Soundtrack\)](https://open.spotify.com/album/1X1rFF1LiVPkEQBv97ziIp) | 3:21 | 2024-10-27 |  |
 | [Spring Is Come By Chance](https://open.spotify.com/track/098sl6wQg4guh7W3EkkKX6) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [An Da Eun](https://open.spotify.com/artist/7AsMZq4eVOzIfqaaAWfnJ3) | [Spring Is Come By Chance \(Webtoon 'Admiral's Love Story With Freak Princess' OST San E X An Da Eun\)](https://open.spotify.com/album/1SMTaBfYdkS7jslu7atMD1) | 3:27 | 2022-04-12 | 2022-06-19 |
 | [Squabble](https://open.spotify.com/track/7Mj1kQLaqu6Rr6rwAIJQQh) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/0xhf7P1ycg3HDD2lbWbkPm) | 3:25 | 2021-12-19 | 2022-03-30 |
 | [Stand By Your Side](https://open.spotify.com/track/1h2EjiRBZu1geZrxV5dWhz) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Stand By Your Side \(CURTAIN CALL OST Part.7\)](https://open.spotify.com/album/7c0jTAaxnlZgPAhvYsdr0a) | 4:30 | 2022-12-19 | 2023-03-28 |

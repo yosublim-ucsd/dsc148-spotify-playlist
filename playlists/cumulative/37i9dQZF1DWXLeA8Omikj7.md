@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-991 songs - 2 day 23 hr 10 min
+992 songs - 2 day 23 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [Fireworks](https://open.spotify.com/track/2PBhtUADoEysFoT5dBBGnz) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [18 & 18 B\-Sides](https://open.spotify.com/album/5MiL1RXRXGXETgZ2LjaG0U) | 2:13 | 2019-06-25 | 2020-08-26 |
 | [Flek](https://open.spotify.com/track/37MvOmyPdgyeWOymDgor3O) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Flek](https://open.spotify.com/album/32vcNeIRAUWxN8Yq0ROfEa) | 3:59 | 2023-10-06 |  |
 | [Flicker](https://open.spotify.com/track/635aBqtYKZiGQTotfllnpl) | [Rohne](https://open.spotify.com/artist/2GL5OJQQ0qp2rtth8iy6Kf) | [Flicker](https://open.spotify.com/album/51PktMeH5b1GPZvJ7ZTZsU) | 4:47 | 2021-08-27 |  |
-| [Flips and Flops, Drips and Drops](https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3) | [Electric Mantis](https://open.spotify.com/artist/4oEju6elvuvjARvor8R9j9) | [Flips and Flops, Drips and Drops](https://open.spotify.com/album/1raJmkdfhcwOPMpzJ9zkea) | 3:36 | 2019-05-26\* |  |
+| [Flips and Flops, Drips and Drops](https://open.spotify.com/track/06iwhAevuCgupNwTg3wSC3) | [Electric Mantis](https://open.spotify.com/artist/4oEju6elvuvjARvor8R9j9) | [Flips and Flops, Drips and Drops](https://open.spotify.com/album/1raJmkdfhcwOPMpzJ9zkea) | 3:36 | 2019-05-26\* | 2024-10-28 |
 | [Float](https://open.spotify.com/track/7omCw0COR7xdEqGdAo15Qs) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Float](https://open.spotify.com/album/7wNrgLd06nnEGKmN41nXYI) | 4:07 | 2020-10-19 | 2020-10-22 |
 | [Floating on Your Memories](https://open.spotify.com/track/19x0wfJhjCLPlUEE63ar4o) | [Rhodz](https://open.spotify.com/artist/4BrtGOYp8sytG9MV91DROT) | [Fading Horizon LP](https://open.spotify.com/album/4FDfCvhIpbwu6956J8a0jh) | 2:36 | 2019-06-19\* | 2022-04-13 |
 | [Flood Gates](https://open.spotify.com/track/20HrDfYP92YCWRvUHjFdBc) | [Sinjin Hawke](https://open.spotify.com/artist/5qKCgbxBDmDc9Ckgmt4EaN) | [First Opus](https://open.spotify.com/album/19FFct3GihJy9CKw9BeVFN) | 2:30 | 2019-06-24 | 2020-10-22 |
@@ -397,7 +397,7 @@
 | [Homecoming](https://open.spotify.com/track/2DcJgbkcus5G7TrJZZwsuh) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 1:38 | 2019-07-25 | 2020-10-22 |
 | [Homesick](https://open.spotify.com/track/0sb4TomAMz09w1ofDC8nUr) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/34hcfZrsKEC8Xvn0Qddig3) | 3:54 | 2022-09-09 | 2023-02-03 |
 | [Homesick](https://open.spotify.com/track/4CFqL2BS4R4FZka8cibIMc) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/2n0aZMksvAjApZZzeH52l9) | 3:54 | 2021-10-01 | 2022-07-29 |
-| [Hope](https://open.spotify.com/track/5B83lmCIpUZbp3llYUN3Mg) | [Nall](https://open.spotify.com/artist/1TTP6vJbLEjFnjflpE4ahI) | [Hope](https://open.spotify.com/album/3XukZxrnN93zd1LCIHztVc) | 3:40 | 2019-06-19\* |  |
+| [Hope](https://open.spotify.com/track/5B83lmCIpUZbp3llYUN3Mg) | [Nall](https://open.spotify.com/artist/1TTP6vJbLEjFnjflpE4ahI) | [Hope](https://open.spotify.com/album/3XukZxrnN93zd1LCIHztVc) | 3:40 | 2019-06-19\* | 2024-10-28 |
 | [Horizon](https://open.spotify.com/track/07OBgEQb7HY6ENSqLvO2RW) | [Speo](https://open.spotify.com/artist/0rMH177vw5TAY2Gd1uLLgY) | [Horizon](https://open.spotify.com/album/6ekrtKzBfy0TRcjbK6cY7g) | 4:13 | 2019-05-26\* | 2020-08-26 |
 | [Horizons](https://open.spotify.com/track/0VpSjr6ouIqQYU53y2rOfr) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i), [Dorfex Bos](https://open.spotify.com/artist/60lZ2sr01yS7uJQeq7zoPv) | [Reflective \(Part 1\)](https://open.spotify.com/album/5tRZ2VKwSi6xxnY10Mea4B) | 4:24 | 2019-06-23 | 2020-08-26 |
 | [Hornworm Metamorphosis](https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Hornworm Metamorphosis](https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK) | 1:44 | 2024-10-25 |  |
@@ -774,6 +774,7 @@
 | [Some Other Day](https://open.spotify.com/track/3xUvUhfiuuzc9eyUmrIMoA) | [Solcal](https://open.spotify.com/artist/747NrOqEVashBfjHGkwfhn) | [Some Other Day](https://open.spotify.com/album/2w2AD3qYwJvO0s5tH7Ovrp) | 3:06 | 2023-10-13 | 2024-01-22 |
 | [Some Other Day](https://open.spotify.com/track/7G1xf2FMsWfbXH5TlUn2Ap) | [Solcal](https://open.spotify.com/artist/747NrOqEVashBfjHGkwfhn) | [Some Other Day](https://open.spotify.com/album/33o265ZYYvht3tsO7TvbTh) | 3:06 | 2021-03-17 | 2022-07-28 |
 | [Someone](https://open.spotify.com/track/5q3v3zNrPnuXG0AmqqMB4I) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff) | [Misplaced I](https://open.spotify.com/album/4MTswGkYNVTqOrt9AKPhkp) | 4:29 | 2019-06-19\* | 2020-10-22 |
+| [Song of hope](https://open.spotify.com/track/7iXOrfBdLbdpbtmN1BMSAf) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Piedras 1](https://open.spotify.com/album/57qOz97NbtxqcIPD9yL3Br) | 4:29 | 2024-10-25 |  |
 | [Sorry I'm Late](https://open.spotify.com/track/2RyguUkAyXZCy9fPm9t287) | [nosy beats](https://open.spotify.com/artist/328lSlbMXsTeL5WrodhZw7) | [Sorry I'm Late](https://open.spotify.com/album/219BiIPQaDt3HHndaDQX5w) | 1:42 | 2020-01-29 | 2020-10-22 |
 | [Soul's Matter](https://open.spotify.com/track/1Xvy3NhRnObNYxuKVsabDL) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/5MsxvhXIJxpiXJI2MNF3VE) | 3:42 | 2023-02-17 | 2024-04-19 |
 | [Soul's Matter](https://open.spotify.com/track/21eK9EjODeTWhC81a8GVfe) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Soul's Matter](https://open.spotify.com/album/7enFY8U4qxBRPJj2V92Wqd) | 3:42 | 2020-11-13 | 2022-06-29 |
@@ -810,7 +811,7 @@
 | [Sun Tickles](https://open.spotify.com/track/52UtKsQplzV4d5s36xEZXv) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Sun Tickles](https://open.spotify.com/album/59PQf43N68KbDeiq8zdu3v) | 4:31 | 2023-10-13 | 2024-03-31 |
 | [Sunday Maybe](https://open.spotify.com/track/6k2pBpf10f3DNWKykGGJjn) | [Way Out West](https://open.spotify.com/artist/3HghjRl8Mo6OJWG0WElY2z) | [Sunday Maybe](https://open.spotify.com/album/0FCWOujsH9selQ8rkOP976) | 5:30 | 2019-06-19\* | 2022-04-18 |
 | [Sundial](https://open.spotify.com/track/05FzWxV5hv2Idl8dNXj8w9) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Sundial](https://open.spotify.com/album/2g86N6aADQwynCr0CRlWzQ) | 4:35 | 2021-01-18 | 2021-04-24 |
-| [sunflower](https://open.spotify.com/track/3TZUEyCn6RIZIt9uADX6Yp) | [Lh](https://open.spotify.com/artist/4reUrzSlphfJRHOq0eBURh), [Azkeeh](https://open.spotify.com/artist/0LaYnWqmPZImSQu4OGQoFF) | [sunflower](https://open.spotify.com/album/551UB6oye0hmW3lD3andil) | 2:50 | 2020-08-26 | 2024-10-11 |
+| [sunflower](https://open.spotify.com/track/3TZUEyCn6RIZIt9uADX6Yp) | [Lh](https://open.spotify.com/artist/4reUrzSlphfJRHOq0eBURh), [Azkeeh](https://open.spotify.com/artist/0LaYnWqmPZImSQu4OGQoFF) | [sunflower](https://open.spotify.com/album/551UB6oye0hmW3lD3andil) | 2:50 | 2020-08-26 |  |
 | [Sunflower Dance](https://open.spotify.com/track/0J9G8MIixgpRmMzS1Xub89) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Sunflower Dance](https://open.spotify.com/album/5yJ5fcocAccpi4thCNl20p) | 3:32 | 2021-02-26 | 2022-04-18 |
 | [Sunflower Dance](https://open.spotify.com/track/4PMJ8QjBfyFKxvDozAyGW9) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/121kVK7CLFqJ3i1kPcSmYm) | 3:32 | 2023-12-12 | 2024-04-19 |
 | [Sunrise Projector](https://open.spotify.com/track/2dTrqoMmFNPBXkM9YeE8Ug) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Past Is Prologue](https://open.spotify.com/album/5XpcYnsFFfa2SY8jeQBai7) | 3:04 | 2024-01-19 |  |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (20/10/2024)",
+  "name": "LA LLISTA DE FLAIXBAC (27/10/2024)",
   "tracks": [
     {
       "album": {
@@ -703,6 +703,32 @@
     },
     {
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
+    },
+    {
+      "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
@@ -1048,7 +1074,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 154577,
       "name": "La meva sort",
       "url": "https://open.spotify.com/track/01q7SgslZuHOGFkuzcIZgS"
@@ -1470,7 +1496,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 133542,
       "name": "Que Ch\u00e9vere",
       "url": "https://open.spotify.com/track/6rfxWe3VOvqDoZfUiKuVTP"
@@ -1536,6 +1562,24 @@
       "duration_ms": 146880,
       "name": "Rikiti",
       "url": "https://open.spotify.com/track/5Hrnz90iQgcU3qTG20FW0o"
+    },
+    {
+      "album": {
+        "name": "Rumba catalana",
+        "url": "https://open.spotify.com/album/7zbpWINUVBuj2qbaP0Zg5e"
+      },
+      "artists": [
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Rumba catalana",
+      "url": "https://open.spotify.com/track/3bGAxzfcWxeHhnAWrDBSDo"
     },
     {
       "album": {

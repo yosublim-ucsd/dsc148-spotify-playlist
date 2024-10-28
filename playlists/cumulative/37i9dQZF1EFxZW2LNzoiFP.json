@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Jigsaw",
+        "url": "https://open.spotify.com/album/1rrNnHglilWPmloQpvMLiy"
+      },
+      "artists": [
+        {
+          "name": "Spencer Barnett",
+          "url": "https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220167,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/6MRMSQYiPPeFJWEXKH136g"
+    },
+    {
+      "album": {
         "name": "What Happened to the Beach?",
         "url": "https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5"
       },
@@ -3295,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Jigsaw",
+        "url": "https://open.spotify.com/album/1rrNnHglilWPmloQpvMLiy"
+      },
+      "artists": [
+        {
+          "name": "Spencer Barnett",
+          "url": "https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "Swank",
+      "url": "https://open.spotify.com/track/0OMr7kjVgXAPz0Of16NU4c"
+    },
+    {
+      "album": {
         "name": "Swank",
         "url": "https://open.spotify.com/album/0EujCC25rrW0jGOMNOxwLS"
       },
@@ -3306,7 +3342,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 165586,
       "name": "Swank",
       "url": "https://open.spotify.com/track/7mnqXavrCT8qXpteGeF1uD"

@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: YdBB\(유다빈밴드\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-783 songs - 1 day 23 hr 52 min
+784 songs - 1 day 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [In Paris](https://open.spotify.com/track/0Q0swUf6gyh1u8gocCTpFl) | [CollaBoat](https://open.spotify.com/artist/3aI3fKOhv39Yc8O3zfY4XM), [Kaya](https://open.spotify.com/artist/1KZk8vBB8TreRNgIIyJ5lY) | [In Paris](https://open.spotify.com/album/0sJqLzZEf7T2H1sHImn61I) | 4:11 | 2022-03-31 | 2022-04-14 |
 | [In Star](https://open.spotify.com/track/2Zd0bxXrdGKjNMbGlkTGOM) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [In Star](https://open.spotify.com/album/0r9zh2sHXZk9OZy0ofc8SF) | 4:00 | 2022-03-31 | 2022-04-20 |
 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 | 2021-12-12 | 2024-05-18 |
+| [In the Name of Love \- 2024 Version](https://open.spotify.com/track/5sp3iWKHpLGpQbhDbFPEqP) | [Wavemeans](https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r) | [Coloring 'In the Name of Love'](https://open.spotify.com/album/3c1eJ6tq1lJPn7JDos5Y3z) | 2:56 | 2024-10-27 |  |
 | [In This Morning](https://open.spotify.com/track/0WziV52uDQhR2c2CWg38fe) | [Nyork](https://open.spotify.com/artist/4nEjPtZHCsxLmwltzWJvRr), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [In This Morning](https://open.spotify.com/album/16I6H2xqNKAHLpGx7ofQEs) | 3:45 | 2024-04-30 | 2024-05-10 |
 | [In time](https://open.spotify.com/track/5CXvW4e3hz3NIH3k6GRnDI) | [정오월](https://open.spotify.com/artist/4zLM2qGVz8TX11ycCgwxk8) | [In time](https://open.spotify.com/album/0t3Gv2sSwVBWaGvdkJV03Q) | 4:53 | 2024-04-30 | 2024-05-10 |
 | [In Your Pain](https://open.spotify.com/track/5VsXFItumpsGvFrfuG4Ttu) | [Bluelk](https://open.spotify.com/artist/2kWhEhyhj4KhlSEmgKuKdL) | [In Your Pain](https://open.spotify.com/album/11t8psEq4vMzNhK17b9w9G) | 3:53 | 2024-04-30 | 2024-05-10 |
@@ -575,7 +576,7 @@
 | [Sitting on a chair](https://open.spotify.com/track/2WCTjz29wiRtxAprTetQx4) | [Bosudongcooler](https://open.spotify.com/artist/7zhojNyxff5HeS5mIgUVmU) | [Sitting on a chair](https://open.spotify.com/album/2rwrsaxb4wXANnbgnBNZgl) | 3:41 | 2024-05-08 | 2024-05-10 |
 | [Skate Girl](https://open.spotify.com/track/1ie8aZcGw9YozNv4PBSkiM) | [Charari Danchu](https://open.spotify.com/artist/7pdcbWfteo7RlRRE26KbDB) | [Skate Girl](https://open.spotify.com/album/49xelmp433pcjvXkLvX0GM) | 2:46 | 2024-04-30 | 2024-05-10 |
 | [Sketch](https://open.spotify.com/track/3tJAKYkit1NVqLc3rPHFLt) | [ADYNE](https://open.spotify.com/artist/67h4m3goe8wwHDXBSuOlG4) | [Sketch](https://open.spotify.com/album/6ggGiZQHxDZrTarX59E142) | 3:58 | 2023-03-28 | 2023-04-05 |
-| [sky, hands, balloons](https://open.spotify.com/track/2fOdh9tzibnea3DFJViQ7d) | [Cloud koh](https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs) | [sky, hands, balloons](https://open.spotify.com/album/4b4SVwMTIdlAvrqFJQ9iW0) | 3:34 | 2024-10-15 |  |
+| [sky, hands, balloons](https://open.spotify.com/track/2fOdh9tzibnea3DFJViQ7d) | [Cloud koh](https://open.spotify.com/artist/3Ix2vKtdUBv1CKn3MqvZIs) | [sky, hands, balloons](https://open.spotify.com/album/4b4SVwMTIdlAvrqFJQ9iW0) | 3:34 | 2024-10-15 | 2024-10-28 |
 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 | 2021-12-12 | 2024-06-07 |
 | [Smile Box](https://open.spotify.com/track/5irBjW7OeN6YAoR9ZUjLtD) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Smile Box](https://open.spotify.com/album/65EYy7wGPTDN7w2tcBfmug) | 3:26 | 2022-03-31 | 2022-04-16 |
 | [Smile!](https://open.spotify.com/track/6Khapx3MSeJU3CAICxVeSv) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Smile! You're On Camera](https://open.spotify.com/album/5XbzCJBgVE0CUWnoXrFKSm) | 3:35 | 2024-04-30 | 2024-05-10 |

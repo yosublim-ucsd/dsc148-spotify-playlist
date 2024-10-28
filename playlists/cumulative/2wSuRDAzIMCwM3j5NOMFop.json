@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232466,
+      "name": "I Never Told You What I Do for a Living",
+      "url": "https://open.spotify.com/track/6gLn8QhAYL4dEwdpVjfCPl"
+    },
+    {
+      "album": {
         "name": "A Night At The Opera",
         "url": "https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4"
       },

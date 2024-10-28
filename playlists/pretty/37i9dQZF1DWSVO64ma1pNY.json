@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 296182,
+  "num_followers": 296203,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 230066,
       "name": "Control",
       "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Hats Off to the Bull",
-        "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 218560,
-      "name": "Face to the Floor",
-      "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Bad Vibrations (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Hats Off to the Bull",
+        "url": "https://open.spotify.com/album/4rTrbTxqjHtjle04l4blOV"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 218560,
+      "name": "Face to the Floor",
+      "url": "https://open.spotify.com/track/6sREV6MpLHTqcOmBK5mvYF"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -383,22 +383,6 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Endgame",
-        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 237480,
-      "name": "Help Is On The Way",
-      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -419,18 +403,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Getting Away With Murder",
-        "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
+        "name": "Endgame",
+        "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 191372,
-      "name": "Getting Away With Murder",
-      "url": "https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM"
+      "duration_ms": 237480,
+      "name": "Help Is On The Way",
+      "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -447,6 +431,22 @@
       "duration_ms": 198546,
       "name": "Let The Bad Times Roll",
       "url": "https://open.spotify.com/track/0O2UONKvVfdwDyefKh5Yo1"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Getting Away With Murder",
+        "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 191372,
+      "name": "Getting Away With Murder",
+      "url": "https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Life Support / Ms. Supernova",
-        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
-      },
-      "artists": [
-        {
-          "name": "Friday Pilots Club",
-          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Life Support",
-      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Revelations",
         "url": "https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 252106,
       "name": "Revelations",
       "url": "https://open.spotify.com/track/22wnEMAQaNrbot1dwmeucH"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Life Support / Ms. Supernova",
+        "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
+      },
+      "artists": [
+        {
+          "name": "Friday Pilots Club",
+          "url": "https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY"
+        }
+      ],
+      "duration_ms": 191493,
+      "name": "Life Support",
+      "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Queens of the Stone Age",
-        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Avon",
-      "url": "https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 244358,
       "name": "Next To Nothing",
       "url": "https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Avon",
+      "url": "https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Who Needs Friends",
-      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 283466,
       "name": "But Here We Are",
       "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Who Needs Friends",
+      "url": "https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "Love Dies Young",
+      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "The Rift",
         "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 228852,
       "name": "The Rift",
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Someone's Gonna Die Tonight",
-        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
-      },
-      "artists": [
-        {
-          "name": "Gin Wigmore",
-          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
-        }
-      ],
-      "duration_ms": 202169,
-      "name": "Someone's Gonna Die Tonight",
-      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Medicine At Midnight",
-        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+        "name": "Someone's Gonna Die Tonight",
+        "url": "https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
         }
       ],
-      "duration_ms": 261545,
-      "name": "Love Dies Young",
-      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
+      "duration_ms": 202169,
+      "name": "Someone's Gonna Die Tonight",
+      "url": "https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Sliding Doors",
-        "url": "https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Sliding Doors",
-      "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Year Of The Snake",
         "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
       },
@@ -1339,22 +1323,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Learn to Hate",
-      "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Got It Bad",
         "url": "https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz"
       },
@@ -1367,6 +1335,38 @@
       "duration_ms": 178804,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Sliding Doors",
+        "url": "https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Sliding Doors",
+      "url": "https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
+      },
+      "artists": [
+        {
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Learn to Hate",
+      "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Fail You",
-        "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 186052,
-      "name": "Fail You",
-      "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Blue Eyes",
         "url": "https://open.spotify.com/album/52bu09lAe1TYwMwdmcm1NH"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 211046,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/6jQ6fNlEWKJfOBU4lp70PB"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Fail You",
+        "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 186052,
+      "name": "Fail You",
+      "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Engage",
-        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
-      },
-      "artists": [
-        {
-          "name": "Rain Check",
-          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
-        }
-      ],
-      "duration_ms": 186374,
-      "name": "Engage",
-      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Opposites (Deluxe)",
         "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 265113,
       "name": "Stingin' Belle",
       "url": "https://open.spotify.com/track/6UdQdaEFdIES9YG9abWyrZ"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Engage",
+        "url": "https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f"
+      },
+      "artists": [
+        {
+          "name": "Rain Check",
+          "url": "https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj"
+        }
+      ],
+      "duration_ms": 186374,
+      "name": "Engage",
+      "url": "https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "to me",
-        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 243329,
-      "name": "to me",
-      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 172867,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "to me",
+        "url": "https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 243329,
+      "name": "to me",
+      "url": "https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Feel It All Around",
-        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
-      },
-      "artists": [
-        {
-          "name": "Soul Blind",
-          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
-        }
-      ],
-      "duration_ms": 212980,
-      "name": "Bruise The Sore",
-      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "The Perfume of Decay",
         "url": "https://open.spotify.com/album/7jzP2HrR4TyQA6wC5xJ56S"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 220862,
       "name": "The Perfume of Decay",
       "url": "https://open.spotify.com/track/7cGKdI3BvJOKYzs9dRdvFj"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
+      },
+      "artists": [
+        {
+          "name": "Soul Blind",
+          "url": "https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Bruise The Sore",
+      "url": "https://open.spotify.com/track/1pOuGYBVi9BIzQHqIJXTHJ"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Hole",
-        "url": "https://open.spotify.com/album/60mPQihGw1E84gfBo52vON"
-      },
-      "artists": [
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
-        }
-      ],
-      "duration_ms": 224838,
-      "name": "Hole",
-      "url": "https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "One Last Dream Before Dying",
         "url": "https://open.spotify.com/album/2figRslhHw7pSokLKS3kns"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 225653,
       "name": "Wait",
       "url": "https://open.spotify.com/track/4A20nSO6BYi3DJJ4LyaEWJ"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Hole",
+        "url": "https://open.spotify.com/album/60mPQihGw1E84gfBo52vON"
+      },
+      "artists": [
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
+        }
+      ],
+      "duration_ms": 224838,
+      "name": "Hole",
+      "url": "https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Self Defeater",
-        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
-      },
-      "artists": [
-        {
-          "name": "Post Profit",
-          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "Drug Emporium",
-      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Violent Picture / Violent Sound",
         "url": "https://open.spotify.com/album/33xiWD33xTarcUbn8Le2hT"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 240567,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6yFPiMOCa00P1y0QupLQtL"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Self Defeater",
+        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
+      },
+      "artists": [
+        {
+          "name": "Post Profit",
+          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "Drug Emporium",
+      "url": "https://open.spotify.com/track/6tnvebt1FZXCS2CHdXtec5"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
+        "name": "Static King",
+        "url": "https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Static King",
+      "url": "https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
         "name": "Your Own Becoming",
         "url": "https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 180263,
       "name": "New",
       "url": "https://open.spotify.com/track/1VInBDY9hDmGScxocS93xe"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
-        "name": "Static King",
-        "url": "https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa"
-      },
-      "artists": [
-        {
-          "name": "Dead Horse One",
-          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Static King",
-      "url": "https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Sink Or Swim",
-        "url": "https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal"
-      },
-      "artists": [
-        {
-          "name": "Neighbourhood Void",
-          "url": "https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu"
-        }
-      ],
-      "duration_ms": 167437,
-      "name": "Sink Or Swim",
-      "url": "https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11"
-    },
-    {
-      "added_at": "2024-09-02 15:42:47",
-      "album": {
         "name": "Mush",
         "url": "https://open.spotify.com/album/0KN2WdevgSi8n8gkPKLPlg"
       },
@@ -2271,18 +2255,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Two Tone Marionette",
-        "url": "https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm"
+        "name": "Sink Or Swim",
+        "url": "https://open.spotify.com/album/26ILhXwTj9xe8PamSGQbal"
       },
       "artists": [
         {
-          "name": "NVM",
-          "url": "https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC"
+          "name": "Neighbourhood Void",
+          "url": "https://open.spotify.com/artist/565t67TZ8cIaxgs2NkXJPu"
         }
       ],
-      "duration_ms": 281103,
-      "name": "Two Tone Marionette",
-      "url": "https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF"
+      "duration_ms": 167437,
+      "name": "Sink Or Swim",
+      "url": "https://open.spotify.com/track/1h1Zh5LV4NMkrpItqdJB11"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2303,18 +2287,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Morning Haze",
-        "url": "https://open.spotify.com/album/1E6rJFpTgage3sExihOADT"
+        "name": "Two Tone Marionette",
+        "url": "https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm"
       },
       "artists": [
         {
-          "name": "Family Dinner",
-          "url": "https://open.spotify.com/artist/7ztPkxDDDYp27ssoOB9sEj"
+          "name": "NVM",
+          "url": "https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC"
         }
       ],
-      "duration_ms": 228542,
-      "name": "Morning Haze",
-      "url": "https://open.spotify.com/track/6Ixw75JnL7dXLeSUyYkazE"
+      "duration_ms": 281103,
+      "name": "Two Tone Marionette",
+      "url": "https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2335,18 +2319,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Take As Prescribed",
-        "url": "https://open.spotify.com/album/6tAuUa4KEZRcWUhfphkVww"
+        "name": "Morning Haze",
+        "url": "https://open.spotify.com/album/1E6rJFpTgage3sExihOADT"
       },
       "artists": [
         {
-          "name": "Capsule 9",
-          "url": "https://open.spotify.com/artist/6IYuuT4OmtT8w4lnQohDNO"
+          "name": "Family Dinner",
+          "url": "https://open.spotify.com/artist/7ztPkxDDDYp27ssoOB9sEj"
         }
       ],
-      "duration_ms": 167230,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/5v3bNY9RlHiv1Otplrmr9s"
+      "duration_ms": 228542,
+      "name": "Morning Haze",
+      "url": "https://open.spotify.com/track/6Ixw75JnL7dXLeSUyYkazE"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2367,18 +2351,18 @@
     {
       "added_at": "2024-09-02 15:42:47",
       "album": {
-        "name": "Red Button",
-        "url": "https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih"
+        "name": "Take As Prescribed",
+        "url": "https://open.spotify.com/album/6tAuUa4KEZRcWUhfphkVww"
       },
       "artists": [
         {
-          "name": "Dea Matrona",
-          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
+          "name": "Capsule 9",
+          "url": "https://open.spotify.com/artist/6IYuuT4OmtT8w4lnQohDNO"
         }
       ],
-      "duration_ms": 173853,
-      "name": "Red Button",
-      "url": "https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG"
+      "duration_ms": 167230,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/5v3bNY9RlHiv1Otplrmr9s"
     },
     {
       "added_at": "2024-09-02 15:42:47",
@@ -2427,6 +2411,22 @@
       "duration_ms": 97845,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/4EDSWFoLE7TgCrl0Eol9dV"
+    },
+    {
+      "added_at": "2024-09-02 15:42:47",
+      "album": {
+        "name": "Red Button",
+        "url": "https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih"
+      },
+      "artists": [
+        {
+          "name": "Dea Matrona",
+          "url": "https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "Red Button",
+      "url": "https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG"
     }
   ],
   "unique_name": "Anger Management",

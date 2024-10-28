@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Queen I (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2vSW70hwFzUyFd4Mlgap0J"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225813,
+      "name": "Keep Yourself Alive - 2024 Mix",
+      "url": "https://open.spotify.com/track/5HeF5toxWMeKaYbVa9EEs5"
+    },
+    {
+      "album": {
         "name": "Bohemian Rhapsody (The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6i6folBtxKV28WX3msQ4FE"
       },

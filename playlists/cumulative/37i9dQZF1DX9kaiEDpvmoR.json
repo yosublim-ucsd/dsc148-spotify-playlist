@@ -486,7 +486,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 221418,
       "name": "Del av dig - Edit",
       "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
@@ -919,6 +919,24 @@
     },
     {
       "album": {
+        "name": "En kv\u00e4ll i tunnelbanan",
+        "url": "https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184493,
+      "name": "En kv\u00e4ll i tunnelbanan",
+      "url": "https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS"
+    },
+    {
+      "album": {
         "name": "En k\u00e4rlek sj\u00e4lv",
         "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
       },
@@ -1085,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "Fan f\u00f6r dig",
+        "url": "https://open.spotify.com/album/32I93ksL4dC1ibI8mpYask"
+      },
+      "artists": [
+        {
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        },
+        {
+          "name": "Caroline",
+          "url": "https://open.spotify.com/artist/0lAH0mtuoDPBLteml8XHKe"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166703,
+      "name": "Fan f\u00f6r dig",
+      "url": "https://open.spotify.com/track/0oYRtSnrvzyVcPEFgRkhUg"
+    },
+    {
+      "album": {
         "name": "FEAR OF WINNING",
         "url": "https://open.spotify.com/album/5tRqhksdFmuoBZws5eA9Uu"
       },
@@ -1248,6 +1288,24 @@
       "duration_ms": 139354,
       "name": "F\u00f6rbjudna tankar",
       "url": "https://open.spotify.com/track/23fBN1sw5DBKnADUPxUicl"
+    },
+    {
+      "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/0tC0GLO1DD1k7ZxH6mUWQ6"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176808,
+      "name": "F\u00f8r han for",
+      "url": "https://open.spotify.com/track/4bqcf1Ds8zVHKTdYiWKzXM"
     },
     {
       "album": {
@@ -3682,7 +3740,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 169200,
       "name": "Tar det upp i topp",
       "url": "https://open.spotify.com/track/6LKb4nGZhInLchAZpNGDX2"
@@ -3924,7 +3982,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 335207,
       "name": "Valet",
       "url": "https://open.spotify.com/track/0RrUetfG2Msa9FNaP4IWAj"
@@ -4120,7 +4178,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 170453,
       "name": "V\u00e5r v\u00e4nskap best\u00e5r",
       "url": "https://open.spotify.com/track/4iNsfVZaEFeicGmdQYcTnD"
@@ -4460,6 +4518,24 @@
       "duration_ms": 224402,
       "name": "You",
       "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
+    },
+    {
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205146,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
     },
     {
       "album": {

@@ -2585,6 +2585,28 @@
     },
     {
       "album": {
+        "name": "F.I.T.Y",
+        "url": "https://open.spotify.com/album/0uGMpEVYUgmehdC29uDiY8"
+      },
+      "artists": [
+        {
+          "name": "Seo dawit",
+          "url": "https://open.spotify.com/artist/0Mo9obfgmz5W9bwTj5JVCN"
+        },
+        {
+          "name": "SLOTH",
+          "url": "https://open.spotify.com/artist/1vMIbKFKUPCyanN0obXqjo"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "F.I.T.Y (feat. SLOTH)",
+      "url": "https://open.spotify.com/track/26vaDk8eELZZcDC5RilJyS"
+    },
+    {
+      "album": {
         "name": "Fade away (Feat. Wilcox)",
         "url": "https://open.spotify.com/album/2WmPIKfHBw3oGhPmulmujp"
       },
@@ -3046,7 +3068,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 231652,
       "name": "Fxxk U",
       "url": "https://open.spotify.com/track/4r1hWaa99K7i69M5eEEy8V"
@@ -3396,6 +3418,28 @@
       "duration_ms": 234000,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/0fElururinZektfZMpFFdN"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday To You (Feat. Robin)",
+        "url": "https://open.spotify.com/album/7xb0x1qMrhVf4SsGZUF4nG"
+      },
+      "artists": [
+        {
+          "name": "This N That",
+          "url": "https://open.spotify.com/artist/1m25pEvlxaQ2Fej6h9qX7Z"
+        },
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4uxsxCQzTSe5E2AK5yKM0K"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199679,
+      "name": "Happy Birthday To You (Feat. Robin)",
+      "url": "https://open.spotify.com/track/6v2LZdfz7Z1xc2k1cstofm"
     },
     {
       "album": {
@@ -4018,7 +4062,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 208226,
       "name": "into u",
       "url": "https://open.spotify.com/track/0wRqnpc9lB5hBIomfPpIFJ"
@@ -4394,6 +4438,28 @@
       "duration_ms": 229097,
       "name": "Light (Feat. Junguk)",
       "url": "https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp"
+    },
+    {
+      "album": {
+        "name": "Light Shower",
+        "url": "https://open.spotify.com/album/6gdlrX9eFU9c3Ufb05TU7s"
+      },
+      "artists": [
+        {
+          "name": "Muhwa",
+          "url": "https://open.spotify.com/artist/09Mu0GD1XDpi7VZ2Tn6dvA"
+        },
+        {
+          "name": "noin",
+          "url": "https://open.spotify.com/artist/6pWCQK8N23ZmydVBLSZsGH"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209146,
+      "name": "Light Shower",
+      "url": "https://open.spotify.com/track/1AOLchfVKydXghmKWP0I1C"
     },
     {
       "album": {
@@ -5240,7 +5306,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 245426,
       "name": "Night & Day",
       "url": "https://open.spotify.com/track/1AfasM7azwP4sInW6ybOrc"
@@ -6770,7 +6836,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 174676,
       "name": "Still LOVE",
       "url": "https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp"

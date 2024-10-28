@@ -6,7 +6,7 @@
     "name": "leoyuki",
     "url": "https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw"
   },
-  "snapshot_id": "AAAA+wMpU5wFvZ9uf9Mxvp3mYWmYjY/2",
+  "snapshot_id": "AAAA/ynhuyzkM0TxOsOrp26Zx0T9k2PS",
   "tracks": [
     {
       "added_at": "2018-11-27 22:12:08",
@@ -4015,6 +4015,86 @@
       "duration_ms": 138333,
       "name": "I WANT YOU",
       "url": "https://open.spotify.com/track/67tXRCoy5R0Mu6pSxeYjp4"
+    },
+    {
+      "added_at": "2024-10-27 09:38:54",
+      "album": {
+        "name": "never let me go.",
+        "url": "https://open.spotify.com/album/2qMorbWvWORO8PhBlbIgkA"
+      },
+      "artists": [
+        {
+          "name": "crier",
+          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
+        },
+        {
+          "name": "sixnite",
+          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
+        }
+      ],
+      "duration_ms": 107636,
+      "name": "never let me go.",
+      "url": "https://open.spotify.com/track/7CeFkmFqoe8uX6wFOOALQg"
+    },
+    {
+      "added_at": "2024-10-27 09:39:33",
+      "album": {
+        "name": "SEEN IT ALL",
+        "url": "https://open.spotify.com/album/3amHmTIZj8MBqHBTCFMeyN"
+      },
+      "artists": [
+        {
+          "name": "LXST CXNTURY",
+          "url": "https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp"
+        },
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        },
+        {
+          "name": "II Tone",
+          "url": "https://open.spotify.com/artist/1XcaJZLayue2wv5axNkqJS"
+        }
+      ],
+      "duration_ms": 163862,
+      "name": "SEEN IT ALL",
+      "url": "https://open.spotify.com/track/1idBzRMtBpmduqoa2WavLC"
+    },
+    {
+      "added_at": "2024-10-27 09:39:53",
+      "album": {
+        "name": "STRATOSPHERE",
+        "url": "https://open.spotify.com/album/26UklZWmkfdZq26X8wrRRg"
+      },
+      "artists": [
+        {
+          "name": "Lestmor",
+          "url": "https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK"
+        },
+        {
+          "name": "ROMANTICA",
+          "url": "https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6"
+        }
+      ],
+      "duration_ms": 135272,
+      "name": "STRATOSPHERE",
+      "url": "https://open.spotify.com/track/2TXuKQBEMAgewrG0VFJngq"
+    },
+    {
+      "added_at": "2024-10-27 16:47:51",
+      "album": {
+        "name": "realise!",
+        "url": "https://open.spotify.com/album/7w75uefsFnNzxEkZ5PNuX6"
+      },
+      "artists": [
+        {
+          "name": "FXRR",
+          "url": "https://open.spotify.com/artist/18Aa5fsiPr4pXRAwezZN6i"
+        }
+      ],
+      "duration_ms": 134571,
+      "name": "realise!",
+      "url": "https://open.spotify.com/track/1bms4iDzAEk121H6rA44jV"
     }
   ],
   "unique_name": "hardwave~phonk",

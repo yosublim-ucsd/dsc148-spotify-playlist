@@ -50971,6 +50971,24 @@
     },
     {
       "album": {
+        "name": "Heaven Can Wait",
+        "url": "https://open.spotify.com/album/30KmsPppic03sNtZYm4ZyA"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Coltrane",
+          "url": "https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155061,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/1sDHPnIy3H3LmykZX09W9l"
+    },
+    {
+      "album": {
         "name": "Heavenly",
         "url": "https://open.spotify.com/album/3lVS49mqBe0LYMI4wtIwc5"
       },
@@ -53374,7 +53392,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 131756,
       "name": "Horseback Reflections",
       "url": "https://open.spotify.com/track/1lhLpMAxlGxQzXrhiZbZOH"
@@ -81160,7 +81178,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Never Going Back",
       "url": "https://open.spotify.com/track/1EPgfVfxPaaispfsgXBXcs"
@@ -103084,7 +103102,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 105366,
       "name": "Shades",
       "url": "https://open.spotify.com/track/0Rpcv3rAH4jz9WPsNkbqWr"

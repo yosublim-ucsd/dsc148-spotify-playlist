@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 172880,
       "name": "Allting som du sa",
       "url": "https://open.spotify.com/track/3wgflpkXEzeFG7N156Q5Jx"
@@ -6622,7 +6622,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 173694,
       "name": "Dying Light",
       "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"
@@ -13391,6 +13391,24 @@
     },
     {
       "album": {
+        "name": "Pink Velvet Theatre",
+        "url": "https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233413,
+      "name": "IKNOW IKNOW",
+      "url": "https://open.spotify.com/track/5w7VnCARb24upPxk3Q9nMW"
+    },
+    {
+      "album": {
         "name": "Ikv\u00e4ll g\u00f6r jag vad som helst...",
         "url": "https://open.spotify.com/album/4lyiMRIT2bhctP9hTJ2s3K"
       },
@@ -14486,7 +14504,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 223241,
       "name": "Josephine",
       "url": "https://open.spotify.com/track/57KEhRQ7WjjYHjTIMBL8t0"
@@ -20367,6 +20385,24 @@
     },
     {
       "album": {
+        "name": "Other Girls",
+        "url": "https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198334,
+      "name": "Other Girls",
+      "url": "https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do"
+    },
+    {
+      "album": {
         "name": "Our Night",
         "url": "https://open.spotify.com/album/1OTQVr8JLKQ3vwBjSDb3Ry"
       },
@@ -20736,6 +20772,24 @@
       "duration_ms": 237920,
       "name": "Pathetic",
       "url": "https://open.spotify.com/track/6Yn2eNxg8npo6Pgcq8UsMv"
+    },
+    {
+      "album": {
+        "name": "Peace and Quiet",
+        "url": "https://open.spotify.com/album/5FQuCiGSXHB9TpVg9sgJSB"
+      },
+      "artists": [
+        {
+          "name": "Flux Vortex",
+          "url": "https://open.spotify.com/artist/1MNQjRAMxv130gsVbIbR0H"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200125,
+      "name": "Peace and Quiet",
+      "url": "https://open.spotify.com/track/5PEGMGEcDvFM3dEZVIKw51"
     },
     {
       "album": {
@@ -21578,6 +21632,24 @@
       "duration_ms": 222481,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/0vUf73LNFXyyrdQkmXw2cZ"
+    },
+    {
+      "album": {
+        "name": "Record Deal",
+        "url": "https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187127,
+      "name": "Record Deal",
+      "url": "https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx"
     },
     {
       "album": {
@@ -28970,7 +29042,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 167034,
       "name": "Vi",
       "url": "https://open.spotify.com/track/6RiAMPOYq8cCAe4vG7T2D0"
@@ -29212,7 +29284,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 184945,
       "name": "Vill va honom",
       "url": "https://open.spotify.com/track/6Wy5YhGJfn18p8SFLZqrXb"
@@ -30780,6 +30852,24 @@
       "duration_ms": 156621,
       "name": "You to Me",
       "url": "https://open.spotify.com/track/5xQmNeAKK6Y3p5Y5K2zqIT"
+    },
+    {
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "date_added": "2024-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205146,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
     },
     {
       "album": {

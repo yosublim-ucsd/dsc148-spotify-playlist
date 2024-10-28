@@ -393,6 +393,28 @@
     },
     {
       "album": {
+        "name": "Girls Don't Cry",
+        "url": "https://open.spotify.com/album/7mJx4L9dG3j0JmkX6TqwSv"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207520,
+      "name": "Girls Don't Cry",
+      "url": "https://open.spotify.com/track/0zTK07FEVTVvmF0PF3Bp9k"
+    },
+    {
+      "album": {
         "name": "heartbeat-axelator",
         "url": "https://open.spotify.com/album/0ud7dpZJPQoyZNHl2HBH2M"
       },
@@ -480,7 +502,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 239346,
       "name": "JAMMER",
       "url": "https://open.spotify.com/track/7ep6br0XudQ9RlNalp7vQn"

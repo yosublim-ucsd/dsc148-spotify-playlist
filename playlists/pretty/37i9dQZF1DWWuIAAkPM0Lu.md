@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:6xfKNngTw1zxViM96HSTCq">Mumle</a> ✨ <a href="spotify:album:2BqcbwyLGCvbNOVwPyAd3a">Mumler Ikke</a> på den nye EP ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,381 likes - 106 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,391 likes - 106 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fra Jylland til København](https://open.spotify.com/track/3OtJnSQq23fgggHFZAe3w1) | [Mumle](https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq) | [Mumler Ikke](https://open.spotify.com/album/2BqcbwyLGCvbNOVwPyAd3a) | 2:46 |
 | 2 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 |
-| 3 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 3 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 4 | [Fundamentalt \(feat\. KESI\)](https://open.spotify.com/track/4P7QKDFvuqcCJhUMEzX06Z) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Det Gyldne Snit](https://open.spotify.com/album/3vyD0ISit04iXRKGjfnqP3) | 2:27 |
 | 5 | [Nu Hvor Jeg](https://open.spotify.com/track/07ZLTfOkXeaenf6bVX00nI) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:54 |
 | 6 | [Sortedam](https://open.spotify.com/track/3KKfy9c7s81AOoXbqd1obP) | [Thomas Helmig](https://open.spotify.com/artist/2ytaRjGwyS3veZwsmr0SPj) | [Sortedam](https://open.spotify.com/album/1XJYMVpTiA0OrK7mgBsAnv) | 4:02 |

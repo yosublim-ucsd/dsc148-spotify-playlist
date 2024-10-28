@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,057 likes - 109 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,060 likes - 109 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 58 | [Anything](https://open.spotify.com/track/3DHyIisyK1wviEdvlv7biN) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Anything](https://open.spotify.com/album/5ECPvF5Cl3xNHF1IKSReU1) | 2:33 |
 | 59 | [Donna](https://open.spotify.com/track/5t0pLWfUeP5fYVxKaMB2MD) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Donna](https://open.spotify.com/album/0yugiV59QadnQxtXExqjXb) | 2:59 |
 | 60 | [sterne \(sehen\)](https://open.spotify.com/track/3T89eCrITaSdRKovtzqzUR) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [sterne \(sehen\)](https://open.spotify.com/album/14zt5jp4HcpFO5ulBfmK08) | 2:35 |
-| 61 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 61 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 62 | [Te'Kill'Ya](https://open.spotify.com/track/2FY3V309Dc0X6VS8OWFxC9) | [GXTP](https://open.spotify.com/artist/7aJ0lXaVRlmeij1J0NrrFK), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Te'Kill'Ya](https://open.spotify.com/album/29kd82BQka5Gs290XCHC4G) | 3:39 |
 | 63 | [Bridges](https://open.spotify.com/track/1TP5FtFJoaQkL1k0FOfizI) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Bridges](https://open.spotify.com/album/5H6tDCCQ2QK3OftBeWT0Ze) | 2:38 |
 | 64 | [Freedom](https://open.spotify.com/track/5VoByKp0qo2OVO1ehyPtSa) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Freedom](https://open.spotify.com/album/0jUgrbJG2BgcBfCB5fwr8w) | 2:21 |

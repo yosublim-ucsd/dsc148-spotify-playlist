@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 60548,
+  "num_followers": 60568,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAABSsQl7CTgGHpzRjuHXfL5F",
+  "snapshot_id": "ZxwxAAAAAACZe5xpUgtwhMxWfHkaoCZU",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Visi\u00f3n 20.20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 161546,
-      "name": "Mi Casa Nueva",
-      "url": "https://open.spotify.com/track/7hurP5YckvI4lJaWPUdTHR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tambi\u00e9n De Los Ranchos Bajan",
         "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 194146,
       "name": "En Mil Pedazos",
       "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Visi\u00f3n 20.20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 161546,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/7hurP5YckvI4lJaWPUdTHR"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
       "duration_ms": 174013,
       "name": "Leonardo Reyes",
       "url": "https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las + Tocadas",
+        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 180860,
+      "name": "El Corrido de Ramiro Quiroz",
+      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
     }
   ],
   "unique_name": "This Is Lalo Mora",

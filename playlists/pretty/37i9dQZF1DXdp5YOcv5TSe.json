@@ -1,6 +1,6 @@
 {
   "description": "The official G2 Esports playlist. Cover: G2 LoL",
-  "num_followers": 76378,
+  "num_followers": 76375,
   "original_name": "G2 Esports",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-09-24 21:10:33",
       "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "added_at": "2024-09-24 21:10:33",
+      "album": {
         "name": "The 20/20 Experience (Deluxe Version)",
         "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
       },
@@ -183,18 +199,18 @@
     {
       "added_at": "2024-09-24 21:10:33",
       "album": {
-        "name": "Dancing In The Flames",
-        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+        "name": "EASY",
+        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 220036,
-      "name": "Dancing In The Flames",
-      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+      "duration_ms": 164545,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
       "added_at": "2024-09-24 21:10:33",
@@ -211,22 +227,6 @@
       "duration_ms": 200560,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/4r8lRYnoOGdEi6YyI5OC1o"
-    },
-    {
-      "added_at": "2024-09-24 21:10:33",
-      "album": {
-        "name": "EASY",
-        "url": "https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 164545,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI"
     },
     {
       "added_at": "2024-09-24 21:10:33",
@@ -795,6 +795,46 @@
     {
       "added_at": "2024-09-24 21:10:33",
       "album": {
+        "name": "Star Wars: Die Dunkle Bedrohung (Original Film-Soundtrack)",
+        "url": "https://open.spotify.com/album/5zCWpZhj13KDMBqPMtaNoO"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 254346,
+      "name": "Duel of the Fates",
+      "url": "https://open.spotify.com/track/415B3OUKVRUrNu09IRDufO"
+    },
+    {
+      "added_at": "2024-09-24 21:10:33",
+      "album": {
+        "name": "The Lord of the Rings: The Two Towers - the Complete Recordings",
+        "url": "https://open.spotify.com/album/1MrqY9fdmJFExV6cWhxgQ6"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        },
+        {
+          "name": "Ben Del Maestro",
+          "url": "https://open.spotify.com/artist/129EoLWGCJWoI6941COU2y"
+        }
+      ],
+      "duration_ms": 151293,
+      "name": "The Last March of the Ents (feat. Ben Del Maestro)",
+      "url": "https://open.spotify.com/track/3YRRbIL7SEdgdRE3qNxekj"
+    },
+    {
+      "added_at": "2024-09-24 21:10:33",
+      "album": {
         "name": "Gladiator - Music From The Motion Picture",
         "url": "https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0"
       },
@@ -819,26 +859,6 @@
       "duration_ms": 602226,
       "name": "The Battle",
       "url": "https://open.spotify.com/track/56P8zbMtfKLlmpUWW3xAzf"
-    },
-    {
-      "added_at": "2024-09-24 21:10:33",
-      "album": {
-        "name": "Star Wars: Die Dunkle Bedrohung (Original Film-Soundtrack)",
-        "url": "https://open.spotify.com/album/5zCWpZhj13KDMBqPMtaNoO"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Duel of the Fates",
-      "url": "https://open.spotify.com/track/415B3OUKVRUrNu09IRDufO"
     },
     {
       "added_at": "2024-09-24 21:10:33",
@@ -871,26 +891,6 @@
       "duration_ms": 187326,
       "name": "Fire",
       "url": "https://open.spotify.com/track/7j2FhVH4n7X7D669o8T87z"
-    },
-    {
-      "added_at": "2024-09-24 21:10:33",
-      "album": {
-        "name": "The Lord of the Rings: The Two Towers - the Complete Recordings",
-        "url": "https://open.spotify.com/album/1MrqY9fdmJFExV6cWhxgQ6"
-      },
-      "artists": [
-        {
-          "name": "Howard Shore",
-          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
-        },
-        {
-          "name": "Ben Del Maestro",
-          "url": "https://open.spotify.com/artist/129EoLWGCJWoI6941COU2y"
-        }
-      ],
-      "duration_ms": 151293,
-      "name": "The Last March of the Ents (feat. Ben Del Maestro)",
-      "url": "https://open.spotify.com/track/3YRRbIL7SEdgdRE3qNxekj"
     }
   ],
   "unique_name": "G2 Esports",

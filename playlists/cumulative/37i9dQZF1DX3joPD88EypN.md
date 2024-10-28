@@ -4,7 +4,7 @@
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-162 songs - 14 hr 31 min
+163 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Arvo](https://open.spotify.com/track/3UC4pnwk6pGGnj8AAXkXX3) | [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [When We Leave](https://open.spotify.com/album/7MZXhA40qEoGogH9YtURmG) | 5:30 | 2022-06-01 |  |
 | [As If The Ghost … Was Me!?](https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw) | [Terje Rypdal](https://open.spotify.com/artist/3EFzYPEP2mCQoqcLjoWwK1) | [As If The Ghost … Was Me!?](https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg) | 5:43 | 2022-06-01 |  |
 | [Asthma Breath](https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ) | [Jesper Thorn](https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD) | [Asthma Breath](https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE) | 3:16 | 2023-06-22 |  |
+| [August](https://open.spotify.com/track/5bdsv29lbznQ9ZGar91W56) | [Alexi Tuomarila](https://open.spotify.com/artist/4WEvxg7cSQdA4wQpAPkdv5) | [August](https://open.spotify.com/album/02YJLBnDnOjD4LhXlXAnn1) | 6:20 | 2024-10-18 |  |
 | [Bagatell](https://open.spotify.com/track/0FmKbJQBVPFcgw9uxmHuuf) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy) | [Jord](https://open.spotify.com/album/0djGAudAqEK5QHw6eV6BlV) | 6:29 | 2022-06-01 | 2022-07-29 |
 | [Bagatell](https://open.spotify.com/track/2A4nuFuRobR3d2ny6vv6Eg) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy) | [Jord](https://open.spotify.com/album/6wodqXDRRzH6H4qjcaSoNY) | 6:29 | 2022-08-31 | 2022-10-16 |
 | [Bagatell](https://open.spotify.com/track/2mblrFo3LfEeXBqEY6Bc0y) | [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy) | [Jord](https://open.spotify.com/album/1EIahTS8G77fLdw3K13lYp) | 6:29 | 2023-08-24 | 2023-09-01 |
@@ -85,7 +86,7 @@
 | [Långsamt](https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY) | [Max Agnas](https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA) | [Komposition VII](https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM) | 7:53 | 2022-06-01 |  |
 | [Margit Hjukse](https://open.spotify.com/track/6BdgqkDDeRvAAHJtDCc48W) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Henning Kraggerud](https://open.spotify.com/artist/2VCAUIEKX0BX7DWfA8qxPb) | [Last Spring](https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36) | 3:25 | 2022-06-01 |  |
 | [Maridalen](https://open.spotify.com/track/1U4qTswiFt7oHJUtsnuxkW) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [Maridalen](https://open.spotify.com/album/3Enn6CF41yQeXk0OWMNDti) | 4:23 | 2022-06-01 | 2023-11-24 |
-| [Melancholia](https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Melancholia](https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo) | 5:14 | 2022-06-01 |  |
+| [Melancholia](https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG) | [Fredrik Nordström](https://open.spotify.com/artist/5MvcFZC0PVjhkfCOdmBXTm), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Ilaria Capalbo](https://open.spotify.com/artist/36eAVpaL0KHjSI1adDdrwT), [Staffan Svensson](https://open.spotify.com/artist/11mFi4SwzgprnqEEIJpGCM) | [Melancholia](https://open.spotify.com/album/6rQSdtpLz0W1bKCySYeueo) | 5:14 | 2022-06-01 | 2024-10-28 |
 | [Meles Meles Revisited](https://open.spotify.com/track/6AWbnMjiOIaJeeuMWRb8p7) | [Helge Lien Trio](https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY) | [Meles Meles Revisited](https://open.spotify.com/album/5K68yQzCAapwHyrJjue21r) | 4:35 | 2022-06-01 | 2023-09-01 |
 | [Michelle](https://open.spotify.com/track/5f55u3BGLaRYYF256AaYkt) | [Olga Konkova](https://open.spotify.com/artist/30PGbIpb4NPhCSqtuGhUtS), [Carl Morten Iversen](https://open.spotify.com/artist/7GtkTtAleVObAO1K08men1), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq) | [Going with the Flow](https://open.spotify.com/album/510YDMp6ax5c1q2IpQDrYC) | 8:51 | 2022-06-01 |  |
 | [Midnight Sun Upon Saltværsøya](https://open.spotify.com/track/4LU1Nh6sh3c4vxQLr3Riu3) | [Cecilie Strange](https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy) | [Beyond](https://open.spotify.com/album/7CtOqcN4ZlDrynEUrdVflA) | 7:22 | 2023-06-08 |  |

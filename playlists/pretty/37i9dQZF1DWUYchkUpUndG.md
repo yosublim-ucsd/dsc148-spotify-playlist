@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw?si=I9dDiSTZSGakTlE9s38b\_g>Pastor Emmanuel Iren</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,581 likes - 97 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,626 likes - 97 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

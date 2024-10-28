@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoBHp4pr8cg.md) - [plain]
 
 > Only the hottest Hip Hop from Flow Jones Jr\. & Blxckie, KindlyNxsh, Tyler, The Creator, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,787 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,791 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eish Chief \- Remix](https://open.spotify.com/track/5fmZMhrBrXNCYoLIdjCZU4) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Eish Chief \(Remix\)](https://open.spotify.com/album/5jzBw5vh59rdN2HQMzehK7) | 3:40 |
-| 2 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 2 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 3 | [Telly](https://open.spotify.com/track/6MOIqaJai7o7NQ4jCbDbLI) | [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Telly](https://open.spotify.com/album/1z5bNapZnBVaXzTGbcJgLn) | 2:07 |
 | 4 | [This Life](https://open.spotify.com/track/0OHLLN2vtTKOoVIpLx6iB5) | [JP Keller](https://open.spotify.com/artist/1KG4ciZUNsOtWrAIaGjwm8), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [This Life](https://open.spotify.com/album/5ChLM1C7QoD56XdlADQanF) | 3:17 |
 | 5 | [Real Is Rare \(feat\. Nasty C\)](https://open.spotify.com/track/5fR8jaCoCB932SimKIcGrr) | [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Loyal To The Plug : The Life & Times Of Don Kilograms](https://open.spotify.com/album/6WHgxLiN57AC7KZm7eUtuj) | 3:57 |

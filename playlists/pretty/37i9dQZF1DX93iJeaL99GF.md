@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 
 > Prominent Indian independent music creators\. Cover \- Lucky Ali
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,423 likes - 40 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,482 likes - 40 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93iJeaL99GF.md) - [plain]
 | 22 | [Let's Work It out \(feat\. Jahaziel\)](https://open.spotify.com/track/78PIQS3mIIJc7ZZ3OKGr6c) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Jahaziel](https://open.spotify.com/artist/11PK8fmGXnan9HCEwNI1T6) | [Storyteller](https://open.spotify.com/album/4kExwHAZEatBHppwVp5Vl9) | 4:05 |
 | 23 | [Manavyalakinchara \(Mist of Capricorn\)](https://open.spotify.com/track/7AT9jIs9H7tFjxEXmilL94) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Manavyalakinchara \(Mist of Capricorn\) \- Single](https://open.spotify.com/album/2XK1UiouCCaYULpvuwn1WR) | 5:49 |
 | 24 | [Phir Dhoom \(Kaise Bhoolegi Mera Naam\)](https://open.spotify.com/track/3UBehIY2U0LXORmDyOhy4O) | [Palash Sen](https://open.spotify.com/artist/33132SkzbRbOGL6fQBWHqQ), [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Phir Dhoom](https://open.spotify.com/album/1FAKBNAnlQmLrQGu9CPFhj) | 5:03 |
-| 25 | [Bandheh](https://open.spotify.com/track/7nz5qUO3ZtyfpMV4SuRWku) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Black Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UVnrLOWy80j1h9GCc6gkU) | 7:48 |
+| 25 | [Bandheh](https://open.spotify.com/track/7nz5qUO3ZtyfpMV4SuRWku) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy), [Piyush Mishra](https://open.spotify.com/artist/1EzHkoB4160h1B1xAyXSUR) | [Black Friday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UVnrLOWy80j1h9GCc6gkU) | 7:48 |
 | 26 | [Sa Ni Dha Pa](https://open.spotify.com/track/2sF9kShaPgkYHT2lr2OCy8) | [Colonial Cousins](https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P) | [Colonial Cousins](https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC) | 5:06 |
 | 27 | [Teri Meri Zindagi](https://open.spotify.com/track/3jHP1XTax79oBQN2WB2Zsv) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV), [Kavya Jones](https://open.spotify.com/artist/1lydwiD3rVjbuurDYXpbXi) | [Teri Meri Zindagi](https://open.spotify.com/album/2AMpMNsHdraGYj1wigyZIm) | 3:28 |
 | 28 | [Anuva's Sky](https://open.spotify.com/track/345H6NEZCjc7XKXaHtBXPd) | [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Nights in Shining Karma](https://open.spotify.com/album/7Hg5bidAjLakmk9T86sNvo) | 3:16 |

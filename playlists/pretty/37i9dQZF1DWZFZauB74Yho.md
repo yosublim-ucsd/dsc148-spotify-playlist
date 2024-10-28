@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Billy Strings
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,891 likes - 161 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,938 likes - 161 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

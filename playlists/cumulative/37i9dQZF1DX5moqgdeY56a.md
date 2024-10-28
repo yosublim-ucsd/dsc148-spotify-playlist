@@ -4,7 +4,7 @@
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-146 songs - 8 hr 44 min
+147 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Echame a Mi la Culpa](https://open.spotify.com/track/4JIadtApDJKn7gRea0pgeT) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 3:02 | 2024-04-09 | 2024-10-02 |
 | [El Anticuado](https://open.spotify.com/track/4ZO4lNK6uR8okn2q6Tl8FR) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [El Anticuado](https://open.spotify.com/album/19JnLRfaf1P5U9qVNJn9jj) | 4:04 | 2021-12-13 | 2022-09-23 |
 | [El Autobús](https://open.spotify.com/track/6qURriyKzYaFVzufY51LDj) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [No Soy de Nadie](https://open.spotify.com/album/5qoV1zhw6RCAfjnu9gwJFt) | 3:57 | 2024-04-09 |  |
-| [El Caballo Blanco](https://open.spotify.com/track/39Ou6DEHzZAZUa8QQT2u0N) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Exitos Corridos \- Antonio Aguilar](https://open.spotify.com/album/4UlhGPLgVuU7D7xhTH2yWq) | 3:00 | 2024-04-09 |  |
+| [El Caballo Blanco](https://open.spotify.com/track/39Ou6DEHzZAZUa8QQT2u0N) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Exitos Corridos \- Antonio Aguilar](https://open.spotify.com/album/4UlhGPLgVuU7D7xhTH2yWq) | 3:00 | 2024-04-09 | 2024-10-28 |
+| [El Cantador](https://open.spotify.com/track/4EGoIDuTFm5wbZRvcZNmBS) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Corridos De Caballos \- Antonio Aguilar](https://open.spotify.com/album/5BCEuGy3UosQe1jpmbVYDV) | 3:28 | 2024-04-09 |  |
 | [El Chivo](https://open.spotify.com/track/1QHsh7mQuy7ykz9W9avvTR) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 | 2022-09-22 | 2022-11-13 |
 | [El Comienzo del Final](https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Comienzo del Final](https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g) | 2:53 | 2022-09-22 |  |
 | [El Comienzo del Final](https://open.spotify.com/track/3q0TpT3IiVHe2Kulf4a6qC) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB) | 2:53 | 2023-10-13 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Qing Madi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,388 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,473 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 9 | [Mr Heartbreaker](https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv) | [Rose May Alaba](https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Mr Heartbreaker](https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f) | 2:55 |
 | 10 | [Mad](https://open.spotify.com/track/2eRpyRjC2hThMbl99q00pe) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Diamond & Roses](https://open.spotify.com/album/3MVPTFnmsgLu4rvruGwAGf) | 2:39 |
 | 11 | [Aye Nlo](https://open.spotify.com/track/6ptL7UTcJtxJIZInDdzAtO) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg) | [Aye Nlo](https://open.spotify.com/album/6EStOd2arnVmUiuItGrkqc) | 3:02 |
-| 12 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:47 |
+| 12 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 |
 | 13 | [Lemme Know](https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Lemme Know](https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf) | 2:53 |
 | 14 | [Forever](https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Forever](https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS) | 2:39 |
 | 15 | [BEFORE YOU GO \(feat\. Mix Master Garzy\)](https://open.spotify.com/track/3bNmUIUeT3nZjUD3FhQUdC) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Mix Master Garzy](https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX) | [BEFORE YOU GO \(feat\. Mix Master Garzy\)](https://open.spotify.com/album/2acZ8qqNKBUe0fwgNcVx8S) | 2:46 |

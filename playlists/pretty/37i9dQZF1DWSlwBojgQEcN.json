@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1719007,
+  "num_followers": 1719029,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
       },
       "artists": [
         {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "So My Darling (Acoustic)",
-        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
         }
       ],
-      "duration_ms": 228922,
-      "name": "So My Darling - Acoustic",
-      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Pink Strat",
         "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 244986,
       "name": "Falling in Love at a Coffee Shop",
       "url": "https://open.spotify.com/track/1KHdq8NK9QxnGjdXb55NiG"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "MONOVISION",
-        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 361013,
-      "name": "We'll Make It Through",
-      "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Golden (Acoustic)",
         "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "MONOVISION",
+        "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 361013,
+      "name": "We'll Make It Through",
+      "url": "https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Don't Let Me Down",
-        "url": "https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 180419,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Build Me Up From Bones",
         "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 180419,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -851,38 +851,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Immune",
-        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 210165,
-      "name": "Immune",
-      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 193972,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Venus (Acoustic)",
         "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
       },
@@ -895,6 +863,22 @@
       "duration_ms": 175120,
       "name": "Sweet Love of Mine (Acoustic)",
       "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Immune",
+        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 210165,
+      "name": "Immune",
+      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 193972,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
         "name": "Eastmountainsouth",
         "url": "https://open.spotify.com/album/5koo8CoRJwXO8sfemLf5Gp"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 117760,
       "name": "So Are You To Me",
       "url": "https://open.spotify.com/track/5IGYPdHMSG4PLXDS9LDPJS"
+    },
+    {
+      "added_at": "2024-10-25 17:57:34",
+      "album": {
+        "name": "Monte Carlo",
+        "url": "https://open.spotify.com/album/3w4lUHrKK2urnIgE4CLBak"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 227092,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/3RMHQtjlUAi4SDtinzCuy4"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -967,22 +983,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Here Goes Nothing!",
         "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 204865,
       "name": "So Sweet",
       "url": "https://open.spotify.com/track/5dFkDkyoBw6RXV51zfdvE6"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 248299,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Roll",
         "url": "https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 205625,
       "name": "Roll",
       "url": "https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 248299,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 235418,
-      "name": "Sunflower, Vol. 6",
-      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Didn't He Ramble",
         "url": "https://open.spotify.com/album/0VR0U8c34soFl7IWPyqqwY"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 287333,
       "name": "Wedding Ring",
       "url": "https://open.spotify.com/track/2awnpGOj6Go2RuTNuATyaT"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 235418,
+      "name": "Sunflower, Vol. 6",
+      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1175,6 +1191,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3WequSBxJjxLL24Nvf3u0i"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "I Like to Be With Me When I'm With You",
+      "url": "https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
         "name": "The War Inside (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6NFJbFjFfRGHYGxlGNecYy"
       },
@@ -1191,22 +1223,6 @@
       "duration_ms": 226967,
       "name": "I'm so in Love with You (feat. Seth Avett)",
       "url": "https://open.spotify.com/track/1uGwCbelG6h8hdcCPFSN1Z"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3WequSBxJjxLL24Nvf3u0i"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 230773,
-      "name": "I Like to Be With Me When I'm With You",
-      "url": "https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Shoreline",
-        "url": "https://open.spotify.com/album/1sGcdhKt79CBvPDcpD4phz"
-      },
-      "artists": [
-        {
-          "name": "Andrew James",
-          "url": "https://open.spotify.com/artist/6xX1Zl1ebx9oUiIr8iK5HU"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "I Can't Keep from Loving You",
-      "url": "https://open.spotify.com/track/3Ww0uch4dwJm70ltCT9pJ2"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Love Is Blind",
         "url": "https://open.spotify.com/album/7ajyVPfdzn9WgosdGUnWHw"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 233071,
       "name": "Love Is Blind",
       "url": "https://open.spotify.com/track/66gYCVuAKeIlVgTbAmAbWq"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Shoreline",
+        "url": "https://open.spotify.com/album/1sGcdhKt79CBvPDcpD4phz"
+      },
+      "artists": [
+        {
+          "name": "Andrew James",
+          "url": "https://open.spotify.com/artist/6xX1Zl1ebx9oUiIr8iK5HU"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "I Can't Keep from Loving You",
+      "url": "https://open.spotify.com/track/3Ww0uch4dwJm70ltCT9pJ2"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1387,22 +1403,6 @@
       "duration_ms": 261140,
       "name": "Sail on the Water",
       "url": "https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
         "name": "That Spell",
         "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
       },
@@ -1503,6 +1519,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
+        "name": "Highway Woman",
+        "url": "https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Highway Woman",
+      "url": "https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
         "name": "For Better, Or Worse",
         "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
       },
@@ -1519,22 +1551,6 @@
       "duration_ms": 175334,
       "name": "My Happiness (feat. Fiona Prine)",
       "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "Highway Woman",
-        "url": "https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Highway Woman",
-      "url": "https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1575,22 +1591,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "(i would have followed you)",
-        "url": "https://open.spotify.com/album/6IiYHjfn55bDxUwcoM083I"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 289040,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/3g62EjDXLltUvmgEFDn9eN"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Bare Bones EP",
         "url": "https://open.spotify.com/album/0EIZbhrZvPpSoR0JnqvjWn"
       },
@@ -1603,6 +1603,22 @@
       "duration_ms": 206133,
       "name": "From This Valley - Acoustic",
       "url": "https://open.spotify.com/track/5UcW2Su74svT2gYHBv57fO"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "(i would have followed you)",
+        "url": "https://open.spotify.com/album/6IiYHjfn55bDxUwcoM083I"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 289040,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/3g62EjDXLltUvmgEFDn9eN"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1635,22 +1651,6 @@
       "duration_ms": 209160,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "Schema - EP",
-        "url": "https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo"
-      },
-      "artists": [
-        {
-          "name": "Lee Henke",
-          "url": "https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T"
-        }
-      ],
-      "duration_ms": 251173,
-      "name": "Care for Me",
-      "url": "https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE"
     }
   ],
   "unique_name": "Acoustic Love",

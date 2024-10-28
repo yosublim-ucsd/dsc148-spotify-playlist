@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,694 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,700 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 35 | [Tu ne peux pas partir](https://open.spotify.com/track/5lb1bhrrwwV1c4dQbGSIxm) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/1FyoH3mAEsI9F9U518fL2B) | 3:23 |
 | 36 | [J'ai Oublié](https://open.spotify.com/track/4tX28kKt5YasANWQj9RgIR) | [Captaine Révolte](https://open.spotify.com/artist/7qsCifJn8gcqcLP5nUfWPC) | [Danse Sociale](https://open.spotify.com/album/32OmCkG3Q6bsHQNNgbKrX3) | 3:55 |
 | 37 | [Big Bang](https://open.spotify.com/track/7bfnzQ0SdG1mi3pItHO4n7) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/01eDW3QDT4HjJ7vWa6tIup) | 3:20 |
-| 38 | [Gwen Et Les Rats](https://open.spotify.com/track/40HtuAsUDbDG8FDjLUyaxj) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [L'amour la haine les animaux les automobiles](https://open.spotify.com/album/2fXJObc0jM7Zd6AdhR92DA) | 3:08 |
-| 39 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 |
+| 38 | [Grossière indécence](https://open.spotify.com/track/55qUxWYhkjinbOJS9rvnN9) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/3ZC0QWTlJ5DYbRrPVTiAwQ) | 2:56 |
+| 39 | [Gwen Et Les Rats](https://open.spotify.com/track/40HtuAsUDbDG8FDjLUyaxj) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [L'amour la haine les animaux les automobiles](https://open.spotify.com/album/2fXJObc0jM7Zd6AdhR92DA) | 3:08 |
 | 40 | [Ton amour est trop lourd](https://open.spotify.com/track/4PxZdHDHTSS5R1BcIuXpj2) | [Hepatite B](https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg) | [Hepatite B](https://open.spotify.com/album/3vcEGTInZLMpu9zuXASsrk) | 1:57 |
 | 41 | [Le coup d'état](https://open.spotify.com/track/6vNUd4oWXksZURkuaZ0fti) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/6P6e4WkfYYx1cUa265Ibwj) | 4:22 |
 | 42 | [Vénus du Mile\-End](https://open.spotify.com/track/4t2Lu1XHneDYLvFARnpyhz) | [Les Chiens](https://open.spotify.com/artist/3RhGeas8gUsn6bmPpZYYFe) | [Le long sentier \(Une anthologie\)](https://open.spotify.com/album/68ypZdUt5HvLjwRdFGolAH) | 5:07 |

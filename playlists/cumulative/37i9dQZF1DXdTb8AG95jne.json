@@ -6089,6 +6089,24 @@
     },
     {
       "album": {
+        "name": "Coloring 'In the Name of Love'",
+        "url": "https://open.spotify.com/album/3c1eJ6tq1lJPn7JDos5Y3z"
+      },
+      "artists": [
+        {
+          "name": "Wavemeans",
+          "url": "https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "In the Name of Love - 2024 Version",
+      "url": "https://open.spotify.com/track/5sp3iWKHpLGpQbhDbFPEqP"
+    },
+    {
+      "album": {
         "name": "In This Morning",
         "url": "https://open.spotify.com/album/16I6H2xqNKAHLpGx7ofQEs"
       },
@@ -10654,7 +10672,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 214756,
       "name": "sky, hands, balloons",
       "url": "https://open.spotify.com/track/2fOdh9tzibnea3DFJViQ7d"

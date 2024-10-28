@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 
 > The vibes
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 31 songs - 1 hr 43 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 32 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,6 @@ pretty - [cumulative](/playlists/cumulative/6EGyspWqXzm0fyIJw18RHt.md) - [plain]
 | 29 | [Rave in the Grave](https://open.spotify.com/track/6Sf2YqGzNmVfSNpLFWuYbz) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh), [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Rave in the Grave](https://open.spotify.com/album/2XPegg8qwhY3CHGR4n812W) | 2:42 |
 | 30 | [Surfin' Spooks](https://open.spotify.com/track/2R8t1qlB2wMiWwho1u3eYq) | [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [A\-Haunting We Will Go\-Go](https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk) | 1:33 |
 | 31 | [What's Your Favorite Scary Movie?](https://open.spotify.com/track/6Tt7jbmNbCD3r3yc7yNIeC) | [Alden Derck](https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC), [Shannon Sheridan](https://open.spotify.com/artist/4Yp141vlWVAOEeVqV4anOa) | [What's Your Favorite Scary Movie?](https://open.spotify.com/album/1GRZIBtksUKWB6u7BTDX6U) | 3:06 |
+| 32 | [Vampires Will Never Hurt You](https://open.spotify.com/track/7J4uwuiyWB7BqIcyNdcVRl) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 5:26 |
 
-Snapshot ID: `AAAAJCpyEgNzCPsSZ0OTKIvMysr/t15d`
+Snapshot ID: `AAAAJTXnCVGNiEWC13e8bVhDTU92ztoD`

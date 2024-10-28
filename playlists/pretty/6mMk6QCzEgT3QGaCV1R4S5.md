@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats! Cover: Purple Disco Machine &amp; The Magician
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,341 likes - 60 songs - 3 hr 12 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,340 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 | 43 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 |
 | 44 | [Youngblood \(feat\. Josh Breaks\)](https://open.spotify.com/track/1FgMrAXjFDiTYf9uzoFYLg) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [Youngblood \(feat\. Josh Breaks\)](https://open.spotify.com/album/31LNPzSfHfwCyKqSEJr3KP) | 3:01 |
 | 45 | [GIRLZ](https://open.spotify.com/track/7EAbixDAOVcSb73tEKTqyU) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [GIRLZ](https://open.spotify.com/album/7Fxsz7rwI2gzGDEXCdvsCR) | 2:21 |
-| 46 | [All My Love \(feat\. Bryn Christopher\)](https://open.spotify.com/track/7uxekgrzhajFcoitfpk5Ap) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [All My Love \(feat\. Bryn Christopher\)](https://open.spotify.com/album/4y1KLCiNGKa7369l7CfEc9) | 2:47 |
+| 46 | [All My Love \(feat\. Bryn Christopher\)](https://open.spotify.com/track/7uxekgrzhajFcoitfpk5Ap) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [All My Love \(feat\. Bryn Christopher\) \(feat\. Bryn Christopher\)](https://open.spotify.com/album/4y1KLCiNGKa7369l7CfEc9) | 2:47 |
 | 47 | [Friday](https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Friday](https://open.spotify.com/album/7syOKNR2x90o9MzqJI91hQ) | 3:28 |
 | 48 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 |
 | 49 | [Willing To Let You Go \(feat\. Anella Herim & Abby Anderson\)](https://open.spotify.com/track/1ZZaOAx86pHrZR7Kb0RbKM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Diplo Presents Thomas Wesley: The Mixtape](https://open.spotify.com/album/2YEVAviqPGlcnc2ruyXcPE) | 3:12 |

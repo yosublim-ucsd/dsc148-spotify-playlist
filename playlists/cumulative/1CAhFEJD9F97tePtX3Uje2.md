@@ -4,7 +4,7 @@
 
 > 
 
-235 songs - 13 hr 53 min
+239 songs - 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Neo Riot](https://open.spotify.com/track/4XPH8tZKpHcapMo9cxtLz4) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Neo Riot](https://open.spotify.com/album/5GQC9MlFNAs41gujAITNmR) | 3:35 | 2020-08-10 |  |
 | [Never Know](https://open.spotify.com/track/5IbLXSrvE9X8ICX7Eki3TR) | [CHVRN](https://open.spotify.com/artist/7rSykIe3Og1NMbIV6LOeVx) | [Delirium](https://open.spotify.com/album/2OiRcGOaCnf1QFqUVW1nCz) | 4:00 | 2018-11-27 |  |
 | [Never Leave](https://open.spotify.com/track/37xPHUDhcmt8ezVkqsotdM) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [Never Leave](https://open.spotify.com/album/0XxgmHPqu2K9QrObH6trsm) | 3:09 | 2023-03-03 |  |
+| [never let me go.](https://open.spotify.com/track/7CeFkmFqoe8uX6wFOOALQg) | [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl), [sixnite](https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk) | [never let me go.](https://open.spotify.com/album/2qMorbWvWORO8PhBlbIgkA) | 1:47 | 2024-10-27 |  |
 | [neverending](https://open.spotify.com/track/5zV6QSWq4ebzvpuBlIihjc) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [neverending](https://open.spotify.com/album/0msTaK8nBTXuA66JwMlcPA) | 2:20 | 2022-09-21 |  |
 | [NFS](https://open.spotify.com/track/3zSwpAhbPIF4TonAOO35Pk) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [NFS](https://open.spotify.com/album/2YpA50JqfV9qh3vl8IkMFg) | 4:03 | 2021-01-24 |  |
 | [night drive](https://open.spotify.com/track/0jurmsj9pRiPw7NP2Xyzlq) | [førget.](https://open.spotify.com/artist/5wHfi1y1q2QxxRGa4XBUwi) | [night drive](https://open.spotify.com/album/092UJhaI7AuxP3grT3RDcv) | 4:10 | 2022-07-04 |  |
@@ -182,6 +183,7 @@
 | [Radiant](https://open.spotify.com/track/5h3H7uXc5Uss7pNXK7C2WW) | [STS\-51L](https://open.spotify.com/artist/26sQOH3CNqd81507zMHofP), [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [Andromeda](https://open.spotify.com/album/0XQR3Ky1jdpw2RtpISEE93) | 3:13 | 2022-10-24 |  |
 | [Rain](https://open.spotify.com/track/48Kws1UrNWaIpoo6w8u2IX) | [LXRY PXNK](https://open.spotify.com/artist/25ZRM52hYigccz8com4s8t), [CHMCL SØUP](https://open.spotify.com/artist/3o6lxZ9ULOHMk438t24bIH) | [Rain](https://open.spotify.com/album/6aXWH9B3mn8qewDzzuIzkm) | 2:19 | 2024-08-28 |  |
 | [Reach](https://open.spotify.com/track/6zL2omvnQ206XwPvXoMlx8) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Reach](https://open.spotify.com/album/512c9dyPWpLL5M5Nz9Byq3) | 3:33 | 2018-11-27 |  |
+| [realise!](https://open.spotify.com/track/1bms4iDzAEk121H6rA44jV) | [FXRR](https://open.spotify.com/artist/18Aa5fsiPr4pXRAwezZN6i) | [realise!](https://open.spotify.com/album/7w75uefsFnNzxEkZ5PNuX6) | 2:14 | 2024-10-27 |  |
 | [Redox](https://open.spotify.com/track/1PlCzoflJ67dVBOZTKm3r7) | [NBSPLV](https://open.spotify.com/artist/61TQfpvTjHYQjPrvtJPwVa) | [Redox](https://open.spotify.com/album/4zeFJzRJ6qxTcDSJi6orzk) | 3:11 | 2019-07-31 |  |
 | [Reflection](https://open.spotify.com/track/1R3qWOKVtePIpfFYSuPwem) | [Lowly, Smokefishe](https://open.spotify.com/artist/74ZfaGpPxrbKS9zBNb6OHQ) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:27 | 2021-06-11 |  |
 | [Replay](https://open.spotify.com/track/5DiiH80hONadLveK3wMz9c) | [WOODJU](https://open.spotify.com/artist/7iYTP3Gnpd8ZDFrr9gocBR), [MITYA](https://open.spotify.com/artist/6b9ZuzE85bvMgpSC4tkzun) | [Undiscovered](https://open.spotify.com/album/1xwTjsaYZU4OhMbAPkWgZq) | 3:48 | 2018-12-01 |  |
@@ -191,6 +193,7 @@
 | [Salvation in Love](https://open.spotify.com/track/5GOGXozSEjBJNYiv4WVqyM) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Salvation in Love](https://open.spotify.com/album/2pCvklmT4fb002cTbhfAWV) | 3:56 | 2018-11-27 |  |
 | [Same World Next Dimension](https://open.spotify.com/track/3lUMvdNMOhxx8GgaWzJwuL) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 4:43 | 2020-02-14 |  |
 | [See Me](https://open.spotify.com/track/11qtTUPmfsLPt8RVrhlYqZ) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [See Me](https://open.spotify.com/album/4I6zWSUDUhlt8QeeMmLRqq) | 3:28 | 2018-11-27 |  |
+| [SEEN IT ALL](https://open.spotify.com/track/1idBzRMtBpmduqoa2WavLC) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [II Tone](https://open.spotify.com/artist/1XcaJZLayue2wv5axNkqJS) | [SEEN IT ALL](https://open.spotify.com/album/3amHmTIZj8MBqHBTCFMeyN) | 2:43 | 2024-10-27 |  |
 | [Sepia](https://open.spotify.com/track/4wueJoyWF7x6sO41ddk6IL) | [vinter](https://open.spotify.com/artist/6t2jsqfuSymmmvx1cQfKGs) | [Sepia](https://open.spotify.com/album/2fRde6F0mW6nNZfPpOMLHd) | 2:01 | 2024-05-01 |  |
 | [Sierra](https://open.spotify.com/track/3v9rHY8Ilui7YID4UaSCp9) | [KTrek](https://open.spotify.com/artist/1ghwrzwYwjMLzbzghLWQOV) | [Sierra](https://open.spotify.com/album/5HU7fz45Pyjwj27M7pD0gc) | 3:20 | 2020-12-27 |  |
 | [Silence](https://open.spotify.com/track/7vrfNSPtCZFzNy5XTb5eju) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [Silence](https://open.spotify.com/album/4qYbcHFIQyBAjSPL3uMfM7) | 3:26 | 2021-04-03 |  |
@@ -199,6 +202,7 @@
 | [SOUTH MEMPHIS](https://open.spotify.com/track/6lB7u4TFlnAfG31jR2Nlh3) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [THE SHADOW DOES NOT LET GO](https://open.spotify.com/album/1d7r1jS1OsAqd9fj5NYmH0) | 2:37 | 2020-07-16 |  |
 | [Space](https://open.spotify.com/track/1LDQNuUI0iO6rTfZ6IqSKf) | [Tokyo Tears](https://open.spotify.com/artist/4zEUlt3AmxKcL9CtFNIz32) | [Space](https://open.spotify.com/album/63VjFFKEqyHcMAPKbAC5u6) | 3:17 | 2020-08-10 |  |
 | [Spacing](https://open.spotify.com/track/1mTEtAKHbJdXvw7H8mvKo1) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 4:41 | 2020-01-05 |  |
+| [STRATOSPHERE](https://open.spotify.com/track/2TXuKQBEMAgewrG0VFJngq) | [Lestmor](https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK), [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [STRATOSPHERE](https://open.spotify.com/album/26UklZWmkfdZq26X8wrRRg) | 2:15 | 2024-10-27 |  |
 | [Stream](https://open.spotify.com/track/5GW3F4v5PJr4A9l2Fbs40G) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 3:32 | 2023-02-20 |  |
 | [Switch Up](https://open.spotify.com/track/5DhVPyGrCU55QTZMKVwQPU) | [COSMIC](https://open.spotify.com/artist/3yrkuc99URznjwVvVFtN78), [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub) | [Switch Up](https://open.spotify.com/album/5oOxGXJxVWPecNxWQ9EGtQ) | 3:38 | 2018-11-27 |  |
 | [Synergy](https://open.spotify.com/track/6BWjy4BEMpbEzgwJm1637h) | [Lowly, Juche](https://open.spotify.com/artist/2oEQmXB8z2M6cenJyyrKDB) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:21 | 2020-11-05 |  |

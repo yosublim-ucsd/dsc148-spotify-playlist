@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,428 likes - 69 songs - 3 hr 23 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,427 likes - 69 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 11 | [EASE MY MIND](https://open.spotify.com/track/2RwGziqLwMsSTE6tZdckEh) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [EASE MY MIND](https://open.spotify.com/album/2Gp2L1uGCTT7f7x3wYKuUc) | 2:53 |
 | 12 | [Very Last Drop](https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [DnH](https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb) | 4:03 |
 | 13 | [What 2 Do](https://open.spotify.com/track/7qbCfhk0qcrUKMGhUbyFdJ) | [Inafekt](https://open.spotify.com/artist/44ixlcp2r9IHhFqGdcFjOz), [Kyle Starkey](https://open.spotify.com/artist/1crvHImsszKXTJr4wsOPhe), [DaLoops](https://open.spotify.com/artist/309hwGGuwU8SeipNuGNhqn) | [What 2 Do](https://open.spotify.com/album/4qktc8siKG4BCTUOrFX4Po) | 2:37 |
-| 14 | [WHERE HAVE YOU BEEN \(feat\. Angel City\)](https://open.spotify.com/track/4Mxa09STXShl7E2hkFtm25) | [AKN](https://open.spotify.com/artist/34SNzLPgGONrLAInuTJJwW), [Angel City](https://open.spotify.com/artist/7cwm843vv3YM0XvGAf5zgL) | [WHERE HAVE YOU BEEN \(feat\. Angel City\)](https://open.spotify.com/album/7jqNoIxRjeCukIr7JVzdsP) | 3:18 |
+| 14 | [WHERE HAVE YOU BEEN\. \(feat\. Angel City\)](https://open.spotify.com/track/4Mxa09STXShl7E2hkFtm25) | [AKN](https://open.spotify.com/artist/34SNzLPgGONrLAInuTJJwW), [Angel City](https://open.spotify.com/artist/7cwm843vv3YM0XvGAf5zgL) | [WHERE HAVE YOU BEEN\. \(feat\. Angel City\)](https://open.spotify.com/album/7jqNoIxRjeCukIr7JVzdsP) | 3:18 |
 | 15 | [Alone In The Dark \- Radio Edit](https://open.spotify.com/track/53hR4ebI4kNXhHI6WwCAo3) | [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP), [Tellur](https://open.spotify.com/artist/5rvzvX60UWSsHXOKd2XwZT), [Paiola](https://open.spotify.com/artist/14MY1N7hBtEoXiCpjSQEXO) | [Alone In The Dark](https://open.spotify.com/album/6oD66jmgTPhfXOnW6AXt1m) | 3:17 |
 | 16 | [Sell Your Soul](https://open.spotify.com/track/57UOGQIxDfQLaYoNm3JSzg) | [Sam Red](https://open.spotify.com/artist/7HjYkiUnk6BYqB3UZrzVRg) | [Sell Your Soul](https://open.spotify.com/album/0eLmMMjrNq1Boup6Lr6alT) | 3:42 |
 | 17 | [Sinner](https://open.spotify.com/track/0e0007ui44LPZePXoDWb7D) | [Benji](https://open.spotify.com/artist/7taI3k7qQmxF45vJjRBfqc), [Trebble](https://open.spotify.com/artist/04V6wQNSikCbIY1NCpGZB4) | [Sinner](https://open.spotify.com/album/5NDrzN3ZwrmuhH6nv4nKZt) | 2:52 |

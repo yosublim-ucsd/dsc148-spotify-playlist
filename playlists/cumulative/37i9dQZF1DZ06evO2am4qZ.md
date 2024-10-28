@@ -4,7 +4,7 @@
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-98 songs - 4 hr 47 min
+99 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Hey, Mickey!](https://open.spotify.com/track/4KVJ9cSgpo6IANqaQ9lWjN) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/58vYzfzlVh9ptoQoCpNfMw) | 1:55 | 2022-12-20 | 2023-01-19 |
 | [Hey, Mickey!](https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Hey, Mickey!](https://open.spotify.com/album/1Qpd1fT9Vgp2uuuZ533By0) | 2:53 | 2023-05-17 |  |
 | [Hot Girl \(feat\. Kari Faux\)](https://open.spotify.com/track/1p2ZhlXPJ1CdEKEcl4naXs) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 2:42 | 2022-10-28 | 2023-08-22 |
-| [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 | 2022-10-28 |  |
+| [Hot One](https://open.spotify.com/track/7EdeHorFYn5dXW4lKCQNwC) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/3OiT0FaZLif2i9uflNRgMs) | 2:56 | 2024-10-28 |  |
+| [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 | 2022-10-28 | 2024-10-28 |
 | [Hourglass](https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Hourglass](https://open.spotify.com/album/5mAndmKGkXWSwNFHywzB5e) | 2:54 | 2023-05-02 |  |
 | [Hourglass \(with Baby Tate\)](https://open.spotify.com/track/3CDiG5vHYkffRzHlgszkvU) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hourglass \(with Baby Tate\)](https://open.spotify.com/album/6FzAj18O3nbSrHrt2gu9Ve) | 2:54 | 2022-12-20 | 2023-05-03 |
 | [Hourglass \(with Baby Tate\)](https://open.spotify.com/track/58LdWh8ptJ4JBJ3SwBINjn) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hourglass \(with Baby Tate\)](https://open.spotify.com/album/3NEUcyZnBlfzt2kS4ib7wO) | 2:54 | 2022-10-28 | 2022-12-21 |

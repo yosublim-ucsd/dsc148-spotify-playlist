@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-39 songs - 2 hr 2 min
+40 songs - 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Give Up!](https://open.spotify.com/track/3OxXjDWxjrD9PcGwveP5nO) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Autumn](https://open.spotify.com/album/2opLhMoweetJdxKceCQqyE) | 2:49 | 2023-07-09 |  |
 | [Have a Seat Misery](https://open.spotify.com/track/62reWZkKlxUmLphHJy8kRN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 1:15 | 2023-03-23 |  |
 | [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 | 2023-03-25 |  |
+| [I Never Told You What I Do for a Living](https://open.spotify.com/track/6gLn8QhAYL4dEwdpVjfCPl) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:52 | 2024-10-27 |  |
 | [I'm In Love With My Car \- Remastered 2011](https://open.spotify.com/track/4WX7njDAz4cDSDPr8Vcj6j) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4) | 3:04 | 2023-03-21 |  |
 | [If You See Light](https://open.spotify.com/track/2WizTIQY0T1hLouDdF2xJX) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/559oW9AZQ7TxKkRQhe2fUh) | 1:58 | 2023-01-07 |  |
 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 | 2023-07-31 |  |

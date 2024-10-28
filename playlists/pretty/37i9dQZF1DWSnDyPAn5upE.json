@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 63889,
+  "num_followers": 63955,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 174370,
+      "name": "I'm Clean Now",
+      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Enchanted Isle",
         "url": "https://open.spotify.com/album/6oXgXpm6UC0kveOf8A8qrL"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 274506,
       "name": "Pyramid Song (Arr. Lawson)",
       "url": "https://open.spotify.com/track/4s0wuHeoQUqseTxG10cukT"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Paradise Valley",
-        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 174370,
-      "name": "I'm Clean Now",
-      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Theories",
+      "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Trececerotres",
         "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 135773,
       "name": "Trececerotres",
       "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Blue Hills",
-        "url": "https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8"
-      },
-      "artists": [
-        {
-          "name": "Jonnine",
-          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "The Tides Do That with Me",
-      "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe"
+        "name": "Blue Hills",
+        "url": "https://open.spotify.com/album/7nNCCgvJdDuE4DgnS68cQ8"
       },
       "artists": [
         {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+          "name": "Jonnine",
+          "url": "https://open.spotify.com/artist/6s8JAb4h3UjN5r3BgRhUhQ"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Theories",
-      "url": "https://open.spotify.com/track/4ydGyZ14rN1gWavN80KMzs"
+      "duration_ms": 160000,
+      "name": "The Tides Do That with Me",
+      "url": "https://open.spotify.com/track/54IVj29KBSyfbDd5jCJ4b9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -535,6 +535,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "600 Years of Rest",
+        "url": "https://open.spotify.com/album/0PkwMH38KmIGvHUf3fhkmf"
+      },
+      "artists": [
+        {
+          "name": "Riverest",
+          "url": "https://open.spotify.com/artist/3gd24ilFMYc7YGWljgwhzg"
+        },
+        {
+          "name": "Fiona Joy Hawkins",
+          "url": "https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d"
+        }
+      ],
+      "duration_ms": 255656,
+      "name": "600 Years of Rest",
+      "url": "https://open.spotify.com/track/45S8vmd0j9YLWkvlLlnbMN"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "OFFAIR: The Power of your Subconscious Mind Vol 1: SPACE",
         "url": "https://open.spotify.com/album/1gUxFwmsNfsAmyrirHs3hG"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "600 Years of Rest",
-        "url": "https://open.spotify.com/album/0PkwMH38KmIGvHUf3fhkmf"
-      },
-      "artists": [
-        {
-          "name": "Riverest",
-          "url": "https://open.spotify.com/artist/3gd24ilFMYc7YGWljgwhzg"
-        },
-        {
-          "name": "Fiona Joy Hawkins",
-          "url": "https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d"
-        }
-      ],
-      "duration_ms": 255656,
-      "name": "600 Years of Rest",
-      "url": "https://open.spotify.com/track/45S8vmd0j9YLWkvlLlnbMN"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Shifting Winds",
-        "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Shifting Winds",
-      "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "LP.8",
         "url": "https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh"
       },
@@ -743,38 +727,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Leave No Path Untaken",
-        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
+        "name": "Shifting Winds",
+        "url": "https://open.spotify.com/album/3kKwnGfZfZivj3lu60VgH3"
       },
       "artists": [
         {
-          "name": "Seven24",
-          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
-        },
-        {
-          "name": "Soty",
-          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
         }
       ],
-      "duration_ms": 160800,
-      "name": "I Lost You When the Rain Sang a Song - Original Mix",
-      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
-      },
-      "artists": [
-        {
-          "name": "YL Hooi",
-          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
+      "duration_ms": 252000,
+      "name": "Shifting Winds",
+      "url": "https://open.spotify.com/track/3lNLrhN4VhMYCvUQcNioaV"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -795,6 +759,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
+      },
+      "artists": [
+        {
+          "name": "YL Hooi",
+          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Solari",
         "url": "https://open.spotify.com/album/16K2TOPALbZceZTYWUV2bu"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 165050,
       "name": "Solari",
       "url": "https://open.spotify.com/track/7uR2Mb4MPuPFN6jQ58RChn"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Leave No Path Untaken",
+        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
+      },
+      "artists": [
+        {
+          "name": "Seven24",
+          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
+        },
+        {
+          "name": "Soty",
+          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "I Lost You When the Rain Sang a Song - Original Mix",
+      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Pray for Us",
-        "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
-      },
-      "artists": [
-        {
-          "name": "Kisel\u0451k",
-          "url": "https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz"
-        },
-        {
-          "name": "SymphoCat",
-          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
-        }
-      ],
-      "duration_ms": 292605,
-      "name": "Pray for Us",
-      "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Ascent",
         "url": "https://open.spotify.com/album/7e5yAIEwr3t3FIPXyrJJc6"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 235160,
       "name": "An Ending (Ascent)",
       "url": "https://open.spotify.com/track/5vXobsCw0NvtXequNTTEM5"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Pray for Us",
+        "url": "https://open.spotify.com/album/5FCfLrWXgzKOvI1zOx9tJo"
+      },
+      "artists": [
+        {
+          "name": "Kisel\u0451k",
+          "url": "https://open.spotify.com/artist/0GALZnNXOQ3u2H5csY5iKz"
+        },
+        {
+          "name": "SymphoCat",
+          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+        }
+      ],
+      "duration_ms": 292605,
+      "name": "Pray for Us",
+      "url": "https://open.spotify.com/track/5wlPhifST280Kk6g8uw2vo"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Hush Now Baby",
+        "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
+      },
+      "artists": [
+        {
+          "name": "Ea Akilat",
+          "url": "https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ"
+        },
+        {
+          "name": "Howie B.",
+          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
+        }
+      ],
+      "duration_ms": 101142,
+      "name": "Hush Now Baby",
+      "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Guiding Light",
         "url": "https://open.spotify.com/album/4ms9LW96TetcO30gHy6DvE"
       },
@@ -963,26 +983,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Honest Labour",
-        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
-      },
-      "artists": [
-        {
-          "name": "Space Afrika",
-          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
-        },
-        {
-          "name": "Guest",
-          "url": "https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s"
-        }
-      ],
-      "duration_ms": 112980,
-      "name": "Indigo Grit (feat. guest)",
-      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Ithaca",
         "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
       },
@@ -999,22 +999,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Hush Now Baby",
-        "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
+        "name": "Honest Labour",
+        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
       },
       "artists": [
         {
-          "name": "Ea Akilat",
-          "url": "https://open.spotify.com/artist/67P3OoSUfsjVUEQQioTmhJ"
+          "name": "Space Afrika",
+          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
         },
         {
-          "name": "Howie B.",
-          "url": "https://open.spotify.com/artist/1DAJPl1Q9bNwPGUqL08nzG"
+          "name": "Guest",
+          "url": "https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s"
         }
       ],
-      "duration_ms": 101142,
-      "name": "Hush Now Baby",
-      "url": "https://open.spotify.com/track/6kGlgelRujRG66GEjvaREw"
+      "duration_ms": 112980,
+      "name": "Indigo Grit (feat. guest)",
+      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1067,6 +1067,22 @@
       "duration_ms": 444000,
       "name": "Bright Girl",
       "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Bardo Landscape (Reimagined)",
+        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Enstrom",
+          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
+        }
+      ],
+      "duration_ms": 196698,
+      "name": "Bardo Landscape (Reimagined)",
+      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1135,26 +1151,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK"
-      },
-      "artists": [
-        {
-          "name": "The Bug",
-          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
-        },
-        {
-          "name": "Dis Fig",
-          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
-        }
-      ],
-      "duration_ms": 89661,
-      "name": "Around Me",
-      "url": "https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "You Make It Look so Easy (Reverbed by Malibu)",
         "url": "https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl"
       },
@@ -1179,42 +1175,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
-      },
-      "artists": [
-        {
-          "name": "CTM",
-          "url": "https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz"
-        },
-        {
-          "name": "August Rosenbaum",
-          "url": "https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Celeste Song",
-      "url": "https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Bardo Landscape (Reimagined)",
-        "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
-      },
-      "artists": [
-        {
-          "name": "Alicia Enstrom",
-          "url": "https://open.spotify.com/artist/4tyZty9rLy4JVBuhK0juZa"
-        }
-      ],
-      "duration_ms": 196698,
-      "name": "Bardo Landscape (Reimagined)",
-      "url": "https://open.spotify.com/track/1PPz4tG5gGaw6bQAGQowIP"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "emerged, vol. II",
         "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
       },
@@ -1231,6 +1191,46 @@
       "duration_ms": 143157,
       "name": "abundance",
       "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        },
+        {
+          "name": "Dis Fig",
+          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+        }
+      ],
+      "duration_ms": 89661,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY"
+      },
+      "artists": [
+        {
+          "name": "CTM",
+          "url": "https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz"
+        },
+        {
+          "name": "August Rosenbaum",
+          "url": "https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Celeste Song",
+      "url": "https://open.spotify.com/track/63o2pUoRLVel5Fr14GQy9c"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Rare Backwards",
+        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
+      },
+      "artists": [
+        {
+          "name": "Spivak",
+          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
+        }
+      ],
+      "duration_ms": 219196,
+      "name": "18:00",
+      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Respite",
         "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 227631,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5IqUyrmnlu5PkHlnn0Nsmf"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Rare Backwards",
-        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
-      },
-      "artists": [
-        {
-          "name": "Spivak",
-          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "18:00",
-      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "a journey\u2026",
-        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
       "artists": [
         {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
         }
       ],
-      "duration_ms": 268440,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
+      "duration_ms": 264250,
+      "name": "Haven't Left Home 4 4 Days",
+      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "a journey\u2026",
+        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Seasons Shifting",
         "url": "https://open.spotify.com/album/7b1cqGqYbklLTaYu2Fw5oV"
       },
@@ -1411,42 +1427,6 @@
       "duration_ms": 260000,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/3EVlY02e5TY6AMeH3NaqYD"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Haven't Left Home 4 4 Days",
-      "url": "https://open.spotify.com/track/4zr9Uf1b0wIxfT1Zwwirhk"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Lumino Pleco",
-        "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
-      },
-      "artists": [
-        {
-          "name": "Gi Gi",
-          "url": "https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r"
-        },
-        {
-          "name": "Mi Mi",
-          "url": "https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX"
-        }
-      ],
-      "duration_ms": 491334,
-      "name": "Montju\u00efc",
-      "url": "https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1495,26 +1475,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "A Model of Reality Reworks",
-        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
+        "name": "Lumino Pleco",
+        "url": "https://open.spotify.com/album/5r3nWzm8O9f3pnd0yAWSta"
       },
       "artists": [
         {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+          "name": "Gi Gi",
+          "url": "https://open.spotify.com/artist/2X6qMx9wP4p6L7PU3kTh9r"
         },
         {
-          "name": "Kotomi",
-          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
-        },
-        {
-          "name": "Aonian",
-          "url": "https://open.spotify.com/artist/0irfc5RmuSG3wGYtVOXdJi"
+          "name": "Mi Mi",
+          "url": "https://open.spotify.com/artist/1vSXToWT1gtSQhwhz0g8jX"
         }
       ],
-      "duration_ms": 239000,
-      "name": "A Model Of Reality - Aonian Remix",
-      "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
+      "duration_ms": 491334,
+      "name": "Montju\u00efc",
+      "url": "https://open.spotify.com/track/2kS4LEZDSABnCLo4U9yr5c"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1551,18 +1527,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+        "name": "A Model of Reality Reworks",
+        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
       "artists": [
         {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        },
+        {
+          "name": "Kotomi",
+          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
+        },
+        {
+          "name": "Aonian",
+          "url": "https://open.spotify.com/artist/0irfc5RmuSG3wGYtVOXdJi"
         }
       ],
-      "duration_ms": 295623,
-      "name": "Silent Talk",
-      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
+      "duration_ms": 239000,
+      "name": "A Model Of Reality - Aonian Remix",
+      "url": "https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1587,22 +1571,34 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "The 90s Was A Feeling",
-        "url": "https://open.spotify.com/album/6MayzDqtZa39VVtdR6yHxw"
+        "name": "Kistvaen",
+        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
       },
       "artists": [
         {
-          "name": "IKSRE",
-          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
-        },
-        {
-          "name": "Party Store",
-          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
+          "name": "Roly Porter",
+          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
         }
       ],
-      "duration_ms": 410000,
-      "name": "The 90s Was A Feeling",
-      "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"
+      "duration_ms": 360000,
+      "name": "An Open Door",
+      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 295623,
+      "name": "Silent Talk",
+      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1619,6 +1615,26 @@
       "duration_ms": 289293,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "The 90s Was A Feeling",
+        "url": "https://open.spotify.com/album/6MayzDqtZa39VVtdR6yHxw"
+      },
+      "artists": [
+        {
+          "name": "IKSRE",
+          "url": "https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O"
+        },
+        {
+          "name": "Party Store",
+          "url": "https://open.spotify.com/artist/01uGTwt1kEN1jvAUQvSPU2"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "The 90s Was A Feeling",
+      "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Kistvaen",
-        "url": "https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80"
+        "name": "A Map With No Memory",
+        "url": "https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U"
       },
       "artists": [
         {
-          "name": "Roly Porter",
-          "url": "https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P"
+          "name": "Jay Chakravorty",
+          "url": "https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY"
         }
       ],
-      "duration_ms": 360000,
-      "name": "An Open Door",
-      "url": "https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi"
+      "duration_ms": 193644,
+      "name": "Hannah",
+      "url": "https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1679,38 +1695,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "A Map With No Memory",
-        "url": "https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U"
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
       "artists": [
         {
-          "name": "Jay Chakravorty",
-          "url": "https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY"
-        }
-      ],
-      "duration_ms": 193644,
-      "name": "Hannah",
-      "url": "https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Spirit of the Forest",
-        "url": "https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD"
-      },
-      "artists": [
-        {
-          "name": "Antarctic Wastelands",
-          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         },
         {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 163989,
-      "name": "Spirit of the Forest",
-      "url": "https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw"
+      "duration_ms": 295789,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1735,22 +1735,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+        "name": "Find Sound",
+        "url": "https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+          "name": "Shards",
+          "url": "https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU"
         }
       ],
-      "duration_ms": 295789,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
+      "duration_ms": 217090,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1791,22 +1787,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Find Sound",
-        "url": "https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c"
-      },
-      "artists": [
-        {
-          "name": "Shards",
-          "url": "https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "Thoughts",
-      "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Penelope Three",
         "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
       },
@@ -1823,18 +1803,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Aquarius/Pisces",
-        "url": "https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W"
+        "name": "Spirit of the Forest",
+        "url": "https://open.spotify.com/album/7cTJu6RVRTitObgrQIoxbD"
       },
       "artists": [
         {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+          "name": "Antarctic Wastelands",
+          "url": "https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1"
+        },
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
         }
       ],
-      "duration_ms": 298000,
-      "name": "Pisces",
-      "url": "https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N"
+      "duration_ms": 163989,
+      "name": "Spirit of the Forest",
+      "url": "https://open.spotify.com/track/25OzrUpZRRMAciSSuHA1tw"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1851,6 +1835,22 @@
       "duration_ms": 168263,
       "name": "Hills Have Eyes",
       "url": "https://open.spotify.com/track/6Vk4vbFSdMNlJzs2NRtpVq"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Aquarius/Pisces",
+        "url": "https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Pisces",
+      "url": "https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N"
     }
   ],
   "unique_name": "ethereal voices",

@@ -2,7 +2,7 @@
 
 ### [I Love My Underground Classics](https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu)
 
-> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: The Alchemist
+> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Pharoahe Monch
 
 151 songs - 10 hr 8 min
 
@@ -156,8 +156,8 @@
 | [Work](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 2:57 | 2022-09-30 |  |
 | [Workinonit](https://open.spotify.com/track/33T6ABvdB3P2iYOWJnBjsQ) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW) | 2:57 | 2022-02-08 | 2024-04-19 |
 | [Workinonit](https://open.spotify.com/track/6qK7s9JlNBfYLWPb1nwQAG) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Donuts](https://open.spotify.com/album/7xJ7jHNu3JNfdnao9xwMho) | 2:57 | 2021-02-01 | 2022-07-29 |
-| [Worst Comes To Worst](https://open.spotify.com/track/4bHrZLxaOU1gfAz0rZAnCx) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/5l8eNNfdgghJbhPtOf0aw2) | 3:36 | 2024-07-05 |  |
-| [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 | 2021-08-13 | 2024-07-06 |
+| [Worst Comes To Worst](https://open.spotify.com/track/4bHrZLxaOU1gfAz0rZAnCx) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/5l8eNNfdgghJbhPtOf0aw2) | 3:36 | 2024-07-05 | 2024-10-28 |
+| [Worst Comes To Worst \- Edited](https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB) | 3:35 | 2021-08-13 |  |
 | [Your Fuckin’ Head Split](https://open.spotify.com/track/1WkJbf3RsZCtPUvxM8AdN9) | [Necro](https://open.spotify.com/artist/51vjIMmHWyVqDrkxD07Jh7) | [I Need Drugs](https://open.spotify.com/album/3goXMAFZit2Wiaazp8zO2f) | 3:02 | 2022-02-08 |  |
 
 \*This playlist was first scraped on 2022-01-10. Prior content cannot be recovered.

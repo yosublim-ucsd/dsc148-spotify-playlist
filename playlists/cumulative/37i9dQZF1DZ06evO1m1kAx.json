@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 245439,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/2ZjpGRPvDfnUvFjtMJenxQ"
@@ -1320,6 +1320,24 @@
       "duration_ms": 225071,
       "name": "Kiss Of Life",
       "url": "https://open.spotify.com/track/6QRS80Nx3hIIL1Tg5HsZDF"
+    },
+    {
+      "album": {
+        "name": "KUKU GOOGLE AM",
+        "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210250,
+      "name": "KUKU GOOGLE AM",
+      "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
     },
     {
       "album": {

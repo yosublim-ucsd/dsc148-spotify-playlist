@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 38937,
+  "num_followers": 38953,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAAC3TBEAEQdxJ/0yvXN8TrUh",
+  "snapshot_id": "ZxwxAAAAAACCuONx/++W/dJCVu8ubagv",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Among Friends",
-        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
       },
       "artists": [
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 221760,
-      "name": "Banks",
-      "url": "https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC"
+      "duration_ms": 159997,
+      "name": "A Little Lime",
+      "url": "https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo"
     },
     {
       "added_at": null,
@@ -179,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+        "name": "Among Friends",
+        "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
       },
       "artists": [
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 159997,
-      "name": "A Little Lime",
-      "url": "https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo"
+      "duration_ms": 221760,
+      "name": "Banks",
+      "url": "https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC"
     },
     {
       "added_at": null,
@@ -515,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble Town",
-        "url": "https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF"
+        "name": "The Dream: Living The Dream (Deluxe)",
+        "url": "https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K"
       },
       "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 184174,
-      "name": "Trouble Town",
-      "url": "https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr"
+      "duration_ms": 207804,
+      "name": "The Ride (feat. Jordan Davis)",
+      "url": "https://open.spotify.com/track/1WeXDyy9jM3bX5ZdN0IvFV"
     },
     {
       "added_at": null,
@@ -547,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dream: Living The Dream (Deluxe)",
-        "url": "https://open.spotify.com/album/7eictMoL2O0921qQH3aG8K"
+        "name": "Trouble Town",
+        "url": "https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF"
       },
       "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        },
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 207804,
-      "name": "The Ride (feat. Jordan Davis)",
-      "url": "https://open.spotify.com/track/1WeXDyy9jM3bX5ZdN0IvFV"
+      "duration_ms": 184174,
+      "name": "Trouble Town",
+      "url": "https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr"
     },
     {
       "added_at": null,

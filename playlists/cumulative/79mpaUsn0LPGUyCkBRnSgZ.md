@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-763 songs - 2 day 3 hr 11 min
+764 songs - 2 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Metronomic Underground](https://open.spotify.com/track/0n9D5BLKdwCbSOLWZISiZN) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup](https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs) | 7:54 | 2024-03-24 | 2024-03-27 |
 | [Michelin Star](https://open.spotify.com/track/4B5GEy5YcHMLcbRIGYEDcx) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 1:55 | 2023-08-18 |  |
 | [Michelle Pfeiffer \(feat\. lil aaron\)](https://open.spotify.com/track/5FpMCPbmZIrVlf3zxC6eqV) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Inbred](https://open.spotify.com/album/013WXRAOja0kZ6gnlTCwJ5) | 4:31 | 2023-04-24 |  |
+| [Minim: Part I](https://open.spotify.com/track/2eUc6nuQT2m0wJX8GjbzPL) | [Yasunao Tone](https://open.spotify.com/artist/452pwHumVmgYOV4tLv1F7N) | [Solo For Wounded](https://open.spotify.com/album/6UvuhanBfE1cn4vxMyqaIJ) | 14:17 | 2024-10-27 |  |
 | [Minor Feelings](https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:00 | 2022-09-19 |  |
 | [Miracle](https://open.spotify.com/track/1CUm4jatb0BDL7RGwBV1j2) | [Nico Segal](https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L) | [Surf](https://open.spotify.com/album/3eM1KTKmpqrQOvuvYY42cr) | 4:10 | 2023-02-10 | 2023-08-09 |
 | [Misery Town](https://open.spotify.com/track/7qxj8y24oDBwWspbuzuDAN) | [Cheater](https://open.spotify.com/artist/31FObQ7rXbvTZHVMZ1kTGE) | [Home is Where the Heart is](https://open.spotify.com/album/3u13yLAaLmeHF3rPxMoPVK) | 2:27 | 2024-03-10 |  |

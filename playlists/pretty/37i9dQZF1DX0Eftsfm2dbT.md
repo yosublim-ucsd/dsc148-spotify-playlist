@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: ISSUGI & GRADIS NICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,097 likes - 81 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,115 likes - 81 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Me & My Musik \(feat\. JJJ\)](https://open.spotify.com/track/0jYU5Tq5KWFriOG1kYX2Ui) | [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [Gradis Nice](https://open.spotify.com/artist/2XKsSlSM70ukspdNBTSWBc), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Day'N'Nite 2](https://open.spotify.com/album/4S8rLJZa2GAFA5OrTZy2sw) | 2:58 |
 | 2 | [Hot Topic](https://open.spotify.com/track/3M2eHgQ41E0g9FhSbeMfgI) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Hot Topic](https://open.spotify.com/album/7hEAk0Johqu439srz2ZDj7) | 3:21 |
 | 3 | [Newtone](https://open.spotify.com/track/1SKJH9Q3cN7TrisHeIbPSa) | [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd), [4LON](https://open.spotify.com/artist/2s9P0X6QYkRHvydjLRtll9) | [Newtone](https://open.spotify.com/album/0791XPLfWaXYMtRGM5HDuf) | 2:35 |
-| 4 | [Bro \(V\-GOD Remix\)](https://open.spotify.com/track/4XY4IyRhIPSgKq89LJJXQw) | [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [V\-GOD](https://open.spotify.com/artist/0gaEEvM1uWJIudvnrbaCRG) | [Bro \(V\-GOD Remix\)](https://open.spotify.com/album/3Trl1q30sY1qhmDVJPfJ0h) | 4:19 |
+| 4 | [Bro \(V\-GOD Remix\) feat\. JJJ & VaVa](https://open.spotify.com/track/4XY4IyRhIPSgKq89LJJXQw) | [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY) | [Bro \(V\-GOD Remix\) feat\. JJJ & VaVa](https://open.spotify.com/album/3Trl1q30sY1qhmDVJPfJ0h) | 4:19 |
 | 5 | [Broke Boy Rich](https://open.spotify.com/track/0dSbZGtxtsbvB6SQNafgmG) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Broke Boy Rich](https://open.spotify.com/album/28FUxgcSQ8dtx1tSf1ZEPS) | 2:16 |
 | 6 | [Money Baby \(feat\. Awich\)](https://open.spotify.com/track/1TKmCpLf269seZfKoNP8xu) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Money Baby \(feat\. Awich\)](https://open.spotify.com/album/6ah5EwDnO1uzwx06r2a5gV) | 3:00 |
 | 7 | [Friday Night Town \(feat\. Benjazzy & Jin Dogg\)](https://open.spotify.com/track/7pmmTgGXSCdLoFRtrPzNnM) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [THE MESSAGE 6](https://open.spotify.com/album/4g2O1wfyRDa36SbbdD4Pea) | 2:37 |

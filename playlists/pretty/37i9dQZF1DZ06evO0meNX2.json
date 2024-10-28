@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 32481,
+  "num_followers": 32510,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAABBSywNQZpQU8QZc+dhA9t4",
+  "snapshot_id": "ZxwxAAAAAADrihDHm6omqueg8yYvvApO",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "QuesoXte",
-        "url": "https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "QuesoXte",
-      "url": "https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Disney",
         "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 149624,
       "name": "El Disney",
       "url": "https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QuesoXte",
+        "url": "https://open.spotify.com/album/6P2JT8MNs7I26VCQotcL1n"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "QuesoXte",
+      "url": "https://open.spotify.com/track/2xjfjnqSUBQdYu8P0TSzId"
     },
     {
       "added_at": null,
@@ -479,26 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mimimi",
-        "url": "https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 179778,
-      "name": "Mimimi",
-      "url": "https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/1jVYLrYW2bIIgdP17xXzFv"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 247080,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mimimi",
+        "url": "https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 179778,
+      "name": "Mimimi",
+      "url": "https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 162169,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Notas Musicales",
         "url": "https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 245480,
       "name": "El Plumas",
       "url": "https://open.spotify.com/track/2T10PNwemY5iyUea8NX9fy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/2PCuFmC6h5LsRkkcC3Rj5x"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 162169,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/06ktBWApwhIZrGELDHi4sN"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
       "duration_ms": 227004,
       "name": "El General",
       "url": "https://open.spotify.com/track/1uikn8Xecr6jVCu9u7CnHD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tierno",
+        "url": "https://open.spotify.com/album/4nWpgMsz8BblhTRxZSIohi"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 138954,
+      "name": "Tierno",
+      "url": "https://open.spotify.com/track/4q3WSd89URSGHjMEuZRnCY"
     },
     {
       "added_at": null,

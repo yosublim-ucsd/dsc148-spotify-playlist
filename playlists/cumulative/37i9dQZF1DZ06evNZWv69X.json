@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Mar de Copas",
+        "url": "https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255013,
+      "name": "Canci\u00f3n",
+      "url": "https://open.spotify.com/track/17Te5QkNgs4KdHPlNcqGcB"
+    },
+    {
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 208613,
       "name": "Esos D\u00edas",
       "url": "https://open.spotify.com/track/3uGefvMlhG2ITP6FdJcOPL"

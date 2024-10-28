@@ -7959,6 +7959,24 @@
     },
     {
       "album": {
+        "name": "Solo For Wounded",
+        "url": "https://open.spotify.com/album/6UvuhanBfE1cn4vxMyqaIJ"
+      },
+      "artists": [
+        {
+          "name": "Yasunao Tone",
+          "url": "https://open.spotify.com/artist/452pwHumVmgYOV4tLv1F7N"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 857400,
+      "name": "Minim: Part I",
+      "url": "https://open.spotify.com/track/2eUc6nuQT2m0wJX8GjbzPL"
+    },
+    {
+      "album": {
         "name": "Hold The Girl",
         "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
       },

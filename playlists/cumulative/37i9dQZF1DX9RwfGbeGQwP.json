@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 78072,
       "name": "Basement Bar",
       "url": "https://open.spotify.com/track/5Oox1aQKORIPYKGlmACoec"
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 129923,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Ysrlbv0pgJGzTJs2rKHRa"
@@ -5676,7 +5676,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 130993,
       "name": "deep waters",
       "url": "https://open.spotify.com/track/1JkZ7GfXv9mFkGuN60pcex"
@@ -6792,6 +6792,24 @@
       "duration_ms": 166138,
       "name": "Elevator Vibes",
       "url": "https://open.spotify.com/track/0wIvtei7sFyuvMwG5bRfSo"
+    },
+    {
+      "album": {
+        "name": "embrace",
+        "url": "https://open.spotify.com/album/0dJqvGo4GcYMOBiN7KLyem"
+      },
+      "artists": [
+        {
+          "name": "sellar",
+          "url": "https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144791,
+      "name": "embrace",
+      "url": "https://open.spotify.com/track/4miAtjqI7AnBxamh8HyaT2"
     },
     {
       "album": {
@@ -11200,7 +11218,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 108007,
       "name": "Ice Mountain",
       "url": "https://open.spotify.com/track/3NKrot2fwnmwbNL8MUsWZw"
@@ -11402,7 +11420,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-15",
+      "date_removed": null,
       "duration_ms": 112813,
       "name": "In Stereo",
       "url": "https://open.spotify.com/track/62iBZdo6p0XdcEzEgXtMzb"
@@ -13878,7 +13896,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 123703,
       "name": "Lots of lofi in one tone",
       "url": "https://open.spotify.com/track/7MZgOMd6nDWR4HHJM8NStG"
@@ -14258,6 +14276,28 @@
       "duration_ms": 193240,
       "name": "Luxem",
       "url": "https://open.spotify.com/track/7G6K6wus8NPuemQimVk0RZ"
+    },
+    {
+      "album": {
+        "name": "Macchiato",
+        "url": "https://open.spotify.com/album/1vrc6twcNejVKGHMMGKkfD"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "tenkousei.",
+          "url": "https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112272,
+      "name": "Macchiato",
+      "url": "https://open.spotify.com/track/0wtXAu3sb3uJin9uzKB2XW"
     },
     {
       "album": {
@@ -24524,7 +24564,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 154936,
       "name": "Take your time",
       "url": "https://open.spotify.com/track/05im9JXYw4AALEcOlwR8XW"
@@ -24676,7 +24716,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 121846,
       "name": "Tears are emotional sweat",
       "url": "https://open.spotify.com/track/7yMF4wBYMIrHsLU8GJ8e2B"

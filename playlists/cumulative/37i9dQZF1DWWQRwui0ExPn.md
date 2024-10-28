@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,037 songs - 11 day 2 hr 48 min
+7,038 songs - 11 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2625,6 +2625,7 @@
 | [heatwave](https://open.spotify.com/track/1jtKy8cvew0sbXKt4tDHEE) | [kubi](https://open.spotify.com/artist/5E5wzPGQXxMIWYNhoYjZ2O) | [heatwave](https://open.spotify.com/album/4p5VyYZ3IlBaPD8CVxMMQV) | 2:03 | 2022-09-23 | 2023-01-13 |
 | [Heatwave](https://open.spotify.com/track/4vkQrQ92kxPFGnqkHHugl4) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Heatwave](https://open.spotify.com/album/3ua712DZMk9cIi1Hux1Yzc) | 2:26 | 2024-04-12 | 2024-07-27 |
 | [Heaven Berry](https://open.spotify.com/track/6cyVXWeNuYYvEJWuBXpAPp) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Heaven Berry](https://open.spotify.com/album/6yYAsiFxZq62ljnrKzg9MG) | 1:59 | 2023-04-27 | 2023-05-19 |
+| [Heaven Can Wait](https://open.spotify.com/track/1sDHPnIy3H3LmykZX09W9l) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Heaven Can Wait](https://open.spotify.com/album/30KmsPppic03sNtZYm4ZyA) | 2:35 | 2024-10-25 |  |
 | [Heavenly](https://open.spotify.com/track/22Gk01ZGclr5Vs1f4M1vVN) | [GXNXSIS](https://open.spotify.com/artist/6zQB8H6a9DxpgcNexhg77O), [$MASH](https://open.spotify.com/artist/2AOBbDqMyCWp12M8ULOJdw) | [Heavenly](https://open.spotify.com/album/3lVS49mqBe0LYMI4wtIwc5) | 1:40 | 2023-02-07 | 2023-04-06 |
 | [Heavenly](https://open.spotify.com/track/77k7djjRxUtDiDrjZFT926) | [Lillah](https://open.spotify.com/artist/3s2nZM6uhfjpPY4XFIH55h) | [Heavenly](https://open.spotify.com/album/3uZY0wMrxdGPga9AnswMvE) | 3:14 | 2023-05-23 | 2023-10-13 |
 | [Heavy Heart](https://open.spotify.com/track/3pd7aUQi7VY1P8JYdoxmqr) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Heavy Heart](https://open.spotify.com/album/4OoJ0P2stDEO90eubKnDVb) | 2:46 | 2022-07-08 | 2022-10-28 |
@@ -2749,7 +2750,7 @@
 | [Hopes&Dreams](https://open.spotify.com/track/2OQ0A8JJpOjmhFrdqDDNEG) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Hopes&Dreams](https://open.spotify.com/album/4vX4KYlbXyeFX9niDKxuRE) | 2:07 | 2024-02-23 |  |
 | [horizon](https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [horizon](https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz) | 1:36 | 2023-10-27 |  |
 | [Horizon](https://open.spotify.com/track/2vDA40dt82HQdpDpJhhCmT) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [Horizon](https://open.spotify.com/album/4hQvRoyagj01ofRqAnGnrW) | 2:27 | 2022-09-30 | 2023-01-13 |
-| [Horseback Reflections](https://open.spotify.com/track/1lhLpMAxlGxQzXrhiZbZOH) | [Vilda C](https://open.spotify.com/artist/5N7Z08HAUyapDLBRoW6m5I) | [Horseback Reflections](https://open.spotify.com/album/1P4ENrrbwPX2Dvfy3xdAwL) | 2:11 | 2024-01-26 |  |
+| [Horseback Reflections](https://open.spotify.com/track/1lhLpMAxlGxQzXrhiZbZOH) | [Vilda C](https://open.spotify.com/artist/5N7Z08HAUyapDLBRoW6m5I) | [Horseback Reflections](https://open.spotify.com/album/1P4ENrrbwPX2Dvfy3xdAwL) | 2:11 | 2024-01-26 | 2024-10-28 |
 | [Horus](https://open.spotify.com/track/2EIsuNlWnbgdEN4jGJiOIh) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Fatb](https://open.spotify.com/artist/39c9r5tc96HMSEX9BbxE4T) | [Initial](https://open.spotify.com/album/4xvoZz7hQZYdy0imdZU98j) | 2:20 | 2019-07-12 | 2020-06-09 |
 | [Hot Chocolate](https://open.spotify.com/track/2QpanYwRvomexCw9ThTwUr) | [Leave](https://open.spotify.com/artist/4bzPVOTRYr7xSjWfcXI7oU), [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [Hot Chocolate](https://open.spotify.com/album/0z3qDOboUMF0Z6qeTcF9fq) | 2:07 | 2021-09-11 | 2021-12-03 |
 | [Hot Chocolate](https://open.spotify.com/track/2vcA1xgIsXXjpwy4OxjMRv) | [Leave](https://open.spotify.com/artist/4bzPVOTRYr7xSjWfcXI7oU), [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [Tons of Friends: Volume One](https://open.spotify.com/album/5Oe2yvGMTWK2JmIOtK4FcT) | 2:07 | 2021-09-04 | 2022-04-08 |
@@ -4172,7 +4173,7 @@
 | [Nevada](https://open.spotify.com/track/0lbntzTzXeGI4jD9rBYTza) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Nevada](https://open.spotify.com/album/5dEyidK3wpFN4CmRfeB5PD) | 1:47 | 2023-11-24 |  |
 | [Never Ending Love Story](https://open.spotify.com/track/1DWaGXAVwKB6cyHsAMZgff) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [Never Ending Love Story](https://open.spotify.com/album/3BH1qB4reGeHjhh6YF6z96) | 2:57 | 2023-08-10 | 2023-12-15 |
 | [Never Forgotten](https://open.spotify.com/track/74BxYDojYHtw9GOeTsik8f) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Never Forgotten](https://open.spotify.com/album/7zgBhhx6aV03m41a2veUUX) | 3:05 | 2024-01-05 |  |
-| [Never Going Back](https://open.spotify.com/track/1EPgfVfxPaaispfsgXBXcs) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Never Going Back](https://open.spotify.com/album/1T5vxwuxPSvQtxEvtURSId) | 2:24 | 2022-11-18 | 2024-10-25 |
+| [Never Going Back](https://open.spotify.com/track/1EPgfVfxPaaispfsgXBXcs) | [Aphrodiciaq](https://open.spotify.com/artist/1YlacHeO7Vj237OMKD8hxh) | [Never Going Back](https://open.spotify.com/album/1T5vxwuxPSvQtxEvtURSId) | 2:24 | 2022-11-18 |  |
 | [Never Too Far](https://open.spotify.com/track/3c46OlpYw7xlD4McjpAIOY) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Never Too Far](https://open.spotify.com/album/07K0knvrXNmfaEdWwLfrYf) | 2:15 | 2022-06-17 | 2022-10-07 |
 | [Never Too Late](https://open.spotify.com/track/1ZHn1AF7ajv4AEUBn4fmc1) | [Leon Koala](https://open.spotify.com/artist/0V7uJD4pZbCfqj8HdnlF5r) | [Never Too Late](https://open.spotify.com/album/3O32QyEU9dM0YcPYFsL4TD) | 2:22 | 2020-01-03 | 2020-08-20 |
 | [New Actress](https://open.spotify.com/track/2GTYrrlfeQtVm1TO1rav71) | [Dojen Mirror](https://open.spotify.com/artist/0NEWDxuMbP3kTSB63kLuN0) | [New Actress](https://open.spotify.com/album/6gMFxWJXIHvsb3rN1KzXIY) | 2:31 | 2022-11-11 | 2023-11-17 |
@@ -5296,7 +5297,7 @@
 | [Sex Planet](https://open.spotify.com/track/2JW1P7PCV6JxAZ1WWc45HS) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Sex Planet](https://open.spotify.com/album/6Ev2yiCUVeIClIjvOpSjBm) | 2:27 | 2021-04-01 | 2022-01-14 |
 | [Sexta à noite](https://open.spotify.com/track/5OzXpKdPk12SxeERSY3LHh) | [alxnd.](https://open.spotify.com/artist/6mv60wWPRPGe2dGphU1z8y) | [Sexta à noite](https://open.spotify.com/album/3xjwSfefP0GXLjBRhkYGCU) | 1:52 | 2022-10-28 | 2023-01-20 |
 | [Sexy Night](https://open.spotify.com/track/64uNamPbnPHUDRIN4ikcGq) | [Studio Gangsta](https://open.spotify.com/artist/4RbyueJ8BMDM08TdqywNZz) | [Sexy Night](https://open.spotify.com/album/74ieBsPianBuEkWy2WhtUS) | 1:51 | 2022-04-08 | 2022-09-02 |
-| [Shades](https://open.spotify.com/track/0Rpcv3rAH4jz9WPsNkbqWr) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Shades](https://open.spotify.com/album/4uy32p25tpeahQE1kWjxmB) | 1:45 | 2024-09-13 |  |
+| [Shades](https://open.spotify.com/track/0Rpcv3rAH4jz9WPsNkbqWr) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Shades](https://open.spotify.com/album/4uy32p25tpeahQE1kWjxmB) | 1:45 | 2024-09-13 | 2024-10-28 |
 | [shadows](https://open.spotify.com/track/3fb2fG3tBK0Iqe9fzhLsxz) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [shadows](https://open.spotify.com/album/6plzmVbl9BOcjJqgMDEzda) | 1:48 | 2020-01-12 | 2021-08-22 |
 | [Shallow](https://open.spotify.com/track/34rDTa9sEiCGccvIzZkHbN) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Shallow](https://open.spotify.com/album/1Cqo9G9WJ9Ea69K9W2ebpF) | 1:58 | 2023-01-20 | 2023-10-06 |
 | [Shallow Breeze](https://open.spotify.com/track/0rodjtMsqR48ldeu8VjBnA) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Shallow Breeze](https://open.spotify.com/album/54FtuQfynVAlXzruXHXBRM) | 2:03 | 2023-06-20 | 2023-10-06 |

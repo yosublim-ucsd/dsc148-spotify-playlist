@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,063 songs - 2 day 12 hr 4 min
+1,064 songs - 2 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,11 +386,12 @@
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2023-02-11 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-20 |
 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 | 2024-05-13 | 2024-05-21 |
-| [Riptide](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:24 | 2024-10-20 | 2024-10-22 |
+| [Riptide](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:24 | 2024-10-20 |  |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2024-01-02 | 2024-03-07 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-10-06 | 2022-10-08 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-01 | 2022-10-08 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-02-11 |
+| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-10-27 |  |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-21 | 2022-05-25 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2021-07-10 |
 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 | 2021-04-26 | 2021-10-10 |
@@ -559,7 +560,7 @@
 | [אין לי אותך](https://open.spotify.com/track/3Rq8vC7CDbqs3VHJxsu6TW) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [עם ישראל חי](https://open.spotify.com/album/432qmy3EY5mh8NWpwFRYfD) | 3:13 | 2024-04-15 | 2024-04-17 |
 | [אין לי ארץ אחרת](https://open.spotify.com/track/0O39bLHAGjH56HwSpU8tP8) | [Gali Atari](https://open.spotify.com/artist/4og9lYRD6weUueMRu8lbP4) | [אמצע ספטמבר](https://open.spotify.com/album/4wuC67qADh8SaH0ZDtwZRH) | 3:09 | 2023-04-26 | 2023-04-28 |
 | [אין לי כח](https://open.spotify.com/track/4XCGTV9uchQOFffzH1eqDo) | [Alin Golan](https://open.spotify.com/artist/0e2paefwT1ZqF2uvVq8Ldv) | [אין לי כח](https://open.spotify.com/album/4IwjBNQDDQkiM1spf5Kiin) | 3:29 | 2022-07-05 | 2022-07-31 |
-| [אין לי מקום אחר](https://open.spotify.com/track/2CUwpTA4gOSouCTyRN1vnE) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אין לי מקום אחר](https://open.spotify.com/album/1NAbjzBbqQuhYY9tmxblt1) | 3:25 | 2024-01-03 |  |
+| [אין לי מקום אחר](https://open.spotify.com/track/2CUwpTA4gOSouCTyRN1vnE) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אין לי מקום אחר](https://open.spotify.com/album/1NAbjzBbqQuhYY9tmxblt1) | 3:25 | 2024-01-03 | 2024-10-28 |
 | [אין מאושר ממני](https://open.spotify.com/track/0XQ39JCh0I9tsKEmwMEH5F) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [מסע](https://open.spotify.com/album/088zTAQ5eV3aBrBgesvNSJ) | 2:52 | 2021-12-29 | 2022-01-23 |
 | [אין מאושר ממני](https://open.spotify.com/track/1TroPJnGcLa8GB7cxHA841) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [אין מאושר ממני](https://open.spotify.com/album/6qSsJvGlN8Yupe9M3PnRiT) | 2:52 | 2021-12-09 | 2021-12-30 |
 | [אינטלקטוערס \(Prod\. By Triangle\)](https://open.spotify.com/track/2XNXcmwubbt8MJYlQRb4V2) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אינטלקטוערס \(Prod\. By Triangle\)](https://open.spotify.com/album/5hXvq7DKidrNEns8VZkQLW) | 2:32 | 2022-07-25 | 2023-03-26 |
@@ -760,7 +761,7 @@
 | [כאלו מילים](https://open.spotify.com/track/0n2BeC9E0M7fC2jbKBYetu) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd) | [השחר 35](https://open.spotify.com/album/3XjD1ikl0kagVRjTy7ooAK) | 2:45 | 2022-09-24 | 2022-10-08 |
 | [כד קטן](https://open.spotify.com/track/3W2ivfrQP1kG0Uh5IBJn7P) | [Yorik Ben David](https://open.spotify.com/artist/5keFhnqLaQXXUPV1R9jWmc) | [שירי הילדים הגדולים בכל הזמנים](https://open.spotify.com/album/6Y4KwK3N96kZ7dlCukYmIc) | 1:04 | 2021-11-30 | 2023-12-12 |
 | [כוכב קטן](https://open.spotify.com/track/1puepYEC1fzx2rwluHLGzr) | [INBAR](https://open.spotify.com/artist/6YBvZVLevoGmgGMfSXU8fC) | [כוכב קטן](https://open.spotify.com/album/5MxuJlpGdPIRnDjaA4Zxse) | 3:43 | 2024-01-25 | 2024-02-22 |
-| [כוכבים](https://open.spotify.com/track/4EN9nGt9TWutt0iDTRnXjY) | [שילה בן סעדון](https://open.spotify.com/artist/25121FSeQqqD3El2C3t9L1) | [כוכבים](https://open.spotify.com/album/14Ve7iPxyRWwM0tA3KHIhi) | 3:22 | 2024-04-22 |  |
+| [כוכבים](https://open.spotify.com/track/4EN9nGt9TWutt0iDTRnXjY) | [שילה בן סעדון](https://open.spotify.com/artist/25121FSeQqqD3El2C3t9L1) | [כוכבים](https://open.spotify.com/album/14Ve7iPxyRWwM0tA3KHIhi) | 3:22 | 2024-04-22 | 2024-10-28 |
 | [כוסות ריקות](https://open.spotify.com/track/6NzCGR1aXkl3z4tjUph4zH) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Lior Narkis](https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS) | [שבעה ירחים](https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY) | 2:14 | 2021-07-10 | 2021-08-21 |
 | [כינורות](https://open.spotify.com/track/01H5jdEyPwM4rhc7gTWLgt) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [כינורות](https://open.spotify.com/album/7wGjAH5AKWpqrhGEWOOaqs) | 2:55 | 2022-11-16 | 2023-01-07 |
 | [ככה וככה](https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:39 | 2023-06-10 | 2024-09-22 |

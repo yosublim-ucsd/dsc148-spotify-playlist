@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Oct 04:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Oct 22:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -7286,7 +7286,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
@@ -13026,7 +13026,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 309340,
       "name": "Demon's Glue",
       "url": "https://open.spotify.com/track/6FDyHSaWiDtDIO72el0jh7"
@@ -16190,6 +16190,24 @@
       "duration_ms": 128450,
       "name": "Etc (feat. Nardo Wick)",
       "url": "https://open.spotify.com/track/7onFHCj8W40kYT3MFCotVG"
+    },
+    {
+      "album": {
+        "name": "Et\u00e9reo",
+        "url": "https://open.spotify.com/album/3748tZ79dqW8IhO2zE7K1o"
+      },
+      "artists": [
+        {
+          "name": "Aldoxito",
+          "url": "https://open.spotify.com/artist/5MgScuTTQqQJwBieWOx6Mu"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203495,
+      "name": "Et\u00e9reo",
+      "url": "https://open.spotify.com/track/5OvebLWSaA7y3lHsIfjvpt"
     },
     {
       "album": {
@@ -23414,6 +23432,32 @@
       "duration_ms": 189874,
       "name": "Hey Homie",
       "url": "https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa"
+    },
+    {
+      "album": {
+        "name": "Hey Mister!",
+        "url": "https://open.spotify.com/album/1CPG5qDYbIadB9Jizgpkz8"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "SadGirlsVsTheWorld",
+          "url": "https://open.spotify.com/artist/6iUeohKjJtOEsfR1Z96g61"
+        },
+        {
+          "name": "Y\u014dko",
+          "url": "https://open.spotify.com/artist/0Cznh5kr6Hlgyl2oHxEFF4"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Hey Mister!",
+      "url": "https://open.spotify.com/track/7e9hSOyaSFnYyTNcBVwpEa"
     },
     {
       "album": {

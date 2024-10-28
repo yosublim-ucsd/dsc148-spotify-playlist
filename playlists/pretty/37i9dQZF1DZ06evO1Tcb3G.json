@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 479462,
+  "num_followers": 479487,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxrfgAAAAABYXwI32054Ord6Jl8rnStP",
+  "snapshot_id": "ZxwxAAAAAAAsTC7paTTsFHItk0b+mP28",
   "tracks": [
     {
       "added_at": null,
@@ -100,7 +100,7 @@
       "added_at": null,
       "album": {
         "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+        "url": "https://open.spotify.com/album/0kjj3EUl6EOrKSC9iDurZq"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 247002,
+      "duration_ms": 245173,
       "name": "Little Lion Man",
-      "url": "https://open.spotify.com/track/4B4vB3oB8csotplfoQcAd6"
+      "url": "https://open.spotify.com/track/2KrN3MCNztKcSleZgHEj83"
     },
     {
       "added_at": null,
@@ -200,7 +200,7 @@
       "added_at": null,
       "album": {
         "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 207934,
+      "duration_ms": 208933,
       "name": "Babel",
-      "url": "https://open.spotify.com/track/2VWsju2DQZHz4GJ60UIcqF"
+      "url": "https://open.spotify.com/track/1WdzzLMa5xbKQxAQvT7A81"
     },
     {
       "added_at": null,
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+        "name": "Indomable",
+        "url": "https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx"
       },
       "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        },
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 254205,
-      "name": "White Blank Page",
-      "url": "https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j"
+      "duration_ms": 225986,
+      "name": "Learn Me Right",
+      "url": "https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC"
     },
     {
       "added_at": null,
@@ -299,22 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indomable",
-        "url": "https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx"
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
       "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        },
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 225986,
-      "name": "Learn Me Right",
-      "url": "https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC"
+      "duration_ms": 254205,
+      "name": "White Blank Page",
+      "url": "https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+        "name": "Day of the Dead",
+        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 219628,
-      "name": "Winter Winds",
-      "url": "https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc"
+      "duration_ms": 271025,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
     },
     {
       "added_at": null,
@@ -367,38 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Day of the Dead",
-        "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 271025,
-      "name": "Friend of the Devil",
-      "url": "https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217675,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/35EetinpgZv45rOfpDvlE4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
@@ -408,9 +376,41 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 173429,
-      "name": "Timshel",
-      "url": "https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ"
+      "duration_ms": 219628,
+      "name": "Winter Winds",
+      "url": "https://open.spotify.com/track/4iVzgmqhxypCb6CYYnznLc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 314786,
+      "name": "Lover Of The Light",
+      "url": "https://open.spotify.com/track/0Qp1eaUp7ophvR2lo7fQuN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 276780,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4sUkoGq1ln1KmfxJEiOkUK"
     },
     {
       "added_at": null,
@@ -431,6 +431,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 173429,
+      "name": "Timshel",
+      "url": "https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217675,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/27U4sg4Z7tCnQ55jETIXDA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gentlemen of the Road",
         "url": "https://open.spotify.com/album/6JR7iNiAhaqDfgNGQwkdCE"
       },
@@ -443,22 +475,6 @@
       "duration_ms": 369106,
       "name": "Delta - Live At The O2",
       "url": "https://open.spotify.com/track/7cECVaGMuVAO4MKEk7dJ95"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 314786,
-      "name": "Lover Of The Light",
-      "url": "https://open.spotify.com/track/0Qp1eaUp7ophvR2lo7fQuN"
     },
     {
       "added_at": null,
@@ -499,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 124346,
+      "name": "Reminder",
+      "url": "https://open.spotify.com/track/6LPjdmMvIKGxuzVFsTKF6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Johannesburg",
         "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
       },
@@ -523,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 124346,
-      "name": "Reminder",
-      "url": "https://open.spotify.com/track/6LPjdmMvIKGxuzVFsTKF6Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 276780,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/29u2jPjN6ZEKf31W0eEbx7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blind Leading The Blind",
         "url": "https://open.spotify.com/album/4O1GPscutuBiEMaYAEBzS4"
       },
@@ -567,34 +567,6 @@
       "duration_ms": 224703,
       "name": "Blind Leading The Blind",
       "url": "https://open.spotify.com/track/7vM4aNsNhDsNCLIjgbh1Be"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Johannesburg",
-        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
-        },
-        {
-          "name": "The Very Best",
-          "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
-        },
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
-        }
-      ],
-      "duration_ms": 240453,
-      "name": "Wona",
-      "url": "https://open.spotify.com/track/63akED5KUaUrrjhp3D57lE"
     },
     {
       "added_at": null,
@@ -635,6 +607,34 @@
       "duration_ms": 369301,
       "name": "Someone Saved My Life Tonight",
       "url": "https://open.spotify.com/track/7wfVhQbInlrp92VTyi4gx3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Johannesburg",
+        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        },
+        {
+          "name": "The Very Best",
+          "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
+        },
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 240453,
+      "name": "Wona",
+      "url": "https://open.spotify.com/track/63akED5KUaUrrjhp3D57lE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: xena giam\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,576 likes - 121 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,574 likes - 121 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

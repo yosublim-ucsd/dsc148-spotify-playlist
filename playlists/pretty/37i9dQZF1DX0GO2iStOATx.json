@@ -1,6 +1,6 @@
 {
   "description": "Punjabi superstar\u2019s biggest hits.",
-  "num_followers": 178740,
+  "num_followers": 179155,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -694,22 +694,6 @@
         {
           "name": "Diljit Dosanjh",
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7"
-    },
-    {
-      "added_at": "2024-09-13 07:28:49",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
           "name": "Nimrat Khaira",
@@ -739,6 +723,22 @@
       "duration_ms": 212250,
       "name": "Feel My Love",
       "url": "https://open.spotify.com/track/23YGhMVq1wJYROCp2kr8yP"
+    },
+    {
+      "added_at": "2024-09-13 07:28:49",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2EU4dEMDrPS1hwLSxk6PZ7"
     },
     {
       "added_at": "2024-09-13 07:28:49",
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 165781,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
+      "duration_ms": 154285,
+      "name": "Poppin'",
+      "url": "https://open.spotify.com/track/6jEpoHPMVryUcmLOJr5H2l"
     },
     {
       "added_at": "2024-09-13 07:28:49",
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Poppin'",
-      "url": "https://open.spotify.com/track/6jEpoHPMVryUcmLOJr5H2l"
+      "duration_ms": 165781,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
     },
     {
       "added_at": "2024-09-13 07:28:49",
@@ -947,8 +947,8 @@
     {
       "added_at": "2024-09-13 07:28:49",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v"
       },
       "artists": [
         {
@@ -956,13 +956,13 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
         }
       ],
-      "duration_ms": 180855,
-      "name": "Daytona",
-      "url": "https://open.spotify.com/track/45FFMb6wv36U1xduNY6TyO"
+      "duration_ms": 193190,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

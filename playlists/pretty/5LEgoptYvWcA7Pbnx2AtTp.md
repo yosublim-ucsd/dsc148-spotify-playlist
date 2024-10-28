@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 134 songs - 7 hr 45 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 137 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,5 +142,8 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 132 | [Train of Reunification Runs](https://open.spotify.com/track/2Ir3FlVHlAQmREsMqqMLXh) | [North Korean Archives](https://open.spotify.com/artist/4kIBhkTYXruFKa22lyZiBo) | [Pochonbo](https://open.spotify.com/album/0G6at6OyqhtvpsIJJfRQSj) | 2:33 |
 | 133 | [Killers Walk](https://open.spotify.com/track/7vKWix5Csqu54sC0EmvB3Z) | [Alden Derck](https://open.spotify.com/artist/6QrpZw6LLzpM0kDsNlGMqC), [Shannon Sheridan](https://open.spotify.com/artist/4Yp141vlWVAOEeVqV4anOa) | [What's Your Favorite Scary Movie?](https://open.spotify.com/album/1GRZIBtksUKWB6u7BTDX6U) | 2:09 |
 | 134 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 |
+| 135 | [Hey Bulldog](https://open.spotify.com/track/4epbwW20tHuF9Q6FufAn7Y) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine Songtrack](https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE) | 3:11 |
+| 136 | [I'd Love to Change the World \- 2004 Remaster](https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [A Space in Time \(Deluxe Version\)](https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE) | 3:44 |
+| 137 | [Giorno's Theme \(Jay D Remix by JoRoYT\)](https://open.spotify.com/episode/2RwtULDIIem7Q7ENpMaKxo) | [AniCast](https://open.spotify.com/show/59PNAB2nCZNVzvE793UE1I) | [AniCast](https://open.spotify.com/album/59PNAB2nCZNVzvE793UE1I) | 2:30 |
 
-Snapshot ID: `AAAAsL7Nrt3GpUlnwKTCTRhbsCz5nxqd`
+Snapshot ID: `AAAAs9ZaoXLERRJmqkRFrmAKaMu49opN`

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAPb120Vl88mTZNWvK6/y3LnJg4Qbk",
+  "snapshot_id": "AAAAQDmgf902fQtLu0TKqbPVYFLzgaHy",
   "tracks": [
     {
       "added_at": "2022-09-07 19:01:08",
@@ -799,6 +799,54 @@
       "duration_ms": 276648,
       "name": "The Dismemberment Song",
       "url": "https://open.spotify.com/track/0HsOPviUHT6VVZWhjkAoZm"
+    },
+    {
+      "added_at": "2024-10-27 14:10:23",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "Give 'Em Hell, Kid",
+      "url": "https://open.spotify.com/track/0axF06XwNLobcx5z8BVtYw"
+    },
+    {
+      "added_at": "2024-10-27 14:11:43",
+      "album": {
+        "name": "Three Cheers for Sweet Revenge",
+        "url": "https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
+    },
+    {
+      "added_at": "2024-10-27 14:31:08",
+      "album": {
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 231853,
+      "name": "Cubicles",
+      "url": "https://open.spotify.com/track/0Unc6GaK4h3RXmUbUAvtdc"
     }
   ],
   "unique_name": "Gender Neutral Love and Hate",

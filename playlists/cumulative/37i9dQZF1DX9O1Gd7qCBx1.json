@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Cartas (Primera carta: La Calavera)",
+        "url": "https://open.spotify.com/album/0CGDKXhlm6ACcfn1qgadc2"
+      },
+      "artists": [
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219043,
+      "name": "Cartas (Primera carta: La Calavera)",
+      "url": "https://open.spotify.com/track/5wEmK84AIP35bb3TNWTLqu"
+    },
+    {
+      "album": {
         "name": "Caja de M\u00fasica (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/75lParfrGxiexJOFlDh94X"
       },
@@ -458,7 +476,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 183466,
       "name": "Como te extra\u00f1o",
       "url": "https://open.spotify.com/track/3I38Zs63YNsYX6NyTpoGQs"

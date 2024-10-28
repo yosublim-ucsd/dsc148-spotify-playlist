@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-305 songs - 16 hr 53 min
+306 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Can't Stop Loving You](https://open.spotify.com/track/6cukWPxlzVl7zhXUU75rkq) | [Sadion](https://open.spotify.com/artist/3z8F7Kdw0p4P0zGaushTMR) | [Can't Stop Loving You](https://open.spotify.com/album/159aFoIEDa6yd3iLaRoGgk) | 2:32 | 2021-12-09 | 2022-07-28 |
 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2021-12-09 | 2023-05-23 |
 | [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 | 2022-09-12 |  |
-| [Changes](https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2) | [John Heart](https://open.spotify.com/artist/4IZpFlDTyIvuIcY4XPDRu0) | [Changes](https://open.spotify.com/album/5TaXMm4oQOa3LQ1MbiFZOF) | 2:15 | 2023-06-09 |  |
+| [Changes](https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2) | [John Heart](https://open.spotify.com/artist/4IZpFlDTyIvuIcY4XPDRu0) | [Changes](https://open.spotify.com/album/5TaXMm4oQOa3LQ1MbiFZOF) | 2:15 | 2023-06-09 | 2024-10-28 |
 | [Chemistry](https://open.spotify.com/track/3n6uWdbX8vFTow82wyiQBm) | [Tape Machines](https://open.spotify.com/artist/6geC8EbDc3ifaSAbx3RESQ) | [Evergreen Fields](https://open.spotify.com/album/3z6g4EFGP062VY6kQNqBE8) | 3:42 | 2021-12-09 | 2022-09-13 |
 | [Close To Me](https://open.spotify.com/track/0Wi6hvPJTZBKrXjmvVFtOQ) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Close To Me](https://open.spotify.com/album/25LsKk7Y1HICxLdE5mWxx7) | 2:35 | 2022-05-20 | 2023-05-27 |
 | [Coastline](https://open.spotify.com/track/1KKwWyAsFQBORAgdYDHWle) | [Blank & Jones](https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp) | [Coastline](https://open.spotify.com/album/6ClBl2fFlwWNH4wNJbBOW0) | 3:20 | 2021-12-09 | 2022-08-06 |
@@ -65,6 +65,7 @@
 | [Control](https://open.spotify.com/track/2kylyEHdOEwsvWzm3PnQIQ) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Control](https://open.spotify.com/album/2gOoME3JTw3QxNsRo257pG) | 2:49 | 2022-06-02 | 2023-09-14 |
 | [Control](https://open.spotify.com/track/4FLaWi1Gr34f9SGaBtOa5P) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Honas](https://open.spotify.com/artist/6NqnUmcBfI4tWK56ZC1Nkw) | [Control](https://open.spotify.com/album/1RSaZHGO5Zz08MGXKJtlNn) | 2:49 | 2021-12-09 | 2022-07-29 |
 | [Corridors](https://open.spotify.com/track/1ObprOerEaR0kkRkja9kt2) | [under.tone](https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe) | [Corridors](https://open.spotify.com/album/6bboSAM3cK5LgLxt5ILwam) | 3:11 | 2023-04-14 | 2023-09-05 |
+| [Cube Seat](https://open.spotify.com/track/2imYOSrNnKm5e3dQXtv3TQ) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Cube Seat](https://open.spotify.com/album/6mcLVjr7SwXhQ7LXn1jOxk) | 3:01 | 2024-10-25 |  |
 | [Cumulus](https://open.spotify.com/track/6lg32SOkBvVdEikGN5tFrg) | [M1NT](https://open.spotify.com/artist/5gzGYECW5rYT6NccH5zZGL), [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Cumulus](https://open.spotify.com/album/12HZUEodYzPSQQSu0RkGog) | 3:07 | 2023-09-13 | 2023-10-25 |
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-10-07 |  |
 | [Cynnes](https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Cynnes](https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4) | 5:24 | 2023-04-14 | 2023-07-10 |

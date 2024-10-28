@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-557 songs - 1 day 9 hr 19 min
+558 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,7 +385,8 @@
 | [Play It Again](https://open.spotify.com/track/2MdtJWg3tsw1oPbpbIVzJK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Play It Again](https://open.spotify.com/album/7gfvjngKsSQ3Zz8VdZW5rn) | 3:09 | 2024-01-29 |  |
 | [Play It Again](https://open.spotify.com/track/7rsWDbwIEzFptEx2Ie9ohX) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Play It Again](https://open.spotify.com/album/5wKuGnetzrmXwQEbifD4UJ) | 3:13 | 2024-01-30 | 2024-02-01 |
 | [Please Don't Leave Me](https://open.spotify.com/track/4iHUBqALsttdeXVRXlTMQJ) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse](https://open.spotify.com/album/21tsMIrRLUKFwfvX9oxQZR) | 3:51 | 2024-01-29 |  |
-| [Polka Face](https://open.spotify.com/track/2ELqO1C2U6vhg1BfYp7QhG) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Alpocalypse](https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz) | 4:47 | 2024-01-29 |  |
+| [Poker Face](https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 3:57 | 2024-10-27 |  |
+| [Polka Face](https://open.spotify.com/track/2ELqO1C2U6vhg1BfYp7QhG) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Alpocalypse](https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz) | 4:47 | 2024-01-29 | 2024-10-28 |
 | [Popstar](https://open.spotify.com/track/2Vrmc4lE7P2XDqmGazxS8Y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:55 | 2024-01-29 |  |
 | [Pretend I'm God \(feat\. Max Martin\)](https://open.spotify.com/track/1SLiGnIdBPZo13jhXyu71W) | [It's Alive](https://open.spotify.com/artist/3j0G99UX0pssC96mLgAPXl), [Max Martin](https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G) | [Earthquake Visions \(feat\. Max Martin\)](https://open.spotify.com/album/2sdgDT0zzzCpuFrWfD8R2Z) | 3:23 | 2024-01-29 |  |
 | [Private Eye](https://open.spotify.com/track/0AIz4TynPFujRTsETjM3s2) | [Jessica Folcker](https://open.spotify.com/artist/3T785XgAciwkJGoPt1nMEU) | [Jessica](https://open.spotify.com/album/3pU2AEckDWc4rW1Ekwuuos) | 4:37 | 2024-01-29 |  |

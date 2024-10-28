@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "My Black Country: The Songs of Alice Randall",
+        "url": "https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Big Dream",
+      "url": "https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg"
+    },
+    {
+      "album": {
         "name": "Big Dream",
         "url": "https://open.spotify.com/album/4tDLw9FLXRaZI2VFk6iP1F"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 143402,
       "name": "Big Dream",
       "url": "https://open.spotify.com/track/5lo4zC5rGaW50u2vWOAmRK"

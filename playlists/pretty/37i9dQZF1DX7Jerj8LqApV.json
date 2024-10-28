@@ -1,6 +1,6 @@
 {
   "description": "Chill out and relax to the breeziest hits from the Philippines.",
-  "num_followers": 1752111,
+  "num_followers": 1752296,
   "original_name": "OPM Says Chillax",
   "owner": {
     "name": "Spotify",
@@ -103,18 +103,22 @@
     {
       "added_at": "2024-10-24 15:46:45",
       "album": {
-        "name": "Museo",
-        "url": "https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr"
+        "name": "Palagi (TJxKZ Version)",
+        "url": "https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0"
       },
       "artists": [
         {
-          "name": "Eliza Maturan",
-          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        },
+        {
+          "name": "KZ Tandingan",
+          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
         }
       ],
-      "duration_ms": 270400,
-      "name": "Museo",
-      "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
+      "duration_ms": 241000,
+      "name": "Palagi - TJxKZ Version",
+      "url": "https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG"
     },
     {
       "added_at": "2024-10-24 15:46:45",
@@ -151,22 +155,18 @@
     {
       "added_at": "2024-10-24 15:46:45",
       "album": {
-        "name": "Palagi (TJxKZ Version)",
-        "url": "https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0"
+        "name": "Museo",
+        "url": "https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr"
       },
       "artists": [
         {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        },
-        {
-          "name": "KZ Tandingan",
-          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Palagi - TJxKZ Version",
-      "url": "https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG"
+      "duration_ms": 270400,
+      "name": "Museo",
+      "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
     },
     {
       "added_at": "2024-10-24 15:46:45",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-10-24 15:46:45",
       "album": {
-        "name": "Namumula",
-        "url": "https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 174473,
-      "name": "Namumula",
-      "url": "https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ"
-    },
-    {
-      "added_at": "2024-10-24 15:46:45",
-      "album": {
         "name": "Kisame",
         "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 212608,
       "name": "Kisame",
       "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
+    },
+    {
+      "added_at": "2024-10-24 15:46:45",
+      "album": {
+        "name": "Sa Susunod na Habang Buhay",
+        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 288189,
+      "name": "Sa Susunod na Habang Buhay",
+      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
     },
     {
       "added_at": "2024-10-24 15:46:45",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-10-24 15:46:45",
       "album": {
-        "name": "Sa Susunod na Habang Buhay",
-        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
+        "name": "Namumula",
+        "url": "https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
         }
       ],
-      "duration_ms": 288189,
-      "name": "Sa Susunod na Habang Buhay",
-      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+      "duration_ms": 174473,
+      "name": "Namumula",
+      "url": "https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ"
     },
     {
       "added_at": "2024-10-24 15:46:45",
@@ -399,22 +399,6 @@
       "duration_ms": 197933,
       "name": "Pakundangan (feat. Hev Abi)",
       "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
-    },
-    {
-      "added_at": "2024-10-24 15:46:45",
-      "album": {
-        "name": "Tanong",
-        "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Kailan?",
-      "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
     },
     {
       "added_at": "2024-10-24 15:46:45",
@@ -511,6 +495,22 @@
       "duration_ms": 321817,
       "name": "Imahe",
       "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+    },
+    {
+      "added_at": "2024-10-24 15:46:45",
+      "album": {
+        "name": "Tanong",
+        "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Kailan?",
+      "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
     },
     {
       "added_at": "2024-10-24 15:46:45",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-10-24 15:46:45",
       "album": {
-        "name": "711",
-        "url": "https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL"
-      },
-      "artists": [
-        {
-          "name": "TONEEJAY",
-          "url": "https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "711",
-      "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
-    },
-    {
-      "added_at": "2024-10-24 15:46:45",
-      "album": {
         "name": "B.A.D.",
         "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
       },
@@ -655,22 +639,18 @@
     {
       "added_at": "2024-10-24 15:46:45",
       "album": {
-        "name": "Gusto",
-        "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
+        "name": "711",
+        "url": "https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        },
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+          "name": "TONEEJAY",
+          "url": "https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Gusto feat. Al James",
-      "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
+      "duration_ms": 222000,
+      "name": "711",
+      "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
     },
     {
       "added_at": "2024-10-24 15:46:45",
@@ -687,6 +667,22 @@
       "duration_ms": 262972,
       "name": "Para Sa Sarili",
       "url": "https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e"
+    },
+    {
+      "added_at": "2024-10-24 15:46:45",
+      "album": {
+        "name": "Kung Wala Ka",
+        "url": "https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 242800,
+      "name": "Kung Wala Ka",
+      "url": "https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn"
     }
   ],
   "unique_name": "OPM Says Chillax",

@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Anycia
 
-671 songs - 1 day 4 hr 45 min
+672 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [BOP \(feat\. GloRilla\)](https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [REDRUM Wizard \(Gangsta Grillz\)](https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB) | 3:22 | 2024-02-23 |  |
 | [Borderline \(feat\. Luclover\)](https://open.spotify.com/track/7ktMBGuRKpJLs24WIQwFph) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz), [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Borderline \(feat\. Luclover\)](https://open.spotify.com/album/5XR4dYabzVQpbtuP0BxuJu) | 2:18 | 2024-06-14 | 2024-06-29 |
 | [Boss Up \(feat\. Mozzy\)](https://open.spotify.com/track/46rnwA4fDYt7uqZNbuxS7m) | [Molly Brazy](https://open.spotify.com/artist/6apXk5PGvEVbgXOTyk6fP1), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Pink Molly](https://open.spotify.com/album/0vI5zb496wmxzbRXD8JKCS) | 3:07 | 2021-11-05 | 2022-06-27 |
+| [Bourbon](https://open.spotify.com/track/2CYMaR6YyFLAj5ZJzr0CuG) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN: ACT II](https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa) | 2:46 | 2024-10-25 |  |
 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 | 2022-10-07 | 2023-03-11 |
 | [Box & Papers](https://open.spotify.com/track/7BXDc3WTYrqA87sJYlGn4A) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:07 | 2022-04-08 | 2022-07-27 |
 | [Box the 40](https://open.spotify.com/track/61BiWrdzr31VQPulUPAUoB) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Box the 40](https://open.spotify.com/album/2c9IOIt2v2go6H86RHZdYb) | 1:51 | 2023-06-30 | 2023-07-08 |
@@ -261,7 +262,7 @@
 | [Go](https://open.spotify.com/track/55pu5bjDoRtduqMfFfF83V) | [A.R\. The Mermaid](https://open.spotify.com/artist/0SuHC7TYAGOa9A4yfkvF3l) | [Go](https://open.spotify.com/album/5tvfvXTui324CIxaAS3ZAB) | 1:52 | 2024-02-16 | 2024-02-24 |
 | [go!](https://open.spotify.com/track/1Zz1uVTuMfulHplPaWsB4d) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e) | [go!](https://open.spotify.com/album/3V3l3e0V9Qd0GzdwPTakr4) | 3:12 | 2024-02-16 | 2024-02-24 |
 | [GodMother](https://open.spotify.com/track/6Jj2PqBk7RKh88pckutkL8) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [GodMother](https://open.spotify.com/album/3aW6FJfy8Pp4qxhHQ3THYh) | 3:22 | 2021-11-05 | 2022-07-28 |
-| [GOOCHIE MAYNE](https://open.spotify.com/track/0kF9DF1tV4Qcpdg7ysoY76) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP) | [TAKE 25](https://open.spotify.com/album/0iOw2e2c1oygrCL2sKVCsp) | 2:41 | 2024-09-13 |  |
+| [GOOCHIE MAYNE](https://open.spotify.com/track/0kF9DF1tV4Qcpdg7ysoY76) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP) | [TAKE 25](https://open.spotify.com/album/0iOw2e2c1oygrCL2sKVCsp) | 2:41 | 2024-09-13 | 2024-10-28 |
 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD) | 3:34 | 2023-07-28 | 2024-09-14 |
 | [Gorilla](https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 4:05 | 2022-12-16 | 2023-03-25 |
 | [Gotsta Get Paid](https://open.spotify.com/track/05NtQ4hY7LiPApiQrA5P5c) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Gotsta Get Paid](https://open.spotify.com/album/0NKxUky8rIoZ2fTeXEIMku) | 3:30 | 2022-09-23 | 2023-03-25 |

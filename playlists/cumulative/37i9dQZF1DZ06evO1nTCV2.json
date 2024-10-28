@@ -1391,6 +1391,24 @@
     },
     {
       "album": {
+        "name": "Candy Says (Live from Brussels, Belgium. 2023)",
+        "url": "https://open.spotify.com/album/2kspNWSth47GH6DwITiDVq"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "Free Bird - Live from Brussels, Belgium. 2023",
+      "url": "https://open.spotify.com/track/1SvonsO64oFlCKvbh91aGX"
+    },
+    {
+      "album": {
         "name": "Devolver",
         "url": "https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h"
       },
@@ -4016,7 +4034,7 @@
       ],
       "date_added": "2024-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 219870,
       "name": "Wasted Years - Live from Glasgow",
       "url": "https://open.spotify.com/track/1ETjsf2uAXbAApPQxhpJ5g"

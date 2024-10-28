@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Luke Combs
 
-190 songs - 13 hr 3 min
+191 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Rum \- Live](https://open.spotify.com/track/0fc6nQqs4gGotUovzlnM7v) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 5:41 | 2021-07-22 | 2024-10-21 |
 | [Save It for a Rainy Day \(with Old Dominion\) \- Live](https://open.spotify.com/track/3ZMRJBNpfXaZTE5vHWAcR9) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Live in No Shoes Nation](https://open.spotify.com/album/2njb3cHa1yhUMdu8PT2VhY) | 4:15 | 2021-07-22 |  |
 | [She Thinks My Tractor's Sexy \- Live](https://open.spotify.com/track/2NePleuMNN4kNLihiFxaSn) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Kenny Chesney Live](https://open.spotify.com/album/21pC8GFru8M98MhMCWONk9) | 6:02 | 2021-07-22 | 2024-05-05 |
-| [She's Got You \- Live](https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 2:46 | 2024-05-04 |  |
+| [She's Got You \- Live](https://open.spotify.com/track/6Gp7e0mLOFSI0AmV30E8fw) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [On The Air: Her Best TV Performances](https://open.spotify.com/album/5iKpYBmAMsyGD5iTD3VjVf) | 2:46 | 2024-05-04 | 2024-10-28 |
 | [She's in Love With the Boy \(Live\)](https://open.spotify.com/track/6ww19WNCddWn5QExASiph2) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Big Bang Concert Series: Trisha Yearwood \(Live\)](https://open.spotify.com/album/5nCzwPWbcXh561sRFqMndk) | 4:55 | 2021-07-22 | 2024-05-05 |
 | [Slow Dancing In A Burning Room \(Circle Sessions\)](https://open.spotify.com/track/5lc6hhwOvfNJjZy5EyrbxG) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [ERNEST & The Fellas Unplugged](https://open.spotify.com/album/0lxxrZlnRP8K7gIqspSDjU) | 3:54 | 2023-09-29 | 2023-10-06 |
 | [Small Town USA \- Live at the Ryman](https://open.spotify.com/track/3IlNQTAmA6HPbAmXQkjdhi) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Small Town USA \(Live at the Ryman\)](https://open.spotify.com/album/54i0bNcUszicenkyRY293M) | 4:07 | 2021-07-22 | 2024-05-05 |
@@ -165,6 +165,7 @@
 | [Tell Me Why \- Live](https://open.spotify.com/track/1plzgdb3hbyAYa5t2DcBrV) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Tell Me Why \(Live\)](https://open.spotify.com/album/2eiFxvSfTfCuAi0TgSbMT7) | 3:32 | 2024-06-28 | 2024-08-07 |
 | [Thank God \- Live from Fenway](https://open.spotify.com/track/5cpNbiyqYcWtOy6C6TR5EC) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Thank God \(Live from Fenway\)](https://open.spotify.com/album/1FwfnEMU23NCsVbgMJBLC8) | 4:00 | 2023-08-18 |  |
 | [Thank God I'm a Country Boy \- Live at the Universal Amphitheatre, Los Angeles, CA \- August/September 1974](https://open.spotify.com/track/7sVfJHBjH9cr4XsTYAwNYI) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [An Evening With John Denver](https://open.spotify.com/album/0KQsJk1cmfLUwNmuVZoqT4) | 3:40 | 2024-05-04 |  |
+| [The Cross \- Live](https://open.spotify.com/track/7DtC8PEwveWtuVImBCl42S) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(Live From Lexington\)](https://open.spotify.com/album/4YNYONGCfyUsXb3SjMWay1) | 3:42 | 2024-10-25 |  |
 | [The Devil I Know \- Live](https://open.spotify.com/track/6T8YqasfO5nRHXyoGc2mr3) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know \(Live\)](https://open.spotify.com/album/1zEc1DnGhkXQDfgc3AoSmE) | 4:08 | 2024-08-02 | 2024-09-22 |
 | [The First Cut Is The Deepest \- Live from the Ryman/2019](https://open.spotify.com/track/2XmHi7tiJKashUfWs3Ser3) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Live From the Ryman And More](https://open.spotify.com/album/6umHfVdm0kTvSVsasefD6U) | 4:04 | 2021-08-13 | 2024-05-05 |
 | [These Boots \- Live At Talking Stick Resort Arena, Phoenix, AZ / March 28, 2017](https://open.spotify.com/track/40lYJ3Ew1g03YQlgbvy5jv) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 3](https://open.spotify.com/album/3LIQDQZgWiRaBgydD5BgA3) | 4:00 | 2021-07-22 | 2024-10-10 |

@@ -2390,12 +2390,12 @@
       },
       "artists": [
         {
-          "name": "Josh Wawa",
-          "url": "https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz"
-        },
-        {
           "name": "Tomorrow People",
           "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        },
+        {
+          "name": "Josh Wawa",
+          "url": "https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz"
         }
       ],
       "date_added": "2023-11-28",

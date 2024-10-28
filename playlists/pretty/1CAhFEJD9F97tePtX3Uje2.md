@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 338 likes - 235 songs - 13 hr 53 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 338 likes - 239 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,5 +243,9 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 233 | [Rain](https://open.spotify.com/track/48Kws1UrNWaIpoo6w8u2IX) | [LXRY PXNK](https://open.spotify.com/artist/25ZRM52hYigccz8com4s8t), [CHMCL SØUP](https://open.spotify.com/artist/3o6lxZ9ULOHMk438t24bIH) | [Rain](https://open.spotify.com/album/6aXWH9B3mn8qewDzzuIzkm) | 2:19 |
 | 234 | [Outrun](https://open.spotify.com/track/3XRkyIC6ws5tL8etnHb0GS) | [LOSTMANE](https://open.spotify.com/artist/2ntaPzscRw8GRvBFF0SUlh) | [Outrun](https://open.spotify.com/album/4FifF7GfWYB7s0mMCYCiyb) | 2:38 |
 | 235 | [I WANT YOU](https://open.spotify.com/track/67tXRCoy5R0Mu6pSxeYjp4) | [V.I.P.N](https://open.spotify.com/artist/2gtZypy6QDN8UfPbDQG6ro) | [I WANT YOU](https://open.spotify.com/album/5SfgUQ5ItNWrIqR9b8H0pn) | 2:18 |
+| 236 | [never let me go.](https://open.spotify.com/track/7CeFkmFqoe8uX6wFOOALQg) | [crier](https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl), [sixnite](https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk) | [never let me go.](https://open.spotify.com/album/2qMorbWvWORO8PhBlbIgkA) | 1:47 |
+| 237 | [SEEN IT ALL](https://open.spotify.com/track/1idBzRMtBpmduqoa2WavLC) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [II Tone](https://open.spotify.com/artist/1XcaJZLayue2wv5axNkqJS) | [SEEN IT ALL](https://open.spotify.com/album/3amHmTIZj8MBqHBTCFMeyN) | 2:43 |
+| 238 | [STRATOSPHERE](https://open.spotify.com/track/2TXuKQBEMAgewrG0VFJngq) | [Lestmor](https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK), [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [STRATOSPHERE](https://open.spotify.com/album/26UklZWmkfdZq26X8wrRRg) | 2:15 |
+| 239 | [realise!](https://open.spotify.com/track/1bms4iDzAEk121H6rA44jV) | [FXRR](https://open.spotify.com/artist/18Aa5fsiPr4pXRAwezZN6i) | [realise!](https://open.spotify.com/album/7w75uefsFnNzxEkZ5PNuX6) | 2:14 |
 
-Snapshot ID: `AAAA+wMpU5wFvZ9uf9Mxvp3mYWmYjY/2`
+Snapshot ID: `AAAA/ynhuyzkM0TxOsOrp26Zx0T9k2PS`

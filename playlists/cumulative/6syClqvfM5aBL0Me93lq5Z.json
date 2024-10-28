@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "A Space in Time (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ZPvG6hav71Uqmlgs85xbE"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224133,
+      "name": "I'd Love to Change the World - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7n3WO6ESKS1uCI9fgkGs66"
+    },
+    {
+      "album": {
         "name": "Farewell: Live From The Universal Amphitheatre-Halloween 1995",
         "url": "https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5"
       },

@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Antes De Que Te Odie",
+        "url": "https://open.spotify.com/album/4kfxvAsWbppVMC6wkK4gd5"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "Marcelo Rubio",
+          "url": "https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202068,
+      "name": "Antes De Que Te Odie",
+      "url": "https://open.spotify.com/track/33aidycdRsc82IF8yUFETD"
+    },
+    {
+      "album": {
         "name": "Ant\u00eddoto",
         "url": "https://open.spotify.com/album/7opSNZjW07MRTKLYzrlhQd"
       },
@@ -3582,7 +3604,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-10-28",
       "duration_ms": 176511,
       "name": "P\u00eddeme a las 11:11",
       "url": "https://open.spotify.com/track/72vMjpSXKH26sTsjBHh34P"

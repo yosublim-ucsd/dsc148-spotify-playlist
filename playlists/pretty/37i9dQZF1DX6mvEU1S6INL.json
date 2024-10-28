@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1136031,
+  "num_followers": 1136067,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "Call Me Lover",
+      "url": "https://open.spotify.com/track/4Pg6x9W2ziSJh5iym9XRTB"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
         "name": "This Is Why",
         "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 214333,
       "name": "Echo",
       "url": "https://open.spotify.com/track/3ypXaNibspfxvUIKpzUkfz"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "Call Me Lover",
-      "url": "https://open.spotify.com/track/4Pg6x9W2ziSJh5iym9XRTB"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Tiny Moves",
-        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 228381,
-      "name": "Tiny Moves",
-      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
         "name": "Dream Your Life Away",
         "url": "https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
+        "name": "Tiny Moves",
+        "url": "https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 228381,
+      "name": "Tiny Moves",
+      "url": "https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+        "name": "Nothing But Thieves (Deluxe)",
+        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
       },
       "artists": [
         {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 219964,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
+      "duration_ms": 247186,
+      "name": "Lover, Please Stay",
+      "url": "https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Nothing But Thieves (Deluxe)",
-        "url": "https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Lover, Please Stay",
-      "url": "https://open.spotify.com/track/3QxCvkqWdkMqy3CPxOhZ24"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
         "name": "thoughts i have while lying in bed (with Beach Weather)",
         "url": "https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 219994,
       "name": "thoughts i have while lying in bed",
       "url": "https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 219964,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "I Told You So",
-        "url": "https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j"
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 254866,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw"
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+        "name": "I Told You So",
+        "url": "https://open.spotify.com/album/11Eq6C1e99Zbk0XXjzvM1j"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
         }
       ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+      "duration_ms": 254866,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/1Patip73Sq1xQw7GGwSFtw"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Love Songs for Losers",
-        "url": "https://open.spotify.com/album/7n4sK9njoH3CxU6AwhQIvB"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Unicorn",
-      "url": "https://open.spotify.com/track/5biqRB1iyIH8TWuH2rEsq0"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
         "name": "The Temper Trap",
         "url": "https://open.spotify.com/album/2iaZi2RryjkmlSj0apnzDv"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 279693,
       "name": "Trembling hands",
       "url": "https://open.spotify.com/track/0P2xmlbhOoQd5LOztoe0yF"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
+        "name": "Love Songs for Losers",
+        "url": "https://open.spotify.com/album/7n4sK9njoH3CxU6AwhQIvB"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/5biqRB1iyIH8TWuH2rEsq0"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
+        "name": "Songs for Dads",
+        "url": "https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "duration_ms": 160253,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
+    },
+    {
+      "added_at": "2024-07-02 21:46:28",
+      "album": {
         "name": "You Are All I See",
         "url": "https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX"
       },
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2024-07-02 21:46:28",
       "album": {
-        "name": "Songs for Dads",
-        "url": "https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5"
+        "name": "Free Animal",
+        "url": "https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa"
       },
       "artists": [
         {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+          "name": "Foreign Air",
+          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
         }
       ],
-      "duration_ms": 160253,
-      "name": "I Love You So",
-      "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
+      "duration_ms": 180400,
+      "name": "Free Animal",
+      "url": "https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ"
     },
     {
       "added_at": "2024-07-02 21:46:28",
@@ -1563,22 +1579,6 @@
       "duration_ms": 265613,
       "name": "This Modern Love",
       "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
-    },
-    {
-      "added_at": "2024-07-02 21:46:28",
-      "album": {
-        "name": "Free Animal",
-        "url": "https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa"
-      },
-      "artists": [
-        {
-          "name": "Foreign Air",
-          "url": "https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Free Animal",
-      "url": "https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ"
     },
     {
       "added_at": "2024-07-02 21:46:28",

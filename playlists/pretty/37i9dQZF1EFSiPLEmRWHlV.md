@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232 likes - 124 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 233 likes - 124 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 36 | [Sensory Division](https://open.spotify.com/track/0RHRAC8MnmFzLxKaIVMP2u) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Organ](https://open.spotify.com/album/5iBrKvwaAYaNph01X36NYA) | 4:57 |
 | 37 | [Oxygen](https://open.spotify.com/track/3dJ6Nq35hCel0helAg8TR8) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ten Thousand Feet & Rising](https://open.spotify.com/album/6gvdS5xw5tIgyOdj37AmzP) | 4:04 |
 | 38 | [This Moment](https://open.spotify.com/track/1rVZhssI5CYGxv8WHs3JAu) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [This Moment](https://open.spotify.com/album/1bwuwqMc5bESJgVQ1SKQKn) | 3:37 |
-| 39 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 |
-| 40 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
+| 39 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
+| 40 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 |
 | 41 | [Take Control](https://open.spotify.com/track/6uFRAhzcTW5nH7v0KyUobP) | [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE) | [Sequence](https://open.spotify.com/album/2c0UqgOAHBLeHggL36Y535) | 4:58 |
 | 42 | [The Power](https://open.spotify.com/track/7lzv5uk7R0mut7QYl6JmFG) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Love For The Beat](https://open.spotify.com/album/6XpmXMbVcZ0wO2vot78P2O) | 3:21 |
 | 43 | [Pull Up](https://open.spotify.com/track/14ypcMSqXvuiGFcaMrGreK) | [DJ Hanzel](https://open.spotify.com/artist/6nxYdBHCGZ8bBM7sGhqxSC), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [anti everything](https://open.spotify.com/album/2VhtWe9LsmM3Ckhdpj1Tqu) | 2:40 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 51 | [1000 Miles](https://open.spotify.com/track/74NPJ5FDyMzvKi063Zxd5I) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [A View of U](https://open.spotify.com/album/7GFmFwrDfsELfBtiuyW481) | 5:41 |
 | 52 | [Stay With Me](https://open.spotify.com/track/6NPuaE61QbNqRb6vZxe8lZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c) | [Comfort In Chaos](https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2) | 4:22 |
 | 53 | [Echoes](https://open.spotify.com/track/5Bd3biotsdxkuENxrWxFmM) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [The Old Days](https://open.spotify.com/album/4VAog91t9To2gujuttmguG) | 3:43 |
-| 54 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
-| 55 | [Give It To Me Good](https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Give It To Me Good](https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT) | 2:49 |
+| 54 | [Give It To Me Good](https://open.spotify.com/track/11FsUxXUbxzr5mNqwioFFK) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Give It To Me Good](https://open.spotify.com/album/1TP8dirEaMbBuw0JgL40GT) | 2:49 |
+| 55 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 |
 | 56 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
 | 57 | [Feels Like](https://open.spotify.com/track/0LikEGIzNK5qoLtlCnhLn8) | [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [Puzzles](https://open.spotify.com/album/2tRCZOp6egFlp7ZINBNuaW) | 3:46 |
 | 58 | [Alone With You](https://open.spotify.com/track/6dy7jbH9rsUT3pZ68BBAsp) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ultraviolet](https://open.spotify.com/album/4RW0gk4pBLqsgmJ97vCsS8) | 4:36 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 123 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 124 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `Abf2FAAAAACegzoY3d2/QbGr3UG2o3et`
+Snapshot ID: `Abf7tAAAAADlkQ9zGr/GmqOwKjpLvRqi`

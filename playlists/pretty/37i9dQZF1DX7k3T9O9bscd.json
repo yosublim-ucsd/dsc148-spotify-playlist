@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Hermanos Guti\u00e9rrez on cover.",
-  "num_followers": 541278,
+  "num_followers": 541420,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,38 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "K.G.",
+        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 252630,
+      "name": "Intrasport",
+      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Something Else",
         "url": "https://open.spotify.com/album/3cj7tv3gnGO44fmU4R0oNc"
       },
@@ -251,18 +283,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Barrio Hustle",
-        "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Barrio Hustle",
-      "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
+      "duration_ms": 203680,
+      "name": "Shell Island",
+      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -299,34 +331,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+        "name": "Barrio Hustle",
+        "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 211226,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "K.G.",
-        "url": "https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 252630,
-      "name": "Intrasport",
-      "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
+      "duration_ms": 194400,
+      "name": "Barrio Hustle",
+      "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -347,22 +363,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "Shell Island",
-      "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Ananda Shankar (US Internet Release)",
         "url": "https://open.spotify.com/album/24R9CyPLFa0CJrSZ9whlT3"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 215866,
       "name": "Jumpin' Jack Flash",
       "url": "https://open.spotify.com/track/6BkeuHmO4P69Ln2BSonrXi"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 271880,
+      "name": "Mind Mischief",
+      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -431,22 +447,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 271880,
-      "name": "Mind Mischief",
-      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "SongBook",
         "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
@@ -479,18 +479,34 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Joe Frazier",
-        "url": "https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6"
+        "name": "Fase Luna",
+        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
       },
       "artists": [
         {
-          "name": "Orions Belte",
-          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
         }
       ],
-      "duration_ms": 338613,
-      "name": "Joe Frazier",
-      "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
+      "duration_ms": 285308,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 292267,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -511,6 +527,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Joe Frazier",
+        "url": "https://open.spotify.com/album/76AK76pEsL7gMB65cBNFR6"
+      },
+      "artists": [
+        {
+          "name": "Orions Belte",
+          "url": "https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp"
+        }
+      ],
+      "duration_ms": 338613,
+      "name": "Joe Frazier",
+      "url": "https://open.spotify.com/track/7Bb8qmumwlC2nTOp09ciH6"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Paraphernalia",
         "url": "https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1"
       },
@@ -523,22 +555,6 @@
       "duration_ms": 263453,
       "name": "Paraphernalia",
       "url": "https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Fase Luna",
-        "url": "https://open.spotify.com/album/52YIfAfezvA9xFDbR1zkrd"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        }
-      ],
-      "duration_ms": 285308,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3IdIW9NqNyz9ulLMHd8IBM"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -591,22 +607,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 292267,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Music For Film: Tramps!",
         "url": "https://open.spotify.com/album/3cgyHNLkCzJBO631WnduVk"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Wading Out",
-      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 329693,
       "name": "Plea From The Soul",
       "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Wading Out",
+      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Canti, Vol. I",
-        "url": "https://open.spotify.com/album/0QLCMuuiun3i2T6hsufBlo"
-      },
-      "artists": [
-        {
-          "name": "ONDAKEIKI",
-          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
-        }
-      ],
-      "duration_ms": 434000,
-      "name": "Nel Tempio Blu",
-      "url": "https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "A Dream of Lasting Peace",
         "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Lava",
-        "url": "https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH"
+        "name": "Canti, Vol. I",
+        "url": "https://open.spotify.com/album/0QLCMuuiun3i2T6hsufBlo"
       },
       "artists": [
         {
-          "name": "Vicente J\u00e1uregui",
-          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+          "name": "ONDAKEIKI",
+          "url": "https://open.spotify.com/artist/2sb3erMdYBN1W2jGtL14BG"
         }
       ],
-      "duration_ms": 231381,
-      "name": "Lava",
-      "url": "https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J"
+      "duration_ms": 434000,
+      "name": "Nel Tempio Blu",
+      "url": "https://open.spotify.com/track/7IcLUN0igVIWMHuvVp3GwZ"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -763,6 +747,22 @@
       "duration_ms": 325015,
       "name": "The Rat Catcher",
       "url": "https://open.spotify.com/track/06GMFLjz0xowyKlmTbJyHZ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Lava",
+        "url": "https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        }
+      ],
+      "duration_ms": 231381,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Dune",
-        "url": "https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC"
-      },
-      "artists": [
-        {
-          "name": "Spiny Norman",
-          "url": "https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K"
-        }
-      ],
-      "duration_ms": 239263,
-      "name": "Dune",
-      "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Cinnamon Temple",
         "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Zionic Mud",
-        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
+        "name": "Dune",
+        "url": "https://open.spotify.com/album/6x0vT19lo7AbJXoTntJesC"
       },
       "artists": [
         {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+          "name": "Spiny Norman",
+          "url": "https://open.spotify.com/artist/6fXIjWSOIeXmugPaMBe54K"
         }
       ],
-      "duration_ms": 321782,
-      "name": "Zionic Mud",
-      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
+      "duration_ms": 239263,
+      "name": "Dune",
+      "url": "https://open.spotify.com/track/3PRS2uCYDyBp3khoz6rQ3s"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -895,18 +879,34 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "The Efferusphere",
-        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
+        "name": "Zionic Mud",
+        "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
       },
       "artists": [
         {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
         }
       ],
-      "duration_ms": 232444,
-      "name": "Red Sun",
-      "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
+      "duration_ms": 321782,
+      "name": "Zionic Mud",
+      "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
+        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 250214,
+      "name": "Meme City",
+      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Tripiando Al Infinito En Mi Rec\u00e1mara",
-        "url": "https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic"
+        "name": "The Efferusphere",
+        "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
       },
       "artists": [
         {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
         }
       ],
-      "duration_ms": 250214,
-      "name": "Meme City",
-      "url": "https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0"
+      "duration_ms": 232444,
+      "name": "Red Sun",
+      "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Fudge Sandwich",
+        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
+      },
+      "artists": [
+        {
+          "name": "Ty Segall",
+          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
+        }
+      ],
+      "duration_ms": 240320,
+      "name": "Hit It and Quit It",
+      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "humanus",
         "url": "https://open.spotify.com/album/25mz1lw83AfW9tewPmaULD"
       },
@@ -1059,34 +1075,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "El Gran Reinicio",
-        "url": "https://open.spotify.com/album/1ZSolBXU2thYm8mL5ZSOFI"
+        "name": "The Moon Is In The Wrong Place",
+        "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
       },
       "artists": [
         {
-          "name": "Supersilverhaze",
-          "url": "https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw"
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
         }
       ],
-      "duration_ms": 261400,
-      "name": "Antropoceno",
-      "url": "https://open.spotify.com/track/7GHXUuG2qJQh4kjnq12Lix"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Fudge Sandwich",
-        "url": "https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw"
-      },
-      "artists": [
-        {
-          "name": "Ty Segall",
-          "url": "https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx"
-        }
-      ],
-      "duration_ms": 240320,
-      "name": "Hit It and Quit It",
-      "url": "https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5"
+      "duration_ms": 179543,
+      "name": "The Moon Is In The Wrong Place",
+      "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "The Moon Is In The Wrong Place",
-        "url": "https://open.spotify.com/album/7j6jvLu3thEqRKkALqxXhf"
+        "name": "El Gran Reinicio",
+        "url": "https://open.spotify.com/album/1ZSolBXU2thYm8mL5ZSOFI"
       },
       "artists": [
         {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+          "name": "Supersilverhaze",
+          "url": "https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw"
         }
       ],
-      "duration_ms": 179543,
-      "name": "The Moon Is In The Wrong Place",
-      "url": "https://open.spotify.com/track/2PE6ubpBBfYindtp3fzzBJ"
+      "duration_ms": 261400,
+      "name": "Antropoceno",
+      "url": "https://open.spotify.com/track/7GHXUuG2qJQh4kjnq12Lix"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Keep The Outside Open",
-        "url": "https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj"
-      },
-      "artists": [
-        {
-          "name": "Apifera",
-          "url": "https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr"
-        }
-      ],
-      "duration_ms": 290500,
-      "name": "Iris Is Neil",
-      "url": "https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "EP1",
         "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 207000,
       "name": "The Seaside - Edit",
       "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Keep The Outside Open",
+        "url": "https://open.spotify.com/album/6Ww8zAvaNvHZ59jXamH2fj"
+      },
+      "artists": [
+        {
+          "name": "Apifera",
+          "url": "https://open.spotify.com/artist/7zgoELe3akRCheZJ8XnDpr"
+        }
+      ],
+      "duration_ms": 290500,
+      "name": "Iris Is Neil",
+      "url": "https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Coyote",
         "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
       },
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "A Round of Applause",
         "url": "https://open.spotify.com/album/7okWE6leJxAshjMYpr2ifw"
       },
@@ -1235,26 +1235,6 @@
       "duration_ms": 265374,
       "name": "See",
       "url": "https://open.spotify.com/track/0wNR01ZZBPtPnyHOvFK5mB"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Setan Dolbon",
-        "url": "https://open.spotify.com/album/64zMN3GKtlvu0ohJXYSg7o"
-      },
-      "artists": [
-        {
-          "name": "LAIR",
-          "url": "https://open.spotify.com/artist/5WB1tkUeYbCriTlg3RyBjm"
-        },
-        {
-          "name": "Monica Hapsari",
-          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Setan Dolbon",
-      "url": "https://open.spotify.com/track/5CJsMppFOvs7NNOZWreNdd"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1287,6 +1267,26 @@
       "duration_ms": 235583,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Setan Dolbon",
+        "url": "https://open.spotify.com/album/64zMN3GKtlvu0ohJXYSg7o"
+      },
+      "artists": [
+        {
+          "name": "LAIR",
+          "url": "https://open.spotify.com/artist/5WB1tkUeYbCriTlg3RyBjm"
+        },
+        {
+          "name": "Monica Hapsari",
+          "url": "https://open.spotify.com/artist/20A3XzYQEOFjheUWIfOK6j"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Setan Dolbon",
+      "url": "https://open.spotify.com/track/5CJsMppFOvs7NNOZWreNdd"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
-        "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
-      },
-      "artists": [
-        {
-          "name": "Oru\u00e3",
-          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
-        }
-      ],
-      "duration_ms": 328404,
-      "name": "Disciplina",
-      "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Not Normal",
         "url": "https://open.spotify.com/album/0QtFYcwClPF5RW3tYyfeMx"
       },
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Sem B\u00ean\u00e7\u00e3o / Sem Cren\u00e7a",
+        "url": "https://open.spotify.com/album/5NZuJ1fOS528eMhwRIHEUg"
+      },
+      "artists": [
+        {
+          "name": "Oru\u00e3",
+          "url": "https://open.spotify.com/artist/2Wya1Moi5k4EX1dRpCf4Dm"
+        }
+      ],
+      "duration_ms": 328404,
+      "name": "Disciplina",
+      "url": "https://open.spotify.com/track/4gAis55fKTKLt0vYZxR8Lt"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "A\u015fk\u0131n Sahtesi",
         "url": "https://open.spotify.com/album/6gQvH7VnLuohXRpwLRfDvZ"
       },
@@ -1399,22 +1399,6 @@
       "duration_ms": 313205,
       "name": "A\u015fk\u0131n Sahtesi",
       "url": "https://open.spotify.com/track/6xTVbmiCkLq7NDoDgiKArK"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Turk Jerk",
-        "url": "https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4"
-      },
-      "artists": [
-        {
-          "name": "Tandy Love",
-          "url": "https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "Indian Zone Drum Killer Inc.",
-      "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Turk Jerk",
+        "url": "https://open.spotify.com/album/5YPdvWg02GM4zomzuy40E4"
+      },
+      "artists": [
+        {
+          "name": "Tandy Love",
+          "url": "https://open.spotify.com/artist/5VCev3apvTkUABVDvbxM7P"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "Indian Zone Drum Killer Inc.",
+      "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "World's Most Stressed Out Gardener",
         "url": "https://open.spotify.com/album/4BxMHL4cGOv8gQad8pcJ43"
       },
@@ -1451,86 +1451,6 @@
       "duration_ms": 239804,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/72LGBrJEnmMDFheT4xmjyS"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "You Will Know Nothing",
-        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
-      },
-      "artists": [
-        {
-          "name": "Here Lies Man",
-          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
-        }
-      ],
-      "duration_ms": 252089,
-      "name": "Animal Noises",
-      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Saku Saku (\u30b5\u30af\u30b5\u30af)",
-      "url": "https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Non Ex Orbis",
-        "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
-      },
-      "artists": [
-        {
-          "name": "Karl Hector & The Malcouns",
-          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
-        }
-      ],
-      "duration_ms": 486860,
-      "name": "Mother Seletta",
-      "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Cardboard Pile",
-        "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
-      },
-      "artists": [
-        {
-          "name": "Kikagaku Moyo",
-          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
-        }
-      ],
-      "duration_ms": 246500,
-      "name": "Cardboard Pile",
-      "url": "https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Panoramas",
-        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
-      },
-      "artists": [
-        {
-          "name": "Klaatu Suuns",
-          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
-        }
-      ],
-      "duration_ms": 304901,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1551,6 +1471,86 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "You Will Know Nothing",
+        "url": "https://open.spotify.com/album/1aMivKbCNWCWaymvcy7DLX"
+      },
+      "artists": [
+        {
+          "name": "Here Lies Man",
+          "url": "https://open.spotify.com/artist/6Ms9HDPdO2yBwjtljcqL7H"
+        }
+      ],
+      "duration_ms": 252089,
+      "name": "Animal Noises",
+      "url": "https://open.spotify.com/track/7nG7S6CMeCKznVsZ96hZam"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Non Ex Orbis",
+        "url": "https://open.spotify.com/album/1XczGr1lyHPJpaTJ7KHNXq"
+      },
+      "artists": [
+        {
+          "name": "Karl Hector & The Malcouns",
+          "url": "https://open.spotify.com/artist/1RrTQU4gM94QB6XWSBy8yB"
+        }
+      ],
+      "duration_ms": 486860,
+      "name": "Mother Seletta",
+      "url": "https://open.spotify.com/track/3q6wLmKG8EalzV3bcxNmQt"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Saku Saku (\u30b5\u30af\u30b5\u30af)",
+      "url": "https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Panoramas",
+        "url": "https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW"
+      },
+      "artists": [
+        {
+          "name": "Klaatu Suuns",
+          "url": "https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr"
+        }
+      ],
+      "duration_ms": 304901,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/7h9bpmFb7knrg8rc0inU9j"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Cardboard Pile",
+        "url": "https://open.spotify.com/album/2ZEtImc0odG8vDBz6nzz6x"
+      },
+      "artists": [
+        {
+          "name": "Kikagaku Moyo",
+          "url": "https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq"
+        }
+      ],
+      "duration_ms": 246500,
+      "name": "Cardboard Pile",
+      "url": "https://open.spotify.com/track/2HCwigy5HaZddBgDFmu9Je"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "World Music",
         "url": "https://open.spotify.com/album/7luhH7DG3J2silksmUZ73i"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 170186,
       "name": "Golden Dawn",
       "url": "https://open.spotify.com/track/7bllwcaPt7Di4dI2mbpvfU"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1599,6 +1583,22 @@
       "duration_ms": 353360,
       "name": "Jag Ville Va Kvar",
       "url": "https://open.spotify.com/track/5KsIruY61LonaxTD7gvFkN"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
       "added_at": "2024-09-27 06:00:00",

@@ -6,7 +6,7 @@
     "name": "briannabalen",
     "url": "https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6"
   },
-  "snapshot_id": "AAADRZUk0UO10qTJoBTetk1vG6oouI1t",
+  "snapshot_id": "AAADRoiWHNAvJYsJYR+NBIbc8HqGeCYi",
   "tracks": [
     {
       "added_at": "2021-10-01 04:28:43",
@@ -5323,6 +5323,22 @@
       "duration_ms": 172382,
       "name": "Don't Copy My Flow",
       "url": "https://open.spotify.com/track/44HTE9IdjUk01DEAp54amH"
+    },
+    {
+      "added_at": "2024-10-27 08:00:03",
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 74378,
+      "name": "misses",
+      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
     }
   ],
   "unique_name": "driving",

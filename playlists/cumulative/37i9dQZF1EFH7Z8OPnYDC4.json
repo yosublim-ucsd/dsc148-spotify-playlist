@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Mirror Starts Moving Without Me",
+        "url": "https://open.spotify.com/album/0D1VuKK2MQA5d25Nn2gyEK"
+      },
+      "artists": [
+        {
+          "name": "Pom Pom Squad",
+          "url": "https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146441,
+      "name": "Doll Song",
+      "url": "https://open.spotify.com/track/1cE5EAGzW4DYOQXhXEOou7"
+    },
+    {
+      "album": {
         "name": "Androcles and the Lion (Original Television Cast)",
         "url": "https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA"
       },

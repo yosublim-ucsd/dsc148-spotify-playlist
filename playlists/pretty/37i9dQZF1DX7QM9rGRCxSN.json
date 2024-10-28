@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Vesica Piscis en portada.",
-  "num_followers": 32541,
+  "num_followers": 32552,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Unidad De Desplazamiento",
+        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
+      },
+      "artists": [
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Santos Que Yo Te Pinte",
+      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Los Movimientos",
         "url": "https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja"
       },
@@ -247,6 +263,22 @@
       "duration_ms": 182745,
       "name": "Hazy Youth",
       "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -283,22 +315,6 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -351,22 +367,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
-      },
-      "artists": [
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
         "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "BILLY",
-        "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
-      },
-      "artists": [
-        {
-          "name": "Dominiko",
-          "url": "https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD"
-        }
-      ],
-      "duration_ms": 252633,
-      "name": "BILLY",
-      "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "D'arcy",
         "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
@@ -447,34 +431,34 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Cielos Desconocidos",
-        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
+        "name": "BILLY",
+        "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
       },
       "artists": [
         {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+          "name": "Dominiko",
+          "url": "https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD"
         }
       ],
-      "duration_ms": 328040,
-      "name": "Hasta Que el Tiempo No Nos Separe",
-      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
+      "duration_ms": 252633,
+      "name": "BILLY",
+      "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
     },
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Unidad De Desplazamiento",
-        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
       },
       "artists": [
         {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
         }
       ],
-      "duration_ms": 279800,
-      "name": "Santos Que Yo Te Pinte",
-      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
+      "duration_ms": 195500,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -511,6 +495,42 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
+      },
+      "artists": [
+        {
+          "name": "Juan Son",
+          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
+        },
+        {
+          "name": "Simone Pace",
+          "url": "https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo"
+        }
+      ],
+      "duration_ms": 212008,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Cielos Desconocidos",
+        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 328040,
+      "name": "Hasta Que el Tiempo No Nos Separe",
+      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Reflejo",
         "url": "https://open.spotify.com/album/5tWdkHKPFKj8P2txmQm1pM"
       },
@@ -531,22 +551,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO"
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
       },
       "artists": [
         {
-          "name": "Juan Son",
-          "url": "https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG"
-        },
-        {
-          "name": "Simone Pace",
-          "url": "https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo"
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
         }
       ],
-      "duration_ms": 212008,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7"
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -583,22 +599,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "casa de espejos",
         "url": "https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 141484,
       "name": "casa de espejos",
       "url": "https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Hay Veces",
+        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 186445,
+      "name": "Hay Veces",
+      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -663,22 +679,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Hay Veces",
-        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 186445,
-      "name": "Hay Veces",
-      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Como Rei Ayanami",
         "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 177354,
       "name": "Como Rei Ayanami",
       "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "reina de primavera",
+        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 245840,
+      "name": "reina de primavera",
+      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -759,22 +775,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "reina de primavera",
-        "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 245840,
-      "name": "reina de primavera",
-      "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
-      },
-      "artists": [
-        {
-          "name": "Myun\u00e9",
-          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Boni Nait\u00f3",
-      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "El Tiempo",
         "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 277443,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
+      },
+      "artists": [
+        {
+          "name": "Myun\u00e9",
+          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Boni Nait\u00f3",
+      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

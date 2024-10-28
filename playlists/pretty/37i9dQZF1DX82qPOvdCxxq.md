@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover:  <a href="spotify:artist:6vUiVJcOvGX0EhBr4GiMrb">METRUTH</a>   \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,363 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,390 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 69 | [Light Of The World](https://open.spotify.com/track/747t565BZUjfVUtTVNXj77) | [Efe Lucky](https://open.spotify.com/artist/2dFgoR6fiFFJ21OdG7A28b), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Light Of The World](https://open.spotify.com/album/0dWp0aZnnPj4sa99jbI7Xi) | 3:19 |
 | 70 | [I Wanna Dance!](https://open.spotify.com/track/4V7Gtnzb4TRiqjmFI30XK4) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [I Wanna Dance!](https://open.spotify.com/album/7zyaSBpYNCj8wqYbTEXmhA) | 2:40 |
 | 71 | [runaway](https://open.spotify.com/track/13KsUFZFmo1I7nI3G5yiJD) | [Rivers Crossing Worship](https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs) | [runaway](https://open.spotify.com/album/1wfx7O5XO9EoqYtMwSd0U1) | 4:21 |
-| 72 | [The Well](https://open.spotify.com/track/2VQ1jiPB2LEjm1SOWylYWa) | [Campus Rush Music](https://open.spotify.com/artist/4v3pVN73q2WOhM5Ne9hOSP), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Sewa](https://open.spotify.com/artist/3bI77I1wSd5xnAu5WqdkSv), [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr) | [The Well](https://open.spotify.com/album/0bWehUL6mhonc542LlBWVg) | 8:17 |
+| 72 | [The Well](https://open.spotify.com/track/2VQ1jiPB2LEjm1SOWylYWa) | [Campus Rush Music](https://open.spotify.com/artist/4v3pVN73q2WOhM5Ne9hOSP), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Sewa](https://open.spotify.com/artist/5YZNJOxEzikNEQryLfqwxD), [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr) | [The Well](https://open.spotify.com/album/0bWehUL6mhonc542LlBWVg) | 8:17 |
 | 73 | [Comforter Conqueror](https://open.spotify.com/track/2XBpTFIMwkRNKtkkOhF5nK) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Comforter Conqueror](https://open.spotify.com/album/1b4TB8XmX0DO9aXJKiYJOS) | 3:19 |
 | 74 | [dreams](https://open.spotify.com/track/6BYd51QOGm0O15QX6d37ml) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [dreams](https://open.spotify.com/album/6z043nNDyYIOlLYyqsFaZF) | 3:43 |
 | 75 | [With Me](https://open.spotify.com/track/7K4ApFh45VQuqSxBDOBBZm) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [With Me](https://open.spotify.com/album/5me9WLEqP046Pll68VGc8F) | 2:54 |
